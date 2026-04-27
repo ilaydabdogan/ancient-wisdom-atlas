@@ -33,6 +33,8 @@ If rights are unclear, add a `texts/citation-only/` stub instead.
 
 Use `templates/full-text.md`.
 
+Raw downloaded material should go under `imports/raw/`, and intermediate converter output should go under `imports/converted/`. Both directories are ignored by Git. Only reviewed canonical Markdown belongs under `texts/`; use `docs/markdown-cleanliness-standard.md` as the cleanup standard.
+
 Preserve:
 
 - book/chapter/section hierarchy
@@ -76,8 +78,8 @@ After the full text is in place:
 Run:
 
 ```sh
+ruby scripts/check_clean_markdown.rb
 ruby scripts/export_jsonl.rb
 ```
 
 The export writes machine-readable JSONL files under `exports/`.
-

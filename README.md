@@ -30,6 +30,7 @@ ancient-wisdom-atlas/
     corpus-policy.md      Copyright, provenance, and inclusion rules
     methodology.md        How to compare myths without flattening cultures
     roadmap.md            Build phases from corpus to pattern atlas
+  imports/                Ignored raw and intermediate ingestion workspace
   patterns/               Cross-cultural pattern essays
   schemas/                JSON schemas for metadata validation
   scripts/                Export and validation utilities
@@ -69,6 +70,8 @@ ancient-wisdom-atlas/
 
 The repo should contain complete Markdown texts for rights-cleared works. A trademarked title or source name is not the same thing as copyright. If a text is public domain but the source name is trademarked, keep the text only when the source permits it, avoid implying endorsement, and rename modified versions when required.
 
+Raw internet data should never be committed directly as corpus text. Put downloaded HTML/OCR/XML/TXT in ignored `imports/raw/`, use ignored `imports/converted/` for intermediate conversion output, then move only reviewed, clean Markdown into `texts/`. See [docs/markdown-cleanliness-standard.md](docs/markdown-cleanliness-standard.md).
+
 ## First Pattern Seed
 
 Start with [Divine Mother and Holy Child](patterns/divine-mother-holy-child.md), because it naturally connects Egyptian, Christian, goddess, royal, and archetypal mother-child imagery while forcing careful separation between visual similarity, historical transmission, and psychological interpretation.
@@ -93,6 +96,7 @@ Run:
 ruby scripts/validate_metadata.rb
 ruby scripts/check_taxonomy_refs.rb
 ruby scripts/check_first_500_corpus.rb
+ruby scripts/check_clean_markdown.rb
 ruby scripts/export_jsonl.rb
 ```
 
