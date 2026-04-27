@@ -70,7 +70,7 @@ ancient-wisdom-atlas/
 
 The repo should contain complete Markdown texts for rights-cleared works. A trademarked title or source name is not the same thing as copyright. If a text is public domain but the source name is trademarked, keep the text only when the source permits it, avoid implying endorsement, and rename modified versions when required.
 
-Raw internet data should never be committed directly as corpus text. Put downloaded HTML/OCR/XML/TXT in ignored `imports/raw/`, use ignored `imports/converted/` for intermediate conversion output, then move only reviewed, clean Markdown into `texts/`. See [docs/markdown-cleanliness-standard.md](docs/markdown-cleanliness-standard.md).
+Raw internet data should never be treated directly as corpus text. Put downloaded HTML/OCR/XML/TXT in `imports/raw/`, use `imports/converted/` for intermediate conversion output, then move only reviewed, clean Markdown into `texts/`. Raw and intermediate imports may be committed for provenance, but export/training pipelines should read canonical files only. See [docs/markdown-cleanliness-standard.md](docs/markdown-cleanliness-standard.md).
 
 ## First Pattern Seed
 

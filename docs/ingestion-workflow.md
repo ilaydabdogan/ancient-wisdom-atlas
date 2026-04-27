@@ -33,7 +33,7 @@ If rights are unclear, add a `texts/citation-only/` stub instead.
 
 Use `templates/full-text.md`.
 
-Raw downloaded material should go under `imports/raw/`, and intermediate converter output should go under `imports/converted/`. Both directories are ignored by Git. Only reviewed canonical Markdown belongs under `texts/`; use `docs/markdown-cleanliness-standard.md` as the cleanup standard.
+Raw downloaded material should go under `imports/raw/`, and intermediate converter output should go under `imports/converted/`. These files may be committed for provenance and reproducibility. Only reviewed canonical Markdown belongs under `texts/`; use `docs/markdown-cleanliness-standard.md` as the cleanup standard.
 
 Preserve:
 

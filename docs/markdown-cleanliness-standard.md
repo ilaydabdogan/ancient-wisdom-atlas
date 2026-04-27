@@ -7,15 +7,15 @@ This repo can keep raw internet captures for auditability, but only clean, canon
 Use raw and canonical directories for different jobs:
 
 ```text
-imports/raw/            Ignored source captures, not canonical corpus text.
-imports/converted/      Ignored intermediate conversion output.
+imports/raw/            Source captures and raw acquisition artifacts.
+imports/converted/      Intermediate conversion output.
 texts/public-domain/    Clean full texts with verified public-domain rights.
 texts/open-license/     Clean full texts with compatible open licenses.
 texts/permissioned/     Clean full texts included by explicit permission.
 texts/citation-only/    Metadata-only stubs when full text cannot be hosted.
 ```
 
-Raw captures may contain HTML, scripts, navigation, comments, OCR noise, or source packaging. They are evidence, not finished corpus entries. Do not point extraction, motif analysis, or exports at raw captures.
+Raw captures may contain HTML, scripts, navigation, comments, OCR noise, or source packaging. They are evidence, not finished corpus entries. They may be committed for provenance, but do not point extraction, motif analysis, exports, embeddings, or training jobs at raw captures.
 
 Canonical files under `texts/` must be clean Markdown. They should preserve the source's structure and words without carrying over website scaffolding.
 
