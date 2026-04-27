@@ -1,0 +1,455 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/ancient-wisdom-atlas/extraction.schema.json",
+  "title": "Ancient Wisdom Atlas Motif/Symbol Extraction Record",
+  "description": "A structured record for extracting literal motif, symbol, figure, role, and scene observations from source passages before making evidence-linked comparison claims.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "record_id",
+    "source_text_path",
+    "passage_locator",
+    "literal_observations",
+    "figures",
+    "roles",
+    "symbols",
+    "scenes",
+    "candidate_motifs",
+    "comparison_claims",
+    "evidence",
+    "confidence",
+    "reviewer_status"
+  ],
+  "properties": {
+    "record_id": {
+      "type": "string",
+      "description": "Stable extraction record identifier."
+    },
+    "source_text_path": {
+      "type": "string",
+      "description": "Repository-relative path to the source text or source metadata record."
+    },
+    "passage_locator": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["label"],
+      "properties": {
+        "label": {
+          "type": "string",
+          "description": "Human-readable passage reference, such as book/chapter/verse, tablet/line, folio, page, section, or timestamp."
+        },
+        "start": {
+          "type": ["string", "integer"],
+          "description": "Optional start locator when the source has line, page, segment, or timestamp markers."
+        },
+        "end": {
+          "type": ["string", "integer"],
+          "description": "Optional end locator when the source has line, page, segment, or timestamp markers."
+        },
+        "translation": {
+          "type": "string",
+          "description": "Translation, edition, or witness used for this extraction."
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "canonical_text": {
+      "type": "object",
+      "description": "Optional canonical passage text. Keep this literal; do not add interpretation, normalization, or comparison language here.",
+      "additionalProperties": false,
+      "properties": {
+        "quote": {
+          "type": "string",
+          "description": "Exact excerpt when rights and project policy allow."
+        },
+        "summary": {
+          "type": "string",
+          "description": "Neutral paraphrase when quoting is not allowed or not practical."
+        },
+        "language": {
+          "type": "string"
+        },
+        "quote_policy": {
+          "type": "string",
+          "enum": ["quoted", "summarized", "citation_only", "not_applicable"]
+        }
+      }
+    },
+    "literal_observations": {
+      "type": "array",
+      "description": "Observable textual details only. No symbolic, psychological, historical, or comparative interpretation.",
+      "items": {
+        "$ref": "#/$defs/observation"
+      }
+    },
+    "figures": {
+      "type": "array",
+      "description": "Named or described agents appearing in the passage.",
+      "items": {
+        "$ref": "#/$defs/figure"
+      }
+    },
+    "roles": {
+      "type": "array",
+      "description": "Narrative, ritual, social, or symbolic roles assigned in the passage or cautiously inferred from direct evidence.",
+      "items": {
+        "$ref": "#/$defs/role"
+      }
+    },
+    "symbols": {
+      "type": "array",
+      "description": "Objects, beings, places, numbers, gestures, colors, or images that may carry symbolic weight.",
+      "items": {
+        "$ref": "#/$defs/symbol"
+      }
+    },
+    "scenes": {
+      "type": "array",
+      "description": "Discrete actions or settings in the passage.",
+      "items": {
+        "$ref": "#/$defs/scene"
+      }
+    },
+    "candidate_motifs": {
+      "type": "array",
+      "description": "Possible motif classifications proposed from the observations. These are candidates, not settled claims.",
+      "items": {
+        "$ref": "#/$defs/candidate_motif"
+      }
+    },
+    "comparison_claims": {
+      "type": "array",
+      "description": "Claims comparing this passage to another motif, text, artifact, tradition, or pattern. Every claim must link to evidence_refs.",
+      "items": {
+        "$ref": "#/$defs/comparison_claim"
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "description": "Evidence units used by observations, candidate motifs, roles, symbols, scenes, and comparison claims.",
+      "items": {
+        "$ref": "#/$defs/evidence"
+      }
+    },
+    "confidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["extraction", "motif_candidates", "comparison_claims"],
+      "properties": {
+        "extraction": {
+          "$ref": "#/$defs/confidence_level"
+        },
+        "motif_candidates": {
+          "$ref": "#/$defs/confidence_level"
+        },
+        "comparison_claims": {
+          "$ref": "#/$defs/confidence_level"
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "reviewer_status": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status"],
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": ["draft", "needs_review", "reviewed", "revision_requested", "rejected"]
+        },
+        "reviewer": {
+          "type": "string"
+        },
+        "reviewed_at": {
+          "type": "string",
+          "format": "date"
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "extracted_by": {
+      "type": "string"
+    },
+    "extracted_at": {
+      "type": "string",
+      "format": "date"
+    },
+    "notes": {
+      "type": "string",
+      "description": "General extraction notes. Interpretive material belongs in comparison_claims, not canonical_text or literal_observations."
+    }
+  },
+  "$defs": {
+    "id_ref": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9][A-Za-z0-9_.:-]*$"
+    },
+    "confidence_level": {
+      "type": "string",
+      "enum": ["low", "medium", "high", "uncertain"]
+    },
+    "claim_level": {
+      "type": "string",
+      "enum": ["same_motif", "same_function", "historical_contact", "common_inheritance", "independent_recurrence", "archetypal_reading", "visual_similarity", "linguistic_similarity"]
+    },
+    "evidence_ref_list": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/id_ref"
+      },
+      "uniqueItems": true
+    },
+    "observation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "text", "evidence_refs"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/id_ref"
+        },
+        "text": {
+          "type": "string",
+          "description": "Literal observable detail from the passage."
+        },
+        "category": {
+          "type": "string",
+          "enum": ["action", "object", "setting", "speech", "attribute", "relationship", "sequence", "other"]
+        },
+        "evidence_refs": {
+          "$ref": "#/$defs/evidence_ref_list"
+        }
+      }
+    },
+    "figure": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "name_or_label", "evidence_refs"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/id_ref"
+        },
+        "name_or_label": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string",
+          "description": "Literal description, such as kinship, title, species, or visible attribute."
+        },
+        "role_refs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/id_ref"
+          },
+          "uniqueItems": true
+        },
+        "evidence_refs": {
+          "$ref": "#/$defs/evidence_ref_list"
+        }
+      }
+    },
+    "role": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "label", "assigned_to", "evidence_refs"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/id_ref"
+        },
+        "label": {
+          "type": "string"
+        },
+        "assigned_to": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/id_ref"
+          },
+          "uniqueItems": true
+        },
+        "basis": {
+          "type": "string",
+          "description": "Brief evidence-based reason for the role label."
+        },
+        "evidence_refs": {
+          "$ref": "#/$defs/evidence_ref_list"
+        }
+      }
+    },
+    "symbol": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "label", "literal_form", "evidence_refs"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/id_ref"
+        },
+        "label": {
+          "type": "string"
+        },
+        "literal_form": {
+          "type": "string",
+          "description": "What appears in the passage before interpretation."
+        },
+        "associated_figures": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/id_ref"
+          },
+          "uniqueItems": true
+        },
+        "taxonomy_refs": {
+          "type": "array",
+          "description": "Optional links to taxonomy/symbols.yml entries.",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        },
+        "evidence_refs": {
+          "$ref": "#/$defs/evidence_ref_list"
+        }
+      }
+    },
+    "scene": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "label", "summary", "evidence_refs"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/id_ref"
+        },
+        "label": {
+          "type": "string"
+        },
+        "summary": {
+          "type": "string",
+          "description": "Neutral account of what happens in this scene."
+        },
+        "figure_refs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/id_ref"
+          },
+          "uniqueItems": true
+        },
+        "symbol_refs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/id_ref"
+          },
+          "uniqueItems": true
+        },
+        "evidence_refs": {
+          "$ref": "#/$defs/evidence_ref_list"
+        }
+      }
+    },
+    "candidate_motif": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "label", "basis", "evidence_refs", "confidence"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/id_ref"
+        },
+        "label": {
+          "type": "string"
+        },
+        "taxonomy_refs": {
+          "type": "array",
+          "description": "Optional links to taxonomy/motifs.yml entries or external motif indexes.",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        },
+        "basis": {
+          "type": "string",
+          "description": "Evidence-based reason this motif is a candidate."
+        },
+        "evidence_refs": {
+          "$ref": "#/$defs/evidence_ref_list"
+        },
+        "confidence": {
+          "$ref": "#/$defs/confidence_level"
+        },
+        "cautions": {
+          "type": "string"
+        }
+      }
+    },
+    "comparison_claim": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "claim", "claim_level", "target", "evidence_refs", "confidence"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/id_ref"
+        },
+        "claim": {
+          "type": "string",
+          "description": "Careful comparison claim. Must not exceed what the linked evidence supports."
+        },
+        "claim_level": {
+          "$ref": "#/$defs/claim_level"
+        },
+        "target": {
+          "type": "string",
+          "description": "Compared motif, source text, artifact, tradition, pattern, or taxonomy entry."
+        },
+        "evidence_refs": {
+          "$ref": "#/$defs/evidence_ref_list"
+        },
+        "counter_evidence_refs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/id_ref"
+          },
+          "uniqueItems": true
+        },
+        "confidence": {
+          "$ref": "#/$defs/confidence_level"
+        },
+        "limitations": {
+          "type": "string"
+        }
+      }
+    },
+    "evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "type", "locator", "quote_or_summary"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/id_ref"
+        },
+        "type": {
+          "type": "string",
+          "enum": ["quote", "summary", "citation", "translator_note", "secondary_note"]
+        },
+        "locator": {
+          "type": "string",
+          "description": "Specific locator for this evidence unit."
+        },
+        "quote_or_summary": {
+          "type": "string",
+          "description": "Exact quote when allowed, otherwise a neutral summary."
+        },
+        "source_text_path": {
+          "type": "string",
+          "description": "Only needed when evidence comes from a different source than the top-level source_text_path."
+        },
+        "rights_note": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

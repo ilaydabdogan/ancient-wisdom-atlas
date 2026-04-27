@@ -78,8 +78,7 @@ After the full text is in place:
 Run:
 
 ```sh
-ruby scripts/check_clean_markdown.rb
-ruby scripts/export_jsonl.rb
+ruby scripts/check_all.rb
 ```
 
 The export writes machine-readable JSONL files under `exports/`.

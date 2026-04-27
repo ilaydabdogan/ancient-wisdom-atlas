@@ -103,8 +103,15 @@ Validation should be boring and repeatable. Before export or review, run the exi
 ruby scripts/validate_metadata.rb
 ruby scripts/check_taxonomy_refs.rb
 ruby scripts/check_first_500_corpus.rb
+ruby scripts/check_structured_files.rb
 ruby scripts/check_clean_markdown.rb
 ruby scripts/export_jsonl.rb
+```
+
+Or run all checks:
+
+```sh
+ruby scripts/check_all.rb
 ```
 
 Future Markdown linting should reject obvious raw HTML wrappers, undecoded common entities, missing front matter, malformed YAML, duplicate top-level titles, and files under `texts/` that do not match a known rights tier. CI should treat these as corpus quality failures, not stylistic preferences.

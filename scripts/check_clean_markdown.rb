@@ -110,6 +110,8 @@ MARKDOWN_PATHS.each do |path|
       errors << "#{relative}:#{line_number}: undecoded HTML entity"
     end
 
+    next unless relative.start_with?("texts/")
+
     GUTENBERG_PATTERNS.each do |pattern|
       next unless line.match?(pattern)
 

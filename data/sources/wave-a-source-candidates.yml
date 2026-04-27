@@ -1,0 +1,249 @@
+---
+wave: A
+title: Wave A Source Acquisition Candidates
+status: planning
+rights_policy: Candidate source families only. Verify copyright status, edition status, translation rights, license terms, trademark restrictions, cultural permissions, and dataset/training use per work before ingesting full text.
+selection_bias:
+  - Public-domain or openly licensed primary texts before secondary interpretation.
+  - Complete ingestible units with stable citations before fragmentary or heavily mediated sources.
+  - Plain-text or structured text sources before scan-only sources.
+  - Living-tradition and culturally sensitive materials remain rights and context review candidates even when older publications appear public-domain.
+
+candidate_source_families:
+  - id: wave_a.project_gutenberg
+    source_family: Project Gutenberg
+    source_type: digital_library
+    candidate_rights: conditional
+    acquisition_lane: public_domain_translation_first
+    likely_formats:
+      - plain_text
+      - html
+      - epub
+    target_tradition_clusters:
+      - greek_roman
+      - norse_celtic
+      - hindu_jain_indian_philosophical
+      - buddhist
+      - jewish_christian
+    candidate_work_types:
+      - public-domain English translations of classical epics and drama
+      - public-domain comparative mythology and folklore editions when primary enough for corpus use
+      - public-domain translations of selected religious and philosophical texts
+    strengths:
+      - easy full-text acquisition
+      - stable bibliographic metadata
+      - useful for first Markdown conversion tests
+    review_requirements:
+      - Verify individual work copyright and translator or editor death/publication dates.
+      - Track Project Gutenberg source terms and trademark restrictions separately from copyright.
+      - Remove or retain distributor boilerplate only according to the applicable terms and repo cleanup policy.
+    ingestion_priority: 1
+    notes: Best first lane for fast ingestion of rights-reviewable public-domain translations.
+
+  - id: wave_a.wikisource
+    source_family: Wikisource
+    source_type: digital_library
+    candidate_rights: conditional
+    acquisition_lane: public_domain_or_open_license_text
+    likely_formats:
+      - wiki_text
+      - html
+      - plain_text_export
+    target_tradition_clusters:
+      - jewish_christian
+      - greek_roman
+      - norse_celtic
+      - hindu_jain_indian_philosophical
+      - daoist_confucian_shinto
+    candidate_work_types:
+      - public-domain translations with page scans
+      - source-backed transcriptions
+      - older reference works useful for citations and provenance
+    strengths:
+      - page-level provenance is often available
+      - useful for cross-checking edition details
+      - broad coverage across Wave A and Wave B traditions
+    review_requirements:
+      - Confirm page-level license and attribution requirements.
+      - Confirm whether the text is public domain or under a license with conditions.
+      - Prefer works with scan-backed transcription history.
+    ingestion_priority: 1
+    notes: Good for early ingestion when the exact edition and license can be recorded.
+
+  - id: wave_a.internet_sacred_text_archive
+    source_family: Internet Sacred Text Archive
+    source_type: digital_library
+    candidate_rights: rights_review_required
+    acquisition_lane: discovery_and_public_domain_candidate
+    likely_formats:
+      - html
+      - plain_text
+    target_tradition_clusters:
+      - mesopotamian
+      - egyptian
+      - jewish_christian
+      - hindu_jain_indian_philosophical
+      - buddhist
+      - daoist_confucian_shinto
+      - islamic_persian_sufi
+      - norse_celtic
+    candidate_work_types:
+      - public-domain translations of sacred and mythological texts
+      - folklore and esoteric primary-source collections
+      - candidate editions for comparison against scan sources
+    strengths:
+      - broad source discovery surface
+      - useful for identifying older editions and translators
+      - many texts are already segmented for web reading
+    review_requirements:
+      - Verify every work and edition independently; do not assume site-level clearance.
+      - Confirm whether introductions, notes, and formatting are separable from source text.
+      - Check whether the source page has additional terms affecting reuse.
+    ingestion_priority: 2
+    notes: Use as a discovery index and candidate text source, with strict per-work rights review.
+
+  - id: wave_a.open_greek_and_latin_perseus
+    source_family: Open Greek and Latin / Perseus
+    source_type: classical_corpus
+    candidate_rights: conditional
+    acquisition_lane: original_language_corpus
+    likely_formats:
+      - tei_xml
+      - cts_urns
+      - html
+      - repository_text
+    target_tradition_clusters:
+      - greek_roman
+      - jewish_christian
+    candidate_work_types:
+      - Greek and Latin originals
+      - public-domain editions of classical works
+      - aligned or citable source passages where license permits
+    strengths:
+      - strong fit for original-language preservation
+      - structured identifiers and canonical references
+      - useful for pairing originals with rights-cleared translations
+    review_requirements:
+      - Verify repository-specific licenses, edition status, and attribution requirements.
+      - Separate ancient source text from modern apparatus, notes, and translations.
+      - Preserve canonical references during Markdown conversion.
+    ingestion_priority: 2
+    notes: Bring in after early translation tests, especially for Greek and Latin works in the first 500 plan.
+
+  - id: wave_a.biblical_public_domain_candidates
+    source_family: Sefaria-like and public-domain biblical sources
+    source_type: scriptural_corpus
+    candidate_rights: rights_review_required
+    acquisition_lane: biblical_primary_text_review
+    likely_formats:
+      - structured_json
+      - html
+      - plain_text
+      - xml
+    target_tradition_clusters:
+      - jewish_christian
+    candidate_work_types:
+      - Hebrew Bible source texts
+      - New Testament source texts
+      - public-domain Bible translations
+      - Second Temple and apocryphal texts where edition rights allow
+    strengths:
+      - central to Wave A coverage
+      - natural book and chapter segmentation
+      - many public-domain translation candidates exist
+    review_requirements:
+      - Treat source platforms, base texts, translations, commentaries, and metadata as separately licensed layers.
+      - Verify whether modern platform APIs or datasets permit redistribution and training use.
+      - Prefer clearly public-domain translations or original-language texts with explicit compatible terms.
+      - Add living-tradition context notes for Jewish and Christian canonical materials.
+    ingestion_priority: 1
+    notes: High-value lane, but do not infer clearance from the age of the underlying scripture.
+
+  - id: wave_a.suttacentral_like_buddhist_candidates
+    source_family: SuttaCentral-like Buddhist source candidates
+    source_type: scriptural_corpus
+    candidate_rights: rights_review_required
+    acquisition_lane: buddhist_primary_text_review
+    likely_formats:
+      - structured_json
+      - html
+      - xml
+      - plain_text
+    target_tradition_clusters:
+      - buddhist
+    candidate_work_types:
+      - Pali canon originals
+      - early Buddhist discourses
+      - public-domain translations where available
+      - open-license translations where terms fit the corpus policy
+    strengths:
+      - strong canonical structure
+      - useful original-language and translation pairing opportunities
+      - good candidate set for controlled ingestion units
+    review_requirements:
+      - Verify text, translation, API, and repository licenses separately.
+      - Distinguish ancient canonical text from modern translation and annotation.
+      - Include cultural context review before large-scale ingestion of living-tradition material.
+    ingestion_priority: 3
+    notes: Valuable Wave A family, but sequence after lower-risk public-domain translation lanes unless rights are explicit.
+
+  - id: wave_a.chinese_text_project_like_candidates
+    source_family: Chinese Text Project-like source candidates
+    source_type: classical_corpus
+    candidate_rights: rights_review_required
+    acquisition_lane: classical_chinese_primary_text_review
+    likely_formats:
+      - html
+      - structured_text
+      - api_or_export
+    target_tradition_clusters:
+      - daoist_confucian_shinto
+    candidate_work_types:
+      - classical Chinese originals
+      - Daoist and Confucian primary texts
+      - public-domain translations where independently verified
+    strengths:
+      - strong fit for original-language preservation
+      - supports canonical passage-level citation
+      - useful for later Wave B expansion
+    review_requirements:
+      - Verify platform terms, database rights, and edition provenance before reuse.
+      - Treat original Chinese text, punctuation, translation, and metadata as separate rights layers.
+      - Use citation-only planning entries if rights or platform terms are unclear.
+    ingestion_priority: 4
+    notes: Good original-language candidate family; keep full-text ingestion gated on platform and edition review.
+
+  - id: wave_a.internet_archive_hathitrust_scans
+    source_family: Internet Archive / HathiTrust scan sources
+    source_type: scan_repository
+    candidate_rights: rights_review_required
+    acquisition_lane: scan_and_ocr_provenance
+    likely_formats:
+      - scan_pdf
+      - page_images
+      - ocr_text
+      - metadata_records
+    target_tradition_clusters:
+      - mesopotamian
+      - egyptian
+      - greek_roman
+      - jewish_christian
+      - hindu_jain_indian_philosophical
+      - buddhist
+      - daoist_confucian_shinto
+      - islamic_persian_sufi
+      - norse_celtic
+    candidate_work_types:
+      - scan-backed public-domain editions
+      - translator and edition verification records
+      - OCR candidates for manual cleanup
+    strengths:
+      - best provenance lane for exact editions
+      - useful for resolving translator, publication year, and edition details
+      - can support corrected OCR workflows
+    review_requirements:
+      - Verify item-level rights and access status before using scans or OCR.
+      - Distinguish public-domain scans from restricted access, search-only, or non-consumptive feature datasets.
+      - Record scan URL, edition, OCR correction mode, and omissions in text front matter.
+    ingestion_priority: 2
+    notes: Use scans to verify and backstop text acquisition; ingest OCR only after rights and cleanup review.

@@ -88,6 +88,14 @@ See [docs/first-500-corpus.md](docs/first-500-corpus.md) for the first large col
 
 See [docs/pattern-discovery-logic.md](docs/pattern-discovery-logic.md) for how themes, symbols, motifs, and comparisons should be extracted and scored.
 
+## Scale-Up Workflow
+
+- [docs/source-prioritization.md](docs/source-prioritization.md): where to acquire first texts and in what order
+- [docs/ingestion-manifest.md](docs/ingestion-manifest.md): how to track raw imports, converted drafts, checksums, rights, and canonical outputs
+- [docs/conversion-tooling.md](docs/conversion-tooling.md): how to create reviewed Markdown drafts from raw plain text
+- [docs/extraction-protocol.md](docs/extraction-protocol.md): how AI/humans should extract symbols, motifs, scenes, and comparison claims
+- [docs/ci.md](docs/ci.md): what GitHub Actions checks on every push
+
 ## Machine Export
 
 Run:
@@ -96,8 +104,15 @@ Run:
 ruby scripts/validate_metadata.rb
 ruby scripts/check_taxonomy_refs.rb
 ruby scripts/check_first_500_corpus.rb
+ruby scripts/check_structured_files.rb
 ruby scripts/check_clean_markdown.rb
 ruby scripts/export_jsonl.rb
+```
+
+Or run the whole local check suite:
+
+```sh
+ruby scripts/check_all.rb
 ```
 
 The exporter writes JSONL files into `exports/`, which is ignored by Git by default.

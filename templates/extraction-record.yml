@@ -1,0 +1,102 @@
+record_id:
+source_text_path:
+passage_locator:
+  label:
+  start:
+  end:
+  translation:
+  notes:
+
+# Optional. Keep literal: no symbolic, historical, psychological, or comparative interpretation.
+canonical_text:
+  quote:
+  summary:
+  language:
+  quote_policy: summarized
+
+literal_observations:
+  - id: obs:1
+    text:
+    category:
+    evidence_refs:
+      - ev:1
+
+figures:
+  - id: fig:1
+    name_or_label:
+    description:
+    role_refs: []
+    evidence_refs:
+      - ev:1
+
+roles:
+  - id: role:1
+    label:
+    assigned_to:
+      - fig:1
+    basis:
+    evidence_refs:
+      - ev:1
+
+symbols:
+  - id: sym:1
+    label:
+    literal_form:
+    associated_figures: []
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:1
+
+scenes:
+  - id: scene:1
+    label:
+    summary:
+    figure_refs: []
+    symbol_refs: []
+    evidence_refs:
+      - ev:1
+
+candidate_motifs:
+  - id: motif:1
+    label:
+    taxonomy_refs: []
+    basis:
+    evidence_refs:
+      - ev:1
+    confidence: uncertain
+    cautions:
+
+comparison_claims:
+  - id: claim:1
+    claim:
+    claim_level:
+    target:
+    evidence_refs:
+      - ev:1
+    counter_evidence_refs: []
+    confidence: uncertain
+    limitations:
+
+evidence:
+  - id: ev:1
+    type: summary
+    locator:
+    quote_or_summary:
+    source_text_path:
+    rights_note:
+
+confidence:
+  extraction: uncertain
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes:
+
+reviewer_status:
+  status: draft
+  reviewer:
+  reviewed_at:
+  notes:
+
+extracted_by:
+extracted_at:
+notes:
