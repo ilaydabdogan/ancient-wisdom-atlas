@@ -1,0 +1,157 @@
+---
+record_id: extraction.leviticus.sabbath_jubilee
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+passage_locator:
+  label: Leviticus 25:2-13
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: The land shall keep a Sabbath to Yahweh... proclaim liberty throughout the
+    land to all its inhabitants.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The land is commanded to keep a Sabbath to Yahweh.
+  category: command
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Six years of sowing and pruning are followed by a seventh year of land rest.
+  category: temporal_pattern
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Seven Sabbaths of years are counted as forty-nine years.
+  category: temporal_pattern
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A trumpet is sounded on the Day of Atonement.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The fiftieth year is made holy and proclaimed as liberty and return.
+  category: command
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: Speaker who gives the land Sabbath and Jubilee commands.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: children of Israel
+  description: Community addressed before entering the land.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: land_sabbath
+  literal_form: Sabbath of solemn rest for the land
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: seventh_year
+  literal_form: seventh year
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: seven_sabbaths_of_years
+  literal_form: seven Sabbaths of years
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: trumpet
+  literal_form: loud trumpet
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: jubilee
+  literal_form: jubilee
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Leviticus 25:2-13
+  summary: The land observes a seventh-year rest, seven cycles of years are counted,
+    and the fiftieth year is made holy as Jubilee with liberty and return.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: sabbath_cycle
+  taxonomy_refs:
+  - sabbath_cycle
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:2
+  label: jubilee
+  taxonomy_refs:
+  - jubilee
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:3
+  label: ritualized_release
+  taxonomy_refs:
+  - ritualized_release
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+comparison_claims:
+- id: claim:1
+  claim: The passage organizes rest, release, and return through seven-year and fiftieth-year
+    ritual cycles.
+  claim_level: same_motif
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Leviticus 25:2-13
+  quote_or_summary: The land shall keep a Sabbath to Yahweh... proclaim liberty throughout
+    the land to all its inhabitants.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Initial data seed for Leviticus.

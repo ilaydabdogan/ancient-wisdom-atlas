@@ -1,0 +1,167 @@
+---
+record_id: extraction.numbers.wilderness_wandering_judgment
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+passage_locator:
+  label: Numbers 14:1-35
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: Only don't rebel against Yahweh... Your children shall be wanderers in the
+    wilderness forty years.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The congregation murmurs against Moses and Aaron after the spy report.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Joshua and Caleb tell the congregation not to rebel or fear.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Yahweh's glory appears in the Tent of Meeting.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The adults who complained are told they will die in the wilderness.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The children are said to be wanderers in the wilderness for forty years.
+  category: speech
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: children of Israel
+  description: The congregation that complains and fears entering the land.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Moses
+  description: Intercedes after Yahweh speaks of judgment.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Joshua and Caleb
+  description: Spies who urge the congregation not to rebel.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Yahweh
+  description: Announces pardon and judgment.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: wilderness
+  literal_form: wilderness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: forty years
+  literal_form: forty years
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: promised land
+  literal_form: land
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Numbers 14:1-35
+  summary: The congregation resists entering the land, Moses intercedes, and Yahweh
+    announces that the complaining generation will die while their children wander
+    forty years.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: wilderness_wandering
+  taxonomy_refs:
+  - departure
+  basis: The passage sends the community back into the wilderness for a prolonged
+    journey.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:2
+  label: divine_judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: Yahweh announces consequences for rebellion and complaint.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:3
+  label: threshold_refusal
+  taxonomy_refs:
+  - initiation
+  basis: The people stand at the threshold of the land but refuse because of fear.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: Motif label is tentative and based only on this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents wilderness wandering as a consequence of communal
+    refusal and complaint at the border of the land.
+  claim_level: same_function
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Numbers 14:1-35
+  quote_or_summary: Only don't rebel against Yahweh... Your children shall be
+    wanderers in the wilderness forty years.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Initial data seed for Numbers; source text is public domain.

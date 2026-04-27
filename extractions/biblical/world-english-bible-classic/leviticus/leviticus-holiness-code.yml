@@ -1,0 +1,157 @@
+---
+record_id: extraction.leviticus.holiness_code
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+passage_locator:
+  label: Leviticus 19:2-18, 30-37
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: You shall be holy; for I, Yahweh your God, am holy... you shall love your
+    neighbor as yourself.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The congregation is commanded to be holy because Yahweh is holy.
+  category: command
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage commands Sabbath keeping and reverence for the sanctuary.
+  category: command
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Harvest edges and gleanings are left for the poor and the foreigner.
+  category: command
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage prohibits theft, deceit, oppression, unjust judgment, vengeance,
+    and grudges.
+  category: prohibition
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Neighbor love and fair measures are commanded.
+  category: command
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: Holy divine speaker named as the basis for the commands.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: children of Israel
+  description: Congregation addressed by the holiness commands.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: holiness
+  literal_form: holy
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sabbath
+  literal_form: Sabbaths
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: gleanings
+  literal_form: gleanings
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: neighbor_love
+  literal_form: love your neighbor as yourself
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: just_measures
+  literal_form: just balances, just weights
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Leviticus 19:2-18, 30-37
+  summary: Holiness is expressed through worship boundaries, social obligations, care
+    for vulnerable people, neighbor love, and just measures.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: holiness_code
+  taxonomy_refs:
+  - holiness_code
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:2
+  label: ethical_command
+  taxonomy_refs:
+  - ethical_command
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:3
+  label: social_care
+  taxonomy_refs:
+  - social_care
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+comparison_claims:
+- id: claim:1
+  claim: The passage frames holiness as a pattern of ritual reverence and social conduct.
+  claim_level: same_motif
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Leviticus 19:2-18, 30-37
+  quote_or_summary: You shall be holy; for I, Yahweh your God, am holy... you shall
+    love your neighbor as yourself.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Initial data seed for Leviticus.

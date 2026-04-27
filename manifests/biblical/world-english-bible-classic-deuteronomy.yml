@@ -1,0 +1,2182 @@
+---
+manifest_version: '1'
+batch_id: web-classic-deuteronomy-seed
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.web_deuteronomy_01
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 1
+  source_url: https://ebible.org/eng-web/DEU01.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU01.htm
+    checksum:
+      algorithm: sha256
+      value: 91179d2181482db0966cd286bde9a21984f7357d2472d7d4a495ebb68eefddfd
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_02
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 2
+  source_url: https://ebible.org/eng-web/DEU02.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU02.htm
+    checksum:
+      algorithm: sha256
+      value: 978fa27a6c2ada7cc02c11e34d5b3dfe0f588da7b46f9dbe322aeb44473cc3d4
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_03
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 3
+  source_url: https://ebible.org/eng-web/DEU03.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU03.htm
+    checksum:
+      algorithm: sha256
+      value: d64e961e98b7ae49055f958b632ebc65e1860734375a1e8b3f60487997d0c0ac
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_04
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 4
+  source_url: https://ebible.org/eng-web/DEU04.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU04.htm
+    checksum:
+      algorithm: sha256
+      value: a2f1183c7e70faad8990260348f4a7a214de0c2a6ec7dc6bad0626caaca106aa
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_05
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 5
+  source_url: https://ebible.org/eng-web/DEU05.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU05.htm
+    checksum:
+      algorithm: sha256
+      value: 5945048ab1a1bce2e51cc9cd35616272b90ca8e2f17740bdee0819e0d1655caa
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_06
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 6
+  source_url: https://ebible.org/eng-web/DEU06.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU06.htm
+    checksum:
+      algorithm: sha256
+      value: d4f09101074171089c8758237efc8b43146848abd9e19269bf380366070e725e
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_07
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 7
+  source_url: https://ebible.org/eng-web/DEU07.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU07.htm
+    checksum:
+      algorithm: sha256
+      value: 02507b4ab648f72b2ba0ff07de9e1be405225fb3dee41aa6ccfb3ecabae9fed9
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_08
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 8
+  source_url: https://ebible.org/eng-web/DEU08.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU08.htm
+    checksum:
+      algorithm: sha256
+      value: ade5e720550faf53739b5069c8c33bcc7f51f07b341a62bae36c5eba48511c1d
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_09
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 9
+  source_url: https://ebible.org/eng-web/DEU09.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU09.htm
+    checksum:
+      algorithm: sha256
+      value: ad0b5a0cc33c92944c0d16eab84c19f0e8a546c67c678135697c1cbb3f57156f
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_10
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 10
+  source_url: https://ebible.org/eng-web/DEU10.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU10.htm
+    checksum:
+      algorithm: sha256
+      value: 7d3b93ea49e9e208b53388c7abec8206b591687790ff0e448b4e04f16b00a852
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_11
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 11
+  source_url: https://ebible.org/eng-web/DEU11.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU11.htm
+    checksum:
+      algorithm: sha256
+      value: 135298d120232efdf5e7a65e4e4d5ded4922c4c22984a6258cc018931eef8ead
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_12
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 12
+  source_url: https://ebible.org/eng-web/DEU12.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU12.htm
+    checksum:
+      algorithm: sha256
+      value: aa66583c6d8621b8b86c8f5ffb2c175a0c215d721480abc5364c83bdd1caa118
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_13
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 13
+  source_url: https://ebible.org/eng-web/DEU13.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU13.htm
+    checksum:
+      algorithm: sha256
+      value: 15215e3eed67c896f189eb545f3db681d7665ff30ad40f48fe090a0c623e44b6
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_14
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 14
+  source_url: https://ebible.org/eng-web/DEU14.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU14.htm
+    checksum:
+      algorithm: sha256
+      value: 32760dd69f5f4e6eeffc8c41ad1679da38054e42c87a3a81bc8bb65489689949
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_15
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 15
+  source_url: https://ebible.org/eng-web/DEU15.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU15.htm
+    checksum:
+      algorithm: sha256
+      value: 7ebadd2c52d739e309959fd16d0a827045d8e97173f94301f07b32e224f8e940
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_16
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 16
+  source_url: https://ebible.org/eng-web/DEU16.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU16.htm
+    checksum:
+      algorithm: sha256
+      value: 2fcb2c2212630fa64d3bd6aedc7f2f4f75c97aaf794843e70af57b14df701bc4
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_17
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 17
+  source_url: https://ebible.org/eng-web/DEU17.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU17.htm
+    checksum:
+      algorithm: sha256
+      value: 74918e80a8cbbae141b296553856867f102bc54fa6a02181f0d1e0067f407064
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_18
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 18
+  source_url: https://ebible.org/eng-web/DEU18.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU18.htm
+    checksum:
+      algorithm: sha256
+      value: 020d70edf3aa36d80d1d31934928ac10ffc4c76b46b5b1d896235199f39a78d8
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_19
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 19
+  source_url: https://ebible.org/eng-web/DEU19.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU19.htm
+    checksum:
+      algorithm: sha256
+      value: b735c059dfe828e74073347e0850bc0e053de0c69906690bfbd776fb7baacd55
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_20
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 20
+  source_url: https://ebible.org/eng-web/DEU20.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU20.htm
+    checksum:
+      algorithm: sha256
+      value: 22c8744b118e07bc35d660eadab3f9af2d78bd52f9fa48c8108528f9c03f32cd
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_21
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 21
+  source_url: https://ebible.org/eng-web/DEU21.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU21.htm
+    checksum:
+      algorithm: sha256
+      value: 25a71810f1fa368967490702104d6c17212deb2a14a434baf79ff3da95f6d2a0
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_22
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 22
+  source_url: https://ebible.org/eng-web/DEU22.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU22.htm
+    checksum:
+      algorithm: sha256
+      value: f1a282542165402964634383bf25e20b09e190247f37691bf14c100dd1bf71f2
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_23
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 23
+  source_url: https://ebible.org/eng-web/DEU23.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU23.htm
+    checksum:
+      algorithm: sha256
+      value: 190bfd25fabb21fed96cd8c6b10ecc22ac513b61ae4607a948bd8849ec9fcce6
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_24
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 24
+  source_url: https://ebible.org/eng-web/DEU24.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU24.htm
+    checksum:
+      algorithm: sha256
+      value: a9f6ca66b0a226d2da2694e7bb92aa195850b7a9feceee64ad6ca084bb99e218
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_25
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 25
+  source_url: https://ebible.org/eng-web/DEU25.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU25.htm
+    checksum:
+      algorithm: sha256
+      value: c438a99f75ebdc245f1b67f66143596356cbac959939535d07f3687e9ec4c3c3
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_26
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 26
+  source_url: https://ebible.org/eng-web/DEU26.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU26.htm
+    checksum:
+      algorithm: sha256
+      value: d2f43f2cb170e5e429194217c6fbc03686e5ddaea41c094867dd8141231f4b9f
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_27
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 27
+  source_url: https://ebible.org/eng-web/DEU27.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU27.htm
+    checksum:
+      algorithm: sha256
+      value: 613554aea88c759508f2b78ac758f48dc77657fc1fb085d07e77dd1d61c9c41e
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_28
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 28
+  source_url: https://ebible.org/eng-web/DEU28.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU28.htm
+    checksum:
+      algorithm: sha256
+      value: 7fa3ecb08dfa3139da16ac0a86a7a954d5548412a7cc7e3313269472f9806a4a
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_29
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 29
+  source_url: https://ebible.org/eng-web/DEU29.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU29.htm
+    checksum:
+      algorithm: sha256
+      value: f5c06e037f30e4879497ce2f66b7361a6a0cf42f8521cd543d2058f1dbefbf49
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_30
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 30
+  source_url: https://ebible.org/eng-web/DEU30.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU30.htm
+    checksum:
+      algorithm: sha256
+      value: 0265b8ef9ad6c3f762c805caf57ee8d35510ddb499cc475c010edcb062a6c812
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_31
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 31
+  source_url: https://ebible.org/eng-web/DEU31.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU31.htm
+    checksum:
+      algorithm: sha256
+      value: 5c3c40e1d1b93188bf039cc067858acd5f75f03722e7880fe887b346756a4797
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_32
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 32
+  source_url: https://ebible.org/eng-web/DEU32.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU32.htm
+    checksum:
+      algorithm: sha256
+      value: ca893bed583be62b71ac2708800b26bee4bc8853636356413c869f34cb7dab00
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_33
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 33
+  source_url: https://ebible.org/eng-web/DEU33.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU33.htm
+    checksum:
+      algorithm: sha256
+      value: a44926a091788786374fab6158d2362f3f3b37cf9eeb78d01814d106a96151a1
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_deuteronomy_34
+  work_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy 34
+  source_url: https://ebible.org/eng-web/DEU34.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/deuteronomy/DEU34.htm
+    checksum:
+      algorithm: sha256
+      value: 43d973a61daee872d80102c93955c79adc0e41f18dfdc167ae96bff587c9d48f
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: 13bf6f38e8a355e75b9bfd68d5628d6df9f03ff0e1ea416d5c243391d4584204
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    checksum:
+      algorithm: sha256
+      value: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb DEU
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.

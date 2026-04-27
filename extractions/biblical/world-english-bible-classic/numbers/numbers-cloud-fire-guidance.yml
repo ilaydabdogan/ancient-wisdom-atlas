@@ -1,0 +1,137 @@
+---
+record_id: extraction.numbers.cloud_fire_guidance
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+passage_locator:
+  label: Numbers 9:15-23
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: The cloud covered the tabernacle... At the commandment of Yahweh they
+    encamped, and at the commandment of Yahweh they traveled.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A cloud covers the tabernacle after it is raised.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At evening the cloud has the appearance of fire until morning.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Israel travels when the cloud is taken up.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Israel remains encamped while the cloud remains over the tabernacle.
+  category: sequence
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: Gives the commandment by which Israel travels and encamps.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: children of Israel
+  description: The traveling and encamping community.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: cloud
+  literal_form: cloud
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire
+  literal_form: appearance of fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: tabernacle
+  literal_form: tabernacle
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Numbers 9:15-23
+  summary: A cloud and nighttime appearance of fire remain over the tabernacle and
+    regulate when Israel camps or travels.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: cloud_fire_guidance
+  taxonomy_refs: []
+  basis: The passage presents cloud and fire as visible signs coordinating movement
+    and rest.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:2
+  label: sacred_center
+  taxonomy_refs:
+  - world_center
+  basis: The tabernacle is the focal place over which the sign rests.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: Motif label is tentative and based only on this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage links divine presence imagery with the practical timing of
+    communal journeying and encampment.
+  claim_level: same_function
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Numbers 9:15-23
+  quote_or_summary: The cloud covered the tabernacle... At the commandment of Yahweh
+    they encamped, and at the commandment of Yahweh they traveled.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Initial data seed for Numbers; source text is public domain.

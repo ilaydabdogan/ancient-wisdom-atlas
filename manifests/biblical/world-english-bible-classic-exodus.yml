@@ -1,0 +1,2566 @@
+---
+manifest_version: '1'
+batch_id: web-classic-exodus-seed
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.web_exodus_01
+  work_id: biblical.exodus.web_classic
+  title: Exodus 1
+  source_url: https://ebible.org/eng-web/EXO01.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO01.htm
+    checksum:
+      algorithm: sha256
+      value: 3ee38da26fc8dfe9f2a4501a4e8a3889f828d10758a4d7253dba09c1a0e70ed6
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_02
+  work_id: biblical.exodus.web_classic
+  title: Exodus 2
+  source_url: https://ebible.org/eng-web/EXO02.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO02.htm
+    checksum:
+      algorithm: sha256
+      value: a95c97ab306195eae1af5891473296478ba62bb263b6380ce1814443842663bd
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_03
+  work_id: biblical.exodus.web_classic
+  title: Exodus 3
+  source_url: https://ebible.org/eng-web/EXO03.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO03.htm
+    checksum:
+      algorithm: sha256
+      value: '089d20499e01d05b0f4e8410f25a3a5c14b91b5a1cd45b82ae9bdfdcc1f24207'
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_04
+  work_id: biblical.exodus.web_classic
+  title: Exodus 4
+  source_url: https://ebible.org/eng-web/EXO04.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO04.htm
+    checksum:
+      algorithm: sha256
+      value: 4bf3ad43b22c7f5d2f8b8b06c9e3ac37a250d48282f6afa19d90397c598062a5
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_05
+  work_id: biblical.exodus.web_classic
+  title: Exodus 5
+  source_url: https://ebible.org/eng-web/EXO05.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO05.htm
+    checksum:
+      algorithm: sha256
+      value: 3d4f5491b86576a68929d54ecd6584c4ef2854dbc95f93784289a44eb07c43e8
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_06
+  work_id: biblical.exodus.web_classic
+  title: Exodus 6
+  source_url: https://ebible.org/eng-web/EXO06.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO06.htm
+    checksum:
+      algorithm: sha256
+      value: da1298d9c13820fd4656e521f5f8928e6067366c447a05a4918c179ea75dc610
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_07
+  work_id: biblical.exodus.web_classic
+  title: Exodus 7
+  source_url: https://ebible.org/eng-web/EXO07.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO07.htm
+    checksum:
+      algorithm: sha256
+      value: 516b6a04c5c88fbd7144cda59df306cdb0c77ff220308a4eb199e68007a11047
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_08
+  work_id: biblical.exodus.web_classic
+  title: Exodus 8
+  source_url: https://ebible.org/eng-web/EXO08.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO08.htm
+    checksum:
+      algorithm: sha256
+      value: 9d7efbb9fede6fe8c954d5395d63a0de925841ae3ce42addcf400822a170b2bf
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_09
+  work_id: biblical.exodus.web_classic
+  title: Exodus 9
+  source_url: https://ebible.org/eng-web/EXO09.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO09.htm
+    checksum:
+      algorithm: sha256
+      value: 17bb670ef0a611dc0ed62d58ba1339bac2b3b7c50f1e29767c4b306f33a537c4
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_10
+  work_id: biblical.exodus.web_classic
+  title: Exodus 10
+  source_url: https://ebible.org/eng-web/EXO10.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO10.htm
+    checksum:
+      algorithm: sha256
+      value: ac54e89483883bc93639e5b97db39e1bcfccf52380a254153d780c5f336b97b8
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_11
+  work_id: biblical.exodus.web_classic
+  title: Exodus 11
+  source_url: https://ebible.org/eng-web/EXO11.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO11.htm
+    checksum:
+      algorithm: sha256
+      value: ca6d8e71086089fdafabf5dd4fae02daf24634d144926dc34e4cf5223d7d5053
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_12
+  work_id: biblical.exodus.web_classic
+  title: Exodus 12
+  source_url: https://ebible.org/eng-web/EXO12.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO12.htm
+    checksum:
+      algorithm: sha256
+      value: 9dea9ef2963a3893a49b2094c3ed691c85590ba2336e84b23b54ed4ff0725d15
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_13
+  work_id: biblical.exodus.web_classic
+  title: Exodus 13
+  source_url: https://ebible.org/eng-web/EXO13.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO13.htm
+    checksum:
+      algorithm: sha256
+      value: c49bf1761f25c82183eca74be86c8b289b8885f8a4431853ea7c5c35d6c5d45e
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_14
+  work_id: biblical.exodus.web_classic
+  title: Exodus 14
+  source_url: https://ebible.org/eng-web/EXO14.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO14.htm
+    checksum:
+      algorithm: sha256
+      value: 8db83b686cfab413afc7df859271b5b63d02e8c0f7429f13bc324c37fcd1b23a
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_15
+  work_id: biblical.exodus.web_classic
+  title: Exodus 15
+  source_url: https://ebible.org/eng-web/EXO15.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO15.htm
+    checksum:
+      algorithm: sha256
+      value: 427a9394591e632fa812bf8ab0ea4ab3c5776f552092d2c9e6598d73a7a9f01a
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_16
+  work_id: biblical.exodus.web_classic
+  title: Exodus 16
+  source_url: https://ebible.org/eng-web/EXO16.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO16.htm
+    checksum:
+      algorithm: sha256
+      value: 6efe42cde29e52bd488bac5aa3a1eb923a8191b7206d730871efcc6f25ba2d5e
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_17
+  work_id: biblical.exodus.web_classic
+  title: Exodus 17
+  source_url: https://ebible.org/eng-web/EXO17.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO17.htm
+    checksum:
+      algorithm: sha256
+      value: 69c2db2c124ed9b496dbb38d45aebbda98911c50864dd1adde91c05981cbc4c2
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_18
+  work_id: biblical.exodus.web_classic
+  title: Exodus 18
+  source_url: https://ebible.org/eng-web/EXO18.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO18.htm
+    checksum:
+      algorithm: sha256
+      value: 24317d5ff8078f48885c34e568074c0635ce3c9a669f74e4b9152f038b6c6361
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_19
+  work_id: biblical.exodus.web_classic
+  title: Exodus 19
+  source_url: https://ebible.org/eng-web/EXO19.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO19.htm
+    checksum:
+      algorithm: sha256
+      value: eed1f8769af620de78b69875a2cf1a6db01cd5ed36dd607bf904b1fa486c5f78
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_20
+  work_id: biblical.exodus.web_classic
+  title: Exodus 20
+  source_url: https://ebible.org/eng-web/EXO20.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO20.htm
+    checksum:
+      algorithm: sha256
+      value: 439c1c8af91d6c5bdf0c603e13088c67c14d45f5d491c7a922b680ca7b42c3dd
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_21
+  work_id: biblical.exodus.web_classic
+  title: Exodus 21
+  source_url: https://ebible.org/eng-web/EXO21.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO21.htm
+    checksum:
+      algorithm: sha256
+      value: c604c966e34824bc8c0514f29f14228d1e543addca385a1b7dc7f2e61940b0a1
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_22
+  work_id: biblical.exodus.web_classic
+  title: Exodus 22
+  source_url: https://ebible.org/eng-web/EXO22.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO22.htm
+    checksum:
+      algorithm: sha256
+      value: 41fd043e8d155bba421c398f65f9e7b3939a45b9de044c947527af622991d225
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_23
+  work_id: biblical.exodus.web_classic
+  title: Exodus 23
+  source_url: https://ebible.org/eng-web/EXO23.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO23.htm
+    checksum:
+      algorithm: sha256
+      value: 798a87f134e2d14b56d472cd8c5b76eb90f01829558b647a5192787df9f58fe4
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_24
+  work_id: biblical.exodus.web_classic
+  title: Exodus 24
+  source_url: https://ebible.org/eng-web/EXO24.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO24.htm
+    checksum:
+      algorithm: sha256
+      value: 27a4699f902e9215b5e3341a9b2c060548bf68529bac06759709abb3129740cd
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_25
+  work_id: biblical.exodus.web_classic
+  title: Exodus 25
+  source_url: https://ebible.org/eng-web/EXO25.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO25.htm
+    checksum:
+      algorithm: sha256
+      value: de7ca582c93c968a28b74ea953ba11a4f68bb4c70fe5a45487c3e74f2315cbd6
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_26
+  work_id: biblical.exodus.web_classic
+  title: Exodus 26
+  source_url: https://ebible.org/eng-web/EXO26.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO26.htm
+    checksum:
+      algorithm: sha256
+      value: 8f9422129d033f7ae15a27b417928ba72f2a744b1efdce2198250b55a893c9d0
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_27
+  work_id: biblical.exodus.web_classic
+  title: Exodus 27
+  source_url: https://ebible.org/eng-web/EXO27.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO27.htm
+    checksum:
+      algorithm: sha256
+      value: ba392e57f6c94131a1a6649142310e593bf20bd6c6d2ea9a877b2d95c4fafb7b
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_28
+  work_id: biblical.exodus.web_classic
+  title: Exodus 28
+  source_url: https://ebible.org/eng-web/EXO28.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO28.htm
+    checksum:
+      algorithm: sha256
+      value: 9cee9ef57052ce63965103b95f3dc46678773c112dd56440333659f0e11d0583
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_29
+  work_id: biblical.exodus.web_classic
+  title: Exodus 29
+  source_url: https://ebible.org/eng-web/EXO29.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO29.htm
+    checksum:
+      algorithm: sha256
+      value: 0a85d904efc41992b5dfeb919d838dd3e059ab0d3dd8b393f11f36b54e918f11
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_30
+  work_id: biblical.exodus.web_classic
+  title: Exodus 30
+  source_url: https://ebible.org/eng-web/EXO30.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO30.htm
+    checksum:
+      algorithm: sha256
+      value: ca14340d127e5341ce3e490394d0a0bfa77fadcfb4397a97f89abcdc0929ba57
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_31
+  work_id: biblical.exodus.web_classic
+  title: Exodus 31
+  source_url: https://ebible.org/eng-web/EXO31.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO31.htm
+    checksum:
+      algorithm: sha256
+      value: 2f1f897df96649665b15f3f1305b00ea167eeb1e9f4fd6e811445dabf83d655c
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_32
+  work_id: biblical.exodus.web_classic
+  title: Exodus 32
+  source_url: https://ebible.org/eng-web/EXO32.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO32.htm
+    checksum:
+      algorithm: sha256
+      value: b613a324047aa2161bff1ae4b99bc3f0b772831f95d91f24cefd264451638bdf
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_33
+  work_id: biblical.exodus.web_classic
+  title: Exodus 33
+  source_url: https://ebible.org/eng-web/EXO33.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO33.htm
+    checksum:
+      algorithm: sha256
+      value: 04e6d6d16bfe88bc03bf65470bbd45cd3c0138e2c71b598016ac60deb600f476
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_34
+  work_id: biblical.exodus.web_classic
+  title: Exodus 34
+  source_url: https://ebible.org/eng-web/EXO34.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO34.htm
+    checksum:
+      algorithm: sha256
+      value: 4ff8b95e6f30032d2dfff5f1c51a3e545aa6be97764674c07d1989ecfdc0493f
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_35
+  work_id: biblical.exodus.web_classic
+  title: Exodus 35
+  source_url: https://ebible.org/eng-web/EXO35.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO35.htm
+    checksum:
+      algorithm: sha256
+      value: 4d0db3dba2322789393ad10c50a7b96ffea2ae130607a5ac151d82d3d04a2d96
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_36
+  work_id: biblical.exodus.web_classic
+  title: Exodus 36
+  source_url: https://ebible.org/eng-web/EXO36.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO36.htm
+    checksum:
+      algorithm: sha256
+      value: 4514c915e0b8e9b689d78cc9ea483a5b29267a7c533e0efb091e259fe72b2232
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_37
+  work_id: biblical.exodus.web_classic
+  title: Exodus 37
+  source_url: https://ebible.org/eng-web/EXO37.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO37.htm
+    checksum:
+      algorithm: sha256
+      value: 69636c32fc271437567a77ae41a708a3330e0331464715715e4eebc69039d918
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_38
+  work_id: biblical.exodus.web_classic
+  title: Exodus 38
+  source_url: https://ebible.org/eng-web/EXO38.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO38.htm
+    checksum:
+      algorithm: sha256
+      value: 2b360079c3d263a059b19f91df4135596d2d536dbb04b863288012e9a3d8558b
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_39
+  work_id: biblical.exodus.web_classic
+  title: Exodus 39
+  source_url: https://ebible.org/eng-web/EXO39.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO39.htm
+    checksum:
+      algorithm: sha256
+      value: 7b72f0910a1888b12807720a82976987a67f4938e663f0a95b217183e1b1db85
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_exodus_40
+  work_id: biblical.exodus.web_classic
+  title: Exodus 40
+  source_url: https://ebible.org/eng-web/EXO40.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/exodus/EXO40.htm
+    checksum:
+      algorithm: sha256
+      value: 0c1350d8b45b4b18a8f7eb9b14c73d963b95031e34a7584eedaa97a2400fa7cf
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: '0408401b1d803717a2c08b977812f0ac1f6c554272cf84993a91a0c04c4101fe'
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    checksum:
+      algorithm: sha256
+      value: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb EXO
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.

@@ -1,0 +1,157 @@
+---
+record_id: extraction.exodus.sea_crossing
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+passage_locator:
+  label: Exodus 14:13-31
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: Lift up your rod, and stretch out your hand over the sea and divide it...
+    the waters were a wall to them on their right hand and on their left.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Moses tells the people that Yahweh will fight for them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Moses stretches out his hand and the sea is divided.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Israel walks through the sea on dry ground.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The waters return over Pharaoh's pursuing army.
+  category: action
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Moses
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Israel
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Pharaoh's army
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: sea
+  literal_form: sea
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rod
+  literal_form: rod
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: dry ground
+  literal_form: dry ground
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: pillar
+  literal_form: pillar of fire and of cloud
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Exodus 14:13-31
+  summary: Moses says Yahweh will fight for Israel. The sea is divided. Israel crosses
+    on dry ground. The waters return over Pharaoh's army.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: waters_divided
+  taxonomy_refs:
+  - waters_divided
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:2
+  label: passage_through_waters
+  taxonomy_refs:
+  - passage_through_waters
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:3
+  label: divine_warrior
+  taxonomy_refs:
+  - divine_warrior
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+comparison_claims:
+- id: claim:1
+  claim: The passage combines divided waters, dry-ground passage, and divine victory
+    over pursuers.
+  claim_level: same_motif
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Exodus 14:13-31
+  quote_or_summary: Lift up your rod, and stretch out your hand over the sea and divide
+    it... the waters were a wall to them on their right hand and on their left.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Initial data seed for Exodus.

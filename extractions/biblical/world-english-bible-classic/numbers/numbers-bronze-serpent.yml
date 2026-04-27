@@ -1,0 +1,158 @@
+---
+record_id: extraction.numbers.bronze_serpent
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+passage_locator:
+  label: Numbers 21:4-9
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: Make a venomous snake, and set it on a pole... when he looked at the
+    serpent of bronze, he lived.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The people speak against God and Moses during the journey.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yahweh sends venomous snakes that bite the people.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The people confess that they have sinned and ask Moses to pray.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Moses makes a bronze serpent and sets it on a pole.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: A bitten person lives when he looks at the bronze serpent.
+  category: sequence
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: people
+  description: The complaining and bitten Israelites.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Moses
+  description: Prays for the people and makes the bronze serpent.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Yahweh
+  description: Sends snakes and instructs Moses to make a sign on a pole.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: venomous snakes
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bronze serpent
+  literal_form: serpent of bronze
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: pole
+  literal_form: pole
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Numbers 21:4-9
+  summary: After complaint and snakebite, Moses makes a bronze serpent on a pole;
+    bitten people live when they look at it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: serpent
+  taxonomy_refs:
+  - serpent
+  basis: The passage centers on venomous snakes and a bronze serpent.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:2
+  label: healing_sign
+  taxonomy_refs: []
+  basis: Looking at the bronze serpent is linked with surviving a snakebite.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Motif label is descriptive rather than a settled taxonomy entry.
+- id: motif:3
+  label: sacred_tree_axis
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The bronze serpent is raised on a pole.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage says pole, not tree; axis interpretation is tentative.
+comparison_claims:
+- id: claim:1
+  claim: The passage combines serpent danger with a serpent image that functions as
+    a healing sign.
+  claim_level: same_motif
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Numbers 21:4-9
+  quote_or_summary: Make a venomous snake, and set it on a pole... when he looked
+    at the serpent of bronze, he lived.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Initial data seed for Numbers; source text is public domain.

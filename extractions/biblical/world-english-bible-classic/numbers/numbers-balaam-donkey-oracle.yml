@@ -1,0 +1,219 @@
+---
+record_id: extraction.numbers.balaam_donkey_oracle
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+passage_locator:
+  label: Numbers 22:21-35; 23:1-12; 24:1-17
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: Yahweh opened the mouth of the donkey... A star will come out of Jacob. A
+    scepter will rise out of Israel.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Balaam rides a donkey with the princes of Moab.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The donkey sees Yahweh's angel before Balaam sees him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Yahweh opens the donkey's mouth and the donkey speaks to Balaam.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Yahweh opens Balaam's eyes and Balaam sees the angel.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Balaam says he must speak what Yahweh puts in his mouth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Balaam's later oracle speaks of a star from Jacob and a scepter from Israel.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Balaam
+  description: Diviner or seer figure summoned by Balak and constrained to speak
+    Yahweh's word.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: donkey
+  description: Balaam's animal, whose mouth Yahweh opens.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Yahweh's angel
+  description: Stands in the way with a drawn sword.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Balak
+  description: Moabite king who asks Balaam to curse Israel.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Yahweh
+  description: Opens perception and supplies the words Balaam speaks.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles: []
+symbols:
+- id: sym:1
+  label: speaking animal
+  literal_form: donkey whose mouth is opened
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: opened eyes
+  literal_form: Yahweh opened the eyes of Balaam
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: word in mouth
+  literal_form: Yahweh put a word in Balaam's mouth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: star and scepter
+  literal_form: star will come out of Jacob; scepter will rise out of Israel
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Numbers 22:21-35
+  summary: Balaam's donkey sees the angel blocking the way, speaks after Yahweh opens
+    her mouth, and Balaam's eyes are opened to the angel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Numbers 23:1-12; 24:1-17
+  summary: Balaam offers sacrifices with Balak, blesses rather than curses Israel,
+    and gives an oracle including a star and scepter from Jacob and Israel.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: opened_perception
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly says Balaam's eyes are opened and that he sees the
+    angel.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:2
+  label: constrained_oracle
+  taxonomy_refs:
+  - wisdom
+  basis: Balaam repeatedly says he must speak only what Yahweh gives him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:3
+  label: royal_legitimacy
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The oracle uses star and scepter language for Jacob and Israel.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The later royal reading is only a candidate motif at this seed stage.
+comparison_claims:
+- id: claim:1
+  claim: The passage pairs a perception-reversal scene involving a speaking donkey
+    with oracles in which blessing replaces requested cursing.
+  claim_level: same_function
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Numbers 22:21-35
+  quote_or_summary: Yahweh opened the mouth of the donkey... Then Yahweh opened the
+    eyes of Balaam.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public-domain source text.
+- id: ev:2
+  type: quote
+  locator: Numbers 23:1-12
+  quote_or_summary: Yahweh put a word in Balaam's mouth... Must I not take heed to
+    speak that which Yahweh puts in my mouth?
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public-domain source text.
+- id: ev:3
+  type: quote
+  locator: Numbers 24:1-17
+  quote_or_summary: The Spirit of God came on him... A star will come out of Jacob.
+    A scepter will rise out of Israel.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Initial data seed for Numbers; source text is public domain.

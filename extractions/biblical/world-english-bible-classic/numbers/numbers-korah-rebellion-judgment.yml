@@ -1,0 +1,183 @@
+---
+record_id: extraction.numbers.korah_rebellion_judgment
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+passage_locator:
+  label: Numbers 16:1-50
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: The earth opened its mouth and swallowed them up... He stood between the
+    dead and the living; and the plague was stayed.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Korah, Dathan, Abiram, and others assemble against Moses and Aaron.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Moses orders censers with fire and incense as a test.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The ground splits and swallows the rebel households and goods.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Fire comes from Yahweh and devours the men offering incense.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Aaron carries incense into the assembly and stands between the dead and the
+    living.
+  category: action
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Korah
+  description: Leader named among those assembled against Moses and Aaron.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Dathan and Abiram
+  description: Named rebels whose tents are singled out.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Moses
+  description: Gives instructions and frames the event as a test of Yahweh's sending.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Aaron
+  description: Priest who offers incense and stands between the dead and the living.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Yahweh
+  description: Sends judgment by earth, fire, and plague in the passage.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: censer
+  literal_form: censers
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire
+  literal_form: fire
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: opened earth
+  literal_form: earth opened its mouth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Sheol
+  literal_form: Sheol
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Numbers 16:1-50
+  summary: A challenge to Moses and Aaron is answered by an ordeal of censers, the
+    earth swallowing rebels, fire consuming incense-offerers, and priestly
+    intercession stopping a plague.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: divine_judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage portrays earth, fire, and plague as responses to rebellion.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:2
+  label: descent_to_sheol
+  taxonomy_refs:
+  - hero_descent
+  basis: The rebels are described as going down alive into Sheol.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: This is a punitive descent, not a hero-return pattern.
+- id: motif:3
+  label: priestly_intercession
+  taxonomy_refs:
+  - sacrifice
+  basis: Aaron uses fire and incense to make atonement and stop the plague.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+comparison_claims:
+- id: claim:1
+  claim: The passage links rebellion, sacred fire, descent imagery, and priestly
+    mediation within one judgment scene.
+  claim_level: same_motif
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Numbers 16:1-50
+  quote_or_summary: The earth opened its mouth and swallowed them up... He stood
+    between the dead and the living; and the plague was stayed.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Initial data seed for Numbers; source text is public domain.

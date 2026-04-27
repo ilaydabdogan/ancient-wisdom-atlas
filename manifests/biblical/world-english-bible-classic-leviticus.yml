@@ -1,0 +1,1734 @@
+---
+manifest_version: '1'
+batch_id: web-classic-leviticus-seed
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.web_leviticus_01
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 1
+  source_url: https://ebible.org/eng-web/LEV01.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV01.htm
+    checksum:
+      algorithm: sha256
+      value: 8126c7acc592af63bfdd7c90197dc03adcd1b8da872a894f34b33dfa4e8d515d
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_02
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 2
+  source_url: https://ebible.org/eng-web/LEV02.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV02.htm
+    checksum:
+      algorithm: sha256
+      value: 99cc9681e041828b47fd7c136d54ae88442cbc81f741e0ac0969e7f1773708cf
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_03
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 3
+  source_url: https://ebible.org/eng-web/LEV03.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV03.htm
+    checksum:
+      algorithm: sha256
+      value: 19a656af7305cd6409f2c4d2b8704ee4bca2919a3b9ef4579317a6f5a3af9241
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_04
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 4
+  source_url: https://ebible.org/eng-web/LEV04.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV04.htm
+    checksum:
+      algorithm: sha256
+      value: 99bb212794f26486b7e511994be2eb27d97d31745fe50493f54fc2f7224d8ac6
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_05
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 5
+  source_url: https://ebible.org/eng-web/LEV05.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV05.htm
+    checksum:
+      algorithm: sha256
+      value: 3d568f2d310c14969b5b6d213682a377f801eed62293ed54420de7c2735e3439
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_06
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 6
+  source_url: https://ebible.org/eng-web/LEV06.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV06.htm
+    checksum:
+      algorithm: sha256
+      value: d257fbc07e75f70200c95d14681cd6054523989857fa31a020aaf257c2240e2e
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_07
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 7
+  source_url: https://ebible.org/eng-web/LEV07.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV07.htm
+    checksum:
+      algorithm: sha256
+      value: 25f5e3f55df4bb4d3ab100987e08b736995287cd7c9de0d31f268f315cf520dd
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_08
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 8
+  source_url: https://ebible.org/eng-web/LEV08.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV08.htm
+    checksum:
+      algorithm: sha256
+      value: dcb55d21faf701c701c50290c435c84ab11ecf3be7ca3fdafe0076ec5170dcb5
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_09
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 9
+  source_url: https://ebible.org/eng-web/LEV09.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV09.htm
+    checksum:
+      algorithm: sha256
+      value: 410bc5624d8edf17fe43ff571b55b327e561a0442d648d086a79a15fde40c635
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_10
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 10
+  source_url: https://ebible.org/eng-web/LEV10.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV10.htm
+    checksum:
+      algorithm: sha256
+      value: c1353804953695f0981ade065434b833a68ba4813cfa3a3f8c4a0862b63001e4
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_11
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 11
+  source_url: https://ebible.org/eng-web/LEV11.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV11.htm
+    checksum:
+      algorithm: sha256
+      value: f1ab73649ffaacbbc3d72e461ba2063c775f3f942be658d1e332282985d774c5
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_12
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 12
+  source_url: https://ebible.org/eng-web/LEV12.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV12.htm
+    checksum:
+      algorithm: sha256
+      value: eb4f6c01d05c371f1204606e10ddc96c3f12820f4bacb98139e18f6bc35fe365
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_13
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 13
+  source_url: https://ebible.org/eng-web/LEV13.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV13.htm
+    checksum:
+      algorithm: sha256
+      value: 9e828acfe1943daf70dea7d87de8eb851eb9d82f8de898e2ab8b09155eea550f
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_14
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 14
+  source_url: https://ebible.org/eng-web/LEV14.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV14.htm
+    checksum:
+      algorithm: sha256
+      value: 39297245f866f8e1369e31f00c61a35043d6b712f3b7e35382f7170a9abab239
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_15
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 15
+  source_url: https://ebible.org/eng-web/LEV15.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV15.htm
+    checksum:
+      algorithm: sha256
+      value: 4f9102ed159d401146342b0f5fdf581cef686768bf28b6b2347ad883a48c7985
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_16
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 16
+  source_url: https://ebible.org/eng-web/LEV16.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV16.htm
+    checksum:
+      algorithm: sha256
+      value: 6e0d906b7f27dcee544774804af975dc2dcc842c2c21011d3d6dba89752fe139
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_17
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 17
+  source_url: https://ebible.org/eng-web/LEV17.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV17.htm
+    checksum:
+      algorithm: sha256
+      value: a5823c4a611539a78100574d1edabe8fb9e437685899a2937e7db19c94ea9681
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_18
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 18
+  source_url: https://ebible.org/eng-web/LEV18.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV18.htm
+    checksum:
+      algorithm: sha256
+      value: fc80ff7a03892b4a0daff9132bc6025d9acd6742081a4869b6ccbe5b74bc3f96
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_19
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 19
+  source_url: https://ebible.org/eng-web/LEV19.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV19.htm
+    checksum:
+      algorithm: sha256
+      value: 8add13c55ef78e645837851e8d874b4c92ad99f56b167e04ddcb99da7f9bb7f4
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_20
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 20
+  source_url: https://ebible.org/eng-web/LEV20.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV20.htm
+    checksum:
+      algorithm: sha256
+      value: ec19a7d2e280b9e62b67b03dad13fa9a2de393b654fc2112f9d801e4617e449c
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_21
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 21
+  source_url: https://ebible.org/eng-web/LEV21.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV21.htm
+    checksum:
+      algorithm: sha256
+      value: 4e3d4b8837d88c6cc3608bb420b920a9e52d58f9a046f3022fad1056ebc09280
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_22
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 22
+  source_url: https://ebible.org/eng-web/LEV22.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV22.htm
+    checksum:
+      algorithm: sha256
+      value: 8d63cf095361a4eb77cfba44c7bd13b51a4149201fb4f7b20d7e4aef94c638fa
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_23
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 23
+  source_url: https://ebible.org/eng-web/LEV23.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV23.htm
+    checksum:
+      algorithm: sha256
+      value: bef6f2d0f81cb1cdff12c523e2804f6943f25e61551bc3959b0e32a28d764c59
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_24
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 24
+  source_url: https://ebible.org/eng-web/LEV24.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV24.htm
+    checksum:
+      algorithm: sha256
+      value: ff810a8fcab57010582a002d3d41588ac4ba52e5877c24b0b2179a20e93b0949
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_25
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 25
+  source_url: https://ebible.org/eng-web/LEV25.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV25.htm
+    checksum:
+      algorithm: sha256
+      value: 6adafa312bb990990bf522b320110aef4f554ba1bb1a74d804405232eed3c343
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_26
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 26
+  source_url: https://ebible.org/eng-web/LEV26.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV26.htm
+    checksum:
+      algorithm: sha256
+      value: 19625d167539c6fc2b09f90a5e011d1b3fe8c229c0c5e0c40f6ca5f5fd046ebb
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_leviticus_27
+  work_id: biblical.leviticus.web_classic
+  title: Leviticus 27
+  source_url: https://ebible.org/eng-web/LEV27.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/leviticus/LEV27.htm
+    checksum:
+      algorithm: sha256
+      value: 63241f0a32cac7e72a3f23c4636a3134b7a8a3a19e7cbab8345a7a50cac8d17e
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: 300f4529459578e2a277b112f4f880f702d60033d63db9918a27d6ebed755bb9
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    checksum:
+      algorithm: sha256
+      value: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb LEV
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.

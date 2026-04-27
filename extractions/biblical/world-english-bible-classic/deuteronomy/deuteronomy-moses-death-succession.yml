@@ -1,0 +1,185 @@
+---
+record_id: extraction.deuteronomy.moses_death_succession
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+passage_locator:
+  label: Deuteronomy 34:1-12
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: Moses the servant of Yahweh died there in the land of Moab... Joshua the
+    son of Nun was full of the spirit of wisdom.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Moses goes up from the plains of Moab to Mount Nebo, the top of Pisgah.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yahweh shows Moses the land and says Moses will see it but not cross over.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Moses dies in the land of Moab according to Yahweh's word.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Moses is buried in an unknown tomb, and Israel mourns for thirty days.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Joshua is full of the spirit of wisdom because Moses laid his hands on him,
+    and Israel listens to Joshua.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: Moses is remembered as a prophet whom Yahweh knew face to face.
+  category: attribute
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Moses
+  description: Servant of Yahweh who dies in Moab after seeing the land.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Yahweh
+  description: God who shows Moses the land and is said to have known him face to
+    face.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Joshua
+  description: Son of Nun who receives wisdom after Moses lays hands on him.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Israel
+  description: People who mourn Moses and listen to Joshua.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: mountain ascent
+  literal_form: Mount Nebo, top of Pisgah
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: land vision
+  literal_form: Yahweh showed him all the land
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hidden tomb
+  literal_form: no man knows where his tomb is
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: laying on hands
+  literal_form: Moses had laid his hands on him
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Deuteronomy 34:1-12
+  summary: Moses ascends Nebo, sees the promised land, dies and is mourned, while
+    Joshua receives wisdom and Israel listens to him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: ascent
+  taxonomy_refs:
+  - ascent
+  basis: Moses goes up to Mount Nebo before seeing the land and dying.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The ascent is literal; symbolic implications require review.
+- id: motif:2
+  label: death_rebirth
+  taxonomy_refs:
+  - death_rebirth
+  basis: Moses' death is followed by Joshua's recognized leadership and wisdom.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage shows succession after death, not Moses' return or resurrection.
+- id: motif:3
+  label: wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Joshua is explicitly described as full of the spirit of wisdom after Moses
+    lays hands on him.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Candidate motif only; requires review.
+comparison_claims:
+- id: claim:1
+  claim: The passage links a leader's mountain-top death with viewing promised land,
+    mourning, and succession through Joshua.
+  claim_level: same_function
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Deuteronomy 34:1-12
+  quote_or_summary: Moses the servant of Yahweh died there in the land of Moab...
+    Joshua the son of Nun was full of the spirit of wisdom.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Initial data seed for Deuteronomy.

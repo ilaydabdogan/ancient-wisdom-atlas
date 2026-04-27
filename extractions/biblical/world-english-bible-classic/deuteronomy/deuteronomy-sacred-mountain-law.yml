@@ -1,0 +1,169 @@
+---
+record_id: extraction.deuteronomy.sacred_mountain_law
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+passage_locator:
+  label: Deuteronomy 4:9-14
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: You came near and stood under the mountain. The mountain burned with fire...
+    He declared to you his covenant.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Israel is told not to forget what their eyes saw.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people stood before Yahweh at Horeb.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The mountain burned with fire, darkness, cloud, and thick darkness.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Yahweh spoke from the middle of the fire, and the people heard a voice without
+    seeing a form.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Yahweh declared a covenant and wrote the ten commandments on two stone tablets.
+  category: action
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: Speaker from the fire at Horeb.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Israel
+  description: People addressed by Moses as witnesses to the Horeb event.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Moses
+  description: Teacher of statutes and ordinances.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: Horeb mountain
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire
+  literal_form: fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: voice
+  literal_form: voice of words
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: stone tablets
+  literal_form: two stone tablets
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Deuteronomy 4:9-14
+  summary: Israel is reminded of standing at Horeb, hearing Yahweh speak from fire,
+    and receiving covenant commandments on stone tablets.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: cosmic_mountain
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: Horeb is the setting for divine speech and covenant declaration.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents a revelation setting; broader cosmic-mountain classification
+    needs review.
+- id: motif:2
+  label: wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage links remembered revelation with teaching statutes and ordinances.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Candidate motif only; this record does not claim a full wisdom tradition.
+- id: motif:3
+  label: covenant
+  taxonomy_refs:
+  - covenant
+  basis: The passage explicitly says Yahweh declared a covenant and wrote commandments
+    on tablets.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Taxonomy reference follows existing Genesis seed usage.
+comparison_claims:
+- id: claim:1
+  claim: The passage links sacred mountain revelation, divine voice, fire, and written
+    covenant law.
+  claim_level: same_motif
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Deuteronomy 4:9-14
+  quote_or_summary: You came near and stood under the mountain. The mountain burned
+    with fire... He declared to you his covenant.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Initial data seed for Deuteronomy.

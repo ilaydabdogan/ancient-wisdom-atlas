@@ -1,0 +1,170 @@
+---
+record_id: extraction.exodus.sinai_covenant_ascent
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+passage_locator:
+  label: Exodus 19:1-20; 24:3-18
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: Moses went up to God... Yahweh's glory settled on Mount Sinai, and the cloud
+    covered it six days.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Israel encamps before Mount Sinai.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Moses ascends the mountain and mediates covenant words.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The people affirm that they will do what Yahweh has spoken.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Cloud, fire, thunder, trumpet sound, and bounded access mark the mountain.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Blood is sprinkled in connection with the covenant.
+  category: action
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Moses
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Israel
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: elders of Israel
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: Mount Sinai
+  literal_form: Mount Sinai
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: thick cloud
+  literal_form: thick cloud
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: fire
+  literal_form: fire
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: blood of the covenant
+  literal_form: blood of the covenant
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: stone tablets
+  literal_form: stone tablets
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Exodus 19:1-20; 24:3-18
+  summary: Israel encamps before Sinai. Moses ascends and mediates covenant words.
+    The people affirm obedience. Cloud, fire, thunder, trumpet sound, and boundary
+    warnings mark the mountain. Blood is sprinkled for the covenant.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: sacred_mountain
+  taxonomy_refs:
+  - sacred_mountain
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:2
+  label: ascent
+  taxonomy_refs:
+  - ascent
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:3
+  label: covenant
+  taxonomy_refs:
+  - covenant
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+comparison_claims:
+- id: claim:1
+  claim: The passage links mountain ascent, divine manifestation, bounded sacred space,
+    and covenant ratification.
+  claim_level: same_motif
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Exodus 19:1-20; 24:3-18
+  quote_or_summary: Moses went up to God... Yahweh's glory settled on Mount Sinai,
+    and the cloud covered it six days.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Initial data seed for Exodus.

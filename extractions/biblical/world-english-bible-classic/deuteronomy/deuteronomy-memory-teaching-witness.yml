@@ -1,0 +1,180 @@
+---
+record_id: extraction.deuteronomy.memory_teaching_witness
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+passage_locator:
+  label: Deuteronomy 31:9-13; 31:19-22; 31:24-30
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: You shall read this law before all Israel in their hearing... this song will
+    testify before them as a witness.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Moses writes the law and gives it to the Levitical priests and elders.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The law is to be read publicly every seven years at the feast of booths.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Men, women, little ones, and foreigners are assembled to hear, learn, fear
+    Yahweh, and observe the law.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Moses is commanded to write and teach a song that will serve as a witness.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The book of the law is placed beside the ark of Yahweh's covenant as a witness.
+  category: action
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Moses
+  description: Writer and teacher of the law and song.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Yahweh
+  description: God whose covenant ark is named and who commands the song.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Israel
+  description: Assembly that hears the law and song.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Levitical priests
+  description: Priests who receive the written law and bear the ark.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: written law
+  literal_form: this law
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: song
+  literal_form: this song
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: witness
+  literal_form: witness
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: ark of the covenant
+  literal_form: ark of Yahweh your God's covenant
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Deuteronomy 31:9-13; 31:19-22; 31:24-30
+  summary: Moses writes the law, commands public reading, teaches a song as witness,
+    and places the law beside the covenant ark.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage emphasizes hearing, learning, teaching children, and preserving
+    law and song.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Wisdom is used as a broad knowledge-transmission candidate.
+- id: motif:2
+  label: covenant
+  taxonomy_refs:
+  - covenant
+  basis: The law is placed beside the ark of Yahweh's covenant and read to the covenant
+    people.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Taxonomy reference follows existing Genesis seed usage.
+- id: motif:3
+  label: sacred_exchange
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Law and song function as obligations and witnesses in the divine-human covenant
+    relationship.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: Functional claim needs review.
+comparison_claims:
+- id: claim:1
+  claim: The passage treats written law, public recitation, and taught song as media
+    for covenant memory and witness.
+  claim_level: same_function
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Deuteronomy 31:9-13; 31:19-22; 31:24-30
+  quote_or_summary: You shall read this law before all Israel in their hearing...
+    this song will testify before them as a witness.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Initial data seed for Deuteronomy.

@@ -96,9 +96,9 @@ See [docs/pattern-discovery-logic.md](docs/pattern-discovery-logic.md) for how t
 - [docs/extraction-protocol.md](docs/extraction-protocol.md): how AI/humans should extract symbols, motifs, scenes, and comparison claims
 - [docs/ci.md](docs/ci.md): what GitHub Actions checks on every push
 
-## First Data Seed
+## First Corpus Data
 
-The first canonical full text is [Genesis](texts/public-domain/biblical/world-english-bible-classic/genesis.md), sourced from the public-domain World English Bible Classic and backed by raw HTML imports, a converted draft, an ingestion manifest, and initial extraction records.
+The first canonical collection is the public-domain World English Bible Classic Pentateuch: [Genesis](texts/public-domain/biblical/world-english-bible-classic/genesis.md), [Exodus](texts/public-domain/biblical/world-english-bible-classic/exodus.md), [Leviticus](texts/public-domain/biblical/world-english-bible-classic/leviticus.md), [Numbers](texts/public-domain/biblical/world-english-bible-classic/numbers.md), and [Deuteronomy](texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md). Each book is backed by raw HTML imports, a converted draft, an ingestion manifest, and extraction records.
 
 ## Machine Export
 

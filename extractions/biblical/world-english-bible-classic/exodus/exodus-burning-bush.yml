@@ -1,0 +1,152 @@
+---
+record_id: extraction.exodus.burning_bush
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+passage_locator:
+  label: Exodus 3:1-15
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: Yahweh's angel appeared to him in a flame of fire out of the middle of a
+    bush... God said to Moses, "I AM WHO I AM."
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Moses comes to God's mountain at Horeb while keeping a flock.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A bush burns with fire but is not consumed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Moses is told to remove his sandals because the place is holy ground.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: God gives Moses a commission and a divine name formula.
+  category: action
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Moses
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Yahweh
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Yahweh's angel
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: burning bush
+  literal_form: bush burned with fire
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire
+  literal_form: flame of fire
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: holy ground
+  literal_form: holy ground
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: divine name
+  literal_form: I AM WHO I AM
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Exodus 3:1-15
+  summary: Moses comes to God's mountain. A bush burns with fire but is not consumed.
+    Moses is told he stands on holy ground. God commissions Moses and gives a divine
+    name formula.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: theophany
+  taxonomy_refs:
+  - theophany
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:2
+  label: sacred_fire
+  taxonomy_refs:
+  - sacred_fire
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:3
+  label: divine_call
+  taxonomy_refs:
+  - divine_call
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+comparison_claims:
+- id: claim:1
+  claim: The passage links sacred fire, holy ground, divine naming, and a prophetic
+    commission.
+  claim_level: same_motif
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Exodus 3:1-15
+  quote_or_summary: Yahweh's angel appeared to him in a flame of fire out of the middle
+    of a bush... God said to Moses, "I AM WHO I AM."
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Initial data seed for Exodus.

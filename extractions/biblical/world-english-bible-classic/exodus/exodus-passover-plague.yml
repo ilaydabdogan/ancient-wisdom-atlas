@@ -1,0 +1,164 @@
+---
+record_id: extraction.exodus.passover_plague
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+passage_locator:
+  label: Exodus 12:1-14, 21-31
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: The blood shall be to you for a token on the houses where you are... Yahweh
+    struck all the firstborn in the land of Egypt.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Israelite households are instructed to slaughter a lamb.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Blood is placed on doorposts and lintels as a token.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The meal includes roasted meat, unleavened bread, and bitter herbs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Yahweh strikes the firstborn in Egypt and passes over marked houses.
+  category: action
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Moses
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Aaron
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Israel
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Pharaoh
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: lamb
+  literal_form: lamb
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: blood mark
+  literal_form: blood on the lintel and door posts
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: unleavened bread
+  literal_form: unleavened bread
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: firstborn
+  literal_form: firstborn
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Exodus 12:1-14, 21-31
+  summary: Israelite households are instructed to slaughter a lamb. Blood marks the
+    doorway as a token. A ritual meal is commanded. Yahweh strikes Egypt's firstborn
+    and passes over marked houses.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:2
+  label: protective_mark
+  taxonomy_refs:
+  - protective_mark
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:3
+  label: divine_judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+comparison_claims:
+- id: claim:1
+  claim: The passage links sacrificial blood, household boundary marking, judgment,
+    and memorial feast.
+  claim_level: same_motif
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Exodus 12:1-14, 21-31
+  quote_or_summary: The blood shall be to you for a token on the houses where you
+    are... Yahweh struck all the firstborn in the land of Egypt.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Initial data seed for Exodus.

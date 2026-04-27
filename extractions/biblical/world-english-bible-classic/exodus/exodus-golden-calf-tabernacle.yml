@@ -1,0 +1,170 @@
+---
+record_id: extraction.exodus.golden_calf_tabernacle
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+passage_locator:
+  label: Exodus 32:1-20; 34:1-10; 40:17-38
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: He received what they handed him... and made it a molded calf... Then the
+    cloud covered the Tent of Meeting, and Yahweh's glory filled the tabernacle.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The people ask Aaron to make gods to go before them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Aaron makes a molded calf from gold and builds an altar before it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Moses breaks the tablets and destroys the calf.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: New tablets are prepared and Yahweh renews covenant language with Moses.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The tabernacle is raised, and cloud and glory cover it.
+  category: action
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Moses
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Aaron
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Israel
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: molded calf
+  literal_form: molded calf
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tablets
+  literal_form: tablets of the covenant
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: altar
+  literal_form: altar
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: tabernacle
+  literal_form: tabernacle
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: cloud and fire
+  literal_form: cloud by day and fire in the cloud by night
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Exodus 32:1-20; 34:1-10; 40:17-38
+  summary: The people ask for gods and Aaron makes a molded calf. Moses breaks the
+    tablets and destroys the calf. New tablets are prepared and covenant language
+    is renewed. The tabernacle is raised and filled with cloud and glory.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: idol
+  taxonomy_refs:
+  - idol
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:2
+  label: broken_and_renewed_covenant
+  taxonomy_refs:
+  - broken_and_renewed_covenant
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:3
+  label: portable_sanctuary
+  taxonomy_refs:
+  - portable_sanctuary
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+comparison_claims:
+- id: claim:1
+  claim: The selected passages place illicit image-making, covenant restoration, and
+    cloud-filled sanctuary in a single Exodus narrative arc.
+  claim_level: same_motif
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Exodus 32:1-20; 34:1-10; 40:17-38
+  quote_or_summary: He received what they handed him... and made it a molded calf...
+    Then the cloud covered the Tent of Meeting, and Yahweh's glory filled the tabernacle.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Initial data seed for Exodus.

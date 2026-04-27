@@ -1,0 +1,2310 @@
+---
+manifest_version: '1'
+batch_id: web-classic-numbers-seed
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.web_numbers_01
+  work_id: biblical.numbers.web_classic
+  title: Numbers 1
+  source_url: https://ebible.org/eng-web/NUM01.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM01.htm
+    checksum:
+      algorithm: sha256
+      value: f276b399daec45c7c554952ef439141aaeddc1693e7851ac865818cd3fcd0f0b
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_02
+  work_id: biblical.numbers.web_classic
+  title: Numbers 2
+  source_url: https://ebible.org/eng-web/NUM02.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM02.htm
+    checksum:
+      algorithm: sha256
+      value: 53a5c249223356f20cb213eea9c8154142f9c510d15d0ab31ac57d1f1b048c98
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_03
+  work_id: biblical.numbers.web_classic
+  title: Numbers 3
+  source_url: https://ebible.org/eng-web/NUM03.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM03.htm
+    checksum:
+      algorithm: sha256
+      value: 13b149c657f6c883e1f2d4017bee94a0a4cb8bed73e4ef3889c250c7c67f8d84
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_04
+  work_id: biblical.numbers.web_classic
+  title: Numbers 4
+  source_url: https://ebible.org/eng-web/NUM04.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM04.htm
+    checksum:
+      algorithm: sha256
+      value: 5458082071f6611575ace8c03af91fbd03a505f718b0dc8224661c98192d9a75
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_05
+  work_id: biblical.numbers.web_classic
+  title: Numbers 5
+  source_url: https://ebible.org/eng-web/NUM05.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM05.htm
+    checksum:
+      algorithm: sha256
+      value: d0e2e6c4ac11f2a5aadb074d6876a4b29ffa5b7dc3a3f0b03dc4c1b585395544
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_06
+  work_id: biblical.numbers.web_classic
+  title: Numbers 6
+  source_url: https://ebible.org/eng-web/NUM06.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM06.htm
+    checksum:
+      algorithm: sha256
+      value: 17693c3817d01d80905845d245cc0d7590c873184d6b52d3d52936bb6884a3e5
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_07
+  work_id: biblical.numbers.web_classic
+  title: Numbers 7
+  source_url: https://ebible.org/eng-web/NUM07.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM07.htm
+    checksum:
+      algorithm: sha256
+      value: 6dd416b6d8b3c6dff12cf549699c93460afa880653490810415557e737d06bab
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_08
+  work_id: biblical.numbers.web_classic
+  title: Numbers 8
+  source_url: https://ebible.org/eng-web/NUM08.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM08.htm
+    checksum:
+      algorithm: sha256
+      value: 9e90518d39a7bb40e5eacce511a48b12b56f82e8ebb4e793fbfc29d2040dd0c6
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_09
+  work_id: biblical.numbers.web_classic
+  title: Numbers 9
+  source_url: https://ebible.org/eng-web/NUM09.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM09.htm
+    checksum:
+      algorithm: sha256
+      value: 457a21854fe198d7bf9e9f09691c16fbb646224f4585843f46d9aca317c5aa5d
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_10
+  work_id: biblical.numbers.web_classic
+  title: Numbers 10
+  source_url: https://ebible.org/eng-web/NUM10.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM10.htm
+    checksum:
+      algorithm: sha256
+      value: c8032eca4868dfc3a27cab7f6f6fc8032196800b39e459f081d94d511b3670fb
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_11
+  work_id: biblical.numbers.web_classic
+  title: Numbers 11
+  source_url: https://ebible.org/eng-web/NUM11.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM11.htm
+    checksum:
+      algorithm: sha256
+      value: 31a3630cf58d0c0b4d76d7ce246aada346c5a0f211e056380329b5b28bbaf7e5
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_12
+  work_id: biblical.numbers.web_classic
+  title: Numbers 12
+  source_url: https://ebible.org/eng-web/NUM12.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM12.htm
+    checksum:
+      algorithm: sha256
+      value: 40f8875fc39fac6a91c533a381049c611fdf8605fa924a3baf31cf803e4fc653
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_13
+  work_id: biblical.numbers.web_classic
+  title: Numbers 13
+  source_url: https://ebible.org/eng-web/NUM13.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM13.htm
+    checksum:
+      algorithm: sha256
+      value: 6828b7bc86c62eb8c3faf88d8f7a79042fd72931c7dbe3188d6a9f8e5ed6ef41
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_14
+  work_id: biblical.numbers.web_classic
+  title: Numbers 14
+  source_url: https://ebible.org/eng-web/NUM14.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM14.htm
+    checksum:
+      algorithm: sha256
+      value: 49151b9c90f4326c3a18fedbd3b2d80da97b107203215775002dd23d5adc58aa
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_15
+  work_id: biblical.numbers.web_classic
+  title: Numbers 15
+  source_url: https://ebible.org/eng-web/NUM15.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM15.htm
+    checksum:
+      algorithm: sha256
+      value: 46b84d07e130421caa80dedefb290104c847bbf08e28a1c2e6031b0403b36e0f
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_16
+  work_id: biblical.numbers.web_classic
+  title: Numbers 16
+  source_url: https://ebible.org/eng-web/NUM16.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM16.htm
+    checksum:
+      algorithm: sha256
+      value: d3426e100ee83c80125613c2edbaa7db2ae6bfe2f6610bfb4db396cdde255268
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_17
+  work_id: biblical.numbers.web_classic
+  title: Numbers 17
+  source_url: https://ebible.org/eng-web/NUM17.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM17.htm
+    checksum:
+      algorithm: sha256
+      value: 8df132afa9c96646d42fa2d6d3c6e874139c6b66e3c2d735aa69013a15ca7c9b
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_18
+  work_id: biblical.numbers.web_classic
+  title: Numbers 18
+  source_url: https://ebible.org/eng-web/NUM18.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM18.htm
+    checksum:
+      algorithm: sha256
+      value: 2c6543e78f669e380282974bab8c07ca0639b6149b765c2bfaf5671b8b5687d5
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_19
+  work_id: biblical.numbers.web_classic
+  title: Numbers 19
+  source_url: https://ebible.org/eng-web/NUM19.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM19.htm
+    checksum:
+      algorithm: sha256
+      value: 7598d3a484c5aa9767fc1beac04bc5e2f2f48c5438d77223389ddea44782cd81
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_20
+  work_id: biblical.numbers.web_classic
+  title: Numbers 20
+  source_url: https://ebible.org/eng-web/NUM20.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM20.htm
+    checksum:
+      algorithm: sha256
+      value: 548b97f05e4b2e9cffa22a8e58362075e7e79af03bd788bfe6328657fdbe1288
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_21
+  work_id: biblical.numbers.web_classic
+  title: Numbers 21
+  source_url: https://ebible.org/eng-web/NUM21.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM21.htm
+    checksum:
+      algorithm: sha256
+      value: 583556e892745ec2128168d79d761a5c1ea6ee70ad1176e3d5a253f9af593966
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_22
+  work_id: biblical.numbers.web_classic
+  title: Numbers 22
+  source_url: https://ebible.org/eng-web/NUM22.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM22.htm
+    checksum:
+      algorithm: sha256
+      value: ce667fa91d525ca412819ae04333ddd707a7601b50d9f20aabb7d14faadf339f
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_23
+  work_id: biblical.numbers.web_classic
+  title: Numbers 23
+  source_url: https://ebible.org/eng-web/NUM23.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM23.htm
+    checksum:
+      algorithm: sha256
+      value: 55e0fef19838f092cebf246b635bb8056c509e2edec67a53d1f077321a3c3df6
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_24
+  work_id: biblical.numbers.web_classic
+  title: Numbers 24
+  source_url: https://ebible.org/eng-web/NUM24.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM24.htm
+    checksum:
+      algorithm: sha256
+      value: c971dc2fc9b4120ce4f3ba5370a84799149dc3685f41b447ef87d98f9f6160fc
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_25
+  work_id: biblical.numbers.web_classic
+  title: Numbers 25
+  source_url: https://ebible.org/eng-web/NUM25.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM25.htm
+    checksum:
+      algorithm: sha256
+      value: b2b38e54fb3a085ff61efa8c49f24e1e777df8fe95f2c02d26a3a86343be0996
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_26
+  work_id: biblical.numbers.web_classic
+  title: Numbers 26
+  source_url: https://ebible.org/eng-web/NUM26.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM26.htm
+    checksum:
+      algorithm: sha256
+      value: 473f6cbfe7be099c74668680e49100ca1346870a71f93290ee22f2b7fb7043f6
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_27
+  work_id: biblical.numbers.web_classic
+  title: Numbers 27
+  source_url: https://ebible.org/eng-web/NUM27.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM27.htm
+    checksum:
+      algorithm: sha256
+      value: dec603f6bc64f9e8ad69d1ddcd852b2e6aa57f5a13030e0e9935b59b12a6fd57
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_28
+  work_id: biblical.numbers.web_classic
+  title: Numbers 28
+  source_url: https://ebible.org/eng-web/NUM28.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM28.htm
+    checksum:
+      algorithm: sha256
+      value: 17109c80ff37ca6e309a8f6110526419698201cd20c5e489fed47521346357ac
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_29
+  work_id: biblical.numbers.web_classic
+  title: Numbers 29
+  source_url: https://ebible.org/eng-web/NUM29.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM29.htm
+    checksum:
+      algorithm: sha256
+      value: cb8c50563fd58ac1c02fd57cbf806dd8835666d853681250388cf168930cc580
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_30
+  work_id: biblical.numbers.web_classic
+  title: Numbers 30
+  source_url: https://ebible.org/eng-web/NUM30.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM30.htm
+    checksum:
+      algorithm: sha256
+      value: 516571835541f648eb98aa354fb3c6acd2c94b77f902adbccc8cd06779d54677
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_31
+  work_id: biblical.numbers.web_classic
+  title: Numbers 31
+  source_url: https://ebible.org/eng-web/NUM31.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM31.htm
+    checksum:
+      algorithm: sha256
+      value: 0bcab5336c0ed9c609b73eca4bfaa691603c1bc6083c2da59ebe2df19612b2a7
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_32
+  work_id: biblical.numbers.web_classic
+  title: Numbers 32
+  source_url: https://ebible.org/eng-web/NUM32.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM32.htm
+    checksum:
+      algorithm: sha256
+      value: 55fad1c84093ea6577c7b753a07cb8e29cd9aeb9bfc5cb41cd406f71f05dd1b7
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_33
+  work_id: biblical.numbers.web_classic
+  title: Numbers 33
+  source_url: https://ebible.org/eng-web/NUM33.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM33.htm
+    checksum:
+      algorithm: sha256
+      value: fe36b1b1491dadc41036b525df1603e5691fb335557bf3913bd88d37721b953b
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_34
+  work_id: biblical.numbers.web_classic
+  title: Numbers 34
+  source_url: https://ebible.org/eng-web/NUM34.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM34.htm
+    checksum:
+      algorithm: sha256
+      value: bc4ddadb4060c417ee4019c7290a9bd11c9e373718aa7be767e4f595ed0210ad
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_35
+  work_id: biblical.numbers.web_classic
+  title: Numbers 35
+  source_url: https://ebible.org/eng-web/NUM35.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM35.htm
+    checksum:
+      algorithm: sha256
+      value: dd24465b3f2e339b58e125a2d88771a275cce700b6358a7fab07b70afec94498
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_numbers_36
+  work_id: biblical.numbers.web_classic
+  title: Numbers 36
+  source_url: https://ebible.org/eng-web/NUM36.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/numbers/NUM36.htm
+    checksum:
+      algorithm: sha256
+      value: 92cb9a8ee2a434389a05f260817e3619fc9a8301f342fda933d4c0395b325ba6
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 64635dea41da6069b8bdfd6e1c77432b6d068c9d8224533ba07f638a6cb06fea
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    checksum:
+      algorithm: sha256
+      value: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_book_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_book_seed.rb NUM
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for eBible.org WEB Classic chapter pages.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure and source provenance; spot-checks
+      performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.

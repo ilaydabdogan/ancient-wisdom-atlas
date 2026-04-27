@@ -1,0 +1,183 @@
+---
+record_id: extraction.deuteronomy.covenant_renewal_moab
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+passage_locator:
+  label: Deuteronomy 29:1-15
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: These are the words of the covenant... All of you stand today in the presence
+    of Yahweh your God.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies words of a covenant made in Moab in addition to the
+    covenant at Horeb.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Moses calls all Israel and recalls signs, wilderness provision, and defeated
+    kings.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The people are told to keep the covenant words and do them.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Heads, elders, officers, men, children, wives, and foreigners stand before
+    Yahweh.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The covenant and oath are said to include those present and those not present.
+  category: speech
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: God before whom the covenant assembly stands.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Moses
+  description: Speaker who calls Israel to covenant.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Israel
+  description: Covenant assembly named across social groups.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: foreigners
+  description: Foreigners in the camps included in the assembled audience.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: covenant
+  literal_form: covenant
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: oath
+  literal_form: oath
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: assembly
+  literal_form: all of you stand today
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: wilderness memory
+  literal_form: forty years in the wilderness
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Deuteronomy 29:1-15
+  summary: Moses frames a Moab covenant, recalls past events, and addresses an assembly
+    that includes present and absent participants.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: covenant
+  taxonomy_refs:
+  - covenant
+  basis: The passage explicitly names covenant words, covenant entry, and oath.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Taxonomy reference follows existing Genesis seed usage.
+- id: motif:2
+  label: sacred_exchange
+  taxonomy_refs:
+  - sacred_exchange
+  basis: 'The passage describes reciprocal covenant identity: Israel as Yahweh''s
+    people and Yahweh as their God.'
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a cautious functional reading from the explicit covenant language.
+- id: motif:3
+  label: wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Keeping and doing covenant words is presented as the instructed response
+    to remembered events.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: Wisdom is a broad candidate and needs review.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents covenant renewal as an assembled act grounded in shared
+    memory and obligation.
+  claim_level: same_function
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Deuteronomy 29:1-15
+  quote_or_summary: These are the words of the covenant... All of you stand today
+    in the presence of Yahweh your God.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Initial data seed for Deuteronomy.

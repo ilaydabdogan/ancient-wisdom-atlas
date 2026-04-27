@@ -1,0 +1,144 @@
+---
+record_id: extraction.leviticus.blood_life
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+passage_locator:
+  label: Leviticus 17:10-14
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: For the life of the flesh is in the blood... for the life of all flesh is
+    its blood.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Eating blood is prohibited for Israelites and resident foreigners.
+  category: prohibition
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Blood is associated with the life of flesh.
+  category: statement
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Blood is given on the altar to make atonement.
+  category: statement
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Blood from hunted animals is to be poured out and covered with dust.
+  category: action
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: Speaker who gives the blood command through Moses.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: children of Israel
+  description: Community addressed by the prohibition.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: blood
+  literal_form: blood
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: life
+  literal_form: life
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: altar
+  literal_form: altar
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: dust
+  literal_form: dust
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Leviticus 17:10-14
+  summary: Blood is prohibited as food, identified with life, assigned an atoning
+    function on the altar, and poured out when animals are hunted.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: blood_as_life
+  taxonomy_refs:
+  - blood_as_life
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:2
+  label: ritual_prohibition
+  taxonomy_refs:
+  - ritual_prohibition
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:3
+  label: atonement_rite
+  taxonomy_refs:
+  - atonement_rite
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+comparison_claims:
+- id: claim:1
+  claim: The passage connects blood with life, food prohibition, and altar atonement.
+  claim_level: same_motif
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Leviticus 17:10-14
+  quote_or_summary: For the life of the flesh is in the blood... for the life of all
+    flesh is its blood.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Initial data seed for Leviticus.

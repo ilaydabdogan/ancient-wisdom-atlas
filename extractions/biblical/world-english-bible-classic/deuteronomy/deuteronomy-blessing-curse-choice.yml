@@ -1,0 +1,180 @@
+---
+record_id: extraction.deuteronomy.blessing_curse_choice
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+passage_locator:
+  label: Deuteronomy 30:15-20
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: I have set before you today life and prosperity, and death and evil... choose
+    life, that you may live.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Moses says life and prosperity, and death and evil, have been set before the
+    audience.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Loving Yahweh, walking in his ways, and keeping commandments are linked with
+    life, multiplication, and blessing in the land.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Turning away, not hearing, and serving other gods are linked with perishing.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Heaven and earth are called as witnesses.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The audience is commanded to choose life.
+  category: speech
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Moses
+  description: Speaker who sets the choice before Israel.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Yahweh
+  description: God to be loved, obeyed, and clung to.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Israel
+  description: Audience commanded to choose life.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: life
+  literal_form: life
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: death
+  literal_form: death
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: blessing
+  literal_form: blessing
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: curse
+  literal_form: curse
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: heaven and earth
+  literal_form: heaven and earth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Deuteronomy 30:15-20
+  summary: Moses sets life and death, blessing and curse before Israel and calls heaven
+    and earth as witnesses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: covenant
+  taxonomy_refs:
+  - covenant
+  basis: The choice is framed through obedience to Yahweh's commandments and promised
+    dwelling in the sworn land.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Taxonomy reference follows existing Genesis seed usage.
+- id: motif:2
+  label: sacred_exchange
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage links human obedience and attachment to Yahweh with life and
+    blessing.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Functional motif candidate; requires review.
+- id: motif:3
+  label: divine_judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: Turning away is linked with perishing and loss of prolonged days in the land.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage states consequences but does not narrate their fulfillment.
+comparison_claims:
+- id: claim:1
+  claim: The passage frames covenant obedience as a binary choice between life/blessing
+    and death/curse.
+  claim_level: same_function
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Deuteronomy 30:15-20
+  quote_or_summary: I have set before you today life and prosperity, and death and
+    evil... choose life, that you may live.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Initial data seed for Deuteronomy.

@@ -1,0 +1,156 @@
+---
+record_id: extraction.leviticus.day_of_atonement_scapegoat
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+passage_locator:
+  label: Leviticus 16:7-10, 20-22, 29-34
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: Aaron shall cast lots for the two goats... The goat shall carry all their
+    iniquities on himself to a solitary land.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Two goats are set before Yahweh at the Tent of Meeting.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Lots distinguish the goat for Yahweh and the scapegoat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Aaron confesses Israel's iniquities over the live goat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The live goat is sent into the wilderness carrying the iniquities.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The rite is connected to an annual day of atonement and cleansing.
+  category: action
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Aaron
+  description: Priest who casts lots, confesses, and performs the rite.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Yahweh
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: children of Israel
+  description: Community for whom atonement is made.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: scapegoat
+  literal_form: scapegoat
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: lots
+  literal_form: lots
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: wilderness
+  literal_form: wilderness
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: atonement_day
+  literal_form: day of atonement
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Leviticus 16:7-10, 20-22, 29-34
+  summary: Lots separate two goats; one live goat receives confessed iniquities and
+    is sent into the wilderness during the annual atonement rite.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: scapegoat
+  taxonomy_refs:
+  - scapegoat
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:2
+  label: ritual_transfer
+  taxonomy_refs:
+  - ritual_transfer
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:3
+  label: annual_purification
+  taxonomy_refs:
+  - annual_purification
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+comparison_claims:
+- id: claim:1
+  claim: The passage links communal atonement with a ritual transfer of iniquities
+    onto a live animal sent away.
+  claim_level: same_motif
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Leviticus 16:7-10, 20-22, 29-34
+  quote_or_summary: Aaron shall cast lots for the two goats... The goat shall carry
+    all their iniquities on himself to a solitary land.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Initial data seed for Leviticus.
