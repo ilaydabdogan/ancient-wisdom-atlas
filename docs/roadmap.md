@@ -12,16 +12,17 @@ Goal: make the repo trustworthy before it becomes large.
 
 Suggested first patterns:
 
-- Divine Mother and Holy Child
-- Descent Into The Underworld
-- Flood And Renewal
-- Death And Return
-- Sacred Tree / Axis Mundi
-- Trickster At The Boundary
-- Miraculous Birth
-- Sacred Twins
-- Serpent Of Wisdom Or Chaos
-- Hero Leaves Home And Returns Transformed
+- Divine Mother and Holy Child: started
+- Descent Into The Underworld: started
+- Flood And Renewal: started
+- Death And Return: started
+- Sacred Tree / Axis Mundi: started
+- Trickster At The Boundary: started
+- Miraculous Birth: started
+- Sacred Twins: started
+- Serpent Of Wisdom Or Chaos: started
+- Hero Leaves Home And Returns Transformed: started
+- Sacrifice And Covenant: started
 
 ## Phase 2: Corpus Buildout
 
@@ -82,6 +83,8 @@ Planned exports:
 - `exports/claims.jsonl` for comparison and graph edges
 - graph format for Neo4j, RDF, or network analysis
 
+The first JSONL exporter lives at `scripts/export_jsonl.rb`.
+
 ## Phase 6: Research Questions
 
 Examples:
@@ -91,4 +94,3 @@ Examples:
 - Which motifs intensify during empire, migration, collapse, or religious transition?
 - Which symbols cluster around death and rebirth?
 - Which motifs have strong historical transmission evidence versus archetypal recurrence?
-

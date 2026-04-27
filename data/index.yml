@@ -7,12 +7,25 @@ collections:
     - texts/citation-only
   motifs:
     - taxonomy/motifs.yml
+  symbols:
+    - taxonomy/symbols.yml
   patterns:
     - patterns/divine-mother-holy-child.md
+    - patterns/death-and-return.md
+    - patterns/descent-into-underworld.md
+    - patterns/flood-and-renewal.md
+    - patterns/hero-journey.md
+    - patterns/miraculous-birth.md
+    - patterns/sacred-tree-axis-mundi.md
+    - patterns/sacred-twins.md
+    - patterns/sacrifice-and-covenant.md
+    - patterns/serpent-wisdom-chaos.md
+    - patterns/trickster-at-boundary.md
   sources:
     - data/sources/seed_sources.yml
 
 exports:
   markdown: true
-  jsonl_planned: true
+  jsonl_planned: false
+  jsonl_script: scripts/export_jsonl.rb
   graph_planned: true

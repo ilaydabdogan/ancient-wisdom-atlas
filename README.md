@@ -32,6 +32,7 @@ ancient-wisdom-atlas/
     roadmap.md            Build phases from corpus to pattern atlas
   patterns/               Cross-cultural pattern essays
   schemas/                JSON schemas for metadata validation
+  scripts/                Export and validation utilities
   taxonomy/               Motifs, traditions, symbols, and archetypes
   texts/                  Complete Markdown source texts
   templates/              Reusable Markdown entry templates
@@ -75,3 +76,15 @@ Start with [Divine Mother and Holy Child](patterns/divine-mother-holy-child.md),
 ## Build Roadmap
 
 See [docs/roadmap.md](docs/roadmap.md) for the staged plan: foundation, corpus buildout, AI extraction, pattern atlas, machine exports, and research questions.
+
+## Machine Export
+
+Run:
+
+```sh
+ruby scripts/validate_metadata.rb
+ruby scripts/check_taxonomy_refs.rb
+ruby scripts/export_jsonl.rb
+```
+
+The exporter writes JSONL files into `exports/`, which is ignored by Git by default.
