@@ -77,6 +77,14 @@ Start with [Divine Mother and Holy Child](patterns/divine-mother-holy-child.md),
 
 See [docs/roadmap.md](docs/roadmap.md) for the staged plan: foundation, corpus buildout, AI extraction, pattern atlas, machine exports, and research questions.
 
+## First 500
+
+See [docs/first-500-corpus.md](docs/first-500-corpus.md) for the first large collection target: 500 corpus units across ancient Near Eastern, Egyptian, biblical, Greek/Roman, South Asian, Buddhist, East Asian, Islamic/Persianate, Norse/Celtic, Mesoamerican, African, and Oceanic material.
+
+## Pattern Logic
+
+See [docs/pattern-discovery-logic.md](docs/pattern-discovery-logic.md) for how themes, symbols, motifs, and comparisons should be extracted and scored.
+
 ## Machine Export
 
 Run:
@@ -84,6 +92,7 @@ Run:
 ```sh
 ruby scripts/validate_metadata.rb
 ruby scripts/check_taxonomy_refs.rb
+ruby scripts/check_first_500_corpus.rb
 ruby scripts/export_jsonl.rb
 ```
 
