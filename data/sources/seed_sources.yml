@@ -1,0 +1,103 @@
+sources:
+  - id: source.project_gutenberg
+    title: Project Gutenberg
+    type: digital_library
+    url: https://www.gutenberg.org/
+    rights:
+      status: mixed_public_domain_and_permissioned
+      jurisdiction: US
+      training_use: conditional
+      full_text: conditional
+      notes: Verify individual work status. Project Gutenberg is a trademarked source brand; for redistributed corpus files, track and follow the Project Gutenberg license/trademark rules and avoid implying endorsement.
+    trademark:
+      status: present
+      marks: [Project Gutenberg]
+      use_rules: Do not use the mark in corpus branding or modified commercial redistribution unless allowed by the Project Gutenberg terms.
+
+  - id: source.internet_sacred_text_archive
+    title: Internet Sacred Text Archive
+    type: digital_library
+    url: https://sacred-texts.com/
+    rights:
+      status: mixed
+      jurisdiction: US
+      training_use: conditional
+      full_text: conditional
+      notes: Strong source discovery site for religion, mythology, folklore, and esotericism. Verify each text and edition.
+
+  - id: source.wikisource
+    title: Wikisource
+    type: digital_library
+    url: https://wikisource.org/
+    rights:
+      status: public_domain_or_cc_by_sa
+      jurisdiction: US
+      training_use: conditional
+      full_text: conditional
+      notes: Track page-level license and attribution requirements.
+
+  - id: source.open_greek_and_latin
+    title: Open Greek and Latin
+    type: corpus
+    url: https://www.opengreekandlatin.org/
+    rights:
+      status: open_license_mixed
+      training_use: conditional
+      full_text: conditional
+      notes: Useful for Greek and Latin source corpora; check repository-specific licenses.
+
+  - id: source.perseus_digital_library
+    title: Perseus Digital Library
+    type: digital_library
+    url: https://www.perseus.tufts.edu/
+    rights:
+      status: mixed
+      training_use: conditional
+      full_text: conditional
+      notes: Excellent classics source; rights vary by component and repository.
+
+  - id: source.openiti
+    title: OpenITI
+    type: corpus
+    url: https://openiti.org/
+    rights:
+      status: mixed
+      training_use: conditional
+      full_text: conditional
+      notes: Machine-actionable Arabic and Persian Islamicate corpus; verify source and license details per text.
+
+  - id: source.hathitrust_extracted_features
+    title: HathiTrust Research Center Extracted Features
+    type: derived_dataset
+    url: https://htrc.atlassian.net/wiki/spaces/COM/pages/43295914/Extracted+Features+v.2.0
+    rights:
+      status: cc_by_4_0_dataset
+      training_use: conditional
+      full_text: blocked
+      notes: Useful for non-consumptive feature analysis; not a substitute for full-text rights clearance.
+
+  - id: source.thompson_motif_index
+    title: Motif-Index of Folk-Literature
+    creator: Stith Thompson
+    type: reference
+    url: https://en.wikisource.org/wiki/Motif-Index_of_Folk-Literature
+    rights:
+      status: public_domain_us
+      training_use: allowed
+      full_text: allowed
+      notes: Foundational motif reference; preserve exact IDs and source citations.
+
+  - id: source.world_english_bible
+    title: World English Bible
+    type: bible_translation
+    url: https://worldenglish.bible/
+    rights:
+      status: public_domain
+      jurisdiction: US
+      training_use: allowed
+      full_text: allowed
+      notes: Public-domain Bible translation. If the text is changed, do not call the result World English Bible.
+    trademark:
+      status: present
+      marks: [World English Bible]
+      use_rules: The name identifies faithful copies of the public-domain translation; rename modified derivatives.

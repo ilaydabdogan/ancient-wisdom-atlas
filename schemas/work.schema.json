@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/ancient-wisdom-atlas/work.schema.json",
+  "title": "Ancient Wisdom Atlas Work Metadata",
+  "type": "object",
+  "required": ["id", "title", "tradition", "rights"],
+  "properties": {
+    "id": { "type": "string" },
+    "title": { "type": "string" },
+    "alternate_titles": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "tradition": { "type": "string" },
+    "culture": { "type": "string" },
+    "region": { "type": "string" },
+    "language": { "type": "string" },
+    "date_range": { "type": "string" },
+    "source_type": {
+      "type": "string",
+      "enum": ["text", "oral_tradition", "artifact", "ritual", "image", "secondary"]
+    },
+    "rights": {
+      "type": "object",
+      "required": ["status", "training_use"],
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": [
+            "public_domain",
+            "public_domain_us",
+            "cc0",
+            "cc_by",
+            "cc_by_sa",
+            "cc_by_nc",
+            "permissioned",
+            "citation_only",
+            "unknown"
+          ]
+        },
+        "jurisdiction": { "type": "string" },
+        "license_url": { "type": "string" },
+        "source_url": { "type": "string" },
+        "training_use": {
+          "type": "string",
+          "enum": ["allowed", "conditional", "blocked", "unknown"]
+        },
+        "full_text": {
+          "type": "string",
+          "enum": ["allowed", "conditional", "blocked", "unknown"]
+        },
+        "notes": { "type": "string" }
+      }
+    },
+    "trademark": {
+      "type": "object",
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": ["none", "present", "unknown"]
+        },
+        "marks": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "use_rules": { "type": "string" }
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "motifs": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "figures": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

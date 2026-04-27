@@ -1,0 +1,77 @@
+# Ancient Wisdom Atlas
+
+A Markdown-first knowledge base for myths, sacred texts, symbols, archetypes, ritual patterns, and recurring human themes across cultures and time.
+
+The project has two goals:
+
+1. Build a provenance-rich corpus that can later be used for search, analysis, embeddings, and training datasets.
+2. Map recurring patterns across traditions: divine mother and child, dying-and-rising figures, world trees, flood myths, descents to the underworld, tricksters, sacred twins, hero journeys, and other symbolic structures.
+
+## Core Principle
+
+Do not make a pile of inspirational summaries. Make a scholarly memory system.
+
+Every note should separate:
+
+- `source_text`: what a tradition, text, image, or artifact actually says or depicts
+- `interpretation`: what a scholar, analyst, or model thinks it means
+- `comparison`: how it relates to motifs in other traditions
+- `confidence`: how strong the evidence is
+- `rights`: whether the material can be reused in datasets
+
+## Repository Shape
+
+```text
+ancient-wisdom-atlas/
+  data/
+    sources/              Curated source registry
+    index.yml             Machine-readable collection index
+  docs/
+    corpus-policy.md      Copyright, provenance, and inclusion rules
+    methodology.md        How to compare myths without flattening cultures
+    roadmap.md            Build phases from corpus to pattern atlas
+  patterns/               Cross-cultural pattern essays
+  schemas/                JSON schemas for metadata validation
+  taxonomy/               Motifs, traditions, symbols, and archetypes
+  texts/                  Complete Markdown source texts
+  templates/              Reusable Markdown entry templates
+```
+
+## Recommended Workflow
+
+1. **Register the source**
+   Add the text, artifact, image, or secondary work to `data/sources/seed_sources.yml`.
+
+2. **Add the complete text when rights allow**
+   Put full Markdown transcriptions in `texts/public-domain/`, `texts/open-license/`, or `texts/permissioned/`. Use `templates/full-text.md`.
+
+3. **Create a work note**
+   Use `templates/work.md` for a source text such as the *Epic of Gilgamesh*, *Theogony*, *Genesis*, *Bhagavad Gita*, *Popol Vuh*, or a hymn to Isis.
+
+4. **Extract motifs**
+   Use `templates/motif.md` to capture recurring symbols, roles, scenes, objects, and narrative events.
+
+5. **Compare patterns**
+   Use `templates/comparison.md` for cross-cultural hypotheses such as Divine Mother and Holy Child.
+
+6. **Export for machines**
+   Keep front matter consistent so the repo can later be exported to JSONL, embeddings, graph databases, or model training datasets.
+
+## Rights Tiers
+
+- `public_domain`: safe default for full-text ingestion when verified in the relevant jurisdiction.
+- `cc0`: ideal for metadata and original contributions.
+- `cc_by` / `cc_by_sa`: usable with attribution and license compatibility tracking.
+- `citation_only`: use for modern copyrighted authors such as Carl Jung and Joseph Campbell unless a specific open license allows more.
+
+## Full-Text Rule
+
+The repo should contain complete Markdown texts for rights-cleared works. A trademarked title or source name is not the same thing as copyright. If a text is public domain but the source name is trademarked, keep the text only when the source permits it, avoid implying endorsement, and rename modified versions when required.
+
+## First Pattern Seed
+
+Start with [Divine Mother and Holy Child](patterns/divine-mother-holy-child.md), because it naturally connects Egyptian, Christian, goddess, royal, and archetypal mother-child imagery while forcing careful separation between visual similarity, historical transmission, and psychological interpretation.
+
+## Build Roadmap
+
+See [docs/roadmap.md](docs/roadmap.md) for the staged plan: foundation, corpus buildout, AI extraction, pattern atlas, machine exports, and research questions.
