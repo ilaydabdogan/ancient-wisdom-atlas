@@ -14,6 +14,12 @@ COLLECTIONS = {
   "patterns" => ["patterns/**/*.md"]
 }.freeze
 
+STRUCTURED_COLLECTIONS = {
+  "extractions" => ["extractions/**/*.yml", "extractions/**/*.yaml"],
+  "manifests" => ["manifests/**/*.yml", "manifests/**/*.yaml"],
+  "collections" => ["data/collections/**/*.yml", "data/collections/**/*.yaml"]
+}.freeze
+
 def read_markdown(path)
   raw = File.read(path)
   if raw.start_with?("---\n")
@@ -41,6 +47,13 @@ def write_jsonl(collection, records)
   output_path
 end
 
+def read_structured(path)
+  {
+    "path" => path.sub("#{ROOT}/", ""),
+    "data" => YAML.safe_load(File.read(path), permitted_classes: [Date, Time], aliases: false)
+  }
+end
+
 written = []
 
 COLLECTIONS.each do |collection, globs|
@@ -51,7 +64,15 @@ COLLECTIONS.each do |collection, globs|
   written << write_jsonl(collection, records)
 end
 
-atlas_records = COLLECTIONS.keys.flat_map do |collection|
+STRUCTURED_COLLECTIONS.each do |collection, globs|
+  files = globs.flat_map { |glob| Dir.glob(File.join(ROOT, glob)) }.sort
+  records = files.map do |path|
+    read_structured(path).merge("collection" => collection)
+  end
+  written << write_jsonl(collection, records)
+end
+
+atlas_records = (COLLECTIONS.keys + STRUCTURED_COLLECTIONS.keys).flat_map do |collection|
   File.readlines(File.join(EXPORT_DIR, "#{collection}.jsonl"), chomp: true).map { |line| JSON.parse(line) }
 end
 written << write_jsonl("atlas", atlas_records)

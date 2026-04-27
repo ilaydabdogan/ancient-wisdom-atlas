@@ -1,0 +1,150 @@
+---
+record_id: extraction.genesis.dream_descent
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+passage_locator:
+  label: Genesis 28:10-17
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: He dreamed and saw a stairway set upon the earth, and its top reached to
+    heaven.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Jacob sleeps during a journey.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A stairway links earth and heaven.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Divine messengers ascend and descend.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A promise is spoken.
+  category: action
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Jacob
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Yahweh
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: angels of God
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: stairway
+  literal_form: stairway
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: earth
+  literal_form: earth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: heaven
+  literal_form: heaven
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: stone
+  literal_form: stone
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Genesis 28:10-17
+  summary: Jacob sleeps during a journey. A stairway links earth and heaven. Divine
+    messengers ascend and descend. A promise is spoken.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: sacred_tree_axis
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:2
+  label: ascent
+  taxonomy_refs:
+  - ascent
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:3
+  label: world_center
+  taxonomy_refs:
+  - world_center
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents a vertical connection between earth and heaven.
+  claim_level: same_motif
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Genesis 28:10-17
+  quote_or_summary: He dreamed and saw a stairway set upon the earth, and its top
+    reached to heaven.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: First data seed.

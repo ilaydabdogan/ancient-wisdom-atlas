@@ -12,6 +12,10 @@ yaml_globs = [
   ".github/**/*.yaml",
   "data/**/*.yml",
   "data/**/*.yaml",
+  "extractions/**/*.yml",
+  "extractions/**/*.yaml",
+  "manifests/**/*.yml",
+  "manifests/**/*.yaml",
   "taxonomy/**/*.yml",
   "taxonomy/**/*.yaml",
   "templates/**/*.yml",
@@ -42,4 +46,3 @@ else
   warn errors.join("\n")
   exit 1
 end
-

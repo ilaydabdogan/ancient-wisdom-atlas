@@ -1,0 +1,3206 @@
+---
+manifest_version: '1'
+batch_id: web-classic-genesis-seed
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.web_genesis_01
+  work_id: biblical.genesis.web_classic
+  title: Genesis 1
+  source_url: https://ebible.org/eng-web/GEN01.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN01.htm
+    checksum:
+      algorithm: sha256
+      value: e43e12bd1d8401f367cc3d1488f6c12df20ebf9eddb3212aa8617193acfc2aa8
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_02
+  work_id: biblical.genesis.web_classic
+  title: Genesis 2
+  source_url: https://ebible.org/eng-web/GEN02.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN02.htm
+    checksum:
+      algorithm: sha256
+      value: 72ae79867ee350e9a260e2a0363336dd3f68151f595d6bfcf8d9c7204fa4898e
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_03
+  work_id: biblical.genesis.web_classic
+  title: Genesis 3
+  source_url: https://ebible.org/eng-web/GEN03.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN03.htm
+    checksum:
+      algorithm: sha256
+      value: 91bd372d62932e707d38dde69753ab17c016e14afd15a035f70625ed3e677e0a
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_04
+  work_id: biblical.genesis.web_classic
+  title: Genesis 4
+  source_url: https://ebible.org/eng-web/GEN04.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN04.htm
+    checksum:
+      algorithm: sha256
+      value: 269acddb2ab5244f89e2dc10485b4acb188c4a64c1d74ec902423fc83a425f6f
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_05
+  work_id: biblical.genesis.web_classic
+  title: Genesis 5
+  source_url: https://ebible.org/eng-web/GEN05.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN05.htm
+    checksum:
+      algorithm: sha256
+      value: 96b82f3db7f7781d61de83dfbc7c63aa48ec903883aa9d564456296b1d68898a
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_06
+  work_id: biblical.genesis.web_classic
+  title: Genesis 6
+  source_url: https://ebible.org/eng-web/GEN06.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN06.htm
+    checksum:
+      algorithm: sha256
+      value: c208ecde69a11608e7dd9d914c23d55ad4410ed25e17b9135b79a705809ef776
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_07
+  work_id: biblical.genesis.web_classic
+  title: Genesis 7
+  source_url: https://ebible.org/eng-web/GEN07.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN07.htm
+    checksum:
+      algorithm: sha256
+      value: e709b11c9234cd39a0e9d5d7f1528bf7f2605ada58ab20bb11d094069b09fa10
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_08
+  work_id: biblical.genesis.web_classic
+  title: Genesis 8
+  source_url: https://ebible.org/eng-web/GEN08.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN08.htm
+    checksum:
+      algorithm: sha256
+      value: 9a0da1b625af15dee3f3d2c0abb5acec4bf78c5cc258a732b7d1b9907cde8161
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_09
+  work_id: biblical.genesis.web_classic
+  title: Genesis 9
+  source_url: https://ebible.org/eng-web/GEN09.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN09.htm
+    checksum:
+      algorithm: sha256
+      value: 1056c68ff7cd2263d70be4fe096e4bf840966288d251a3a76bc5f9868ff1302e
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_10
+  work_id: biblical.genesis.web_classic
+  title: Genesis 10
+  source_url: https://ebible.org/eng-web/GEN10.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN10.htm
+    checksum:
+      algorithm: sha256
+      value: 65f2795cbab3a91779a1e04f378017c95f68e3e450ab2e3dea8ad0cc86c05de8
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_11
+  work_id: biblical.genesis.web_classic
+  title: Genesis 11
+  source_url: https://ebible.org/eng-web/GEN11.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN11.htm
+    checksum:
+      algorithm: sha256
+      value: 5836423b9edfbb2d452a788cd8c7e0526f29e3a3858810d0e8e48092c60979b8
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_12
+  work_id: biblical.genesis.web_classic
+  title: Genesis 12
+  source_url: https://ebible.org/eng-web/GEN12.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN12.htm
+    checksum:
+      algorithm: sha256
+      value: d22d80561b837b56bdf2c35bdfdb88c1a60762494b2f1cbab3df37635c5fe4aa
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_13
+  work_id: biblical.genesis.web_classic
+  title: Genesis 13
+  source_url: https://ebible.org/eng-web/GEN13.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN13.htm
+    checksum:
+      algorithm: sha256
+      value: 80b2fdb6ddfb47bc7835ddcccb8b3bd2d8a649ce95449c46df788bffb073598f
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_14
+  work_id: biblical.genesis.web_classic
+  title: Genesis 14
+  source_url: https://ebible.org/eng-web/GEN14.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN14.htm
+    checksum:
+      algorithm: sha256
+      value: 173d3364dc2241ad1b0042549939541f89b1e8bd7fb212b14a99a5bafc1439a8
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_15
+  work_id: biblical.genesis.web_classic
+  title: Genesis 15
+  source_url: https://ebible.org/eng-web/GEN15.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN15.htm
+    checksum:
+      algorithm: sha256
+      value: f20f5d2f847078745ea26b95fc47924f12cd1c012ee4d7a53ac8f9272898cba9
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_16
+  work_id: biblical.genesis.web_classic
+  title: Genesis 16
+  source_url: https://ebible.org/eng-web/GEN16.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN16.htm
+    checksum:
+      algorithm: sha256
+      value: 487c8b3192c9bed26e2f42d618f02cc9c187d78bd6aa28867e8f66248478e3d0
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_17
+  work_id: biblical.genesis.web_classic
+  title: Genesis 17
+  source_url: https://ebible.org/eng-web/GEN17.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN17.htm
+    checksum:
+      algorithm: sha256
+      value: 6497b7a72dbe23858df5e9f15ef6767960a0e4dc50909d99932e9b19811378ee
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_18
+  work_id: biblical.genesis.web_classic
+  title: Genesis 18
+  source_url: https://ebible.org/eng-web/GEN18.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN18.htm
+    checksum:
+      algorithm: sha256
+      value: b5e415886427c8ac23e45aa262d4ff2ebbdcb1049be8d73b09a786e887c8dbf5
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_19
+  work_id: biblical.genesis.web_classic
+  title: Genesis 19
+  source_url: https://ebible.org/eng-web/GEN19.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN19.htm
+    checksum:
+      algorithm: sha256
+      value: 96315e2b2814e890977d9b65ce16a6edae46fbdf983ec51a83264cde1f142497
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_20
+  work_id: biblical.genesis.web_classic
+  title: Genesis 20
+  source_url: https://ebible.org/eng-web/GEN20.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN20.htm
+    checksum:
+      algorithm: sha256
+      value: 8bc6b1f33d176e6e4b406adc36eafc7ef3ac6788901e1a1ee48eac656b16f96d
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_21
+  work_id: biblical.genesis.web_classic
+  title: Genesis 21
+  source_url: https://ebible.org/eng-web/GEN21.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN21.htm
+    checksum:
+      algorithm: sha256
+      value: e63e5011ae56928b080d389c9970f109222f6442d59df1e28eaf6594baf0b851
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_22
+  work_id: biblical.genesis.web_classic
+  title: Genesis 22
+  source_url: https://ebible.org/eng-web/GEN22.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN22.htm
+    checksum:
+      algorithm: sha256
+      value: 227a83d6c7b0b6e994d8b49296c6bd16b062350a07d7888a47e9e75dfba4087f
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_23
+  work_id: biblical.genesis.web_classic
+  title: Genesis 23
+  source_url: https://ebible.org/eng-web/GEN23.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN23.htm
+    checksum:
+      algorithm: sha256
+      value: 87c2c59940300f261808435791e624590a958d5a8ce8c8cbf708d6f26c2a83f9
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_24
+  work_id: biblical.genesis.web_classic
+  title: Genesis 24
+  source_url: https://ebible.org/eng-web/GEN24.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN24.htm
+    checksum:
+      algorithm: sha256
+      value: 7a10d70424b17f45bc78dee88b842428f638fddfe78a5d84e6719f1fdb3f1463
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_25
+  work_id: biblical.genesis.web_classic
+  title: Genesis 25
+  source_url: https://ebible.org/eng-web/GEN25.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN25.htm
+    checksum:
+      algorithm: sha256
+      value: 2f9d1808bbf1428d0f0e05774127daa3e2974dadcd4ac1b5272d434000dd3c9f
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_26
+  work_id: biblical.genesis.web_classic
+  title: Genesis 26
+  source_url: https://ebible.org/eng-web/GEN26.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN26.htm
+    checksum:
+      algorithm: sha256
+      value: 3fa58db231123c114e7681d2da19519041f0bc6318bcb4cbe2c3be74a148c961
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_27
+  work_id: biblical.genesis.web_classic
+  title: Genesis 27
+  source_url: https://ebible.org/eng-web/GEN27.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN27.htm
+    checksum:
+      algorithm: sha256
+      value: b4a33a557a40a0c70b4e97a77260bff0ae2aea8ad6d2eddebe4cb44b0c8f7c54
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_28
+  work_id: biblical.genesis.web_classic
+  title: Genesis 28
+  source_url: https://ebible.org/eng-web/GEN28.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN28.htm
+    checksum:
+      algorithm: sha256
+      value: 25567dd50d6ab717975ea748af6f26ed295cb0f3a9aeec80e39ae868b85d399d
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_29
+  work_id: biblical.genesis.web_classic
+  title: Genesis 29
+  source_url: https://ebible.org/eng-web/GEN29.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN29.htm
+    checksum:
+      algorithm: sha256
+      value: 82d111c54ab343e69a80338f8308da29b9053e7d52556d16a08c850470be6ed1
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_30
+  work_id: biblical.genesis.web_classic
+  title: Genesis 30
+  source_url: https://ebible.org/eng-web/GEN30.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN30.htm
+    checksum:
+      algorithm: sha256
+      value: f88d8e5f737957b0382c6d6e1dd617193c83237e7df547e6ac9e4b1ce05ecd9d
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_31
+  work_id: biblical.genesis.web_classic
+  title: Genesis 31
+  source_url: https://ebible.org/eng-web/GEN31.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN31.htm
+    checksum:
+      algorithm: sha256
+      value: 6ec5c7b5d7f3f83b78cb65f49884dba071d143950813c516829a500a45013f12
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_32
+  work_id: biblical.genesis.web_classic
+  title: Genesis 32
+  source_url: https://ebible.org/eng-web/GEN32.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN32.htm
+    checksum:
+      algorithm: sha256
+      value: e337fd0278b660a05873ed1c45182da18c14001bcad151b433c0dfbf3a0b9800
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_33
+  work_id: biblical.genesis.web_classic
+  title: Genesis 33
+  source_url: https://ebible.org/eng-web/GEN33.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN33.htm
+    checksum:
+      algorithm: sha256
+      value: 233154cd2a2c257309889d7ae420b2e0dddabd6adb22103dfc6a24043a5c6cb2
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_34
+  work_id: biblical.genesis.web_classic
+  title: Genesis 34
+  source_url: https://ebible.org/eng-web/GEN34.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN34.htm
+    checksum:
+      algorithm: sha256
+      value: dfceda686b9579f6a39db0acb95542dbeda92fe5545f1ca1d4859bde6452ab40
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_35
+  work_id: biblical.genesis.web_classic
+  title: Genesis 35
+  source_url: https://ebible.org/eng-web/GEN35.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN35.htm
+    checksum:
+      algorithm: sha256
+      value: e7ff1b368def51e61c6483532b5a223c49b411627c3282931f7db527e414e317
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_36
+  work_id: biblical.genesis.web_classic
+  title: Genesis 36
+  source_url: https://ebible.org/eng-web/GEN36.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN36.htm
+    checksum:
+      algorithm: sha256
+      value: 66d96c41551fc847a7e47ad2613b2042adcc7ee0b37d8f91058e3bfa65fa9f6b
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_37
+  work_id: biblical.genesis.web_classic
+  title: Genesis 37
+  source_url: https://ebible.org/eng-web/GEN37.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN37.htm
+    checksum:
+      algorithm: sha256
+      value: d367d59a4dbe708c5c2efb1d6acc5084cf24661a04e118b3a2c40f30f98fd754
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_38
+  work_id: biblical.genesis.web_classic
+  title: Genesis 38
+  source_url: https://ebible.org/eng-web/GEN38.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN38.htm
+    checksum:
+      algorithm: sha256
+      value: a8a819cc7ce08e2c8da366d8760c40cbddd74ff09a7e5edde07ea7e9375eaf6b
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_39
+  work_id: biblical.genesis.web_classic
+  title: Genesis 39
+  source_url: https://ebible.org/eng-web/GEN39.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN39.htm
+    checksum:
+      algorithm: sha256
+      value: 5a67c1eee920c9c2b6182e73d5dca52685a2a1cfb94671f49f90229cc3ae8f23
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_40
+  work_id: biblical.genesis.web_classic
+  title: Genesis 40
+  source_url: https://ebible.org/eng-web/GEN40.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN40.htm
+    checksum:
+      algorithm: sha256
+      value: 7531bb7828835821c9ef4c3046394f3549e58723e6cf7f5ea007e18c189c3907
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_41
+  work_id: biblical.genesis.web_classic
+  title: Genesis 41
+  source_url: https://ebible.org/eng-web/GEN41.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN41.htm
+    checksum:
+      algorithm: sha256
+      value: f02d7bd76311d7abc0eb73c72ea3076de110d206919ab43e070f0352e4456585
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_42
+  work_id: biblical.genesis.web_classic
+  title: Genesis 42
+  source_url: https://ebible.org/eng-web/GEN42.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN42.htm
+    checksum:
+      algorithm: sha256
+      value: dce039258c100360b140d29408a59f6ac69bf41a9040ef3d3a3fc684725aac44
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_43
+  work_id: biblical.genesis.web_classic
+  title: Genesis 43
+  source_url: https://ebible.org/eng-web/GEN43.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN43.htm
+    checksum:
+      algorithm: sha256
+      value: aadea0602d9d100b4d43ab06015513c2204e3e479841b5fe4e87636ec69582b0
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_44
+  work_id: biblical.genesis.web_classic
+  title: Genesis 44
+  source_url: https://ebible.org/eng-web/GEN44.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN44.htm
+    checksum:
+      algorithm: sha256
+      value: dc423f0f619d6cb969459c20d4e7f5b30b9324499aed0a1a74fc4570c4af1b48
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_45
+  work_id: biblical.genesis.web_classic
+  title: Genesis 45
+  source_url: https://ebible.org/eng-web/GEN45.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN45.htm
+    checksum:
+      algorithm: sha256
+      value: 5e42c0a34dc89c7c2b29b6eac9dc89a81b211ff02f0b367027d41c8cc1b303b1
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_46
+  work_id: biblical.genesis.web_classic
+  title: Genesis 46
+  source_url: https://ebible.org/eng-web/GEN46.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN46.htm
+    checksum:
+      algorithm: sha256
+      value: d17737dcad3f3c8bf6284275353b4745ed6bb700e9f7a67769118bdf1472cf82
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_47
+  work_id: biblical.genesis.web_classic
+  title: Genesis 47
+  source_url: https://ebible.org/eng-web/GEN47.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN47.htm
+    checksum:
+      algorithm: sha256
+      value: 9cf2bb858adc978e2cddffe159fc47ebbb808aa68c815f440ff515e9d3721863
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_48
+  work_id: biblical.genesis.web_classic
+  title: Genesis 48
+  source_url: https://ebible.org/eng-web/GEN48.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN48.htm
+    checksum:
+      algorithm: sha256
+      value: 23cd995c47ac9d7e5fb9d14ef2bc48fd12f8088cd30145aea5f3a60be85ffc00
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_49
+  work_id: biblical.genesis.web_classic
+  title: Genesis 49
+  source_url: https://ebible.org/eng-web/GEN49.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN49.htm
+    checksum:
+      algorithm: sha256
+      value: 06c49870109bdf35ac4ce2800ba1e93db39f12de3e71fbce1765e9540a9ae0fd
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
+- id: artifact.web_genesis_50
+  work_id: biblical.genesis.web_classic
+  title: Genesis 50
+  source_url: https://ebible.org/eng-web/GEN50.htm
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/biblical/world-english-bible-classic/genesis/GEN50.htm
+    checksum:
+      algorithm: sha256
+      value: 9cacb68192753808aea69d4de83a7419604bf47311040fdeaf1a95917bf04314
+    media_type: text/html
+    notes: Raw chapter HTML from eBible.org.
+  converted:
+    path: imports/converted/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: 40a8141bcd02387bb6354e6a1bd063d045ed748c09b17bd602c1873f50219e16
+    media_type: text/markdown
+    notes: Single converted Markdown draft assembled from all 50 raw chapter files.
+  canonical:
+    path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    checksum:
+      algorithm: sha256
+      value: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown seed text.
+  converter:
+    name: scripts/build_web_genesis_seed.rb
+    version: '1'
+    command: ruby scripts/build_web_genesis_seed.rb
+    settings:
+    - one_verse_per_line
+    - preserve_chapter_footnotes
+    notes: Source-specific HTML parser for the first corpus seed.
+  cleanup_notes:
+  - Removed HTML navigation, headers, footers, and inline note anchors.
+  - Decoded HTML entities.
+  - Preserved footnote text by chapter.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    full_text: allowed
+    training_use: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  trademark:
+    status: present
+    marks:
+    - World English Bible
+    use_rules: Use as factual source attribution. Rename modified derivatives that
+      alter the translation text.
+    notes: The source name is recorded as provenance and not used as repo branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Initial seed reviewed for clean Markdown structure and source provenance;
+      spot-checks performed against raw HTML.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.

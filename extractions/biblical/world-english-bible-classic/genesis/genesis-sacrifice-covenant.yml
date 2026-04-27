@@ -1,0 +1,144 @@
+---
+record_id: extraction.genesis.sacrifice_covenant
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+passage_locator:
+  label: Genesis 8:20-22; 9:8-17
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: Noah built an altar to Yahweh... I establish my covenant with you, and with
+    your offspring after you.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Noah builds an altar.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Offerings are made.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A covenant is established.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A sign is placed in the clouds.
+  category: action
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Noah
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Yahweh
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: altar
+  literal_form: altar
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: offering
+  literal_form: offering
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: covenant
+  literal_form: covenant
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: rainbow
+  literal_form: rainbow
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Genesis 8:20-22; 9:8-17
+  summary: Noah builds an altar. Offerings are made. A covenant is established. A
+    sign is placed in the clouds.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:2
+  label: covenant
+  taxonomy_refs:
+  - covenant
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:3
+  label: sacred_exchange
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+comparison_claims:
+- id: claim:1
+  claim: The passage links sacrifice, covenant, and post-flood renewal.
+  claim_level: same_motif
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Genesis 8:20-22; 9:8-17
+  quote_or_summary: Noah built an altar to Yahweh... I establish my covenant with
+    you, and with your offspring after you.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: First data seed.

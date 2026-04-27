@@ -1,0 +1,138 @@
+---
+record_id: extraction.genesis.creation_light
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+passage_locator:
+  label: Genesis 1:1-5
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: In the beginning, God created the heavens and the earth... God said, “Let
+    there be light,” and there was light.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: God creates heavens and earth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Darkness is on the deep.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Light appears through divine speech.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Light and darkness are divided.
+  category: action
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: God
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: deep
+  literal_form: deep
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: waters
+  literal_form: waters
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: light
+  literal_form: light
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: darkness
+  literal_form: darkness
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Genesis 1:1-5
+  summary: God creates heavens and earth. Darkness is on the deep. Light appears through
+    divine speech. Light and darkness are divided.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: chaos
+  taxonomy_refs:
+  - chaos
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:2
+  label: world_center
+  taxonomy_refs:
+  - world_center
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:3
+  label: wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+comparison_claims:
+- id: claim:1
+  claim: Creation begins with ordering darkness, deep, waters, and light.
+  claim_level: same_motif
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Genesis 1:1-5
+  quote_or_summary: In the beginning, God created the heavens and the earth... God
+    said, “Let there be light,” and there was light.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: First data seed.

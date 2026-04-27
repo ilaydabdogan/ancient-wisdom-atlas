@@ -96,6 +96,10 @@ See [docs/pattern-discovery-logic.md](docs/pattern-discovery-logic.md) for how t
 - [docs/extraction-protocol.md](docs/extraction-protocol.md): how AI/humans should extract symbols, motifs, scenes, and comparison claims
 - [docs/ci.md](docs/ci.md): what GitHub Actions checks on every push
 
+## First Data Seed
+
+The first canonical full text is [Genesis](texts/public-domain/biblical/world-english-bible-classic/genesis.md), sourced from the public-domain World English Bible Classic and backed by raw HTML imports, a converted draft, an ingestion manifest, and initial extraction records.
+
 ## Machine Export
 
 Run:

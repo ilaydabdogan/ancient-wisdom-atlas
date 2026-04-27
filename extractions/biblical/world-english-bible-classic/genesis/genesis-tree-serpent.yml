@@ -1,0 +1,150 @@
+---
+record_id: extraction.genesis.tree_serpent
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+passage_locator:
+  label: Genesis 3:1-7
+  translation: World English Bible Classic
+  notes: Initial hand-curated seed extraction.
+canonical_text:
+  quote: Now the serpent was more subtle than any animal of the field... She took
+    some of its fruit, and ate.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A serpent speaks to the woman.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A forbidden tree is discussed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Fruit is taken and eaten.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The humans recognize their nakedness.
+  category: action
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: serpent
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: woman
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: man
+  description: ''
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: serpent
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tree
+  literal_form: tree
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: fruit
+  literal_form: fruit
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: nakedness
+  literal_form: nakedness
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Genesis 3:1-7
+  summary: A serpent speaks to the woman. A forbidden tree is discussed. Fruit is
+    taken and eaten. The humans recognize their nakedness.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: serpent
+  taxonomy_refs:
+  - serpent
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:2
+  label: sacred_tree_axis
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+- id: motif:3
+  label: wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Candidate motif from literal passage evidence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Seed extraction; requires later human review.
+comparison_claims:
+- id: claim:1
+  claim: The passage combines serpent, tree, fruit, prohibition, and knowledge motifs.
+  claim_level: same_motif
+  target: pattern atlas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Initial corpus-internal claim only; not a cross-cultural conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Genesis 3:1-7
+  quote_or_summary: Now the serpent was more subtle than any animal of the field...
+    She took some of its fruit, and ate.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Seed extraction for testing the repository workflow.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: First data seed.
