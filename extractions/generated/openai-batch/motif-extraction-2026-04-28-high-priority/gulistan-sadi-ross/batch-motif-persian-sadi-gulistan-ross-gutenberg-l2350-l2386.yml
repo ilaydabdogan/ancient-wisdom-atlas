@@ -1,0 +1,432 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l2350-l2386
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXXVII / XXXIX / XLVIII / CHAPTER III; lines 2350-2386
+  start: '2350'
+  end: '2386'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents two didactic anecdotes. In the first, Moses returns
+    from conference with God on Mount Sinai and sees a dervish being led to retaliation
+    after drunkenly killing someone; the narrator draws a lesson about divine wisdom
+    in limiting creatures' power and provision. In the second, an Arab in Busrah recounts
+    being lost in the desert without provisions, rejoicing over a bag he thought contained
+    parched wheat, then despairing when it proved to contain pearls, emphasizing that
+    wealth is useless to the starving traveler.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Moses is described as returning from a conference with God on Mount Sinai.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Moses meets the dervish while the dervish is in the hands of justice and followed
+    by a mob.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The dervish is said to have drunk wine, entered a quarrel, killed someone,
+    and been taken away for retaliation.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator states that God assigns every creature its appropriate lot.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage uses hypothetical images of a cat with wings and an ant with wings
+    to illustrate danger from added ability.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:6
+  text: Moses acknowledges the wisdom of the Creator and confesses his own presumption.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A Koranic verse is cited saying that if God spread abroad subsistence to servants,
+    they would rebel over the earth.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: An Arab stands among jewellers at Busrah and tells a story.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The Arab says he lost his way in the desert, had no provisions left, and had
+    given himself up for lost.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The Arab finds a bag of pearls, first mistakes them for parched wheat, and
+    later discovers they are pearls.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The narrator states that pearls or mother-of-pearl are distasteful to a thirsty
+    traveler in parched deserts and moving sands.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The narrator states that stone and gold are equivalent to a provisionless,
+    exhausted desert traveler.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Moses
+  description: The blessed Moses, returning from a conference with God on Mount Sinai.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Dervish
+  description: A dervish found in the hands of justice after drinking wine, quarreling,
+    and killing somebody.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: God / Creator of the universe
+  description: The Being who assigns every creature its lot and whose wisdom Moses
+    acknowledges.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Mob and agents of justice
+  description: Those following or holding the dervish as he is taken for retaliation.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Arab traveler
+  description: An Arab in Busrah who recounts being lost in the desert without provisions
+    and finding pearls.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Jewellers at Busrah
+  description: A circle of jewellers among whom the Arab is standing.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: prophetic figure in divine encounter
+  assigned_to:
+  - fig:1
+  basis: Moses returns from a conference with God on Mount Sinai.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of moral insight
+  assigned_to:
+  - fig:1
+  basis: Moses acknowledges the wisdom of the Creator and confesses presumption.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: condemned offender
+  assigned_to:
+  - fig:2
+  basis: The dervish is taken for retaliation after drunkenly killing someone.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divine allocator of lots and subsistence
+  assigned_to:
+  - fig:3
+  basis: The passage says God assigns each creature its lot and cites a verse about
+    God withholding excess subsistence to prevent rebellion.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: enforcers and witnesses of retaliation
+  assigned_to:
+  - fig:4
+  basis: The dervish is in the hands of justice, with a mob following him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: desert survivor and narrator
+  assigned_to:
+  - fig:5
+  basis: The Arab tells how he lost his way in the desert without provisions and survived
+    to recount it.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: witness to useless wealth in extremity
+  assigned_to:
+  - fig:5
+  basis: He experiences delight when mistaking pearls for food and disappointment
+    when discovering they are pearls.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: urban audience
+  assigned_to:
+  - fig:6
+  basis: The jewellers form the circle in Busrah where the Arab speaks.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Mount Sinai
+  literal_form: mountain
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wings granted to weak or predatory creatures
+  literal_form: wings on a cat or ant in proverbial examples
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: bag of pearls mistaken for food
+  literal_form: bag of pearls
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: parched desert
+  literal_form: desert, parched deserts, moving sands
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: parched wheat
+  literal_form: parched wheat as desired road-provision
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: gold and stone made equivalent by hunger
+  literal_form: stone or gold in a traveler's scrip
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Moses encounters the condemned dervish
+  summary: After returning from Mount Sinai, Moses sees the dervish in custody and
+    learns that the dervish is being taken for retaliation after drunkenly killing
+    someone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Moral reflection on divine limitation
+  summary: The passage explains that God assigns creatures their lots and that added
+    power or wealth may lead weak or mean persons to harm themselves and others.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Arab among the jewellers
+  summary: An Arab stands among jewellers at Busrah and begins recounting a desert
+    experience.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Pearls useless in the desert
+  summary: Lost in the desert without provisions, the Arab finds a bag he thinks contains
+    parched wheat, but it contains pearls; the passage concludes that precious objects
+    are worthless to a starving traveler.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divine wisdom in limiting human power and provision
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly presents God as assigning appropriate lots and cites
+    Moses' acknowledgement that excessive subsistence would lead servants to rebellion.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a didactic wisdom motif rather than a narrative mythic episode
+    in full form.
+- id: motif:2
+  label: dangerous elevation of the unfit
+  taxonomy_refs:
+  - wisdom
+  basis: The examples of the winged cat, winged ant, weak man with ability, and mean
+    person with rank and wealth all state that added power can produce harm or self-destruction.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The animals are proverbial illustrations within the passage, not independent
+    animal-tale episodes.
+- id: motif:3
+  label: wealth useless without life-sustaining provision
+  taxonomy_refs:
+  - wisdom
+  basis: The Arab's pearls fail to help him when he needs food and water, and the
+    narrator equates gold with stone for a provisionless desert traveler.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No broader comparative tradition is asserted by the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2350-2353
+  quote_or_summary: '"returning from a conference with God on Mount Sinai, he met
+    that dervish in the hands of justice, and a mob following him."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 2353-2356
+  quote_or_summary: Moses asks what befell the man; the answer states that he drank
+    wine, quarreled, killed someone, and is being taken for retaliation.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 2356-2362
+  quote_or_summary: The narrator says God set forth the seven climates and assigned
+    each creature its lot, then gives the examples of a winged cat destroying sparrow
+    eggs and a weak man domineering if given ability.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 2363-2367
+  quote_or_summary: '"The blessed Moses acknowledged the wisdom of the Creator of
+    the universe" and repeats a Koranic verse that if God spread subsistence abroad,
+    servants would rebel over the earth.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short quotation and summary used for evidence.
+- id: ev:5
+  type: summary
+  locator: 2367-2375
+  quote_or_summary: The passage warns against self-destruction, wishes that an ant
+    might not have the means of flying, says rank and wealth bring blows on a mean
+    person, and concludes that God knows a person's good better than the person does.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 2377-2379
+  quote_or_summary: An Arab is seen standing amid a circle of jewellers at Busrah
+    and speaking.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: 2379-2384
+  quote_or_summary: The Arab says he lost his way in the desert with no provisions,
+    found a bag of pearls, felt delight while mistaking them for parched wheat, and
+    disappointment when discovering they were pearls.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: 2384-2386
+  quote_or_summary: The narrator says pearls are distasteful to the thirsty traveler
+    in parched deserts, and that stone and gold are all one to a person exhausted
+    in the desert without provisions.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif candidates are limited
+    to explicitly didactic wisdom patterns and do not assert external parallels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself establish a specific comparison beyond general wisdom motifs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l2350-l2386
+  passage_sha256=25106b5833c5a76a041fcbd25150781703ad515e54a7ea3b8d7f644ad407efc8
+

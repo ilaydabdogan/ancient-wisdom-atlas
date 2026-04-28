@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l4494-l4511
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XLVII / XLVIII / LXIII / LXVII; lines 4494-4511
+  start: '4494'
+  end: '4511'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives two moral admonitions: one criticizes abandoning lawful
+    bodily desire for public approval rather than for God; the other says a wise person
+    should not overlook vulgar insolence through clemency, because this reduces respect
+    for the wise person and reinforces the offenders'' brutality.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person who renounces carnal indulgence to gain mankind's good opinion is
+    said to abandon a lawful passion and enter into what is forbidden.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A hermit is described as retiring to a cell not for the sake of God.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The hermit's heart is compared to a tarnished mirror.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A wise man is advised not to overlook the insolence of the vulgar through
+    clemency.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: If vulgar insolence is overlooked, respect for the wise man is lessened and
+    the vulgar people's brutality is confirmed.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Addressing the low with urbanity and kindness is said to add to their pride
+    and arrogance.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: person seeking mankind's good opinion
+  description: A person who foregoes carnal indulgence in order to gain public approval.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: hermit
+  description: A hermit who retires to a cell but not for the sake of God.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: wise man
+  description: A wise man addressed as the subject of advice about clemency and insolence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: the vulgar / the low
+  description: People characterized as insolent, brutal, proud, and arrogant when
+    treated with excessive urbanity and kindness.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: hypocritical renouncer
+  assigned_to:
+  - fig:1
+  basis: The person gives up carnal indulgence for human approval rather than a sacred
+    motive.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: false hermit
+  assigned_to:
+  - fig:2
+  basis: The hermit withdraws to a cell but not for God's sake.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: recipient and model of prudential advice
+  assigned_to:
+  - fig:3
+  basis: The passage says what a wise man should not do when faced with vulgar insolence.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: insolent vulgar people
+  assigned_to:
+  - fig:4
+  basis: They are described as insolent, brutal, proud, and arrogant in response to
+    excessive kindness.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: tarnished mirror
+  literal_form: mirror or heart described as tarnished
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: cell
+  literal_form: hermit's cell
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Renunciation for public approval
+  summary: A moral statement criticizes someone who renounces lawful bodily desire
+    to gain public esteem, and applies this criticism to a hermit withdrawing to a
+    cell without a God-directed motive.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Warning against indulgent clemency toward insolence
+  summary: A moral statement warns that a wise man who overlooks vulgar insolence
+    loses respect and strengthens the offenders' brutality; kindness toward the low
+    is said to increase their arrogance.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wisdom admonition against hypocritical asceticism
+  taxonomy_refs:
+  - wisdom
+  basis: The passage gives an explicit moral judgment about renunciation done for
+    public reputation rather than for God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an ethical maxim rather than a narrative mythic episode; the taxonomy
+    match is broad.
+- id: motif:2
+  label: wisdom admonition against misplaced clemency
+  taxonomy_refs:
+  - wisdom
+  basis: The passage offers practical counsel that excessive leniency toward insolence
+    harms both the wise person and the offenders.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is aphoristic advice, not a developed mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4494-4497 / section LXVII
+  quote_or_summary: Whoever gives up carnal indulgence to gain mankind's approval
+    is described as abandoning lawful passion and involving himself in the forbidden.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 4497-4499 / section LXVII
+  quote_or_summary: A hermit is criticized for retiring to a cell without doing so
+    for the sake of God; his heart is described through the image of a tarnished mirror.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 4503-4507 / section LXIX
+  quote_or_summary: A wise man should not overlook vulgar insolence through clemency,
+    because respect for him is reduced and the offenders' brutality is reinforced.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 4507-4509 / section LXIX
+  quote_or_summary: Addressing the low with urbanity and kindness is said to increase
+    their pride and arrogance.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is aphoristic and moral rather than mythic; literal extraction
+    is straightforward, while motif assignment is limited to the broad available wisdom
+    category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a specific comparative claim beyond broad wisdom literature classification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l4494-l4511
+  passage_sha256=aeac892c4fff90fc636c082685c9946674ccb2aab69d2b7f26446e3d067d4e08
+

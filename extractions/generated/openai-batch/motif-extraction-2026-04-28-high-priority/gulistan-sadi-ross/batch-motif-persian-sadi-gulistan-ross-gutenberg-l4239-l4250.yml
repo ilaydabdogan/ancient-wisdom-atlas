@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l4239-l4250
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XVIII / XXIII / XXVIII / XXXII; lines 4239-4250
+  start: '4239'
+  end: '4250'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"Lust is a fire; refrain from indulging it... pour in this world the water
+    of continence upon this fire"'
+  summary: The passage contrasts greed with temperance through examples of people,
+    dogs, bread, and the whole world. A father gives late-life advice that lust should
+    be restrained, picturing it as fire and continence as water that quenches it before
+    hellish punishment in the next world.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Ten people are said to be able to share the same joint of meat, while two
+    dogs snarl over a whole carcass.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The greedy man is described as unsatisfied even with the whole world before
+    him.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The temperate man is described as content with a crust of bread.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker's father gives advice when the sun of his life is going down.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The father's advice calls lust a fire and warns against becoming involved
+    in the flames of hell.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The father's advice says to pour the water of continence on the fire of lust
+    in this world because one lacks strength to burn in those flames as punishment
+    in the next world.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Ten people
+  description: A group said to partake of the same joint of meat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Two dogs
+  description: Two dogs said to snarl over a whole carcass.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Greedy man
+  description: A man described as incontinent and unsatisfied with a whole world before
+    him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Temperate man
+  description: A man described as content with his crust of bread.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Father
+  description: The speaker's father, who gives sage advice near the end of life.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Advised speaker
+  description: The recipient of the father's advice, addressed as one who should refrain
+    from indulging lust.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: sharing group
+  assigned_to:
+  - fig:1
+  basis: They partake of the same joint of meat.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: quarreling animals
+  assigned_to:
+  - fig:2
+  basis: They snarl over a whole carcass.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: greedy exemplar
+  assigned_to:
+  - fig:3
+  basis: He is described as incontinent and unable to be satisfied by the whole world.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: temperate exemplar
+  assigned_to:
+  - fig:4
+  basis: He is content with a crust of bread.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: fatherly counselor
+  assigned_to:
+  - fig:5
+  basis: He gives sage advice to the speaker.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: recipient of moral advice
+  assigned_to:
+  - fig:6
+  basis: The father's speech addresses the speaker and instructs restraint.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: meat and carcass
+  literal_form: joint of meat; whole carcass
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bread of sufficiency
+  literal_form: crust of bread; loaf of brown bread
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: whole world or globe as insufficient object of greed
+  literal_form: whole world; produce of the whole globe
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: lust as fire
+  literal_form: fire; flames of hell
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: continence as water
+  literal_form: water of continence poured on fire
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: life as setting sun
+  literal_form: the sun of his life was going down
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Contrasts of appetite and contentment
+  summary: The passage compares shared meat among ten people, snarling dogs over a
+    carcass, the greedy man's dissatisfaction with the world, and the temperate man's
+    contentment with bread.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Father's advice on lust and continence
+  summary: The father gives late-life advice that lust is fire, that indulging it
+    risks hellish flames, and that continence should be used like water to quench
+    it in this world.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Moral wisdom transmitted by a father
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker's father gives explicitly described sage advice near the end
+    of life.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is didactic and aphoristic, not a narrative initiation scene.
+- id: motif:2
+  label: Greed contrasted with temperance
+  taxonomy_refs: []
+  basis: The passage contrasts the greedy man's dissatisfaction with the temperate
+    man's contentment and frames simple bread as sufficient where the whole world
+    cannot satisfy greed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family directly names this moral contrast.
+- id: motif:3
+  label: Desire as fire quenched by restraint
+  taxonomy_refs: []
+  basis: The father's advice explicitly identifies lust with fire and continence with
+    water poured upon it.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a metaphorical moral image rather than an enacted mythic episode.
+- id: motif:4
+  label: Afterlife punishment in hellish flames
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage refers to the flames of hell as punishment in the next world.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: A judging deity or detailed judgment scene is not present in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4239-4241
+  quote_or_summary: Ten people share one joint of meat, while two dogs snarl over
+    a whole carcass.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 4241-4245
+  quote_or_summary: The greedy man is not satisfied by the world or the globe's produce,
+    while the temperate man is content with bread.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: quote
+  locator: lines 4245-4250
+  quote_or_summary: 'The father gives sage advice: "Lust is a fire" and one should
+    pour "the water of continence" upon it to avoid hellish flames in the next world.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignment is cautious because
+    the passage is moral-didactic rather than mythic narrative, and no external comparisons
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used; no comparison claims were added because the passage itself does not support a specific cross-text comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l4239-l4250
+  passage_sha256=2cc624facedc037df0dfe818c0d748f2cf4675bf4989d5497e51cfd327269d30
+

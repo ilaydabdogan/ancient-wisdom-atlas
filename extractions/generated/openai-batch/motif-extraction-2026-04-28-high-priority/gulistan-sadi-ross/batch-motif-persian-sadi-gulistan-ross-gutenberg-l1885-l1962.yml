@@ -1,0 +1,506 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l1885-l1962
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXIII / XXVII / XXVIII / XXXIII; lines 1885-1962
+  start: '1885'
+  end: '1962'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A Syrian holy man living austerely in the wilderness is persuaded by a
+    king and minister to move near the royal residence. In a paradise-like garden,
+    the king supplies him with luxury, a beautiful damsel, and a beautiful youth.
+    The hermit abandons austerity, enjoys rich food, clothing, perfumes, and sensual
+    company, and is later found altered and comfortable. A vizir advises the king
+    that money should be given to learned men so they may teach, but nothing should
+    be given to hermits if they are to remain anchorites.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A holy man of Syria had spent many years in devotion in the wilderness and
+    fed on leaves of trees.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king visited the holy man while on pilgrimage and invited him to move
+    to the capital, promising an abode for easier devotion and public edification.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The hermit initially rejected the king's advice and turned away his face.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A minister urged the hermit to try the city for a few days and return if contact
+    with the wicked tarnished his purity.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The hermit was brought into the city and housed in a garden near the king's
+    sacred residence.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The garden is described with roses, spikenard, leafy boughs, and crimson flowers
+    gleaming like flame.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The king sent the hermit a beautiful damsel and later a beautiful youth.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The hermit began to enjoy dainty food, sumptuous clothing, fruits, perfumes,
+    sweetmeats, and the charms of the handmaid and bondsman.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage says the hermit's accumulated sanctity ran to waste after he mixed
+    with the world.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: On a later visit, the king found the hermit fair, ruddy, plump, and reclining
+    on brocade cushions with the damsel beside him and the youth attending him with
+    a peacock-feather fly-flap.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The king stated affection for learned people and recluses.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The vizir advised giving money to learned men so they may teach others, and
+    giving nothing to hermits so they may remain anchorites.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: holy man / hermit of Syria
+  description: A Syrian holy man devoted for many years in the wilderness, later moved
+    to the city and altered by comfort and luxury.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: king of that country
+  description: A king who visits the hermit during pilgrimage, invites him to the
+    capital, provides a dwelling and attendants, and later revisits him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: king's minister
+  description: A minister who persuades the hermit to try living in the city for a
+    few days.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: moon-faced damsel / handmaid
+  description: A beautiful damsel sent by the king, later seen lolling beside the
+    hermit.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:5
+  name_or_label: beautiful youth / bondsman
+  description: A youth of rare beauty sent after the damsel, later standing in attendance
+    with a peacock-feather fly-flap.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:6
+  name_or_label: philosophic vizir
+  description: A worldly-wise vizir present during the king's later visit who gives
+    advice about benefiting learned men and hermits differently.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: wilderness ascetic
+  assigned_to:
+  - fig:1
+  basis: The holy man had spent many years in wilderness devotion and lived on leaves.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recluse altered by luxury
+  assigned_to:
+  - fig:1
+  basis: After entering the city, he enjoyed rich food, apparel, perfumes, and attendants
+    and was later found plump and at ease.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:3
+  label: royal patron
+  assigned_to:
+  - fig:2
+  basis: The king offers the hermit an abode, has one prepared, sends attendants,
+    and later visits him.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:8
+- id: role:4
+  label: persuasive court adviser
+  assigned_to:
+  - fig:3
+  basis: The minister urges the hermit to test the city and return if necessary.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: beautiful royal gift
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The king sends the damsel and the youth to the hermit, and the hermit later
+    delights in them.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: attendant
+  assigned_to:
+  - fig:5
+  basis: The youth stands beside the hermit holding a peacock-feather fly-flap.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: moral commentator
+  assigned_to:
+  - fig:6
+  basis: The vizir states the lesson that learned men may receive money, but hermits
+    should receive nothing if they are to remain anchorites.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: wilderness austerity
+  literal_form: wilderness and leaves of trees used as food
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: paradise-like garden
+  literal_form: garden near the king's sacred residence with roses, spikenard, boughs,
+    and flowers
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: flame-like flowers
+  literal_form: crimson flowers gleaming like a flame among dusky foliage
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sensual snare of beauty
+  literal_form: ringlets described as a chain on reason and a snare for the bird of
+    wisdom
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: honey entanglement
+  literal_form: a fly's feet entangled in honey as an image for mixing with the world
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: peacock-feather fly-flap
+  literal_form: fly-flap of peacock's feathers held by the youth in attendance
+  associated_figures:
+  - fig:5
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: money for the learned, no money for the hermit
+  literal_form: diram and dinar contrasted with anchoritic needlessness
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Ascetic life in the wilderness
+  summary: The Syrian holy man lives for years in wilderness devotion and eats leaves.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Royal invitation and persuasion
+  summary: The king invites the hermit to the capital; after refusal, a minister persuades
+    him to test the city temporarily.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Garden dwelling near the royal residence
+  summary: The hermit is housed in a luxuriant garden described with paradise-like
+    imagery, roses, boughs, and flame-like flowers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Arrival of beautiful attendants
+  summary: The king sends a beautiful damsel and then a beautiful youth, both described
+    as overpowering to chastity and piety.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Loss of austerity
+  summary: The hermit enjoys fine food, clothing, perfumes, sweetmeats, and sensual
+    company; the passage summarizes this as the wasting of his sanctity.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: King's later visit and vizir's advice
+  summary: The king finds the hermit comfortable and altered; the vizir advises that
+    learned men should receive money to teach, but hermits should receive nothing
+    if they are to remain recluses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: ascetic corrupted by luxury and sensual company
+  taxonomy_refs:
+  - wisdom
+  basis: The hermit moves from wilderness austerity to a royal garden, accepts comforts
+    and attractive attendants, and loses the fruit of many years of sanctity.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage presents this as moral instruction, but it does not name a
+    formal motif type.
+- id: motif:2
+  label: courtly patronage endangers spiritual withdrawal
+  taxonomy_refs:
+  - wisdom
+  - sacred_exchange
+  basis: The king's gifts and support make the hermit comfortable; the vizir concludes
+    that a hermit should receive nothing if he is to remain an anchorite.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The exchange is ethical and social rather than explicitly ritual; the
+    sacred_exchange taxonomy is only partially applicable.
+- id: motif:3
+  label: beauty as chain and snare for reason
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly describes the ringlets of the lovely as a chain on
+    reason and a snare for the bird of wisdom, in the context of the hermit's decline.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a metaphor within the passage rather than a standalone narrative
+    episode.
+- id: motif:4
+  label: departure from solitude to the city followed by spiritual decline
+  taxonomy_refs:
+  - departure
+  - wisdom
+  basis: The hermit departs his wilderness setting for the city and is transformed
+    from austerity to comfort and indulgence.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The departure is not framed as a heroic journey; it functions as a moral
+    exemplum.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1885-1888
+  quote_or_summary: A Syrian holy man had spent many years in devotion in the wilderness
+    and fed on leaves of trees.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 1888-1896
+  quote_or_summary: The king, visiting on pilgrimage, asks the holy man to move to
+    the capital where an abode will be prepared for easier devotion and public benefit;
+    the hermit refuses and turns away.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 1896-1903
+  quote_or_summary: A minister advises the hermit to try the city for a few days and
+    return if his purity is endangered by contact with the wicked.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 1904-1916
+  quote_or_summary: The hermit is persuaded into the city and given a garden dwelling
+    near the king's sacred residence, described as paradise-like with roses, spikenard,
+    boughs, and flame-like crimson flowers.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 1917-1930
+  quote_or_summary: The king sends a moon-faced damsel, then a youth of rare beauty,
+    both described as overpowering to chastity and piety.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: lines 1931-1939
+  quote_or_summary: The hermit begins enjoying fine food, rich clothing, fruits, perfumes,
+    sweetmeats, and the charms of the handmaid and bondsman; the wise compare lovely
+    ringlets to a chain on reason and a snare for wisdom.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: summary
+  locator: lines 1940-1947
+  quote_or_summary: The passage says the merit of the hermit's years of sanctity ran
+    to waste, comparing him after mixing with the world to a fly entangled in honey.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:8
+  type: summary
+  locator: lines 1948-1957
+  quote_or_summary: On another visit, the king finds the hermit ruddy, plump, reclining
+    on brocade cushions, with the damsel by his side and the youth attending with
+    a peacock-feather fly-flap.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:9
+  type: summary
+  locator: lines 1957-1962
+  quote_or_summary: After the king praises learned men and recluses, a philosophic
+    vizir advises giving money to learned men so they can teach, but giving nothing
+    to hermits so they remain anchorites.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Narrative sequence and figures are explicit. Motif labels are cautious and
+    based on the passage's moral framing. No external comparison claims were made
+    because the passage itself does not establish cross-textual relationship.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata; available taxonomy refs applied only where directly supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l1885-l1962
+  passage_sha256=08d19e8403eb5cb157bc62a448cb097b03c52fd6d8ccbfa53f5386b591fa3ed6
+

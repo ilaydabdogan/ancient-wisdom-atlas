@@ -1,0 +1,508 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l1816-l1882
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XVIII / XXIII / XXVII / XXVIII; lines 1816-1882
+  start: '1816'
+  end: '1882'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents moral anecdotes about not overvisiting powerful friends,
+    increasing affection by absence, withdrawal from society leading to captivity
+    and redemption, an unhappy marriage described as worse bondage, and a parable
+    of a sheep saved from a wolf only to be slaughtered by its rescuer.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person says he is not eager to visit a friend while the friend holds the
+    king's divan or prime-ministerial office.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The person says the friend can be seen when out of office, when an idle visit
+    would not be unwelcome.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Mustafa Mohammed tells Abu-Horairah to visit every other day so affection
+    may increase.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A holy man says the sun is not loved because it is seen every day, except
+    in winter when it is veiled by clouds and desired.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator retires from the society of friends at Damascus into the wilderness
+    of the Holy Land or Jerusalem and seeks the company of brutes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator is taken prisoner by the Franks and made to dig earth in the
+    ditches of Tripoli along with Jews.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A chief of Aleppo recognizes the narrator, redeems him from captivity for
+    ten dinars, and takes him to Aleppo.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The chief gives his daughter to the narrator in marriage with a dower of one
+    hundred dinars.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The wife reproaches the narrator for having been redeemed by her father for
+    ten dinars.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The narrator replies that the father freed him for ten dinars and enslaved
+    him with her for one hundred.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: A parable tells of a mighty man who rescued a sheep from a wolf, then slaughtered
+    the sheep himself.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: person with a friend in office
+  description: A person who has not seen his friend, the king's divan or prime minister,
+    for some time.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: friend holding the king's divan
+  description: A friend who holds the office of king's divan or prime minister.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Abu-Horairah
+  description: A daily visitor to the prophet Mustafa Mohammed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Mustafa Mohammed
+  description: The prophet who instructs Abu-Horairah to visit every other day.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: good and holy man
+  description: A holy man who explains why people do not fall in love with the sun.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: narrator
+  description: The speaker who leaves Damascus, is captured by the Franks, redeemed,
+    and married to the chief's daughter.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Franks
+  description: Captors who make the narrator dig in the ditches of Tripoli.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: chief of Aleppo
+  description: An old intimate of the narrator who recognizes and redeems him.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: chief's daughter / wife
+  description: The chief's daughter, given to the narrator in marriage, later described
+    as scolding and reproachful.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:10
+  name_or_label: sheep
+  description: A sheep rescued from a wolf and then slaughtered by its rescuer in
+    the parable.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:7
+- id: fig:11
+  name_or_label: wolf
+  description: The animal from whose jaws the sheep is rescued.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:7
+- id: fig:12
+  name_or_label: reverend and mighty man
+  description: The man who rescues the sheep from the wolf and later kills it.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: prudent acquaintance
+  assigned_to:
+  - fig:1
+  basis: He avoids visiting the friend while the friend is in authority and prefers
+    a time when the friend is out of office.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: powerful friend in office
+  assigned_to:
+  - fig:2
+  basis: He is described as holding the office of king's divan or prime minister.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: daily visitor
+  assigned_to:
+  - fig:3
+  basis: He is said to make a daily visit to the prophet.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: teacher of measured visits
+  assigned_to:
+  - fig:4
+  basis: He tells Abu-Horairah to come every other day so affection may increase.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: moral explainer
+  assigned_to:
+  - fig:5
+  basis: He interprets the sun's daily visibility as the reason people do not love
+    it.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: withdrawn wanderer
+  assigned_to:
+  - fig:6
+  basis: He retires from friends into wilderness, forests, and mountains.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: captive and redeemed man
+  assigned_to:
+  - fig:6
+  basis: He is captured by the Franks and later redeemed for ten dinars.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: captors
+  assigned_to:
+  - fig:7
+  basis: They make the narrator a prisoner and employ him in ditch digging.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: redeemer and father-in-law
+  assigned_to:
+  - fig:8
+  basis: He redeems the narrator and gives him his daughter in marriage.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: reproachful spouse
+  assigned_to:
+  - fig:9
+  basis: She reproaches the narrator about the price of his redemption and is described
+    as scolding.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:11
+  label: rescued victim
+  assigned_to:
+  - fig:10
+  basis: The sheep is saved from the wolf before being killed by the rescuer.
+  evidence_refs:
+  - ev:7
+- id: role:12
+  label: predatory threat
+  assigned_to:
+  - fig:11
+  basis: The wolf has the sheep in its paws and jaws.
+  evidence_refs:
+  - ev:7
+- id: role:13
+  label: rescuer turned killer
+  assigned_to:
+  - fig:12
+  basis: He releases the sheep from the wolf but later cuts its throat.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: veiled sun
+  literal_form: the sun hidden by winter clouds
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: wilderness and mountains
+  literal_form: wilderness of the Holy Land, forests, and mountains
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: chain
+  literal_form: a chain linking the narrator with acquaintances
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: hell or fiery torture
+  literal_form: hell in this world; fiery or hell torture
+  associated_figures:
+  - fig:6
+  - fig:9
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: wolf and sheep
+  literal_form: a wolf, a sheep, and the sheep's slaughter
+  associated_figures:
+  - fig:10
+  - fig:11
+  - fig:12
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Avoiding the friend in office
+  summary: A person explains that he is not eager to visit his friend while the friend
+    holds high office, because a visit would be better when the friend is out of power
+    and in need of friends.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Affection increased by absence
+  summary: Abu-Horairah is told not to visit every day, and a holy man uses the daily
+    visibility of the sun to explain why constant presence diminishes desire.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Withdrawal, captivity, and redemption
+  summary: The narrator withdraws from friends into wilderness and mountains, is captured
+    by the Franks, forced to dig at Tripoli, recognized by a chief of Aleppo, and
+    redeemed for ten dinars.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Marriage as renewed bondage
+  summary: The chief marries his daughter to the narrator; she reproaches him for
+    the price of his redemption, and he replies that he was freed for ten dinars and
+    enslaved with her for one hundred.
+  figure_refs:
+  - fig:6
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Sheep rescued from wolf and slaughtered
+  summary: A parable describes a sheep rescued from a wolf by a mighty man, only for
+    the same man to kill it later, prompting the sheep to accuse the rescuer of proving
+    a wolf himself.
+  figure_refs:
+  - fig:10
+  - fig:11
+  - fig:12
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Measured absence preserves affection
+  taxonomy_refs:
+  - wisdom
+  basis: Two anecdotes teach that constant visiting may reduce affection, while restraint
+    or absence can make companionship more valued.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a moral-social teaching rather than a mythic narrative motif.
+- id: motif:2
+  label: Withdrawal from society leads to captivity
+  taxonomy_refs:
+  - departure
+  basis: The narrator leaves friends and human society for wilderness, forests, and
+    mountains, after which he is captured and forced into labor.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not frame the departure as a heroic quest; the taxonomy
+    reference is only a broad structural fit.
+- id: motif:3
+  label: Rescue becomes worse bondage
+  taxonomy_refs: []
+  basis: The narrator contrasts being redeemed from the Franks with being bound in
+    an unhappy marriage, and the sheep parable repeats the pattern of rescue followed
+    by harm from the rescuer.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy family directly names this pattern.
+- id: motif:4
+  label: Benefactor becomes predator
+  taxonomy_refs: []
+  basis: The sheep says the man who saved it from a wolf later proved a wolf himself
+    by slaughtering it.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is an internal parable and analogy, not an externally compared motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1816-1827; XXVIII
+  quote_or_summary: A person declines to visit his friend while the friend holds the
+    king's divan, saying the visit would be better when the friend is out of office
+    and in need of friends.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1828-1834; XXIX
+  quote_or_summary: Abu-Horairah visits the prophet Mustafa Mohammed daily; the prophet
+    tells him to come every other day so affection may increase.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1835-1844; XXIX
+  quote_or_summary: A holy man explains that the sun is not loved because it is seen
+    every day, but in winter, when veiled by clouds, it is coveted and loved.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1845-1858; XXX
+  quote_or_summary: The narrator leaves the society of friends at Damascus for the
+    wilderness of the Holy Land or Jerusalem, is captured by the Franks, and is made
+    to dig in the ditches of Tripoli.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1859-1870; XXX
+  quote_or_summary: A chief of Aleppo recognizes the narrator, redeems him for ten
+    dinars, takes him to Aleppo, and gives him his daughter in marriage with a dower
+    of one hundred dinars; the wife is described as scolding and as hell in the home.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1871-1877; XXX
+  quote_or_summary: The wife reproaches the narrator for being redeemed by her father
+    for ten dinars; he answers that her father freed him for ten dinars and enslaved
+    him with her for one hundred.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1878-1882; XXX
+  quote_or_summary: A parable says a mighty man rescued a sheep from a wolf, but later
+    cut the sheep's throat; the sheep reproached him for proving to be a wolf himself.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are candidate abstractions
+    from moral anecdotes and should be reviewed, especially where broad taxonomy refs
+    are used.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparison claims were added because the passage itself does not support a specific comparison beyond its own internal analogies.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l1816-l1882
+  passage_sha256=0d5e2594a033f28ba2ef7a8f07d830cf9b23f1e0d42169aa960500700c9ba9e2
+

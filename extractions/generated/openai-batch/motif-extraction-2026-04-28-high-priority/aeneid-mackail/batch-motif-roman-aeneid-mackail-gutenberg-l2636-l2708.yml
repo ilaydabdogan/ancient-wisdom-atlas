@@ -1,0 +1,581 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l2636-l2708
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK THIRD / THE STORY OF THE SEVEN YEARS' WANDERING / BOOK FOURTH / THE
+    LOVE OF DIDO, AND HER END; lines 2636-2708
+  start: '2636'
+  end: '2708'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: At dawn Dido sees Aeneas' fleet departing, laments, imagines violent retaliation,
+    invokes deities to curse Aeneas and his descendants, and calls for perpetual enmity
+    between Tyrians and the Dardanian line. She then directs Barce to summon Anna
+    for ritual preparations, enters the inner court, mounts the funeral pyre, takes
+    Aeneas' sword, addresses his garments and the bed, and declares her death as an
+    omen visible to him at sea.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Dawn breaks, and Dido sees from a watch-tower that the fleet is sailing away
+    and the harbor is empty.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dido strikes her breast, tears her hair, and calls for pursuit, fire, weapons,
+    and oars.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Dido imagines destroying Aeneas, his companions, Ascanius, and the ships by
+    violence and fire.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Dido invokes the Sun, Juno, Hecate, avenging sisters, and gods of dying Elissa
+    to hear her prayer.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Dido prays that Aeneas suffer war, exile, separation from Iülus, repeated
+    deaths among his people, harsh peace, early death, and lack of burial.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Dido orders the Tyrians to hate Aeneas' seed for all ages and invokes an unnamed
+    avenger from her dust.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Dido asks Barce to summon Anna and instructs that Anna sprinkle herself with
+    river water and bring beasts for expiation.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Dido says she intends to complete rites of Stygian Jove and give the funeral
+    pyre of the Dardanian over to flames.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Dido enters the inner courts, mounts the high funeral pyre, and unsheathes
+    the sword of Dardania.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Dido sees Ilian raiment and a familiar bed, lies on the pillow, addresses
+    the garment, and speaks of becoming a phantom under the earth.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Dido declares that death is good as a passage into darkness and that Aeneas
+    should see the fire at sea as an omen.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Dido / Elissa / the Queen
+  description: Queen who watches Aeneas' departure, curses him and his descendants,
+    prepares rites, mounts the funeral pyre, and speaks of her own death.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Aeneas / the Dardanian
+  description: Departing leader whose fleet leaves the harbor; Dido curses him and
+    uses his sword on the pyre.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Ascanius / Iülus
+  description: Aeneas' son, named in Dido's imagined violence and in her curse of
+    separation from Aeneas.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Tyrians
+  description: Dido's people, commanded to pursue Aeneas' seed with hatred for all
+    ages.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Unnamed avenger
+  description: A future avenger whom Dido calls to arise from her dust against the
+    Dardanian settlement with firebrand and steel.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Barce
+  description: Nurse of Sychaeus, instructed by Dido to bring Anna to her.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Anna
+  description: Dido's sister, to be summoned for ritual preparation with river water
+    and expiatory beasts.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Invoked deities
+  description: The Sun, Juno, Hecate, avenging sisters, gods of dying Elissa, and
+    Stygian Jove are invoked or named in the ritual and curse context.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:9
+  name_or_label: Dawn
+  description: Personified Dawn leaves the saffron bed of Tithonus and sheds radiance
+    over the world.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: abandoned queen
+  assigned_to:
+  - fig:1
+  basis: She sees the departing fleet and empty harbor from her watch-tower.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: curser
+  assigned_to:
+  - fig:1
+  basis: She invokes deities and pronounces future suffering and intergenerational
+    hatred against Aeneas and his descendants.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: self-directed death figure
+  assigned_to:
+  - fig:1
+  basis: She mounts the funeral pyre, takes the sword, speaks of release from distress,
+    and says death is her passage into darkness.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: departing beloved or enemy
+  assigned_to:
+  - fig:2
+  basis: His fleet is seen sailing away, and Dido names him as the target of reproach
+    and curse.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:5
+  label: curse target
+  assigned_to:
+  - fig:2
+  basis: Dido prays for his suffering, early death, lack of burial, and future conflict
+    with her people.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: threatened child
+  assigned_to:
+  - fig:3
+  basis: Dido imagines killing Ascanius and later prays that Aeneas be torn from Iülus'
+    embrace.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: heirs of hatred
+  assigned_to:
+  - fig:4
+  basis: Dido instructs the Tyrians to hunt Aeneas' seed with hatred for all ages.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: future avenger
+  assigned_to:
+  - fig:5
+  basis: Dido calls for an unnamed avenger to arise from her dust with firebrand and
+    steel.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: messenger nurse
+  assigned_to:
+  - fig:6
+  basis: Dido sends Barce to bring Anna.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: ritual assistant
+  assigned_to:
+  - fig:7
+  basis: Anna is to come after sprinkling herself with river water and bringing expiatory
+    beasts.
+  evidence_refs:
+  - ev:4
+- id: role:11
+  label: invoked divine witnesses
+  assigned_to:
+  - fig:8
+  basis: Dido calls on multiple deities and divine powers to hear and support her
+    prayer and rites.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:12
+  label: personified daybreak
+  assigned_to:
+  - fig:9
+  basis: Dawn is described as leaving Tithonus' bed and lighting the world.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire, firebrands, flame, flames, and the fire visible from the pyre
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: water
+  literal_form: waves, shore, haven, river water, sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: funeral pyre
+  literal_form: high funeral pyre prepared in the inner courts
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: sword of Dardania
+  literal_form: Aeneas' Dardanian sword, unsheathed by Dido on the pyre
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: ashes and dust
+  literal_form: ashes of Sychaeus' nurse context, Dido's ashes, and dust from which
+    an avenger is invoked
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: watch-tower
+  literal_form: the tower from which Dido sees the fleet departing
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:7
+  label: bed and raiment
+  literal_form: Ilian raiment and the bed Dido recognizes before her final speech
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: expiatory beasts
+  literal_form: beasts ordained for expiation, requested for ritual preparation
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Dido sees the fleet departing at dawn
+  summary: At daybreak Dido watches from a tower and sees Aeneas' ships leaving under
+    sail while the harbor lies empty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:9
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dido's lament and violent imaginings
+  summary: Dido wounds herself in grief, calls for armed pursuit, and imagines fire
+    and violence against Aeneas, his son, his companions, and his ships.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Curse and invocation of future enmity
+  summary: Dido invokes divine witnesses and prays for Aeneas' suffering, then commands
+    lasting Tyrian hatred and calls for a future avenger against the Dardanian settlement.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Ritual instructions to Barce
+  summary: Dido tells Barce to summon Anna, to have Anna purify herself with river
+    water, and to bring expiatory beasts for rites connected with Stygian Jove and
+    the pyre.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:8
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Dido mounts the pyre
+  summary: Dido enters the inner court, climbs the funeral pyre, and takes the Dardanian
+    sword.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Final words before death
+  summary: Dido addresses Aeneas' garment, recalls her achievements, names death as
+    her chosen passage into darkness, and wishes Aeneas to see the pyre's fire as
+    an omen from the sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: abandoned lover watches departing ships
+  taxonomy_refs:
+  - departure
+  basis: Dido sees the fleet leaving the harbor at dawn and responds with grief and
+    reproach.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The departure motif is literal; the emotional framing is specific to this
+    episode.
+- id: motif:2
+  label: dying curse creates hereditary enmity
+  taxonomy_refs: []
+  basis: Dido invokes deities, curses Aeneas' future, orders hatred against his seed,
+    and calls for battles to continue through descendants.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches the intergenerational
+    curse pattern.
+- id: motif:3
+  label: avenger from the dead person's dust
+  taxonomy_refs: []
+  basis: Dido invokes an unnamed avenger to arise from her dust and pursue the Dardanian
+    settlement with firebrand and steel.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not name the avenger or narrate the fulfillment.
+- id: motif:4
+  label: ritual preparation before self-inflicted death
+  taxonomy_refs:
+  - sacrifice
+  basis: Dido orders purification with river water, expiatory beasts, veiling with
+    a chaplet, and rites of Stygian Jove before mounting the pyre.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage describes ritual and death, but whether the death is to be
+    classified as sacrifice requires human review.
+- id: motif:5
+  label: death by pyre as omen to departing enemy
+  taxonomy_refs: []
+  basis: Dido mounts the pyre and says the Dardanian should see the fire from sea
+    and carry her death as an omen.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The omen is asserted in Dido's speech; the passage does not show Aeneas
+    seeing it.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself frames Dido's curse as an origin-pattern for enduring
+    conflict between peoples, expressed as enmity of shore to shore, wave to water,
+    sword to sword, and battles among descendants.
+  claim_level: same_function
+  target: etiological pattern of intergenerational national enmity
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison to a pattern, not a claim of historical
+    contact or external parallel; the passage does not name later historical events
+    within this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2636-2641
+  quote_or_summary: At dawn, Dido sees from her watch-tower the first light, the fleet
+    sailing out under squared sail, and the shore and harbor empty of oarsmen.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2641-2656
+  quote_or_summary: Dido strikes her breast, tears her hair, calls for pursuit with
+    fire, weapons, and oars, and imagines destroying Aeneas, his comrades, Ascanius,
+    and the ships with sword and flame.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2656-2682
+  quote_or_summary: Dido invokes the Sun, Juno, Hecate, avenging sisters, and gods
+    of dying Elissa; she prays for Aeneas' war, exile, separation from Iülus, early
+    unburied death, and commands Tyrian hatred of his seed, calling for an unnamed
+    avenger and perpetual battle between descendants.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2683-2695
+  quote_or_summary: Dido sends Barce to bring Anna, tells Anna to sprinkle herself
+    with river water, bring expiatory beasts, veil her brows with a chaplet, and assist
+    with rites of Stygian Jove and the funeral pyre.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2696-2701
+  quote_or_summary: Dido, with signs of agitation and approaching death, enters the
+    inner courts, mounts the high funeral pyre, and unsheathes the sword of Dardania.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2701-2708
+  quote_or_summary: Dido sees the Ilian raiment and known bed, addresses the garment,
+    says she will go as a queenly phantom under the earth, recalls building her city
+    and avenging her husband, and declares that Aeneas should see the fire from sea
+    as an omen of her death.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal events and figures are clear in the supplied passage. Motif labeling
+    is cautious, especially where ritualized death may or may not be classified as
+    sacrifice.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to supplied motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l2636-l2708
+  passage_sha256=59b3e7c20dc7625b15ddc47ce12c47fda78090a2a1b60d2ae95788a86d40f64d
+

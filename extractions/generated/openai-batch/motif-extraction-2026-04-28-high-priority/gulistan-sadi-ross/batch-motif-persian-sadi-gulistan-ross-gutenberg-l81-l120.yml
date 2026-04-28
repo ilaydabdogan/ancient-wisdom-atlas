@@ -1,0 +1,135 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l81-l120
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: PERSIAN LITERATURE / CONTENTS / THE GULISTAN / CHAPTER; lines 81-120
+  start: '81'
+  end: '120'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives publication and contents information for a volume of
+    Persian literature. It identifies the volume as including The Gulistan and lists
+    the chapter headings of The Gulistan, including chapters on kings, dervishes,
+    contentment, silence, love and youth, old age, education, and duties of society.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as a revised 1900 volume of Persian literature
+    containing The Shah Nameh, The Rubáiyát, The Divan, and The Gulistan.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage names Richard J. H. Gottheil as author of a special introduction
+    and describes him as a professor at Columbia University.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The contents section lists The Gulistan and gives eight chapter headings.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The eight chapter headings concern customs of kings, morals of dervishes,
+    contentment, silence, love and youth, imbecility and old age, impressions of education,
+    and duties of society.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Richard J. H. Gottheil
+  description: Named as the writer of a special introduction and as Professor of Rabbinical
+    Literature and the Semitic Languages at Columbia University.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: introductory scholar
+  assigned_to:
+  - fig:1
+  basis: The passage says the volume has a special introduction by Richard J. H. Gottheil
+    and gives his academic position.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Contents listing for The Gulistan
+  summary: A contents section introduces The Gulistan and enumerates its eight chapters
+    by topic.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wisdom and moral instruction
+  taxonomy_refs:
+  - wisdom
+  basis: The chapter headings frame the work around ethical, social, and didactic
+    topics such as morals, contentment, silence, education, and duties of society.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is a table of contents rather than a narrative or doctrinal
+    passage; the motif is inferred only from chapter topics.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 81-92
+  quote_or_summary: The passage presents a revised 1900 volume of Persian literature
+    comprising The Shah Nameh, The Rubáiyát, The Divan, and The Gulistan.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 94-98
+  quote_or_summary: The passage states that the volume has a special introduction
+    by Richard J. H. Gottheil, Professor of Rabbinical Literature and the Semitic
+    Languages at Columbia University.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 100-106
+  quote_or_summary: The contents section names The Gulistan and begins a chapter list.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 108-120
+  quote_or_summary: 'The listed chapter headings are: customs of kings; morals of
+    dervishes; preciousness of contentment; benefit of being silent; love and youth;
+    imbecility and old age; impressions of education; duties of society.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mostly bibliographic and paratextual. Literal extraction is
+    straightforward; motif identification is limited to the didactic implications
+    of chapter headings.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No narrative scenes, mythic figures, or listed taxonomy symbols occur in the supplied passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l81-l120
+  passage_sha256=cc35c464c2a85f05307a6240f36a02c10759f6bc7ddfa199c43a3d6a99664713
+

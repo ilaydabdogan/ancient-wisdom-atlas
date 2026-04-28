@@ -1,0 +1,449 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l2710-l2746
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK THIRD / THE STORY OF THE SEVEN YEARS' WANDERING / BOOK FOURTH / THE
+    LOVE OF DIDO, AND HER END; lines 2710-2746
+  start: '2710'
+  end: '2746'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the discovery of Dido mortally wounded on a sword,
+    the lamentation of her people and sister, her final struggle to die, and Juno's
+    sending of Iris to cut the sacred lock and release her life to the winds because
+    Proserpine had not yet claimed it for the underworld.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The dying woman is found fallen on steel, with blood on the sword and on her
+    hands.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A cry and lamentation spread through the halls and the city, compared to the
+    fall of Carthage or Tyre in flames.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The dying woman's sister runs to her, wounds herself in mourning gestures,
+    and addresses her with grief and reproach.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The sister says the pyre and altar fires had been prepared and asks why she
+    was not called to share the same death by steel.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The sister asks for water for the wounds, embraces the half-lifeless woman,
+    and tries to stanch the blood with her gown.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The dying woman repeatedly tries to lift herself, falls back, seeks the light
+    of heaven with wandering eyes, and moans.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Juno pities the woman's long pain and difficult death and sends Iris from
+    heaven to release the struggling life from the body.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage states that the woman did not die by fate or earned death, but
+    before her day and in sudden madness.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Proserpine had not yet taken a lock from the woman's golden head or sentenced
+    her to the Stygian underworld.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Iris descends through the sky on dewy saffron wings with changing colors,
+    stands over the woman, cuts the hair sacred to Dis, and the life passes away.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Dido, the dying woman
+  description: A woman associated with Carthage in the passage locator; she lies mortally
+    wounded by steel, struggles to die, and is finally released from the body.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: The dying woman's sister
+  description: A sister who runs to the dying woman, laments, reproaches her, embraces
+    her, and tries to bathe and stanch her wounds.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Juno
+  description: A divine figure who pities the dying woman's long pain and sends Iris
+    from heaven.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Iris
+  description: A divine messenger who descends from heaven and cuts the hair sacred
+    to Dis, releasing the woman's life.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Proserpine
+  description: An underworld-associated figure who had not yet taken the woman's lock
+    or sentenced her to the Stygian underworld.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Dis
+  description: An underworld-associated figure to whom the hair is described as sacred.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: People of Carthage and Sidonians
+  description: Collective mourners and those said by the sister to be harmed by the
+    woman's self-destruction.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: mortally wounded ruler or woman
+  assigned_to:
+  - fig:1
+  basis: She is found on the steel, struggles with a deep wound, and dies after Iris
+    cuts the sacred hair.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:2
+  label: mourning sister
+  assigned_to:
+  - fig:2
+  basis: She runs to the dying woman, laments her exclusion from the death, and tries
+    to tend the wounds.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine sender moved by pity
+  assigned_to:
+  - fig:3
+  basis: Juno pities the long pain and sends Iris to release the life.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: divine releaser of life
+  assigned_to:
+  - fig:4
+  basis: Iris descends, cuts the sacred hair, and thereby releases the woman from
+    the body.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: underworld claimant not yet acted
+  assigned_to:
+  - fig:5
+  basis: The passage says Proserpine had not yet taken the lock or assigned the woman
+    to the Stygian underworld.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: underworld recipient of sacred hair
+  assigned_to:
+  - fig:6
+  basis: Iris names the hair as sacred to Dis before cutting it.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: mourning community
+  assigned_to:
+  - fig:7
+  basis: The people cry and lament, and the sister says the woman has destroyed herself,
+    her sister, the Sidonian lords and people, and her city.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: sword or steel
+  literal_form: The steel and sword on which the woman is found, reeking with blood.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: blood and wound
+  literal_form: Blood on the sword and hands; dark streams of blood; the deep-driven
+    wound in the breast.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: pyre and altar fires
+  literal_form: The sister refers to the pyre and altar fires prepared in connection
+    with the death.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: city flames in lament simile
+  literal_form: Flames rolling over the roofs of houses and temples in the comparison
+    to Carthage or Tyre falling.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: water for wounds
+  literal_form: The sister asks for water to bathe the wounds.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: sacred lock of hair
+  literal_form: A lock from the golden head, sacred to Dis, cut by Iris.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: Stygian underworld
+  literal_form: The Stygian underworld to which Proserpine had not yet sentenced the
+    woman.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: rainbow-colored descent
+  literal_form: Iris descends on dewy saffron pinions in a trail of changing colors
+    across the sun.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Discovery and public lament
+  summary: The woman is discovered mortally wounded on the sword, and cries and lamentation
+    spread through the halls and city.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sister's lament and attempted care
+  summary: The sister reaches the dying woman, laments that she was not called to
+    share the death, asks for water, embraces her, and tries to stanch the blood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Final struggle before death
+  summary: The dying woman repeatedly tries to rise, falls back, seeks the light of
+    heaven, and moans.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Divine release of life
+  summary: Juno sends Iris because the woman is dying before her fated time; Iris
+    descends, cuts the hair sacred to Dis, and the life leaves the body.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: premature death requiring divine release
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The woman is said not to be dying by fate or deserved death; Juno sends Iris
+    to release the life because Proserpine has not yet taken the lock or assigned
+    her to the underworld.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage shows an underworld threshold and release of life, but it
+    does not narrate an actual journey through the afterlife.
+- id: motif:2
+  label: sacred lock cut for death
+  taxonomy_refs: []
+  basis: Iris cuts the hair sacred to Dis, and immediately the warmth leaves the body
+    and the life passes away.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this specific action.
+- id: motif:3
+  label: sister wishing to share death
+  taxonomy_refs:
+  - sibling_pair
+  basis: The sister asks why she was not called to share the same doom and says the
+    same hour and steel should have been their portion.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage expresses desired shared death, not an actual paired death.
+- id: motif:4
+  label: death framed by pyre and altar fire
+  taxonomy_refs:
+  - sacrifice
+  basis: The sister refers to the pyre and altar fires and asks whether these preparations
+    were connected to the woman's death.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage uses ritual language, but it does not explicitly describe
+    the death as a sacrifice.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2710-2718
+  quote_or_summary: The woman is seen sunk on steel, with blood on sword and hands;
+    cries, lamentation, and a fire-destruction simile spread through the city.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: 2718-2732
+  quote_or_summary: The sister rushes in mourning, asks whether the summons, pyre,
+    and altar fires were a snare, wishes she had shared the same steel, asks for water,
+    embraces the dying woman, and tries to stanch the blood.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: 2732-2737
+  quote_or_summary: The dying woman tries three times to lift herself, falls back,
+    seeks the light of heaven, and moans.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: 2738-2742
+  quote_or_summary: Juno pities the long pain and difficult death and sends Iris to
+    release the life because the woman is not dying by fate or deserved death, but
+    before her day and in sudden madness.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: 2742-2744
+  quote_or_summary: Proserpine has not yet taken the lock from the golden head or
+    sentenced the woman to the Stygian underworld.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: 2744-2746
+  quote_or_summary: Iris descends through the sky on saffron, many-colored wings,
+    says she takes the hair sacred to Dis, cuts it, and the warmth and life leave
+    the body.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal sequence and figures are clear. Motif taxonomy matches are cautious
+    where the supplied taxonomy does not include a specific death-lock or psychopomp
+    category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; comparison claims left empty because the passage itself does not make an explicit comparative claim beyond its own Greco-Roman underworld references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l2710-l2746
+  passage_sha256=38f504efcfd3efc39c1b3e18fcc217b4e74d9af3da63318d9869408df74cc582
+

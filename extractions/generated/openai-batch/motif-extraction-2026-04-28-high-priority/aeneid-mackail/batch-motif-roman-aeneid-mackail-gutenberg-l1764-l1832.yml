@@ -1,0 +1,652 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l1764-l1832
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK SECOND / THE STORY OF THE SACK OF TROY / BOOK THIRD / THE STORY OF THE
+    SEVEN YEARS' WANDERING; lines 1764-1832
+  start: '1764'
+  end: '1832'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Aeneas hears that Helenus rules Greek towns and that Andromache is again
+    married among Trojans. He finds Andromache making rites for Hector at a symbolic
+    tomb near a feigned Simoïs, and she reacts with shock at seeing him alive. She
+    recounts captivity under Pyrrhus, transfer to Helenus, Pyrrhus' death by Orestes,
+    and Helenus' new Trojan-named realm. Helenus welcomes Aeneas and the Trojans into
+    a recreated Troy, hosts them, and, after Aeneas asks for divine guidance, prepares
+    to give prophecy following sacrifice to Phoebus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Aeneas hears a report that Helenus, son of Priam, is ruling over Greek towns
+    and that Andromache has again come to a husband of her own people.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Andromache pours libations near waters named as a feigned Simoïs and calls
+    Hector's ghost to an empty tomb with two altars.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Andromache is frightened and faints when she sees Aeneas and the Trojan arms
+    around him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Andromache asks whether Aeneas is alive and real, and asks where Hector is
+    if Aeneas is not among the living.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Aeneas tells Andromache that he is alive and asks about her fate after Hector
+    and her marriage relation to Pyrrhus.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Andromache describes being taken from the burning land over foreign seas,
+    enduring Pyrrhus, bearing children in slavery, and later being given to Helenus.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Andromache states that Orestes killed Neoptolemus/Pyrrhus at ancestral altars
+    because of desire for his stolen bride and under the furies of crime.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After Neoptolemus' death, Helenus received part of the realm, named places
+    after Trojan figures, and built a Pergama and Ilian citadel on hills.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Andromache asks how winds, fates, or divinity brought Aeneas to the coast
+    and asks whether Ascanius is alive.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Helenus approaches with a company, recognizes the Trojans as kin, and leads
+    them joyfully to his gates.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Aeneas recognizes a small copy of Troy, including a Pergama, a dry brook called
+    Xanthus, and a Scaean gateway.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Helenus entertains the Trojans in colonnades; wine is poured in libation and
+    a feast is served on gold.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Aeneas asks Helenus, as an interpreter of the gods, to tell him what dangers
+    to avoid and what guidance will help him overcome his labours.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: Aeneas mentions that previous divine signs favoured his course toward Italy,
+    while Celaeno the Harpy had prophesied portents and hunger.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:15
+  text: Helenus performs sacrifice with steers, removes consecration chaplets, leads
+    Aeneas to Phoebus' courts, and begins to utter prophecy while filled with the
+    deity.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Aeneas
+  description: Narrating Trojan leader who approaches Andromache, identifies himself
+    as alive, enters Helenus' town, and asks Helenus for prophetic guidance.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Andromache
+  description: Former wife of Hector, encountered at rites for Hector; she recounts
+    captivity under Pyrrhus and transfer to Helenus, and asks about Ascanius.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Helenus
+  description: Son of Priam, ruler of a Trojan-named realm, host to Aeneas, and prophet/interpreter
+    of the gods who prepares to give an oracle.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: Hector
+  description: Dead Trojan hero invoked by Andromache at an empty tomb bearing his
+    name; also named as Ascanius' uncle in Andromache's question.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:5
+  name_or_label: Pyrrhus / Neoptolemus
+  description: Achilles' descendant who had power over Andromache, later sought Hermione
+    and was killed by Orestes at ancestral altars.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Orestes
+  description: Killer of Neoptolemus/Pyrrhus, described as inflamed with desire for
+    a stolen bride and driven by furies of crime.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Ascanius
+  description: Aeneas' son, asked about by Andromache as a child who may still live
+    and draw breath.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Phoebus
+  description: God associated with Helenus' prophetic authority, tripods, laurels,
+    and courts.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:9
+  name_or_label: Celaeno the Harpy
+  description: Harpy named by Aeneas as having prophesied strange portents, wrath,
+    bale, and foul hunger.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: wandering petitioner for guidance
+  assigned_to:
+  - fig:1
+  basis: Aeneas asks which perils to avoid and by what guidance he may overcome his
+    labours.
+  evidence_refs:
+  - ev:8
+- id: role:2
+  label: mourner at symbolic tomb
+  assigned_to:
+  - fig:2
+  basis: Andromache performs libation, calls Hector's ghost, and weeps at an empty
+    tomb with altars.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Trojan ruler and host
+  assigned_to:
+  - fig:3
+  basis: Helenus rules the land, recognizes kin, brings them to his gates, and entertains
+    them.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:4
+  label: prophet and interpreter of gods
+  assigned_to:
+  - fig:3
+  basis: Aeneas addresses Helenus as interpreter of the gods, and Helenus performs
+    ritual before uttering prophecy.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:5
+  label: goddess-born survivor
+  assigned_to:
+  - fig:1
+  basis: Andromache addresses Aeneas as goddess-born and asks whether he is alive;
+    Aeneas confirms that he lives through extremities.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: captive transferred between masters
+  assigned_to:
+  - fig:2
+  basis: Andromache describes slavery under Pyrrhus and being passed to Helenus.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: dead beloved invoked by rites
+  assigned_to:
+  - fig:4
+  basis: Hector's ghost is called to a named empty tomb by Andromache.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: former captor and slain ruler
+  assigned_to:
+  - fig:5
+  basis: Pyrrhus is described as Achilles' seed who held Andromache and was later
+    murdered by Orestes.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: avenger or rival killer over bride
+  assigned_to:
+  - fig:6
+  basis: Orestes is said to be driven by desire for his stolen bride and to murder
+    Neoptolemus.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: absent child of concern
+  assigned_to:
+  - fig:7
+  basis: Andromache asks whether Ascanius still lives and whether he is stirred by
+    his father and uncle's example.
+  evidence_refs:
+  - ev:5
+- id: role:11
+  label: divine source of prophecy
+  assigned_to:
+  - fig:8
+  basis: Helenus' prophetic senses and ritual setting are associated with Phoebus.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:12
+  label: ominous prior prophet
+  assigned_to:
+  - fig:9
+  basis: Celaeno is named as prophesying strange portents, wrath, harm, and hunger.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: feigned Simoïs waters
+  literal_form: waters of a feigned Simoïs near Andromache's grove
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: empty named tomb and two altars
+  literal_form: empty turfed tomb with Hector's name and two consecrated altars
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: burning homeland
+  literal_form: burning land from which Andromache says the captives sailed
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: little Troy
+  literal_form: copy of Pergama, dry brook called Xanthus, and Scaean gateway
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: libation wine
+  literal_form: goblets of wine poured in libation during Helenus' hospitality
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Phoebus' prophetic implements
+  literal_form: tripods, laurels, stars, bird tongues, and auguries of prosperous
+    flight named in Aeneas' address
+  associated_figures:
+  - fig:3
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: sacrificial steers and consecration chaplets
+  literal_form: steers offered in sacrifice and chaplets unbound from Helenus' head
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Aeneas hears of Helenus and Andromache
+  summary: Aeneas hears an astonishing report that Helenus rules Greek towns and that
+    Andromache is married among Trojans, prompting his desire to meet them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Andromache's rites for Hector
+  summary: In a grove by the feigned Simoïs, Andromache performs libations and calls
+    Hector's ghost at an empty tomb with altars, then reacts in terror and grief upon
+    seeing Aeneas.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Andromache recounts captivity and new settlement
+  summary: Andromache tells Aeneas of her enslavement, Pyrrhus' marriage pursuit,
+    her transfer to Helenus, Orestes' killing of Pyrrhus, and Helenus' establishment
+    of a Trojan-named realm.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Questions about Aeneas' arrival and Ascanius
+  summary: Andromache asks by what winds, fates, or divinity Aeneas arrived and asks
+    whether Ascanius still lives and is inspired by his father and Hector.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Welcome into recreated Troy
+  summary: Helenus recognizes Aeneas and the Trojans as kin, brings them into his
+    town, and Aeneas observes a small copy of Troy with Trojan place names.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Hospitality and libation feast
+  summary: Helenus hosts the Trojans in spacious colonnades, where wine libations
+    are poured and a feast is served.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Aeneas seeks prophecy from Helenus
+  summary: Before departure, Aeneas asks Helenus, interpreter of the gods, for warnings
+    and guidance, noting both favourable divine signs toward Italy and Celaeno's threatening
+    prophecy.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+- id: scene:8
+  label: Sacrifice before prophecy
+  summary: Helenus performs sacrifice, removes consecration chaplets, leads Aeneas
+    to Phoebus' courts, and begins to speak prophetic words under divine influence.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: mourning rites at an empty or symbolic tomb
+  taxonomy_refs: []
+  basis: Andromache pours libation, calls Hector's ghost, and weeps at an empty tomb
+    with altars.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The supplied taxonomy does not include a specific tomb-cult or mourning
+    motif family.
+- id: motif:2
+  label: recreated homeland in exile
+  taxonomy_refs:
+  - return
+  basis: Helenus has built a Pergama and Ilian citadel, and Aeneas recognizes a small
+    copy of Troy with familiar Trojan names.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: This is not a full return to Troy but a displaced imitation of it.
+- id: motif:3
+  label: captive woman passed through conquest and remarriage
+  taxonomy_refs: []
+  basis: Andromache recounts captivity, slavery, children borne in bondage, and transfer
+    from Pyrrhus to Helenus.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No exact supplied taxonomy family for captivity or forced marriage.
+- id: motif:4
+  label: stolen bride and violent rivalry
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Orestes is described as inflamed by desire for his stolen bride and as murdering
+    Neoptolemus at ancestral altars.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The phrase is embedded in Andromache's account and concerns a secondary
+    episode within the passage.
+- id: motif:5
+  label: divine parent-child identity of hero
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Andromache addresses Aeneas as goddess-born when asking whether he is a real
+    living messenger.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage names Aeneas as goddess-born but does not elaborate the parent-child
+    relationship.
+- id: motif:6
+  label: quest for prophetic guidance before departure
+  taxonomy_refs:
+  - departure
+  - wisdom
+  basis: Aeneas prepares to sail and asks Helenus, interpreter of the gods, what dangers
+    to avoid and how to overcome future labours.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The prophecy itself begins after the supplied excerpt; only the request
+    and ritual preparation are included here.
+- id: motif:7
+  label: sacrifice as preparation for oracle
+  taxonomy_refs:
+  - sacrifice
+  - wisdom
+  basis: Helenus sacrifices steers, removes consecration chaplets, leads Aeneas to
+    Phoebus' courts, and begins to speak prophecy under divine influence.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The content of the oracle is outside this passage range.
+- id: motif:8
+  label: ominous hunger prophecy recalled during journey
+  taxonomy_refs: []
+  basis: Aeneas recalls Celaeno the Harpy's prophecy of strange portents, wrath, harm,
+    and foul hunger.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The omen is only summarized by Aeneas in this passage and not narrated
+    directly.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1764-1772 / Aeneid 3.294-302
+  quote_or_summary: Aeneas hears the astonishing report that Helenus son of Priam
+    rules Greek towns and that Andromache has again come to a husband of her people;
+    he leaves the harbour to meet them.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 1772-1785 / Aeneid 3.303-313
+  quote_or_summary: Andromache pours libation in a grove by the waters of a feigned
+    Simoïs, calls Hector's ghost to an empty named tomb with two altars, sees Aeneas,
+    becomes terror-stricken, faints, and asks whether he is truly alive and where
+    Hector is.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 1786-1794 / Aeneid 3.314-323
+  quote_or_summary: Aeneas says he lives through extremities and asks what fate has
+    received Andromache after Hector, including whether she keeps marriage bonds with
+    Pyrrhus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 1795-1815 / Aeneid 3.324-343
+  quote_or_summary: Andromache contrasts her fate with Priam's daughter who died at
+    Troy, then recounts sailing from the burning land, captivity and slavery under
+    Pyrrhus, his pursuit of Hermione, her transfer to Helenus, Orestes' killing of
+    Neoptolemus over a stolen bride, and Helenus' new Trojan-named realm.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 1815-1822 / Aeneid 3.343-351
+  quote_or_summary: Andromache asks what winds, fates, or divinity brought Aeneas
+    to the coast and asks whether Ascanius still lives and is stirred by Aeneas and
+    Hector.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 1823-1831 / Aeneid 3.352-359
+  quote_or_summary: Helenus approaches with a company, recognizes Aeneas and the Trojans
+    as kin, leads them to his gates, and Aeneas recognizes a little Troy with a copy
+    of Pergama, a dry brook called Xanthus, and a Scaean gateway.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 1831-1835 / Aeneid 3.359-363
+  quote_or_summary: The Trojans celebrate in the friendly town; the king entertains
+    them in spacious colonnades, wine is poured in libation, and a feast is served
+    on gold.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 1836-1854 / Aeneid 3.364-377
+  quote_or_summary: As sailing weather rises, Aeneas asks Helenus, called interpreter
+    of the gods and open to Phoebus' signs, to reveal what perils to avoid and what
+    guidance can overcome his labours; he also recalls favourable divine counsel toward
+    Italy and Celaeno the Harpy's ominous prophecy.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:9
+  type: summary
+  locator: lines 1855-1861 / Aeneid 3.378-396
+  quote_or_summary: Helenus seeks divine favour with sacrifice of steers, unbinds
+    consecration chaplets, leads Aeneas to Phoebus' courts, and begins to utter prophetic
+    words from augural lips while filled with the deity.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports the figures, ritual actions, exile setting,
+    recreated Troy, and prophetic consultation. Motif mapping is limited to the supplied
+    taxonomy where appropriate; no comparison claims are made because the excerpt
+    does not itself establish cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. Taxonomy references are included only where supported by explicit passage content.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l1764-l1832
+  passage_sha256=6b251326ef88c6d140fb8a3c8107f145ca62a6f578d81403672f275b18dcb6dd
+

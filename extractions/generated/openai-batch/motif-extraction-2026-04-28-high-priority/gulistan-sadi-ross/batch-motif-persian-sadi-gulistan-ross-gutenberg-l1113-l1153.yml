@@ -1,0 +1,458 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l1113-l1153
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: CHAPTER I / XVIII / XXIII / XXVII; lines 1113-1153
+  start: '1113'
+  end: '1153'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A wrestling master teaches a favored student all but one of his three hundred
+    and sixty techniques. The student becomes powerful and boasts before the king
+    that he equals his master except in seniority. The king orders a public match.
+    The master uses the one withheld technique to defeat the student, is rewarded
+    by the king, and explains that he reserved the trick against possible betrayal.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A wrestling master knew three hundred and sixty sleights and could show a
+    new trick for each day of the year.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The master taught one scholar three hundred and fifty-nine feats but delayed
+    teaching one feat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The scholar became so proficient that none of his contemporaries could cope
+    with him.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The scholar boasted before the reigning sovereign that he was not inferior
+    to his master in power and was equal in skill.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The king ordered a wrestling match, with a fenced field and assembled ministers,
+    nobles, and gallant men.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The youth rushed into the ring and is compared to a huge and lusty elephant.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The master used the withheld feat, lifted the youth from the ground, raised
+    him above his head, and threw him to the earth.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The king rewarded the master and reproached the youth for treachery toward
+    his patron.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The youth explained that the master prevailed by a single withheld trick rather
+    than strength and ability.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The master said he had reserved the trick for such a day and quoted counsel
+    not to put so much power into a friend’s hands that he can injure you if hostile.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The closing saying states that no person learned archery from the speaker
+    without eventually making the speaker his target.
+  category: speech
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: wrestling master
+  description: A person who had become a master in wrestling and knew three hundred
+    and sixty sleights.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:10
+- id: fig:2
+  name_or_label: youth / scholar
+  description: A favored and handsome scholar of the master who learned three hundred
+    and fifty-nine wrestling feats, became highly proficient, boasted before the king,
+    and was defeated by the withheld feat.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: reigning sovereign / king
+  description: The ruler before whom the youth boasted; he ordered the match, rewarded
+    the master, and reproached the youth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: assembled court and spectators
+  description: Ministers of state, nobles of the court, gallant men of the realm,
+    and the crowd at the wrestling match.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:5
+  name_or_label: man treacherously dealt with by his pupil
+  description: A cited speaker in the master’s closing saying who remarks that pupils
+    trained in archery eventually made him their target.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: teacher of specialized skill
+  assigned_to:
+  - fig:1
+  basis: The master possesses and teaches wrestling techniques to the scholar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: student who surpasses peers
+  assigned_to:
+  - fig:2
+  basis: The scholar learns almost all feats and becomes too proficient for contemporaries
+    to cope with.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: withholder of final technique
+  assigned_to:
+  - fig:1
+  basis: The master keeps one feat back and later uses it in the match.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:10
+- id: role:4
+  label: boastful challenger
+  assigned_to:
+  - fig:2
+  basis: The youth claims before the sovereign that he is equal to the master in skill
+    and not inferior in power.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: royal judge and patron
+  assigned_to:
+  - fig:3
+  basis: The king orders the match, rewards the master, and reproaches the youth.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:6
+  label: public witnesses
+  assigned_to:
+  - fig:4
+  basis: Court officials, nobles, gallant men, and the crowd attend the match and
+    react to the defeat.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:7
+  label: exemplary betrayed teacher
+  assigned_to:
+  - fig:5
+  basis: The quoted man says pupils learned archery from him and then made him their
+    target.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: withheld technique
+  literal_form: one strange feat or cunning trick in wrestling
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:9
+  - ev:10
+- id: sym:2
+  label: number of complete annual techniques
+  literal_form: three hundred and sixty sleights, one for every day throughout the
+    year
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: fenced wrestling field
+  literal_form: a spacious field fenced in for the ordered wrestling match
+  associated_figures:
+  - fig:2
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: elephant comparison
+  literal_form: the youth rushing into the ring like a huge and lusty elephant
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: brazen mountain comparison
+  literal_form: a hypothetical brazen mountain that the youth’s rush would move from
+    its base
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: teacher made target
+  literal_form: archery teacher becoming the butt or target of those he taught
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Partial instruction of favored student
+  summary: The wrestling master, moved by liking for a scholar, teaches him three
+    hundred and fifty-nine of three hundred and sixty techniques while withholding
+    one.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Boast before the king
+  summary: After becoming highly skilled, the youth claims before the sovereign that
+    he is equal to his master except for seniority and tutorage.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Public wrestling match
+  summary: The king orders a fenced public match attended by the court; the youth
+    enters forcefully, and the master defeats him with the withheld technique.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Explanation and proverb of guarded instruction
+  summary: The youth attributes his defeat to the hidden trick; the master replies
+    that he reserved it against such a day and cites sayings about not empowering
+    a friend or pupil who may become hostile.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: master withholds final skill from pupil
+  taxonomy_refs:
+  - wisdom
+  basis: The master teaches nearly all wrestling feats but keeps one technique back,
+    later explaining that one should not give a friend enough power to cause injury
+    if hostile.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:10
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents prudential wisdom
+    rather than a supernatural mythic episode.
+- id: motif:2
+  label: student challenges teacher and is defeated by hidden knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The pupil boasts of equality with the master, is tested publicly, and loses
+    because he lacks the single concealed technique.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: This is an ethical exemplum; no claim of mythic lineage is made.
+- id: motif:3
+  label: betrayed teacher warns against complete empowerment of pupil
+  taxonomy_refs:
+  - wisdom
+  basis: The master frames his withholding as protection against treachery, supported
+    by a quoted archery example in which pupils make the teacher their target.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The passage supports the moral pattern internally but not a specific external
+    comparative tradition.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1113-1117
+  quote_or_summary: The master of wrestling knows three hundred and sixty sleights,
+    enough to show a fresh trick each day of the year.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: 1117-1122
+  quote_or_summary: Because of affection for a handsome scholar, the master teaches
+    him three hundred and fifty-nine feats while deferring one.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: 1123-1125
+  quote_or_summary: The youth becomes so proficient in wrestling that no contemporary
+    can cope with him.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: quote
+  locator: 1125-1130
+  quote_or_summary: "“otherwise I am not inferior in power, and am his equal in skill.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: 1130-1135
+  quote_or_summary: The displeased king orders a wrestling match, has a spacious field
+    fenced, and the court and warriors assemble.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: summary
+  locator: 1135-1138
+  quote_or_summary: The youth rushes into the ring like a huge elephant, with force
+    that could move a brazen mountain from its base.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise summary.
+- id: ev:7
+  type: summary
+  locator: 1138-1142
+  quote_or_summary: Knowing the youth is stronger, the master uses the strange withheld
+    feat, seizes him, lifts him above his head, and throws him down.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise summary.
+- id: ev:8
+  type: summary
+  locator: 1142-1146
+  quote_or_summary: The crowd shouts; the king orders an honorary dress and largess
+    for the master and reproaches the youth as treacherous toward his patron.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise summary.
+- id: ev:9
+  type: summary
+  locator: 1146-1150
+  quote_or_summary: The youth says the master did not overcome him by strength but
+    by one cunning wrestling trick that had been withheld.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise summary.
+- id: ev:10
+  type: quote
+  locator: 1150-1152
+  quote_or_summary: "“Put it not so much into a friend's power that, if hostilely
+    disposed, he can do you an injury.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:11
+  type: summary
+  locator: 1152-1153
+  quote_or_summary: A cited man who was betrayed by his pupil says no one learned
+    archery from him without eventually making him the target.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a self-contained didactic anecdote with clear actions, figures,
+    and moral. No external comparison claims are made because the passage itself does
+    not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only provided passage and metadata were used; available taxonomy references were applied only where directly supportable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l1113-l1153
+  passage_sha256=200e2b4c176ab58e634716ee60820752d84aad13912ec5511a5945e3a088ad61
+

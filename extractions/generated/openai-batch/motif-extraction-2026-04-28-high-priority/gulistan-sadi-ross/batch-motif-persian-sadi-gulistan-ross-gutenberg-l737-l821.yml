@@ -1,0 +1,564 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l737-l821
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: THE GULISTAN / SA'DI / INTRODUCTION / CHAPTER I; lines 737-821
+  start: '737'
+  end: '821'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An impoverished associate asks the narrator to help him obtain government
+    office. The narrator warns him about the dangers of royal service using proverbs
+    and a fox fable, but the friend rejects the advice and appeals to true friendship.
+    The narrator then recommends him to the treasurer; the friend rises in rank and
+    becomes favored by the king. The narrator closes with verses on patience, hidden
+    mercy, and fortune's reversal.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An associate complains that he has small means, a large family, and cannot
+    endure poverty.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The associate considers leaving for another country to seek livelihood without
+    others knowing his fortune.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The associate fears rivals will accuse him of abandoning his wife and children
+    if he leaves.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The associate says he has skill in accounts and asks the narrator to help
+    him obtain an office.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The narrator replies that service to kings brings both hope of maintenance
+    and fear for existence.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The associate answers that a person with honest accounts has no reason to
+    fear the comptroller.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The narrator tells a story of a fox running away because camels are being
+    requisitioned, fearing malicious people might call him a camel.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narrator says spies and informers may report the opposite of a morally
+    upright person's conduct.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The narrator advises the associate to seek the kingdom of contentment and
+    give up thoughts of preferment.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The friend becomes angry, disputes the fable, and says a true friend helps
+    in despair and misfortune.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The narrator contacts the lord high treasurer, praises the friend's skill
+    and merits, and the friend receives a small office.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The friend is later promoted to a much higher station and becomes the king's
+    favorite.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The narrator rejoices at the friend's prosperity and recites counsel about
+    not despairing, hidden mercies, and patience bearing sweet fruit.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: The speaker who advises the associate, tells the fox story, and later
+    intercedes with the treasurer.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Impoverished associate or friend
+  description: A man with small means, a large family, and skill in accounts who seeks
+    an office and later rises in rank.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Wife and children
+  description: The associate's family, whom rivals might accuse him of abandoning
+    to distress.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Rivals, envious persons, spies, and informers
+  description: Hostile or suspicious observers who may scoff, accuse, lurk in corners,
+    or report falsely.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:5
+  name_or_label: King
+  description: The ruler whose service is described as dangerous and before whom a
+    person may stand arraigned; later the friend becomes his favorite.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:6
+  name_or_label: Sahib diwan, lord high treasurer
+  description: The official whom the narrator contacts and who nominates the friend
+    for a small office.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Fox in the fable
+  description: A fox seen running away in fear after hearing that camels are being
+    requisitioned.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Camel in the fable
+  description: The animal supposedly being requisitioned, which the fox fears he may
+    be falsely identified as.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Advisor
+  assigned_to:
+  - fig:1
+  basis: The narrator warns against royal service and recommends contentment.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: Intercessor or patronage mediator
+  assigned_to:
+  - fig:1
+  basis: The narrator uses his former intimacy with the treasurer to present the friend's
+    case.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: Petitioner for office
+  assigned_to:
+  - fig:2
+  basis: The associate asks the narrator to obtain an office for him.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Fortune-reversal beneficiary
+  assigned_to:
+  - fig:2
+  basis: The friend moves from poverty to office, promotion, and royal favor.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+- id: role:5
+  label: Dependents
+  assigned_to:
+  - fig:3
+  basis: The wife and children are described as those who might be left in distress.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: Accusers or hostile observers
+  assigned_to:
+  - fig:4
+  basis: Rivals scoff and spies or informers may report falsely.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:7
+  label: Royal authority
+  assigned_to:
+  - fig:5
+  basis: The king is the source of both maintenance and danger in service, and later
+    grants favor.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: role:8
+  label: Office-granting official
+  assigned_to:
+  - fig:6
+  basis: The treasurer nominates the friend for a small office.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: Fable figure fearing false identification
+  assigned_to:
+  - fig:7
+  basis: The fox fears envious people may insist he is a camel and have him seized.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: Object of requisition in fable
+  assigned_to:
+  - fig:8
+  basis: The camel is the animal said to be requisitioned.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Load of poverty
+  literal_form: The associate says he cannot bear up with his load of poverty.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Fox fleeing requisition
+  literal_form: A fox runs away, stumbling and getting up, after hearing camels are
+    being requisitioned.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Camel as false identity
+  literal_form: The fox fears malicious people will call him a camel and have him
+    seized.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Snakebite and distant antidote
+  literal_form: A person bitten by a snake may die before antidote can be brought
+    from Irac.
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Sea voyage and shore
+  literal_form: The benefits of a sea voyage are many, but safety is found only on
+    shore.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Star of good fortune
+  literal_form: The friend's star of good fortune ascends until it reaches the zenith
+    of ambition.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: Fountain of immortality from chaos
+  literal_form: The narrator says the fountain of immortality has its source of chaos.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: Bitter patience and sweet fruit
+  literal_form: Patience is described as bitter but yielding sweet fruit.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Complaint and request for office
+  summary: The impoverished associate describes his poverty, family burdens, fear
+    of rivals, and accounting skill, then asks the narrator to help him obtain office.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Warnings against royal service
+  summary: The narrator warns that service to kings brings danger, while the associate
+    argues that honest accounts remove fear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Fox fable and counsel of contentment
+  summary: The narrator tells the fox-and-camel fable, warns about informers and royal
+    accusation, and advises contentment rather than preferment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Friend's anger and appeal to friendship
+  summary: The friend angrily rejects the advice and says real friends help when one
+    is overwhelmed by misfortune.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Office, promotion, and reflection on fortune
+  summary: The narrator secures the friend's nomination through the treasurer; the
+    friend is promoted and favored by the king, and the narrator reflects on fortune,
+    hidden mercy, and patience.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Wisdom counsel against risky royal service
+  taxonomy_refs:
+  - wisdom
+  basis: The narrator frames royal service as a balance of maintenance and danger,
+    then supports the warning through proverbs and a fable.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a didactic passage rather than a mythic narrative in the strict
+    sense.
+- id: motif:2
+  label: Animal fable of false identification and unjust seizure
+  taxonomy_refs:
+  - wisdom
+  basis: The fox fears being seized as a camel if malicious people falsely identify
+    him, illustrating danger from accusation rather than actual guilt.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The fable is embedded as an analogy within a social and political counsel
+    scene.
+- id: motif:3
+  label: Reversal of fortune through patronage and patience
+  taxonomy_refs:
+  - ascent
+  - wisdom
+  basis: The friend rises from poverty to office, promotion, royal favor, and is described
+    through the ascending star of fortune.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The immediate mechanism is human patronage, not an explicit supernatural
+    intervention, although the closing verse mentions God’s hidden mercies.
+- id: motif:4
+  label: Safety on shore versus profit at sea
+  taxonomy_refs: []
+  basis: The narrator cites the saying that a sea voyage has many benefits, but safety
+    is found only on shore.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a proverbial image rather than an enacted journey.
+- id: motif:5
+  label: Hope or immortality arising from chaos
+  taxonomy_refs:
+  - chaos
+  basis: The narrator says the fountain of immortality has its source of chaos while
+    consoling the friend about bankrupt circumstances.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The expression is brief and metaphorical; the passage does not elaborate
+    a cosmogonic chaos narrative.
+comparison_claims:
+- id: claim:1
+  claim: The fox-and-camel anecdote functions as a didactic animal fable used to clarify
+    a moral and practical warning.
+  claim_level: same_function
+  target: Didactic animal-fable wisdom pattern
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: No historical relationship to any specific fable collection is stated
+    in the passage.
+- id: claim:2
+  claim: The movement from poverty and despair to prosperity and royal favor matches
+    a functional reversal-of-fortune wisdom pattern.
+  claim_level: same_function
+  target: Reversal of fortune through patience and hidden mercy
+  evidence_refs:
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage presents this as moral reflection after social advancement,
+    not as a full mythic transformation tale.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 737-753
+  quote_or_summary: The associate complains of small means, a large family, poverty,
+    fear of rivals, and asks for help obtaining an office because he has skill in
+    accounts.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 754-761
+  quote_or_summary: '"the service of kings offers a twofold prospect--a hope of maintenance
+    and a fear for existence"'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 762-775
+  quote_or_summary: The associate argues that righteousness brings divine favor and
+    that a person with fair account-books need not fear the comptroller.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 776-793
+  quote_or_summary: The narrator tells of a fox fleeing because camels are being requisitioned,
+    fearing malicious people may call him a camel; he also warns of snakebite, spies,
+    informers, and false reports before the king.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:5
+  type: quote
+  locator: lines 794-798
+  quote_or_summary: '"secure the kingdom of contentment"; "The benefits of a sea voyage
+    are innumerable; but if thou seekest for safety, it is to be found only on shore."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; short excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 799-808
+  quote_or_summary: The friend becomes angry, rejects the fable, and says a true friend
+    takes his friend's hand when he is struggling with despair and misfortune.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 809-817
+  quote_or_summary: The narrator speaks to the lord high treasurer, who nominates
+    the friend for a small office; later the friend is promoted to a higher station
+    and becomes favored by the king.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:8
+  type: quote
+  locator: lines 817-821
+  quote_or_summary: '"the fountain of immortality has its source of chaos"; "God has
+    in store many hidden mercies"; "patience is bitter, yet it will yield sweet fruit."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The social plot and embedded fable are clear. Motif labels involving chaos,
+    ascent, and water are based on brief metaphorical expressions and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references limited to provided motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l737-l821
+  passage_sha256=c6177f29ace5cb7880f370065503149c74d8059fb44aa2362c308f5084df850b
+

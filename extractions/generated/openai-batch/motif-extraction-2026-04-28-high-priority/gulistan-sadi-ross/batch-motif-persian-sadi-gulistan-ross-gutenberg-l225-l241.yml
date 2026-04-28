@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l225-l241
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: CHAPTER / THE GULISTAN / SA'DI / INTRODUCTION; lines 225-241
+  start: '225'
+  end: '241'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The introductory passage characterizes Sa'di's Gulistan or Rose Garden
+    as a work presenting the science of life, morality, and religion in an attractive
+    form. It compares the work with Bacon's Essays, contrasting Bacon's clarity and
+    coldness with Sa'di's spirituality, poetic fervor, and religious devotion. It
+    presents Sa'di's writings as a safe guide and inspiration for inner life and notes
+    his death at Shiraz around 1292 at the reputed age of 110.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says Sa'di presents the science of life as comprising morality
+    and religion.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the Rose Garden may remind readers of Bacon's Essays.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage contrasts Bacon as clear, cold, and sometimes cynical with Sa'di
+    as more spiritual, acute, poetically fervent, and religiously devoted.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says the Rose Garden contains maxims worthy of being cherished
+    in Christian civilization.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says Sa'di's writings may safely guide and inspire men's inmost
+    life.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage notes that Sa'di died at Shiraz around 1292 at the reputed age
+    of 110.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sa'di
+  description: Persian author described as spiritual, acute, poetically fervent, religiously
+    devoted, serene, sincere, and associated with writings that guide inner life.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Bacon
+  description: English philosopher whose Essays are compared with Sa'di's Rose Garden;
+    described as clear, cold, and sometimes cynical.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: moral and spiritual guide
+  assigned_to:
+  - fig:1
+  basis: The passage presents Sa'di's writings as a guide and inspiration for inner
+    life and describes his work as moral and religious.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: comparative literary counterpart
+  assigned_to:
+  - fig:2
+  basis: Bacon's Essays are invoked as a work that the Rose Garden may remind readers
+    of, with contrasts drawn between the authors.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Rose Garden
+  literal_form: The title or image of a rose garden applied to Sa'di's work, the Gulistan.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: poetic fire
+  literal_form: Fire used metaphorically to describe Sa'di's poetic fervor.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Introductory evaluation of Sa'di and the Gulistan
+  summary: The passage evaluates Sa'di's Gulistan as a moral and religious literary
+    guide, compares it with Bacon's Essays, contrasts the two authors, praises Sa'di's
+    maxims and sincerity, and gives a brief death notice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: wisdom text as guide for inner life
+  taxonomy_refs:
+  - wisdom
+  basis: The passage frames Sa'di's work as presenting morality and religion, containing
+    maxims, and serving as a guide and inspiration for inner life.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an introductory literary evaluation rather than a narrative mythic
+    episode.
+- id: motif:2
+  label: spiritual poet contrasted with worldly philosopher
+  taxonomy_refs:
+  - wisdom
+  basis: The passage compares the Rose Garden with Bacon's Essays and contrasts Sa'di's
+    spirituality, poetic fervor, and religious devotion with Bacon's coldness and
+    cynicism.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The contrast is critical and comparative, not a developed mythic motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Sa'di's Rose Garden to Bacon's Essays as
+    works covering a large area of thought and experience, while also emphasizing
+    differences in tone and religious feeling.
+  claim_level: same_function
+  target: Bacon's Essays
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is literary and functional, not evidence of historical
+    contact or shared mythic inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 225-226
+  quote_or_summary: Sa'di is said to set forth the science of life, comprising morality
+    and religion, in a suggestive and attractive form.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 227-231
+  quote_or_summary: The Rose Garden is said to remind readers in some way of Bacon's
+    Essays, and both works are said to cover a large area of thought and experience.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 231-235
+  quote_or_summary: Bacon is described as clear, cold, and sometimes cynical, while
+    Sa'di is described as more spiritual, acute, poetically fervent, and religiously
+    devoted.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 235-237
+  quote_or_summary: The Rose Garden is said to have maxims not unworthy of being cherished
+    amid the highest Christian civilization.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 237-240
+  quote_or_summary: Sa'di's serenity of mind, poetic fire, and transparent sincerity
+    are said to make his writings a safe guide and inspiration for inmost life.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 240-241
+  quote_or_summary: Sa'di is said to have died at Shiraz around 1292 at the reputed
+    age of 110.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is an introduction and literary evaluation, so motif extraction
+    is limited to wisdom, guidance, and explicit comparison themes rather than narrative
+    mythic material.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage and metadata; comparison claim limited to the passage's explicit comparison with Bacon's Essays.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l225-l241
+  passage_sha256=4607383932d39f6e3850fd5a7b22808039544e06a2d909e04bf6416d360093ef
+

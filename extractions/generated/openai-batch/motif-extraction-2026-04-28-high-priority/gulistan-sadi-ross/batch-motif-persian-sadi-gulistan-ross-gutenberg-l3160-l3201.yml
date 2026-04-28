@@ -1,0 +1,425 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l3160-l3201
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XVIII / XXVII / CHAPTER IV / CHAPTER V; lines 3160-3201
+  start: '3160'
+  end: '3201'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A dervish traveling with a caravan to Hijaz receives money from an Arab
+    prince, then remains calm after robbers strip the caravan. He explains that one
+    should not attach the heart so strongly to anything or anyone that separation
+    becomes unbearable. The narrator responds with a story of intense attachment to
+    a beautiful young man, the young man's death, mourning at his tomb, and a vow
+    to withdraw from enjoyment and society.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A ragged dervish travels with a caravan toward Hijaz.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An Arab prince gives the dervish one hundred dinars for his family's support.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Khafachah robbers attack and strip the caravan.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The merchants lament after the robbery, while the dervish remains collected
+    and unmoved.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The dervish says the money was taken but that he was not so attached to it
+    as to be heartbroken by parting with it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The dervish states a general rule against fixing the heart on anything or
+    any being so strongly that removal becomes difficult.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The narrator says that in youth he became sincerely attached to a young man
+    of extraordinary beauty.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The young man's life ends, described through images of stumbling at the grave
+    of annihilation and separation from his family.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The narrator sits for many days at the young man's tomb and composes dirges
+    for him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The narrator resolves, after separation from the young man, to abandon enjoyment
+    and not re-enter society's gay circle.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The narrator uses images of sea waves, thorns, roses, a peacock, and a snake
+    to describe enjoyment, danger, and grief.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: ragged dervish
+  description: A dervish traveling with the caravan who receives dinars and remains
+    calm after being robbed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Arab prince
+  description: A prince who gives the dervish one hundred dinars for his family.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Khafachah robbers
+  description: A gang that attacks the caravan and takes its goods.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: merchants of the caravan
+  description: Merchants who weep, wail, lament, and complain after the robbery.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: narrator
+  description: The speaker who questions the dervish and then recounts his own youthful
+    attachment, bereavement, mourning, and withdrawal.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: young man
+  description: A young man of exceptional beauty to whom the narrator was deeply attached
+    and whose death caused prolonged mourning.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: detached dervish
+  assigned_to:
+  - fig:1
+  basis: He remains collected after the robbery and says he was not so attached to
+    the money as to be heartbroken.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: benefactor
+  assigned_to:
+  - fig:2
+  basis: He presents the dervish with one hundred dinars for family support.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: robbers
+  assigned_to:
+  - fig:3
+  basis: They attack the caravan and strip it.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: lamenting victims
+  assigned_to:
+  - fig:4
+  basis: They respond to the plunder with weeping, wailing, lamentation, and complaint.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: questioner
+  assigned_to:
+  - fig:5
+  basis: He asks whether the dervish's money was taken.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: mourning lover
+  assigned_to:
+  - fig:5
+  basis: He recounts his attachment to the young man, mourning at the tomb, and vow
+    to withdraw from enjoyment.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:7
+  label: deceased beloved
+  assigned_to:
+  - fig:6
+  basis: The narrator describes him as the beloved figure whose life ended and whose
+    tomb became the site of mourning.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: hundred dinars
+  literal_form: money given to the dervish and later taken by robbers
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: caravan to Hijaz
+  literal_form: caravan route toward Hijaz
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: tomb and grave
+  literal_form: the young man's tomb and grave
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: thorn of death
+  literal_form: death described as a thorn piercing the foot
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: rose and garden enjoyment
+  literal_form: roses, narcissuses, garden, and rose imagery connected with beauty
+    or enjoyment
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: sea waves
+  literal_form: waves and sea voyage used in the narrator's reflection
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: snake
+  literal_form: the narrator compares himself to a snake writhing in absence
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Robbery of the caravan
+  summary: A dervish joins a caravan to Hijaz, receives one hundred dinars from an
+    Arab prince, and then the caravan is attacked and stripped by robbers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dervish's detachment after loss
+  summary: After the robbery, the merchants lament, but the dervish remains calm and
+    explains that the money was taken without breaking his heart because attachment
+    should not be fixed too strongly on anything or anyone.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Narrator's youthful attachment and bereavement
+  summary: The narrator recalls a deep youthful attachment to a beautiful young man,
+    the young man's death, and the narrator's prolonged mourning at his tomb.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Vow to withdraw from enjoyment
+  summary: After separation from the beloved, the narrator resolves to abandon enjoyment
+    and society, describing pleasure and grief through images of sea waves, thorns,
+    roses, a peacock, and a snake.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Detachment from possessions after robbery
+  taxonomy_refs:
+  - wisdom
+  basis: The dervish contrasts the merchants' lamentation with calm acceptance of
+    his own loss and states a moral rule about not fixing the heart too strongly on
+    things or beings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents the motif as ethical instruction rather than as a
+    mythic episode.
+- id: motif:2
+  label: Attachment to a beloved followed by mourning at the tomb
+  taxonomy_refs: []
+  basis: The narrator describes intense attachment to a beautiful young man, the young
+    man's death, sitting at his tomb for many days, and composing dirges.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No resurrection, return, or supernatural afterlife journey is described
+    in the passage.
+- id: motif:3
+  label: Withdrawal from worldly enjoyment after separation
+  taxonomy_refs:
+  - wisdom
+  basis: The narrator says he resolved to fold up the carpet of enjoyment and not
+    re-enter society after separation from the beloved.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage frames this as a personal resolution and poetic lament; its
+    long-term outcome is not given.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3160-3164
+  quote_or_summary: A ragged dervish accompanies the caravan for Hijaz, and an Arab
+    prince gives him one hundred dinars for his family's support.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 3164-3170
+  quote_or_summary: Khafachah robbers attack and strip the caravan; merchants lament,
+    while the ragged dervish remains collected and unmoved.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 3170-3176
+  quote_or_summary: 'The dervish says the robbers took the money, but he was not so
+    fond of it as to break his heart, and adds: "We should not fix our heart so on
+    any thing or being as to find any difficulty in removing it."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: 3177-3186
+  quote_or_summary: The narrator says that in youth he became sincerely attached to
+    a young man whose beauty and society seemed incomparable.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 3187-3196
+  quote_or_summary: The young man's life ends; the narrator describes separation,
+    sits many days at his tomb, and composes a dirge with images of death, dust, ashes,
+    roses, brambles, and thorns.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 3197-3201
+  quote_or_summary: After separation, the narrator resolves to abandon enjoyment and
+    society, using images of sea waves, thorns, roses, a peacock in a garden, and
+    a snake writhing in absence.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are chiefly
+    ethical and poetic rather than explicitly mythological; no comparison claims were
+    added because the passage itself does not establish an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No figures, taxonomy identifiers, or comparative claims were added beyond what is supported by the supplied passage and available taxonomy references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l3160-l3201
+  passage_sha256=14aa64ee3232caa428ce08c61fb11c4bde9c2a122fd6552da220ac7892a1b9f8
+

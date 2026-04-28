@@ -1,0 +1,478 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l1775-l1813
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: CHAPTER II / XVIII / XXIII / XXVII; lines 1775-1813
+  start: '1775'
+  end: '1813'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A dying king without an heir orders that the first person to enter the
+    city gate in the morning be crowned. A beggar becomes ruler, but rebels and neighboring
+    princes soon reduce his kingdom. An old friend congratulates him on his rise from
+    poverty, but the new ruler says his dignity brings heavier cares than hunger did,
+    and he praises contentment over wealth or royal gifts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A king at the end of his life has no heir and leaves instructions for succession.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king’s will directs that the first person to enter the city gate in the
+    morning receive the crown and kingdom.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The first entrant is a beggar who has lived by gathering scraps and patching
+    rags.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ministers and nobles obey the will and set the keys of the treasury and citadel
+    at the beggar’s feet.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The beggar, described afterward as a dervish, governs for a time.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Chiefs and territorial princes rebel, raise armies, defeat his forces, and
+    take provinces from him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: An old friend from his time of poverty returns and congratulates him on his
+    elevated rank using images of roses, thorns, flowers, withering, naked trees,
+    and leafy trees.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The dervish rejects congratulation and says he needs condolence because the
+    care of a whole kingdom now rests on him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The dervish says both adversity and prosperity disquiet the mind, and he recommends
+    contentment as a treasure.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The dervish contrasts the gift of a roasted elk from King Bahram Ghor with
+    a locust’s leg from an ant.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: dying king
+  description: A king at the end of his days with no heir who leaves a will governing
+    succession.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: beggar / dervish ruler
+  description: A poor man who first enters the city gate, is crowned, governs the
+    kingdom, and later laments the burdens of rule.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: ministers and nobles
+  description: Court officials who fulfill the king’s will and transfer royal authority
+    to the beggar.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: rebellious chiefs and territorial princes
+  description: Political rivals who abandon allegiance, raise armies, and seize provinces.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: old friend from poverty
+  description: A former companion of the dervish’s poverty who returns from a journey
+    and congratulates him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: King Bahram Ghor
+  description: A named king used in the dervish’s comparison about generosity.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: ant
+  description: An ant used in the dervish’s comparison as giver of a locust’s leg.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: testator of succession
+  assigned_to:
+  - fig:1
+  basis: He makes a will specifying who should receive the crown and kingdom.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: unexpected successor
+  assigned_to:
+  - fig:2
+  basis: He is the first person at the gate and is given the crown despite being a
+    beggar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: burdened ruler
+  assigned_to:
+  - fig:2
+  basis: He governs, loses provinces, and describes kingship as care rather than good
+    fortune.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: speaker of moral counsel
+  assigned_to:
+  - fig:2
+  basis: He teaches that contentment is a greater treasure than riches and contrasts
+    poor patience with rich gifts.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: executors of royal will
+  assigned_to:
+  - fig:3
+  basis: They fulfill the terms of the dead king’s will and deliver symbols of authority.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: challengers to rule
+  assigned_to:
+  - fig:4
+  basis: They rebel, levy armies, and take provinces.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: congratulating friend
+  assigned_to:
+  - fig:5
+  basis: He rejoices at the dervish’s apparent rise from poverty to rank.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: exemplum figures in comparison
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: They appear only in the dervish’s illustrative comparison about gifts.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: crown of sovereignty
+  literal_form: crown placed on the successor’s head
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: city gate
+  literal_form: city gate where the first morning entrant is selected
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: keys of treasury and citadel
+  literal_form: keys laid at the new ruler’s feet
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: roses and thorns
+  literal_form: roses issuing from thorns and thorns removed from feet
+  associated_figures:
+  - fig:5
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: seasonal plant and tree
+  literal_form: plant in flower or withered; tree naked or clothed with leaves
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: contentment as treasure
+  literal_form: contentment called an immense treasure
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: unequal gifts
+  literal_form: whole roasted elk from a king contrasted with a locust’s leg from
+    an ant
+  associated_figures:
+  - fig:2
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: king appoints an unknown successor by will
+  summary: A dying king without an heir orders that the first person entering the
+    city gate in the morning receive the crown and kingdom.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: beggar receives royal authority
+  summary: A beggar is the first entrant, and ministers and nobles place the keys
+    of treasury and citadel at his feet.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: rule contested and provinces lost
+  summary: The dervish governs for a time, but chiefs and princes rebel, armies fight,
+    and several provinces are taken from him.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: friend congratulates the rise from poverty
+  summary: An old friend returns and interprets the dervish’s new rank as fortune
+    after hardship, using plant and tree imagery.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: dervish teaches the burden of fortune
+  summary: The dervish says kingship has replaced hunger with larger cares, and he
+    praises contentment and the patient poor over the gifts of the rich.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: unexpected elevation to kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: A succession rule in a king’s will transfers sovereignty to the first person
+    entering the city gate, who happens to be a beggar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage treats the succession as legally executed by the court, but
+    it does not present divine selection or sacred ancestry.
+- id: motif:2
+  label: reversal of fortune reveals new burdens
+  taxonomy_refs:
+  - wisdom
+  basis: The beggar rises to royal rank, is congratulated as fortunate, and replies
+    that poverty’s hunger has been replaced by the cares of a whole kingdom.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a moralized anecdote rather than a mythic transformation narrative.
+- id: motif:3
+  label: contentment superior to wealth
+  taxonomy_refs:
+  - wisdom
+  basis: The dervish explicitly counsels that those who covet riches should ask for
+    contentment and contrasts poor patience with rich gifts.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The motif is ethical and proverbial; no supernatural or ritual element
+    is present.
+- id: motif:4
+  label: seasonal alternation as image of fortune
+  taxonomy_refs:
+  - seasonal_cycle
+  - wisdom
+  basis: The old friend explains hardship and ease through images of plants flowering
+    and withering and trees bare or leafy.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The imagery is explicit, but it functions as an analogy in speech, not
+    as an enacted seasonal myth.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared to wisdom-literature patterns in which
+    sudden good fortune is reinterpreted as a moral test or burden rather than simple
+    blessing.
+  claim_level: same_function
+  target: wisdom motif family / reversal-of-fortune admonition
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself provides only an ethical anecdote and does not identify
+    an external parallel tradition.
+- id: claim:2
+  claim: The plant and tree images support a cautious comparison to seasonal-cycle
+    imagery used to describe alternating hardship and ease.
+  claim_level: visual_similarity
+  target: seasonal_cycle motif family
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is limited to metaphorical imagery; no seasonal rite,
+    deity, or mythic cycle is narrated.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1775-1780
+  quote_or_summary: A king near death, having no heir, wills that the first person
+    entering the city gate in the morning should receive the crown and kingdom.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1781-1786
+  quote_or_summary: The first entrant is a beggar who has lived on scraps and patched
+    rags; ministers and nobles fulfill the will and lay the keys of treasury and citadel
+    at his feet.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1787-1793
+  quote_or_summary: The dervish rules for a time, but chiefs and territorial princes
+    rebel, raise armies, defeat his troops and subjects, and take several provinces.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 1794-1803
+  quote_or_summary: '"Along with hardship there is ease; or, to sorrow succeeds joy";
+    the friend also speaks of roses from thorns and plants or trees changing by season.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: quote
+  locator: lines 1803-1808
+  quote_or_summary: '"When you last saw me I had to think of getting a crumb of bread;
+    now I have the cares of a whole kingdom on my head."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: summary
+  locator: lines 1808-1811
+  quote_or_summary: The dervish says adversity brings pain, prosperity binds one to
+    affection for the world, and contentment is an immense treasure.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1811-1813
+  quote_or_summary: The dervish says the patience of the poor surpasses the gift of
+    the rich, comparing a roasted elk from King Bahram Ghor with a locust’s leg from
+    an ant.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a clear moral anecdote with explicit royal-succession and
+    wisdom themes. Comparisons are limited to broad motif families because the passage
+    does not name external parallels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l1775-l1813
+  passage_sha256=c2fba40de2e76b960354b68f7779935de17f5426dfdcb8bf26579812fc239ded
+

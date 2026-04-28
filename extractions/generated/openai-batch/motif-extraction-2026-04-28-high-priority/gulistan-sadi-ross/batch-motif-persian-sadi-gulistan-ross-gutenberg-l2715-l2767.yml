@@ -1,0 +1,387 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l2715-l2767
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: CHAPTER III / XVIII / XXVII / CHAPTER IV; lines 2715-2767
+  start: '2715'
+  end: '2767'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Three brief anecdotes criticize religious speakers with harsh or discordant
+    voices. In the first, a harsh-voiced preacher learns of his fault through a rival's
+    taunting dream-report and vows to speak softly. In the second, a mosque intendant
+    pays a discordant caller to prayers to leave, and jokes that others may pay even
+    more to remove him. In the third, a holy man tells a loud harsh reciter of the
+    Koran that, if he reads in such a manner for God's sake, he should stop for God's
+    sake.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A harsh-voiced preacher considers himself eloquent and preaches at a mosque
+    ineffectively.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The preacher's townsmen tolerate his defect out of respect for his rank and
+    do not tell him about it.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Another preacher, motivated by private spite, reports a dream in which the
+    harsh preacher's voice became harmonious and pleased people.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The harsh preacher recognizes his unpleasant voice and vows to preach softly
+    thereafter.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The narrator says flattering friends treat vices as virtues and blemishes
+    as perfections, and asks for a bold rival who will expose deformities.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: At a mosque in Sanjar, a volunteer caller to prayers chants so discordantly
+    that hearers go away in disgust.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The mosque intendant offers the discordant caller ten dinars to go elsewhere,
+    more than the five dinars paid monthly to established criers.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The caller later reports that another place offered him twenty dinars to leave,
+    and the nobleman warns that they may offer fifty.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: A harsh-voiced person recites the Koran loudly without stipend, saying he
+    reads for God's sake.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: A good and holy man tells the reciter not to read for God's sake if his chanting
+    casts a shade over Islam.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: harsh-voiced preacher
+  description: A preacher with a harsh voice who thinks himself fine-spoken and preaches
+    at a mosque.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: townsmen
+  description: People who tolerate the preacher's defect out of reverence for his
+    rank.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: rival preacher
+  description: Another preacher who, from private pique, reports a dream that indirectly
+    exposes the harsh preacher's fault.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: narrating speaker
+  description: The speaker who complains that flattering friends praise faults and
+    asks for a bold rival to expose defects.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: discordant caller to prayers
+  description: A volunteer at the mosque in Sanjar whose call to prayers drives hearers
+    away in disgust.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: mosque intendant or nobleman
+  description: A just and well-disposed gentleman who pays the discordant caller to
+    leave rather than directly offend him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: harsh-voiced Koran reciter
+  description: A person reciting the Koran loudly and harshly without payment, claiming
+    to read for God's sake.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: good and holy man
+  description: A pious man who questions the harsh reciter and advises him not to
+    recite in that manner.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: self-unaware harsh sacred speaker
+  assigned_to:
+  - fig:1
+  - fig:5
+  - fig:7
+  basis: Each figure performs religious speech or chanting in a harsh or discordant
+    manner that distresses others.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: deferential community
+  assigned_to:
+  - fig:2
+  basis: The townsmen refrain from criticizing the preacher because of reverence for
+    his rank.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: corrective admonisher
+  assigned_to:
+  - fig:3
+  - fig:8
+  basis: The rival preacher and the holy man each cause a harsh religious speaker
+    to confront the fault in his performance.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: moralizing commentator
+  assigned_to:
+  - fig:4
+  basis: The speaker draws an explicit lesson about harmful flattery and useful criticism.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: tactful remover of nuisance
+  assigned_to:
+  - fig:6
+  basis: The intendant avoids direct offense by paying the discordant caller to leave
+    and later jokes about higher payments offered elsewhere.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: harsh or discordant voice
+  literal_form: Harsh tone, braying, discordant call, loud harsh recitation.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: mosque setting
+  literal_form: Mosque where preaching, the call to prayers, or religious recitation
+    occurs.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: dream report
+  literal_form: A reported dream in which the preacher's voice has become harmonious.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: stipend payment
+  literal_form: Five, ten, twenty, and fifty dinars mentioned in connection with mosque
+    service and leaving a post.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Koran recitation
+  literal_form: Loud recitation of the Koran by a harsh-voiced person.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Rival's dream exposes a preacher's harsh voice
+  summary: A harsh-voiced preacher is spared criticism by respectful townsmen, but
+    a rival's taunting dream-report makes him recognize his fault and vow to preach
+    softly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Reflection on flattery and criticism
+  summary: The narrating speaker contrasts flattering friends who treat faults as
+    virtues with a bold rival who exposes defects.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Payment to make the discordant caller leave
+  summary: A mosque intendant pays a discordant volunteer caller to prayers to go
+    elsewhere, and later warns him not to accept a higher offer because still higher
+    ones may follow.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Holy man rebukes harsh Koran recitation
+  summary: A holy man questions a loud harsh reciter, hears that he reads for God's
+    sake, and tells him not to read in that manner for God's sake.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Beneficial rebuke exposes a hidden fault
+  taxonomy_refs:
+  - wisdom
+  basis: The first anecdote and the narrator's comment present criticism from a rival
+    as more useful than friends' flattery because it reveals a real defect.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage frames this as moral wisdom rather than as a mythic transformation
+    or supernatural dream event.
+- id: motif:2
+  label: Religious performance harmed by unfit voice
+  taxonomy_refs:
+  - wisdom
+  basis: All three anecdotes depict sacred speech or mosque service becoming offensive
+    because of harsh or discordant vocal delivery.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a recurrent didactic comic pattern within the passage; it is not
+    tied to a specific provided mythological motif family beyond wisdom.
+- id: motif:3
+  label: Tactful bribery to remove a nuisance
+  taxonomy_refs:
+  - wisdom
+  basis: The intendant avoids direct offense by offering money to make the discordant
+    caller leave, and the later escalation of offers provides the joke and lesson.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This motif is limited to one anecdote in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2715-2740
+  quote_or_summary: A harsh-voiced preacher at a mosque thinks himself eloquent; townsmen
+    conceal his defect out of respect; a rival reports a dream of his voice becoming
+    harmonious; the preacher recognizes his unpleasant voice and vows to speak softly.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2741-2744
+  quote_or_summary: The speaker complains that friends praise vices as virtues and
+    asks for a rude, bold rival who will expose deformities.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2745-2760
+  quote_or_summary: At a mosque in Sanjar, a volunteer caller to prayers chants so
+    discordantly that hearers leave; the intendant pays him ten dinars to go elsewhere;
+    the caller later says others offered twenty for him to leave; the nobleman jokes
+    that they may offer fifty.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2761-2767
+  quote_or_summary: A harsh-voiced person loudly recites the Koran without stipend,
+    saying he reads for God's sake; a good and holy man replies that for God's sake
+    he should not read in that manner.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are conservative and
+    didactic; no external comparison claims are made because the passage itself does
+    not support historical or cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No available symbol taxonomy IDs were applicable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l2715-l2767
+  passage_sha256=c6237546bcf3ca6f946e9d74e3ee34e2ed14fb6306568200b9b9683f46ad8e05
+

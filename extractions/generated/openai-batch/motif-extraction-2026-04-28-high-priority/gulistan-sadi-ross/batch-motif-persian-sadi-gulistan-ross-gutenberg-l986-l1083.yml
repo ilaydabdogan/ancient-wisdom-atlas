@@ -1,0 +1,568 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l986-l1083
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: INTRODUCTION / CHAPTER I / XVIII / XXIII; lines 986-1083
+  start: '986'
+  end: '1083'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Three moral anecdotes: a condemned runaway slave obtains pardon by proposing
+    a legal retaliation that would endanger the hostile vizir; an imprisoned minister
+    remains loyal to his king despite an invitation from a neighboring prince and
+    is restored; a holy man interprets a king''s reward for dutiful attendance as
+    an analogy for divine reward at judgment.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A runaway slave is brought back to King Umraw-layas, and a vizir urges that
+    he be put to death as an example to other slaves.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The slave argues that his blood should not be charged to the king at the last
+    reckoning and proposes that he first kill the vizir so his own execution can be
+    legally framed as retaliation.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The king asks the vizir for advice, and the vizir begs that the slave be manumitted
+    so that he himself will not be drawn into calamity.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: King Zuzan confines a generous minister after an act displeases him, but the
+    officers charged with him treat him kindly because of his former benefits.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A neighboring prince sends the confined minister a letter inviting his allegiance,
+    but the minister replies that he cannot betray his former benefactor because of
+    a change in favor.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After the minister's loyal answer is discovered, the king praises his fidelity,
+    gives him an honorary dress and largess, and apologizes.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The restored minister states that pleasure, pain, foe, and friend proceed
+    from God and compares human agency to an arrow whose aim is given by an archer.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A king of Arabia orders that the salary of a constantly attentive servant
+    be doubled while other courtiers are negligent.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A holy man interprets the royal reward as a likeness of how devoted servants
+    will be portioned at the judgment-seat of God.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: King Umraw-layas
+  description: A king whose runaway slave is returned and who has authority to execute
+    or pardon him.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Runaway slave of King Umraw-layas
+  description: A slave brought back after absconding who pleads before the king and
+    proposes a legal pretext involving the vizir.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Vizir hostile to the slave
+  description: A vizir who dislikes the slave and urges his execution, then advises
+    manumission when the slave's proposal threatens him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: King Zuzan
+  description: A king who confines a minister, investigates a report of correspondence,
+    and later restores and rewards him.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Generous minister of King Zuzan
+  description: A kindly minister imprisoned after displeasing the king who remains
+    loyal despite an approach from a neighboring prince.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Officers of the crown
+  description: Officials responsible for the confined minister who treat him with
+    courtesy and benevolence because of prior benefits.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Neighboring prince
+  description: A bordering ruler who offers favor to the imprisoned minister if he
+    will incline toward that kingdom.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Court informant
+  description: A hanger-on at court who reports the minister's correspondence to the
+    king.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: King of Arabia
+  description: A king who orders a salary doubled for a person constant in attendance
+    and ready for orders.
+  role_refs:
+  - role:1
+  - role:11
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: Constant attendant
+  description: A person at the Arabian king's court whose salary is doubled because
+    of steady attendance and readiness.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:7
+- id: fig:11
+  name_or_label: Good and holy man
+  description: A holy man who sighs on hearing the king's order and interprets it
+    in relation to divine reward.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:7
+- id: fig:12
+  name_or_label: God / Most High and Mighty Deity
+  description: Named as the one whose judgment-seat portions out the mansions of devoted
+    servants and whose disposal governs hearts and outcomes.
+  role_refs:
+  - role:14
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: ruler
+  assigned_to:
+  - fig:1
+  - fig:4
+  - fig:9
+  basis: Each is identified as a king with power over servants, ministers, or salaries.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: role:2
+  label: judge or pardoner
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: King Umraw-layas considers execution and manumission; King Zuzan investigates,
+    restores, and apologizes to the minister.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: condemned supplicant
+  assigned_to:
+  - fig:2
+  basis: The slave falls at the king's feet and pleads concerning his possible execution.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: clever legal speaker
+  assigned_to:
+  - fig:2
+  basis: The slave proposes a legal chain of killing the vizir and then being executed
+    in retaliation.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: hostile counselor
+  assigned_to:
+  - fig:3
+  basis: The vizir dislikes the slave and seeks his death before advising pardon when
+    at risk.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: loyal minister
+  assigned_to:
+  - fig:5
+  basis: The minister refuses to betray his ancient benefactor and patron.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: sufferer under confinement
+  assigned_to:
+  - fig:5
+  basis: The minister is placed under stoppages and rigorous confinement.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: grateful custodians
+  assigned_to:
+  - fig:6
+  basis: The officers remember the minister's former benefits and treat him benevolently
+    while he is under their charge.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: foreign tempter or recruiter
+  assigned_to:
+  - fig:7
+  basis: The neighboring prince invites the minister to incline toward his kingdom
+    and promises efforts to conciliate him.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: accuser or reporter
+  assigned_to:
+  - fig:8
+  basis: The court hanger-on tells the king that the prisoner is corresponding with
+    a neighboring prince.
+  evidence_refs:
+  - ev:5
+- id: role:11
+  label: rewarding sovereign
+  assigned_to:
+  - fig:9
+  basis: The Arabian king orders doubled salary for faithful attendance.
+  evidence_refs:
+  - ev:7
+- id: role:12
+  label: dutiful servant
+  assigned_to:
+  - fig:10
+  basis: The servant is described as constant in attendance and ready for orders.
+  evidence_refs:
+  - ev:7
+- id: role:13
+  label: moral interpreter
+  assigned_to:
+  - fig:11
+  basis: The holy man interprets the royal act as an image of divine recompense.
+  evidence_refs:
+  - ev:7
+- id: role:14
+  label: divine judge and disposer
+  assigned_to:
+  - fig:12
+  basis: God is described as holding the judgment-seat and disposing the hearts and
+    actions of friend and foe.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: last reckoning / day of resurrection
+  literal_form: The last day's reckoning and the day of resurrection invoked in the
+    slave's plea.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: blood charged to an account
+  literal_form: The slave's blood standing charged to the king's account at the last
+    reckoning.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: tomb of forefathers
+  literal_form: The vizir asks that manumission be made as a propitiation at the tomb
+    of the king's forefathers.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: arrow and bow
+  literal_form: The minister's saying that the arrow may seem to issue from the bow,
+    but the archer gives it aim.
+  associated_figures:
+  - fig:5
+  - fig:12
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: judgment-seat
+  literal_form: The judgment-seat of a Most High and Mighty Deity where devoted servants'
+    mansions are portioned out.
+  associated_figures:
+  - fig:11
+  - fig:12
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: divine threshold
+  literal_form: God's threshold, from which the devout hope not to depart disappointed.
+  associated_figures:
+  - fig:11
+  - fig:12
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Runaway slave turns death sentence into a risk for the hostile vizir
+  summary: A returned slave facing execution appeals to the king's accountability
+    at resurrection and proposes killing the vizir first so that his own death can
+    be legally retaliatory; the frightened vizir advises pardon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Confined minister remains loyal after foreign invitation
+  summary: A minister imprisoned by King Zuzan receives a covert invitation from a
+    neighboring prince but answers that he cannot betray his old patron; when this
+    is discovered, the king restores and rewards him.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Minister attributes harm and favor to God
+  summary: After the king apologizes, the minister says his calamity came by divine
+    ordination and states that friend and foe, pleasure and pain, are under God's
+    disposal, using the image of arrow, bow, and archer.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:12
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Royal reward becomes analogy for divine judgment
+  summary: A king doubles the salary of a diligent attendant; a holy man reads the
+    act as a model for how devoted servants will be rewarded at God's judgment-seat.
+  figure_refs:
+  - fig:9
+  - fig:10
+  - fig:11
+  - fig:12
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: clever plea averts execution
+  taxonomy_refs:
+  - wisdom
+  basis: The slave uses a legal argument that shifts risk onto the hostile vizir and
+    leads to a request for pardon rather than execution.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents the act as practical wit rather than as a formal
+    heroic or trickster cycle.
+- id: motif:2
+  label: loyal servant tested by adversity
+  taxonomy_refs:
+  - wisdom
+  basis: The imprisoned minister refuses foreign patronage and remains loyal to the
+    ruler who harmed him, after which he is praised and rewarded.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supernatural test is narrated; the motif is ethical and courtly.
+- id: motif:3
+  label: divine judgment and accounting for deeds
+  taxonomy_refs:
+  - divine_judgment
+  basis: The slave invokes the last reckoning and resurrection, and the holy man speaks
+    of reward at the judgment-seat of God.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: high
+  cautions: The judgment imagery is didactic rather than a full afterlife journey
+    or eschatological narrative.
+- id: motif:4
+  label: human agency subordinated to divine disposer
+  taxonomy_refs:
+  - wisdom
+  basis: The minister states that foe and friend, pleasure and pain, proceed from
+    God and uses the arrow and archer image to distinguish apparent from ultimate
+    agency.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a moral-theological maxim embedded in an anecdote, not an extended
+    mythic episode.
+- id: motif:5
+  label: obedience rewarded by sovereign as model for divine reward
+  taxonomy_refs:
+  - divine_judgment
+  - sacred_exchange
+  basis: The Arabian king rewards a constant attendant, and the holy man interprets
+    this as analogous to divine recompense for devoted servants.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The exchange is framed as obedience and reward; it is not a ritual offering
+    narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 986-1004 / XXIII
+  quote_or_summary: A runaway slave is returned to King Umraw-layas; the hostile vizir
+    seeks his death. The slave invokes the last reckoning and asks that, if he must
+    die, his death be given a legal pretext by first letting him kill the vizir, so
+    the king may execute him in retaliation.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1004-1016 / XXIII
+  quote_or_summary: The king smiles and asks the vizir's advice. The vizir asks that
+    the slave be manumitted for God's sake and as propitiation at the tomb of the
+    king's forefathers, warning through proverbial verses about engaging a practiced
+    slinger and becoming the target of an arrow.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1018-1033 / XXIV
+  quote_or_summary: King Zuzan has a generous minister who speaks well of others;
+    after one act displeases the king, he is confined. Crown officers remember his
+    former benefits and treat him with courtesy rather than coercion.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1034-1050 / XXIV
+  quote_or_summary: A bordering prince sends the imprisoned minister a letter offering
+    honor and requesting his favorable inclination. The minister reads it, considers
+    the danger, and replies that he cannot betray his ancient benefactor and patron
+    because of a slight change in affection.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1050-1058 / XXIV
+  quote_or_summary: A court hanger-on reports the correspondence; the king orders
+    inquiry and the letter is read. Seeing the minister's loyal response, the king
+    commends his fidelity, gives an honorary dress and largess, and apologizes for
+    the injury.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 1058-1068 / XXIV
+  quote_or_summary: 'The minister says calamity came by divine ordination and adds:
+    "Though the arrow may seem to issue from the bow, the intelligent can see that
+    the archer gave it its aim."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 1070-1083 / XXV
+  quote_or_summary: A king of Arabia orders a person's salary doubled because he is
+    constant in attendance and ready for orders. A holy man sighs and explains that
+    the exalted mansions of devoted servants will be portioned in like manner at the
+    judgment-seat of a Most High and Mighty Deity, and that the devout hope not to
+    depart disappointed from God's threshold.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited to the supplied English passage. Motif labels are candidate
+    thematic patterns from didactic anecdotes, not claims of historical relationship.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or cross-traditional comparison beyond general ethical and theological motifs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l986-l1083
+  passage_sha256=360912c1eaa5b9d5c5ab48b616bc6c283fc7639668053ffa8bf5e25e3842c8ba
+

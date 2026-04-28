@@ -1,0 +1,564 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l823-l889
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: THE GULISTAN / SA'DI / INTRODUCTION / CHAPTER I; lines 823-889
+  start: '823'
+  end: '889'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: the service of princes is, like a voyage at sea, profitable but hazardous
+  summary: The narrator returns from pilgrimage to Mecca and meets a man ruined by
+    court accusations and imprisonment. He recalls warning that service to rulers
+    is risky and closes with admonitory verses. In a second anecdote, the narrator
+    intercedes for a pious fraternity whose endowment was withdrawn after a member's
+    misconduct; after a humble audience with a prince, the stipend and arrears are
+    restored.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The narrator accompanies friends on a journey to Hijaz and returns from pilgrimage
+    to Mecca.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man comes out two stages to meet the narrator and appears wretched, wearing
+    the garb of dervishes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man reports that enemies accused him of malpractice, the king did not
+    investigate, friends abandoned his defense, and he suffered persecution, imprisonment,
+    release, and confiscation of hereditary property.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: 'The narrator says he had warned that serving princes resembles a sea voyage:
+    it may bring treasure or death by the waves.'
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The narrator ends the first encounter with verses about fetters resulting
+    from ignored counsel and about not putting a finger into a scorpion's hole unless
+    one can endure the sting.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The narrator describes himself as a companion of a holy fraternity marked
+    by piety and probity.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: An eminent prince respects the fraternity and has assigned it an endowment,
+    but the support is withdrawn after one member acts unworthily of dervishes.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The narrator attempts to visit the great man to restore his friends' maintenance,
+    but the porter initially refuses him entrance rudely.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Attendants bring the narrator respectfully into the prince's presence, offer
+    the highest seat, and the narrator humbly takes the lowest seat.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The narrator asks what fault caused the patron to despise his servants and
+    invokes God as one who sees failings yet continues support.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The prince accepts the sentiment and orders the fraternity's stipend continued
+    and arrears paid.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: On leaving, the narrator thanks the prince, performs obeisance, refers to
+    pilgrims traveling far to the Caabah, and adds that people do not throw stones
+    at a fruitless tree.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: narrator
+  description: First-person speaker who travels, admonishes, intercedes, and speaks
+    before the prince.
+  role_refs:
+  - role:1
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: ruined court servant or former official
+  description: A man who meets the narrator in wretched outward condition and dervish
+    garb after accusations, imprisonment, release, and confiscation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: king
+  description: Ruler said by the ruined man not to have investigated the accusation
+    against him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: party of friends or pilgrims
+  description: Friends who accompany the narrator on the journey to Hijaz; the safe
+    return of pilgrims is later reported.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: holy fraternity
+  description: A brotherhood whose manners are described as pious and whose minds
+    are disciplined by probity.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: eminent prince or great man
+  description: A powerful patron who initially withdraws support from the fraternity
+    but later restores the stipend and arrears.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: fig:7
+  name_or_label: porter
+  description: Doorkeeper who opposes the narrator's entrance and turns him away rudely.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: favorite attendants
+  description: Attendants of the great man who bring the narrator respectfully into
+    the prince's presence.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: one member of the fraternity
+  description: A member who perhaps commits an act unworthy of the character of dervishes,
+    leading to loss of support.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: pilgrim or traveler
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage says the narrator accompanies friends to Hijaz and returns from
+    pilgrimage to Mecca.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: admonishing counselor
+  assigned_to:
+  - fig:1
+  basis: The narrator recalls warning against the hazards of royal service and gives
+    cautionary verses.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: fallen accused man
+  assigned_to:
+  - fig:2
+  basis: He is described as wretched, accused, abandoned, imprisoned, released, and
+    deprived of hereditary property.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: non-investigating ruler
+  assigned_to:
+  - fig:3
+  basis: The man's report says the king would not investigate the truth of the charge.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: pious dependent brotherhood
+  assigned_to:
+  - fig:5
+  basis: The fraternity is described as pious and dependent on an endowment.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: patron ruler
+  assigned_to:
+  - fig:6
+  basis: The prince assigns, withdraws, and later restores financial support.
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: role:7
+  label: humble intercessor
+  assigned_to:
+  - fig:1
+  basis: The narrator seeks access to the great man, takes the lowest seat, and pleads
+    for the fraternity's allowance.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:8
+  label: gatekeeper
+  assigned_to:
+  - fig:7
+  basis: The porter blocks the narrator's entrance.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: court facilitators
+  assigned_to:
+  - fig:8
+  basis: The attendants usher the narrator respectfully into the great man's presence.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: erring member
+  assigned_to:
+  - fig:9
+  basis: One of the fraternity perhaps commits conduct unworthy of dervishes.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: pilgrimage destination
+  literal_form: Mecca and the Caabah
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: sym:2
+  label: sea voyage risk image
+  literal_form: voyage at sea, shore, gold, wave, dead body on beach
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: fetters
+  literal_form: fetters on feet
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: scorpion hole
+  literal_form: finger placed into a scorpion's hole and pain of its sting
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: prince's gate
+  literal_form: gate of a prince, vizir, or lord with dog and doorkeeper
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: lowest and highest seats
+  literal_form: highest seat offered; lowest seat chosen
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: fruit-bearing tree
+  literal_form: a tree that bears fruit and is therefore stoned
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: return from pilgrimage and meeting with the ruined man
+  summary: After returning from the pilgrimage to Mecca, the narrator is met by a
+    wretched man in dervish garb who reports accusations, abandonment, imprisonment,
+    release, and confiscation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: counsel on royal service
+  summary: The narrator recalls his earlier warning that service to princes is like
+    a dangerous sea voyage, then closes with verses about fetters and a scorpion's
+    hole.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: withdrawn patronage and blocked gate
+  summary: A pious fraternity loses its support after one member's misconduct, and
+    the narrator's attempt to approach the patron is initially blocked by a rude porter.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:9
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: humble audience and restored stipend
+  summary: Attendants bring the narrator into the prince's presence; he takes the
+    lowest seat, pleads by invoking God's continued support despite human failings,
+    and the prince restores the allowance and arrears.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: farewell analogy of pilgrimage and fruitful tree
+  summary: The narrator thanks the prince, performs obeisance, and uses the example
+    of pilgrims traveling to the Caabah and the image of a fruit-bearing tree to ask
+    tolerance for petitioners.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: pilgrimage journey and return
+  taxonomy_refs:
+  - departure
+  - return
+  basis: The narrator travels to Hijaz and returns from pilgrimage to Mecca; later
+    the Caabah is used as an image of a destination reached from afar.
+  evidence_refs:
+  - ev:1
+  - ev:10
+  confidence: medium
+  cautions: The pilgrimage frames the anecdotes rather than forming a detailed sacred
+    journey narrative.
+- id: motif:2
+  label: wisdom warning about perilous service to rulers
+  taxonomy_refs:
+  - wisdom
+  basis: The narrator explicitly states that service of princes is profitable but
+    hazardous, comparing it to a sea voyage ending either in treasure or death.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a didactic courtly warning rather than a full mythic quest episode.
+- id: motif:3
+  label: ignored counsel leading to bondage and pain
+  taxonomy_refs:
+  - wisdom
+  basis: The narrator says the man's fetters resulted from not listening to counsel
+    and warns against putting a finger into a scorpion's hole unless one can endure
+    the sting.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The bondage and scorpion are proverbial images within moral instruction.
+- id: motif:4
+  label: fall from favor and fickleness of worldly friends
+  taxonomy_refs:
+  - wisdom
+  basis: The ruined man says enemies accused him, the king did not investigate, and
+    former friends abandoned him when fortune turned against him.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage reports social and political reversal, not supernatural downfall.
+- id: motif:5
+  label: humble intercession restores patronage
+  taxonomy_refs:
+  - wisdom
+  basis: The narrator humbly enters the prince's presence, pleads for the fraternity,
+    and the prince orders the stipend and arrears restored.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The restoration is courtly and ethical; no explicit miraculous intervention
+    is described.
+- id: motif:6
+  label: divine forbearance as model for human generosity
+  taxonomy_refs:
+  - wisdom
+  basis: The narrator argues that God can discern failings and continue support, prompting
+    the prince to restore aid.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The passage presents a theological moral argument, not an extended divine-judgment
+    scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 823-826
+  quote_or_summary: The narrator accompanies friends to Hijaz and returns from pilgrimage
+    to Mecca.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 826-831
+  quote_or_summary: A man comes two stages to meet the narrator, appearing wretched
+    and dressed like a dervish; he says enemies accused him and the king did not investigate.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 831-840
+  quote_or_summary: The man says friends abandoned him, persecution followed, and
+    after news of the pilgrims' safe return he was released from heavy durance with
+    hereditary property confiscated.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: quote
+  locator: 840-847
+  quote_or_summary: The narrator warned that service of princes is like a voyage at
+    sea, profitable but hazardous, ending either in treasure or death by a wave.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short quotation/close summary used.
+- id: ev:5
+  type: summary
+  locator: 847-855
+  quote_or_summary: The narrator refrains from further reproach and recites verses
+    about finding fetters after ignoring counsel and not putting a finger into a scorpion's
+    hole unless able to endure its sting.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: 857-864
+  quote_or_summary: The narrator is companion to a holy fraternity; an eminent prince
+    had endowed it, but support was lost after a member's unworthy act.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: summary
+  locator: 864-870
+  quote_or_summary: The narrator tries to wait on the great man to restore his friends'
+    support, but the porter blocks him; a saying compares the prince's gate to a place
+    where dog and doorkeeper seize a beggar.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:8
+  type: summary
+  locator: 871-878
+  quote_or_summary: The great man's attendants usher the narrator in respectfully,
+    offer the highest seat, and the narrator takes the lowest seat in humility.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:9
+  type: summary
+  locator: 879-884
+  quote_or_summary: The narrator speaks of the fraternity's fault and says God discerns
+    failings yet continues support; the prince orders the stipend continued and arrears
+    paid.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:10
+  type: summary
+  locator: 884-889
+  quote_or_summary: The narrator thanks the prince, performs obeisance, mentions pilgrims
+    traveling far to the Caabah, and says nobody throws a stone at a tree that bears
+    no fruit.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied English passage. Motif labels are
+    cautious and mostly didactic because the passage is anecdotal moral prose with
+    proverbial imagery.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself support an external historical or cross-traditional comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l823-l889
+  passage_sha256=1c7b8cedbc51eb7c3b0abf417d270a2fdda3a192af730ad62ca99f6f3ae10fed
+

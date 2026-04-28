@@ -1,0 +1,393 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l4838-l4880
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: CVIII / CXIII / CXVII / CXVIII; lines 4838-4880
+  start: '4838'
+  end: '4880'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives aphoristic counsel about fearless advice to kings, proper
+    civil duties, judicial corruption, and a wise man's explanation of why the fruitless
+    evergreen cypress is called free, ending with counsel to be generous when able
+    and independent when not.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person fit to counsel kings is described as one who does not fear losing
+    his head and does not expect reward.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gold placed at the person's feet and an Indian sword brandished over his head
+    are said to leave him alike indifferent to hope and fear.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The king is assigned the task of displacing extortioners, the police superintendent
+    guarding against murderers, and the cazi deciding quarrels and disputes.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says no two complainants refer to the cazi while content to abide
+    by justice.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A refractory revenue-payer is said to require coercion by the collector.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A cazi who can accept five cucumbers as a bribe is said to confirm a right
+    to ten fields of melons.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Questioners ask a wise man why, among many lofty and shady trees created by
+    God, only the fruitless cypress is called free.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The wise man replies that other trees have produce and appointed seasons,
+    becoming fresh or withered, while the cypress is always flourishing.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The wise man says the Tigris will continue to flow through Baghdad after the
+    race of Khalifs is extinct.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The final counsel says to be liberal as the date-tree if one's hand has plenty,
+    but to be a free man like the cypress if one has nothing to give.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: fearless counselor to kings
+  description: A person proper to offer counsel to kings because he neither fears
+    loss of life nor seeks reward.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: king
+  description: A ruler who is to displace extortioners and may receive counsel.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: cazi or judge
+  description: A judge assigned to decide quarrels and disputes, and also described
+    as susceptible to bribery.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: collector
+  description: An official who coerces a refractory person to pay revenue.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: wise man
+  description: A wise man who answers a question about the cypress and gives counsel
+    about transitory things, generosity, and freedom.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: questioners
+  description: Unnamed people who ask the wise man about the cypress being called
+    free.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Most High God
+  description: The creator of many lofty and umbrageous trees, as described by the
+    questioners.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: fearless adviser
+  assigned_to:
+  - fig:1
+  basis: He is described as fit to counsel kings because reward and danger do not
+    move him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ruler responsible for removing extortioners
+  assigned_to:
+  - fig:2
+  basis: The passage says it belongs to the king to displace extortioners.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: arbiter of disputes
+  assigned_to:
+  - fig:3
+  basis: The cazi is assigned to decide quarrels and disputes.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: corruptible judge
+  assigned_to:
+  - fig:3
+  basis: The cazi is described as accepting cucumbers as a bribe and granting rights
+    to fields of melons.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: coercive revenue official
+  assigned_to:
+  - fig:4
+  basis: The collector must coerce a refractory person to pay revenue.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: teacher of moral analogy
+  assigned_to:
+  - fig:5
+  basis: The wise man explains the cypress and applies it to conduct and independence.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: seekers of explanation
+  assigned_to:
+  - fig:6
+  basis: They ask the wise man about the mystery of the cypress being called free.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: creator of trees
+  assigned_to:
+  - fig:7
+  basis: The questioners say God created the many celebrated trees.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: cypress as free evergreen
+  literal_form: cypress tree that bears no fruit and is always flourishing
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: date-tree as liberality
+  literal_form: date-tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Tigris as continuing flow
+  literal_form: Dijlah or Tigris flowing through Baghdad
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: gold and sword as reward and danger
+  literal_form: heaps of gold and an Indian sword
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: cucumbers and melon fields as bribe and reward
+  literal_form: five cucumbers and ten fields of melons
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: fearless counsel before power
+  summary: A counselor to kings is described as unmoved by either reward or mortal
+    threat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: public duties and legal compulsion
+  summary: The passage names duties of king, police superintendent, cazi, and revenue
+    collector in relation to extortion, murder, disputes, and revenue.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: bribed judgment
+  summary: The cazi is satirically described as accepting a small bribe and granting
+    a much larger claim.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: wise explanation of the free cypress
+  summary: Questioners ask why the cypress alone is called free; the wise man explains
+    its constant flourishing and applies it to religious independents and free conduct.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: fearless wisdom offered to kings
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents the proper royal counselor as indifferent to reward
+    and danger while resolved in divine unity.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethical aphorism rather than a developed narrative episode.
+- id: motif:2
+  label: corrupt judge bought by small gift
+  taxonomy_refs:
+  - wisdom
+  basis: The cazi is mocked as one who will accept a small bribe and grant a disproportionate
+    legal right.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader mythic taxonomy beyond wisdom satire is directly supported.
+- id: motif:3
+  label: evergreen tree as model of freedom from transience
+  taxonomy_refs:
+  - wisdom
+  basis: The wise man interprets the cypress as always flourishing and likens it to
+    free religious independents, with counsel not to fix the heart on transitory things.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: Although a tree symbol is central, the passage does not describe an axis
+    mundi or sacred tree cosmology.
+- id: motif:4
+  label: generosity when abundant and independence when lacking
+  taxonomy_refs:
+  - wisdom
+  basis: The final maxim counsels being liberal like the date-tree when one has plenty
+    and free like the cypress when one has nothing to give.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The motif is proverbial and ethical, not a narrative myth pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: CXVII; lines 4838-4845
+  quote_or_summary: A proper counselor to kings neither fears losing his head nor
+    seeks reward; gold at his feet and an Indian sword over his head leave him indifferent
+    because he is firm in divine unity.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: CXVIII; lines 4846-4856
+  quote_or_summary: The king should displace extortioners, the police superintendent
+    guard against murderers, and the cazi decide disputes; just claims should be paid
+    willingly, while a refractory revenue-payer may be coerced by the collector.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: CXIX; lines 4857-4862
+  quote_or_summary: The cazi is satirized as requiring sweets and as a judge who,
+    for five cucumbers as a bribe, will confirm a right to ten fields of melons.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: CXXI; lines 4866-4875
+  quote_or_summary: Questioners ask a wise man why only the fruitless cypress is called
+    free among the lofty, shady trees created by God; he answers that other trees
+    depend on produce and seasons, while the cypress is always flourishing, like religious
+    independents.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: CXXI; lines 4875-4880
+  quote_or_summary: The wise man counsels not fixing the heart on what is transitory,
+    says the Tigris will flow through Baghdad after the Khalifs are extinct, and advises
+    being liberal like the date-tree when one has plenty and free like the cypress
+    when one has nothing to give.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The ethical and symbolic content is explicit, especially in the cypress passage.
+    Motif labels are limited to the supplied taxonomy and the passage's aphoristic
+    wisdom genre. No external comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage and metadata. The supplied passage locator label appears inconsistent with the section numbers in the passage text; this was noted without altering the provided locator.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l4838-l4880
+  passage_sha256=e309f9ed088b914a220f21a782b379dee12c0ae76b49316939c9083e3717c0d9
+

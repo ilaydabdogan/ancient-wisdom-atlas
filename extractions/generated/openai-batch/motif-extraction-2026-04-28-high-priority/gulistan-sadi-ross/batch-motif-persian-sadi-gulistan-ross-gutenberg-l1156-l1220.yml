@@ -1,0 +1,532 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l1156-l1220
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XVIII / XXIII / XXVII / XXVIII; lines 1156-1220
+  start: '1156'
+  end: '1220'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Three didactic anecdotes: a solitary dervish refuses royal obeisance and
+    instructs a king on the duties and transience of rule; an innocent condemned man
+    warns a king that unjust execution harms the ruler morally, leading the king to
+    spare him; Nushirowan''s ministers debate policy, and Abu-zarchamahr explains
+    why he aligns with the king''s uncertain judgment for safety.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A solitary dervish is stationed at the corner of a desert when a king passes
+    by.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dervish does not raise his head or show attention to the king, and the
+    king takes offense.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The vizir asks the dervish why he did not perform homage and obeisance to
+    the sovereign.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The dervish says kings are meant to protect the people, not that the people
+    are meant for kings.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The dervish compares the king to a shepherd of the poor and the people to
+    sheep not made for the shepherd's service.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The dervish says grave dust will erase the proud person's head and that dust
+    of rich and poor cannot be distinguished.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After hearing the dervish, the king asks what he wants; the dervish asks not
+    to be troubled again.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The dervish advises the king to attend to present duties because wealth and
+    dominion pass from one hand to another.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A king orders an innocent person to be put to death.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The condemned man says his pain will last only a moment, but the sin will
+    remain with the king forever.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The king profits from the condemned man's advice, spares his life, and asks
+    forgiveness.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Nushirowan's cabinet ministers debate an affair of state, and Abu-zarchamahr
+    agrees with the king's opinion.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: Abu-zarchamahr explains that uncertain outcomes rest with God and that agreeing
+    with the king is safer if the decision proves wrong.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: Abu-zarchamahr says that if the king called day night, the ministers should
+    point to the moon and seven stars.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: solitary dervish
+  description: A dervish stationed at the corner of a desert who refuses to perform
+    obeisance to a passing king and speaks didactic counsel.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: king in the dervish anecdote
+  description: A king offended by the dervish's lack of attention who later asks the
+    dervish for a request and advice.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: vizir
+  description: The official who approaches the dervish and asks why he did not do
+    homage to the sovereign.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: innocent condemned person
+  description: A person ordered executed by a king who warns the king against the
+    lasting sin of the act.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: king in the execution anecdote
+  description: A king who orders an innocent person to be killed, then spares him
+    and asks forgiveness after hearing advice.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Nushirowan
+  description: The king whose ministers debate an affair of state and whose opinion
+    Abu-zarchamahr supports.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Abu-zarchamahr
+  description: Prime minister who agrees with Nushirowan and explains the prudential
+    reason for doing so.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:8
+  name_or_label: cabinet ministers
+  description: Ministers who debate a state affair and question Abu-zarchamahr's preference
+    for the king's opinion.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: ascetic nonconformist
+  assigned_to:
+  - fig:1
+  basis: The dervish is solitary, stationed in the desert, and gives no gesture of
+    attention to the passing king.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: moral adviser
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Both figures speak counsel that changes or instructs a king.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:3
+  label: ruler
+  assigned_to:
+  - fig:2
+  - fig:5
+  - fig:6
+  basis: Each figure is identified as a king or sovereign.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: role:4
+  label: offended authority who becomes receptive
+  assigned_to:
+  - fig:2
+  basis: The king first takes offense, then asks the dervish for something and for
+    advice.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:5
+  label: royal intermediary
+  assigned_to:
+  - fig:3
+  basis: The vizir steps up to the dervish and speaks on behalf of the sovereign's
+    expected homage.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: innocent victim under sentence
+  assigned_to:
+  - fig:4
+  basis: The passage states that an innocent person is ordered put to death.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: ruler corrected by counsel
+  assigned_to:
+  - fig:5
+  basis: The king profits by the condemned person's advice, spares him, and asks forgiveness.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: prudent royal counselor
+  assigned_to:
+  - fig:7
+  basis: Abu-zarchamahr chooses to conform to the king's opinion because the outcome
+    is uncertain and royal displeasure is dangerous.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:9
+  label: questioning courtiers
+  assigned_to:
+  - fig:8
+  basis: The ministers whisper a question about why Abu-zarchamahr preferred the king's
+    opinion over many wise heads.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: desert station
+  literal_form: corner of a desert
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: king as shepherd
+  literal_form: shepherd of the poor tending sheep
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: grave dust erasing rank
+  literal_form: dust of the grave and indistinguishable dust of rich and poor
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: passing dominion
+  literal_form: wealth and dominion passing from one hand into another
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: desert wind of life
+  literal_form: the period of life passing like the wind of the desert
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: moon and seven stars
+  literal_form: moon and seven stars used to affirm the king's claim that day is night
+  associated_figures:
+  - fig:7
+  - fig:8
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Dervish refuses royal obeisance
+  summary: A desert dervish does not honor a passing king; the offended king insults
+    mendicants, and the vizir questions the dervish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dervish instructs the king
+  summary: The dervish teaches that kings exist to protect people, compares the ruler
+    to a shepherd, and reminds the king of death's leveling effect.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Dervish gives final advice
+  summary: The king asks the dervish for a request and for advice; the dervish asks
+    not to be troubled and warns that wealth and dominion are transient.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Condemned innocent warns the king
+  summary: An innocent person under sentence of death tells the king that the victim's
+    pain is momentary but the ruler's sin will endure.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: King spares the condemned person
+  summary: The king accepts the advice, spares the condemned person, and asks forgiveness.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Abu-zarchamahr explains conformity to the king
+  summary: During a state debate, Abu-zarchamahr supports Nushirowan's opinion and
+    tells the ministers that conforming to royal judgment is safer under uncertainty.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Ascetic wisdom challenges royal pride
+  taxonomy_refs:
+  - wisdom
+  basis: The dervish refuses courtly obeisance and answers royal offense with counsel
+    on rulership, death, and transience.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a didactic literary anecdote rather than a mythic narrative in
+    the narrow sense.
+- id: motif:2
+  label: Ruler as protector rather than owner of the people
+  taxonomy_refs:
+  - royal_legitimacy
+  - wisdom
+  basis: The dervish states that kings are for protecting the people and uses the
+    shepherd-and-sheep image to define royal duty.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage frames this as ethical instruction, not as a formal coronation
+    or divine-right legitimation scene.
+- id: motif:3
+  label: Death levels rich and poor
+  taxonomy_refs:
+  - wisdom
+  basis: The dervish says grave dust removes the distinction between liege and subject,
+    rich and poor.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No resurrection or rebirth element is present, so death-rebirth taxonomy
+    is not applied.
+- id: motif:4
+  label: Condemned innocent converts ruler through moral warning
+  taxonomy_refs:
+  - wisdom
+  basis: The innocent person argues that unjust killing will burden the king with
+    lasting sin, and the king spares him.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage mentions sin but does not narrate an explicit divine tribunal
+    or supernatural punishment.
+- id: motif:5
+  label: Prudent counsel under absolute authority
+  taxonomy_refs:
+  - wisdom
+  basis: Abu-zarchamahr explains that when outcomes are uncertain, agreeing with the
+    king protects counselors from royal displeasure.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The advice is pragmatic and courtly; it should not be conflated with endorsement
+    of factual truth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: XXVIII, lines 1156-1163
+  quote_or_summary: A solitary dervish is at the corner of a desert; a passing king
+    is offended because the dervish does not raise his head or show attention.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; passage supplied by requester.
+- id: ev:2
+  type: summary
+  locator: XXVIII, lines 1163-1167
+  quote_or_summary: The vizir asks the dervish why he did not do homage and obeisance
+    to the sovereign of the universe.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; passage supplied by requester.
+- id: ev:3
+  type: quote
+  locator: XXVIII, lines 1167-1175
+  quote_or_summary: The dervish says kings are meant for the protection of the people
+    and calls the king the shepherd of the poor.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; passage supplied by requester.
+- id: ev:4
+  type: summary
+  locator: XXVIII, lines 1175-1182
+  quote_or_summary: The dervish warns that grave dust will consume the proud head
+    and that the dust of rich and poor cannot be distinguished.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; passage supplied by requester.
+- id: ev:5
+  type: summary
+  locator: XXVIII, lines 1183-1189
+  quote_or_summary: The king asks the dervish for something and for advice; the dervish
+    asks not to be troubled and says wealth and dominion pass from hand to hand.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; passage supplied by requester.
+- id: ev:6
+  type: summary
+  locator: XXX, lines 1191-1202
+  quote_or_summary: A king orders an innocent person killed; the man says his pain
+    will be momentary but the sin will endure for the king, and compares life to desert
+    wind.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; passage supplied by requester.
+- id: ev:7
+  type: summary
+  locator: XXX, lines 1203-1204
+  quote_or_summary: The king profits by the advice, spares the man's life, and asks
+    forgiveness.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; passage supplied by requester.
+- id: ev:8
+  type: summary
+  locator: XXXI, lines 1206-1216
+  quote_or_summary: Nushirowan's ministers debate a state matter; Abu-zarchamahr agrees
+    with the king and explains that uncertain outcomes rest with God and that conformity
+    avoids displeasure.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; passage supplied by requester.
+- id: ev:9
+  type: quote
+  locator: XXXI, lines 1217-1220
+  quote_or_summary: If the king said the day is night, they should reply that there
+    are the moon and seven stars.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; passage supplied by requester.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction uses only the supplied English passage. Motif candidates are limited
+    to supported didactic patterns and available taxonomy references; no external
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support historical or cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l1156-l1220
+  passage_sha256=d57d90f0fd9abb13f5e9a6808e35e72a02234116b2115bc2a3154d5cc3669c2d
+

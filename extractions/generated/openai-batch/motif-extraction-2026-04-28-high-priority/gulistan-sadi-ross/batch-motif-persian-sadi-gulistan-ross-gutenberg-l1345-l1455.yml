@@ -1,0 +1,518 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l1345-l1455
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXXVII / XXXVIII / XXXIX / CHAPTER II; lines 1345-1455
+  start: '1345'
+  end: '1455'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A sequence of moral anecdotes from the chapter on dervishes: a devout
+    man refuses to judge another''s hidden heart; penitents pray at the Kaaba for
+    pardon; a holy man gives his rug to a thief who found nothing to steal; travelling
+    mendicants explain that a disguised thief once joined them, stole a casket, and
+    caused the innocent group to be imprisoned, leading them to avoid adding members
+    to their party.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person of distinction asks a devout holy man about accusations against another
+    religious figure.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The devout man says he sees nothing blameworthy in the accused figure's outward
+    behavior and does not know the secrets of his heart.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A dervish at the Kaaba complains to God, acknowledges sin and ignorance, and
+    asks for forgiveness rather than reward.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Abd-u'l-cadur the Gilani places his face on the black stone and asks God for
+    pardon, or to be raised blindfolded on the day of resurrection if punishment is
+    unavoidable.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A thief enters a holy man's cell, finds nothing to steal, and is given the
+    sleeping rug by the holy man so that he will not leave disappointed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Travelling mendicants refuse the narrator's request to join their party because
+    a thief had recently joined them in the clothing of a dervish.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The disguised thief takes a neighbor's ewer under the pretext of ablution,
+    climbs a fortification, steals a casket, escapes, and the innocent companions
+    are imprisoned.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage states a moral conclusion that one member's folly can lower the
+    standing of an entire group.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: person of distinction
+  description: Questioner who asks a devout man about an accused abid.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: parsa or devout holy man
+  description: A religious man who refuses to judge hidden inner states and comments
+    on outward behavior.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: questioned abid
+  description: A religious figure whose character has been questioned by others.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: dervish at the Kaaba
+  description: A dervish who prays at the Kaaba, calls himself sinful and ignorant,
+    and asks God for acceptance and forgiveness.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: God
+  description: The gracious and merciful divine addressee of the prayers for pardon
+    and acceptance.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: Abd-u'l-cadur the Gilani
+  description: A named figure seen in the sanctuary of the Kaaba with his face upon
+    the black stone, asking God for pardon.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: thief in the holy man's cell
+  description: A thief who enters a holy man's cell but finds nothing to steal.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: holy man with the rug
+  description: A holy man who notices the thief and places his sleeping rug in the
+    thief's way.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: narrator
+  description: Speaker who asks to join a party of travelling mendicants.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: travelling mendicants
+  description: A group of mendicants who travel together and refuse to admit the narrator
+    because of a recent incident.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:11
+  name_or_label: disguised thief among dervishes
+  description: A thief who wears the garb of a dervish, joins the mendicants, and
+    later steals a casket.
+  role_refs:
+  - role:6
+  - role:10
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: He asks a devout man to justify another religious figure's character.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: cautious moral respondent
+  assigned_to:
+  - fig:2
+  basis: He refuses to claim knowledge of another's hidden heart and judges only outward
+    behavior.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: accused religious figure
+  assigned_to:
+  - fig:3
+  basis: Others have questioned his character.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: penitent petitioner
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: Both figures are shown praying for pardon and acknowledging insufficiency
+    before God.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: divine addressee of mercy and judgment
+  assigned_to:
+  - fig:5
+  basis: The prayers address God as merciful and ask for pardon, while also mentioning
+    punishment and resurrection.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: thief
+  assigned_to:
+  - fig:7
+  - fig:11
+  basis: Both figures are explicitly described as thieves who seek or take property.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:7
+  label: compassionate holy man
+  assigned_to:
+  - fig:8
+  basis: He gives his rug to the thief rather than distressing him.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: would-be companion
+  assigned_to:
+  - fig:9
+  basis: The narrator asks to be admitted to the mendicants' travelling party.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: guarded religious community
+  assigned_to:
+  - fig:10
+  basis: The mendicants refuse new admission after being harmed by a disguised thief.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:10
+  label: false holy man in religious garb
+  assigned_to:
+  - fig:11
+  basis: He joins in the garb of a dervish and is accepted because of reverence for
+    that character, but then steals.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: Kaaba threshold and sanctuary
+  literal_form: Cabah of Mecca; door and sanctuary of the Cabah
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: black stone
+  literal_form: Hasa, or black stone
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: face in dust / prostration
+  literal_form: head and face prostrate; face in the dust of humility
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: sleeping rug
+  literal_form: rug on which the holy man had slept
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: patched cloak
+  literal_form: patched cloak or dervish garb
+  associated_figures:
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: ewer for ablutions
+  literal_form: neighbor's ewer taken under pretext of ablution
+  associated_figures:
+  - fig:11
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: stolen casket
+  literal_form: casket stolen from the fort
+  associated_figures:
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: dungeon
+  literal_form: dungeon into which the innocent companions are thrown
+  associated_figures:
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Judgment withheld about hidden character
+  summary: A distinguished person asks about an accused religious man, and the devout
+    respondent says he can judge only outward conduct, not the heart's secrets.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dervish's penitential prayer at the Kaaba
+  summary: A dervish at the Kaaba asks God for mercy, presents hope rather than obedience,
+    and asks that forgiveness cover his sins.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Abd-u'l-cadur at the black stone
+  summary: Abd-u'l-cadur the Gilani prays with his face on the black stone, asking
+    for pardon or concealment from shame on the day of resurrection.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Holy man gives the thief a rug
+  summary: A thief finds nothing in a holy man's cell, and the holy man places his
+    own rug where the thief can take it.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Refusal to admit the narrator
+  summary: The narrator asks to join travelling mendicants, but they refuse because
+    a thief recently joined them in dervish clothing.
+  figure_refs:
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Disguised thief causes collective punishment
+  summary: At night the disguised thief steals an ewer, uses ablution as a pretext,
+    climbs a fortification, steals a casket, escapes, and the remaining innocent mendicants
+    are imprisoned.
+  figure_refs:
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: outer religious appearance versus hidden character
+  taxonomy_refs:
+  - wisdom
+  basis: The passage repeatedly distinguishes religious clothing or outward behavior
+    from hidden inner reality, including the parsa's refusal to judge the heart and
+    the thief disguised as a dervish.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a moral-exemplum pattern rather than a mythic narrative motif
+    in a narrow sense.
+- id: motif:2
+  label: penitent supplicant seeking divine pardon
+  taxonomy_refs:
+  - divine_judgment
+  - wisdom
+  basis: Prayers at the Kaaba ask God for mercy, forgiveness, and relief from shame
+    or punishment at resurrection.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents devotional speech, not a developed afterlife journey
+    narrative.
+- id: motif:3
+  label: saintly generosity toward a thief
+  taxonomy_refs:
+  - wisdom
+  basis: The holy man gives his rug to a thief who could find nothing to steal, illustrating
+    non-retaliatory kindness.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supernatural event is attached to the action in this passage.
+- id: motif:4
+  label: one wrongdoer brings disgrace or punishment on the group
+  taxonomy_refs:
+  - wisdom
+  basis: A disguised thief's theft leads to the imprisonment and dishonor of innocent
+    companions, followed by the stated moral that one member's folly lowers the whole
+    group.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The motif is ethical and social rather than cosmological.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1345-1361; Chapter II, I
+  quote_or_summary: A person of distinction asks a parsa about a questioned abid;
+    the parsa says he sees no outward fault and does not know the secrets of the heart.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; short neutral summary.
+- id: ev:2
+  type: summary
+  locator: lines 1363-1387; Chapter II, II
+  quote_or_summary: A dervish at the Kaaba prays to the gracious and merciful God,
+    acknowledges imperfect obedience, comes as a beggar, and asks forgiveness for
+    sins.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; short neutral summary.
+- id: ev:3
+  type: summary
+  locator: lines 1389-1398; Chapter II, III
+  quote_or_summary: Abd-u'l-cadur the Gilani is seen in the sanctuary of the Kaaba
+    with his face on the black stone, asking God for pardon or blindfolding at resurrection
+    to avoid shame before the righteous.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; short neutral summary.
+- id: ev:4
+  type: summary
+  locator: lines 1400-1414; Chapter II, IV
+  quote_or_summary: A thief enters a holy man's cell and finds nothing; the holy man
+    places his sleeping rug in the thief's way so he will not miss his object, followed
+    by a moral about kindness toward enemies.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; short neutral summary.
+- id: ev:5
+  type: summary
+  locator: lines 1416-1437; Chapter II, V
+  quote_or_summary: Travelling mendicants refuse the narrator's request to join them
+    because a thief had recently joined them in dervish garb; the passage comments
+    that sanctity is not merely a change of dress.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; short neutral summary.
+- id: ev:6
+  type: summary
+  locator: lines 1438-1450; Chapter II, V
+  quote_or_summary: At night under a castle wall, the disguised thief takes a neighbor's
+    ewer, claims to go for ablutions, climbs a fortification, steals a casket, escapes
+    before dawn, and the remaining companions are imprisoned.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; short neutral summary.
+- id: ev:7
+  type: quote
+  locator: lines 1450-1455; Chapter II, V
+  quote_or_summary: '"When an individual of a sect committed an act of folly, the
+    high and the low sunk in their dignity."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; brief quotation for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif candidates are ethical
+    and devotional patterns, not claims of historical or cross-cultural relationship.
+    No comparison claims were added because the passage itself does not support a
+    specific comparison beyond its own moral patterning.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Taxonomy references were limited to the supplied available taxonomy list and used only where directly supported by the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l1345-l1455
+  passage_sha256=46377627167159131c7131b4762006c3bfd5a2c2d4c5699db6a75e3e1becebea
+

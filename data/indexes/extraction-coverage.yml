@@ -8,46 +8,23 @@ summary:
   - texts/permissioned/**/*.md
   extraction_glob: extractions/**/*.{yml,yaml}
   text_count: 58
-  texts_with_extractions: 51
-  texts_without_extractions: 7
-  texts_needing_full_extraction: 41
-  texts_needing_review_or_normalization: 51
-  extraction_record_count: 1914
-  candidate_motif_count: 8396
-  taxonomy_ref_count: 6987
-  comparison_claim_count: 2012
+  texts_with_extractions: 52
+  texts_without_extractions: 6
+  texts_needing_full_extraction: 40
+  texts_needing_review_or_normalization: 52
+  extraction_record_count: 2114
+  candidate_motif_count: 9510
+  taxonomy_ref_count: 8018
+  comparison_claim_count: 2228
   status_counts:
-    dense_draft: 17
+    dense_draft: 18
     developing: 16
-    no_extractions: 7
+    no_extractions: 6
     thin: 18
   priority_counts:
-    high: 25
-    medium: 33
+    high: 24
+    medium: 34
 texts:
-- source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
-  source_text_id: persian.sadi.gulistan.ross_gutenberg
-  title: The Persian Literature, Volume 2, The Gulistan
-  tradition: persian
-  culture: medieval_persian_later_translation
-  region: iran
-  date_range: 13th-century Persian source text; public-domain English translation
-  word_count: 43995
-  target_extraction_records: 11
-  coverage_ratio: 0.0
-  status: no_extractions
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: false
-  extraction_record_count: 0
-  generated_record_count: 0
-  needs_review_count: 0
-  reviewed_count: 0
-  candidate_motif_count: 0
-  taxonomy_ref_count: 0
-  comparison_claim_count: 0
-  empty_motif_record_count: 0
-  extraction_paths: []
 - source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
   source_text_id: roman.ovid.metamorphoses_books_8_15_riley_gutenberg
   title: The Metamorphoses of Ovid, Books VIII-XV
@@ -470,31 +447,6 @@ texts:
   extraction_paths:
   - extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-fire-makers.yml
   - extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-origin-narran-lake.yml
-- source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
-  source_text_id: islamic.koran.rodwell_gutenberg
-  title: The Koran (Al-Qur'an)
-  tradition: islamic
-  culture: arabic_islamic_later_translation
-  region: arabia_west_asia
-  date_range: 7th century source text; public-domain English translation
-  word_count: 203200
-  target_extraction_records: 40
-  coverage_ratio: 0.05
-  status: thin
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: true
-  extraction_record_count: 2
-  generated_record_count: 0
-  needs_review_count: 2
-  reviewed_count: 0
-  candidate_motif_count: 6
-  taxonomy_ref_count: 3
-  comparison_claim_count: 2
-  empty_motif_record_count: 0
-  extraction_paths:
-  - extractions/islamic/project-gutenberg/koran/koran-rodwell-earthquake-works-judgment.yml
-  - extractions/islamic/project-gutenberg/koran/koran-rodwell-recitation-created-man.yml
 - source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
   source_text_id: islamic.koran.sale_gutenberg
   title: The Koran (Al-Qur'an)
@@ -520,6 +472,31 @@ texts:
   extraction_paths:
   - extractions/islamic/project-gutenberg/koran-sale/koran-sale-adam-names-eblis-garden-direction.yml
   - extractions/islamic/project-gutenberg/koran-sale/koran-sale-mary-gabriel-palm-infant-jesus.yml
+- source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  source_text_id: islamic.koran.rodwell_gutenberg
+  title: The Koran (Al-Qur'an)
+  tradition: islamic
+  culture: arabic_islamic_later_translation
+  region: arabia_west_asia
+  date_range: 7th century source text; public-domain English translation
+  word_count: 203200
+  target_extraction_records: 40
+  coverage_ratio: 0.05
+  status: thin
+  priority: high
+  needs_full_extraction: true
+  needs_review_or_normalization: true
+  extraction_record_count: 2
+  generated_record_count: 0
+  needs_review_count: 2
+  reviewed_count: 0
+  candidate_motif_count: 6
+  taxonomy_ref_count: 3
+  comparison_claim_count: 2
+  empty_motif_record_count: 0
+  extraction_paths:
+  - extractions/islamic/project-gutenberg/koran/koran-rodwell-earthquake-works-judgment.yml
+  - extractions/islamic/project-gutenberg/koran/koran-rodwell-recitation-created-man.yml
 - source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
   source_text_id: islamicate_folklore.arabian_nights.lang_gutenberg
   title: The Arabian Nights Entertainments
@@ -2983,24 +2960,52 @@ texts:
   date_range: medieval Norse source material; 1909 public-domain English retelling
   word_count: 100261
   target_extraction_records: 26
-  coverage_ratio: 1.577
+  coverage_ratio: 4.5
   status: dense_draft
   priority: medium
   needs_full_extraction: false
   needs_review_or_normalization: true
-  extraction_record_count: 41
-  generated_record_count: 41
-  needs_review_count: 41
+  extraction_record_count: 117
+  generated_record_count: 117
+  needs_review_count: 117
   reviewed_count: 0
-  candidate_motif_count: 257
-  taxonomy_ref_count: 262
-  comparison_claim_count: 37
-  empty_motif_record_count: 1
+  candidate_motif_count: 795
+  taxonomy_ref_count: 764
+  comparison_claim_count: 188
+  empty_motif_record_count: 2
   extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l10094-l10213.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l1014-l1160.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l10215-l10329.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l10331-l10442.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l10444-l10568.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l10571-l10664.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l10667-l10774.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l10777-l10812.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l10815-l10937.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l10939-l11058.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l11061-l11198.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l11200-l11340.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l11342-l11475.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l11477-l11599.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l11601-l11720.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l1163-l1296.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l11722-l11843.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l11845-l11957.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l11960-l12095.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l12098-l12221.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l12224-l12362.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l12364-l12427.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l12430-l12540.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l125-l193.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l12542-l12649.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l12651-l12759.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l12761-l12872.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l12874-l12978.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l1298-l1437.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l12980-l13082.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l13084-l13166.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l13169-l13178.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l1440-l1580.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l1582-l1707.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l1709-l1827.yml
@@ -3031,13 +3036,164 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l4135-l4274.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l4277-l4407.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l4410-l4484.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l4487-l4607.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l456-l592.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l4609-l4732.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l4734-l4861.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l4864-l4983.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l4986-l5124.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l5126-l5265.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l5268-l5365.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l5368-l5476.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l5479-l5625.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l5627-l5758.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l5761-l5893.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l5896-l6019.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l594-l736.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l6022-l6149.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l6151-l6159.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l6162-l6289.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l6291-l6393.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l6396-l6536.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l65-l86.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l6539-l6657.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l6660-l6800.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l6802-l6953.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l6955-l7082.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l7085-l7194.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l7196-l7322.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l7325-l7472.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l739-l863.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l7475-l7592.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l7594-l7696.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l7698-l7821.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l7824-l7975.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l7978-l8048.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l8051-l8171.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l8173-l8286.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l8288-l8420.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l8422-l8532.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l8535-l8655.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l865-l877.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l8658-l8742.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l8744-l8800.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l880-l1012.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l8803-l8940.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l89-l122.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l8943-l9039.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l9042-l9171.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l9173-l9193.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l9196-l9315.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l9318-l9428.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l9430-l9545.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l9547-l9642.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l9644-l9745.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l9748-l9860.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l9862-l9984.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l9986-l10091.yml
+- source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  source_text_id: persian.sadi.gulistan.ross_gutenberg
+  title: The Persian Literature, Volume 2, The Gulistan
+  tradition: persian
+  culture: medieval_persian_later_translation
+  region: iran
+  date_range: 13th-century Persian source text; public-domain English translation
+  word_count: 43995
+  target_extraction_records: 11
+  coverage_ratio: 7.273
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 80
+  generated_record_count: 80
+  needs_review_count: 80
+  reviewed_count: 0
+  candidate_motif_count: 331
+  taxonomy_ref_count: 335
+  comparison_claim_count: 30
+  empty_motif_record_count: 1
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l1085-l1110.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l1113-l1153.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l1156-l1220.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l1223-l1244.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l123-l223.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l1247-l1258.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l1261-l1298.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l1301-l1320.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l1323-l1342.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l1345-l1455.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l1457-l1565.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l1567-l1627.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l1630-l1703.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l1706-l1772.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l1775-l1813.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l1816-l1882.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l1885-l1962.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l1965-l1995.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l1998-l2018.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l2021-l2032.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l2035-l2128.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l2131-l2236.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l2238-l2348.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l225-l241.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l2350-l2386.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l2389-l2497.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l244-l333.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l2499-l2538.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l2541-l2584.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l2587-l2713.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l2715-l2767.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l2770-l2877.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l2879-l2969.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l2971-l3063.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l3065-l3158.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l3160-l3201.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l3204-l3269.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l3272-l3384.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l335-l432.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l3386-l3397.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l3400-l3508.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l3510-l3630.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l3632-l3650.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l3653-l3723.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l3725-l3760.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l3762-l3844.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l3846-l3931.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l3933-l3972.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l3975-l4130.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4132-l4180.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4183-l4200.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4203-l4236.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4239-l4250.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4253-l4271.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4274-l4285.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4288-l4309.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4312-l4349.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l434-l535.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4352-l4463.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4466-l4491.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4494-l4511.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4514-l4532.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4535-l4550.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4553-l4571.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4574-l4599.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4602-l4643.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4646-l4667.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4670-l4762.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4765-l4801.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4804-l4835.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4838-l4880.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l4883-l4921.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l537-l638.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l640-l735.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l66-l78.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l737-l821.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l81-l120.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l823-l889.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l892-l983.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gulistan-sadi-ross/batch-motif-persian-sadi-gulistan-ross-gutenberg-l986-l1083.yml
 - source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
   source_text_id: roman.aeneid.mackail_gutenberg
   title: The Aeneid of Virgil
@@ -3047,20 +3203,55 @@ texts:
   date_range: 1st-century BCE Latin epic; public-domain English prose translation
   word_count: 99283
   target_extraction_records: 25
-  coverage_ratio: 3.08
+  coverage_ratio: 4.84
   status: dense_draft
   priority: medium
   needs_full_extraction: false
   needs_review_or_normalization: true
-  extraction_record_count: 77
-  generated_record_count: 77
-  needs_review_count: 77
+  extraction_record_count: 121
+  generated_record_count: 121
+  needs_review_count: 121
   reviewed_count: 0
-  candidate_motif_count: 387
-  taxonomy_ref_count: 287
-  comparison_claim_count: 59
-  empty_motif_record_count: 3
+  candidate_motif_count: 632
+  taxonomy_ref_count: 481
+  comparison_claim_count: 94
+  empty_motif_record_count: 4
   extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l1061-l1147.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l1149-l1237.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l120-l221.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l1239-l1316.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l1318-l1408.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l1410-l1496.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l1498-l1588.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l1590-l1676.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l1678-l1762.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l1764-l1832.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l1834-l1914.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l1916-l1995.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l1997-l2067.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l2069-l2122.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l2125-l2220.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l2222-l2307.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l223-l315.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l2309-l2389.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l2391-l2467.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l2469-l2540.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l2542-l2634.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l2636-l2708.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l2710-l2746.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l2749-l2841.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l2843-l2858.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l2860-l2944.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l2945-l2986.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l2988-l3044.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l3046-l3130.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l3131-l3185.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l317-l400.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l3187-l3232.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l3234-l3313.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l3315-l3403.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l3405-l3466.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l3469-l3560.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l3562-l3611.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l3613-l3702.yml
@@ -3068,6 +3259,7 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l3796-l3885.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l3887-l3949.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l3951-l4023.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l402-l491.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l4025-l4104.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l4106-l4133.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l4135-l4222.yml
@@ -3080,6 +3272,7 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l4690-l4772.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l4774-l4860.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l4862-l4943.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l493-l570.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l4945-l4992.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l4995-l5084.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l5086-l5159.yml
@@ -3092,6 +3285,7 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l5603-l5617.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l5620-l5714.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l5716-l5801.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l572-l657.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l5803-l5890.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l5892-l5934.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l5936-l6013.yml
@@ -3102,7 +3296,9 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l6315-l6410.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l6412-l6492.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l6494-l6567.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l65-l117.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l6569-l6643.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l659-l739.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l6645-l6692.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l6694-l6752.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l6754-l6833.yml
@@ -3114,6 +3310,7 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l7167-l7255.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l7257-l7341.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l7343-l7408.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l741-l795.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l7410-l7461.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l7463-l7532.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l7534-l7584.yml
@@ -3123,6 +3320,7 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l7775-l7841.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l7844-l7942.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l7944-l8038.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l798-l896.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l8040-l8120.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l8122-l8178.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l8180-l8225.yml
@@ -3138,6 +3336,8 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l8749-l8782.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l8785-l8815.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l8818-l8884.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l898-l978.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aeneid-mackail/batch-motif-roman-aeneid-mackail-gutenberg-l980-l1059.yml
 - source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
   source_text_id: roman.ovid.metamorphoses_books_1_7_riley_gutenberg
   title: The Metamorphoses of Ovid, Books I-VII

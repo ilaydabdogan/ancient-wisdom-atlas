@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l2021-l2032
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXXIII / XXXIV / XXXVI / XXXVII; lines 2021-2032
+  start: '2021'
+  end: '2032'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"To such of them as are poor lend money, and from such as are rich ask some
+    in loan; and neither of them will trouble you again."'
+  summary: A disciple complains to his ghostly father that frequent visitors interrupt
+    his time. The father advises him to lend money to poor visitors and ask loans
+    from rich visitors so that both groups will stop troubling him. A concluding maxim
+    compares importunate begging to something from which an infidel would flee as
+    far as China.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A disciple complains to his ghostly father about people interrupting him with
+    frequent visits.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The visitors are described as breaking in upon the disciple's precious hours
+    with impertinent intrusions.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The ghostly father tells the disciple to lend money to poor visitors and ask
+    rich visitors for a loan.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The advice predicts that neither poor nor rich visitors will trouble the disciple
+    again.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage ends with a maxim involving a beggar, an army of Islam or the
+    orthodox, an infidel, and the wall of China.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: disciple
+  description: A disciple who complains that frequent visitors interrupt his time.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: ghostly father
+  description: The disciple's ghostly father, who answers with practical advice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: people / visitors
+  description: People whose frequent visits annoy the disciple and interrupt his hours.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: poor visitors
+  description: Those among the visitors who are poor and should be lent money according
+    to the father's advice.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: rich visitors
+  description: Those among the visitors who are rich and should be asked for a loan
+    according to the father's advice.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: beggar
+  description: A beggar mentioned in the concluding maxim.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: infidel
+  description: An infidel in the concluding maxim who would flee the beggar's importunity
+    as far as the wall of China.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: complainant disciple
+  assigned_to:
+  - fig:1
+  basis: The disciple reports annoyance and loss of time caused by visitors.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: counsel-giver
+  assigned_to:
+  - fig:2
+  basis: The ghostly father replies with a recommended course of action.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: interrupting visitors
+  assigned_to:
+  - fig:3
+  basis: The people are said to visit frequently and interrupt the disciple.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: loan recipients
+  assigned_to:
+  - fig:4
+  basis: The advice says to lend money to the poor among the visitors.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: loan targets
+  assigned_to:
+  - fig:5
+  basis: The advice says to ask the rich among the visitors for a loan.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: importunate beggar
+  assigned_to:
+  - fig:6
+  basis: The maxim describes a beggar whose importunity causes flight.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: one who flees importunity
+  assigned_to:
+  - fig:7
+  basis: The maxim says the infidel will flee the beggar's importunity as far as the
+    wall of China.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: money or loan
+  literal_form: money lent to the poor and loan requested from the rich
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: wall of China
+  literal_form: the wall of China as the far limit in the concluding maxim
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Complaint about intrusive visitors
+  summary: The disciple tells his ghostly father that frequent visits from people
+    interrupt his valued time.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Advice using loans to repel visitors
+  summary: 'The ghostly father advises a financial strategy: lend to poor visitors
+    and ask rich visitors for loans, so both groups stop coming.'
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Maxim on fleeing importunity
+  summary: A concluding maxim states that an infidel would flee a beggar's importunity
+    as far as the wall of China.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Practical wisdom as paradoxical social counsel
+  taxonomy_refs:
+  - wisdom
+  basis: The anecdote presents a complaint and a concise reply in which a spiritual
+    adviser solves an everyday social problem through shrewd practical advice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The available taxonomy supports a broad wisdom classification; no narrower
+    supplied taxonomy reference is available.
+- id: motif:2
+  label: Repelling unwanted company through debt obligations
+  taxonomy_refs: []
+  basis: 'The advised tactic is to discourage visitors by creating financial discomfort:
+    the poor become debtors and the rich are asked to lend.'
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a passage-level motif candidate without a supplied taxonomy identifier.
+- id: motif:3
+  label: Proverbial flight from importunate begging
+  taxonomy_refs: []
+  basis: The final maxim uses an exaggerated image of fleeing a beggar's importunity
+    as far as the wall of China.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The maxim is internally supported, but its broader comparative range is
+    not established by the supplied passage alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2021-2032; disciple's complaint
+  quote_or_summary: A disciple complains to his ghostly father that frequent visits
+    from people annoy him and interrupt his precious hours.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 2021-2032; ghostly father's reply
+  quote_or_summary: '"To such of them as are poor lend money, and from such as are
+    rich ask some in loan; and neither of them will trouble you again."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2021-2032; concluding maxim
+  quote_or_summary: The passage says a beggar may be the harbinger of an army of Islam
+    or the orthodox, and that an infidel will flee the beggar's importunity as far
+    as the wall of China.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal anecdote and figures are clear. Motif labels are conservative
+    and passage-level. No comparison claims were made because the passage itself does
+    not establish cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. The source label names multiple sections, but the provided passage text contains section XXXVII only.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l2021-l2032
+  passage_sha256=30a09a700ece87f82e4ea7182bbef95d6255a29d72e2e06f54e913d3eab9d31d
+

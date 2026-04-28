@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l3386-l3397
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: CHAPTER IV / CHAPTER V / XVIII. / CHAPTER VI; lines 3386-3397
+  start: '3386'
+  end: '3397'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A rich miser's son is gravely ill. Friends advise him to read the Koran
+    or offer an animal sacrifice so God may restore the son to health. The miser chooses
+    recitation because the Koran is nearby and his herds are distant. A holy man criticizes
+    him for preferring easy speech to costly charity.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A rich miser has a son who is grievously sick.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The miser's friends and well-wishers advise either reading the Koran throughout
+    or offering an animal sacrifice for the son's recovery.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The advised purpose of the recitation or sacrifice is that the Most High God
+    may restore the son to health.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: After reflection, the miser chooses reading the Koran because it is ready
+    at hand and his herds are at a distance.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A good and holy man hears the miser's answer and criticizes his choice.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The holy man says Koran recitation passes easily over the tongue, while money
+    must be wrung from the miser's soul.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The holy man contrasts readiness for prayer with reluctance in charity.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The holy man says the miser will hesitate over giving a dinar but will recite
+    the first chapter of the Koran a hundred times.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: rich miser
+  description: A wealthy but miserly father whose son is gravely ill.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: sick son
+  description: The grievously sick son of the rich miser.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: well-wishers and friends
+  description: People who advise the miser to undertake religious recitation or animal
+    sacrifice for the son's recovery.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Most High God
+  description: The divine figure named as able to restore the son to health.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: good and holy man
+  description: A hearer of the miser's reply who gives a moral criticism of the miser's
+    preference.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: miserly father
+  assigned_to:
+  - fig:1
+  basis: He is called a rich miser and has a sick son.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: chooser of low-cost piety
+  assigned_to:
+  - fig:1
+  basis: He chooses Koran recitation because it is nearby while the herds required
+    for sacrifice are distant.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: sick child
+  assigned_to:
+  - fig:2
+  basis: He is described as the miser's son and as grievously sick.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: advisers
+  assigned_to:
+  - fig:3
+  basis: They tell the miser what religious actions would be proper for the son's
+    recovery.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: healer invoked
+  assigned_to:
+  - fig:4
+  basis: The proposed recitation or sacrifice is intended so that God may restore
+    the son to health.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: moral critic
+  assigned_to:
+  - fig:5
+  basis: He criticizes the miser for easy prayer without accompanying charity.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Koran recitation
+  literal_form: Reading the Koran throughout; reciting the Al-hamdi or first chapter.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: animal sacrifice
+  literal_form: An animal to be offered in sacrifice from the miser's herds.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: dinar
+  literal_form: A dinar given in charity.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: hand of charity
+  literal_form: The holy man's image of charity accompanying bowed prayer.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Miser chooses recitation over sacrifice
+  summary: When advised to seek his son's healing through Koran recitation or animal
+    sacrifice, the miser chooses recitation because it is easier and less costly;
+    a holy man exposes the motive as miserliness and contrasts verbal piety with charitable
+    giving.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Costly sacrifice avoided by verbal piety
+  taxonomy_refs:
+  - sacrifice
+  basis: The friends propose animal sacrifice for healing, but the miser chooses Koran
+    recitation because it is immediately available and does not require parting with
+    his herds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage concerns a proposed sacrifice; no sacrifice is actually performed.
+- id: motif:2
+  label: Wisdom critique of hollow piety without charity
+  taxonomy_refs:
+  - wisdom
+  basis: The holy man interprets the miser's religious choice as ease of recitation
+    rather than genuine generosity, contrasting bowed prayer with the absent hand
+    of charity.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an ethical-wisdom reading grounded in the holy man's explicit
+    critique.
+- id: motif:3
+  label: Religious act sought for healing a sick child
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The advisers propose Koran recitation or animal sacrifice so that God may
+    restore the miser's son to health.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents the recommendation but does not narrate whether healing
+    occurs or whether a reciprocal exchange is accepted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3386-3390
+  quote_or_summary: A rich miser's son is grievously sick; friends advise him to read
+    the Koran throughout or offer an animal sacrifice so that the Most High God may
+    restore him to health.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 3390-3392
+  quote_or_summary: '"It is better to read the Koran, which is ready at hand; and
+    my herds are at a distance."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 3392-3396
+  quote_or_summary: A good and holy man says the miser chooses reading because recitation
+    is easy, while money must be wrung from him; he wishes the hand of charity could
+    accompany the bowed head in prayer.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 3396-3397
+  quote_or_summary: The holy man says the miser hesitates to bestow a dinar but would
+    recite the first chapter of the Koran a hundred times.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The narrative details and explicit moral critique are clear. Motif tagging
+    is limited to available taxonomy references; no comparison claims were made because
+    the passage itself does not provide comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. No external taxonomy IDs or cross-text comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l3386-l3397
+  passage_sha256=f1ce701d55e605ca0960a4479ae6b99c8e9e48cb4423c2607739b44292fa2683
+

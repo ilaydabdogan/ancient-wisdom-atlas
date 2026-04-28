@@ -1,0 +1,279 @@
+---
+record_id: batch.motif.norse-myths-of-norsemen-guerber-gutenberg-l6151-l6159
+source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+passage_locator:
+  label: 'CHAPTER XIII: HEIMDALL / CHAPTER XIV: HERMOD / CHAPTER XV: VIDAR / CHAPTER
+    XVI: VALI; lines 6151-6159'
+  start: '6151'
+  end: '6159'
+  translation: 'Myths of the Norsemen: From the Eddas and Sagas'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage identifies Vali as a god of eternal light and Vidar as associated
+    with imperishable matter. It explains Vali's archer representation through the
+    association of light beams with arrows, links his Norwegian calendar month to
+    the bow and the name Lios-beri, and compares this month and role with St. Valentine
+    as an archer and bringer of brighter days and tender sentiments.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Vali is described as god of eternal light.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Vidar is described as associated with imperishable matter.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Beams of light are said to have often been called arrows, and Vali is represented
+    and worshipped as an archer.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Vali's month in Norwegian calendars is marked by the sign of the bow and called
+    Lios-beri, the light-bringing.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The month falls between the middle of January and the middle of February.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage says early Christians dedicated this month to St. Valentine.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: St. Valentine is described as a skilful archer, harbinger of brighter days,
+    awakener of tender sentiments, and patron of lovers.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Vali
+  description: God of eternal light, represented and worshipped as an archer.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Vidar
+  description: Described as associated with imperishable matter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: St. Valentine
+  description: Described as a skilful archer, harbinger of brighter days, awakener
+    of tender sentiments, and patron of lovers.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: god of eternal light
+  assigned_to:
+  - fig:1
+  basis: The passage directly calls Vali the god of eternal light.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: archer figure
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Vali is represented and worshipped as an archer; St. Valentine is also described
+    as a skilful archer.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: figure of imperishable matter
+  assigned_to:
+  - fig:2
+  basis: The passage describes Vidar as associated with imperishable matter.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: bringer of brighter days and tender sentiments
+  assigned_to:
+  - fig:3
+  basis: The passage states that St. Valentine, like Vali, was said to be the harbinger
+    of brighter days, awakener of tender sentiments, and patron of lovers.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: light
+  literal_form: eternal light; beams of light
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: arrows as light beams
+  literal_form: arrows
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: bow calendar sign
+  literal_form: bow
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: light-bringing month
+  literal_form: Lios-beri
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Vali as archer of light
+  summary: Vali is presented as a god of eternal light whose archer form is explained
+    through the association of beams of light with arrows.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Calendar month of the bow
+  summary: Vali's month in Norwegian calendars is identified by the sign of the bow,
+    called Lios-beri, and placed from mid-January to mid-February.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dedication to St. Valentine
+  summary: The passage states that early Christians dedicated Vali's calendar month
+    to St. Valentine, who is described in parallel terms as an archer and bringer
+    of brighter days and tender sentiments.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: light-bringing seasonal transition
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage links Vali's light-bringing month to the period from mid-January
+    to mid-February and to the coming of brighter days.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is a later retelling and gives only a brief calendrical explanation.
+- id: motif:2
+  label: divine or saintly archer associated with light
+  taxonomy_refs: []
+  basis: Vali is represented as an archer because beams of light are called arrows;
+    St. Valentine is also described as a skilful archer in the same passage.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: No taxonomy reference supplied for an archer motif; the connection is
+    limited to this short passage.
+- id: motif:3
+  label: calendar dedication replacing or paralleling a divine month
+  taxonomy_refs: []
+  basis: The passage says Vali's light-bringing month in Norwegian calendars was dedicated
+    by early Christians to St. Valentine.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage asserts the dedication but does not provide historical detail
+    or source evidence within the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Vali and St. Valentine as archer figures
+    associated with brighter days and tender sentiments.
+  claim_level: same_function
+  target: St. Valentine as a Christian calendrical figure
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal comparison made by the retelling; the passage does
+    not establish independent historical causation or broader comparative evidence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6151-6153
+  quote_or_summary: Vali is called the god of eternal light, Vidar is linked with
+    imperishable matter, and Vali is represented and worshipped as an archer because
+    beams of light were often called arrows.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 6154-6156
+  quote_or_summary: Vali's month in Norwegian calendars is marked by the bow, called
+    Lios-beri or light-bringing, and falls between mid-January and mid-February.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 6156-6159
+  quote_or_summary: The passage says early Christians dedicated this month to St.
+    Valentine, who is described as a skilful archer and, like Vali, as a harbinger
+    of brighter days, awakener of tender sentiments, and patron of lovers.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward; motif and comparison labels are cautious
+    because the passage is brief and from a later English retelling.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or unsupported taxonomy IDs were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:norse-myths-of-norsemen-guerber-gutenberg__l6151-l6159
+  passage_sha256=ad1129c4faa4cd4e8b343e6d2eb0e7fd115d2db87de7c168c40b3079aa93e24e
+

@@ -1,0 +1,530 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l2125-l2220
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK THIRD / THE STORY OF THE SEVEN YEARS' WANDERING / BOOK FOURTH / THE
+    LOVE OF DIDO, AND HER END; lines 2125-2220
+  start: '2125'
+  end: '2220'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: At the opening of Book Four, Dido confides to Anna that she is inwardly
+    afflicted by love for Aeneas while still bound by loyalty to her dead husband
+    Sychaeus. Anna urges her to accept the union for personal and political reasons.
+    Dido performs sacrifices and divination, but her passion is described as an inward
+    fire and wound. She wanders with Aeneas, delays civic works, listens repeatedly
+    to his Trojan story, and embraces Ascanius as a substitute for the love she cannot
+    speak. Juno then approaches Venus, remarks that Dido has been overcome by divine
+    stratagem, and proposes an enduring peace and bridal compact joining the peoples
+    under shared divine influence.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Dido is described as wounded by distress and as catching an unseen fire after
+    Aeneas' presence and story affect her.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dido tells Anna that Aeneas' appearance, courage, arms, lineage, and divine
+    blood have impressed her.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Dido says she had resolved not to marry again after Sychaeus' death and prays
+    for death or descent into Erebus before violating her honor.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Anna urges Dido not to spend her youth alone and argues that a union with
+    Aeneas would strengthen Carthage and join Trojan arms with Punic power.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Dido and Anna visit shrines, make offerings, sacrifice sheep, pour libations,
+    and inspect entrails for divine counsel.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Dido's condition is compared to a deer pierced by an archer's arrow, with
+    the deadly reed remaining in its side.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Dido leads Aeneas through the city, shows him Sidonian wealth and the ordered
+    city, and repeatedly asks to hear of Troy's sufferings.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Dido holds Ascanius on her lap as a way to seek the love she cannot express.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Carthage's towers, military exercises, harbor works, and fortifications stop
+    while Dido is absorbed in passion.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Juno addresses Venus and says that Venus and her boy have overcome one woman
+    by treachery.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Juno proposes an enduring peace and bridal compact, with Dido as wife to a
+    Phrygian husband and the Tyrians effectively placed as dowry.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Dido
+  description: Queen of Carthage, afflicted by love for Aeneas while bound by memory
+    of Sychaeus and royal responsibilities.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Anna
+  description: Dido's sister and confidante, who counsels her toward union with Aeneas.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Aeneas
+  description: The foreign guest whose mien, courage, arms, lineage, and narrated
+    wars move Dido; called a potential Phrygian husband in Juno's proposal.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Sychaeus
+  description: Dido's dead husband, whose death and tomb are invoked as binding her
+    earlier love and honor.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Juno
+  description: Divine wife of Jove and guardian of the marriage bond, addressed through
+    sacrifice and later speaking to Venus about a bridal compact.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Venus
+  description: Goddess addressed by Juno as involved, with her boy, in overcoming
+    Dido.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: boy of Venus
+  description: Unnamed boy of Venus mentioned by Juno as participating with Venus
+    in overcoming Dido.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Ascanius
+  description: Child whom Dido holds on her lap because he resembles his father.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Ceres, Phoebus, and Lyaeus
+  description: Deities to whom Dido and Anna offer sacrifices, alongside Juno.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: love-afflicted queen
+  assigned_to:
+  - fig:1
+  basis: Dido is described as pierced, burning inwardly, wandering in frenzy, and
+    neglecting civic works.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: ritual petitioner
+  assigned_to:
+  - fig:1
+  basis: Dido visits shrines, pours libations, renews gifts, and seeks counsel through
+    entrails.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: prospective bride in political compact
+  assigned_to:
+  - fig:1
+  basis: Anna and Juno both frame union with Aeneas as a joining of peoples and powers.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:4
+  label: counseling sister
+  assigned_to:
+  - fig:2
+  basis: Anna advises Dido to accept love and pursue divine favor and political advantage.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: foreign heroic beloved
+  assigned_to:
+  - fig:3
+  basis: Dido describes Aeneas as an unknown guest of high mien, courage, arms, renown,
+    and divine blood.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: dead spouse anchoring prior vow
+  assigned_to:
+  - fig:4
+  basis: Dido says Sychaeus took her love and shall keep it in the tomb.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: marriage guardian
+  assigned_to:
+  - fig:5
+  basis: Juno is named as guardian of the marriage bond during sacrifice.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: divine negotiator
+  assigned_to:
+  - fig:5
+  basis: Juno proposes peace and a bridal compact to Venus.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: divine manipulator of passion
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Juno says Venus and her boy have vanquished Dido by treachery.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: substitute object of affection
+  assigned_to:
+  - fig:8
+  basis: Dido holds Ascanius because he resembles his father and because she seeks
+    unspoken love through him.
+  evidence_refs:
+  - ev:4
+- id: role:11
+  label: recipient deities of sacrifice
+  assigned_to:
+  - fig:9
+  - fig:5
+  basis: The passage lists these gods as receiving offerings and sacrifices.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: unseen inward fire
+  literal_form: fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: wound of love
+  literal_form: wound
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: bridal torch and chamber
+  literal_form: bridal torch and chamber
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: sacrificial animals and entrails
+  literal_form: sheep, milk-white cow, opened breasts of cattle, throbbing entrails
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: arrow-stricken deer
+  literal_form: deer pierced by an archer's steel or reed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: unfinished towers and halted fortifications
+  literal_form: unfinished towers, harbor works, bastions, walls, engines towering
+    into the sky
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: dowry of the Tyrians
+  literal_form: Tyrian people as dowry in a proposed marriage compact
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Dido confides her passion and vow to Anna
+  summary: Dido tells Anna that Aeneas has stirred her heart but that she remains
+    bound to Sychaeus and to her honor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Anna urges union with Aeneas
+  summary: Anna argues that Dido should not remain alone and that alliance with the
+    Trojans would bring glory and security to Carthage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Sacrifice and divination fail to cure Dido's passion
+  summary: Dido and Anna make sacrifices and offerings to several gods, but the narrator
+    says ritual cannot help her madness while the inward flame consumes her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Dido's frenzy disrupts city-building
+  summary: Dido wanders like a wounded deer, follows Aeneas through Carthage, seeks
+    his story and presence, holds Ascanius, and the city's public works come to a
+    halt.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Juno proposes a divine marriage compact
+  summary: Juno tells Venus that Dido has been overcome by divine stratagem and proposes
+    peace through a marriage that would join Aeneas, Dido, and their peoples.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: love as consuming fire and hidden wound
+  taxonomy_refs: []
+  basis: Dido's passion is repeatedly expressed as unseen fire, inward flame, and
+    a living wound.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level image pattern rather than one of the supplied
+    motif-family taxonomy refs.
+- id: motif:2
+  label: sacrifice and divination under emotional crisis
+  taxonomy_refs:
+  - sacrifice
+  basis: Dido and Anna make offerings, sacrifice animals, pour libations, and inspect
+    entrails while seeking divine favor or counsel.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage emphasizes the ineffectiveness of ritual in curing Dido's
+    passion.
+- id: motif:3
+  label: marriage as political and divine compact
+  taxonomy_refs:
+  - sacred_marriage
+  basis: Anna and Juno describe the proposed union of Dido and Aeneas as joining Trojan
+    and Punic power, and Juno frames it as an enduring peace and bridal compact.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The passage proposes a compact involving divine negotiation, but the marriage
+    is not yet completed in this excerpt.
+- id: motif:4
+  label: divine manipulation of mortal love
+  taxonomy_refs:
+  - divine_beloved
+  basis: Juno states that Venus and her boy have overcome Dido by treachery, while
+    Dido's love for Aeneas dominates the passage.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy ref is approximate; the passage focuses on induced
+    mortal passion rather than a god as the beloved.
+- id: motif:5
+  label: divine parent and child acting together
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Juno addresses Venus and refers to 'that boy of thine' as acting with her
+    against Dido.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The boy is not named in this passage, and the action is reported by Juno
+    rather than narrated directly in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2125-2162
+  quote_or_summary: Dido is pierced by distress and unseen fire; she tells Anna that
+    Aeneas has stirred her heart but says she would rather die or descend to Erebus
+    than break faith with Sychaeus and her honor.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 2163-2190
+  quote_or_summary: Anna urges Dido not to waste her youth alone, notes threats around
+    Carthage, interprets the Trojan arrival as favored by Juno, and imagines glory
+    from a union of Trojan and Punic power.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: lines 2191-2204
+  quote_or_summary: Dido and Anna visit shrines, sacrifice sheep, pour libations by
+    a milk-white cow, renew gifts at altars, and inspect entrails; the narrator says
+    vows and shrines cannot help while inward flame and wound persist.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 2205-2219
+  quote_or_summary: Dido is compared to a deer pierced by an arrow; she leads Aeneas
+    through the city, seeks his story, lies on his couch when alone, holds Ascanius,
+    and neglects towers, arms training, harbor works, and walls.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: lines 2220 and following within supplied excerpt
+  quote_or_summary: Juno sees Dido caught in the toils and accosts Venus, saying that
+    Venus and her boy have won fame if two gods have vanquished one woman by treachery.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: summary
+  locator: closing portion of supplied excerpt
+  quote_or_summary: Juno proposes to Venus an enduring peace and bridal compact, saying
+    Dido burns with love and suggesting joint rule, a Phrygian husband for Dido, and
+    the Tyrians as dowry.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    involving sacred marriage and divine beloved are cautious because the excerpt
+    presents proposal and manipulation rather than a completed rite or union.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this episode to another text, tradition, or named motif family beyond the extractable passage-level patterns.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l2125-l2220
+  passage_sha256=3c4e84712b36f405720d2d36d103e583acfdb18ff0f248898225532a2ecb1062
+

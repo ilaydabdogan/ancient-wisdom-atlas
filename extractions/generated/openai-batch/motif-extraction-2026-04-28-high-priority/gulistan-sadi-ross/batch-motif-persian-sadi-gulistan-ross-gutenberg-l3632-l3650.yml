@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l3632-l3650
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: CHAPTER V / XVIII. / CHAPTER VI / CHAPTER VII; lines 3632-3650
+  start: '3632'
+  end: '3650'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"the slave at liberty and the master in bondage"'
+  summary: A holy man sees a wealthy master punishing a bound slave. He admonishes
+    the master to remember that God made the slave a creature like himself and warns
+    that on the day of judgment or resurrection a good slave may be taken to heaven
+    while a wicked master is sent to hell.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A holy man passes by a wealthy personage's mansion.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wealthy personage has a slave tied by the hands and feet and is chastising
+    him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The holy man addresses the wealthy personage as "my son" and says God made
+    the slave a creature like him, subject to his command.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The holy man tells the wealthy personage to give thanks to God and not deal
+    savagely with the slave.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The holy man warns that on the day of judgment the slave may prove more worthy
+    and the master may be put to shame.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The holy man says the master could buy the slave but did not have the power
+    to create him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The holy man reminds the master that there is a mightier Master, called God.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A tradition attributed to the prophet Mohammed says that on the day of resurrection
+    the good slave will be taken to heaven and the wicked master sent to hell.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The closing admonition says it will be disgraceful on the day of reckoning
+    to find the slave free and the master in bondage.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: holy man
+  description: A holy man passing by the mansion who admonishes the wealthy personage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: wealthy personage / master
+  description: A wealthy personage at his mansion, described as lord of slaves and
+    vassals, who punishes a bound slave.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: slave / bondsman
+  description: A slave tied by the hands and feet and subject to the wealthy person's
+    command.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: God / Most High Judge / Lord Paramount
+  description: God is named as creator, judge, and a Master mightier than the earthly
+    master.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: prophet Mohammed
+  description: The passage cites a tradition of the prophet Mohammed announcing the
+    reversal of good slave and wicked master on the day of resurrection.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: moral admonisher
+  assigned_to:
+  - fig:1
+  basis: He tells the master not to act savagely and warns him of judgment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: abusive earthly master
+  assigned_to:
+  - fig:2
+  basis: He is shown chastising a slave tied by the hands and feet and is warned against
+    rage, pride, and insolence.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:3
+  label: bound servant and possible righteous figure
+  assigned_to:
+  - fig:3
+  basis: He is bound and punished, and the warning says the slave may prove more worthy
+    or be taken to heaven if good.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:4
+  label: divine judge and supreme master
+  assigned_to:
+  - fig:4
+  basis: God is called the Most High Judge, creator, and the Lord Paramount above
+    the earthly master.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: prophetic authority for eschatological warning
+  assigned_to:
+  - fig:5
+  basis: A tradition attributed to Mohammed is cited about the day of resurrection.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: physical bondage
+  literal_form: slave tied by the hands and feet; master in bondage in the closing
+    warning
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: liberty of the slave
+  literal_form: slave at liberty on the day of reckoning
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: heaven and hell as judgment destinations
+  literal_form: good slave taken up to heaven; wicked master sent down to hell
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: day of judgment / resurrection / reckoning
+  literal_form: the future day when worthiness, shame, heaven, hell, liberty, and
+    bondage are revealed
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: encounter at the mansion
+  summary: A holy man passes a wealthy person's mansion and sees the wealthy personage
+    punishing a slave tied by the hands and feet.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: admonition against cruelty
+  summary: The holy man tells the master that the slave is a creature like him, that
+    God gave him authority, and that he should give thanks and not act savagely.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: eschatological reversal
+  summary: The master is warned that at judgment or resurrection the slave may be
+    shown more worthy, taken to heaven, or set at liberty, while the wicked master
+    may be shamed, sent to hell, or placed in bondage.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine judgment reversing earthly status
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage repeatedly warns that on the day of judgment, resurrection, or
+    reckoning the slave may be vindicated and the master disgraced or punished.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is moral-didactic rather than a narrative of judgment actually
+    occurring.
+- id: motif:2
+  label: moral wisdom against abusive power
+  taxonomy_refs:
+  - wisdom
+  basis: A holy man instructs a powerful master to recognize divine authority, human
+    likeness, and the limits of ownership.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is an ethical teaching embedded in an anecdote, not a mythic quest
+    or extended wisdom contest.
+- id: motif:3
+  label: reversal of master and servant
+  taxonomy_refs: []
+  basis: The passage contrasts the present bound slave with the future possibility
+    of a slave at liberty and a master in bondage.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy reference directly names social reversal; association
+    is based on the passage wording.
+- id: motif:4
+  label: resurrection reckoning
+  taxonomy_refs:
+  - resurrection
+  basis: A tradition attributed to Mohammed explicitly speaks of the day of resurrection
+    when good and wicked persons receive opposite outcomes.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The resurrection element functions as an eschatological setting for moral
+    judgment, not as a resurrection narrative of a named figure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3632-3634
+  quote_or_summary: A holy man passes a wealthy person's mansion and sees him chastising
+    a slave tied by the hands and feet.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 3635-3638
+  quote_or_summary: The holy man says God made the slave a creature like the master,
+    subject to his command, and tells the master to give thanks and avoid savage treatment.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 3638-3640
+  quote_or_summary: The holy man warns that on the day of judgment the slave may prove
+    more worthy and the master may be put to shame.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 3640-3645
+  quote_or_summary: The holy man says the master could buy the slave but could not
+    create him, and reminds him of a mightier Master, God.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 3645-3648
+  quote_or_summary: A tradition attributed to Mohammed says that on the day of resurrection
+    the good slave will be taken to heaven and the wicked master sent to hell.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 3648-3650
+  quote_or_summary: '"it must be disgraceful on the day of reckoning to find the slave
+    at liberty and the master in bondage."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are straightforward
+    for divine judgment, resurrection reckoning, wisdom admonition, and reversal of
+    social status; no explicit cross-text comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol refs were assigned because the passage does not contain the supplied symbol terms cave, fire, milk, mountain, serpent, tree, or water.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l3632-l3650
+  passage_sha256=784d9086549efd4b23997e6d59b70b229edc06a1aa1df15a0e12fc3cc10cd2ca
+

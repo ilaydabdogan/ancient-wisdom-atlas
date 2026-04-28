@@ -1,0 +1,509 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l4602-l4643
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: LXXXIV / LXXXV / LXXXVI / LXXXIX; lines 4602-4643
+  start: '4602'
+  end: '4643'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A sequence of didactic aphorisms praises useful learning, self-sufficiency
+    over dependence on patrons, prudent reliance on tested guidance, humility in asking
+    questions, and patient restraint from premature questioning. It includes examples
+    involving Ghazali, a skilled physician, Lucman, and David miraculously shaping
+    iron like wax.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A learned man without works is compared to a bee without honey, and a hornet
+    that gives no honey is told not to wound with its sting.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A tattered garment of one’s own is said to be preferable to an honorable dress
+    presented by a sovereign.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Simple food produced by one’s own industry is said to be sweeter than delicate
+    food at a great man’s or village chief’s table.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says it is imprudent to take medicine on conjecture or to follow
+    a road except in the track of the caravan.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ghazali is asked how he reached a high pitch of knowledge, and he replies
+    that he felt no shame in asking others about what he did not know.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The text compares inquiry in learning to putting one’s pulse in the care of
+    a skilled physician for health.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage advises not to be hasty in questioning about something one may
+    later come to know, lest one’s consequence and respectability suffer.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Lucman sees iron in David’s hands miraculously molded like wax and does not
+    ask how David did it, expecting to know it through his own wisdom.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: learned man without works
+  description: A learned person lacking works, compared to a bee without honey.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: harsh and ungenerous hornet
+  description: A hornet that yields no honey but can wound with its sting.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: sovereign
+  description: A ruler who presents an honorable dress.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: great man or village chief
+  description: A powerful host whose table offers delicate food, lamb, and bread sauce.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: traveler on a road
+  description: An implied person warned not to follow a road except in the track of
+    the caravan.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: caravan
+  description: A collective whose track marks the road to follow.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Imaam Mursheed Mohammed-bin-Mohammed Ghazali
+  description: A religious scholar asked how he attained a high degree of knowledge.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: others
+  description: People whom Ghazali asked when he was ignorant of something.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: skilled physician
+  description: A physician entrusted with the pulse in the passage’s analogy for sound
+    learning.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Lucman
+  description: A wise figure who observes David molding iron and refrains from asking
+    how it is done.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+- id: fig:11
+  name_or_label: David
+  description: A figure in whose hands iron is miraculously molded like wax.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: ineffective learned person
+  assigned_to:
+  - fig:1
+  basis: The person is learned but lacks works, like a bee without honey.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: harmful nonbenefactor
+  assigned_to:
+  - fig:2
+  basis: The hornet yields no honey and is warned not to wound with its sting.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: royal patron
+  assigned_to:
+  - fig:3
+  basis: The sovereign presents an honorable dress.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: elite host
+  assigned_to:
+  - fig:4
+  basis: The great man or village chief provides delicate food at his table.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: one needing guidance
+  assigned_to:
+  - fig:5
+  basis: The implied traveler is warned to follow the road only in the caravan’s track.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: guide by established path
+  assigned_to:
+  - fig:6
+  basis: The caravan’s track marks the safe route to follow.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: humble knower
+  assigned_to:
+  - fig:7
+  basis: Ghazali says he was not ashamed to ask others what he did not know.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: sources of instruction
+  assigned_to:
+  - fig:8
+  basis: They are the people from whom Ghazali asked about matters he did not know.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: expert healer
+  assigned_to:
+  - fig:9
+  basis: The skilled physician is entrusted with the pulse as a sign of reasoned pursuit
+    of health.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: restrained wise observer
+  assigned_to:
+  - fig:10
+  basis: Lucman observes David’s act but does not ask, relying on future knowledge
+    through wisdom.
+  evidence_refs:
+  - ev:7
+- id: role:11
+  label: miracle worker
+  assigned_to:
+  - fig:11
+  basis: David miraculously molds iron like wax in his hands.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: bee without honey
+  literal_form: bee lacking honey
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hornet sting
+  literal_form: sting of a harsh and ungenerous hornet
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: own tattered garment
+  literal_form: tattered garment belonging to oneself
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sovereign’s dress
+  literal_form: honorable dress presented by the sovereign
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: self-earned simple food
+  literal_form: salad and vinegar produced by one’s own industry
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: elite table food
+  literal_form: lamb and bread sauce at the table of the village chief
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: medicine on conjecture
+  literal_form: medicine taken on conjecture
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: caravan track
+  literal_form: road followed in the track of the caravan
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:9
+  label: pulse in a physician’s care
+  literal_form: pulse entrusted to a skilled physician
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:10
+  label: iron molded like wax
+  literal_form: iron miraculously molded like wax in David’s hands
+  associated_figures:
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Useless learning compared to honeyless bee
+  summary: The aphorism compares a learned person without works to a bee without honey
+    and warns the unproductive hornet not to sting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Self-sufficiency preferred to patronage
+  summary: The aphorism values one’s own tattered garment and simple self-produced
+    food above gifts and delicacies from powerful men.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Prudence through tested guidance
+  summary: The aphorism rejects taking medicine by guesswork and recommends following
+    a road only by the caravan’s track.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Ghazali’s humility in learning
+  summary: Ghazali explains that he reached knowledge by asking others without shame
+    when he was ignorant.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Inquiry compared to medical expertise
+  summary: The passage says asking what one does not know guides learning, just as
+    health is rational when the pulse is in the care of a skilled physician.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Lucman’s restraint before David’s miracle
+  summary: Lucman sees David miraculously molding iron like wax, but does not ask
+    how it is done because he expects to understand through his own wisdom.
+  figure_refs:
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:10
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: wisdom as practical action
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents learning without works as deficient, using the image
+    of a bee without honey.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a didactic aphorism rather than a narrative mythic episode.
+- id: motif:2
+  label: self-sufficiency over dependence on patrons
+  taxonomy_refs:
+  - wisdom
+  basis: The passage contrasts one’s own poor clothing and simple food favorably against
+    gifts and delicacies from the powerful.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No broader mythological comparison is explicit in the passage.
+- id: motif:3
+  label: wisdom through established guidance and expertise
+  taxonomy_refs:
+  - wisdom
+  basis: The passage advises against conjectural medicine, recommends following the
+    caravan track, and compares learning by inquiry to consulting a skilled physician.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The motif is ethical and pedagogical; it does not imply a specific journey
+    myth.
+- id: motif:4
+  label: humility in seeking knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: Ghazali says he attained knowledge by not being ashamed to ask others about
+    what he did not know.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The example is biographical-didactic within the passage.
+- id: motif:5
+  label: discerning when not to ask
+  taxonomy_refs:
+  - wisdom
+  basis: The passage balances the praise of inquiry with advice not to ask hastily,
+    illustrated by Lucman refraining from questioning David’s miraculous shaping of
+    iron.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage’s precise lesson depends on the contrast between beneficial
+    inquiry and premature questioning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: LXXXVI; within lines 4602-4643
+  quote_or_summary: A learned man without works is likened to a bee without honey;
+    a hornet that yields no honey is told not to wound with its sting.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: LXXXIX; within lines 4602-4643
+  quote_or_summary: One’s own tattered garment and self-produced salad and vinegar
+    are preferred to a sovereign’s dress and the lamb and bread sauce at a village
+    chief’s table.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: XC; within lines 4602-4643
+  quote_or_summary: It is called contrary to prudence to take medicine on conjecture
+    or to follow a road except by the caravan’s track.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: XCI; within lines 4602-4643
+  quote_or_summary: Ghazali is asked how he reached such knowledge and replies that
+    he was not ashamed to ask others whatever he did not know.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: XCI; within lines 4602-4643
+  quote_or_summary: The text says health accords with reason when the pulse is entrusted
+    to a skilled physician, and that asking what one does not know guides the road
+    of learning.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: XCII; within lines 4602-4643
+  quote_or_summary: The passage warns not to question hastily about what one may later
+    know, to avoid loss of consequence and respectability.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: XCII; within lines 4602-4643
+  quote_or_summary: Lucman sees iron miraculously molded like wax in David’s hands,
+    but does not ask how it is done, expecting to know through his own wisdom.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is aphoristic and didactic, so motif candidates are limited to
+    explicit wisdom patterns rather than narrative mythic structures. No passage-supported
+    cross-cultural comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. Available taxonomy reference applied only where directly supported: wisdom.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l4602-l4643
+  passage_sha256=1c5036007d85d2f3ad4fbf7437070a85082be2ea5a042554b242b6486c9b2e1a
+

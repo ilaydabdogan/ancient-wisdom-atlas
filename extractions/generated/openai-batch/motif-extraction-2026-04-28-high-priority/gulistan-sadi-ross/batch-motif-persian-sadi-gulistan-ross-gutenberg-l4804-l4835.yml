@@ -1,0 +1,509 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l4804-l4835
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XCIII / XCVIII / CVIII / CXIII; lines 4804-4835
+  start: '4804'
+  end: '4835'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Four brief didactic units: a proverb about disappointed chance and constrained
+    access; a dervish prays for mercy on the wicked because the good have already
+    received virtue; Jemshid explains ornament on the left hand and Feridún orders
+    a palace inscription urging the wise to reform the wicked; a holy man explains
+    the ring on the left hand by saying the best are most neglected and contrasts
+    good luck with wisdom.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A gamester wants three sixes but throws three aces.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A horse is described as unable to command its tether despite the richer pasture
+    meadow nearby.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A dervish prays that God have compassion on the wicked.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The dervish says God has been abundantly kind to the good by making them virtuous.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Jemshid is described as the first person to put an edging around his garment
+    and a ring on his finger.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Jemshid is asked why decoration and ornament were bestowed on the left hand
+    while the right hand is superior.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Jemshid replies that being right is sufficient ornament for the right hand.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Feridún commands Chinese gilders to inscribe a moral statement on the front
+    of his palace.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The palace inscription urges the wise man to make the wicked good because
+    the good are already great and fortunate.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: A great and holy man is asked why the ring is worn on the left hand despite
+    the right hand's superiority.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The holy man replies that the best are most neglected.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The holy man states that the one who casts horoscope, provision, and fortune
+    bestows either good luck or wisdom.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: gamester
+  description: A person who wants three sixes but throws three aces.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: horse
+  description: A horse whose tether is not at its command while richer pasture exists
+    nearby.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: dervish
+  description: A praying dervish who asks God to have compassion on the wicked.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: God
+  description: The addressee of the dervish's prayer; described as having made the
+    good virtuous.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: the wicked
+  description: People for whom compassion is requested and whom the wise are urged
+    to make good.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:6
+  name_or_label: the good
+  description: People described as virtuous, great, and fortunate.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:7
+  name_or_label: Jemshid
+  description: Named figure said to have first put edging on a garment and a ring
+    on his finger, and who explains ornament on the left hand.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: questioners of Jemshid
+  description: Unnamed people who ask Jemshid why ornament is placed on the left hand.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Feridún
+  description: Named figure who commands Chinese gilders to inscribe the front of
+    his palace.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: gilders of China
+  description: Craftsmen commanded by Feridún to inscribe his palace.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:4
+- id: fig:11
+  name_or_label: wise man
+  description: The addressee named in Feridún's palace inscription.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:4
+- id: fig:12
+  name_or_label: great and holy man
+  description: A holy man who answers a question about why rings are worn on the left
+    hand.
+  role_refs:
+  - role:3
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:13
+  name_or_label: questioners of the holy man
+  description: Unnamed people who ask the holy man about ring-wearing on the left
+    hand.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: frustrated player
+  assigned_to:
+  - fig:1
+  basis: The gamester wants one result but throws another.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: constrained animal
+  assigned_to:
+  - fig:2
+  basis: The horse cannot command its tether despite richer pasture.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: religious speaker
+  assigned_to:
+  - fig:3
+  - fig:12
+  basis: The dervish prays; the holy man gives a moralizing answer.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: divine addressee and giver of virtue
+  assigned_to:
+  - fig:4
+  basis: God is addressed in prayer and credited with making the good virtuous.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: objects of compassion and moral reform
+  assigned_to:
+  - fig:5
+  basis: The wicked are prayed for and are the group the wise are urged to make good.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:6
+  label: already virtuous and fortunate group
+  assigned_to:
+  - fig:6
+  basis: The good are said to have been made virtuous and to be great and fortunate.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:7
+  label: originator of ornament practice
+  assigned_to:
+  - fig:7
+  basis: Jemshid is called the first to put edging on a garment and a ring on his
+    finger.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: explanatory moral responder
+  assigned_to:
+  - fig:7
+  - fig:12
+  basis: Both Jemshid and the holy man answer questions about left-hand ornament or
+    ring-wearing.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:9
+  label: questioner
+  assigned_to:
+  - fig:8
+  - fig:13
+  basis: Unnamed speakers ask why ornament or rings are associated with the left hand.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:10
+  label: royal commander of inscription
+  assigned_to:
+  - fig:9
+  basis: Feridún commands gilders to inscribe the front of his palace.
+  evidence_refs:
+  - ev:4
+- id: role:11
+  label: inscription makers
+  assigned_to:
+  - fig:10
+  basis: The gilders of China are ordered to inscribe the palace.
+  evidence_refs:
+  - ev:4
+- id: role:12
+  label: moral agent addressed by inscription
+  assigned_to:
+  - fig:11
+  basis: The inscription addresses the wise man and urges him to reform the wicked.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: dice throw
+  literal_form: three sixes desired; three aces thrown
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: pasture and tether
+  literal_form: richer pasture meadow, common, horse tether
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: ring
+  literal_form: ring upon the finger; ring worn on the left hand
+  associated_figures:
+  - fig:7
+  - fig:12
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: left and right hands
+  literal_form: left hand as ornamented; right hand as superior and 'right'
+  associated_figures:
+  - fig:7
+  - fig:12
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: garment edging
+  literal_form: edging round a garment
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: palace inscription
+  literal_form: inscription on the front of Feridún's palace
+  associated_figures:
+  - fig:9
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: horoscope, provision, and fortune
+  literal_form: horoscope, provision, and fortune cast or bestowed
+  associated_figures:
+  - fig:12
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Gamester and tethered horse proverb
+  summary: A proverb contrasts desired dice results with an undesired throw, and richer
+    pasture with a horse constrained by its tether.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dervish's prayer for the wicked
+  summary: A dervish prays for divine compassion on the wicked, reasoning that the
+    good have already received the gift of virtue.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Jemshid explains left-hand ornament and Feridún orders an inscription
+  summary: Jemshid is credited with introducing garment edging and a ring, explains
+    the left-hand ornament by saying the right hand needs no further ornament, and
+    Feridún orders a palace inscription urging reform of the wicked.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Holy man's answer about the ring on the left hand
+  summary: A holy man is asked about ring-wearing on the left hand despite the superiority
+    of the right, and replies that the best are most neglected and that fortune gives
+    either luck or wisdom.
+  figure_refs:
+  - fig:12
+  - fig:13
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Didactic wisdom through aphorism and question-answer
+  taxonomy_refs:
+  - wisdom
+  basis: The passage consists of proverbial examples, prayers, inscriptions, and responses
+    that deliver moral reflections about fortune, virtue, reform, neglect, and wisdom.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The available taxonomy only broadly captures the didactic character; the
+    passage is not a narrative myth sequence.
+- id: motif:2
+  label: Compassion and reform directed toward the wicked
+  taxonomy_refs:
+  - wisdom
+  basis: The dervish prays for compassion on the wicked, and Feridún's inscription
+    urges the wise to make the wicked good.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is an ethical teaching motif rather than a distinct mythic episode.
+- id: motif:3
+  label: Origin and moral explanation of ring placement
+  taxonomy_refs:
+  - culture_hero
+  - wisdom
+  basis: Jemshid is described as the first to place a ring on his finger, and both
+    Jemshid and a holy man give explanations for left-hand ornament or ring-wearing.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The culture-hero classification is tentative because the passage gives
+    an origin for an ornament practice but does not develop a broader culture-hero
+    narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: CXIII; lines 4804-4808
+  quote_or_summary: The gamester wants three sixes but throws three aces; a richer
+    pasture exists, but the horse lacks command over its tether.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: CXIV; lines 4810-4814
+  quote_or_summary: 'The dervish prays: "O God, have compassion on the wicked," because
+    God has made the good virtuous.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: CXV; lines 4816-4824
+  quote_or_summary: Jemshid is said to be the first to put edging around his garment
+    and a ring on his finger; when asked about ornament on the left hand, he says
+    the right hand's being right is ornament enough.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: CXV; lines 4824-4828
+  quote_or_summary: 'Feridún orders Chinese gilders to inscribe on his palace: "Strive,
+    O wise man, to make the wicked good."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: CXVI; lines 4830-4835
+  quote_or_summary: A holy man is asked why the ring is worn on the left hand although
+    the right hand is superior; he says the best are most neglected and that fortune
+    bestows either good luck or wisdom.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment is limited because
+    the passage is chiefly ethical and proverbial, with only brief legendary references
+    to Jemshid and Feridún. No passage-supported cross-tradition comparison is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. Available symbol taxonomy did not include ring, hand, palace, dice, garment, or tether, so symbol taxonomy references are empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l4804-l4835
+  passage_sha256=249461b7be6b300891bb9c420572fd8688059f1df3c86579c64809eddb5c6e1c
+

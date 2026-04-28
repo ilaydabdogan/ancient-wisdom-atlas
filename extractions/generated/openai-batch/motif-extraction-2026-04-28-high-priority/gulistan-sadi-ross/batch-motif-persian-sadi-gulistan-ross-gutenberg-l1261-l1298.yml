@@ -1,0 +1,469 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l1261-l1298
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXVIII / XXXII / XXXIII / XXXIV; lines 1261-1298
+  start: '1261'
+  end: '1298'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents two moral anecdotes. In the first, Harun-al-Rashid
+    advises his insulted child to prefer forgiveness, or at most bounded retaliation,
+    and the passage praises restraint under anger. In the second, a pilot rescues
+    one of two drowning brothers; he later explains that the rescued brother had once
+    helped him, while the one who died had once beaten him. The passage concludes
+    with maxims on divine justice, the return of good and evil to the doer, and helping
+    the poor and needy.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Harun-al-Rashid's child reports that an officer's son abused him in his mother's
+    name.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Harun asks his ministers what punishment is appropriate, and they propose
+    death, cutting out the tongue, or a fine and banishment.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Harun tells his child that forgiveness would be generous, but if retaliation
+    is chosen it should not exceed the bounds of retaliation.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that the true hero is the person who, when angered, does
+    not speak intemperately.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: An abused person bears abuse patiently and answers that he knows his own defects
+    better than the abuser does.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The narrator is seated in a vessel with persons of distinction when a boat
+    sinks behind them and two brothers are drawn into a whirlpool.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A gentleman promises the pilot one hundred dinars if he saves the two drowning
+    men.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The pilot rescues one brother, while the other brother dies.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The pilot says his zeal was greater for the rescued brother because that man
+    once set him on a camel in the desert, whereas the other brother had whipped him
+    when he was a boy.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage states that God is justice and equity, that good labor brings
+    good to oneself, and evil labor brings evil to oneself.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The passage counsels not to grate anyone's heart and to expedite the concerns
+    of the poor and needy.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Harun-al-Rashid's child
+  description: A child of Harun-al-Rashid who complains of an insult against his mother.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Harun-al-Rashid
+  description: A ruler and father who consults ministers and counsels forgiveness
+    or limited retaliation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Harun's ministers
+  description: Advisers who propose punishments for the insulting officer's son.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Officer's son
+  description: The person accused of abusing Harun's child in his mother's name.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Patiently abused person
+  description: An unnamed person who bears verbal abuse and responds with self-effacing
+    patience.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Cross-grained fellow
+  description: An unnamed person who abuses another person verbally.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Narrator
+  description: The speaker seated in the vessel who observes and comments on the rescue.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: Gentleman offering reward
+  description: A gentleman who offers the pilot one hundred dinars to save the drowning
+    brothers.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Pilot
+  description: The pilot who rescues one drowning brother and explains his differing
+    zeal by reference to past treatment.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:10
+  name_or_label: Rescued brother
+  description: One of the two brothers drawn into the whirlpool; he is rescued and
+    had once helped the pilot in the desert.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:11
+  name_or_label: Drowned brother
+  description: One of the two brothers drawn into the whirlpool; he dies and had once
+    whipped the pilot.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: complainant under insult
+  assigned_to:
+  - fig:1
+  basis: The child reports abuse in his mother's name.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: counselor of forgiveness and restraint
+  assigned_to:
+  - fig:2
+  basis: Harun advises generosity through forgiveness or retaliation kept within limits.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: punitive advisers
+  assigned_to:
+  - fig:3
+  basis: The ministers propose severe or formal punishments.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: alleged verbal offender
+  assigned_to:
+  - fig:4
+  basis: The officer's son is accused of insulting the child in his mother's name.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: model of patient self-restraint
+  assigned_to:
+  - fig:5
+  basis: The abused person bears insult patiently and answers without retaliation.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: verbal abuser
+  assigned_to:
+  - fig:6
+  basis: The cross-grained fellow abuses another person.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: witness and commentator
+  assigned_to:
+  - fig:7
+  basis: The narrator is present in the vessel and comments on the rescue outcome.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: reward-promising patron
+  assigned_to:
+  - fig:8
+  basis: The gentleman promises one hundred dinars for saving the drowning men.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: rescuer shaped by remembered good and harm
+  assigned_to:
+  - fig:9
+  basis: The pilot rescues one brother and explains his zeal through prior kindness
+    and prior injury.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:10
+  label: former benefactor and rescued man
+  assigned_to:
+  - fig:10
+  basis: The rescued brother had once set the pilot on a camel in the desert.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:11
+  label: former offender and drowned man
+  assigned_to:
+  - fig:11
+  basis: The drowned brother had once horsewhipped the pilot.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: water peril
+  literal_form: vessel, sunken boat, whirlpool, and drowning men
+  associated_figures:
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: rescue reward
+  literal_form: one hundred dinars promised for saving the two drowning men
+  associated_figures:
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: past kindness in the desert
+  literal_form: being set on a camel when tired in the desert
+  associated_figures:
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: past harm remembered
+  literal_form: a horsewhipping received when the pilot was a boy
+  associated_figures:
+  - fig:9
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Harun judges an insult complaint
+  summary: Harun's child complains of an insult; ministers propose punishments; Harun
+    recommends forgiveness or retaliation that remains within proper bounds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Patient response to verbal abuse
+  summary: An unnamed abused person responds patiently and says that he knows his
+    own faults better than the abuser does.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Whirlpool rescue and remembered deeds
+  summary: A boat sinks, two brothers are drawn into a whirlpool, and a pilot rescues
+    one after a gentleman promises a reward. The pilot explains that the rescued man
+    had helped him before, while the other had harmed him.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Moral conclusion on justice and aid
+  summary: 'The passage states a moral conclusion: good and evil return to the doer,
+    hearts should not be wounded, and the poor and needy should be helped.'
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: forgiveness and restraint under provocation
+  taxonomy_refs:
+  - wisdom
+  basis: Harun counsels forgiveness or strictly bounded retaliation, and the passage
+    identifies true heroism with restraining intemperate speech when angry.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is didactic and ethical rather than a mythic narrative; the
+    taxonomy reference is broad.
+- id: motif:2
+  label: good and evil returning to the doer
+  taxonomy_refs:
+  - divine_judgment
+  - wisdom
+  basis: The rescue anecdote contrasts a former benefactor with a former offender,
+    and the passage explicitly says that God is justice and equity and that good and
+    evil return to the person who does them.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The causal link is presented as moral instruction and as the pilot's explanation;
+    the narrator also mentions inevitable necessity.
+- id: motif:3
+  label: aid to the poor and needy before one's own need
+  taxonomy_refs:
+  - wisdom
+  basis: The closing maxim instructs the listener to expedite the concerns of the
+    poor and needy because one's own concerns may later need expedition.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is a maxim rather than a developed narrative episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: XXXIV, lines 1261-1264
+  quote_or_summary: '"One of Harun-al-Rashid''s children" tells his father that an
+    officer''s son has abused him in his mother''s name.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:2
+  type: summary
+  locator: XXXIV, lines 1264-1271
+  quote_or_summary: Harun asks his ministers about punishment; they suggest death,
+    cutting out the tongue, or fine and banishment. Harun advises that forgiveness
+    is generous, or that any return insult should not exceed the bounds of retaliation.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:3
+  type: quote
+  locator: XXXIV, lines 1271-1279
+  quote_or_summary: The passage says the true hero is one who, when provoked to anger,
+    "will not speak intemperately," and gives an example of an abused person answering
+    patiently.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:4
+  type: summary
+  locator: XXXV, lines 1281-1284
+  quote_or_summary: The narrator is in a vessel with distinguished persons when a
+    boat sinks behind them and two brothers are drawn into a whirlpool.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:5
+  type: summary
+  locator: XXXV, lines 1284-1288
+  quote_or_summary: A gentleman offers the pilot one hundred dinars to save the two
+    drowning men; the pilot rescues one, while the other dies.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:6
+  type: summary
+  locator: XXXV, lines 1288-1294
+  quote_or_summary: The pilot says necessity is involved, but he was more zealous
+    for the rescued man because that man once set him on a camel in the desert, while
+    the other had horsewhipped him when he was a boy.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:7
+  type: quote
+  locator: XXXV, lines 1294-1298
+  quote_or_summary: '"God Almighty was all justice and equity"; whoever labored unto
+    good or evil experienced the same in himself; the passage counsels not to wound
+    hearts and to help the poor and needy.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text supplied for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction uses only the supplied passage. Motif assignments are limited
+    to broad available taxonomy categories and should be reviewed because the passage
+    is primarily ethical and didactic rather than mythic.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparison claims were made because the passage itself does not identify an external tradition or corpus comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l1261-l1298
+  passage_sha256=19d3c9303a05f5ee92d80399e60e705aeaa4c3c191c61dafa0894259f8b56917
+

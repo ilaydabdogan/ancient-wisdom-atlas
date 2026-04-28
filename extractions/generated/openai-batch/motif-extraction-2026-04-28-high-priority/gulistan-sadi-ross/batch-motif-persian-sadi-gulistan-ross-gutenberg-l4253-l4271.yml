@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l4253-l4271
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXVIII / XXXII / XXXIII / XXXIV; lines 4253-4271
+  start: '4253'
+  end: '4271'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Two moral aphorisms state that one who fails to do good when able will
+    lack support in adversity, and that life is as brief as a breath. The passage
+    condemns exchanging religious practice for worldly gain, invokes the sale of Joseph
+    as an example of a poor bargain, and cites a covenant warning the sons of Adam
+    not to serve Satan, their enemy.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person who does not do good while having the means to do it is said to suffer
+    hardship when lacking the means.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The misanthrope is described as especially unlucky because in adversity he
+    has no friend.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Life is described as standing on the verge of a single breath and as an existence
+    between two nonentities.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Those who exchange religious practice for worldly wealth are condemned.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The sale of Joseph is invoked as an example of an unprofitable bargain.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A quoted covenant addresses the sons of Adam and commands them not to serve
+    Satan, who is called their avowed enemy.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says that by taking advice from a foe, people broke faith with
+    a friend and united themselves with the foe.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Person who fails to do good when able
+  description: A generalized person who has the means to do good but does not do it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Misanthrope
+  description: A person described as having no friend on the day of adversity.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Those who trade religious practice for worldly gain
+  description: People who sell their deen or religious practice for worldly pelf.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Joseph
+  description: Joseph is referenced as one who was sold.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Sons of Adam
+  description: The addressees of the covenant not to serve Satan.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Satan
+  description: Named as the one not to be served and as an avowed enemy.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Friend with whom faith was broken
+  description: An unnamed friend contrasted with the foe whose advice was followed.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Neglecter of available good action
+  assigned_to:
+  - fig:1
+  basis: The figure has means to do good but does not do it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Isolated adversary of humankind
+  assigned_to:
+  - fig:2
+  basis: The misanthrope lacks a friend in adversity.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Seller of religious practice for worldly wealth
+  assigned_to:
+  - fig:3
+  basis: The passage says such people truck their religious practice for worldly pelf.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Sold exemplar in a moral analogy
+  assigned_to:
+  - fig:4
+  basis: Joseph is mentioned in the question about what was gained by selling him.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Covenant addressees
+  assigned_to:
+  - fig:5
+  basis: The covenant speech is addressed to the sons of Adam.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Avowed enemy and forbidden master
+  assigned_to:
+  - fig:6
+  basis: Satan is named as the one not to serve and as the avowed enemy.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: Betrayed friend
+  assigned_to:
+  - fig:7
+  basis: The passage says faith was broken with a friend through the advice of a foe.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Single breath
+  literal_form: Breath as an image for the brevity of life.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Bargain or sale
+  literal_form: The exchange of religious practice for worldly pelf, paired with the
+    sale of Joseph.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Covenant
+  literal_form: A covenant with the sons of Adam not to serve Satan.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Foe and friend contrast
+  literal_form: A foe whose advice is followed and a friend with whom faith is broken.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Neglected good and isolation in adversity
+  summary: The passage states that one who does not do good while able will suffer
+    hardship later, and that the misanthrope has no friend in adversity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Brief life and bad sacred bargain
+  summary: The passage describes life as brief, condemns selling religious practice
+    for worldly gain, invokes Joseph's sale, and cites the covenant not to serve Satan.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Neglected benevolence brings isolation in adversity
+  taxonomy_refs:
+  - wisdom
+  basis: The passage links failure to do good when able with later hardship and lack
+    of friends in adversity.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethical aphorism rather than a developed narrative motif.
+- id: motif:2
+  label: Life as a single breath between nonexistences
+  taxonomy_refs:
+  - wisdom
+  basis: Life is explicitly described as standing on the verge of one breath and as
+    existence between two nonentities.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents a philosophical
+    image, not a journey or rebirth narrative.
+- id: motif:3
+  label: Sacred practice exchanged for worldly gain
+  taxonomy_refs:
+  - sacred_exchange
+  - wisdom
+  basis: The passage condemns those who trade religious practice for worldly pelf
+    and reinforces the point with the sale of Joseph.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The exchange is moral and metaphorical; the passage does not narrate a
+    ritual transaction.
+- id: motif:4
+  label: Broken covenant through service to the enemy
+  taxonomy_refs:
+  - covenant
+  basis: The quoted covenant forbids serving Satan, and the passage says people broke
+    faith with a friend by taking a foe's advice.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The friend is not explicitly identified in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage uses the sale of Joseph as a comparison for an unprofitable
+    moral bargain: trading religious practice for worldly gain.'
+  claim_level: same_function
+  target: Joseph sale narrative as an example of a bad bargain
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage only alludes to Joseph's sale and does not recount the
+    larger Joseph narrative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4253-4257 / section XXXIII
+  quote_or_summary: Whoever does not do good when able will suffer hardship when unable;
+    the misanthrope has no friend in adversity.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source metadata supplied; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 4259-4261 / section XXXIV
+  quote_or_summary: '"Life stands on the verge of a single breath" and is described
+    as existence between two nonentities.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source metadata supplied; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 4261-4264 / section XXXIV
+  quote_or_summary: Those who trade their religious practice for worldly pelf are
+    condemned; the passage asks what was gained by selling Joseph.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source metadata supplied; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 4264-4270 / section XXXIV
+  quote_or_summary: A covenant speech warns the sons of Adam not to serve Satan, their
+    avowed enemy; the passage says they followed a foe, broke faith with a friend,
+    and separated from one to unite with the other.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source metadata supplied; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are broad because the
+    passage is aphoristic and allusive rather than a full mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. No external identification of quoted sources was added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l4253-l4271
+  passage_sha256=4a23d552388b7f7a24eafdbaa5ed209e8e568eb209fb05d52465f6aa088b12bd
+

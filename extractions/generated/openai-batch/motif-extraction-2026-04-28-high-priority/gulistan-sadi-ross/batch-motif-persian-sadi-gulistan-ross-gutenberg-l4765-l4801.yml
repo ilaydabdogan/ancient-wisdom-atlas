@@ -1,0 +1,465 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l4765-l4801
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: LXXXIX / XCIII / XCVIII / CVIII; lines 4765-4801
+  start: '4765'
+  end: '4801'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A sequence of moral aphorisms: the sky gives rain and earth returns dust;
+    God conceals faults that neighbors would condemn; misers die without enjoying
+    their gold; those who oppress the weak may be oppressed by the strong; and a wise
+    person navigates opposition and rests in safety.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The sky is described as enriching the earth with rain, while the earth gives
+    dust in return.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'An Arab saying is cited: vessels give what they contain.'
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker advises that another person's improper character should not cause
+    the listener to abandon good character.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Most High God is said to discern and hide what is improper.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A neighbor is described as not seeing what is hidden yet loudly clamoring.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Gold is described as obtained from the mine by digging into the earth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Gold is described as obtained from a miser by taking away his life.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Misers are described as not spending, but guarding wealth anxiously.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: After the miser's death, the gold remains while the miser is dead and has
+    not enjoyed his hope.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: Those who deal harshly with the weak are said to suffer extortion from the
+    strong.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The speaker warns not to afflict the hearts of the feeble, lest one fall under
+    the lash of the strong.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: A wise man works through opposition and drops anchor where he finds quiet.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: sky
+  description: The sky enriches the earth with rain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: earth
+  description: The earth receives rain and gives dust in return.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Arabs
+  description: A group cited as the source of a proverb about vessels giving what
+    they have.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Most High God
+  description: God discerns and hides what is improper.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: neighbor
+  description: The neighbor does not see what is hidden and loudly clamors.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: miser
+  description: The miser does not spend, watches over gold anxiously, and dies without
+    enjoying the hoped-for wealth.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: weak or feeble person
+  description: The weak are vulnerable to harsh treatment and affliction.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: strong person
+  description: The strong may extort those who deal harshly with the weak.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: wise man
+  description: The wise man works through opposition and anchors in quiet.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: giver of rain
+  assigned_to:
+  - fig:1
+  basis: The sky enriches the earth with rain.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: return-giver of dust
+  assigned_to:
+  - fig:2
+  basis: The earth gives dust in return to the sky.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: proverbial authority
+  assigned_to:
+  - fig:3
+  basis: The passage introduces a saying as one used by the Arabs.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: discerner and concealer of faults
+  assigned_to:
+  - fig:4
+  basis: God is said to discern and hide impropriety.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: clamorous observer
+  assigned_to:
+  - fig:5
+  basis: The neighbor does not see the hidden matter but is loud in clamor.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: hoarder of gold
+  assigned_to:
+  - fig:6
+  basis: Misers do not spend and guard wealth anxiously until death.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: vulnerable victim
+  assigned_to:
+  - fig:7
+  basis: The weak and feeble are described as targets of harsh dealing and affliction.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: strong avenger or extorter
+  assigned_to:
+  - fig:8
+  basis: The strong may extort those who deal harshly with the weak.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: prudent navigator
+  assigned_to:
+  - fig:9
+  basis: The wise man labors through opposition and drops anchor in quiet.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: rain
+  literal_form: rain from the sky enriching the earth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: dust
+  literal_form: dust given by the earth in return
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: vessels
+  literal_form: vessels that give what they have
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: hidden impropriety
+  literal_form: what is improper and hidden from human sight
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: gold
+  literal_form: gold from a mine or from the miser's grasp
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: mine in the earth
+  literal_form: mine from which gold is obtained by digging into the earth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: lash of the strong
+  literal_form: the lash under which the harsh dealer may fall
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: anchor
+  literal_form: anchor dropped by the wise man where there is quiet
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Reciprocal giving of sky and earth
+  summary: The sky gives rain to the earth, and the earth gives dust in return; the
+    passage links this to a proverb about vessels giving what they contain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Concealed faults and neighborly clamor
+  summary: God is said to discern and hide impropriety, while the neighbor does not
+    see hidden things and clamors loudly.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Miser and unused gold
+  summary: Gold is obtained by digging into the earth, and the miser's gold is obtained
+    by his death; the miser guards wealth but dies without enjoying it.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Weak oppressed and strong retaliating
+  summary: Those who deal harshly with the weak may suffer at the hands of the strong;
+    the passage warns against afflicting the feeble.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Wise anchoring in quiet
+  summary: A wise man works through opposition and anchors where there is quiet, where
+    safety and enjoyment are available.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: reciprocal exchange according to one's nature
+  taxonomy_refs:
+  - sacred_exchange
+  - wisdom
+  basis: The sky and earth exchange rain and dust, and the cited proverb states that
+    vessels give what they contain.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The exchange is presented as moral analogy rather than as a ritual or
+    mythic sacred exchange.
+- id: motif:2
+  label: hidden faults spared from human condemnation
+  taxonomy_refs:
+  - wisdom
+  basis: God conceals what is improper, and the passage says that if hidden matters
+    were known, no one would be safe from a neighbor's criticism.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage stresses moral reflection and divine concealment, not an explicit
+    narrative of judgment.
+- id: motif:3
+  label: hoarded wealth outliving the hoarder
+  taxonomy_refs:
+  - wisdom
+  basis: Misers guard gold and do not spend it; after death the gold remains while
+    they have not enjoyed it.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an aphoristic moral motif, not a developed mythic episode.
+- id: motif:4
+  label: oppressor of the weak overpowered by the strong
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that those who deal harshly with the weak will suffer
+    extortion from the strong.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The reversal is expressed as ethical instruction rather than as a narrated
+    event.
+- id: motif:5
+  label: wise adaptation to adversity and safety
+  taxonomy_refs:
+  - wisdom
+  basis: The wise man labors through opposition and anchors in quiet where safety
+    and enjoyment are found.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The nautical image is metaphorical within an aphorism.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links its moral of giving according to one's contents
+    with an Arab proverb about vessels giving what they have.
+  claim_level: linguistic_similarity
+  target: 'Arab proverb: vessels give what they contain'
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage provides only the translated proverb and does not identify
+    a specific Arabic source or broader transmission history.
+evidence:
+- id: ev:1
+  type: quote
+  locator: CVIII; lines 4765-4771
+  quote_or_summary: '"The sky enriches the earth with rain, and the earth gives it
+    dust in return"; the passage also cites the Arab saying, "What the vessels have,
+    that they give."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short quotation used for extraction.
+- id: ev:2
+  type: summary
+  locator: CIX; lines 4773-4777
+  quote_or_summary: God discerns and conceals impropriety; the neighbor does not see
+    hidden things yet clamors, and the passage warns that no one would be safe if
+    hidden matters were known.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: CX; lines 4779-4785
+  quote_or_summary: Gold comes from mines by digging, and from a miser by his death;
+    misers guard wealth anxiously, but after death the gold remains and they have
+    not enjoyed it.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: CXI; lines 4787-4792
+  quote_or_summary: Those who deal harshly with the weak will suffer from the strong;
+    the passage warns not to afflict the feeble lest one fall under the strong one's
+    lash.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: CXII; lines 4794-4801
+  quote_or_summary: A wise man works through opposition and drops anchor in quiet,
+    where there is safety and enjoyment.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is aphoristic and moral rather than narrative-mythic; motif assignments
+    are therefore broad and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to the provided lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l4765-l4801
+  passage_sha256=e710c5d163cd0c9b4959895e74199f120abc2d1d6ec635652082923f7ff761a7
+

@@ -1,0 +1,430 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l3762-l3844
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XVIII. / CHAPTER VI / CHAPTER VII / XVIII; lines 3762-3844
+  start: '3762'
+  end: '3844'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"poverty is my glory!"'
+  summary: A speaker and a dervish antagonist debate poverty, wealth, piety, lawful
+    enjoyment, temptation, crime, and arrogance. The first speaker argues that poverty
+    without knowledge can lead to sin and that wealth enables lawful pleasures and
+    charitable acts. The dervish replies by condemning the wealthy as proud, contemptuous,
+    and spiritually beggarly despite outward riches.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: 'The antagonist cites a saying attributed to the blessed prophet: poverty
+    is his glory.'
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator replies that the saying applies to people resigned to fate, not
+    to those who wear pious clothing to obtain charitable bread.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator says wealth is needed to clothe the naked and free prisoners
+    from jail.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator refers to the last day of account, future punishments, Paradise,
+    and provision allotted to the blessed.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The narrator describes hardship, appetite, and hunger as leading people into
+    dangerous enterprises and unlawful acts.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: The narrator uses animal and food images, including a dog mistaking a clod
+    for a bone, a greedy man mistaking a corpse-bier for a tray of food, and a hungry
+    dog not questioning the origin of meat.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:7
+  text: The narrator says the opulent possess lawful enjoyments and are thereby preserved
+    from illegal things.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:8
+  text: After the narrator finishes, the dervish drops forbearance, speaks sharply,
+    and accuses the wealthy of pride, contempt, and insolence.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The dervish states a maxim that a person inferior in humility but superior
+    in opulence is outwardly rich but inwardly a beggar.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Narrator or first speaker
+  description: The speaker who answers the antagonist and argues that poverty can
+    lead to crime or sin while wealth can support lawful enjoyment and charitable
+    acts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Dervish antagonist
+  description: The antagonist who cites the prophetic saying about poverty and later
+    condemns the wealthy as proud and contemptuous.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:3
+  name_or_label: Blessed prophet
+  description: Religious authority cited by the antagonist as declaring that poverty
+    is his glory.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Glorious and great God
+  description: Divine authority invoked by the narrator in connection with the Koran
+    and the blessed in Paradise.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: The poor or indigent
+  description: People described as vulnerable to hunger, want, crime, sin, and loss
+    of reputation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: The worldly opulent or wealthy
+  description: People described by the narrator as enjoying lawful provisions, but
+    by the dervish as proud, insolent, and contemptuous.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: Moral debater criticizing false mendicancy
+  assigned_to:
+  - fig:1
+  basis: The speaker rejects pious begging and argues that poverty can produce unlawful
+    conduct.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: Dervish opponent criticizing the rich
+  assigned_to:
+  - fig:2
+  basis: The dervish opposes the first speaker and condemns wealthy people for arrogance
+    and contempt.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: Religious authority invoked in argument
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The prophet is cited for a saying on poverty, and God is cited through reference
+    to the Koran and Paradise.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: Tempted by want
+  assigned_to:
+  - fig:5
+  basis: The passage repeatedly describes hunger, hardship, and poverty as leading
+    toward theft, sin, or infamy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: Possessor of wealth under dispute
+  assigned_to:
+  - fig:6
+  basis: The wealthy are praised by one speaker as protected by lawful enjoyment and
+    condemned by the dervish as arrogant.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: Garb of piety
+  literal_form: Religious clothing worn to gain charitable bread
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Rosary of a thousand beads
+  literal_form: A rosary repeatedly counted by a poor man without divine knowledge
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Last day of account
+  literal_form: Final accounting invoked as a future judgment
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Thirst-dream fountain
+  literal_form: The thirsty dream that the face of the earth is wholly a fountain
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Hunger animal images
+  literal_form: Dog, bone, corpse-bier, tray of food, and meat images used for appetite
+    and hunger
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:6
+  label: Sabre of the tongue and steed of eloquence
+  literal_form: The dervish’s speech is described through weapon and riding imagery
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: Dates in both hands
+  literal_form: A proverb about one who has dates in both hands not throwing stones
+    at date clusters on trees
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Prophetic saying disputed
+  summary: The dervish cites a prophetic saying that poverty is glorious, and the
+    narrator replies that the saying concerns resigned spiritual heroes rather than
+    performative beggars.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Argument that poverty leads to unlawful action
+  summary: The narrator argues that poverty, hunger, and appetite can lead people
+    to dangerous acts, theft, sexual sin, and loss of reputation.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Argument that wealth permits lawful provision
+  summary: The narrator says wealth can clothe the naked, free prisoners, and provide
+    lawful enjoyments that prevent desire for forbidden things.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: scene:4
+  label: Dervish’s counterattack on the wealthy
+  summary: The dervish responds angrily and characterizes the wealthy as arrogant
+    people who insult the learned and poor and are inwardly beggars despite outward
+    wealth.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Moral debate on poverty and wealth
+  taxonomy_refs:
+  - wisdom
+  basis: The passage is structured as a dispute using sayings, maxims, examples, and
+    counterarguments about poverty, wealth, piety, and moral conduct.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The motif is ethical and didactic rather than narrative-mythic.
+- id: motif:2
+  label: Poverty as trial leading to sin
+  taxonomy_refs:
+  - wisdom
+  basis: The first speaker repeatedly links hunger, want, and indigence with theft,
+    forbidden acts, loss of chastity, and infamy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is the first speaker’s argument, not an uncontested claim of the
+    passage.
+- id: motif:3
+  label: Outward wealth versus inward beggary
+  taxonomy_refs:
+  - wisdom
+  basis: The dervish states that someone rich in appearance but lacking humility is
+    in reality a beggar.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This motif appears in the dervish’s rebuttal only.
+- id: motif:4
+  label: Final account and future punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The narrator invokes the last day of account, future punishments, Paradise,
+    and divine provision as part of the moral argument.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage uses eschatological references rhetorically and does not narrate
+    an afterlife judgment scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3762-3773
+  quote_or_summary: The antagonist cites the prophet’s statement that poverty is his
+    glory; the narrator says this applies to resigned spiritual heroes, not to those
+    wearing pious garb for charity, and mentions the last day of account and a rosary
+    of a thousand beads.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 3773-3785
+  quote_or_summary: The narrator says poverty without divine knowledge may approach
+    infidelity, wealth is needed to clothe the naked and free prisoners, and God announces
+    provision for the blessed in Paradise; the thirsty dream of the earth as a fountain.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 3785-3798
+  quote_or_summary: The narrator says hardship and appetite lead people into dangerous
+    enterprises and disregard for lawful and forbidden things, using images of a dog
+    mistaking a clod for a bone and a greedy man mistaking a corpse-bier for food.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 3798-3813
+  quote_or_summary: The narrator lists felons, jailed bankrupts, theft, wall-undermining,
+    house-breaking, and lust as consequences connected with poverty and want.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 3813-3830
+  quote_or_summary: The narrator describes the opulent as having lawful pleasures
+    and uses images of beautiful women, houris, dates, hungry people stealing bread,
+    and a ravenous dog taking meat without questioning its source.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 3830-3844
+  quote_or_summary: The dervish responds angrily with martial and riding metaphors
+    for speech, then condemns the wealthy as proud, contemptuous, and insolent; he
+    cites a maxim that such a wealthy person is inwardly a beggar.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The ethical debate, figures, and imagery are explicit. Motif labels are interpretive
+    and should be reviewed because the passage is didactic prose rather than a mythic
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No external comparisons were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l3762-l3844
+  passage_sha256=b4b07f25f76a3d68bef4d6314124e999ee9144eab473a5cf664f1a81f4279ce5
+

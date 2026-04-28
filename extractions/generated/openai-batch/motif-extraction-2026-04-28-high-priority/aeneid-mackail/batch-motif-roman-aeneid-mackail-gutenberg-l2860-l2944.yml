@@ -1,0 +1,602 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l2860-l2944
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK FOURTH / THE LOVE OF DIDO, AND HER END / BOOK FIFTH / THE GAMES OF THE
+    FLEET; lines 2860-2944
+  start: '2860'
+  end: '2944'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Aeneas sets a leafy ilex marker on an offshore rock as the turning goal
+    for a ship race. The crews launch at a trumpet signal. Gyas initially leads but
+    loses advantage when his steersman Menoetes avoids the rocks; Gyas throws Menoetes
+    overboard and takes the helm. Cloanthus gains by taking the inside course. Sergestus
+    and Mnestheus pursue; Mnestheus exhorts his crew, Sergestus crashes on a reef,
+    and Mnestheus overtakes other racers while pressing hard after Cloanthus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An offshore rock near a foaming beach is described as beaten by winter waves
+    and calm-water haunt of cormorants.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Aeneas sets up a leafy ilex goal on the rock to mark where the sailors must
+    turn back.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Captains and crews prepare for the race, with captains in gold and purple
+    and crews crowned with poplar sprays and oiled shoulders.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: At the trumpet signal, the ships leap forward together and the sea is churned
+    by oars and triple-pointed prows.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Gyas leads first, followed by Cloanthus; the Dragon and the Centaur race closely
+    behind.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Gyas orders Menoetes to steer close to shore and the reefs, but Menoetes turns
+    toward open water out of fear of hidden rocks.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Cloanthus passes between Gyas' ship and the crags, rounds the goal, and reaches
+    safe water.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Gyas throws Menoetes from the stern into the sea, takes the helm himself,
+    and turns shoreward.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Menoetes climbs onto a dry rock after falling into the sea, and the Teucrians
+    laugh at him.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Mnestheus urges his oarsmen, reminding them of earlier hardships and asking
+    them at least to avoid the shame of last place.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Sergestus drives too close to the rocks, catches on a reef, breaks oars, and
+    stalls while sailors use poles and boathooks.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: Mnestheus and the Dragon advance quickly, leave Sergestus behind, catch Gyas'
+    Chimaera, and press after Cloanthus near the goal.
+  category: sequence
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Aeneas
+  description: Lord Aeneas establishes the turning mark for the sailors' race.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Gyas
+  description: A ship captain who leads early, commands Menoetes, throws him overboard,
+    and takes the helm.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Menoetes
+  description: Gyas' steersman, who avoids the rocks, is thrown into the sea, and
+    climbs onto a dry rock.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: Cloanthus
+  description: A competitor who follows Gyas, passes by taking a nearer inner course,
+    and is later pursued by Mnestheus.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:12
+- id: fig:5
+  name_or_label: Sergestus
+  description: A competitor who tries to gain near the rock but crashes on a reef
+    and is left behind.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+- id: fig:6
+  name_or_label: Mnestheus
+  description: A competitor who exhorts his crew, benefits from Sergestus' accident,
+    and pursues Cloanthus.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:10
+  - ev:12
+- id: fig:7
+  name_or_label: Sailors and crews
+  description: Oarsmen and crews who prepare, row, respond to exhortation, and handle
+    damaged gear.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:10
+  - ev:11
+- id: fig:8
+  name_or_label: Teucrians and spectators
+  description: Onlookers who laugh at Menoetes and cheer the racers.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+  - ev:12
+- id: fig:9
+  name_or_label: Dragon
+  description: A named racing ship associated with Mnestheus and described as cleaving
+    the sea swiftly.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:12
+- id: fig:10
+  name_or_label: Centaur
+  description: A named racing ship competing closely with the Dragon early in the
+    race.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:11
+  name_or_label: Chimaera
+  description: A large racing ship associated with Gyas, later slowed without her
+    steersman.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:12
+roles:
+- id: role:1
+  label: race organizer
+  assigned_to:
+  - fig:1
+  basis: Aeneas sets the goal marker for the sailors' return point.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: racing captain or competitor
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: These named figures are described as leading, following, pursuing, or being
+    left behind in the ship race.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:10
+  - ev:12
+- id: role:3
+  label: steersman
+  assigned_to:
+  - fig:3
+  basis: Menoetes is explicitly called the ship's steersman and directs the bow away
+    from rocks.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: angry commander
+  assigned_to:
+  - fig:2
+  basis: Gyas reacts to losing position by throwing Menoetes from the stern and taking
+    the helm.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: exhorting leader
+  assigned_to:
+  - fig:6
+  basis: Mnestheus addresses his oarsmen and urges them to avoid last place.
+  evidence_refs:
+  - ev:10
+- id: role:6
+  label: oarsmen and ship crew
+  assigned_to:
+  - fig:7
+  basis: The passage describes the crews rowing, straining, and managing damaged oars
+    and equipment.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:10
+  - ev:11
+- id: role:7
+  label: spectators
+  assigned_to:
+  - fig:8
+  basis: The Teucrians laugh at Menoetes, and crowds cheer the pursuers.
+  evidence_refs:
+  - ev:9
+  - ev:12
+- id: role:8
+  label: named racing vessel
+  assigned_to:
+  - fig:9
+  - fig:10
+  - fig:11
+  basis: The Dragon, Centaur, and Chimaera are named ships in the race.
+  evidence_refs:
+  - ev:5
+  - ev:12
+symbols:
+- id: sym:1
+  label: offshore rock as turning point
+  literal_form: rock near the foaming beach used as the race goal
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:11
+- id: sym:2
+  label: sea race course
+  literal_form: sea, beach, open water, channels, salt water-ways
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:12
+- id: sym:3
+  label: leafy ilex marker
+  literal_form: goal of leafy ilex set on the rock
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: oars and prows
+  literal_form: oars, triple-pointed prows, broken oars, poles, and boathooks
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:11
+- id: sym:5
+  label: animal and monster ship names
+  literal_form: Dragon, Centaur, Chimaera
+  associated_figures:
+  - fig:9
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:12
+scenes:
+- id: scene:1
+  label: Race course is established
+  summary: Aeneas places a leafy ilex marker on an offshore rock to define the point
+    where ships must turn back.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Crews launch at the trumpet
+  summary: The captains and oarsmen prepare, then start together at the trumpet signal
+    while spectators' cheers echo from beach and hills.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Early leaders approach the goal
+  summary: Gyas leads, Cloanthus follows, and the Dragon and Centaur alternate in
+    close competition as the fleet nears the rock.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Gyas loses the inside course
+  summary: Gyas orders Menoetes close to shore, but Menoetes avoids the rocks; Cloanthus
+    passes inside and safely rounds the goal.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Menoetes is thrown overboard
+  summary: Angered by the lost position, Gyas throws Menoetes into the sea, takes
+    the helm, and Menoetes later climbs onto a rock while the Teucrians laugh.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Mnestheus exhorts his crew
+  summary: Mnestheus calls on his oarsmen's former courage and asks them to avoid
+    the shame of finishing last.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:10
+- id: scene:7
+  label: Sergestus wrecks and Mnestheus advances
+  summary: Sergestus catches his ship on a reef and breaks oars; Mnestheus takes advantage,
+    speeds onward in the Dragon, passes Gyas' Chimaera, and presses Cloanthus.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:9
+  - fig:11
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: maritime race around a fixed turning mark
+  taxonomy_refs: []
+  basis: The passage centers on ships racing from a starting signal around a marked
+    offshore rock and back through the sea course.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a literal athletic or commemorative contest in the passage; no
+    broader mythic interpretation is required by the text.
+- id: motif:2
+  label: risky inside passage wins advantage
+  taxonomy_refs: []
+  basis: Cloanthus gains on Gyas by passing between Gyas' ship and the crags after
+    Menoetes steers wider into open water.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage presents this as race tactics rather than an explicitly sacred
+    or initiatory crossing.
+- id: motif:3
+  label: punishment of the cautious guide
+  taxonomy_refs: []
+  basis: Gyas throws the cautious steersman Menoetes into the sea after the decision
+    to avoid hidden rocks costs him the lead.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The label abstracts a narrative pattern from one incident; the passage
+    does not state a moral judgment beyond Gyas' anger and the spectators' laughter.
+- id: motif:4
+  label: exhortation to comrades before renewed effort
+  taxonomy_refs: []
+  basis: Mnestheus urges his oarsmen by invoking their past hardships and asking them
+    to avert the shame of last place.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: This is a heroic speech within a race, not a battle scene in this passage.
+- id: motif:5
+  label: contestant disabled by rocks during a race
+  taxonomy_refs: []
+  basis: Sergestus drives too close to the rocks, catches on a reef, breaks oars,
+    and is left behind while others advance.
+  evidence_refs:
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: The incident is tied to the literal race course and should not be read
+    as divine punishment without additional evidence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2860-2864
+  quote_or_summary: An offshore rock by the foaming beach is beaten by winter waves,
+    rises from calm water, and is a haunt of cormorants.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2864-2867
+  quote_or_summary: Aeneas sets up a leafy ilex goal on the rock as the sailors' marker
+    for where to return and wheel around.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2867-2873
+  quote_or_summary: Captains are chosen by lot and glitter in gold and purple; crews
+    wear poplar sprays, oil their shoulders, sit at the thwarts, and await the signal.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2873-2881
+  quote_or_summary: At the trumpet, the ships surge forward; shouts rise, channels
+    foam, and the sea is torn by oars and triple-pointed prows.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2881-2892
+  quote_or_summary: Gyas goes first, Cloanthus follows, and the Dragon and Centaur
+    contend closely as their keels drive furrows through the salt water.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 2892-2901
+  quote_or_summary: Near the goal, Gyas tells Menoetes to steer close to shore and
+    the leftward reefs; Menoetes fears hidden rocks and turns toward open sea.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 2901-2907
+  quote_or_summary: Cloanthus passes inside between Gyas' ship and the crags, leaves
+    the goal behind, and reaches safe water.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 2907-2913
+  quote_or_summary: Gyas, burning with grief, throws Menoetes from the high stern
+    into the sea, takes over the helm, cheers his men, and turns toward shore.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 2913-2919
+  quote_or_summary: Menoetes rises from the water, wet and aged, climbs to the top
+    of the crag, and the Teucrians laugh as he spits out salt water.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 2919-2933
+  quote_or_summary: Mnestheus encourages his comrades, recalling Troy's extremity
+    and other sea hardships, and asks them to avoid the shame of last place rather
+    than demanding first place.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 2933-2940
+  quote_or_summary: Sergestus drives too near the rocks, catches on an outlying reef,
+    shatters oars, and his sailors use poles and boathooks while retrieving broken
+    oars.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: 2940-2944
+  quote_or_summary: Mnestheus and the Dragon speed onward, leave Sergestus behind,
+    catch Gyas' Chimaera, and pursue Cloanthus as the crowd cheers.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative sequence and named figures are explicit in the passage. Motif
+    labels are descriptive abstractions and not tied to external taxonomy IDs. No
+    comparison claims were made because the passage itself does not support cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction limited to the supplied passage and metadata; the passage ends mid-sentence, so the final race outcome is not included.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l2860-l2944
+  passage_sha256=5b303ede7f24eb178abdae9da2c009f2951a62f2f73881d2d7c1947142069e85
+

@@ -1,0 +1,373 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l1998-l2018
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXVIII / XXXIII / XXXIV / XXXVI; lines 1998-2018
+  start: '1998'
+  end: '2018'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A fatigued and hungry dervish arrives at the house of a hospitable man
+    during a gathering of learned and witty guests. Asked to contribute something,
+    the dervish recites a brief distich about hunger before a spread table. The company
+    applauds and orders food for him. When the host asks him to wait for prepared
+    forced meat, the dervish says plain bread is enough for someone baked by desert
+    travel.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A dervish comes to stay at a house whose master is described as hospitable.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The house contains an assembly of learned and witty guests who are repeating
+    jests or anecdotes.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The dervish has travelled across a desert and is very fatigued and nearly
+    famished.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One member of the company asks the dervish to repeat something.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The dervish says he is not overstocked with learning or wit, is not much read
+    in books, and offers to recite one distich.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The dervish's distich compares his hungry position beside a spread table with
+    a bachelor at the entrance of a bath full of women.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The company applauds the dervish and orders the tray to be placed before him.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The host asks the dervish to restrain his appetite while handmaids prepare
+    forced meat.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The dervish replies that forced meat is unnecessary and that plain bread is
+    sufficient for one baked in the desert.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: dervish
+  description: A travelling dervish who arrives fatigued and hungry after crossing
+    a desert, recites a distich, and asks for plain bread rather than prepared meat.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:2
+  name_or_label: master of the house / lord of the feast
+  description: The hospitable householder who hosts the gathering and tells the dervish
+    to wait while food is prepared.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:3
+  name_or_label: learned and witty guests
+  description: An assembly of guests who tell jests or anecdotes, prompt the dervish
+    to speak, applaud him, and order a tray before him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: handmaids
+  description: Servants mentioned by the host as able to prepare forced meat for the
+    dervish.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: hungry traveller
+  assigned_to:
+  - fig:1
+  basis: The dervish has crossed a desert and is described as fatigued and nearly
+    famished.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: hospitable host
+  assigned_to:
+  - fig:2
+  basis: The master of the house is described as hospitable and provides for the guest.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:3
+  label: convivial audience
+  assigned_to:
+  - fig:3
+  basis: The guests exchange witty anecdotes, invite the dervish to speak, and applaud
+    him.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: role:4
+  label: plain-spoken wit
+  assigned_to:
+  - fig:1
+  basis: The dervish claims little learning or book knowledge but responds with a
+    pointed distich and a concise reply about bread.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+- id: role:5
+  label: food preparers
+  assigned_to:
+  - fig:4
+  basis: The host says his handmaids can prepare forced meat.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: desert hardship
+  literal_form: desert crossed by the dervish
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: sym:2
+  label: spread table and tray
+  literal_form: table spread with food; tray placed before the dervish
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: plain bread
+  literal_form: crust of plain bread
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:4
+  label: bath full of women image
+  literal_form: bachelor at the entrance of a bath full of women
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: forced meat
+  literal_form: prepared forced meat offered by the host
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Arrival at a hospitable house
+  summary: A dervish arrives at a hospitable man's house, where learned and witty
+    guests are assembled.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Prompted distich
+  summary: After desert travel has left him exhausted and hungry, the dervish is asked
+    to contribute to the conversation and recites a distich about hunger before food.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Food offered and plain bread requested
+  summary: The company applauds and places a tray before the dervish. The host proposes
+    a prepared dish, but the dervish says plain bread is enough after desert hardship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: hungry traveller received by a hospitable host
+  taxonomy_refs: []
+  basis: The passage centers on a famished dervish arriving after desert travel at
+    the home of a hospitable man and being given food.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is a social-hospitality pattern rather than a named mythic motif
+    in the supplied taxonomy.
+- id: motif:2
+  label: wit as practical wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The dervish disclaims learning and book knowledge but uses a brief distich
+    and direct reply to communicate his need and preference.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the passage presents worldly wit
+    more than esoteric or doctrinal wisdom.
+- id: motif:3
+  label: plain sustenance after hardship
+  taxonomy_refs: []
+  basis: After the host proposes a prepared meat dish, the dervish says a crust of
+    plain bread is sufficient because of his desert hardship.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage supports the pattern literally, but it does not explicitly
+    frame it as ascetic doctrine or a recurring mythic symbol.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1998-2001
+  quote_or_summary: A dervish comes to lodge where the master of the house is hospitable.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2001-2004
+  quote_or_summary: The host has learned and witty men as guests, and they are telling
+    jests or anecdotes.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2004-2005
+  quote_or_summary: The dervish has crossed a desert and is very fatigued and nearly
+    famished.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2005-2007
+  quote_or_summary: One of the company jokingly tells the dervish that he too must
+    repeat something.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2007-2010
+  quote_or_summary: The dervish says he lacks the others' learning and wit, is not
+    much read in books, and asks them to accept one distich.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 2010-2013
+  quote_or_summary: '"Hungry as I am, I sit by a table spread with food, like a bachelor
+    at the entrance of a bath full of women!"'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 2014-2015
+  quote_or_summary: The listeners applaud and order the tray to be placed before the
+    dervish.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 2015-2017
+  quote_or_summary: The lord of the feast tells him to restrain his appetite until
+    the handmaids can prepare forced meat.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 2017-2018
+  quote_or_summary: The dervish answers that forced meat is not needed; plain bread
+    is enough for someone baked in the desert.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive and should
+    be reviewed because the passage is an ethical anecdote rather than an explicit
+    mythic narrative. No comparison claims are made because the passage itself does
+    not support cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references were applied only where directly supportable; no symbol taxonomy IDs were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l1998-l2018
+  passage_sha256=7de9329df7d99d9f02e6633a9fb390fd174279895ea0c0d03e89d6ad77dda14d
+

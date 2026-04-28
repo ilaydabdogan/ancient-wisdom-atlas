@@ -1,0 +1,347 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l1965-l1995
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXVII / XXVIII / XXXIII / XXXIV; lines 1965-1995
+  start: '1965'
+  end: '1995'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: such as are recluses do not take money; and such as take money are not anchorites
+  summary: A king vows to distribute money to recluses if an important affair succeeds.
+    After the affair succeeds, he sends a favorite servant with a bag of coins, but
+    the servant returns saying he found no recluses because true recluses do not accept
+    money. The king acknowledges the force of the servant’s judgment. A learned man
+    then explains when consecrated bread or alms may be lawfully taken and when collection
+    for endowment is forbidden.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A king makes a vow to distribute a sum of money among recluses if an important
+    affair succeeds.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the affair succeeds, the king gives a bag of dinars to a favorite servant
+    to distribute among anchorites.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The servant searches for the whole day and returns the money bag to the king
+    in the evening.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The servant says that true recluses do not take money, and those who take
+    money are not anchorites.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The king says he knows four hundred recluses in the city and later tells his
+    courtiers that the servant has justice on his side.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A learned man is asked for his opinion about consecrated bread or almsgiving.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The learned man answers that receiving alms to compose the mind and promote
+    devotion is lawful, but collecting for an endowment is forbidden.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: king
+  description: A sovereign who has an important affair, makes an almsgiving vow, and
+    later judges the servant's reply before his courtiers.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: favorite servant
+  description: A discreet and considerate young man sent to distribute the king's
+    coins among anchorites; he returns the money and explains that true recluses do
+    not take money.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: recluses or anchorites
+  description: Religious persons named as the intended recipients of the king's gift;
+    the passage distinguishes those who accept money from true anchorites.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: courtiers
+  description: The king addresses them when commenting on the servant's judgment about
+    the recluses.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: profoundly-learned man
+  description: A learned man asked to judge consecrated bread or almsgiving; he gives
+    a conditional ruling.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: questioners
+  description: Unspecified people who ask the learned man his opinion.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: monks and holy men
+  description: Religious persons mentioned in the learned man's answer concerning
+    legitimate and illegitimate receipt of consecrated bread or alms.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: vow-making patron
+  assigned_to:
+  - fig:1
+  basis: The king promises a distribution to recluses if his affair prospers and later
+    provides money for the distribution.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: discerning messenger
+  assigned_to:
+  - fig:2
+  basis: The servant is sent to distribute coins but returns them after judging that
+    true recluses would not take money.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: ascetic recipient or non-recipient
+  assigned_to:
+  - fig:3
+  - fig:7
+  basis: Recluses, anchorites, monks, and holy men are discussed as persons whose
+    acceptance or refusal of money or bread defines their religious conduct.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:4
+  label: judge of the servant's claim
+  assigned_to:
+  - fig:1
+  basis: The king smiles and says the servant has justice on his side.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: religious-ethical authority
+  assigned_to:
+  - fig:5
+  basis: The learned man gives a ruling on when consecrated bread or alms may be taken.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: almsgiving coins
+  literal_form: bag of dinars; dirams and dinars
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: consecrated bread or alms
+  literal_form: consecrated bread; almstaking
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: religious retirement
+  literal_form: religious retirement of good and holy men
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: The king's vow and the servant's return
+  summary: A king vows money to recluses after success in an important affair. When
+    the affair succeeds, a servant is sent with a bag of coins, but returns it, saying
+    true recluses do not take money.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: The learned ruling on alms
+  summary: A learned man is asked about consecrated bread or almsgiving and answers
+    that it is lawful when it supports composure and devotion, but forbidden when
+    collected for endowment.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: discernment of genuine asceticism
+  taxonomy_refs:
+  - wisdom
+  basis: The servant distinguishes true recluses from those who accept money, and
+    the king acknowledges that the servant's judgment is just.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an ethical-wisdom motif rather than a mythic narrative motif in
+    a narrow sense.
+- id: motif:2
+  label: conditional sacred exchange through vow and almsgiving
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The king makes a vow to give wealth to religious recluses if his affair succeeds,
+    and the later discussion evaluates legitimate and illegitimate receipt of alms.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  confidence: medium
+  cautions: The passage treats the exchange satirically and ethically; it does not
+    present a direct divine transaction.
+- id: motif:3
+  label: renunciation tested by material gifts
+  taxonomy_refs:
+  - wisdom
+  basis: The proposed recipients' status as true recluses is tested by whether they
+    will accept money or seek material support.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The test is inferred from the servant's reasoning and the learned man's
+    ruling, not staged as a formal ordeal.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1965-1970
+  quote_or_summary: The king has an important affair and says that if it prospers
+    he will distribute a certain sum in dirams among recluses.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short summary.
+- id: ev:2
+  type: summary
+  locator: lines 1970-1974
+  quote_or_summary: After the affair is accomplished, the king gives a bag of dinars
+    to a favorite servant to distribute among anchorites.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short summary.
+- id: ev:3
+  type: summary
+  locator: lines 1974-1977
+  quote_or_summary: The servant wanders all day, returns in the evening, kisses the
+    money bag, and lays it before the king, saying he found no recluses.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short summary.
+- id: ev:4
+  type: quote
+  locator: lines 1977-1981
+  quote_or_summary: '"such as are recluses do not take money; and such as take money
+    are not anchorites!"'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:5
+  type: summary
+  locator: lines 1978-1987
+  quote_or_summary: The king says he knows four hundred recluses in the city, then
+    tells his courtiers that although the servant seems spiteful toward God's worshippers,
+    he has justice on his side.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short summary.
+- id: ev:6
+  type: summary
+  locator: lines 1988-1991
+  quote_or_summary: A profoundly learned man is asked his opinion of consecrated bread
+    or almsgiving.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short summary.
+- id: ev:7
+  type: summary
+  locator: lines 1991-1995
+  quote_or_summary: The learned man says taking it to compose the mind and promote
+    devotion is lawful, but monks collecting for endowment is forbidden; holy men
+    receive such bread for religious retirement.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage clearly supports ethical and ascetic-renunciation patterns. No
+    explicit cross-text comparison is present, so comparison claims are omitted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Available taxonomy references were applied only where directly supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l1965-l1995
+  passage_sha256=4f706548b380ec5d2f5351b99aa42645dd2439d5678f630c773d1c01d76d7dd0
+

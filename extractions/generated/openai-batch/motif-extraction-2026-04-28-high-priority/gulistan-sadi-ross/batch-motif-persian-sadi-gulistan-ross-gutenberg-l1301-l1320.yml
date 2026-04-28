@@ -1,0 +1,309 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l1301-l1320
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXXIII / XXXIV / XXXVII / XXXVIII; lines 1301-1320
+  start: '1301'
+  end: '1320'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one anecdote, Nushirowan the Just refuses to rejoice at an enemy's death
+    because he too is mortal. In another, Abu-zarchamahr explains that ministers should
+    speak only when needed, as physicians prescribe only to the sick, but silence
+    would be blameworthy if a blind man were walking into a pit.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person tells Nushirowan that God has removed one of Nushirowan's enemies
+    from the world.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nushirowan responds that he has no reason to exult in a rival's death because
+    his own life will not last forever.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At the court of Kisra or Nushirowan, a cabinet council debates a state affair.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Abu-zarchamahr, seated as president, remains silent during the council discussion.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When asked why he does not join the discussion, Abu-zarchamahr compares ministers
+    to physicians who prescribe medicine only to the sick.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Abu-zarchamahr says it would be wrong to remain silent if he saw a blind man
+    walking into a pit.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Nushirowan the Just
+  description: Ruler addressed about the death of an enemy; also identified with Kisra
+    in the following court scene.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Unnamed announcer
+  description: Person who reports that God has removed Nushirowan's enemy from the
+    world.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Unnamed enemy or rival
+  description: A man described as Nushirowan's enemy or rival, said to have died.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Abu-zarchamahr
+  description: President of the cabinet council who remains silent and explains when
+    speech is appropriate.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Cabinet council members
+  description: Participants in a court debate who ask Abu-zarchamahr why he is silent.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Blind man
+  description: Hypothetical figure used by Abu-zarchamahr as someone walking into
+    a pit.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: just ruler
+  assigned_to:
+  - fig:1
+  basis: The passage names him Nushirowan the Just.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: speaker on mortality
+  assigned_to:
+  - fig:1
+  basis: He states that he should not rejoice at another's death because his own life
+    is temporary.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: announcer
+  assigned_to:
+  - fig:2
+  basis: This figure announces the death of Nushirowan's enemy.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: dead rival
+  assigned_to:
+  - fig:3
+  basis: The man is described as an enemy or rival whose death is reported.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: council president
+  assigned_to:
+  - fig:4
+  basis: Abu-zarchamahr is described as sitting as president at the cabinet council.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: prudent counselor
+  assigned_to:
+  - fig:4
+  basis: He explains that counsel should not be offered when existing opinions are
+    already judicious, but should be given to prevent harm.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: deliberating ministers
+  assigned_to:
+  - fig:5
+  basis: The council debates a state affair and questions Abu-zarchamahr's silence.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:8
+  label: hypothetical endangered person
+  assigned_to:
+  - fig:6
+  basis: The blind man is used as an example of someone walking into a pit and requiring
+    warning.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: medicine
+  literal_form: medicine prescribed by a physician
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: sick man
+  literal_form: sick man receiving medicine
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: blind man and pit
+  literal_form: a blind man walking into a pit
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Nushirowan refuses to rejoice at an enemy's death
+  summary: A report of an enemy's death is brought to Nushirowan, who answers that
+    another person's death gives him no cause for exultation because he also is mortal.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Abu-zarchamahr explains prudent silence in council
+  summary: During a cabinet debate, Abu-zarchamahr remains silent until asked why;
+    he says a minister should speak only when needed, like a physician treating sickness,
+    though silence would be blameworthy if someone were headed toward danger.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: wisdom in remembering mortality
+  taxonomy_refs:
+  - wisdom
+  basis: Nushirowan's reply treats the death of an enemy as a reminder that his own
+    life is finite rather than as an occasion for triumph.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The motif is ethical and proverbial rather than mythic narrative in a
+    strict sense.
+- id: motif:2
+  label: wise counselor speaks only when needed
+  taxonomy_refs:
+  - wisdom
+  basis: Abu-zarchamahr explains that ministers should not add speech when judgment
+    is already sound, but must warn when harm is imminent.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents a courtly wisdom anecdote; no broader mythological
+    comparison is explicitly supported.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1301-1306, section XXXVII
+  quote_or_summary: A person reports to Nushirowan the Just that God has removed from
+    the world a man who was Nushirowan's enemy.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1306-1309, section XXXVII
+  quote_or_summary: '"In the death of a rival I have no room for exultation, since
+    my life also is not to last forever."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 1311-1315, section XXXVIII
+  quote_or_summary: At the court of Kisra or Nushirowan, a cabinet council debates
+    a state affair while Abu-zarchamahr, seated as president, remains silent.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1315-1319, section XXXVIII
+  quote_or_summary: Asked why he does not join the discussion, Abu-zarchamahr says
+    ministers are like physicians, and a physician prescribes medicine only to a sick
+    man; if others' opinions are judicious, he need not obtrude a word.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 1319-1320, section XXXVIII
+  quote_or_summary: '"were I to see a blind man walking into a pit, I would be much
+    to blame if I remained silent."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are limited to wisdom
+    themes supported by the passage; no cross-tradition comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l1301-l1320
+  passage_sha256=9bfcd25706d9ac4edd5fc9f03fd18b16fe2729f112e297a0cf1003f08bff68fe
+

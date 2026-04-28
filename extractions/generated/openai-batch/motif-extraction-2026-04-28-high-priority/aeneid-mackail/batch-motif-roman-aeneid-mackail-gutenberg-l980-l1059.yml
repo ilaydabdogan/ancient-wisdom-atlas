@@ -1,0 +1,569 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l980-l1059
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK FIRST / THE COMING OF AENEAS TO CARTHAGE / BOOK SECOND / THE STORY OF
+    THE SACK OF TROY; lines 980-1059
+  start: '980'
+  end: '1059'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“two snakes in enormous coils press down the sea and advance together to
+    the shore”"
+  summary: Aeneas recounts Laocoön’s death by two serpents, the Trojans’ decision
+    to bring the wooden horse into Troy, the Greek warriors’ emergence from the horse
+    at night, and Hector’s dream-warning commanding Aeneas to flee with Troy’s holy
+    things and household gods toward a future city.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Laocoön, identified as a priest of Neptune, is sacrificing a bull at the altars
+    when two large snakes come from Tenedos over the sea toward the shore.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The snakes are described with enormous coils, blood-red crests, bloodshot
+    fiery eyes, hissing mouths, and flickering tongues.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The snakes first wrap and bite Laocoön’s two children, then seize Laocoön
+    as he comes to help them with weapons.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: After killing Laocoön and his children, the snakes go to the high sanctuary
+    and shelter beneath the goddess’s feet and shield.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Trojans say Laocoön deserved punishment for piercing the consecrated wood
+    with his spear, and they decide the image must be drawn into the city and supplication
+    made to the deity.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Trojans break open their walls, attach wheels and hempen bands to the
+    wooden engine, and draw it into the city while boys and unmarried girls chant
+    hymns and pull the rope.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The wooden horse stops four times at the gateway, and four times armor sounds
+    from inside it, but the Trojans continue to bring it into the citadel.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Cassandra speaks of the coming doom, but the Trojans do not believe her.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: At night, the Argive fleet sails from Tenedos; a flame is shown from the royal
+    galley, and Sinon releases the Greeks hidden within the pine horse.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Greek leaders emerge from the hollow horse by a rope, attack the sleeping
+    city, kill the watchmen, open the gates, and unite with their comrades.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: In sleep, Hector appears to Aeneas in a wounded and grief-stricken form, marked
+    by injuries from his death around Troy.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Hector tells Aeneas to flee the flames, says Troy has fallen, entrusts him
+    with Troy’s holy things and household gods, and commands him to seek a city after
+    sea-wanderings.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: Hector carries from the inner shrine the chaplets and strength of Vesta and
+    the everlasting fire.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Laocoön
+  description: Priest of Neptune who sacrifices a bull, attacks the wooden image with
+    a spear according to Trojan interpretation, and is killed by serpents with his
+    children.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Laocoön’s two children
+  description: Two little children seized and bitten by the serpents before Laocoön
+    is attacked.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Two snakes
+  description: Two enormous sea-coming serpents that attack Laocoön and his children,
+    then shelter under the goddess’s feet and shield.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Trojans / Teucrians
+  description: The community that interprets Laocoön’s death, brings the wooden horse
+    into the city, ignores Cassandra, sleeps, and is attacked.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Cassandra
+  description: A woman who opens her lips to the coming doom, but whose words are
+    never believed by the Trojans.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Sinon
+  description: The Greek agent who stealthily releases the imprisoned Greeks from
+    the wooden horse.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Argive / Greek warriors
+  description: The Greek force, including named captains, hidden in the horse and
+    attacking Troy at night.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Hector
+  description: The dead Trojan hero appearing to Aeneas in a dream, wounded and grieving,
+    and giving commands about flight and sacred objects.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Aeneas
+  description: The dreamer addressed as goddess-born and commanded to flee Troy, carry
+    its holy things, and seek a future city after sea-wanderings.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: The fierce Tritonian / goddess
+  description: The goddess at whose sanctuary, feet, and shield the serpents take
+    shelter, and whose deity the Trojans plan to supplicate.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: ritual priest
+  assigned_to:
+  - fig:1
+  basis: Laocoön is called the allotted priest of Neptune and is sacrificing a bull
+    at the accustomed altars.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: serpent victims
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The serpents wrap, bite, and kill the children and then seize Laocoön.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: serpentine attackers
+  assigned_to:
+  - fig:3
+  basis: The two snakes advance from the sea, attack Laocoön’s family, and then leave
+    for the goddess’s sanctuary.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: sanctuary deity
+  assigned_to:
+  - fig:10
+  basis: The serpents shelter beneath the goddess’s feet and shield, and the Trojans
+    call for supplication to her deity.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: deceived ritual community
+  assigned_to:
+  - fig:4
+  basis: The Trojans interpret the event as Laocoön’s deserved punishment and bring
+    the image into their city despite warnings and signs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: unbelieved prophet
+  assigned_to:
+  - fig:5
+  basis: Cassandra speaks of the coming doom, but the Trojans never believe her.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: stealthy releaser
+  assigned_to:
+  - fig:6
+  basis: Sinon stealthily lets the Greeks out of the pine barriers of the horse.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: hidden attackers
+  assigned_to:
+  - fig:7
+  basis: The Greek warriors emerge from the hollow wood, attack the sleeping city,
+    kill watchmen, and open the gates.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: dream messenger from the dead
+  assigned_to:
+  - fig:8
+  basis: Hector appears in Aeneas’s sleep, marked by wounds, and delivers a warning
+    and command.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: recipient of exile mission
+  assigned_to:
+  - fig:9
+  basis: Aeneas is told to flee, carry Troy’s holy things and household gods, and
+    seek a city after wandering over the seas.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: serpents
+  literal_form: Two enormous snakes with coils, crests, fiery eyes, and hissing mouths
+    emerging from the sea.
+  associated_figures:
+  - fig:3
+  - fig:1
+  - fig:2
+  - fig:10
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: sea passage
+  literal_form: The placid depths from Tenedos crossed by the snakes; later, the sea-route
+    of the Argive fleet and the future sea-wanderings of Aeneas.
+  associated_figures:
+  - fig:3
+  - fig:7
+  - fig:9
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: altar sacrifice
+  literal_form: A great bull being slain by Laocoön at the accustomed altars.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: wooden horse / fated engine
+  literal_form: A wooden image or engine with wheels, ropes, a neck, feet, and a hollow
+    interior containing armed Greeks.
+  associated_figures:
+  - fig:4
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: citadel and sanctuary
+  literal_form: The high sanctuary and citadel where the snakes take shelter and where
+    the wooden horse is planted.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:6
+  label: fire and flame
+  literal_form: Fiery serpent eyes, the signal flame from the royal galley, Troy’s
+    flames, and Vesta’s everlasting fire.
+  associated_figures:
+  - fig:3
+  - fig:6
+  - fig:8
+  - fig:9
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: holy things and household gods
+  literal_form: Troy’s holy things, household gods, Vesta’s chaplets, and the everlasting
+    fire carried from the inner shrine.
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Laocoön and the serpents
+  summary: While Laocoön sacrifices at the altar, two serpents come from the sea,
+    kill his children and him, and then retreat to the goddess’s sanctuary.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:10
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The horse drawn into Troy
+  summary: The Trojans interpret Laocoön’s fate as punishment, break their walls,
+    draw the wooden horse into the city with hymns, ignore ominous signs and Cassandra,
+    and place it in the citadel.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Night release of the Greeks
+  summary: At night the Argive fleet returns, a flame signals, Sinon opens the horse,
+    and Greek warriors emerge, attack the sleeping city, kill guards, and open the
+    gates.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Hector’s dream-warning to Aeneas
+  summary: Hector appears to Aeneas in sleep as a wounded dead hero and tells him
+    to flee Troy’s flames with the city’s holy things and household gods toward a
+    future city after sea-wanderings.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:2
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: serpents as deadly divine sign
+  taxonomy_refs:
+  - serpent
+  basis: Two extraordinary serpents come from the sea, kill Laocoön and his children,
+    and then take shelter at the goddess’s sanctuary, after which the Trojans interpret
+    the event religiously.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents Trojan interpretation of the event; it does not explicitly
+    state the serpents’ divine sender.
+- id: motif:2
+  label: perceived divine judgment after violation of sacred object
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Trojans say Laocoön deserved his fate for piercing consecrated wood with
+    a spear, and they respond by supplicating the deity and bringing the image into
+    the city.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The judgment is reported as what people say, not directly confirmed by
+    an omniscient statement in this excerpt.
+- id: motif:3
+  label: deceptive hollow image concealing enemies
+  taxonomy_refs: []
+  basis: The wooden horse is brought into the city as an image or engine, but it contains
+    armed Greeks who emerge at night and attack.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No exact supplied taxonomy reference matches this pattern without overextending
+    categories.
+- id: motif:4
+  label: unheeded prophecy before catastrophe
+  taxonomy_refs: []
+  basis: Cassandra speaks of the coming doom, but the Trojans do not believe her before
+    the Greeks emerge and sack the city.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives only a brief notice of Cassandra’s warning.
+- id: motif:5
+  label: hero commanded to depart from a doomed city
+  taxonomy_refs:
+  - departure
+  basis: Hector tells Aeneas to flee the flames because Troy is falling and to carry
+    the sacred objects toward a future city after sea-wanderings.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The excerpt gives the command and future aim, not the whole journey.
+- id: motif:6
+  label: foundation-bearing survivor with sacred objects
+  taxonomy_refs:
+  - culture_hero
+  basis: Aeneas receives Troy’s holy things and household gods and is told to seek
+    a city that he will establish after wandering over the seas.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The future foundation is stated prospectively; the passage does not show
+    the foundation itself.
+- id: motif:7
+  label: city-destroying fire and fall
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: Hector tells Aeneas to rescue himself from the flames and says Troy is toppling
+    down from its high ridges.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The destruction is of Troy rather than the entire world; the taxonomy
+    match is thematic and limited.
+- id: motif:8
+  label: ritual sacrifice interrupted by ominous attack
+  taxonomy_refs:
+  - sacrifice
+  basis: Laocoön is sacrificing a great bull at the altars when the serpents arrive
+    and attack his family.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The sacrifice is a literal ritual setting; the passage does not elaborate
+    a sacrificial theology around the bull.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 980-1003
+  quote_or_summary: Laocoön, priest of Neptune, sacrifices a bull; two enormous snakes
+    come from Tenedos over the sea, with fiery eyes and hissing mouths, and attack
+    his two children and then him.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 1004-1015
+  quote_or_summary: The snakes withdraw to the goddess’s sanctuary under her feet
+    and shield; the Trojans say Laocoön deserved punishment for piercing the consecrated
+    wood and call for the image to be brought home and the deity supplicated.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 1016-1033
+  quote_or_summary: The Trojans open the walls, attach wheels and ropes to the wooden
+    engine, draw it into the city with hymns, hear armor sound within it four times
+    at the gateway, ignore Cassandra’s warning, and prepare the city festively before
+    nightfall.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 1034-1046
+  quote_or_summary: At night the Argive fleet sails from Tenedos; a signal flame appears;
+    Sinon opens the pine horse; Greek leaders descend by rope, attack sleeping Troy,
+    kill the watchmen, open the gates, and unite their forces.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 1047-1059
+  quote_or_summary: Hector appears in Aeneas’s sleep, wounded and grieving, tells
+    him to flee Troy’s flames, entrusts him with Troy’s holy things and household
+    gods, and brings out Vesta’s chaplets and everlasting fire.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif assignments
+    are cautious and limited to available taxonomy references where directly supported.
+    No external comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used; no external identifications beyond names and labels present in the passage were introduced.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l980-l1059
+  passage_sha256=1f7981bb3623a714417c0689d213ee0ca84c8933e67b6eab2a0d3c64941d719c
+

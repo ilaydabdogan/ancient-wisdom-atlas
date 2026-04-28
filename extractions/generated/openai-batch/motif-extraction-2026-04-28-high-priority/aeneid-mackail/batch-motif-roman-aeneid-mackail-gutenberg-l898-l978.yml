@@ -1,0 +1,666 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l898-l978
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK FIRST / THE COMING OF AENEAS TO CARTHAGE / BOOK SECOND / THE STORY OF
+    THE SACK OF TROY; lines 898-978
+  start: '898'
+  end: '978'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Sinon tells the Trojans that storms and an oracle forced the Greeks to
+    seek a human sacrifice for their return; he claims he was chosen and escaped.
+    Priam releases him and asks about the wooden horse. Sinon swears by sacred fires
+    and altars, recounts the theft of the Palladium and ominous signs from the goddess's
+    image, and falsely explains the horse as an expiatory offering made too large
+    to enter Troy. The narrator states that Sinon’s tears, treachery, and perjury
+    deceived the Trojans.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Greeks are said to have been repeatedly prevented from leaving Troy by
+    sea-storms and winds.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An oracle of Phoebus is reported to require blood for the Greek return, including
+    an Argive life as sacrifice.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ulysses compels Calchas to explain the divine demand; after ten days of silence,
+    Calchas names Sinon for the altar.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Rites for Sinon are prepared with salted grain and chaplets, but Sinon breaks
+    his bonds and hides overnight in marsh sedge.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Sinon begs for pity and says he has no hope of seeing his home, children,
+    or father again.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Priam orders Sinon’s bonds removed, grants him protection among the Trojans,
+    and asks the purpose of the wooden horse.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Sinon lifts his freed hands to heaven and invokes everlasting fires, altars,
+    swords, and chaplets as witnesses.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Sinon claims that Greek success depended on Pallas's aid until Diomedes and
+    Ulysses stole the Palladium from its sanctuary.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: 'The stolen image is described as giving signs: flame from its eyes, sweat
+    over its body, and three leaps with shield and spear quivering.'
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Sinon says Calchas interpreted the omens as requiring the Greeks to return
+    to Argos and bring back the divine presence they had carried away.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Sinon explains the wooden horse as recompense for the Palladium and as expiation
+    for sacrilege against the goddess.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Sinon says the horse was built too large for Troy’s gates so that it could
+    not be brought inside and protect the Trojans.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: The narrator states that Sinon’s wiles, craft, perjury, treachery, and tears
+    caused the Trojans to believe him.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Sinon
+  description: A Greek who presents himself as an escaped intended sacrifice and suppliant,
+    but is identified by the narrator as acting through wiles, craft, and perjury.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:10
+- id: fig:2
+  name_or_label: Priam
+  description: Trojan king who orders Sinon's bonds removed, grants him protection,
+    and questions him about the horse.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: The Greeks / Argives
+  description: The Greek army seeking return from Troy and said to require sacrifice
+    and divine favor.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: Phoebus / Apollo
+  description: The god whose oracle is consulted and whose demand is reported as requiring
+    blood for return.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Eurypylus
+  description: Messenger sent to inquire of Phoebus's oracle.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Ulysses / the Ithacan
+  description: Greek figure said to drag Calchas forward, urge him to speak, and earlier
+    steal the Palladium with Diomedes.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:7
+  name_or_label: Calchas
+  description: Greek soothsayer who, according to Sinon, names Sinon as sacrifice
+    and later interprets the omens around the Palladium and horse.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:9
+- id: fig:8
+  name_or_label: Pallas / Minerva / Tritonian
+  description: The goddess whose aid is said to support Greece and whose sacred image
+    is stolen and offended.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:9
+  name_or_label: The son of Tydeus / Diomedes
+  description: Greek figure said to join Ulysses in stealing the Palladium and killing
+    sentries.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Trojans / Phrygian people
+  description: The people who pity Sinon, hear his explanation, and are said to be
+    deceived by his account.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:4
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: suppliant prisoner
+  assigned_to:
+  - fig:1
+  basis: Sinon begs for pity while bound and is released by Priam.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: intended sacrificial victim in his own account
+  assigned_to:
+  - fig:1
+  basis: Sinon says Calchas appointed him for the altar and that sacrificial rites
+    were prepared for him.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: deceptive narrator
+  assigned_to:
+  - fig:1
+  basis: The narrator explicitly attributes the Trojans' belief to Sinon's wiles,
+    craft, and perjury.
+  evidence_refs:
+  - ev:10
+- id: role:4
+  label: merciful royal questioner
+  assigned_to:
+  - fig:2
+  basis: Priam orders Sinon's release and asks what the horse is for.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: departing army seeking divine favor
+  assigned_to:
+  - fig:3
+  basis: The Greeks are described as trying to leave, consulting the oracle, and needing
+    sacrifice and divine presence.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:6
+  label: oracular deity
+  assigned_to:
+  - fig:4
+  basis: Phoebus's oracle is consulted and returns the reported demand for blood.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: oracle messenger
+  assigned_to:
+  - fig:5
+  basis: Eurypylus is sent to inquire of the oracle and brings back its words.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: instigator of accusation
+  assigned_to:
+  - fig:6
+  basis: The Ithacan drags Calchas forward and demands the gods' meaning.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: sacred thief
+  assigned_to:
+  - fig:6
+  - fig:9
+  basis: Ulysses and Diomedes are said to steal the Palladium from the sanctuary and
+    kill sentries.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: soothsayer and omen interpreter
+  assigned_to:
+  - fig:7
+  basis: Calchas names the sacrifice and interprets the omens concerning Greek return
+    and the horse.
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:9
+- id: role:11
+  label: offended divine patron
+  assigned_to:
+  - fig:8
+  basis: Greek hope is said to rest on Pallas, whose sacred image is stolen and whose
+    mind becomes estranged.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:12
+  label: deceived hearers
+  assigned_to:
+  - fig:10
+  basis: The Trojans grant Sinon pity and are later described as ensnared by treachery
+    and forced tears.
+  evidence_refs:
+  - ev:4
+  - ev:10
+symbols:
+- id: sym:1
+  label: wooden horse
+  literal_form: A vast horse framed with beams, described as an offering or possible
+    war-engine, built too large for the city gates.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: sym:2
+  label: blood sacrifice
+  literal_form: Blood of a slain maiden in the past and an Argive life demanded for
+    return; Sinon says he was appointed for the altar.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: sacrificial chaplets and salted grain
+  literal_form: Salted corn and chaplets prepared for the victim's temples; chaplets
+    also invoked by Sinon as victim's emblems.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: Palladium
+  literal_form: The fated holy image of Pallas stolen from her sanctuary and associated
+    with the goddess's divine presence.
+  associated_figures:
+  - fig:6
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:5
+  label: flaming eyes of the sacred image
+  literal_form: Flame shoots from the lifted eyes of the image after it is set in
+    the Greek camp.
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: everlasting fires
+  literal_form: Sacred fires invoked by Sinon as witnesses to his oath-like speech.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: sea-storm and return waters
+  literal_form: The fierce sea-tempest, gale, and seas that obstruct or must be crossed
+    for Greek return.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: sym:8
+  label: marshy pool
+  literal_form: The sedge of a marshy pool where Sinon says he hid through the night.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:9
+  label: sacred altars and swords
+  literal_form: Altars and accursed swords from which Sinon says he fled and which
+    he invokes as witnesses.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Oracle demands blood for Greek return
+  summary: The Greeks, blocked by storms from leaving Troy, send Eurypylus to Phoebus's
+    oracle, which is reported to demand an Argive life in sacrifice for their return.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sinon named and escapes sacrifice
+  summary: Ulysses compels Calchas to speak; Calchas names Sinon for the altar, but
+    Sinon breaks his bonds and hides in a marsh.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:8
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Priam releases and questions Sinon
+  summary: Moved by Sinon's tears, the Trojans spare him; Priam releases him and asks
+    the reason for the horse.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:10
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Sinon swears by sacred witnesses
+  summary: Sinon raises his freed hands and invokes fires, altars, swords, and chaplets
+    while claiming he may reveal Greek secrets if Troy keeps faith with him.
+  figure_refs:
+  - fig:1
+  - fig:10
+  symbol_refs:
+  - sym:3
+  - sym:6
+  - sym:9
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Theft of the Palladium and divine signs
+  summary: Sinon says Ulysses and Diomedes stole the Palladium, after which the goddess
+    gave signs through the image's flame, sweat, and movements.
+  figure_refs:
+  - fig:6
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: False explanation of the wooden horse
+  summary: Sinon says Calchas ordered the Greeks to restore divine favor and that
+    the horse was made as an expiatory offering, with consequences depending on whether
+    Troy violates or admits it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  - fig:8
+  - fig:10
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:7
+  label: Trojans deceived
+  summary: The narrator concludes that Sinon’s craft, perjury, and tears make the
+    Trojans believe the story.
+  figure_refs:
+  - fig:1
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: human sacrifice required for safe return
+  taxonomy_refs:
+  - sacrifice
+  basis: The oracle is reported to require blood and an Argive life for the Greeks'
+    return, and Sinon says he was selected for the altar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The sacrifice story is embedded in Sinon's deceptive speech; the passage
+    later identifies him as perjured.
+- id: motif:2
+  label: sacred theft causes loss of divine favor
+  taxonomy_refs:
+  - sacred_theft
+  - divine_judgment
+  basis: Sinon says Ulysses and Diomedes stole the Palladium, after which Greek hope
+    ebbed and the goddess became estranged, with ominous signs from the image.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The account is attributed to Sinon, whose speech is explicitly framed
+    as deceptive, though the motif is present in the reported story.
+- id: motif:3
+  label: deceptive suppliant gains trust through tears and sacred oaths
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Sinon appears as a bound suppliant, invokes sacred witnesses, and is said
+    by the narrator to deceive the Trojans by wiles, perjury, treachery, and forced
+    tears.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:10
+  confidence: high
+  cautions: The available taxonomy reference is broad; the passage supports deception
+    and boundary-crossing into Trojan trust rather than a fully developed trickster
+    cycle.
+- id: motif:4
+  label: protective sacred image withheld or restored
+  taxonomy_refs:
+  - divine_judgment
+  basis: Sinon claims Troy cannot fall unless the Greeks return to Argos and bring
+    back the divine presence carried away in ships, and that bringing the horse into
+    Troy would protect the city.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The motif is expressed within Sinon's false explanation and should be
+    reviewed against the larger narrative.
+- id: motif:5
+  label: ominous animated cult image
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Palladium is described as flaming, sweating, and leaping with shield
+    and spear after sacrilegious handling.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: No specific taxonomy item for animated statue or cult image is available;
+    divine_judgment is an approximate family reference.
+- id: motif:6
+  label: city-destroying stratagem disguised as sacred offering
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The wooden horse is presented to Priam as a religious recompense for sacrilege,
+    while the narrator states the Trojans were deceived by Sinon’s treachery.
+  evidence_refs:
+  - ev:4
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The selected taxonomy reference is approximate; the passage supports a
+    disguised offering and deception, not a reciprocal sacred exchange in a strict
+    sense.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 898-978; opening oracle episode
+  quote_or_summary: The Greeks are described as blocked by sea-tempests; Eurypylus
+    brings back Phoebus's oracle saying that as winds were appeased by a slain maiden,
+    return must be sought with blood and an Argive life.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 898-978; Sinon chosen for altar
+  quote_or_summary: The Ithacan forces Calchas to speak; after ten days Calchas names
+    Sinon for the altar, rites with salted corn and chaplets are prepared, and Sinon
+    says he breaks his bonds and hides in marsh sedge.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 898-978; Sinon's plea
+  quote_or_summary: Sinon pleads by heavenly powers and asks pity as an undeserving
+    sufferer, saying he has lost hope of seeing home, children, and father.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 898-978; Priam releases Sinon
+  quote_or_summary: The Trojans grant Sinon life and pity; Priam orders his bonds
+    removed, says he shall be one of the Trojans, and asks why the vast horse was
+    built and whether it is propitiation or a war-engine.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 898-978; Sinon's oath-like invocation
+  quote_or_summary: Sinon raises his freed hands and invokes everlasting fires, altars,
+    accursed swords, and victim's chaplets as witnesses while claiming he may break
+    Greek allegiance and reveal secrets.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 898-978; Palladium theft
+  quote_or_summary: Sinon says Greek hope centered in Pallas until Diomedes and Ulysses
+    stole the fated Palladium, killed sentries, grasped the holy image, and touched
+    the goddess's chaplets with bloody hands.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 898-978; signs from the image
+  quote_or_summary: The image is said to emit flame from its eyes, sweat over its
+    body, and leap three times from the ground with shield and spear quivering.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 898-978; Calchas interprets omens
+  quote_or_summary: Calchas is said to prophesy that Troy cannot be overthrown until
+    the Greeks return to Argos and bring back the divine presence they carried overseas.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 898-978; explanation of the horse
+  quote_or_summary: Sinon says the image of the horse was built as recompense for
+    the Palladium and expiation for sacrilege, made too large to enter the gates;
+    violating it would ruin Troy, while drawing it into the city would empower Asia
+    against Greece.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:10
+  type: quote
+  locator: lines 898-978; narrator's conclusion
+  quote_or_summary: "“So by Sinon's wiles and craft and perjury the thing gained belief;
+    and we were ensnared by treachery and forced tears.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the passage. Motif labels are cautious
+    because much of the reported ritual and divine explanation occurs within Sinon's
+    explicitly deceptive speech.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare these events to external traditions or motif families.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l898-l978
+  passage_sha256=ed0efae43c9fcba81c384ae54c31dbabf4d7bebba00c16b21ce71bb13a5680e3
+

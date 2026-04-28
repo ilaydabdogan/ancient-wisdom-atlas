@@ -1,0 +1,347 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l1223-l1244
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXIII / XXVII / XXVIII / XXXII; lines 1223-1244
+  start: '1223'
+  end: '1244'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An impostor claims noble descent, pilgrimage, and authorship of a poem,
+    receives royal favor, is exposed by courtiers, faces punishment, and then wins
+    the king’s amusement and reward by admitting that great travelers tell marvelous
+    tales.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man described as an impostor plaits his hair and claims to be a descendant
+    of Ali.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same man enters the city with a caravan from Hijaz and claims to have
+    come as a pilgrim from Mecca.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: He presents an elegy to the king and claims to have composed it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The king gives him money, respect, and flattering attention.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Courtiers challenge the man’s claims by citing his presence at Busrah, his
+    father’s Christian identity at Malatiyah, and the discovery of his verses in Anwari’s
+    divan.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The king orders the man beaten and driven away and asks why he told so many
+    falsehoods.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The impostor requests permission to speak once more and says that great travelers
+    deal mostly in the marvelous.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The king smiles, calls this the truest word the man has spoken, orders that
+    his expectations be gratified, and the man departs happy and content.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the impostor
+  description: A man who makes false claims of descent, pilgrimage, and authorship,
+    and later offers a witty self-justifying speech.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the king
+  description: The ruler who first rewards the impostor, then orders punishment after
+    the fraud is exposed, and finally rewards him after his final speech.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: the courtiers
+  description: Court figures who expose contradictions in the impostor’s claims and
+    identify the alleged poem as belonging to Anwari’s divan.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Ali
+  description: Named as the ancestor from whom the impostor falsely claims descent.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: Anwari
+  description: Named as the poet whose divan contains the verses claimed by the impostor.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: false claimant
+  assigned_to:
+  - fig:1
+  basis: The passage calls him an impostor and lists claims later shown false.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: royal judge and patron
+  assigned_to:
+  - fig:2
+  basis: The king gives money and honor, orders punishment, then grants a reward after
+    the man’s final speech.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:3
+  label: exposers of fraud
+  assigned_to:
+  - fig:3
+  basis: The courtiers provide evidence against the pilgrimage, lineage, and authorship
+    claims.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: witty speaker
+  assigned_to:
+  - fig:1
+  basis: The impostor’s final saying makes the king smile and changes the outcome.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: claimed lineage ancestor
+  assigned_to:
+  - fig:4
+  basis: Ali is invoked as the ancestor from whom the impostor claims descent.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:6
+  label: literary source of exposed plagiarism
+  assigned_to:
+  - fig:5
+  basis: The verses are discovered in Anwari’s divan.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: plaited hair
+  literal_form: plaited hair
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: pilgrim route and identity
+  literal_form: caravan from Hijaz and claim of pilgrimage from Mecca
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: borrowed elegy
+  literal_form: Casidah or elegy presented to the king
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: diluted junket image
+  literal_form: a cup of junket said to contain two measures of water and one spoonful
+    of buttermilk
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Fraudulent arrival and royal favor
+  summary: The impostor enters with a Hijaz caravan, claims descent from Ali, pilgrimage
+    from Mecca, and authorship of an elegy, and receives money and honor from the
+    king.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Exposure at court
+  summary: Courtiers dispute the impostor’s pilgrimage and lineage claims and identify
+    the poem as already present in Anwari’s divan.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Witty final speech and reversal
+  summary: Facing punishment, the impostor offers a final speech about travelers and
+    marvelous tales; the king smiles, calls it true, grants him satisfaction, and
+    lets him depart content.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: impostor gains access through false sacred and social credentials
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The impostor claims descent from Ali, pilgrimage from Mecca, and authorship
+    of a poem in order to receive royal favor.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents deception and social boundary-crossing, but does
+    not frame the impostor as a mythic trickster figure.
+- id: motif:2
+  label: fraud exposed by eyewitness and textual evidence
+  taxonomy_refs:
+  - wisdom
+  basis: Courtiers test the impostor’s statements against reported sightings, family
+    knowledge, and a known poetic divan.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The motif is ethical and didactic rather than explicitly mythological.
+- id: motif:3
+  label: clever speech averts punishment
+  taxonomy_refs:
+  - wisdom
+  basis: The impostor’s final maxim about travelers and marvels makes the king laugh,
+    changes the judgment, and results in reward rather than expulsion.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage supports a wisdom-tale pattern; broader comparative classification
+    would require external evidence not supplied here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1223-1229
+  quote_or_summary: The impostor plaits his hair, claims descent from Ali, enters
+    with a Hijaz caravan as a supposed Mecca pilgrim, and presents an elegy as his
+    own composition.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1229-1231
+  quote_or_summary: The king gives the man money, respect, and orders flattering attention
+    to be shown to him.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1231-1237
+  quote_or_summary: Courtiers report seeing the man at Busrah during the sacrifice
+    festival, recall his Christian father at Malatiyah, and discover the verses in
+    Anwari’s divan.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1237-1239
+  quote_or_summary: The king orders that the impostor be beaten and driven away, asking
+    how he could utter so many falsehoods.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 1239-1243
+  quote_or_summary: "“If thy slave spake idly be not offended, for great travellers
+    deal most in the marvellous!”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:6
+  type: summary
+  locator: line 1244
+  quote_or_summary: The king smiles, says the man has never spoken a truer word, orders
+    his expectations satisfied, and the man leaves happy and content.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are limited to didactic
+    deception and wisdom patterns evident in the passage. No comparison claims were
+    added because the supplied passage does not itself compare the episode to another
+    tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references are limited to available motif families and left off symbols where the literal object did not clearly function as a taxonomy symbol.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l1223-l1244
+  passage_sha256=0bbc6f7f1e7ee12a33e397f7b8caae534912cd8bf592637b3dee5eaa92de315c
+

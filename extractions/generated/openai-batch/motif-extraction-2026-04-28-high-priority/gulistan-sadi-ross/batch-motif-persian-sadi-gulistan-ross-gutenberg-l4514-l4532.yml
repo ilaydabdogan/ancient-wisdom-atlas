@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l4514-l4532
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XLVIII / LXIII / LXVII / LXXIV; lines 4514-4532
+  start: '4514'
+  end: '4532'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives two didactic counsels: do not ask a distressed dervish
+    about his condition during drought unless prepared to help him, and recognize
+    that reason rejects spending beyond providential allotment or dying before the
+    appointed time because destiny cannot be altered by lamentation.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker warns against asking a distressed dervish how he is during a season
+    of drought and scarcity unless one will also treat his wound and provide subsistence.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage compares the distressed case to an ass stuck in a slough with
+    its rider, saying one should compassionately help rather than merely approach.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If someone has already asked how the fall happened, the passage tells him
+    to prepare himself and take the ass by the tail.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The passage says two things are contrary to reason: spending more than Providence
+    has allotted and dying before the ordained time.'
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that destiny cannot be changed by many sighs and lamentations,
+    whether those utterances are grateful or complaining.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: An angel presiding over the store-house of the winds is described as showing
+    no compunction if he extinguishes an old woman's lamp.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: distressed dervish
+  description: A dervish in distress during drought and scarcity, with a wound and
+    need for subsistence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: addressed inquirer
+  description: The person addressed as one who might ask the dervish about his condition
+    or ask how the fall happened.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: ass stuck in the slough
+  description: An ass stuck in a slough with its rider.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: rider
+  description: The rider on the ass stuck in the slough.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Providence
+  description: The allotting power named in the statement about not expending beyond
+    what has been allotted.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: angel presiding over the store-house of the winds
+  description: An angel who controls or presides over the store-house of the winds
+    and may extinguish a lamp without compunction.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: old woman
+  description: The owner or user implied by the phrase 'the old woman's lamp.'
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: needy recipient
+  assigned_to:
+  - fig:1
+  basis: The dervish is distressed, wounded, and in need of subsistence.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: potential helper obligated by inquiry
+  assigned_to:
+  - fig:2
+  basis: The addressed person is told not to inquire unless willing to apply balm,
+    provide subsistence, and help pull the ass from the slough.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: imperiled traveler or burdened creature
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The ass and rider are stuck in a slough and need practical help.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: allotter of measure
+  assigned_to:
+  - fig:5
+  basis: Providence is named as the source of what has been allotted.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: agent of impersonal natural force
+  assigned_to:
+  - fig:6
+  basis: The angel presides over winds and extinguishes a lamp without compunction.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: vulnerable possessor
+  assigned_to:
+  - fig:7
+  basis: The old woman is associated with the lamp extinguished by the angel of the
+    winds.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: drought and scarcity
+  literal_form: season of drought and scarcity
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wound and balm
+  literal_form: wound treated with balm
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: ass in slough
+  literal_form: ass stuck in a slough with rider
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: appointed measure of life and provision
+  literal_form: Providence's allotment and ordained time
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: wind-extinguished lamp
+  literal_form: old woman's lamp extinguished by winds
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Inquiry must become aid
+  summary: During drought and scarcity, the passage instructs the hearer not to ask
+    a distressed dervish about his condition unless prepared to provide healing and
+    material support.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ass and rider in the slough
+  summary: The passage illustrates compassion by describing an ass stuck in mud with
+    its rider and telling the inquirer to help pull the ass out rather than merely
+    ask questions.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Limits of reason and destiny
+  summary: The passage states that spending beyond providential allotment and dying
+    before the ordained time are unreasonable, and that destiny cannot be altered
+    by lamentations.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Angel of the winds and the old woman's lamp
+  summary: An angel presiding over the winds is said to feel no compunction if he
+    extinguishes an old woman's lamp.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: compassion proved by practical aid
+  taxonomy_refs:
+  - wisdom
+  basis: The passage teaches that inquiry into suffering is improper unless accompanied
+    by healing, support, and active help.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an ethical-didactic motif rather than a narrative mythic episode.
+- id: motif:2
+  label: unalterable providential allotment
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says Providence allots provision, life has an ordained time,
+    and destiny cannot be altered by lamentation.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is aphoristic and does not narrate a divine judgment scene.
+- id: motif:3
+  label: impersonal celestial control of natural forces
+  taxonomy_refs: []
+  basis: The angel over the store-house of the winds can extinguish an old woman's
+    lamp without compunction.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The angelic image is brief and functions as an illustration of destiny
+    or impersonal necessity.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4514-4518
+  quote_or_summary: In drought and scarcity, one should not ask the distressed dervish
+    how he is unless prepared to apply balm to his wound and supply subsistence.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4518-4523
+  quote_or_summary: The passage describes an ass stuck in a slough with its rider
+    and says the hearer should compassionate them and help by taking the ass by the
+    tail.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4526-4528
+  quote_or_summary: 'Two things are called repugnant to reason: expending more than
+    Providence has allotted and dying before the ordained time.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4528-4530
+  quote_or_summary: The passage says destiny cannot be altered by a thousand sighs
+    and lamentations, whether in gratitude or complaint.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4530-4532
+  quote_or_summary: The angel presiding over the store-house of the winds is said
+    to feel no compunction when he extinguishes the old woman's lamp.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is didactic aphorism rather than extended mythic narrative. No comparison
+    claims were made because the passage itself does not support a specific cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to available terms and applied cautiously.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l4514-l4532
+  passage_sha256=a9571abf7c692ec7a10c4fbb827dacde7c56dbf1752cb1e474f820d18bcb7c8f
+

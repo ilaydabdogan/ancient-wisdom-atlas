@@ -1,0 +1,448 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l2499-l2538
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXXIX / XLVIII / CHAPTER III / XVIII; lines 2499-2538
+  start: '2499'
+  end: '2538'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage presents three moral anecdotes: a weak fisherman loses a strong
+    fish and attributes the loss to fortune and fate; a person without hands or feet
+    kills a millipede, prompting a holy man to remark that destiny can overtake even
+    one with many feet; and Sa''di answers a question about a richly dressed ignorant
+    man by contrasting outward finery with inner worth.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A weak fisherman catches a strong fish in his net but cannot master it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fish drags the net from the fisherman's hand and escapes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Other fishermen reproach the weak fisherman for failing to master the fish.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fisherman explains the event by saying it was not his day of fortune and
+    that the fish had another day left to live.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A person without hands or feet kills a millipede.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A good and holy man says that even with a thousand feet, the millipede could
+    not escape when destiny overtook it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage states that fate arrests the speed of the swift warrior when the
+    life-plundering foe comes behind.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Sa'di meets a richly dressed fat blockhead mounted on an Arab horse and wearing
+    a fine Egyptian linen turban.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A person asks Sa'di why garments of the learned appear on an ignorant beast.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Sa'di replies that the man is like a vile epistle written in golden letters
+    and compares him to an ass with the resemblance of a man.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The passage contrasts noble birth reduced to poverty with wealth or adornment
+    that does not ennoble another person.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: weak fisherman
+  description: A fisherman who catches a strong fish but lacks the power to master
+    it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: strong fish
+  description: A fish that escapes from the fisherman's net and carries the net away.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: other fishermen
+  description: Fishermen who express vexation and reproach the weak fisherman.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: person without hands or feet
+  description: A person lacking hands and feet who kills a millipede.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: millipede
+  description: A many-footed creature killed by a person without hands or feet.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: good and holy man
+  description: A holy man who observes the event and comments on destiny.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Sa'di
+  description: The speaker who meets the richly dressed ignorant man and answers a
+    question about him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: fat blockhead
+  description: A richly dressed ignorant man mounted on an Arab horse and wearing
+    fine Egyptian linen.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:9
+  name_or_label: questioning person
+  description: A person who asks Sa'di about the ignorant man wearing garments of
+    the learned.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: noble man reduced to poverty
+  description: A general example of a man of noble birth whose dignity is not lowered
+    by poverty.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: failed captor
+  assigned_to:
+  - fig:1
+  basis: He catches the fish but cannot master it and loses both fish and net.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: escaping captive
+  assigned_to:
+  - fig:2
+  basis: The fish gets the better of the fisherman, drags away the net, and escapes.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: commentator or questioner
+  assigned_to:
+  - fig:3
+  - fig:9
+  basis: These figures speak to or question the central figure in their respective
+    anecdotes.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: unexpected killer
+  assigned_to:
+  - fig:4
+  basis: A person without hands or feet kills the many-footed creature.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: destined victim
+  assigned_to:
+  - fig:5
+  basis: The holy man's comment says the creature could not escape when destiny overtook
+    it.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: moral interpreter
+  assigned_to:
+  - fig:6
+  basis: He interprets the millipede's death as an example of destiny.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: wise respondent
+  assigned_to:
+  - fig:7
+  basis: Sa'di answers the question with a moral comparison about outward form and
+    inner worth.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: ignorant man in learned dress
+  assigned_to:
+  - fig:8
+  basis: He is described as a blockhead wearing rich garments associated with the
+    learned.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:9
+  label: example of dignity despite poverty
+  assigned_to:
+  - fig:10
+  basis: The passage says noble birth reduced to poverty does not lower lofty dignity.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: net
+  literal_form: The fisherman's net, used to catch the fish and then dragged away
+    by it.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: water
+  literal_form: Brook and Tigris named in the fishing and fate sayings.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: many feet
+  literal_form: The millipede's thousand feet contrasted with the handless and footless
+    killer.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: bow
+  literal_form: The kayani or Parthian bow mentioned as useless when the enemy approaches
+    under fate.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: rich apparel and turban
+  literal_form: Rich clothing and a fine Egyptian linen turban worn by the ignorant
+    man.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: golden letters on a vile epistle
+  literal_form: Sa'di's image of a vile epistle written in golden letters.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Fish escapes the weak fisherman
+  summary: A weak fisherman fails to master a strong fish, which escapes and drags
+    away the net; the fisherman and others explain or judge the loss in terms of fortune
+    and fate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Millipede killed by a person without hands or feet
+  summary: A disabled person kills a millipede, and a holy man interprets the event
+    as proof that destiny cannot be escaped.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Ignorant man in learned clothing
+  summary: Sa'di observes a richly dressed ignorant man; when questioned, he replies
+    that outer adornment does not create inner worth or dignity.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Fate overriding effort and strength
+  taxonomy_refs:
+  - wisdom
+  basis: The fish escapes despite being in the net, and the fisherman explains the
+    outcome through fortune, lot, and the fish's remaining life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The available taxonomy has no specific fate or fortune motif family, so
+    the broader wisdom category is used.
+- id: motif:2
+  label: Destiny overtakes the swift or well-equipped
+  taxonomy_refs:
+  - wisdom
+  basis: The millipede's many feet cannot save it, and the following saying states
+    that fate arrests even a swift warrior.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: Classified as wisdom because the passage is explicitly proverbial and
+    moralizing rather than mythic narrative.
+- id: motif:3
+  label: Outward finery does not confer inner worth
+  taxonomy_refs:
+  - wisdom
+  basis: The richly dressed ignorant man is compared to a vile letter written in gold,
+    and the passage contrasts clothing and wealth with true dignity.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage uses social and moral satire rather than a supernatural symbol
+    system.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2499-2503
+  quote_or_summary: A weak fisherman catches a strong fish, but the fish overpowers
+    him, drags the net from his hand, and escapes.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 2503-2511
+  quote_or_summary: Other fishermen reproach him; he replies that it was not his day
+    of fortune and cites a saying that the fisherman cannot catch a fish unless it
+    is his lot, and the fish will not die unless it is its fate.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 2513-2518
+  quote_or_summary: A person without hands or feet kills a millipede, and a holy man
+    remarks that even its thousand feet could not help it escape when destiny overtook
+    it.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 2518-2522
+  quote_or_summary: The passage says fate arrests the speed of the swift warrior when
+    the life-plundering foe comes, making the Parthian bow useless.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 2524-2529
+  quote_or_summary: Sa'di meets a fat blockhead in rich apparel, on an Arab horse,
+    with a fine Egyptian linen turban; another person asks why garments of the learned
+    are on an ignorant beast.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: lines 2529-2535
+  quote_or_summary: Sa'di replies that the man is like a vile epistle in golden letters
+    and an ass with human resemblance, having only garments, turban, and outward form.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary provided.
+- id: ev:7
+  type: summary
+  locator: lines 2535-2538
+  quote_or_summary: The passage says poverty does not lower a noble person's dignity,
+    and gold or wealth does not ennoble another person.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are moral-wisdom patterns
+    rather than specific mythological motifs, so candidate motif confidence is moderate
+    despite strong textual support.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons added; taxonomy use limited to supplied available references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l2499-l2538
+  passage_sha256=6b65572215179da6073df632ecdd3b6dc4310429892c65b66892e09f133fc72c
+

@@ -1,0 +1,361 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l1323-l1342
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXXIV / XXXVII / XXXVIII / XXXIX; lines 1323-1342
+  start: '1323'
+  end: '1342'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After conquering Egypt, Harun-al-Rashid appoints a low-status enslaved
+    man, Khosayib, as governor in contempt of Pharaoh’s former claim to divinity.
+    Khosayib gives a foolish answer to farmers whose cotton by the Nile was washed
+    away by untimely rains. A holy man comments that fortune and power do not correspond
+    to knowledge, but depend on heaven; he contrasts a fool finding treasure in a
+    ruin with a learned projector failing.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Harun-al-Rashid reduces Egypt to obedience and decides to assign its government
+    to the vilest of his slaves as a gesture of contempt toward Pharaoh.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pharaoh is described as an impious rebel who boasted of divinity because of
+    his sovereignty over Egypt.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Khosayib is appointed to rule over Egypt and is described as extremely stupid.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: Farmers complain that cotton shrubs planted on the banks of the Nile were
+    swept away by unseasonable rains.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Khosayib replies that they should have sown wool so that it would not be swept
+    away.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A good and holy man says that fortune and power do not increase in proportion
+    to knowledge and are obtained through the aid of heaven.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The holy man states that the illiterate are often honored while the wise are
+    held in scorn.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A proverbial fool finds treasure under a ruin, while a chemist or projector
+    suffers disappointment and chagrin.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Harun-al-Rashid
+  description: Ruler who subdues Egypt and appoints Khosayib to govern it.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Pharaoh
+  description: Former Egyptian ruler described as an impious rebel who boasted a divinity.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Khosayib
+  description: A bondsman of Harun-al-Rashid appointed to rule Egypt and shown giving
+    a foolish judgment.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Farmers
+  description: A body of farmers who report that their cotton shrubs by the Nile were
+    swept away by untimely rains.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Good and holy man
+  description: Listener who delivers the moral reflection on fortune, knowledge, ignorance,
+    and heavenly aid.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Proverbial fool
+  description: A fool who, in the holy man’s saying, finds treasure under a ruin.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Chemist or projector
+  description: A learned or technical seeker who, in the holy man’s saying, falls
+    victim to disappointment and chagrin.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: conqueror of Egypt
+  assigned_to:
+  - fig:1
+  basis: He reduces the kingdom of Misr, or Egypt, to obedience.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: appointing ruler
+  assigned_to:
+  - fig:1
+  basis: He chooses Khosayib to govern Egypt.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: proud impious predecessor
+  assigned_to:
+  - fig:2
+  basis: He is described as a rebel who boasted divinity in connection with Egyptian
+    sovereignty.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: appointed governor
+  assigned_to:
+  - fig:3
+  basis: He is appointed to rule over Egypt.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: foolish judge
+  assigned_to:
+  - fig:3
+  basis: His response to the farmers is presented as evidence of poor judgment and
+    understanding.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: petitioning farmers
+  assigned_to:
+  - fig:4
+  basis: They complain to Khosayib about destroyed cotton shrubs.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: moral commentator
+  assigned_to:
+  - fig:5
+  basis: He interprets the event as showing that fortune and power do not depend on
+    knowledge.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: unexpected finder of treasure
+  assigned_to:
+  - fig:6
+  basis: The fool finds treasure under a ruin.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: disappointed seeker
+  assigned_to:
+  - fig:7
+  basis: The chemist or projector falls victim to disappointment and chagrin.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Nile and rainwater
+  literal_form: banks of the Nile and unseasonable rains that sweep away cotton shrubs
+  associated_figures:
+  - fig:4
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: cotton and wool
+  literal_form: cotton shrubs destroyed by water; wool proposed as an absurd alternative
+    crop
+  associated_figures:
+  - fig:4
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: treasure under a ruin
+  literal_form: treasure found by a fool beneath a ruin
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: aid of heaven
+  literal_form: heaven as the source through which power and fortune are obtained
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Conquest and contemptuous appointment
+  summary: Harun-al-Rashid conquers Egypt and appoints Khosayib to govern it in contempt
+    of Pharaoh’s boast of divinity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Farmers’ complaint and foolish judgment
+  summary: Farmers report that Nile-side cotton shrubs were washed away by untimely
+    rains, and Khosayib replies that they should have sown wool.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Holy man’s moral reflection
+  summary: A holy man explains that fortune, wealth, and honor do not follow knowledge,
+    and that heaven may grant prosperity to the ignorant while the wise are scorned.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Proverbial reversal of fortune
+  summary: The holy man illustrates his point by contrasting a fool who finds treasure
+    in a ruin with a chemist or projector who meets disappointment.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wisdom and fortune reversed
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly contrasts knowledge with worldly fortune, stating
+    that the ignorant may receive wealth and honor while the wise are scorned.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The motif is moral-didactic rather than narrative mythic; taxonomy mapping
+    is broad.
+- id: motif:2
+  label: fool elevated to power
+  taxonomy_refs: []
+  basis: Khosayib, described as very foolish, is appointed to rule Egypt and then
+    issues an absurd response to farmers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No specific available taxonomy reference directly matches this political
+    satire pattern.
+- id: motif:3
+  label: heavenly source of fortune and power
+  taxonomy_refs: []
+  basis: The holy man says that power and fortune do not depend on knowledge but are
+    obtained through the aid of heaven.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage states a theological moral, but does not narrate a direct
+    divine intervention.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1323-1328
+  quote_or_summary: Harun-al-Rashid subdues Egypt and, in contempt of Pharaoh’s proud
+    claim to divinity, appoints his low-status bondsman Khosayib to govern it.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1328-1334
+  quote_or_summary: Khosayib is described as lacking judgment; farmers complain that
+    Nile-side cotton shrubs were swept away by untimely rains, and he replies that
+    they should have sown wool.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1334-1340
+  quote_or_summary: A good and holy man says that fortune is not proportional to knowledge,
+    that wealth can be given to the ignorant, and that power and fortune come through
+    the aid of heaven.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1340-1342
+  quote_or_summary: The moral reflection ends with the contrast that a fool finds
+    treasure under a ruin while a chemist or projector meets disappointment and chagrin.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are broad and didactic;
+    no comparison claims are made because the passage itself does not establish cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Archaic translation language has been summarized neutrally where possible.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l1323-l1342
+  passage_sha256=67ded00f912daac11a19d31e7f8c98b4d14069cf2096dc60c6edf40bbfbf9b8d
+

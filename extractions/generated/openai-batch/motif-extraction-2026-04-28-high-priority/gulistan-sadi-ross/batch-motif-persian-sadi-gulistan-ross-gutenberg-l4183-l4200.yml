@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l4183-l4200
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XVIII / CHAPTER VIII / XVIII / XXIII; lines 4183-4200
+  start: '4183'
+  end: '4200'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Two advisory sayings counsel strategic patience when enemies are divided,
+    readiness when enemies are united, and withholding unpleasant intelligence until
+    another has disclosed it; a verse contrasts the nightingale as bringer of spring’s
+    glad tidings with the owl as harbinger of evil.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker advises remaining quiet when discord is raging among enemy troops.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker advises considering one’s own dispersed state when enemy troops
+    are united.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A verse advises peace with friends when foes are at war.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A verse advises stringing a bow and arranging stones around battlements when
+    foes are of one soul and mind.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker advises keeping unpleasant intelligence private until another
+    person has disclosed it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The nightingale is asked to bring glad tidings of spring.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The owl is assigned the role of harbinger of evil.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: addressed person
+  description: The person addressed by the advice, referred to as “you” and “thou.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: enemy troops or foes
+  description: Opposing forces who may be divided by discord or united in one mind.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: friends
+  description: The addressed person’s friends, with whom peace is to be enjoyed when
+    foes are at war.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: some person else
+  description: An unspecified other person who may first disclose unpleasant intelligence.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: nightingale
+  description: A bird addressed as bringer of the glad tidings of spring.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: owl
+  description: A bird designated as the harbinger of evil.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: recipient of counsel
+  assigned_to:
+  - fig:1
+  basis: The passage directly addresses “you” and “thou” with instructions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: enemy force
+  assigned_to:
+  - fig:2
+  basis: The troops and foes are identified as enemies whose discord or unity affects
+    the counsel.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: peace companions
+  assigned_to:
+  - fig:3
+  basis: The addressee is told to enjoy peace with friends when foes are at war.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: prior discloser of unpleasant news
+  assigned_to:
+  - fig:4
+  basis: The addressee is told to wait until another person has disclosed unpleasant
+    intelligence.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: bringer of glad tidings
+  assigned_to:
+  - fig:5
+  basis: The nightingale is asked to bring the glad tidings of spring.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: harbinger of evil
+  assigned_to:
+  - fig:6
+  basis: The owl is explicitly named as the harbinger of evil.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: bow
+  literal_form: A bow to be strung in preparation when enemies are united.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: stones around battlements
+  literal_form: Stones arranged around battlements as part of readiness for defense.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: nightingale with spring tidings
+  literal_form: The nightingale bringing glad tidings of spring.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: owl as harbinger of evil
+  literal_form: The owl associated with evil tidings.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: spring
+  literal_form: Spring named as the content of glad tidings.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Counsel on enemy discord and unity
+  summary: The addressee is told to remain quiet when enemies are divided, but to
+    prepare defenses when enemies become united.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Counsel on unpleasant intelligence
+  summary: The addressee is told not to be the first bearer of unpleasant news; a
+    poetic example assigns spring’s happy news to the nightingale and evil news to
+    the owl.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Strategic wisdom in response to enemy division or unity
+  taxonomy_refs:
+  - wisdom
+  basis: The passage gives practical counsel about remaining quiet when enemies are
+    divided and preparing defenses when they are united.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an aphoristic wisdom motif rather than a narrative mythic episode.
+- id: motif:2
+  label: Avoidance of being first bearer of bad news
+  taxonomy_refs:
+  - wisdom
+  basis: The passage advises withholding unpleasant intelligence until someone else
+    discloses it, illustrated by assigning glad tidings to the nightingale and evil
+    tidings to the owl.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage supports a wisdom/proverb pattern; broader comparative links
+    are not stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4183-4190
+  quote_or_summary: "“When you see discord raging among the troops of your enemy,
+    be on your side quiet” and “When thou beholdest war among thy foes, go and enjoy
+    peace with thy friends.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 4186-4191
+  quote_or_summary: "“if you see them united, think of your own dispersed state” and
+    “if thou findest them of one soul and mind, string thy bow, and range stones around
+    thy battlements.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 4196-4197
+  quote_or_summary: "“Keep to yourself any intelligence that may prove unpleasant,
+    till some person else has disclosed it.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 4197-4200
+  quote_or_summary: "“Bring, O nightingale! the glad tidings of the spring, and leave
+    to the owl to be the harbinger of evil.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif identification is limited to
+    the available wisdom family; no passage-supported cross-tradition comparison is
+    present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Sections are aphoristic counsel rather than mythic narrative; taxonomy references are therefore limited to wisdom.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l4183-l4200
+  passage_sha256=02a6f689f61dcb65dcd3d57930e10cda84e86c96e17c553f52b12e310f078886
+

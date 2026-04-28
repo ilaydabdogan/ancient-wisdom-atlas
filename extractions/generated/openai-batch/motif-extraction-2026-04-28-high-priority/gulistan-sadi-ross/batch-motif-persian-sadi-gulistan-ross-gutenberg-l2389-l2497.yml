@@ -1,0 +1,578 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l2389-l2497
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXXIX / XLVIII / CHAPTER III / XVIII; lines 2389-2497
+  start: '2389'
+  end: '2497'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A sequence of didactic anecdotes contrasts bodily need with wealth, gratitude
+    with complaint, royal condescension with courtly pride, forced extraction from
+    a wealthy mendicant, and a merchant's endless plans with the lesson that only
+    contentment or death can fill a greedy eye.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An Arab in the desert suffers extreme thirst and wishes for a stream of water
+    to reach his knees so he can fill his flask or stomach.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A bewildered traveller in the great desert has no provisions or strength left,
+    though a few dirams remain with him, and dies after failing to find the path.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Travellers find the dead man's body with dirams spread before him and verses
+    written in the sand stating that food is worth more than gold or silver to a starving
+    desert wanderer.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator complains once about having bare feet and no means to buy shoes,
+    then sees a man with no feet in the mosque at Cufah and gives thanks for his own
+    condition.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A king on a winter hunting excursion seeks night shelter at a peasant's cottage,
+    while a courtier objects that such refuge would not suit royal dignity.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The peasant brings refreshments to the king, kisses the earth in subserviency,
+    and says the king's dignity would not be lowered, while the peasant's condition
+    would be exalted.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The king spends the night at the cottage and in the morning gives the peasant
+    an honorary dress and a large gift.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A rich mendicant is asked by a king for a loan for public business and refuses,
+    saying his scraped-together property is unfit for the sovereign's enterprise.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: After the mendicant disobeys and resists the royal command, the king orders
+    exchequer measures to be enforced with severity.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: A merchant with many camels, servants, and goods speaks all night about holdings,
+    trade routes, and a final series of journeys he wants to make before retiring.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Sa'di answers the merchant with a report of a merchant in the desert of Ghor
+    who said that either contentment or grave dust will fill the stingy eye of the
+    worldly-minded.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: thirsting Arab
+  description: An Arab suffering extreme thirst in the desert.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: bewildered traveller
+  description: A traveller lost in the great desert, without provisions or strength,
+    but with a few dirams.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: party of travellers
+  description: Travellers who arrive where the dead traveller's body lies and see
+    the dirams and verses.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Sa'di / narrator
+  description: The first-person speaker who reports the anecdotes and gives replies
+    or reflections.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: man with no feet
+  description: A man in the metropolitan mosque at Cufah who has no feet.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: king on hunting excursion
+  description: A king travelling with a select retinue during a winter sporting excursion.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: courtier
+  description: A courtier who says it would not become the sovereign's dignity to
+    take refuge in a low peasant's cottage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: peasant host
+  description: A peasant who offers refreshments, receives the king, and is rewarded.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:9
+  name_or_label: rich mendicant
+  description: An importunate mendicant who has amassed much wealth and refuses the
+    king's requested loan.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:10
+  name_or_label: merchant at Keish
+  description: A merchant with one hundred and fifty burden camels and forty bondsmen
+    and servants, occupied with trade plans.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:11
+  name_or_label: chief merchant in the desert of Ghor
+  description: A merchant whose body falls exhausted from his camel in the desert
+    of Ghor and who utters a saying about contentment and the grave.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: desert sufferer
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both figures are in the desert under bodily extremity, thirst, hunger, fatigue,
+    or loss.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: didactic narrator
+  assigned_to:
+  - fig:4
+  basis: The speaker reports personal experience and offers a moral reply to the merchant.
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: role:3
+  label: contrastive afflicted figure
+  assigned_to:
+  - fig:5
+  basis: The man's absence of feet causes the barefoot narrator to give thanks for
+    his own condition.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: ruler and guest
+  assigned_to:
+  - fig:6
+  basis: The king seeks shelter, accepts hospitality, and later gives the peasant
+    gifts.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: guardian of royal status
+  assigned_to:
+  - fig:7
+  basis: The courtier objects that staying in a peasant's cottage would not suit sovereign
+    dignity.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: discovering witnesses
+  assigned_to:
+  - fig:3
+  basis: The travellers find the corpse, dirams, and written verses.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: humble host rewarded by king
+  assigned_to:
+  - fig:8
+  basis: The peasant brings refreshments, hosts the king, and receives an honorary
+    dress and largess.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: wealth-possessor lacking contentment
+  assigned_to:
+  - fig:9
+  - fig:10
+  basis: The mendicant possesses much wealth but resists lending; the merchant possesses
+    extensive goods and continues planning more trade.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:9
+  label: exhausted merchant exemplar
+  assigned_to:
+  - fig:11
+  basis: The merchant in Ghor falls exhausted from his camel and delivers a saying
+    about worldly-minded greed.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: water desired in desert
+  literal_form: stream of water, leathern flask, stomach
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: coins useless against hunger
+  literal_form: dirams, gold of Jafier, ingot of virgin silver
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: simple food valued by the hungry
+  literal_form: boiled turnip
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: bare feet and missing feet
+  literal_form: bare feet, no feet, want of shoes
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: peasant cottage as shelter
+  literal_form: peasant's cottage
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: fire proposed for encampment
+  literal_form: kindle a fire
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: royal gift
+  literal_form: honorary dress and handsome largess
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: grave dust and stingy eye
+  literal_form: dust of the grave; stingy eye of the worldly-minded
+  associated_figures:
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Thirsting Arab in the desert
+  summary: An Arab near death from thirst wishes for enough water to fill his flask
+    or stomach.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lost traveller found dead with money
+  summary: A traveller lost without food dies despite retaining coins; later travellers
+    find his body, the coins, and verses about food being worth more than precious
+    metal to the starving.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Barefoot narrator sees a footless man
+  summary: The narrator, distressed by lack of shoes, sees a man with no feet in the
+    mosque at Cufah and becomes thankful and patient.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: King sheltered by peasant
+  summary: A king on a winter hunt considers sheltering at a peasant's cottage; a
+    courtier objects, but the peasant offers refreshments and frames the king's visit
+    as an elevation of the humble rather than a lowering of the king.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Peasant rewarded after hospitality
+  summary: The king stays at the cottage and rewards the peasant with an honorary
+    dress and largess; the peasant praises the effect of the king's shadow on his
+    status.
+  figure_refs:
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Rich mendicant compelled by king
+  summary: A wealthy mendicant refuses the king's request for a loan, disputes the
+    command, and is subjected to strict enforcement by the royal exchequer.
+  figure_refs:
+  - fig:6
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:7
+  label: Restless merchant and lesson of contentment
+  summary: A wealthy merchant recounts many trade ambitions; Sa'di replies with a
+    desert exemplum saying that contentment or the grave alone fills the eye of the
+    worldly-minded.
+  figure_refs:
+  - fig:4
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Bodily need outweighs stored wealth
+  taxonomy_refs:
+  - wisdom
+  basis: The desert traveller dies with dirams before him, and the verses state that
+    food is preferable to gold or silver for a starving person.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a didactic wisdom motif rather than a mythic narrative motif.
+- id: motif:2
+  label: Gratitude learned through comparison with greater affliction
+  taxonomy_refs:
+  - wisdom
+  basis: The barefoot narrator stops complaining after seeing a man with no feet and
+    gives thanks.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No supernatural transformation occurs; the motif is ethical instruction
+    through contrast.
+- id: motif:3
+  label: Royal humility elevates the humble host
+  taxonomy_refs:
+  - wisdom
+  - royal_legitimacy
+  basis: The king accepts a peasant's hospitality without losing dignity and rewards
+    him; the peasant describes the king's presence as raising his own status.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents a courtly moral about status and generosity, not
+    a formal sacral kingship myth.
+- id: motif:4
+  label: Miserly wealth compelled when voluntary generosity fails
+  taxonomy_refs:
+  - wisdom
+  basis: A wealthy mendicant refuses the king's requested loan and is then subjected
+    to forceful exchequer enforcement.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage supports an ethical-political lesson, but it does not frame
+    the act as sacred judgment.
+- id: motif:5
+  label: Endless acquisition answered by contentment or death
+  taxonomy_refs:
+  - wisdom
+  basis: The merchant's expanding trade plans are countered by the saying that only
+    contentment or grave dust fills the worldly-minded eye.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The motif is expressed as moral aphorism and exemplum rather than as a
+    developed mythic episode.
+- id: motif:6
+  label: Water as the immediate object of life-saving desire
+  taxonomy_refs: []
+  basis: The thirsting Arab imagines a stream of water and filling his flask or stomach
+    before death.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a simple symbolic image of need; the passage does not develop
+    water into a larger cosmological symbol.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2389-2395; XVIII
+  quote_or_summary: An Arab in the desert suffers extreme thirst and wishes before
+    death for a stream of water reaching his knees, enough to fill his leathern flask
+    or stomach.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2396-2407; XVIII
+  quote_or_summary: A lost traveller in the great desert has no provisions or strength,
+    only a few dirams; travellers later find his body, the dirams, and verses saying
+    that food would be better than gold or virgin silver for a parched mendicant.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2409-2419; XIX
+  quote_or_summary: The narrator complains of bare feet and no shoes, enters the mosque
+    at Cufah, sees a man with no feet, gives thanks to God, and accepts his want of
+    shoes with patience.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2421-2436; XX
+  quote_or_summary: A king on a winter hunting excursion seeks shelter at a peasant's
+    cottage; a courtier proposes a tent and fire instead, but the peasant brings refreshments
+    and says the king's dignity is not lowered by condescension.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2436-2447; XX
+  quote_or_summary: The king is pleased, spends the night at the cottage, and in the
+    morning gives the peasant an honorary dress and handsome largess; the peasant
+    says the king's shadow has raised his cap to the level of the sun.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2449-2464; XXI
+  quote_or_summary: A king asks a wealthy mendicant for a loan; the mendicant refuses,
+    calling his scraped-together property unsuitable for the sovereign's lofty enterprise,
+    and the king answers with analogies of impurity suited to impure uses.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 2464-2472; XXI
+  quote_or_summary: The mendicant disobeys and resists the royal command; the king
+    orders rigid and violent exchequer enforcement, with the maxim that force is used
+    when fair words fail.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 2474-2492; XXII
+  quote_or_summary: A merchant at Keish, owning many camels and servants, talks all
+    night about goods, debts, and planned trade journeys from Persia to China, Greece,
+    India, Aleppo, Yamin, and back to Persia before retirement.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 2492-2497; XXII
+  quote_or_summary: 'Sa''di replies with a report from the desert of Ghor: “Either
+    contentment or the dust of the grave will fill the stingy eye of the worldly-minded.”'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The anecdotes and their ethical lessons are explicit. Motif tagging is limited
+    to available broad taxonomy, mainly wisdom; no passage-supported cross-cultural
+    comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Comparison claims are omitted because the passage itself does not establish a comparison to another corpus or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l2389-l2497
+  passage_sha256=5cb88eb7a87a863631c64cb2eb2a730c5e5cd279fa68aa69081ee3bdf667aa4a
+

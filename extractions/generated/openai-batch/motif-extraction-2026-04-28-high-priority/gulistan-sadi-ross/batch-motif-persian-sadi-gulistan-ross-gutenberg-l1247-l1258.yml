@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l1247-l1258
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXVII / XXVIII / XXXII / XXXIII; lines 1247-1258
+  start: '1247'
+  end: '1258'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A vizir known for compassion toward the weak and concern for everyone falls
+    under royal displeasure. Others seek his release, his custodians treat him leniently,
+    and fellow grandees praise his virtues until the king pardons him. A holy man
+    comments that generosity toward friends and even the wicked is prudent, comparing
+    kindness to stopping a dog's mouth with a crumb.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A vizir is described as compassionate toward the weak and mindful of the good
+    of everybody.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The vizir falls under the king's displeasure.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Multiple people strive to obtain the vizir's release.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The people holding the vizir in custody restrain him indulgently.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The vizir's fellow grandees publicly proclaim his virtues.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The king pardons the vizir's fault.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A good and holy man hears of the events and gives a moral comment about generosity
+    and doing good even to the wicked.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The holy man's comment includes household images of selling a patrimonial
+    garden, using household furniture as firewood, boiling a pot for well-wishers,
+    and shutting a dog's mouth with a crumb.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: vizir
+  description: A vizir who has compassion for the weak, seeks the good of everybody,
+    falls under royal displeasure, and is later pardoned.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: king
+  description: The ruler whose displeasure falls on the vizir and who later pardons
+    his fault.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: custodians
+  description: Those who have the vizir in custody and are indulgent in their restraint.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: fellow-grandees
+  description: The vizir's peers who proclaim his virtues.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: good and holy man
+  description: A holy man who hears of the events and comments on the value of doing
+    good to others, including the wicked.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: compassionate official
+  assigned_to:
+  - fig:1
+  basis: The vizir is said to compassionate the weak and meditate the good of everybody.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: pardoned offender
+  assigned_to:
+  - fig:1
+  basis: The vizir falls under royal displeasure and is pardoned after others intervene
+    and praise him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: pardoning ruler
+  assigned_to:
+  - fig:2
+  basis: The king first shows displeasure and then pardons the vizir's fault.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: lenient keepers
+  assigned_to:
+  - fig:3
+  basis: Those holding the vizir in custody are indulgent in their restraint.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: advocating peers
+  assigned_to:
+  - fig:4
+  basis: The fellow-grandees loudly proclaim the vizir's virtues.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: moral commentator
+  assigned_to:
+  - fig:5
+  basis: The holy man interprets the events with a moral saying about doing good.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: patrimonial garden
+  literal_form: patrimonial garden
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: household furniture as firewood
+  literal_form: household furniture converted into fire-wood
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: pot for well-wishers
+  literal_form: pot of well-wishers
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: dog's mouth stopped with a crumb
+  literal_form: a dog's mouth shut with a crumb
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Vizir falls into royal displeasure and is released
+  summary: A compassionate vizir falls under royal displeasure; others work for his
+    release, his keepers treat him leniently, his peers praise him, and the king pardons
+    him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Holy man's moral saying
+  summary: A holy man responds to the events by saying that one should spend resources
+    to gain friends' goodwill and should do good even to the wicked.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Good deeds produce advocates in time of danger
+  taxonomy_refs:
+  - wisdom
+  basis: The vizir's prior compassion and concern for others are followed by others
+    seeking his release, lenient custody, public praise, and a royal pardon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents this as moral wisdom rather than as a supernatural
+    or mythic causal pattern.
+- id: motif:2
+  label: Prudent generosity even toward the wicked
+  taxonomy_refs:
+  - wisdom
+  - sacred_exchange
+  basis: The holy man explicitly advises doing good even to the wicked and uses images
+    of spending property or a crumb to secure goodwill or silence hostility.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The sacred_exchange taxonomy fit is limited; the exchange is ethical and
+    proverbial rather than ritual or divine.
+- id: motif:3
+  label: Royal pardon after intercession and praise
+  taxonomy_refs:
+  - wisdom
+  basis: The vizir is pardoned after custodians treat him leniently and fellow grandees
+    proclaim his virtues.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not frame the event as a formal intercession ritual,
+    only as efforts and praise leading to pardon.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1247-1249
+  quote_or_summary: A vizir is described as compassionate toward the weak and meditating
+    the good of everybody.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1249-1250
+  quote_or_summary: The vizir falls under royal displeasure, and others strive to
+    obtain his release.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1250-1253
+  quote_or_summary: His custodians are indulgent, his fellow grandees proclaim his
+    virtues, and the king pardons his fault.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1253-1258
+  quote_or_summary: A good and holy man says it is better to spend property to gain
+    friends' goodwill and advises doing good even to the wicked, comparing it to stopping
+    a dog's mouth with a crumb.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative and moral are clear. Motif assignments are limited to available
+    broad taxonomy references and should be reviewed for fit.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. No comparison claims were added because the passage itself does not explicitly support comparison to another tradition or corpus.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l1247-l1258
+  passage_sha256=a69531af77829a9321593ba8d55e882073bc4991f78300e48fe6b957d87f6a82
+

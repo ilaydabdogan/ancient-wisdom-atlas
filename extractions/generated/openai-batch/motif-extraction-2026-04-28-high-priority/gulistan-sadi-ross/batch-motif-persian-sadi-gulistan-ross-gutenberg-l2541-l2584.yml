@@ -1,0 +1,384 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l2541-l2584
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XLVIII / CHAPTER III / XVIII / XXVII; lines 2541-2584
+  start: '2541'
+  end: '2584'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A thief mocks a mendicant for begging, and the mendicant replies that begging
+    is better than theft and punishment. A dervish withdraws into a cave and lives
+    independently of worldly power. A sovereign invites the holy man to eat with him;
+    the holy man accepts because it accords with prophetic tradition, later honors
+    the king as his guest, and explains the duty of serving one whom one has seated
+    on one’s carpet. The passage closes by listing forms of ascetic restraint, while
+    noting the difficulty of restraining hunger.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A thief asks a mendicant whether he is ashamed to hold out his hand for a
+    small amount of silver.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mendicant replies that holding out the hand for one grain of silver is
+    better than having it cut off for theft.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A dervish is described as having withdrawn into a cave and cut off communication
+    with the world.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The dervish is described as viewing emperors and kings without awe or reverence.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The text states that whoever opens the door of mendicity must remain a beggar
+    until death.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A sovereign sends a message inviting the holy man to partake of his bread
+    and salt as a guest.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The holy man accepts the invitation because accepting it accords with prophetic
+    law and tradition.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The holy man rises, embraces the king, shows him kindness, and offers compliments
+    after the king comes to apologize.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A companion asks why the holy man showed such condescending kindness to the
+    king.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The holy man answers that it is proper to stand up and serve one whom one
+    has seated on one’s carpet or made one’s guest.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The passage lists sensory and bodily comforts the ascetic can forgo, including
+    music, gardens, flowers, a soft pillow, a bed partner, and riding an ambling horse.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The passage states that the belly is the one thing he cannot keep under without
+    food.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: thief
+  description: A thief who criticizes the mendicant’s begging.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: mendicant
+  description: A beggar who answers that begging is preferable to punishment for theft.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: dervish / shaikh / holy man / abid
+  description: A religious ascetic who withdraws into a cave, accepts a royal invitation,
+    and explains the duties of hospitality.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: sovereign / king
+  description: A ruler who invites the holy man to partake of his bread and salt and
+    later visits him to apologize for causing trouble.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: shaikh's companion
+  description: A companion who questions the holy man’s unusual kindness toward the
+    king.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: critic of begging
+  assigned_to:
+  - fig:1
+  basis: The thief asks the mendicant whether begging for a small amount of silver
+    is shameful.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: moral respondent
+  assigned_to:
+  - fig:2
+  basis: The mendicant replies with a contrast between begging and having the hand
+    cut off for theft.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: ascetic renunciant
+  assigned_to:
+  - fig:3
+  basis: The dervish withdraws into a cave and is later described as able to forgo
+    many comforts.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: teacher of hospitality conduct
+  assigned_to:
+  - fig:3
+  basis: The holy man explains that one should stand and serve a person made one’s
+    guest.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: royal inviter
+  assigned_to:
+  - fig:4
+  basis: The sovereign sends a message inviting the holy man to partake of bread and
+    salt.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: honored guest
+  assigned_to:
+  - fig:4
+  basis: The holy man treats the king as one whom he has seated on his carpet or made
+    his guest.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: questioning companion
+  assigned_to:
+  - fig:5
+  basis: The companion asks why the shaikh showed unusual kindness to the king.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: cave of withdrawal
+  literal_form: cave
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: bread and salt of hospitality
+  literal_form: bread and salt
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: guest's carpet
+  literal_form: carpet
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: unruly belly
+  literal_form: belly requiring food
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Thief and mendicant exchange
+  summary: A thief reproaches a mendicant for begging; the mendicant replies that
+    begging is preferable to theft and mutilating punishment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dervish in the cave
+  summary: A dervish withdraws into a cave, closes himself off from worldly society,
+    and is portrayed as independent before rulers.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Royal invitation and guest duty
+  summary: A sovereign invites the holy man to share bread and salt; the holy man
+    accepts, later honors the king, and explains the duty of serving one’s guest.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Ascetic restraints and hunger
+  summary: The passage lists comforts that the ascetic can renounce, but concludes
+    that hunger cannot be subdued without food.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Practical moral wisdom through brief dialogue
+  taxonomy_refs:
+  - wisdom
+  basis: The mendicant’s reply turns the thief’s criticism into a concise moral comparison
+    between begging and punishment for theft.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage gives an ethical maxim rather
+    than a mythic narrative.
+- id: motif:2
+  label: Ascetic withdrawal from worldly power
+  taxonomy_refs:
+  - wisdom
+  basis: The dervish withdraws into a cave, cuts off communication with the world,
+    and is described as independent before emperors and kings.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage presents didactic ascetic conduct; no supernatural quest or
+    explicit initiation is narrated.
+- id: motif:3
+  label: Hospitality obligation and reciprocal honor
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The holy man accepts the ruler’s invitation under prophetic tradition and
+    later explains that a guest should be stood up for and served.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The sacred dimension is limited to the explicit reference to sunnat; the
+    exchange is social and ethical rather than mythic.
+- id: motif:4
+  label: Renunciation limited by bodily need
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says the ascetic can forgo many pleasures and comforts, but cannot
+    subdue the belly without food.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a didactic observation about bodily necessity rather than a developed
+    symbolic myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2541-2547 / XXVII
+  quote_or_summary: A thief asks a mendicant whether he is ashamed to beg for a barleycorn
+    of silver; the mendicant replies that begging for one grain is better than having
+    the hand cut off for one and a half dang.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2549-2558 / XXIX opening
+  quote_or_summary: A dervish has withdrawn into a cave, shut off communication with
+    the world, and looks upon emperors and kings without awe; the passage praises
+    contentment and independence over covetousness and mendicity.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2560-2566 / royal invitation
+  quote_or_summary: A sovereign invites the holy man to partake of his bread and salt
+    as a guest; the holy man accepts because such acceptance accords with the sunnat,
+    or prophetic law and tradition.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2566-2576 / king’s visit and explanation
+  quote_or_summary: The king visits to apologize; the holy man rises, embraces him,
+    and shows kindness. A companion asks why, and the holy man answers that one should
+    stand up and serve one whom one has seated on one’s carpet or made one’s guest.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2578-2584 / ascetic restraints
+  quote_or_summary: The passage says the ascetic can avoid music, gardens, flowers,
+    soft bedding, a bed partner, and riding, but cannot keep the belly under control
+    without food.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are broad and didactic rather than strongly mythological; no comparison claims
+    are made because the passage itself does not support cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; comparison_claims left empty because no explicit comparative claim is supported by the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l2541-l2584
+  passage_sha256=00454ed41cc66e89e41fd6d055e39bbc6e989397a97b5fd9f55dd92d0ea25dd6
+

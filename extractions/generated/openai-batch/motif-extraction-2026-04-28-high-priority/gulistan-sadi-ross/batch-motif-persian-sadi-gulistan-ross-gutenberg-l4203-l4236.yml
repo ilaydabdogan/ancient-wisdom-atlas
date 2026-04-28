@@ -1,0 +1,372 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l4203-l4236
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: CHAPTER VIII / XVIII / XXIII / XXVIII; lines 4203-4236
+  start: '4203'
+  end: '4236'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Four short didactic sections warn that advising the self-sufficient requires
+    counsel oneself; warn against rivals, parasites, and sycophants; say an orator's
+    speech needs someone to show its defects; and illustrate universal self-satisfaction
+    through a dispute between a Muslim and a Jew, ending with the claim that no one
+    admits ignorance.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person who counsels a self-sufficient man is said to need a counsellor himself.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage warns not to accept a rival's wheedling or pay for a parasite's
+    sycophancy.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The rival is associated with a snare of treachery, and the parasite with gluttony.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A fool is described as being puffed up by his own praise, compared to a dead
+    body appearing momentarily corpulent when stretched on a bier.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A sycophant expects compensation and, if disappointed, may enumerate many
+    defects in the same person he had praised.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speech of an orator is said to remain incorrect until someone shows its
+    defects.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage cautions against vanity in one's eloquence when only a fool and
+    oneself approve it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Every person is said to think his own intellect perfect and his own child
+    handsome.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A Muslim and a Jew argue heatedly; each swears that if his own position is
+    false, he would become identified with the other's religion.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage concludes that, even if intellect vanished from earth, no one
+    would say, 'I am ignorant.'
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: self-sufficient man
+  description: A man considered self-sufficient and therefore resistant to counsel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: counsellor
+  description: A person who attempts to counsel the self-sufficient man.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: rival
+  description: A rival whose wheedling should not be swallowed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: parasite or sycophant
+  description: A flatterer whose sycophancy expects compensation and may turn into
+    fault-finding.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: fool
+  description: A person puffed up by his own praise and whose approval should not
+    validate eloquence.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: orator
+  description: A speaker whose discourse needs defects to be shown for correctness.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Mussulman
+  description: A Muslim disputant who swears that if the deed is not authentic he
+    may die a Jew.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Jew
+  description: A Jewish disputant who swears on the Pentateuch that if his statement
+    is false he is a Muslim like the other disputant.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: resistant recipient of counsel
+  assigned_to:
+  - fig:1
+  basis: The person is described as self-sufficient, and advising him is treated as
+    misguided.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: misdirected adviser
+  assigned_to:
+  - fig:2
+  basis: The adviser of the self-sufficient man is said to need counsel himself.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: treacherous flatterer
+  assigned_to:
+  - fig:3
+  basis: The rival's wheedling is connected with a snare of treachery.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: self-interested flatterer
+  assigned_to:
+  - fig:4
+  basis: The parasite or sycophant flatters for expected compensation and may later
+    list defects.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: vain or undiscerning approver
+  assigned_to:
+  - fig:5
+  basis: The fool is puffed up by praise and gives unreliable approval of eloquence.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: speaker needing correction
+  assigned_to:
+  - fig:6
+  basis: The orator's speech lacks correctness until its defects are shown.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: heated disputant
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The Muslim and Jew are described as arguing warmly and swearing in opposition
+    to one another.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: snare of treachery
+  literal_form: snare
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: dead body on a bier
+  literal_form: dead body stretched upon a bier
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: deed of conveyance
+  literal_form: legal deed or document
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Pentateuch oath
+  literal_form: Pentateuch invoked in an oath
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Counsel given to the self-sufficient
+  summary: The maxim says that one who counsels a self-sufficient man himself needs
+    counsel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Warning against flattery
+  summary: The speaker warns against the rival's wheedling and the parasite's sycophancy,
+    comparing foolish inflation by praise to a corpse on a bier and noting that the
+    flatterer may turn to blame if unpaid.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Correction of eloquence
+  summary: The passage says an orator's speech needs defects to be pointed out and
+    warns against trusting the approval of oneself and a fool.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Dispute and refusal to admit ignorance
+  summary: A Muslim and a Jew argue and each frames falsity as becoming the other;
+    the passage concludes that no one admits ignorance.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wisdom warning against self-sufficiency
+  taxonomy_refs:
+  - wisdom
+  basis: The section states that advising a self-sufficient man is itself unwise,
+    presenting a didactic maxim about counsel and receptivity.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is aphoristic rather than narrative, so the motif is a didactic
+    pattern rather than an episode.
+- id: motif:2
+  label: flattery as self-interested deception
+  taxonomy_refs:
+  - wisdom
+  basis: The passage warns that a rival's wheedling and a parasite's sycophancy conceal
+    treachery, appetite, and expectation of reward.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The snare and dead-body images are rhetorical illustrations, not independent
+    mythic episodes.
+- id: motif:3
+  label: need for correction to attain wise speech
+  taxonomy_refs:
+  - wisdom
+  basis: The orator's speech is said to need someone to reveal its defects, and self-approval
+    or a fool's approval is rejected as a guide.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a moral-intellectual maxim rather than a mythic narrative motif.
+- id: motif:4
+  label: universal conceit of intellect
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says everyone thinks his own intellect perfect and concludes
+    that no one would admit ignorance, illustrated by two disputants who reject identification
+    with each other.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The religious identities are part of the illustrative dispute; the passage
+    itself does not support a broader comparative religious claim.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4203-4206 / XXVIII
+  quote_or_summary: Whoever counsels a self-sufficient man is himself said to need
+    a counsellor.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 4207-4220 / XXIX
+  quote_or_summary: The passage warns against a rival's wheedling and a parasite's
+    sycophancy; it describes flattery as linked to treachery, gluttony, a fool inflated
+    by praise, and a flatterer who may later list defects if not rewarded.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 4221-4227 / XXX
+  quote_or_summary: An orator's speech lacks correctness until someone shows its defects;
+    one should not be vain of eloquence because it has a fool's and one's own approval.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 4228-4236 / XXXI
+  quote_or_summary: Everyone thinks his own intellect perfect and child handsome;
+    a Muslim and a Jew argue, each swearing that falsity would make him like the other,
+    and the section ends that nobody would say, 'I am ignorant.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source text; concise summary with a short public-domain
+    phrase.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is didactic and aphoristic, with clear wisdom themes. No passage-supported
+    cross-textual comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only supplied passage text and metadata were used. Taxonomy use limited to the available 'wisdom' motif family.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l4203-l4236
+  passage_sha256=e582f59551f687d0f7753bff1282895f50b819260398e035a9f5a442f82b63d8
+

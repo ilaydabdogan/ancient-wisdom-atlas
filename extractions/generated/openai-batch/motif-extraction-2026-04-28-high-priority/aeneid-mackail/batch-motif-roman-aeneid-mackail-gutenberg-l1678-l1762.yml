@@ -1,0 +1,591 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l1678-l1762
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK SECOND / THE STORY OF THE SACK OF TROY / BOOK THIRD / THE STORY OF THE
+    SEVEN YEARS' WANDERING; lines 1678-1762
+  start: '1678'
+  end: '1762'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Aeneas narrates a storm-driven voyage to the Strophades, where the Trojans
+    slaughter unattended livestock and feast. The Harpies, led by Celaeno, repeatedly
+    swoop down, defile the meal, resist armed attack, and Celaeno prophesies that
+    the Trojans will reach Italy but not found their city until hunger drives them
+    to eat their tables. The frightened Trojans pray and depart, sail past several
+    Greek-associated places, purify themselves at Actium, hold games, dedicate a shield,
+    and continue toward Buthrotum.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The ships are driven through storm, darkness, lightning, and confused seas
+    for three days and nights before land appears on the fourth day.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Strophades are described as Ionian islands inhabited by Celaeno and the
+    other Harpies after they fled from Phineus' house.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Harpies are described as winged beings with maidens' faces, filth-dropping
+    bellies, clawed hands, and faces pale with hunger.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Trojans find unattended oxen and goats, kill them, invoke the gods and
+    Jove to share the spoil, and begin a banquet on the shore.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Harpies swoop from the mountains, plunder and defile the feast, produce
+    a foul smell, and utter cries.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A second meal is prepared under a caverned rock with altar fires, and the
+    Harpies again arrive and defile the food.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Aeneas orders an armed ambush; Misenus signals with brass; the comrades attack,
+    but their weapons do not wound the Harpies.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Celaeno lands on a cliff and speaks a prophecy naming Italy as the Trojans'
+    goal but warning that they will not wall their city before hunger forces them
+    to eat their tables.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The Trojans respond with fear, vows, prayers, and Anchises' appeal to the
+    gods to avert the menace before they depart by ship.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The voyagers pass Zacynthos, Dulichium, Same, Neritos, Ithaca, and Leucata,
+    then land and make offerings and games at Actium.
+  category: sequence
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: obs:11
+  text: Aeneas fixes a brass shield at a doorway and inscribes it as arms taken by
+    Aeneas from conquering Greeks.
+  category: object
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Aeneas
+  description: Narrator and leader who commands the comrades, declares war on the
+    Harpies, dedicates a shield, and orders departure.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: fig:2
+  name_or_label: Palinurus
+  description: Pilot who cannot distinguish day from night or remember the way amid
+    the waters during the storm.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Trojan comrades / children of Laomedon
+  description: Aeneas' companions who row, kill livestock, feast, fight the Harpies,
+    grow afraid, pray, and sail onward.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: Harpies
+  description: Winged beings inhabiting the Strophades, described with maidens' faces,
+    claws, foulness, hunger, and invulnerability to the Trojans' weapons.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Celaeno
+  description: A Harpy called a prophetess of ill and eldest born of the Furies; she
+    delivers the warning about Italy and eating tables.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Misenus
+  description: A watchman who signals from above on hollow brass when the Harpies
+    come down.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Anchises
+  description: Aeneas' father figure who calls on the gods from the beach with outspread
+    hands and orders sacrifices.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Jove / mighty gods
+  description: Divine recipients invoked by the Trojans during the livestock feast
+    and in Anchises' prayer for deliverance.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:9
+  name_or_label: Phoebus Apollo
+  description: Named within Celaeno's prophetic chain as receiving the oracle from
+    the omnipotent lord and passing it to Celaeno.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Storm-driven voyagers
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Aeneas and his companions are carried by ship through darkness, storm, and
+    subsequent landfalls.
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: role:2
+  label: Disoriented pilot
+  assigned_to:
+  - fig:2
+  basis: Palinurus cannot tell day from night or remember the route amid the waters.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Feast-plundering winged beings
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The Harpies swoop upon the meals, plunder and defile the food, and leave
+    foul traces.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: Prophetic speaker of ill omen
+  assigned_to:
+  - fig:5
+  basis: Celaeno is explicitly called a prophetess of ill and announces the hunger
+    omen.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: Commander and dedicator
+  assigned_to:
+  - fig:1
+  basis: Aeneas orders armed resistance and later dedicates the brass shield with
+    an inscription.
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: role:6
+  label: Armed companions
+  assigned_to:
+  - fig:3
+  basis: The comrades conceal weapons, rush in, and attempt to wound the Harpies.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: Signal watchman
+  assigned_to:
+  - fig:6
+  basis: Misenus signals from a watch-tower on high with hollow brass.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: Ritual intercessor
+  assigned_to:
+  - fig:7
+  basis: Anchises calls on the gods with outspread hands and orders sacrifices to
+    avert the omen.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: Invoked divine powers
+  assigned_to:
+  - fig:8
+  basis: The gods and Jove are invoked to share the spoil and later asked to avert
+    the threatened woe.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:10
+  label: Transmitter of prophecy
+  assigned_to:
+  - fig:9
+  basis: Celaeno states that the omnipotent lord foretold the words to Apollo, and
+    Apollo to her.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Storm sea
+  literal_form: High seas, deep, waves, waters, foam-flecked waters, and green water
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: sym:2
+  label: Cloud fire
+  literal_form: Fire bursting repeatedly out of storm clouds
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Mountain source of Harpies
+  literal_form: Mountains from which the Harpies swoop
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Caverned recess
+  literal_form: Deep recess under a caverned rock with woodland shadows
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Altar fires
+  literal_form: Renewed altar fires at the second feast and later altars of offering
+    at Actium
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:10
+- id: sym:6
+  label: Eating the tables
+  literal_form: Prophetic warning that hunger will force the Trojans to eat their
+    tables with gnawing teeth
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: Dedicated shield
+  literal_form: Hollow brass shield of Abas fixed by Aeneas with an inscription
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:8
+  label: Winged foul beings
+  literal_form: Harpies with maidens' faces, claws, hunger, filth, and wings
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Storm and disorientation at sea
+  summary: The ships are surrounded by sea and sky, caught in tempest, lightning,
+    darkness, and loss of direction until land appears on the fourth day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arrival at the Strophades
+  summary: The voyagers reach the Strophades, identified as the home of Celaeno and
+    the other Harpies after their flight from Phineus' house.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Slaughtered herds and defiled banquet
+  summary: The Trojans kill unattended livestock and prepare a feast; the Harpies
+    swoop down from the mountains, plunder the meal, and defile it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Second feast and failed armed resistance
+  summary: The Trojans prepare another meal in a caverned recess and set an ambush,
+    but their weapons cannot wound the Harpies.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Celaeno's prophecy
+  summary: Celaeno lands on a cliff, accuses the Trojans over the slaughtered cattle,
+    predicts arrival in Italy, and warns that hunger will make them eat their tables
+    before founding their city.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:9
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Prayer, departure, and later ritual at Actium
+  summary: The Trojans turn from arms to prayers; Anchises asks the gods to avert
+    the omen, the ships depart, and later the company purifies itself, offers worship,
+    holds games, and dedicates a shield at Actium.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Storm-driven wandering by sea
+  taxonomy_refs:
+  - departure
+  basis: The voyagers leave land, are overtaken by storm and darkness, lose direction,
+    and reach land only after several days.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents travel and wandering
+    rather than a formal departure rite.
+- id: motif:2
+  label: Supernatural beings defile a feast
+  taxonomy_refs: []
+  basis: The Harpies repeatedly descend on prepared meals, plunder them, foul them,
+    and cannot be wounded by ordinary weapons.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family exactly names Harpies or feast pollution.
+- id: motif:3
+  label: Prophetic curse of future hunger
+  taxonomy_refs:
+  - divine_judgment
+  basis: Celaeno, identified as a prophetess of ill, declares that the Trojans will
+    reach Italy but cannot found their city until hunger forces them to eat their
+    tables.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage frames the speech as prophecy and punishment for the attack
+    on the Harpies; broader theological interpretation should be reviewed.
+- id: motif:4
+  label: Ritual appeasement after ominous encounter
+  taxonomy_refs:
+  - sacrifice
+  basis: After the prophecy, the companions turn to vows and prayers, and Anchises
+    calls on the gods and orders sacrifices to avert the menace.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage does not detail the exact sacrificial offerings at this moment.
+- id: motif:5
+  label: Victory memorial through dedicated arms
+  taxonomy_refs: []
+  basis: At Actium, Aeneas fixes a captured brass shield at a doorway and marks it
+    with an inscription.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The action is clear, but its wider ritual or political function is not
+    fully explained in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links the Harpies of the Strophades with the episode
+    at Phineus' house, supporting a cautious connection to the nearby Greek Harpy-Phineus
+    mythic tradition.
+  claim_level: same_motif
+  target: Phineus' house and the Harpies in Greek mythic tradition
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage only alludes to Phineus' house and does not narrate that
+    episode, so the comparison is limited to the explicit reference.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1678-1693
+  quote_or_summary: The ships sail into storm, darkness, lightning, and confused waters;
+    Palinurus cannot tell day from night; land appears on the fourth day.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: 1694-1703
+  quote_or_summary: The Strophades receive the voyagers; the islands are inhabited
+    by Celaeno and other Harpies after their flight from Phineus' house; the Harpies
+    are described as winged, clawed, foul, and hungry.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: 1704-1710
+  quote_or_summary: The voyagers enter harbor, find unattended oxen and goats, attack
+    them with swords, invoke the gods and Jove, build seats, and feast.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: 1710-1716
+  quote_or_summary: The Harpies swoop from the mountains, shake their wings, plunder
+    and defile the feast, spread foul smell, and cry dreadfully.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: 1717-1723
+  quote_or_summary: A second board is set in a deep recess under a caverned rock with
+    altar fires; the Harpies again arrive from hidden quarters and defile the food.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: 1724-1736
+  quote_or_summary: Aeneas orders arms against the Harpies; Misenus signals; the comrades
+    attack, but the Harpies take no wounds and fly away, leaving foul traces.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: 1737-1750
+  quote_or_summary: Celaeno, called a prophetess of ill and eldest of the Furies,
+    accuses the Trojans and prophesies Italy as their goal, but says hunger will force
+    them to eat their tables before founding their city.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: 1751-1761
+  quote_or_summary: The comrades are frightened and seek vows and prayers rather than
+    arms; Anchises invokes the gods to avert the threats and orders sacrifices; the
+    ships depart.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: 1761-1768
+  quote_or_summary: The ships sail past Zacynthos, Dulichium, Same, Neritos, Ithaca,
+    and Leucata, then anchor by a little town.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:10
+  type: summary
+  locator: 1769-1787
+  quote_or_summary: At Actium the Trojans purify themselves in Jove's worship, kindle
+    altars, hold Ilium's games, pass through winter, and Aeneas dedicates Abas' brass
+    shield before sailing toward Buthrotum.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main narrative details are explicit. Motif taxonomy matches are partly
+    broad because the supplied taxonomy has no Harpy-specific or feast-pollution category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Evidence locators are approximate within the provided stable line range; later scene evidence extends to the passage's closing material as supplied.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l1678-l1762
+  passage_sha256=7a5ef85d250ce45e2a31aaf5b8daea428677ad113e44f4d40bcb86ca7e8554f7
+

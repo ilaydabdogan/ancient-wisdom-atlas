@@ -1,0 +1,666 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l1149-l1237
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK FIRST / THE COMING OF AENEAS TO CARTHAGE / BOOK SECOND / THE STORY OF
+    THE SACK OF TROY; lines 1149-1237
+  start: '1149'
+  end: '1237'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: During the sack of Troy, Cassandra is dragged from Minerva's sanctuary,
+    prompting Coroebus and Trojan companions to attack. The disguised Trojans suffer
+    from mistaken identity and are overwhelmed. Aeneas and companions move to Priam's
+    house, where Greeks besiege the palace. Trojan defenders use parts of the building
+    as weapons, topple a tower, and try to hold the entrances. Pyrrhus/Neoptolemus,
+    compared to a snake, leads the assault, burns the roof, breaks the doors, and
+    opens the royal chambers to armed Greeks. Women wail inside; the Greeks burst
+    in like a flood, slaughtering defenders. Priam, Hecuba, and the royal household
+    are seen amid altar blood, ruin, fire, and Greek occupation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Cassandra, Priam's daughter, is dragged from the temple and sanctuary of Minerva
+    with disordered hair, fettered hands, and eyes raised heavenward.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Coroebus reacts to Cassandra's seizure by rushing into battle, and the narrator's
+    group follows him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Trojan group suffers slaughter because their armor and Greek crests cause
+    confusion, and enemies later recognize their shields, weapons, and foreign speech.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: Coroebus is killed at the altar of the armed goddess; Rhipeus, Hypanis, Dymas,
+    and Panthus also fall.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The fighting concentrates at Priam's house, where Greeks attack the building
+    with ladders and shields while defenders hold the doorway and throw down parts
+    of the structure.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A hidden postern in Priam's halls is described as a passage formerly used
+    by Andromache when bringing Astyanax to his grandfather.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Trojan defenders wrench a tower from its foundations and make it crash down
+    on Greek ranks, but more attackers continue to climb.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Pyrrhus appears at the front doorway in gleaming armor and is compared to
+    a snake emerging into daylight after winter.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Pyrrhus and his companions climb the roof, throw flames onto the housetop,
+    and break through the palace doors with a poleaxe.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Inside the palace, women and mothers cry out, wander, cling to doors, and
+    kiss them.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The Greeks burst through the entrance, slaughter the foremost defenders, and
+    fill the space like an overflowing river.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The narrator reports seeing Neoptolemus, the sons of Atreus, Hecuba, her daughters,
+    and Priam bloodying his own altar fires; the bridal chambers are ruined, and Greeks
+    possess areas not consumed by fire.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Cassandra
+  description: Priam's maiden daughter, dragged from Minerva's temple and sanctuary
+    with fettered hands.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Coroebus
+  description: Trojan ally who attacks after seeing Cassandra and is later killed
+    at the altar of the armed goddess.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Aeneas / narrator
+  description: First-person speaker among the Trojan defenders who follows Coroebus,
+    withdraws with companions, and reports seeing the palace destruction.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: fig:4
+  name_or_label: Trojan companions / Teucrians / Dardanians
+  description: The narrator's side; they fight in confused armor, defend Priam's house,
+    throw down building materials, and topple a tower.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Greek forces / Grecians / Achaeans
+  description: Attacking forces including Ajax, the sons of Atreus, Dolopians, Scyrians,
+    and others who assault Priam's house.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Peneleus
+  description: Named killer of Coroebus at the altar.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Rhipeus
+  description: A Teucrian described as especially righteous and steadfast in justice
+    who falls during the fighting.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Hypanis and Dymas
+  description: Trojan figures who perish, pierced by friendly hands.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: Panthus
+  description: A figure whose goodness and Apollo's fillet do not protect him from
+    falling.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:10
+  name_or_label: Iphitus and Pelias
+  description: Companions with the narrator; Iphitus is aged, and Pelias is wounded
+    by Ulysses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:11
+  name_or_label: Andromache
+  description: Formerly used a hidden postern to go unattended to Priam's house.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:12
+  name_or_label: Astyanax
+  description: Boy carried by Andromache to his grandfather Priam.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:13
+  name_or_label: Priam
+  description: Kingly figure whose house is besieged; later seen polluting his consecrated
+    altar fires with his blood.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:14
+  name_or_label: Pyrrhus / Neoptolemus
+  description: Attacker at Priam's doorway, described in gleaming arms, compared to
+    a snake, and seen mad in slaughter.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:15
+  name_or_label: Periphas, Automedon, and Scyrian men
+  description: Companions of Pyrrhus who climb the roof and throw flames on the housetop.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:16
+  name_or_label: Hecuba and daughters of her house
+  description: Royal women seen inside the captured palace amid slaughter and ruin.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:17
+  name_or_label: Affrighted mothers and palace women
+  description: Women inside the house who cry out, wander, cling to doors, and kiss
+    them.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: captive sacred-space victim
+  assigned_to:
+  - fig:1
+  basis: Cassandra is dragged from Minerva's temple and sanctuary while fettered.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: rash rescuer or avenger
+  assigned_to:
+  - fig:2
+  basis: Coroebus attacks when he sees Cassandra being taken.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Trojan survivor-defender
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:10
+  basis: The narrator and companions continue fighting, withdraw, and move to defend
+    Priam's house.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: besieged palace defender
+  assigned_to:
+  - fig:4
+  basis: The Dardanians tear down roof material and defend the doorway in the last
+    fighting at Priam's house.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: Greek attacker
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:15
+  basis: Greek forces gather, assault the palace, climb roofs, use ladders, and burst
+    through entrances.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:6
+  label: fallen Trojan combatant
+  assigned_to:
+  - fig:2
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: These figures are explicitly said to fall or perish during the confused fighting.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: royal family visitor through hidden passage
+  assigned_to:
+  - fig:11
+  - fig:12
+  basis: Andromache formerly used the postern to bring Astyanax to his grandfather.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: royal household victim
+  assigned_to:
+  - fig:13
+  - fig:16
+  - fig:17
+  basis: Priam, Hecuba, royal daughters, mothers, and palace women are shown within
+    the besieged and captured house.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:9
+  label: palace-breaching champion
+  assigned_to:
+  - fig:14
+  basis: Pyrrhus leads at the front, breaks the doors, opens the house, and is seen
+    in slaughter.
+  evidence_refs:
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: Minerva's temple and sanctuary
+  literal_form: temple and sanctuary of Minerva
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: altar of the armed goddess
+  literal_form: altar of the goddess armipotent
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Priam's house
+  literal_form: royal dwelling, halls, postern, tower, doors, chambers, and bridal
+    chambers
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:13
+  - fig:14
+  - fig:16
+  - fig:17
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: fallen tower
+  literal_form: tower on the sheer brink wrenched from its foundations and made to
+    fall on Greek ranks
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: serpent simile for Pyrrhus
+  literal_form: snake fed on poisonous herbs, emerging after winter with shining youth
+    and triple-cloven tongue
+  associated_figures:
+  - fig:14
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: fire in the ruined palace
+  literal_form: flames on the housetop, altar fires, death flames, and areas where
+    fire fails
+  associated_figures:
+  - fig:13
+  - fig:14
+  - fig:15
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:7
+  label: flooding river simile
+  literal_form: foaming river bursting banks and sweeping fields, herds, and pens
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: disguising armor and alien speech
+  literal_form: Greek crests, lying weapons, shields, and alien tone on Trojan lips
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Cassandra dragged from sanctuary and Coroebus attacks
+  summary: Cassandra is taken from Minerva's sanctuary in bonds; Coroebus rushes into
+    combat, and the Trojan group follows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mistaken armor and deaths in sacred space
+  summary: Because of disguise and confusion, the Trojan group is overwhelmed; Coroebus
+    dies at an altar, and other Trojans fall, some by friendly hands.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:2
+  - sym:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:3
+  label: Defense of Priam's house
+  summary: Greeks press against Priam's house with ladders and shields while Dardanian
+    defenders tear down architectural pieces and hold entrances.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:13
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Postern, ridge, and falling tower
+  summary: The narrator moves by a hidden passage to a height; defenders topple a
+    tower onto Greek ranks, though attackers continue to come.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:11
+  - fig:12
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Pyrrhus breaches the palace
+  summary: Pyrrhus appears in shining armor like a snake, his companions hurl flames
+    from the roof, and he breaks open the palace doors and chambers.
+  figure_refs:
+  - fig:5
+  - fig:13
+  - fig:14
+  - fig:15
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Greek entry, slaughter, and royal ruin
+  summary: Women wail inside; the gate falls, Greeks pour in like a flood, and Priam's
+    household is seen amid blood, altar fires, ruined chambers, and occupation.
+  figure_refs:
+  - fig:5
+  - fig:13
+  - fig:14
+  - fig:16
+  - fig:17
+  symbol_refs:
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Captive maiden taken from sanctuary and failed rescue
+  taxonomy_refs: []
+  basis: Cassandra is dragged from Minerva's sanctuary, causing Coroebus and the Trojan
+    group to attack, but the rescue attempt leads into slaughter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents Cassandra as captive and sacred-space victim, but
+    does not develop a broader abduction-marriage or beloved-recovery pattern.
+- id: motif:2
+  label: Disguise causing friendly and enemy confusion
+  taxonomy_refs: []
+  basis: The Trojans' armor and Greek crests contribute to mistaken slaughter, and
+    their shields, weapons, and speech later reveal them to Greeks.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives battlefield confusion rather than a full trickster or
+    transformation episode.
+- id: motif:3
+  label: Last defense of a doomed royal house
+  taxonomy_refs: []
+  basis: Defenders at Priam's house use doors, roof materials, gilded beams, and a
+    tower in a final effort against the besieging Greeks.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a narrative pattern extracted from the passage rather than a supplied
+    taxonomy family.
+- id: motif:4
+  label: Serpent-like destroyer at the threshold
+  taxonomy_refs: []
+  basis: Pyrrhus appears at the palace doorway and is explicitly compared to a snake
+    emerging into daylight before he breaks through the doors.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The serpent is an epic simile attached to Pyrrhus, not an actual serpent
+    figure in the plot.
+- id: motif:5
+  label: Sacred and royal space violated by slaughter and fire
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: The passage combines deaths at altars, fire on the housetop, Priam's blood
+    at consecrated altar fires, ruined bridal chambers, and Greek possession of the
+    palace.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: 'The taxonomy reference is approximate: the destruction is the fall of
+    Troy and its royal house, not a literal cosmic world-destroying fire.'
+- id: motif:6
+  label: Enemy force as flood
+  taxonomy_refs: []
+  basis: The Greeks bursting into the palace are compared to a foaming river breaking
+    banks, overwhelming dykes, fields, herds, and pens.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is an explicit simile of force and inundation, not an actual flood
+    event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1149-1163
+  quote_or_summary: Cassandra is dragged from Minerva's sanctuary with fettered hands;
+    Coroebus rushes into danger, the narrator's group follows, and confusion begins
+    because of their armor and Greek crests.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1163-1180
+  quote_or_summary: Greek forces gather; the disguised Trojans are recognized by shields,
+    false weapons, and speech. Coroebus dies at the altar of the armed goddess; Rhipeus,
+    Hypanis, Dymas, and Panthus fall; the narrator withdraws with Iphitus and Pelias
+    toward Priam's house.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1181-1197
+  quote_or_summary: 'Battle is fiercest at Priam''s house: Greeks rush the building
+    with ladders and shields, while Dardanians tear down turrets, roof covering, and
+    gilded beams to defend the doors.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1198-1214
+  quote_or_summary: A hidden postern through Priam's halls is recalled as Andromache's
+    former route with Astyanax. The narrator reaches a ridge; Trojans topple a tower
+    onto Greek ranks, but more attackers swarm up.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1214-1228
+  quote_or_summary: Pyrrhus stands at the doorway in shining arms and is compared
+    to a snake emerging after winter. With Periphas, Automedon, and Scyrians, he throws
+    flames on the roof and breaks open the brazen-plated doors, exposing Priam's halls
+    and chambers.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1229-1234
+  quote_or_summary: Inside the house are shrieks, women's wailing, and frightened
+    mothers clinging to doors. The gate falls under the ram, and Greeks pour in, likened
+    to a foaming river bursting its banks.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1234-1237
+  quote_or_summary: The narrator sees Neoptolemus, the sons of Atreus, Hecuba and
+    her daughters, and Priam bloodying his consecrated altar fires. The many bridal
+    chambers are ruined; where fire does not consume, Greeks occupy.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif candidates
+    are cautious and mostly passage-specific; one taxonomy reference to world-destroying
+    fire is approximate and marked with caution. No external comparison claims were
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage and metadata. Taxonomy references limited to provided available refs when directly or cautiously supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l1149-l1237
+  passage_sha256=5f25186a17ca08a80cb7ec2c2c0890eaf5deaa2fa1b3eec1e3e9701b52c71fc0
+

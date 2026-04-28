@@ -1,0 +1,411 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l4312-l4349
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXXVI / XXXVII / XXXVIII / XXXIX; lines 4312-4349
+  start: '4312'
+  end: '4349'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A sequence of maxims advises against contradicting those more learned for
+    the sake of appearing wise, warns that association with the wicked corrupts even
+    the good, counsels not exposing others' secret faults, compares unused knowledge
+    to ploughed but unsown land, and distinguishes outer physical appearance from
+    inner moral character.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person who argues with someone more learned in order to be taken as wise
+    is said to confirm others in thinking him a fool.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage advises not to contradict a superior person in conversation, even
+    if one knows better.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One who associates with the wicked is said to see no good.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An angel from heaven associating with a demon is described as learning brutality,
+    perfidy, and hypocrisy.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says virtue cannot be learned from the vicious.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A wolf is described as tearing skins rather than mending them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The passage warns not to expose the secret failings of mankind because it
+    brings scandal on them and distrust on oneself.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A person who gains knowledge but does not practise it is compared to someone
+    who ploughs land and leaves it unsown.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage says a handsome physical exterior does not necessarily indicate
+    a good moral character.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Business or virtue is said to reside in the heart rather than in the skin.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Intellectual faculties may be assessed quickly, but innate baseness of the
+    heart may take years to detect.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: person arguing with one more learned
+  description: A person who disputes with someone more learned in order to appear
+    wise.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: one more learned / superior person
+  description: A person described as more learned or superior in conversation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: angel from heaven
+  description: An angel used in an example of association with a demon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: demon
+  description: A demon whose company is said to teach brutality, perfidy, and hypocrisy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: wolf
+  description: A wolf used as an example of one whose occupation is to tear skins,
+    not mend them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: person exposing secret failings
+  description: An implied person warned not to reveal the hidden faults of others.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: person with unused knowledge
+  description: A person who acquires knowledge but does not practise it.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: plougher leaving land unsown
+  description: A comparison figure who ploughs land but does not sow it.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: person with handsome exterior
+  description: A person whose physical appearance may not correspond to moral character.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: foolish disputer
+  assigned_to:
+  - fig:1
+  basis: The passage says such argument confirms others in thinking the person a fool.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: learned superior
+  assigned_to:
+  - fig:2
+  basis: The person is described as more learned or superior in conversation.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: good being vulnerable to corrupting association
+  assigned_to:
+  - fig:3
+  basis: Even an angel from heaven is said to learn bad traits by associating with
+    a demon.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: corrupting associate
+  assigned_to:
+  - fig:4
+  basis: The demon is the source from whom brutality, perfidy, and hypocrisy are learned
+    in the example.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: natural destroyer
+  assigned_to:
+  - fig:5
+  basis: The wolf is said to tear skins rather than mend them.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: revealer of faults
+  assigned_to:
+  - fig:6
+  basis: The passage addresses someone who might expose the secret failings of mankind.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: knower without practice
+  assigned_to:
+  - fig:7
+  basis: The person acquires knowledge and does not practise it.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: unproductive laborer
+  assigned_to:
+  - fig:8
+  basis: The plougher leaves ploughed land unsown.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: outwardly attractive but morally uncertain person
+  assigned_to:
+  - fig:9
+  basis: The passage says handsome exterior does not guarantee good moral character.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: angel and demon association
+  literal_form: angel from heaven associating with a demon
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: wolf tearing skins
+  literal_form: wolf tearing rather than mending skins
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ploughed but unsown land
+  literal_form: land that has been ploughed and left unsown
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: heart versus skin
+  literal_form: heart and skin as contrasted locations of character and appearance
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Argument with a learned superior
+  summary: A person seeking a reputation for wisdom argues with someone more learned
+    and is judged foolish; the maxim advises against contradicting a superior in conversation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Corruption through wicked association
+  summary: The passage warns that company with the wicked prevents good and illustrates
+    this with an angel who would learn bad traits from a demon and a wolf that tears
+    skins.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Warning against exposing hidden faults
+  summary: A maxim instructs the audience not to reveal others' secret failings, since
+    doing so causes scandal for them and distrust toward oneself.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Knowledge not put into practice
+  summary: Unused knowledge is compared to ploughing land but leaving it unsown.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Outer appearance and inner character
+  summary: The passage distinguishes handsome physical exterior from moral character
+    and says virtue resides in the heart, while hidden baseness may take years to
+    detect.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Practical wisdom in speech and conduct
+  taxonomy_refs:
+  - wisdom
+  basis: The passage gives maxims about deference in conversation, choosing associates,
+    discretion about faults, practising knowledge, and judging character cautiously.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage consists of ethical maxims
+    rather than narrative myth.
+- id: motif:2
+  label: Corrupting companionship
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that associating with the wicked prevents good and illustrates
+    that even an angel could learn vice from a demon.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an ethical teaching motif, not a developed mythic episode.
+- id: motif:3
+  label: Knowledge without practice as barren labor
+  taxonomy_refs:
+  - wisdom
+  basis: A person who acquires knowledge without practising it is compared to ploughed
+    but unsown land.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No specific cross-cultural taxonomy ID beyond the broad wisdom family
+    is supplied.
+- id: motif:4
+  label: Hidden inner character beneath outward appearance
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says beauty of exterior does not ensure moral goodness, and that
+    baseness of heart may take years to detect.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The motif is extracted as a wisdom theme rather than as a narrative symbol
+    system.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: XXXIX; within lines 4312-4349
+  quote_or_summary: A person who argues with someone more learned to appear wise proves
+    himself foolish; the passage advises not contradicting a superior in conversation.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: XL; within lines 4312-4349
+  quote_or_summary: Association with the wicked is said to prevent good; an angel
+    associating with a demon would learn brutality, perfidy, and hypocrisy; a wolf
+    tears skins rather than mends them.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: XLI; within lines 4312-4349
+  quote_or_summary: The passage warns not to expose the secret failings of mankind,
+    because this brings scandal on them and distrust on oneself.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: XLII; within lines 4312-4349
+  quote_or_summary: One who acquires knowledge but does not practise it is compared
+    to someone who ploughs land and leaves it unsown.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: XLVI; within lines 4312-4349
+  quote_or_summary: The passage says handsome physical appearance does not guarantee
+    good moral character; virtue resides in the heart, and hidden baseness may take
+    years to detect.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are broad wisdom-pattern
+    identifications. No comparison claims are made because the passage itself does
+    not explicitly support comparison to another corpus or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Section labels in the supplied passage differ from the passage locator note; this discrepancy is recorded in locator notes.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l4312-l4349
+  passage_sha256=1d953ef43c74a864f18b0332953c32467ba27e65c506f2d2602111572f488a2e
+

@@ -1,0 +1,386 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l4466-l4491
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXXIX / XLVII / XLVIII / LXIII; lines 4466-4491
+  start: '4466'
+  end: '4491'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Four aphoristic sections counsel against suddenly alienating a long-conciliated
+    friend, compare reason enthralled by passion to a man ruled by an artful woman,
+    state that intellect and firmness must be joined before dominion, and prefer a
+    spending, giving sinner to a begging, hoarding devotee.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A friend who has taken a long time to conciliate should not be alienated suddenly.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A stone is said to change into a ruby over many years and should not be destroyed
+    at once by striking it against another stone.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Reason is described as enthralled by passion.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Reason's enthrallment by passion is compared to an uxorious man in the hands
+    of an artful woman.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A dwelling where the scolding voice of a woman is heard is associated with
+    shutting the door of joy.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Intellect without firmness is called craft and chicanery.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Firmness without intellect is called perverseness and obstinacy.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Prudence, good sense, and discrimination are placed before dominion.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The dominion and good fortune of the ignorant are called the armor of rebellion
+    against God.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: A sinner who spends and gives away is said to be better than a devotee who
+    begs and lays by.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: friend
+  description: A friend whom others take an age to conciliate and are warned not to
+    alienate at once.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: reason
+  description: Reason is described as enthralled by passion.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: passion
+  description: Passion is the force by which reason is enthralled.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: uxorious man
+  description: A man used as an analogy for reason under passion, being in the hands
+    of an artful woman.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: artful woman
+  description: A woman who holds the uxorious man in her hands in the analogy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: intellect
+  description: Intellect is described as craft and chicanery when not joined with
+    firmness.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: firmness
+  description: Firmness is described as perverseness and obstinacy when not joined
+    with intellect.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: ignorant
+  description: The ignorant are associated with dominion and good fortune that become
+    armor of rebellion against God.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: sinner
+  description: A sinner who spends and gives away.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: devotee
+  description: A devotee who begs and lays by.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: long-conciliated relationship
+  assigned_to:
+  - fig:1
+  basis: The friend has taken an age to conciliate and should not be alienated suddenly.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: enthralled figure
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Reason is enthralled by passion as the uxorious man is in the hands of an
+    artful woman.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: enthralling figure
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: Passion enthralls reason, and the artful woman holds the uxorious man in
+    the analogy.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: paired qualities requiring union
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Intellect without firmness and firmness without intellect are both criticized.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: unfit possessor of dominion
+  assigned_to:
+  - fig:8
+  basis: The dominion and good fortune of the ignorant are described as armor of rebellion
+    against God.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: generous wrongdoer
+  assigned_to:
+  - fig:9
+  basis: The sinner spends and gives away and is judged better than the hoarding devotee.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: hoarding religious figure
+  assigned_to:
+  - fig:10
+  basis: The devotee begs and lays by and is judged worse than the giving sinner.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: stone becoming ruby
+  literal_form: A stone changes into a ruby over a series of years.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: stone striking stone
+  literal_form: A ruby-like stone can be destroyed at once by dashing it against another
+    stone.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: door of joy
+  literal_form: The door of joy may be shut upon a dwelling where a scolding voice
+    is heard.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: armor of rebellion
+  literal_form: Dominion and good fortune of the ignorant are called the armor of
+    rebellion against God.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: giving and laying by
+  literal_form: The sinner spends and gives away, while the devotee begs and lays
+    by.
+  associated_figures:
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Preserving a slowly won friend
+  summary: The aphorism warns that a friend won over through long effort should not
+    be lost suddenly, using the image of a stone becoming a ruby over time and being
+    destroyed by impact.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Reason enthralled by passion
+  summary: The aphorism says reason is enthralled by passion and likens this to an
+    uxorious man under the power of an artful woman; it adds that joy departs from
+    a dwelling marked by scolding.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Intellect and firmness before dominion
+  summary: The aphorism contrasts intellect without firmness and firmness without
+    intellect, then says prudence, sense, and discrimination should precede dominion
+    because ignorant dominion becomes rebellion against God.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Generous sinner and hoarding devotee
+  summary: The aphorism ranks a sinner who spends and gives above a devotee who begs
+    and stores up.
+  figure_refs:
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: practical moral wisdom through aphoristic contrast
+  taxonomy_refs:
+  - wisdom
+  basis: The passage consists of concise moral maxims about preserving friendship,
+    governing reason and passion, joining intellect with firmness, and judging generosity
+    above hoarding piety.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a broad motif-family assignment based on didactic content rather
+    than a narrative episode.
+- id: motif:2
+  label: paired opposition of qualities and persons
+  taxonomy_refs:
+  - duality
+  basis: 'The passage repeatedly uses contrasts: friend won over slowly versus alienated
+    suddenly, reason versus passion, intellect versus firmness, and generous sinner
+    versus hoarding devotee.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage uses rhetorical opposition, not a developed cosmological or
+    mythic dualism.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: LXIII; lines 4466-4471
+  quote_or_summary: A long-conciliated friend should not be alienated at once; a stone
+    that becomes a ruby over years should not be destroyed by striking another stone.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: LXIV; lines 4472-4477
+  quote_or_summary: Reason is enthralled by passion as an uxorious man is in the hands
+    of an artful woman; a dwelling with a scolding woman's voice is associated with
+    the shutting of joy's door.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: LXV; lines 4478-4486
+  quote_or_summary: Intellect without firmness and firmness without intellect are
+    both criticized; prudence, sense, and discrimination should precede dominion,
+    while ignorant dominion is called armor of rebellion against God.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: LXVI; lines 4487-4491
+  quote_or_summary: A sinner who spends and gives away is judged better than a devotee
+    who begs and lays by.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied aphorisms. Motif
+    labels are broad because the passage is didactic and non-narrative. No comparison
+    claims were made because the passage itself does not support a specific cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. Available symbol taxonomy did not include stone, ruby, door, armor, or gift/hoard imagery, so symbol taxonomy references are empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l4466-l4491
+  passage_sha256=8e6a0bfe4d37bdd921d4ddfb357f6bd61355c41e9a5945102752920c27b62870
+

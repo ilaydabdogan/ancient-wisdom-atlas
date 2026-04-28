@@ -1,0 +1,607 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l402-l491
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: PREFACE / THE AENEID / BOOK FIRST / THE COMING OF AENEAS TO CARTHAGE; lines
+    402-491
+  start: '402'
+  end: '491'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Aeneas explores an unknown Libyan coast after storm-driven landfall, hiding
+    the fleet while he and Achates enter the wilderness. Venus, his mother, meets
+    him disguised as a huntress and tells him the story of Dido's flight from Tyre
+    after Pygmalion murdered Sychaeus. Aeneas identifies himself as a Trojan exile
+    carrying rescued household gods and seeking Italy. Venus reassures him that his
+    comrades and ships are safe, using an augury of twelve swans, and directs him
+    toward Dido's court.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Aeneas leaves at first light to explore the strange country and determine
+    who inhabits it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fleet is hidden in groves under a caverned rock, in woodland shadow.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Achates alone follows Aeneas, who carries two broad-headed spears.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Venus crosses Aeneas' path in the forest while wearing the appearance and
+    equipment of a maiden huntress.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Aeneas addresses the unknown maiden as divine or nymph-like and asks where
+    he and his companions have been cast ashore.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Venus says the land is Punic and Tyrian, ruled by Dido, and gives an account
+    of Dido's flight from her brother Pygmalion.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Pygmalion kills Sychaeus before the altars with a hidden weapon and conceals
+    the crime for a time.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The ghost of Sychaeus appears in Dido's sleep, reveals the murder and hidden
+    treasure, and advises flight.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Dido gathers people hostile to or afraid of the tyrant, seizes ready ships,
+    loads them with gold, and reaches the site of Carthage.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Aeneas says he is carrying the household gods rescued from the enemy and seeking
+    Italy under divine and oracular guidance.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Aeneas says only seven of his twenty ships survived the storm-driven journey
+    to the Libyan coast.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Venus tells Aeneas that his comrades and fleet are restored and uses twelve
+    swans as an augury for the ships and crews.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Aeneas
+  description: Trojan exile, son of Venus, leader of the fleet, carrier of rescued
+    household gods, seeking Italy.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Achates
+  description: Companion who alone follows Aeneas into the forest.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Venus
+  description: Aeneas' mother, appearing in the forest disguised as a maiden huntress;
+    she provides information, reassurance, and direction.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Dido
+  description: Ruler of the Tyrian/Punic people in Libya; widow of Sychaeus; flees
+    Tyre and leads followers to Carthage.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Sychaeus
+  description: Dido's wealthy Phoenician husband, murdered by Pygmalion; his ghost
+    appears to Dido and reveals the crime and treasure.
+  role_refs:
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Pygmalion
+  description: Dido's brother and king of Tyre, described as monstrous in guilt and
+    driven by lust for gold; he murders Sychaeus.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Dido's company
+  description: People who hate or fear the tyrant, assemble for flight, seize ships,
+    and sail with Dido.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Aeneas' comrades and crews
+  description: Companions of Aeneas whose ships Venus says have been restored to safety.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:9
+  name_or_label: Twelve swans
+  description: Birds in joyous line used by Venus as an augural comparison for Aeneas'
+    ships and crews.
+  role_refs:
+  - role:14
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Bird of Jove
+  description: A bird from the tract of heaven that drives or disturbs the twelve
+    swans in the open sky.
+  role_refs:
+  - role:15
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: explorer of unknown land
+  assigned_to:
+  - fig:1
+  basis: Aeneas goes out at first light to explore the strange country and learn its
+    inhabitants.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: exiled leader seeking homeland
+  assigned_to:
+  - fig:1
+  basis: Aeneas identifies himself as driven from Troy, wandering in Libya, and seeking
+    Italy.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: bearer of household gods
+  assigned_to:
+  - fig:1
+  basis: Aeneas says he carries in his fleet the household gods rescued from the enemy.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: single loyal companion
+  assigned_to:
+  - fig:2
+  basis: Achates alone follows Aeneas into the forest.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: disguised divine mother
+  assigned_to:
+  - fig:3
+  basis: Venus is Aeneas' mother and appears with the face, dress, and arms of a maiden
+    huntress.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:6
+  label: divine guide and reassurer
+  assigned_to:
+  - fig:3
+  basis: Venus explains the land and Dido's history, announces the fleet's safety,
+    interprets swans as an omen, and sends Aeneas to the queen's courts.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:7
+  label: fugitive queen
+  assigned_to:
+  - fig:4
+  basis: Dido flees her brother from Tyre and later rules the Tyrian/Punic realm in
+    Libya.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: female founder-leader
+  assigned_to:
+  - fig:4
+  basis: Dido leads the flight overseas and reaches the land where Carthage and its
+    citadel are rising.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: murdered husband
+  assigned_to:
+  - fig:5
+  basis: Sychaeus is Dido's husband and is killed by Pygmalion before the altars.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: ghostly revealer
+  assigned_to:
+  - fig:5
+  basis: Sychaeus' ghost appears in sleep, reveals the household crime and hidden
+    treasure, and counsels flight.
+  evidence_refs:
+  - ev:4
+- id: role:11
+  label: greedy kin-murderer
+  assigned_to:
+  - fig:6
+  basis: Pygmalion, Dido's brother, murders Sychaeus through lust for gold and hides
+    the deed.
+  evidence_refs:
+  - ev:4
+- id: role:12
+  label: refugee followers
+  assigned_to:
+  - fig:7
+  basis: Those who hate or fear the tyrant join Dido, seize ships, and leave with
+    the gold.
+  evidence_refs:
+  - ev:4
+- id: role:13
+  label: storm-scattered companions
+  assigned_to:
+  - fig:8
+  basis: Aeneas' comrades are separated after storm and fleet damage, but Venus says
+    they are restored to safety.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:14
+  label: augural sign
+  assigned_to:
+  - fig:9
+  basis: Venus points to twelve swans and says their behavior corresponds to the state
+    of Aeneas' ships and crews.
+  evidence_refs:
+  - ev:6
+- id: role:15
+  label: heavenly pursuer in omen
+  assigned_to:
+  - fig:10
+  basis: The bird of Jove descends from heaven and drives the swans across the sky.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: caverned rock and groves
+  literal_form: A caverned rock amid woodland groves and shadow where the fleet is
+    hidden.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sea and storm waves
+  literal_form: Alien seas, desolate waves, and storm winds that drive Aeneas to Libya.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: household gods
+  literal_form: The household gods Aeneas says he rescued from the enemy and carries
+    in his fleet.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: altars
+  literal_form: Altars before which Aeneas promises sacrifice and before which Sychaeus
+    is killed.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: hidden treasure
+  literal_form: Silver and gold hidden underground and disclosed by Sychaeus' ghost
+    to aid Dido's flight.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: ships and fleet
+  literal_form: Ships used by Dido's company for flight and by Aeneas' surviving crews
+    after the storm.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: bull's hide boundary
+  literal_form: Ground called Byrsa, as much as a bull's hide would encircle.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: twelve swans
+  literal_form: Twelve swans in a joyous line, circling and settling, used as a sign
+    of the ships' safety.
+  associated_figures:
+  - fig:3
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Aeneas explores the unknown coast
+  summary: Aeneas hides the fleet in woodland under a caverned rock and goes forward
+    with Achates to investigate the land and its inhabitants.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Encounter with Venus in disguise
+  summary: Venus appears as a huntress maiden, asks about a supposed sister, and receives
+    Aeneas' request for guidance about the land.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Dido's flight from Tyre
+  summary: Venus recounts how Pygmalion murdered Sychaeus, how Sychaeus' ghost revealed
+    the crime and hidden treasure, and how Dido led followers overseas to Carthage.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Aeneas identifies himself
+  summary: Aeneas names himself, recounts his Trojan origin, rescued household gods,
+    divine and oracular guidance toward Italy, and storm-driven loss of ships.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Venus gives reassurance and swan augury
+  summary: Venus says Aeneas is not hated by the immortals, directs him to the queen's
+    courts, and interprets twelve swans as a sign that his ships and crews are safe.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine parent guides disguised child-hero
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Venus, Aeneas' mother, appears in disguise, gives him information about the
+    land, assures him of his companions' safety, and directs his path.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage emphasizes disguise and guidance; the taxonomy reference covers
+    the parent-child relation but not every element of disguise.
+- id: motif:2
+  label: storm-driven exile seeking destined homeland
+  taxonomy_refs:
+  - departure
+  basis: Aeneas says he left Troy, crossed alien seas, was driven by storm to Libya,
+    and seeks Italy under divine and oracular guidance.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage presents an ongoing journey rather than only the initial departure.
+- id: motif:3
+  label: fugitive founder leads followers overseas
+  taxonomy_refs:
+  - departure
+  - royal_legitimacy
+  basis: Dido flees her brother, gathers followers, takes ships and treasure, and
+    reaches the land where Carthage and its citadel rise.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives a compressed foundation backstory; broader royal-legitimacy
+    implications are suggested by Dido's rule but not fully developed here.
+- id: motif:4
+  label: murdered dead reveals hidden truth in dream
+  taxonomy_refs: []
+  basis: The ghost of Sychaeus appears to Dido in sleep, displays the wound, reveals
+    the household crime, and discloses hidden treasure.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family directly matches ghostly revelation or dream
+    apparition.
+- id: motif:5
+  label: bird omen confirms companions' safety
+  taxonomy_refs: []
+  basis: Venus points to twelve swans and interprets their safe gathering as corresponding
+    to Aeneas' ships and crews returning to harbor.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family directly names augury or omen interpretation.
+- id: motif:6
+  label: sacred cargo preserved through exile
+  taxonomy_refs:
+  - ark_vessel
+  basis: Aeneas carries the household gods rescued from the enemy in his fleet while
+    wandering after Troy's fall.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The fleet functions as a carrier of sacred household gods, but the passage
+    does not frame it as an ark in explicit terms.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly likens Venus' huntress appearance to Harpalyce of
+    Thrace in speed and martial-hunting presentation.
+  claim_level: visual_similarity
+  target: Harpalyce of Thrace
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an explicit simile in the passage, not evidence of shared narrative
+    function or historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 402-411
+  quote_or_summary: Aeneas leaves at first light to explore the strange country, hides
+    the fleet in groves beneath a caverned rock, and advances with Achates while carrying
+    two spears.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summary prepared from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 411-423
+  quote_or_summary: Venus meets Aeneas in the forest disguised as a maiden huntress,
+    compared to a Spartan maiden or Harpalyce of Thrace, and asks whether the men
+    have seen a similarly equipped sister.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summary prepared from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 424-438
+  quote_or_summary: Aeneas says the maiden's face and voice seem divine, asks for
+    help identifying the coast and people, and promises sacrifices at her altars.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summary prepared from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 439-468
+  quote_or_summary: Venus identifies the Punic/Tyrian realm and Dido's rule, recounting
+    Sychaeus' murder by Pygmalion, the ghost's revelation of the crime and hidden
+    treasure, and Dido's overseas flight to the site of Carthage and Byrsa.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summary prepared from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 469-484
+  quote_or_summary: Aeneas identifies himself as a Trojan carrying rescued household
+    gods, seeking Italy by oracles and his goddess mother's guidance, and reduced
+    from twenty ships to seven after storm and waves drove him to Libya.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summary prepared from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 485-491
+  quote_or_summary: Venus says Aeneas has reached the Tyrian city with divine favor,
+    tells him to go to the queen's courts, and interprets twelve swans as a sign that
+    his ships and crews are safe or entering harbor.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summary prepared from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif confidence varies
+    where available taxonomy labels only partially match the observed pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or unsupported taxonomy identifiers were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l402-l491
+  passage_sha256=357bafe6547d179bcbb49a1c6d549e58424e454851658fc07ef5565ad086c501
+

@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l4553-l4571
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: LXXVI / LXXVII / LXXVIII / LXXXI; lines 4553-4571
+  start: '4553'
+  end: '4571'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Two aphoristic passages state that catch, death, wealth-seeking, and misfortune
+    are governed by lot or fate; and that an envious man is hostile to Providence’s
+    gifts and already burdened by his own disposition.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A fisherman catches no fish in the Tigris unless it is his lot.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A fish does not die on dry land unless it is its fate.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A wretched miser prowls over the world in quest of wealth while death is in
+    quest of him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The envious man is described as niggardly toward the gifts of Providence and
+    as an enemy of the innocent.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker says he met a dry-brained fellow wearing the robe of a dignified
+    person.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker warns the man not to wish misfortune on another, because the other’s
+    own ill-conditioned lot is already sufficient calamity.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The passage says the misanthrope has an enemy close at his heels.
+  category: relationship
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: fisherman
+  description: A fisherman in relation to catching fish in the Tigris.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: fish
+  description: A fish whose death on dry land is governed by fate.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: wretched miser
+  description: A miser prowling over the world in search of wealth while death seeks
+    him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: death
+  description: Death is personified as pursuing the miser.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: envious man
+  description: A man described as envious, niggardly toward Providence’s gifts, and
+    hostile to the innocent.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: speaker
+  description: The first-person voice who reports meeting the envious man and addressing
+    him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: misanthrope
+  description: A person whose own ill-conditioned lot is said to be calamity enough
+    and who has an enemy close at his heels.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: fated actor
+  assigned_to:
+  - fig:1
+  basis: The fisherman’s catch depends on his lot.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fated victim
+  assigned_to:
+  - fig:2
+  basis: The fish’s death on dry land depends on its fate.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: greedy seeker
+  assigned_to:
+  - fig:3
+  basis: The miser is described as seeking wealth throughout the world.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: pursuer
+  assigned_to:
+  - fig:4
+  basis: Death is described as being in quest of the miser.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: envious antagonist
+  assigned_to:
+  - fig:5
+  basis: The man is called envious and an enemy of the innocent.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: moral speaker
+  assigned_to:
+  - fig:6
+  basis: The speaker addresses the envious man with admonitory counsel.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: self-burdened figure
+  assigned_to:
+  - fig:7
+  basis: The misanthrope’s own ill-conditioned lot is described as sufficient calamity.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Tigris
+  literal_form: river
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: dry land
+  literal_form: dry land
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: pelf
+  literal_form: wealth or money sought by the miser
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: robe of a dignified person
+  literal_form: robe
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: gifts of Providence
+  literal_form: gifts attributed to Providence
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: enemy close at his heels
+  literal_form: enemy at the heels
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Fate governing catch and death
+  summary: The passage states that the fisherman’s catch and the fish’s death depend
+    on lot or fate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Miser pursued by death
+  summary: The miser seeks wealth throughout the world while death seeks him.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: Admonition to the envious man
+  summary: The speaker meets an envious man in dignified clothing and tells him not
+    to wish misfortune on another, because such a person’s own condition is already
+    calamity enough.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: fate or lot governing human and animal outcomes
+  taxonomy_refs: []
+  basis: The fisherman’s catch and the fish’s death are explicitly said to depend
+    on lot or fate.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No specific supplied taxonomy family directly names fate, so no taxonomy
+    reference is assigned.
+- id: motif:2
+  label: death pursuing the wealth-seeker
+  taxonomy_refs: []
+  basis: The miser searches for wealth while death is personified as searching for
+    him.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is aphoristic rather than a developed narrative of death encounter
+    or afterlife.
+- id: motif:3
+  label: moral wisdom against envy and ill-will
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker gives moral counsel that the envious or misanthropic person is
+    already punished by his own disposition.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethical aphorism rather than a mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: LXXVIII; lines 4553-4558
+  quote_or_summary: The passage says a fisherman catches no fish in the Tigris unless
+    it is his lot; a fish does not die on dry land unless it is fate; and a miser
+    seeks wealth while death seeks him.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: LXXXI; lines 4563-4571
+  quote_or_summary: The passage describes an envious man as begrudging Providence’s
+    gifts and hostile to the innocent; the speaker meets such a man in dignified clothing
+    and warns him not to wish misfortune on one whose own condition is already calamity
+    enough.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labeling is limited because
+    the passage is aphoristic and only one supplied taxonomy family, wisdom, clearly
+    applies.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison beyond general motif categorization.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l4553-l4571
+  passage_sha256=f681cdf545c5db9a060319a2ea0c73c81266b7c6be4e537fa6d54cc09eeeb274
+

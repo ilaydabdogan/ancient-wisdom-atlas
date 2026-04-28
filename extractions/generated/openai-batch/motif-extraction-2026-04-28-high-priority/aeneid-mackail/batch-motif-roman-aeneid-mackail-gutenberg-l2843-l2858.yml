@@ -1,0 +1,445 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l2843-l2858
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK FOURTH / THE LOVE OF DIDO, AND HER END / BOOK FIFTH / THE GAMES OF THE
+    FLEET; lines 2843-2858
+  start: '2843'
+  end: '2858'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: On the ninth dawn, people gather on the shore for games associated with
+    Aeneas' men and Acestes. Prizes are displayed, a trumpet announces the games,
+    and the first contest is a rowing race among four ships commanded by Mnestheus,
+    Gyas, Sergestus, and Cloanthus. Several commanders are linked genealogically to
+    later Roman families.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The desired day arrives on the ninth dawn, described as clear and bright.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The name and renown of Acestes draw bordering people to the shore.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A holiday crowd fills the shore to see Aeneas' men, with some people ready
+    to compete.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Prizes are displayed in the middle of the racecourse, including sacrificial
+    tripods, garlands, palms, armour, purple-dyed garments, and silver and gold.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A trumpet sounds from a hillock in the middle, announcing that the games have
+    begun.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The first contest is rowing, with four ships of matched weight chosen from
+    the fleet.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Mnestheus commands the swift Dragon with keen oarsmen.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Gyas commands the huge Chimaera, described as a floating town with a triple-tiered
+    Dardanian crew rowing in three ranks.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Sergestus sails in the tall Centaur.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Cloanthus sails in the sea-coloured Scylla.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Mnestheus, Sergestus, and Cloanthus are each connected to later Roman family
+    names.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Acestes
+  description: An illustrious figure whose name and renown have stirred up the bordering
+    people.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Aeneas' men
+  description: The group whom the crowd gathers to see at the shore during the games.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Bordering people / holiday throng
+  description: People from surrounding areas who fill the shore; some are ready to
+    join contests.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Mnestheus
+  description: Commander of the swift Dragon; identified as ancestor-name of the Memmian
+    family.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Gyas
+  description: Commander of the huge Chimaera.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Dardanian crew of the Chimaera
+  description: A triple-tiered crew rowing in three ranks aboard the Chimaera.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Sergestus
+  description: Commander sailing in the tall Centaur; associated with the Sergian
+    house.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Cloanthus
+  description: Commander sailing in the sea-coloured Scylla; associated with the family
+    of Cluentius of Rome.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: renowned local figure
+  assigned_to:
+  - fig:1
+  basis: His name and renown stir up people from the borders.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: spectacle participants
+  assigned_to:
+  - fig:2
+  basis: The crowd comes to see Aeneas' men during the games.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: festival spectators and possible contestants
+  assigned_to:
+  - fig:3
+  basis: They fill the shore as a holiday throng, and some are ready to join contests.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: ship commander in rowing contest
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:8
+  basis: Each named man is linked to one of the four ships entering the rowing contest.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: eponymous ancestor or name-source of Roman family
+  assigned_to:
+  - fig:4
+  - fig:7
+  - fig:8
+  basis: The passage connects these commanders' names to the Memmian family, Sergian
+    house, and family of Cluentius of Rome.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:6
+  label: rowers
+  assigned_to:
+  - fig:6
+  basis: The Chimaera's Dardanian crew urge the ship on with oars.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: shore
+  literal_form: shore filled by the holiday throng
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: racecourse prizes
+  literal_form: sacrificial tripods, green garlands, palms, armour, purple-dyed garments,
+    talents of silver and gold
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: trumpet
+  literal_form: trumpet sounding from a hillock to begin the games
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Dragon ship
+  literal_form: swift ship named Dragon
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Chimaera ship
+  literal_form: huge ship named Chimaera, described as a floating town
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Centaur ship
+  literal_form: tall ship named Centaur
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: Scylla ship
+  literal_form: sea-coloured ship named Scylla
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Gathering for the games
+  summary: On the ninth dawn, people gather on the shore because of Acestes' renown,
+    forming a holiday crowd to watch Aeneas' men and contests.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Prizes displayed and games announced
+  summary: Prizes are set out in the racecourse, and a trumpet sounds from a hillock
+    to signal the start of the games.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Opening rowing contest
+  summary: The first contest is rowing; four ships from the fleet enter with named
+    commanders and crews.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Genealogical naming of Roman families
+  summary: The passage links several Trojan or epic figures in the boat race to later
+    Roman families by name.
+  figure_refs:
+  - fig:4
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: funeral or festival games with public contests and prizes
+  taxonomy_refs: []
+  basis: A crowd gathers for games; prizes are displayed; a trumpet begins the event;
+    the first contest is a rowing race.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The excerpt itself does not state the broader ritual occasion beyond the
+    games and holiday crowd.
+- id: motif:2
+  label: contest by ships on water
+  taxonomy_refs: []
+  basis: The first event is a rowing contest among four selected ships of matched
+    weight.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: Only the start and competitors of the contest are included in this passage;
+    no outcome is given.
+- id: motif:3
+  label: ancestral naming of later Roman lineages
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Mnestheus, Sergestus, and Cloanthus are presented as name-sources or ancestral
+    links for later Roman families.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: 'The available taxonomy label is broader than the passage evidence: the
+    passage supports lineage legitimation, but does not explicitly discuss kingship
+    or royal authority.'
+- id: motif:4
+  label: ships bearing mythic creature names
+  taxonomy_refs: []
+  basis: The rowing ships are named Dragon, Chimaera, Centaur, and Scylla.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage treats these as ship names; it does not narrate encounters
+    with the mythic beings themselves.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2843-2847
+  quote_or_summary: The ninth dawn arrives clear and bright; Acestes' renown draws
+    bordering people, and a holiday crowd fills the shore to see Aeneas' men and possible
+    contestants.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 2847-2851
+  quote_or_summary: 'Prizes are displayed in the racecourse: sacrificial tripods,
+    garlands, palms, armour, purple garments, and silver and gold; a trumpet sounds
+    from a hillock to begin the games.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 2851-2853
+  quote_or_summary: The first contest is rowing, and four ships of matched weight,
+    chosen from the fleet, enter.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 2853-2855
+  quote_or_summary: Mnestheus' oarsmen drive the swift Dragon; Mnestheus is linked
+    by name to the Memmian family.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 2855-2856
+  quote_or_summary: Gyas commands the huge Chimaera, a 'floating town,' propelled
+    by a triple-tiered Dardanian crew rowing in three ranks.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; short public-domain phrase included.
+- id: ev:6
+  type: summary
+  locator: 2856-2857
+  quote_or_summary: Sergestus, linked to the Sergian house, sails in the tall Centaur.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: 2857-2858
+  quote_or_summary: Cloanthus sails in the sea-coloured Scylla and is associated with
+    the family of Cluentius of Rome.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif taxonomy mapping is limited
+    because the passage mainly describes games, ship names, and genealogical naming;
+    the only available taxonomy reference used is broader than the immediate evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit cross-tradition or motif-family comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l2843-l2858
+  passage_sha256=8209c8934228901f79cdf00b8752e9b457953a050907a96852e19e001d8a55b6
+

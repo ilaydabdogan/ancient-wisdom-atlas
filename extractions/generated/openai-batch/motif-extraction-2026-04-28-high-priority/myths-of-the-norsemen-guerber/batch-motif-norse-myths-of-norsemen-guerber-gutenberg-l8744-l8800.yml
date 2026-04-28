@@ -1,0 +1,425 @@
+---
+record_id: batch.motif.norse-myths-of-norsemen-guerber-gutenberg-l8744-l8800
+source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+passage_locator:
+  label: 'L. E. R. / CHAPTER XXI: BALDER / CHAPTER XXII: LOKI / CHAPTER XXIII: THE
+    GIANTS; lines 8744-8800'
+  start: '8744'
+  end: '8800'
+  translation: 'Myths of the Norsemen: From the Eddas and Sagas'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage recounts a local legend of Princess Ilse, daughter of the giant
+    of the Ilsenstein, whose father forbids her mortal lover and creates a cleft between
+    them; Ilse leaps into the flood, becomes an undine, and haunts the waterfall enticing
+    mortals. It then recounts a giant legend in which a young giantess mistakes a
+    farmer and his team for playthings, carries them home, and is told by her father
+    to return them because humans will eventually displace the giants.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Princess Ilse is described as the lovely daughter of the giant of the Ilsenstein
+    and is known as the Beautiful Princess Ilse.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Princess Ilse prefers the Lord of Westerburg among many knightly suitors.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ilse's father forbids her to see her mortal lover, but she continues to visit
+    him daily.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The giant tears a great gap between his height and the castle of Westerburg.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Princess Ilse leaps from the precipice into the flood and is changed into
+    an undine.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: After her transformation, Ilse dwells in the waters and appears at times to
+    fascinate mortals.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Local belief says Ilse still haunts the stream and waves her white arms to
+    entice travellers into the waterfall spray.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage states that giants inhabited the earth before it was given to
+    mankind and withdrew reluctantly to barren regions.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A young giantess, unfamiliar with humans, sees a farmer ploughing and carries
+    him with his team in her apron as a plaything.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The giantess's father orders her to return the farmer and horses and says
+    humans will eventually drive the giants away and become masters of the earth.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Princess Ilse
+  description: Lovely daughter of the giant of the Ilsenstein; beloved of the Lord
+    of Westerburg; changed into an undine in the waters.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Giant of the Ilsenstein
+  description: Princess Ilse's father, who forbids her mortal lover and tears open
+    a gap between the two locations.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Lord of Westerburg
+  description: Mortal lover preferred by Princess Ilse.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Emperor Henry
+  description: A ruler said to have been captivated by Princess Ilse and to have visited
+    her cascade often.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Young giantess
+  description: A giantess who strays from home, mistakes a farmer with his team for
+    a plaything, and carries them home in her apron.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Farmer with team and horses
+  description: A farmer ploughing on a hillside with his team, carried away by the
+    young giantess and later returned.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Father of the young giantess
+  description: A giant who orders the young giantess to return the farmer and horses
+    and explains that humans will displace the giants.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Separated lovers
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Ilse prefers the Lord of Westerburg, but her father forbids the relationship
+    and physically separates them by making a cleft.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Prohibiting giant father
+  assigned_to:
+  - fig:2
+  basis: Ilse's father disapproves of her mortal lover, forbids contact, and tears
+    open a gap between them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: Transformed water-being
+  assigned_to:
+  - fig:1
+  basis: Ilse leaps into the flood and is changed into an undine dwelling in the waters.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: Enticing water-haunter
+  assigned_to:
+  - fig:1
+  basis: Ilse is said to haunt the stream and entice travellers into the waterfall
+    spray.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Captivated mortal visitor
+  assigned_to:
+  - fig:4
+  basis: Emperor Henry is said to have been captivated by Ilse and to have visited
+    her cascade frequently.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Naive giant child
+  assigned_to:
+  - fig:5
+  basis: The young giantess has not seen humans before and treats the farmer and team
+    as a plaything.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: Human mistaken for plaything
+  assigned_to:
+  - fig:6
+  basis: The farmer and his team are picked up and carried home by the young giantess
+    as objects of amusement.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: Giant elder foretelling displacement
+  assigned_to:
+  - fig:7
+  basis: The father orders the human and horses returned and says humans will become
+    masters of the earth.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Waters of Ilse
+  literal_form: raging flood, limpid waters, cascade, stream, and waterfall spray
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Rock height and cleft
+  literal_form: rocks, the height of the Ilsenstein, a great gap, and a precipice
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Apron carrying humans and horses
+  literal_form: the young giantess's apron holding the farmer and his team
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Waste and barren giant lands
+  literal_form: waste and barren parts of the country where giants retreat
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Forbidden mortal courtship
+  summary: Princess Ilse loves the Lord of Westerburg, but her giant father forbids
+    her to see him because he is mortal; she continues visiting him despite the ban.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cleft, leap, and transformation
+  summary: The giant tears a gap between his height and Westerburg; Ilse reaches the
+    cleft, leaps into the flood below, and is changed into an undine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Undine haunting the waterfall
+  summary: Ilse remains in the waters, appears to mortals, is said to captivate Emperor
+    Henry, and is believed to entice travellers at the waterfall.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Giantess carries off a farmer as a plaything
+  summary: A young giantess strays into an inhabited valley, sees a farmer ploughing
+    for the first time, carries him and his team home in her apron, and is told by
+    her father to return them because humans will displace the giants.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Forbidden love across mortal and giant worlds
+  taxonomy_refs: []
+  basis: A giant father forbids his daughter from consorting with a mortal lover and
+    intervenes by creating a physical separation between them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents this as a local legend rather than an explicitly
+    named motif family.
+- id: motif:2
+  label: Leap into water followed by transformation into a water-being
+  taxonomy_refs:
+  - death_rebirth
+  basis: Princess Ilse leaps into the flood and is changed into an undine who dwells
+    in the waters.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The text states transformation but does not explicitly say that Ilse dies
+    and is reborn; the taxonomy link is therefore approximate.
+- id: motif:3
+  label: Water-woman enticing mortals at a waterfall
+  taxonomy_refs: []
+  basis: Ilse, as an undine, appears to fascinate mortals and is believed to wave
+    her arms to entice travellers into the waterfall spray.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No explicit drowning or abduction of travellers is stated in the passage.
+- id: motif:4
+  label: Giants as a former race displaced by humans
+  taxonomy_refs:
+  - departure
+  basis: The passage says giants inhabited the earth before humans, withdrew reluctantly
+    to barren regions, and are eventually to be driven away by humans.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy term 'departure' only broadly fits the described
+    withdrawal and displacement.
+- id: motif:5
+  label: Human mistaken for giant child's plaything
+  taxonomy_refs: []
+  basis: A young giantess sees a farmer and his team for the first time, treats them
+    as a pretty plaything, and carries them home in her apron.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives the episode as a short local legend without further
+    development.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8744-8755
+  quote_or_summary: Princess Ilse, daughter of the giant of the Ilsenstein, is loved
+    by the mortal Lord of Westerburg; her father disapproves and forbids her to see
+    him, but she continues to visit him.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 8755-8762
+  quote_or_summary: The giant tears a great gap between his height and Westerburg;
+    Ilse goes to the cleft, leaps into the raging flood below, and is changed into
+    an undine.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 8762-8781
+  quote_or_summary: Ilse dwells in the waters, appears to fascinate mortals, is said
+    to have captivated Emperor Henry, and is believed still to haunt the stream and
+    entice travellers into the spray; the included poem speaks in her voice inviting
+    someone to her watery castle.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8784-8795
+  quote_or_summary: The giants are said to have inhabited the earth before mankind
+    and retreated to barren places; a young giantess strays into an inhabited valley,
+    sees a farmer ploughing, and carries him with his team home in her apron as a
+    plaything.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 8795-8800
+  quote_or_summary: The young giantess's father orders her to return the farmer and
+    horses, explaining that these creatures will eventually drive the giants away
+    and become masters of the earth.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif taxonomy
+    links are limited because several patterns in the passage do not map exactly to
+    the provided taxonomy list. No comparison claims were added because the passage
+    does not itself develop a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; comparison_claims left empty due to insufficient passage-internal comparative support.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:norse-myths-of-norsemen-guerber-gutenberg__l8744-l8800
+  passage_sha256=e4192d7ab82165e061de239bb77574f22dd051294340d735811377a34c9bdd13
+

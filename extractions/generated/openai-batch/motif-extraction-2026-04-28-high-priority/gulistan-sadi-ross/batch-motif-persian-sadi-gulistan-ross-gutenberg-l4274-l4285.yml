@@ -1,0 +1,236 @@
+---
+record_id: batch.motif.persian-sadi-gulistan-ross-gutenberg-l4274-l4285
+source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+passage_locator:
+  label: XXXII / XXXIII / XXXIV / XXXVI; lines 4274-4285
+  start: '4274'
+  end: '4285'
+  translation: The Persian Literature, Volume 2, The Gulistan
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A didactic passage says that things made in haste quickly waste away. It
+    contrasts porcelain formed over forty years with many cups made in one day, compares
+    a chicken’s immediate instinct with the slower-developing human child, and contrasts
+    common glass or crystal with the rare and valuable ruby.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that what is produced in haste goes hastily to waste.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage reports that clay of the East is converted into a China porcelain
+    cup after a process of forty years.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says that in Bagdad one hundred cups can be made in a day and
+    asks the listener to consider their relative value.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A chicken is described as walking from its shell and seeking its food.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The young of man is described as not possessing the chicken’s instinct of
+    prudence and discrimination.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that what is at once something comes to nothing, while
+    the human being surpasses all creatures in dignity and wisdom.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Crystal or glass is described as found everywhere and considered of no value.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A ruby is described as obtained with difficulty and therefore inestimable.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: The first-person voice who says he has heard the example about porcelain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: chicken
+  description: A chicken that walks out from its shell and seeks food.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: young of man
+  description: The human young, described as lacking the chicken’s instinct but associated
+    with later dignity and wisdom.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: didactic speaker
+  assigned_to:
+  - fig:1
+  basis: The passage is framed as a reported teaching with a first-person speaker.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: instinctive animal example
+  assigned_to:
+  - fig:2
+  basis: The chicken immediately leaves the shell and seeks food.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: slow-developing human example
+  assigned_to:
+  - fig:3
+  basis: The human young lacks immediate instinct but is linked to surpassing creatures
+    in dignity and wisdom.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: porcelain cup
+  literal_form: China porcelain cup made from clay after a long process
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hasty cups of Bagdad
+  literal_form: one hundred cups made in a day at Bagdad
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: shell
+  literal_form: shell from which the chicken walks forth
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: crystal or glass
+  literal_form: common crystal or glass found everywhere
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: ruby
+  literal_form: ruby obtained with difficulty and called inestimable
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: slow porcelain and hasty cups
+  summary: The passage contrasts a porcelain cup made through a forty-year process
+    with many cups made in one day, using the contrast to discuss value.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: chicken and human child
+  summary: The passage contrasts a chicken’s immediate ability to seek food with the
+    human child’s lack of such instinct, then links humanity with dignity and wisdom.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: common glass and rare ruby
+  summary: The passage contrasts common crystal or glass with a rare ruby obtained
+    with difficulty and valued highly.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: wisdom through slow formation and rarity
+  taxonomy_refs:
+  - wisdom
+  basis: The passage repeatedly contrasts hasty or common things with slowly formed,
+    difficult, or rare things, ending in claims about dignity, wisdom, and value.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a didactic wisdom motif rather than a narrative mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4274-4278
+  quote_or_summary: Things produced in haste are said to waste quickly; a porcelain
+    cup is made from clay over forty years, while in Bagdad one hundred cups can be
+    made in a day, with differing value implied.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 4278-4282
+  quote_or_summary: A chicken leaves its shell and seeks food; the human young lacks
+    that instinct, yet humanity is said to surpass creatures in dignity and wisdom.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 4282-4285
+  quote_or_summary: Crystal or glass is common and of little value, while a ruby is
+    obtained with difficulty and is therefore inestimable.
+  source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is brief and explicitly didactic. Motif assignment to wisdom
+    is supported, but broader comparative claims are not made because the passage
+    itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No comparison claims were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:persian-sadi-gulistan-ross-gutenberg__l4274-l4285
+  passage_sha256=cc3fb4bcb5c69cd32516e77f3d3cf846f9125489c9d4b8cf0b7a88336bb7859e
+
