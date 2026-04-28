@@ -9,8 +9,8 @@ This is source-level coverage. Long works still need unit-level Markdown splitti
 | State | Units |
 | --- | ---: |
 | source_ingested | 233 |
-| source_ingested_review | 56 |
-| source_queued | 10 |
+| source_ingested_review | 66 |
+| source_queued | 0 |
 | source_candidate | 0 |
 | unmapped | 201 |
 
@@ -27,13 +27,12 @@ This is source-level coverage. Long works still need unit-level Markdown splitti
 | Mesoamerican, African, and Oceanic | 40 | 5 | 0 | 0 | 0 | 35 |
 | Northern and Western Europe | 45 | 41 | 0 | 0 | 0 | 4 |
 | South Asia | 70 | 25 | 18 | 0 | 0 | 27 |
-| South and East Asian Buddhism | 50 | 26 | 0 | 10 | 0 | 14 |
+| South and East Asian Buddhism | 50 | 26 | 10 | 0 | 0 | 14 |
 
 ## Next First-500 Queue
 
 | Source | Queued Units | Action |
 | --- | ---: | --- |
-| Buddhist birth stories; or, Jataka tales, Volume 1 | 10 | ingest_then_match_named_jataka_tales |
 
 ## Queue Outside First 500
 

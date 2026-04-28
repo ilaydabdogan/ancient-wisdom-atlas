@@ -633,7 +633,7 @@ items:
   manifest_path: manifests/project-gutenberg/22456-aeneid-mackail.yml
   extraction_dir: extractions/roman/project-gutenberg/aeneid-mackail
 - id: buddhist.jataka.birth_stories_rhys_davids_gutenberg
-  status: queued
+  status: ingested
   priority: high
   source: project_gutenberg
   source_id: '51880'
@@ -684,6 +684,15 @@ items:
   - animals
   why_it_matters: Adds a major Buddhist former-lives corpus for rebirth, animal fables,
     moral causality, sacrifice, and wisdom motifs.
+  raw_path: imports/raw/project-gutenberg/51880-buddhist-birth-stories-volume-1-rhys-davids.txt
+  pipeline:
+    raw_fetched_on: '2026-04-28'
+    converted_on: '2026-04-28'
+    promoted_on: '2026-04-28'
+  converted_path: imports/converted/project-gutenberg/51880-buddhist-birth-stories-volume-1-rhys-davids.md
+  canonical_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  manifest_path: manifests/project-gutenberg/51880-buddhist-birth-stories-volume-1-rhys-davids.yml
+  extraction_dir: extractions/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids
 - id: ainu.folk_tales.chamberlain_gutenberg
   status: queued
   priority: medium

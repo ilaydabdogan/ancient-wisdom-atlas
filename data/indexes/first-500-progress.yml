@@ -5,8 +5,8 @@ source_map_path: data/collections/first-500-source-map.yml
 first500_total_units: 500
 state_counts:
   source_ingested: 233
-  source_ingested_review: 56
-  source_queued: 10
+  source_ingested_review: 66
+  source_queued: 0
   source_candidate: 0
   unmapped: 201
 by_culture_area:
@@ -48,8 +48,8 @@ by_culture_area:
   South and East Asian Buddhism:
     total: 50
     source_ingested: 26
-    source_ingested_review: 0
-    source_queued: 10
+    source_ingested_review: 10
+    source_queued: 0
     source_candidate: 0
     unmapped: 14
   China and Japan:
@@ -360,7 +360,7 @@ mapped_sources:
   next_action: split_into_vagga_files
 - source_work_id: buddhist.jataka.birth_stories_rhys_davids_gutenberg
   source_title: Buddhist birth stories; or, Jataka tales, Volume 1
-  state: source_queued
+  state: source_ingested_review
   coverage_mode: candidate_source_needs_unit_match
   coverage_confidence: medium
   first500_unit_count: 10
@@ -580,25 +580,7 @@ mapped_sources:
   - first500.480
   - first500.481
   next_action: split_into_preamble_and_parts
-next_first500_queue:
-- source_work_id: buddhist.jataka.birth_stories_rhys_davids_gutenberg
-  source_title: Buddhist birth stories; or, Jataka tales, Volume 1
-  state: source_queued
-  coverage_mode: candidate_source_needs_unit_match
-  coverage_confidence: medium
-  first500_unit_count: 10
-  first500_units:
-  - first500.302
-  - first500.303
-  - first500.304
-  - first500.305
-  - first500.306
-  - first500.307
-  - first500.308
-  - first500.309
-  - first500.310
-  - first500.311
-  next_action: ingest_then_match_named_jataka_tales
+next_first500_queue: []
 queue_outside_first500:
 - id: sufi.hafiz.divan.bell_gutenberg
   title: Poems from the Divan of Hafiz
