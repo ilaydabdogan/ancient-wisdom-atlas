@@ -16,22 +16,22 @@ rights:
 
 | Motif | Occurrences | Traditions |
 | --- | ---: | --- |
-| `wisdom` | 37 | buddhist (3), celtic_irish (1), confucian (6), daoist (2), hindu (9), islamic (3), jewish_christian (8), mesopotamian (4), norse (1) |
-| `divine_judgment` | 15 | egyptian (2), greek (3), hindu (1), islamic (3), jewish_christian (4), maya_quiche (2) |
+| `wisdom` | 38 | buddhist (3), celtic_irish (1), confucian (6), daoist (2), hindu (10), islamic (3), jewish_christian (8), mesopotamian (4), norse (1) |
+| `divine_judgment` | 17 | egyptian (2), greek (3), hindu (3), islamic (3), jewish_christian (4), maya_quiche (2) |
 | `initiation` | 13 | buddhist (1), celtic_irish (2), confucian (1), egyptian (1), hindu (4), jewish_christian (1), maya_quiche (1), mesopotamian (1), persian (1) |
+| `death_rebirth` | 10 | celtic_irish (1), celtic_welsh (1), egyptian (2), hindu (3), jewish_christian (1), maya_quiche (1), mesopotamian (1) |
+| `sacrifice` | 10 | celtic_welsh (1), greek (1), hindu (4), jewish_christian (4) |
 | `covenant` | 9 | celtic_irish (1), hindu (1), islamic (1), jewish_christian (6) |
-| `death_rebirth` | 9 | celtic_irish (1), celtic_welsh (1), egyptian (2), hindu (2), jewish_christian (1), maya_quiche (1), mesopotamian (1) |
 | `sacred_exchange` | 9 | confucian (1), hindu (2), jewish_christian (4), persian (2) |
-| `sacrifice` | 9 | celtic_welsh (1), greek (1), hindu (3), jewish_christian (4) |
+| `royal_legitimacy` | 8 | celtic_welsh (1), confucian (2), hindu (4), jewish_christian (1) |
 | `chaos` | 6 | finnish_karelian (1), greek (1), jewish_christian (1), maya_quiche (1), norse (1), persian (1) |
 | `miraculous_child` | 6 | islamic (3), persian (3) |
-| `royal_legitimacy` | 5 | celtic_welsh (1), confucian (2), hindu (1), jewish_christian (1) |
+| `sacred_tree_axis` | 5 | hindu (1), jewish_christian (3), norse (1) |
 | `world_center` | 5 | finnish_karelian (1), jewish_christian (3), norse (1) |
 | `ascent` | 4 | egyptian (1), jewish_christian (3) |
 | `departure` | 4 | celtic_irish (1), jewish_christian (1), norse (1), persian (1) |
 | `duality` | 4 | daoist (1), greek (1), mesopotamian (2) |
 | `resurrection` | 4 | celtic_welsh (2), egyptian (2) |
-| `sacred_tree_axis` | 4 | jewish_christian (3), norse (1) |
 | `shapeshifter` | 4 | celtic_irish (2), celtic_welsh (1), egyptian (1) |
 | `culture_hero` | 3 | finnish_karelian (1), greek (1), mesopotamian (1) |
 | `hero_descent` | 3 | egyptian (1), jewish_christian (1), maya_quiche (1) |
@@ -52,6 +52,7 @@ rights:
 | `body_as_landscape_shaper` | 1 | finnish_karelian (1) |
 | `broken_and_renewed_covenant` | 1 | jewish_christian (1) |
 | `cattle_raid_catalyst` | 1 | celtic_irish (1) |
+| `city_mourns_absent_ruler` | 1 | hindu (1) |
 | `cloud_fire_guidance` | 1 | jewish_christian (1) |
 | `cosmic_origin` | 1 | daoist (1) |
 | `cosmic_witness` | 1 | islamic (1) |
@@ -61,12 +62,14 @@ rights:
 | `divine_parent_child` | 1 | persian (1) |
 | `divine_race_arrival` | 1 | celtic_irish (1) |
 | `divine_warrior` | 1 | jewish_christian (1) |
+| `divinely_inherited_bridgecraft` | 1 | hindu (1) |
 | `doom_prophecy_before_raid` | 1 | celtic_irish (1) |
 | `ethical_command` | 1 | jewish_christian (1) |
 | `ethical_rule_by_virtue` | 1 | confucian (1) |
 | `failed_creation` | 1 | finnish_karelian (1) |
 | `failed_negotiated_exchange` | 1 | celtic_irish (1) |
 | `fate_lament` | 1 | greek (1) |
+| `fidelity_in_ornamental_captivity` | 1 | hindu (1) |
 | `gentle_remonstrance_within_hierarchy` | 1 | confucian (1) |
 | `healing_sign` | 1 | jewish_christian (1) |
 | `heroic_childhood_signs` | 1 | celtic_irish (1) |
@@ -86,6 +89,7 @@ rights:
 | `otherworld_sojourn` | 1 | celtic_irish (1) |
 | `passage_through_waters` | 1 | jewish_christian (1) |
 | `portable_sanctuary` | 1 | jewish_christian (1) |
+| `pride_humbled_in_divine_containment` | 1 | hindu (1) |
 | `prophet_call_under_opposition` | 1 | islamic (1) |
 | `protective_mark` | 1 | jewish_christian (1) |
 | `rebirth_through_ingestion` | 1 | celtic_irish (1) |
@@ -121,7 +125,7 @@ rights:
 ## Wisdom
 
 - Motif id: `wisdom`
-- Occurrences: 37
+- Occurrences: 38
 - Traditions: buddhist, celtic_irish, confucian, daoist, hindu, islamic, jewish_christian, mesopotamian, norse
 
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
@@ -140,6 +144,7 @@ rights:
 | daoist | [The Tao Teh King, or the Tao and its Characteristics](../texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md) | Tao Teh King, Ch. 43.1-2 | teaching without words | medium | [record](../extractions/daoist/project-gutenberg/tao-teh-king/tao-teh-king-soft-overcomes-hard-non-action.yml) |
 | hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) | Draupadi in the Council Hall; Draupadi's Plaint; Insult and Vow of Revenge | dharma challenged in royal assembly | high | [record](../extractions/hindu/project-gutenberg/mahabharata/mahabharata-draupadi-council-hall.yml) |
 | hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) | Fall of Bhishma | dying elder on arrow bed | medium | [record](../extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml) |
+| hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) | Book VI, Cantos XXI-XXII: Ocean Threatened | element bound by cosmic law yet practically helpful | medium | [record](../extractions/hindu/project-gutenberg/ramayana/ramayana-ocean-threatened-bridge.yml) |
 | hindu | [The Song Celestial; Or, Bhagavad-Gita](../texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md) | CHAPTER II | deathless_life_teaching | medium | [record](../extractions/hindu/project-gutenberg/bhagavad-gita/bhagavad-gita-battlefield-duty.yml) |
 | hindu | [The Song Celestial; Or, Bhagavad-Gita](../texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md) | CHAPTER II | battlefield_revelation | medium | [record](../extractions/hindu/project-gutenberg/bhagavad-gita/bhagavad-gita-battlefield-duty.yml) |
 | hindu | [The Song Celestial; Or, Bhagavad-Gita](../texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md) | CHAPTER XI | cosmic_vision | medium | [record](../extractions/hindu/project-gutenberg/bhagavad-gita/bhagavad-gita-cosmic-vision.yml) |
@@ -167,16 +172,18 @@ rights:
 ## Divine Judgment
 
 - Motif id: `divine_judgment`
-- Occurrences: 15
+- Occurrences: 17
 - Traditions: egyptian, greek, hindu, islamic, jewish_christian, maya_quiche
 
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
-| egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER VII, The Judgment of Osiris; Chapter CXXV and Papyrus of Ani judgment vignette | divine_judgment | high | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-judgment-heart-maati.yml) |
 | egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER VII, The Judgment of Osiris; Chapter CXXV and Papyrus of Ani judgment vignette | weighing_of_heart | high | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-judgment-heart-maati.yml) |
+| egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER VII, The Judgment of Osiris; Chapter CXXV and Papyrus of Ani judgment vignette | divine_judgment | high | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-judgment-heart-maati.yml) |
 | greek | [Hesiod, the Homeric Hymns, and Homerica](../texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md) | Theogony ll. 507-616 | divine retaliation for transgression | medium | [record](../extractions/greek/project-gutenberg/hesiod-homeric-hymns/theogony-prometheus-fire-theft.yml) |
 | greek | [The Iliad](../texts/public-domain/greek/project-gutenberg/iliad-pope.md) | BOOK I, The Contention of Achilles and Agamemnon | plague_as_sacred_retribution | medium | [record](../extractions/greek/project-gutenberg/iliad/iliad-pope-apollo-plague-divine-vengeance.yml) |
 | greek | [The Iliad](../texts/public-domain/greek/project-gutenberg/iliad-pope.md) | BOOK I, The Contention of Achilles and Agamemnon | divine_judgment | medium | [record](../extractions/greek/project-gutenberg/iliad/iliad-pope-apollo-plague-divine-vengeance.yml) |
+| hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) | Book VI, Cantos XXI-XXII: Ocean Threatened | natural power compelled into negotiation | high | [record](../extractions/hindu/project-gutenberg/ramayana/ramayana-ocean-threatened-bridge.yml) |
+| hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) | Book VI, Cantos XXI-XXII: Ocean Threatened | redirected world-wounding weapon becomes landscape marker | medium | [record](../extractions/hindu/project-gutenberg/ramayana/ramayana-ocean-threatened-bridge.yml) |
 | hindu | [The Song Celestial; Or, Bhagavad-Gita](../texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md) | CHAPTER XI | divine_time_and_battlefield_doom | medium | [record](../extractions/hindu/project-gutenberg/bhagavad-gita/bhagavad-gita-cosmic-vision.yml) |
 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) | 2. Entitled, The Cow; Adam taught the names, homage, and descent | garden_fall_with_guidance | high | [record](../extractions/islamic/project-gutenberg/koran-sale/koran-sale-adam-names-eblis-garden-direction.yml) |
 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-rodwell.md) | SURA XCIX, The Earthquake | divine_judgment | high | [record](../extractions/islamic/project-gutenberg/koran/koran-rodwell-earthquake-works-judgment.yml) |
@@ -210,6 +217,44 @@ rights:
 | mesopotamian | [An Old Babylonian Version of the Gilgamesh Epic](../texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md) | PENNSYLVANIA TABLET, TRANSLATION, Col. I-Col. III | civilization_boundary_initiation | high | [record](../extractions/mesopotamian/project-gutenberg/gilgamesh/gilgamesh-enkidu-dream-civilization-boundary.yml) |
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Birth of Rustem; Simurgh aid, prodigious growth, and the white elephant feat | first_beast_slaying_as_initiation | medium | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml) |
 
+## Death And Rebirth
+
+- Motif id: `death_rebirth`
+- Occurrences: 10
+- Traditions: celtic_irish, celtic_welsh, egyptian, hindu, jewish_christian, maya_quiche, mesopotamian
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| celtic_irish | [Heroic Romances of Ireland](../texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md) | The Courtship of Etain (Leabhar na h-Uidhri version); Etain transformed, wind-borne, swallowed, and born again | enchanted_transformation_and_rebirth | high | [record](../extractions/celtic-irish/project-gutenberg/heroic-romances-of-ireland/heroic-romances-of-ireland-etain-transformation-rebirth.yml) |
+| celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) | Branwen the daughter of Llyr; cauldron origin and battlefield use | sacred_cauldron_of_renovation | high | [record](../extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-branwen-cauldron-renovation.yml) |
+| egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII, and CLV-CLXVII | divine_protection_of_the_dead | medium | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml) |
+| egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER VII, The Judgment of Osiris; Chapter CXXV and Papyrus of Ani judgment vignette | acquittal_and_afterlife_reward | medium | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-judgment-heart-maati.yml) |
+| hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) | Book I, Canto XLIV: The Descent Of Gangá | ancestral release through sacred water | high | [record](../extractions/hindu/project-gutenberg/ramayana/ramayana-ganga-descent-bhagiratha.yml) |
+| hindu | [The Upanishads](../texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md) | Katha-Upanishad, Part First VII-Part Second IV | death-question wisdom | medium | [record](../extractions/hindu/project-gutenberg/upanishads/upanishads-nachiketas-death-teacher.yml) |
+| hindu | [The Upanishads](../texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md) | Katha-Upanishad, Part Second XVIII-XXIII; Part Sixth XVIII | deathless self wisdom | high | [record](../extractions/hindu/project-gutenberg/upanishads/upanishads-self-deathless-wisdom.yml) |
+| jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 34:1-12 | death_rebirth | low | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-moses-death-succession.yml) |
+| maya_quiche | [The Popol Vuh](../texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md) | The Second Book, Hero Twins in Xibalba | death_rebirth | high | [record](../extractions/mesoamerican/project-gutenberg/popol-vuh/popol-vuh-hero-twins-xibalba-trials.yml) |
+| mesopotamian | [An Old Babylonian Version of the Gilgamesh Epic](../texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md) | INTRODUCTION I, Meissner fragment / Sabitum address | impossible_immortality_quest | high | [record](../extractions/mesopotamian/project-gutenberg/gilgamesh/gilgamesh-sabitum-mortality-quest.yml) |
+
+## Sacrifice
+
+- Motif id: `sacrifice`
+- Occurrences: 10
+- Traditions: celtic_welsh, greek, hindu, jewish_christian
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) | Branwen the daughter of Llyr; cauldron origin and battlefield use | destructive_self_sacrifice_against_magic_object | medium | [record](../extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-branwen-cauldron-renovation.yml) |
+| greek | [Hesiod, the Homeric Hymns, and Homerica](../texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md) | Theogony ll. 507-616 | trickster at sacrificial boundary | high | [record](../extractions/greek/project-gutenberg/hesiod-homeric-hymns/theogony-prometheus-fire-theft.yml) |
+| hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) | Fall of Bhishma | dying elder on arrow bed | medium | [record](../extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml) |
+| hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) | Fall of Bhishma | filial reluctance before necessary violence | medium | [record](../extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml) |
+| hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) | Fall of Bhishma | oath-bounded defeat | high | [record](../extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml) |
+| hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) | Book II, Cantos CXII-CXIV: The Sandals; Bharat's Return; Bharat's Departure | regency by self-abnegation | medium | [record](../extractions/hindu/project-gutenberg/ramayana/ramayana-sandals-regency-bharata.yml) |
+| jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 12:1-14, 21-31 | sacrifice | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-passover-plague.yml) |
+| jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 8:20-22; 9:8-17 | sacrifice | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-sacrifice-covenant.yml) |
+| jewish_christian | [Leviticus](../texts/public-domain/biblical/world-english-bible-classic/leviticus.md) | Leviticus 1:3-9 | sacrifice | medium | [record](../extractions/biblical/world-english-bible-classic/leviticus/leviticus-burnt-offering.yml) |
+| jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 16:1-50 | priestly_intercession | medium | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-korah-rebellion-judgment.yml) |
+
 ## Covenant
 
 - Motif id: `covenant`
@@ -227,24 +272,6 @@ rights:
 | jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 4:9-14 | covenant | medium | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-sacred-mountain-law.yml) |
 | jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 19:1-20; 24:3-18 | covenant | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-sinai-covenant-ascent.yml) |
 | jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 8:20-22; 9:8-17 | covenant | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-sacrifice-covenant.yml) |
-
-## Death And Rebirth
-
-- Motif id: `death_rebirth`
-- Occurrences: 9
-- Traditions: celtic_irish, celtic_welsh, egyptian, hindu, jewish_christian, maya_quiche, mesopotamian
-
-| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
-| --- | --- | --- | --- | --- | --- |
-| celtic_irish | [Heroic Romances of Ireland](../texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md) | The Courtship of Etain (Leabhar na h-Uidhri version); Etain transformed, wind-borne, swallowed, and born again | enchanted_transformation_and_rebirth | high | [record](../extractions/celtic-irish/project-gutenberg/heroic-romances-of-ireland/heroic-romances-of-ireland-etain-transformation-rebirth.yml) |
-| celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) | Branwen the daughter of Llyr; cauldron origin and battlefield use | sacred_cauldron_of_renovation | high | [record](../extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-branwen-cauldron-renovation.yml) |
-| egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII, and CLV-CLXVII | divine_protection_of_the_dead | medium | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml) |
-| egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER VII, The Judgment of Osiris; Chapter CXXV and Papyrus of Ani judgment vignette | acquittal_and_afterlife_reward | medium | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-judgment-heart-maati.yml) |
-| hindu | [The Upanishads](../texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md) | Katha-Upanishad, Part First VII-Part Second IV | death-question wisdom | medium | [record](../extractions/hindu/project-gutenberg/upanishads/upanishads-nachiketas-death-teacher.yml) |
-| hindu | [The Upanishads](../texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md) | Katha-Upanishad, Part Second XVIII-XXIII; Part Sixth XVIII | deathless self wisdom | high | [record](../extractions/hindu/project-gutenberg/upanishads/upanishads-self-deathless-wisdom.yml) |
-| jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 34:1-12 | death_rebirth | low | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-moses-death-succession.yml) |
-| maya_quiche | [The Popol Vuh](../texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md) | The Second Book, Hero Twins in Xibalba | death_rebirth | high | [record](../extractions/mesoamerican/project-gutenberg/popol-vuh/popol-vuh-hero-twins-xibalba-trials.yml) |
-| mesopotamian | [An Old Babylonian Version of the Gilgamesh Epic](../texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md) | INTRODUCTION I, Meissner fragment / Sabitum address | impossible_immortality_quest | high | [record](../extractions/mesopotamian/project-gutenberg/gilgamesh/gilgamesh-sabitum-mortality-quest.yml) |
 
 ## Sacred Exchange
 
@@ -264,23 +291,22 @@ rights:
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Birth of Rustem; Simurgh aid, prodigious growth, and the white elephant feat | sacred_birth_aided_by_guardian | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml) |
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and return | rescue_feather_token | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml) |
 
-## Sacrifice
+## Royal Legitimacy
 
-- Motif id: `sacrifice`
-- Occurrences: 9
-- Traditions: celtic_welsh, greek, hindu, jewish_christian
+- Motif id: `royal_legitimacy`
+- Occurrences: 8
+- Traditions: celtic_welsh, confucian, hindu, jewish_christian
 
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
-| celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) | Branwen the daughter of Llyr; cauldron origin and battlefield use | destructive_self_sacrifice_against_magic_object | medium | [record](../extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-branwen-cauldron-renovation.yml) |
-| greek | [Hesiod, the Homeric Hymns, and Homerica](../texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md) | Theogony ll. 507-616 | trickster at sacrificial boundary | high | [record](../extractions/greek/project-gutenberg/hesiod-homeric-hymns/theogony-prometheus-fire-theft.yml) |
-| hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) | Fall of Bhishma | dying elder on arrow bed | medium | [record](../extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml) |
-| hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) | Fall of Bhishma | oath-bounded defeat | high | [record](../extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml) |
-| hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) | Fall of Bhishma | filial reluctance before necessary violence | medium | [record](../extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml) |
-| jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 12:1-14, 21-31 | sacrifice | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-passover-plague.yml) |
-| jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 8:20-22; 9:8-17 | sacrifice | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-sacrifice-covenant.yml) |
-| jewish_christian | [Leviticus](../texts/public-domain/biblical/world-english-bible-classic/leviticus.md) | Leviticus 1:3-9 | sacrifice | medium | [record](../extractions/biblical/world-english-bible-classic/leviticus/leviticus-burnt-offering.yml) |
-| jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 16:1-50 | priestly_intercession | medium | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-korah-rebellion-judgment.yml) |
+| celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) | Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn | return_with_new_status | medium | [record](../extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-pwyll-annwvyn-exchange.yml) |
+| confucian | [The Sayings of Confucius](../texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md) | Government and Public Affairs | moral center of rule | high | [record](../extractions/confucian/project-gutenberg/sayings-of-confucius/sayings-of-confucius-government-pole-star-rectification.yml) |
+| confucian | [The Sayings of Confucius](../texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md) | Government and Public Affairs | public trust above force | high | [record](../extractions/confucian/project-gutenberg/sayings-of-confucius/sayings-of-confucius-government-pole-star-rectification.yml) |
+| hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) | Draupadi in the Council Hall; Draupadi's Plaint; Insult and Vow of Revenge | dharma challenged in royal assembly | high | [record](../extractions/hindu/project-gutenberg/mahabharata/mahabharata-draupadi-council-hall.yml) |
+| hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) | Book II, Cantos CXII-CXIV: The Sandals; Bharat's Return; Bharat's Departure | surrogate kingship through royal object | high | [record](../extractions/hindu/project-gutenberg/ramayana/ramayana-sandals-regency-bharata.yml) |
+| hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) | Book V, Cantos XIV-XVI: The Asoka Grove; Sítá; Hanumán's Lament | hidden ally confirms captive queen | high | [record](../extractions/hindu/project-gutenberg/ramayana/ramayana-asoka-grove-sita-witness.yml) |
+| hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) | Book V, Cantos XIV-XVI: The Asoka Grove; Sítá; Hanumán's Lament | earth-born queen in sorrow | medium | [record](../extractions/hindu/project-gutenberg/ramayana/ramayana-asoka-grove-sita-witness.yml) |
+| jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 22:21-35; 23:1-12; 24:1-17 | royal_legitimacy | low | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-balaam-donkey-oracle.yml) |
 
 ## Chaos
 
@@ -312,19 +338,19 @@ rights:
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Birth of Rustem; Simurgh aid, prodigious growth, and the white elephant feat | precocious_hero_growth | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml) |
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and return | exposed_child_protected_by_wonder_bird | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml) |
 
-## Royal Legitimacy
+## Sacred Tree Or Axis Mundi
 
-- Motif id: `royal_legitimacy`
+- Motif id: `sacred_tree_axis`
 - Occurrences: 5
-- Traditions: celtic_welsh, confucian, hindu, jewish_christian
+- Traditions: hindu, jewish_christian, norse
 
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
-| celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) | Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn | return_with_new_status | medium | [record](../extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-pwyll-annwvyn-exchange.yml) |
-| confucian | [The Sayings of Confucius](../texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md) | Government and Public Affairs | moral center of rule | high | [record](../extractions/confucian/project-gutenberg/sayings-of-confucius/sayings-of-confucius-government-pole-star-rectification.yml) |
-| confucian | [The Sayings of Confucius](../texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md) | Government and Public Affairs | public trust above force | high | [record](../extractions/confucian/project-gutenberg/sayings-of-confucius/sayings-of-confucius-government-pole-star-rectification.yml) |
-| hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) | Draupadi in the Council Hall; Draupadi's Plaint; Insult and Vow of Revenge | dharma challenged in royal assembly | high | [record](../extractions/hindu/project-gutenberg/mahabharata/mahabharata-draupadi-council-hall.yml) |
-| jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 22:21-35; 23:1-12; 24:1-17 | royal_legitimacy | low | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-balaam-donkey-oracle.yml) |
+| hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) | Book I, Canto XLIV: The Descent Of Gangá | heavenly river linking realms through divine release | medium | [record](../extractions/hindu/project-gutenberg/ramayana/ramayana-ganga-descent-bhagiratha.yml) |
+| jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 28:10-17 | sacred_tree_axis | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-dream-descent.yml) |
+| jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 3:1-7 | sacred_tree_axis | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-tree-serpent.yml) |
+| jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 21:4-9 | sacred_tree_axis | low | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-bronze-serpent.yml) |
+| norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | Voluspo 1-6 | sacred_tree_axis | high | [record](../extractions/norse/project-gutenberg/poetic-edda/voluspo-yggdrasil-cosmic-origins.yml) |
 
 ## World Center
 
@@ -391,19 +417,6 @@ rights:
 | celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) | Branwen the daughter of Llyr; cauldron origin and battlefield use | reviving_vessel_in_battle | medium | [record](../extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-branwen-cauldron-renovation.yml) |
 | egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII, and CLV-CLXVII | divine_protection_of_the_dead | medium | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml) |
 | egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER VII, The Judgment of Osiris; Chapter CXXV and Papyrus of Ani judgment vignette | acquittal_and_afterlife_reward | medium | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-judgment-heart-maati.yml) |
-
-## Sacred Tree Or Axis Mundi
-
-- Motif id: `sacred_tree_axis`
-- Occurrences: 4
-- Traditions: jewish_christian, norse
-
-| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
-| --- | --- | --- | --- | --- | --- |
-| jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 28:10-17 | sacred_tree_axis | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-dream-descent.yml) |
-| jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 3:1-7 | sacred_tree_axis | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-tree-serpent.yml) |
-| jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 21:4-9 | sacred_tree_axis | low | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-bronze-serpent.yml) |
-| norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | Voluspo 1-6 | sacred_tree_axis | high | [record](../extractions/norse/project-gutenberg/poetic-edda/voluspo-yggdrasil-cosmic-origins.yml) |
 
 ## Shapeshifter
 
@@ -627,6 +640,16 @@ rights:
 | --- | --- | --- | --- | --- | --- |
 | celtic_irish | [The Ancient Irish Epic Tale Tain Bo Cualnge](../texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md) | Pillow-talk, wealth comparison, Brown Bull embassy, and Medb's resolve | cattle_raid_catalyst | high | [record](../extractions/celtic-irish/project-gutenberg/tain-bo-cualnge/tain-bo-cualnge-medb-bull-raid-catalyst.yml) |
 
+## City Mourns Absent Ruler
+
+- Motif id: `city_mourns_absent_ruler`
+- Occurrences: 1
+- Traditions: hindu
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) | Book II, Cantos CXII-CXIV: The Sandals; Bharat's Return; Bharat's Departure | city mourns absent ruler | medium | [record](../extractions/hindu/project-gutenberg/ramayana/ramayana-sandals-regency-bharata.yml) |
+
 ## Cloud Fire Guidance
 
 - Motif id: `cloud_fire_guidance`
@@ -717,6 +740,16 @@ rights:
 | --- | --- | --- | --- | --- | --- |
 | jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 14:13-31 | divine_warrior | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-sea-crossing.yml) |
 
+## Divinely Inherited Bridgecraft
+
+- Motif id: `divinely_inherited_bridgecraft`
+- Occurrences: 1
+- Traditions: hindu
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) | Book VI, Cantos XXI-XXII: Ocean Threatened | divinely inherited bridgecraft | high | [record](../extractions/hindu/project-gutenberg/ramayana/ramayana-ocean-threatened-bridge.yml) |
+
 ## Doom Prophecy Before Raid
 
 - Motif id: `doom_prophecy_before_raid`
@@ -776,6 +809,16 @@ rights:
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
 | greek | [The Iliad](../texts/public-domain/greek/project-gutenberg/iliad-pope.md) | BOOK XXII, The Death of Hector | fate_lament | high | [record](../extractions/greek/project-gutenberg/iliad/iliad-pope-hector-fate-lament-death.yml) |
+
+## Fidelity In Ornamental Captivity
+
+- Motif id: `fidelity_in_ornamental_captivity`
+- Occurrences: 1
+- Traditions: hindu
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) | Book V, Cantos XIV-XVI: The Asoka Grove; Sítá; Hanumán's Lament | fidelity in ornamental captivity | medium | [record](../extractions/hindu/project-gutenberg/ramayana/ramayana-asoka-grove-sita-witness.yml) |
 
 ## Gentle Remonstrance Within Hierarchy
 
@@ -966,6 +1009,16 @@ rights:
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
 | jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 32:1-20; 34:1-10; 40:17-38 | portable_sanctuary | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-golden-calf-tabernacle.yml) |
+
+## Pride Humbled In Divine Containment
+
+- Motif id: `pride_humbled_in_divine_containment`
+- Occurrences: 1
+- Traditions: hindu
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) | Book I, Canto XLIV: The Descent Of Gangá | pride humbled in divine containment | medium | [record](../extractions/hindu/project-gutenberg/ramayana/ramayana-ganga-descent-bhagiratha.yml) |
 
 ## Prophet Call Under Opposition
 

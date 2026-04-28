@@ -1,0 +1,455 @@
+---
+record_id: extraction.ramayana.ocean_threatened_bridge
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: "Book VI, Cantos XXI-XXII: Ocean Threatened"
+  start: 49896
+  end: 50185
+  translation: Ralph T. H. Griffith, Project Gutenberg eBook #24869
+  notes: Line numbers refer to the repository markdown source for Griffith's English
+    verse translation of the Yuddha Kanda passage in which Rama compels Ocean's
+    appearance and the sea bridge is begun.
+canonical_text:
+  summary: Rama prays and waits by the sea on sacred grass, vows to destroy Ocean
+    after receiving no answer, terrifies the deep with fiery arrows and a Brahma
+    weapon, receives Ocean's law-bound appearance and counsel, redirects the weapon
+    northward, and then has Nala lead the vanaras in building the bridge to Lanka.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: Rama reverently faces the southern ocean, lies on sacred grass, and vows
+      that his host will cross or Ocean will perish.
+    category: vigil
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: After three unanswered days Rama declares that gentleness fails with the
+      base and resolves to dry the sea with arrows.
+    category: wrath_speech
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: obs:3
+    text: Rama's fiery shafts strike the waters, frightening waves, sea monsters,
+      serpents, and beings in the depths.
+    category: assault
+    evidence_refs:
+      - ev:3
+  - id: obs:4
+    text: Lakshmana restrains Rama's arm with gentle reasoning, and voices from the
+      air call on Rama to spare the sea.
+    category: restraint
+    evidence_refs:
+      - ev:3
+  - id: obs:5
+    text: When Rama prepares the Brahma weapon, darkness, meteors, lightning, wind,
+      and shaking mountains make the whole cosmos register the threat.
+    category: cosmic_portent
+    evidence_refs:
+      - ev:4
+  - id: obs:6
+    text: Ocean rises in person with jewel-bright form and river retinue, says he
+      cannot cease to be unfordable, yet promises support for a road across the
+      waters.
+    category: epiphany
+    evidence_refs:
+      - ev:5
+  - id: obs:7
+    text: At Ocean's request Rama redirects the unfailing shaft northward, where
+      it wounds the land, creates the well of Vrana, dries waters, and is followed
+      by a fertility boon.
+    category: redirected_weapon
+    evidence_refs:
+      - ev:6
+  - id: obs:8
+    text: Ocean names Nala as the divinely skilled builder, and the vanaras fell
+      trees and stones to complete a massive bridge in five days and cross toward
+      Lanka.
+    category: bridge_building
+    evidence_refs:
+      - ev:7
+      - ev:8
+figures:
+  - id: fig:1
+    name_or_label: Rama
+    description: Raghu's son who shifts from reverent petitioner to wrathful sea-threatener
+      and finally to commander of the bridge crossing.
+    role_refs:
+      - role:1
+      - role:2
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:4
+      - ev:6
+      - ev:8
+  - id: fig:2
+    name_or_label: Lakshmana
+    description: Rama's brother who briefly checks the escalation and counsels self-command.
+    role_refs:
+      - role:3
+    evidence_refs:
+      - ev:3
+  - id: fig:3
+    name_or_label: Ocean
+    description: Personified lord of the sea who appears with tributary waters, explains
+      the law binding his nature, and offers a practical solution.
+    role_refs:
+      - role:4
+      - role:5
+    evidence_refs:
+      - ev:5
+      - ev:6
+      - ev:7
+  - id: fig:4
+    name_or_label: Nala
+    description: Vanara engineer identified as the son of Visvakarma and entrusted
+      with building the bridge.
+    role_refs:
+      - role:6
+    evidence_refs:
+      - ev:7
+      - ev:8
+  - id: fig:5
+    name_or_label: Vanara host
+    description: Collective labor force that uproots trees, moves stone and hills,
+      and traverses the finished causeway.
+    role_refs:
+      - role:7
+    evidence_refs:
+      - ev:8
+roles:
+  - id: role:1
+    label: supplicant_turned_avenger
+    assigned_to:
+      - fig:1
+    basis: Rama begins with reverent waiting and then turns to threats and force
+      when Ocean does not answer.
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+  - id: role:2
+    label: bridge_commander
+    assigned_to:
+      - fig:1
+    basis: After the negotiation, Rama receives Ocean's counsel, directs Nala, and
+      leads the army toward Lanka.
+    evidence_refs:
+      - ev:6
+      - ev:7
+      - ev:8
+  - id: role:3
+    label: restraining_brother
+    assigned_to:
+      - fig:2
+    basis: Lakshmana urges control of passion and physically stays Rama's arm as
+      the sea is under attack.
+    evidence_refs:
+      - ev:3
+  - id: role:4
+    label: law_bound_element_king
+    assigned_to:
+      - fig:3
+    basis: Ocean says that, like the elements generally, he must remain true to
+      his nature and cannot simply become fordable.
+    evidence_refs:
+      - ev:5
+  - id: role:5
+    label: negotiating_revealer
+    assigned_to:
+      - fig:3
+    basis: Ocean both redirects the dangerous weapon and reveals the means of crossing
+      through Nala's inherited skill.
+    evidence_refs:
+      - ev:5
+      - ev:6
+      - ev:7
+  - id: role:6
+    label: divine_engineer
+    assigned_to:
+      - fig:4
+    basis: Nala is introduced as Visvakarma's son and claims the skill needed to
+      lay the bridge.
+    evidence_refs:
+      - ev:7
+      - ev:8
+  - id: role:7
+    label: laboring_crossing_host
+    assigned_to:
+      - fig:5
+    basis: The vanaras gather timber and stone, complete the structure, and stream
+      over it toward Lanka.
+    evidence_refs:
+      - ev:8
+symbols:
+  - id: sym:1
+    label: sacred grass couch
+    literal_form: Rama's bed of sacred grass beside the sea during his vigil
+    associated_figures:
+      - fig:1
+    taxonomy_refs:
+      - sacrifice
+    evidence_refs:
+      - ev:1
+  - id: sym:2
+    label: fiery sea-piercing arrows
+    literal_form: flaming shafts and the Brahma weapon that strike sea and land
+    associated_figures:
+      - fig:1
+      - fig:3
+    taxonomy_refs:
+      - divine_judgment
+    evidence_refs:
+      - ev:3
+      - ev:4
+      - ev:6
+  - id: sym:3
+    label: ocean monarch with river court
+    literal_form: Ocean rising jewel-bright with serpents, Ganga, Sindhu, and famed
+      streams attending him
+    associated_figures:
+      - fig:3
+    taxonomy_refs:
+      - royal_legitimacy
+    evidence_refs:
+      - ev:5
+  - id: sym:4
+    label: well of Vrana
+    literal_form: named wound-place where the redirected arrow falls and water bursts
+      through the rent
+    associated_figures:
+      - fig:1
+      - fig:3
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:6
+  - id: sym:5
+    label: sea bridge
+    literal_form: hundred-league causeway of trees and stone laid across the ocean
+    associated_figures:
+      - fig:1
+      - fig:4
+      - fig:5
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:7
+      - ev:8
+scenes:
+  - id: scene:1
+    label: Vigil beside the sea
+    summary: Rama lies on sacred grass, waits three days for Ocean's response, and
+      finally vows that the host will cross or the sea itself will be destroyed.
+    figure_refs:
+      - fig:1
+    symbol_refs:
+      - sym:1
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: scene:2
+    label: Wrath against the deep
+    summary: Rama lashes the ocean with flaming arrows, terrifying the creatures
+      below, until Lakshmana and disembodied voices urge restraint.
+    figure_refs:
+      - fig:1
+      - fig:2
+    symbol_refs:
+      - sym:2
+    evidence_refs:
+      - ev:3
+      - ev:4
+  - id: scene:3
+    label: Ocean appears and bargains
+    summary: Under the threat of the Brahma weapon, Ocean rises in royal form, explains
+      the law of his own nature, and redirects Rama's force toward another target
+      while promising a passage.
+    figure_refs:
+      - fig:1
+      - fig:3
+    symbol_refs:
+      - sym:2
+      - sym:3
+      - sym:4
+    evidence_refs:
+      - ev:5
+      - ev:6
+  - id: scene:4
+    label: Nala's bridge and the crossing
+    summary: Ocean reveals Nala's inherited craft, the vanaras build the bridge from
+      timber and stone, and the army moves over it toward Lanka.
+    figure_refs:
+      - fig:1
+      - fig:4
+      - fig:5
+    symbol_refs:
+      - sym:5
+    evidence_refs:
+      - ev:7
+      - ev:8
+candidate_motifs:
+  - id: motif:1
+    label: natural power compelled into negotiation
+    taxonomy_refs:
+      - divine_judgment
+    basis: Rama's threatened violence against the sea culminates in the appearance
+      of Ocean, who only then offers terms for passage.
+    evidence_refs:
+      - ev:2
+      - ev:4
+      - ev:5
+    confidence: high
+    cautions: The text frames Ocean as a personified deity subject to force and
+      law, not as an inanimate obstacle.
+  - id: motif:2
+    label: element bound by cosmic law yet practically helpful
+    taxonomy_refs:
+      - wisdom
+    basis: Ocean insists he cannot violate his nature, but he can still disclose
+      the workable way across through support and counsel.
+    evidence_refs:
+      - ev:5
+      - ev:7
+    confidence: medium
+    cautions: The wisdom tag is analogical and refers to counsel about lawful order,
+      not to an extended teaching discourse.
+  - id: motif:3
+    label: divinely inherited bridgecraft
+    taxonomy_refs: []
+    basis: Nala's authority to build the crossing is grounded in descent from Visvakarma
+      and in demonstrated large-scale construction by the vanara host.
+    evidence_refs:
+      - ev:7
+      - ev:8
+    confidence: high
+    cautions: The excerpt presents inherited craft and collective labor, not a miraculous
+      instant bridge.
+  - id: motif:4
+    label: redirected world-wounding weapon becomes landscape marker
+    taxonomy_refs:
+      - divine_judgment
+    basis: The unfailing arrow is diverted from the sea to the north, where it wounds
+      the earth, creates a named well, and transforms the region.
+    evidence_refs:
+      - ev:6
+    confidence: medium
+    cautions: The passage combines punitive force with later blessing, so it is
+      not a purely destructive landscape etiology.
+comparison_claims:
+  - id: claim:1
+    claim: This passage is a strong comparison point for traditions in which a hero
+      threatens a river, sea, or other natural power until that power appears in
+      person and grants terms for passage.
+    claim_level: same_function
+    target: cross-cultural personified-water obstacle and negotiated crossing records
+    evidence_refs:
+      - ev:2
+      - ev:4
+      - ev:5
+    confidence: medium
+    limitations: The comparison concerns narrative function; it does not imply equivalent
+      theology of nature spirits or identical ritual setting.
+  - id: claim:2
+    claim: Nala's bridge supports comparison with stories where divinely authorized
+      craft or engineering makes an impossible water crossing available to an army
+      or migrating host.
+    claim_level: same_motif
+    target: cross-cultural sacred bridge and impossible-passage engineering records
+    evidence_refs:
+      - ev:7
+      - ev:8
+    confidence: medium
+    limitations: Here the bridge is built through massive labor under a gifted builder,
+      not by spontaneous creation alone.
+  - id: claim:3
+    claim: The redirected Brahma weapon can be compared with traditions where an
+      unleashed divine or kingly force must be discharged elsewhere, producing a
+      named scarred landscape.
+    claim_level: same_motif
+    target: cross-cultural redirected wrath and etiological wound-landscape records
+    evidence_refs:
+      - ev:4
+      - ev:6
+    confidence: low
+    limitations: The etiological dimension is present, but the passage does not
+      dwell on cult, shrine, or long-term ritual memory at the site.
+evidence:
+  - id: ev:1
+    type: summary
+    locator: lines 49899-49918
+    quote_or_summary: Rama reverently faces the southern sea, lies on sacred grass,
+      vows that the host will cross or Ocean will perish, and waits three days without
+      reply.
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    rights_note: Public-domain source text.
+  - id: ev:2
+    type: summary
+    locator: lines 49919-49949
+    quote_or_summary: Angered by Ocean's silence, Rama says gentleness toward the
+      base wins only contempt and resolves to dry the sea so the vanaras may cross
+      its bed on foot.
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    rights_note: Public-domain source text.
+  - id: ev:3
+    type: summary
+    locator: lines 49951-49983
+    quote_or_summary: Rama's fiery arrows crash into the waters, terrifying waves,
+      sea monsters, serpents, and beings below until Lakshmana restrains him and
+      voices from the air cry out for sparing.
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    rights_note: Public-domain source text.
+  - id: ev:4
+    type: summary
+    locator: lines 49988-50021
+    quote_or_summary: Rama prepares the unfailing Brahma weapon, and darkness, thunder,
+      meteors, lightning, violent wind, and shaking mountains register cosmic alarm.
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    rights_note: Public-domain source text.
+  - id: ev:5
+    type: summary
+    locator: lines 50022-50061
+    quote_or_summary: Ocean rises in majestic jeweled form with Ganga, Sindhu, and
+      other waters attending him, says he must remain unfordable by nature, and
+      promises support for a road across the tide.
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    rights_note: Public-domain source text.
+  - id: ev:6
+    type: summary
+    locator: lines 50062-50094
+    quote_or_summary: Ocean tells Rama to spend the weapon northward against hostile
+      peoples; the arrow wounds the earth, creates the well of Vrana, dries the
+      region's waters, and is followed by a fertility boon.
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    rights_note: Public-domain source text.
+  - id: ev:7
+    type: summary
+    locator: lines 50095-50125
+    quote_or_summary: Ocean identifies Nala as Visvakarma's son, and Nala claims
+      the inherited skill and willingness to lay the bridge if Rama commands the
+      work.
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    rights_note: Public-domain source text.
+  - id: ev:8
+    type: summary
+    locator: lines 50127-50183
+    quote_or_summary: The vanaras uproot trees and move great stones, complete the
+      hundred-league bridge in five days, and cross over it toward Lanka.
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The sequence from vigil to threat to epiphany to bridge building is explicit;
+    comparative framing stays cautious around theology and landscape etiology.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs review for preferred handling of ethnonyms in Ocean's northward-target
+    speech and for any atlas standard on bridge-length numerics.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Local extraction for the Ramayana wave focused on compelled sea negotiation,
+  redirected divine force, and the Nala-led bridge crossing to Lanka.

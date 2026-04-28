@@ -1,0 +1,73 @@
+---
+batch_pipeline_manifest_version: '1'
+run_id: demo-motif-extraction
+created_at: '2026-04-28T02:39:17Z'
+updated_at: '2026-04-28T02:40:05Z'
+artifacts:
+  passages_path: data/batches/demo-motif-extraction/passages.jsonl
+  requests_index_path: data/batches/demo-motif-extraction/requests/index.yml
+  request_map_path: data/batches/demo-motif-extraction/request-map.jsonl
+openai: {}
+state: {}
+pipeline: motif_extraction
+status: requests_prepared
+config:
+  segmentation:
+    glob: 
+    text_paths:
+    - texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    - texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+    max_chars: 6000
+    min_chars: 500
+    limit: 4
+  motif_request_generation:
+    model: gpt-5.4-mini
+    endpoint: "/v1/responses"
+    prompt_path: templates/batch-motif-extraction-prompt.md
+    max_output_tokens: 4000
+    temperature: 
+    reasoning_effort: 
+    max_requests_per_shard: 2
+    max_bytes_per_shard: 188743680
+counts:
+  source_texts_segmented: 2
+  passages: 4
+  requests_prepared: 4
+  request_shards: 2
+  skipped_ingested_requests: 0
+source_texts:
+- path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  source_text_id: biblical.genesis.web_classic
+  title: Genesis
+  tradition: jewish_christian
+  culture: ancient_israelite_later_biblical_reception
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    training_use: allowed
+    full_text: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  sha256: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+  passage_count: 2
+- path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  source_text_id: buddhist.dhammapada.max_muller_gutenberg
+  title: Dhammapada, a Collection of Verses
+  tradition: buddhist
+  culture: early_buddhist_pali_canon_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: b72161e5aaaa4168f634329f2aaddbd49d74d55166a226a2f4884420579306e9
+  passage_count: 2
+

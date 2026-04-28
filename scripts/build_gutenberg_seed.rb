@@ -503,6 +503,35 @@ WORKS = {
     figures: ["Krishna", "Arjuna", "Pandavas", "Kauravas", "Draupadi"],
     tradition_cluster: "hindu"
   },
+  "24869" => {
+    id: "hindu.ramayana.griffith_gutenberg",
+    title: "The Ramayan of Valmiki",
+    alternate_titles: ["The Ramayana of Valmiki", "Ramayana"],
+    text_status: "complete",
+    tradition: "hindu",
+    culture: "sanskrit_epic_later_translation",
+    region: "south_asia",
+    source_language: "Sanskrit",
+    text_language: "English",
+    date_range: "ancient epic source tradition; 1870-1874 public-domain English verse translation",
+    source_type: "text",
+    source_id: "source.project_gutenberg.24869",
+    edition: "Project Gutenberg plain-text eBook #24869",
+    translator: "Ralph T. H. Griffith",
+    editor: nil,
+    publication_year: 1870,
+    publisher: "Project Gutenberg",
+    source_url: "https://www.gutenberg.org/ebooks/24869",
+    raw_path: "imports/raw/project-gutenberg/24869-ramayana-griffith.txt",
+    converted_path: "imports/converted/project-gutenberg/24869-ramayana-griffith.md",
+    canonical_path: "texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md",
+    manifest_path: "manifests/project-gutenberg/24869-ramayana-griffith.yml",
+    extraction_dir: "extractions/hindu/project-gutenberg/ramayana",
+    tags: %w[ramayana epic rama sita ravana exile lanka dharma],
+    motifs: %w[departure return stolen_beloved royal_legitimacy chaos sacrifice],
+    figures: ["Rama", "Sita", "Lakshmana", "Hanuman", "Ravana"],
+    tradition_cluster: "hindu"
+  },
   "128" => {
     id: "islamicate_folklore.arabian_nights.lang_gutenberg",
     title: "The Arabian Nights Entertainments",
@@ -663,7 +692,12 @@ def checksum(path)
 end
 
 def clean_raw_text(raw)
-  text = raw.encode("UTF-8", invalid: :replace, undef: :replace, replace: "")
+  text = raw.dup.force_encoding("UTF-8")
+  text = if text.valid_encoding?
+    text.encode("UTF-8")
+  else
+    raw.dup.force_encoding("Windows-1252").encode("UTF-8", invalid: :replace, undef: :replace, replace: "")
+  end
   text = text.delete_prefix("\uFEFF")
   text = text.gsub("\r\n", "\n").gsub("\r", "\n")
 

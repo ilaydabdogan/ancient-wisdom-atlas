@@ -102,6 +102,10 @@ The repository includes a generated static site for browsing the atlas as a webs
 
 Expected project URL after Pages is enabled: `https://ilaydabdogan.github.io/ancient-wisdom-atlas/`
 
+## Batch Processing
+
+Use [docs/batch-api-workflow.md](docs/batch-api-workflow.md) for the OpenAI Batch API workflow that segments clean canonical Markdown, prepares sharded JSONL requests, uploads and tracks Batch jobs, downloads results, and stages machine-generated extraction drafts for human review.
+
 ## Scale-Up Workflow
 
 - [docs/source-prioritization.md](docs/source-prioritization.md): where to acquire first texts and in what order

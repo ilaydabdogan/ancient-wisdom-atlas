@@ -1,8 +1,8 @@
 ---
 generated_on: '2026-04-27'
 source: extractions
-motif_count: 101
-occurrence_count: 250
+motif_count: 105
+occurrence_count: 263
 motifs:
 - motif_id: wisdom
   label: Wisdom
@@ -12,7 +12,7 @@ motifs:
     celtic_irish: 1
     confucian: 6
     daoist: 2
-    hindu: 9
+    hindu: 10
     islamic: 3
     mesopotamian: 4
     norse: 1
@@ -609,6 +609,31 @@ motifs:
       type: summary
       quote_or_summary: Draupadi addresses the elders, asks why no righteous warrior
         protects a virtuous wife, and calls the scene a shame to Kuru glory.
+  - record_id: extraction.ramayana.ocean_threatened_bridge
+    extraction_path: extractions/hindu/project-gutenberg/ramayana/ramayana-ocean-threatened-bridge.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    source_title: The Ramayan of Valmiki
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: 'Book VI, Cantos XXI-XXII: Ocean Threatened'
+    motif_label: element bound by cosmic law yet practically helpful
+    basis: Ocean insists he cannot violate his nature, but he can still disclose the
+      workable way across through support and counsel.
+    confidence: medium
+    evidence:
+    - id: ev:5
+      locator: lines 50022-50061
+      type: summary
+      quote_or_summary: Ocean rises in majestic jeweled form with Ganga, Sindhu, and
+        other waters attending him, says he must remain unfordable by nature, and
+        promises support for a road across the tide.
+    - id: ev:7
+      locator: lines 50095-50125
+      type: summary
+      quote_or_summary: Ocean identifies Nala as Visvakarma's son, and Nala claims
+        the inherited skill and willingness to lay the bridge if Rama commands the
+        work.
   - record_id: extraction.upanishads.nachiketas_death_teacher
     extraction_path: extractions/hindu/project-gutenberg/upanishads/upanishads-nachiketas-death-teacher.yml
     source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
@@ -890,7 +915,7 @@ motifs:
     jewish_christian: 4
     egyptian: 2
     greek: 3
-    hindu: 1
+    hindu: 3
     islamic: 3
     maya_quiche: 2
   occurrences:
@@ -1137,6 +1162,55 @@ motifs:
       type: quote
       quote_or_summary: By Me they fall--not thee! the stroke of death is dealt them
         now, Even as they show thus gallantly; My instrument art thou!
+  - record_id: extraction.ramayana.ocean_threatened_bridge
+    extraction_path: extractions/hindu/project-gutenberg/ramayana/ramayana-ocean-threatened-bridge.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    source_title: The Ramayan of Valmiki
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: 'Book VI, Cantos XXI-XXII: Ocean Threatened'
+    motif_label: natural power compelled into negotiation
+    basis: Rama's threatened violence against the sea culminates in the appearance
+      of Ocean, who only then offers terms for passage.
+    confidence: high
+    evidence:
+    - id: ev:2
+      locator: lines 49919-49949
+      type: summary
+      quote_or_summary: Angered by Ocean's silence, Rama says gentleness toward the
+        base wins only contempt and resolves to dry the sea so the vanaras may cross
+        its bed on foot.
+    - id: ev:4
+      locator: lines 49988-50021
+      type: summary
+      quote_or_summary: Rama prepares the unfailing Brahma weapon, and darkness, thunder,
+        meteors, lightning, violent wind, and shaking mountains register cosmic alarm.
+    - id: ev:5
+      locator: lines 50022-50061
+      type: summary
+      quote_or_summary: Ocean rises in majestic jeweled form with Ganga, Sindhu, and
+        other waters attending him, says he must remain unfordable by nature, and
+        promises support for a road across the tide.
+  - record_id: extraction.ramayana.ocean_threatened_bridge
+    extraction_path: extractions/hindu/project-gutenberg/ramayana/ramayana-ocean-threatened-bridge.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    source_title: The Ramayan of Valmiki
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: 'Book VI, Cantos XXI-XXII: Ocean Threatened'
+    motif_label: redirected world-wounding weapon becomes landscape marker
+    basis: The unfailing arrow is diverted from the sea to the north, where it wounds
+      the earth, creates a named well, and transforms the region.
+    confidence: medium
+    evidence:
+    - id: ev:6
+      locator: lines 50062-50094
+      type: summary
+      quote_or_summary: Ocean tells Rama to spend the weapon northward against hostile
+        peoples; the arrow wounds the earth, creates the well of Vrana, dries the
+        region's waters, and is followed by a fertility boon.
   - record_id: extraction.koran_sale.adam_names_eblis_garden_direction
     extraction_path: extractions/islamic/project-gutenberg/koran-sale/koran-sale-adam-names-eblis-garden-direction.yml
     source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
@@ -1650,6 +1724,489 @@ motifs:
       type: summary
       quote_or_summary: Rustem faces the elephant, bends his iron mace with the blow,
         kills it in the dust, and receives Zal's amazed praise.
+- motif_id: death_rebirth
+  label: Death And Rebirth
+  traditions:
+    jewish_christian: 1
+    celtic_irish: 1
+    celtic_welsh: 1
+    egyptian: 2
+    hindu: 3
+    maya_quiche: 1
+    mesopotamian: 1
+  occurrences:
+  - record_id: extraction.deuteronomy.moses_death_succession
+    extraction_path: extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-moses-death-succession.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    source_title: Deuteronomy
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Deuteronomy 34:1-12
+    motif_label: death_rebirth
+    basis: Moses' death is followed by Joshua's recognized leadership and wisdom.
+    confidence: low
+    evidence:
+    - id: ev:1
+      locator: Deuteronomy 34:1-12
+      type: quote
+      quote_or_summary: Moses the servant of Yahweh died there in the land of Moab...
+        Joshua the son of Nun was full of the spirit of wisdom.
+  - record_id: extraction.celtic_irish.heroic_romances_of_ireland.etain_transformation_rebirth
+    extraction_path: extractions/celtic-irish/project-gutenberg/heroic-romances-of-ireland/heroic-romances-of-ireland-etain-transformation-rebirth.yml
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+    source_title: Heroic Romances of Ireland
+    tradition: celtic_irish
+    culture: medieval_irish_later_translation
+    region: ireland
+    passage_locator: The Courtship of Etain (Leabhar na h-Uidhri version); Etain transformed,
+      wind-borne, swallowed, and born again
+    motif_label: enchanted_transformation_and_rebirth
+    basis: Etain's identity persists through butterfly transformation, magical concealment,
+      swallowing, gestation, and second birth.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: lines 1035-1045
+      type: summary
+      quote_or_summary: Fuamnach and Bressal Etarlam transform Etain into a butterfly
+        and a magical wind carries her away for seven years.
+    - id: ev:2
+      locator: lines 1046-1055
+      type: summary
+      quote_or_summary: Angus Mac O'c recognizes Etain in transformed form and keeps
+        her in a fragrant bower with clear windows and precious herbs.
+    - id: ev:4
+      locator: lines 1074-1080
+      type: summary
+      quote_or_summary: Etain falls through a roof into a golden cup of milk, is swallowed
+        by Etar's wife, and is carried in her womb until born again as a maiden.
+    - id: ev:5
+      locator: lines 1081-1083
+      type: quote
+      quote_or_summary: one thousand and twelve years since the time of the first
+        begetting of Etain ... to the time when she was born the second time
+  - record_id: extraction.celtic_welsh.mabinogion.branwen_cauldron_renovation
+    extraction_path: extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-branwen-cauldron-renovation.yml
+    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    source_title: The Mabinogion
+    tradition: celtic_welsh
+    culture: medieval_welsh_later_translation
+    region: wales
+    passage_locator: Branwen the daughter of Llyr; cauldron origin and battlefield
+      use
+    motif_label: sacred_cauldron_of_renovation
+    basis: The cauldron restores slain bodies to fighting life by the next day.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: lines 6655-6665
+      type: quote
+      quote_or_summary: Bendigeid Vran says the cauldron restores a slain man by the
+        next day, but the revived man cannot speak.
+    - id: ev:5
+      locator: lines 6896-6900
+      type: summary
+      quote_or_summary: The Irish kindle fire under the cauldron of renovation, fill
+        it with dead bodies, and the bodies rise next day as fighting men unable to
+        speak.
+  - record_id: extraction.egyptian.book_of_the_dead.judgment_heart_maati
+    extraction_path: extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-judgment-heart-maati.yml
+    source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+    source_title: The Book of the Dead
+    tradition: egyptian
+    culture: ancient_egyptian_later_translation
+    region: nile_valley
+    passage_locator: CHAPTER VII, The Judgment of Osiris; Chapter CXXV and Papyrus
+      of Ani judgment vignette
+    motif_label: acquittal_and_afterlife_reward
+    basis: After the favourable verdict, Ani is granted offerings, comes before Osiris,
+      and becomes a spirit-body.
+    confidence: medium
+    evidence:
+    - id: ev:5
+      locator: CHAPTER VII, The Judgment of Osiris; Ani before Osiris
+      type: summary
+      quote_or_summary: Horus tells Osiris that Ani's heart is righteous, has come
+        forth from the Balance, has no sin before any god or goddess, and that Thoth
+        has written the judgment.
+    - id: ev:6
+      locator: CHAPTER VII, The Judgment of Osiris; close of Chapter VII
+      type: quote
+      quote_or_summary: Under favour of Osiris Ani then became a sahu, or "spirit-body,"
+        and in this form passed into the Kingdom of Osiris.
+  - record_id: extraction.egyptian.book_of_the_dead.transformations_protection
+    extraction_path: extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml
+    source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+    source_title: The Book of the Dead
+    tradition: egyptian
+    culture: ancient_egyptian_later_translation
+    region: nile_valley
+    passage_locator: CHAPTER IX, A Short Description of the "Doors" or Chapters of
+      the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII,
+      and CLV-CLXVII
+    motif_label: divine_protection_of_the_dead
+    basis: The text describes protective chapters and amulet spells for the deceased.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book
+        of the Dead; Chapter LXIV
+      type: quote
+      quote_or_summary: Chapter LXIV is an epitome of the whole Book of the Dead,
+        and it formed a "great and divine protection" for the deceased.
+    - id: ev:6
+      locator: CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book
+        of the Dead; Chapters CLV-CLXVII
+      type: quote
+      quote_or_summary: Chapters CLV-CLXVII are spells which were engraved on the
+        amulets, giving the deceased the protection of Ra, Osiris, Isis, Horus, and
+        other gods.
+  - record_id: extraction.ramayana.ganga_descent_bhagiratha
+    extraction_path: extractions/hindu/project-gutenberg/ramayana/ramayana-ganga-descent-bhagiratha.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    source_title: The Ramayan of Valmiki
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: 'Book I, Canto XLIV: The Descent Of Gangá'
+    motif_label: ancestral release through sacred water
+    basis: Bhagiratha's whole quest culminates when the river reaches his kinsmen's
+      remains and their spirits attain beatitude.
+    confidence: high
+    evidence:
+    - id: ev:9
+      locator: lines 6046-6061
+      type: summary
+      quote_or_summary: Bhagiratha leads Gangá through the sea and nether caves to
+        the dust of Sagar's sons, pours the funeral libation, and their spirits gain
+        beatitude and rise to heaven.
+    - id: ev:10
+      locator: lines 6063-6131
+      type: summary
+      quote_or_summary: Brahmá praises Bhagiratha, says the sons of Sagar have joined
+        the blest, names the river Bhágirathí and Tripathagá, and instructs the king
+        to complete his vow and libations.
+  - record_id: extraction.upanishads.nachiketas_death_teacher
+    extraction_path: extractions/hindu/project-gutenberg/upanishads/upanishads-nachiketas-death-teacher.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+    source_title: The Upanishads
+    tradition: hindu
+    culture: sanskrit_vedic_later_translation
+    region: south_asia
+    passage_locator: Katha-Upanishad, Part First VII-Part Second IV
+    motif_label: death-question wisdom
+    basis: The desired knowledge concerns what becomes of a person after death, and
+      Yama praises Nachiketas as one who longs for wisdom.
+    confidence: medium
+    evidence:
+    - id: ev:3
+      locator: Katha-Upanishad, Part First XX
+      type: quote
+      quote_or_summary: Nachiketas asks what becomes of a man after death.
+    - id: ev:6
+      locator: Katha-Upanishad, Part First XXIX
+      type: quote
+      quote_or_summary: Nachiketas asks for no other boon than the hidden secret of
+        the great Hereafter.
+    - id: ev:8
+      locator: Katha-Upanishad, Part Second IV
+      type: quote
+      quote_or_summary: Yama says ignorance and wisdom lead in opposite directions
+        and Nachiketas longs for wisdom.
+  - record_id: extraction.upanishads.self_deathless_wisdom
+    extraction_path: extractions/hindu/project-gutenberg/upanishads/upanishads-self-deathless-wisdom.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+    source_title: The Upanishads
+    tradition: hindu
+    culture: sanskrit_vedic_later_translation
+    region: south_asia
+    passage_locator: Katha-Upanishad, Part Second XVIII-XXIII; Part Sixth XVIII
+    motif_label: deathless self wisdom
+    basis: The teaching concerns the Self that is not born, does not die, and is known
+      by the wise.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: Katha-Upanishad, Part Second XVIII-XIX
+      type: quote
+      quote_or_summary: The Self is never born and never dies; it is not slain when
+        the body is slain.
+    - id: ev:2
+      locator: Katha-Upanishad, Part Second XX
+      type: quote
+      quote_or_summary: The Self is subtler than the subtle, greater than the great,
+        and dwells in each heart.
+    - id: ev:3
+      locator: Katha-Upanishad, Part Second XXII
+      type: quote
+      quote_or_summary: The wise know the bodiless Self within perishable bodies and
+        do not grieve.
+  - record_id: extraction.mesoamerican.popol_vuh.hero_twins_xibalba_trials
+    extraction_path: extractions/mesoamerican/project-gutenberg/popol-vuh/popol-vuh-hero-twins-xibalba-trials.yml
+    source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+    source_title: The Popol Vuh
+    tradition: maya_quiche
+    culture: mesoamerican_kiche_later_translation
+    region: mesoamerica
+    passage_locator: The Second Book, Hero Twins in Xibalba
+    motif_label: death_rebirth
+    basis: The brothers die together, their bones are powdered and submerged, and
+      they reappear in transformed forms.
+    confidence: high
+    evidence:
+    - id: ev:6
+      locator: The Second Book, staged death and return
+      type: summary
+      quote_or_summary: The brothers die on a funeral pile, their bones are powdered
+        and thrown into the river, and they reappear like men-fishes and then ragged
+        old men.
+  - record_id: extraction.gilgamesh.sabitum_mortality_quest
+    extraction_path: extractions/mesopotamian/project-gutenberg/gilgamesh/gilgamesh-sabitum-mortality-quest.yml
+    source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+    source_title: An Old Babylonian Version of the Gilgamesh Epic
+    tradition: mesopotamian
+    culture: old_babylonian
+    region: mesopotamia
+    passage_locator: INTRODUCTION I, Meissner fragment / Sabitum address
+    motif_label: impossible_immortality_quest
+    basis: The passage explicitly says the sought life will not be found because death
+      is imposed on mankind and life is kept by the gods.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: INTRODUCTION I, Meissner fragment / Sabitum address
+      type: quote
+      quote_or_summary: Why, O Gish, does thou run about? / The life that thou seekest,
+        thou wilt not find.
+    - id: ev:2
+      locator: INTRODUCTION I, Meissner fragment / Sabitum address
+      type: quote
+      quote_or_summary: When the gods created mankind, / Death they imposed on mankind;
+        / Life they kept in their power.
+- motif_id: sacrifice
+  label: Sacrifice
+  traditions:
+    jewish_christian: 4
+    celtic_welsh: 1
+    greek: 1
+    hindu: 4
+  occurrences:
+  - record_id: extraction.exodus.passover_plague
+    extraction_path: extractions/biblical/world-english-bible-classic/exodus/exodus-passover-plague.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    source_title: Exodus
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Exodus 12:1-14, 21-31
+    motif_label: sacrifice
+    basis: Candidate motif from literal passage evidence.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Exodus 12:1-14, 21-31
+      type: quote
+      quote_or_summary: The blood shall be to you for a token on the houses where
+        you are... Yahweh struck all the firstborn in the land of Egypt.
+  - record_id: extraction.genesis.sacrifice_covenant
+    extraction_path: extractions/biblical/world-english-bible-classic/genesis/genesis-sacrifice-covenant.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    source_title: Genesis
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Genesis 8:20-22; 9:8-17
+    motif_label: sacrifice
+    basis: Candidate motif from literal passage evidence.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Genesis 8:20-22; 9:8-17
+      type: quote
+      quote_or_summary: Noah built an altar to Yahweh... I establish my covenant with
+        you, and with your offspring after you.
+  - record_id: extraction.leviticus.burnt_offering
+    extraction_path: extractions/biblical/world-english-bible-classic/leviticus/leviticus-burnt-offering.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    source_title: Leviticus
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Leviticus 1:3-9
+    motif_label: sacrifice
+    basis: Candidate motif from literal passage evidence.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Leviticus 1:3-9
+      type: quote
+      quote_or_summary: If his offering is a burnt offering from the herd... The priest
+        shall burn all of it on the altar.
+  - record_id: extraction.numbers.korah_rebellion_judgment
+    extraction_path: extractions/biblical/world-english-bible-classic/numbers/numbers-korah-rebellion-judgment.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    source_title: Numbers
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Numbers 16:1-50
+    motif_label: priestly_intercession
+    basis: Aaron uses fire and incense to make atonement and stop the plague.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Numbers 16:1-50
+      type: quote
+      quote_or_summary: The earth opened its mouth and swallowed them up... He stood
+        between the dead and the living; and the plague was stayed.
+  - record_id: extraction.celtic_welsh.mabinogion.branwen_cauldron_renovation
+    extraction_path: extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-branwen-cauldron-renovation.yml
+    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    source_title: The Mabinogion
+    tradition: celtic_welsh
+    culture: medieval_welsh_later_translation
+    region: wales
+    passage_locator: Branwen the daughter of Llyr; cauldron origin and battlefield
+      use
+    motif_label: destructive_self_sacrifice_against_magic_object
+    basis: Evnissyen enters the cauldron among the dead and destroys it from within,
+      stopping its use.
+    confidence: medium
+    evidence:
+    - id: ev:6
+      locator: lines 6900-6906
+      type: summary
+      quote_or_summary: Evnissyen sees the imbalance in resurrection, enters the cauldron
+        among the dead, and stretches out until he rends it into four pieces.
+  - record_id: extraction.greek.hesiod_homeric_hymns.theogony_prometheus_fire_theft
+    extraction_path: extractions/greek/project-gutenberg/hesiod-homeric-hymns/theogony-prometheus-fire-theft.yml
+    source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+    source_title: Hesiod, the Homeric Hymns, and Homerica
+    tradition: greek
+    culture: ancient_greek
+    region: aegean_mediterranean
+    passage_locator: Theogony ll. 507-616
+    motif_label: trickster at sacrificial boundary
+    basis: Prometheus uses deceptive food portions in a divine-human dispute that
+      explains altar practice.
+    confidence: high
+    evidence:
+    - id: ev:2
+      locator: Theogony (ll. 507-543)
+      type: quote
+      quote_or_summary: '"For when the gods and mortal men had a dispute at Mecone...
+        Prometheus was forward to cut up a great ox and set portions before them,
+        trying to befool the mind of Zeus."
+
+'
+    - id: ev:3
+      locator: Theogony (ll. 548-558)
+      type: quote
+      quote_or_summary: '"Zeus... saw and failed not to perceive the trick... and
+        because of this the tribes of men upon earth burn white bones to the deathless
+        gods upon fragrant altars."
+
+'
+  - record_id: extraction.mahabharata.bhishma_oath_bound_fall
+    extraction_path: extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+    source_title: Maha-bharata
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: Fall of Bhishma
+    motif_label: oath-bounded defeat
+    basis: Bhishma himself declares the condition under which he will not fight, and
+      that vow becomes the means of his own fall.
+    confidence: high
+    evidence:
+    - id: ev:2
+      locator: lines 4504-4519
+      type: summary
+      quote_or_summary: Bhishma says he will not betray Duryodhana and lists the sorts
+        of foes he will not fight, including one born female.
+    - id: ev:3
+      locator: lines 4520-4530
+      type: summary
+      quote_or_summary: Krishna tells Arjuna there is hope because Sikhandin, once
+        born female, can stand in front and cause Bhishma to leave the fight.
+    - id: ev:5
+      locator: lines 4550-4624
+      type: summary
+      quote_or_summary: In battle Arjuna places Sikhandin in front, Bhishma remembers
+        his vow, drops his arms, and falls as the day declines.
+  - record_id: extraction.mahabharata.bhishma_oath_bound_fall
+    extraction_path: extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+    source_title: Maha-bharata
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: Fall of Bhishma
+    motif_label: filial reluctance before necessary violence
+    basis: Arjuna resists the strategy because Bhishma has been like a father, yet
+      the battle requires him to accept the elder's death.
+    confidence: medium
+    evidence:
+    - id: ev:4
+      locator: lines 4532-4548
+      type: summary
+      quote_or_summary: Arjuna calls the plan shameful because Bhishma has been like
+        a father, and Krishna answers that Bhishma himself has shown the way.
+    - id: ev:6
+      locator: lines 4625-4638
+      type: summary
+      quote_or_summary: Both sides gather in grief, Arjuna's arrows form Bhishma's
+        dying bed, and Bhishma begins his final counsel to Duryodhana.
+  - record_id: extraction.mahabharata.bhishma_oath_bound_fall
+    extraction_path: extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+    source_title: Maha-bharata
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: Fall of Bhishma
+    motif_label: dying elder on arrow bed
+    basis: Bhishma's fall onto a bed of arrows immediately converts the slain warrior
+      into a dying counselor whose final voice still carries authority.
+    confidence: medium
+    evidence:
+    - id: ev:5
+      locator: lines 4550-4624
+      type: summary
+      quote_or_summary: In battle Arjuna places Sikhandin in front, Bhishma remembers
+        his vow, drops his arms, and falls as the day declines.
+    - id: ev:6
+      locator: lines 4625-4638
+      type: summary
+      quote_or_summary: Both sides gather in grief, Arjuna's arrows form Bhishma's
+        dying bed, and Bhishma begins his final counsel to Duryodhana.
+  - record_id: extraction.ramayana.sandals_regency_bharata
+    extraction_path: extractions/hindu/project-gutenberg/ramayana/ramayana-sandals-regency-bharata.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    source_title: The Ramayan of Valmiki
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: 'Book II, Cantos CXII-CXIV: The Sandals; Bharat''s Return; Bharat''s
+      Departure'
+    motif_label: regency by self-abnegation
+    basis: Bharat refuses ordinary royal enjoyment, adopts hermit signs, and binds
+      his own life to Ráma's timely return.
+    confidence: medium
+    evidence:
+    - id: ev:5
+      locator: lines 25404-25425
+      type: summary
+      quote_or_summary: Bharat vows to live in hermit's dress outside the kingdom,
+        delegate rule to the sandals, and enter fire if Ráma does not return at the
+        close of fourteen years.
+    - id: ev:6
+      locator: lines 25426-25455
+      type: summary
+      quote_or_summary: Bharat reverently circles Ráma, places the bright sandals
+        above his brows, and has them bound upon the royal elephant before departing.
 - motif_id: covenant
   label: Covenant
   traditions:
@@ -1836,241 +2393,6 @@ motifs:
       type: quote
       quote_or_summary: perform your covenant with me, and I will perform my covenant
         with you
-- motif_id: death_rebirth
-  label: Death And Rebirth
-  traditions:
-    jewish_christian: 1
-    celtic_irish: 1
-    celtic_welsh: 1
-    egyptian: 2
-    hindu: 2
-    maya_quiche: 1
-    mesopotamian: 1
-  occurrences:
-  - record_id: extraction.deuteronomy.moses_death_succession
-    extraction_path: extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-moses-death-succession.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
-    source_title: Deuteronomy
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Deuteronomy 34:1-12
-    motif_label: death_rebirth
-    basis: Moses' death is followed by Joshua's recognized leadership and wisdom.
-    confidence: low
-    evidence:
-    - id: ev:1
-      locator: Deuteronomy 34:1-12
-      type: quote
-      quote_or_summary: Moses the servant of Yahweh died there in the land of Moab...
-        Joshua the son of Nun was full of the spirit of wisdom.
-  - record_id: extraction.celtic_irish.heroic_romances_of_ireland.etain_transformation_rebirth
-    extraction_path: extractions/celtic-irish/project-gutenberg/heroic-romances-of-ireland/heroic-romances-of-ireland-etain-transformation-rebirth.yml
-    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
-    source_title: Heroic Romances of Ireland
-    tradition: celtic_irish
-    culture: medieval_irish_later_translation
-    region: ireland
-    passage_locator: The Courtship of Etain (Leabhar na h-Uidhri version); Etain transformed,
-      wind-borne, swallowed, and born again
-    motif_label: enchanted_transformation_and_rebirth
-    basis: Etain's identity persists through butterfly transformation, magical concealment,
-      swallowing, gestation, and second birth.
-    confidence: high
-    evidence:
-    - id: ev:1
-      locator: lines 1035-1045
-      type: summary
-      quote_or_summary: Fuamnach and Bressal Etarlam transform Etain into a butterfly
-        and a magical wind carries her away for seven years.
-    - id: ev:2
-      locator: lines 1046-1055
-      type: summary
-      quote_or_summary: Angus Mac O'c recognizes Etain in transformed form and keeps
-        her in a fragrant bower with clear windows and precious herbs.
-    - id: ev:4
-      locator: lines 1074-1080
-      type: summary
-      quote_or_summary: Etain falls through a roof into a golden cup of milk, is swallowed
-        by Etar's wife, and is carried in her womb until born again as a maiden.
-    - id: ev:5
-      locator: lines 1081-1083
-      type: quote
-      quote_or_summary: one thousand and twelve years since the time of the first
-        begetting of Etain ... to the time when she was born the second time
-  - record_id: extraction.celtic_welsh.mabinogion.branwen_cauldron_renovation
-    extraction_path: extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-branwen-cauldron-renovation.yml
-    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
-    source_title: The Mabinogion
-    tradition: celtic_welsh
-    culture: medieval_welsh_later_translation
-    region: wales
-    passage_locator: Branwen the daughter of Llyr; cauldron origin and battlefield
-      use
-    motif_label: sacred_cauldron_of_renovation
-    basis: The cauldron restores slain bodies to fighting life by the next day.
-    confidence: high
-    evidence:
-    - id: ev:1
-      locator: lines 6655-6665
-      type: quote
-      quote_or_summary: Bendigeid Vran says the cauldron restores a slain man by the
-        next day, but the revived man cannot speak.
-    - id: ev:5
-      locator: lines 6896-6900
-      type: summary
-      quote_or_summary: The Irish kindle fire under the cauldron of renovation, fill
-        it with dead bodies, and the bodies rise next day as fighting men unable to
-        speak.
-  - record_id: extraction.egyptian.book_of_the_dead.judgment_heart_maati
-    extraction_path: extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-judgment-heart-maati.yml
-    source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
-    source_title: The Book of the Dead
-    tradition: egyptian
-    culture: ancient_egyptian_later_translation
-    region: nile_valley
-    passage_locator: CHAPTER VII, The Judgment of Osiris; Chapter CXXV and Papyrus
-      of Ani judgment vignette
-    motif_label: acquittal_and_afterlife_reward
-    basis: After the favourable verdict, Ani is granted offerings, comes before Osiris,
-      and becomes a spirit-body.
-    confidence: medium
-    evidence:
-    - id: ev:5
-      locator: CHAPTER VII, The Judgment of Osiris; Ani before Osiris
-      type: summary
-      quote_or_summary: Horus tells Osiris that Ani's heart is righteous, has come
-        forth from the Balance, has no sin before any god or goddess, and that Thoth
-        has written the judgment.
-    - id: ev:6
-      locator: CHAPTER VII, The Judgment of Osiris; close of Chapter VII
-      type: quote
-      quote_or_summary: Under favour of Osiris Ani then became a sahu, or "spirit-body,"
-        and in this form passed into the Kingdom of Osiris.
-  - record_id: extraction.egyptian.book_of_the_dead.transformations_protection
-    extraction_path: extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml
-    source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
-    source_title: The Book of the Dead
-    tradition: egyptian
-    culture: ancient_egyptian_later_translation
-    region: nile_valley
-    passage_locator: CHAPTER IX, A Short Description of the "Doors" or Chapters of
-      the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII,
-      and CLV-CLXVII
-    motif_label: divine_protection_of_the_dead
-    basis: The text describes protective chapters and amulet spells for the deceased.
-    confidence: medium
-    evidence:
-    - id: ev:1
-      locator: CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book
-        of the Dead; Chapter LXIV
-      type: quote
-      quote_or_summary: Chapter LXIV is an epitome of the whole Book of the Dead,
-        and it formed a "great and divine protection" for the deceased.
-    - id: ev:6
-      locator: CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book
-        of the Dead; Chapters CLV-CLXVII
-      type: quote
-      quote_or_summary: Chapters CLV-CLXVII are spells which were engraved on the
-        amulets, giving the deceased the protection of Ra, Osiris, Isis, Horus, and
-        other gods.
-  - record_id: extraction.upanishads.nachiketas_death_teacher
-    extraction_path: extractions/hindu/project-gutenberg/upanishads/upanishads-nachiketas-death-teacher.yml
-    source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
-    source_title: The Upanishads
-    tradition: hindu
-    culture: sanskrit_vedic_later_translation
-    region: south_asia
-    passage_locator: Katha-Upanishad, Part First VII-Part Second IV
-    motif_label: death-question wisdom
-    basis: The desired knowledge concerns what becomes of a person after death, and
-      Yama praises Nachiketas as one who longs for wisdom.
-    confidence: medium
-    evidence:
-    - id: ev:3
-      locator: Katha-Upanishad, Part First XX
-      type: quote
-      quote_or_summary: Nachiketas asks what becomes of a man after death.
-    - id: ev:6
-      locator: Katha-Upanishad, Part First XXIX
-      type: quote
-      quote_or_summary: Nachiketas asks for no other boon than the hidden secret of
-        the great Hereafter.
-    - id: ev:8
-      locator: Katha-Upanishad, Part Second IV
-      type: quote
-      quote_or_summary: Yama says ignorance and wisdom lead in opposite directions
-        and Nachiketas longs for wisdom.
-  - record_id: extraction.upanishads.self_deathless_wisdom
-    extraction_path: extractions/hindu/project-gutenberg/upanishads/upanishads-self-deathless-wisdom.yml
-    source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
-    source_title: The Upanishads
-    tradition: hindu
-    culture: sanskrit_vedic_later_translation
-    region: south_asia
-    passage_locator: Katha-Upanishad, Part Second XVIII-XXIII; Part Sixth XVIII
-    motif_label: deathless self wisdom
-    basis: The teaching concerns the Self that is not born, does not die, and is known
-      by the wise.
-    confidence: high
-    evidence:
-    - id: ev:1
-      locator: Katha-Upanishad, Part Second XVIII-XIX
-      type: quote
-      quote_or_summary: The Self is never born and never dies; it is not slain when
-        the body is slain.
-    - id: ev:2
-      locator: Katha-Upanishad, Part Second XX
-      type: quote
-      quote_or_summary: The Self is subtler than the subtle, greater than the great,
-        and dwells in each heart.
-    - id: ev:3
-      locator: Katha-Upanishad, Part Second XXII
-      type: quote
-      quote_or_summary: The wise know the bodiless Self within perishable bodies and
-        do not grieve.
-  - record_id: extraction.mesoamerican.popol_vuh.hero_twins_xibalba_trials
-    extraction_path: extractions/mesoamerican/project-gutenberg/popol-vuh/popol-vuh-hero-twins-xibalba-trials.yml
-    source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
-    source_title: The Popol Vuh
-    tradition: maya_quiche
-    culture: mesoamerican_kiche_later_translation
-    region: mesoamerica
-    passage_locator: The Second Book, Hero Twins in Xibalba
-    motif_label: death_rebirth
-    basis: The brothers die together, their bones are powdered and submerged, and
-      they reappear in transformed forms.
-    confidence: high
-    evidence:
-    - id: ev:6
-      locator: The Second Book, staged death and return
-      type: summary
-      quote_or_summary: The brothers die on a funeral pile, their bones are powdered
-        and thrown into the river, and they reappear like men-fishes and then ragged
-        old men.
-  - record_id: extraction.gilgamesh.sabitum_mortality_quest
-    extraction_path: extractions/mesopotamian/project-gutenberg/gilgamesh/gilgamesh-sabitum-mortality-quest.yml
-    source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
-    source_title: An Old Babylonian Version of the Gilgamesh Epic
-    tradition: mesopotamian
-    culture: old_babylonian
-    region: mesopotamia
-    passage_locator: INTRODUCTION I, Meissner fragment / Sabitum address
-    motif_label: impossible_immortality_quest
-    basis: The passage explicitly says the sought life will not be found because death
-      is imposed on mankind and life is kept by the gods.
-    confidence: high
-    evidence:
-    - id: ev:1
-      locator: INTRODUCTION I, Meissner fragment / Sabitum address
-      type: quote
-      quote_or_summary: Why, O Gish, does thou run about? / The life that thou seekest,
-        thou wilt not find.
-    - id: ev:2
-      locator: INTRODUCTION I, Meissner fragment / Sabitum address
-      type: quote
-      quote_or_summary: When the gods created mankind, / Death they imposed on mankind;
-        / Life they kept in their power.
 - motif_id: sacred_exchange
   label: Sacred Exchange
   traditions:
@@ -2278,204 +2600,213 @@ motifs:
       type: summary
       quote_or_summary: The Simurgh gives Zal a feather to burn whenever danger comes,
         then presents him to Sam as worthy of throne and diadem.
-- motif_id: sacrifice
-  label: Sacrifice
+- motif_id: royal_legitimacy
+  label: Royal Legitimacy
   traditions:
-    jewish_christian: 4
+    jewish_christian: 1
     celtic_welsh: 1
-    greek: 1
-    hindu: 3
+    confucian: 2
+    hindu: 4
   occurrences:
-  - record_id: extraction.exodus.passover_plague
-    extraction_path: extractions/biblical/world-english-bible-classic/exodus/exodus-passover-plague.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
-    source_title: Exodus
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Exodus 12:1-14, 21-31
-    motif_label: sacrifice
-    basis: Candidate motif from literal passage evidence.
-    confidence: medium
-    evidence:
-    - id: ev:1
-      locator: Exodus 12:1-14, 21-31
-      type: quote
-      quote_or_summary: The blood shall be to you for a token on the houses where
-        you are... Yahweh struck all the firstborn in the land of Egypt.
-  - record_id: extraction.genesis.sacrifice_covenant
-    extraction_path: extractions/biblical/world-english-bible-classic/genesis/genesis-sacrifice-covenant.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
-    source_title: Genesis
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Genesis 8:20-22; 9:8-17
-    motif_label: sacrifice
-    basis: Candidate motif from literal passage evidence.
-    confidence: medium
-    evidence:
-    - id: ev:1
-      locator: Genesis 8:20-22; 9:8-17
-      type: quote
-      quote_or_summary: Noah built an altar to Yahweh... I establish my covenant with
-        you, and with your offspring after you.
-  - record_id: extraction.leviticus.burnt_offering
-    extraction_path: extractions/biblical/world-english-bible-classic/leviticus/leviticus-burnt-offering.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
-    source_title: Leviticus
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Leviticus 1:3-9
-    motif_label: sacrifice
-    basis: Candidate motif from literal passage evidence.
-    confidence: medium
-    evidence:
-    - id: ev:1
-      locator: Leviticus 1:3-9
-      type: quote
-      quote_or_summary: If his offering is a burnt offering from the herd... The priest
-        shall burn all of it on the altar.
-  - record_id: extraction.numbers.korah_rebellion_judgment
-    extraction_path: extractions/biblical/world-english-bible-classic/numbers/numbers-korah-rebellion-judgment.yml
+  - record_id: extraction.numbers.balaam_donkey_oracle
+    extraction_path: extractions/biblical/world-english-bible-classic/numbers/numbers-balaam-donkey-oracle.yml
     source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
     source_title: Numbers
     tradition: jewish_christian
     culture: ancient_israelite_later_biblical_reception
     region: levant
-    passage_locator: Numbers 16:1-50
-    motif_label: priestly_intercession
-    basis: Aaron uses fire and incense to make atonement and stop the plague.
-    confidence: medium
+    passage_locator: Numbers 22:21-35; 23:1-12; 24:1-17
+    motif_label: royal_legitimacy
+    basis: The oracle uses star and scepter language for Jacob and Israel.
+    confidence: low
     evidence:
-    - id: ev:1
-      locator: Numbers 16:1-50
+    - id: ev:3
+      locator: Numbers 24:1-17
       type: quote
-      quote_or_summary: The earth opened its mouth and swallowed them up... He stood
-        between the dead and the living; and the plague was stayed.
-  - record_id: extraction.celtic_welsh.mabinogion.branwen_cauldron_renovation
-    extraction_path: extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-branwen-cauldron-renovation.yml
+      quote_or_summary: The Spirit of God came on him... A star will come out of Jacob.
+        A scepter will rise out of Israel.
+  - record_id: extraction.celtic_welsh.mabinogion.pwyll_annwvyn_exchange
+    extraction_path: extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-pwyll-annwvyn-exchange.yml
     source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
     source_title: The Mabinogion
     tradition: celtic_welsh
     culture: medieval_welsh_later_translation
     region: wales
-    passage_locator: Branwen the daughter of Llyr; cauldron origin and battlefield
-      use
-    motif_label: destructive_self_sacrifice_against_magic_object
-    basis: Evnissyen enters the cauldron among the dead and destroys it from within,
-      stopping its use.
+    passage_locator: Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn
+    motif_label: return_with_new_status
+    basis: Pwyll returns from Annwvyn after ruling and gains the title Chief of Annwvyn.
     confidence: medium
     evidence:
+    - id: ev:8
+      locator: lines 6010-6047
+      type: summary
+      quote_or_summary: Arawn restores Pwyll's form, Pwyll returns to Dyved, friendship
+        is strengthened, and Pwyll is called Chief of Annwvyn.
+  - record_id: extraction.sayings_of_confucius.government_pole_star_rectification
+    extraction_path: extractions/confucian/project-gutenberg/sayings-of-confucius/sayings-of-confucius-government-pole-star-rectification.yml
+    source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+    source_title: The Sayings of Confucius
+    tradition: confucian
+    culture: classical_chinese
+    region: china
+    passage_locator: Government and Public Affairs
+    motif_label: moral center of rule
+    basis: The ruler's virtue is treated as an ordering center that draws the community
+      into alignment.
+    confidence: high
+    evidence:
+    - id: ev:2
+      locator: lines 819-820
+      type: quote
+      quote_or_summary: A virtuous ruler is like the Pole-star, which keeps its place
+        while the other stars do homage to it.
+    - id: ev:3
+      locator: lines 822-825
+      type: summary
+      quote_or_summary: Punishment suppresses lawbreaking without shame, while rule
+        by inner self-control preserves moral sense and makes people good.
     - id: ev:6
-      locator: lines 6900-6906
+      locator: lines 871-887
       type: summary
-      quote_or_summary: Evnissyen sees the imbalance in resurrection, enters the cauldron
-        among the dead, and stretches out until he rends it into four pieces.
-  - record_id: extraction.greek.hesiod_homeric_hymns.theogony_prometheus_fire_theft
-    extraction_path: extractions/greek/project-gutenberg/hesiod-homeric-hymns/theogony-prometheus-fire-theft.yml
-    source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
-    source_title: Hesiod, the Homeric Hymns, and Homerica
-    tradition: greek
-    culture: ancient_greek
-    region: aegean_mediterranean
-    passage_locator: Theogony ll. 507-616
-    motif_label: trickster at sacrificial boundary
-    basis: Prometheus uses deceptive food portions in a divine-human dispute that
-      explains altar practice.
+      quote_or_summary: Government is keeping straight; a good ruler leads people
+        into line and bends them like grass before wind.
+  - record_id: extraction.sayings_of_confucius.government_pole_star_rectification
+    extraction_path: extractions/confucian/project-gutenberg/sayings-of-confucius/sayings-of-confucius-government-pole-star-rectification.yml
+    source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+    source_title: The Sayings of Confucius
+    tradition: confucian
+    culture: classical_chinese
+    region: china
+    passage_locator: Government and Public Affairs
+    motif_label: public trust above force
+    basis: Food and soldiers may be sacrificed before the confidence of the people,
+      without which rule collapses.
     confidence: high
     evidence:
-    - id: ev:2
-      locator: Theogony (ll. 507-543)
-      type: quote
-      quote_or_summary: '"For when the gods and mortal men had a dispute at Mecone...
-        Prometheus was forward to cut up a great ox and set portions before them,
-        trying to befool the mind of Zeus."
-
-'
-    - id: ev:3
-      locator: Theogony (ll. 548-558)
-      type: quote
-      quote_or_summary: '"Zeus... saw and failed not to perceive the trick... and
-        because of this the tribes of men upon earth burn white bones to the deathless
-        gods upon fragrant altars."
-
-'
-  - record_id: extraction.mahabharata.bhishma_oath_bound_fall
-    extraction_path: extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml
+    - id: ev:4
+      locator: lines 849-857
+      type: summary
+      quote_or_summary: Good government needs food, soldiers, and above all the confidence
+        of the people, without which the state cannot stand.
+  - record_id: extraction.mahabharata.draupadi_council_hall
+    extraction_path: extractions/hindu/project-gutenberg/mahabharata/mahabharata-draupadi-council-hall.yml
     source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
     source_title: Maha-bharata
     tradition: hindu
     culture: sanskrit_epic_later_translation
     region: south_asia
-    passage_locator: Fall of Bhishma
-    motif_label: oath-bounded defeat
-    basis: Bhishma himself declares the condition under which he will not fight, and
-      that vow becomes the means of his own fall.
+    passage_locator: Draupadi in the Council Hall; Draupadi's Plaint; Insult and Vow
+      of Revenge
+    motif_label: dharma challenged in royal assembly
+    basis: The crisis centers on whether the dice result can legitimately transfer
+      a queen after the king has already lost his own freedom.
     confidence: high
     evidence:
+    - id: ev:1
+      locator: lines 1660-1677
+      type: summary
+      quote_or_summary: Yudhishthira loses wealth, kin, himself, and then Draupadi
+        in the dice game and the Pandavas are reduced to exile.
     - id: ev:2
-      locator: lines 4504-4519
+      locator: lines 1693-1718
       type: summary
-      quote_or_summary: Bhishma says he will not betray Duryodhana and lists the sorts
-        of foes he will not fight, including one born female.
-    - id: ev:3
-      locator: lines 4520-4530
-      type: summary
-      quote_or_summary: Krishna tells Arjuna there is hope because Sikhandin, once
-        born female, can stand in front and cause Bhishma to leave the fight.
+      quote_or_summary: Draupadi asks whether a man who has already become a bondsman
+        can still stake his queen and declares the wager void.
     - id: ev:5
-      locator: lines 4550-4624
+      locator: lines 1778-1806
       type: summary
-      quote_or_summary: In battle Arjuna places Sikhandin in front, Bhishma remembers
-        his vow, drops his arms, and falls as the day declines.
-  - record_id: extraction.mahabharata.bhishma_oath_bound_fall
-    extraction_path: extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml
-    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
-    source_title: Maha-bharata
+      quote_or_summary: Draupadi addresses the elders, asks why no righteous warrior
+        protects a virtuous wife, and calls the scene a shame to Kuru glory.
+  - record_id: extraction.ramayana.asoka_grove_sita_witness
+    extraction_path: extractions/hindu/project-gutenberg/ramayana/ramayana-asoka-grove-sita-witness.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    source_title: The Ramayan of Valmiki
     tradition: hindu
     culture: sanskrit_epic_later_translation
     region: south_asia
-    passage_locator: Fall of Bhishma
-    motif_label: filial reluctance before necessary violence
-    basis: Arjuna resists the strategy because Bhishma has been like a father, yet
-      the battle requires him to accept the elder's death.
+    passage_locator: 'Book V, Cantos XIV-XVI: The Asoka Grove; Sítá; Hanumán''s Lament'
+    motif_label: hidden ally confirms captive queen
+    basis: The passage centers on Hanuman's concealed witnessing and confident recognition
+      of an endangered queen inside enemy-controlled space.
+    confidence: high
+    evidence:
+    - id: ev:2
+      locator: lines 45800-45807
+      type: summary
+      quote_or_summary: Hanuman climbs a nearby tree and reasons that the cool retreat
+        will draw the sorrowing queen who dreams of Rama apart from others.
+    - id: ev:3
+      locator: lines 45813-45834
+      type: summary
+      quote_or_summary: Near a shining palace Hanuman sees a tear-worn, fasting, neglected
+        woman watched by fiends and giantesses and recognizes her queenly bearing.
+    - id: ev:4
+      locator: lines 45835-45844
+      type: summary
+      quote_or_summary: Hanuman says the woman before him matches the captive Ravana
+        carried through the sky and declares that she is Rama's wife, worthy of her
+        lord.
+  - record_id: extraction.ramayana.asoka_grove_sita_witness
+    extraction_path: extractions/hindu/project-gutenberg/ramayana/ramayana-asoka-grove-sita-witness.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    source_title: The Ramayan of Valmiki
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: 'Book V, Cantos XIV-XVI: The Asoka Grove; Sítá; Hanumán''s Lament'
+    motif_label: earth-born queen in sorrow
+    basis: Hanuman explicitly recalls Sita's furrow-born origin and royal Mithila
+      identity while beholding her degraded captive condition.
     confidence: medium
     evidence:
     - id: ev:4
-      locator: lines 4532-4548
+      locator: lines 45835-45844
       type: summary
-      quote_or_summary: Arjuna calls the plan shameful because Bhishma has been like
-        a father, and Krishna answers that Bhishma himself has shown the way.
+      quote_or_summary: Hanuman says the woman before him matches the captive Ravana
+        carried through the sky and declares that she is Rama's wife, worthy of her
+        lord.
     - id: ev:6
-      locator: lines 4625-4638
+      locator: lines 45866-45889
       type: summary
-      quote_or_summary: Both sides gather in grief, Arjuna's arrows form Bhishma's
-        dying bed, and Bhishma begins his final counsel to Duryodhana.
-  - record_id: extraction.mahabharata.bhishma_oath_bound_fall
-    extraction_path: extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml
-    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
-    source_title: Maha-bharata
+      quote_or_summary: Hanuman recalls Sita's birth from the furrow, her devoted
+        choice of forest exile with Rama, and her present absorption in thoughts of
+        him alone.
+  - record_id: extraction.ramayana.sandals_regency_bharata
+    extraction_path: extractions/hindu/project-gutenberg/ramayana/ramayana-sandals-regency-bharata.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    source_title: The Ramayan of Valmiki
     tradition: hindu
     culture: sanskrit_epic_later_translation
     region: south_asia
-    passage_locator: Fall of Bhishma
-    motif_label: dying elder on arrow bed
-    basis: Bhishma's fall onto a bed of arrows immediately converts the slain warrior
-      into a dying counselor whose final voice still carries authority.
-    confidence: medium
+    passage_locator: 'Book II, Cantos CXII-CXIV: The Sandals; Bharat''s Return; Bharat''s
+      Departure'
+    motif_label: surrogate kingship through royal object
+    basis: The sandals, once placed beneath Ráma's feet, are treated as the delegated
+      protectors of realm and people during his absence.
+    confidence: high
     evidence:
+    - id: ev:4
+      locator: lines 25391-25403
+      type: summary
+      quote_or_summary: Bharat asks Ráma to place his feet upon the gold-decked sandals
+        so that they may protect realm and people, and Ráma gives them to him.
     - id: ev:5
-      locator: lines 4550-4624
+      locator: lines 25404-25425
       type: summary
-      quote_or_summary: In battle Arjuna places Sikhandin in front, Bhishma remembers
-        his vow, drops his arms, and falls as the day declines.
+      quote_or_summary: Bharat vows to live in hermit's dress outside the kingdom,
+        delegate rule to the sandals, and enter fire if Ráma does not return at the
+        close of fourteen years.
     - id: ev:6
-      locator: lines 4625-4638
+      locator: lines 25426-25455
       type: summary
-      quote_or_summary: Both sides gather in grief, Arjuna's arrows form Bhishma's
-        dying bed, and Bhishma begins his final counsel to Duryodhana.
+      quote_or_summary: Bharat reverently circles Ráma, places the bright sandals
+        above his brows, and has them bound upon the royal elephant before departing.
+    - id: ev:7
+      locator: lines 25476-25517
+      type: summary
+      quote_or_summary: Bharat tells Bharadvája that Vaśishṭha instructed him to hold
+        the sandals because they would secure Ayodhyá's welfare, and the hermit praises
+        Bharat's just mind.
 - motif_id: chaos
   label: Chaos
   traditions:
@@ -2788,123 +3119,121 @@ motifs:
       type: summary
       quote_or_summary: The Simurgh's young are also kind to the infant, who is nourished
         and protected for several years.
-- motif_id: royal_legitimacy
-  label: Royal Legitimacy
+- motif_id: sacred_tree_axis
+  label: Sacred Tree Or Axis Mundi
   traditions:
-    jewish_christian: 1
-    celtic_welsh: 1
-    confucian: 2
+    jewish_christian: 3
     hindu: 1
+    norse: 1
   occurrences:
-  - record_id: extraction.numbers.balaam_donkey_oracle
-    extraction_path: extractions/biblical/world-english-bible-classic/numbers/numbers-balaam-donkey-oracle.yml
+  - record_id: extraction.genesis.dream_descent
+    extraction_path: extractions/biblical/world-english-bible-classic/genesis/genesis-dream-descent.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    source_title: Genesis
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Genesis 28:10-17
+    motif_label: sacred_tree_axis
+    basis: Candidate motif from literal passage evidence.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Genesis 28:10-17
+      type: quote
+      quote_or_summary: He dreamed and saw a stairway set upon the earth, and its
+        top reached to heaven.
+  - record_id: extraction.genesis.tree_serpent
+    extraction_path: extractions/biblical/world-english-bible-classic/genesis/genesis-tree-serpent.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    source_title: Genesis
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Genesis 3:1-7
+    motif_label: sacred_tree_axis
+    basis: Candidate motif from literal passage evidence.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Genesis 3:1-7
+      type: quote
+      quote_or_summary: Now the serpent was more subtle than any animal of the field...
+        She took some of its fruit, and ate.
+  - record_id: extraction.numbers.bronze_serpent
+    extraction_path: extractions/biblical/world-english-bible-classic/numbers/numbers-bronze-serpent.yml
     source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
     source_title: Numbers
     tradition: jewish_christian
     culture: ancient_israelite_later_biblical_reception
     region: levant
-    passage_locator: Numbers 22:21-35; 23:1-12; 24:1-17
-    motif_label: royal_legitimacy
-    basis: The oracle uses star and scepter language for Jacob and Israel.
+    passage_locator: Numbers 21:4-9
+    motif_label: sacred_tree_axis
+    basis: The bronze serpent is raised on a pole.
     confidence: low
     evidence:
-    - id: ev:3
-      locator: Numbers 24:1-17
+    - id: ev:1
+      locator: Numbers 21:4-9
       type: quote
-      quote_or_summary: The Spirit of God came on him... A star will come out of Jacob.
-        A scepter will rise out of Israel.
-  - record_id: extraction.celtic_welsh.mabinogion.pwyll_annwvyn_exchange
-    extraction_path: extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-pwyll-annwvyn-exchange.yml
-    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
-    source_title: The Mabinogion
-    tradition: celtic_welsh
-    culture: medieval_welsh_later_translation
-    region: wales
-    passage_locator: Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn
-    motif_label: return_with_new_status
-    basis: Pwyll returns from Annwvyn after ruling and gains the title Chief of Annwvyn.
-    confidence: medium
-    evidence:
-    - id: ev:8
-      locator: lines 6010-6047
-      type: summary
-      quote_or_summary: Arawn restores Pwyll's form, Pwyll returns to Dyved, friendship
-        is strengthened, and Pwyll is called Chief of Annwvyn.
-  - record_id: extraction.sayings_of_confucius.government_pole_star_rectification
-    extraction_path: extractions/confucian/project-gutenberg/sayings-of-confucius/sayings-of-confucius-government-pole-star-rectification.yml
-    source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
-    source_title: The Sayings of Confucius
-    tradition: confucian
-    culture: classical_chinese
-    region: china
-    passage_locator: Government and Public Affairs
-    motif_label: moral center of rule
-    basis: The ruler's virtue is treated as an ordering center that draws the community
-      into alignment.
-    confidence: high
-    evidence:
-    - id: ev:2
-      locator: lines 819-820
-      type: quote
-      quote_or_summary: A virtuous ruler is like the Pole-star, which keeps its place
-        while the other stars do homage to it.
-    - id: ev:3
-      locator: lines 822-825
-      type: summary
-      quote_or_summary: Punishment suppresses lawbreaking without shame, while rule
-        by inner self-control preserves moral sense and makes people good.
-    - id: ev:6
-      locator: lines 871-887
-      type: summary
-      quote_or_summary: Government is keeping straight; a good ruler leads people
-        into line and bends them like grass before wind.
-  - record_id: extraction.sayings_of_confucius.government_pole_star_rectification
-    extraction_path: extractions/confucian/project-gutenberg/sayings-of-confucius/sayings-of-confucius-government-pole-star-rectification.yml
-    source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
-    source_title: The Sayings of Confucius
-    tradition: confucian
-    culture: classical_chinese
-    region: china
-    passage_locator: Government and Public Affairs
-    motif_label: public trust above force
-    basis: Food and soldiers may be sacrificed before the confidence of the people,
-      without which rule collapses.
-    confidence: high
-    evidence:
-    - id: ev:4
-      locator: lines 849-857
-      type: summary
-      quote_or_summary: Good government needs food, soldiers, and above all the confidence
-        of the people, without which the state cannot stand.
-  - record_id: extraction.mahabharata.draupadi_council_hall
-    extraction_path: extractions/hindu/project-gutenberg/mahabharata/mahabharata-draupadi-council-hall.yml
-    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
-    source_title: Maha-bharata
+      quote_or_summary: Make a venomous snake, and set it on a pole... when he looked
+        at the serpent of bronze, he lived.
+  - record_id: extraction.ramayana.ganga_descent_bhagiratha
+    extraction_path: extractions/hindu/project-gutenberg/ramayana/ramayana-ganga-descent-bhagiratha.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    source_title: The Ramayan of Valmiki
     tradition: hindu
     culture: sanskrit_epic_later_translation
     region: south_asia
-    passage_locator: Draupadi in the Council Hall; Draupadi's Plaint; Insult and Vow
-      of Revenge
-    motif_label: dharma challenged in royal assembly
-    basis: The crisis centers on whether the dice result can legitimately transfer
-      a queen after the king has already lost his own freedom.
+    passage_locator: 'Book I, Canto XLIV: The Descent Of Gangá'
+    motif_label: heavenly river linking realms through divine release
+    basis: Gangá moves from heaven to earth and into the underworld only after Śiva
+      receives and releases her, and Brahmá names her Tripathagá, the stream of three
+      paths.
+    confidence: medium
+    evidence:
+    - id: ev:2
+      locator: lines 5914-5919
+      type: summary
+      quote_or_summary: Śiva tells Bhagiratha he is pleased and will fling the mountain-born
+        river's waves upon his head.
+    - id: ev:3
+      locator: lines 5921-5944
+      type: summary
+      quote_or_summary: Gangá hears the command, descends furiously, and intends to
+        sweep Śiva away, but he catches and confines her in the tangles of his hair.
+    - id: ev:4
+      locator: lines 5945-5952
+      type: summary
+      quote_or_summary: After Bhagiratha resumes penance, Śiva ends the river's long
+        wandering and sends her down into Vindu's lake.
+    - id: ev:5
+      locator: lines 5953-5968
+      type: summary
+      quote_or_summary: Seven rivers emerge from Gangá, six flowing east and west
+        while the seventh follows Bhagiratha after first descending on Śiva's head.
+    - id: ev:10
+      locator: lines 6063-6131
+      type: summary
+      quote_or_summary: Brahmá praises Bhagiratha, says the sons of Sagar have joined
+        the blest, names the river Bhágirathí and Tripathagá, and instructs the king
+        to complete his vow and libations.
+  - record_id: extraction.norse.poetic_edda.voluspo_yggdrasil_cosmic_origins
+    extraction_path: extractions/norse/project-gutenberg/poetic-edda/voluspo-yggdrasil-cosmic-origins.yml
+    source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+    source_title: The Poetic Edda
+    tradition: norse
+    culture: old_norse_medieval_icelandic
+    region: scandinavia_north_atlantic
+    passage_locator: Voluspo 1-6
+    motif_label: sacred_tree_axis
+    basis: The passage links multiple worlds to a tree with deep roots.
     confidence: high
     evidence:
-    - id: ev:1
-      locator: lines 1660-1677
-      type: summary
-      quote_or_summary: Yudhishthira loses wealth, kin, himself, and then Draupadi
-        in the dice game and the Pandavas are reduced to exile.
     - id: ev:2
-      locator: lines 1693-1718
-      type: summary
-      quote_or_summary: Draupadi asks whether a man who has already become a bondsman
-        can still stake his queen and declares the wager void.
-    - id: ev:5
-      locator: lines 1778-1806
-      type: summary
-      quote_or_summary: Draupadi addresses the elders, asks why no righteous warrior
-        protects a virtuous wife, and calls the scene a shame to Kuru glory.
+      locator: Voluspo 2
+      type: quote
+      quote_or_summary: Nine worlds I knew, the nine in the tree / With mighty roots
+        beneath the mold.
 - motif_id: world_center
   label: World Center
   traditions:
@@ -3385,80 +3714,6 @@ motifs:
       quote_or_summary: Chapters CLV-CLXVII are spells which were engraved on the
         amulets, giving the deceased the protection of Ra, Osiris, Isis, Horus, and
         other gods.
-- motif_id: sacred_tree_axis
-  label: Sacred Tree Or Axis Mundi
-  traditions:
-    jewish_christian: 3
-    norse: 1
-  occurrences:
-  - record_id: extraction.genesis.dream_descent
-    extraction_path: extractions/biblical/world-english-bible-classic/genesis/genesis-dream-descent.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
-    source_title: Genesis
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Genesis 28:10-17
-    motif_label: sacred_tree_axis
-    basis: Candidate motif from literal passage evidence.
-    confidence: medium
-    evidence:
-    - id: ev:1
-      locator: Genesis 28:10-17
-      type: quote
-      quote_or_summary: He dreamed and saw a stairway set upon the earth, and its
-        top reached to heaven.
-  - record_id: extraction.genesis.tree_serpent
-    extraction_path: extractions/biblical/world-english-bible-classic/genesis/genesis-tree-serpent.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
-    source_title: Genesis
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Genesis 3:1-7
-    motif_label: sacred_tree_axis
-    basis: Candidate motif from literal passage evidence.
-    confidence: medium
-    evidence:
-    - id: ev:1
-      locator: Genesis 3:1-7
-      type: quote
-      quote_or_summary: Now the serpent was more subtle than any animal of the field...
-        She took some of its fruit, and ate.
-  - record_id: extraction.numbers.bronze_serpent
-    extraction_path: extractions/biblical/world-english-bible-classic/numbers/numbers-bronze-serpent.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
-    source_title: Numbers
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Numbers 21:4-9
-    motif_label: sacred_tree_axis
-    basis: The bronze serpent is raised on a pole.
-    confidence: low
-    evidence:
-    - id: ev:1
-      locator: Numbers 21:4-9
-      type: quote
-      quote_or_summary: Make a venomous snake, and set it on a pole... when he looked
-        at the serpent of bronze, he lived.
-  - record_id: extraction.norse.poetic_edda.voluspo_yggdrasil_cosmic_origins
-    extraction_path: extractions/norse/project-gutenberg/poetic-edda/voluspo-yggdrasil-cosmic-origins.yml
-    source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
-    source_title: The Poetic Edda
-    tradition: norse
-    culture: old_norse_medieval_icelandic
-    region: scandinavia_north_atlantic
-    passage_locator: Voluspo 1-6
-    motif_label: sacred_tree_axis
-    basis: The passage links multiple worlds to a tree with deep roots.
-    confidence: high
-    evidence:
-    - id: ev:2
-      locator: Voluspo 2
-      type: quote
-      quote_or_summary: Nine worlds I knew, the nine in the tree / With mighty roots
-        beneath the mold.
 - motif_id: shapeshifter
   label: Shapeshifter
   traditions:
@@ -4535,6 +4790,36 @@ motifs:
       locator: lines 1233-1239
       type: quote
       quote_or_summary: taken in their despite, and taken he shall be!
+- motif_id: city_mourns_absent_ruler
+  label: city mourns absent ruler
+  traditions:
+    hindu: 1
+  occurrences:
+  - record_id: extraction.ramayana.sandals_regency_bharata
+    extraction_path: extractions/hindu/project-gutenberg/ramayana/ramayana-sandals-regency-bharata.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    source_title: The Ramayan of Valmiki
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: 'Book II, Cantos CXII-CXIV: The Sandals; Bharat''s Return; Bharat''s
+      Departure'
+    motif_label: city mourns absent ruler
+    basis: Ayodhyá is described as dark, silent, and stripped of festival life while
+      Ráma remains away.
+    confidence: medium
+    evidence:
+    - id: ev:8
+      locator: lines 25531-25538
+      type: summary
+      quote_or_summary: On seeing Ayodhyá again Bharat says the city is dark, sad,
+        and shorn of its former brightness.
+    - id: ev:9
+      locator: lines 25543-25609
+      type: summary
+      quote_or_summary: Bharat enters the city and laments its silence, lost music,
+        absent festivity, and universal grief for banished Ráma before weeping in
+        the inner apartments.
 - motif_id: cloud_fire_guidance
   label: cloud fire guidance
   traditions:
@@ -4777,6 +5062,35 @@ motifs:
       quote_or_summary: Lift up your rod, and stretch out your hand over the sea and
         divide it... the waters were a wall to them on their right hand and on their
         left.
+- motif_id: divinely_inherited_bridgecraft
+  label: divinely inherited bridgecraft
+  traditions:
+    hindu: 1
+  occurrences:
+  - record_id: extraction.ramayana.ocean_threatened_bridge
+    extraction_path: extractions/hindu/project-gutenberg/ramayana/ramayana-ocean-threatened-bridge.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    source_title: The Ramayan of Valmiki
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: 'Book VI, Cantos XXI-XXII: Ocean Threatened'
+    motif_label: divinely inherited bridgecraft
+    basis: Nala's authority to build the crossing is grounded in descent from Visvakarma
+      and in demonstrated large-scale construction by the vanara host.
+    confidence: high
+    evidence:
+    - id: ev:7
+      locator: lines 50095-50125
+      type: summary
+      quote_or_summary: Ocean identifies Nala as Visvakarma's son, and Nala claims
+        the inherited skill and willingness to lay the bridge if Rama commands the
+        work.
+    - id: ev:8
+      locator: lines 50127-50183
+      type: summary
+      quote_or_summary: The vanaras uproot trees and move great stones, complete the
+        hundred-league bridge in five days, and cross over it toward Lanka.
 - motif_id: doom_prophecy_before_raid
   label: doom prophecy before raid
   traditions:
@@ -4962,6 +5276,35 @@ motifs:
       locator: BOOK XXII
       type: quote
       quote_or_summary: Phbus and Paris shall avenge my fate.
+- motif_id: fidelity_in_ornamental_captivity
+  label: fidelity in ornamental captivity
+  traditions:
+    hindu: 1
+  occurrences:
+  - record_id: extraction.ramayana.asoka_grove_sita_witness
+    extraction_path: extractions/hindu/project-gutenberg/ramayana/ramayana-asoka-grove-sita-witness.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    source_title: The Ramayan of Valmiki
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: 'Book V, Cantos XIV-XVI: The Asoka Grove; Sítá; Hanumán''s Lament'
+    motif_label: fidelity in ornamental captivity
+    basis: Sita remains mentally fixed on Rama even while surrounded by blossoms,
+      palace splendor, and hostile guards.
+    confidence: medium
+    evidence:
+    - id: ev:3
+      locator: lines 45813-45834
+      type: summary
+      quote_or_summary: Near a shining palace Hanuman sees a tear-worn, fasting, neglected
+        woman watched by fiends and giantesses and recognizes her queenly bearing.
+    - id: ev:6
+      locator: lines 45866-45889
+      type: summary
+      quote_or_summary: Hanuman recalls Sita's birth from the furrow, her devoted
+        choice of forest exile with Rama, and her present absorption in thoughts of
+        him alone.
 - motif_id: gentle_remonstrance_within_hierarchy
   label: gentle remonstrance within hierarchy
   traditions:
@@ -5475,6 +5818,34 @@ motifs:
       quote_or_summary: He received what they handed him... and made it a molded calf...
         Then the cloud covered the Tent of Meeting, and Yahweh's glory filled the
         tabernacle.
+- motif_id: pride_humbled_in_divine_containment
+  label: pride humbled in divine containment
+  traditions:
+    hindu: 1
+  occurrences:
+  - record_id: extraction.ramayana.ganga_descent_bhagiratha
+    extraction_path: extractions/hindu/project-gutenberg/ramayana/ramayana-ganga-descent-bhagiratha.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+    source_title: The Ramayan of Valmiki
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: 'Book I, Canto XLIV: The Descent Of Gangá'
+    motif_label: pride humbled in divine containment
+    basis: Gangá descends arrogantly, planning to overwhelm Śiva, and is confined
+      in his hair until released on different terms.
+    confidence: medium
+    evidence:
+    - id: ev:3
+      locator: lines 5921-5944
+      type: summary
+      quote_or_summary: Gangá hears the command, descends furiously, and intends to
+        sweep Śiva away, but he catches and confines her in the tangles of his hair.
+    - id: ev:4
+      locator: lines 5945-5952
+      type: summary
+      quote_or_summary: After Bhagiratha resumes penance, Śiva ends the river's long
+        wandering and sends her down into Vindu's lake.
 - motif_id: prophet_call_under_opposition
   label: prophet call under opposition
   traditions:
