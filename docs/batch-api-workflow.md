@@ -292,6 +292,7 @@ After generated extraction YAML exists, prepare a review batch:
 ruby scripts/batch_prepare_extraction_review_requests.rb \
   --run-id extraction-review-YYYY-MM-DD \
   --coverage data/indexes/extraction-coverage.yml \
+  --normalization taxonomy/motif-normalization.yml \
   --reviewer-status needs_review \
   --model "$OPENAI_BATCH_MODEL" \
   --max-output-tokens 8000 \
@@ -321,6 +322,8 @@ The review importer writes:
 - `data/reviews/extraction-quality/<run_id>/manifest.yml`
 
 Treat these as advisory review records. They do not automatically rewrite extraction YAML or taxonomy files; promotion should remain deliberate.
+
+The normalization guidance lives in `taxonomy/motif-normalization.yml`. It supplies hierarchy notes, aliases, quality flags, and comparison-mode discipline so review batches can map labels like `descent`, `underworld_trial`, `sacred_fire`, or `renunciation` without collapsing them into one flat motif.
 
 ## Embeddings
 

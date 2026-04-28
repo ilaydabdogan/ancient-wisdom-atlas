@@ -7,6 +7,7 @@ require "yaml"
 ROOT = File.expand_path("..", __dir__)
 EXTRACTION_GLOB = File.join(ROOT, "extractions", "**", "*.{yml,yaml}")
 TAXONOMY_PATH = File.join(ROOT, "taxonomy", "motifs.yml")
+NORMALIZATION_PATH = File.join(ROOT, "taxonomy", "motif-normalization.yml")
 
 REQUIRED_TOP_LEVEL = %w[
   record_id source_text_path passage_locator literal_observations figures roles
@@ -34,6 +35,8 @@ def numeric_locator?(value)
 end
 
 known_motif_refs = load_yaml(TAXONOMY_PATH).fetch("motif_families", {}).keys
+known_normalization_aliases = File.file?(NORMALIZATION_PATH) ? load_yaml(NORMALIZATION_PATH).fetch("aliases", {}).keys : []
+known_motif_or_alias_refs = (known_motif_refs + known_normalization_aliases).uniq
 errors = []
 warnings = []
 
@@ -101,7 +104,7 @@ Dir.glob(EXTRACTION_GLOB).sort.each do |path|
     next unless motif.is_a?(Hash)
 
     Array(motif["taxonomy_refs"]).each do |motif_ref|
-      warnings << "#{label}: unknown motif taxonomy ref #{motif_ref}" unless known_motif_refs.include?(motif_ref)
+      warnings << "#{label}: unknown motif taxonomy ref #{motif_ref}" unless known_motif_or_alias_refs.include?(motif_ref)
     end
   end
 end

@@ -1,0 +1,338 @@
+normalization_version: "1"
+updated_on: "2026-04-28"
+status: draft
+canonical_taxonomy_path: taxonomy/motifs.yml
+purpose: >
+  Review-time normalization guidance for mapping candidate motif labels to stable
+  canonical motif families without flattening important conceptual distinctions.
+
+review_policy:
+  default_action: needs_human_review
+  prefer_existing_taxonomy_refs: true
+  preserve_local_meaning: true
+  allow_new_taxonomy_suggestions: true
+  notes:
+    - Use canonical_refs for indexing and parent_refs for broader queries.
+    - Do not merge related motifs when the passage evidence distinguishes them.
+    - Treat over-specific labels as evidence notes unless they recur across sources.
+
+comparison_modes:
+  structural: Same arrangement, sequence, role, or narrative function.
+  thematic: Same broad concern, image, value, or symbolic field.
+  historical_contact: Contact, translation, trade, conquest, migration, or shared ritual space is supported by evidence.
+  common_inheritance: Descent from an older shared cultural, linguistic, textual, or ritual source is plausible.
+  independent_emergence: Similar form plausibly arose separately from recurring human situations.
+  archetypal: Psychological or symbolic interpretation, not proof of origin.
+
+hierarchies:
+  death_descent_return:
+    label: Death, Descent, And Return Complex
+    description: >
+      Related but distinct patterns where a figure, soul, world, or community moves
+      through death, descent, concealment, dissolution, trial, or return.
+    parent_refs:
+      - death_rebirth
+    child_refs:
+      - hero_descent
+      - dying_and_returning
+      - resurrection
+      - afterlife_journey_map
+    distinctions:
+      hero_descent: A journey into death, darkness, cave, sea, dream, or hidden realm.
+      dying_and_returning: A figure disappears, dies, sleeps, descends, or is dismembered and later returns.
+      resurrection: A dead figure is restored, raised, vindicated, or transformed into a new mode of life.
+      death_rebirth: Broader renewal after death, dissolution, concealment, or transformation.
+      afterlife_journey_map: A mapped postmortem route through peril, judgment, instruction, or liberation.
+  sacred_order_judgment:
+    label: Sacred Order, Law, Judgment, And Repair
+    parent_refs:
+      - divine_judgment
+      - covenant
+      - sacrifice
+    child_refs:
+      - sacred_exchange
+      - wisdom
+    distinctions:
+      divine_judgment: A sacred order responds to disorder through punishment, purification, or renewal.
+      covenant: A vow, law, promise, or binding relation organizes divine-human or social order.
+      sacrifice: A valued life, object, food, vow, or attachment is surrendered or set apart.
+      sacred_exchange: Giving, offering, feeding, vow-making, or renunciation repairs relationship.
+  revelation_wisdom_path:
+    label: Revelation, Wisdom, And Transformation
+    parent_refs:
+      - wisdom
+      - initiation
+    child_refs:
+      - mystical_quest
+      - annihilation_union
+      - ascent
+    distinctions:
+      wisdom: Sacred, forbidden, practical, prophetic, ancestral, or transformative knowledge.
+      initiation: A threshold ordeal transforms status, knowledge, or identity.
+      mystical_quest: A seeker pursues direct knowledge of sacred reality through discipline, guide, love, or unveiling.
+      annihilation_union: Ego or separateness dissolves in a larger sacred reality.
+  catastrophe_renewal:
+    label: Catastrophe And World Renewal
+    parent_refs:
+      - divine_judgment
+      - death_rebirth
+    child_refs:
+      - flood_and_renewal
+      - world_destroying_fire
+      - ark_vessel
+      - survivor_pair
+
+aliases:
+  afterlife_journey:
+    canonical_refs:
+      - afterlife_journey_map
+    parent_refs:
+      - hero_descent
+      - death_rebirth
+    relationship: label_alias
+    review_action: map_to_existing
+    notes: Use when the passage maps a postmortem route, judgment, or instruction sequence.
+  underworld_trial:
+    canonical_refs:
+      - hero_descent
+    parent_refs:
+      - initiation
+      - death_rebirth
+    relationship: narrower_than
+    review_action: map_to_existing
+    notes: Use only when a descent includes ordeals, tests, judgment, or gate-like thresholds.
+  descent:
+    canonical_refs:
+      - hero_descent
+    parent_refs:
+      - initiation
+      - death_rebirth
+    relationship: broader_label
+    review_action: map_to_existing
+    notes: Preserve whether the passage is literal underworld, cave, sea, dream, exile, or metaphorical descent.
+  sacred_mountain:
+    canonical_refs:
+      - cosmic_mountain
+    parent_refs:
+      - sacred_tree_axis
+      - ascent
+    relationship: label_alias
+    review_action: map_to_existing
+  passage_through_waters:
+    canonical_refs:
+      - hero_descent
+    parent_refs:
+      - initiation
+      - flood_and_renewal
+    relationship: functional_variant
+    review_action: map_to_existing
+    notes: Use when water crossing marks danger, transformation, purification, or liberation.
+  waters_divided:
+    canonical_refs:
+      - chaos
+    parent_refs:
+      - divine_judgment
+      - initiation
+    relationship: symbolic_variant
+    review_action: map_to_existing
+    notes: Often also supports passage_through_waters; do not force flood_and_renewal unless old-world destruction is present.
+  divine_warrior:
+    canonical_refs:
+      - divine_judgment
+    parent_refs:
+      - royal_legitimacy
+    relationship: role_variant
+    review_action: map_to_existing
+  theophany:
+    canonical_refs:
+      - wisdom
+    parent_refs:
+      - initiation
+      - divine_judgment
+    relationship: needs_taxonomy_candidate
+    review_action: needs_human_review
+    suggested_motif_id: theophany
+    notes: A direct manifestation of sacred presence may deserve its own canonical motif if it recurs.
+  divine_call:
+    canonical_refs:
+      - initiation
+    parent_refs:
+      - wisdom
+      - departure
+    relationship: functional_variant
+    review_action: map_to_existing
+  sacred_fire:
+    canonical_refs:
+      - sacred_exchange
+    parent_refs:
+      - sacrifice
+      - divine_judgment
+      - world_destroying_fire
+    relationship: symbolic_variant
+    review_action: map_to_existing
+    notes: Choose world_destroying_fire only when fire consumes, judges, or renews a world/order.
+  protective_mark:
+    canonical_refs:
+      - ark_vessel
+    parent_refs:
+      - survivor_pair
+      - divine_judgment
+    relationship: functional_variant
+    review_action: map_to_existing
+  idol:
+    canonical_refs:
+      - forbidden_knowledge
+    parent_refs:
+      - divine_judgment
+      - covenant
+    relationship: needs_human_review
+    review_action: needs_human_review
+  broken_and_renewed_covenant:
+    canonical_refs:
+      - covenant
+    parent_refs:
+      - sacrifice
+      - divine_judgment
+    relationship: narrower_than
+    review_action: map_to_existing
+  portable_sanctuary:
+    canonical_refs:
+      - world_center
+    parent_refs:
+      - sacred_tree_axis
+      - covenant
+    relationship: functional_variant
+    review_action: map_to_existing
+  blood_as_life:
+    canonical_refs:
+      - sacrifice
+    parent_refs:
+      - sacred_exchange
+    relationship: symbolic_variant
+    review_action: map_to_existing
+  ritual_prohibition:
+    canonical_refs:
+      - covenant
+    parent_refs:
+      - divine_judgment
+      - wisdom
+    relationship: legal_variant
+    review_action: map_to_existing
+  atonement_rite:
+    canonical_refs:
+      - sacrifice
+    parent_refs:
+      - sacred_exchange
+      - covenant
+    relationship: ritual_variant
+    review_action: map_to_existing
+  scapegoat:
+    canonical_refs:
+      - sacrifice
+    parent_refs:
+      - sacred_exchange
+      - divine_judgment
+    relationship: ritual_variant
+    review_action: map_to_existing
+  ritual_transfer:
+    canonical_refs:
+      - sacred_exchange
+    parent_refs:
+      - sacrifice
+    relationship: ritual_variant
+    review_action: map_to_existing
+  annual_purification:
+    canonical_refs:
+      - divine_judgment
+    parent_refs:
+      - sacrifice
+      - sacred_exchange
+      - seasonal_cycle
+    relationship: ritual_variant
+    review_action: map_to_existing
+  holiness_code:
+    canonical_refs:
+      - covenant
+    parent_refs:
+      - wisdom
+      - divine_judgment
+    relationship: legal_variant
+    review_action: map_to_existing
+  ethical_command:
+    canonical_refs:
+      - wisdom
+    parent_refs:
+      - covenant
+    relationship: teaching_variant
+    review_action: map_to_existing
+  social_care:
+    canonical_refs:
+      - covenant
+    parent_refs:
+      - sacred_exchange
+    relationship: ethical_variant
+    review_action: map_to_existing
+  sabbath_cycle:
+    canonical_refs:
+      - seasonal_cycle
+    parent_refs:
+      - covenant
+    relationship: temporal_variant
+    review_action: map_to_existing
+  jubilee:
+    canonical_refs:
+      - seasonal_cycle
+    parent_refs:
+      - covenant
+      - sacred_exchange
+    relationship: temporal_variant
+    review_action: map_to_existing
+  ritualized_release:
+    canonical_refs:
+      - sacred_exchange
+    parent_refs:
+      - covenant
+      - seasonal_cycle
+    relationship: ritual_variant
+    review_action: map_to_existing
+  self_knowledge:
+    canonical_refs:
+      - wisdom
+    parent_refs:
+      - mystical_quest
+      - annihilation_union
+    relationship: mystical_variant
+    review_action: map_to_existing
+  renunciation:
+    canonical_refs:
+      - sacred_exchange
+    parent_refs:
+      - mystical_quest
+      - annihilation_union
+      - sacrifice
+    relationship: mystical_variant
+    review_action: map_to_existing
+  sacred_song:
+    canonical_refs:
+      - wisdom
+    parent_refs:
+      - mystical_quest
+      - divine_beloved
+    relationship: expressive_variant
+    review_action: map_to_existing
+  dream_imagery_of_animals_foreshadowing_or_associated_with_violent_consumption:
+    canonical_refs:
+      - wisdom
+    parent_refs:
+      - chaos
+    relationship: over_specific_label
+    review_action: broaden_or_remove
+    notes: Preserve as evidence detail; do not promote as a canonical motif unless it recurs across sources.
+
+quality_flags:
+  over_specific_label: Candidate motif is too bound to one passage detail to support cross-source querying.
+  unsupported_taxonomy_ref: Taxonomy ref is absent from taxonomy/motifs.yml and not listed as a normalization alias.
+  unsupported_comparison_claim: Comparison claim lacks direct evidence or overstates transmission.
+  front_matter_or_commentary: Passage is title page, contents, footnote, editor note, or scholarly commentary rather than primary mythic/ritual text.
+  missing_evidence_ref: Motif, figure, symbol, role, scene, or claim references evidence not present in the record.
+  weak_locator: Locator cannot be checked against canonical Markdown line ranges.

@@ -114,6 +114,7 @@ Use [docs/batch-api-workflow.md](docs/batch-api-workflow.md) for the OpenAI Batc
 - [docs/auto-ingestion.md](docs/auto-ingestion.md): how to grow the corpus from the queue-based fetch/convert/promote pipeline
 - [docs/extraction-protocol.md](docs/extraction-protocol.md): how AI/humans should extract symbols, motifs, scenes, and comparison claims
 - [docs/extraction-coverage.md](docs/extraction-coverage.md): generated audit of which canonical texts need dense motif extraction next
+- [taxonomy/motif-normalization.yml](taxonomy/motif-normalization.yml): review-time motif hierarchy, aliases, quality flags, and comparison-mode discipline
 - [docs/structured-pattern-records.md](docs/structured-pattern-records.md): machine-readable pattern records for Pattern Explorer-ready comparisons
 - [docs/ci.md](docs/ci.md): what GitHub Actions checks on every push
 

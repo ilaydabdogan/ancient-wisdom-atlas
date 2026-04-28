@@ -10,11 +10,12 @@ options = {
   model: DEFAULT_MODEL,
   endpoint: AtlasBatch::DEFAULT_ENDPOINT,
   prompt_path: "templates/batch-extraction-review-prompt.md",
+  normalization_path: "taxonomy/motif-normalization.yml",
   extraction_glob: "extractions/**/*.yml",
   coverage_statuses: [],
   coverage_priorities: [],
   reviewer_statuses: [],
-  max_input_chars: 28_000,
+  max_input_chars: 120_000,
   max_output_tokens: 4_000,
   reasoning_effort: DEFAULT_REASONING_EFFORT,
   max_requests_per_shard: 1_000,
@@ -34,6 +35,7 @@ OptionParser.new do |parser|
   parser.on("--model MODEL", "OpenAI model id") { |value| options[:model] = value }
   parser.on("--endpoint ENDPOINT", "Batch endpoint; default /v1/responses") { |value| options[:endpoint] = value }
   parser.on("--prompt PATH", "Prompt template path") { |value| options[:prompt_path] = value }
+  parser.on("--normalization PATH", "Motif normalization YAML path") { |value| options[:normalization_path] = value }
   parser.on("--max-input-chars N", Integer, "Fail if a single review input exceeds this many chars") { |value| options[:max_input_chars] = value }
   parser.on("--max-output-tokens N", Integer, "Responses max_output_tokens") { |value| options[:max_output_tokens] = value }
   parser.on("--temperature N", Float, "Optional model temperature") { |value| options[:temperature] = value }
@@ -181,6 +183,13 @@ def load_taxonomy_context
   }
 end
 
+def load_normalization_context(path)
+  absolute_path = AtlasBatch.project_path(path)
+  AtlasBatch.die("Motif normalization file not found: #{AtlasBatch.relative_path(absolute_path)}", 66) unless File.file?(absolute_path)
+
+  AtlasBatch.load_yaml(absolute_path, {})
+end
+
 def coverage_source_paths(options)
   return nil unless options[:coverage_path]
 
@@ -218,7 +227,7 @@ def compact_record(record)
   )
 end
 
-def review_input_for(path, record, taxonomy_context)
+def review_input_for(path, record, taxonomy_context, normalization_context)
   relative = AtlasBatch.relative_path(path)
   review_id = "review.extraction.#{AtlasBatch.safe_slug(record["record_id"].to_s.empty? ? relative : record["record_id"])}"
   {
@@ -228,6 +237,7 @@ def review_input_for(path, record, taxonomy_context)
     "record_id" => record["record_id"],
     "source_text_path" => record["source_text_path"],
     "available_taxonomy" => taxonomy_context,
+    "motif_normalization" => normalization_context,
     "extraction_record" => compact_record(record)
   }
 end
@@ -289,6 +299,7 @@ AtlasBatch.die("Prompt template not found: #{AtlasBatch.relative_path(prompt_pat
 
 source_path_lookup = coverage_source_paths(options)
 taxonomy_context = load_taxonomy_context
+normalization_context = load_normalization_context(options.fetch(:normalization_path))
 prompt = File.read(prompt_path)
 
 inputs = []
@@ -298,7 +309,7 @@ Dir.glob(File.join(AtlasBatch::ROOT, options[:extraction_glob])).sort.each do |p
   next if source_path_lookup && !source_path_lookup[record["source_text_path"]]
   next if options[:reviewer_statuses].any? && !options[:reviewer_statuses].include?(record.dig("reviewer_status", "status").to_s)
 
-  inputs << review_input_for(path, record, taxonomy_context)
+  inputs << review_input_for(path, record, taxonomy_context, normalization_context)
 end
 inputs = inputs.first(options[:limit]) if options[:limit]
 AtlasBatch.die("No extraction review inputs selected", 66) if inputs.empty?
@@ -368,6 +379,7 @@ request_index = {
   "endpoint" => options[:endpoint],
   "model" => options[:model],
   "prompt_path" => AtlasBatch.relative_path(prompt_path),
+  "normalization_path" => options[:normalization_path],
   "request_map_path" => AtlasBatch.relative_path(request_map_path),
   "coverage_path" => options[:coverage_path],
   "coverage_statuses" => options[:coverage_statuses],
@@ -384,6 +396,7 @@ manifest["config"]["extraction_review_request_generation"] = {
   "model" => options[:model],
   "endpoint" => options[:endpoint],
   "prompt_path" => AtlasBatch.relative_path(prompt_path),
+  "normalization_path" => options[:normalization_path],
   "extraction_glob" => options[:extraction_glob],
   "coverage_path" => options[:coverage_path],
   "coverage_statuses" => options[:coverage_statuses],

@@ -31,6 +31,16 @@ client = AtlasBatch::OpenAIClient.new
 uploaded = 0
 skipped = 0
 
+persist_state = lambda do
+  request_index["updated_at"] = AtlasBatch.utc_now
+  AtlasBatch.write_yaml(index_path, request_index)
+
+  manifest["status"] = uploaded.positive? ? "inputs_uploaded" : manifest["status"]
+  manifest["counts"] ||= {}
+  manifest["counts"]["request_shards_uploaded"] = request_index.fetch("shards", []).count { |entry| entry["input_file_id"] }
+  AtlasBatch.save_manifest(manifest)
+end
+
 request_index.fetch("shards", []).each do |shard|
   next if options[:shard_id] && shard.fetch("shard_id") != options[:shard_id]
 
@@ -53,14 +63,9 @@ request_index.fetch("shards", []).each do |shard|
   shard["status"] = "uploaded"
   uploaded += 1
   puts "uploaded #{shard.fetch("shard_id")} -> #{response.fetch("id")}"
+  persist_state.call
 end
 
-request_index["updated_at"] = AtlasBatch.utc_now
-AtlasBatch.write_yaml(index_path, request_index)
-
-manifest["status"] = uploaded.positive? ? "inputs_uploaded" : manifest["status"]
-manifest["counts"] ||= {}
-manifest["counts"]["request_shards_uploaded"] = request_index.fetch("shards", []).count { |shard| shard["input_file_id"] }
-AtlasBatch.save_manifest(manifest)
+persist_state.call
 
 puts "uploaded #{uploaded} shard(s), skipped #{skipped}"
