@@ -1,0 +1,319 @@
+---
+record_id: extraction.celtic_irish.heroic_romances_of_ireland.cuchulain_morrigan_apparition
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: "The Apparition of the Great Queen to Cuchulain; literal translation"
+  start: 12470
+  end: 12623
+  translation: Arthur Herbert Leahy, Heroic Romances of Ireland
+  notes: Line numbers refer to the repository markdown source.
+canonical_text:
+  summary: Cuchulain follows a terrifying cry to Ath da Ferta, confronts a red woman driving a cow in an uncanny chariot, forces her to reveal herself as the Morrigan, hears that she guards his death and that the cow's breeding will lead to the Tain bo Cualnge, and receives her threats of future attack in eel, wolf, and heifer forms.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: Cuchulain wakes in fear at a dire cry from the north, arms himself, and follows its track with Laeg.
+    category: action
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: At Ath da Ferta, Cuchulain and Laeg see an uncanny chariot with a one-footed horse, a red woman, a great man, and a cow driven before them.
+    category: attribute
+    evidence_refs:
+      - ev:2
+  - id: obs:3
+    text: Cuchulain says that the cows of Ulster are his proper care, but the woman answers for the man and gives strange names instead of plain identities.
+    category: speech
+    evidence_refs:
+      - ev:3
+  - id: obs:4
+    text: Cuchulain springs into the woman's chariot, presses his feet on her shoulders, and demands her true name at spear-point.
+    category: action
+    evidence_refs:
+      - ev:3
+  - id: obs:5
+    text: The whole chariot company vanishes, and the woman appears again as a black bird on a branch.
+    category: sequence
+    evidence_refs:
+      - ev:3
+      - ev:4
+  - id: obs:6
+    text: The woman says she guards Cuchulain's death, brought the cow from the fairy-mound of Cruachan to breed by the Black Bull of Cualnge, and that this will lead to the Tain bo Cualnge.
+    category: speech
+    evidence_refs:
+      - ev:4
+  - id: obs:7
+    text: The Morrigan threatens to attack Cuchulain in future combat as an eel, a grey wolf, and a white red-eared heifer followed by a herd.
+    category: speech
+    evidence_refs:
+      - ev:5
+  - id: obs:8
+    text: Cuchulain answers each threatened shape with a vow of counter-injury, and the Morrigan returns to Cruachan while he goes back to Dun Imrid.
+    category: sequence
+    evidence_refs:
+      - ev:5
+      - ev:6
+figures:
+  - id: fig:1
+    name_or_label: Cuchulain
+    description: Ulster hero who follows the cry, challenges the disguised woman, and receives her prophecy of death and coming raid.
+    role_refs:
+      - role:1
+    evidence_refs:
+      - ev:1
+      - ev:3
+      - ev:4
+      - ev:5
+      - ev:6
+  - id: fig:2
+    name_or_label: Laeg
+    description: Cuchulain's charioteer who hears the cry over the plains and accompanies him to the encounter.
+    role_refs:
+      - role:2
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: fig:3
+    name_or_label: Morrigan
+    description: Great Queen who appears in disguise, reveals herself in black-bird form, claims guardianship over Cuchulain's death, and threatens future attacks in animal shapes.
+    role_refs:
+      - role:3
+      - role:4
+      - role:5
+    evidence_refs:
+      - ev:2
+      - ev:3
+      - ev:4
+      - ev:5
+      - ev:6
+roles:
+  - id: role:1
+    label: ulster_cattle_guardian
+    assigned_to:
+      - fig:1
+    basis: Cuchulain explicitly says that the cows of Ulster are his proper care.
+    evidence_refs:
+      - ev:3
+  - id: role:2
+    label: charioteer_witness
+    assigned_to:
+      - fig:2
+    basis: Laeg brings news of the cry and travels with Cuchulain into the encounter.
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: role:3
+    label: battle_queen
+    assigned_to:
+      - fig:3
+    basis: The passage ends by naming the revealed woman as the Morrigan who returns to her fairy-mound.
+    evidence_refs:
+      - ev:6
+  - id: role:4
+    label: death_guardian
+    assigned_to:
+      - fig:3
+    basis: The Morrigan says that she is at the guarding of Cuchulain's death.
+    evidence_refs:
+      - ev:4
+  - id: role:5
+    label: shapeshifting_adversary
+    assigned_to:
+      - fig:3
+    basis: The Morrigan becomes a black bird and declares that she will later attack in eel, wolf, and heifer forms.
+    evidence_refs:
+      - ev:4
+      - ev:5
+symbols:
+  - id: sym:1
+    label: northern cry
+    literal_form: the dire cry from the north that summons Cuchulain out of sleep.
+    associated_figures:
+      - fig:1
+      - fig:2
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:1
+  - id: sym:2
+    label: uncanny chariot
+    literal_form: the chariot with a one-footed horse, red woman, great man, and driven cow.
+    associated_figures:
+      - fig:1
+      - fig:2
+      - fig:3
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:2
+  - id: sym:3
+    label: black bird form
+    literal_form: the woman becomes a black bird upon a branch near Cuchulain.
+    associated_figures:
+      - fig:3
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:4
+  - id: sym:4
+    label: cow from Cruachan
+    literal_form: the cow brought from the fairy-mound of Cruachan to breed by the Black Bull of Cualnge.
+    associated_figures:
+      - fig:3
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:4
+  - id: sym:5
+    label: threatened battle forms
+    literal_form: eel, grey wolf, and white red-eared heifer with a hundred white red-eared cows.
+    associated_figures:
+      - fig:3
+    taxonomy_refs:
+      - shapeshifter
+    evidence_refs:
+      - ev:5
+scenes:
+  - id: scene:1
+    label: Cry and chariot at Ath da Ferta
+    summary: Cuchulain and Laeg follow a terrifying cry and meet an uncanny red chariot with a cow driven before it.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+    symbol_refs:
+      - sym:1
+      - sym:2
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: scene:2
+    label: False names and forced disclosure
+    summary: The strange woman answers for her companion with impossible names until Cuchulain leaps into the chariot and demands her true identity.
+    figure_refs:
+      - fig:1
+      - fig:3
+    symbol_refs:
+      - sym:2
+    evidence_refs:
+      - ev:3
+  - id: scene:3
+    label: Morrigan's revelation and raid prophecy
+    summary: The vanished woman reappears as a black bird, reveals power over Cuchulain's death, and connects the cow from Cruachan to the coming Tain bo Cualnge.
+    figure_refs:
+      - fig:1
+      - fig:3
+    symbol_refs:
+      - sym:3
+      - sym:4
+    evidence_refs:
+      - ev:4
+  - id: scene:4
+    label: Threatened battle forms
+    summary: The Morrigan promises future interference as eel, wolf, and heifer, while Cuchulain vows to maim each shape if it comes against him.
+    figure_refs:
+      - fig:1
+      - fig:3
+    symbol_refs:
+      - sym:5
+    evidence_refs:
+      - ev:5
+      - ev:6
+candidate_motifs:
+  - id: motif:1
+    label: shapechanging_battle_queen
+    taxonomy_refs:
+      - shapeshifter
+    basis: The Morrigan appears in disguise, reappears as a black bird, and threatens future combat in eel, wolf, and heifer forms.
+    evidence_refs:
+      - ev:3
+      - ev:4
+      - ev:5
+    confidence: high
+    cautions: The passage states several threatened forms, but the actual later combats are outside this excerpt.
+  - id: motif:2
+    label: doom_prophecy_before_raid
+    taxonomy_refs: []
+    basis: The Morrigan says she guards Cuchulain's death and links the cow's breeding directly to the beginning of the Tain bo Cualnge.
+    evidence_refs:
+      - ev:4
+      - ev:6
+    confidence: high
+    cautions: The passage prophesies future death and conflict but does not yet narrate their fulfillment.
+  - id: motif:3
+    label: uncanny_ford_encounter
+    taxonomy_refs: []
+    basis: A terrifying summons leads Cuchulain to a liminal roadside and ford encounter with a supernatural female power hidden in deceptive speech and appearance.
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+    confidence: medium
+    cautions: The scene is clearly liminal, but the taxonomy lacks a more exact battle-goddess apparition category.
+comparison_claims:
+  - id: claim:1
+    claim: This passage can be compared with stories in which a supernatural woman announces and conditions a hero's doom before a major conflict.
+    claim_level: same_function
+    target: cross-cultural battle-prophecy and death-guardian records
+    evidence_refs:
+      - ev:4
+      - ev:5
+      - ev:6
+    confidence: medium
+    limitations: The comparison is functional only and does not claim common origin or the same theology of fate.
+  - id: claim:2
+    claim: The Morrigan's serial animal manifestations give the episode a strong shapeshifter component.
+    claim_level: same_motif
+    target: taxonomy/motifs.yml#shapeshifter
+    evidence_refs:
+      - ev:4
+      - ev:5
+    confidence: medium
+    limitations: One form is directly manifested in the passage, while the others are threatened future forms rather than enacted transformations here.
+evidence:
+  - id: ev:1
+    type: summary
+    locator: "lines 12470-12482"
+    quote_or_summary: Cuchulain wakes in fear at a dire cry from the north, receives his arms from his wife, meets Laeg, and follows the sound toward Ath da Ferta.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+    rights_note: Public-domain source text.
+  - id: ev:2
+    type: summary
+    locator: "lines 12492-12503"
+    quote_or_summary: At Ath da Ferta Cuchulain and Laeg see a chariot with a one-footed horse, a red woman, a great man with hazel staff, and a cow driven in front.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+    rights_note: Public-domain source text.
+  - id: ev:3
+    type: summary
+    locator: "lines 12521-12552"
+    quote_or_summary: The woman answers Cuchulain's challenge with strange names; he leaps into her chariot at spear-point, demands her true name, and the whole company vanishes.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+    rights_note: Public-domain source text.
+  - id: ev:4
+    type: summary
+    locator: "lines 12565-12579"
+    quote_or_summary: The woman reappears as a black bird, claims that she guards Cuchulain's death, and says that the cow she brought from the fairy-mound of Cruachan to breed by the Black Bull of Cualnge will lead to the Tain bo Cualnge.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+    rights_note: Public-domain source text.
+  - id: ev:5
+    type: summary
+    locator: "lines 12591-12619"
+    quote_or_summary: The Morrigan says she will attack in eel, wolf, and white red-eared heifer forms during Cuchulain's future equal combat, and he vows to injure each form in reply.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+    rights_note: Public-domain source text.
+  - id: ev:6
+    type: summary
+    locator: "lines 12621-12623"
+    quote_or_summary: Cuchulain returns to Dun Imrid, the Morrigan goes with her cow to the fairy-mound of Cruachan, and the tale is marked as a prelude to the Tain bo Cualnge.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+    rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The apparition, revelation, death-guarding claim, and threatened animal forms are all explicit in the passage.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs review for how tightly the doom-prophecy motif should be linked to later Tain fulfillment scenes.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Worker Celtic Irish extraction focused on the Morrigan's apparition, death prophecy, and threatened battle shapeshifts before the Tain.

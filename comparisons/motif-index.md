@@ -20,9 +20,9 @@ rights:
 | `divine_judgment` | 15 | egyptian (2), greek (3), hindu (1), islamic (3), jewish_christian (4), maya_quiche (2) |
 | `initiation` | 13 | buddhist (1), celtic_irish (2), confucian (1), egyptian (1), hindu (4), jewish_christian (1), maya_quiche (1), mesopotamian (1), persian (1) |
 | `covenant` | 9 | celtic_irish (1), hindu (1), islamic (1), jewish_christian (6) |
+| `death_rebirth` | 9 | celtic_irish (1), celtic_welsh (1), egyptian (2), hindu (2), jewish_christian (1), maya_quiche (1), mesopotamian (1) |
 | `sacred_exchange` | 9 | confucian (1), hindu (2), jewish_christian (4), persian (2) |
 | `sacrifice` | 9 | celtic_welsh (1), greek (1), hindu (3), jewish_christian (4) |
-| `death_rebirth` | 8 | celtic_welsh (1), egyptian (2), hindu (2), jewish_christian (1), maya_quiche (1), mesopotamian (1) |
 | `chaos` | 6 | finnish_karelian (1), greek (1), jewish_christian (1), maya_quiche (1), norse (1), persian (1) |
 | `miraculous_child` | 6 | islamic (3), persian (3) |
 | `royal_legitimacy` | 5 | celtic_welsh (1), confucian (2), hindu (1), jewish_christian (1) |
@@ -32,6 +32,7 @@ rights:
 | `duality` | 4 | daoist (1), greek (1), mesopotamian (2) |
 | `resurrection` | 4 | celtic_welsh (2), egyptian (2) |
 | `sacred_tree_axis` | 4 | jewish_christian (3), norse (1) |
+| `shapeshifter` | 4 | celtic_irish (2), celtic_welsh (1), egyptian (1) |
 | `culture_hero` | 3 | finnish_karelian (1), greek (1), mesopotamian (1) |
 | `hero_descent` | 3 | egyptian (1), jewish_christian (1), maya_quiche (1) |
 | `return` | 3 | celtic_irish (1), celtic_welsh (1), persian (1) |
@@ -46,7 +47,6 @@ rights:
 | `sacred_fire` | 2 | jewish_christian (2) |
 | `sacred_twins` | 2 | maya_quiche (1), mesopotamian (1) |
 | `serpent` | 2 | jewish_christian (2) |
-| `shapeshifter` | 2 | celtic_welsh (1), egyptian (1) |
 | `annual_purification` | 1 | jewish_christian (1) |
 | `blood_as_life` | 1 | jewish_christian (1) |
 | `body_as_landscape_shaper` | 1 | finnish_karelian (1) |
@@ -61,6 +61,7 @@ rights:
 | `divine_parent_child` | 1 | persian (1) |
 | `divine_race_arrival` | 1 | celtic_irish (1) |
 | `divine_warrior` | 1 | jewish_christian (1) |
+| `doom_prophecy_before_raid` | 1 | celtic_irish (1) |
 | `ethical_command` | 1 | jewish_christian (1) |
 | `ethical_rule_by_virtue` | 1 | confucian (1) |
 | `failed_creation` | 1 | finnish_karelian (1) |
@@ -81,11 +82,13 @@ rights:
 | `moral_consequence_following_action` | 1 | buddhist (1) |
 | `non_action` | 1 | daoist (1) |
 | `otherworld_exchange` | 1 | celtic_welsh (1) |
+| `otherworld_protection_in_small_form` | 1 | celtic_irish (1) |
 | `otherworld_sojourn` | 1 | celtic_irish (1) |
 | `passage_through_waters` | 1 | jewish_christian (1) |
 | `portable_sanctuary` | 1 | jewish_christian (1) |
 | `prophet_call_under_opposition` | 1 | islamic (1) |
 | `protective_mark` | 1 | jewish_christian (1) |
+| `rebirth_through_ingestion` | 1 | celtic_irish (1) |
 | `reciprocity_as_ethical_command` | 1 | confucian (1) |
 | `refused_homage_to_created_human` | 1 | islamic (1) |
 | `revelation_as_recitation` | 1 | islamic (1) |
@@ -105,6 +108,7 @@ rights:
 | `survivor_pair` | 1 | jewish_christian (1) |
 | `theophany` | 1 | jewish_christian (1) |
 | `theophany_of_many_forms` | 1 | hindu (1) |
+| `uncanny_ford_encounter` | 1 | celtic_irish (1) |
 | `violated_queen_as_trigger_of_vengeance` | 1 | hindu (1) |
 | `voluntary_bride_intercession` | 1 | islamicate_folklore (1) |
 | `warrior_duty_under_crisis` | 1 | hindu (1) |
@@ -224,6 +228,24 @@ rights:
 | jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 19:1-20; 24:3-18 | covenant | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-sinai-covenant-ascent.yml) |
 | jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 8:20-22; 9:8-17 | covenant | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-sacrifice-covenant.yml) |
 
+## Death And Rebirth
+
+- Motif id: `death_rebirth`
+- Occurrences: 9
+- Traditions: celtic_irish, celtic_welsh, egyptian, hindu, jewish_christian, maya_quiche, mesopotamian
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| celtic_irish | [Heroic Romances of Ireland](../texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md) | The Courtship of Etain (Leabhar na h-Uidhri version); Etain transformed, wind-borne, swallowed, and born again | enchanted_transformation_and_rebirth | high | [record](../extractions/celtic-irish/project-gutenberg/heroic-romances-of-ireland/heroic-romances-of-ireland-etain-transformation-rebirth.yml) |
+| celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) | Branwen the daughter of Llyr; cauldron origin and battlefield use | sacred_cauldron_of_renovation | high | [record](../extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-branwen-cauldron-renovation.yml) |
+| egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII, and CLV-CLXVII | divine_protection_of_the_dead | medium | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml) |
+| egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER VII, The Judgment of Osiris; Chapter CXXV and Papyrus of Ani judgment vignette | acquittal_and_afterlife_reward | medium | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-judgment-heart-maati.yml) |
+| hindu | [The Upanishads](../texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md) | Katha-Upanishad, Part First VII-Part Second IV | death-question wisdom | medium | [record](../extractions/hindu/project-gutenberg/upanishads/upanishads-nachiketas-death-teacher.yml) |
+| hindu | [The Upanishads](../texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md) | Katha-Upanishad, Part Second XVIII-XXIII; Part Sixth XVIII | deathless self wisdom | high | [record](../extractions/hindu/project-gutenberg/upanishads/upanishads-self-deathless-wisdom.yml) |
+| jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 34:1-12 | death_rebirth | low | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-moses-death-succession.yml) |
+| maya_quiche | [The Popol Vuh](../texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md) | The Second Book, Hero Twins in Xibalba | death_rebirth | high | [record](../extractions/mesoamerican/project-gutenberg/popol-vuh/popol-vuh-hero-twins-xibalba-trials.yml) |
+| mesopotamian | [An Old Babylonian Version of the Gilgamesh Epic](../texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md) | INTRODUCTION I, Meissner fragment / Sabitum address | impossible_immortality_quest | high | [record](../extractions/mesopotamian/project-gutenberg/gilgamesh/gilgamesh-sabitum-mortality-quest.yml) |
+
 ## Sacred Exchange
 
 - Motif id: `sacred_exchange`
@@ -259,23 +281,6 @@ rights:
 | jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 8:20-22; 9:8-17 | sacrifice | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-sacrifice-covenant.yml) |
 | jewish_christian | [Leviticus](../texts/public-domain/biblical/world-english-bible-classic/leviticus.md) | Leviticus 1:3-9 | sacrifice | medium | [record](../extractions/biblical/world-english-bible-classic/leviticus/leviticus-burnt-offering.yml) |
 | jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 16:1-50 | priestly_intercession | medium | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-korah-rebellion-judgment.yml) |
-
-## Death And Rebirth
-
-- Motif id: `death_rebirth`
-- Occurrences: 8
-- Traditions: celtic_welsh, egyptian, hindu, jewish_christian, maya_quiche, mesopotamian
-
-| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
-| --- | --- | --- | --- | --- | --- |
-| celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) | Branwen the daughter of Llyr; cauldron origin and battlefield use | sacred_cauldron_of_renovation | high | [record](../extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-branwen-cauldron-renovation.yml) |
-| egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII, and CLV-CLXVII | divine_protection_of_the_dead | medium | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml) |
-| egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER VII, The Judgment of Osiris; Chapter CXXV and Papyrus of Ani judgment vignette | acquittal_and_afterlife_reward | medium | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-judgment-heart-maati.yml) |
-| hindu | [The Upanishads](../texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md) | Katha-Upanishad, Part First VII-Part Second IV | death-question wisdom | medium | [record](../extractions/hindu/project-gutenberg/upanishads/upanishads-nachiketas-death-teacher.yml) |
-| hindu | [The Upanishads](../texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md) | Katha-Upanishad, Part Second XVIII-XXIII; Part Sixth XVIII | deathless self wisdom | high | [record](../extractions/hindu/project-gutenberg/upanishads/upanishads-self-deathless-wisdom.yml) |
-| jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 34:1-12 | death_rebirth | low | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-moses-death-succession.yml) |
-| maya_quiche | [The Popol Vuh](../texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md) | The Second Book, Hero Twins in Xibalba | death_rebirth | high | [record](../extractions/mesoamerican/project-gutenberg/popol-vuh/popol-vuh-hero-twins-xibalba-trials.yml) |
-| mesopotamian | [An Old Babylonian Version of the Gilgamesh Epic](../texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md) | INTRODUCTION I, Meissner fragment / Sabitum address | impossible_immortality_quest | high | [record](../extractions/mesopotamian/project-gutenberg/gilgamesh/gilgamesh-sabitum-mortality-quest.yml) |
 
 ## Chaos
 
@@ -399,6 +404,19 @@ rights:
 | jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 3:1-7 | sacred_tree_axis | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-tree-serpent.yml) |
 | jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 21:4-9 | sacred_tree_axis | low | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-bronze-serpent.yml) |
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | Voluspo 1-6 | sacred_tree_axis | high | [record](../extractions/norse/project-gutenberg/poetic-edda/voluspo-yggdrasil-cosmic-origins.yml) |
+
+## Shapeshifter
+
+- Motif id: `shapeshifter`
+- Occurrences: 4
+- Traditions: celtic_irish, celtic_welsh, egyptian
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| celtic_irish | [Heroic Romances of Ireland](../texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md) | The Apparition of the Great Queen to Cuchulain; literal translation | shapechanging_battle_queen | high | [record](../extractions/celtic-irish/project-gutenberg/heroic-romances-of-ireland/heroic-romances-of-ireland-cuchulain-morrigan-apparition.yml) |
+| celtic_irish | [Heroic Romances of Ireland](../texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md) | The Courtship of Etain (Leabhar na h-Uidhri version); Etain transformed, wind-borne, swallowed, and born again | enchanted_transformation_and_rebirth | high | [record](../extractions/celtic-irish/project-gutenberg/heroic-romances-of-ireland/heroic-romances-of-ireland-etain-transformation-rebirth.yml) |
+| celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) | Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn | shapeshifted_substitution | high | [record](../extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-pwyll-annwvyn-exchange.yml) |
+| egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII, and CLV-CLXVII | ritual_transformation | high | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml) |
 
 ## Culture Hero
 
@@ -559,17 +577,6 @@ rights:
 | jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 3:1-7 | serpent | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-tree-serpent.yml) |
 | jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 21:4-9 | serpent | medium | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-bronze-serpent.yml) |
 
-## Shapeshifter
-
-- Motif id: `shapeshifter`
-- Occurrences: 2
-- Traditions: celtic_welsh, egyptian
-
-| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
-| --- | --- | --- | --- | --- | --- |
-| celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) | Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn | shapeshifted_substitution | high | [record](../extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-pwyll-annwvyn-exchange.yml) |
-| egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII, and CLV-CLXVII | ritual_transformation | high | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml) |
-
 ## Annual Purification
 
 - Motif id: `annual_purification`
@@ -709,6 +716,16 @@ rights:
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
 | jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 14:13-31 | divine_warrior | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-sea-crossing.yml) |
+
+## Doom Prophecy Before Raid
+
+- Motif id: `doom_prophecy_before_raid`
+- Occurrences: 1
+- Traditions: celtic_irish
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| celtic_irish | [Heroic Romances of Ireland](../texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md) | The Apparition of the Great Queen to Cuchulain; literal translation | doom_prophecy_before_raid | high | [record](../extractions/celtic-irish/project-gutenberg/heroic-romances-of-ireland/heroic-romances-of-ireland-cuchulain-morrigan-apparition.yml) |
 
 ## Ethical Command
 
@@ -910,6 +927,16 @@ rights:
 | --- | --- | --- | --- | --- | --- |
 | celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) | Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn | otherworld_exchange | high | [record](../extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-pwyll-annwvyn-exchange.yml) |
 
+## Otherworld Protection In Small Form
+
+- Motif id: `otherworld_protection_in_small_form`
+- Occurrences: 1
+- Traditions: celtic_irish
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| celtic_irish | [Heroic Romances of Ireland](../texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md) | The Courtship of Etain (Leabhar na h-Uidhri version); Etain transformed, wind-borne, swallowed, and born again | otherworld_protection_in_small_form | medium | [record](../extractions/celtic-irish/project-gutenberg/heroic-romances-of-ireland/heroic-romances-of-ireland-etain-transformation-rebirth.yml) |
+
 ## Otherworld Sojourn
 
 - Motif id: `otherworld_sojourn`
@@ -959,6 +986,16 @@ rights:
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
 | jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 12:1-14, 21-31 | protective_mark | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-passover-plague.yml) |
+
+## Rebirth Through Ingestion
+
+- Motif id: `rebirth_through_ingestion`
+- Occurrences: 1
+- Traditions: celtic_irish
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| celtic_irish | [Heroic Romances of Ireland](../texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md) | The Courtship of Etain (Leabhar na h-Uidhri version); Etain transformed, wind-borne, swallowed, and born again | rebirth_through_ingestion | high | [record](../extractions/celtic-irish/project-gutenberg/heroic-romances-of-ireland/heroic-romances-of-ireland-etain-transformation-rebirth.yml) |
 
 ## Reciprocity As Ethical Command
 
@@ -1149,6 +1186,16 @@ rights:
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
 | hindu | [The Song Celestial; Or, Bhagavad-Gita](../texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md) | CHAPTER XI | theophany_of_many_forms | medium | [record](../extractions/hindu/project-gutenberg/bhagavad-gita/bhagavad-gita-cosmic-vision.yml) |
+
+## Uncanny Ford Encounter
+
+- Motif id: `uncanny_ford_encounter`
+- Occurrences: 1
+- Traditions: celtic_irish
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| celtic_irish | [Heroic Romances of Ireland](../texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md) | The Apparition of the Great Queen to Cuchulain; literal translation | uncanny_ford_encounter | medium | [record](../extractions/celtic-irish/project-gutenberg/heroic-romances-of-ireland/heroic-romances-of-ireland-cuchulain-morrigan-apparition.yml) |
 
 ## Violated Queen As Trigger Of Vengeance
 

@@ -387,6 +387,35 @@ WORKS = {
     figures: ["Pwyll", "Rhiannon", "Branwen", "Llyr", "Taliesin"],
     tradition_cluster: "celtic_welsh"
   },
+  "5680" => {
+    id: "celtic_irish.heroic_romances_of_ireland.leahy_gutenberg",
+    title: "Heroic Romances of Ireland",
+    alternate_titles: ["Heroic Romances of Ireland, Translated into English Prose and Verse - Complete"],
+    text_status: "complete",
+    tradition: "celtic_irish",
+    culture: "medieval_irish_later_translation",
+    region: "ireland",
+    source_language: "Irish",
+    text_language: "English",
+    date_range: "medieval Irish narrative material; 1905-1906 public-domain English translation",
+    source_type: "text",
+    source_id: "source.project_gutenberg.5680",
+    edition: "Project Gutenberg plain-text eBook #5680",
+    translator: "Arthur Herbert Leahy",
+    editor: nil,
+    publication_year: 1906,
+    publisher: "Project Gutenberg",
+    source_url: "https://www.gutenberg.org/ebooks/5680",
+    raw_path: "imports/raw/project-gutenberg/5680-heroic-romances-of-ireland.txt",
+    converted_path: "imports/converted/project-gutenberg/5680-heroic-romances-of-ireland.md",
+    canonical_path: "texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md",
+    manifest_path: "manifests/project-gutenberg/5680-heroic-romances-of-ireland.yml",
+    extraction_dir: "extractions/celtic-irish/project-gutenberg/heroic-romances-of-ireland",
+    tags: %w[irish etain cuchulain morrigan exile courtship combat transformation],
+    motifs: %w[otherworld sovereignty tragic_hero boundary_combat shape_shifting],
+    figures: ["Etain", "Cuchulain", "Mider", "Morrigan", "Medb"],
+    tradition_cluster: "celtic_irish"
+  },
   "56550" => {
     id: "maya_quiche.popol_vuh.spence_gutenberg",
     title: "The Popol Vuh",
@@ -655,6 +684,7 @@ def clean_raw_text(raw)
   lines = remove_gutenberg_editor_note(lines)
   lines = remove_digitizer_note(lines)
   lines = remove_formatting_warning(lines)
+  lines = remove_braced_redactor_note(lines)
   lines = lines.reject do |line|
     line.match?(/\A\s*(Produced by|This eBook was produced by)\b/i) ||
       line.match?(/\A\s*\[Illustration\]\s*\z/i)
@@ -733,6 +763,31 @@ def remove_formatting_warning(lines)
       end
       next
     end
+
+    output << line
+  end
+
+  output
+end
+
+def remove_braced_redactor_note(lines)
+  output = []
+  skipping = false
+
+  lines.each do |line|
+    if line.match?(/\A\s*@@\{[^}]*\z/)
+      skipping = true
+      next
+    end
+
+    if skipping
+      if line.include?("}")
+        skipping = false
+      end
+      next
+    end
+
+    next if line.match?(/\A\s*@@\{.*\}\s*\z/)
 
     output << line
   end
@@ -940,6 +995,9 @@ def build_work(work)
   canonical_path = project_path(work.fetch(:canonical_path))
   FileUtils.mkdir_p(File.dirname(canonical_path))
   File.write(canonical_path, canonical_markdown(work, body), mode: "w")
+
+  extraction_dir = project_path(work.fetch(:extraction_dir))
+  FileUtils.mkdir_p(extraction_dir)
 
   write_manifest(work)
 

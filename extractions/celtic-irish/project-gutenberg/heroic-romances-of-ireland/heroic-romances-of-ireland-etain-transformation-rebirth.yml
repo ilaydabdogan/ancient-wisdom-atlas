@@ -1,0 +1,303 @@
+---
+record_id: extraction.celtic_irish.heroic_romances_of_ireland.etain_transformation_rebirth
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: "The Courtship of Etain (Leabhar na h-Uidhri version); Etain transformed, wind-borne, swallowed, and born again"
+  start: 1035
+  end: 1083
+  translation: Arthur Herbert Leahy, Heroic Romances of Ireland
+  notes: Line numbers refer to the repository markdown source.
+canonical_text:
+  summary: Etain is transformed by jealous sorcery into a butterfly, carried for years by a magical wind, sheltered by Angus Mac O'c, driven away again, swallowed in a cup of milk, and born anew as Etain daughter of Etar.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: Fuamnach seeks out Bressal Etarlam the druid and, through sorcery, Etain is changed into a butterfly.
+    category: action
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: A great wind raised by Fuamnach's spells bears Etain away from Mider's house for seven years until she reaches Angus Mac O'c.
+    category: sequence
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: obs:3
+    text: Angus recognizes Etain in her transformed state and keeps her in a clear-windowed bower filled with fragrant herbs.
+    category: action
+    evidence_refs:
+      - ev:2
+  - id: obs:4
+    text: Fuamnach later blows Etain out of the bower and the same force drives her through Ireland again in weakness and woe.
+    category: sequence
+    evidence_refs:
+      - ev:3
+  - id: obs:5
+    text: Etain falls through a roof into a golden cup of milk near Etar's wife and is swallowed with the drink.
+    category: action
+    evidence_refs:
+      - ev:4
+  - id: obs:6
+    text: Etain is carried in the woman's womb, born again as an earthly maiden, and said to be reborn after one thousand and twelve years.
+    category: sequence
+    evidence_refs:
+      - ev:4
+      - ev:5
+figures:
+  - id: fig:1
+    name_or_label: Etain
+    description: Wife of Mider who is transformed, sheltered in altered form, swallowed, and born again.
+    role_refs:
+      - role:1
+      - role:5
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:4
+      - ev:5
+  - id: fig:2
+    name_or_label: Fuamnach
+    description: Jealous rival wife who seeks Etain's removal and repeatedly drives her through magical force.
+    role_refs:
+      - role:2
+    evidence_refs:
+      - ev:1
+      - ev:3
+  - id: fig:3
+    name_or_label: Bressal Etarlam
+    description: Druid whose spells participate in Etain's first transformation.
+    role_refs:
+      - role:3
+    evidence_refs:
+      - ev:1
+  - id: fig:4
+    name_or_label: Angus Mac O'c
+    description: Foster-son of Mider who recognizes Etain and shelters her in a fragrant bower.
+    role_refs:
+      - role:4
+    evidence_refs:
+      - ev:2
+  - id: fig:5
+    name_or_label: wife of Etar
+    description: Human woman who swallows Etain in milk and bears her again as a child.
+    role_refs:
+      - role:6
+    evidence_refs:
+      - ev:4
+roles:
+  - id: role:1
+    label: transformed_subject
+    assigned_to:
+      - fig:1
+    basis: Etain is changed from wife and fairy woman into a butterfly and remains identifiable through the change.
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: role:2
+    label: jealous_spellcaster
+    assigned_to:
+      - fig:2
+    basis: Fuamnach drives the whole episode through magical aggression against Etain.
+    evidence_refs:
+      - ev:1
+      - ev:3
+  - id: role:3
+    label: druidic_transformer
+    assigned_to:
+      - fig:3
+    basis: Bressal Etarlam's spells are named as part of Etain's transformation.
+    evidence_refs:
+      - ev:1
+  - id: role:4
+    label: otherworld_protector
+    assigned_to:
+      - fig:4
+    basis: Angus Mac O'c recognizes Etain's transformed state and provides a fragrant, sheltered dwelling for her.
+    evidence_refs:
+      - ev:2
+  - id: role:5
+    label: reborn_maiden
+    assigned_to:
+      - fig:1
+    basis: Etain is swallowed, gestated, and born again as a human maiden while retaining her identity and name.
+    evidence_refs:
+      - ev:4
+      - ev:5
+  - id: role:6
+    label: rebirth_mother
+    assigned_to:
+      - fig:5
+    basis: Etar's wife carries and births Etain after swallowing her in the cup of milk.
+    evidence_refs:
+      - ev:4
+symbols:
+  - id: sym:1
+    label: butterfly form
+    literal_form: Etain changed into the shape of a butterfly that delights among flowers.
+    associated_figures:
+      - fig:1
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:1
+  - id: sym:2
+    label: magical wind
+    literal_form: Wind raised by Fuamnach's spells that carries Etain away for years.
+    associated_figures:
+      - fig:1
+      - fig:2
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:1
+      - ev:3
+  - id: sym:3
+    label: fragrant bower
+    literal_form: Clear-windowed bower with purple veil and sweet-scented herbs where Angus shelters Etain.
+    associated_figures:
+      - fig:1
+      - fig:4
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:2
+  - id: sym:4
+    label: golden cup of milk
+    literal_form: Cup into which Etain falls and through which she is swallowed and enters human gestation.
+    associated_figures:
+      - fig:1
+      - fig:5
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:4
+scenes:
+  - id: scene:1
+    label: Sorcery and wind-borne exile
+    summary: Fuamnach and the druid transform Etain into a butterfly and a magical wind drives her from Mider's house across Ireland.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+    symbol_refs:
+      - sym:1
+      - sym:2
+    evidence_refs:
+      - ev:1
+  - id: scene:2
+    label: Shelter with Angus Mac O'c
+    summary: Angus recognizes the transformed Etain and keeps her in a perfumed bower where she thrives in altered form.
+    figure_refs:
+      - fig:1
+      - fig:4
+    symbol_refs:
+      - sym:3
+    evidence_refs:
+      - ev:2
+  - id: scene:3
+    label: Swallowing and rebirth
+    summary: Fuamnach drives Etain away again until she falls into milk, is swallowed, and is born anew as Etain daughter of Etar.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:5
+    symbol_refs:
+      - sym:2
+      - sym:4
+    evidence_refs:
+      - ev:3
+      - ev:4
+      - ev:5
+candidate_motifs:
+  - id: motif:1
+    label: enchanted_transformation_and_rebirth
+    taxonomy_refs:
+      - shapeshifter
+      - death_rebirth
+    basis: Etain's identity persists through butterfly transformation, magical concealment, swallowing, gestation, and second birth.
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:4
+      - ev:5
+    confidence: high
+    cautions: The death_rebirth tag is approximate because the passage emphasizes metamorphosis and re-embodiment more than explicit death or resurrection.
+  - id: motif:2
+    label: otherworld_protection_in_small_form
+    taxonomy_refs: []
+    basis: Angus Mac O'c shelters and nourishes Etain while she remains in an altered, fragile form.
+    evidence_refs:
+      - ev:2
+    confidence: medium
+    cautions: The taxonomy lacks a direct motif for protective keeping of a transformed being.
+  - id: motif:3
+    label: rebirth_through_ingestion
+    taxonomy_refs: []
+    basis: Etain's passage into a golden cup of milk and then into a human womb creates a distinctive ingestion-to-birth sequence.
+    evidence_refs:
+      - ev:4
+      - ev:5
+    confidence: high
+    cautions: This is a very specific narrative mechanism and should be compared by function with care.
+comparison_claims:
+  - id: claim:1
+    claim: This passage can be compared by function with traditions in which a female figure undergoes magical metamorphosis, concealment, and return in a renewed embodied form.
+    claim_level: same_function
+    target: cross-cultural transformation and rebirth records
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:4
+      - ev:5
+    confidence: medium
+    limitations: The claim identifies a narrative pattern and does not argue borrowing or direct historical continuity.
+  - id: claim:2
+    claim: The golden cup and swallowed rebirth sequence gives the passage a distinctive mechanism for return that can be compared cautiously with ingestion, vessel, or miraculous rebirth motifs elsewhere.
+    claim_level: same_function
+    target: pattern atlas rebirth-through-vessel or ingestion sequences
+    evidence_refs:
+      - ev:4
+      - ev:5
+    confidence: low
+    limitations: The atlas does not yet have a settled shared taxonomy for ingestion-based rebirth episodes.
+evidence:
+  - id: ev:1
+    type: summary
+    locator: "lines 1035-1045"
+    quote_or_summary: Fuamnach and Bressal Etarlam transform Etain into a butterfly and a magical wind carries her away for seven years.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+    rights_note: Public-domain source text.
+  - id: ev:2
+    type: summary
+    locator: "lines 1046-1055"
+    quote_or_summary: Angus Mac O'c recognizes Etain in transformed form and keeps her in a fragrant bower with clear windows and precious herbs.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+    rights_note: Public-domain source text.
+  - id: ev:3
+    type: summary
+    locator: "lines 1063-1073"
+    quote_or_summary: Fuamnach again uses the wind to drive Etain from the bower and through the land in weakness and distress.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+    rights_note: Public-domain source text.
+  - id: ev:4
+    type: summary
+    locator: "lines 1074-1080"
+    quote_or_summary: Etain falls through a roof into a golden cup of milk, is swallowed by Etar's wife, and is carried in her womb until born again as a maiden.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+    rights_note: Public-domain source text.
+  - id: ev:5
+    type: quote
+    locator: "lines 1081-1083"
+    quote_or_summary: "one thousand and twelve years since the time of the first begetting of Etain ... to the time when she was born the second time"
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+    rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The transformation, wind-borne displacement, swallowing, and second birth are explicit; broader cross-cultural categorization remains provisional.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs review for rebirth terminology and for how closely the episode should be grouped with wider metamorphosis traditions.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Manual extraction focused on transformation, magical displacement, and re-embodiment motifs in the Etain cycle.
