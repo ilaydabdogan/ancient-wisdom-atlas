@@ -1270,6 +1270,24 @@ canonical_motif_groups:
   draft_reason_existing_groups_insufficient: Existing groups include sacrifice, sacred
     law, and threshold guardianship, but not the recurring ritual sequence of expulsion
     plus boundary closure.
+- id: perilous_lure_fatal_enchantment
+  label: Perilous Lure and Fatal Enchantment
+  description: Dangerous voices, songs, beauties, or enchantments lure travelers or
+    seekers toward death, captivity, or loss of agency.
+  children:
+  - dangerous_hybrid_singers_lure_seafarers_to_death
+  aliases: []
+  related:
+  - otherworld
+  - dream_and_vision
+  - death_and_transformation
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - threshold_guardian
+  - sacred_love
+  draft_reason_existing_groups_insufficient: Existing groups cover thresholds, love,
+    and death, but none directly covers lethal enchantment or seductive supernatural
+    luring as the narrative mechanism.
 - id: external_detachable_soul
   label: External or Detachable Soul
   description: A person's life, soul, or vital essence is located outside the ordinary
@@ -2366,6 +2384,148 @@ raw_motif_group_index:
       equivalent to ritual expulsion of spirits or misfortune. Caution: Review whether
       the source describes literal beings, ritual impurity, disease, or social scapegoating
       before final placement.'
+  community_restored_after_deceiver_s_death:
+    group_id: divine_judgment
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Death of a deceiver repairs communal moral order, fitting judgment and
+      reckoning more than afterlife travel. Caution: May instead be a narrative-resolution
+      detail if the passage emphasizes plot closure rather than sacred judgment.'
+  completion_of_duty_before_death:
+    group_id: sacrifice
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Completing obligation before death frames self-surrender and duty as a
+      sacred or ethical offering. Caution: If primarily monastic discipline or karma
+      rather than surrender, sacred_law or divine_judgment may be better.'
+  contest_over_a_dead_hero_s_arms_leads_to_a_warrior_s_suicide:
+    group_id: divine_warrior
+    relationship: over_specific_label
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The label is a specific heroic-warrior death sequence involving honor,
+      arms, and suicide after contest. Caution: Likely too episode-specific for a
+      canonical motif; preserve as evidence under warrior honor/death rather than
+      broad death return.'
+  cosmic_disturbance_caused_by_spiritual_mastery:
+    group_id: mystical_quest
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Spiritual attainment causing cosmic disturbance fits transformative mastery
+      on a contemplative quest path. Caution: If the disturbance functions as an omen
+      or theophany rather than attainment effect, dream_and_vision or divine_intervention
+      may fit better.'
+  cosmic_omens_confirming_spiritual_destiny:
+    group_id: dream_and_vision
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Omens are signs or visions that reveal and confirm a figure''s sacred
+      destiny. Caution: If tied specifically to birth or childhood, miraculous_child
+      may be a better parent group.'
+  covering_mirrors_after_death_to_prevent_soul_capture:
+    group_id: sacred_treasures
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A mirror functions as a dangerous power object requiring mortuary handling
+      to protect the soul. Caution: Also relates to death ritual and soul beliefs;
+      consider a future mortuary taboo/protective rite group if many such labels recur.'
+  dangerous_hybrid_singers_lure_seafarers_to_death:
+    group_id: perilous_lure_fatal_enchantment
+    relationship: functional_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The motif centers on lethal seductive song by liminal hybrid beings, not
+      simply death or descent. Caution: Single occurrence; may belong under a broader
+      future group for monsters, enchantment, or perilous thresholds if such a group
+      develops.'
+  dead_father_seeks_news_of_living_son:
+    group_id: descent
+    relationship: child
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A dead parent conversing about the living typically occurs in an underworld
+      encounter during descent or necromantic contact. Caution: If the passage is
+      only family recognition and not an otherworld encounter, it may be better treated
+      as an evidence detail.'
+  dead_hero_rejects_glory_in_death:
+    group_id: death_and_transformation
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The motif reflects transformed postmortem perspective on heroic death
+      and the meaning of life after death. Caution: Could also relate to lament or
+      heroic ethics; keep as granular evidence rather than a canonical motif unless
+      recurrent.'
+  dead_or_ancestors_detain_the_souls_of_the_living:
+    group_id: descent
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The dead act as otherworld agents who obstruct or hold living souls, fitting
+      descent or death-boundary peril. Caution: Comparative label may combine distinct
+      source functions; review whether detention is possession, illness, afterlife
+      capture, or ancestor obligation.'
+  deadly_marriage_race:
+    group_id: sacred_love
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A courtship or marriage contest in which pursuit of union entails mortal
+      danger fits perilous love and ordeal. Caution: Could also be initiation or royal
+      legitimacy depending on whether the race tests status, succession, or marriage
+      eligibility.'
+  deadly_object_in_a_courtship_contest:
+    group_id: sacred_treasures
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The object functions as a power object within a dangerous courtship ordeal.
+      Caution: If the emphasis is the marriage ordeal rather than the object, sacred_love
+      or initiation may be better parent groups.'
+  death_answers_a_summons:
+    group_id: divine_intervention
+    relationship: role_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Death is personified or agentive and responds directly to a call in human
+      affairs. Caution: If the passage is a ritual invocation or necromancy, descent
+      or sacred_exchange may be relevant instead.'
+  death_as_release_from_cursed_misery:
+    group_id: death_and_transformation
+    relationship: narrower_than
+    confidence: high
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Death is framed as transformation from suffering into release rather than
+      merely an ending. Caution: May also reflect divine judgment or curse-release;
+      preserve the curse context in evidence notes.'
+  death_as_release_from_immortal_suffering:
+    group_id: death_and_transformation
+    relationship: narrower_than
+    confidence: high
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The motif treats mortality as a desired transformative release from endless
+      suffering. Caution: Could be merged with death_as_release_from_cursed_misery
+      as an alias if both refer to the same narrative pattern.'
   external_or_detachable_soul:
     group_id: external_detachable_soul
     relationship: uncertain
@@ -2392,11 +2552,11 @@ expansion_draft:
   purpose: Draft expansion generated from model normalization suggestions. Review
     before merging into taxonomy/motif-normalization.yml.
   include_low_confidence: false
-  suggestion_count: 40
-  accepted_mapping_count: 26
-  new_group_candidate_count: 6
+  suggestion_count: 60
+  accepted_mapping_count: 41
+  new_group_candidate_count: 7
   excluded_count: 3
-  needs_review_count: 11
+  needs_review_count: 16
   already_known_count: 0
 expansion_review_flags:
   low_confidence_or_needs_human_review:
@@ -2566,6 +2726,81 @@ expansion_review_flags:
       lacks a clear weather/ritual coercion group and source context is needed.
     cautions: Culturally sensitive terms such as fetish should be reviewed; may be
       too broad or antiquated as generated wording.
+  - motif_id: compelled_gaze_at_death
+    label: Compelled gaze at death
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: Could describe fatal sight, witness compulsion, taboo vision, or tragic
+      recognition depending on evidence.
+    cautions: Needs source context before mapping to death, divine judgment, dream/vision,
+      or lament motifs.
+  - motif_id: corn_spirit_embodied_in_harvest_animal
+    label: corn-spirit embodied in harvest animal
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: map_to_existing_group
+    suggested_group_id: seasonal_cycle
+    suggested_group_label: Seasonal Cycle
+    relationship: symbolic_variant
+    confidence: high
+    reason: suggested existing group is not present
+    rationale: Harvest animal embodying a corn-spirit belongs to agricultural recurrence
+      and seasonal ritual renewal.
+    cautions: Could also touch sacrifice if the harvest animal is killed or offered;
+      avoid mapping to death/rebirth unless renewal is explicit.
+  - motif_id: covered_mouth_or_face_blocks_spiritual_danger
+    label: covered mouth or face blocks spiritual danger
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: Could be ritual protection, impurity avoidance, death taboo, or spirit-contagion
+      practice.
+    cautions: Needs evidence for whether this is a recurring ritual prohibition or
+      an over-specific ethnographic detail.
+  - motif_id: danger_of_a_sacred_or_spirit_bearing_substance_over_a_tabooed_head
+    label: danger of a sacred or spirit-bearing substance over a tabooed head
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label mixes taboo, sacred substance, and body-part danger without
+      enough narrative or ritual function.
+    cautions: May be an over-specific ethnographic note; source context needed before
+      mapping to sacred_law, sacrifice, or protective taboo.
+  - motif_id: dead_or_departed_agent_mediating_rain
+    label: Dead or departed agent mediating rain
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label combines ancestor/dead agency with weather mediation, and
+      no existing group cleanly captures the ritual or cosmological function.
+    cautions: 'Needs source evidence: could be ancestor cult, divine intervention,
+      sacred waters, fertility rite, or local weather magic.'
   new_group_candidates:
   - id: apotropaic_protection
     label: Apotropaic Protection Against Spirits
@@ -2662,6 +2897,24 @@ expansion_review_flags:
     draft_reason_existing_groups_insufficient: Existing groups include sacrifice,
       sacred law, and threshold guardianship, but not the recurring ritual sequence
       of expulsion plus boundary closure.
+  - id: perilous_lure_fatal_enchantment
+    label: Perilous Lure and Fatal Enchantment
+    description: Dangerous voices, songs, beauties, or enchantments lure travelers
+      or seekers toward death, captivity, or loss of agency.
+    children:
+    - dangerous_hybrid_singers_lure_seafarers_to_death
+    aliases: []
+    related:
+    - otherworld
+    - dream_and_vision
+    - death_and_transformation
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - threshold_guardian
+    - sacred_love
+    draft_reason_existing_groups_insufficient: Existing groups cover thresholds, love,
+      and death, but none directly covers lethal enchantment or seductive supernatural
+      luring as the narrative mechanism.
   - id: external_detachable_soul
     label: External or Detachable Soul
     description: A person's life, soul, or vital essence is located outside the ordinary

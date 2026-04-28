@@ -6,10 +6,10 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 
 ## Summary
 
-- Suggestions reviewed: 40
-- Accepted draft mappings: 26
-- New canonical group candidates: 6
-- Low-confidence / needs human review: 11
+- Suggestions reviewed: 60
+- Accepted draft mappings: 41
+- New canonical group candidates: 7
+- Low-confidence / needs human review: 16
 - Suggested exclusions: 3
 - Already known in base normalization: 0
 
@@ -20,6 +20,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `apotropaic_protection` | Apotropaic Protection Against Spirits | 3 | Existing sacred-object and judgment groups do not capture the recurring protective/averting function against spirits or pollution. |
 | `external_detachable_soul` | External or Detachable Soul | 2 | Existing groups cover death, rebirth, vessels, and shapeshifting, but not the specific pattern of vital essence externalized from the body. |
 | `external_soul_life_token` | External Soul and Life Token | 2 | Existing object groups cover sacred power objects or vessels, but not the recurring narrative function of an externally stored life or soul. |
+| `perilous_lure_fatal_enchantment` | Perilous Lure and Fatal Enchantment | 1 | Existing groups cover thresholds, love, and death, but none directly covers lethal enchantment or seductive supernatural luring as the narrative mechanism. |
 | `ritual_expulsion_boundary_sealing` | Ritual Expulsion and Boundary Sealing | 3 | Existing groups include sacrifice, sacred law, and threshold guardianship, but not the recurring ritual sequence of expulsion plus boundary closure. |
 | `spirit_contagion` | Spirit Contagion and Death Pollution | 1 | Sacred law and divine judgment are too broad for repeated ritual-pollution and spirit-contagion labels. |
 | `tutelary_spirit` | Tutelary Spirit and Communal Guardian | 1 | Existing groups cover divine action or boundary guardians, but not ongoing protective patronage of a community or place. |
@@ -39,8 +40,13 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `caravan_lost_in_deadly_desert_through_failed_navigation` | Caravan lost in deadly desert through failed navigation | needs_human_review | ``  | low | low confidence |
 | `child_taken_by_wood_spirits_and_recovered_in_a_tree` | Child taken by wood spirits and recovered in a tree | needs_human_review | ``  | low | low confidence |
 | `coercing_a_rain_god_spirit_fetish_animal_or_substitute` | coercing a rain-god, spirit, fetish, animal, or substitute | needs_human_review | ``  | low | low confidence |
+| `compelled_gaze_at_death` | Compelled gaze at death | needs_human_review | ``  | low | low confidence |
+| `corn_spirit_embodied_in_harvest_animal` | corn-spirit embodied in harvest animal | map_to_existing_group | `seasonal_cycle` Seasonal Cycle | high | suggested existing group is not present |
+| `covered_mouth_or_face_blocks_spiritual_danger` | covered mouth or face blocks spiritual danger | needs_human_review | ``  | low | low confidence |
+| `danger_of_a_sacred_or_spirit_bearing_substance_over_a_tabooed_head` | danger of a sacred or spirit-bearing substance over a tabooed head | needs_human_review | ``  | low | low confidence |
+| `dead_or_departed_agent_mediating_rain` | Dead or departed agent mediating rain | needs_human_review | ``  | low | low confidence |
 
-_Showing first 11 of 11 review rows._
+_Showing first 16 of 16 review rows._
 
 ## Suggested Exclusions
 
