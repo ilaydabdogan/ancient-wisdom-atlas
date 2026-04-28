@@ -364,6 +364,13 @@ Then ingest suggestion outputs:
 ruby scripts/batch_ingest_normalization_suggestion_results.rb --run-id normalization-suggestions-YYYY-MM-DD
 ```
 
+After ingestion, build a review-only expanded taxonomy draft:
+
+```sh
+ruby scripts/build_motif_normalization_expansion_draft.rb \
+  --run-id normalization-suggestions-YYYY-MM-DD
+```
+
 The suggestion importer writes:
 
 - `data/reviews/normalization-suggestions/<run_id>/suggestions.jsonl`
@@ -371,7 +378,7 @@ The suggestion importer writes:
 - `data/reviews/normalization-suggestions/<run_id>/records/*.yml`
 - `data/reviews/normalization-suggestions/<run_id>/manifest.yml`
 
-These suggestions are advisory. They do not automatically edit the taxonomy. A human should promote approved rows into `taxonomy/motif-normalization.yml` as `aliases`, `canonical_motif_groups` children, or `raw_motif_group_index` entries.
+The expansion draft writes `taxonomy/motif-normalization-expanded.yml` and `docs/motif-normalization-expanded-review.md`. These suggestions are advisory. They do not automatically edit the taxonomy. A human should promote approved rows into `taxonomy/motif-normalization.yml` as `aliases`, `canonical_motif_groups` children, or `raw_motif_group_index` entries.
 
 ## Embeddings
 
