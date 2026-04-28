@@ -137,7 +137,7 @@ rights:
 | jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 19:1-20; 24:3-18 | covenant | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-sinai-covenant-ascent.yml) |
 | jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 8:20-22; 9:8-17 | covenant | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-sacrifice-covenant.yml) |
 
-## Threshold Refusal
+## Initiation
 
 - Motif id: `initiation`
 - Occurrences: 6
@@ -179,7 +179,7 @@ rights:
 | jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 19:1-20; 24:3-18 | ascent | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-sinai-covenant-ascent.yml) |
 | jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 28:10-17 | ascent | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-dream-descent.yml) |
 
-## Death Rebirth
+## Death And Rebirth
 
 - Motif id: `death_rebirth`
 - Occurrences: 4
@@ -192,7 +192,7 @@ rights:
 | jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 34:1-12 | death_rebirth | low | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-moses-death-succession.yml) |
 | mesopotamian | [An Old Babylonian Version of the Gilgamesh Epic](../texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md) | INTRODUCTION I, Meissner fragment / Sabitum address | impossible_immortality_quest | high | [record](../extractions/mesopotamian/project-gutenberg/gilgamesh/gilgamesh-sabitum-mortality-quest.yml) |
 
-## Soft Overcomes Hard
+## Duality
 
 - Motif id: `duality`
 - Occurrences: 4
@@ -218,7 +218,7 @@ rights:
 | jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 31:9-13; 31:19-22; 31:24-30 | sacred_exchange | low | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-memory-teaching-witness.yml) |
 | jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 8:20-22; 9:8-17 | sacred_exchange | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-sacrifice-covenant.yml) |
 
-## Sacred Tree Axis
+## Sacred Tree Or Axis Mundi
 
 - Motif id: `sacred_tree_axis`
 - Occurrences: 4
@@ -267,7 +267,7 @@ rights:
 | jewish_christian | [Leviticus](../texts/public-domain/biblical/world-english-bible-classic/leviticus.md) | Leviticus 17:10-14 | atonement_rite | medium | [record](../extractions/biblical/world-english-bible-classic/leviticus/leviticus-blood-life.yml) |
 | jewish_christian | [Leviticus](../texts/public-domain/biblical/world-english-bible-classic/leviticus.md) | Leviticus 1:3-9 | atonement_rite | medium | [record](../extractions/biblical/world-english-bible-classic/leviticus/leviticus-burnt-offering.yml) |
 
-## Sacred Theft Of Fire
+## Culture Hero
 
 - Motif id: `culture_hero`
 - Occurrences: 2
@@ -278,7 +278,7 @@ rights:
 | greek | [Hesiod, the Homeric Hymns, and Homerica](../texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md) | Theogony ll. 507-616 | sacred theft of fire | high | [record](../extractions/greek/project-gutenberg/hesiod-homeric-hymns/theogony-prometheus-fire-theft.yml) |
 | mesopotamian | [An Old Babylonian Version of the Gilgamesh Epic](../texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md) | PENNSYLVANIA TABLET, TRANSLATION, Col. I-Col. III | civilization_boundary_initiation | high | [record](../extractions/mesopotamian/project-gutenberg/gilgamesh/gilgamesh-enkidu-dream-civilization-boundary.yml) |
 
-## Wilderness Wandering
+## Departure
 
 - Motif id: `departure`
 - Occurrences: 2
@@ -289,7 +289,7 @@ rights:
 | jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 14:1-35 | wilderness_wandering | medium | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-wilderness-wandering-judgment.yml) |
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | Vafthruthnismol 1-8 | departure_to_liminal_opponent | medium | [record](../extractions/norse/project-gutenberg/poetic-edda/vafthruthnismol-odin-wisdom-contest.yml) |
 
-## Descent To Sheol
+## Descent Into The Underworld
 
 - Motif id: `hero_descent`
 - Occurrences: 2
@@ -300,7 +300,7 @@ rights:
 | egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII, and CLV-CLXVII | afterlife_passage_by_names | medium | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml) |
 | jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 16:1-50 | descent_to_sheol | low | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-korah-rebellion-judgment.yml) |
 
-## Cosmic Mother
+## Mother Goddess
 
 - Motif id: `mother_goddess`
 - Occurrences: 2
@@ -311,7 +311,7 @@ rights:
 | daoist | [The Tao Teh King, or the Tao and its Characteristics](../texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md) | Tao Teh King, Ch. 1.1-4 | cosmic mother | low | [record](../extractions/daoist/project-gutenberg/tao-teh-king/tao-teh-king-origin-mother-mystery.yml) |
 | greek | [Hesiod, the Homeric Hymns, and Homerica](../texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md) | Theogony ll. 116-138 | cosmic maternity | medium | [record](../extractions/greek/project-gutenberg/hesiod-homeric-hymns/theogony-cosmic-origin.yml) |
 
-## Acquittal And Afterlife Reward
+## Resurrection
 
 - Motif id: `resurrection`
 - Occurrences: 2
@@ -344,7 +344,7 @@ rights:
 | jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 3:1-7 | serpent | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-tree-serpent.yml) |
 | jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 21:4-9 | serpent | medium | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-bronze-serpent.yml) |
 
-## Trickster At Sacrificial Boundary
+## Trickster At The Boundary
 
 - Motif id: `trickster_boundary`
 - Occurrences: 2
@@ -365,7 +365,7 @@ rights:
 | --- | --- | --- | --- | --- | --- |
 | jewish_christian | [Leviticus](../texts/public-domain/biblical/world-english-bible-classic/leviticus.md) | Leviticus 16:7-10, 20-22, 29-34 | annual_purification | medium | [record](../extractions/biblical/world-english-bible-classic/leviticus/leviticus-day-of-atonement-scapegoat.yml) |
 
-## Ark Vessel
+## Ark Or Preserving Vessel
 
 - Motif id: `ark_vessel`
 - Occurrences: 1
@@ -625,7 +625,7 @@ rights:
 | --- | --- | --- | --- | --- | --- |
 | jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 19:1-20; 24:3-18 | sacred_mountain | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-sinai-covenant-ascent.yml) |
 
-## Sacred Theft Of Fire
+## Sacred Theft
 
 - Motif id: `sacred_theft`
 - Occurrences: 1
@@ -635,7 +635,7 @@ rights:
 | --- | --- | --- | --- | --- | --- |
 | greek | [Hesiod, the Homeric Hymns, and Homerica](../texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md) | Theogony ll. 507-616 | sacred theft of fire | high | [record](../extractions/greek/project-gutenberg/hesiod-homeric-hymns/theogony-prometheus-fire-theft.yml) |
 
-## Rival Counterpart
+## Sacred Twins
 
 - Motif id: `sacred_twins`
 - Occurrences: 1
@@ -655,7 +655,7 @@ rights:
 | --- | --- | --- | --- | --- | --- |
 | jewish_christian | [Leviticus](../texts/public-domain/biblical/world-english-bible-classic/leviticus.md) | Leviticus 16:7-10, 20-22, 29-34 | scapegoat | medium | [record](../extractions/biblical/world-english-bible-classic/leviticus/leviticus-day-of-atonement-scapegoat.yml) |
 
-## Ritual Transformation
+## Shapeshifter
 
 - Motif id: `shapeshifter`
 - Occurrences: 1

@@ -17,7 +17,8 @@ checks = [
   "scripts/build_similarity_index.rb",
   "scripts/check_structured_files.rb",
   "scripts/check_clean_markdown.rb",
-  "scripts/export_jsonl.rb"
+  "scripts/export_jsonl.rb",
+  "scripts/build_pages_site.rb"
 ]
 
 checks.each do |script|

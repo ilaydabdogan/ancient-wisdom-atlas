@@ -11,6 +11,11 @@ TODAY = Date.today.iso8601
 EXTRACTION_GLOB = File.join(ROOT, "extractions", "**", "*.{yml,yaml}")
 INDEX_PATH = File.join(ROOT, "data", "indexes", "motif-occurrences.yml")
 MARKDOWN_PATH = File.join(ROOT, "comparisons", "motif-index.md")
+TAXONOMY_PATH = File.join(ROOT, "taxonomy", "motifs.yml")
+MOTIF_LABELS = begin
+  motifs = YAML.safe_load(File.read(TAXONOMY_PATH), permitted_classes: [Date], aliases: false)
+  motifs.fetch("motif_families", {}).transform_values { |value| value["label"] }
+end.freeze
 
 def relative(path)
   path.sub("#{ROOT}/", "")
@@ -35,6 +40,9 @@ def slugify(value)
 end
 
 def display_motif(motif, motif_id)
+  taxonomy_label = MOTIF_LABELS[motif_id.to_s]
+  return taxonomy_label if taxonomy_label && !taxonomy_label.empty?
+
   label = motif["label"].to_s.strip
   label.empty? ? motif_id.to_s.tr("_", " ") : label.tr("_", " ")
 end

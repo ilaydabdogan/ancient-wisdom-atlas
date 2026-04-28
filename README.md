@@ -92,6 +92,12 @@ See [docs/pattern-discovery-logic.md](docs/pattern-discovery-logic.md) for how t
 
 Start with [comparisons/](comparisons/) for evidence-backed cross-cultural comparison pages and the generated [motif occurrence index](comparisons/motif-index.md), which groups extraction records by motif across traditions.
 
+## GitHub Pages
+
+The repository includes a generated static site for browsing the atlas as a website. The Pages workflow builds `site/` from Markdown and YAML files on every push to `main`, then deploys it with GitHub Pages.
+
+Expected project URL after Pages is enabled: `https://ilaydabdogan.github.io/ancient-wisdom-atlas/`
+
 ## Scale-Up Workflow
 
 - [docs/source-prioritization.md](docs/source-prioritization.md): where to acquire first texts and in what order
