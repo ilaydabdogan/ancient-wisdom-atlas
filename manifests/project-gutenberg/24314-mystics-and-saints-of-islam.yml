@@ -20,14 +20,14 @@ artifacts:
     path: imports/converted/project-gutenberg/24314-mystics-and-saints-of-islam.md
     checksum:
       algorithm: sha256
-      value: a54078e16f9203ed1dd2f3b993593a36e79c7382224e3d94ff4b40d75c8671c9
+      value: a5a9161339f8a3c77861cee8721de5380a1912690bb9468e1d9da04940fbd5d1
     media_type: text/markdown
     notes: Intermediate Markdown draft after removing distributor packaging.
   canonical:
     path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
     checksum:
       algorithm: sha256
-      value: 66dedefb41e8b891859a872bcdcd3dcc2cb55a4e98c1e13ea629d3d039e0ba78
+      value: 052d2f7ad2bba0ab243bfbed8e5756f5d8e45cb9803ca75eb9bae21f860873b8
     media_type: text/markdown
     notes: Canonical reviewed Markdown corpus text.
   converter:
@@ -42,6 +42,8 @@ artifacts:
   cleanup_notes:
   - Removed distributor packaging and license text from canonical corpus file.
   - Preserved source line and paragraph structure without interpretive rewriting.
+  - Removed residual PGDP production-credit or transcriber-note packaging during corpus
+    QA.
   rights:
     status: public_domain
     jurisdiction: US

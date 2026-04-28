@@ -20,14 +20,14 @@ artifacts:
     path: imports/converted/project-gutenberg/56550-popol-vuh-spence.md
     checksum:
       algorithm: sha256
-      value: ea79c0bb871aff36a7b08f8c513be84973f0fbb425663b55d8640a9a7ef7b8a9
+      value: a657de944d760dc064a6a79b7a5e6647050b25b90af7379b79cc79abf18ce840
     media_type: text/markdown
     notes: Intermediate Markdown draft after removing distributor packaging.
   canonical:
     path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
     checksum:
       algorithm: sha256
-      value: 575d43fabfdf7f4fb2ad68c4376b5edc2bfce0c000c90c714a5535120d8aa81c
+      value: f4cbf7b26e3e2b8518e74350ce6d9aed22ec80e27a3b3ad3a5d7699386a8cced
     media_type: text/markdown
     notes: Canonical reviewed Markdown corpus text.
   converter:
@@ -42,6 +42,8 @@ artifacts:
   cleanup_notes:
   - Removed distributor packaging and license text from canonical corpus file.
   - Preserved source line and paragraph structure without interpretive rewriting.
+  - Removed residual PGDP production-credit or transcriber-note packaging during corpus
+    QA.
   rights:
     status: public_domain
     jurisdiction: US

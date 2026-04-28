@@ -1,10 +1,5 @@
 # The Confessions of Al Ghazzali
 
-Proofreading Team at http://www.pgdp.net (This file was
-produced from images generously made available by The
-Internet Archive)
-
-
     The Wisdom of the East Series
 
     EDITED BY

@@ -71,12 +71,6 @@ figures:
 
 # Mystics and Saints of Islam
 
-the Online Distributed Proofreading Team at
-http://www.pgdp.net (This file was made using scans of
-public domain works from the University of Michigan Digital
-Libraries.)
-
-
                 MYSTICS AND SAINTS
                     OF ISLAM
 
@@ -5963,30 +5957,4 @@ anything he would find in the Koran.
    answered, 'I am afraid of that verse in the Koran, "The rights of
    women over men are the same as the rights of men over women."'
 
-  +-----------------------------------------------------------+
-  | Transcriber's Note:                                       |
-  |                                                           |
-  | There are a number of words, mostly Arabic, spelled in    |
-  | different ways in the present book. As many of these are  |
-  | variants often used in the transliteration of Arabic      |
-  | names, these differences have been retained. Below is     |
-  | the list of the words which have been spelled differently |
-  | at different places in the book:                          |
-  |                                                           |
-  | Adham, Adhem.                                             |
-  | Alghazzali, Algazzali.                                    |
-  | Bayazid, Bayezid.                                         |
-  | Hassan, Hasan.                                            |
-  | Hejaj, Hejjaj.                                            |
-  | Judgment, Judgement.                                      |
-  | Kaf, Kaf.                                                 |
-  | Khorassan, Khorasan.                                      |
-  | Muhammad, Mohammed, Muhammed, Mohammad.                   |
-  | Mohammedan, Muhammadan, Muhammedan, Mahommadan,           |
-  |   Mohammadan.                                             |
-  | Mohammedanism, Muhammedanism.                             |
-  | Saadi, Sa'di.                                             |
-  | Sofian, Sofyan.                                           |
-  | Suhrawardy, Suhrawardi.                                   |
-  +-----------------------------------------------------------+
 

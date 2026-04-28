@@ -177,7 +177,13 @@ module CorpusQueue
     blank_count = 0
 
     lines.each do |line|
-      if line.match?(/\A\s*\[?(Transcriber's Notes?|Transcriber’s Notes?|A note from the digitizer|Produced by|Distributed Proofreading Team)\b/i)
+      tail_apparatus = line.match?(/\A\s*_?(?:Errors and Anomalies noted by transcriber|Corrections made by McKay, with Bell\/Bohn text shown in brackets|Footnote Numbers)_?\s*\z/i)
+      note_block = line.match?(/\A\s*(?:[\[|]\s*)?(Transcriber's Notes?|Transcriber’s Notes?|A note from the digitizer|Produced by|(?:the Online )?Distributed Proofreading Team|Proofreading Team)\b/i)
+
+      if note_block || tail_apparatus
+        output.pop if line.lstrip.start_with?("|") && output.last&.match?(/\A\s*\+-+\+\s*\z/)
+        break if tail_apparatus || (output.length > 200 && line.match?(/Transcriber['’]s Notes?:?/i))
+
         skipping = true
         bracketed_skipping = line.lstrip.start_with?("[")
         skipping = false if bracketed_skipping && line.strip.end_with?("]")
@@ -213,7 +219,7 @@ module CorpusQueue
     skipping = false
 
     lines.each do |line|
-      if line.match?(/\A\s*Project Gutenberg Editors Note:/i) ||
+      if line.match?(/\A\s*Project Gutenberg Editor(?:s|['’]s)? Note:/i) ||
           line.match?(/\A\s*Notes?:.*Project Gutenberg/i)
         skipping = true
         next

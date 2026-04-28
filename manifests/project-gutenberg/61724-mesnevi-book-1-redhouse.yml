@@ -20,14 +20,14 @@ artifacts:
     path: imports/converted/project-gutenberg/61724-mesnevi-rumi.md
     checksum:
       algorithm: sha256
-      value: 2a169471cd99ad110c9c4e7a0bef77f0daea168b54d34cd6bde49c04241a9211
+      value: a3c06f42de5ca0ab6bca08480f3ebfadebee4e5e56920ee7bb79940bc42c23c9
     media_type: text/markdown
     notes: Intermediate Markdown draft after removing distributor packaging.
   canonical:
     path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
     checksum:
       algorithm: sha256
-      value: 929a040610f5f6d2a07c96981ce6af865bc28b15c799625181fd19c2ae6f0c8f
+      value: 65e036a04df5c9421210db72acf77eede2ae069a46a25f066c29767465720c44
     media_type: text/markdown
     notes: Canonical reviewed Markdown corpus text.
   converter:
@@ -42,6 +42,8 @@ artifacts:
   cleanup_notes:
   - Removed distributor packaging and license text from canonical corpus file.
   - Preserved source line and paragraph structure without interpretive rewriting.
+  - Removed residual PGDP production-credit or transcriber-note packaging during corpus
+    QA.
   rights:
     status: public_domain
     jurisdiction: US

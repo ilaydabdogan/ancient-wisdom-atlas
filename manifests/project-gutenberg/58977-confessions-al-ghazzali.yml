@@ -20,14 +20,14 @@ artifacts:
     path: imports/converted/project-gutenberg/58977-confessions-al-ghazzali.md
     checksum:
       algorithm: sha256
-      value: 03302eb7c43f4d884966831ba10af9d03b9bae246a092cc012c2e77f5e8c8322
+      value: 707f34082dcb45fdaf33c983f851f91d5d39224fb222933bcd720ca5912a9af3
     media_type: text/markdown
     notes: Intermediate Markdown draft after removing distributor packaging.
   canonical:
     path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
     checksum:
       algorithm: sha256
-      value: ecce25488ff9652333cc267560ee725f4aeda5ab8cef177a6ecf8b0352486b2a
+      value: 18c155215e7aab2b7810008a0c5996f1c3660008c1da3565a76aef9673c435e7
     media_type: text/markdown
     notes: Canonical reviewed Markdown corpus text.
   converter:
@@ -42,6 +42,8 @@ artifacts:
   cleanup_notes:
   - Removed distributor packaging and license text from canonical corpus file.
   - Preserved source line and paragraph structure without interpretive rewriting.
+  - Removed residual PGDP production-credit or transcriber-note packaging during corpus
+    QA.
   rights:
     status: public_domain
     jurisdiction: US

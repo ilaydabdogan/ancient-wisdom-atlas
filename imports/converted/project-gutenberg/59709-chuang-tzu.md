@@ -16574,15 +16574,3 @@ _BY THE SAME AUTHOR._
 
        *       *       *       *       *
 
-Transcriber’s Notes:
-
-Italic text is denoted by _underscores_.
-
-Obvious printer’s errors corrected.
-
-Every effort has been made to replicate this text as faithfully as
-possible, including obsolete and variant spellings, non-standard
-punctuation, inconsistently hyphenated words, and other inconsistencies.
-
-In the original text, the first digit of the first footnote on page x
-is illegible. Corrected based on context.

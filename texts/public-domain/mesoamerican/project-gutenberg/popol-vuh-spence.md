@@ -67,11 +67,6 @@ figures:
 
 # The Popol Vuh
 
-Proofreading Team at http://www.pgdp.net/ for Project
-Gutenberg (This book was produced from scanned images of
-public domain material from the Google Books project.)
-
-
                              THE POPOL VUH
 
                      The Mythic and Heroic Sagas of

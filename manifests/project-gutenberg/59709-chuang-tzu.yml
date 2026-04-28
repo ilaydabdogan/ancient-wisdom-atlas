@@ -20,14 +20,14 @@ artifacts:
     path: imports/converted/project-gutenberg/59709-chuang-tzu.md
     checksum:
       algorithm: sha256
-      value: dc214817cf7d5a5418551583b53917e069787187f44c6f54097861cfdc1aefde
+      value: 78d75a07464e55fc2861f0c8b85a0beac0e1108397aa2457e5d849690836534f
     media_type: text/markdown
     notes: Intermediate Markdown draft after removing distributor packaging.
   canonical:
     path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
     checksum:
       algorithm: sha256
-      value: b0240ff36bd6791c454616562eeb2ca069d449570eadffda6a6c907166cad4b2
+      value: b29f8f53b563c7ee9e70da5e170861b38bdb6aa29ffffdf314695d2924d1d521
     media_type: text/markdown
     notes: Canonical reviewed Markdown corpus text.
   converter:
@@ -42,6 +42,8 @@ artifacts:
   cleanup_notes:
   - Removed distributor packaging and license text from canonical corpus file.
   - Preserved source line and paragraph structure without interpretive rewriting.
+  - Removed residual PGDP production-credit or transcriber-note packaging during corpus
+    QA.
   rights:
     status: public_domain
     jurisdiction: US

@@ -1,18 +1,5 @@
 # The Mystics of Islam
 
-  Transcriber's note: Italic font is indicated by _underscores_.
-  Bolded and underlined words are indicated by =equals=.
-
-  The following two characters may not display as intended on certain
-  devices:
-
-  The Arabic letter _ayn_ or _ayin_ is here represented by the
-  character ʿ (MODIFIER LETTER LEFT HALF RING).
-
-  The Arabic letter _hamza_ is here represented by the
-  character ʾ (MODIFIER LETTER RIGHT HALF RING).
-
-
   The Quest Series
   Edited by G. R. S. Mead
 
@@ -5212,37 +5199,3 @@ and end-papers.   1s. net each_
 _Other volumes will be published at regular intervals._
 
 
-Transcriber's Notes
-
-
-The following changes have been made to the text as printed:
-
-1. Footnotes have been placed immediately below the paragraph within
-which they occur, and marked numerically.
-
-2. A period has been removed following the subheading "Gnosticism"
-(Page 14), for consistency with other subheadings.
-
-3. "strenously" (Page 51) has been corrected to "strenuously".
-
-4. The missing word "I" has been inserted in the passage "the next
-world belongs to him towards whom I have brought it" (Page 78).
-
-5. The name printed as Fitz Gerald (Page 97) has been rendered as
-FitzGerald (the usual form for this writer).
-
-6. A single close-quote mark has been inserted after "vouchsafed to
-him" (Page 127).
-
-7. _karāmat_ (Page 129) has been changed to _karāmāt_.
-
-8. The line beginning "Then he quotes" (Page 160) has had its
-indentation reduced, as it is part of the main text and not (as
-printed) part of the preceding quotation.
-
-9. Index: The character ʿ has been added in the words Abu ’l-Khayr
-al-Aqtaʿ, ʿAlāʾuddīn, _muʿjizat_, Muʿtazilites, and Rābiʿa.
-
-10. Apparent inconsistencies in whether hyphens occur in the word pairs
-"well known", "passed away", and "above mentioned" are judged to be due
-to differences in sense, and no amendments have been made.

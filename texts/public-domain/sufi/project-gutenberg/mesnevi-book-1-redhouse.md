@@ -71,17 +71,6 @@ figures:
 
 # The Mesnevi
 
-                          Transcriber’s Notes
-
-Obvious typographical errors have been silently corrected. Variations
-in hyphenation have been standardised but all other spelling and
-punctuation remains unchanged.
-
-The footnotes are located at the end of the book.
-
-Italics are represented thus _italic_.
-
-
                                TRÜBNER’S
 
                            ORIENTAL SERIES.

@@ -1,8 +1,5 @@
 # The Ancient Irish Epic Tale Tain Bo Cualnge
 
-Distributed Proofreading Team at https://www.pgdp.net
-
-
                         THE ANCIENT IRISH EPIC TALE
 
                               TAIN BO CUALNGE

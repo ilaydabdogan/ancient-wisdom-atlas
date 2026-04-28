@@ -20,14 +20,14 @@ artifacts:
     path: imports/converted/project-gutenberg/16464-tain-bo-cualnge-dunn.md
     checksum:
       algorithm: sha256
-      value: bd3e320326ef5c743ac024bb322d96d7ce6e512c1490a7c5e78e54c5f0e902e4
+      value: bbd6f0f6f7ddcd2fcb2529635fc5d0776d6851a8c994f51acfb0ceebc8da9687
     media_type: text/markdown
     notes: Intermediate Markdown draft after removing distributor packaging.
   canonical:
     path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
     checksum:
       algorithm: sha256
-      value: 9fc0b6463126e67e8674d142dafc70fd1b1b24a047fecdf456e23195595d3055
+      value: 240fd191ce6a4ed283bb9048b7c202a659b5a5c314e735f24c6f645cd525129f
     media_type: text/markdown
     notes: Canonical reviewed Markdown corpus text.
   converter:
@@ -42,6 +42,8 @@ artifacts:
   cleanup_notes:
   - Removed distributor packaging and license text from canonical corpus file.
   - Preserved source line and paragraph structure without interpretive rewriting.
+  - Removed residual PGDP production-credit or transcriber-note packaging during corpus
+    QA.
   rights:
     status: public_domain
     jurisdiction: US

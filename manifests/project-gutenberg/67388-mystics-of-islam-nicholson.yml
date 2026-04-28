@@ -20,14 +20,14 @@ artifacts:
     path: imports/converted/project-gutenberg/67388-mystics-of-islam-nicholson.md
     checksum:
       algorithm: sha256
-      value: b31a590332b8eef9004a5e44df6790b88fe5bf6127180e2fc4687e6a2a732c12
+      value: 608ed3aa70f7058c0cd8570ff64bb4177963ede54592c933262683337c2518ac
     media_type: text/markdown
     notes: Intermediate Markdown draft after removing distributor packaging.
   canonical:
     path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
     checksum:
       algorithm: sha256
-      value: fcd52b0e819e105cc9ea9a38a977608c15eb06a1d0a86a6889e98f959e61d93e
+      value: 4e8661f95da402a3a6d1eb3b64aac111ddc370d0398fe6bc9439fd09f6ac1597
     media_type: text/markdown
     notes: Canonical reviewed Markdown corpus text.
   converter:
@@ -42,6 +42,8 @@ artifacts:
   cleanup_notes:
   - Removed distributor packaging and license text from canonical corpus file.
   - Preserved source line and paragraph structure without interpretive rewriting.
+  - Removed residual PGDP production-credit or transcriber-note packaging during corpus
+    QA.
   rights:
     status: public_domain
     jurisdiction: US

@@ -892,6 +892,7 @@ def clean_raw_text(raw)
   lines = remove_gutenberg_editor_note(lines)
   lines = remove_digitizer_note(lines)
   lines = remove_distributed_proofreading_note(lines)
+  lines = remove_transcriber_or_producer_blocks(lines)
   lines = remove_formatting_warning(lines)
   lines = remove_braced_redactor_note(lines)
   lines = lines.reject do |line|
@@ -912,7 +913,7 @@ def remove_gutenberg_editor_note(lines)
   skipping = false
 
   lines.each do |line|
-    if line.match?(/\A\s*Project Gutenberg Editors Note:/i)
+    if line.match?(/\A\s*Project Gutenberg Editor(?:s|['’]s)? Note:/i)
       skipping = true
       next
     end
@@ -968,6 +969,50 @@ def remove_distributed_proofreading_note(lines)
 
     if skipping
       skipping = false if line.strip.empty?
+      next
+    end
+
+    output << line
+  end
+
+  output
+end
+
+def remove_transcriber_or_producer_blocks(lines)
+  output = []
+  skipping = false
+  bracketed_skipping = false
+  blank_count = 0
+
+  lines.each do |line|
+    tail_apparatus = line.match?(/\A\s*_?(?:Errors and Anomalies noted by transcriber|Corrections made by McKay, with Bell\/Bohn text shown in brackets|Footnote Numbers)_?\s*\z/i)
+    note_block = line.match?(/\A\s*(?:[\[|]\s*)?(Transcriber's Notes?|Transcriber’s Notes?|A note from the digitizer|Produced by|(?:the Online )?Distributed Proofreading Team|Proofreading Team)\b/i)
+
+    if note_block || tail_apparatus
+      output.pop if line.lstrip.start_with?("|") && output.last&.match?(/\A\s*\+-+\+\s*\z/)
+      break if tail_apparatus || (output.length > 200 && line.match?(/Transcriber['’]s Notes?:?/i))
+
+      skipping = true
+      bracketed_skipping = line.lstrip.start_with?("[")
+      skipping = false if bracketed_skipping && line.strip.end_with?("]")
+      blank_count = 0
+      next
+    end
+
+    if skipping
+      if bracketed_skipping && line.strip.end_with?("]")
+        skipping = false
+        bracketed_skipping = false
+      elsif !bracketed_skipping && line.strip == "]"
+        skipping = false
+      elsif line.strip.empty?
+        unless bracketed_skipping
+          blank_count += 1
+          skipping = false if blank_count >= 2
+        end
+      else
+        blank_count = 0
+      end
       next
     end
 
