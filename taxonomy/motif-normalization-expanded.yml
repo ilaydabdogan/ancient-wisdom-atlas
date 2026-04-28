@@ -1206,6 +1206,16 @@ canonical_motif_groups:
   children:
   - breaking_or_burning_the_token_causes_death
   - capture_and_confinement_of_the_separable_soul
+  - external_or_vulnerable_soul
+  - external_soul_harmed_to_kill_its_owner
+  - external_soul_hidden_outside_the_body
+  - external_soul_kept_outside_the_body
+  - external_soul_or_external_life_kept_in_an_object
+  - external_soul_or_external_life_token
+  - external_soul_or_life_bound_to_another_object
+  - external_soul_or_life_bound_to_external_object
+  - external_soul_or_life_placed_outside_the_body
+  - external_soul_or_life_stored_outside_the_body
   aliases: []
   related:
   - sacred_vessel
@@ -1305,6 +1315,45 @@ canonical_motif_groups:
   draft_reason_existing_groups_insufficient: Existing groups cover death, objects,
     and transformation broadly but do not preserve the distinctive externalized-life
     mechanism.
+- id: exorcism_spirit_expulsion
+  label: Exorcism, Purification, and Spirit Expulsion
+  description: Ritual, verbal, or divine acts that drive out possessing, attached,
+    diseasing, or harmful spirits from persons, places, or communities.
+  children:
+  - exorcism_of_evil_spirits_attached_to_persons
+  - expulsion_of_disease_devils_or_evil_spirits
+  aliases: []
+  related:
+  - divine_judgment
+  - sacred_exchange
+  - sacred_knowledge
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - divine_intervention
+  - sacred_law
+  draft_reason_existing_groups_insufficient: Existing groups cover judgment, covenantal
+    purity, and intervention, but not the distinct ritual function of expelling possessing
+    or disease-bearing spirits.
+- id: external_soul_hidden_life
+  label: External Soul and Hidden Life
+  description: A figure's life, soul, fate, strength, safety, or vulnerability is
+    stored outside the body in an object, animal, plant, hair, or hidden place, so
+    harm to that container affects the person.
+  children:
+  - external_life_or_soul_hidden_in_hair
+  - external_life_or_soul_hidden_outside_the_body
+  - external_life_soul_fate_safety_or_strength_kept_outside_the_body
+  aliases: []
+  related:
+  - shapeshifter
+  - sacred_knowledge
+  - death_by_fate
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - death_and_transformation
+  - sacred_treasures
+  draft_reason_existing_groups_insufficient: Existing death and transformation groups
+    do not capture the distinctive externalization of life-force or vulnerability.
 - id: external_detachable_soul
   label: External or Detachable Soul
   description: A person's life, soul, or vital essence is located outside the ordinary
@@ -2706,6 +2755,89 @@ raw_motif_group_index:
       identity, or obligation. Caution: If the token is ordinary evidence detail with
       no power or narrative function, exclude or keep as passage note; also overlaps
       mourning.'
+  dying_warrior_foretells_conqueror_s_death:
+    group_id: death_by_fate
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A death prophecy spoken by a dying warrior fits fate-bound death and destiny
+      motifs. Caution: Could also be a heroic-warrior or prophetic-speech episode;
+      source context should confirm emphasis on fate rather than battle honor.'
+  enchantment_of_the_soul_by_speech:
+    group_id: storytelling_as_power
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Speech that enchants or transforms the soul belongs with narrative or
+      verbal power as a sacred force. Caution: If the passage is philosophical rhetoric
+      rather than mythic speech-power, human review may narrow it to sacred_knowledge
+      or exclude as commentary.'
+  ensouled_trees_and_vegetation_spirits:
+    group_id: axis_mundi
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Sacred or animate trees fit the existing tree/axis symbolic field when
+      trees mediate life, spirit, or sacred presence. Caution: If the emphasis is
+      nature spirits rather than world-tree or sacred-center symbolism, a future animism/nature-spirit
+      group may be more precise.'
+  entombed_beloved_followed_by_suicide:
+    group_id: sacred_love
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Love leading to death after the beloved is entombed fits love that transcends
+      or is bound to death. Caution: May be too episode-specific; could also belong
+      under lament_and_mourning if grief rather than love is central.'
+  exorcism_of_evil_spirits_attached_to_persons:
+    group_id: exorcism_spirit_expulsion
+    relationship: ritual_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Exorcism is a recurring ritual pattern not well captured by sacrifice,
+      judgment, or afterlife categories. Caution: Should be reviewed for overlap with
+      healing, purification, possession, and demonology motifs before taxonomy changes.'
+  expulsion_of_disease_devils_or_evil_spirits:
+    group_id: exorcism_spirit_expulsion
+    relationship: ritual_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The motif names a healing or purification rite that expels harmful spiritual
+      or disease agents. Caution: May overlap with medical magic or purification law;
+      group scope should be reviewed with related exorcism labels.'
+  external_life_or_soul_hidden_in_hair:
+    group_id: external_soul_hidden_life
+    relationship: narrower_than
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'This is a specific form of the widespread external-soul motif, with life-force
+      stored in hair. Caution: Hair-specific placement should remain a child or evidence
+      note under a broader external-soul group.'
+  external_life_or_soul_hidden_outside_the_body:
+    group_id: external_soul_hidden_life
+    relationship: alias
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The label is essentially the external-soul motif in broad form. Caution:
+      Needs review for whether the hidden container is object, animal, place, plant,
+      or body part when passage evidence is available.'
+  external_life_soul_fate_safety_or_strength_kept_outside_the_body:
+    group_id: external_soul_hidden_life
+    relationship: alias
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'This is a broad formulation of the external-soul or hidden-life motif.
+      Caution: The broad wording combines life, fate, safety, and strength; human
+      review should preserve local distinctions where the source specifies one.'
   external_or_detachable_soul:
     group_id: external_detachable_soul
     relationship: uncertain
@@ -2716,6 +2848,43 @@ raw_motif_group_index:
       cleanly by existing death, descent, or shapeshifting groups. Caution: May overlap
       with transformation, immortality, vulnerability, or folktale life-token patterns
       depending on source context.'
+  external_or_vulnerable_soul:
+    group_id: external_soul_life_token
+    relationship: broader_label
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The label names the broad folklore pattern of life or soul externalized
+      from the body and made vulnerable through an object or being. Caution: Only
+      one occurrence here, but the batch shows many near-duplicate variants; review
+      whether to group as a canonical query group rather than taxonomy motif family.'
+  external_soul_harmed_to_kill_its_owner:
+    group_id: external_soul_life_token
+    relationship: functional_variant
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'This is a specific functional variant where damaging the external soul-token
+      causes the owner''s death. Caution: Preserve the causal detail as evidence;
+      do not reduce simply to death or sacrifice.'
+  external_soul_hidden_outside_the_body:
+    group_id: external_soul_life_token
+    relationship: alias
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Near-synonymous wording for the external soul pattern, emphasizing concealment
+      outside the body. Caution: If the source only says hiding without life-death
+      linkage, mark lower confidence in final review.'
+  external_soul_kept_outside_the_body:
+    group_id: external_soul_life_token
+    relationship: alias
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Near-duplicate label for the external soul kept apart from the body. Caution:
+      Review whether this is duplicate normalization of the same comparative motif
+      record.'
   external_soul_located_outside_the_body:
     group_id: external_detachable_soul
     relationship: narrower_than
@@ -2725,6 +2894,59 @@ raw_motif_group_index:
     notes: 'This is a more specific form of the detachable/external soul pattern.
       Caution: Placement should be reviewed with the broader external-soul candidate;
       may be an alias rather than a separate child.'
+  external_soul_or_external_life_kept_in_an_object:
+    group_id: external_soul_life_token
+    relationship: narrower_than
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A narrower object-based variant of the external soul/life-token pattern.
+      Caution: Could also be indexed secondarily under sacred_vessel or sacred_treasures
+      depending on the object type.'
+  external_soul_or_external_life_token:
+    group_id: external_soul_life_token
+    relationship: alias
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'This is essentially the proposed group label and should serve as a primary
+      alias. Caution: Standardize hyphenation and decide whether ''life-token'' is
+      retained as an alias or child label.'
+  external_soul_or_life_bound_to_another_object:
+    group_id: external_soul_life_token
+    relationship: narrower_than
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Describes an object-bound variant of externalized life or soul. Caution:
+      Object identity may affect secondary indexing under sacred_vessel or sacred_treasures.'
+  external_soul_or_life_bound_to_external_object:
+    group_id: external_soul_life_token
+    relationship: alias
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Near-duplicate of object-bound external soul/life wording. Caution: Likely
+      duplicate with ''external_soul_or_life_bound_to_another_object''; consolidate
+      aliases during review.'
+  external_soul_or_life_placed_outside_the_body:
+    group_id: external_soul_life_token
+    relationship: alias
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'General formulation of the externalized soul/life motif, with emphasis
+      on placement outside the body. Caution: May not specify container or vulnerability;
+      retain broad alias but verify passage evidence.'
+  external_soul_or_life_stored_outside_the_body:
+    group_id: external_soul_life_token
+    relationship: alias
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Near-duplicate external soul/life-token wording, emphasizing storage outside
+      the body. Caution: Review for duplicate collapse with the other external soul
+      labels in this batch.'
 expansion_draft:
   generated_on: '2026-04-28'
   source_suggestions_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
@@ -2732,11 +2954,11 @@ expansion_draft:
   purpose: Draft expansion generated from model normalization suggestions. Review
     before merging into taxonomy/motif-normalization.yml.
   include_low_confidence: false
-  suggestion_count: 80
-  accepted_mapping_count: 58
-  new_group_candidate_count: 8
+  suggestion_count: 100
+  accepted_mapping_count: 77
+  new_group_candidate_count: 10
   excluded_count: 3
-  needs_review_count: 19
+  needs_review_count: 20
   already_known_count: 0
 expansion_review_flags:
   low_confidence_or_needs_human_review:
@@ -3026,6 +3248,21 @@ expansion_review_flags:
       travel, otherworld capture, or folk-medical soul loss.
     cautions: Existing groups do not clearly cover illness from detained soul without
       more source context; avoid forcing into afterlife or descent.
+  - motif_id: enduring_tomb_proclamation
+    label: Enduring tomb proclamation
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label may refer to funerary memory, inscription, heroic fame, or
+      textual artifact.
+    cautions: Needs passage evidence to distinguish a motif of posthumous proclamation
+      from an epigraphic or editorial detail.
   new_group_candidates:
   - id: apotropaic_protection
     label: Apotropaic Protection Against Spirits
@@ -3056,6 +3293,16 @@ expansion_review_flags:
     children:
     - breaking_or_burning_the_token_causes_death
     - capture_and_confinement_of_the_separable_soul
+    - external_or_vulnerable_soul
+    - external_soul_harmed_to_kill_its_owner
+    - external_soul_hidden_outside_the_body
+    - external_soul_kept_outside_the_body
+    - external_soul_or_external_life_kept_in_an_object
+    - external_soul_or_external_life_token
+    - external_soul_or_life_bound_to_another_object
+    - external_soul_or_life_bound_to_external_object
+    - external_soul_or_life_placed_outside_the_body
+    - external_soul_or_life_stored_outside_the_body
     aliases: []
     related:
     - sacred_vessel
@@ -3157,6 +3404,45 @@ expansion_review_flags:
     draft_reason_existing_groups_insufficient: Existing groups cover death, objects,
       and transformation broadly but do not preserve the distinctive externalized-life
       mechanism.
+  - id: exorcism_spirit_expulsion
+    label: Exorcism, Purification, and Spirit Expulsion
+    description: Ritual, verbal, or divine acts that drive out possessing, attached,
+      diseasing, or harmful spirits from persons, places, or communities.
+    children:
+    - exorcism_of_evil_spirits_attached_to_persons
+    - expulsion_of_disease_devils_or_evil_spirits
+    aliases: []
+    related:
+    - divine_judgment
+    - sacred_exchange
+    - sacred_knowledge
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    draft_reason_existing_groups_insufficient: Existing groups cover judgment, covenantal
+      purity, and intervention, but not the distinct ritual function of expelling
+      possessing or disease-bearing spirits.
+  - id: external_soul_hidden_life
+    label: External Soul and Hidden Life
+    description: A figure's life, soul, fate, strength, safety, or vulnerability is
+      stored outside the body in an object, animal, plant, hair, or hidden place,
+      so harm to that container affects the person.
+    children:
+    - external_life_or_soul_hidden_in_hair
+    - external_life_or_soul_hidden_outside_the_body
+    - external_life_soul_fate_safety_or_strength_kept_outside_the_body
+    aliases: []
+    related:
+    - shapeshifter
+    - sacred_knowledge
+    - death_by_fate
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - death_and_transformation
+    - sacred_treasures
+    draft_reason_existing_groups_insufficient: Existing death and transformation groups
+      do not capture the distinctive externalization of life-force or vulnerability.
   - id: external_detachable_soul
     label: External or Detachable Soul
     description: A person's life, soul, or vital essence is located outside the ordinary

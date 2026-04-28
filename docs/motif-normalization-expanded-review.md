@@ -6,10 +6,10 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 
 ## Summary
 
-- Suggestions reviewed: 80
-- Accepted draft mappings: 58
-- New canonical group candidates: 8
-- Low-confidence / needs human review: 19
+- Suggestions reviewed: 100
+- Accepted draft mappings: 77
+- New canonical group candidates: 10
+- Low-confidence / needs human review: 20
 - Suggested exclusions: 3
 - Already known in base normalization: 0
 
@@ -18,9 +18,11 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | Group ID | Label | Children Added | Review Note |
 | --- | --- | ---: | --- |
 | `apotropaic_protection` | Apotropaic Protection Against Spirits | 3 | Existing sacred-object and judgment groups do not capture the recurring protective/averting function against spirits or pollution. |
+| `exorcism_spirit_expulsion` | Exorcism, Purification, and Spirit Expulsion | 2 | Existing groups cover judgment, covenantal purity, and intervention, but not the distinct ritual function of expelling possessing or disease-bearing spirits. |
 | `external_detachable_soul` | External or Detachable Soul | 2 | Existing groups cover death, rebirth, vessels, and shapeshifting, but not the specific pattern of vital essence externalized from the body. |
 | `external_soul` | External Soul and Life-Token | 2 | Existing groups cover death, objects, and transformation broadly but do not preserve the distinctive externalized-life mechanism. |
-| `external_soul_life_token` | External Soul and Life Token | 2 | Existing object groups cover sacred power objects or vessels, but not the recurring narrative function of an externally stored life or soul. |
+| `external_soul_hidden_life` | External Soul and Hidden Life | 3 | Existing death and transformation groups do not capture the distinctive externalization of life-force or vulnerability. |
+| `external_soul_life_token` | External Soul and Life Token | 12 | Existing object groups cover sacred power objects or vessels, but not the recurring narrative function of an externally stored life or soul. |
 | `perilous_lure_fatal_enchantment` | Perilous Lure and Fatal Enchantment | 1 | Existing groups cover thresholds, love, and death, but none directly covers lethal enchantment or seductive supernatural luring as the narrative mechanism. |
 | `ritual_expulsion_boundary_sealing` | Ritual Expulsion and Boundary Sealing | 3 | Existing groups include sacrifice, sacred law, and threshold guardianship, but not the recurring ritual sequence of expulsion plus boundary closure. |
 | `spirit_contagion` | Spirit Contagion and Death Pollution | 1 | Sacred law and divine judgment are too broad for repeated ritual-pollution and spirit-contagion labels. |
@@ -49,8 +51,9 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `death_by_a_weapon_made_partly_from_oneself_or_one_s_kind` | death by a weapon made partly from oneself or one's kind | needs_human_review | ``  | low | low confidence |
 | `death_through_loss_of_shadow` | Death through loss of shadow | new_group_candidate | `` External Soul and Life-Token | low | low confidence |
 | `detained_sleeper_s_soul_causing_illness` | detained sleeper’s soul causing illness | needs_human_review | ``  | low | low confidence |
+| `enduring_tomb_proclamation` | Enduring tomb proclamation | needs_human_review | ``  | low | low confidence |
 
-_Showing first 19 of 19 review rows._
+_Showing first 20 of 20 review rows._
 
 ## Suggested Exclusions
 

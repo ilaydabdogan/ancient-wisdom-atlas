@@ -1,0 +1,336 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-28-unmapped-tiny.batch-0009
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dying-warrior-foretells-conqueror-s-death
+  motif_id: dying_warrior_foretells_conqueror_s_death
+  label: Dying warrior foretells conqueror's death
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A death prophecy spoken by a dying warrior fits fate-bound death and
+    destiny motifs.
+  cautions: Could also be a heroic-warrior or prophetic-speech episode; source context
+    should confirm emphasis on fate rather than battle honor.
+  suggested_aliases:
+  - death prophecy by dying warrior
+  - dying warrior prophecy
+  - foretelling conqueror's death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchantment-of-the-soul-by-speech
+  motif_id: enchantment_of_the_soul_by_speech
+  label: enchantment of the soul by speech
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Speech that enchants or transforms the soul belongs with narrative or
+    verbal power as a sacred force.
+  cautions: If the passage is philosophical rhetoric rather than mythic speech-power,
+    human review may narrow it to sacred_knowledge or exclude as commentary.
+  suggested_aliases:
+  - soul enchantment by speech
+  - psychagogic speech
+  - speech as soul-binding power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enduring-tomb-proclamation
+  motif_id: enduring_tomb_proclamation
+  label: Enduring tomb proclamation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to funerary memory, inscription, heroic fame, or
+    textual artifact.
+  cautions: Needs passage evidence to distinguish a motif of posthumous proclamation
+    from an epigraphic or editorial detail.
+  suggested_aliases:
+  - tomb inscription proclaiming memory
+  - posthumous tomb proclamation
+  - enduring funerary inscription
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ensouled-trees-and-vegetation-spirits
+  motif_id: ensouled_trees_and_vegetation_spirits
+  label: Ensouled trees and vegetation spirits
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Sacred or animate trees fit the existing tree/axis symbolic field when
+    trees mediate life, spirit, or sacred presence.
+  cautions: If the emphasis is nature spirits rather than world-tree or sacred-center
+    symbolism, a future animism/nature-spirit group may be more precise.
+  suggested_aliases:
+  - animate trees
+  - tree spirits
+  - vegetation spirits
+  - ensouled vegetation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.entombed-beloved-followed-by-suicide
+  motif_id: entombed_beloved_followed_by_suicide
+  label: entombed beloved followed by suicide
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: Love leading to death after the beloved is entombed fits love that transcends
+    or is bound to death.
+  cautions: May be too episode-specific; could also belong under lament_and_mourning
+    if grief rather than love is central.
+  suggested_aliases:
+  - suicide after beloved's entombment
+  - death for entombed beloved
+  - love-death at the tomb
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exorcism-of-evil-spirits-attached-to-persons
+  motif_id: exorcism_of_evil_spirits_attached_to_persons
+  label: Exorcism of evil spirits attached to persons
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Exorcism, Purification, and Spirit Expulsion
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Exorcism is a recurring ritual pattern not well captured by sacrifice,
+    judgment, or afterlife categories.
+  cautions: Should be reviewed for overlap with healing, purification, possession,
+    and demonology motifs before taxonomy changes.
+  suggested_aliases:
+  - exorcism of attached spirits
+  - spirit expulsion from persons
+  - casting out evil spirits
+  suggested_new_group:
+    id: exorcism_spirit_expulsion
+    label: Exorcism, Purification, and Spirit Expulsion
+    description: Ritual, verbal, or divine acts that drive out possessing, attached,
+      diseasing, or harmful spirits from persons, places, or communities.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    related_group_ids:
+    - divine_judgment
+    - sacred_exchange
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Existing groups cover judgment, covenantal
+      purity, and intervention, but not the distinct ritual function of expelling
+      possessing or disease-bearing spirits.
+- suggestion_id: normalization.suggestion.expulsion-of-disease-devils-or-evil-spirits
+  motif_id: expulsion_of_disease_devils_or_evil_spirits
+  label: Expulsion of disease, devils, or evil spirits
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Exorcism, Purification, and Spirit Expulsion
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif names a healing or purification rite that expels harmful spiritual
+    or disease agents.
+  cautions: May overlap with medical magic or purification law; group scope should
+    be reviewed with related exorcism labels.
+  suggested_aliases:
+  - expulsion of disease spirits
+  - driving out devils
+  - ritual expulsion of evil spirits
+  suggested_new_group:
+    id: exorcism_spirit_expulsion
+    label: Exorcism, Purification, and Spirit Expulsion
+    description: Ritual, verbal, or divine acts that drive out possessing, attached,
+      diseasing, or harmful spirits from persons, places, or communities.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    related_group_ids:
+    - divine_judgment
+    - sacred_exchange
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Existing groups do not clearly represent
+      expulsion of harmful spirits or disease agents as a distinct ritual-healing
+      function.
+- suggestion_id: normalization.suggestion.external-life-or-soul-hidden-in-hair
+  motif_id: external_life_or_soul_hidden_in_hair
+  label: External life or soul hidden in hair
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: External Soul and Hidden Life
+  relationship: narrower_than
+  confidence: high
+  rationale: This is a specific form of the widespread external-soul motif, with life-force
+    stored in hair.
+  cautions: Hair-specific placement should remain a child or evidence note under a
+    broader external-soul group.
+  suggested_aliases:
+  - life hidden in hair
+  - soul stored in hair
+  - hair as external soul
+  suggested_new_group:
+    id: external_soul_hidden_life
+    label: External Soul and Hidden Life
+    description: A figure's life, soul, fate, strength, safety, or vulnerability is
+      stored outside the body in an object, animal, plant, hair, or hidden place,
+      so harm to that container affects the person.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - sacred_knowledge
+    - death_by_fate
+    reason_existing_groups_insufficient: Existing death and transformation groups
+      do not capture the distinctive externalization of life-force or vulnerability.
+- suggestion_id: normalization.suggestion.external-life-or-soul-hidden-outside-the-body
+  motif_id: external_life_or_soul_hidden_outside_the_body
+  label: external life or soul hidden outside the body
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: External Soul and Hidden Life
+  relationship: alias
+  confidence: high
+  rationale: The label is essentially the external-soul motif in broad form.
+  cautions: Needs review for whether the hidden container is object, animal, place,
+    plant, or body part when passage evidence is available.
+  suggested_aliases:
+  - external soul
+  - hidden life outside the body
+  - life-token outside the body
+  suggested_new_group:
+    id: external_soul_hidden_life
+    label: External Soul and Hidden Life
+    description: A figure's life, soul, fate, strength, safety, or vulnerability is
+      stored outside the body in an object, animal, plant, hair, or hidden place,
+      so harm to that container affects the person.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - sacred_knowledge
+    - death_by_fate
+    reason_existing_groups_insufficient: Existing groups include transformation and
+      power objects, but not the structural dependence of a person’s life on an external
+      hidden repository.
+- suggestion_id: normalization.suggestion.external-life-soul-fate-safety-or-strength-kept-outside-the-body
+  motif_id: external_life_soul_fate_safety_or_strength_kept_outside_the_body
+  label: External life, soul, fate, safety, or strength kept outside the body
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: External Soul and Hidden Life
+  relationship: alias
+  confidence: high
+  rationale: This is a broad formulation of the external-soul or hidden-life motif.
+  cautions: The broad wording combines life, fate, safety, and strength; human review
+    should preserve local distinctions where the source specifies one.
+  suggested_aliases:
+  - external life-force
+  - external soul or strength
+  - hidden fate outside the body
+  - life or strength kept outside the body
+  suggested_new_group:
+    id: external_soul_hidden_life
+    label: External Soul and Hidden Life
+    description: A figure's life, soul, fate, strength, safety, or vulnerability is
+      stored outside the body in an object, animal, plant, hair, or hidden place,
+      so harm to that container affects the person.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - sacred_knowledge
+    - death_by_fate
+    reason_existing_groups_insufficient: 'No existing group preserves the key narrative
+      mechanism: displaced life-force or vulnerability housed outside the body.'
+batch_notes:
+- Several one-occurrence labels are episode-specific; suggested placements should
+  be treated as provisional until passage evidence confirms narrative function.
+- 'Two recurring candidate areas emerge in this batch: exorcism/spirit expulsion and
+  external soul/hidden life. These may warrant taxonomy review if supported by additional
+  unmapped labels.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: JSON-only provisional normalization suggestions generated from supplied taxonomy
+    and group index.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-28'
+batch:
+  run_id: normalization-suggestions-2026-04-28-unmapped-tiny
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-28-unmapped-tiny-batch-0009
+  input_sha256: b5b7d6215f3f5c633745d0fa1aa3869bd697ed43abb4bc5748647ffea1a3e2cb
+

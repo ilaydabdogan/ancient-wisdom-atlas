@@ -1,0 +1,383 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-28-unmapped-tiny.batch-0010
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.external-or-vulnerable-soul
+  motif_id: external_or_vulnerable_soul
+  label: External or vulnerable soul
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: External Soul and Life Token
+  relationship: broader_label
+  confidence: high
+  rationale: The label names the broad folklore pattern of life or soul externalized
+    from the body and made vulnerable through an object or being.
+  cautions: Only one occurrence here, but the batch shows many near-duplicate variants;
+    review whether to group as a canonical query group rather than taxonomy motif
+    family.
+  suggested_aliases:
+  - external soul
+  - vulnerable soul
+  - external life
+  - life token
+  suggested_new_group:
+    id: external_soul_life_token
+    label: External Soul and Life Token
+    description: A figure's soul, life, death, or vulnerability is kept outside the
+      body in an object, animal, container, or hidden place, so harming or controlling
+      that external token affects the owner.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_vessel
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - forbidden_knowledge
+    - otherworld
+    reason_existing_groups_insufficient: Sacred vessel and sacred treasures cover
+      powerful containers or objects, but do not preserve the specific life-soul externalization
+      and vulnerability pattern.
+- suggestion_id: normalization.suggestion.external-soul-harmed-to-kill-its-owner
+  motif_id: external_soul_harmed_to_kill_its_owner
+  label: external soul harmed to kill its owner
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: External Soul and Life Token
+  relationship: functional_variant
+  confidence: high
+  rationale: This is a specific functional variant where damaging the external soul-token
+    causes the owner's death.
+  cautions: Preserve the causal detail as evidence; do not reduce simply to death
+    or sacrifice.
+  suggested_aliases:
+  - harming external soul kills owner
+  - life token destroyed to kill owner
+  - external life harmed
+  suggested_new_group:
+    id: external_soul_life_token
+    label: External Soul and Life Token
+    description: A figure's soul, life, death, or vulnerability is kept outside the
+      body in an object, animal, container, or hidden place, so harming or controlling
+      that external token affects the owner.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_vessel
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - forbidden_knowledge
+    - otherworld
+    reason_existing_groups_insufficient: Existing object/container groups do not capture
+      the distinctive vulnerability mechanism linking the external token to the owner's
+      life.
+- suggestion_id: normalization.suggestion.external-soul-hidden-outside-the-body
+  motif_id: external_soul_hidden_outside_the_body
+  label: External soul hidden outside the body
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: External Soul and Life Token
+  relationship: alias
+  confidence: high
+  rationale: Near-synonymous wording for the external soul pattern, emphasizing concealment
+    outside the body.
+  cautions: If the source only says hiding without life-death linkage, mark lower
+    confidence in final review.
+  suggested_aliases:
+  - hidden external soul
+  - soul hidden outside body
+  - concealed life token
+  suggested_new_group:
+    id: external_soul_life_token
+    label: External Soul and Life Token
+    description: A figure's soul, life, death, or vulnerability is kept outside the
+      body in an object, animal, container, or hidden place, so harming or controlling
+      that external token affects the owner.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_vessel
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - forbidden_knowledge
+    - otherworld
+    reason_existing_groups_insufficient: Sacred vessel or treasure does not by itself
+      convey that the hidden item is the person's soul or life.
+- suggestion_id: normalization.suggestion.external-soul-kept-outside-the-body
+  motif_id: external_soul_kept_outside_the_body
+  label: external soul kept outside the body
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: External Soul and Life Token
+  relationship: alias
+  confidence: high
+  rationale: Near-duplicate label for the external soul kept apart from the body.
+  cautions: Review whether this is duplicate normalization of the same comparative
+    motif record.
+  suggested_aliases:
+  - soul kept outside body
+  - externalized soul
+  - external life kept apart
+  suggested_new_group:
+    id: external_soul_life_token
+    label: External Soul and Life Token
+    description: A figure's soul, life, death, or vulnerability is kept outside the
+      body in an object, animal, container, or hidden place, so harming or controlling
+      that external token affects the owner.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_vessel
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - forbidden_knowledge
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups cover death transformation
+      or sacred objects generally, not the externalized-soul mechanism.
+- suggestion_id: normalization.suggestion.external-soul-or-external-life-kept-in-an-object
+  motif_id: external_soul_or_external_life_kept_in_an_object
+  label: external soul or external life kept in an object
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: External Soul and Life Token
+  relationship: narrower_than
+  confidence: high
+  rationale: A narrower object-based variant of the external soul/life-token pattern.
+  cautions: Could also be indexed secondarily under sacred_vessel or sacred_treasures
+    depending on the object type.
+  suggested_aliases:
+  - external life in object
+  - soul kept in object
+  - life token object
+  suggested_new_group:
+    id: external_soul_life_token
+    label: External Soul and Life Token
+    description: A figure's soul, life, death, or vulnerability is kept outside the
+      body in an object, animal, container, or hidden place, so harming or controlling
+      that external token affects the owner.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_vessel
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - forbidden_knowledge
+    - otherworld
+    reason_existing_groups_insufficient: Object groups can hold the vessel aspect
+      but lose the key soul/life dependency unless a new grouping is added.
+- suggestion_id: normalization.suggestion.external-soul-or-external-life-token
+  motif_id: external_soul_or_external_life_token
+  label: external soul or external life-token
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: External Soul and Life Token
+  relationship: alias
+  confidence: high
+  rationale: This is essentially the proposed group label and should serve as a primary
+    alias.
+  cautions: Standardize hyphenation and decide whether 'life-token' is retained as
+    an alias or child label.
+  suggested_aliases:
+  - external life-token
+  - external soul token
+  - life-token
+  suggested_new_group:
+    id: external_soul_life_token
+    label: External Soul and Life Token
+    description: A figure's soul, life, death, or vulnerability is kept outside the
+      body in an object, animal, container, or hidden place, so harming or controlling
+      that external token affects the owner.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_vessel
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - forbidden_knowledge
+    - otherworld
+    reason_existing_groups_insufficient: No existing group names externalized life
+      as the operative motif, though several are related.
+- suggestion_id: normalization.suggestion.external-soul-or-life-bound-to-another-object
+  motif_id: external_soul_or_life_bound_to_another_object
+  label: external soul or life bound to another object
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: External Soul and Life Token
+  relationship: narrower_than
+  confidence: high
+  rationale: Describes an object-bound variant of externalized life or soul.
+  cautions: Object identity may affect secondary indexing under sacred_vessel or sacred_treasures.
+  suggested_aliases:
+  - life bound to object
+  - soul bound to object
+  - external soul object
+  suggested_new_group:
+    id: external_soul_life_token
+    label: External Soul and Life Token
+    description: A figure's soul, life, death, or vulnerability is kept outside the
+      body in an object, animal, container, or hidden place, so harming or controlling
+      that external token affects the owner.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_vessel
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - forbidden_knowledge
+    - otherworld
+    reason_existing_groups_insufficient: The existing taxonomy lacks a group for life/soul
+      dependency on an external object.
+- suggestion_id: normalization.suggestion.external-soul-or-life-bound-to-external-object
+  motif_id: external_soul_or_life_bound_to_external_object
+  label: external soul or life bound to external object
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: External Soul and Life Token
+  relationship: alias
+  confidence: high
+  rationale: Near-duplicate of object-bound external soul/life wording.
+  cautions: Likely duplicate with 'external_soul_or_life_bound_to_another_object';
+    consolidate aliases during review.
+  suggested_aliases:
+  - external life bound to object
+  - external soul bound to object
+  - object-bound soul
+  suggested_new_group:
+    id: external_soul_life_token
+    label: External Soul and Life Token
+    description: A figure's soul, life, death, or vulnerability is kept outside the
+      body in an object, animal, container, or hidden place, so harming or controlling
+      that external token affects the owner.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_vessel
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - forbidden_knowledge
+    - otherworld
+    reason_existing_groups_insufficient: Sacred object groupings do not distinguish
+      an object that literally carries a being's life or soul.
+- suggestion_id: normalization.suggestion.external-soul-or-life-placed-outside-the-body
+  motif_id: external_soul_or_life_placed_outside_the_body
+  label: external soul or life placed outside the body
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: External Soul and Life Token
+  relationship: alias
+  confidence: high
+  rationale: General formulation of the externalized soul/life motif, with emphasis
+    on placement outside the body.
+  cautions: May not specify container or vulnerability; retain broad alias but verify
+    passage evidence.
+  suggested_aliases:
+  - life placed outside body
+  - soul placed outside body
+  - externalized life
+  suggested_new_group:
+    id: external_soul_life_token
+    label: External Soul and Life Token
+    description: A figure's soul, life, death, or vulnerability is kept outside the
+      body in an object, animal, container, or hidden place, so harming or controlling
+      that external token affects the owner.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_vessel
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - forbidden_knowledge
+    - otherworld
+    reason_existing_groups_insufficient: The specific externalization of life/soul
+      is not preserved by death_and_transformation alone.
+- suggestion_id: normalization.suggestion.external-soul-or-life-stored-outside-the-body
+  motif_id: external_soul_or_life_stored_outside_the_body
+  label: External soul or life stored outside the body
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: External Soul and Life Token
+  relationship: alias
+  confidence: high
+  rationale: Near-duplicate external soul/life-token wording, emphasizing storage
+    outside the body.
+  cautions: Review for duplicate collapse with the other external soul labels in this
+    batch.
+  suggested_aliases:
+  - life stored outside body
+  - stored external soul
+  - external life storage
+  suggested_new_group:
+    id: external_soul_life_token
+    label: External Soul and Life Token
+    description: A figure's soul, life, death, or vulnerability is kept outside the
+      body in an object, animal, container, or hidden place, so harming or controlling
+      that external token affects the owner.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_vessel
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - forbidden_knowledge
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups can capture containers or
+      death motifs, but not the recurring external soul/life-token structure.
+batch_notes:
+- All ten labels appear to be near-duplicate variants of the same comparative folklore
+  motif; consider consolidating into one alias cluster.
+- 'Recommended candidate group: external_soul_life_token, related to death_and_transformation
+  and object/container groups but not reducible to them.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should confirm recurrence
+    and whether this becomes a canonical motif group or alias cluster.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-28'
+batch:
+  run_id: normalization-suggestions-2026-04-28-unmapped-tiny
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-28-unmapped-tiny-batch-0010
+  input_sha256: d6fdb02012034da4720cebcc3a9f9169269e8a76a682ec62edc840b2d6381432
+
