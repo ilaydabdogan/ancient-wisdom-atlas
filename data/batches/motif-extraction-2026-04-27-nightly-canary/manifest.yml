@@ -1,0 +1,55 @@
+---
+batch_pipeline_manifest_version: '1'
+run_id: motif-extraction-2026-04-27-nightly-canary
+created_at: '2026-04-28T06:26:25Z'
+updated_at: '2026-04-28T06:26:26Z'
+artifacts:
+  passages_path: data/batches/motif-extraction-2026-04-27-nightly-canary/passages.jsonl
+  requests_index_path: data/batches/motif-extraction-2026-04-27-nightly-canary/requests/index.yml
+  request_map_path: data/batches/motif-extraction-2026-04-27-nightly-canary/request-map.jsonl
+openai: {}
+state: {}
+pipeline: motif_extraction
+status: requests_prepared
+config:
+  segmentation:
+    glob: texts/public-domain/**/*.md
+    text_paths: []
+    max_chars: 6000
+    min_chars: 500
+    limit: 20
+  motif_request_generation:
+    model: gpt-5.5
+    endpoint: "/v1/responses"
+    prompt_path: templates/batch-motif-extraction-prompt.md
+    max_output_tokens: 12000
+    temperature: 
+    reasoning_effort: medium
+    max_requests_per_shard: 20
+    max_bytes_per_shard: 188743680
+    skip_ingested_from_run_id: motif-extraction-2026-04-27-nightly-canary
+counts:
+  source_texts_segmented: 1
+  passages: 20
+  requests_prepared: 20
+  request_shards: 1
+  skipped_ingested_requests: 0
+source_texts:
+- path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  source_text_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy
+  tradition: jewish_christian
+  culture: ancient_israelite_later_biblical_reception
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    training_use: allowed
+    full_text: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  sha256: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+  passage_count: 39
+

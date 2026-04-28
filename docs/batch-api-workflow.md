@@ -175,6 +175,55 @@ extractions/generated/openai-batch/demo-motif-extraction/
 
 These records are marked `needs_review`; treat them as draft data until a human review pass promotes or edits them.
 
+## Overnight Motif Run
+
+Use the nightly runner when you want one command to prepare, submit, and watch a motif extraction run.
+
+Start with a canary. This prepares a tiny run and can submit it if `OPENAI_API_KEY` is set in the shell:
+
+```sh
+# Set OPENAI_API_KEY in your shell first; do not write it to a repo file.
+export OPENAI_BATCH_MODEL="gpt-5.5"
+export OPENAI_BATCH_REASONING_EFFORT="medium"
+
+ruby scripts/batch_nightly_run.rb \
+  --mode all \
+  --canary \
+  --max-output-tokens 12000 \
+  --poll-seconds 300 \
+  --max-polls 12
+```
+
+If the canary is accepted and completes cleanly, launch the larger overnight run:
+
+```sh
+ruby scripts/batch_nightly_run.rb \
+  --mode all \
+  --run-id motif-extraction-YYYY-MM-DD-nightly \
+  --model "$OPENAI_BATCH_MODEL" \
+  --reasoning-effort "$OPENAI_BATCH_REASONING_EFFORT" \
+  --max-output-tokens 12000 \
+  --max-requests-per-shard 500 \
+  --poll-seconds 900 \
+  --max-polls 96
+```
+
+If you want to prepare locally first without an API key:
+
+```sh
+ruby scripts/batch_nightly_run.rb \
+  --mode prepare \
+  --run-id motif-extraction-YYYY-MM-DD-nightly \
+  --max-output-tokens 12000
+```
+
+Then submit and watch later:
+
+```sh
+ruby scripts/batch_nightly_run.rb --mode submit --run-id motif-extraction-YYYY-MM-DD-nightly
+ruby scripts/batch_nightly_run.rb --mode watch --run-id motif-extraction-YYYY-MM-DD-nightly
+```
+
 ## Full Corpus Run
 
 For a larger run, omit `--limit` and tune shard sizes:

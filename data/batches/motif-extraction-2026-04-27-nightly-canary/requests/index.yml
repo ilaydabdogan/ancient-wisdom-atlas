@@ -1,0 +1,22 @@
+---
+batch_request_index_version: '1'
+run_id: motif-extraction-2026-04-27-nightly-canary
+created_at: '2026-04-28T06:26:26Z'
+updated_at: '2026-04-28T06:26:26Z'
+endpoint: "/v1/responses"
+model: gpt-5.5
+prompt_path: templates/batch-motif-extraction-prompt.md
+passages_path: data/batches/motif-extraction-2026-04-27-nightly-canary/passages.jsonl
+request_map_path: data/batches/motif-extraction-2026-04-27-nightly-canary/request-map.jsonl
+skip_ingested_from_run_id: motif-extraction-2026-04-27-nightly-canary
+skipped_ingested_count: 0
+shards:
+- shard_id: shard-0001
+  path: data/batches/motif-extraction-2026-04-27-nightly-canary/requests/shard-0001.jsonl
+  request_count: 20
+  bytes: 318833
+  sha256: bac1bde9dfa0151fb1bc7b9d18dba0ed13e31b6dff1194d90b49f7467ea7e671
+  endpoint: "/v1/responses"
+  model: gpt-5.5
+  status: prepared
+
