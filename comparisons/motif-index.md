@@ -16,14 +16,16 @@ rights:
 
 | Motif | Occurrences | Traditions |
 | --- | ---: | --- |
-| `wisdom` | 31 | buddhist (3), celtic_irish (1), confucian (2), daoist (2), hindu (9), islamic (1), jewish_christian (8), mesopotamian (4), norse (1) |
-| `divine_judgment` | 14 | egyptian (2), greek (3), hindu (1), islamic (2), jewish_christian (4), maya_quiche (2) |
-| `initiation` | 12 | buddhist (1), celtic_irish (1), confucian (1), egyptian (1), hindu (4), jewish_christian (1), maya_quiche (1), mesopotamian (1), persian (1) |
+| `wisdom` | 37 | buddhist (3), celtic_irish (1), confucian (6), daoist (2), hindu (9), islamic (3), jewish_christian (8), mesopotamian (4), norse (1) |
+| `divine_judgment` | 15 | egyptian (2), greek (3), hindu (1), islamic (3), jewish_christian (4), maya_quiche (2) |
+| `initiation` | 13 | buddhist (1), celtic_irish (2), confucian (1), egyptian (1), hindu (4), jewish_christian (1), maya_quiche (1), mesopotamian (1), persian (1) |
+| `covenant` | 9 | celtic_irish (1), hindu (1), islamic (1), jewish_christian (6) |
+| `sacred_exchange` | 9 | confucian (1), hindu (2), jewish_christian (4), persian (2) |
 | `sacrifice` | 9 | celtic_welsh (1), greek (1), hindu (3), jewish_christian (4) |
 | `death_rebirth` | 8 | celtic_welsh (1), egyptian (2), hindu (2), jewish_christian (1), maya_quiche (1), mesopotamian (1) |
-| `sacred_exchange` | 8 | hindu (2), jewish_christian (4), persian (2) |
-| `covenant` | 7 | hindu (1), jewish_christian (6) |
 | `chaos` | 6 | finnish_karelian (1), greek (1), jewish_christian (1), maya_quiche (1), norse (1), persian (1) |
+| `miraculous_child` | 6 | islamic (3), persian (3) |
+| `royal_legitimacy` | 5 | celtic_welsh (1), confucian (2), hindu (1), jewish_christian (1) |
 | `world_center` | 5 | finnish_karelian (1), jewish_christian (3), norse (1) |
 | `ascent` | 4 | egyptian (1), jewish_christian (3) |
 | `departure` | 4 | celtic_irish (1), jewish_christian (1), norse (1), persian (1) |
@@ -32,9 +34,8 @@ rights:
 | `sacred_tree_axis` | 4 | jewish_christian (3), norse (1) |
 | `culture_hero` | 3 | finnish_karelian (1), greek (1), mesopotamian (1) |
 | `hero_descent` | 3 | egyptian (1), jewish_christian (1), maya_quiche (1) |
-| `miraculous_child` | 3 | persian (3) |
 | `return` | 3 | celtic_irish (1), celtic_welsh (1), persian (1) |
-| `royal_legitimacy` | 3 | celtic_welsh (1), hindu (1), jewish_christian (1) |
+| `sacred_birth` | 3 | islamic (2), persian (1) |
 | `trickster_boundary` | 3 | greek (1), maya_quiche (1), norse (1) |
 | `ark_vessel` | 2 | celtic_welsh (1), jewish_christian (1) |
 | `atonement_rite` | 2 | jewish_christian (2) |
@@ -50,6 +51,7 @@ rights:
 | `blood_as_life` | 1 | jewish_christian (1) |
 | `body_as_landscape_shaper` | 1 | finnish_karelian (1) |
 | `broken_and_renewed_covenant` | 1 | jewish_christian (1) |
+| `cattle_raid_catalyst` | 1 | celtic_irish (1) |
 | `cloud_fire_guidance` | 1 | jewish_christian (1) |
 | `cosmic_origin` | 1 | daoist (1) |
 | `cosmic_witness` | 1 | islamic (1) |
@@ -62,8 +64,11 @@ rights:
 | `ethical_command` | 1 | jewish_christian (1) |
 | `ethical_rule_by_virtue` | 1 | confucian (1) |
 | `failed_creation` | 1 | finnish_karelian (1) |
+| `failed_negotiated_exchange` | 1 | celtic_irish (1) |
 | `fate_lament` | 1 | greek (1) |
+| `gentle_remonstrance_within_hierarchy` | 1 | confucian (1) |
 | `healing_sign` | 1 | jewish_christian (1) |
+| `heroic_childhood_signs` | 1 | celtic_irish (1) |
 | `holiness_code` | 1 | jewish_christian (1) |
 | `household_reversal` | 1 | maya_quiche (1) |
 | `idol` | 1 | jewish_christian (1) |
@@ -72,6 +77,7 @@ rights:
 | `liberator_threatened_by_captive` | 1 | islamicate_folklore (1) |
 | `magical_animal_boundary` | 1 | celtic_welsh (1) |
 | `magical_animal_mount` | 1 | celtic_irish (1) |
+| `miraculous_birth_under_palm` | 1 | islamic (1) |
 | `moral_consequence_following_action` | 1 | buddhist (1) |
 | `non_action` | 1 | daoist (1) |
 | `otherworld_exchange` | 1 | celtic_welsh (1) |
@@ -81,12 +87,12 @@ rights:
 | `prophet_call_under_opposition` | 1 | islamic (1) |
 | `protective_mark` | 1 | jewish_christian (1) |
 | `reciprocity_as_ethical_command` | 1 | confucian (1) |
+| `refused_homage_to_created_human` | 1 | islamic (1) |
 | `revelation_as_recitation` | 1 | islamic (1) |
 | `ritual_prohibition` | 1 | jewish_christian (1) |
 | `ritual_transfer` | 1 | jewish_christian (1) |
 | `ritualized_release` | 1 | jewish_christian (1) |
 | `sabbath_cycle` | 1 | jewish_christian (1) |
-| `sacred_birth` | 1 | persian (1) |
 | `sacred_cauldron` | 1 | celtic_irish (1) |
 | `sacred_mountain` | 1 | jewish_christian (1) |
 | `sacred_theft` | 1 | greek (1) |
@@ -104,13 +110,14 @@ rights:
 | `warrior_duty_under_crisis` | 1 | hindu (1) |
 | `warrior_honor_and_burial` | 1 | greek (1) |
 | `waters_divided` | 1 | jewish_christian (1) |
+| `wealth_contest_between_rulers` | 1 | celtic_irish (1) |
 | `wit_overwhelms_supernatural_force` | 1 | islamicate_folklore (1) |
 | `world_egg` | 1 | finnish_karelian (1) |
 
 ## Wisdom
 
 - Motif id: `wisdom`
-- Occurrences: 31
+- Occurrences: 37
 - Traditions: buddhist, celtic_irish, confucian, daoist, hindu, islamic, jewish_christian, mesopotamian, norse
 
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
@@ -121,6 +128,10 @@ rights:
 | celtic_irish | [Gods and Fighting Men](../texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md) | Part One, Book One, Chapter I: The Fight with the Firbolgs; Tuatha de Danaan arrival and four treasures | wisdom_from_origin_cities | medium | [record](../extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-tuatha-four-treasures.yml) |
 | confucian | [The Analects of Confucius](../texts/public-domain/confucian/project-gutenberg/analects-legge.md) | Book II, Chs. I-IV | wisdom through lifelong cultivation | medium | [record](../extractions/confucian/project-gutenberg/analects/analects-virtue-governance-learning.yml) |
 | confucian | [The Analects of Confucius](../texts/public-domain/confucian/project-gutenberg/analects-legge.md) | Book XV, Ch. XXIII | condensed wisdom saying | high | [record](../extractions/confucian/project-gutenberg/analects/analects-reciprocity-life-rule.yml) |
+| confucian | [The Sayings of Confucius](../texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md) | Government and Public Affairs | moral center of rule | high | [record](../extractions/confucian/project-gutenberg/sayings-of-confucius/sayings-of-confucius-government-pole-star-rectification.yml) |
+| confucian | [The Sayings of Confucius](../texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md) | Government and Public Affairs | rectification through speech | high | [record](../extractions/confucian/project-gutenberg/sayings-of-confucius/sayings-of-confucius-government-pole-star-rectification.yml) |
+| confucian | [The Sayings of Confucius](../texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md) | Individual Virtue | reverent filial duty | high | [record](../extractions/confucian/project-gutenberg/sayings-of-confucius/sayings-of-confucius-filial-piety-reverence.yml) |
+| confucian | [The Sayings of Confucius](../texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md) | Individual Virtue | inward spirit over outward display | high | [record](../extractions/confucian/project-gutenberg/sayings-of-confucius/sayings-of-confucius-filial-piety-reverence.yml) |
 | daoist | [The Tao Teh King, or the Tao and its Characteristics](../texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md) | Tao Teh King, Ch. 1.1-4 | hidden mystery as source-gate | medium | [record](../extractions/daoist/project-gutenberg/tao-teh-king/tao-teh-king-origin-mother-mystery.yml) |
 | daoist | [The Tao Teh King, or the Tao and its Characteristics](../texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md) | Tao Teh King, Ch. 43.1-2 | teaching without words | medium | [record](../extractions/daoist/project-gutenberg/tao-teh-king/tao-teh-king-soft-overcomes-hard-non-action.yml) |
 | hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) | Draupadi in the Council Hall; Draupadi's Plaint; Insult and Vow of Revenge | dharma challenged in royal assembly | high | [record](../extractions/hindu/project-gutenberg/mahabharata/mahabharata-draupadi-council-hall.yml) |
@@ -128,10 +139,12 @@ rights:
 | hindu | [The Song Celestial; Or, Bhagavad-Gita](../texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md) | CHAPTER II | deathless_life_teaching | medium | [record](../extractions/hindu/project-gutenberg/bhagavad-gita/bhagavad-gita-battlefield-duty.yml) |
 | hindu | [The Song Celestial; Or, Bhagavad-Gita](../texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md) | CHAPTER II | battlefield_revelation | medium | [record](../extractions/hindu/project-gutenberg/bhagavad-gita/bhagavad-gita-battlefield-duty.yml) |
 | hindu | [The Song Celestial; Or, Bhagavad-Gita](../texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md) | CHAPTER XI | cosmic_vision | medium | [record](../extractions/hindu/project-gutenberg/bhagavad-gita/bhagavad-gita-cosmic-vision.yml) |
-| hindu | [The Upanishads](../texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md) | Katha-Upanishad, Part First VII-Part Second IV | death-question wisdom | medium | [record](../extractions/hindu/project-gutenberg/upanishads/upanishads-nachiketas-death-teacher.yml) |
 | hindu | [The Upanishads](../texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md) | Katha-Upanishad, Part First VII-Part Second IV | initiation by death teacher | high | [record](../extractions/hindu/project-gutenberg/upanishads/upanishads-nachiketas-death-teacher.yml) |
-| hindu | [The Upanishads](../texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md) | Katha-Upanishad, Part Second XVIII-XXIII; Part Sixth XVIII | deathless self wisdom | high | [record](../extractions/hindu/project-gutenberg/upanishads/upanishads-self-deathless-wisdom.yml) |
+| hindu | [The Upanishads](../texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md) | Katha-Upanishad, Part First VII-Part Second IV | death-question wisdom | medium | [record](../extractions/hindu/project-gutenberg/upanishads/upanishads-nachiketas-death-teacher.yml) |
 | hindu | [The Upanishads](../texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md) | Katha-Upanishad, Part Second XVIII-XXIII; Part Sixth XVIII | liberation through death-taught knowledge | high | [record](../extractions/hindu/project-gutenberg/upanishads/upanishads-self-deathless-wisdom.yml) |
+| hindu | [The Upanishads](../texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md) | Katha-Upanishad, Part Second XVIII-XXIII; Part Sixth XVIII | deathless self wisdom | high | [record](../extractions/hindu/project-gutenberg/upanishads/upanishads-self-deathless-wisdom.yml) |
+| islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) | 19. Entitled, Mary; annunciation, palm-tree birth, and infant speech | speaking_infant_in_cradle | high | [record](../extractions/islamic/project-gutenberg/koran-sale/koran-sale-mary-gabriel-palm-infant-jesus.yml) |
+| islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) | 2. Entitled, The Cow; Adam taught the names, homage, and descent | divinely_taught_names | high | [record](../extractions/islamic/project-gutenberg/koran-sale/koran-sale-adam-names-eblis-garden-direction.yml) |
 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-rodwell.md) | SURA XCVI, Thick Blood, or Clots of Blood | divine_teaching_by_writing | medium | [record](../extractions/islamic/project-gutenberg/koran/koran-rodwell-recitation-created-man.yml) |
 | jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 29:1-15 | wisdom | low | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-covenant-renewal-moab.yml) |
 | jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 31:9-13; 31:19-22; 31:24-30 | wisdom | medium | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-memory-teaching-witness.yml) |
@@ -150,7 +163,7 @@ rights:
 ## Divine Judgment
 
 - Motif id: `divine_judgment`
-- Occurrences: 14
+- Occurrences: 15
 - Traditions: egyptian, greek, hindu, islamic, jewish_christian, maya_quiche
 
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
@@ -158,9 +171,10 @@ rights:
 | egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER VII, The Judgment of Osiris; Chapter CXXV and Papyrus of Ani judgment vignette | divine_judgment | high | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-judgment-heart-maati.yml) |
 | egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER VII, The Judgment of Osiris; Chapter CXXV and Papyrus of Ani judgment vignette | weighing_of_heart | high | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-judgment-heart-maati.yml) |
 | greek | [Hesiod, the Homeric Hymns, and Homerica](../texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md) | Theogony ll. 507-616 | divine retaliation for transgression | medium | [record](../extractions/greek/project-gutenberg/hesiod-homeric-hymns/theogony-prometheus-fire-theft.yml) |
-| greek | [The Iliad](../texts/public-domain/greek/project-gutenberg/iliad-pope.md) | BOOK I, The Contention of Achilles and Agamemnon | divine_judgment | medium | [record](../extractions/greek/project-gutenberg/iliad/iliad-pope-apollo-plague-divine-vengeance.yml) |
 | greek | [The Iliad](../texts/public-domain/greek/project-gutenberg/iliad-pope.md) | BOOK I, The Contention of Achilles and Agamemnon | plague_as_sacred_retribution | medium | [record](../extractions/greek/project-gutenberg/iliad/iliad-pope-apollo-plague-divine-vengeance.yml) |
+| greek | [The Iliad](../texts/public-domain/greek/project-gutenberg/iliad-pope.md) | BOOK I, The Contention of Achilles and Agamemnon | divine_judgment | medium | [record](../extractions/greek/project-gutenberg/iliad/iliad-pope-apollo-plague-divine-vengeance.yml) |
 | hindu | [The Song Celestial; Or, Bhagavad-Gita](../texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md) | CHAPTER XI | divine_time_and_battlefield_doom | medium | [record](../extractions/hindu/project-gutenberg/bhagavad-gita/bhagavad-gita-cosmic-vision.yml) |
+| islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) | 2. Entitled, The Cow; Adam taught the names, homage, and descent | garden_fall_with_guidance | high | [record](../extractions/islamic/project-gutenberg/koran-sale/koran-sale-adam-names-eblis-garden-direction.yml) |
 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-rodwell.md) | SURA XCIX, The Earthquake | divine_judgment | high | [record](../extractions/islamic/project-gutenberg/koran/koran-rodwell-earthquake-works-judgment.yml) |
 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-rodwell.md) | SURA XCIX, The Earthquake | deeds_weighed_or_measured | medium | [record](../extractions/islamic/project-gutenberg/koran/koran-rodwell-earthquake-works-judgment.yml) |
 | jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 30:15-20 | divine_judgment | medium | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-blessing-curse-choice.yml) |
@@ -173,13 +187,14 @@ rights:
 ## Initiation
 
 - Motif id: `initiation`
-- Occurrences: 12
+- Occurrences: 13
 - Traditions: buddhist, celtic_irish, confucian, egyptian, hindu, jewish_christian, maya_quiche, mesopotamian, persian
 
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
 | buddhist | [Dhammapada, a Collection of Verses](../texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md) | Chapter XX. The Way, verses 273-276 | path to awakening and release | medium | [record](../extractions/buddhist/project-gutenberg/dhammapada/dhammapada-eightfold-way-self-effort.yml) |
 | celtic_irish | [Gods and Fighting Men](../texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md) | Book Eleven, Chapter I: Oisin's Story; journey to and return from the Country of the Young | departure_to_transformed_realm | medium | [record](../extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-oisin-country-of-young.yml) |
+| celtic_irish | [The Ancient Irish Epic Tale Tain Bo Cualnge](../texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md) | Culann's feast, the slaughter-hound, Setanta's vow, and the naming of Cuchulain | threshold_ordeal_with_new_name | high | [record](../extractions/celtic-irish/project-gutenberg/tain-bo-cualnge/tain-bo-cualnge-setanta-cuchulain-naming.yml) |
 | confucian | [The Analects of Confucius](../texts/public-domain/confucian/project-gutenberg/analects-legge.md) | Book II, Chs. I-IV | wisdom through lifelong cultivation | medium | [record](../extractions/confucian/project-gutenberg/analects/analects-virtue-governance-learning.yml) |
 | egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII, and CLV-CLXVII | afterlife_passage_by_names | medium | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml) |
 | hindu | [The Song Celestial; Or, Bhagavad-Gita](../texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md) | CHAPTER II | battlefield_revelation | medium | [record](../extractions/hindu/project-gutenberg/bhagavad-gita/bhagavad-gita-battlefield-duty.yml) |
@@ -190,6 +205,42 @@ rights:
 | maya_quiche | [The Popol Vuh](../texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md) | The Second Book, Hero Twins in Xibalba | underworld_trial | high | [record](../extractions/mesoamerican/project-gutenberg/popol-vuh/popol-vuh-hero-twins-xibalba-trials.yml) |
 | mesopotamian | [An Old Babylonian Version of the Gilgamesh Epic](../texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md) | PENNSYLVANIA TABLET, TRANSLATION, Col. I-Col. III | civilization_boundary_initiation | high | [record](../extractions/mesopotamian/project-gutenberg/gilgamesh/gilgamesh-enkidu-dream-civilization-boundary.yml) |
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Birth of Rustem; Simurgh aid, prodigious growth, and the white elephant feat | first_beast_slaying_as_initiation | medium | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml) |
+
+## Covenant
+
+- Motif id: `covenant`
+- Occurrences: 9
+- Traditions: celtic_irish, hindu, islamic, jewish_christian
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| celtic_irish | [The Ancient Irish Epic Tale Tain Bo Cualnge](../texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md) | Culann's feast, the slaughter-hound, Setanta's vow, and the naming of Cuchulain | reparation_vow_of_service | medium | [record](../extractions/celtic-irish/project-gutenberg/tain-bo-cualnge/tain-bo-cualnge-setanta-cuchulain-naming.yml) |
+| hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) | Fall of Bhishma | oath-bounded defeat | high | [record](../extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml) |
+| islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) | 2. Entitled, The Cow; Adam taught the names, homage, and descent | post_descent_covenant_reminder | medium | [record](../extractions/islamic/project-gutenberg/koran-sale/koran-sale-adam-names-eblis-garden-direction.yml) |
+| jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 29:1-15 | covenant | medium | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-covenant-renewal-moab.yml) |
+| jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 30:15-20 | covenant | medium | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-blessing-curse-choice.yml) |
+| jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 31:9-13; 31:19-22; 31:24-30 | covenant | medium | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-memory-teaching-witness.yml) |
+| jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 4:9-14 | covenant | medium | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-sacred-mountain-law.yml) |
+| jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 19:1-20; 24:3-18 | covenant | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-sinai-covenant-ascent.yml) |
+| jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 8:20-22; 9:8-17 | covenant | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-sacrifice-covenant.yml) |
+
+## Sacred Exchange
+
+- Motif id: `sacred_exchange`
+- Occurrences: 9
+- Traditions: confucian, hindu, jewish_christian, persian
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| confucian | [The Sayings of Confucius](../texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md) | Individual Virtue | reverent filial duty | high | [record](../extractions/confucian/project-gutenberg/sayings-of-confucius/sayings-of-confucius-filial-piety-reverence.yml) |
+| hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) | Draupadi in the Council Hall; Draupadi's Plaint; Insult and Vow of Revenge | corrupt sacred exchange | medium | [record](../extractions/hindu/project-gutenberg/mahabharata/mahabharata-draupadi-council-hall.yml) |
+| hindu | [The Upanishads](../texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md) | Katha-Upanishad, Part First VII-Part Second IV | sacred guest exchange | medium | [record](../extractions/hindu/project-gutenberg/upanishads/upanishads-nachiketas-death-teacher.yml) |
+| jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 29:1-15 | sacred_exchange | medium | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-covenant-renewal-moab.yml) |
+| jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 30:15-20 | sacred_exchange | medium | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-blessing-curse-choice.yml) |
+| jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 31:9-13; 31:19-22; 31:24-30 | sacred_exchange | low | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-memory-teaching-witness.yml) |
+| jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 8:20-22; 9:8-17 | sacred_exchange | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-sacrifice-covenant.yml) |
+| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Birth of Rustem; Simurgh aid, prodigious growth, and the white elephant feat | sacred_birth_aided_by_guardian | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml) |
+| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and return | rescue_feather_token | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml) |
 
 ## Sacrifice
 
@@ -226,39 +277,6 @@ rights:
 | maya_quiche | [The Popol Vuh](../texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md) | The Second Book, Hero Twins in Xibalba | death_rebirth | high | [record](../extractions/mesoamerican/project-gutenberg/popol-vuh/popol-vuh-hero-twins-xibalba-trials.yml) |
 | mesopotamian | [An Old Babylonian Version of the Gilgamesh Epic](../texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md) | INTRODUCTION I, Meissner fragment / Sabitum address | impossible_immortality_quest | high | [record](../extractions/mesopotamian/project-gutenberg/gilgamesh/gilgamesh-sabitum-mortality-quest.yml) |
 
-## Sacred Exchange
-
-- Motif id: `sacred_exchange`
-- Occurrences: 8
-- Traditions: hindu, jewish_christian, persian
-
-| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
-| --- | --- | --- | --- | --- | --- |
-| hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) | Draupadi in the Council Hall; Draupadi's Plaint; Insult and Vow of Revenge | corrupt sacred exchange | medium | [record](../extractions/hindu/project-gutenberg/mahabharata/mahabharata-draupadi-council-hall.yml) |
-| hindu | [The Upanishads](../texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md) | Katha-Upanishad, Part First VII-Part Second IV | sacred guest exchange | medium | [record](../extractions/hindu/project-gutenberg/upanishads/upanishads-nachiketas-death-teacher.yml) |
-| jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 29:1-15 | sacred_exchange | medium | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-covenant-renewal-moab.yml) |
-| jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 30:15-20 | sacred_exchange | medium | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-blessing-curse-choice.yml) |
-| jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 31:9-13; 31:19-22; 31:24-30 | sacred_exchange | low | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-memory-teaching-witness.yml) |
-| jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 8:20-22; 9:8-17 | sacred_exchange | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-sacrifice-covenant.yml) |
-| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Birth of Rustem; Simurgh aid, prodigious growth, and the white elephant feat | sacred_birth_aided_by_guardian | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml) |
-| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and return | rescue_feather_token | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml) |
-
-## Covenant
-
-- Motif id: `covenant`
-- Occurrences: 7
-- Traditions: hindu, jewish_christian
-
-| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
-| --- | --- | --- | --- | --- | --- |
-| hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) | Fall of Bhishma | oath-bounded defeat | high | [record](../extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml) |
-| jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 29:1-15 | covenant | medium | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-covenant-renewal-moab.yml) |
-| jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 30:15-20 | covenant | medium | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-blessing-curse-choice.yml) |
-| jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 31:9-13; 31:19-22; 31:24-30 | covenant | medium | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-memory-teaching-witness.yml) |
-| jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 4:9-14 | covenant | medium | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-sacred-mountain-law.yml) |
-| jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 19:1-20; 24:3-18 | covenant | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-sinai-covenant-ascent.yml) |
-| jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 8:20-22; 9:8-17 | covenant | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-sacrifice-covenant.yml) |
-
 ## Chaos
 
 - Motif id: `chaos`
@@ -273,6 +291,35 @@ rights:
 | maya_quiche | [The Popol Vuh](../texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md) | The First Book, wooden mannikins | cosmic_origin | medium | [record](../extractions/mesoamerican/project-gutenberg/popol-vuh/popol-vuh-wooden-mannikins-failed-creation.yml) |
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | Voluspo 1-6 | chaos_before_order | high | [record](../extractions/norse/project-gutenberg/poetic-edda/voluspo-yggdrasil-cosmic-origins.yml) |
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Birth of Rustem; Simurgh aid, prodigious growth, and the white elephant feat | first_beast_slaying_as_initiation | medium | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml) |
+
+## Miraculous Child
+
+- Motif id: `miraculous_child`
+- Occurrences: 6
+- Traditions: islamic, persian
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) | 19. Entitled, Mary; annunciation, palm-tree birth, and infant speech | annunciation_of_holy_son | high | [record](../extractions/islamic/project-gutenberg/koran-sale/koran-sale-mary-gabriel-palm-infant-jesus.yml) |
+| islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) | 19. Entitled, Mary; annunciation, palm-tree birth, and infant speech | speaking_infant_in_cradle | high | [record](../extractions/islamic/project-gutenberg/koran-sale/koran-sale-mary-gabriel-palm-infant-jesus.yml) |
+| islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) | 19. Entitled, Mary; annunciation, palm-tree birth, and infant speech | son_of_mary_as_sign_and_mercy | medium | [record](../extractions/islamic/project-gutenberg/koran-sale/koran-sale-mary-gabriel-palm-infant-jesus.yml) |
+| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Birth of Rustem; Simurgh aid, prodigious growth, and the white elephant feat | sacred_birth_aided_by_guardian | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml) |
+| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Birth of Rustem; Simurgh aid, prodigious growth, and the white elephant feat | precocious_hero_growth | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml) |
+| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and return | exposed_child_protected_by_wonder_bird | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml) |
+
+## Royal Legitimacy
+
+- Motif id: `royal_legitimacy`
+- Occurrences: 5
+- Traditions: celtic_welsh, confucian, hindu, jewish_christian
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) | Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn | return_with_new_status | medium | [record](../extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-pwyll-annwvyn-exchange.yml) |
+| confucian | [The Sayings of Confucius](../texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md) | Government and Public Affairs | moral center of rule | high | [record](../extractions/confucian/project-gutenberg/sayings-of-confucius/sayings-of-confucius-government-pole-star-rectification.yml) |
+| confucian | [The Sayings of Confucius](../texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md) | Government and Public Affairs | public trust above force | high | [record](../extractions/confucian/project-gutenberg/sayings-of-confucius/sayings-of-confucius-government-pole-star-rectification.yml) |
+| hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) | Draupadi in the Council Hall; Draupadi's Plaint; Insult and Vow of Revenge | dharma challenged in royal assembly | high | [record](../extractions/hindu/project-gutenberg/mahabharata/mahabharata-draupadi-council-hall.yml) |
+| jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 22:21-35; 23:1-12; 24:1-17 | royal_legitimacy | low | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-balaam-donkey-oracle.yml) |
 
 ## World Center
 
@@ -377,18 +424,6 @@ rights:
 | jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 16:1-50 | descent_to_sheol | low | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-korah-rebellion-judgment.yml) |
 | maya_quiche | [The Popol Vuh](../texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md) | The Second Book, Hero Twins in Xibalba | underworld_trial | high | [record](../extractions/mesoamerican/project-gutenberg/popol-vuh/popol-vuh-hero-twins-xibalba-trials.yml) |
 
-## Miraculous Child
-
-- Motif id: `miraculous_child`
-- Occurrences: 3
-- Traditions: persian
-
-| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
-| --- | --- | --- | --- | --- | --- |
-| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Birth of Rustem; Simurgh aid, prodigious growth, and the white elephant feat | sacred_birth_aided_by_guardian | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml) |
-| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Birth of Rustem; Simurgh aid, prodigious growth, and the white elephant feat | precocious_hero_growth | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml) |
-| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and return | exposed_child_protected_by_wonder_bird | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml) |
-
 ## Return
 
 - Motif id: `return`
@@ -401,17 +436,17 @@ rights:
 | celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) | Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn | return_with_new_status | medium | [record](../extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-pwyll-annwvyn-exchange.yml) |
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and return | mountain_fosterage_and_return | medium | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml) |
 
-## Royal Legitimacy
+## Sacred Birth
 
-- Motif id: `royal_legitimacy`
+- Motif id: `sacred_birth`
 - Occurrences: 3
-- Traditions: celtic_welsh, hindu, jewish_christian
+- Traditions: islamic, persian
 
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
-| celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) | Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn | return_with_new_status | medium | [record](../extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-pwyll-annwvyn-exchange.yml) |
-| hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) | Draupadi in the Council Hall; Draupadi's Plaint; Insult and Vow of Revenge | dharma challenged in royal assembly | high | [record](../extractions/hindu/project-gutenberg/mahabharata/mahabharata-draupadi-council-hall.yml) |
-| jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 22:21-35; 23:1-12; 24:1-17 | royal_legitimacy | low | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-balaam-donkey-oracle.yml) |
+| islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) | 19. Entitled, Mary; annunciation, palm-tree birth, and infant speech | annunciation_of_holy_son | high | [record](../extractions/islamic/project-gutenberg/koran-sale/koran-sale-mary-gabriel-palm-infant-jesus.yml) |
+| islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) | 19. Entitled, Mary; annunciation, palm-tree birth, and infant speech | son_of_mary_as_sign_and_mercy | medium | [record](../extractions/islamic/project-gutenberg/koran-sale/koran-sale-mary-gabriel-palm-infant-jesus.yml) |
+| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Birth of Rustem; Simurgh aid, prodigious growth, and the white elephant feat | sacred_birth_aided_by_guardian | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml) |
 
 ## Trickster At The Boundary
 
@@ -575,6 +610,16 @@ rights:
 | --- | --- | --- | --- | --- | --- |
 | jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 32:1-20; 34:1-10; 40:17-38 | broken_and_renewed_covenant | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-golden-calf-tabernacle.yml) |
 
+## Cattle Raid Catalyst
+
+- Motif id: `cattle_raid_catalyst`
+- Occurrences: 1
+- Traditions: celtic_irish
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| celtic_irish | [The Ancient Irish Epic Tale Tain Bo Cualnge](../texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md) | Pillow-talk, wealth comparison, Brown Bull embassy, and Medb's resolve | cattle_raid_catalyst | high | [record](../extractions/celtic-irish/project-gutenberg/tain-bo-cualnge/tain-bo-cualnge-medb-bull-raid-catalyst.yml) |
+
 ## Cloud Fire Guidance
 
 - Motif id: `cloud_fire_guidance`
@@ -695,6 +740,16 @@ rights:
 | --- | --- | --- | --- | --- | --- |
 | finnish_karelian | [Kalevala: The Epic Poem of Finland](../texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md) | Rune X, Ilmarinen forges the Sampo | failed_creation | high | [record](../extractions/finnish-karelian/project-gutenberg/kalevala/kalevala-ilmarinen-forges-sampo.yml) |
 
+## Failed Negotiated Exchange
+
+- Motif id: `failed_negotiated_exchange`
+- Occurrences: 1
+- Traditions: celtic_irish
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| celtic_irish | [The Ancient Irish Epic Tale Tain Bo Cualnge](../texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md) | Pillow-talk, wealth comparison, Brown Bull embassy, and Medb's resolve | failed_negotiated_exchange | high | [record](../extractions/celtic-irish/project-gutenberg/tain-bo-cualnge/tain-bo-cualnge-medb-bull-raid-catalyst.yml) |
+
 ## Fate Lament
 
 - Motif id: `fate_lament`
@@ -705,6 +760,16 @@ rights:
 | --- | --- | --- | --- | --- | --- |
 | greek | [The Iliad](../texts/public-domain/greek/project-gutenberg/iliad-pope.md) | BOOK XXII, The Death of Hector | fate_lament | high | [record](../extractions/greek/project-gutenberg/iliad/iliad-pope-hector-fate-lament-death.yml) |
 
+## Gentle Remonstrance Within Hierarchy
+
+- Motif id: `gentle_remonstrance_within_hierarchy`
+- Occurrences: 1
+- Traditions: confucian
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| confucian | [The Sayings of Confucius](../texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md) | Individual Virtue | gentle remonstrance within hierarchy | medium | [record](../extractions/confucian/project-gutenberg/sayings-of-confucius/sayings-of-confucius-filial-piety-reverence.yml) |
+
 ## Healing Sign
 
 - Motif id: `healing_sign`
@@ -714,6 +779,16 @@ rights:
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
 | jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 21:4-9 | healing_sign | medium | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-bronze-serpent.yml) |
+
+## Heroic Childhood Signs
+
+- Motif id: `heroic_childhood_signs`
+- Occurrences: 1
+- Traditions: celtic_irish
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| celtic_irish | [The Ancient Irish Epic Tale Tain Bo Cualnge](../texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md) | Culann's feast, the slaughter-hound, Setanta's vow, and the naming of Cuchulain | heroic_childhood_signs | medium | [record](../extractions/celtic-irish/project-gutenberg/tain-bo-cualnge/tain-bo-cualnge-setanta-cuchulain-naming.yml) |
 
 ## Holiness Code
 
@@ -794,6 +869,16 @@ rights:
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
 | celtic_irish | [Gods and Fighting Men](../texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md) | Book Eleven, Chapter I: Oisin's Story; journey to and return from the Country of the Young | magical_animal_mount | medium | [record](../extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-oisin-country-of-young.yml) |
+
+## Miraculous Birth Under Palm
+
+- Motif id: `miraculous_birth_under_palm`
+- Occurrences: 1
+- Traditions: islamic
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) | 19. Entitled, Mary; annunciation, palm-tree birth, and infant speech | miraculous_birth_under_palm | high | [record](../extractions/islamic/project-gutenberg/koran-sale/koran-sale-mary-gabriel-palm-infant-jesus.yml) |
 
 ## Moral Consequence Following Action
 
@@ -885,6 +970,16 @@ rights:
 | --- | --- | --- | --- | --- | --- |
 | confucian | [The Analects of Confucius](../texts/public-domain/confucian/project-gutenberg/analects-legge.md) | Book XV, Ch. XXIII | reciprocity as ethical command | high | [record](../extractions/confucian/project-gutenberg/analects/analects-reciprocity-life-rule.yml) |
 
+## Refused Homage To Created Human
+
+- Motif id: `refused_homage_to_created_human`
+- Occurrences: 1
+- Traditions: islamic
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) | 2. Entitled, The Cow; Adam taught the names, homage, and descent | refused_homage_to_created_human | high | [record](../extractions/islamic/project-gutenberg/koran-sale/koran-sale-adam-names-eblis-garden-direction.yml) |
+
 ## Revelation As Recitation
 
 - Motif id: `revelation_as_recitation`
@@ -934,16 +1029,6 @@ rights:
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
 | jewish_christian | [Leviticus](../texts/public-domain/biblical/world-english-bible-classic/leviticus.md) | Leviticus 25:2-13 | sabbath_cycle | medium | [record](../extractions/biblical/world-english-bible-classic/leviticus/leviticus-sabbath-jubilee.yml) |
-
-## Sacred Birth
-
-- Motif id: `sacred_birth`
-- Occurrences: 1
-- Traditions: persian
-
-| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
-| --- | --- | --- | --- | --- | --- |
-| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Birth of Rustem; Simurgh aid, prodigious growth, and the white elephant feat | sacred_birth_aided_by_guardian | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml) |
 
 ## Sacred Cauldron
 
@@ -1114,6 +1199,16 @@ rights:
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
 | jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 14:13-31 | waters_divided | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-sea-crossing.yml) |
+
+## Wealth Contest Between Rulers
+
+- Motif id: `wealth_contest_between_rulers`
+- Occurrences: 1
+- Traditions: celtic_irish
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| celtic_irish | [The Ancient Irish Epic Tale Tain Bo Cualnge](../texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md) | Pillow-talk, wealth comparison, Brown Bull embassy, and Medb's resolve | wealth_contest_between_rulers | medium | [record](../extractions/celtic-irish/project-gutenberg/tain-bo-cualnge/tain-bo-cualnge-medb-bull-raid-catalyst.yml) |
 
 ## Wit Overwhelms Supernatural Force
 

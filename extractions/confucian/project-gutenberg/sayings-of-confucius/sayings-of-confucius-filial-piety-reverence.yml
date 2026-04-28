@@ -1,0 +1,353 @@
+---
+record_id: extraction.sayings_of_confucius.filial_piety_reverence
+source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+passage_locator:
+  label: Individual Virtue
+  start: 1170
+  end: 1245
+  translation: Lionel Giles, Project Gutenberg eBook #46389
+  notes: Line numbers refer to the repository markdown source for Giles's selected
+    translation of the Confucian Analects.
+canonical_text:
+  summary: >-
+    The Master explains that filial piety is more than material support. It
+    requires reverence in service, proper rites in burial and sacrifice, gentle
+    remonstrance toward parents, and a broader life shaped by charity, ritual
+    simplicity, and steady moral seriousness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: Filial piety is defined as serving parents in the proper spirit, burying
+      them with the proper rites, and worshipping them with proper sacrifices.
+    category: teaching
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: Filial care is said to involve sparing parents anxiety and not reducing
+      duty to bare maintenance.
+    category: teaching
+    evidence_refs:
+      - ev:2
+      - ev:3
+  - id: obs:3
+    text: Without reverence, material support is no better than feeding dogs and
+      horses.
+    category: comparison
+    evidence_refs:
+      - ev:3
+  - id: obs:4
+    text: Ritual and mourning are judged by inward simplicity and heartfelt sorrow
+      rather than display.
+    category: ritual_teaching
+    evidence_refs:
+      - ev:4
+  - id: obs:5
+    text: The gentleman remains courteous even in rivalry and is marked by charity,
+      duty, and a stable path of virtue.
+    category: ethical_teaching
+    evidence_refs:
+      - ev:5
+      - ev:6
+  - id: obs:6
+    text: A son may remonstrate gently with parents, continue respectfully if ignored,
+      and keep their age in mind with both joy and alarm.
+    category: conduct
+    evidence_refs:
+      - ev:7
+figures:
+  - id: fig:1
+    name_or_label: The Master
+    description: Confucius as teacher of filial devotion, ritual measure, charity,
+      and the conduct of the gentleman.
+    role_refs:
+      - role:1
+    evidence_refs:
+      - ev:1
+      - ev:3
+      - ev:4
+      - ev:5
+      - ev:6
+      - ev:7
+  - id: fig:2
+    name_or_label: children and sons
+    description: Those instructed to serve parents reverently, remonstrate gently,
+      and remain mindful of familial duty.
+    role_refs:
+      - role:2
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+      - ev:7
+  - id: fig:3
+    name_or_label: parents and elders
+    description: Living parents, dead ancestors, and elders who are to be served,
+      buried, honored, and remonstrated with in the proper spirit.
+    role_refs:
+      - role:3
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:7
+  - id: fig:4
+    name_or_label: the true gentleman
+    description: Moral exemplar whose conduct joins courtesy, charity, virtue, and
+      ritual seriousness.
+    role_refs:
+      - role:4
+    evidence_refs:
+      - ev:5
+      - ev:6
+roles:
+  - id: role:1
+    label: moral teacher
+    assigned_to:
+      - fig:1
+    basis: The Master repeatedly defines the spirit of filial duty and right conduct.
+    evidence_refs:
+      - ev:1
+      - ev:4
+      - ev:7
+  - id: role:2
+    label: reverent child
+    assigned_to:
+      - fig:2
+    basis: Children are told to serve, support, remonstrate with, and remain mindful
+      of parents in a reverent way.
+    evidence_refs:
+      - ev:1
+      - ev:3
+      - ev:7
+  - id: role:3
+    label: honored parent-ancestor
+    assigned_to:
+      - fig:3
+    basis: Parents are the objects of living service, burial, sacrifice, and concern.
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: role:4
+    label: ritual gentleman
+    assigned_to:
+      - fig:4
+    basis: The true gentleman preserves courtesy, charity, and duty even in rivalry.
+    evidence_refs:
+      - ev:4
+      - ev:5
+      - ev:6
+symbols:
+  - id: sym:1
+    label: proper rites and sacrifices
+    literal_form: burial with proper rites and worship with proper sacrifices
+    associated_figures:
+      - fig:2
+      - fig:3
+    taxonomy_refs:
+      - sacred_exchange
+    evidence_refs:
+      - ev:1
+  - id: sym:2
+    label: reverence
+    literal_form: the feeling of reverence without which support is empty
+    associated_figures:
+      - fig:1
+      - fig:2
+      - fig:3
+    taxonomy_refs:
+      - wisdom
+    evidence_refs:
+      - ev:3
+  - id: sym:3
+    label: heartfelt mourning
+    literal_form: heartfelt sorrow better than punctiliousness
+    associated_figures:
+      - fig:1
+      - fig:3
+      - fig:4
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:4
+  - id: sym:4
+    label: path of virtue
+    literal_form: path of virtue and line of duty
+    associated_figures:
+      - fig:2
+      - fig:4
+    taxonomy_refs:
+      - wisdom
+      - initiation
+    evidence_refs:
+      - ev:5
+      - ev:6
+scenes:
+  - id: scene:1
+    label: Filial piety beyond maintenance
+    summary: The Master explains that filial piety lies in reverent service, proper
+      burial and sacrifice, anxiety on behalf of parents, and more than material
+      provision.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+    symbol_refs:
+      - sym:1
+      - sym:2
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+  - id: scene:2
+    label: Ritual simplicity and the gentleman
+    summary: Ritual, mourning, rivalry, locality, and duty are all measured by inward
+      charity and simplicity rather than outward show.
+    figure_refs:
+      - fig:1
+      - fig:4
+    symbol_refs:
+      - sym:2
+      - sym:3
+      - sym:4
+    evidence_refs:
+      - ev:4
+      - ev:5
+      - ev:6
+  - id: scene:3
+    label: Gentle remonstrance toward parents
+    summary: A son corrects parents softly, increases deference if ignored, and remains
+      mindful of their age and nearness.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+    symbol_refs:
+      - sym:2
+      - sym:4
+    evidence_refs:
+      - ev:7
+candidate_motifs:
+  - id: motif:1
+    label: reverent filial duty
+    taxonomy_refs:
+      - wisdom
+      - sacred_exchange
+    basis: Filial piety is defined through reverent service, burial, sacrifice,
+      and sustained concern for parents.
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+      - ev:7
+    confidence: high
+    cautions: Sacred_exchange is used broadly for reciprocal ritual obligation and
+      not for a mythic bargain.
+  - id: motif:2
+    label: inward spirit over outward display
+    taxonomy_refs:
+      - wisdom
+    basis: Mourning, ritual, and service are judged by reverence and heartfelt sorrow
+      rather than external performance alone.
+    evidence_refs:
+      - ev:3
+      - ev:4
+    confidence: high
+    cautions: This is ethical and ritual instruction, not a symbolic initiation scene.
+  - id: motif:3
+    label: gentle remonstrance within hierarchy
+    taxonomy_refs: []
+    basis: Proper family order includes correction, but it must remain deferential
+      and free of resentment.
+    evidence_refs:
+      - ev:7
+    confidence: medium
+    cautions: The taxonomy does not yet contain a direct hierarchy-correction motif.
+comparison_claims:
+  - id: claim:1
+    claim: This passage can be compared with traditions that define piety less by
+      raw obedience or material provision than by reverent relation and ritual care.
+    claim_level: same_function
+    target: cross-cultural filial piety, ancestor care, and reverence records
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+      - ev:7
+    confidence: medium
+    limitations: The comparison is functional and does not equate Confucian family
+      ethics with other ancestor or household traditions.
+  - id: claim:2
+    claim: The contrast between heartfelt sorrow and punctilious ritual belongs in
+      comparisons where inner disposition is treated as the truth of the rite.
+    claim_level: same_function
+    target: cross-cultural inner-versus-outer ritual records
+    evidence_refs:
+      - ev:4
+    confidence: medium
+    limitations: The present passage is an ethical teaching, not a mythic narrative
+      of ritual failure or divine response.
+evidence:
+  - id: ev:1
+    type: summary
+    locator: lines 1170-1177
+    quote_or_summary: Filial piety means serving parents in the proper spirit, burying
+      them with proper rites, and worshipping them with proper sacrifices.
+    source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+    rights_note: Public-domain Project Gutenberg source text.
+  - id: ev:2
+    type: summary
+    locator: lines 1179-1181
+    quote_or_summary: Parents should be spared anxiety about their children except
+      in sickness.
+    source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+    rights_note: Public-domain Project Gutenberg source text.
+  - id: ev:3
+    type: quote
+    locator: lines 1183-1187
+    quote_or_summary: Without the feeling of reverence, what is there to distinguish
+      filial support from feeding dogs and horses?
+    source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+    rights_note: Public-domain Project Gutenberg source text.
+  - id: ev:4
+    type: summary
+    locator: lines 1203-1209
+    quote_or_summary: Ceremony without charity is empty, and in rites simplicity
+      and heartfelt sorrow outrank extravagance or punctiliousness.
+    source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+    rights_note: Public-domain Project Gutenberg source text.
+  - id: ev:5
+    type: summary
+    locator: lines 1211-1233
+    quote_or_summary: The true gentleman remains courteous in rivalry, values charity,
+      follows duty, and puts duty above money-making.
+    source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+    rights_note: Public-domain Project Gutenberg source text.
+  - id: ev:6
+    type: summary
+    locator: lines 1224-1233
+    quote_or_summary: The princely or nobler man remains on the path of virtue, follows
+      duty, and differs from the inferior man who pursues profit.
+    source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+    rights_note: Public-domain Project Gutenberg source text.
+  - id: ev:7
+    type: summary
+    locator: lines 1234-1245
+    quote_or_summary: A son may remonstrate gently, remain deferential when ignored,
+      and keep the age and condition of parents continually in mind.
+    source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+    rights_note: Public-domain Project Gutenberg source text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is explicit about reverence, duty, and ritual measure; the
+    broad comparative motifs remain carefully bounded.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Supplementary witness from Giles's selected translation; especially useful
+    for filial piety, ritual feeling, and gentlemanly conduct.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Local extraction for the supplementary Confucius volume, focused on filial
+  piety as reverent duty rather than mere support.

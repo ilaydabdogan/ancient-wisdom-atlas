@@ -1,0 +1,342 @@
+---
+record_id: extraction.koran_sale.adam_names_eblis_garden_direction
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: "2. Entitled, The Cow; Adam taught the names, homage, and descent"
+  start: 8850
+  end: 8931
+  translation: George Sale, The Koran
+  notes: Line numbers refer to the repository markdown source. Sale's interleaved footnotes at lines 8861-8912 are excluded so the extraction stays with the translated passage itself.
+canonical_text:
+  summary: God teaches Adam the names, has him answer the angels, commands angelic homage that Eblis refuses, places Adam and his wife in the garden under one prohibition, sends them down after Satan's deception, promises direction for those who follow it, and turns to covenantal address.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: Adam is taught the names of all things and is asked to declare them before the angels.
+    category: speech
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: The angels admit that their knowledge is limited to what God teaches them.
+    category: speech
+    evidence_refs:
+      - ev:1
+  - id: obs:3
+    text: The angels are ordered to worship Adam, and all obey except Eblis, who refuses in pride.
+    category: action
+    evidence_refs:
+      - ev:2
+  - id: obs:4
+    text: Adam and his wife are told to dwell in the garden and avoid a particular tree.
+    category: setting
+    evidence_refs:
+      - ev:3
+  - id: obs:5
+    text: Satan causes the pair to forfeit paradise, and they are sent down to earth in mutual enmity with provision for a season.
+    category: action
+    evidence_refs:
+      - ev:4
+  - id: obs:6
+    text: Adam learns words of prayer from his Lord and receives divine reconciliation.
+    category: speech
+    evidence_refs:
+      - ev:4
+  - id: obs:7
+    text: After the descent, God promises direction whose followers will be free from fear and grief.
+    category: sequence
+    evidence_refs:
+      - ev:5
+  - id: obs:8
+    text: The passage shifts into an address to the children of Israel to remember favor and perform covenant.
+    category: speech
+    evidence_refs:
+      - ev:6
+figures:
+  - id: fig:1
+    name_or_label: God / the LORD
+    description: Speaker who teaches Adam, commands homage, judges the descent, offers reconciliation, and gives direction and covenant address.
+    role_refs:
+      - role:1
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+      - ev:4
+      - ev:5
+      - ev:6
+  - id: fig:2
+    name_or_label: Adam
+    description: Human figure taught the names, placed in the garden, expelled, and instructed in prayer.
+    role_refs:
+      - role:2
+    evidence_refs:
+      - ev:1
+      - ev:3
+      - ev:4
+  - id: fig:3
+    name_or_label: the angels
+    description: Heavenly assembly tested on the names and commanded to worship Adam.
+    role_refs:
+      - role:3
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: fig:4
+    name_or_label: Eblis / Satan
+    description: Refusing figure who does not join the angels' homage and later causes Adam and his wife to forfeit paradise.
+    role_refs:
+      - role:4
+    evidence_refs:
+      - ev:2
+      - ev:4
+  - id: fig:5
+    name_or_label: Adam's wife
+    description: Unnamed companion who dwells with Adam in the garden and shares the expulsion.
+    role_refs:
+      - role:5
+    evidence_refs:
+      - ev:3
+      - ev:4
+  - id: fig:6
+    name_or_label: the children of Israel
+    description: Audience addressed at the close with favor, covenant, and revelation language.
+    role_refs:
+      - role:6
+    evidence_refs:
+      - ev:6
+roles:
+  - id: role:1
+    label: divine instructor and guide
+    assigned_to:
+      - fig:1
+    basis: God teaches Adam, accepts his prayer, promises direction, and voices the covenant reminder.
+    evidence_refs:
+      - ev:1
+      - ev:4
+      - ev:5
+      - ev:6
+  - id: role:2
+    label: taught human exemplar
+    assigned_to:
+      - fig:2
+    basis: Adam receives the names, declares them, dwells in the garden, and learns words of prayer.
+    evidence_refs:
+      - ev:1
+      - ev:3
+      - ev:4
+  - id: role:3
+    label: tested heavenly assembly
+    assigned_to:
+      - fig:3
+    basis: The angels are asked to declare the names and then commanded to worship Adam.
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: role:4
+    label: proud refuser
+    assigned_to:
+      - fig:4
+    basis: Eblis alone refuses the commanded homage and is aligned with unbelief.
+    evidence_refs:
+      - ev:2
+  - id: role:5
+    label: garden companion
+    assigned_to:
+      - fig:5
+    basis: Adam's wife dwells with him in the garden, shares the prohibition, and is sent down with him.
+    evidence_refs:
+      - ev:3
+      - ev:4
+  - id: role:6
+    label: covenant addressees
+    assigned_to:
+      - fig:6
+    basis: The children of Israel are told to remember divine favor and perform their covenant.
+    evidence_refs:
+      - ev:6
+symbols:
+  - id: sym:1
+    label: names of all things
+    literal_form: the names of all things taught to Adam
+    associated_figures:
+      - fig:1
+      - fig:2
+      - fig:3
+    taxonomy_refs:
+      - wisdom
+    evidence_refs:
+      - ev:1
+  - id: sym:2
+    label: commanded homage
+    literal_form: angels worshipping Adam while Eblis refuses
+    associated_figures:
+      - fig:2
+      - fig:3
+      - fig:4
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:2
+  - id: sym:3
+    label: garden and forbidden tree
+    literal_form: the garden and the tree Adam and his wife may not approach
+    associated_figures:
+      - fig:2
+      - fig:4
+      - fig:5
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:3
+      - ev:4
+  - id: sym:4
+    label: direction and covenant
+    literal_form: a direction from God and the command to perform covenant
+    associated_figures:
+      - fig:1
+      - fig:6
+    taxonomy_refs:
+      - covenant
+    evidence_refs:
+      - ev:5
+      - ev:6
+scenes:
+  - id: scene:1
+    label: Adam taught before the angels
+    summary: God teaches Adam the names, challenges the angels, and has Adam declare what they cannot name.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+    symbol_refs:
+      - sym:1
+    evidence_refs:
+      - ev:1
+  - id: scene:2
+    label: Homage and refusal
+    summary: The angels are commanded to worship Adam, and Eblis alone refuses in pride.
+    figure_refs:
+      - fig:2
+      - fig:3
+      - fig:4
+    symbol_refs:
+      - sym:2
+    evidence_refs:
+      - ev:2
+  - id: scene:3
+    label: Garden descent and covenantal direction
+    summary: Adam and his wife dwell in the garden under one prohibition, lose paradise through Satan's action, descend to earth, receive direction, and the passage turns toward covenant language.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:4
+      - fig:5
+      - fig:6
+    symbol_refs:
+      - sym:3
+      - sym:4
+    evidence_refs:
+      - ev:3
+      - ev:4
+      - ev:5
+      - ev:6
+candidate_motifs:
+  - id: motif:1
+    label: divinely_taught_names
+    taxonomy_refs:
+      - wisdom
+    basis: Adam is taught the names of all things and succeeds where the angels cannot answer.
+    evidence_refs:
+      - ev:1
+    confidence: high
+    cautions: The extraction follows Sale's English wording and does not analyze the Arabic naming vocabulary independently.
+  - id: motif:2
+    label: refused_homage_to_created_human
+    taxonomy_refs: []
+    basis: Angelic homage to Adam is commanded, but Eblis refuses and becomes the sole dissenter.
+    evidence_refs:
+      - ev:2
+    confidence: high
+    cautions: The record keeps to the passage's narrative function and does not treat later demonological interpretation as part of the evidence.
+  - id: motif:3
+    label: garden_fall_with_guidance
+    taxonomy_refs:
+      - divine_judgment
+    basis: Adam and his wife are expelled from the garden after Satan's action, yet God follows the descent with prayer, reconciliation, and promised direction.
+    evidence_refs:
+      - ev:3
+      - ev:4
+      - ev:5
+    confidence: high
+    cautions: The motif joins judgment and mercy in one sequence rather than isolating the fall as punishment alone.
+  - id: motif:4
+    label: post_descent_covenant_reminder
+    taxonomy_refs:
+      - covenant
+    basis: The close of the window explicitly commands the children of Israel to remember favor and perform covenant.
+    evidence_refs:
+      - ev:6
+    confidence: medium
+    cautions: The covenant address shifts from Adam's story to a communal exhortation, so it functions as a transition as well as a motif.
+comparison_claims:
+  - id: claim:1
+    claim: This passage combines divinely taught naming, refusal of homage, garden expulsion, and promised direction into a composite fall-and-guidance record.
+    claim_level: same_function
+    target: "pattern atlas: creation-fall, wisdom, and covenant-guidance records"
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:4
+      - ev:5
+      - ev:6
+    confidence: medium
+    limitations: The claim stays at passage-function level and does not equate Sale's wording with later doctrinal systems.
+evidence:
+  - id: ev:1
+    type: summary
+    locator: "lines 8850-8856"
+    quote_or_summary: God teaches Adam the names of all things, Adam declares them, and the angels confess they know only what God teaches.
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+    rights_note: Public-domain source text.
+  - id: ev:2
+    type: quote
+    locator: "lines 8857-8859"
+    quote_or_summary: they all worshipped him, except Eblis
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+    rights_note: Public-domain source text.
+  - id: ev:3
+    type: summary
+    locator: "lines 8915-8917"
+    quote_or_summary: God places Adam and his wife in the garden, permits them to eat freely, and forbids approach to one tree.
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+    rights_note: Public-domain source text.
+  - id: ev:4
+    type: summary
+    locator: "lines 8918-8923"
+    quote_or_summary: Satan causes the pair to forfeit paradise, they are sent down to earth in enmity, and Adam learns words of prayer that bring divine reconciliation.
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+    rights_note: Public-domain source text.
+  - id: ev:5
+    type: summary
+    locator: "lines 8924-8928"
+    quote_or_summary: God promises direction after the descent and says followers of that direction need not fear, while unbelievers remain with hell fire.
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+    rights_note: Public-domain source text.
+  - id: ev:6
+    type: quote
+    locator: "lines 8929-8931"
+    quote_or_summary: perform your covenant with me, and I will perform my covenant with you
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+    rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The core sequence is explicit, but the requested window is interrupted by translator footnotes that must be screened out of interpretation.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs review for best taxonomy placement of naming wisdom, homage refusal, and post-fall guidance.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Worker Koran extraction focused on Adam's naming knowledge, Eblis's refusal, garden descent, and covenantal direction in Sale's translation.

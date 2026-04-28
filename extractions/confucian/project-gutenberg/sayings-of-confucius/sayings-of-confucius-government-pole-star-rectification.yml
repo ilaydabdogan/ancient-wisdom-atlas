@@ -1,0 +1,367 @@
+---
+record_id: extraction.sayings_of_confucius.government_pole_star_rectification
+source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+passage_locator:
+  label: Government and Public Affairs
+  start: 815
+  end: 915
+  translation: Lionel Giles, Project Gutenberg eBook #46389
+  notes: Line numbers refer to the repository markdown source for Giles's selected
+    translation of the Confucian Analects.
+canonical_text:
+  summary: The Master teaches that rule should rest on honesty, charity, and example
+    rather than punishment, that public trust outweighs even food and soldiers,
+    and that exact language is necessary because political order fails when words
+    no longer fit realities.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: Rule over a state should join honest administration, economy, charity,
+      and timely use of the people.
+    category: teaching
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: A virtuous ruler is compared to the Pole-star, remaining fixed while
+      others turn toward it.
+    category: comparison
+    evidence_refs:
+      - ev:2
+  - id: obs:3
+    text: Government by punishments prevents infractions but does not create moral
+      shame, while government by inner self-control does.
+    category: contrast
+    evidence_refs:
+      - ev:3
+  - id: obs:4
+    text: Good government requires enough food, enough soldiers, and the confidence
+      of the people, but public confidence is the indispensable element.
+    category: teaching
+    evidence_refs:
+      - ev:4
+  - id: obs:5
+    text: >-
+      Political order depends on each relation performing its proper role:
+      sovereign, subject, father, and son.
+    category: role_order
+    evidence_refs:
+      - ev:5
+  - id: obs:6
+    text: To govern is described as keeping straight, and the ruler's goodness is
+      said to bend the people like grass before wind.
+    category: metaphor
+    evidence_refs:
+      - ev:6
+  - id: obs:7
+    text: Confucius says political reform must begin by defining terms exactly, because
+      disorder in language produces disorder in public action.
+    category: speech
+    evidence_refs:
+      - ev:7
+figures:
+  - id: fig:1
+    name_or_label: The Master
+    description: Confucius as teacher of political order, moral example, and the
+      discipline of exact speech.
+    role_refs:
+      - role:1
+    evidence_refs:
+      - ev:1
+      - ev:3
+      - ev:4
+      - ev:5
+      - ev:6
+      - ev:7
+  - id: fig:2
+    name_or_label: virtuous ruler
+    description: The model ruler who governs by example, personal uprightness, and
+      exact moral-political order.
+    role_refs:
+      - role:2
+    evidence_refs:
+      - ev:2
+      - ev:3
+      - ev:4
+      - ev:5
+      - ev:6
+  - id: fig:3
+    name_or_label: the people
+    description: The governed community whose trust, moral sense, and behavior respond
+      to the ruler's quality.
+    role_refs:
+      - role:3
+    evidence_refs:
+      - ev:3
+      - ev:4
+      - ev:6
+  - id: fig:4
+    name_or_label: questioning rulers and disciples
+    description: Duke Ai, Chi Kang Tzu, Tzu Kung, and Tzu Lu as interlocutors who
+      draw out the Master's political teaching.
+    role_refs:
+      - role:4
+    evidence_refs:
+      - ev:4
+      - ev:5
+      - ev:6
+      - ev:7
+roles:
+  - id: role:1
+    label: ethical-political teacher
+    assigned_to:
+      - fig:1
+    basis: The Master answers repeated questions about rule, trust, coercion, and
+      language.
+    evidence_refs:
+      - ev:3
+      - ev:4
+      - ev:7
+  - id: role:2
+    label: virtue-centered ruler
+    assigned_to:
+      - fig:2
+    basis: The ruler is presented as a moral center whose example orders the state.
+    evidence_refs:
+      - ev:2
+      - ev:3
+      - ev:6
+  - id: role:3
+    label: trust-bearing people
+    assigned_to:
+      - fig:3
+    basis: The people become good under virtuous rule and their confidence determines
+      whether government can stand.
+    evidence_refs:
+      - ev:3
+      - ev:4
+  - id: role:4
+    label: political questioners
+    assigned_to:
+      - fig:4
+    basis: Named rulers and disciples elicit the teachings on government.
+    evidence_refs:
+      - ev:4
+      - ev:5
+      - ev:7
+symbols:
+  - id: sym:1
+    label: Pole-star
+    literal_form: Pole-star that keeps its place while other stars do homage
+    associated_figures:
+      - fig:2
+      - fig:3
+    taxonomy_refs:
+      - wisdom
+      - royal_legitimacy
+    evidence_refs:
+      - ev:2
+  - id: sym:2
+    label: confidence of the people
+    literal_form: the people's confidence without which government cannot stand
+    associated_figures:
+      - fig:2
+      - fig:3
+    taxonomy_refs:
+      - royal_legitimacy
+    evidence_refs:
+      - ev:4
+  - id: sym:3
+    label: straightness
+    literal_form: to govern is to keep straight
+    associated_figures:
+      - fig:1
+      - fig:2
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:6
+  - id: sym:4
+    label: exact terms
+    literal_form: defining terms and making them exact
+    associated_figures:
+      - fig:1
+      - fig:4
+    taxonomy_refs:
+      - wisdom
+    evidence_refs:
+      - ev:7
+  - id: sym:5
+    label: wind and grass
+    literal_form: prince as wind and people as grass
+    associated_figures:
+      - fig:2
+      - fig:3
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:6
+scenes:
+  - id: scene:1
+    label: Government by virtue and trust
+    summary: The Master frames good government as honest, charitable, virtue-led,
+      and impossible without the people's confidence.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+      - fig:4
+    symbol_refs:
+      - sym:1
+      - sym:2
+      - sym:5
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+      - ev:4
+      - ev:6
+  - id: scene:2
+    label: Role order and straight rule
+    summary: Sovereign, subject, father, and son are each told to fulfill their
+      proper role, and government is described as keeping things straight.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:4
+    symbol_refs:
+      - sym:3
+    evidence_refs:
+      - ev:5
+      - ev:6
+  - id: scene:3
+    label: Rectification of names
+    summary: Confucius says reform begins by making terms exact, because speech that
+      no longer fits things destroys public business, law, and action.
+    figure_refs:
+      - fig:1
+      - fig:4
+    symbol_refs:
+      - sym:4
+    evidence_refs:
+      - ev:7
+candidate_motifs:
+  - id: motif:1
+    label: moral center of rule
+    taxonomy_refs:
+      - wisdom
+      - royal_legitimacy
+    basis: The ruler's virtue is treated as an ordering center that draws the community
+      into alignment.
+    evidence_refs:
+      - ev:2
+      - ev:3
+      - ev:6
+    confidence: high
+    cautions: The imagery is ethical and political rather than explicitly cosmological,
+      even though the Pole-star metaphor evokes cosmic order.
+  - id: motif:2
+    label: public trust above force
+    taxonomy_refs:
+      - royal_legitimacy
+    basis: Food and soldiers may be sacrificed before the confidence of the people,
+      without which rule collapses.
+    evidence_refs:
+      - ev:4
+    confidence: high
+    cautions: The passage is practical statecraft, not covenant theology.
+  - id: motif:3
+    label: rectification through speech
+    taxonomy_refs:
+      - wisdom
+    basis: Exact language is treated as the necessary precondition for public order
+      and justice.
+    evidence_refs:
+      - ev:7
+    confidence: high
+    cautions: The taxonomy lacks a dedicated speech-ordering motif, so wisdom carries
+      the interpretive load here.
+comparison_claims:
+  - id: claim:1
+    claim: This passage can be compared with traditions that ground political legitimacy
+      in the ruler's inner order rather than in naked coercion.
+    claim_level: same_function
+    target: cross-cultural ethical kingship and ordered rule records
+    evidence_refs:
+      - ev:2
+      - ev:3
+      - ev:4
+      - ev:6
+    confidence: medium
+    limitations: The comparison is functional and does not imply shared historical
+      origin with other kingship teachings.
+  - id: claim:2
+    claim: The rectification-of-terms teaching belongs in comparisons where naming,
+      speech, or correct utterance is treated as foundational to social or cosmic
+      order.
+    claim_level: same_function
+    target: cross-cultural speech-order and naming-order records
+    evidence_refs:
+      - ev:7
+    confidence: medium
+    limitations: This is a political-linguistic formulation, not a mythic creation-by-word
+      scene.
+evidence:
+  - id: ev:1
+    type: summary
+    locator: lines 815-817
+    quote_or_summary: Ruling a state requires attention to business, honesty, economy,
+      charity, and the timely employment of the people.
+    source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+    rights_note: Public-domain Project Gutenberg source text.
+  - id: ev:2
+    type: quote
+    locator: lines 819-820
+    quote_or_summary: A virtuous ruler is like the Pole-star, which keeps its place
+      while the other stars do homage to it.
+    source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+    rights_note: Public-domain Project Gutenberg source text.
+  - id: ev:3
+    type: summary
+    locator: lines 822-825
+    quote_or_summary: Punishment suppresses lawbreaking without shame, while rule
+      by inner self-control preserves moral sense and makes people good.
+    source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+    rights_note: Public-domain Project Gutenberg source text.
+  - id: ev:4
+    type: summary
+    locator: lines 849-857
+    quote_or_summary: Good government needs food, soldiers, and above all the confidence
+      of the people, without which the state cannot stand.
+    source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+    rights_note: Public-domain Project Gutenberg source text.
+  - id: ev:5
+    type: summary
+    locator: lines 859-865
+    quote_or_summary: Sovereign, subject, father, and son must each do their proper
+      duty for political life to hold together.
+    source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+    rights_note: Public-domain Project Gutenberg source text.
+  - id: ev:6
+    type: summary
+    locator: lines 871-887
+    quote_or_summary: Government is keeping straight; a good ruler leads people into
+      line and bends them like grass before wind.
+    source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+    rights_note: Public-domain Project Gutenberg source text.
+  - id: ev:7
+    type: summary
+    locator: lines 901-915
+    quote_or_summary: Confucius says reform begins by defining terms exactly because
+      disorderly words undo public business, justice, and action.
+    source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+    rights_note: Public-domain Project Gutenberg source text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The teaching is explicit and compressed; motif mapping remains practical
+    rather than speculative.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Supplementary witness from Giles's selected translation; useful as a variant
+    phrasing layer for governance motifs.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Local extraction for the supplementary Confucius volume, focused on ethical
+  rule, public trust, and rectification of language.

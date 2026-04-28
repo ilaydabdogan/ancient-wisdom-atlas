@@ -1,0 +1,343 @@
+---
+record_id: extraction.koran_sale.mary_gabriel_palm_infant_jesus
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: "19. Entitled, Mary; annunciation, palm-tree birth, and infant speech"
+  start: 23939
+  end: 24030
+  translation: George Sale, The Koran
+  notes: Line numbers refer to the repository markdown source. Sale's interleaved footnotes at lines 23960-24007 are excluded so the extraction stays with the translated passage itself.
+canonical_text:
+  summary: Mary withdraws behind a veil, receives Gabriel's announcement of a holy son, conceives by divine decree, suffers childbirth beside a palm tree, is comforted with water, dates, and a command to keep silence, then returns to her people and lets the infant Jesus speak as servant of God, prophet, and son of Mary.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: Mary retires from her family toward the east and veils herself from them.
+    category: setting
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: Gabriel appears to Mary in the shape of a perfect man and announces that she will receive a holy son.
+    category: speech
+    evidence_refs:
+      - ev:1
+  - id: obs:3
+    text: Mary says no man has touched her, and the conception is presented as easy for God, decreed as a sign and mercy.
+    category: speech
+    evidence_refs:
+      - ev:1
+  - id: obs:4
+    text: After conceiving, Mary withdraws to a distant place, reaches a palm-tree in labor, and hears a comforting voice from beneath her near a rivulet.
+    category: action
+    evidence_refs:
+      - ev:2
+  - id: obs:5
+    text: Mary is told to shake the palm-tree for ripe dates, eat, drink, calm her mind, and refrain from speaking to people that day.
+    category: action
+    evidence_refs:
+      - ev:3
+  - id: obs:6
+    text: When Mary brings the child to her people, they accuse her and question how they can speak with an infant in the cradle.
+    category: speech
+    evidence_refs:
+      - ev:4
+  - id: obs:7
+    text: The child answers by identifying himself as the servant of God who has received the gospel and prophetic appointment.
+    category: speech
+    evidence_refs:
+      - ev:5
+  - id: obs:8
+    text: The passage closes by naming the infant as Jesus, the son of Mary.
+    category: speech
+    evidence_refs:
+      - ev:6
+figures:
+  - id: fig:1
+    name_or_label: God / the LORD
+    description: Divine speaker whose mercy, decree, and command frame the conception, birth, and the infant's testimony.
+    role_refs:
+      - role:1
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+      - ev:5
+      - ev:6
+  - id: fig:2
+    name_or_label: Mary
+    description: Woman who withdraws behind a veil, conceives, gives birth near the palm-tree, and returns carrying the child.
+    role_refs:
+      - role:2
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+      - ev:4
+  - id: fig:3
+    name_or_label: Gabriel / our spirit
+    description: Messenger sent to Mary in the form of a perfect man to announce the holy son.
+    role_refs:
+      - role:3
+    evidence_refs:
+      - ev:1
+  - id: fig:4
+    name_or_label: the caller beneath her
+    description: Voice below Mary in childbirth that tells her not to grieve and points her to water; the translated lines do not identify the speaker by name.
+    role_refs:
+      - role:4
+    evidence_refs:
+      - ev:2
+  - id: fig:5
+    name_or_label: Jesus, the son of Mary
+    description: Infant who speaks from the cradle and identifies himself as God's servant, prophet, and blessed son of Mary.
+    role_refs:
+      - role:5
+    evidence_refs:
+      - ev:4
+      - ev:5
+      - ev:6
+  - id: fig:6
+    name_or_label: Mary's people
+    description: Community that challenges Mary's return with the child and questions the possibility of infant speech.
+    role_refs:
+      - role:6
+    evidence_refs:
+      - ev:4
+roles:
+  - id: role:1
+    label: divine sender and decreer
+    assigned_to:
+      - fig:1
+    basis: God sends Gabriel, declares the conception easy, provides aid in childbirth, and is named by the child as Lord.
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+      - ev:5
+  - id: role:2
+    label: secluded mother
+    assigned_to:
+      - fig:2
+    basis: Mary withdraws from her family, conceives, gives birth in seclusion, and returns carrying the child.
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+      - ev:4
+  - id: role:3
+    label: annunciating messenger
+    assigned_to:
+      - fig:3
+    basis: Gabriel appears in human form and announces the gift of a holy son.
+    evidence_refs:
+      - ev:1
+  - id: role:4
+    label: childbirth comforter
+    assigned_to:
+      - fig:4
+    basis: The caller beneath Mary tells her not to grieve and directs her attention to the rivulet.
+    evidence_refs:
+      - ev:2
+  - id: role:5
+    label: speaking infant prophet
+    assigned_to:
+      - fig:5
+    basis: The child speaks from the cradle, calls himself God's servant, says he has the gospel, and identifies himself as Jesus the son of Mary.
+    evidence_refs:
+      - ev:5
+      - ev:6
+  - id: role:6
+    label: skeptical kin-community
+    assigned_to:
+      - fig:6
+    basis: Mary's people accuse her and protest that the child is only an infant in the cradle.
+    evidence_refs:
+      - ev:4
+symbols:
+  - id: sym:1
+    label: veil of seclusion
+    literal_form: the veil Mary takes to conceal herself from her family
+    associated_figures:
+      - fig:2
+      - fig:3
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:1
+  - id: sym:2
+    label: palm-tree
+    literal_form: the palm-tree trunk beside which Mary labors and from which ripe dates fall
+    associated_figures:
+      - fig:2
+      - fig:4
+      - fig:5
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:2
+      - ev:3
+  - id: sym:3
+    label: rivulet and dates
+    literal_form: the rivulet beneath Mary and the ripe dates gathered from the palm-tree
+    associated_figures:
+      - fig:2
+      - fig:4
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:2
+      - ev:3
+  - id: sym:4
+    label: cradle speech
+    literal_form: the infant in the cradle answering Mary's people
+    associated_figures:
+      - fig:5
+      - fig:6
+    taxonomy_refs:
+      - wisdom
+    evidence_refs:
+      - ev:4
+      - ev:5
+scenes:
+  - id: scene:1
+    label: Annunciation in seclusion
+    summary: Mary withdraws behind a veil, Gabriel appears as a perfect man, and the holy son is announced as a sign and mercy.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+    symbol_refs:
+      - sym:1
+    evidence_refs:
+      - ev:1
+  - id: scene:2
+    label: Palm-tree birth and silence command
+    summary: Mary conceives, reaches the palm-tree in labor, receives comfort from below with water and dates, and is told to keep silence.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:4
+    symbol_refs:
+      - sym:2
+      - sym:3
+    evidence_refs:
+      - ev:2
+      - ev:3
+  - id: scene:3
+    label: Return with the child and infant testimony
+    summary: Mary returns carrying the child, her people accuse her, and the infant speaks from the cradle before the passage names him as Jesus the son of Mary.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:5
+      - fig:6
+    symbol_refs:
+      - sym:4
+    evidence_refs:
+      - ev:4
+      - ev:5
+      - ev:6
+candidate_motifs:
+  - id: motif:1
+    label: annunciation_of_holy_son
+    taxonomy_refs:
+      - sacred_birth
+      - miraculous_child
+    basis: Gabriel appears to Mary in human form and announces that she will receive a holy son by divine decree.
+    evidence_refs:
+      - ev:1
+    confidence: high
+    cautions: The extraction uses Sale's English phrasing and does not attempt a lexical study of the announcement formula.
+  - id: motif:2
+    label: miraculous_birth_under_palm
+    taxonomy_refs: []
+    basis: Mary withdraws to a distant place, reaches a palm-tree in labor, and receives water and fruit there.
+    evidence_refs:
+      - ev:2
+      - ev:3
+    confidence: high
+    cautions: The motif is passage-specific and is not mapped here to a narrower canonical taxonomy key.
+  - id: motif:3
+    label: speaking_infant_in_cradle
+    taxonomy_refs:
+      - wisdom
+      - miraculous_child
+    basis: The infant answers Mary's people from the cradle and declares himself servant of God, prophet, and bearer of the gospel.
+    evidence_refs:
+      - ev:4
+      - ev:5
+    confidence: high
+    cautions: The comparison value lies in the narrative function of infant speech, not in flattening the passage's prophetic content into a generic marvel.
+  - id: motif:4
+    label: son_of_mary_as_sign_and_mercy
+    taxonomy_refs:
+      - sacred_birth
+      - miraculous_child
+    basis: The announcement calls the child a sign and mercy, and the passage closes by naming him Jesus, the son of Mary.
+    evidence_refs:
+      - ev:1
+      - ev:6
+    confidence: medium
+    cautions: The motif spans both the annunciation and the closing identification rather than a single verse unit.
+comparison_claims:
+  - id: claim:1
+    claim: This passage is a strong witness for miraculous conception, solitary palm-tree birth, and infant prophetic speech centered on Jesus as the son of Mary.
+    claim_level: same_motif
+    target: "pattern atlas: miraculous birth and speaking-child records"
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+      - ev:4
+      - ev:5
+      - ev:6
+    confidence: medium
+    limitations: The claim compares narrative function only and does not adjudicate the later sectarian dispute mentioned after the requested window.
+evidence:
+  - id: ev:1
+    type: summary
+    locator: "lines 23939-23951"
+    quote_or_summary: Mary withdraws eastward behind a veil, Gabriel appears as a perfect man, and the holy son is announced as a sign and mercy despite her untouched condition.
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+    rights_note: Public-domain source text.
+  - id: ev:2
+    type: summary
+    locator: "lines 23952-23958"
+    quote_or_summary: Mary conceives, retires to a distant place, reaches the palm-tree in labor, laments, and hears a comforting voice from beneath her about the rivulet.
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+    rights_note: Public-domain source text.
+  - id: ev:3
+    type: quote
+    locator: "lines 24010-24015"
+    quote_or_summary: shake the body of the palm-tree, and it shall let fall ripe dates
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+    rights_note: Public-domain source text.
+  - id: ev:4
+    type: summary
+    locator: "lines 24016-24021"
+    quote_or_summary: Mary brings the child to her people, who accuse her and protest that the child is only an infant in the cradle.
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+    rights_note: Public-domain source text.
+  - id: ev:5
+    type: quote
+    locator: "lines 24022-24029"
+    quote_or_summary: I am the servant of GOD; he hath given me the book of the gospel, and hath appointed me a prophet
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+    rights_note: Public-domain source text.
+  - id: ev:6
+    type: quote
+    locator: "lines 24030-24030"
+    quote_or_summary: This was JESUS, the son of Mary
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+    rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The requested window is interrupted by translator footnotes, but the annunciation, birth scene, and infant speech are explicit in the verse lines themselves.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs review for taxonomy placement of miraculous birth, speaking infant, and sign-mercy motifs.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Worker Koran extraction focused on annunciation, palm-tree nativity scene, and infant Jesus speaking in Sale's translation.
