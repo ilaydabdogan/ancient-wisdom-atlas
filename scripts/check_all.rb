@@ -14,6 +14,7 @@ checks = [
   "scripts/validate_metadata.rb",
   "scripts/check_taxonomy_refs.rb",
   "scripts/check_first_500_corpus.rb",
+  "scripts/build_first500_progress.rb",
   "scripts/build_similarity_index.rb",
   "scripts/check_structured_files.rb",
   "scripts/check_clean_markdown.rb",

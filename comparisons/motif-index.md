@@ -2,7 +2,7 @@
 id: comparison.motif_index
 title: Motif Occurrence Index
 pattern_type: generated_index
-generated_on: '2026-04-27'
+generated_on: '2026-04-28'
 source: data/indexes/motif-occurrences.yml
 rights:
   training_use: allowed

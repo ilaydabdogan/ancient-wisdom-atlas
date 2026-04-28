@@ -1,0 +1,194 @@
+---
+map_id: first_500_source_map
+title: First 500 Source Coverage Map
+created_on: '2026-04-28'
+updated_on: '2026-04-28'
+notes: >
+  Maps whole-source corpus captures and queue items to the granular units in
+  data/collections/first-500-corpus.yml. A source can cover many planned units,
+  but a covered source is not the same as final unit-level Markdown. Long works
+  still need splitting into citable first-500 unit files.
+coverage_modes:
+  complete_source_covers_planned_units: Source text appears to contain the planned
+    first-500 units and should be split into unit-level Markdown.
+  translation_source_review_required: Source text exists, but translation,
+    edition, completeness, or source-lineage issues require review before counting
+    it as final first-500 coverage.
+  candidate_source_needs_unit_match: Source is queued or available, but the exact
+    correspondence to first-500 units must be checked after ingestion.
+sources:
+- source_work_id: biblical.genesis.web_classic
+  source_title: Genesis
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_units:
+  - first500.051
+  next_action: keep_as_complete_book_unit
+- source_work_id: biblical.exodus.web_classic
+  source_title: Exodus
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_units:
+  - first500.052
+  next_action: keep_as_complete_book_unit
+- source_work_id: biblical.leviticus.web_classic
+  source_title: Leviticus
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_units:
+  - first500.053
+  next_action: keep_as_complete_book_unit
+- source_work_id: biblical.numbers.web_classic
+  source_title: Numbers
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_units:
+  - first500.054
+  next_action: keep_as_complete_book_unit
+- source_work_id: biblical.deuteronomy.web_classic
+  source_title: Deuteronomy
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_units:
+  - first500.055
+  next_action: keep_as_complete_book_unit
+- source_work_id: egyptian.book_of_the_dead.budge_gutenberg
+  source_title: The Book of the Dead
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: medium
+  first500_ranges:
+  - first500.030-first500.037
+  next_action: split_selected_chapters
+- source_work_id: greek.iliad.pope_gutenberg
+  source_title: The Iliad
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_ranges:
+  - first500.121-first500.144
+  next_action: split_into_book_files
+- source_work_id: greek.odyssey.butler_gutenberg
+  source_title: The Odyssey
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_ranges:
+  - first500.145-first500.168
+  next_action: split_into_book_files
+- source_work_id: roman.ovid.metamorphoses_books_1_7_riley_gutenberg
+  source_title: The Metamorphoses of Ovid, Books I-VII
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_ranges:
+  - first500.169-first500.175
+  next_action: ingest_then_split_into_book_files
+- source_work_id: roman.ovid.metamorphoses_books_8_15_riley_gutenberg
+  source_title: The Metamorphoses of Ovid, Books VIII-XV
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_ranges:
+  - first500.176-first500.183
+  next_action: ingest_then_split_into_book_files
+- source_work_id: roman.aeneid.mackail_gutenberg
+  source_title: The Aeneid of Virgil
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_ranges:
+  - first500.184-first500.195
+  next_action: ingest_then_split_into_book_files
+- source_work_id: hindu.bhagavad_gita.song_celestial_gutenberg
+  source_title: The Song Celestial; Or, Bhagavad-Gita
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_ranges:
+  - first500.201-first500.218
+  next_action: split_into_chapter_files
+- source_work_id: hindu.ramayana.griffith_gutenberg
+  source_title: The Ramayan of Valmiki
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_ranges:
+  - first500.242-first500.248
+  next_action: split_into_kanda_files
+- source_work_id: hindu.mahabharata.dutt_gutenberg
+  source_title: Maha-bharata
+  coverage_mode: translation_source_review_required
+  coverage_confidence: medium
+  first500_ranges:
+  - first500.249-first500.266
+  next_action: review_condensation_before_counting_as_complete_parva_coverage
+- source_work_id: buddhist.dhammapada.max_muller_gutenberg
+  source_title: Dhammapada, a Collection of Verses
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_ranges:
+  - first500.271-first500.296
+  next_action: split_into_vagga_files
+- source_work_id: buddhist.jataka.birth_stories_rhys_davids_gutenberg
+  source_title: Buddhist birth stories; or, Jataka tales, Volume 1
+  coverage_mode: candidate_source_needs_unit_match
+  coverage_confidence: medium
+  first500_ranges:
+  - first500.302-first500.311
+  next_action: ingest_then_match_named_jataka_tales
+- source_work_id: daoist.tao_teh_king.legge_gutenberg
+  source_title: The Tao Teh King, or the Tao and its Characteristics
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_ranges:
+  - first500.321-first500.340
+  next_action: split_first_twenty_chapters
+- source_work_id: confucian.analects.legge_gutenberg
+  source_title: The Analects of Confucius
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_ranges:
+  - first500.341-first500.360
+  next_action: split_into_book_files
+- source_work_id: daoist.zhuangzi.giles_gutenberg
+  source_title: Chuang Tzu
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_ranges:
+  - first500.361-first500.367
+  next_action: split_inner_chapters
+- source_work_id: islamic.koran.rodwell_gutenberg
+  source_title: The Koran
+  coverage_mode: translation_source_review_required
+  coverage_confidence: medium
+  first500_ranges:
+  - first500.371-first500.400
+  next_action: preserve_translation_but_track_arabic_text_separately
+- source_work_id: sufi.rumi.mesnevi_book_1_redhouse_gutenberg
+  source_title: The Mesnevi, Book I
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_units:
+  - first500.401
+  next_action: keep_as_book_1_unit
+- source_work_id: persian.sadi.gulistan.ross_gutenberg
+  source_title: The Gulistan
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_ranges:
+  - first500.407-first500.414
+  next_action: split_into_chapter_files
+- source_work_id: norse.poetic_edda.bellows_gutenberg
+  source_title: The Poetic Edda
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_ranges:
+  - first500.416-first500.445
+  next_action: split_into_poem_files
+- source_work_id: celtic_welsh.mabinogion.guest_gutenberg
+  source_title: The Mabinogion
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_ranges:
+  - first500.450-first500.460
+  next_action: split_into_tale_files
+- source_work_id: maya_quiche.popol_vuh.spence_gutenberg
+  source_title: The Popol Vuh
+  coverage_mode: complete_source_covers_planned_units
+  coverage_confidence: high
+  first500_ranges:
+  - first500.477-first500.481
+  next_action: split_into_preamble_and_parts

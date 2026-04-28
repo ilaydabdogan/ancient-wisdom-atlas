@@ -2,7 +2,7 @@
 queue_id: auto_ingestion_queue
 title: Auto Ingestion Queue
 created_on: '2026-04-27'
-updated_on: '2026-04-27'
+updated_on: '2026-04-28'
 notes: 'Queue for low-risk, rights-cleared corpus ingestion. The automation is intentionally
   conservative: only items whose rights fields explicitly allow public-domain full-text
   and training use should be auto-promoted into texts/. Use small limits for direct
@@ -11,33 +11,32 @@ notes: 'Queue for low-risk, rights-cleared corpus ingestion. The automation is i
 
 '
 items:
-- id: sufi.persian_mystics_rumi.davis_gutenberg
+- id: greek.odyssey.butler_gutenberg
   status: ingested
   priority: high
   source: project_gutenberg
-  source_id: '45159'
-  slug: persian-mystics-rumi-davis
-  title: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  source_id: '1727'
+  slug: odyssey-butler
+  title: The Odyssey
   alternate_titles:
-  - Jalalu'd-Din Rumi
-  - Persian Mystics Rumi
-  text_status: selected
-  tradition: sufi
-  tradition_cluster: islamic_persian_sufi
-  culture: persian_sufi_later_english_selection
-  region: iran_anatolia
-  source_language: Persian
+  - Odyssey
+  - The Odyssey of Homer
+  text_status: complete
+  tradition: greek
+  tradition_cluster: greek
+  culture: ancient_greek_epic_later_translation
+  region: aegean_mediterranean
+  source_language: Ancient Greek
   text_language: English
-  date_range: 13th-century Persian Sufi source material; early 20th-century public-domain
-    English selection and study
+  date_range: archaic Greek epic; 1900 public-domain English prose translation
   source_type: text
-  edition: 'Project Gutenberg plain-text eBook #45159'
-  translator: F. Hadland Davis
-  editor: F. Hadland Davis
-  publication_year: 1920
+  edition: 'Project Gutenberg plain-text eBook #1727'
+  translator: Samuel Butler
+  editor: ''
+  publication_year: 1900
   publisher: Project Gutenberg
-  source_url: https://www.gutenberg.org/ebooks/45159
-  download_url: https://www.gutenberg.org/ebooks/45159.txt.utf-8
+  source_url: https://www.gutenberg.org/ebooks/1727
+  download_url: https://www.gutenberg.org/ebooks/1727.txt.utf-8
   rights:
     status: public_domain
     jurisdiction: US
@@ -47,95 +46,97 @@ items:
     notes: Project Gutenberg catalog records public-domain status in the USA; use
       outside the USA requires jurisdiction-specific review.
   tags:
-  - rumi
-  - persian_mystics
-  - sufism
-  - divine_love
-  - masnavi
-  - divani_shams
+  - odyssey
+  - homer
+  - nostos
+  - sea_journey
+  - homecoming
+  - underworld
   motifs:
-  - mystical_quest
-  - divine_beloved
-  - annihilation_union
+  - departure
+  - return
+  - hero_descent
+  - trickster_boundary
   - wisdom
   figures:
-  - Jalal al-Din Rumi
-  - Beloved
-  - seeker
-  why_it_matters: Adds a compact public-domain Rumi selection focused on divine love,
-    union, Sufi symbolism, and comparison with the longer Mesnevi Book I lane.
-  raw_path: imports/raw/project-gutenberg/45159-persian-mystics-rumi-davis.txt
+  - Odysseus
+  - Penelope
+  - Telemachus
+  - Athena
+  why_it_matters: Adds the major Greek homecoming epic for voyage, underworld descent,
+    disguise, temptation, recognition, and return motifs.
+  raw_path: imports/raw/project-gutenberg/1727-odyssey-butler.txt
   pipeline:
     raw_fetched_on: '2026-04-27'
     converted_on: '2026-04-27'
     promoted_on: '2026-04-27'
-  converted_path: imports/converted/project-gutenberg/45159-persian-mystics-rumi-davis.md
-  canonical_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
-  manifest_path: manifests/project-gutenberg/45159-persian-mystics-rumi-davis.yml
-  extraction_dir: extractions/sufi/project-gutenberg/persian-mystics-rumi-davis
-- id: sufi.jami.persian_mystics.davis_gutenberg
+  converted_path: imports/converted/project-gutenberg/1727-odyssey-butler.md
+  canonical_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  manifest_path: manifests/project-gutenberg/1727-odyssey-butler.yml
+  extraction_dir: extractions/greek/project-gutenberg/odyssey-butler
+- id: persian.sadi.gulistan.ross_gutenberg
   status: ingested
   priority: high
   source: project_gutenberg
-  source_id: '45158'
-  slug: persian-mystics-jami-davis
-  title: 'The Persian Mystics: Jámí'
+  source_id: '13060'
+  slug: gulistan-sadi-ross
+  title: The Persian Literature, Volume 2, The Gulistan
   alternate_titles:
-  - Persian Mystics Jami
-  - Jami
-  text_status: selected
-  tradition: sufi
-  tradition_cluster: islamic_persian_sufi
-  culture: persian_sufi_later_english_selection
-  region: iran_central_asia
+  - The Gulistan
+  - Rose Garden
+  - Sa'di Gulistan
+  text_status: complete
+  tradition: persian
+  tradition_cluster: persian
+  culture: medieval_persian_later_translation
+  region: iran
   source_language: Persian
   text_language: English
-  date_range: 15th-century Persian Sufi source material; early 20th-century public-domain
-    English selection and study
+  date_range: 13th-century Persian source text; public-domain English translation
   source_type: text
-  edition: 'Project Gutenberg plain-text eBook #45158'
-  translator: F. Hadland Davis
-  editor: F. Hadland Davis
-  publication_year: 1918
+  edition: 'Project Gutenberg plain-text eBook #13060'
+  translator: James Ross
+  editor: ''
+  publication_year: 1823
   publisher: Project Gutenberg
-  source_url: https://www.gutenberg.org/ebooks/45158
-  download_url: https://www.gutenberg.org/ebooks/45158.txt.utf-8
+  source_url: https://www.gutenberg.org/ebooks/13060
+  download_url: https://www.gutenberg.org/ebooks/13060.txt.utf-8
   rights:
     status: public_domain
     jurisdiction: US
     license_url: https://www.gutenberg.org/policy/license.html
     full_text: allowed
     training_use: allowed
-    notes: Project Gutenberg catalog records public-domain status in the USA; use
-      outside the USA requires jurisdiction-specific review.
+    notes: Project Gutenberg catalog records public-domain status in the USA; mark
+      as Persian ethical/literary wisdom rather than purely Sufi.
   tags:
-  - jami
-  - persian_mystics
-  - sufism
-  - yusuf_zulaikha
-  - divine_love
-  - allegory
-  motifs:
-  - mystical_quest
-  - divine_beloved
-  - sacred_marriage
+  - sadi
+  - gulistan
+  - persian
   - wisdom
+  - dervishes
+  - kingship
+  - ethics
+  motifs:
+  - wisdom
+  - sacred_exchange
+  - royal_legitimacy
+  - renunciation
   figures:
-  - Jami
-  - Yusuf
-  - Zulaikha
-  - Beloved
-  why_it_matters: Adds Persian Sufi allegorical material for lover-beloved symbolism,
-    Yusuf and Zulaikha, and divine beauty.
-  raw_path: imports/raw/project-gutenberg/45158-persian-mystics-jami-davis.txt
+  - Sadi
+  - kings
+  - dervishes
+  why_it_matters: Adds Sa'di's ethical and dervish material for wisdom, kingship,
+    renunciation, speech, and moral anecdote patterns.
+  raw_path: imports/raw/project-gutenberg/13060-gulistan-sadi-ross.txt
   pipeline:
     raw_fetched_on: '2026-04-27'
     converted_on: '2026-04-27'
     promoted_on: '2026-04-27'
-  converted_path: imports/converted/project-gutenberg/45158-persian-mystics-jami-davis.md
-  canonical_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
-  manifest_path: manifests/project-gutenberg/45158-persian-mystics-jami-davis.yml
-  extraction_dir: extractions/sufi/project-gutenberg/persian-mystics-jami-davis
+  converted_path: imports/converted/project-gutenberg/13060-gulistan-sadi-ross.md
+  canonical_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  manifest_path: manifests/project-gutenberg/13060-gulistan-sadi-ross.yml
+  extraction_dir: extractions/persian/project-gutenberg/gulistan-sadi-ross
 - id: sufi.hafiz.divan.bell_gutenberg
   status: ingested
   priority: medium
@@ -199,6 +200,69 @@ items:
   canonical_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
   manifest_path: manifests/project-gutenberg/74883-poems-from-divan-of-hafiz-bell.yml
   extraction_dir: extractions/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell
+- id: sufi.jami.persian_mystics.davis_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '45158'
+  slug: persian-mystics-jami-davis
+  title: 'The Persian Mystics: Jámí'
+  alternate_titles:
+  - Persian Mystics Jami
+  - Jami
+  text_status: selected
+  tradition: sufi
+  tradition_cluster: islamic_persian_sufi
+  culture: persian_sufi_later_english_selection
+  region: iran_central_asia
+  source_language: Persian
+  text_language: English
+  date_range: 15th-century Persian Sufi source material; early 20th-century public-domain
+    English selection and study
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #45158'
+  translator: F. Hadland Davis
+  editor: F. Hadland Davis
+  publication_year: 1918
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/45158
+  download_url: https://www.gutenberg.org/ebooks/45158.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  tags:
+  - jami
+  - persian_mystics
+  - sufism
+  - yusuf_zulaikha
+  - divine_love
+  - allegory
+  motifs:
+  - mystical_quest
+  - divine_beloved
+  - sacred_marriage
+  - wisdom
+  figures:
+  - Jami
+  - Yusuf
+  - Zulaikha
+  - Beloved
+  why_it_matters: Adds Persian Sufi allegorical material for lover-beloved symbolism,
+    Yusuf and Zulaikha, and divine beauty.
+  raw_path: imports/raw/project-gutenberg/45158-persian-mystics-jami-davis.txt
+  pipeline:
+    raw_fetched_on: '2026-04-27'
+    converted_on: '2026-04-27'
+    promoted_on: '2026-04-27'
+  converted_path: imports/converted/project-gutenberg/45158-persian-mystics-jami-davis.md
+  canonical_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  manifest_path: manifests/project-gutenberg/45158-persian-mystics-jami-davis.yml
+  extraction_dir: extractions/sufi/project-gutenberg/persian-mystics-jami-davis
 - id: sufi.omar_khayyam.sufism_of_rubaiyat.hazeldine_gutenberg
   status: ingested
   priority: medium
@@ -320,390 +384,68 @@ items:
   canonical_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
   manifest_path: manifests/project-gutenberg/38511-sufistic-quatrains-omar-khayyam.yml
   extraction_dir: extractions/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam
-- id: persian.sadi.gulistan.ross_gutenberg
+- id: sufi.persian_mystics_rumi.davis_gutenberg
   status: ingested
   priority: high
   source: project_gutenberg
-  source_id: '13060'
-  slug: gulistan-sadi-ross
-  title: The Persian Literature, Volume 2, The Gulistan
+  source_id: '45159'
+  slug: persian-mystics-rumi-davis
+  title: 'The Persian Mystics: Jalálu''d-dín Rúmí'
   alternate_titles:
-  - The Gulistan
-  - Rose Garden
-  - Sa'di Gulistan
-  text_status: complete
-  tradition: persian
-  tradition_cluster: persian
-  culture: medieval_persian_later_translation
-  region: iran
+  - Jalalu'd-Din Rumi
+  - Persian Mystics Rumi
+  text_status: selected
+  tradition: sufi
+  tradition_cluster: islamic_persian_sufi
+  culture: persian_sufi_later_english_selection
+  region: iran_anatolia
   source_language: Persian
   text_language: English
-  date_range: 13th-century Persian source text; public-domain English translation
+  date_range: 13th-century Persian Sufi source material; early 20th-century public-domain
+    English selection and study
   source_type: text
-  edition: 'Project Gutenberg plain-text eBook #13060'
-  translator: James Ross
-  editor: ''
-  publication_year: 1823
+  edition: 'Project Gutenberg plain-text eBook #45159'
+  translator: F. Hadland Davis
+  editor: F. Hadland Davis
+  publication_year: 1920
   publisher: Project Gutenberg
-  source_url: https://www.gutenberg.org/ebooks/13060
-  download_url: https://www.gutenberg.org/ebooks/13060.txt.utf-8
+  source_url: https://www.gutenberg.org/ebooks/45159
+  download_url: https://www.gutenberg.org/ebooks/45159.txt.utf-8
   rights:
     status: public_domain
     jurisdiction: US
     license_url: https://www.gutenberg.org/policy/license.html
     full_text: allowed
     training_use: allowed
-    notes: Project Gutenberg catalog records public-domain status in the USA; mark
-      as Persian ethical/literary wisdom rather than purely Sufi.
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
   tags:
-  - sadi
-  - gulistan
-  - persian
-  - wisdom
-  - dervishes
-  - kingship
-  - ethics
+  - rumi
+  - persian_mystics
+  - sufism
+  - divine_love
+  - masnavi
+  - divani_shams
   motifs:
+  - mystical_quest
+  - divine_beloved
+  - annihilation_union
   - wisdom
-  - sacred_exchange
-  - royal_legitimacy
-  - renunciation
   figures:
-  - Sadi
-  - kings
-  - dervishes
-  why_it_matters: Adds Sa'di's ethical and dervish material for wisdom, kingship,
-    renunciation, speech, and moral anecdote patterns.
-  raw_path: imports/raw/project-gutenberg/13060-gulistan-sadi-ross.txt
+  - Jalal al-Din Rumi
+  - Beloved
+  - seeker
+  why_it_matters: Adds a compact public-domain Rumi selection focused on divine love,
+    union, Sufi symbolism, and comparison with the longer Mesnevi Book I lane.
+  raw_path: imports/raw/project-gutenberg/45159-persian-mystics-rumi-davis.txt
   pipeline:
     raw_fetched_on: '2026-04-27'
     converted_on: '2026-04-27'
     promoted_on: '2026-04-27'
-  converted_path: imports/converted/project-gutenberg/13060-gulistan-sadi-ross.md
-  canonical_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
-  manifest_path: manifests/project-gutenberg/13060-gulistan-sadi-ross.yml
-  extraction_dir: extractions/persian/project-gutenberg/gulistan-sadi-ross
-- id: greek.odyssey.butler_gutenberg
-  status: ingested
-  priority: high
-  source: project_gutenberg
-  source_id: '1727'
-  slug: odyssey-butler
-  title: The Odyssey
-  alternate_titles:
-  - Odyssey
-  - The Odyssey of Homer
-  text_status: complete
-  tradition: greek
-  tradition_cluster: greek
-  culture: ancient_greek_epic_later_translation
-  region: aegean_mediterranean
-  source_language: Ancient Greek
-  text_language: English
-  date_range: archaic Greek epic; 1900 public-domain English prose translation
-  source_type: text
-  edition: 'Project Gutenberg plain-text eBook #1727'
-  translator: Samuel Butler
-  editor: ''
-  publication_year: 1900
-  publisher: Project Gutenberg
-  source_url: https://www.gutenberg.org/ebooks/1727
-  download_url: https://www.gutenberg.org/ebooks/1727.txt.utf-8
-  rights:
-    status: public_domain
-    jurisdiction: US
-    license_url: https://www.gutenberg.org/policy/license.html
-    full_text: allowed
-    training_use: allowed
-    notes: Project Gutenberg catalog records public-domain status in the USA; use
-      outside the USA requires jurisdiction-specific review.
-  tags:
-  - odyssey
-  - homer
-  - nostos
-  - sea_journey
-  - homecoming
-  - underworld
-  motifs:
-  - departure
-  - return
-  - hero_descent
-  - trickster_boundary
-  - wisdom
-  figures:
-  - Odysseus
-  - Penelope
-  - Telemachus
-  - Athena
-  why_it_matters: Adds the major Greek homecoming epic for voyage, underworld descent,
-    disguise, temptation, recognition, and return motifs.
-  raw_path: imports/raw/project-gutenberg/1727-odyssey-butler.txt
-  pipeline:
-    raw_fetched_on: '2026-04-27'
-    converted_on: '2026-04-27'
-    promoted_on: '2026-04-27'
-  converted_path: imports/converted/project-gutenberg/1727-odyssey-butler.md
-  canonical_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
-  manifest_path: manifests/project-gutenberg/1727-odyssey-butler.yml
-  extraction_dir: extractions/greek/project-gutenberg/odyssey-butler
-- id: roman.aeneid.mackail_gutenberg
-  status: queued
-  priority: high
-  source: project_gutenberg
-  source_id: '22456'
-  slug: aeneid-mackail
-  title: The Aeneid of Virgil
-  alternate_titles:
-  - Aeneid
-  - The Aeneid
-  text_status: complete
-  tradition: roman
-  tradition_cluster: classical_roman
-  culture: ancient_roman_epic_later_translation
-  region: mediterranean_rome
-  source_language: Latin
-  text_language: English
-  date_range: 1st-century BCE Latin epic; public-domain English prose translation
-  source_type: text
-  edition: 'Project Gutenberg plain-text eBook #22456'
-  translator: J. W. Mackail
-  editor: ''
-  publication_year: 1885
-  publisher: Project Gutenberg
-  source_url: https://www.gutenberg.org/ebooks/22456
-  download_url: https://www.gutenberg.org/ebooks/22456.txt.utf-8
-  rights:
-    status: public_domain
-    jurisdiction: US
-    license_url: https://www.gutenberg.org/policy/license.html
-    full_text: allowed
-    training_use: allowed
-    notes: Project Gutenberg catalog records public-domain status in the USA; use
-      outside the USA requires jurisdiction-specific review.
-  tags:
-  - aeneid
-  - virgil
-  - rome
-  - founding_epic
-  - underworld
-  motifs:
-  - departure
-  - return
-  - hero_descent
-  - royal_legitimacy
-  - divine_parent_child
-  figures:
-  - Aeneas
-  - Venus
-  - Anchises
-  - Dido
-  why_it_matters: Adds Rome's founding epic for exile, divine ancestry, underworld
-    instruction, sacred destiny, and empire-making patterns.
-- id: greek.plato.phaedrus_jowett_gutenberg
-  status: queued
-  priority: medium
-  source: project_gutenberg
-  source_id: '1636'
-  slug: phaedrus-jowett
-  title: Phaedrus
-  alternate_titles:
-  - Plato's Phaedrus
-  text_status: complete
-  tradition: greek
-  tradition_cluster: greek_philosophical
-  culture: classical_greek_later_translation
-  region: aegean_mediterranean
-  source_language: Ancient Greek
-  text_language: English
-  date_range: 4th-century BCE philosophical dialogue; public-domain English translation
-  source_type: text
-  edition: 'Project Gutenberg plain-text eBook #1636'
-  translator: Benjamin Jowett
-  editor: Benjamin Jowett
-  publication_year: 1892
-  publisher: Project Gutenberg
-  source_url: https://www.gutenberg.org/ebooks/1636
-  download_url: https://www.gutenberg.org/ebooks/1636.txt.utf-8
-  rights:
-    status: public_domain
-    jurisdiction: US
-    license_url: https://www.gutenberg.org/policy/license.html
-    full_text: allowed
-    training_use: allowed
-    notes: Project Gutenberg catalog records public-domain status in the USA; use
-      outside the USA requires jurisdiction-specific review.
-  tags:
-  - plato
-  - socrates
-  - love
-  - soul
-  - rhetoric
-  - divine_madness
-  motifs:
-  - wisdom
-  - ascent
-  - divine_beloved
-  - initiation
-  figures:
-  - Socrates
-  - Phaedrus
-  - soul
-  why_it_matters: Adds a philosophical love and soul text for eros, ascent, divine
-    madness, memory, and the winged-soul image.
-- id: greek.plato.symposium_jowett_gutenberg
-  status: queued
-  priority: medium
-  source: project_gutenberg
-  source_id: '1600'
-  slug: symposium-jowett
-  title: Symposium
-  alternate_titles:
-  - Plato's Symposium
-  text_status: complete
-  tradition: greek
-  tradition_cluster: greek_philosophical
-  culture: classical_greek_later_translation
-  region: aegean_mediterranean
-  source_language: Ancient Greek
-  text_language: English
-  date_range: 4th-century BCE philosophical dialogue; public-domain English translation
-  source_type: text
-  edition: 'Project Gutenberg plain-text eBook #1600'
-  translator: Benjamin Jowett
-  editor: Benjamin Jowett
-  publication_year: 1892
-  publisher: Project Gutenberg
-  source_url: https://www.gutenberg.org/ebooks/1600
-  download_url: https://www.gutenberg.org/ebooks/1600.txt.utf-8
-  rights:
-    status: public_domain
-    jurisdiction: US
-    license_url: https://www.gutenberg.org/policy/license.html
-    full_text: allowed
-    training_use: allowed
-    notes: Project Gutenberg catalog records public-domain status in the USA; use
-      outside the USA requires jurisdiction-specific review.
-  tags:
-  - plato
-  - socrates
-  - eros
-  - love
-  - beauty
-  - ascent
-  motifs:
-  - wisdom
-  - divine_beloved
-  - ascent
-  - sacred_marriage
-  figures:
-  - Socrates
-  - Diotima
-  - Alcibiades
-  - Eros
-  why_it_matters: Adds a central eros text for the ladder of love, beauty, divine
-    longing, and lover-beloved patterns across traditions.
-- id: greek.plato.republic_jowett_gutenberg
-  status: queued
-  priority: medium
-  source: project_gutenberg
-  source_id: '1497'
-  slug: republic-jowett
-  title: The Republic
-  alternate_titles:
-  - Plato's Republic
-  text_status: complete
-  tradition: greek
-  tradition_cluster: greek_philosophical
-  culture: classical_greek_later_translation
-  region: aegean_mediterranean
-  source_language: Ancient Greek
-  text_language: English
-  date_range: 4th-century BCE philosophical dialogue; public-domain English translation
-  source_type: text
-  edition: 'Project Gutenberg plain-text eBook #1497'
-  translator: Benjamin Jowett
-  editor: Benjamin Jowett
-  publication_year: 1892
-  publisher: Project Gutenberg
-  source_url: https://www.gutenberg.org/ebooks/1497
-  download_url: https://www.gutenberg.org/ebooks/1497.txt.utf-8
-  rights:
-    status: public_domain
-    jurisdiction: US
-    license_url: https://www.gutenberg.org/policy/license.html
-    full_text: allowed
-    training_use: allowed
-    notes: Project Gutenberg catalog records public-domain status in the USA; use
-      outside the USA requires jurisdiction-specific review.
-  tags:
-  - plato
-  - socrates
-  - justice
-  - cave
-  - philosopher_king
-  - soul
-  motifs:
-  - wisdom
-  - ascent
-  - royal_legitimacy
-  - divine_judgment
-  figures:
-  - Socrates
-  - philosopher king
-  - prisoners of the cave
-  why_it_matters: Adds the cave, philosopher-ruler, just city, and soul-ordering material
-    for wisdom and illumination patterns.
-- id: greek.aesop.fables_vernon_jones_gutenberg
-  status: queued
-  priority: medium
-  source: project_gutenberg
-  source_id: '11339'
-  slug: aesops-fables-vernon-jones
-  title: Aesop's Fables; a new translation
-  alternate_titles:
-  - Aesop's Fables
-  text_status: complete
-  tradition: greek
-  tradition_cluster: greek_fable_later_collection
-  culture: ancient_greek_fable_later_translation
-  region: aegean_mediterranean
-  source_language: Ancient Greek
-  text_language: English
-  date_range: ancient fable tradition; 1912 public-domain English translation
-  source_type: text
-  edition: 'Project Gutenberg plain-text eBook #11339'
-  translator: V. S. Vernon Jones
-  editor: ''
-  publication_year: 1912
-  publisher: Project Gutenberg
-  source_url: https://www.gutenberg.org/ebooks/11339
-  download_url: https://www.gutenberg.org/ebooks/11339.txt.utf-8
-  rights:
-    status: public_domain
-    jurisdiction: US
-    license_url: https://www.gutenberg.org/policy/license.html
-    full_text: allowed
-    training_use: allowed
-    notes: Project Gutenberg catalog records public-domain status in the USA; use
-      outside the USA requires jurisdiction-specific review.
-  tags:
-  - aesop
-  - fables
-  - moral_tales
-  - animal_tales
-  - wisdom
-  motifs:
-  - wisdom
-  - trickster_boundary
-  - animal_helper
-  - sacred_exchange
-  figures:
-  - Aesop
-  - fox
-  - lion
-  - tortoise
-  why_it_matters: Adds a compact fable corpus for moral compression, animal symbols,
-    trickster intelligence, and cross-cultural wisdom-tale comparison.
+  converted_path: imports/converted/project-gutenberg/45159-persian-mystics-rumi-davis.md
+  canonical_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  manifest_path: manifests/project-gutenberg/45159-persian-mystics-rumi-davis.yml
+  extraction_dir: extractions/sufi/project-gutenberg/persian-mystics-rumi-davis
 - id: roman.ovid.metamorphoses_books_1_7_riley_gutenberg
   status: queued
   priority: high
@@ -810,6 +552,59 @@ items:
   - Caesar
   why_it_matters: Adds the second half of Ovid for labyrinth, artist-creator, descent,
     love, transformation, and apotheosis patterns.
+- id: roman.aeneid.mackail_gutenberg
+  status: queued
+  priority: high
+  source: project_gutenberg
+  source_id: '22456'
+  slug: aeneid-mackail
+  title: The Aeneid of Virgil
+  alternate_titles:
+  - Aeneid
+  - The Aeneid
+  text_status: complete
+  tradition: roman
+  tradition_cluster: classical_roman
+  culture: ancient_roman_epic_later_translation
+  region: mediterranean_rome
+  source_language: Latin
+  text_language: English
+  date_range: 1st-century BCE Latin epic; public-domain English prose translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #22456'
+  translator: J. W. Mackail
+  editor: ''
+  publication_year: 1885
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/22456
+  download_url: https://www.gutenberg.org/ebooks/22456.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  tags:
+  - aeneid
+  - virgil
+  - rome
+  - founding_epic
+  - underworld
+  motifs:
+  - departure
+  - return
+  - hero_descent
+  - royal_legitimacy
+  - divine_parent_child
+  figures:
+  - Aeneas
+  - Venus
+  - Anchises
+  - Dido
+  why_it_matters: Adds Rome's founding epic for exile, divine ancestry, underworld
+    instruction, sacred destiny, and empire-making patterns.
 - id: buddhist.jataka.birth_stories_rhys_davids_gutenberg
   status: queued
   priority: high
@@ -862,6 +657,57 @@ items:
   - animals
   why_it_matters: Adds a major Buddhist former-lives corpus for rebirth, animal fables,
     moral causality, sacrifice, and wisdom motifs.
+- id: ainu.folk_tales.chamberlain_gutenberg
+  status: queued
+  priority: medium
+  source: project_gutenberg
+  source_id: '29287'
+  slug: aino-folk-tales-chamberlain
+  title: Aino Folk-Tales
+  alternate_titles:
+  - Ainu Folk-Tales
+  text_status: complete
+  tradition: ainu
+  tradition_cluster: ainu_folklore
+  culture: ainu_oral_traditions_colonial_collection
+  region: hokkaido_japan
+  source_language: Ainu oral traditions mediated through English collection
+  text_language: English
+  date_range: Ainu oral traditions; 1888 public-domain English collection
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #29287'
+  translator: Basil Hall Chamberlain
+  editor: Basil Hall Chamberlain
+  publication_year: 1888
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/29287
+  download_url: https://www.gutenberg.org/ebooks/29287.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; treat
+      as a colonial-era mediated collection and review cultural context carefully.
+  tags:
+  - ainu
+  - folklore
+  - oral_tradition
+  - animals
+  - cultural_context
+  motifs:
+  - animal_helper
+  - culture_hero
+  - trickster_boundary
+  - cosmic_origin
+  - wisdom
+  figures:
+  - Ainu storytellers
+  - animals
+  - spirits
+  why_it_matters: Adds Ainu folklore with explicit mediation notes for animal, spirit,
+    origin, and ethics-sensitive comparative work.
 - id: buddhist.jataka_tales.babbitt_gutenberg
   status: queued
   priority: medium
@@ -1014,111 +860,6 @@ items:
   - trickster
   why_it_matters: Adds another Jataka-derived comparison layer for animal wisdom,
     clever rescue, community, and moral consequence patterns.
-- id: norse.myths_of_norsemen.guerber_gutenberg
-  status: queued
-  priority: high
-  source: project_gutenberg
-  source_id: '28497'
-  slug: myths-of-the-norsemen-guerber
-  title: 'Myths of the Norsemen: From the Eddas and Sagas'
-  alternate_titles:
-  - Myths of the Norsemen
-  text_status: complete
-  tradition: norse
-  tradition_cluster: norse
-  culture: norse_myth_later_retelling
-  region: scandinavia_north_atlantic
-  source_language: Old Norse
-  text_language: English
-  date_range: medieval Norse source material; 1909 public-domain English retelling
-  source_type: text
-  edition: 'Project Gutenberg plain-text eBook #28497'
-  translator: ''
-  editor: H. A. Guerber
-  publication_year: 1909
-  publisher: Project Gutenberg
-  source_url: https://www.gutenberg.org/ebooks/28497
-  download_url: https://www.gutenberg.org/ebooks/28497.txt.utf-8
-  rights:
-    status: public_domain
-    jurisdiction: US
-    license_url: https://www.gutenberg.org/policy/license.html
-    full_text: allowed
-    training_use: allowed
-    notes: Project Gutenberg catalog records public-domain status in the USA; this
-      is a later retelling drawn from Eddic and saga material.
-  tags:
-  - norse
-  - eddas
-  - sagas
-  - ragnarok
-  - odin
-  - thor
-  motifs:
-  - cosmic_origin
-  - sacred_tree_axis
-  - trickster_boundary
-  - world_destroying_fire
-  - death_rebirth
-  figures:
-  - Odin
-  - Thor
-  - Loki
-  - Baldr
-  why_it_matters: Adds a readable Norse myth synthesis for creation, world tree, trickster,
-    divine doom, and Ragnarok pattern extraction.
-- id: greek_roman.berens.myths_legends_gutenberg
-  status: queued
-  priority: medium
-  source: project_gutenberg
-  source_id: '22381'
-  slug: myths-legends-ancient-greece-rome-berens
-  title: Myths and Legends of Ancient Greece and Rome
-  alternate_titles:
-  - Myths and Legends of Ancient Greece and Rome
-  text_status: complete
-  tradition: greek_roman
-  tradition_cluster: classical
-  culture: classical_myth_later_handbook
-  region: aegean_mediterranean_rome
-  source_language: Ancient Greek and Latin source traditions
-  text_language: English
-  date_range: ancient classical mythic material; 1880 public-domain English handbook
-  source_type: text
-  edition: 'Project Gutenberg plain-text eBook #22381'
-  translator: ''
-  editor: E. M. Berens
-  publication_year: 1880
-  publisher: Project Gutenberg
-  source_url: https://www.gutenberg.org/ebooks/22381
-  download_url: https://www.gutenberg.org/ebooks/22381.txt.utf-8
-  rights:
-    status: public_domain
-    jurisdiction: US
-    license_url: https://www.gutenberg.org/policy/license.html
-    full_text: allowed
-    training_use: allowed
-    notes: Project Gutenberg catalog records public-domain status in the USA; this
-      is a later educational handbook rather than a primary ancient source.
-  tags:
-  - classical_myth
-  - greek
-  - roman
-  - gods
-  - heroes
-  motifs:
-  - cosmic_origin
-  - sacred_birth
-  - divine_parent_child
-  - hero_quest
-  - underworld_trial
-  figures:
-  - Zeus
-  - Hera
-  - Athena
-  - Hercules
-  why_it_matters: Adds a broad classical-myth handbook for cross-checking Greek and
-    Roman divine families, hero quests, underworld, and sacred birth patterns.
 - id: comparative.golden_bough.volume_1_frazer_gutenberg
   status: queued
   priority: medium
@@ -1219,6 +960,263 @@ items:
   - scapegoat
   why_it_matters: Completes the two-volume Golden Bough lane for scapegoat, fertility,
     seasonal death and renewal, and comparative ritual theory.
+- id: greek.aesop.fables_vernon_jones_gutenberg
+  status: queued
+  priority: medium
+  source: project_gutenberg
+  source_id: '11339'
+  slug: aesops-fables-vernon-jones
+  title: Aesop's Fables; a new translation
+  alternate_titles:
+  - Aesop's Fables
+  text_status: complete
+  tradition: greek
+  tradition_cluster: greek_fable_later_collection
+  culture: ancient_greek_fable_later_translation
+  region: aegean_mediterranean
+  source_language: Ancient Greek
+  text_language: English
+  date_range: ancient fable tradition; 1912 public-domain English translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #11339'
+  translator: V. S. Vernon Jones
+  editor: ''
+  publication_year: 1912
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/11339
+  download_url: https://www.gutenberg.org/ebooks/11339.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  tags:
+  - aesop
+  - fables
+  - moral_tales
+  - animal_tales
+  - wisdom
+  motifs:
+  - wisdom
+  - trickster_boundary
+  - animal_helper
+  - sacred_exchange
+  figures:
+  - Aesop
+  - fox
+  - lion
+  - tortoise
+  why_it_matters: Adds a compact fable corpus for moral compression, animal symbols,
+    trickster intelligence, and cross-cultural wisdom-tale comparison.
+- id: greek.plato.phaedrus_jowett_gutenberg
+  status: queued
+  priority: medium
+  source: project_gutenberg
+  source_id: '1636'
+  slug: phaedrus-jowett
+  title: Phaedrus
+  alternate_titles:
+  - Plato's Phaedrus
+  text_status: complete
+  tradition: greek
+  tradition_cluster: greek_philosophical
+  culture: classical_greek_later_translation
+  region: aegean_mediterranean
+  source_language: Ancient Greek
+  text_language: English
+  date_range: 4th-century BCE philosophical dialogue; public-domain English translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #1636'
+  translator: Benjamin Jowett
+  editor: Benjamin Jowett
+  publication_year: 1892
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/1636
+  download_url: https://www.gutenberg.org/ebooks/1636.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  tags:
+  - plato
+  - socrates
+  - love
+  - soul
+  - rhetoric
+  - divine_madness
+  motifs:
+  - wisdom
+  - ascent
+  - divine_beloved
+  - initiation
+  figures:
+  - Socrates
+  - Phaedrus
+  - soul
+  why_it_matters: Adds a philosophical love and soul text for eros, ascent, divine
+    madness, memory, and the winged-soul image.
+- id: greek.plato.republic_jowett_gutenberg
+  status: queued
+  priority: medium
+  source: project_gutenberg
+  source_id: '1497'
+  slug: republic-jowett
+  title: The Republic
+  alternate_titles:
+  - Plato's Republic
+  text_status: complete
+  tradition: greek
+  tradition_cluster: greek_philosophical
+  culture: classical_greek_later_translation
+  region: aegean_mediterranean
+  source_language: Ancient Greek
+  text_language: English
+  date_range: 4th-century BCE philosophical dialogue; public-domain English translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #1497'
+  translator: Benjamin Jowett
+  editor: Benjamin Jowett
+  publication_year: 1892
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/1497
+  download_url: https://www.gutenberg.org/ebooks/1497.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  tags:
+  - plato
+  - socrates
+  - justice
+  - cave
+  - philosopher_king
+  - soul
+  motifs:
+  - wisdom
+  - ascent
+  - royal_legitimacy
+  - divine_judgment
+  figures:
+  - Socrates
+  - philosopher king
+  - prisoners of the cave
+  why_it_matters: Adds the cave, philosopher-ruler, just city, and soul-ordering material
+    for wisdom and illumination patterns.
+- id: greek.plato.symposium_jowett_gutenberg
+  status: queued
+  priority: medium
+  source: project_gutenberg
+  source_id: '1600'
+  slug: symposium-jowett
+  title: Symposium
+  alternate_titles:
+  - Plato's Symposium
+  text_status: complete
+  tradition: greek
+  tradition_cluster: greek_philosophical
+  culture: classical_greek_later_translation
+  region: aegean_mediterranean
+  source_language: Ancient Greek
+  text_language: English
+  date_range: 4th-century BCE philosophical dialogue; public-domain English translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #1600'
+  translator: Benjamin Jowett
+  editor: Benjamin Jowett
+  publication_year: 1892
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/1600
+  download_url: https://www.gutenberg.org/ebooks/1600.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  tags:
+  - plato
+  - socrates
+  - eros
+  - love
+  - beauty
+  - ascent
+  motifs:
+  - wisdom
+  - divine_beloved
+  - ascent
+  - sacred_marriage
+  figures:
+  - Socrates
+  - Diotima
+  - Alcibiades
+  - Eros
+  why_it_matters: Adds a central eros text for the ladder of love, beauty, divine
+    longing, and lover-beloved patterns across traditions.
+- id: greek_roman.berens.myths_legends_gutenberg
+  status: queued
+  priority: medium
+  source: project_gutenberg
+  source_id: '22381'
+  slug: myths-legends-ancient-greece-rome-berens
+  title: Myths and Legends of Ancient Greece and Rome
+  alternate_titles:
+  - Myths and Legends of Ancient Greece and Rome
+  text_status: complete
+  tradition: greek_roman
+  tradition_cluster: classical
+  culture: classical_myth_later_handbook
+  region: aegean_mediterranean_rome
+  source_language: Ancient Greek and Latin source traditions
+  text_language: English
+  date_range: ancient classical mythic material; 1880 public-domain English handbook
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #22381'
+  translator: ''
+  editor: E. M. Berens
+  publication_year: 1880
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/22381
+  download_url: https://www.gutenberg.org/ebooks/22381.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; this
+      is a later educational handbook rather than a primary ancient source.
+  tags:
+  - classical_myth
+  - greek
+  - roman
+  - gods
+  - heroes
+  motifs:
+  - cosmic_origin
+  - sacred_birth
+  - divine_parent_child
+  - hero_quest
+  - underworld_trial
+  figures:
+  - Zeus
+  - Hera
+  - Athena
+  - Hercules
+  why_it_matters: Adds a broad classical-myth handbook for cross-checking Greek and
+    Roman divine families, hero quests, underworld, and sacred birth patterns.
 - id: japanese.fairy_tales.ozaki_gutenberg
   status: queued
   priority: medium
@@ -1270,54 +1268,56 @@ items:
   - Princess Kaguya
   why_it_matters: Adds Japanese folklore material for divine child, animal helper,
     time dilation, moon-maiden, and heroic quest comparisons.
-- id: ainu.folk_tales.chamberlain_gutenberg
+- id: norse.myths_of_norsemen.guerber_gutenberg
   status: queued
-  priority: medium
+  priority: high
   source: project_gutenberg
-  source_id: '29287'
-  slug: aino-folk-tales-chamberlain
-  title: Aino Folk-Tales
+  source_id: '28497'
+  slug: myths-of-the-norsemen-guerber
+  title: 'Myths of the Norsemen: From the Eddas and Sagas'
   alternate_titles:
-  - Ainu Folk-Tales
+  - Myths of the Norsemen
   text_status: complete
-  tradition: ainu
-  tradition_cluster: ainu_folklore
-  culture: ainu_oral_traditions_colonial_collection
-  region: hokkaido_japan
-  source_language: Ainu oral traditions mediated through English collection
+  tradition: norse
+  tradition_cluster: norse
+  culture: norse_myth_later_retelling
+  region: scandinavia_north_atlantic
+  source_language: Old Norse
   text_language: English
-  date_range: Ainu oral traditions; 1888 public-domain English collection
+  date_range: medieval Norse source material; 1909 public-domain English retelling
   source_type: text
-  edition: 'Project Gutenberg plain-text eBook #29287'
-  translator: Basil Hall Chamberlain
-  editor: Basil Hall Chamberlain
-  publication_year: 1888
+  edition: 'Project Gutenberg plain-text eBook #28497'
+  translator: ''
+  editor: H. A. Guerber
+  publication_year: 1909
   publisher: Project Gutenberg
-  source_url: https://www.gutenberg.org/ebooks/29287
-  download_url: https://www.gutenberg.org/ebooks/29287.txt.utf-8
+  source_url: https://www.gutenberg.org/ebooks/28497
+  download_url: https://www.gutenberg.org/ebooks/28497.txt.utf-8
   rights:
     status: public_domain
     jurisdiction: US
     license_url: https://www.gutenberg.org/policy/license.html
     full_text: allowed
     training_use: allowed
-    notes: Project Gutenberg catalog records public-domain status in the USA; treat
-      as a colonial-era mediated collection and review cultural context carefully.
+    notes: Project Gutenberg catalog records public-domain status in the USA; this
+      is a later retelling drawn from Eddic and saga material.
   tags:
-  - ainu
-  - folklore
-  - oral_tradition
-  - animals
-  - cultural_context
+  - norse
+  - eddas
+  - sagas
+  - ragnarok
+  - odin
+  - thor
   motifs:
-  - animal_helper
-  - culture_hero
-  - trickster_boundary
   - cosmic_origin
-  - wisdom
+  - sacred_tree_axis
+  - trickster_boundary
+  - world_destroying_fire
+  - death_rebirth
   figures:
-  - Ainu storytellers
-  - animals
-  - spirits
-  why_it_matters: Adds Ainu folklore with explicit mediation notes for animal, spirit,
-    origin, and ethics-sensitive comparative work.
+  - Odin
+  - Thor
+  - Loki
+  - Baldr
+  why_it_matters: Adds a readable Norse myth synthesis for creation, world tree, trickster,
+    divine doom, and Ragnarok pattern extraction.
