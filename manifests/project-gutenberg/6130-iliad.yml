@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: project-gutenberg-wave-2
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.gutenberg_6130
+  work_id: greek.iliad.pope_gutenberg
+  title: The Iliad
+  source_url: https://www.gutenberg.org/ebooks/6130
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/project-gutenberg/6130-iliad.txt
+    checksum:
+      algorithm: sha256
+      value: 3593dc7f57bb0e05fa813f74799213d0f62331160b65004ac66cc70cc19c1bd2
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/6130-iliad.md
+    checksum:
+      algorithm: sha256
+      value: 68a0772cfeab66ecefa4bb4435431d6435fd9e4003e69c7f09a22fc06bd6a0e2
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+    checksum:
+      algorithm: sha256
+      value: fd4d9b02bed18cb24a78fdeb1b6ded9f028730e94ec199ae1bcafa36798b8829
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/build_gutenberg_seed.rb
+    version: '1'
+    command: ruby scripts/build_gutenberg_seed.rb 6130
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Generic plain-text converter for public-domain Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: The source catalog page records public-domain status in the USA; reuse
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure, rights metadata, and removal
+      of distributor boilerplate.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.

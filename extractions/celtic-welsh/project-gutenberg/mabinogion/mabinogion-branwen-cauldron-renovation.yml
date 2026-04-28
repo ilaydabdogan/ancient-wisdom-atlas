@@ -1,0 +1,314 @@
+---
+record_id: extraction.celtic_welsh.mabinogion.branwen_cauldron_renovation
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: "Branwen the daughter of Llyr; cauldron origin and battlefield use"
+  start: 6655
+  end: 6906
+  translation: Lady Charlotte Guest, The Mabinogion
+  notes: Line numbers refer to the repository markdown source.
+canonical_text:
+  summary: Bendigeid Vran gives Matholwch a cauldron that can revive slain men without speech; later the Irish use it to resuscitate dead bodies until Evnissyen breaks it from within.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: Bendigeid Vran offers Matholwch a cauldron whose property is to restore a slain man by the next day, though he will not be able to speak.
+    category: object
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: Matholwch asks where the cauldron came from, and Bendigeid Vran says he received it from Llassar Llaesgyvnewid.
+    category: speech
+    evidence_refs:
+      - ev:2
+  - id: obs:3
+    text: Matholwch says he saw a huge yellow-haired man come from the Lake of the Cauldron with a cauldron on his back.
+    category: setting
+    evidence_refs:
+      - ev:3
+  - id: obs:4
+    text: The huge man and his wife survive an iron house made red hot around them, while their children do not escape.
+    category: action
+    evidence_refs:
+      - ev:4
+  - id: obs:5
+    text: During battle, the Irish kindle a fire under the cauldron of renovation and cast dead bodies into it until it is full.
+    category: action
+    evidence_refs:
+      - ev:5
+  - id: obs:6
+    text: The bodies placed in the cauldron rise as fighting men the next day but cannot speak.
+    category: sequence
+    evidence_refs:
+      - ev:5
+  - id: obs:7
+    text: Evnissyen sees that the men of the Island of the Mighty are not being resuscitated and enters the cauldron among the Irish dead.
+    category: action
+    evidence_refs:
+      - ev:6
+  - id: obs:8
+    text: Evnissyen stretches himself out in the cauldron and rends it into four pieces.
+    category: action
+    evidence_refs:
+      - ev:6
+figures:
+  - id: fig:1
+    name_or_label: Bendigeid Vran
+    description: Giver of the cauldron to Matholwch.
+    role_refs:
+      - role:1
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: fig:2
+    name_or_label: Matholwch
+    description: King of Ireland who receives the cauldron and recounts its earlier origin story.
+    role_refs:
+      - role:2
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+  - id: fig:3
+    name_or_label: Llassar Llaesgyvnewid
+    description: Huge yellow-haired man from whom Bendigeid Vran received the cauldron.
+    role_refs:
+      - role:3
+    evidence_refs:
+      - ev:2
+      - ev:3
+      - ev:4
+  - id: fig:4
+    name_or_label: Kymideu Kymeinvoll
+    description: Llassar's wife, described as larger than he is and as escaping the heated iron house with him.
+    role_refs:
+      - role:3
+    evidence_refs:
+      - ev:3
+      - ev:4
+  - id: fig:5
+    name_or_label: the Irish
+    description: Battle group that uses the cauldron of renovation to revive dead bodies.
+    role_refs:
+      - role:4
+    evidence_refs:
+      - ev:5
+  - id: fig:6
+    name_or_label: Evnissyen
+    description: Figure who enters the cauldron among the dead and breaks it.
+    role_refs:
+      - role:5
+    evidence_refs:
+      - ev:6
+roles:
+  - id: role:1
+    label: cauldron_giver
+    assigned_to:
+      - fig:1
+    basis: Bendigeid Vran gives Matholwch the cauldron and explains whom he received it from.
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: role:2
+    label: cauldron_receiver
+    assigned_to:
+      - fig:2
+    basis: Matholwch receives the cauldron and asks about its source.
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: role:3
+    label: cauldron_origin_figures
+    assigned_to:
+      - fig:3
+      - fig:4
+    basis: Llassar carries the cauldron from the lake, and both he and Kymideu survive the heated iron house before reaching Bendigeid Vran.
+    evidence_refs:
+      - ev:3
+      - ev:4
+  - id: role:4
+    label: resurrection_users
+    assigned_to:
+      - fig:5
+    basis: The Irish kindle the fire and place dead bodies into the cauldron of renovation.
+    evidence_refs:
+      - ev:5
+  - id: role:5
+    label: cauldron_destroyer
+    assigned_to:
+      - fig:6
+    basis: Evnissyen enters the cauldron and rends it into four pieces.
+    evidence_refs:
+      - ev:6
+symbols:
+  - id: sym:1
+    label: cauldron of renovation
+    literal_form: cauldron that restores slain men by the next day without speech.
+    associated_figures:
+      - fig:1
+      - fig:2
+      - fig:5
+      - fig:6
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:1
+      - ev:5
+      - ev:6
+  - id: sym:2
+    label: Lake of the Cauldron
+    literal_form: mound and lake from which Llassar emerges carrying the cauldron.
+    associated_figures:
+      - fig:2
+      - fig:3
+    taxonomy_refs:
+      - water
+    evidence_refs:
+      - ev:3
+  - id: sym:3
+    label: iron house
+    literal_form: iron chamber heated red hot around Llassar, Kymideu, and their children.
+    associated_figures:
+      - fig:3
+      - fig:4
+    taxonomy_refs:
+      - fire
+    evidence_refs:
+      - ev:4
+  - id: sym:4
+    label: speechless revived warriors
+    literal_form: dead bodies that rise as fighting men but cannot speak.
+    associated_figures:
+      - fig:5
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:5
+scenes:
+  - id: scene:1
+    label: Gift and origin of the cauldron
+    summary: Bendigeid Vran gives Matholwch a reviving cauldron and explains that it came from Llassar, whose own story Matholwch partly recounts.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+      - fig:4
+    symbol_refs:
+      - sym:1
+      - sym:2
+      - sym:3
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+      - ev:4
+  - id: scene:2
+    label: Battlefield resurrection and destruction
+    summary: The Irish use the cauldron to revive their dead as speechless fighting men until Evnissyen enters it and breaks it apart.
+    figure_refs:
+      - fig:5
+      - fig:6
+    symbol_refs:
+      - sym:1
+      - sym:4
+    evidence_refs:
+      - ev:5
+      - ev:6
+candidate_motifs:
+  - id: motif:1
+    label: sacred_cauldron_of_renovation
+    taxonomy_refs:
+      - resurrection
+      - death_rebirth
+    basis: The cauldron restores slain bodies to fighting life by the next day.
+    evidence_refs:
+      - ev:1
+      - ev:5
+    confidence: high
+    cautions: The revived warriors cannot speak, so the renewal is partial or impaired.
+  - id: motif:2
+    label: reviving_vessel_in_battle
+    taxonomy_refs:
+      - ark_vessel
+      - resurrection
+    basis: The cauldron functions as a vessel into which dead bodies are placed for restoration.
+    evidence_refs:
+      - ev:5
+    confidence: medium
+    cautions: The ark_vessel taxonomy reference is approximate; this vessel restores warriors rather than preserving life through catastrophe.
+  - id: motif:3
+    label: destructive_self_sacrifice_against_magic_object
+    taxonomy_refs:
+      - sacrifice
+    basis: Evnissyen enters the cauldron among the dead and destroys it from within, stopping its use.
+    evidence_refs:
+      - ev:6
+    confidence: medium
+    cautions: The passage emphasizes tactical destruction; sacrificial meaning should be reviewed in broader narrative context.
+comparison_claims:
+  - id: claim:1
+    claim: This passage is a high-value Welsh witness for a sacred cauldron motif in which a vessel mediates death-to-renewed-fighting-life.
+    claim_level: same_motif
+    target: cross-cultural sacred cauldron and resurrection-vessel motifs
+    evidence_refs:
+      - ev:1
+      - ev:5
+    confidence: medium
+    limitations: The revived men lack speech, so the record should not be flattened into a simple full-resurrection motif.
+  - id: claim:2
+    claim: The cauldron's destruction from within can be compared by function with motifs where a dangerous sacred object or power is neutralized through bodily risk.
+    claim_level: same_function
+    target: sacrifice and dangerous-object neutralization motif comparisons
+    evidence_refs:
+      - ev:6
+    confidence: low
+    limitations: Broader narrative context is needed before claiming a sacrificial interpretation.
+evidence:
+  - id: ev:1
+    type: quote
+    locator: "lines 6655-6665"
+    quote_or_summary: Bendigeid Vran says the cauldron restores a slain man by the next day, but the revived man cannot speak.
+    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    rights_note: Public-domain source text.
+  - id: ev:2
+    type: summary
+    locator: "lines 6666-6671"
+    quote_or_summary: Matholwch asks about the cauldron's source, and Bendigeid Vran says he had it from Llassar Llaesgyvnewid, who came from Ireland with Kymideu Kymeinvoll.
+    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    rights_note: Public-domain source text.
+  - id: ev:3
+    type: summary
+    locator: "lines 6674-6683"
+    quote_or_summary: Matholwch describes hunting in Ireland, reaching the Lake of the Cauldron, and seeing a huge yellow-haired man come from the lake with a cauldron on his back.
+    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    rights_note: Public-domain source text.
+  - id: ev:4
+    type: summary
+    locator: "lines 6684-6712"
+    quote_or_summary: The huge man and woman become disorderly, are trapped in a red-hot iron chamber, and escape by breaking through the heated plates.
+    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    rights_note: Public-domain source text.
+  - id: ev:5
+    type: summary
+    locator: "lines 6896-6900"
+    quote_or_summary: The Irish kindle fire under the cauldron of renovation, fill it with dead bodies, and the bodies rise next day as fighting men unable to speak.
+    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    rights_note: Public-domain source text.
+  - id: ev:6
+    type: summary
+    locator: "lines 6900-6906"
+    quote_or_summary: Evnissyen sees the imbalance in resurrection, enters the cauldron among the dead, and stretches out until he rends it into four pieces.
+    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The cauldron's property, battlefield use, and destruction are explicitly narrated.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs review for the best taxonomy placement of sacred cauldron and partial resurrection.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Worker D extraction focused on sacred cauldron, death-renewal, and dangerous vessel motifs.

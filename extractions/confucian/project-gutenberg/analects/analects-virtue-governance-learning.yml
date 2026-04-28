@@ -1,0 +1,226 @@
+---
+record_id: extraction.analects.virtue_governance_learning
+source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+passage_locator:
+  label: Book II, Chs. I-IV
+  start: BOOK II. WEI CHANG. CHAP. I
+  end: BOOK II. WEI CHANG. CHAP. IV
+  translation: James Legge, Project Gutenberg eBook #3330
+canonical_text:
+  summary: The Master compares virtuous government to the north polar star, contrasts
+    punishment-led rule with virtue and propriety, and describes his own progress
+    from learning through knowledge of Heaven's decrees to action without transgressing
+    what is right.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Government by virtue is compared to the north polar star.
+  category: comparison
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Punishment-led rule is said to produce avoidance without shame.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Rule by virtue and propriety is said to produce shame and goodness.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Master describes a staged life of learning, firmness, understanding,
+    receptivity to truth, and right action.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Master
+  description: Confucius as speaker of the teaching on government, virtue, learning,
+    Heaven, truth, and right action.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: virtuous ruler
+  description: Implied ruler who governs by virtue rather than punishment.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: ethical teacher
+  assigned_to:
+  - fig:1
+  basis: The Master gives aphoristic instruction on government, learning, and right
+    conduct.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: virtue-centered ruler
+  assigned_to:
+  - fig:2
+  basis: The passage presents government by virtue as the model that attracts others
+    and reforms the people.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: north polar star
+  literal_form: north polar star
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rules of propriety
+  literal_form: rules of propriety
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: decrees of Heaven
+  literal_form: decrees of Heaven
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: reception of truth
+  literal_form: reception of truth
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Virtue-centered government
+  summary: The Master contrasts coercive rule with government by virtue and propriety,
+    where moral shame and goodness become possible.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Lifelong moral learning
+  summary: The Master narrates his progress from learning at fifteen to knowing Heaven's
+    decrees, receiving truth, and following desire without transgressing right.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: wisdom through lifelong cultivation
+  taxonomy_refs:
+  - wisdom
+  - initiation
+  basis: The passage frames moral knowledge as staged development from learning to
+    truth-reception and right action.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: Initiation is used broadly for status transformation through learning,
+    not for a single ritual ordeal.
+- id: motif:2
+  label: ethical rule by virtue
+  taxonomy_refs: []
+  basis: The passage directly contrasts punishment with virtue and propriety as a
+    means of forming shame and goodness.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: Local motif label; no matching taxonomy ID is present.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be compared within the atlas to wisdom traditions where
+    moral order is taught as disciplined formation rather than mere external enforcement.
+  claim_level: same_function
+  target: "pattern atlas: wisdom and ethical formation"
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Corpus-internal comparison only; no historical contact or borrowing
+    claim is made.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Book II, Ch. I
+  quote_or_summary: Government by virtue is like the north polar star, which keeps
+    its place while all stars turn toward it.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public-domain Project Gutenberg source text.
+- id: ev:2
+  type: quote
+  locator: Book II, Ch. III.1
+  quote_or_summary: Led by laws and punishments, people avoid punishment but have
+    no sense of shame.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public-domain Project Gutenberg source text.
+- id: ev:3
+  type: quote
+  locator: Book II, Ch. III.2
+  quote_or_summary: Led by virtue and propriety, people have shame and become good.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public-domain Project Gutenberg source text.
+- id: ev:4
+  type: quote
+  locator: Book II, Ch. IV.1-4
+  quote_or_summary: At fifteen the Master was bent on learning; at fifty he knew
+    the decrees of Heaven.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public-domain Project Gutenberg source text.
+- id: ev:5
+  type: quote
+  locator: Book II, Ch. IV.5-6
+  quote_or_summary: At sixty his ear received truth; at seventy he followed the heart
+    without transgressing right.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public-domain Project Gutenberg source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Observations are direct in Legge's translation; motif mapping is intentionally
+    conservative.
+reviewer_status:
+  status: draft
+  notes: Draft extraction; needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Worker A extraction focused on virtue, propriety, learning, and wisdom.

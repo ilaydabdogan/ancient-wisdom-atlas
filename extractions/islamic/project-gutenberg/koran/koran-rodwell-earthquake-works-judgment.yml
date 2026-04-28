@@ -1,0 +1,218 @@
+---
+record_id: extraction.koran_rodwell.earthquake_works_judgment
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: SURA XCIX, The Earthquake
+  start: SURA XCIX.THE EARTHQUAKE [XXX.]
+  end: And whosoever shall have wrought an atom's weight of evil shall behold it.
+  translation: The Koran, translated by J. M. Rodwell
+  notes: Short Meccan judgment passage centered on cosmic upheaval, testimony, and recompense for works.
+canonical_text:
+  summary: At the earthquake, the earth casts forth its burdens, tells its tidings by divine inspiration, and people come forth in throngs to behold the good or evil they have done.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: The earth quakes and casts forth its burdens.
+    category: setting
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: Humanity asks what is wrong with the earth.
+    category: speech
+    evidence_refs:
+      - ev:1
+  - id: obs:3
+    text: The earth tells its tidings because the Lord has inspired it.
+    category: action
+    evidence_refs:
+      - ev:2
+  - id: obs:4
+    text: Men come forward in throngs to behold their works.
+    category: sequence
+    evidence_refs:
+      - ev:3
+  - id: obs:5
+    text: Both an atom's weight of good and an atom's weight of evil are brought into view.
+    category: speech
+    evidence_refs:
+      - ev:4
+figures:
+  - id: fig:1
+    name_or_label: God / the Lord
+    description: The divine source who inspires the earth to testify.
+    role_refs:
+      - role:1
+    evidence_refs:
+      - ev:2
+  - id: fig:2
+    name_or_label: the earth
+    description: The quake-stricken earth that casts out burdens and tells its tidings.
+    role_refs:
+      - role:2
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: fig:3
+    name_or_label: humanity
+    description: People who ask what has happened and then behold their works.
+    role_refs:
+      - role:3
+    evidence_refs:
+      - ev:1
+      - ev:3
+      - ev:4
+roles:
+  - id: role:1
+    label: divine judge
+    assigned_to:
+      - fig:1
+    basis: The Lord inspires the earth to reveal its tidings in a scene of final accountability.
+    evidence_refs:
+      - ev:2
+      - ev:3
+      - ev:4
+  - id: role:2
+    label: cosmic witness
+    assigned_to:
+      - fig:2
+    basis: The earth tells its tidings after quaking and casting forth its burdens.
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: role:3
+    label: judged humans
+    assigned_to:
+      - fig:3
+    basis: People come forward in throngs to behold their works, whether good or evil.
+    evidence_refs:
+      - ev:3
+      - ev:4
+symbols:
+  - id: sym:1
+    label: earthquake
+    literal_form: the earth quaking
+    associated_figures:
+      - fig:2
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:1
+  - id: sym:2
+    label: earth's burdens
+    literal_form: burdens cast forth by the earth
+    associated_figures:
+      - fig:2
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:1
+  - id: sym:3
+    label: atom's weight
+    literal_form: an atom's weight of good or evil
+    associated_figures:
+      - fig:3
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:4
+scenes:
+  - id: scene:1
+    label: Earthquake and testimony
+    summary: The earth quakes, casts forth its burdens, and tells its tidings because the Lord has inspired it.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+    symbol_refs:
+      - sym:1
+      - sym:2
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: scene:2
+    label: Works made visible
+    summary: People come forward in throngs to behold their works, down to an atom's weight of good or evil.
+    figure_refs:
+      - fig:3
+    symbol_refs:
+      - sym:3
+    evidence_refs:
+      - ev:3
+      - ev:4
+candidate_motifs:
+  - id: motif:1
+    label: divine_judgment
+    taxonomy_refs:
+      - divine_judgment
+    basis: The passage stages universal accountability in which deeds are revealed under divine authority.
+    evidence_refs:
+      - ev:2
+      - ev:3
+      - ev:4
+    confidence: high
+    cautions: The passage does not narrate a trial court; judgment is inferred from disclosure and recompense imagery.
+  - id: motif:2
+    label: cosmic_witness
+    taxonomy_refs: []
+    basis: The earth itself tells its tidings after being inspired by the Lord.
+    evidence_refs:
+      - ev:1
+      - ev:2
+    confidence: medium
+    cautions: Local descriptive label; no matching taxonomy entry was found.
+  - id: motif:3
+    label: deeds_weighed_or_measured
+    taxonomy_refs:
+      - divine_judgment
+    basis: Good and evil are made visible even at an atom's weight.
+    evidence_refs:
+      - ev:4
+    confidence: medium
+    cautions: This record uses "measured" descriptively and does not claim the same imagery as scale-weighing scenes.
+comparison_claims:
+  - id: claim:1
+    claim: The passage is a compact candidate for divine-judgment comparison because cosmic upheaval, nonhuman testimony, and exact moral accounting converge in one scene.
+    claim_level: same_function
+    target: pattern atlas divine judgment and moral-accounting records
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+      - ev:4
+    counter_evidence_refs: []
+    confidence: low
+    limitations: Corpus-internal comparison only; it does not imply shared origin with other judgment or weighing traditions.
+evidence:
+  - id: ev:1
+    type: summary
+    locator: SURA XCIX
+    quote_or_summary: The earth quakes, casts forth her burdens, and man asks what ails her.
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+    rights_note: Public-domain source text.
+  - id: ev:2
+    type: quote
+    locator: SURA XCIX
+    quote_or_summary: On that day shall she tell out her tidings, Because thy Lord shall have inspired her.
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+    rights_note: Public-domain source text.
+  - id: ev:3
+    type: quote
+    locator: SURA XCIX
+    quote_or_summary: On that day shall men come forward in throngs to behold their works.
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+    rights_note: Public-domain source text.
+  - id: ev:4
+    type: quote
+    locator: SURA XCIX
+    quote_or_summary: Whosoever shall have wrought an atom's weight of good shall behold it.
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+    rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Short sura gives strong passage anchoring, but interpretation remains draft-level.
+reviewer_status:
+  status: draft
+  notes: Draft extraction for cross-cultural motif indexing.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Created under Worker B scope for The Koran (Rodwell).

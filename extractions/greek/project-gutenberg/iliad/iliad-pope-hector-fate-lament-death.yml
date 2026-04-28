@@ -1,0 +1,314 @@
+---
+record_id: extraction.iliad_pope.hector_fate_lament_death
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: BOOK XXII, The Death of Hector
+  start: Jove lifts the golden balances, that show
+  end: I follow theeHe said, and strippd the slain.
+  translation: The Iliad of Homer, translated by Alexander Pope
+  notes: Hector's final combat with Achilles after divine weighing, Minerva's deception, and Apollo's withdrawal.
+canonical_text:
+  summary: Jove weighs Hector's fate, Apollo leaves him, Minerva deceives him in the shape of Deiphobus, Hector chooses to die greatly rather than flee, Achilles kills him, and Hector prophesies Achilles' death before his spirit departs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: Jove weighs the fates of Achilles and Hector, and Hector's scale sinks toward death.
+    category: action
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: Apollo leaves Hector, and Minerva encourages Achilles and deceives Hector in Deiphobus' likeness.
+    category: action
+    evidence_refs:
+      - ev:2
+      - ev:3
+  - id: obs:3
+    text: Hector asks for an oath that the victor will return the body, but Achilles refuses.
+    category: speech
+    evidence_refs:
+      - ev:4
+  - id: obs:4
+    text: Hector realizes he has been deceived, accepts fate, and resolves to die in a mighty deed.
+    category: speech
+    evidence_refs:
+      - ev:5
+  - id: obs:5
+    text: Achilles kills Hector and threatens to deny him funeral treatment.
+    category: action
+    evidence_refs:
+      - ev:6
+      - ev:7
+  - id: obs:6
+    text: Hector predicts that Apollo and Paris will avenge him before his spirit departs.
+    category: speech
+    evidence_refs:
+      - ev:8
+figures:
+  - id: fig:1
+    name_or_label: Hector
+    description: Trojan champion whose fate is weighed, who is deceived by Minerva, and who dies by Achilles' spear.
+    role_refs:
+      - role:1
+      - role:4
+    evidence_refs:
+      - ev:1
+      - ev:4
+      - ev:5
+      - ev:6
+      - ev:8
+  - id: fig:2
+    name_or_label: Achilles
+    description: Greek champion who pursues Hector, refuses a burial pact, kills him, and strips the body.
+    role_refs:
+      - role:2
+    evidence_refs:
+      - ev:2
+      - ev:4
+      - ev:6
+      - ev:7
+  - id: fig:3
+    name_or_label: Jove
+    description: The god who weighs the fates and gives way to Hector's destined death.
+    role_refs:
+      - role:3
+    evidence_refs:
+      - ev:1
+  - id: fig:4
+    name_or_label: Minerva / Pallas
+    description: Goddess who aids Achilles and deceives Hector by appearing as Deiphobus.
+    role_refs:
+      - role:5
+    evidence_refs:
+      - ev:2
+      - ev:3
+  - id: fig:5
+    name_or_label: Apollo / Phbus
+    description: Former divine helper who leaves Hector when his fate sinks.
+    role_refs: []
+    evidence_refs:
+      - ev:2
+      - ev:8
+roles:
+  - id: role:1
+    label: doomed warrior
+    assigned_to:
+      - fig:1
+    basis: Hector's fate sinks in Jove's balance, and he later says death and black fate approach.
+    evidence_refs:
+      - ev:1
+      - ev:5
+  - id: role:2
+    label: avenging warrior
+    assigned_to:
+      - fig:2
+    basis: Achilles kills Hector as vengeance for Patroclus and refuses a burial pact.
+    evidence_refs:
+      - ev:4
+      - ev:6
+      - ev:7
+  - id: role:3
+    label: fate-weigher
+    assigned_to:
+      - fig:3
+    basis: Jove lifts the golden balances and weighs the heroes' destinies.
+    evidence_refs:
+      - ev:1
+  - id: role:4
+    label: death prophet
+    assigned_to:
+      - fig:1
+    basis: Hector's dying speech predicts Achilles' future death by Apollo and Paris.
+    evidence_refs:
+      - ev:8
+  - id: role:5
+    label: deceptive divine helper
+    assigned_to:
+      - fig:4
+    basis: Minerva appears in Deiphobus' shape and gives Achilles' spear back unseen.
+    evidence_refs:
+      - ev:3
+symbols:
+  - id: sym:1
+    label: golden balances
+    literal_form: Jove's scales of mortal destinies
+    associated_figures:
+      - fig:3
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:1
+  - id: sym:2
+    label: false brother
+    literal_form: Minerva in the shape of Deiphobus
+    associated_figures:
+      - fig:1
+      - fig:4
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:3
+      - ev:5
+  - id: sym:3
+    label: unreturned corpse
+    literal_form: Hector's body threatened with dogs and vultures
+    associated_figures:
+      - fig:1
+      - fig:2
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:7
+scenes:
+  - id: scene:1
+    label: Fate weighed and divine aid withdrawn
+    summary: Jove weighs Hector's fate, Apollo leaves him, and Minerva moves to secure Achilles' victory.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+      - fig:4
+      - fig:5
+    symbol_refs:
+      - sym:1
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: scene:2
+    label: Deception and final stand
+    summary: Minerva's false Deiphobus persuades Hector to stand; after discovering the deception, Hector welcomes fate and attacks.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:4
+    symbol_refs:
+      - sym:2
+    evidence_refs:
+      - ev:3
+      - ev:4
+      - ev:5
+  - id: scene:3
+    label: Death and prophecy
+    summary: Achilles kills Hector, refuses funeral mercy, and hears Hector's final prophecy of Achilles' death before stripping the body.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:5
+    symbol_refs:
+      - sym:3
+    evidence_refs:
+      - ev:6
+      - ev:7
+      - ev:8
+candidate_motifs:
+  - id: motif:1
+    label: fate_lament
+    taxonomy_refs: []
+    basis: Hector's death is framed by divine weighing, lost divine aid, acceptance of fate, and the grief implied by contested burial.
+    evidence_refs:
+      - ev:1
+      - ev:5
+      - ev:7
+      - ev:8
+    confidence: high
+    cautions: No exact fate_lament taxonomy family exists; label follows the requested motif vocabulary.
+  - id: motif:2
+    label: death_in_battle
+    taxonomy_refs: []
+    basis: Hector dies in direct single combat with Achilles after choosing to stand rather than flee.
+    evidence_refs:
+      - ev:5
+      - ev:6
+    confidence: high
+    cautions: Local descriptive motif, not a finalized taxonomy entry.
+  - id: motif:3
+    label: divine_intervention
+    taxonomy_refs: []
+    basis: Jove, Apollo, and Minerva shape the outcome through weighing, withdrawal, deception, and aid to Achilles.
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+    confidence: high
+    cautions: The intervention supports a heroic battle scene rather than replacing human combat.
+  - id: motif:4
+    label: warrior_honor_and_burial
+    taxonomy_refs: []
+    basis: Hector seeks an oath protecting the defeated body, while Achilles refuses and threatens dishonor.
+    evidence_refs:
+      - ev:4
+      - ev:7
+    confidence: medium
+    cautions: The record notes honor logic within Pope's translation and does not settle Homeric ritual practice.
+comparison_claims:
+  - id: claim:1
+    claim: This passage is a strong candidate for comparing heroic death scenes where fate, divine intervention, battlefield honor, threatened corpse dishonor, and dying prophecy converge.
+    claim_level: same_function
+    target: pattern atlas fate, lament, warrior honor, and death-in-battle records
+    evidence_refs:
+      - ev:1
+      - ev:3
+      - ev:5
+      - ev:6
+      - ev:7
+      - ev:8
+    counter_evidence_refs: []
+    confidence: low
+    limitations: Corpus-internal comparison only; this does not assert equivalence with afterlife judgment, martyrdom, or other heroic traditions.
+evidence:
+  - id: ev:1
+    type: quote
+    locator: BOOK XXII
+    quote_or_summary: Jove lifts the golden balances, that show The fates of mortal men.
+    source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+    rights_note: Public-domain source text.
+  - id: ev:2
+    type: summary
+    locator: BOOK XXII
+    quote_or_summary: After Hector's fate sinks, Apollo leaves him and Minerva flies to Achilles.
+    source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+    rights_note: Public-domain source text.
+  - id: ev:3
+    type: summary
+    locator: BOOK XXII
+    quote_or_summary: Minerva appears as Deiphobus beside Hector and later restores Achilles' spear unseen.
+    source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+    rights_note: Public-domain source text.
+  - id: ev:4
+    type: summary
+    locator: BOOK XXII
+    quote_or_summary: Hector asks for mutual oaths that the victor will not dishonor the corpse, and Achilles refuses any pact.
+    source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+    rights_note: Public-domain source text.
+  - id: ev:5
+    type: quote
+    locator: BOOK XXII
+    quote_or_summary: Death and black fate approach! tis I must bleed.
+    source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+    rights_note: Public-domain source text.
+  - id: ev:6
+    type: summary
+    locator: BOOK XXII
+    quote_or_summary: Achilles finds the opening at Hector's neck and drives in the spear; Hector falls but can still speak.
+    source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+    rights_note: Public-domain source text.
+  - id: ev:7
+    type: summary
+    locator: BOOK XXII
+    quote_or_summary: Hector begs for burial rites, while Achilles says dogs and vultures will have the body.
+    source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+    rights_note: Public-domain source text.
+  - id: ev:8
+    type: quote
+    locator: BOOK XXII
+    quote_or_summary: Phbus and Paris shall avenge my fate.
+    source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+    rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Passage-level extraction from Pope's public-domain translation; needs Greek epic review.
+reviewer_status:
+  status: draft
+  notes: Draft extraction for cross-cultural motif indexing.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Created under Worker B scope for The Iliad (Pope).

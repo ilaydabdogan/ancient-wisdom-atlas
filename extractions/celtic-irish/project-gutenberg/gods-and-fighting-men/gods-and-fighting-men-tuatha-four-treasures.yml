@@ -1,0 +1,286 @@
+---
+record_id: extraction.celtic_irish.gods_and_fighting_men.tuatha_four_treasures
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: "Part One, Book One, Chapter I: The Fight with the Firbolgs; Tuatha de Danaan arrival and four treasures"
+  start: 657
+  end: 689
+  translation: Lady Augusta Gregory, Gods and Fighting Men
+  notes: Line numbers refer to the repository markdown source.
+canonical_text:
+  summary: The Tuatha de Danaan come to Ireland in mist and through the air from four northern cities, bringing four named treasures and naming leading divine or semi-divine figures among them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: The Tuatha de Danaan are called the people of the gods of Dana and are said to come through mist, air, and high air to Ireland.
+    category: setting
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: Their place of origin has four cities named Falias, Gorias, Finias, and Murias.
+    category: setting
+    evidence_refs:
+      - ev:2
+  - id: obs:3
+    text: Four wise men teach young men skill, knowledge, and perfect wisdom in those cities.
+    category: relationship
+    evidence_refs:
+      - ev:2
+  - id: obs:4
+    text: "They bring four treasures from the cities: the Stone of Destiny, a sword, a Spear of Victory, and a cauldron that leaves no company unsatisfied."
+    category: object
+    evidence_refs:
+      - ev:3
+  - id: obs:5
+    text: Nuada is named as king of the Tuatha de Danaan, while Manannan son of Lir is said to be greater again.
+    category: relationship
+    evidence_refs:
+      - ev:4
+  - id: obs:6
+    text: Dana is named the Mother of the Gods after a list of leading women of the Tuatha de Danaan.
+    category: relationship
+    evidence_refs:
+      - ev:5
+figures:
+  - id: fig:1
+    name_or_label: Tuatha de Danaan
+    description: Collective people identified with the gods of Dana who arrive in Ireland.
+    role_refs:
+      - role:1
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+  - id: fig:2
+    name_or_label: four wise men
+    description: Senias, Arias, Urias, and Morias, teachers attached to the four cities.
+    role_refs:
+      - role:2
+    evidence_refs:
+      - ev:2
+  - id: fig:3
+    name_or_label: Nuada
+    description: King of the Tuatha de Danaan at the time of their arrival.
+    role_refs:
+      - role:3
+    evidence_refs:
+      - ev:4
+  - id: fig:4
+    name_or_label: Manannan son of Lir
+    description: Figure said to be greater again than Nuada in this passage.
+    role_refs: []
+    evidence_refs:
+      - ev:4
+  - id: fig:5
+    name_or_label: Dana
+    description: Figure named as the Mother of the Gods.
+    role_refs:
+      - role:4
+    evidence_refs:
+      - ev:5
+roles:
+  - id: role:1
+    label: divine_arrivals
+    assigned_to:
+      - fig:1
+    basis: The group is called the people of the gods of Dana and arrives in Ireland through mist and air.
+    evidence_refs:
+      - ev:1
+  - id: role:2
+    label: wisdom_teachers
+    assigned_to:
+      - fig:2
+    basis: The four named teachers instruct young men in skill, knowledge, and wisdom.
+    evidence_refs:
+      - ev:2
+  - id: role:3
+    label: king
+    assigned_to:
+      - fig:3
+    basis: Nuada is explicitly named king of the Tuatha de Danaan.
+    evidence_refs:
+      - ev:4
+  - id: role:4
+    label: mother_of_gods
+    assigned_to:
+      - fig:5
+    basis: Dana is explicitly called the Mother of the Gods.
+    evidence_refs:
+      - ev:5
+symbols:
+  - id: sym:1
+    label: mist and high air
+    literal_form: mist, air, and high air through which the Tuatha de Danaan come.
+    associated_figures:
+      - fig:1
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:1
+  - id: sym:2
+    label: four cities
+    literal_form: Falias, Gorias, Finias, and Murias.
+    associated_figures:
+      - fig:1
+      - fig:2
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:2
+  - id: sym:3
+    label: Stone of Destiny
+    literal_form: Lia Fail, the Stone of Destiny.
+    associated_figures:
+      - fig:1
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:3
+  - id: sym:4
+    label: sword
+    literal_form: a Sword brought from Gorias.
+    associated_figures:
+      - fig:1
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:3
+  - id: sym:5
+    label: Spear of Victory
+    literal_form: a Spear of Victory from Finias.
+    associated_figures:
+      - fig:1
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:3
+  - id: sym:6
+    label: inexhaustible cauldron
+    literal_form: a cauldron from Murias from which no company went away unsatisfied.
+    associated_figures:
+      - fig:1
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:3
+scenes:
+  - id: scene:1
+    label: Tuatha de Danaan arrival with treasures
+    summary: The Tuatha de Danaan arrive in Ireland from four cities associated with teachers and bring a stone, sword, spear, and cauldron.
+    figure_refs:
+      - fig:1
+      - fig:2
+    symbol_refs:
+      - sym:1
+      - sym:2
+      - sym:3
+      - sym:4
+      - sym:5
+      - sym:6
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+  - id: scene:2
+    label: Divine leadership named
+    summary: Nuada, Manannan, major goddesses, and Dana are named in relation to the Tuatha de Danaan.
+    figure_refs:
+      - fig:3
+      - fig:4
+      - fig:5
+    symbol_refs: []
+    evidence_refs:
+      - ev:4
+      - ev:5
+candidate_motifs:
+  - id: motif:1
+    label: divine_race_arrival
+    taxonomy_refs: []
+    basis: The arriving group is identified as the people of the gods of Dana and enters Ireland in a marked supernatural manner.
+    evidence_refs:
+      - ev:1
+    confidence: high
+    cautions: The passage uses Gregory's mythographic phrasing; classification as a divine race should be reviewed against Irish terminology and source tradition.
+  - id: motif:2
+    label: sacred_treasures
+    taxonomy_refs: []
+    basis: Four special objects are brought from four cities and each is given a distinctive name or property.
+    evidence_refs:
+      - ev:3
+    confidence: high
+    cautions: No current motif taxonomy entry directly covers sacred treasures.
+  - id: motif:3
+    label: wisdom_from_origin_cities
+    taxonomy_refs:
+      - wisdom
+    basis: The northern cities are associated with named teachers of skill, knowledge, and perfect wisdom.
+    evidence_refs:
+      - ev:2
+    confidence: medium
+    cautions: This is an origin-and-learning motif rather than a wisdom contest or teaching discourse.
+  - id: motif:4
+    label: sacred_cauldron
+    taxonomy_refs: []
+    basis: One treasure is a cauldron whose stated property is abundance for any company.
+    evidence_refs:
+      - ev:3
+    confidence: medium
+    cautions: The passage describes the cauldron's abundance, not resurrection or initiation.
+comparison_claims:
+  - id: claim:1
+    claim: This passage is a strong Irish witness for a sacred-treasures pattern in which a divine or semi-divine people arrives with named powerful objects tied to places of origin.
+    claim_level: same_function
+    target: cross-cultural sacred treasures and divine race arrival records
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+    confidence: medium
+    limitations: The claim is functional and thematic only; it does not assert borrowing from any other tradition.
+  - id: claim:2
+    claim: The cauldron can be compared cautiously with other cauldron or vessel motifs by its abundance function.
+    claim_level: same_function
+    target: sacred cauldron and preserving-vessel motif comparisons
+    evidence_refs:
+      - ev:3
+    confidence: low
+    limitations: The evidence here supports abundance, not the death-renewal functions found in some other cauldron passages.
+evidence:
+  - id: ev:1
+    type: quote
+    locator: "lines 657-659"
+    quote_or_summary: "The Tuatha de Danaan, called the people of the gods of Dana, come through mist and the high air to Ireland."
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+    rights_note: Public-domain source text.
+  - id: ev:2
+    type: summary
+    locator: "lines 661-667"
+    quote_or_summary: The passage names four cities and four wise men who teach skill, knowledge, and perfect wisdom.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+    rights_note: Public-domain source text.
+  - id: ev:3
+    type: summary
+    locator: "lines 667-671"
+    quote_or_summary: The four treasures are the Lia Fail or Stone of Destiny, a sword, a Spear of Victory, and a cauldron from which no company goes unsatisfied.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+    rights_note: Public-domain source text.
+  - id: ev:4
+    type: summary
+    locator: "lines 673-677"
+    quote_or_summary: Nuada is king of the Tuatha de Danaan, Manannan son of Lir is greater again, and several leading male figures are named.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+    rights_note: Public-domain source text.
+  - id: ev:5
+    type: summary
+    locator: "lines 678-689"
+    quote_or_summary: The passage names leading women, including Badb, Macha, the Morrigu, Eire, Fodla, Banba, Eadon, Brigit, and Dana as Mother of the Gods.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+    rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The named objects and divine collective are explicit; cross-cultural classification remains cautious.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs review against Irish source tradition and taxonomy expansion.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Worker D extraction focused on divine race arrival and sacred treasures.

@@ -1,0 +1,368 @@
+---
+record_id: extraction.mesoamerican.popol_vuh.hero_twins_xibalba_trials
+source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+passage_locator:
+  label: The Second Book, Hero Twins in Xibalba
+  start: It was not long, however, until Hun-Came and Vukub-Came
+  end: Thus concludes the second book.
+  translation: Lewis Spence, The Popol Vuh
+  notes: Public-domain Project Gutenberg text of Spence's 1908 English edition.
+canonical_text:
+  summary: Hun-Ahpu and Xbalanque are lured toward Xibalba, avoid traps that defeated
+    their fathers, pass underworld houses and ballgame challenges, suffer a
+    beheading episode, die together by design, return in transformed disguise, and
+    defeat the princes of Xibalba by refusing to revive them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hun-Came and Vukub-Came hear the twins playing ball and decide to lure them
+    to the Underworld.
+  category: summons
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The twins plant canes at home so their family can read their welfare from
+    whether the canes remain green or wither.
+  category: sign
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The twins cross the river of blood and river Papuhya, expose wooden decoys,
+    avoid a red-hot stone, and pass the House of Gloom.
+  category: ordeal
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The twins survive the House of Lances through ants and bribed lancers, then
+    survive houses of cold, tigers, and fire.
+  category: ordeal
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: In the House of Bats, Hun-Ahpu is beheaded by Camazotz, yet the brothers
+    later emerge uninjured from the ordeals.
+  category: death_threat
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The brothers die together on a funeral pile, their powdered bones enter the
+    river, and they reappear in changed forms before defeating the Xibalban princes.
+  category: death_return
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hun-Ahpu
+  description: One of the divine twins; player, underworld ordeal-survivor, and
+    figure in the beheading and return sequence.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Xbalanque
+  description: One of the divine twins; player, underworld ordeal-survivor, and
+    partner in the death-return strategy.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Hun-Came and Vukub-Came
+  description: Princes of Xibalba who lure the twins, impose ordeals, and are killed
+    when they request temporary death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Xibalbans
+  description: Underworld dwellers who set traps, games, and ordeals for the twins.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Xmucane
+  description: Grandmother at home who watches the canes as signs of the twins'
+    condition.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: hero_twins
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The brothers act together through the Xibalba summons, trials, death, return,
+    and victory.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: role:2
+  label: underworld_questers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: They go to Xibalba, cross dangerous rivers, and pass through underworld
+    houses and ballgame challenges.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: death_return_tricksters
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: They use staged death, transformed return, and selective non-resurrection
+    to defeat the lords of Xibalba.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: underworld_challengers
+  assigned_to:
+  - fig:3
+  basis: Hun-Came and Vukub-Came lure the twins, set ordeals, and request the fatal
+    demonstration.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+symbols:
+- id: sym:1
+  label: ballgame
+  literal_form: ball-ground and game of ball
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - initiation
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: welfare canes
+  literal_form: canes planted in the middle of the house that green or wither
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - death_rebirth
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: rivers of Xibalba
+  literal_form: river of blood and river Papuhya
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - hero_descent
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: ordeal houses
+  literal_form: House of Gloom, House of Lances, House of Cold, House of Tigers,
+    House of Fire, and House of Bats
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - initiation
+  - hero_descent
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: powdered bones in river
+  literal_form: bones beaten to powder and thrown into the river before return
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - death_rebirth
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Hero Twins overcome Xibalba
+  summary: Hun-Ahpu and Xbalanque answer the underworld summons, survive traps and
+    ordeal houses, pass through death and watery transformation, return as performers,
+    and defeat the Xibalban princes by withholding resurrection.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: hero_twins
+  taxonomy_refs:
+  - sacred_twins
+  - sibling_pair
+  basis: The brothers act as a paired heroic unit whose combined strategy defeats
+    the underworld rulers.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The canonical taxonomy key is sacred_twins rather than hero_twins.
+- id: motif:2
+  label: underworld_trial
+  taxonomy_refs:
+  - hero_descent
+  - initiation
+  basis: The twins descend to Xibalba and pass a series of named houses, rivers,
+    decoys, heat, cold, animal, and weapon dangers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: Spence summarizes and occasionally notes textual uncertainty, especially
+    around the beheading recovery.
+- id: motif:3
+  label: death_rebirth
+  taxonomy_refs:
+  - death_rebirth
+  basis: The brothers die together, their bones are powdered and submerged, and
+    they reappear in transformed forms.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage frames the return as strategic marvel and transformation,
+    not simple biological revival.
+- id: motif:4
+  label: trickster_boundary
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The twins cross the underworld boundary and win through deception,
+    disguise, trap recognition, staged death, and selective refusal to restore
+    their enemies.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The trickster label marks tactics and boundary-crossing, not a claim
+    that the twins are only tricksters.
+comparison_claims:
+- id: claim:1
+  claim: This passage is a strong Hero Twins underworld-trial record, combining
+    sibling-pair action, descent, ordeal survival, death-return, and trickster
+    reversal.
+  claim_level: same_motif_cluster
+  target: taxonomy/motifs.yml#sacred_twins
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  limitations: The claim identifies an atlas motif cluster; it does not assert that
+    all twin or underworld stories share origin or meaning.
+evidence:
+- id: ev:1
+  type: summary
+  locator: The Second Book, summons to Xibalba
+  quote_or_summary: Hun-Came and Vukub-Came hear the twins at ball and decide to
+    lure them to the Underworld as they lured their fathers.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public-domain source text.
+- id: ev:2
+  type: summary
+  locator: The Second Book, departure signs
+  quote_or_summary: The brothers plant canes in the house to signal their welfare
+    by greening or withering.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public-domain source text.
+- id: ev:3
+  type: summary
+  locator: The Second Book, entrance to Xibalba
+  quote_or_summary: The twins cross the river of blood and river Papuhya, expose
+    wooden decoys, avoid the red-hot stone, pass the House of Gloom, and beat the
+    Xibalbans at ball.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public-domain source text.
+- id: ev:4
+  type: summary
+  locator: The Second Book, ordeal houses
+  quote_or_summary: The twins survive the House of Lances, House of Cold, House of
+    Tigers, and House of Fire through helpers and stratagems.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public-domain source text.
+- id: ev:5
+  type: summary
+  locator: The Second Book, House of Bats
+  quote_or_summary: Hun-Ahpu is beheaded by Camazotz in the House of Bats, but the
+    brothers later emerge uninjured from all the ordeals.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public-domain source text.
+- id: ev:6
+  type: summary
+  locator: The Second Book, staged death and return
+  quote_or_summary: The brothers die on a funeral pile, their bones are powdered
+    and thrown into the river, and they reappear like men-fishes and then ragged
+    old men.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public-domain source text.
+- id: ev:7
+  type: summary
+  locator: The Second Book, defeat of Xibalba
+  quote_or_summary: After demonstrating killing and restoring, the twins kill the
+    Xibalban princes at their request and do not resuscitate them.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The main underworld-trial arc is clear in Spence's summary, though the
+    source itself notes uncertainty around the beheading recovery.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Worker C extraction focused on hero_twins, underworld_trial, death_rebirth,
+  and trickster_boundary motifs.

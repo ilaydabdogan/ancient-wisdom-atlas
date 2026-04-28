@@ -1,0 +1,338 @@
+---
+record_id: extraction.celtic_irish.gods_and_fighting_men.oisin_country_of_young
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: "Book Eleven, Chapter I: Oisin's Story; journey to and return from the Country of the Young"
+  start: 14366
+  end: 14544
+  translation: Lady Augusta Gregory, Gods and Fighting Men
+  notes: Line numbers refer to the repository markdown source.
+canonical_text:
+  summary: Oisin tells Patrick that Niamh took him west over the sea to the Country of the Young, where he remained young and time seemed short, but on returning to Ireland he dismounted and became an aged man.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: Oisin is said to have returned to Ireland long after Niamh brought him away, although the time seemed short to him.
+    category: sequence
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: Oisin and Niamh turn westward over the sea, which opens before them and closes behind them in waves.
+    category: action
+    evidence_refs:
+      - ev:2
+  - id: obs:3
+    text: During the journey they see cities, courts, white houses, palaces, a deer, a white red-eared hound, and mounted figures travelling over the waves.
+    category: setting
+    evidence_refs:
+      - ev:3
+  - id: obs:4
+    text: Oisin names the destination the Country of the Young and the Country of Victory.
+    category: speech
+    evidence_refs:
+      - ev:4
+  - id: obs:5
+    text: The country is described as blossoming, full of smooth plains, a grand dun, sunny houses, shining stone palaces, armed men, young women, and royal figures.
+    category: setting
+    evidence_refs:
+      - ev:5
+  - id: obs:6
+    text: The king tells Oisin that his life there will be long lasting and that Oisin will be young forever.
+    category: speech
+    evidence_refs:
+      - ev:6
+  - id: obs:7
+    text: Niamh warns Oisin that if he gets off the white horse in Ireland he will never return and will become old, blind, and withered.
+    category: speech
+    evidence_refs:
+      - ev:7
+  - id: obs:8
+    text: After Oisin dismounts beside a remembered stone trough, the years come on him and the white horse leaves.
+    category: sequence
+    evidence_refs:
+      - ev:8
+figures:
+  - id: fig:1
+    name_or_label: Oisin
+    description: Son of Finn who journeys to the Country of the Young and later returns to Ireland.
+    role_refs:
+      - role:1
+      - role:3
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:4
+      - ev:8
+  - id: fig:2
+    name_or_label: Niamh of the Golden Hair
+    description: Woman who brings Oisin over the sea and warns him about dismounting.
+    role_refs:
+      - role:2
+    evidence_refs:
+      - ev:2
+      - ev:6
+      - ev:7
+  - id: fig:3
+    name_or_label: King of the Country of the Young
+    description: Royal host who welcomes Oisin and identifies Niamh as his daughter.
+    role_refs:
+      - role:4
+    evidence_refs:
+      - ev:6
+  - id: fig:4
+    name_or_label: white horse
+    description: Horse associated with Oisin's return condition and departure from him after he dismounts.
+    role_refs:
+      - role:5
+    evidence_refs:
+      - ev:7
+      - ev:8
+roles:
+  - id: role:1
+    label: otherworld_traveler
+    assigned_to:
+      - fig:1
+    basis: Oisin travels west over the sea to the Country of the Young and later returns.
+    evidence_refs:
+      - ev:2
+      - ev:4
+      - ev:8
+  - id: role:2
+    label: otherworld_bride_and_guide
+    assigned_to:
+      - fig:2
+    basis: Niamh brings Oisin to the Country of the Young and gives the return warning.
+    evidence_refs:
+      - ev:2
+      - ev:7
+  - id: role:3
+    label: transformed_returnee
+    assigned_to:
+      - fig:1
+    basis: Oisin returns from the Country of the Young and becomes aged after dismounting.
+    evidence_refs:
+      - ev:1
+      - ev:8
+  - id: role:4
+    label: otherworld_king
+    assigned_to:
+      - fig:3
+    basis: The speaker identifies himself as King of the Country of the Young.
+    evidence_refs:
+      - ev:6
+  - id: role:5
+    label: conditional_return_mount
+    assigned_to:
+      - fig:4
+    basis: Remaining on the horse is the stated condition for Oisin's return.
+    evidence_refs:
+      - ev:7
+      - ev:8
+symbols:
+  - id: sym:1
+    label: western sea passage
+    literal_form: westward sea path that opens before Oisin and Niamh.
+    associated_figures:
+      - fig:1
+      - fig:2
+    taxonomy_refs:
+      - water
+    evidence_refs:
+      - ev:2
+  - id: sym:2
+    label: Country of the Young
+    literal_form: Country of the Young, also called Country of Victory.
+    associated_figures:
+      - fig:1
+      - fig:2
+      - fig:3
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:4
+      - ev:5
+      - ev:6
+  - id: sym:3
+    label: white red-eared hound
+    literal_form: eager white red-eared hound following a hornless deer beside the travellers.
+    associated_figures: []
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:3
+  - id: sym:4
+    label: white horse
+    literal_form: white horse that carries Oisin and leaves after he dismounts.
+    associated_figures:
+      - fig:1
+      - fig:2
+      - fig:4
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:7
+      - ev:8
+  - id: sym:5
+    label: stone trough
+    literal_form: stone trough remembered from the Fianna.
+    associated_figures:
+      - fig:1
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:8
+scenes:
+  - id: scene:1
+    label: Sea journey to the Country of the Young
+    summary: Oisin and Niamh travel west over the sea, see marvelous beings and places, and arrive in the Country of the Young.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+    symbol_refs:
+      - sym:1
+      - sym:2
+      - sym:3
+    evidence_refs:
+      - ev:2
+      - ev:3
+      - ev:4
+      - ev:5
+      - ev:6
+  - id: scene:2
+    label: Conditional return and aging
+    summary: Niamh warns Oisin not to dismount in Ireland; when he does, the accumulated years come on him and the horse leaves.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:4
+    symbol_refs:
+      - sym:4
+      - sym:5
+    evidence_refs:
+      - ev:7
+      - ev:8
+candidate_motifs:
+  - id: motif:1
+    label: otherworld_sojourn
+    taxonomy_refs: []
+    basis: Oisin is taken across the sea to a marvelous realm where youth and time operate differently.
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:4
+      - ev:6
+    confidence: high
+    cautions: The taxonomy currently lacks a direct otherworld motif entry.
+  - id: motif:2
+    label: return_from_otherworld_with_time_shift
+    taxonomy_refs:
+      - return
+    basis: Oisin returns from the Country of the Young to a changed Ireland and immediately ages when he violates the return condition.
+    evidence_refs:
+      - ev:1
+      - ev:7
+      - ev:8
+    confidence: high
+    cautions: The return is not a triumphant restoration; it is a loss-marked return.
+  - id: motif:3
+    label: magical_animal_mount
+    taxonomy_refs: []
+    basis: The white horse mediates travel and carries the condition that Oisin must not touch Irish ground.
+    evidence_refs:
+      - ev:7
+      - ev:8
+    confidence: medium
+    cautions: The text does not explicitly call the horse magical in this passage, but its role is extraordinary.
+  - id: motif:4
+    label: departure_to_transformed_realm
+    taxonomy_refs:
+      - departure
+      - initiation
+    basis: Oisin leaves Ireland and enters a realm of altered time, marriage, feasting, and changed status.
+    evidence_refs:
+      - ev:2
+      - ev:5
+      - ev:6
+    confidence: medium
+    cautions: The passage emphasizes otherworldly residence more than formal initiation.
+comparison_claims:
+  - id: claim:1
+    claim: The passage can be compared by function with other otherworld-journey traditions in which crossing a boundary leads to altered time, changed status, and a dangerous return condition.
+    claim_level: same_function
+    target: cross-cultural otherworld journey and return motifs
+    evidence_refs:
+      - ev:2
+      - ev:6
+      - ev:7
+      - ev:8
+    confidence: medium
+    limitations: The claim identifies a recurring narrative function and does not argue historical contact.
+  - id: claim:2
+    claim: The white horse functions as a threshold vehicle between ordinary Ireland and the Country of the Young.
+    claim_level: same_function
+    target: magical animal or threshold mount motif comparisons
+    evidence_refs:
+      - ev:7
+      - ev:8
+    confidence: low
+    limitations: The source gives the horse a crucial role but does not fully describe its origin or nature in this excerpt.
+evidence:
+  - id: ev:1
+    type: summary
+    locator: "lines 14366-14373"
+    quote_or_summary: Oisin returns long after Niamh took him away; the time seemed short to him, but he is later found old and fallen from the white horse.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+    rights_note: Public-domain source text.
+  - id: ev:2
+    type: summary
+    locator: "lines 14381-14385"
+    quote_or_summary: Oisin says he and Niamh turned westward over the sea, with the sea going away before them and filling in behind.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+    rights_note: Public-domain source text.
+  - id: ev:3
+    type: summary
+    locator: "lines 14385-14393"
+    quote_or_summary: The journey includes marvelous buildings, a hornless deer, a white red-eared hound, and mounted figures crossing the waves.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+    rights_note: Public-domain source text.
+  - id: ev:4
+    type: quote
+    locator: "lines 14395-14401"
+    quote_or_summary: Oisin names the destination the Country of the Young and the Country of Victory.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+    rights_note: Public-domain source text.
+  - id: ev:5
+    type: summary
+    locator: "lines 14408-14424"
+    quote_or_summary: The country has blossoms, smooth plains, a grand dun, shining palaces, armed men, young girls, and royal figures.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+    rights_note: Public-domain source text.
+  - id: ev:6
+    type: summary
+    locator: "lines 14426-14435"
+    quote_or_summary: The king welcomes Oisin, promises long-lasting life and youth forever, and identifies Niamh as his daughter.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+    rights_note: Public-domain source text.
+  - id: ev:7
+    type: summary
+    locator: "lines 14454-14472"
+    quote_or_summary: Niamh allows Oisin to return but warns that touching the ground will prevent return and make him old, blind, and withered.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+    rights_note: Public-domain source text.
+  - id: ev:8
+    type: summary
+    locator: "lines 14533-14544"
+    quote_or_summary: Oisin forgets the warning, dismounts by the stone trough, the years come upon him, and the horse leaves him.
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+    rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The otherworld journey, time shift, and failed return condition are explicit in the passage.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs review for motif naming and relation to broader echtra/immram categories.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Worker D extraction focused on otherworld, return, and threshold mount motifs.

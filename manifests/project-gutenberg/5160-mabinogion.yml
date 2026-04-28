@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: project-gutenberg-wave-2
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.gutenberg_5160
+  work_id: celtic_welsh.mabinogion.guest_gutenberg
+  title: The Mabinogion
+  source_url: https://www.gutenberg.org/ebooks/5160
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/project-gutenberg/5160-mabinogion.txt
+    checksum:
+      algorithm: sha256
+      value: 471d7374756031d1a5a39ee627864128533f0145326f36a1b63ae4113acda200
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/5160-mabinogion.md
+    checksum:
+      algorithm: sha256
+      value: 255a312e00269e39282a2cee95af7d6b5c6d00c56f80e4215ea370dc13e14c9c
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    checksum:
+      algorithm: sha256
+      value: f42ead1a8f1b53b85d882d77d4c413ff231fc50f5917472d72d962f236c33c86
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/build_gutenberg_seed.rb
+    version: '1'
+    command: ruby scripts/build_gutenberg_seed.rb 5160
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Generic plain-text converter for public-domain Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: The source catalog page records public-domain status in the USA; reuse
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure, rights metadata, and removal
+      of distributor boilerplate.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.

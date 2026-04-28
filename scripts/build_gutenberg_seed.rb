@@ -212,6 +212,238 @@ WORKS = {
     motifs: %w[hero_descent departure return wisdom serpent death_rebirth],
     figures: ["Gilgamesh", "Enkidu", "Ninsun", "Shamash", "Ishtar"],
     tradition_cluster: "mesopotamian"
+  },
+  "3330" => {
+    id: "confucian.analects.legge_gutenberg",
+    title: "The Analects of Confucius",
+    alternate_titles: ["Confucian Analects", "The Analects of Confucius (from the Chinese Classics)"],
+    text_status: "complete",
+    tradition: "confucian",
+    culture: "classical_chinese",
+    region: "china",
+    source_language: "Classical Chinese",
+    text_language: "English",
+    date_range: "ancient source text; public-domain English translation",
+    source_type: "text",
+    source_id: "source.project_gutenberg.3330",
+    edition: "Project Gutenberg plain-text eBook #3330",
+    translator: "James Legge",
+    editor: nil,
+    publication_year: 1893,
+    publisher: "Project Gutenberg",
+    source_url: "https://www.gutenberg.org/ebooks/3330",
+    raw_path: "imports/raw/project-gutenberg/3330-analects-confucius.txt",
+    converted_path: "imports/converted/project-gutenberg/3330-analects-confucius.md",
+    canonical_path: "texts/public-domain/confucian/project-gutenberg/analects-legge.md",
+    manifest_path: "manifests/project-gutenberg/3330-analects-confucius.yml",
+    extraction_dir: "extractions/confucian/project-gutenberg/analects",
+    tags: %w[confucian ethics ritual filial_piety governance sagehood],
+    motifs: %w[wisdom ethical_command ritual_order social_harmony teacher_disciple],
+    figures: ["Confucius", "The Master", "disciples"],
+    tradition_cluster: "confucian"
+  },
+  "3434" => {
+    id: "islamic.koran.rodwell_gutenberg",
+    title: "The Koran (Al-Qur'an)",
+    alternate_titles: ["Qur'an", "Koran"],
+    text_status: "complete",
+    tradition: "islamic",
+    culture: "arabic_islamic_later_translation",
+    region: "arabia_west_asia",
+    source_language: "Arabic",
+    text_language: "English",
+    date_range: "7th century source text; public-domain English translation",
+    source_type: "text",
+    source_id: "source.project_gutenberg.3434",
+    edition: "Project Gutenberg plain-text eBook #3434",
+    translator: "J. M. Rodwell",
+    editor: "G. Margoliouth",
+    publication_year: 1909,
+    publisher: "Project Gutenberg",
+    source_url: "https://www.gutenberg.org/ebooks/3434",
+    raw_path: "imports/raw/project-gutenberg/3434-koran-rodwell.txt",
+    converted_path: "imports/converted/project-gutenberg/3434-koran-rodwell.md",
+    canonical_path: "texts/public-domain/islamic/project-gutenberg/koran-rodwell.md",
+    manifest_path: "manifests/project-gutenberg/3434-koran-rodwell.yml",
+    extraction_dir: "extractions/islamic/project-gutenberg/koran",
+    tags: %w[islam revelation prophecy law judgment mercy],
+    motifs: %w[revelation divine_judgment covenant mercy prophet_call eschatology],
+    figures: ["Allah", "Muhammad", "prophets"],
+    tradition_cluster: "islamic"
+  },
+  "5186" => {
+    id: "finnish_karelian.kalevala.crawford_gutenberg",
+    title: "Kalevala: The Epic Poem of Finland",
+    alternate_titles: ["Kalevala", "The Epic Poem of Finland"],
+    text_status: "complete",
+    tradition: "finnish_karelian",
+    culture: "finno_ugric",
+    region: "finland_karelia",
+    source_language: "Finnish",
+    text_language: "English",
+    date_range: "19th-century compilation of older oral traditions; 1888 public-domain English translation",
+    source_type: "text",
+    source_id: "source.project_gutenberg.5186",
+    edition: "Project Gutenberg plain-text eBook #5186",
+    translator: "John Martin Crawford",
+    editor: "Elias Lonnrot",
+    publication_year: 1888,
+    publisher: "Project Gutenberg",
+    source_url: "https://www.gutenberg.org/ebooks/5186",
+    raw_path: "imports/raw/project-gutenberg/5186-kalevala-complete.txt",
+    converted_path: "imports/converted/project-gutenberg/5186-kalevala-complete.md",
+    canonical_path: "texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md",
+    manifest_path: "manifests/project-gutenberg/5186-kalevala-complete.yml",
+    extraction_dir: "extractions/finnish-karelian/project-gutenberg/kalevala",
+    tags: %w[kalevala epic song magic smithing sampo underworld],
+    motifs: %w[cosmic_origin wisdom sacred_song world_object smith_craft hero_descent death_rebirth],
+    figures: ["Wainamoinen", "Ilmarinen", "Lemminkainen", "Louhi", "Aino"],
+    tradition_cluster: "finnish_karelian"
+  },
+  "3283" => {
+    id: "hindu.upanishads.paramananda_gutenberg",
+    title: "The Upanishads",
+    alternate_titles: ["Upanishads"],
+    text_status: "complete",
+    tradition: "hindu",
+    culture: "sanskrit_vedic_later_translation",
+    region: "south_asia",
+    source_language: "Sanskrit",
+    text_language: "English",
+    date_range: "ancient source texts; public-domain English translation",
+    source_type: "text",
+    source_id: "source.project_gutenberg.3283",
+    edition: "Project Gutenberg plain-text eBook #3283",
+    translator: "Swami Paramananda",
+    editor: nil,
+    publication_year: 1919,
+    publisher: "Project Gutenberg",
+    source_url: "https://www.gutenberg.org/ebooks/3283",
+    raw_path: "imports/raw/project-gutenberg/3283-upanishads.txt",
+    converted_path: "imports/converted/project-gutenberg/3283-upanishads.md",
+    canonical_path: "texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md",
+    manifest_path: "manifests/project-gutenberg/3283-upanishads.yml",
+    extraction_dir: "extractions/hindu/project-gutenberg/upanishads",
+    tags: %w[upanishads vedanta atman brahman liberation wisdom],
+    motifs: %w[wisdom ultimate_reality self_knowledge death_teacher inner_light initiation],
+    figures: ["Atman", "Brahman", "Yama", "Nachiketas"],
+    tradition_cluster: "hindu"
+  },
+  "14465" => {
+    id: "celtic_irish.gods_and_fighting_men.gregory_gutenberg",
+    title: "Gods and Fighting Men",
+    alternate_titles: ["The Story of the Tuatha De Danaan and of the Fianna of Ireland"],
+    text_status: "complete",
+    tradition: "celtic_irish",
+    culture: "medieval_irish_later_retelling",
+    region: "ireland",
+    source_language: "Irish",
+    text_language: "English",
+    date_range: "medieval Irish mythic material; 1905 public-domain English retelling",
+    source_type: "text",
+    source_id: "source.project_gutenberg.14465",
+    edition: "Project Gutenberg plain-text eBook #14465",
+    translator: "Lady Gregory",
+    editor: "Lady Gregory",
+    publication_year: 1905,
+    publisher: "Project Gutenberg",
+    source_url: "https://www.gutenberg.org/ebooks/14465",
+    raw_path: "imports/raw/project-gutenberg/14465-gods-and-fighting-men.txt",
+    converted_path: "imports/converted/project-gutenberg/14465-gods-and-fighting-men.md",
+    canonical_path: "texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md",
+    manifest_path: "manifests/project-gutenberg/14465-gods-and-fighting-men.yml",
+    extraction_dir: "extractions/celtic-irish/project-gutenberg/gods-and-fighting-men",
+    tags: %w[irish tuatha_de_danaan fianna otherworld magic kingship],
+    motifs: %w[otherworld divine_race sacred_treasures hero_band sovereignty shape_shifting],
+    figures: ["Finn", "Lugh", "Nuada", "Dagda", "Brigit"],
+    tradition_cluster: "celtic_irish"
+  },
+  "5160" => {
+    id: "celtic_welsh.mabinogion.guest_gutenberg",
+    title: "The Mabinogion",
+    alternate_titles: ["Mabinogion"],
+    text_status: "complete",
+    tradition: "celtic_welsh",
+    culture: "medieval_welsh_later_translation",
+    region: "wales",
+    source_language: "Middle Welsh",
+    text_language: "English",
+    date_range: "medieval Welsh narrative material; public-domain English translation",
+    source_type: "text",
+    source_id: "source.project_gutenberg.5160",
+    edition: "Project Gutenberg plain-text eBook #5160",
+    translator: "Lady Charlotte Guest",
+    editor: "Lady Charlotte Guest",
+    publication_year: 1877,
+    publisher: "Project Gutenberg",
+    source_url: "https://www.gutenberg.org/ebooks/5160",
+    raw_path: "imports/raw/project-gutenberg/5160-mabinogion.txt",
+    converted_path: "imports/converted/project-gutenberg/5160-mabinogion.md",
+    canonical_path: "texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md",
+    manifest_path: "manifests/project-gutenberg/5160-mabinogion.yml",
+    extraction_dir: "extractions/celtic-welsh/project-gutenberg/mabinogion",
+    tags: %w[welsh mabinogion enchantment sovereignty cauldron quests],
+    motifs: %w[otherworld sovereignty magical_animal shapeshifter sacred_cauldron hero_quest],
+    figures: ["Pwyll", "Rhiannon", "Branwen", "Llyr", "Taliesin"],
+    tradition_cluster: "celtic_welsh"
+  },
+  "56550" => {
+    id: "maya_quiche.popol_vuh.spence_gutenberg",
+    title: "The Popol Vuh",
+    alternate_titles: ["The Mythic and Heroic Sagas of the Kiches of Central America"],
+    text_status: "complete",
+    tradition: "maya_quiche",
+    culture: "mesoamerican_kiche_later_translation",
+    region: "mesoamerica",
+    source_language: "Kiche",
+    text_language: "English",
+    date_range: "Kiche source tradition; 1908 public-domain English edition",
+    source_type: "text",
+    source_id: "source.project_gutenberg.56550",
+    edition: "Project Gutenberg plain-text eBook #56550",
+    translator: "Lewis Spence",
+    editor: "Lewis Spence",
+    publication_year: 1908,
+    publisher: "Project Gutenberg",
+    source_url: "https://www.gutenberg.org/ebooks/56550",
+    raw_path: "imports/raw/project-gutenberg/56550-popol-vuh-spence.txt",
+    converted_path: "imports/converted/project-gutenberg/56550-popol-vuh-spence.md",
+    canonical_path: "texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md",
+    manifest_path: "manifests/project-gutenberg/56550-popol-vuh-spence.yml",
+    extraction_dir: "extractions/mesoamerican/project-gutenberg/popol-vuh",
+    tags: %w[popol_vuh creation hero_twins underworld maize ballgame],
+    motifs: %w[cosmic_origin hero_twins underworld_trial failed_creation trickster_boundary death_rebirth],
+    figures: ["Hun-Ahpu", "Xbalanque", "Hurakan", "Gucumatz", "Xibalba"],
+    tradition_cluster: "mesoamerican"
+  },
+  "6130" => {
+    id: "greek.iliad.pope_gutenberg",
+    title: "The Iliad",
+    alternate_titles: ["The Iliad of Homer"],
+    text_status: "complete",
+    tradition: "greek",
+    culture: "ancient_greek_later_translation",
+    region: "aegean_mediterranean",
+    source_language: "Ancient Greek",
+    text_language: "English",
+    date_range: "archaic Greek epic; 1899 public-domain English edition",
+    source_type: "text",
+    source_id: "source.project_gutenberg.6130",
+    edition: "Project Gutenberg plain-text eBook #6130",
+    translator: "Alexander Pope",
+    editor: "Theodore Alois Buckley",
+    publication_year: 1899,
+    publisher: "Project Gutenberg",
+    source_url: "https://www.gutenberg.org/ebooks/6130",
+    raw_path: "imports/raw/project-gutenberg/6130-iliad.txt",
+    converted_path: "imports/converted/project-gutenberg/6130-iliad.md",
+    canonical_path: "texts/public-domain/greek/project-gutenberg/iliad-pope.md",
+    manifest_path: "manifests/project-gutenberg/6130-iliad.yml",
+    extraction_dir: "extractions/greek/project-gutenberg/iliad",
+    tags: %w[iliad homer achilles wrath war fate heroism],
+    motifs: %w[heroic_wrath divine_intervention fate_lament warrior_honor death_in_battle],
+    figures: ["Achilles", "Hector", "Agamemnon", "Athena", "Zeus"],
+    tradition_cluster: "greek"
   }
 }.freeze
 
@@ -247,6 +479,7 @@ def clean_raw_text(raw)
   end
 
   lines = remove_gutenberg_editor_note(lines)
+  lines = remove_digitizer_note(lines)
   lines = lines.reject do |line|
     line.match?(/\A\s*(Produced by|This eBook was produced by)\b/i) ||
       line.match?(/\A\s*\[Illustration\]\s*\z/i)
@@ -272,6 +505,34 @@ def remove_gutenberg_editor_note(lines)
 
     if skipping
       skipping = false if line.strip.empty?
+      next
+    end
+
+    output << line
+  end
+
+  output
+end
+
+def remove_digitizer_note(lines)
+  output = []
+  skipping = false
+  blank_count = 0
+
+  lines.each do |line|
+    if line.match?(/\A\s*A note from the digitizer\s*\z/i)
+      skipping = true
+      blank_count = 0
+      next
+    end
+
+    if skipping
+      if line.strip.empty?
+        blank_count += 1
+        skipping = false if blank_count >= 2
+      else
+        blank_count = 0
+      end
       next
     end
 

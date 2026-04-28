@@ -1,0 +1,336 @@
+---
+record_id: extraction.celtic_welsh.mabinogion.pwyll_annwvyn_exchange
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: "Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn"
+  start: 5884
+  end: 6047
+  translation: Lady Charlotte Guest, The Mabinogion
+  notes: Line numbers refer to the repository markdown source.
+canonical_text:
+  summary: Pwyll encounters Arawn, king of Annwvyn, after interfering with otherworldly hounds; Arawn exchanges forms with him, sends him to rule Annwvyn for a year, and Pwyll returns with friendship and the title Chief of Annwvyn.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: While hunting, Pwyll becomes separated from his companions and hears hounds different from his own.
+    category: sequence
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: The strange hounds are shining white with red ears and have brought down a stag.
+    category: attribute
+    evidence_refs:
+      - ev:2
+  - id: obs:3
+    text: Arawn identifies himself as a crowned king from Annwvyn.
+    category: speech
+    evidence_refs:
+      - ev:3
+  - id: obs:4
+    text: Arawn asks Pwyll to take his place in Annwvyn, receive Arawn's form and semblance, and confront Havgan after one year.
+    category: speech
+    evidence_refs:
+      - ev:4
+  - id: obs:5
+    text: Pwyll enters Arawn's court, where no one recognizes him as other than Arawn.
+    category: action
+    evidence_refs:
+      - ev:5
+  - id: obs:6
+    text: Pwyll spends a year in hunting, minstrelsy, feasting, diversions, and discourse before the appointed conflict.
+    category: sequence
+    evidence_refs:
+      - ev:6
+  - id: obs:7
+    text: Pwyll strikes Havgan once and refuses to give the second blow Havgan requests.
+    category: action
+    evidence_refs:
+      - ev:7
+  - id: obs:8
+    text: Arawn restores Pwyll's proper form and returns to Annwvyn; Pwyll returns to Dyved and is later called Chief of Annwvyn.
+    category: sequence
+    evidence_refs:
+      - ev:8
+figures:
+  - id: fig:1
+    name_or_label: Pwyll
+    description: Prince of Dyved who takes Arawn's form, rules in Annwvyn, and returns with a new title.
+    role_refs:
+      - role:1
+      - role:3
+    evidence_refs:
+      - ev:1
+      - ev:4
+      - ev:5
+      - ev:8
+  - id: fig:2
+    name_or_label: Arawn
+    description: King of Annwvyn who exchanges form and place with Pwyll.
+    role_refs:
+      - role:2
+      - role:4
+    evidence_refs:
+      - ev:3
+      - ev:4
+      - ev:8
+  - id: fig:3
+    name_or_label: Havgan
+    description: Rival king of Annwvyn defeated after Pwyll takes Arawn's semblance.
+    role_refs:
+      - role:5
+    evidence_refs:
+      - ev:4
+      - ev:7
+  - id: fig:4
+    name_or_label: white red-eared hounds
+    description: Otherworldly-looking hounds whose kill Pwyll claims before Arawn confronts him.
+    role_refs:
+      - role:6
+    evidence_refs:
+      - ev:2
+roles:
+  - id: role:1
+    label: otherworld_substitute
+    assigned_to:
+      - fig:1
+    basis: Pwyll is sent to Annwvyn in Arawn's stead and given Arawn's form.
+    evidence_refs:
+      - ev:4
+      - ev:5
+  - id: role:2
+    label: otherworld_king
+    assigned_to:
+      - fig:2
+    basis: Arawn identifies himself as a crowned king from Annwvyn.
+    evidence_refs:
+      - ev:3
+  - id: role:3
+    label: transformed_returnee
+    assigned_to:
+      - fig:1
+    basis: Pwyll returns to Dyved after his year in Annwvyn and receives a new title based on that sojourn.
+    evidence_refs:
+      - ev:8
+  - id: role:4
+    label: form_exchanger
+    assigned_to:
+      - fig:2
+    basis: Arawn puts his form and semblance on Pwyll and later restores both identities.
+    evidence_refs:
+      - ev:4
+      - ev:8
+  - id: role:5
+    label: rival_king
+    assigned_to:
+      - fig:3
+    basis: Havgan is named as a king of Annwvyn whose dominions oppose Arawn's.
+    evidence_refs:
+      - ev:4
+      - ev:7
+  - id: role:6
+    label: boundary_hounds
+    assigned_to:
+      - fig:4
+    basis: The hounds' unusual color and kill introduce Pwyll's meeting with Arawn.
+    evidence_refs:
+      - ev:1
+      - ev:2
+symbols:
+  - id: sym:1
+    label: white red-eared hounds
+    literal_form: hounds with brilliant shining white bodies and red ears.
+    associated_figures:
+      - fig:4
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:2
+  - id: sym:2
+    label: Annwvyn
+    literal_form: Annwvyn, realm from which Arawn comes and where Pwyll rules for a year.
+    associated_figures:
+      - fig:1
+      - fig:2
+      - fig:3
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:3
+      - ev:4
+      - ev:8
+  - id: sym:3
+    label: exchanged semblance
+    literal_form: Arawn's form and semblance placed upon Pwyll.
+    associated_figures:
+      - fig:1
+      - fig:2
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:4
+      - ev:8
+scenes:
+  - id: scene:1
+    label: Hunt at Glyn Cuch
+    summary: Pwyll becomes separated in the hunt, sees strange white red-eared hounds, and is confronted by Arawn for claiming their stag.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:4
+    symbol_refs:
+      - sym:1
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+  - id: scene:2
+    label: Exchange and rule in Annwvyn
+    summary: Arawn gives Pwyll his semblance, sends him to Annwvyn, and Pwyll rules there unrecognized for a year.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+    symbol_refs:
+      - sym:2
+      - sym:3
+    evidence_refs:
+      - ev:4
+      - ev:5
+      - ev:6
+  - id: scene:3
+    label: Return with new title
+    summary: Pwyll defeats Havgan with one blow, returns to meet Arawn, receives his own form again, and becomes known as Chief of Annwvyn.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+    symbol_refs:
+      - sym:2
+      - sym:3
+    evidence_refs:
+      - ev:7
+      - ev:8
+candidate_motifs:
+  - id: motif:1
+    label: otherworld_exchange
+    taxonomy_refs: []
+    basis: Pwyll enters Annwvyn in Arawn's place, under Arawn's appearance, for an appointed year.
+    evidence_refs:
+      - ev:3
+      - ev:4
+      - ev:5
+      - ev:6
+    confidence: high
+    cautions: The taxonomy lacks a direct Annwvyn or otherworld-exchange motif entry.
+  - id: motif:2
+    label: shapeshifted_substitution
+    taxonomy_refs:
+      - shapeshifter
+    basis: Pwyll's visible form and semblance are changed so Arawn's household cannot recognize the substitution.
+    evidence_refs:
+      - ev:4
+      - ev:5
+      - ev:8
+    confidence: high
+    cautions: The transformation is imposed by Arawn and is a form exchange, not voluntary serial shapeshifting by Pwyll.
+  - id: motif:3
+    label: return_with_new_status
+    taxonomy_refs:
+      - return
+      - royal_legitimacy
+    basis: Pwyll returns from Annwvyn after ruling and gains the title Chief of Annwvyn.
+    evidence_refs:
+      - ev:8
+    confidence: medium
+    cautions: The royal-legitimacy link is limited to title and reputation rather than accession to Dyved.
+  - id: motif:4
+    label: magical_animal_boundary
+    taxonomy_refs: []
+    basis: The unusual hounds mark the encounter that opens Pwyll's relation with Annwvyn.
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+    confidence: medium
+    cautions: The text does not explicitly say the hounds are magical, but their colors and owner connect them to Annwvyn.
+comparison_claims:
+  - id: claim:1
+    claim: This passage can be compared with other otherworld-sojourn motifs where a hero crosses a boundary, assumes another status, and returns with changed reputation.
+    claim_level: same_function
+    target: cross-cultural otherworld sojourn and return motifs
+    evidence_refs:
+      - ev:4
+      - ev:5
+      - ev:8
+    confidence: medium
+    limitations: The comparison is limited to narrative function and does not establish historical relationship.
+  - id: claim:2
+    claim: The exchange of form between Arawn and Pwyll gives the passage a strong shapeshifter or disguised-substitution component.
+    claim_level: same_motif
+    target: taxonomy/motifs.yml#shapeshifter
+    evidence_refs:
+      - ev:4
+      - ev:5
+      - ev:8
+    confidence: medium
+    limitations: The form change is stable and contractual for a year, not a repeated metamorphosis sequence.
+evidence:
+  - id: ev:1
+    type: summary
+    locator: "lines 5884-5893"
+    quote_or_summary: Pwyll hunts at Glyn Cuch, loses his companions, and hears hounds unlike his own.
+    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    rights_note: Public-domain source text.
+  - id: ev:2
+    type: quote
+    locator: "lines 5895-5904"
+    quote_or_summary: The hounds are brilliant shining white, with red ears that glisten.
+    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    rights_note: Public-domain source text.
+  - id: ev:3
+    type: quote
+    locator: "lines 5921-5924"
+    quote_or_summary: Arawn says he is a crowned king from Annwvyn.
+    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    rights_note: Public-domain source text.
+  - id: ev:4
+    type: summary
+    locator: "lines 5925-5949"
+    quote_or_summary: Arawn asks Pwyll to defeat Havgan, sends him to Annwvyn in his stead, and puts his form and semblance on him for a year.
+    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    rights_note: Public-domain source text.
+  - id: ev:5
+    type: summary
+    locator: "lines 5951-5975"
+    quote_or_summary: Pwyll enters Arawn's court, is treated as Arawn, sees a splendid household, and feasts there.
+    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    rights_note: Public-domain source text.
+  - id: ev:6
+    type: summary
+    locator: "lines 5978-5986"
+    quote_or_summary: Pwyll spends the year in hunting, minstrelsy, feasting, diversions, and discourse until the appointed conflict.
+    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    rights_note: Public-domain source text.
+  - id: ev:7
+    type: summary
+    locator: "lines 5988-6007"
+    quote_or_summary: Pwyll, in Arawn's stead, strikes Havgan once, refuses a second blow, receives homage, and brings both kingdoms under power.
+    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    rights_note: Public-domain source text.
+  - id: ev:8
+    type: summary
+    locator: "lines 6010-6047"
+    quote_or_summary: Arawn restores Pwyll's form, Pwyll returns to Dyved, friendship is strengthened, and Pwyll is called Chief of Annwvyn.
+    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The form exchange and Annwvyn sojourn are explicit; broader otherworld classification awaits taxonomy review.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly review for Annwvyn terminology and motif labels.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Worker D extraction focused on otherworld exchange, shapeshifted substitution, and return status.

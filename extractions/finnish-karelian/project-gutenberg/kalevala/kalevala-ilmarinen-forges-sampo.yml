@@ -1,0 +1,271 @@
+---
+record_id: extraction.finnish_karelian.kalevala.ilmarinen_forges_sampo
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: Rune X, Ilmarinen forges the Sampo
+  start: Master of the forge and smithy
+  end: I have forged for thee the Sampo
+  translation: John Martin Crawford, Kalevala
+  notes: Public-domain Project Gutenberg text of Crawford's 1888 English translation.
+canonical_text:
+  summary: Louhi asks Ilmarinen to forge the Sampo from rare materials. Ilmarinen
+    claims the authority of having forged the arch of heaven, builds a smithy,
+    rejects dangerous preliminary creations, and finally forges the many-colored
+    Sampo, which grinds flour, salt, and money.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Louhi asks Ilmarinen to forge the Sampo and promises her daughter as recompense.
+  category: request
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ilmarinen says he will forge the Sampo because he forged the arch of heaven
+    before the earth began.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ilmarinen finds no existing workshop and builds his own smithy, chimney,
+    bellows, and furnace.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A crossbow, skiff, heifer, and plow rise from the furnace before being rejected
+    as dangerous or ill-mannered creations.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The completed Sampo has a many-colored lid and produces flour, salt, and
+    money by grinding.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Louhi carries the Sampo away, locks it, and roots it into mountain, sea-bed,
+    and mountain-dwelling.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ilmarinen
+  description: Magic blacksmith and first iron-worker who forges the Sampo.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Louhi
+  description: Hostess of Pohyola who requests, receives, locks, and roots the
+    Sampo.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:3
+  name_or_label: Workmen and winds
+  description: Helpers and forces that tend the bellows and fire during the forging.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: cosmic_smith
+  assigned_to:
+  - fig:1
+  basis: Ilmarinen links his Sampo work to having forged the arch of heaven.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: maker_of_world_object
+  assigned_to:
+  - fig:1
+  basis: He builds the smithy, tests furnace products, and finishes the Sampo.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: northern_owner
+  assigned_to:
+  - fig:2
+  basis: Louhi requests the Sampo and then secures it in the Northland.
+  evidence_refs:
+  - ev:1
+  - ev:6
+symbols:
+- id: sym:1
+  label: Sampo
+  literal_form: many-colored lidded mill that grinds flour, salt, and money
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - culture_hero
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: arch of heaven
+  literal_form: arch of heaven and concave cover of air
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cosmic_mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: furnace trial-creations
+  literal_form: crossbow, metal skiff, magic heifer, and plow
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: rooted wonder
+  literal_form: nine locks and three roots under mountain, sea-bed, and dwelling
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - world_center
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Ilmarinen forges the Sampo
+  summary: Louhi bargains for the Sampo; Ilmarinen builds a smithy, rejects flawed
+    objects from the furnace, and finally produces a locked, rooted abundance-object
+    for Pohyola.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: smith_craft
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage centers on a superhuman smith whose craft produces an object
+    of collective abundance.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The atlas has no canonical smith_craft key, so culture_hero is used
+    only for the culture-bringing function.
+- id: motif:2
+  label: failed_creation
+  taxonomy_refs: []
+  basis: Several beautiful furnace products are rejected and broken because they
+    are violent, quarrelsome, wasteful, or destructive.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: These are failed or unsuitable objects within a forging sequence, not
+    failed human creations.
+- id: motif:3
+  label: world_object_of_abundance
+  taxonomy_refs:
+  - world_center
+  basis: The Sampo's production of staple and exchange goods, plus its rooting into
+    multiple depths, makes it a charged center of wealth in the narrative.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The exact nature of the Sampo is debated; this record keeps to the
+    passage's grinding, locking, and rooting language.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be compared cautiously with culture-hero craft motifs in
+    which skilled making produces a socially valuable or cosmically charged object.
+  claim_level: same_function
+  target: taxonomy/motifs.yml#culture_hero
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  limitations: The comparison is functional and does not reduce the Sampo to a
+    single universal object type.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Rune X, Ilmarinen forges the Sampo
+  quote_or_summary: Louhi asks the master smith to forge the Sampo from swan
+    feathers, virtuous milk, barley, and lamb's wool, offering her daughter in
+    return.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public-domain source text.
+- id: ev:2
+  type: quote
+  locator: Rune X, Ilmarinen forges the Sampo
+  quote_or_summary: Since I forged the arch of heaven, / Forged the air a concave
+    cover.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public-domain source text.
+- id: ev:3
+  type: summary
+  locator: Rune X, Ilmarinen forges the Sampo
+  quote_or_summary: Ilmarinen finds no smithy or tools, then builds a smithy with
+    fire, chimney, bellows, and furnace.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public-domain source text.
+- id: ev:4
+  type: summary
+  locator: Rune X, Ilmarinen forges the Sampo
+  quote_or_summary: The furnace first yields a violent crossbow, a quarrelsome skiff,
+    a wasteful heifer, and a destructive plow; Ilmarinen breaks each and returns it
+    to the furnace.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public-domain source text.
+- id: ev:5
+  type: quote
+  locator: Rune X, Ilmarinen forges the Sampo
+  quote_or_summary: On one side the flour is grinding, / On another salt is making.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public-domain source text.
+- id: ev:6
+  type: summary
+  locator: Rune X, Ilmarinen forges the Sampo
+  quote_or_summary: Louhi takes the Sampo to the copper-bearing mountains, puts nine
+    locks on it, and sets three roots beneath mountain, sea-bed, and dwelling.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The craft sequence is explicit; taxonomy mapping is cautious because the
+    requested smith_craft motif is not a canonical taxonomy key.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Worker C extraction focused on smith_craft, failed_creation, and abundance-object motifs.

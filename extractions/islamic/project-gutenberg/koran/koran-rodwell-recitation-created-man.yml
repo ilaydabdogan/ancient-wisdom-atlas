@@ -1,0 +1,227 @@
+---
+record_id: extraction.koran_rodwell.recitation_created_man
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: SURA XCVI, Thick Blood, or Clots of Blood
+  start: SURA1 XCVI.THICK BLOOD, OR CLOTS OF BLOOD [I.]
+  end: Nay! obey him not; but adore, and draw nigh to God.
+  translation: The Koran, translated by J. M. Rodwell
+  notes: Early Meccan sura; Rodwell's notes identify the opening verses as among the earliest revelations in Muslim commentary traditions.
+canonical_text:
+  summary: The speaker commands recitation in the name of the creating Lord, links divine beneficence with teaching by the pen, warns against human insolence, and directs the servant not to obey an opponent but to adore and draw near to God.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: The addressee is commanded to recite in the name of the Lord who created.
+    category: speech
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: The passage says God created man from clots of blood and taught humanity what it did not know.
+    category: speech
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: obs:3
+    text: Human insolence is connected with self-sufficiency and wealth.
+    category: speech
+    evidence_refs:
+      - ev:3
+  - id: obs:4
+    text: The passage states that return is to the Lord and that God sees the one who restrains a servant at prayer.
+    category: speech
+    evidence_refs:
+      - ev:3
+      - ev:4
+  - id: obs:5
+    text: The closing command tells the addressee not to obey the opponent but to adore and draw near to God.
+    category: speech
+    evidence_refs:
+      - ev:5
+figures:
+  - id: fig:1
+    name_or_label: God / the Lord
+    description: Creator, teacher, seer, and final destination named in the passage.
+    role_refs:
+      - role:1
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+      - ev:4
+  - id: fig:2
+    name_or_label: the commanded reciter
+    description: The addressed servant-reciter, identified cautiously from the passage's imperatives rather than by later biography.
+    role_refs:
+      - role:2
+    evidence_refs:
+      - ev:1
+      - ev:5
+  - id: fig:3
+    name_or_label: a resisting opponent
+    description: A figure who restrains a servant when he prays and is threatened with divine seizure.
+    role_refs:
+      - role:3
+    evidence_refs:
+      - ev:4
+      - ev:5
+roles:
+  - id: role:1
+    label: divine revealer and teacher
+    assigned_to:
+      - fig:1
+    basis: The Lord is named as creator and as the one who teaches by the pen and teaches humanity what it did not know.
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: role:2
+    label: summoned reciter
+    assigned_to:
+      - fig:2
+    basis: The passage opens with repeated imperatives to recite and ends with the command to adore and draw near.
+    evidence_refs:
+      - ev:1
+      - ev:5
+  - id: role:3
+    label: prayer-opponent
+    assigned_to:
+      - fig:3
+    basis: The opponent is described as holding back a servant of God when he prays and as treating truth as a lie.
+    evidence_refs:
+      - ev:4
+symbols:
+  - id: sym:1
+    label: recitation
+    literal_form: The repeated command "Recite thou"
+    associated_figures:
+      - fig:2
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:1
+  - id: sym:2
+    label: pen
+    literal_form: the pen by which humanity is taught
+    associated_figures:
+      - fig:1
+    taxonomy_refs:
+      - wisdom
+    evidence_refs:
+      - ev:2
+  - id: sym:3
+    label: forelock
+    literal_form: the lying sinful forelock
+    associated_figures:
+      - fig:3
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:5
+scenes:
+  - id: scene:1
+    label: Command to recite
+    summary: The addressed figure is told to recite in the name of the creating Lord, who teaches by the pen and teaches humanity what it did not know.
+    figure_refs:
+      - fig:1
+      - fig:2
+    symbol_refs:
+      - sym:1
+      - sym:2
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: scene:2
+    label: Warning against the opponent
+    summary: The passage contrasts human insolence and opposition to prayer with divine sight, judgment, and the command to adore and draw near.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+    symbol_refs:
+      - sym:3
+    evidence_refs:
+      - ev:3
+      - ev:4
+      - ev:5
+candidate_motifs:
+  - id: motif:1
+    label: revelation_as_recitation
+    taxonomy_refs: []
+    basis: The passage begins with repeated commands to recite in the name of the creating Lord.
+    evidence_refs:
+      - ev:1
+    confidence: high
+    cautions: The record treats the English translation as evidence for an atlas motif and does not analyze the Arabic term independently.
+  - id: motif:2
+    label: divine_teaching_by_writing
+    taxonomy_refs:
+      - wisdom
+    basis: The Lord is said to teach by the pen and to teach humanity what it did not know.
+    evidence_refs:
+      - ev:2
+    confidence: medium
+    cautions: Wisdom is a broad taxonomy family here; the local motif remains more specifically revelatory and scribal.
+  - id: motif:3
+    label: prophet_call_under_opposition
+    taxonomy_refs: []
+    basis: The addressee receives a command to recite and to resist an opponent who restrains prayer.
+    evidence_refs:
+      - ev:1
+      - ev:4
+      - ev:5
+    confidence: medium
+    cautions: The passage itself is imperative and polemical; fuller prophet-call framing depends partly on surrounding tradition and Rodwell's notes.
+comparison_claims:
+  - id: claim:1
+    claim: This passage is a candidate revelation-call scene in which sacred speech, creation, writing, and opposition to prayer are brought together.
+    claim_level: same_function
+    target: pattern atlas revelation and prophet-call records
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:4
+      - ev:5
+    counter_evidence_refs: []
+    confidence: low
+    limitations: Corpus-internal comparison only; no historical-contact, equivalence, or source-dependence claim is made.
+evidence:
+  - id: ev:1
+    type: quote
+    locator: SURA XCVI
+    quote_or_summary: Recite thou, in the name of thy Lord who created.
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+    rights_note: Public-domain source text.
+  - id: ev:2
+    type: quote
+    locator: SURA XCVI
+    quote_or_summary: Who hath taught the use of the pen; Hath taught Man that which he knoweth not.
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+    rights_note: Public-domain source text.
+  - id: ev:3
+    type: summary
+    locator: SURA XCVI
+    quote_or_summary: The passage says man is insolent when he sees himself possessed of riches, and that return is to the Lord.
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+    rights_note: Public-domain source text.
+  - id: ev:4
+    type: summary
+    locator: SURA XCVI
+    quote_or_summary: The passage asks about one who restrains a servant of God at prayer and says God sees him.
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+    rights_note: Public-domain source text.
+  - id: ev:5
+    type: summary
+    locator: SURA XCVI
+    quote_or_summary: The closing warning threatens seizure by the forelock, summons the guards of Hell, and tells the addressee to adore and draw near to God.
+    source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+    rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Passage-level extraction from Rodwell's public-domain English translation; needs Islamic studies review.
+reviewer_status:
+  status: draft
+  notes: Draft extraction for cross-cultural motif indexing.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Created under Worker B scope for The Koran (Rodwell).

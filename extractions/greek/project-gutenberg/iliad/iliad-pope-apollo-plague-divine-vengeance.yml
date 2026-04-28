@@ -1,0 +1,249 @@
+---
+record_id: extraction.iliad_pope.apollo_plague_divine_vengeance
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: BOOK I, The Contention of Achilles and Agamemnon
+  start: Achilles wrath, to Greece the direful spring
+  end: Phbus dart his burning shafts no more.
+  translation: The Iliad of Homer, translated by Alexander Pope
+  notes: Opening plague sequence following Agamemnon's rejection of Chryses.
+canonical_text:
+  summary: After Agamemnon rejects Chryses, the priest prays to Apollo, who descends from Olympus and sends a plague through the Greek camp until Achilles calls for inquiry into Apollo's anger.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: Chryses comes as a suppliant with Apollo's sacred signs and asks for his daughter to be returned.
+    category: action
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: Agamemnon refuses the request and dismisses the priest.
+    category: action
+    evidence_refs:
+      - ev:2
+  - id: obs:3
+    text: Chryses prays to Apollo for vengeance against the Greeks.
+    category: speech
+    evidence_refs:
+      - ev:3
+  - id: obs:4
+    text: Apollo descends from Olympus and sends fatal arrows into the Greek camp.
+    category: action
+    evidence_refs:
+      - ev:4
+  - id: obs:5
+    text: Achilles calls for a prophet or sacred sage to explain the cause of Apollo's rage and how to remove it.
+    category: speech
+    evidence_refs:
+      - ev:5
+figures:
+  - id: fig:1
+    name_or_label: Apollo / Phbus
+    description: The god who answers Chryses' prayer and sends the plague through the Greek camp.
+    role_refs:
+      - role:1
+    evidence_refs:
+      - ev:3
+      - ev:4
+      - ev:5
+  - id: fig:2
+    name_or_label: Chryses
+    description: Priest and father who supplicates the Greek kings and prays to Apollo after being refused.
+    role_refs:
+      - role:2
+    evidence_refs:
+      - ev:1
+      - ev:3
+  - id: fig:3
+    name_or_label: Agamemnon / Atrides
+    description: The king whose refusal of the priest is linked to Apollo's plague.
+    role_refs:
+      - role:3
+    evidence_refs:
+      - ev:2
+  - id: fig:4
+    name_or_label: Achilles
+    description: The Greek chief who convenes the assembly and asks how Apollo's anger may be explained and appeased.
+    role_refs:
+      - role:4
+    evidence_refs:
+      - ev:5
+roles:
+  - id: role:1
+    label: avenging deity
+    assigned_to:
+      - fig:1
+    basis: Apollo hears Chryses and sends fatal shafts into the Greek camp.
+    evidence_refs:
+      - ev:3
+      - ev:4
+  - id: role:2
+    label: dishonored priest-suppliant
+    assigned_to:
+      - fig:2
+    basis: Chryses approaches with sacred signs and later prays for Apollo to avenge him.
+    evidence_refs:
+      - ev:1
+      - ev:3
+  - id: role:3
+    label: offending king
+    assigned_to:
+      - fig:3
+    basis: The poem explicitly ties the people's deaths to the king's offence.
+    evidence_refs:
+      - ev:2
+  - id: role:4
+    label: crisis convener
+    assigned_to:
+      - fig:4
+    basis: Achilles calls the Greeks together and asks for prophetic diagnosis of Apollo's rage.
+    evidence_refs:
+      - ev:5
+symbols:
+  - id: sym:1
+    label: laurel crown and golden rod
+    literal_form: Apollo's ensigns carried by Chryses
+    associated_figures:
+      - fig:2
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:1
+  - id: sym:2
+    label: silver bow
+    literal_form: Apollo's bow and arrows
+    associated_figures:
+      - fig:1
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:3
+      - ev:4
+  - id: sym:3
+    label: plague pyres
+    literal_form: nine nights of funeral pyres
+    associated_figures:
+      - fig:1
+    taxonomy_refs:
+      - divine_judgment
+    evidence_refs:
+      - ev:4
+scenes:
+  - id: scene:1
+    label: Rejected supplication
+    summary: Chryses approaches the Greek kings with Apollo's signs and ransom gifts, but Agamemnon dismisses him.
+    figure_refs:
+      - fig:2
+      - fig:3
+    symbol_refs:
+      - sym:1
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: scene:2
+    label: Apollo's plague
+    summary: Chryses prays for vengeance, Apollo descends from Olympus, and his arrows bring death to the camp.
+    figure_refs:
+      - fig:1
+      - fig:2
+    symbol_refs:
+      - sym:2
+      - sym:3
+    evidence_refs:
+      - ev:3
+      - ev:4
+  - id: scene:3
+    label: Search for cause and appeasement
+    summary: Achilles convenes the Greeks and calls for a prophet or sacred sage to identify Apollo's rage and how it may be removed.
+    figure_refs:
+      - fig:1
+      - fig:4
+    symbol_refs: []
+    evidence_refs:
+      - ev:5
+candidate_motifs:
+  - id: motif:1
+    label: divine_intervention
+    taxonomy_refs: []
+    basis: Apollo personally answers a priest's prayer and intervenes in the war through plague-arrows.
+    evidence_refs:
+      - ev:3
+      - ev:4
+    confidence: high
+    cautions: No exact divine_intervention taxonomy family exists; label is local and descriptive.
+  - id: motif:2
+    label: divine_judgment
+    taxonomy_refs:
+      - divine_judgment
+    basis: Apollo's destructive response is linked to Agamemnon's offence against his priest.
+    evidence_refs:
+      - ev:2
+      - ev:3
+      - ev:4
+    confidence: medium
+    cautions: The passage frames vengeance and appeasement rather than a moral court or universal judgment.
+  - id: motif:3
+    label: plague_as_sacred_retribution
+    taxonomy_refs:
+      - divine_judgment
+    basis: The plague is explained as Apollo's rage and may be removed through ritual diagnosis and appeasement.
+    evidence_refs:
+      - ev:4
+      - ev:5
+    confidence: medium
+    cautions: This is a local motif candidate and should be checked against Greek epic scholarship.
+comparison_claims:
+  - id: claim:1
+    claim: The passage is a candidate divine-intervention and sacred-retribution scene in which a dishonored priest's prayer brings destructive god-sent consequences on a whole army.
+    claim_level: same_function
+    target: pattern atlas divine intervention and divine judgment records
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+      - ev:4
+      - ev:5
+    counter_evidence_refs: []
+    confidence: low
+    limitations: Corpus-internal comparison only; the record does not claim equivalence with monotheistic judgment or later plague traditions.
+evidence:
+  - id: ev:1
+    type: summary
+    locator: BOOK I
+    quote_or_summary: Chryses stands as a suppliant with Apollo's ensigns and asks the Greek kings to release his captive daughter.
+    source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+    rights_note: Public-domain source text.
+  - id: ev:2
+    type: summary
+    locator: BOOK I
+    quote_or_summary: Agamemnon rejects Chryses, and the poem says that for the king's offence the people died.
+    source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+    rights_note: Public-domain source text.
+  - id: ev:3
+    type: quote
+    locator: BOOK I
+    quote_or_summary: God of the silver bow! thy shafts employ, Avenge thy servant, and the Greeks destroy.
+    source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+    rights_note: Public-domain source text.
+  - id: ev:4
+    type: summary
+    locator: BOOK I
+    quote_or_summary: Apollo descends from Olympus, his arrows strike animals and then men, and the funeral pyres burn for nine nights.
+    source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+    rights_note: Public-domain source text.
+  - id: ev:5
+    type: summary
+    locator: BOOK I
+    quote_or_summary: Achilles asks for a prophet or sacred sage to explore Apollo's rage and learn how the vengeance may be removed.
+    source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+    rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Passage-level extraction from Pope's public-domain translation; needs Greek epic review.
+reviewer_status:
+  status: draft
+  notes: Draft extraction for cross-cultural motif indexing.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Created under Worker B scope for The Iliad (Pope).

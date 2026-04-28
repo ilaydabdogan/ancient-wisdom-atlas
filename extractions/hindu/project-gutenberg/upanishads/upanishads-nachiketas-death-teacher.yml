@@ -1,0 +1,300 @@
+---
+record_id: extraction.upanishads.nachiketas_death_teacher
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+passage_locator:
+  label: Katha-Upanishad, Part First VII-Part Second IV
+  start: Katha-Upanishad, Part First VII
+  end: Katha-Upanishad, Part Second IV
+  translation: Swami Paramananda, Project Gutenberg eBook #3283
+  notes: Selected from the Nachiketas episode, including the three-night wait, boons,
+    refusal of temptations, and Yama's opening instruction.
+canonical_text:
+  summary: Nachiketas waits in Death's house, receives three boons from Yama, asks
+    for knowledge of what happens after death, refuses wealth and pleasure, and is
+    praised as one who longs for wisdom.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Nachiketas goes to the abode of Death and waits three nights without food
+    or drink.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yama offers three boons because Nachiketas remained as an unfed guest.
+  category: sacred_exchange
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Nachiketas asks Death for knowledge concerning what becomes of a person after
+    death.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Yama tests Nachiketas with long life, wealth, rulership, and pleasures.
+  category: test
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Nachiketas refuses the temptations and asks for no other boon than the hidden
+    secret.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:6
+  text: Yama distinguishes the good from the pleasant and says Nachiketas longs for
+    wisdom.
+  category: teaching
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Nachiketas
+  description: Young seeker who enters Death's abode, receives boons, rejects temptations,
+    and asks about the great Hereafter.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Yama
+  description: Ruler of Death who grants boons, tests Nachiketas, and begins instruction.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: threshold seeker
+  assigned_to:
+  - fig:1
+  basis: Nachiketas enters the abode of Death and asks about the Hereafter.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: death teacher
+  assigned_to:
+  - fig:2
+  basis: Yama, as Death, tests Nachiketas and instructs him on the good, the pleasant,
+    ignorance, and wisdom.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: role:3
+  label: renouncer of temptations
+  assigned_to:
+  - fig:1
+  basis: Nachiketas rejects chariots, dance, music, wealth, and long life in favor
+    of the hidden secret.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: abode of Death
+  literal_form: abode of Death
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: three boons
+  literal_form: three boons
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - sacred_exchange
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hidden secret
+  literal_form: hidden secret
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: good and pleasant
+  literal_form: good; pleasant
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Guest in the house of Death
+  summary: Nachiketas waits in Death's abode without food or drink, and Yama grants
+    him three boons in response.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Refusal of Death's temptations
+  summary: Nachiketas asks about the after-death question, refuses Yama's offered
+    wealth and pleasures, and asks only for the hidden secret.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: initiation by death teacher
+  taxonomy_refs:
+  - initiation
+  - wisdom
+  basis: Nachiketas crosses into Death's abode, passes a test of temptations, and
+    receives instruction from Yama.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: Death Teacher is a text tag but not a current taxonomy ID; mapped here
+    to initiation and wisdom.
+- id: motif:2
+  label: sacred guest exchange
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Yama grants three boons because the Brahmana guest has remained three nights
+    without food.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: Exchange is direct, though it occurs through guest hospitality rather
+    than covenant.
+- id: motif:3
+  label: death-question wisdom
+  taxonomy_refs:
+  - wisdom
+  - death_rebirth
+  basis: The desired knowledge concerns what becomes of a person after death, and
+    Yama praises Nachiketas as one who longs for wisdom.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: Death_rebirth is used for the death-threshold and afterlife question,
+    not for a narrated resurrection.
+comparison_claims:
+- id: claim:1
+  claim: This passage is a strong atlas candidate for a threshold initiation in which
+    a seeker rejects ordinary rewards and gains wisdom from a death-associated teacher.
+  claim_level: same_function
+  target: "pattern atlas: death-threshold wisdom initiation"
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Functional comparison only; no claim of textual dependence is made.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Katha-Upanishad, Part First VII
+  quote_or_summary: Nachiketas went to Death's abode and waited without food or drink
+    for three days.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public-domain Project Gutenberg source text.
+- id: ev:2
+  type: quote
+  locator: Katha-Upanishad, Part First IX
+  quote_or_summary: Yama says Nachiketas remained three nights without food and may
+    choose three boons.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public-domain Project Gutenberg source text.
+- id: ev:3
+  type: quote
+  locator: Katha-Upanishad, Part First XX
+  quote_or_summary: Nachiketas asks what becomes of a man after death.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public-domain Project Gutenberg source text.
+- id: ev:4
+  type: quote
+  locator: Katha-Upanishad, Part First XXIII-XXV
+  quote_or_summary: Yama offers long life, wealth, rulership, chariots, music, and
+    other difficult-to-obtain desires.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public-domain Project Gutenberg source text.
+- id: ev:5
+  type: quote
+  locator: Katha-Upanishad, Part First XXVI
+  quote_or_summary: Nachiketas calls these pleasures fleeting and tells Death to keep
+    chariots, dance, and music.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public-domain Project Gutenberg source text.
+- id: ev:6
+  type: quote
+  locator: Katha-Upanishad, Part First XXIX
+  quote_or_summary: Nachiketas asks for no other boon than the hidden secret of the
+    great Hereafter.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public-domain Project Gutenberg source text.
+- id: ev:7
+  type: quote
+  locator: Katha-Upanishad, Part Second I-II
+  quote_or_summary: Yama teaches that the good and pleasant differ, and the wise prefer
+    the good.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public-domain Project Gutenberg source text.
+- id: ev:8
+  type: quote
+  locator: Katha-Upanishad, Part Second IV
+  quote_or_summary: Yama says ignorance and wisdom lead in opposite directions and
+    Nachiketas longs for wisdom.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public-domain Project Gutenberg source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Core sequence is explicit; broader motif comparison remains provisional.
+reviewer_status:
+  status: draft
+  notes: Draft extraction; needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Worker A extraction focused on Nachiketas, Yama, death-threshold initiation,
+  and wisdom.

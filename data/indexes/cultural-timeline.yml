@@ -44,6 +44,39 @@ entries:
   uncertainty: The ingested text represents Old Babylonian Gilgamesh material rather
     than the later Standard Babylonian epic; dating refers to the approximate period
     of the Old Babylonian witnesses and tradition.
+- id: hindu.upanishads
+  title: The Upanishads
+  tradition_cluster: hindu
+  culture: sanskrit_vedic_later_translation
+  region: south_asia
+  approximate_date_range:
+    start_year: -800
+    end_year: -300
+    display: ca. 800-300 BCE
+  timeline_label: Vedic and early philosophical Sanskrit tradition
+  current_text_paths:
+  - texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  manifest_paths:
+  - manifests/project-gutenberg/3283-upanishads.yml
+  uncertainty: Upanishadic material is layered and internally diverse; this broad
+    range is an orientation for major early/prose and verse Upanishadic strata, not
+    a single date for the translated anthology.
+- id: greek.iliad
+  title: The Iliad
+  tradition_cluster: greek
+  culture: ancient_greek_later_translation
+  region: aegean_mediterranean
+  approximate_date_range:
+    start_year: -750
+    end_year: -650
+    display: ca. 750-650 BCE
+  timeline_label: Archaic Greek heroic epic tradition
+  current_text_paths:
+  - texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  manifest_paths:
+  - manifests/project-gutenberg/6130-iliad.yml
+  uncertainty: The date range is a working orientation for the Homeric epic tradition;
+    the ingested Pope translation is a much later public-domain English rendering.
 - id: biblical.pentateuch
   title: Pentateuch
   tradition_cluster: jewish_christian
@@ -69,6 +102,23 @@ entries:
   uncertainty: The Pentateuch is treated here as layered literature with debated
     composition and redaction histories; the range is broad and should not be read
     as dating every passage equally.
+- id: confucian.analects
+  title: The Analects of Confucius
+  tradition_cluster: confucian
+  culture: classical_chinese
+  region: china
+  approximate_date_range:
+    start_year: -475
+    end_year: -221
+    display: ca. 475-221 BCE
+  timeline_label: Classical Chinese Confucian teaching collection
+  current_text_paths:
+  - texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  manifest_paths:
+  - manifests/project-gutenberg/3330-analects-confucius.yml
+  uncertainty: The Analects preserve sayings and traditions associated with Confucius
+    and disciples through a layered textual history; the range marks a broad Warring
+    States working window for formation.
 - id: daoist.tao_teh_king
   title: The Tao Teh King, or the Tao and its Characteristics
   tradition_cluster: daoist_chinese
@@ -119,6 +169,40 @@ entries:
   uncertainty: The Bhagavad-Gita is embedded in the Mahabharata and is usually dated
     within a broad late BCE to early CE window; this entry does not resolve internal
     layering or redaction questions.
+- id: islamic.koran
+  title: The Koran (Al-Qur'an)
+  tradition_cluster: islamic
+  culture: arabic_islamic_later_translation
+  region: arabia_west_asia
+  approximate_date_range:
+    start_year: 610
+    end_year: 632
+    display: ca. 610-632 CE
+  timeline_label: Early Islamic revelation corpus
+  current_text_paths:
+  - texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  manifest_paths:
+  - manifests/project-gutenberg/3434-koran-rodwell.yml
+  uncertainty: This range follows the traditional period of Muhammad's revelations;
+    the ingested Rodwell text is a public-domain English translation organized in
+    Rodwell's order rather than a critical Arabic edition.
+- id: celtic_irish.gods_and_fighting_men
+  title: Gods and Fighting Men
+  tradition_cluster: celtic_irish
+  culture: medieval_irish_later_retelling
+  region: ireland
+  approximate_date_range:
+    start_year: 800
+    end_year: 1200
+    display: ca. 800-1200 CE source traditions; 1905 retelling
+  timeline_label: Medieval Irish mythic and heroic material
+  current_text_paths:
+  - texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  manifest_paths:
+  - manifests/project-gutenberg/14465-gods-and-fighting-men.yml
+  uncertainty: Lady Gregory's book is a modern public-domain literary arrangement
+    of older Irish material; use the range as a source-tradition anchor, not the date
+    of the English retelling.
 - id: greek.hesiod_homeric_hymns
   title: Hesiod, the Homeric Hymns, and Homerica
   tradition_cluster: greek
@@ -136,6 +220,23 @@ entries:
   uncertainty: The ingested anthology combines Hesiodic poems, Homeric Hymns, and
     related material with different dates; the range covers the approximate span of
     these archaic/classical poetic witnesses rather than one work.
+- id: celtic_welsh.mabinogion
+  title: The Mabinogion
+  tradition_cluster: celtic_welsh
+  culture: medieval_welsh_later_translation
+  region: wales
+  approximate_date_range:
+    start_year: 1100
+    end_year: 1400
+    display: ca. 1100-1400 CE
+  timeline_label: Medieval Welsh narrative and romance tradition
+  current_text_paths:
+  - texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  manifest_paths:
+  - manifests/project-gutenberg/5160-mabinogion.yml
+  uncertainty: The tales have older oral and literary histories, while surviving
+    manuscripts and translation layers are later; the range is a broad medieval
+    orientation only.
 - id: norse.poetic_edda
   title: The Poetic Edda
   tradition_cluster: norse
@@ -153,3 +254,37 @@ entries:
   uncertainty: Many Eddic poems likely preserve older oral and poetic material, but
     the main medieval manuscript witness is much later; this range separates broad
     traditional formation from exact manuscript dating only imperfectly.
+- id: maya_quiche.popol_vuh
+  title: The Popol Vuh
+  tradition_cluster: maya_quiche
+  culture: mesoamerican_kiche_later_translation
+  region: mesoamerica
+  approximate_date_range:
+    start_year: 1550
+    end_year: 1700
+    display: ca. 1550-1700 CE textual witness
+  timeline_label: Kiche Maya mythic and heroic tradition
+  current_text_paths:
+  - texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  manifest_paths:
+  - manifests/project-gutenberg/56550-popol-vuh-spence.yml
+  uncertainty: The Popol Vuh preserves pre-colonial mythic material through colonial-era
+    textual transmission and later translation; this entry dates the textual witness
+    layer rather than the origin of all narratives.
+- id: finnish_karelian.kalevala
+  title: "Kalevala: The Epic Poem of Finland"
+  tradition_cluster: finnish_karelian
+  culture: finno_ugric
+  region: finland_karelia
+  approximate_date_range:
+    start_year: 1835
+    end_year: 1849
+    display: 1835-1849 CE compilation
+  timeline_label: Finnish/Karelian oral-poetry epic compilation
+  current_text_paths:
+  - texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  manifest_paths:
+  - manifests/project-gutenberg/5186-kalevala-complete.yml
+  uncertainty: Kalevala is a 19th-century literary compilation from older oral-poetic
+    traditions; motif comparison should distinguish compilation date from traditional
+    age and regional performance contexts.

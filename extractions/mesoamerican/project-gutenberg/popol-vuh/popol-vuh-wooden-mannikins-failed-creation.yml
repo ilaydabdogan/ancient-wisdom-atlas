@@ -1,0 +1,282 @@
+---
+record_id: extraction.mesoamerican.popol_vuh.wooden_mannikins_failed_creation
+source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+passage_locator:
+  label: The First Book, wooden mannikins
+  start: Over a universe wrapped in the gloom
+  end: their posterity are the little monkeys who live in the woods.
+  translation: Lewis Spence, The Popol Vuh
+  notes: Public-domain Project Gutenberg text of Spence's 1908 English edition.
+canonical_text:
+  summary: In primeval darkness Hurakan calls earth into being, the gods take counsel,
+    and wooden mannikins are created as a failed human attempt. Because they lack
+    reverence, flood, darkness, birds, animals, utensils, houses, trees, and caves
+    turn against them, and the ruined race is linked to monkeys.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hurakan passes over a dark primeval universe, calls out earth, and solid
+    land appears.
+  category: creation
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hurakan, Gucumatz, Xpiyacoc, and Xmucane take counsel before animals and
+    later wooden mannikins are made.
+  category: council
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The wooden mannikins displease the gods because they lack reverence.
+  category: failure
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: By Hurakan's will, floodwaters rise and drown the wooden mannikins while
+    resin falls from heaven.
+  category: destruction
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Birds dismember the wooden people, and household animals and tools accuse
+    and attack them.
+  category: reversal
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Houses, trees, and caverns refuse refuge, and the ruined race is said to
+    survive as monkeys.
+  category: transformation
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hurakan
+  description: Mighty wind and Heart of Heaven who calls earth forth and wills the
+    flood against the wooden mannikins.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Gucumatz
+  description: Feathered serpent named among the gods in counsel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Xpiyacoc and Xmucane
+  description: Father and mother gods named among the creators in counsel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Wooden mannikins
+  description: Artificial people carved from wood who fail to revere the gods and
+    are destroyed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: divine_council
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The gods take counsel before creating animals and attempting humanity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: flood_sender
+  assigned_to:
+  - fig:1
+  basis: The flood comes by the will of Hurakan, the Heart of Heaven.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: failed_humanity
+  assigned_to:
+  - fig:4
+  basis: The wooden mannikins are created to fill the absence of humans but are
+    destroyed for their lack of reverence.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: primeval darkness
+  literal_form: universe wrapped in dense and primeval night
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - chaos
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wooden mannikins
+  literal_form: mannikins carved out of wood
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: punitive flood
+  literal_form: swollen waters and pouring rain
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - flood_and_renewal
+  - divine_judgment
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: speaking utensils and animals
+  literal_form: mill-stones, plates, cups, dogs, and hens that accuse the mannikins
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Failed wooden humanity destroyed
+  summary: After a divine council makes wooden mannikins to supply the absence of
+    humans, the beings fail in reverence and are destroyed by flood, dismemberment,
+    and revolt from the domestic and natural world.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: failed_creation
+  taxonomy_refs:
+  - divine_judgment
+  basis: The wooden mannikins are created as a human substitute but are destroyed
+    after displeasing the gods.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The atlas has no canonical failed_creation key, so divine_judgment
+    captures the destruction rather than the full creation-failure pattern.
+- id: motif:2
+  label: cosmic_origin
+  taxonomy_refs:
+  - chaos
+  basis: The episode begins with primeval darkness and the calling forth of solid
+    land.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The record focuses on the failed wooden people, not the complete
+    Popol Vuh creation cycle.
+- id: motif:3
+  label: flood_and_renewal
+  taxonomy_refs:
+  - flood_and_renewal
+  - divine_judgment
+  basis: Floodwaters destroy an unsatisfactory prior race, creating narrative space
+    for later human creation.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The renewal is implied by the larger creation sequence; this passage
+    itself stresses judgment and ruin.
+- id: motif:4
+  label: household_reversal
+  taxonomy_refs: []
+  basis: Domestic tools and animals accuse and punish the beings who mistreated them.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level motif label, not a canonical taxonomy key.
+comparison_claims:
+- id: claim:1
+  claim: The wooden-mannikin episode is a strong Mesoamerican witness for failed
+    creation joined to divine judgment and flood destruction.
+  claim_level: same_motif
+  target: taxonomy/motifs.yml#flood_and_renewal
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  limitations: The claim compares motif structure only; it does not assert dependence
+    on any other flood or creation text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: The First Book, opening creation
+  quote_or_summary: Hurakan passes over primeval night, calls out earth, and solid
+    land appears while the chief gods take counsel.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public-domain source text.
+- id: ev:2
+  type: summary
+  locator: The First Book, wooden mannikins
+  quote_or_summary: The divine beings create wooden mannikins to supply the absence
+    of humans, but resolve to destroy them after their lack of reverence.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public-domain source text.
+- id: ev:3
+  type: quote
+  locator: The First Book, wooden mannikins
+  quote_or_summary: The waters were swollen, and a great flood came upon the
+    mannikins of wood.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public-domain source text.
+- id: ev:4
+  type: summary
+  locator: The First Book, wooden mannikins
+  quote_or_summary: Birds tear, cut, devour, and grind the wooden beings, while
+    mill-stones, dishes, dogs, and hens accuse and attack them.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public-domain source text.
+- id: ev:5
+  type: summary
+  locator: The First Book, wooden mannikins
+  quote_or_summary: Houses crumble, trees throw them down, caverns close before
+    them, and the ruined race is linked to monkeys in the woods.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The failed creation and judgment sequence is explicit in Spence's summary.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Worker C extraction focused on failed_creation, cosmic_origin, and flood judgment.

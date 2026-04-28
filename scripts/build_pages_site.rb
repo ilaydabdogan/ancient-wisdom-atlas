@@ -24,11 +24,17 @@ TRADITION_LABELS = {
   "jewish_christian" => "Biblical",
   "buddhist" => "Buddhist",
   "daoist" => "Daoist",
+  "confucian" => "Confucian",
   "egyptian" => "Egyptian",
+  "finnish_karelian" => "Finnish/Karelian",
   "greek" => "Greek",
   "hindu" => "Hindu",
+  "islamic" => "Islamic",
+  "maya_quiche" => "Maya/Kiche",
   "mesopotamian" => "Mesopotamian",
-  "norse" => "Norse"
+  "norse" => "Norse",
+  "celtic_irish" => "Celtic Irish",
+  "celtic_welsh" => "Celtic Welsh"
 }.freeze
 
 def relative(path)

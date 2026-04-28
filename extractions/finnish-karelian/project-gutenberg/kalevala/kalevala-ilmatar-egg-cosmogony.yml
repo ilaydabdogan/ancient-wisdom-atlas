@@ -1,0 +1,247 @@
+---
+record_id: extraction.finnish_karelian.kalevala.ilmatar_egg_cosmogony
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: Rune I, Birth of Wainamoinen
+  start: In primeval times, a maiden
+  end: Still remaining undelivered.
+  translation: John Martin Crawford, Kalevala
+  notes: Public-domain Project Gutenberg text of Crawford's 1888 English translation.
+canonical_text:
+  summary: Ilmatar descends from ether to the sea, becomes the water-mother, gives
+    a duck a place to nest, and the broken egg fragments become heaven, earth,
+    moonlight, sunshine, starlight, and clouds before she shapes islands, reefs,
+    fields, forests, and sky-pillars.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A maiden called the Daughter of the Ether descends from the air to the ocean.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Storm-wind and sea leave the maiden in prolonged travail as water-mother.
+  category: condition
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A duck lays six golden eggs and a seventh iron egg on the raised knee of the
+    water-mother.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the eggs fall and break in the ocean, their fragments become earth,
+    heaven, moonbeams, sunshine, starlight, and cloudage.
+  category: transformation
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ilmatar's later movements shape hillocks, fish-holes, deeps, banks, bays,
+    rocks, reefs, islands, sky-pillars, fields, and forests.
+  category: creation
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ilmatar
+  description: Daughter of the Ether who becomes water-mother and participates in
+    shaping the world.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Duck
+  description: Bird that seeks a nesting place on the primeval waters and lays the
+    eggs whose fragments become cosmic regions and lights.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Wainamoinen
+  description: The still-undelivered singer named at the end of the creation sequence.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: water_mother
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls Ilmatar a water-mother during her long travail
+    in the sea.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: world_shaper
+  assigned_to:
+  - fig:1
+  basis: Her movements make geographical and cosmic features after the egg-cosmos
+    appears.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: egg_layer
+  assigned_to:
+  - fig:2
+  basis: The duck builds on Ilmatar's knee and lays the eggs that later break into
+    cosmic materials.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: primeval sea
+  literal_form: ocean and salt-sea expanses before ordered land
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - chaos
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: cosmic eggs
+  literal_form: six golden eggs and a seventh iron egg
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: divided egg fragments
+  literal_form: upper and lower halves, white, yellow, motley, and dark parts
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: planted sky-pillars
+  literal_form: pillars of the sky
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - sacred_tree_axis
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Ilmatar's egg-cosmogony
+  summary: Ilmatar descends to the waters, shelters a duck's nest on her body, and
+    the broken eggs become the main parts and lights of the cosmos before Ilmatar
+    shapes the watery earth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: cosmic_origin
+  taxonomy_refs:
+  - chaos
+  basis: The passage narrates the emergence of ordered heaven, earth, lights, clouds,
+    islands, fields, and forests from primeval sea conditions.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The atlas has no canonical cosmic_origin motif key, so the taxonomy ref
+    is limited to the existing chaos family for pre-ordered waters.
+- id: motif:2
+  label: world_egg
+  taxonomy_refs: []
+  basis: Cosmic regions and lights arise from the broken pieces of eggs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This labels the passage-level pattern only; it does not assert derivation
+    from other world-egg traditions.
+- id: motif:3
+  label: body_as_landscape_shaper
+  taxonomy_refs: []
+  basis: Ilmatar's hand, foot, diving, turning, head, and back generate specific
+    features of the seascape and land.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The body-landscape relation is descriptive and should be reviewed before
+    broader typological use.
+comparison_claims:
+- id: claim:1
+  claim: The passage is a strong Finnish-Karelian witness for a cosmic-origin pattern
+    in which a primeval watery expanse becomes ordered through egg-fragment
+    transformation and divine shaping.
+  claim_level: same_motif
+  target: taxonomy/motifs.yml#chaos
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  limitations: This is a motif-family placement for atlas comparison, not a claim
+    of historical borrowing.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Rune I, Birth of Wainamoinen
+  quote_or_summary: The Daughter of the Ether descends to the ocean, is tossed by
+    storm-wind and sea, and becomes a water-mother in prolonged travail.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public-domain source text.
+- id: ev:2
+  type: summary
+  locator: Rune I, Birth of Wainamoinen
+  quote_or_summary: A duck finds Ilmatar's raised knee as a nesting place and lays
+    six golden eggs and a seventh egg of iron.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public-domain source text.
+- id: ev:3
+  type: quote
+  locator: Rune I, Birth of Wainamoinen
+  quote_or_summary: From one half the egg, the lower, / Grows the nether vault of
+    Terra.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public-domain source text.
+- id: ev:4
+  type: summary
+  locator: Rune I, Birth of Wainamoinen
+  quote_or_summary: Ilmatar's movements make hillocks, fish-holes, ocean deeps,
+    banks, bays, reefs, islands, sky-pillars, fields, and forests, while
+    Wainamoinen remains undelivered.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The creation sequence is explicit, while cross-cultural comparison remains
+    typological and cautious.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Worker C extraction focused on cosmic_origin and world-egg imagery.

@@ -1,0 +1,257 @@
+---
+record_id: extraction.upanishads.self_deathless_wisdom
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+passage_locator:
+  label: Katha-Upanishad, Part Second XVIII-XXIII; Part Sixth XVIII
+  start: Katha-Upanishad, Part Second XVIII
+  end: Katha-Upanishad, Part Sixth XVIII
+  translation: Swami Paramananda, Project Gutenberg eBook #3283
+  notes: Selected teachings on the Self and the closing notice of Nachiketas' attainment.
+canonical_text:
+  summary: Yama teaches that the Self is unborn, deathless, not slain with the body,
+    subtle and heart-dwelling; the wise know this Self and do not grieve. The text
+    closes by saying Nachiketas gained this wisdom and became free from death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Self is said never to be born or die.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Self is said not to be slain even when the body is slain.
+  category: contrast
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Self is described as subtle, great, and dwelling in the heart of every
+    living being.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The wise who know the bodiless Self within perishable bodies do not grieve.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Nachiketas is said to acquire wisdom from the Ruler of Death and become free
+    from impurity and death.
+  category: transformation
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the Self
+  description: Deathless Atman described as unborn, eternal, subtle, great, heart-dwelling,
+    and not slain with the body.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the wise
+  description: Those who know the bodiless Self seated within perishable bodies and
+    therefore do not grieve.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Nachiketas
+  description: Recipient of the Ruler of Death's wisdom who becomes free from impurity
+    and death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Ruler of Death
+  description: Teacher from whom Nachiketas receives wisdom.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: deathless inner reality
+  assigned_to:
+  - fig:1
+  basis: The Self is explicitly described as unborn, eternal, heart-dwelling, and
+    not slain when the body is slain.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: knower of the Self
+  assigned_to:
+  - fig:2
+  basis: The wise are identified by knowing the bodiless Self within perishable bodies.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: transformed disciple
+  assigned_to:
+  - fig:3
+  basis: Nachiketas acquires the wisdom and becomes free from impurity and death.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: death teacher
+  assigned_to:
+  - fig:4
+  basis: The wisdom acquired by Nachiketas is said to have been taught by the Ruler
+    of Death.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: deathless Self
+  literal_form: unborn, eternal, everlasting
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - death_rebirth
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: heart-dwelling Atman
+  literal_form: dwells in the heart of each living being
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: perishable bodies
+  literal_form: perishable bodies
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: wisdom taught by Death
+  literal_form: wisdom taught by the Ruler of Death
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Teaching of the deathless Self
+  summary: The Self is presented as unborn, deathless, heart-dwelling, and known by
+    the wise who do not grieve.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Nachiketas attains Brahman
+  summary: Nachiketas receives wisdom from the Ruler of Death, becomes free from impurity
+    and death, and attains Brahman.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: deathless self wisdom
+  taxonomy_refs:
+  - wisdom
+  - death_rebirth
+  basis: The teaching concerns the Self that is not born, does not die, and is known
+    by the wise.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: Death_rebirth is mapped to death-transcending identity rather than a
+    narrative death-and-return episode.
+- id: motif:2
+  label: liberation through death-taught knowledge
+  taxonomy_refs:
+  - initiation
+  - wisdom
+  basis: Nachiketas acquires wisdom taught by the Ruler of Death and becomes free
+    from impurity and death.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The record follows Paramananda's wording and does not independently analyze
+    Sanskrit terms.
+comparison_claims:
+- id: claim:1
+  claim: This passage can be compared within the atlas to wisdom motifs where knowledge
+    of an immortal inner reality transforms grief, death, and identity.
+  claim_level: same_function
+  target: "pattern atlas: deathless wisdom and inner self"
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Corpus-internal functional comparison only; no transmission claim
+    is made.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Katha-Upanishad, Part Second XVIII-XIX
+  quote_or_summary: The Self is never born and never dies; it is not slain when the
+    body is slain.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public-domain Project Gutenberg source text.
+- id: ev:2
+  type: quote
+  locator: Katha-Upanishad, Part Second XX
+  quote_or_summary: The Self is subtler than the subtle, greater than the great,
+    and dwells in each heart.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public-domain Project Gutenberg source text.
+- id: ev:3
+  type: quote
+  locator: Katha-Upanishad, Part Second XXII
+  quote_or_summary: The wise know the bodiless Self within perishable bodies and
+    do not grieve.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public-domain Project Gutenberg source text.
+- id: ev:4
+  type: quote
+  locator: Katha-Upanishad, Part Sixth XVIII
+  quote_or_summary: Nachiketas acquired wisdom taught by the Ruler of Death and became
+    free from impurity and death.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public-domain Project Gutenberg source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The deathlessness and wisdom evidence is direct; taxonomy mapping remains
+    conservative.
+reviewer_status:
+  status: draft
+  notes: Draft extraction; needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Worker A extraction focused on Self-knowledge, deathlessness, and Nachiketas'
+  transformation.
