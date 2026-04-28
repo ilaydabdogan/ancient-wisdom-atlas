@@ -1,0 +1,178 @@
+---
+record_id: extraction.dhammapada.thought_shapes_experience
+source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+passage_locator:
+  label: Chapter I. The Twin-Verses, verses 1-2
+  start: 1
+  end: 2
+  translation: F. Max Muller, Project Gutenberg eBook #2017
+canonical_text:
+  quote: >
+    All that we are is the result of what we have thought: it is founded
+    on our thoughts, it is made up of our thoughts. If a man speaks or acts
+    with an evil thought, pain follows him, as the wheel follows the foot of
+    the ox that draws the carriage. All that we are is the result of what we
+    have thought: it is founded on our thoughts, it is made up of our thoughts.
+    If a man speaks or acts with a pure thought, happiness follows him, like
+    a shadow that never leaves him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says all that people are is the result of what they have thought.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The passage says people are founded on thoughts and made up of thoughts.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Speaking or acting with an evil thought is followed by pain.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Speaking or acting with a pure thought is followed by happiness.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Pain is compared to a wheel following an ox's foot, and happiness is compared
+    to a shadow that never leaves.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: person who speaks or acts
+  description: A generic person described as speaking or acting with either evil or
+    pure thought.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: ethical actor
+  assigned_to:
+  - fig:1
+  basis: The person speaks or acts with a described thought and is followed by pain
+    or happiness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: thought
+  literal_form: evil thought; pure thought
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: wheel and ox-foot
+  literal_form: the wheel follows the foot of the ox that draws the carriage
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: shadow
+  literal_form: a shadow that never leaves him
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Thought-led speech and action
+  summary: A person speaks or acts from evil or pure thought, and pain or happiness
+    follows.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: mind shaping experience
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly links what people are, what they think, how they speak
+    or act, and the results that follow them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The motif label is provisional and should not be treated as a doctrinal
+    summary beyond these verses.
+- id: motif:2
+  label: moral consequence following action
+  taxonomy_refs: []
+  basis: The passage presents pain or happiness as following speech or action conditioned
+    by evil or pure thought.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The record does not infer a full theory of karma beyond the quoted lines.
+comparison_claims:
+- id: claim:1
+  claim: This passage can be compared within the atlas to motifs where inward mental
+    orientation shapes outward consequences.
+  claim_level: same_function
+  target: 'pattern atlas: mind shaping experience'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Corpus-internal candidate only; no historical, linguistic, or cross-tradition
+    transmission claim is made.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Chapter I. The Twin-Verses, verse 1
+  quote_or_summary: >
+    All that we are is the result of what we have thought: it is founded
+    on our thoughts, it is made up of our thoughts. If a man speaks or acts
+    with an evil thought, pain follows him, as the wheel follows the foot of
+    the ox that draws the carriage.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public-domain source text.
+- id: ev:2
+  type: quote
+  locator: Chapter I. The Twin-Verses, verse 2
+  quote_or_summary: >
+    All that we are is the result of what we have thought: it is founded
+    on our thoughts, it is made up of our thoughts. If a man speaks or acts
+    with a pure thought, happiness follows him, like a shadow that never
+    leaves him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal observations are direct, while motif and comparison language remains
+    provisional.
+reviewer_status:
+  status: draft
+  notes: Draft extraction for later human review.
+extracted_by: Codex
+extracted_at: '2026-04-28'
+notes: Wave 2 extraction record for Dhammapada thought and consequence passage.

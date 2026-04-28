@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: project-gutenberg-wave-2
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.gutenberg_7145
+  work_id: egyptian.book_of_the_dead.budge_gutenberg
+  title: The Book of the Dead
+  source_url: https://www.gutenberg.org/ebooks/7145
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/project-gutenberg/7145-book-of-the-dead.txt
+    checksum:
+      algorithm: sha256
+      value: 8c7ba6e235b2ec145dae029dc78a1ade71d12a45e2e0b5ad455a61e5aad3cfba
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/7145-book-of-the-dead.md
+    checksum:
+      algorithm: sha256
+      value: c5e47d4e098cc0b8485d93b5685666cf7808b0e1c8618f5b3b2715c22c17d7d7
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+    checksum:
+      algorithm: sha256
+      value: 411ad1852fdccbc26f37532dc812df956638a23fb6dfe7cd6f0b82ca9aa84946
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/build_gutenberg_seed.rb
+    version: '1'
+    command: ruby scripts/build_gutenberg_seed.rb 7145
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Generic plain-text converter for public-domain Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: The source catalog page records public-domain status in the USA; reuse
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure, rights metadata, and removal
+      of distributor boilerplate.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.

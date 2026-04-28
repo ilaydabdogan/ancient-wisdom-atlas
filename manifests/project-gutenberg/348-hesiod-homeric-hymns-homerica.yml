@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: project-gutenberg-wave-2
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.gutenberg_348
+  work_id: greek.hesiod_homeric_hymns.evelyn_white_gutenberg
+  title: Hesiod, the Homeric Hymns, and Homerica
+  source_url: https://www.gutenberg.org/ebooks/348
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/project-gutenberg/348-hesiod-homeric-hymns-homerica.txt
+    checksum:
+      algorithm: sha256
+      value: 16a02a65864da3ca3f241f70e078165d7de3c587c1bfa869e5061b33e270f53d
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/348-hesiod-homeric-hymns-homerica.md
+    checksum:
+      algorithm: sha256
+      value: b4c958017ddce3e030af4c17dbdcb9edc4fdb1f34b804e94af4aebfc3036e8a9
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+    checksum:
+      algorithm: sha256
+      value: 5bd760cdbcb30ab32e3c94d19696ae510a10479ac33e056ed2b01ec22c93fb9a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/build_gutenberg_seed.rb
+    version: '1'
+    command: ruby scripts/build_gutenberg_seed.rb 348
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Generic plain-text converter for public-domain Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: The source catalog page records public-domain status in the USA; reuse
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure, rights metadata, and removal
+      of distributor boilerplate.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.

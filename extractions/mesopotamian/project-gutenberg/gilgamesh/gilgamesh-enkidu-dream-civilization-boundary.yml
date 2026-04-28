@@ -1,0 +1,307 @@
+---
+record_id: extraction.gilgamesh.enkidu_dream_civilization_boundary
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: PENNSYLVANIA TABLET, TRANSLATION, Col. I-Col. III
+  start: Col. I
+  end: Col. III
+  translation: Morris Jastrow Jr. and Albert T. Clay, An Old Babylonian Version
+    of the Gilgamesh Epic
+  notes: The source enumerates the Pennsylvania Tablet by columns and running
+    tablet lines; this extraction uses the visible translation column headings.
+canonical_text:
+  quote: Some one, O Gish, who like thee / In the field was born and / Whom the
+    mountain has reared
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Gish tells his mother that a heavenly object fell upon him in a dream and
+    became too heavy for him to endure.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mother of Gish says the dream points to someone like Gish, born in the
+    field and reared by the mountain.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Gish reports a second dream in which he sees his likeness in the streets
+    of Erech, rejoices over him, loves him, embraces him, and regards him as a
+    brother.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Enkidu sits before the woman, cohabits with her for six days and seven
+    nights, and forgets the place where he was born.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The woman tells Enkidu to leave roaming with cattle across the field and
+    come to Erech and Eanna, where Gish is.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The woman clothes Enkidu and leads him by the hand toward the meadow and
+    sheepfolds.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Enkidu learns to eat food and drink wine, is groomed and anointed, becomes
+    manlike, and protects shepherds by overcoming lions.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Gish
+  description: Hero who reports the dreams and later encounters Enkidu.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: mother of Gish
+  description: Interpreter of Gish's dreams, described as knowing all things.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Enkidu
+  description: Figure anticipated by the dreams and shown moving from field and
+    animal life toward human food, clothing, and the city.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: woman
+  description: Female guide who speaks to Enkidu, clothes him, and leads him toward
+    Erech.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: dreamer
+  assigned_to:
+  - fig:1
+  basis: Gish reports two dreams to his mother.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: dream_interpreter
+  assigned_to:
+  - fig:2
+  basis: The mother of Gish interprets the dream as pointing to a figure like Gish.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: wild_born_counterpart
+  assigned_to:
+  - fig:3
+  basis: The interpreted dream describes someone like Gish who was born in the
+    field and reared by the mountain.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: civilizing_guide
+  assigned_to:
+  - fig:4
+  basis: The woman directs Enkidu away from field-roaming life and teaches or leads
+    him into human clothing, food, and cityward movement.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: meteor of Anu
+  literal_form: meteor or mass from the starry heaven falling upon Gish
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: field and mountain
+  literal_form: field birthplace and mountain rearing-place
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - cosmic_mountain
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: likeness in Erech
+  literal_form: Gish's likeness seen in the streets of Erech
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: garment
+  literal_form: garment placed on Enkidu
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - initiation
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: food and wine
+  literal_form: food, wine, and seven goblets
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - initiation
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Gish's dreams of a counterpart
+  summary: Gish reports dreams to his mother, who interprets the first as the coming
+    of someone like him; in the second dream Gish sees and embraces a likeness in
+    Erech as a brother.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Enkidu crosses toward settled life
+  summary: Enkidu leaves field and animal associations through the woman's speech,
+    receives clothing, learns human food and wine, becomes manlike, and protects
+    shepherds.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: dream_portending_counterpart
+  taxonomy_refs:
+  - wisdom
+  - duality
+  basis: The dreams are interpreted as announcing a figure like Gish, and the second
+    dream presents that figure as a beloved brother-like likeness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage supports an omen-like dream and counterpart pattern; it does
+    not by itself settle the later relationship between the heroes.
+- id: motif:2
+  label: civilization_boundary_initiation
+  taxonomy_refs:
+  - initiation
+  - culture_hero
+  basis: Enkidu moves from field, cattle, and mountain associations into clothing,
+    food, wine, grooming, and protection of shepherds.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The civilizing sequence is explicit, but later interpretive claims about
+    social evolution require review beyond this record.
+- id: motif:3
+  label: rival_counterpart
+  taxonomy_refs:
+  - duality
+  - sacred_twins
+  basis: Gish dreams of a likeness he embraces as a brother, and the passage frames
+    Enkidu as someone like Gish before their later meeting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The brother/counterpart pattern is strong in the dream section, but this
+    record does not include the later full combat scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage is a strong Mesopotamian witness for an initiation or
+    civilization-boundary pattern in which a wild-born figure is led into human
+    social practices.
+  claim_level: same_function
+  target: taxonomy/motifs.yml#initiation
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  limitations: This is a motif classification only; it does not assert historical
+    relation to any other initiation or culture-hero passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: PENNSYLVANIA TABLET, TRANSLATION, Col. I
+  quote_or_summary: Some one, O Gish, who like thee / In the field was born and /
+    Whom the mountain has reared
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public-domain source text.
+- id: ev:2
+  type: quote
+  locator: PENNSYLVANIA TABLET, TRANSLATION, Col. I
+  quote_or_summary: My likeness I have seen in the streets / Of Erech of the plazas
+    ... I loved him as a woman, / I embraced him.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public-domain source text.
+- id: ev:3
+  type: summary
+  locator: PENNSYLVANIA TABLET, TRANSLATION, Col. II
+  quote_or_summary: Enkidu forgets his birthplace after the woman; she tells him to
+    leave roaming with cattle, go to Erech and Eanna, clothes him, and leads him
+    by the hand.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public-domain source text.
+- id: ev:4
+  type: quote
+  locator: PENNSYLVANIA TABLET, TRANSLATION, Col. III
+  quote_or_summary: Eat food, O Enkidu, / The provender of life! / Drink wine, the
+    custom of the land!
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The literal sequence is clear in the translation, while motif labels remain
+    provisional pending review.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  notes: Needs scholarly review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Wave 2 Gilgamesh extraction seed focused on the Pennsylvania Tablet dream
+  and civilization-boundary material.

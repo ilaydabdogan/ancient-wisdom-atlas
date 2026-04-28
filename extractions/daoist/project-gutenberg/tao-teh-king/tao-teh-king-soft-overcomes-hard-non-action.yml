@@ -1,0 +1,150 @@
+---
+record_id: extraction.tao_teh_king.soft_overcomes_hard_non_action
+source_text_path: texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md
+passage_locator:
+  label: Tao Teh King, Ch. 43.1-2
+  start: Ch. 43.1
+  end: Ch. 43.2
+  translation: James Legge, Project Gutenberg eBook #216
+  notes: Source chapter marker reads "43. 1." in PART II.
+canonical_text:
+  quote: |
+    The softest thing in the world dashes against and overcomes the hardest; that which has no (substantial) existence enters where there is no crevice.  I know hereby what advantage belongs to doing nothing (with a purpose).
+
+    There are few in the world who attain to the teaching without words, and the advantage arising from non-action.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says the softest thing in the world overcomes the hardest.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says what has no substantial existence enters where there is no crevice.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says this shows the advantage of doing nothing with a purpose.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage says few people attain the teaching without words and the advantage arising from non-action.
+  category: speech
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person voice that draws an inference from soft-over-hard imagery.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles: []
+symbols:
+- id: sym:1
+  label: softest thing
+  literal_form: softest thing in the world
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hardest thing
+  literal_form: hardest
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: non-substantial existence
+  literal_form: that which has no substantial existence
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: no crevice
+  literal_form: where there is no crevice
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: non-action
+  literal_form: non-action
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Tao Teh King, Ch. 43.1-2
+  summary: The passage presents the softest as overcoming the hardest, the non-substantial as entering where there is no crevice, and this as evidence for the advantage of purposeful non-action and teaching without words.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: soft overcomes hard
+  taxonomy_refs:
+  - duality
+  basis: The passage directly contrasts the softest thing with the hardest and says the softest overcomes.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage gives an aphoristic contrast rather than a paired-person narrative.
+- id: motif:2
+  label: non-action
+  taxonomy_refs: []
+  basis: The passage explicitly mentions doing nothing with a purpose and the advantage arising from non-action.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Legge's parenthetical wording should be checked against other translations before broader comparative use.
+- id: motif:3
+  label: teaching without words
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says few attain the teaching without words.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage states a teaching mode, not a full teacher-disciple episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage links soft-over-hard imagery with non-action as a shared pattern of efficacy without direct force.
+  claim_level: same_function
+  target: "pattern atlas: non-action and soft-over-hard motifs"
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is a motif-function comparison within the extraction corpus; it does not claim historical contact or a settled cross-cultural typology.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Tao Teh King, Ch. 43.1-2
+  quote_or_summary: The softest thing in the world overcomes the hardest; what has no substantial existence enters where there is no crevice; the passage connects this with "doing nothing" and "non-action."
+  source_text_path: texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md
+  rights_note: Public-domain Project Gutenberg source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal observations are direct in Legge's translation; motif naming remains provisional.
+reviewer_status:
+  status: draft
+  notes: Draft extraction; needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Wave 2 extraction focused on soft overcoming hard and non-action.

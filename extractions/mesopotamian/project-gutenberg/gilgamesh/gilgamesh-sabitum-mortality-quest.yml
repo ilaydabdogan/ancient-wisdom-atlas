@@ -1,0 +1,262 @@
+---
+record_id: extraction.gilgamesh.sabitum_mortality_quest
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: INTRODUCTION I, Meissner fragment / Sabitum address
+  start: Why, O Gish, does thou run about?
+  end: Let the wife rejoice in thy bosom!
+  translation: Morris Jastrow Jr. and Albert T. Clay, An Old Babylonian Version
+    of the Gilgamesh Epic
+  notes: The source introduces this as the answer of Sabitum in the old Babylonian
+    fragment; no tablet line numbers are printed for the quoted address.
+canonical_text:
+  quote: The life that thou seekest, thou wilt not find. / When the gods created
+    mankind, / Death they imposed on mankind; / Life they kept in their power.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker asks Gish why he runs about.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says that Gish will not find the life he seeks.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speech says that when the gods created mankind, they imposed death on
+    mankind.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speech says that life was kept in the power of the gods.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Gish is told to fill his belly and rejoice day and night.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Gish is told to keep his clothes clean, wash his head, care for a little
+    one, and let his wife rejoice.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Gish
+  description: Hero addressed during his wanderings and search for life.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Sabitum
+  description: Speaker identified in the surrounding source discussion as the woman
+    or maiden at the seaside who answers Gish.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: gods
+  description: Divine agents said to have created mankind, imposed death, and kept
+    life in their power.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: mankind
+  description: Human beings upon whom death is said to be imposed.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: mortal_quester
+  assigned_to:
+  - fig:1
+  basis: Gish is addressed as seeking life and running about.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mortality_counselor
+  assigned_to:
+  - fig:2
+  basis: Sabitum's speech denies that Gish will find the life he seeks and redirects
+    him toward ordinary human joys.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: holders_of_life
+  assigned_to:
+  - fig:3
+  basis: The gods are said to keep life in their power after imposing death on
+    mankind.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: life sought
+  literal_form: the life that Gish seeks
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: imposed death
+  literal_form: death imposed on mankind
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - death_rebirth
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: eating and rejoicing
+  literal_form: filling the belly and rejoicing day and night
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: washing and clean clothes
+  literal_form: clean clothes, washed head, and water poured over the head
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: family care
+  literal_form: little one taking the hand and wife rejoicing in the bosom
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Sabitum answers Gish's search for life
+  summary: Sabitum tells Gish that the life he seeks will not be found, states that
+    the gods imposed death on mankind and kept life, and counsels food, rejoicing,
+    cleanliness, child care, and marital joy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: impossible_immortality_quest
+  taxonomy_refs:
+  - wisdom
+  - death_rebirth
+  basis: The passage explicitly says the sought life will not be found because death
+    is imposed on mankind and life is kept by the gods.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The speech denies human access to the sought life; it does not narrate
+    the full later quest sequence.
+- id: motif:2
+  label: divine_monopoly_on_life
+  taxonomy_refs:
+  - wisdom
+  basis: The gods are said to have imposed death on humans while retaining life in
+    their own power.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a theological statement within the speech, not a general claim
+    about every Mesopotamian text.
+- id: motif:3
+  label: mortal_life_counsel
+  taxonomy_refs:
+  - wisdom
+  basis: After denying the quest for life, the speech counsels food, rejoicing,
+    washing, care for a child, and marital joy.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The practical counsel is clear, but broader ethical interpretation needs
+    review.
+comparison_claims:
+- id: claim:1
+  claim: The passage belongs to a mortality-and-wisdom pattern in which a quest for
+    life is checked by the statement that death is the human lot and life remains
+    with the gods.
+  claim_level: same_function
+  target: taxonomy/motifs.yml#wisdom
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  limitations: This classifies the passage's function within the atlas only; it
+    does not assert borrowing or common inheritance with any other mortality text.
+evidence:
+- id: ev:1
+  type: quote
+  locator: INTRODUCTION I, Meissner fragment / Sabitum address
+  quote_or_summary: Why, O Gish, does thou run about? / The life that thou seekest,
+    thou wilt not find.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public-domain source text.
+- id: ev:2
+  type: quote
+  locator: INTRODUCTION I, Meissner fragment / Sabitum address
+  quote_or_summary: When the gods created mankind, / Death they imposed on mankind;
+    / Life they kept in their power.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public-domain source text.
+- id: ev:3
+  type: summary
+  locator: INTRODUCTION I, Meissner fragment / Sabitum address
+  quote_or_summary: Gish is told to fill his belly, rejoice day and night, keep
+    clean, wash, care for a child, and let his wife rejoice.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The mortality counsel is directly quoted in the source; broader comparison
+    is intentionally provisional.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  notes: Needs scholarly review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Wave 2 Gilgamesh extraction seed. The source later summarizes the
+  plant-and-serpent episode as part of the broader Epic, but this record uses the
+  directly quoted Old Babylonian Sabitum mortality passage.

@@ -1,0 +1,376 @@
+---
+record_id: extraction.egyptian.book_of_the_dead.transformations_protection
+source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+passage_locator:
+  label: CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII, and CLV-CLXVII
+  translation: E. A. Wallis Budge, Project Gutenberg eBook #7145
+  notes: Uses visible chapter-summary labels in CHAPTER IX rather than numbered line locators.
+canonical_text:
+  summary: The source summarizes chapters that give the deceased protective recitation, passage by boat and names, transformations into multiple forms, and amulet protection.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: Chapter LXIV is described as an epitome of the whole Book of the Dead and as a great and divine protection for the deceased.
+    category: other
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: Chapters LXXIV and LXXV are said to secure passage for the deceased in the Henu Boat of Seker.
+    category: action
+    evidence_refs:
+      - ev:2
+  - id: obs:3
+    text: Chapter LXXVI brings a praying mantis to guide the deceased through the bush to the House of Osiris.
+    category: action
+    evidence_refs:
+      - ev:2
+  - id: obs:4
+    text: Chapters LXXVII-LXXXVIII allow the deceased to assume multiple forms, including hawks, a lily, birds, a serpent, and a crocodile.
+    category: action
+    evidence_refs:
+      - ev:3
+  - id: obs:5
+    text: Chapter XCVIII provides the deceased with a boat for the northern heavens and a ladder for ascent to heaven.
+    category: object
+    evidence_refs:
+      - ev:4
+  - id: obs:6
+    text: Chapters XCIX-CIII require knowledge of the mystic names of the magical boat's parts.
+    category: speech
+    evidence_refs:
+      - ev:4
+  - id: obs:7
+    text: The Seven Great Halls and later gates of the Kingdom of Osiris require the deceased to repeat magical names before passing.
+    category: sequence
+    evidence_refs:
+      - ev:5
+  - id: obs:8
+    text: Chapters CLV-CLXVII are spells engraved on amulets that give the deceased the protection of Ra, Osiris, Isis, Horus, and other gods.
+    category: object
+    evidence_refs:
+      - ev:6
+figures:
+  - id: fig:1
+    name_or_label: the deceased
+    description: The dead person who recites, travels, transforms, and receives protection.
+    role_refs:
+      - role:1
+      - role:2
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+      - ev:4
+      - ev:5
+      - ev:6
+  - id: fig:2
+    name_or_label: Seker
+    description: Death-god associated with the Henu Boat.
+    role_refs: []
+    evidence_refs:
+      - ev:2
+  - id: fig:3
+    name_or_label: praying mantis
+    description: Helper that guides the deceased to the House of Osiris.
+    role_refs:
+      - role:3
+    evidence_refs:
+      - ev:2
+  - id: fig:4
+    name_or_label: Osiris
+    description: God associated with the House and Kingdom reached by the deceased and named among protective gods.
+    role_refs:
+      - role:4
+    evidence_refs:
+      - ev:2
+      - ev:5
+      - ev:6
+  - id: fig:5
+    name_or_label: porter, watchman, and messenger
+    description: Gate personnel guarding each of the Seven Great Halls.
+    role_refs:
+      - role:5
+    evidence_refs:
+      - ev:5
+  - id: fig:6
+    name_or_label: Ra
+    description: God named among those whose protection is given through amulet spells.
+    role_refs:
+      - role:4
+    evidence_refs:
+      - ev:6
+  - id: fig:7
+    name_or_label: Isis
+    description: Goddess named among those whose protection is given through amulet spells.
+    role_refs:
+      - role:4
+    evidence_refs:
+      - ev:6
+  - id: fig:8
+    name_or_label: Horus
+    description: God named among those whose protection is given through amulet spells.
+    role_refs:
+      - role:4
+    evidence_refs:
+      - ev:6
+roles:
+  - id: role:1
+    label: afterlife traveler
+    assigned_to:
+      - fig:1
+    basis: The deceased receives passage in boats, approaches halls and gates, and ascends by ladder.
+    evidence_refs:
+      - ev:2
+      - ev:4
+      - ev:5
+  - id: role:2
+    label: transformation subject
+    assigned_to:
+      - fig:1
+    basis: The deceased is enabled to assume forms at will through the Chapters of Transformations.
+    evidence_refs:
+      - ev:3
+  - id: role:3
+    label: guide
+    assigned_to:
+      - fig:3
+    basis: The praying mantis guides the deceased through the bush to the House of Osiris.
+    evidence_refs:
+      - ev:2
+  - id: role:4
+    label: protective deity
+    assigned_to:
+      - fig:4
+      - fig:6
+      - fig:7
+      - fig:8
+    basis: The amulet spells are said to give protection from these gods.
+    evidence_refs:
+      - ev:6
+  - id: role:5
+    label: gate guardian
+    assigned_to:
+      - fig:5
+    basis: The gate of each Hall is guarded by a porter, a watchman, and a messenger.
+    evidence_refs:
+      - ev:5
+symbols:
+  - id: sym:1
+    label: recitation
+    literal_form: Recital of chapters and magical names.
+    associated_figures:
+      - fig:1
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:1
+      - ev:3
+      - ev:5
+  - id: sym:2
+    label: Henu Boat
+    literal_form: The Henu Boat of Seker in which passage is secured.
+    associated_figures:
+      - fig:1
+      - fig:2
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:2
+  - id: sym:3
+    label: transformation forms
+    literal_form: Forms including hawks, a lily, birds, the Sata or Earth-serpent, and the crocodile.
+    associated_figures:
+      - fig:1
+    taxonomy_refs:
+      - serpent
+    evidence_refs:
+      - ev:3
+  - id: sym:4
+    label: boat and ladder
+    literal_form: A boat for the northern heavens and a ladder for ascent to heaven.
+    associated_figures:
+      - fig:1
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:4
+  - id: sym:5
+    label: gates and magical names
+    literal_form: Halls and gates with names that must be repeated before passage.
+    associated_figures:
+      - fig:1
+      - fig:5
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:5
+  - id: sym:6
+    label: amulets
+    literal_form: Amulets engraved with spells.
+    associated_figures:
+      - fig:1
+      - fig:4
+      - fig:6
+      - fig:7
+      - fig:8
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:6
+scenes:
+  - id: scene:1
+    label: Protective recitation
+    summary: Chapter LXIV is presented as a protective text whose recital affects the deceased's relation to the gods.
+    figure_refs:
+      - fig:1
+    symbol_refs:
+      - sym:1
+    evidence_refs:
+      - ev:1
+  - id: scene:2
+    label: Passage toward Osiris
+    summary: The deceased receives passage in the Henu Boat of Seker and guidance to the House of Osiris.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+      - fig:4
+    symbol_refs:
+      - sym:2
+    evidence_refs:
+      - ev:2
+  - id: scene:3
+    label: Transformations by recital
+    summary: Through the Chapters of Transformations, the deceased can assume a series of divine, animal, bird, plant, and reptile forms.
+    figure_refs:
+      - fig:1
+    symbol_refs:
+      - sym:1
+      - sym:3
+    evidence_refs:
+      - ev:3
+  - id: scene:4
+    label: Passage by names and ritual equipment
+    summary: Boats, a ladder, and knowledge of names help the deceased move through heavens, halls, gates, and guarded thresholds.
+    figure_refs:
+      - fig:1
+      - fig:5
+    symbol_refs:
+      - sym:4
+      - sym:5
+    evidence_refs:
+      - ev:4
+      - ev:5
+  - id: scene:5
+    label: Amulet protection
+    summary: Spells on amulets give the deceased protection associated with Ra, Osiris, Isis, Horus, and other gods.
+    figure_refs:
+      - fig:1
+      - fig:4
+      - fig:6
+      - fig:7
+      - fig:8
+    symbol_refs:
+      - sym:6
+    evidence_refs:
+      - ev:6
+candidate_motifs:
+  - id: motif:1
+    label: ritual_transformation
+    taxonomy_refs:
+      - shapeshifter
+    basis: The deceased is enabled by recitation to assume multiple forms at will.
+    evidence_refs:
+      - ev:3
+    confidence: high
+    cautions: The taxonomy reference is approximate because the passage is funerary transformation rather than trickster shapeshifting.
+  - id: motif:2
+    label: afterlife_passage_by_names
+    taxonomy_refs:
+      - hero_descent
+      - initiation
+    basis: The deceased must know or repeat magical names to pass through guarded halls, gates, and boat parts.
+    evidence_refs:
+      - ev:4
+      - ev:5
+    confidence: medium
+    cautions: The motif is framed as afterlife passage, not a living hero's descent narrative.
+  - id: motif:3
+    label: divine_protection_of_the_dead
+    taxonomy_refs:
+      - death_rebirth
+      - resurrection
+    basis: The text describes protective chapters and amulet spells for the deceased.
+    evidence_refs:
+      - ev:1
+      - ev:6
+    confidence: medium
+    cautions: Protection is directly stated, but broader motif grouping remains provisional.
+  - id: motif:4
+    label: ascent_by_boat_and_ladder
+    taxonomy_refs:
+      - ascent
+    basis: The deceased is given a boat for the northern heavens and a ladder to ascend to heaven.
+    evidence_refs:
+      - ev:4
+    confidence: medium
+    cautions: This is a chapter-summary statement and should be reviewed against the full spell text.
+comparison_claims:
+  - id: claim:1
+    claim: Within the atlas, this passage group can be compared by function with afterlife ordeal and ritual transformation patterns in which recitation, names, vehicles, forms, and amulets enable protected passage.
+    claim_level: same_function
+    target: pattern atlas afterlife passage and transformation records
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+      - ev:4
+      - ev:5
+      - ev:6
+    counter_evidence_refs: []
+    confidence: low
+    limitations: Corpus-internal comparison only; the record does not claim historical contact, common inheritance, or settled taxonomy.
+evidence:
+  - id: ev:1
+    type: quote
+    locator: CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; Chapter LXIV
+    quote_or_summary: Chapter LXIV is an epitome of the whole Book of the Dead, and it formed a "great and divine protection" for the deceased.
+    source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+    rights_note: Public-domain source text.
+  - id: ev:2
+    type: summary
+    locator: CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; Chapters LXXIV-LXXVI
+    quote_or_summary: Chapters LXXIV-LXXV secure passage in the Henu Boat of Seker, and Chapter LXXVI brings a praying mantis to guide the deceased through the bush to the House of Osiris.
+    source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+    rights_note: Public-domain source text.
+  - id: ev:3
+    type: summary
+    locator: CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; Chapters LXXVII-LXXXVIII
+    quote_or_summary: The Chapters of Transformations let the deceased assume forms including the Golden Hawk, Divine Hawk, Pure Lily, Benu Bird, Swallow, Sata or Earth-serpent, and Crocodile.
+    source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+    rights_note: Public-domain source text.
+  - id: ev:4
+    type: summary
+    locator: CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; Chapters XCVIII-CIII
+    quote_or_summary: Chapter XCVIII provides a boat and ladder; Chapters XCIX-CIII describe the magical boat whose parts' mystic names must be known.
+    source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+    rights_note: Public-domain source text.
+  - id: ev:5
+    type: summary
+    locator: CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; Chapters CXLIV-CXLVII
+    quote_or_summary: The Seven Great Halls and later gates are guarded, and entry requires repeating the names of the hall or gate and its guardians.
+    source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+    rights_note: Public-domain source text.
+  - id: ev:6
+    type: quote
+    locator: CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; Chapters CLV-CLXVII
+    quote_or_summary: Chapters CLV-CLXVII are spells which were engraved on the amulets, giving the deceased the protection of Ra, Osiris, Isis, Horus, and other gods.
+    source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+    rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Based on Budge's chapter summaries; full spell-level review would improve precision.
+reviewer_status:
+  status: draft
+  notes: Draft extraction for Wave 2 review.
+extracted_by: Codex
+extracted_at: '2026-04-28'
+notes: Initial Egyptian Book of the Dead extraction focused on afterlife passage, transformation, and protection.

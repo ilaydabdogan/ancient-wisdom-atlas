@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: project-gutenberg-wave-2
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.gutenberg_11000
+  work_id: mesopotamian.gilgamesh.old_babylonian_jastrow_clay_gutenberg
+  title: An Old Babylonian Version of the Gilgamesh Epic
+  source_url: https://www.gutenberg.org/ebooks/11000
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/project-gutenberg/11000-old-babylonian-gilgamesh.txt
+    checksum:
+      algorithm: sha256
+      value: 4b03e8306424dbf113d4f8c3fc11e9252ab5ff0994947c9768b2f8f5bb7f092e
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/11000-old-babylonian-gilgamesh.md
+    checksum:
+      algorithm: sha256
+      value: 46455921e027d1f57da1bc91941492cbfb4fa82b98660ba0434ab390c080fc61
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+    checksum:
+      algorithm: sha256
+      value: a5dd76f2043c10ac7110f4e55d41e4f4d966b82ddc054dabae43d2725c3905e3
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/build_gutenberg_seed.rb
+    version: '1'
+    command: ruby scripts/build_gutenberg_seed.rb 11000
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Generic plain-text converter for public-domain Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: The source catalog page records public-domain status in the USA; reuse
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure, rights metadata, and removal
+      of distributor boilerplate.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.

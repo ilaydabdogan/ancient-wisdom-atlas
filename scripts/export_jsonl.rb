@@ -11,7 +11,8 @@ EXPORT_DIR = File.join(ROOT, "exports")
 
 COLLECTIONS = {
   "texts" => ["texts/**/*.md"],
-  "patterns" => ["patterns/**/*.md"]
+  "patterns" => ["patterns/**/*.md"],
+  "templates" => ["templates/**/*.md"]
 }.freeze
 
 STRUCTURED_COLLECTIONS = {

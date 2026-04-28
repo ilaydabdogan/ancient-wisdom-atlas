@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: project-gutenberg-wave-2
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.gutenberg_2388
+  work_id: hindu.bhagavad_gita.song_celestial_gutenberg
+  title: The Song Celestial; Or, Bhagavad-Gita
+  source_url: https://www.gutenberg.org/ebooks/2388
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/project-gutenberg/2388-song-celestial-bhagavad-gita.txt
+    checksum:
+      algorithm: sha256
+      value: a5d170ed807a42a8ff196fd5c6d61ceeda4b51788c1918f9b64fbbd5b2317900
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/2388-song-celestial-bhagavad-gita.md
+    checksum:
+      algorithm: sha256
+      value: 4daf160d32c80fa82df13fce703aefb8ca44e6d864a5e7be828f3281861a5349
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+    checksum:
+      algorithm: sha256
+      value: 6e267e69ee86f8c1bd938b78a627d283a3430256ac11ebd51d4da462dd09cffe
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/build_gutenberg_seed.rb
+    version: '1'
+    command: ruby scripts/build_gutenberg_seed.rb 2388
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Generic plain-text converter for public-domain Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: The source catalog page records public-domain status in the USA; reuse
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure, rights metadata, and removal
+      of distributor boilerplate.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.

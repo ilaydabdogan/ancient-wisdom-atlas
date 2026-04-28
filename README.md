@@ -30,7 +30,7 @@ ancient-wisdom-atlas/
     corpus-policy.md      Copyright, provenance, and inclusion rules
     methodology.md        How to compare myths without flattening cultures
     roadmap.md            Build phases from corpus to pattern atlas
-  imports/                Ignored raw and intermediate ingestion workspace
+  imports/                Tracked raw and intermediate ingestion workspace
   patterns/               Cross-cultural pattern essays
   schemas/                JSON schemas for metadata validation
   scripts/                Export and validation utilities
@@ -100,6 +100,10 @@ See [docs/pattern-discovery-logic.md](docs/pattern-discovery-logic.md) for how t
 
 The first canonical collection is the public-domain World English Bible Classic Pentateuch: [Genesis](texts/public-domain/biblical/world-english-bible-classic/genesis.md), [Exodus](texts/public-domain/biblical/world-english-bible-classic/exodus.md), [Leviticus](texts/public-domain/biblical/world-english-bible-classic/leviticus.md), [Numbers](texts/public-domain/biblical/world-english-bible-classic/numbers.md), and [Deuteronomy](texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md). Each book is backed by raw HTML imports, a converted draft, an ingestion manifest, and extraction records.
 
+## Wave 2 Corpus Data
+
+The first cross-cultural wave adds public-domain Project Gutenberg source texts for Daoist, Buddhist, Hindu, Greek, Egyptian, Mesopotamian, and Norse comparison work. Each text keeps its raw plain-text capture under `imports/raw/`, a converted draft under `imports/converted/`, a canonical Markdown file under `texts/public-domain/`, and an ingestion manifest under `manifests/`.
+
 ## Machine Export
 
 Run:
@@ -119,4 +123,4 @@ Or run the whole local check suite:
 ruby scripts/check_all.rb
 ```
 
-The exporter writes JSONL files into `exports/`, which is ignored by Git by default.
+The exporter writes JSONL files into `exports/`, which can be committed as machine-readable dataset artifacts.

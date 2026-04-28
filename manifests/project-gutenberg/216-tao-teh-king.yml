@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: project-gutenberg-wave-2
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.gutenberg_216
+  work_id: daoist.tao_teh_king.legge_gutenberg
+  title: The Tao Teh King, or the Tao and its Characteristics
+  source_url: https://www.gutenberg.org/ebooks/216
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/project-gutenberg/216-tao-teh-king.txt
+    checksum:
+      algorithm: sha256
+      value: ff1f2d83b2737d08ce93dec90ee74fe07919d37b019c5e81b1dfd2e9d48ff5fd
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/216-tao-teh-king.md
+    checksum:
+      algorithm: sha256
+      value: a7f8adccc0e61d0e95cb7309a4f2d3954d103c3dff2a6e71c76c68d69b116ba8
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md
+    checksum:
+      algorithm: sha256
+      value: c4f8687766c6856d8327f79f40b029cb1e76ccd1e4d21563592f34bfc76f84db
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/build_gutenberg_seed.rb
+    version: '1'
+    command: ruby scripts/build_gutenberg_seed.rb 216
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Generic plain-text converter for public-domain Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: The source catalog page records public-domain status in the USA; reuse
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure, rights metadata, and removal
+      of distributor boilerplate.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.

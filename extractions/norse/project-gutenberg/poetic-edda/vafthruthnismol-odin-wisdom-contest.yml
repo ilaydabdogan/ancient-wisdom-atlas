@@ -1,0 +1,214 @@
+---
+record_id: extraction.norse.poetic_edda.vafthruthnismol_odin_wisdom_contest
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: Vafthruthnismol 1-8
+  translation: Henry Adams Bellows, The Poetic Edda
+  notes: Initial Wave 2 extraction from the public-domain Bellows translation.
+canonical_text:
+  quote: In wisdom old with the giant wise / Myself would I seek to match.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Othin asks Frigg for counsel because he wants to travel to Vafthruthnir.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Othin says he wants to match himself in wisdom with the wise giant.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Frigg warns that she knows no equal in might among the giants.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Othin enters the giant's hall under the name Gagnrath and is challenged
+    to prove his wisdom.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Othin
+  description: God who seeks out Vafthruthnir to test wisdom.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Frigg
+  description: Othin's wife who counsels caution before the journey.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Vafthruthnir
+  description: Wise giant whose hall Othin enters.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: wisdom_seeker
+  assigned_to:
+  - fig:1
+  basis: Othin explicitly travels to match himself in wisdom with the giant.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: cautioning_counselor
+  assigned_to:
+  - fig:2
+  basis: Frigg advises Othin about the danger and wisdom of the giant.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: giant_wisdom_opponent
+  assigned_to:
+  - fig:3
+  basis: Vafthruthnir is the wise giant whose challenge structures the contest.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: journey to the giant's hall
+  literal_form: travel from the gods' home to Vafthruthnir's hall
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - departure
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: wisdom contest
+  literal_form: challenge that one must be wiser to leave the hall
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: assumed name
+  literal_form: Othin calls himself Gagnrath
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - trickster_boundary
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Othin seeks Vafthruthnir
+  summary: Othin seeks counsel, leaves to test his wisdom against Vafthruthnir, enters
+    the giant's hall under another name, and faces a challenge tied to wisdom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wisdom_quest
+  taxonomy_refs:
+  - wisdom
+  basis: Othin's journey is explicitly motivated by a desire to test and gain wisdom.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: This is a knowledge-contest motif, not necessarily a full hero journey.
+- id: motif:2
+  label: departure_to_liminal_opponent
+  taxonomy_refs:
+  - departure
+  basis: The god leaves home and enters the hall of a powerful giant wisdom-opponent.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The threshold is social and mythic rather than explicitly underworldly.
+- id: motif:3
+  label: trickster_boundary
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Othin enters the contest under the name Gagnrath, creating a masked encounter.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage supports disguise or strategic naming, not comic trickery.
+comparison_claims:
+- id: claim:1
+  claim: The passage belongs to a wisdom-contest family in which sacred knowledge
+    is won or proven across a dangerous boundary.
+  claim_level: same_function
+  target: taxonomy/motifs.yml#wisdom
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  limitations: Cross-cultural parallels require later side-by-side evidence; this
+    record only classifies the Norse passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Vafthruthnismol 1
+  quote_or_summary: In wisdom old with the giant wise / Myself would I seek to match.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public-domain source text.
+- id: ev:2
+  type: summary
+  locator: Vafthruthnismol 2
+  quote_or_summary: Frigg says she would keep Othin at home and knows no equal in
+    might among the giants.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public-domain source text.
+- id: ev:3
+  type: summary
+  locator: Vafthruthnismol 5-6
+  quote_or_summary: Othin goes to test the giant's wisdom, enters the hall, and greets
+    Vafthruthnir.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public-domain source text.
+- id: ev:4
+  type: quote
+  locator: Vafthruthnismol 7
+  quote_or_summary: Forth from our dwelling thou never shalt fare, / Unless wiser
+    than I thou art.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Clear wisdom-contest evidence; cross-cultural comparison is intentionally
+    provisional.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Wave 2 Norse extraction seed.

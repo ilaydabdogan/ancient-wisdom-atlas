@@ -1,0 +1,181 @@
+---
+record_id: extraction.tao_teh_king.origin_mother_mystery
+source_text_path: texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md
+passage_locator:
+  label: Tao Teh King, Ch. 1.1-4
+  start: Ch. 1.1
+  end: Ch. 1.4
+  translation: James Legge, Project Gutenberg eBook #216
+  notes: Source heading reads "Ch. 1. 1."; subsequent subsections are numbered 2-4.
+canonical_text:
+  quote: |
+    The Tao that can be trodden is not the enduring and unchanging Tao.  The name that can be named is not the enduring and unchanging name.
+
+    (Conceived of as) having no name, it is the Originator of heaven and earth; (conceived of as) having a name, it is the Mother of all things.
+
+    Always without desire we must be found,
+    If its deep mystery we would sound;
+    But if desire always within us be,
+    Its outer fringe is all that we shall see.
+
+    Under these two aspects, it is really the same; but as development takes place, it receives the different names.  Together we call them the Mystery.  Where the Mystery is the deepest is the gate of all that is subtle and wonderful.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says the Tao that can be trodden is not the enduring and unchanging Tao.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the name that can be named is not the enduring and unchanging name.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Under the aspect of having no name, the Tao is called the Originator of heaven and earth.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Under the aspect of having a name, the Tao is called the Mother of all things.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The passage associates absence of desire with sounding the deep mystery.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: The deepest Mystery is called the gate of all that is subtle and wonderful.
+  category: relationship
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Tao
+  description: Principle described through enduring, unnamed, named, originator, mother, and mystery language.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: originator of heaven and earth
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls the unnamed aspect "the Originator of heaven and earth."
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mother of all things
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls the named aspect "the Mother of all things."
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: unnamed Tao
+  literal_form: having no name
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mother
+  literal_form: Mother of all things
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mother_goddess
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: mystery
+  literal_form: the Mystery
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: gate
+  literal_form: gate of all that is subtle and wonderful
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Tao Teh King, Ch. 1.1-4
+  summary: The opening passage distinguishes the enduring Tao and name from speakable forms, calls the unnamed aspect originator and the named aspect mother, and links mystery with the gate of what is subtle and wonderful.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: cosmic origin
+  taxonomy_refs: []
+  basis: The passage calls the unnamed Tao the Originator of heaven and earth.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is aphoristic and cosmological rather than a narrative creation scene.
+- id: motif:2
+  label: cosmic mother
+  taxonomy_refs:
+  - mother_goddess
+  basis: The passage calls the named Tao the Mother of all things.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The taxonomy reference is broad; the passage uses mother imagery for the Tao, not a personal goddess narrative.
+- id: motif:3
+  label: hidden mystery as source-gate
+  taxonomy_refs:
+  - wisdom
+  basis: The passage names the deepest Mystery as the gate of all that is subtle and wonderful.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage describes access to mystery, but does not present a quest narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be compared at the motif-function level to source-and-mother motifs because the Tao is described as both originator of heaven and earth and mother of all things.
+  claim_level: same_function
+  target: "pattern atlas: cosmic source and mother motifs"
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is an internal motif comparison only; it does not imply historical contact, common inheritance, or that Tao is a personal mother deity.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Tao Teh King, Ch. 1.1-4
+  quote_or_summary: 'The Tao that can be trodden is not the enduring and unchanging Tao... having no name, it is the Originator of heaven and earth; having a name, it is the Mother of all things... Together we call them the Mystery.'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md
+  rights_note: Public-domain Project Gutenberg source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal features are direct in the passage; broader motif mapping should be reviewed.
+reviewer_status:
+  status: draft
+  notes: Draft extraction; needs scholarly/human review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Wave 2 extraction focused on Tao as origin, mother, and mystery.

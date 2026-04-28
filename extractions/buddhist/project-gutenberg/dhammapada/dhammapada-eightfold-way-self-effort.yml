@@ -1,0 +1,270 @@
+---
+record_id: extraction.dhammapada.eightfold_way_self_effort
+source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+passage_locator:
+  label: Chapter XX. The Way, verses 273-276
+  start: 273
+  end: 276
+  translation: F. Max Muller, Project Gutenberg eBook #2017
+canonical_text:
+  quote: >
+    The best of ways is the eightfold; the best of truths the four words;
+    the best of virtues passionlessness; the best of men he who has eyes to
+    see. This is the way, there is no other that leads to the purifying of
+    intelligence. Go on this way! Everything else is the deceit of Mara (the
+    tempter). If you go on this way, you will make an end of pain! The way was
+    preached by me, when I had understood the removal of the thorns (in the
+    flesh). You yourself must make an effort. The Tathagatas (Buddhas) are only
+    preachers. The thoughtful who enter the way are freed from the bondage of
+    Mara.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage calls the eightfold the best of ways.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says this way leads to the purifying of intelligence.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage instructs the hearer to go on this way and says other options
+    are the deceit of Mara.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says going on this way will make an end of pain.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says each person must make an effort, while the Tathagatas are
+    only preachers.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says the thoughtful who enter the way are freed from the bondage
+    of Mara.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: he who has eyes to see
+  description: The person described as the best of men.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: first-person preacher
+  description: The speaker who says the way was preached after understanding the
+    removal of the thorns.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Tathagatas (Buddhas)
+  description: Figures described as only preachers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: the thoughtful
+  description: Those who enter the way and are freed from Mara's bondage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Mara (the tempter)
+  description: Figure associated with deceit and bondage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: preacher of the way
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage says the way was preached and that the Tathagatas are only preachers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: practitioner entering the way
+  assigned_to:
+  - fig:4
+  basis: The thoughtful are described as entering the way and being freed.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: tempter
+  assigned_to:
+  - fig:5
+  basis: Mara is glossed as the tempter and linked with deceit and bondage.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: eightfold way
+  literal_form: the eightfold; this way
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: four words
+  literal_form: the best of truths the four words
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: eyes to see
+  literal_form: he who has eyes to see
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: thorns
+  literal_form: the thorns (in the flesh)
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: bondage of Mara
+  literal_form: the bondage of Mara
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Instruction on the way
+  summary: The passage identifies the eightfold way, says it purifies intelligence
+    and ends pain, and says thoughtful practitioners must make their own effort.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: path to awakening and release
+  taxonomy_refs:
+  - wisdom
+  - initiation
+  basis: The passage describes a named way that purifies intelligence, ends pain, and
+    frees those who enter it from Mara's bondage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The record treats "awakening" as a broad catalog label; the passage itself
+    uses the way, purification, pain's end, and freedom from Mara.
+- id: motif:2
+  label: self-effort under sacred instruction
+  taxonomy_refs:
+  - wisdom
+  basis: The passage distinguishes personal effort from the role of Buddhas as preachers.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a provisional functional label, not a claim about all Buddhist
+    practice.
+comparison_claims:
+- id: claim:1
+  claim: This passage can be compared within the atlas to path-and-liberation motifs
+    where a taught way requires personal effort and releases practitioners from bondage.
+  claim_level: same_function
+  target: 'pattern atlas: path to awakening and self-mastery'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Corpus-internal candidate only; no historical, linguistic, or cross-tradition
+    transmission claim is made.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Chapter XX. The Way, verse 273
+  quote_or_summary: >
+    The best of ways is the eightfold; the best of truths the four words;
+    the best of virtues passionlessness; the best of men he who has eyes to see.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public-domain source text.
+- id: ev:2
+  type: quote
+  locator: Chapter XX. The Way, verse 274
+  quote_or_summary: >
+    This is the way, there is no other that leads to the purifying of
+    intelligence. Go on this way! Everything else is the deceit of Mara (the
+    tempter).
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public-domain source text.
+- id: ev:3
+  type: quote
+  locator: Chapter XX. The Way, verse 275
+  quote_or_summary: >
+    If you go on this way, you will make an end of pain! The way was
+    preached by me, when I had understood the removal of the thorns (in the
+    flesh).
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public-domain source text.
+- id: ev:4
+  type: quote
+  locator: Chapter XX. The Way, verse 276
+  quote_or_summary: >
+    You yourself must make an effort. The Tathagatas (Buddhas) are only
+    preachers. The thoughtful who enter the way are freed from the bondage
+    of Mara.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal observations are direct, while motif and comparison language remains
+    provisional.
+reviewer_status:
+  status: draft
+  notes: Draft extraction for later human review.
+extracted_by: Codex
+extracted_at: '2026-04-28'
+notes: Wave 2 extraction record for Dhammapada path, awakening, and self-effort passage.

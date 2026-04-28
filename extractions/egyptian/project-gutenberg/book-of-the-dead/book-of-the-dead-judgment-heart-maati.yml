@@ -1,0 +1,338 @@
+---
+record_id: extraction.egyptian.book_of_the_dead.judgment_heart_maati
+source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+passage_locator:
+  label: CHAPTER VII, The Judgment of Osiris; Chapter CXXV and Papyrus of Ani judgment vignette
+  translation: E. A. Wallis Budge, Project Gutenberg eBook #7145
+  notes: Uses the source's visible CHAPTER VII heading and its references to Chapter CXXV and the Papyrus of Ani.
+canonical_text:
+  quote: Ani's heart, is seen in one pan of the Balance, and in the other is the feather, symbolic of truth and righteousness.
+  language: English
+  quote_policy: quoted
+literal_observations:
+  - id: obs:1
+    text: The deceased enters the Hall of Maati, where Osiris is said to sit in judgment.
+    category: setting
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: The deceased says he has brought maat, identified in the source as truth or integrity, and has destroyed sin.
+    category: speech
+    evidence_refs:
+      - ev:1
+  - id: obs:3
+    text: Osiris is accompanied by two goddesses of Law and Truth and by the Forty-Two gods.
+    category: setting
+    evidence_refs:
+      - ev:2
+  - id: obs:4
+    text: Near Osiris are the Great Scales, Anpu, and Amemit, who is described as the eater of condemned hearts.
+    category: setting
+    evidence_refs:
+      - ev:2
+  - id: obs:5
+    text: In the Papyrus of Ani vignette, Ani's heart is in one pan of the Balance and the feather of truth and righteousness is in the other.
+    category: object
+    evidence_refs:
+      - ev:3
+  - id: obs:6
+    text: Thoth announces that the heart has been weighed and that no wickedness has been found.
+    category: speech
+    evidence_refs:
+      - ev:4
+  - id: obs:7
+    text: Horus presents Ani to Osiris and says Ani's heart is righteous and without sin before any god or goddess.
+    category: action
+    evidence_refs:
+      - ev:5
+  - id: obs:8
+    text: Under Osiris's favour, Ani becomes a sahu or spirit-body and passes into the Kingdom of Osiris.
+    category: sequence
+    evidence_refs:
+      - ev:6
+figures:
+  - id: fig:1
+    name_or_label: the deceased / Ani
+    description: The dead person represented by Ani in the judgment vignette.
+    role_refs:
+      - role:2
+    evidence_refs:
+      - ev:3
+      - ev:5
+      - ev:6
+  - id: fig:2
+    name_or_label: Osiris
+    description: The god seated in the Hall of Maati and receiving Ani after judgment.
+    role_refs:
+      - role:1
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:5
+  - id: fig:3
+    name_or_label: two goddesses of Law and Truth
+    description: Goddesses seated with Osiris in the Hall of Maati.
+    role_refs: []
+    evidence_refs:
+      - ev:2
+  - id: fig:4
+    name_or_label: Forty-Two gods
+    description: Gods assisting Osiris in the Hall of Maati.
+    role_refs: []
+    evidence_refs:
+      - ev:2
+  - id: fig:5
+    name_or_label: Anpu
+    description: The god in charge of the Great Scales.
+    role_refs:
+      - role:4
+    evidence_refs:
+      - ev:2
+  - id: fig:6
+    name_or_label: Amemit
+    description: The Eater of the Dead, associated with condemned hearts.
+    role_refs:
+      - role:5
+    evidence_refs:
+      - ev:2
+  - id: fig:7
+    name_or_label: Thoth
+    description: The judge or scribe who announces and records the verdict.
+    role_refs:
+      - role:3
+    evidence_refs:
+      - ev:4
+      - ev:5
+  - id: fig:8
+    name_or_label: Horus, son of Isis
+    description: The figure who leads Ani forward and presents him to Osiris.
+    role_refs:
+      - role:6
+    evidence_refs:
+      - ev:5
+roles:
+  - id: role:1
+    label: divine judge
+    assigned_to:
+      - fig:2
+    basis: Osiris is explicitly said to sit in judgment in the Hall of Maati.
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: role:2
+    label: judged deceased
+    assigned_to:
+      - fig:1
+    basis: Ani's heart is weighed and his case is evaluated before the divine court.
+    evidence_refs:
+      - ev:3
+      - ev:4
+  - id: role:3
+    label: verdict announcer and recorder
+    assigned_to:
+      - fig:7
+    basis: Thoth speaks the weighing verdict and is said to set down the judgment in writing.
+    evidence_refs:
+      - ev:4
+      - ev:5
+  - id: role:4
+    label: scale attendant
+    assigned_to:
+      - fig:5
+    basis: The Great Scales are described as under Anpu's charge.
+    evidence_refs:
+      - ev:2
+  - id: role:5
+    label: devourer of condemned hearts
+    assigned_to:
+      - fig:6
+    basis: Amemit is described as eating the hearts of the wicked condemned in Osiris's judgment.
+    evidence_refs:
+      - ev:2
+  - id: role:6
+    label: presenter before Osiris
+    assigned_to:
+      - fig:8
+    basis: Horus takes Ani by the hand and brings him before Osiris.
+    evidence_refs:
+      - ev:5
+symbols:
+  - id: sym:1
+    label: Hall of Maati
+    literal_form: The judgment hall in which Osiris sits.
+    associated_figures:
+      - fig:2
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: sym:2
+    label: Great Balance
+    literal_form: A balance or pair of scales used in the judgment scene.
+    associated_figures:
+      - fig:1
+      - fig:5
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:2
+      - ev:3
+  - id: sym:3
+    label: heart
+    literal_form: Ani's heart placed in one pan of the Balance.
+    associated_figures:
+      - fig:1
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:3
+      - ev:4
+  - id: sym:4
+    label: feather
+    literal_form: The feather in the other pan of the Balance, described as symbolic of truth and righteousness.
+    associated_figures: []
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:3
+  - id: sym:5
+    label: written judgment
+    literal_form: Thoth's judgment set down in writing.
+    associated_figures:
+      - fig:7
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:5
+scenes:
+  - id: scene:1
+    label: Entry and confession in the Hall of Maati
+    summary: The deceased enters the Hall of Maati, addresses Osiris, and declares that he has brought maat and destroyed sin.
+    figure_refs:
+      - fig:1
+      - fig:2
+    symbol_refs:
+      - sym:1
+    evidence_refs:
+      - ev:1
+  - id: scene:2
+    label: Weighing of the heart
+    summary: The heart is weighed in the Great Balance against the feather of truth and righteousness, with Anpu, Thoth, and Amemit present.
+    figure_refs:
+      - fig:1
+      - fig:5
+      - fig:6
+      - fig:7
+    symbol_refs:
+      - sym:2
+      - sym:3
+      - sym:4
+    evidence_refs:
+      - ev:2
+      - ev:3
+      - ev:4
+  - id: scene:3
+    label: Presentation to Osiris
+    summary: Horus leads Ani to Osiris, declares the heart righteous, and Ani proceeds toward a transformed afterlife state.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:7
+      - fig:8
+    symbol_refs:
+      - sym:5
+    evidence_refs:
+      - ev:5
+      - ev:6
+candidate_motifs:
+  - id: motif:1
+    label: divine_judgment
+    taxonomy_refs:
+      - divine_judgment
+    basis: The passage presents a divine court in which Osiris sits in judgment and the deceased is evaluated.
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:4
+    confidence: high
+    cautions: The extraction follows Budge's English framing and should be checked against Egyptian text witnesses.
+  - id: motif:2
+    label: weighing_of_heart
+    taxonomy_refs:
+      - divine_judgment
+    basis: The deceased's heart is weighed in the Great Balance against the feather of truth and righteousness.
+    evidence_refs:
+      - ev:3
+      - ev:4
+    confidence: high
+    cautions: Candidate motif label is local/descriptive, not a finalized taxonomy entry.
+  - id: motif:3
+    label: acquittal_and_afterlife_reward
+    taxonomy_refs:
+      - death_rebirth
+      - resurrection
+    basis: After the favourable verdict, Ani is granted offerings, comes before Osiris, and becomes a spirit-body.
+    evidence_refs:
+      - ev:5
+      - ev:6
+    confidence: medium
+    cautions: The record treats the afterlife result descriptively and does not settle theological interpretation.
+comparison_claims:
+  - id: claim:1
+    claim: Within the atlas, this is a cautious candidate for a divine judgment pattern combining a court, moral declaration, weighing, written verdict, and post-verdict afterlife benefit.
+    claim_level: same_function
+    target: pattern atlas divine judgment records
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+      - ev:4
+      - ev:5
+      - ev:6
+    counter_evidence_refs: []
+    confidence: low
+    limitations: Corpus-internal comparison only; this does not claim borrowing, common origin, or equivalence across traditions.
+evidence:
+  - id: ev:1
+    type: summary
+    locator: CHAPTER VII, The Judgment of Osiris; first part of Chapter CXXV
+    quote_or_summary: In Chapter CXXV, the deceased enters the Hall of Maati, where Osiris sat in judgment, and says he has brought maat, or truth and integrity, and destroyed sin.
+    source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+    rights_note: Public-domain source text.
+  - id: ev:2
+    type: summary
+    locator: CHAPTER VII, The Judgment of Osiris; second part of Chapter CXXV
+    quote_or_summary: Osiris is seated in the Hall of Maati with the two goddesses of Law and Truth and the Forty-Two gods; nearby are the Great Scales, Anpu, and Amemit.
+    source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+    rights_note: Public-domain source text.
+  - id: ev:3
+    type: quote
+    locator: CHAPTER VII, The Judgment of Osiris; Papyrus of Ani judgment vignette
+    quote_or_summary: Ani's heart, is seen in one pan of the Balance, and in the other is the feather, symbolic of truth and righteousness.
+    source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+    rights_note: Public-domain source text.
+  - id: ev:4
+    type: summary
+    locator: CHAPTER VII, The Judgment of Osiris; Thoth's verdict
+    quote_or_summary: Thoth declares that the heart has been weighed, the case is just according to the Great Balance, and no wickedness has been found.
+    source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+    rights_note: Public-domain source text.
+  - id: ev:5
+    type: summary
+    locator: CHAPTER VII, The Judgment of Osiris; Ani before Osiris
+    quote_or_summary: Horus tells Osiris that Ani's heart is righteous, has come forth from the Balance, has no sin before any god or goddess, and that Thoth has written the judgment.
+    source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+    rights_note: Public-domain source text.
+  - id: ev:6
+    type: quote
+    locator: CHAPTER VII, The Judgment of Osiris; close of Chapter VII
+    quote_or_summary: Under favour of Osiris Ani then became a sahu, or "spirit-body," and in this form passed into the Kingdom of Osiris.
+    source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+    rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Budge's public-domain English edition is suitable for initial extraction, but Egyptological review is needed.
+reviewer_status:
+  status: draft
+  notes: Draft extraction for Wave 2 review.
+extracted_by: Codex
+extracted_at: '2026-04-28'
+notes: Initial Egyptian Book of the Dead extraction focused on judgment, heart weighing, Maati/maat, and Osiris.

@@ -1,0 +1,214 @@
+---
+record_id: extraction.norse.poetic_edda.voluspo_yggdrasil_cosmic_origins
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: Voluspo 1-6
+  translation: Henry Adams Bellows, The Poetic Edda
+  notes: Initial Wave 2 extraction from the public-domain Bellows translation.
+canonical_text:
+  quote: Nine worlds I knew, the nine in the tree / With mighty roots beneath the
+    mold.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker asks for hearing from holy races and remembers old tales.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says she knew nine worlds in a tree with roots beneath the mold.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Before earth, heaven, sea, waves, sand, and grass, there is a yawning gap.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Burs sons lift land, make Mithgarth, and establish ordered time through named
+    lights and seasons.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Volva
+  description: Prophetic speaker who remembers ancient worlds and addresses Valfather.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Valfather
+  description: Addressee of the prophetic speech, identified in notes and context
+    with Othin.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Burs sons
+  description: Divine agents who lift land and make Mithgarth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: prophetic_rememberer
+  assigned_to:
+  - fig:1
+  basis: The speaker recalls old tales and knows the nine worlds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: world_ordering_agents
+  assigned_to:
+  - fig:3
+  basis: They lift land, make Mithgarth, and participate in ordering the cosmos.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: nine worlds
+  literal_form: nine worlds
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - world_center
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: tree with roots
+  literal_form: tree with mighty roots beneath the mold
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - sacred_tree_axis
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: yawning gap
+  literal_form: yawning gap
+  associated_figures: []
+  taxonomy_refs:
+  - chaos
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: named time
+  literal_form: noon, twilight, morning, moon, night, evening, and years named by
+    the gods
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Voluspo opening cosmic memory
+  summary: A prophetic speaker addresses Valfather, remembers ancient beings and
+    nine worlds in a rooted tree, then describes the pre-cosmic gap and the ordering
+    of land and time.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sacred_tree_axis
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The passage links multiple worlds to a tree with deep roots.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The later note names Yggdrasil explicitly; this extraction stays with
+    the opening passage wording.
+- id: motif:2
+  label: chaos_before_order
+  taxonomy_refs:
+  - chaos
+  basis: The world begins from an absence of land, sea, heaven, and grass, described
+    as a yawning gap.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a formal cosmogonic pattern, not a claim of direct relation to
+    any other cosmogony.
+- id: motif:3
+  label: world_center
+  taxonomy_refs:
+  - world_center
+  basis: The tree functions as an organizing image for nine worlds.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The spatial system is inferred from the passage's tree-and-world imagery.
+comparison_claims:
+- id: claim:1
+  claim: The passage is a strong Norse witness for the world-tree or axis-mundi
+    family of motifs.
+  claim_level: same_motif
+  target: patterns/sacred-tree-axis-mundi.md
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: This identifies motif family fit only; it does not assert historical
+    borrowing from other tree or axis traditions.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Voluspo 1
+  quote_or_summary: Hearing I ask from the holy races; the speaker offers old tales
+    remembered from long ago.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public-domain source text.
+- id: ev:2
+  type: quote
+  locator: Voluspo 2
+  quote_or_summary: Nine worlds I knew, the nine in the tree / With mighty roots
+    beneath the mold.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public-domain source text.
+- id: ev:3
+  type: quote
+  locator: Voluspo 3
+  quote_or_summary: Earth had not been, nor heaven above, / But a yawning gap, and
+    grass nowhere.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public-domain source text.
+- id: ev:4
+  type: summary
+  locator: Voluspo 4-6
+  quote_or_summary: Burs sons raise land and make Mithgarth; the gods then name
+    lights, night, evening, and the years.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: Clear motif evidence from a canonical opening passage in Voluspo.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs scholarly review before being treated as final.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Wave 2 Norse extraction seed.

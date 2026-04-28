@@ -1,0 +1,275 @@
+---
+record_id: extraction.bhagavad_gita.battlefield_duty
+source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+passage_locator:
+  label: CHAPTER II
+  start: CHAPTER II
+  end: HERE ENDETH CHAPTER II. OF THE BHAGAVAD-GITA,
+  translation: The Song Celestial; Or, Bhagavad-Gita, translated by Sir Edwin Arnold
+  notes: Selected passage within Krishna's response after Arjuna says, "I will not
+    fight!"
+canonical_text:
+  summary: After Arjuna falls silent between the armies, Krishna answers that the
+    life or spirit is not slain and instructs him to perform his Kshattriya duty in
+    the battle with equanimity toward pleasure and pain, profit and ruin, victory
+    and defeat.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Arjuna says he will not fight and then remains silent.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Krishna answers while Arjuna weeps between the two hosts.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Krishna says that life cannot slay and is not slain.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Krishna tells Arjuna to do his part and not suffer for what cannot suffer.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Krishna says abandoning known duty and task would be sin.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Krishna tells Arjuna to arise for conflict and hold pleasure and pain, profit
+    and ruin, victory and defeat alike.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Arjuna
+  description: Prince, Son of Kunti, and Kshattriya addressed on the battlefield.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Krishna
+  description: Called Madhusudan, the Driver, and the Lord of Hearts in this chapter.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: refusing warrior
+  assigned_to:
+  - fig:1
+  basis: Arjuna says he will not fight before Krishna answers him between the hosts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: charioteer-instructor
+  assigned_to:
+  - fig:2
+  basis: Krishna is identified as the Driver and then gives the teaching in response
+    to Arjuna.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Kshattriya
+  assigned_to:
+  - fig:1
+  basis: Krishna addresses the duty question by naming the honourable field for a
+    Kshattriya.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: honourable field
+  literal_form: This honourable field--a Kshattriya
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: deathless life
+  literal_form: Life cannot slay. Life is not slain.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: battle duty
+  literal_form: duty and task
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: paired outcomes
+  literal_form: pleasure or pain, profit or ruin, victory or defeat
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Arjuna refuses battle
+  summary: Arjuna says he will not fight, and Krishna answers him while he is weeping
+    between the two hosts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Krishna teaches duty in battle
+  summary: Krishna speaks about life not being slain, tells Arjuna to do his part,
+    warns against abandoning duty and task, and commands him to arise for conflict
+    with equanimity toward paired outcomes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: battlefield_revelation
+  taxonomy_refs:
+  - wisdom
+  - initiation
+  basis: A teaching about life, grief, duty, and action is delivered after Arjuna's
+    refusal in the space between the opposing armies.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a motif candidate for indexing; it does not by itself establish
+    relation to any external text.
+- id: motif:2
+  label: warrior_duty_under_crisis
+  taxonomy_refs: []
+  basis: Krishna explicitly links Arjuna's Kshattriya status, duty and task, and the
+    command to fight.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The extraction records the passage's own duty language without resolving
+    later theological or ethical interpretation.
+- id: motif:3
+  label: deathless_life_teaching
+  taxonomy_refs:
+  - wisdom
+  basis: Krishna grounds the instruction in a claim that life cannot slay and is not
+    slain.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The translation's wording is retained; Sanskrit technical vocabulary is
+    not independently analyzed here.
+comparison_claims:
+- id: claim:1
+  claim: The passage is a candidate battlefield instruction scene in which a divine
+    charioteer-teacher responds to a warrior's refusal with teachings about deathless
+    life, duty, and equanimous action.
+  claim_level: same_function
+  target: "pattern atlas: revelation-in-crisis and duty-instruction scenes"
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Corpus-internal pattern claim only; no historical contact, borrowing,
+    or common-inheritance claim is made.
+evidence:
+- id: ev:1
+  type: quote
+  locator: CHAPTER II
+  quote_or_summary: And sighing,"I will not fight!" held silence then.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+  rights_note: Public-domain source text.
+- id: ev:2
+  type: quote
+  locator: CHAPTER II
+  quote_or_summary: >-
+    While the Prince wept despairing 'twixt those hosts, Krishna made answer in
+    divinest verse:
+  source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+  rights_note: Public-domain source text.
+- id: ev:3
+  type: quote
+  locator: CHAPTER II
+  quote_or_summary: Life cannot slay. Life is not slain!
+  source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+  rights_note: Public-domain source text.
+- id: ev:4
+  type: quote
+  locator: CHAPTER II
+  quote_or_summary: This Life within all living things, my Prince! Hides beyond harm;
+    scorn thou to suffer, then, For that which cannot suffer. Do thy part!
+  source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+  rights_note: Public-domain source text.
+- id: ev:5
+  type: quote
+  locator: CHAPTER II
+  quote_or_summary: If, knowing thy duty and thy task, thou bidd'st Duty and task
+    go by--that shall be sin!
+  source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+  rights_note: Public-domain source text.
+- id: ev:6
+  type: quote
+  locator: CHAPTER II
+  quote_or_summary: >-
+    Therefore, arise, thou Son of Kunti! brace Thine arm for conflict, nerve thy
+    heart to meet-- As things alike to thee--pleasure or pain, Profit or ruin,
+    victory or defeat:
+  source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+  rights_note: Public-domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Chapter-only locators are used because this source transcription provides
+    chapter headings and speaker labels but no verse numbers.
+reviewer_status:
+  status: draft
+  notes: Draft extraction; needs human review before use as final analytical data.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Created for Wave 2 Bhagavad-Gita extraction under the owned Hindu Project
+  Gutenberg directory.

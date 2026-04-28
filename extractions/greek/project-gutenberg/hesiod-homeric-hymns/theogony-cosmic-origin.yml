@@ -1,0 +1,303 @@
+---
+record_id: extraction.greek.hesiod_homeric_hymns.theogony_cosmic_origin
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: Theogony ll. 116-138
+  start: "116"
+  end: "138"
+  translation: Hugh G. Evelyn-White, Project Gutenberg eBook #348
+  notes: Source prints the locator as "(ll. 116-138)" under THE THEOGONY.
+canonical_text:
+  quote: >
+    Verily at the first Chaos came to be, but next wide-bosomed Earth...
+    and dim Tartarus... and Eros (Love)... From Chaos came forth Erebus
+    and black Night... And Earth first bare starry Heaven, equal to herself.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Chaos is named as the first to come to be.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Earth, Tartarus, and Eros are named after Chaos in the sequence.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Erebus and Night come forth from Chaos.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Aether and Day are born from Night after union with Erebus.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Earth bears starry Heaven, long Hills, and Pontus before bearing children with Heaven.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Chaos
+  description: First named primordial entity in the sequence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Earth
+  description: Wide-bosomed foundation of the deathless ones and generative figure.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Tartarus
+  description: Dim depth in the wide-pathed Earth.
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Eros
+  description: Love, named among the earliest deathless gods.
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Night
+  description: Black Night, born from Chaos and mother of Aether and Day.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Erebus
+  description: Born from Chaos and joined with Night before the birth of Aether and Day.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Heaven
+  description: Starry Heaven, born from Earth and equal to her.
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Pontus
+  description: Fruitless deep with raging swell, born from Earth without sweet union of love.
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: first primordial emergence
+  assigned_to:
+  - fig:1
+  basis: The passage says Chaos came to be first.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: generative foundation
+  assigned_to:
+  - fig:2
+  basis: Earth is described as a foundation and as bearing Heaven, Hills, and Pontus.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: generative pair
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Night conceives and bears Aether and Day after union with Erebus.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Chaos
+  literal_form: Chaos as the first entity to come to be.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Earth
+  literal_form: Wide-bosomed Earth as foundation and bearer.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: Tartarus
+  literal_form: Dim Tartarus in the depth of Earth.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Night and Day
+  literal_form: Black Night and Day in a genealogical sequence.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Heaven
+  literal_form: Starry Heaven covering Earth on every side.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Sea
+  literal_form: Pontus, the fruitless deep with raging swell.
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Primordial emergence
+  summary: Chaos comes to be first; Earth, Tartarus, and Eros are then named.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Births from Chaos and Night
+  summary: Erebus and Night come from Chaos, and Night bears Aether and Day after union with Erebus.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Earth bears cosmic regions
+  summary: Earth bears Heaven, Hills, and Pontus, then joins with Heaven and bears later divine children.
+  figure_refs:
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: chaos before ordered differentiation
+  taxonomy_refs:
+  - chaos
+  basis: Chaos is named first, and later beings or regions emerge in a sequence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: Chaos is a named primordial entity here; the record does not assume a later philosophical meaning.
+- id: motif:2
+  label: cosmic maternity
+  taxonomy_refs:
+  - mother_goddess
+  basis: Earth is both the foundation of the deathless ones and the bearer of Heaven, Hills, and Pontus.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage supports a generative role, but broader cultic or theological claims need other evidence.
+- id: motif:3
+  label: night-day differentiation
+  taxonomy_refs:
+  - duality
+  basis: Night gives birth to Aether and Day after union with Erebus.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a genealogical pairing rather than an explicit moral opposition.
+comparison_claims:
+- id: claim:1
+  claim: >
+    This passage can be compared within the atlas to cosmogonic sequences
+    that begin from a named pre-ordered condition and move into differentiated
+    regions or beings.
+  claim_level: same_function
+  target: "pattern atlas: cosmogonic emergence from pre-ordered condition"
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is a structural comparison only and does not claim historical contact.
+- id: claim:2
+  claim: >
+    Earth's role as foundation and bearer supports a cautious comparison
+    to cosmic mother or generative-earth motif families.
+  claim_level: same_function
+  target: "taxonomy/motifs.yml: mother_goddess"
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The evidence is limited to the cosmogonic genealogy in this passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Theogony (ll. 116-138)
+  quote_or_summary: >
+    "Verily at the first Chaos came to be, but next wide-bosomed Earth...
+    and dim Tartarus... and Eros (Love), fairest among the deathless gods..."
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public-domain English translation from Project Gutenberg.
+- id: ev:2
+  type: quote
+  locator: Theogony (ll. 116-138)
+  quote_or_summary: >
+    "From Chaos came forth Erebus and black Night; but of Night were born
+    Aether and Day, whom she conceived and bare from union in love with Erebus."
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public-domain English translation from Project Gutenberg.
+- id: ev:3
+  type: quote
+  locator: Theogony (ll. 116-138)
+  quote_or_summary: >
+    "And Earth first bare starry Heaven, equal to herself... She bare also
+    the fruitless deep with his raging swell, Pontus... But afterwards she
+    lay with Heaven and bare deep-swirling Oceanus..."
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public-domain English translation from Project Gutenberg.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Passage locator is explicit in the source; motif labels remain draft candidates.
+reviewer_status:
+  status: draft
+  notes: Draft extraction for human review.
+extracted_by: Codex
+extracted_at: '2026-04-28'
+notes: Created for Wave 2 Greek extraction.

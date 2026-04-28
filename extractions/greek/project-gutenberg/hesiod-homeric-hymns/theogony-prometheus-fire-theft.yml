@@ -1,0 +1,400 @@
+---
+record_id: extraction.greek.hesiod_homeric_hymns.theogony_prometheus_fire_theft
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: Theogony ll. 507-616
+  start: "507"
+  end: "616"
+  translation: Hugh G. Evelyn-White, Project Gutenberg eBook #348
+  notes: >
+    Source prints the connected Prometheus sequence across "(ll. 507-543)",
+    "(ll. 548-558)", "(ll. 561-584)", and "(ll. 613-616)" under THE THEOGONY.
+canonical_text:
+  summary: >
+    Prometheus is named among the sons of Iapetus, is punished by Zeus,
+    divides an ox at Mecone in a deceptive way, and later steals the gleam
+    of fire for mortals in a hollow fennel stalk; Zeus responds by making
+    a beautiful evil for men as the price of fire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Prometheus is described as clever, full of wiles, and later bound by Zeus.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At Mecone, gods and mortal men have a dispute and Prometheus cuts up a great ox.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Prometheus sets meat and inner parts under a paunch, and sets white bones covered with shining fat for Zeus.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Zeus perceives the trick, becomes angry, and the passage links this to burning white bones on fragrant altars.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Zeus withholds unwearying fire from mortal men after the trick.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Prometheus steals the gleam of unwearying fire in a hollow fennel stalk.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Zeus has a maiden-like figure made as the price of fire.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The sequence ends by saying Prometheus did not escape Zeus's anger, despite knowing many wiles.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Prometheus
+  description: Son of Iapetus; clever, ready-witted, and full of wiles.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Zeus
+  description: Son of Cronos, father of men and gods, angered by the trick and theft.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: mortal men
+  description: Human recipients affected by the sacrificial division, loss of fire, theft of fire, and Zeus's retaliation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Limping God
+  description: Divine craft figure who forms the maiden-like figure from earth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Athene
+  description: Bright-eyed goddess who clothes and adorns the maiden-like figure.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: beautiful evil
+  description: Maiden-like figure made as the price of fire.
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: trickster divider
+  assigned_to:
+  - fig:1
+  basis: Prometheus arranges the ox portions at Mecone while trying to befool Zeus.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: fire thief
+  assigned_to:
+  - fig:1
+  basis: Prometheus steals fire for mortal men in a hollow fennel stalk.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: divine punisher
+  assigned_to:
+  - fig:2
+  basis: Zeus withholds fire, responds angrily, and imposes a retaliatory price.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: human beneficiaries and sufferers
+  assigned_to:
+  - fig:3
+  basis: Mortal men receive fire but are also the target of Zeus's retaliatory gift.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: divine makers
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The Limping God forms the maiden-like figure and Athene clothes and adorns her.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ox portions
+  literal_form: Meat, inner parts, paunch, white bones, and shining fat arranged as portions.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: white bones on altars
+  literal_form: White bones burned to the deathless gods upon fragrant altars.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: fire
+  literal_form: Far-seen gleam of unwearying fire.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: hollow fennel stalk
+  literal_form: Hollow fennel stalk used to carry stolen fire.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: chains and eagle
+  literal_form: Inextricable bonds, cruel chains, and an eagle that eats Prometheus's liver.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: beautiful evil
+  literal_form: Maiden-like figure formed from earth and adorned by Athene.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Prometheus punished
+  summary: Zeus binds Prometheus, and an eagle eats his immortal liver before Heracles later releases him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mecone division
+  summary: Prometheus divides an ox into deceptive portions during a dispute between gods and mortal men.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Fire withheld and stolen
+  summary: Zeus withholds fire from mortals, and Prometheus steals it in a hollow fennel stalk.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Price of fire
+  summary: Zeus responds to the stolen fire by having a maiden-like figure made and adorned as a retaliatory gift.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacred theft of fire
+  taxonomy_refs:
+  - sacred_theft
+  - culture_hero
+  basis: A divine power, fire, is withheld by Zeus and stolen by Prometheus for mortal men.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage also emphasizes punishment and does not present the act as uncomplicatedly positive.
+- id: motif:2
+  label: trickster at sacrificial boundary
+  taxonomy_refs:
+  - trickster_boundary
+  - sacrifice
+  basis: Prometheus uses deceptive food portions in a divine-human dispute that explains altar practice.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The evidence supports a trickster role in this episode, not a full characterization of every Prometheus tradition.
+- id: motif:3
+  label: divine retaliation for transgression
+  taxonomy_refs:
+  - divine_judgment
+  basis: Zeus responds to Prometheus's trick and theft by withholding fire, creating a price for fire, and binding Prometheus.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage frames retaliation through Zeus's anger; broader justice claims require wider context.
+comparison_claims:
+- id: claim:1
+  claim: >
+    This episode can be compared within the atlas to sacred-theft patterns
+    in which a restricted divine resource is taken across a boundary for
+    human use.
+  claim_level: same_motif
+  target: "taxonomy/motifs.yml: sacred_theft"
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is motif-level only and does not assert contact with any other tradition.
+- id: claim:2
+  claim: >
+    The Mecone scene supports a cautious comparison to sacrifice-origin
+    scenes because the deceptive division of ox portions is tied to burning
+    bones for the gods on altars.
+  claim_level: same_function
+  target: "taxonomy/motifs.yml: sacrifice"
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This passage addresses one ritual explanation, not sacrifice as a whole.
+- id: claim:3
+  claim: >
+    Zeus's response can be compared to divine-judgment motifs where a
+    transgressive act leads to punishment and a changed human condition.
+  claim_level: same_function
+  target: "taxonomy/motifs.yml: divine_judgment"
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The record does not decide whether Zeus's response is morally just; it only notes the punitive structure.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Theogony (ll. 507-543)
+  quote_or_summary: >
+    The passage names Prometheus as clever and full of wiles, then describes
+    Zeus binding him with chains and an eagle eating his immortal liver until
+    Heracles later releases him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public-domain English translation from Project Gutenberg.
+- id: ev:2
+  type: quote
+  locator: Theogony (ll. 507-543)
+  quote_or_summary: >
+    "For when the gods and mortal men had a dispute at Mecone... Prometheus
+    was forward to cut up a great ox and set portions before them, trying
+    to befool the mind of Zeus."
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public-domain English translation from Project Gutenberg.
+- id: ev:3
+  type: quote
+  locator: Theogony (ll. 548-558)
+  quote_or_summary: >
+    "Zeus... saw and failed not to perceive the trick... and because of this
+    the tribes of men upon earth burn white bones to the deathless gods upon
+    fragrant altars."
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public-domain English translation from Project Gutenberg.
+- id: ev:4
+  type: quote
+  locator: Theogony (ll. 561-584)
+  quote_or_summary: >
+    "From that time he was always mindful of the trick, and would not give
+    the power of unwearying fire... But the noble son of Iapetus outwitted
+    him and stole the far-seen gleam of unwearying fire in a hollow fennel
+    stalk."
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public-domain English translation from Project Gutenberg.
+- id: ev:5
+  type: quote
+  locator: Theogony (ll. 561-584)
+  quote_or_summary: >
+    "Forthwith he made an evil thing for men as the price of fire; for the
+    very famous Limping God formed of earth the likeness of a shy maiden as
+    the son of Cronos willed."
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public-domain English translation from Project Gutenberg.
+- id: ev:6
+  type: quote
+  locator: Theogony (ll. 613-616)
+  quote_or_summary: >
+    "So it is not possible to deceive or go beyond the will of Zeus; for not
+    even the son of Iapetus, kindly Prometheus, escaped his heavy anger..."
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public-domain English translation from Project Gutenberg.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: low
+  notes: Passage evidence is explicit, while comparison claims remain limited to motif/function matching.
+reviewer_status:
+  status: draft
+  notes: Draft extraction for human review.
+extracted_by: Codex
+extracted_at: '2026-04-28'
+notes: Created for Wave 2 Greek extraction.

@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: project-gutenberg-wave-2
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.gutenberg_2017
+  work_id: buddhist.dhammapada.max_muller_gutenberg
+  title: Dhammapada, a Collection of Verses
+  source_url: https://www.gutenberg.org/ebooks/2017
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/project-gutenberg/2017-dhammapada.txt
+    checksum:
+      algorithm: sha256
+      value: 2b57e8ecdf63644586db1e74baca10d7b532e09362d7f94ff46711cde5676957
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/2017-dhammapada.md
+    checksum:
+      algorithm: sha256
+      value: f82ac92665aac7a21f8d52059106745cb9c4bbf901c42c0bded2230da4e80570
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+    checksum:
+      algorithm: sha256
+      value: b72161e5aaaa4168f634329f2aaddbd49d74d55166a226a2f4884420579306e9
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/build_gutenberg_seed.rb
+    version: '1'
+    command: ruby scripts/build_gutenberg_seed.rb 2017
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Generic plain-text converter for public-domain Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: The source catalog page records public-domain status in the USA; reuse
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure, rights metadata, and removal
+      of distributor boilerplate.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
