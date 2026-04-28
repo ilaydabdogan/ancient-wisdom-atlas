@@ -1,0 +1,513 @@
+---
+batch_pipeline_manifest_version: '1'
+run_id: motif-extraction-2026-04-27-corpus
+created_at: '2026-04-28T02:43:05Z'
+updated_at: '2026-04-28T02:43:33Z'
+artifacts:
+  passages_path: data/batches/motif-extraction-2026-04-27-corpus/passages.jsonl
+  requests_index_path: data/batches/motif-extraction-2026-04-27-corpus/requests/index.yml
+  request_map_path: data/batches/motif-extraction-2026-04-27-corpus/request-map.jsonl
+openai: {}
+state: {}
+pipeline: motif_extraction
+status: requests_prepared
+config:
+  segmentation:
+    glob: texts/public-domain/**/*.md
+    text_paths: []
+    max_chars: 6000
+    min_chars: 500
+    limit: 
+  motif_request_generation:
+    model: gpt-5.4-mini
+    endpoint: "/v1/responses"
+    prompt_path: templates/batch-motif-extraction-prompt.md
+    max_output_tokens: 4000
+    temperature: 
+    reasoning_effort: 
+    max_requests_per_shard: 1000
+    max_bytes_per_shard: 188743680
+counts:
+  source_texts_segmented: 28
+  passages: 3386
+  requests_prepared: 3386
+  request_shards: 4
+  skipped_ingested_requests: 0
+source_texts:
+- path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  source_text_id: biblical.deuteronomy.web_classic
+  title: Deuteronomy
+  tradition: jewish_christian
+  culture: ancient_israelite_later_biblical_reception
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    training_use: allowed
+    full_text: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  sha256: fc9092bc44f005f949e907fcd9e069788a351fa58983dddb94c87d355eb8f9e2
+  passage_count: 39
+- path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  source_text_id: biblical.exodus.web_classic
+  title: Exodus
+  tradition: jewish_christian
+  culture: ancient_israelite_later_biblical_reception
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    training_use: allowed
+    full_text: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  sha256: 0fa307cd2ba20d40974b6c5677e9e37da98d7f5c28885d642c93c8567dee8a6b
+  passage_count: 44
+- path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  source_text_id: biblical.genesis.web_classic
+  title: Genesis
+  tradition: jewish_christian
+  culture: ancient_israelite_later_biblical_reception
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    training_use: allowed
+    full_text: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  sha256: cc260ed5f6d7c443e2b2b338ed27556240c22ad8208a3adeb0c0d00aa78ead48
+  passage_count: 54
+- path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  source_text_id: biblical.leviticus.web_classic
+  title: Leviticus
+  tradition: jewish_christian
+  culture: ancient_israelite_later_biblical_reception
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    training_use: allowed
+    full_text: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  sha256: bff86a30ea87434553a450f6e366a92f7cd7e9b28c1ee9b86e95cefac362832a
+  passage_count: 33
+- path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  source_text_id: biblical.numbers.web_classic
+  title: Numbers
+  tradition: jewish_christian
+  culture: ancient_israelite_later_biblical_reception
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://ebible.org/eng-web/copyright.htm
+    training_use: allowed
+    full_text: allowed
+    notes: The source page states that the World English Bible is in the Public Domain
+      and may be copied and shared freely. Keep trademark naming rules separate from
+      text copyright.
+  sha256: 44072a5769385dcf55ecda11736b4bf30c767d7550274bcbf70d33b08cb62761
+  passage_count: 45
+- path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  source_text_id: buddhist.dhammapada.max_muller_gutenberg
+  title: Dhammapada, a Collection of Verses
+  tradition: buddhist
+  culture: early_buddhist_pali_canon_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: b72161e5aaaa4168f634329f2aaddbd49d74d55166a226a2f4884420579306e9
+  passage_count: 24
+- path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  source_text_id: celtic_irish.gods_and_fighting_men.gregory_gutenberg
+  title: Gods and Fighting Men
+  tradition: celtic_irish
+  culture: medieval_irish_later_retelling
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: 5fe6f9226dc970309e51741a309fac1c8256b5cbf90d0ff075945f1596f8c28f
+  passage_count: 198
+- path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  source_text_id: celtic_irish.heroic_romances_of_ireland.leahy_gutenberg
+  title: Heroic Romances of Ireland
+  tradition: celtic_irish
+  culture: medieval_irish_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: 694d3ee5d3d3238e5256da7858461f0dff0c0af9f60543af81dd4b8c0dc3b709
+  passage_count: 160
+- path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  source_text_id: celtic_irish.tain_bo_cualnge.dunn_gutenberg
+  title: The Ancient Irish Epic Tale Tain Bo Cualnge
+  tradition: celtic_irish
+  culture: ulster_cycle_irish_epic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: 9fc0b6463126e67e8674d142dafc70fd1b1b24a047fecdf456e23195595d3055
+  passage_count: 142
+- path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  source_text_id: celtic_welsh.mabinogion.guest_gutenberg
+  title: The Mabinogion
+  tradition: celtic_welsh
+  culture: medieval_welsh_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: f42ead1a8f1b53b85d882d77d4c413ff231fc50f5917472d72d962f236c33c86
+  passage_count: 112
+- path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  source_text_id: confucian.analects.legge_gutenberg
+  title: The Analects of Confucius
+  tradition: confucian
+  culture: classical_chinese
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: 51542e7e5729083b2f1b3c92f2ce270f9249e27669d5ecf8476a814f7d910e41
+  passage_count: 39
+- path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  source_text_id: confucian.sayings_of_confucius.giles_gutenberg
+  title: The Sayings of Confucius
+  tradition: confucian
+  culture: classical_chinese
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: 3084c0748fabe71422b5e22c6fc64fd0223774f5dc013e6662346399c736f667
+  passage_count: 36
+- path: texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md
+  source_text_id: daoist.tao_teh_king.legge_gutenberg
+  title: The Tao Teh King, or the Tao and its Characteristics
+  tradition: daoist
+  culture: classical_chinese
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: c4f8687766c6856d8327f79f40b029cb1e76ccd1e4d21563592f34bfc76f84db
+  passage_count: 11
+- path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  source_text_id: egyptian.book_of_the_dead.budge_gutenberg
+  title: The Book of the Dead
+  tradition: egyptian
+  culture: ancient_egyptian_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: 411ad1852fdccbc26f37532dc812df956638a23fb6dfe7cd6f0b82ca9aa84946
+  passage_count: 17
+- path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  source_text_id: finnish_karelian.kalevala.crawford_gutenberg
+  title: 'Kalevala: The Epic Poem of Finland'
+  tradition: finnish_karelian
+  culture: finno_ugric
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: 3f5eef45990fbb9055165114fc2a398a777fea5fcc295c3469c8547c605d8e92
+  passage_count: 147
+- path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  source_text_id: greek.hesiod_homeric_hymns.evelyn_white_gutenberg
+  title: Hesiod, the Homeric Hymns, and Homerica
+  tradition: greek
+  culture: ancient_greek
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: 5bd760cdbcb30ab32e3c94d19696ae510a10479ac33e056ed2b01ec22c93fb9a
+  passage_count: 134
+- path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  source_text_id: greek.iliad.pope_gutenberg
+  title: The Iliad
+  tradition: greek
+  culture: ancient_greek_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: fd4d9b02bed18cb24a78fdeb1b6ded9f028730e94ec199ae1bcafa36798b8829
+  passage_count: 210
+- path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  source_text_id: hindu.mahabharata.dutt_gutenberg
+  title: Maha-bharata
+  tradition: hindu
+  culture: sanskrit_epic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: 3a91b1ca295bd70e16c6cc5001cbdd5b3d1697baad575fcf37a617528f0d0c59
+  passage_count: 59
+- path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  source_text_id: hindu.ramayana.griffith_gutenberg
+  title: The Ramayan of Valmiki
+  tradition: hindu
+  culture: sanskrit_epic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: 41bf69d794e529f7d27bb14201d36e9a8d94f353f355eb705567345c040e8b10
+  passage_count: 507
+- path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+  source_text_id: hindu.bhagavad_gita.song_celestial_gutenberg
+  title: The Song Celestial; Or, Bhagavad-Gita
+  tradition: hindu
+  culture: sanskrit_epic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: 6e267e69ee86f8c1bd938b78a627d283a3430256ac11ebd51d4da462dd09cffe
+  passage_count: 31
+- path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  source_text_id: hindu.upanishads.paramananda_gutenberg
+  title: The Upanishads
+  tradition: hindu
+  culture: sanskrit_vedic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: ea83c4dbccc8290f271f6f7c10d5aff3773f654a7f469776796e348216efc7ea
+  passage_count: 30
+- path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  source_text_id: islamic.koran.rodwell_gutenberg
+  title: The Koran (Al-Qur'an)
+  tradition: islamic
+  culture: arabic_islamic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: bca66239ea6e4215d41b5f32780da33ad73f107767c5af44f2a1091d7e09d60f
+  passage_count: 190
+- path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  source_text_id: islamic.koran.sale_gutenberg
+  title: The Koran (Al-Qur'an)
+  tradition: islamic
+  culture: arabic_islamic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: f9763d1ba2c7297b5807b25fa43d4b34810171a2b6910128e924f54f21224d4a
+  passage_count: 567
+- path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  source_text_id: islamicate_folklore.arabian_nights.lang_gutenberg
+  title: The Arabian Nights Entertainments
+  tradition: islamicate_folklore
+  culture: arabic_persian_indian_folklore_later_english_edition
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: 4c216a31f6b4c0e9933a62adaa6bb197ed00d6a1d1e28f5401a8e907923ec30d
+  passage_count: 105
+- path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  source_text_id: maya_quiche.popol_vuh.spence_gutenberg
+  title: The Popol Vuh
+  tradition: maya_quiche
+  culture: mesoamerican_kiche_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: 575d43fabfdf7f4fb2ad68c4376b5edc2bfce0c000c90c714a5535120d8aa81c
+  passage_count: 23
+- path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  source_text_id: mesopotamian.gilgamesh.old_babylonian_jastrow_clay_gutenberg
+  title: An Old Babylonian Version of the Gilgamesh Epic
+  tradition: mesopotamian
+  culture: old_babylonian
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: a5dd76f2043c10ac7110f4e55d41e4f4d966b82ddc054dabae43d2725c3905e3
+  passage_count: 49
+- path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  source_text_id: norse.poetic_edda.bellows_gutenberg
+  title: The Poetic Edda
+  tradition: norse
+  culture: old_norse_medieval_icelandic
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: 3f8a454463edc41b870a0b060fa60f8d9187d877f3082343a3d443a07bf32a7f
+  passage_count: 194
+- path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  source_text_id: persian.persian_literature_volume_1.gutenberg
+  title: Persian Literature, Volume 1
+  tradition: persian
+  culture: medieval_iranian_later_anthology
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The selected source page records public-domain status in the USA. Distributor
+      license and trademark terms are tracked separately from the underlying public-domain
+      text.
+  sha256: ecdef585624186133273168ababcd684c02349dd8e12de13fd5390f07ab0e031
+  passage_count: 186
+

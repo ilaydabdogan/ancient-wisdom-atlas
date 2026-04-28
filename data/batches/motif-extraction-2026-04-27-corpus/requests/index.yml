@@ -1,0 +1,45 @@
+---
+batch_request_index_version: '1'
+run_id: motif-extraction-2026-04-27-corpus
+created_at: '2026-04-28T02:43:33Z'
+updated_at: '2026-04-28T02:43:33Z'
+endpoint: "/v1/responses"
+model: gpt-5.4-mini
+prompt_path: templates/batch-motif-extraction-prompt.md
+passages_path: data/batches/motif-extraction-2026-04-27-corpus/passages.jsonl
+request_map_path: data/batches/motif-extraction-2026-04-27-corpus/request-map.jsonl
+skipped_ingested_count: 0
+shards:
+- shard_id: shard-0001
+  path: data/batches/motif-extraction-2026-04-27-corpus/requests/shard-0001.jsonl
+  request_count: 1000
+  bytes: 16169416
+  sha256: 3d22a4bd50769fbd8567ec11b955536eda1cf980732cac93e393eb10dd63d204
+  endpoint: "/v1/responses"
+  model: gpt-5.4-mini
+  status: prepared
+- shard_id: shard-0002
+  path: data/batches/motif-extraction-2026-04-27-corpus/requests/shard-0002.jsonl
+  request_count: 1000
+  bytes: 16509348
+  sha256: 3eb5539a82813ab401be59a593b675b717c36dd5ed8ed66ee143fd72c2a0a8c2
+  endpoint: "/v1/responses"
+  model: gpt-5.4-mini
+  status: prepared
+- shard_id: shard-0003
+  path: data/batches/motif-extraction-2026-04-27-corpus/requests/shard-0003.jsonl
+  request_count: 1000
+  bytes: 16418439
+  sha256: b39120a3beb26875ce06900fdf6a9b792942f09a9cbf74250a61a030f192fdee
+  endpoint: "/v1/responses"
+  model: gpt-5.4-mini
+  status: prepared
+- shard_id: shard-0004
+  path: data/batches/motif-extraction-2026-04-27-corpus/requests/shard-0004.jsonl
+  request_count: 386
+  bytes: 6316282
+  sha256: cd4107fd746c90b0ee3f0a79b4773f70573c1d4c280a7ddb22a6dc4fc640c00e
+  endpoint: "/v1/responses"
+  model: gpt-5.4-mini
+  status: prepared
+
