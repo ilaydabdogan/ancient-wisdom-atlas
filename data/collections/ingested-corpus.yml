@@ -511,6 +511,19 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: seed_records_added
+- id: japanese.fairy_tales.ozaki_gutenberg
+  title: Japanese Fairy Tales
+  tradition_cluster: japanese_folklore
+  source_id: source.project_gutenberg.4018
+  canonical_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  manifest_path: manifests/project-gutenberg/4018-japanese-fairy-tales-ozaki.yml
+  extraction_dir: extractions/japanese/project-gutenberg/japanese-fairy-tales-ozaki
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: maya_quiche.popol_vuh.spence_gutenberg
   title: The Popol Vuh
   tradition_cluster: mesoamerican

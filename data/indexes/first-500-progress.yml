@@ -664,7 +664,7 @@ queue_outside_first500:
   source_id: '22381'
 - id: japanese.fairy_tales.ozaki_gutenberg
   title: Japanese Fairy Tales
-  status: queued
+  status: ingested
   priority: medium
   source_id: '4018'
 - id: norse.myths_of_norsemen.guerber_gutenberg
@@ -758,6 +758,10 @@ ingested_outside_first500:
   title: The Arabian Nights Entertainments
   tradition_cluster: islamicate_folklore
   source_id: source.project_gutenberg.128
+- id: japanese.fairy_tales.ozaki_gutenberg
+  title: Japanese Fairy Tales
+  tradition_cluster: japanese_folklore
+  source_id: source.project_gutenberg.4018
 - id: mesopotamian.gilgamesh.old_babylonian_jastrow_clay_gutenberg
   title: An Old Babylonian Version of the Gilgamesh Epic
   tradition_cluster: mesopotamian
