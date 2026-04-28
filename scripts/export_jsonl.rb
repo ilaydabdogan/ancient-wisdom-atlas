@@ -12,13 +12,15 @@ EXPORT_DIR = File.join(ROOT, "exports")
 COLLECTIONS = {
   "texts" => ["texts/**/*.md"],
   "patterns" => ["patterns/**/*.md"],
+  "comparisons" => ["comparisons/**/*.md"],
   "templates" => ["templates/**/*.md"]
 }.freeze
 
 STRUCTURED_COLLECTIONS = {
   "extractions" => ["extractions/**/*.yml", "extractions/**/*.yaml"],
   "manifests" => ["manifests/**/*.yml", "manifests/**/*.yaml"],
-  "collections" => ["data/collections/**/*.yml", "data/collections/**/*.yaml"]
+  "collections" => ["data/collections/**/*.yml", "data/collections/**/*.yaml"],
+  "indexes" => ["data/indexes/**/*.yml", "data/indexes/**/*.yaml"]
 }.freeze
 
 def read_markdown(path)

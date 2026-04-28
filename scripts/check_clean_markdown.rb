@@ -5,7 +5,7 @@ ROOT = File.expand_path("..", __dir__)
 
 MARKDOWN_PATHS = [
   File.join(ROOT, "README.md"),
-  *Dir.glob(File.join(ROOT, "{docs,patterns,texts}", "**/*.md"))
+  *Dir.glob(File.join(ROOT, "{comparisons,docs,patterns,texts}", "**/*.md"))
 ].select { |path| File.file?(path) }.sort.freeze
 
 RAW_TEXT_EXTENSIONS = %w[

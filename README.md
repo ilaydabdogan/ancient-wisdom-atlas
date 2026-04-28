@@ -88,6 +88,10 @@ See [docs/first-500-corpus.md](docs/first-500-corpus.md) for the first large col
 
 See [docs/pattern-discovery-logic.md](docs/pattern-discovery-logic.md) for how themes, symbols, motifs, and comparisons should be extracted and scored.
 
+## Similarity Browser
+
+Start with [comparisons/](comparisons/) for evidence-backed cross-cultural comparison pages and the generated [motif occurrence index](comparisons/motif-index.md), which groups extraction records by motif across traditions.
+
 ## Scale-Up Workflow
 
 - [docs/source-prioritization.md](docs/source-prioritization.md): where to acquire first texts and in what order
