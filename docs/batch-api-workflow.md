@@ -346,15 +346,15 @@ ruby scripts/batch_prepare_normalization_suggestion_requests.rb \
   --motifs-per-request 10 \
   --max-output-tokens 12000 \
   --reasoning-effort low \
-  --max-requests-per-shard 500 \
+  --max-requests-per-shard 2 \
   --force
 ```
 
-Use the same generic upload/create/status/download scripts:
+Use the same generic upload/create/status/download scripts. Keep only one active normalization suggestion job at a time unless you have confirmed the current model's enqueued-token limit can handle more:
 
 ```sh
 ruby scripts/batch_upload_inputs.rb --run-id normalization-suggestions-YYYY-MM-DD
-ruby scripts/batch_create_jobs.rb --run-id normalization-suggestions-YYYY-MM-DD
+ruby scripts/batch_create_jobs.rb --run-id normalization-suggestions-YYYY-MM-DD --max-active-jobs 1
 ruby scripts/batch_status.rb --run-id normalization-suggestions-YYYY-MM-DD
 ruby scripts/batch_download_results.rb --run-id normalization-suggestions-YYYY-MM-DD
 ```

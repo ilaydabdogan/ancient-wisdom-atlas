@@ -4,7 +4,7 @@
 require_relative "batch_common"
 
 DEFAULT_MODEL = ENV.fetch("OPENAI_BATCH_MODEL", "gpt-5.2")
-DEFAULT_REASONING_EFFORT = ENV.fetch("OPENAI_BATCH_REASONING_EFFORT", "high")
+DEFAULT_REASONING_EFFORT = ENV.fetch("OPENAI_BATCH_REASONING_EFFORT", "low")
 
 options = {
   model: DEFAULT_MODEL,
@@ -14,11 +14,11 @@ options = {
   normalization_path: "taxonomy/motif-normalization.yml",
   taxonomy_path: "taxonomy/motifs.yml",
   buckets: [],
-  motifs_per_request: 20,
+  motifs_per_request: 10,
   max_input_chars: 120_000,
-  max_output_tokens: 4_000,
+  max_output_tokens: 12_000,
   reasoning_effort: DEFAULT_REASONING_EFFORT,
-  max_requests_per_shard: 1_000,
+  max_requests_per_shard: 2,
   max_bytes_per_shard: 180 * 1024 * 1024,
   force: false
 }
