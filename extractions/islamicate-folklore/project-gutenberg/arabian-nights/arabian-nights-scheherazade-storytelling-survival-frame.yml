@@ -1,0 +1,353 @@
+---
+record_id: extraction.islamicate_folklore.arabian_nights.scheherazade_storytelling_survival_frame
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: "The Arabian Nights: Scheherazade volunteers and secures the dawn reprieve"
+  start: 244
+  end: 435
+  translation: Andrew Lang, The Arabian Nights Entertainments
+  notes: Primary focus falls on lines 244-348 and 410-435; lines 351-409 begin the embedded Merchant and Genius tale that activates the reprieve.
+canonical_text:
+  summary: Scheherazade persuades her father to give her to Schahriar, arranges for Dinarzade to request a story before dawn, and wins repeated postponement of execution by leaving each tale unfinished at daybreak.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: Scheherazade is introduced as the elder daughter of the grand-vizir and is described as learned, beautiful, clever, and courageous.
+    category: attribute
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: She says she is resolved to stop the Sultan's bride-killing practice and save the girls and mothers of the city.
+    category: speech
+    evidence_refs:
+      - ev:2
+  - id: obs:3
+    text: Scheherazade asks her father to let her be the bride, while the grand-vizir protests that the command would force him to kill his own daughter.
+    category: relationship
+    evidence_refs:
+      - ev:3
+  - id: obs:4
+    text: The Sultan accepts the plan but warns the grand-vizir that he must carry out Scheherazade's execution himself or lose his own head.
+    category: speech
+    evidence_refs:
+      - ev:4
+  - id: obs:5
+    text: Scheherazade instructs Dinarzade to wake her before dawn and ask for one of her stories so the people may be delivered from terror.
+    category: speech
+    evidence_refs:
+      - ev:5
+  - id: obs:6
+    text: On the wedding night Scheherazade obtains permission for Dinarzade to sleep in the chamber and waits for the planned request.
+    category: action
+    evidence_refs:
+      - ev:6
+  - id: obs:7
+    text: Dinarzade asks for a story before sunrise, the Sultan permits it, and Scheherazade begins the tale.
+    category: sequence
+    evidence_refs:
+      - ev:6
+  - id: obs:8
+    text: At daybreak Scheherazade stops speaking and implies that the rest of the tale will be more wonderful if she is allowed to live another day.
+    category: sequence
+    evidence_refs:
+      - ev:7
+  - id: obs:9
+    text: Schahriar postpones her death to hear the end, and the same pattern recurs on the following mornings.
+    category: sequence
+    evidence_refs:
+      - ev:8
+      - ev:9
+figures:
+  - id: fig:1
+    name_or_label: Scheherazade
+    description: Learned and courageous vizier's daughter who offers herself as bride and turns storytelling into a survival tactic.
+    role_refs:
+      - role:1
+      - role:2
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:5
+      - ev:6
+      - ev:7
+      - ev:8
+      - ev:9
+  - id: fig:2
+    name_or_label: Dinarzade
+    description: Scheherazade's younger sister who prompts the story before dawn.
+    role_refs:
+      - role:3
+    evidence_refs:
+      - ev:1
+      - ev:5
+      - ev:6
+      - ev:9
+  - id: fig:3
+    name_or_label: Schahriar
+    description: Sultan who has been killing each new bride at dawn and who postpones Scheherazade's death to hear more.
+    role_refs:
+      - role:4
+    evidence_refs:
+      - ev:4
+      - ev:6
+      - ev:7
+      - ev:8
+      - ev:9
+  - id: fig:4
+    name_or_label: grand-vizir
+    description: Scheherazade's father, torn between paternal grief and obedience to the Sultan's command.
+    role_refs:
+      - role:5
+    evidence_refs:
+      - ev:1
+      - ev:3
+      - ev:4
+      - ev:8
+roles:
+  - id: role:1
+    label: self_offered_bride
+    assigned_to:
+      - fig:1
+    basis: Scheherazade knowingly asks to become the Sultan's next wife in order to halt the killings.
+    evidence_refs:
+      - ev:2
+      - ev:3
+  - id: role:2
+    label: storytelling_strategist
+    assigned_to:
+      - fig:1
+    basis: She plans the before-dawn request and uses an unfinished tale to secure another day of life.
+    evidence_refs:
+      - ev:5
+      - ev:6
+      - ev:7
+      - ev:8
+      - ev:9
+  - id: role:3
+    label: dawn_prompter
+    assigned_to:
+      - fig:2
+    basis: Dinarzade's assigned task is to wake Scheherazade before sunrise and ask for a story.
+    evidence_refs:
+      - ev:5
+      - ev:6
+      - ev:9
+  - id: role:4
+    label: execution_king
+    assigned_to:
+      - fig:3
+    basis: Schahriar's routine power is to order each bride killed at dawn, yet he suspends that order to hear the story's end.
+    evidence_refs:
+      - ev:4
+      - ev:7
+      - ev:8
+      - ev:9
+  - id: role:5
+    label: unwilling_executioner_father
+    assigned_to:
+      - fig:4
+    basis: The grand-vizir resists because he would have to kill his own daughter under the Sultan's command.
+    evidence_refs:
+      - ev:3
+      - ev:4
+symbols:
+  - id: sym:1
+    label: before-dawn story request
+    literal_form: Dinarzade's planned appeal for a tale before sunrise.
+    associated_figures:
+      - fig:1
+      - fig:2
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:5
+      - ev:6
+  - id: sym:2
+    label: shared bridal chamber
+    literal_form: The chamber where Scheherazade asks to keep her sister beside her on what seems to be her last night.
+    associated_figures:
+      - fig:1
+      - fig:2
+      - fig:3
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:5
+      - ev:6
+  - id: sym:3
+    label: unfinished tale
+    literal_form: The story suspended at daybreak so that the Sultan wants its continuation.
+    associated_figures:
+      - fig:1
+      - fig:3
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:7
+      - ev:8
+      - ev:9
+scenes:
+  - id: scene:1
+    label: Scheherazade offers herself
+    summary: Scheherazade tells the grand-vizir that she will become the Sultan's bride in order to stop the killings, despite her father's horror.
+    figure_refs:
+      - fig:1
+      - fig:4
+    symbol_refs: []
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+  - id: scene:2
+    label: Sisters plan the dawn request
+    summary: After the Sultan accepts the marriage, Scheherazade arranges for Dinarzade to sleep in the chamber and ask for a story before sunrise.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+      - fig:4
+    symbol_refs:
+      - sym:1
+      - sym:2
+    evidence_refs:
+      - ev:4
+      - ev:5
+      - ev:6
+  - id: scene:3
+    label: Daybreak reprieve begins
+    summary: Scheherazade stops the tale at dawn, and Schahriar lets her live to hear the ending, establishing the repeated reprieve.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+      - fig:4
+    symbol_refs:
+      - sym:1
+      - sym:3
+    evidence_refs:
+      - ev:7
+      - ev:8
+      - ev:9
+candidate_motifs:
+  - id: motif:1
+    label: storytelling_as_survival
+    taxonomy_refs: []
+    basis: Scheherazade explicitly plans and performs narrative suspense so that the Sultan will delay her execution.
+    evidence_refs:
+      - ev:5
+      - ev:6
+      - ev:7
+      - ev:8
+      - ev:9
+    confidence: high
+    cautions: This passage establishes the frame mechanism; the much longer cycle of repeated tales extends beyond the selected lines.
+  - id: motif:2
+    label: voluntary_bride_intercession
+    taxonomy_refs: []
+    basis: Scheherazade knowingly enters the lethal marriage to protect other women in the city.
+    evidence_refs:
+      - ev:2
+      - ev:3
+      - ev:4
+    confidence: high
+    cautions: The scene presents deliberate self-risk and intercession, not ritual sacrifice.
+  - id: motif:3
+    label: dawn_suspense_reprieve
+    taxonomy_refs: []
+    basis: The unfinished tale is timed to the Sultan's dawn departure for council and produces a stay of execution.
+    evidence_refs:
+      - ev:5
+      - ev:7
+      - ev:8
+      - ev:9
+    confidence: high
+    cautions: The label is descriptive and narratological; no fixed taxonomy match is asserted.
+comparison_claims:
+  - id: claim:1
+    claim: This passage is a strong comparison candidate for storytelling-as-survival frames in which suspense directly postpones an execution or death sentence.
+    claim_level: same_function
+    target: cross-cultural storytelling-as-survival and frame-tale reprieve records
+    evidence_refs:
+      - ev:5
+      - ev:6
+      - ev:7
+      - ev:8
+      - ev:9
+    confidence: high
+    limitations: The claim is functional only and does not imply direct borrowing from or into any other narrative corpus.
+  - id: claim:2
+    claim: Scheherazade can be compared with intercessory heroines who knowingly enter danger in order to save a wider community.
+    claim_level: same_function
+    target: self-risking intercessor and voluntary-danger heroine records
+    evidence_refs:
+      - ev:2
+      - ev:3
+      - ev:4
+    confidence: medium
+    limitations: Her intervention works through planned narration and courtly timing rather than combat, miracle, or legal petition.
+evidence:
+  - id: ev:1
+    type: summary
+    locator: lines 244-250
+    quote_or_summary: Scheherazade is introduced as the grand-vizir's elder daughter and is praised for learning, beauty, courage, and intelligence.
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    rights_note: Public-domain source text.
+  - id: ev:2
+    type: summary
+    locator: lines 258-260
+    quote_or_summary: Scheherazade declares that she means to stop the Sultan's practice and deliver girls and mothers from the fate hanging over them.
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    rights_note: Public-domain source text.
+  - id: ev:3
+    type: summary
+    locator: lines 265-290
+    quote_or_summary: She asks to be the Sultan's bride, and the grand-vizir refuses because obedience would require him to kill her himself.
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    rights_note: Public-domain source text.
+  - id: ev:4
+    type: summary
+    locator: lines 301-307
+    quote_or_summary: Schahriar warns the grand-vizir that he must take Scheherazade's life himself or lose his own head.
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    rights_note: Public-domain source text.
+  - id: ev:5
+    type: summary
+    locator: lines 319-328
+    quote_or_summary: Scheherazade instructs Dinarzade to wake her before dawn and ask for a story so that the people may be delivered from terror.
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    rights_note: Public-domain source text.
+  - id: ev:6
+    type: summary
+    locator: lines 331-348
+    quote_or_summary: Scheherazade asks that Dinarzade sleep in the chamber, Dinarzade makes the request before sunrise, and the Sultan permits the storytelling.
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    rights_note: Public-domain source text.
+  - id: ev:7
+    type: summary
+    locator: lines 410-418
+    quote_or_summary: At daybreak Scheherazade stops and says the rest will be even more wonderful if she may live another day to tell it.
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    rights_note: Public-domain source text.
+  - id: ev:8
+    type: summary
+    locator: lines 420-426
+    quote_or_summary: Schahriar decides to wait until tomorrow to kill Scheherazade, and the grand-vizir sees him leave for council without issuing the order.
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    rights_note: Public-domain source text.
+  - id: ev:9
+    type: summary
+    locator: lines 428-435
+    quote_or_summary: The next morning Dinarzade asks for the continuation, the Sultan urges Scheherazade to finish the tale, and the pattern repeats every morning.
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The frame mechanics are explicit in the passage itself, while broader comparative framing remains provisional.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs review for taxonomy alignment and for whether the frame device should be split from longer-cycle records later.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Worker A extraction focused on Scheherazade's storytelling-as-survival frame and the dawn reprieve mechanism.

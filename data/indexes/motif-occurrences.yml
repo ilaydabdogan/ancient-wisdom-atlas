@@ -1,8 +1,8 @@
 ---
 generated_on: '2026-04-27'
 source: extractions
-motif_count: 80
-occurrence_count: 191
+motif_count: 90
+occurrence_count: 218
 motifs:
 - motif_id: wisdom
   label: Wisdom
@@ -12,7 +12,7 @@ motifs:
     celtic_irish: 1
     confucian: 2
     daoist: 2
-    hindu: 7
+    hindu: 9
     islamic: 1
     mesopotamian: 4
     norse: 1
@@ -455,6 +455,58 @@ motifs:
       type: quote
       quote_or_summary: So did Pandu's Son behold All this universe enfold All its
         huge diversity Into one vast shape,
+  - record_id: extraction.mahabharata.bhishma_oath_bound_fall
+    extraction_path: extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+    source_title: Maha-bharata
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: Fall of Bhishma
+    motif_label: dying elder on arrow bed
+    basis: Bhishma's fall onto a bed of arrows immediately converts the slain warrior
+      into a dying counselor whose final voice still carries authority.
+    confidence: medium
+    evidence:
+    - id: ev:5
+      locator: lines 4550-4624
+      type: summary
+      quote_or_summary: In battle Arjuna places Sikhandin in front, Bhishma remembers
+        his vow, drops his arms, and falls as the day declines.
+    - id: ev:6
+      locator: lines 4625-4638
+      type: summary
+      quote_or_summary: Both sides gather in grief, Arjuna's arrows form Bhishma's
+        dying bed, and Bhishma begins his final counsel to Duryodhana.
+  - record_id: extraction.mahabharata.draupadi_council_hall
+    extraction_path: extractions/hindu/project-gutenberg/mahabharata/mahabharata-draupadi-council-hall.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+    source_title: Maha-bharata
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: Draupadi in the Council Hall; Draupadi's Plaint; Insult and Vow
+      of Revenge
+    motif_label: dharma challenged in royal assembly
+    basis: The crisis centers on whether the dice result can legitimately transfer
+      a queen after the king has already lost his own freedom.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: lines 1660-1677
+      type: summary
+      quote_or_summary: Yudhishthira loses wealth, kin, himself, and then Draupadi
+        in the dice game and the Pandavas are reduced to exile.
+    - id: ev:2
+      locator: lines 1693-1718
+      type: summary
+      quote_or_summary: Draupadi asks whether a man who has already become a bondsman
+        can still stake his queen and declares the wager void.
+    - id: ev:5
+      locator: lines 1778-1806
+      type: summary
+      quote_or_summary: Draupadi addresses the elders, asks why no righteous warrior
+        protects a virtuous wife, and calls the scene a shame to Kuru glory.
   - record_id: extraction.upanishads.nachiketas_death_teacher
     extraction_path: extractions/hindu/project-gutenberg/upanishads/upanishads-nachiketas-death-teacher.yml
     source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
@@ -1043,6 +1095,7 @@ motifs:
     hindu: 4
     maya_quiche: 1
     mesopotamian: 1
+    persian: 1
   occurrences:
   - record_id: extraction.numbers.wilderness_wandering_judgment
     extraction_path: extractions/biblical/world-english-bible-classic/numbers/numbers-wilderness-wandering-judgment.yml
@@ -1369,6 +1422,228 @@ motifs:
       type: quote
       quote_or_summary: Eat food, O Enkidu, / The provender of life! / Drink wine,
         the custom of the land!
+  - record_id: extraction.persian.persian_literature_volume_1.rustem_birth_white_elephant
+    extraction_path: extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    source_title: Persian Literature, Volume 1
+    tradition: persian
+    culture: medieval_iranian_later_anthology
+    region: iran_central_asia
+    passage_locator: Birth of Rustem; Simurgh aid, prodigious growth, and the white
+      elephant feat
+    motif_label: first_beast_slaying_as_initiation
+    basis: Rustem's night encounter with the rampaging white elephant functions as
+      an early ordeal that proves his public heroic power.
+    confidence: medium
+    evidence:
+    - id: ev:6
+      locator: lines 3038-3049
+      type: summary
+      quote_or_summary: The white elephant at Sistan gets loose by night, crushes
+        people, and cannot be held back while Rustem forces his way past the guards.
+    - id: ev:7
+      locator: lines 3050-3058
+      type: summary
+      quote_or_summary: Rustem faces the elephant, bends his iron mace with the blow,
+        kills it in the dust, and receives Zal's amazed praise.
+- motif_id: sacrifice
+  label: Sacrifice
+  traditions:
+    jewish_christian: 4
+    celtic_welsh: 1
+    greek: 1
+    hindu: 3
+  occurrences:
+  - record_id: extraction.exodus.passover_plague
+    extraction_path: extractions/biblical/world-english-bible-classic/exodus/exodus-passover-plague.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    source_title: Exodus
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Exodus 12:1-14, 21-31
+    motif_label: sacrifice
+    basis: Candidate motif from literal passage evidence.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Exodus 12:1-14, 21-31
+      type: quote
+      quote_or_summary: The blood shall be to you for a token on the houses where
+        you are... Yahweh struck all the firstborn in the land of Egypt.
+  - record_id: extraction.genesis.sacrifice_covenant
+    extraction_path: extractions/biblical/world-english-bible-classic/genesis/genesis-sacrifice-covenant.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    source_title: Genesis
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Genesis 8:20-22; 9:8-17
+    motif_label: sacrifice
+    basis: Candidate motif from literal passage evidence.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Genesis 8:20-22; 9:8-17
+      type: quote
+      quote_or_summary: Noah built an altar to Yahweh... I establish my covenant with
+        you, and with your offspring after you.
+  - record_id: extraction.leviticus.burnt_offering
+    extraction_path: extractions/biblical/world-english-bible-classic/leviticus/leviticus-burnt-offering.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+    source_title: Leviticus
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Leviticus 1:3-9
+    motif_label: sacrifice
+    basis: Candidate motif from literal passage evidence.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Leviticus 1:3-9
+      type: quote
+      quote_or_summary: If his offering is a burnt offering from the herd... The priest
+        shall burn all of it on the altar.
+  - record_id: extraction.numbers.korah_rebellion_judgment
+    extraction_path: extractions/biblical/world-english-bible-classic/numbers/numbers-korah-rebellion-judgment.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    source_title: Numbers
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Numbers 16:1-50
+    motif_label: priestly_intercession
+    basis: Aaron uses fire and incense to make atonement and stop the plague.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Numbers 16:1-50
+      type: quote
+      quote_or_summary: The earth opened its mouth and swallowed them up... He stood
+        between the dead and the living; and the plague was stayed.
+  - record_id: extraction.celtic_welsh.mabinogion.branwen_cauldron_renovation
+    extraction_path: extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-branwen-cauldron-renovation.yml
+    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    source_title: The Mabinogion
+    tradition: celtic_welsh
+    culture: medieval_welsh_later_translation
+    region: wales
+    passage_locator: Branwen the daughter of Llyr; cauldron origin and battlefield
+      use
+    motif_label: destructive_self_sacrifice_against_magic_object
+    basis: Evnissyen enters the cauldron among the dead and destroys it from within,
+      stopping its use.
+    confidence: medium
+    evidence:
+    - id: ev:6
+      locator: lines 6900-6906
+      type: summary
+      quote_or_summary: Evnissyen sees the imbalance in resurrection, enters the cauldron
+        among the dead, and stretches out until he rends it into four pieces.
+  - record_id: extraction.greek.hesiod_homeric_hymns.theogony_prometheus_fire_theft
+    extraction_path: extractions/greek/project-gutenberg/hesiod-homeric-hymns/theogony-prometheus-fire-theft.yml
+    source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+    source_title: Hesiod, the Homeric Hymns, and Homerica
+    tradition: greek
+    culture: ancient_greek
+    region: aegean_mediterranean
+    passage_locator: Theogony ll. 507-616
+    motif_label: trickster at sacrificial boundary
+    basis: Prometheus uses deceptive food portions in a divine-human dispute that
+      explains altar practice.
+    confidence: high
+    evidence:
+    - id: ev:2
+      locator: Theogony (ll. 507-543)
+      type: quote
+      quote_or_summary: '"For when the gods and mortal men had a dispute at Mecone...
+        Prometheus was forward to cut up a great ox and set portions before them,
+        trying to befool the mind of Zeus."
+
+'
+    - id: ev:3
+      locator: Theogony (ll. 548-558)
+      type: quote
+      quote_or_summary: '"Zeus... saw and failed not to perceive the trick... and
+        because of this the tribes of men upon earth burn white bones to the deathless
+        gods upon fragrant altars."
+
+'
+  - record_id: extraction.mahabharata.bhishma_oath_bound_fall
+    extraction_path: extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+    source_title: Maha-bharata
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: Fall of Bhishma
+    motif_label: oath-bounded defeat
+    basis: Bhishma himself declares the condition under which he will not fight, and
+      that vow becomes the means of his own fall.
+    confidence: high
+    evidence:
+    - id: ev:2
+      locator: lines 4504-4519
+      type: summary
+      quote_or_summary: Bhishma says he will not betray Duryodhana and lists the sorts
+        of foes he will not fight, including one born female.
+    - id: ev:3
+      locator: lines 4520-4530
+      type: summary
+      quote_or_summary: Krishna tells Arjuna there is hope because Sikhandin, once
+        born female, can stand in front and cause Bhishma to leave the fight.
+    - id: ev:5
+      locator: lines 4550-4624
+      type: summary
+      quote_or_summary: In battle Arjuna places Sikhandin in front, Bhishma remembers
+        his vow, drops his arms, and falls as the day declines.
+  - record_id: extraction.mahabharata.bhishma_oath_bound_fall
+    extraction_path: extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+    source_title: Maha-bharata
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: Fall of Bhishma
+    motif_label: filial reluctance before necessary violence
+    basis: Arjuna resists the strategy because Bhishma has been like a father, yet
+      the battle requires him to accept the elder's death.
+    confidence: medium
+    evidence:
+    - id: ev:4
+      locator: lines 4532-4548
+      type: summary
+      quote_or_summary: Arjuna calls the plan shameful because Bhishma has been like
+        a father, and Krishna answers that Bhishma himself has shown the way.
+    - id: ev:6
+      locator: lines 4625-4638
+      type: summary
+      quote_or_summary: Both sides gather in grief, Arjuna's arrows form Bhishma's
+        dying bed, and Bhishma begins his final counsel to Duryodhana.
+  - record_id: extraction.mahabharata.bhishma_oath_bound_fall
+    extraction_path: extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+    source_title: Maha-bharata
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: Fall of Bhishma
+    motif_label: dying elder on arrow bed
+    basis: Bhishma's fall onto a bed of arrows immediately converts the slain warrior
+      into a dying counselor whose final voice still carries authority.
+    confidence: medium
+    evidence:
+    - id: ev:5
+      locator: lines 4550-4624
+      type: summary
+      quote_or_summary: In battle Arjuna places Sikhandin in front, Bhishma remembers
+        his vow, drops his arms, and falls as the day declines.
+    - id: ev:6
+      locator: lines 4625-4638
+      type: summary
+      quote_or_summary: Both sides gather in grief, Arjuna's arrows form Bhishma's
+        dying bed, and Bhishma begins his final counsel to Duryodhana.
 - motif_id: death_rebirth
   label: Death And Rebirth
   traditions:
@@ -1569,10 +1844,184 @@ motifs:
       type: quote
       quote_or_summary: When the gods created mankind, / Death they imposed on mankind;
         / Life they kept in their power.
+- motif_id: sacred_exchange
+  label: Sacred Exchange
+  traditions:
+    jewish_christian: 4
+    hindu: 2
+    persian: 2
+  occurrences:
+  - record_id: extraction.deuteronomy.blessing_curse_choice
+    extraction_path: extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-blessing-curse-choice.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    source_title: Deuteronomy
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Deuteronomy 30:15-20
+    motif_label: sacred_exchange
+    basis: The passage links human obedience and attachment to Yahweh with life and
+      blessing.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Deuteronomy 30:15-20
+      type: quote
+      quote_or_summary: I have set before you today life and prosperity, and death
+        and evil... choose life, that you may live.
+  - record_id: extraction.deuteronomy.covenant_renewal_moab
+    extraction_path: extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-covenant-renewal-moab.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    source_title: Deuteronomy
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Deuteronomy 29:1-15
+    motif_label: sacred_exchange
+    basis: 'The passage describes reciprocal covenant identity: Israel as Yahweh''s
+      people and Yahweh as their God.'
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Deuteronomy 29:1-15
+      type: quote
+      quote_or_summary: These are the words of the covenant... All of you stand today
+        in the presence of Yahweh your God.
+  - record_id: extraction.deuteronomy.memory_teaching_witness
+    extraction_path: extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-memory-teaching-witness.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    source_title: Deuteronomy
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Deuteronomy 31:9-13; 31:19-22; 31:24-30
+    motif_label: sacred_exchange
+    basis: Law and song function as obligations and witnesses in the divine-human
+      covenant relationship.
+    confidence: low
+    evidence:
+    - id: ev:1
+      locator: Deuteronomy 31:9-13; 31:19-22; 31:24-30
+      type: quote
+      quote_or_summary: You shall read this law before all Israel in their hearing...
+        this song will testify before them as a witness.
+  - record_id: extraction.genesis.sacrifice_covenant
+    extraction_path: extractions/biblical/world-english-bible-classic/genesis/genesis-sacrifice-covenant.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    source_title: Genesis
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Genesis 8:20-22; 9:8-17
+    motif_label: sacred_exchange
+    basis: Candidate motif from literal passage evidence.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Genesis 8:20-22; 9:8-17
+      type: quote
+      quote_or_summary: Noah built an altar to Yahweh... I establish my covenant with
+        you, and with your offspring after you.
+  - record_id: extraction.mahabharata.draupadi_council_hall
+    extraction_path: extractions/hindu/project-gutenberg/mahabharata/mahabharata-draupadi-council-hall.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+    source_title: Maha-bharata
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: Draupadi in the Council Hall; Draupadi's Plaint; Insult and Vow
+      of Revenge
+    motif_label: corrupt sacred exchange
+    basis: The dice game acts like a binding transfer of persons and status, but Draupadi
+      rejects it as invalid once the gambler has lost himself.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: lines 1660-1677
+      type: summary
+      quote_or_summary: Yudhishthira loses wealth, kin, himself, and then Draupadi
+        in the dice game and the Pandavas are reduced to exile.
+    - id: ev:2
+      locator: lines 1693-1718
+      type: summary
+      quote_or_summary: Draupadi asks whether a man who has already become a bondsman
+        can still stake his queen and declares the wager void.
+  - record_id: extraction.upanishads.nachiketas_death_teacher
+    extraction_path: extractions/hindu/project-gutenberg/upanishads/upanishads-nachiketas-death-teacher.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+    source_title: The Upanishads
+    tradition: hindu
+    culture: sanskrit_vedic_later_translation
+    region: south_asia
+    passage_locator: Katha-Upanishad, Part First VII-Part Second IV
+    motif_label: sacred guest exchange
+    basis: Yama grants three boons because the Brahmana guest has remained three nights
+      without food.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Katha-Upanishad, Part First VII
+      type: quote
+      quote_or_summary: Nachiketas went to Death's abode and waited without food or
+        drink for three days.
+    - id: ev:2
+      locator: Katha-Upanishad, Part First IX
+      type: quote
+      quote_or_summary: Yama says Nachiketas remained three nights without food and
+        may choose three boons.
+  - record_id: extraction.persian.persian_literature_volume_1.rustem_birth_white_elephant
+    extraction_path: extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    source_title: Persian Literature, Volume 1
+    tradition: persian
+    culture: medieval_iranian_later_anthology
+    region: iran_central_asia
+    passage_locator: Birth of Rustem; Simurgh aid, prodigious growth, and the white
+      elephant feat
+    motif_label: sacred_birth_aided_by_guardian
+    basis: A dangerous birth is resolved through the summoned Simurgh, which foretells
+      the child and enables a successful delivery.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: lines 2971-2977
+      type: quote
+      quote_or_summary: '"A child will be born of mighty power, who will become the
+        wonder of the world."'
+    - id: ev:2
+      locator: lines 2979-2984
+      type: summary
+      quote_or_summary: The Simurgh's advice saves Rudabeh, and Rustem is born so
+        prodigious that he looks a year old on his first day.
+  - record_id: extraction.persian.persian_literature_volume_1.zal_alberz_simurgh_feather
+    extraction_path: extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    source_title: Persian Literature, Volume 1
+    tradition: persian
+    culture: medieval_iranian_later_anthology
+    region: iran_central_asia
+    passage_locator: Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and
+      return
+    motif_label: rescue_feather_token
+    basis: The Simurgh leaves a feather that materializes an ongoing bond and can
+      call down aid at moments of danger.
+    confidence: high
+    evidence:
+    - id: ev:6
+      locator: lines 2494-2506
+      type: summary
+      quote_or_summary: The Simurgh tells Zal it has nursed him, named him Dustn,
+        taught him language and understanding, and now must return him to Sam.
+    - id: ev:7
+      locator: lines 2506-2519
+      type: summary
+      quote_or_summary: The Simurgh gives Zal a feather to burn whenever danger comes,
+        then presents him to Sam as worthy of throne and diadem.
 - motif_id: covenant
   label: Covenant
   traditions:
     jewish_christian: 6
+    hindu: 1
   occurrences:
   - record_id: extraction.deuteronomy.blessing_curse_choice
     extraction_path: extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-blessing-curse-choice.yml
@@ -1679,129 +2128,34 @@ motifs:
       type: quote
       quote_or_summary: Noah built an altar to Yahweh... I establish my covenant with
         you, and with your offspring after you.
-- motif_id: sacrifice
-  label: Sacrifice
-  traditions:
-    jewish_christian: 4
-    celtic_welsh: 1
-    greek: 1
-  occurrences:
-  - record_id: extraction.exodus.passover_plague
-    extraction_path: extractions/biblical/world-english-bible-classic/exodus/exodus-passover-plague.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
-    source_title: Exodus
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Exodus 12:1-14, 21-31
-    motif_label: sacrifice
-    basis: Candidate motif from literal passage evidence.
-    confidence: medium
-    evidence:
-    - id: ev:1
-      locator: Exodus 12:1-14, 21-31
-      type: quote
-      quote_or_summary: The blood shall be to you for a token on the houses where
-        you are... Yahweh struck all the firstborn in the land of Egypt.
-  - record_id: extraction.genesis.sacrifice_covenant
-    extraction_path: extractions/biblical/world-english-bible-classic/genesis/genesis-sacrifice-covenant.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
-    source_title: Genesis
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Genesis 8:20-22; 9:8-17
-    motif_label: sacrifice
-    basis: Candidate motif from literal passage evidence.
-    confidence: medium
-    evidence:
-    - id: ev:1
-      locator: Genesis 8:20-22; 9:8-17
-      type: quote
-      quote_or_summary: Noah built an altar to Yahweh... I establish my covenant with
-        you, and with your offspring after you.
-  - record_id: extraction.leviticus.burnt_offering
-    extraction_path: extractions/biblical/world-english-bible-classic/leviticus/leviticus-burnt-offering.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
-    source_title: Leviticus
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Leviticus 1:3-9
-    motif_label: sacrifice
-    basis: Candidate motif from literal passage evidence.
-    confidence: medium
-    evidence:
-    - id: ev:1
-      locator: Leviticus 1:3-9
-      type: quote
-      quote_or_summary: If his offering is a burnt offering from the herd... The priest
-        shall burn all of it on the altar.
-  - record_id: extraction.numbers.korah_rebellion_judgment
-    extraction_path: extractions/biblical/world-english-bible-classic/numbers/numbers-korah-rebellion-judgment.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
-    source_title: Numbers
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Numbers 16:1-50
-    motif_label: priestly_intercession
-    basis: Aaron uses fire and incense to make atonement and stop the plague.
-    confidence: medium
-    evidence:
-    - id: ev:1
-      locator: Numbers 16:1-50
-      type: quote
-      quote_or_summary: The earth opened its mouth and swallowed them up... He stood
-        between the dead and the living; and the plague was stayed.
-  - record_id: extraction.celtic_welsh.mabinogion.branwen_cauldron_renovation
-    extraction_path: extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-branwen-cauldron-renovation.yml
-    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
-    source_title: The Mabinogion
-    tradition: celtic_welsh
-    culture: medieval_welsh_later_translation
-    region: wales
-    passage_locator: Branwen the daughter of Llyr; cauldron origin and battlefield
-      use
-    motif_label: destructive_self_sacrifice_against_magic_object
-    basis: Evnissyen enters the cauldron among the dead and destroys it from within,
-      stopping its use.
-    confidence: medium
-    evidence:
-    - id: ev:6
-      locator: lines 6900-6906
-      type: summary
-      quote_or_summary: Evnissyen sees the imbalance in resurrection, enters the cauldron
-        among the dead, and stretches out until he rends it into four pieces.
-  - record_id: extraction.greek.hesiod_homeric_hymns.theogony_prometheus_fire_theft
-    extraction_path: extractions/greek/project-gutenberg/hesiod-homeric-hymns/theogony-prometheus-fire-theft.yml
-    source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
-    source_title: Hesiod, the Homeric Hymns, and Homerica
-    tradition: greek
-    culture: ancient_greek
-    region: aegean_mediterranean
-    passage_locator: Theogony ll. 507-616
-    motif_label: trickster at sacrificial boundary
-    basis: Prometheus uses deceptive food portions in a divine-human dispute that
-      explains altar practice.
+  - record_id: extraction.mahabharata.bhishma_oath_bound_fall
+    extraction_path: extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+    source_title: Maha-bharata
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: Fall of Bhishma
+    motif_label: oath-bounded defeat
+    basis: Bhishma himself declares the condition under which he will not fight, and
+      that vow becomes the means of his own fall.
     confidence: high
     evidence:
     - id: ev:2
-      locator: Theogony (ll. 507-543)
-      type: quote
-      quote_or_summary: '"For when the gods and mortal men had a dispute at Mecone...
-        Prometheus was forward to cut up a great ox and set portions before them,
-        trying to befool the mind of Zeus."
-
-'
+      locator: lines 4504-4519
+      type: summary
+      quote_or_summary: Bhishma says he will not betray Duryodhana and lists the sorts
+        of foes he will not fight, including one born female.
     - id: ev:3
-      locator: Theogony (ll. 548-558)
-      type: quote
-      quote_or_summary: '"Zeus... saw and failed not to perceive the trick... and
-        because of this the tribes of men upon earth burn white bones to the deathless
-        gods upon fragrant altars."
-
-'
+      locator: lines 4520-4530
+      type: summary
+      quote_or_summary: Krishna tells Arjuna there is hope because Sikhandin, once
+        born female, can stand in front and cause Bhishma to leave the fight.
+    - id: ev:5
+      locator: lines 4550-4624
+      type: summary
+      quote_or_summary: In battle Arjuna places Sikhandin in front, Bhishma remembers
+        his vow, drops his arms, and falls as the day declines.
 - motif_id: chaos
   label: Chaos
   traditions:
@@ -1810,6 +2164,7 @@ motifs:
     greek: 1
     maya_quiche: 1
     norse: 1
+    persian: 1
   occurrences:
   - record_id: extraction.genesis.creation_light
     extraction_path: extractions/biblical/world-english-bible-classic/genesis/genesis-creation-light.yml
@@ -1929,106 +2284,30 @@ motifs:
       type: quote
       quote_or_summary: Earth had not been, nor heaven above, / But a yawning gap,
         and grass nowhere.
-- motif_id: sacred_exchange
-  label: Sacred Exchange
-  traditions:
-    jewish_christian: 4
-    hindu: 1
-  occurrences:
-  - record_id: extraction.deuteronomy.blessing_curse_choice
-    extraction_path: extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-blessing-curse-choice.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
-    source_title: Deuteronomy
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Deuteronomy 30:15-20
-    motif_label: sacred_exchange
-    basis: The passage links human obedience and attachment to Yahweh with life and
-      blessing.
+  - record_id: extraction.persian.persian_literature_volume_1.rustem_birth_white_elephant
+    extraction_path: extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    source_title: Persian Literature, Volume 1
+    tradition: persian
+    culture: medieval_iranian_later_anthology
+    region: iran_central_asia
+    passage_locator: Birth of Rustem; Simurgh aid, prodigious growth, and the white
+      elephant feat
+    motif_label: first_beast_slaying_as_initiation
+    basis: Rustem's night encounter with the rampaging white elephant functions as
+      an early ordeal that proves his public heroic power.
     confidence: medium
     evidence:
-    - id: ev:1
-      locator: Deuteronomy 30:15-20
-      type: quote
-      quote_or_summary: I have set before you today life and prosperity, and death
-        and evil... choose life, that you may live.
-  - record_id: extraction.deuteronomy.covenant_renewal_moab
-    extraction_path: extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-covenant-renewal-moab.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
-    source_title: Deuteronomy
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Deuteronomy 29:1-15
-    motif_label: sacred_exchange
-    basis: 'The passage describes reciprocal covenant identity: Israel as Yahweh''s
-      people and Yahweh as their God.'
-    confidence: medium
-    evidence:
-    - id: ev:1
-      locator: Deuteronomy 29:1-15
-      type: quote
-      quote_or_summary: These are the words of the covenant... All of you stand today
-        in the presence of Yahweh your God.
-  - record_id: extraction.deuteronomy.memory_teaching_witness
-    extraction_path: extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-memory-teaching-witness.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
-    source_title: Deuteronomy
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Deuteronomy 31:9-13; 31:19-22; 31:24-30
-    motif_label: sacred_exchange
-    basis: Law and song function as obligations and witnesses in the divine-human
-      covenant relationship.
-    confidence: low
-    evidence:
-    - id: ev:1
-      locator: Deuteronomy 31:9-13; 31:19-22; 31:24-30
-      type: quote
-      quote_or_summary: You shall read this law before all Israel in their hearing...
-        this song will testify before them as a witness.
-  - record_id: extraction.genesis.sacrifice_covenant
-    extraction_path: extractions/biblical/world-english-bible-classic/genesis/genesis-sacrifice-covenant.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
-    source_title: Genesis
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Genesis 8:20-22; 9:8-17
-    motif_label: sacred_exchange
-    basis: Candidate motif from literal passage evidence.
-    confidence: medium
-    evidence:
-    - id: ev:1
-      locator: Genesis 8:20-22; 9:8-17
-      type: quote
-      quote_or_summary: Noah built an altar to Yahweh... I establish my covenant with
-        you, and with your offspring after you.
-  - record_id: extraction.upanishads.nachiketas_death_teacher
-    extraction_path: extractions/hindu/project-gutenberg/upanishads/upanishads-nachiketas-death-teacher.yml
-    source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
-    source_title: The Upanishads
-    tradition: hindu
-    culture: sanskrit_vedic_later_translation
-    region: south_asia
-    passage_locator: Katha-Upanishad, Part First VII-Part Second IV
-    motif_label: sacred guest exchange
-    basis: Yama grants three boons because the Brahmana guest has remained three nights
-      without food.
-    confidence: medium
-    evidence:
-    - id: ev:1
-      locator: Katha-Upanishad, Part First VII
-      type: quote
-      quote_or_summary: Nachiketas went to Death's abode and waited without food or
-        drink for three days.
-    - id: ev:2
-      locator: Katha-Upanishad, Part First IX
-      type: quote
-      quote_or_summary: Yama says Nachiketas remained three nights without food and
-        may choose three boons.
+    - id: ev:6
+      locator: lines 3038-3049
+      type: summary
+      quote_or_summary: The white elephant at Sistan gets loose by night, crushes
+        people, and cannot be held back while Rustem forces his way past the guards.
+    - id: ev:7
+      locator: lines 3050-3058
+      type: summary
+      quote_or_summary: Rustem faces the elephant, bends his iron mace with the blow,
+        kills it in the dust, and receives Zal's amazed praise.
 - motif_id: world_center
   label: World Center
   traditions:
@@ -2204,6 +2483,117 @@ motifs:
       type: summary
       quote_or_summary: Chapter XCVIII provides a boat and ladder; Chapters XCIX-CIII
         describe the magical boat whose parts' mystic names must be known.
+- motif_id: departure
+  label: Departure
+  traditions:
+    jewish_christian: 1
+    celtic_irish: 1
+    norse: 1
+    persian: 1
+  occurrences:
+  - record_id: extraction.numbers.wilderness_wandering_judgment
+    extraction_path: extractions/biblical/world-english-bible-classic/numbers/numbers-wilderness-wandering-judgment.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    source_title: Numbers
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Numbers 14:1-35
+    motif_label: wilderness_wandering
+    basis: The passage sends the community back into the wilderness for a prolonged
+      journey.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Numbers 14:1-35
+      type: quote
+      quote_or_summary: Only don't rebel against Yahweh... Your children shall be
+        wanderers in the wilderness forty years.
+  - record_id: extraction.celtic_irish.gods_and_fighting_men.oisin_country_of_young
+    extraction_path: extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-oisin-country-of-young.yml
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+    source_title: Gods and Fighting Men
+    tradition: celtic_irish
+    culture: medieval_irish_later_retelling
+    region: ireland
+    passage_locator: 'Book Eleven, Chapter I: Oisin''s Story; journey to and return
+      from the Country of the Young'
+    motif_label: departure_to_transformed_realm
+    basis: Oisin leaves Ireland and enters a realm of altered time, marriage, feasting,
+      and changed status.
+    confidence: medium
+    evidence:
+    - id: ev:2
+      locator: lines 14381-14385
+      type: summary
+      quote_or_summary: Oisin says he and Niamh turned westward over the sea, with
+        the sea going away before them and filling in behind.
+    - id: ev:5
+      locator: lines 14408-14424
+      type: summary
+      quote_or_summary: The country has blossoms, smooth plains, a grand dun, shining
+        palaces, armed men, young girls, and royal figures.
+    - id: ev:6
+      locator: lines 14426-14435
+      type: summary
+      quote_or_summary: The king welcomes Oisin, promises long-lasting life and youth
+        forever, and identifies Niamh as his daughter.
+  - record_id: extraction.norse.poetic_edda.vafthruthnismol_odin_wisdom_contest
+    extraction_path: extractions/norse/project-gutenberg/poetic-edda/vafthruthnismol-odin-wisdom-contest.yml
+    source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+    source_title: The Poetic Edda
+    tradition: norse
+    culture: old_norse_medieval_icelandic
+    region: scandinavia_north_atlantic
+    passage_locator: Vafthruthnismol 1-8
+    motif_label: departure_to_liminal_opponent
+    basis: The god leaves home and enters the hall of a powerful giant wisdom-opponent.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Vafthruthnismol 1
+      type: quote
+      quote_or_summary: In wisdom old with the giant wise / Myself would I seek to
+        match.
+    - id: ev:3
+      locator: Vafthruthnismol 5-6
+      type: summary
+      quote_or_summary: Othin goes to test the giant's wisdom, enters the hall, and
+        greets Vafthruthnir.
+  - record_id: extraction.persian.persian_literature_volume_1.zal_alberz_simurgh_feather
+    extraction_path: extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    source_title: Persian Literature, Volume 1
+    tradition: persian
+    culture: medieval_iranian_later_anthology
+    region: iran_central_asia
+    passage_locator: Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and
+      return
+    motif_label: mountain_fosterage_and_return
+    basis: Zal is left on Alberz, raised in the mountain refuge, and returned from
+      it with changed status and future promise.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: lines 2430-2438
+      type: summary
+      quote_or_summary: Sam leaves the mocked child on Alberz, but the Simurgh pities
+        him on the rock and carries him to its own habitation.
+    - id: ev:5
+      locator: lines 2485-2492
+      type: summary
+      quote_or_summary: Sam goes to Alberz in person, weeps and prays for forgiveness,
+        and asks for the forsaken child to be restored to him.
+    - id: ev:6
+      locator: lines 2494-2506
+      type: summary
+      quote_or_summary: The Simurgh tells Zal it has nursed him, named him Dustn,
+        taught him language and understanding, and now must return him to Sam.
+    - id: ev:7
+      locator: lines 2506-2519
+      type: summary
+      quote_or_summary: The Simurgh gives Zal a feather to burn whenever danger comes,
+        then presents him to Sam as worthy of throne and diadem.
 - motif_id: duality
   label: Duality
   traditions:
@@ -2546,82 +2936,6 @@ motifs:
       type: quote
       quote_or_summary: Eat food, O Enkidu, / The provender of life! / Drink wine,
         the custom of the land!
-- motif_id: departure
-  label: Departure
-  traditions:
-    jewish_christian: 1
-    celtic_irish: 1
-    norse: 1
-  occurrences:
-  - record_id: extraction.numbers.wilderness_wandering_judgment
-    extraction_path: extractions/biblical/world-english-bible-classic/numbers/numbers-wilderness-wandering-judgment.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
-    source_title: Numbers
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Numbers 14:1-35
-    motif_label: wilderness_wandering
-    basis: The passage sends the community back into the wilderness for a prolonged
-      journey.
-    confidence: medium
-    evidence:
-    - id: ev:1
-      locator: Numbers 14:1-35
-      type: quote
-      quote_or_summary: Only don't rebel against Yahweh... Your children shall be
-        wanderers in the wilderness forty years.
-  - record_id: extraction.celtic_irish.gods_and_fighting_men.oisin_country_of_young
-    extraction_path: extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-oisin-country-of-young.yml
-    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
-    source_title: Gods and Fighting Men
-    tradition: celtic_irish
-    culture: medieval_irish_later_retelling
-    region: ireland
-    passage_locator: 'Book Eleven, Chapter I: Oisin''s Story; journey to and return
-      from the Country of the Young'
-    motif_label: departure_to_transformed_realm
-    basis: Oisin leaves Ireland and enters a realm of altered time, marriage, feasting,
-      and changed status.
-    confidence: medium
-    evidence:
-    - id: ev:2
-      locator: lines 14381-14385
-      type: summary
-      quote_or_summary: Oisin says he and Niamh turned westward over the sea, with
-        the sea going away before them and filling in behind.
-    - id: ev:5
-      locator: lines 14408-14424
-      type: summary
-      quote_or_summary: The country has blossoms, smooth plains, a grand dun, shining
-        palaces, armed men, young girls, and royal figures.
-    - id: ev:6
-      locator: lines 14426-14435
-      type: summary
-      quote_or_summary: The king welcomes Oisin, promises long-lasting life and youth
-        forever, and identifies Niamh as his daughter.
-  - record_id: extraction.norse.poetic_edda.vafthruthnismol_odin_wisdom_contest
-    extraction_path: extractions/norse/project-gutenberg/poetic-edda/vafthruthnismol-odin-wisdom-contest.yml
-    source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
-    source_title: The Poetic Edda
-    tradition: norse
-    culture: old_norse_medieval_icelandic
-    region: scandinavia_north_atlantic
-    passage_locator: Vafthruthnismol 1-8
-    motif_label: departure_to_liminal_opponent
-    basis: The god leaves home and enters the hall of a powerful giant wisdom-opponent.
-    confidence: medium
-    evidence:
-    - id: ev:1
-      locator: Vafthruthnismol 1
-      type: quote
-      quote_or_summary: In wisdom old with the giant wise / Myself would I seek to
-        match.
-    - id: ev:3
-      locator: Vafthruthnismol 5-6
-      type: summary
-      quote_or_summary: Othin goes to test the giant's wisdom, enters the hall, and
-        greets Vafthruthnir.
 - motif_id: hero_descent
   label: Descent Into The Underworld
   traditions:
@@ -2702,6 +3016,254 @@ motifs:
       type: summary
       quote_or_summary: Hun-Ahpu is beheaded by Camazotz in the House of Bats, but
         the brothers later emerge uninjured from all the ordeals.
+- motif_id: miraculous_child
+  label: Miraculous Child
+  traditions:
+    persian: 3
+  occurrences:
+  - record_id: extraction.persian.persian_literature_volume_1.rustem_birth_white_elephant
+    extraction_path: extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    source_title: Persian Literature, Volume 1
+    tradition: persian
+    culture: medieval_iranian_later_anthology
+    region: iran_central_asia
+    passage_locator: Birth of Rustem; Simurgh aid, prodigious growth, and the white
+      elephant feat
+    motif_label: sacred_birth_aided_by_guardian
+    basis: A dangerous birth is resolved through the summoned Simurgh, which foretells
+      the child and enables a successful delivery.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: lines 2971-2977
+      type: quote
+      quote_or_summary: '"A child will be born of mighty power, who will become the
+        wonder of the world."'
+    - id: ev:2
+      locator: lines 2979-2984
+      type: summary
+      quote_or_summary: The Simurgh's advice saves Rudabeh, and Rustem is born so
+        prodigious that he looks a year old on his first day.
+  - record_id: extraction.persian.persian_literature_volume_1.rustem_birth_white_elephant
+    extraction_path: extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    source_title: Persian Literature, Volume 1
+    tradition: persian
+    culture: medieval_iranian_later_anthology
+    region: iran_central_asia
+    passage_locator: Birth of Rustem; Simurgh aid, prodigious growth, and the white
+      elephant feat
+    motif_label: precocious_hero_growth
+    basis: Rustem is unnaturally large from birth, grows with great speed, and speaks
+      as an already armed warrior.
+    confidence: high
+    evidence:
+    - id: ev:2
+      locator: lines 2979-2984
+      type: summary
+      quote_or_summary: The Simurgh's advice saves Rudabeh, and Rustem is born so
+        prodigious that he looks a year old on his first day.
+    - id: ev:3
+      locator: lines 2982-2991
+      type: summary
+      quote_or_summary: Rustem requires ten nurses, eats like a man at five, may ride
+        in his third year, and by eight matches the heroes of the time.
+    - id: ev:4
+      locator: lines 2983-2988
+      type: summary
+      quote_or_summary: A silk likeness shows Rustem armed on horseback, and his birth
+        is celebrated with feasting and gifts to the poor.
+    - id: ev:5
+      locator: lines 2996-3018
+      type: summary
+      quote_or_summary: Rustem appears crowned on an elephant and declares that he
+        longs for helmet, javelin, and battle rather than music or ease.
+  - record_id: extraction.persian.persian_literature_volume_1.zal_alberz_simurgh_feather
+    extraction_path: extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    source_title: Persian Literature, Volume 1
+    tradition: persian
+    culture: medieval_iranian_later_anthology
+    region: iran_central_asia
+    passage_locator: Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and
+      return
+    motif_label: exposed_child_protected_by_wonder_bird
+    basis: A child marked by an unusual bodily sign is rejected by humans but rescued
+      and nourished by a powerful nonhuman fosterer.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: lines 2430-2438
+      type: summary
+      quote_or_summary: Sam leaves the mocked child on Alberz, but the Simurgh pities
+        him on the rock and carries him to its own habitation.
+    - id: ev:2
+      locator: lines 2444-2453
+      type: quote
+      quote_or_summary: '"To thee this mortal I resign, / Protected by the power divine."'
+    - id: ev:3
+      locator: lines 2455-2456
+      type: summary
+      quote_or_summary: The Simurgh's young are also kind to the infant, who is nourished
+        and protected for several years.
+- motif_id: return
+  label: Return
+  traditions:
+    celtic_irish: 1
+    celtic_welsh: 1
+    persian: 1
+  occurrences:
+  - record_id: extraction.celtic_irish.gods_and_fighting_men.oisin_country_of_young
+    extraction_path: extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-oisin-country-of-young.yml
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+    source_title: Gods and Fighting Men
+    tradition: celtic_irish
+    culture: medieval_irish_later_retelling
+    region: ireland
+    passage_locator: 'Book Eleven, Chapter I: Oisin''s Story; journey to and return
+      from the Country of the Young'
+    motif_label: return_from_otherworld_with_time_shift
+    basis: Oisin returns from the Country of the Young to a changed Ireland and immediately
+      ages when he violates the return condition.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: lines 14366-14373
+      type: summary
+      quote_or_summary: Oisin returns long after Niamh took him away; the time seemed
+        short to him, but he is later found old and fallen from the white horse.
+    - id: ev:7
+      locator: lines 14454-14472
+      type: summary
+      quote_or_summary: Niamh allows Oisin to return but warns that touching the ground
+        will prevent return and make him old, blind, and withered.
+    - id: ev:8
+      locator: lines 14533-14544
+      type: summary
+      quote_or_summary: Oisin forgets the warning, dismounts by the stone trough,
+        the years come upon him, and the horse leaves him.
+  - record_id: extraction.celtic_welsh.mabinogion.pwyll_annwvyn_exchange
+    extraction_path: extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-pwyll-annwvyn-exchange.yml
+    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    source_title: The Mabinogion
+    tradition: celtic_welsh
+    culture: medieval_welsh_later_translation
+    region: wales
+    passage_locator: Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn
+    motif_label: return_with_new_status
+    basis: Pwyll returns from Annwvyn after ruling and gains the title Chief of Annwvyn.
+    confidence: medium
+    evidence:
+    - id: ev:8
+      locator: lines 6010-6047
+      type: summary
+      quote_or_summary: Arawn restores Pwyll's form, Pwyll returns to Dyved, friendship
+        is strengthened, and Pwyll is called Chief of Annwvyn.
+  - record_id: extraction.persian.persian_literature_volume_1.zal_alberz_simurgh_feather
+    extraction_path: extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    source_title: Persian Literature, Volume 1
+    tradition: persian
+    culture: medieval_iranian_later_anthology
+    region: iran_central_asia
+    passage_locator: Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and
+      return
+    motif_label: mountain_fosterage_and_return
+    basis: Zal is left on Alberz, raised in the mountain refuge, and returned from
+      it with changed status and future promise.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: lines 2430-2438
+      type: summary
+      quote_or_summary: Sam leaves the mocked child on Alberz, but the Simurgh pities
+        him on the rock and carries him to its own habitation.
+    - id: ev:5
+      locator: lines 2485-2492
+      type: summary
+      quote_or_summary: Sam goes to Alberz in person, weeps and prays for forgiveness,
+        and asks for the forsaken child to be restored to him.
+    - id: ev:6
+      locator: lines 2494-2506
+      type: summary
+      quote_or_summary: The Simurgh tells Zal it has nursed him, named him Dustn,
+        taught him language and understanding, and now must return him to Sam.
+    - id: ev:7
+      locator: lines 2506-2519
+      type: summary
+      quote_or_summary: The Simurgh gives Zal a feather to burn whenever danger comes,
+        then presents him to Sam as worthy of throne and diadem.
+- motif_id: royal_legitimacy
+  label: Royal Legitimacy
+  traditions:
+    jewish_christian: 1
+    celtic_welsh: 1
+    hindu: 1
+  occurrences:
+  - record_id: extraction.numbers.balaam_donkey_oracle
+    extraction_path: extractions/biblical/world-english-bible-classic/numbers/numbers-balaam-donkey-oracle.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    source_title: Numbers
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Numbers 22:21-35; 23:1-12; 24:1-17
+    motif_label: royal_legitimacy
+    basis: The oracle uses star and scepter language for Jacob and Israel.
+    confidence: low
+    evidence:
+    - id: ev:3
+      locator: Numbers 24:1-17
+      type: quote
+      quote_or_summary: The Spirit of God came on him... A star will come out of Jacob.
+        A scepter will rise out of Israel.
+  - record_id: extraction.celtic_welsh.mabinogion.pwyll_annwvyn_exchange
+    extraction_path: extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-pwyll-annwvyn-exchange.yml
+    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    source_title: The Mabinogion
+    tradition: celtic_welsh
+    culture: medieval_welsh_later_translation
+    region: wales
+    passage_locator: Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn
+    motif_label: return_with_new_status
+    basis: Pwyll returns from Annwvyn after ruling and gains the title Chief of Annwvyn.
+    confidence: medium
+    evidence:
+    - id: ev:8
+      locator: lines 6010-6047
+      type: summary
+      quote_or_summary: Arawn restores Pwyll's form, Pwyll returns to Dyved, friendship
+        is strengthened, and Pwyll is called Chief of Annwvyn.
+  - record_id: extraction.mahabharata.draupadi_council_hall
+    extraction_path: extractions/hindu/project-gutenberg/mahabharata/mahabharata-draupadi-council-hall.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+    source_title: Maha-bharata
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: Draupadi in the Council Hall; Draupadi's Plaint; Insult and Vow
+      of Revenge
+    motif_label: dharma challenged in royal assembly
+    basis: The crisis centers on whether the dice result can legitimately transfer
+      a queen after the king has already lost his own freedom.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: lines 1660-1677
+      type: summary
+      quote_or_summary: Yudhishthira loses wealth, kin, himself, and then Draupadi
+        in the dice game and the Pandavas are reduced to exile.
+    - id: ev:2
+      locator: lines 1693-1718
+      type: summary
+      quote_or_summary: Draupadi asks whether a man who has already become a bondsman
+        can still stake his queen and declares the wager void.
+    - id: ev:5
+      locator: lines 1778-1806
+      type: summary
+      quote_or_summary: Draupadi addresses the elders, asks why no righteous warrior
+        protects a virtuous wife, and calls the scene a shame to Kuru glory.
 - motif_id: trickster_boundary
   label: Trickster At The Boundary
   traditions:
@@ -2867,6 +3429,63 @@ motifs:
       type: quote
       quote_or_summary: If his offering is a burnt offering from the herd... The priest
         shall burn all of it on the altar.
+- motif_id: cosmic_mountain
+  label: Cosmic Mountain
+  traditions:
+    jewish_christian: 1
+    persian: 1
+  occurrences:
+  - record_id: extraction.deuteronomy.sacred_mountain_law
+    extraction_path: extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-sacred-mountain-law.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    source_title: Deuteronomy
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Deuteronomy 4:9-14
+    motif_label: cosmic_mountain
+    basis: Horeb is the setting for divine speech and covenant declaration.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Deuteronomy 4:9-14
+      type: quote
+      quote_or_summary: You came near and stood under the mountain. The mountain burned
+        with fire... He declared to you his covenant.
+  - record_id: extraction.persian.persian_literature_volume_1.zal_alberz_simurgh_feather
+    extraction_path: extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    source_title: Persian Literature, Volume 1
+    tradition: persian
+    culture: medieval_iranian_later_anthology
+    region: iran_central_asia
+    passage_locator: Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and
+      return
+    motif_label: mountain_fosterage_and_return
+    basis: Zal is left on Alberz, raised in the mountain refuge, and returned from
+      it with changed status and future promise.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: lines 2430-2438
+      type: summary
+      quote_or_summary: Sam leaves the mocked child on Alberz, but the Simurgh pities
+        him on the rock and carries him to its own habitation.
+    - id: ev:5
+      locator: lines 2485-2492
+      type: summary
+      quote_or_summary: Sam goes to Alberz in person, weeps and prays for forgiveness,
+        and asks for the forsaken child to be restored to him.
+    - id: ev:6
+      locator: lines 2494-2506
+      type: summary
+      quote_or_summary: The Simurgh tells Zal it has nursed him, named him Dustn,
+        taught him language and understanding, and now must return him to Sam.
+    - id: ev:7
+      locator: lines 2506-2519
+      type: summary
+      quote_or_summary: The Simurgh gives Zal a feather to burn whenever danger comes,
+        then presents him to Sam as worthy of throne and diadem.
 - motif_id: divine_intervention
   label: divine intervention
   traditions:
@@ -3022,98 +3641,6 @@ motifs:
         she lay with Heaven and bare deep-swirling Oceanus..."
 
 '
-- motif_id: return
-  label: Return
-  traditions:
-    celtic_irish: 1
-    celtic_welsh: 1
-  occurrences:
-  - record_id: extraction.celtic_irish.gods_and_fighting_men.oisin_country_of_young
-    extraction_path: extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-oisin-country-of-young.yml
-    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
-    source_title: Gods and Fighting Men
-    tradition: celtic_irish
-    culture: medieval_irish_later_retelling
-    region: ireland
-    passage_locator: 'Book Eleven, Chapter I: Oisin''s Story; journey to and return
-      from the Country of the Young'
-    motif_label: return_from_otherworld_with_time_shift
-    basis: Oisin returns from the Country of the Young to a changed Ireland and immediately
-      ages when he violates the return condition.
-    confidence: high
-    evidence:
-    - id: ev:1
-      locator: lines 14366-14373
-      type: summary
-      quote_or_summary: Oisin returns long after Niamh took him away; the time seemed
-        short to him, but he is later found old and fallen from the white horse.
-    - id: ev:7
-      locator: lines 14454-14472
-      type: summary
-      quote_or_summary: Niamh allows Oisin to return but warns that touching the ground
-        will prevent return and make him old, blind, and withered.
-    - id: ev:8
-      locator: lines 14533-14544
-      type: summary
-      quote_or_summary: Oisin forgets the warning, dismounts by the stone trough,
-        the years come upon him, and the horse leaves him.
-  - record_id: extraction.celtic_welsh.mabinogion.pwyll_annwvyn_exchange
-    extraction_path: extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-pwyll-annwvyn-exchange.yml
-    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
-    source_title: The Mabinogion
-    tradition: celtic_welsh
-    culture: medieval_welsh_later_translation
-    region: wales
-    passage_locator: Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn
-    motif_label: return_with_new_status
-    basis: Pwyll returns from Annwvyn after ruling and gains the title Chief of Annwvyn.
-    confidence: medium
-    evidence:
-    - id: ev:8
-      locator: lines 6010-6047
-      type: summary
-      quote_or_summary: Arawn restores Pwyll's form, Pwyll returns to Dyved, friendship
-        is strengthened, and Pwyll is called Chief of Annwvyn.
-- motif_id: royal_legitimacy
-  label: Royal Legitimacy
-  traditions:
-    jewish_christian: 1
-    celtic_welsh: 1
-  occurrences:
-  - record_id: extraction.numbers.balaam_donkey_oracle
-    extraction_path: extractions/biblical/world-english-bible-classic/numbers/numbers-balaam-donkey-oracle.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
-    source_title: Numbers
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Numbers 22:21-35; 23:1-12; 24:1-17
-    motif_label: royal_legitimacy
-    basis: The oracle uses star and scepter language for Jacob and Israel.
-    confidence: low
-    evidence:
-    - id: ev:3
-      locator: Numbers 24:1-17
-      type: quote
-      quote_or_summary: The Spirit of God came on him... A star will come out of Jacob.
-        A scepter will rise out of Israel.
-  - record_id: extraction.celtic_welsh.mabinogion.pwyll_annwvyn_exchange
-    extraction_path: extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-pwyll-annwvyn-exchange.yml
-    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
-    source_title: The Mabinogion
-    tradition: celtic_welsh
-    culture: medieval_welsh_later_translation
-    region: wales
-    passage_locator: Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn
-    motif_label: return_with_new_status
-    basis: Pwyll returns from Annwvyn after ruling and gains the title Chief of Annwvyn.
-    confidence: medium
-    evidence:
-    - id: ev:8
-      locator: lines 6010-6047
-      type: summary
-      quote_or_summary: Arawn restores Pwyll's form, Pwyll returns to Dyved, friendship
-        is strengthened, and Pwyll is called Chief of Annwvyn.
 - motif_id: sacred_fire
   label: sacred fire
   traditions:
@@ -3419,28 +3946,6 @@ motifs:
       type: quote
       quote_or_summary: The cloud covered the tabernacle... At the commandment of
         Yahweh they encamped, and at the commandment of Yahweh they traveled.
-- motif_id: cosmic_mountain
-  label: Cosmic Mountain
-  traditions:
-    jewish_christian: 1
-  occurrences:
-  - record_id: extraction.deuteronomy.sacred_mountain_law
-    extraction_path: extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-sacred-mountain-law.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
-    source_title: Deuteronomy
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Deuteronomy 4:9-14
-    motif_label: cosmic_mountain
-    basis: Horeb is the setting for divine speech and covenant declaration.
-    confidence: medium
-    evidence:
-    - id: ev:1
-      locator: Deuteronomy 4:9-14
-      type: quote
-      quote_or_summary: You came near and stood under the mountain. The mountain burned
-        with fire... He declared to you his covenant.
 - motif_id: cosmic_origin
   label: cosmic origin
   traditions:
@@ -3491,6 +3996,46 @@ motifs:
       type: quote
       quote_or_summary: On that day shall she tell out her tidings, Because thy Lord
         shall have inspired her.
+- motif_id: dawn_suspense_reprieve
+  label: dawn suspense reprieve
+  traditions:
+    islamicate_folklore: 1
+  occurrences:
+  - record_id: extraction.islamicate_folklore.arabian_nights.scheherazade_storytelling_survival_frame
+    extraction_path: extractions/islamicate-folklore/project-gutenberg/arabian-nights/arabian-nights-scheherazade-storytelling-survival-frame.yml
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    source_title: The Arabian Nights Entertainments
+    tradition: islamicate_folklore
+    culture: arabic_persian_indian_folklore_later_english_edition
+    region: west_asia_north_africa_south_asia
+    passage_locator: 'The Arabian Nights: Scheherazade volunteers and secures the
+      dawn reprieve'
+    motif_label: dawn_suspense_reprieve
+    basis: The unfinished tale is timed to the Sultan's dawn departure for council
+      and produces a stay of execution.
+    confidence: high
+    evidence:
+    - id: ev:5
+      locator: lines 319-328
+      type: summary
+      quote_or_summary: Scheherazade instructs Dinarzade to wake her before dawn and
+        ask for a story so that the people may be delivered from terror.
+    - id: ev:7
+      locator: lines 410-418
+      type: summary
+      quote_or_summary: At daybreak Scheherazade stops and says the rest will be even
+        more wonderful if she may live another day to tell it.
+    - id: ev:8
+      locator: lines 420-426
+      type: summary
+      quote_or_summary: Schahriar decides to wait until tomorrow to kill Scheherazade,
+        and the grand-vizir sees him leave for council without issuing the order.
+    - id: ev:9
+      locator: lines 428-435
+      type: summary
+      quote_or_summary: The next morning Dinarzade asks for the continuation, the
+        Sultan urges Scheherazade to finish the tale, and the pattern repeats every
+        morning.
 - motif_id: death_in_battle
   label: death in battle
   traditions:
@@ -3540,6 +4085,39 @@ motifs:
       type: quote
       quote_or_summary: Yahweh's angel appeared to him in a flame of fire out of the
         middle of a bush... God said to Moses, "I AM WHO I AM."
+- motif_id: divine_parent_child
+  label: Divine Parent And Holy Child
+  traditions:
+    persian: 1
+  occurrences:
+  - record_id: extraction.persian.persian_literature_volume_1.zal_alberz_simurgh_feather
+    extraction_path: extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    source_title: Persian Literature, Volume 1
+    tradition: persian
+    culture: medieval_iranian_later_anthology
+    region: iran_central_asia
+    passage_locator: Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and
+      return
+    motif_label: exposed_child_protected_by_wonder_bird
+    basis: A child marked by an unusual bodily sign is rejected by humans but rescued
+      and nourished by a powerful nonhuman fosterer.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: lines 2430-2438
+      type: summary
+      quote_or_summary: Sam leaves the mocked child on Alberz, but the Simurgh pities
+        him on the rock and carries him to its own habitation.
+    - id: ev:2
+      locator: lines 2444-2453
+      type: quote
+      quote_or_summary: '"To thee this mortal I resign, / Protected by the power divine."'
+    - id: ev:3
+      locator: lines 2455-2456
+      type: summary
+      quote_or_summary: The Simurgh's young are also kind to the infant, who is nourished
+        and protected for several years.
 - motif_id: divine_race_arrival
   label: divine race arrival
   traditions:
@@ -3831,6 +4409,36 @@ motifs:
       type: quote
       quote_or_summary: The land shall keep a Sabbath to Yahweh... proclaim liberty
         throughout the land to all its inhabitants.
+- motif_id: liberator_threatened_by_captive
+  label: liberator threatened by captive
+  traditions:
+    islamicate_folklore: 1
+  occurrences:
+  - record_id: extraction.islamicate_folklore.arabian_nights.fisherman_genius_vessel_trick
+    extraction_path: extractions/islamicate-folklore/project-gutenberg/arabian-nights/arabian-nights-fisherman-genius-vessel-trick.yml
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    source_title: The Arabian Nights Entertainments
+    tradition: islamicate_folklore
+    culture: arabic_persian_indian_folklore_later_english_edition
+    region: west_asia_north_africa_south_asia
+    passage_locator: 'The Story of the Fisherman: sealed jar, murderous genius, and
+      return to the vessel'
+    motif_label: liberator_threatened_by_captive
+    basis: The fisherman frees the genius, but the spirit's vow turns the act of rescue
+      into a death sentence.
+    confidence: high
+    evidence:
+    - id: ev:4
+      locator: lines 821-837
+      type: summary
+      quote_or_summary: The genius first addresses the king of the genii, then tells
+        the fisherman he will kill him and allow only the choice of death's manner.
+    - id: ev:5
+      locator: lines 844-859
+      type: summary
+      quote_or_summary: The genius says that royal punishment sealed him in the vessel,
+        that centuries passed without rescue, and that anger finally turned promised
+        rewards into a vow to kill his liberator.
 - motif_id: magical_animal_boundary
   label: magical animal boundary
   traditions:
@@ -4263,6 +4871,35 @@ motifs:
       type: quote
       quote_or_summary: The land shall keep a Sabbath to Yahweh... proclaim liberty
         throughout the land to all its inhabitants.
+- motif_id: sacred_birth
+  label: Sacred Birth
+  traditions:
+    persian: 1
+  occurrences:
+  - record_id: extraction.persian.persian_literature_volume_1.rustem_birth_white_elephant
+    extraction_path: extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    source_title: Persian Literature, Volume 1
+    tradition: persian
+    culture: medieval_iranian_later_anthology
+    region: iran_central_asia
+    passage_locator: Birth of Rustem; Simurgh aid, prodigious growth, and the white
+      elephant feat
+    motif_label: sacred_birth_aided_by_guardian
+    basis: A dangerous birth is resolved through the summoned Simurgh, which foretells
+      the child and enables a successful delivery.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: lines 2971-2977
+      type: quote
+      quote_or_summary: '"A child will be born of mighty power, who will become the
+        wonder of the world."'
+    - id: ev:2
+      locator: lines 2979-2984
+      type: summary
+      quote_or_summary: The Simurgh's advice saves Rudabeh, and Rustem is born so
+        prodigious that he looks a year old on his first day.
 - motif_id: sacred_cauldron
   label: sacred cauldron
   traditions:
@@ -4380,6 +5017,47 @@ motifs:
       type: quote
       quote_or_summary: Aaron shall cast lots for the two goats... The goat shall
         carry all their iniquities on himself to a solitary land.
+- motif_id: sealed_spirit_vessel
+  label: sealed spirit vessel
+  traditions:
+    islamicate_folklore: 1
+  occurrences:
+  - record_id: extraction.islamicate_folklore.arabian_nights.fisherman_genius_vessel_trick
+    extraction_path: extractions/islamicate-folklore/project-gutenberg/arabian-nights/arabian-nights-fisherman-genius-vessel-trick.yml
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    source_title: The Arabian Nights Entertainments
+    tradition: islamicate_folklore
+    culture: arabic_persian_indian_folklore_later_english_edition
+    region: west_asia_north_africa_south_asia
+    passage_locator: 'The Story of the Fisherman: sealed jar, murderous genius, and
+      return to the vessel'
+    motif_label: sealed_spirit_vessel
+    basis: A supernatural being is confined in a lead-sealed vessel under a royal
+      seal and released only when a human opens it.
+    confidence: high
+    evidence:
+    - id: ev:3
+      locator: lines 801-817
+      type: summary
+      quote_or_summary: The pot is sealed with lead; when opened, it releases smoke
+        that rises, spreads over sea and shore, and condenses into a giant genius.
+    - id: ev:5
+      locator: lines 844-859
+      type: summary
+      quote_or_summary: The genius says that royal punishment sealed him in the vessel,
+        that centuries passed without rescue, and that anger finally turned promised
+        rewards into a vow to kill his liberator.
+    - id: ev:8
+      locator: lines 885-892
+      type: summary
+      quote_or_summary: The fisherman shuts the lead cover on the vase and threatens
+        to cast it into the sea again and warn future fishermen.
+    - id: ev:9
+      locator: lines 894-903
+      type: summary
+      quote_or_summary: Unable to escape because of the enchantment, the genius tries
+        cunning and promises repayment, but the fisherman refuses and introduces another
+        cautionary story.
 - motif_id: sibling_pair
   label: Sibling Pair
   traditions:
@@ -4436,6 +5114,51 @@ motifs:
       type: quote
       quote_or_summary: You shall be holy; for I, Yahweh your God, am holy... you
         shall love your neighbor as yourself.
+- motif_id: storytelling_as_survival
+  label: storytelling as survival
+  traditions:
+    islamicate_folklore: 1
+  occurrences:
+  - record_id: extraction.islamicate_folklore.arabian_nights.scheherazade_storytelling_survival_frame
+    extraction_path: extractions/islamicate-folklore/project-gutenberg/arabian-nights/arabian-nights-scheherazade-storytelling-survival-frame.yml
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    source_title: The Arabian Nights Entertainments
+    tradition: islamicate_folklore
+    culture: arabic_persian_indian_folklore_later_english_edition
+    region: west_asia_north_africa_south_asia
+    passage_locator: 'The Arabian Nights: Scheherazade volunteers and secures the
+      dawn reprieve'
+    motif_label: storytelling_as_survival
+    basis: Scheherazade explicitly plans and performs narrative suspense so that the
+      Sultan will delay her execution.
+    confidence: high
+    evidence:
+    - id: ev:5
+      locator: lines 319-328
+      type: summary
+      quote_or_summary: Scheherazade instructs Dinarzade to wake her before dawn and
+        ask for a story so that the people may be delivered from terror.
+    - id: ev:6
+      locator: lines 331-348
+      type: summary
+      quote_or_summary: Scheherazade asks that Dinarzade sleep in the chamber, Dinarzade
+        makes the request before sunrise, and the Sultan permits the storytelling.
+    - id: ev:7
+      locator: lines 410-418
+      type: summary
+      quote_or_summary: At daybreak Scheherazade stops and says the rest will be even
+        more wonderful if she may live another day to tell it.
+    - id: ev:8
+      locator: lines 420-426
+      type: summary
+      quote_or_summary: Schahriar decides to wait until tomorrow to kill Scheherazade,
+        and the grand-vizir sees him leave for council without issuing the order.
+    - id: ev:9
+      locator: lines 428-435
+      type: summary
+      quote_or_summary: The next morning Dinarzade asks for the continuation, the
+        Sultan urges Scheherazade to finish the tale, and the pattern repeats every
+        morning.
 - motif_id: survivor_pair
   label: Survivor Pair
   traditions:
@@ -4512,6 +5235,74 @@ motifs:
       type: quote
       quote_or_summary: So did Pandu's Son behold All this universe enfold All its
         huge diversity Into one vast shape,
+- motif_id: violated_queen_as_trigger_of_vengeance
+  label: violated queen as trigger of vengeance
+  traditions:
+    hindu: 1
+  occurrences:
+  - record_id: extraction.mahabharata.draupadi_council_hall
+    extraction_path: extractions/hindu/project-gutenberg/mahabharata/mahabharata-draupadi-council-hall.yml
+    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+    source_title: Maha-bharata
+    tradition: hindu
+    culture: sanskrit_epic_later_translation
+    region: south_asia
+    passage_locator: Draupadi in the Council Hall; Draupadi's Plaint; Insult and Vow
+      of Revenge
+    motif_label: violated queen as trigger of vengeance
+    basis: Draupadi's public humiliation becomes the emotional and ethical spur toward
+      later revenge.
+    confidence: high
+    evidence:
+    - id: ev:4
+      locator: lines 1741-1772
+      type: summary
+      quote_or_summary: Duhsasana catches Draupadi by her consecrated hair and drags
+        her in slipping garments into the hall despite her pleas.
+    - id: ev:5
+      locator: lines 1778-1806
+      type: summary
+      quote_or_summary: Draupadi addresses the elders, asks why no righteous warrior
+        protects a virtuous wife, and calls the scene a shame to Kuru glory.
+    - id: ev:6
+      locator: lines 1812-1825
+      type: summary
+      quote_or_summary: Draupadi's glances inflame the Pandavas toward vengeance,
+        and Bhishma, Drona, and Vidura are described as condemning the outrage.
+- motif_id: voluntary_bride_intercession
+  label: voluntary bride intercession
+  traditions:
+    islamicate_folklore: 1
+  occurrences:
+  - record_id: extraction.islamicate_folklore.arabian_nights.scheherazade_storytelling_survival_frame
+    extraction_path: extractions/islamicate-folklore/project-gutenberg/arabian-nights/arabian-nights-scheherazade-storytelling-survival-frame.yml
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    source_title: The Arabian Nights Entertainments
+    tradition: islamicate_folklore
+    culture: arabic_persian_indian_folklore_later_english_edition
+    region: west_asia_north_africa_south_asia
+    passage_locator: 'The Arabian Nights: Scheherazade volunteers and secures the
+      dawn reprieve'
+    motif_label: voluntary_bride_intercession
+    basis: Scheherazade knowingly enters the lethal marriage to protect other women
+      in the city.
+    confidence: high
+    evidence:
+    - id: ev:2
+      locator: lines 258-260
+      type: summary
+      quote_or_summary: Scheherazade declares that she means to stop the Sultan's
+        practice and deliver girls and mothers from the fate hanging over them.
+    - id: ev:3
+      locator: lines 265-290
+      type: summary
+      quote_or_summary: She asks to be the Sultan's bride, and the grand-vizir refuses
+        because obedience would require him to kill her himself.
+    - id: ev:4
+      locator: lines 301-307
+      type: summary
+      quote_or_summary: Schahriar warns the grand-vizir that he must take Scheherazade's
+        life himself or lose his own head.
 - motif_id: warrior_duty_under_crisis
   label: warrior duty under crisis
   traditions:
@@ -4592,6 +5383,46 @@ motifs:
       quote_or_summary: Lift up your rod, and stretch out your hand over the sea and
         divide it... the waters were a wall to them on their right hand and on their
         left.
+- motif_id: wit_overwhelms_supernatural_force
+  label: wit overwhelms supernatural force
+  traditions:
+    islamicate_folklore: 1
+  occurrences:
+  - record_id: extraction.islamicate_folklore.arabian_nights.fisherman_genius_vessel_trick
+    extraction_path: extractions/islamicate-folklore/project-gutenberg/arabian-nights/arabian-nights-fisherman-genius-vessel-trick.yml
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    source_title: The Arabian Nights Entertainments
+    tradition: islamicate_folklore
+    culture: arabic_persian_indian_folklore_later_english_edition
+    region: west_asia_north_africa_south_asia
+    passage_locator: 'The Story of the Fisherman: sealed jar, murderous genius, and
+      return to the vessel'
+    motif_label: wit_overwhelms_supernatural_force
+    basis: The fisherman survives by verbal cunning, making the stronger being prove
+      a claim and thereby trapping itself.
+    confidence: high
+    evidence:
+    - id: ev:6
+      locator: lines 867-876
+      type: summary
+      quote_or_summary: The fisherman devises a plot and claims he cannot believe
+        so huge a being ever fit inside the vase.
+    - id: ev:7
+      locator: lines 878-883
+      type: summary
+      quote_or_summary: The genius turns again to smoke and goes back into the vase
+        until a voice calls out from inside.
+    - id: ev:8
+      locator: lines 885-892
+      type: summary
+      quote_or_summary: The fisherman shuts the lead cover on the vase and threatens
+        to cast it into the sea again and warn future fishermen.
+    - id: ev:9
+      locator: lines 894-903
+      type: summary
+      quote_or_summary: Unable to escape because of the enchantment, the genius tries
+        cunning and promises repayment, but the fisherman refuses and introduces another
+        cautionary story.
 - motif_id: world_egg
   label: world egg
   traditions:

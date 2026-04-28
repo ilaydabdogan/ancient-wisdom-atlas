@@ -1,0 +1,362 @@
+---
+record_id: extraction.persian.persian_literature_volume_1.rustem_birth_white_elephant
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: "Birth of Rustem; Simurgh aid, prodigious growth, and the white elephant feat"
+  start: 2971
+  end: 3058
+  translation: James Atkinson, Shah Nameh in Persian Literature, Volume 1
+  notes: Line numbers refer to the repository markdown source.
+canonical_text:
+  summary: During Rudabeh's dangerous labor, Zal burns the Simurgh's feather and the bird appears to guide the birth of Rustem. The child shows prodigious size and speed of growth, speaks like a born warrior, and proves his force by killing the escaped white elephant with a single blow.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: Zal burns the Simurgh's feather during Rudabeh's distress, and the bird appears out of sudden darkness to predict a mighty child.
+    category: invocation
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: The Simurgh gives advice that is followed exactly, and Rudabeh is delivered from danger.
+    category: healing
+    evidence_refs:
+      - ev:2
+  - id: obs:3
+    text: Rustem is prodigious from birth, looking a year old on his first day and needing the milk of ten nurses.
+    category: birth
+    evidence_refs:
+      - ev:2
+      - ev:3
+  - id: obs:4
+    text: News of Rustem's birth is celebrated with a silk likeness of him armed on horseback, public feasting, and almsgiving.
+    category: recognition
+    evidence_refs:
+      - ev:4
+  - id: obs:5
+    text: Rustem grows at extraordinary speed, eating like a man at five, riding very young, and equaling heroes in his eighth year.
+    category: growth
+    evidence_refs:
+      - ev:3
+  - id: obs:6
+    text: Rustem appears already regal and martial, riding an elephant with a crown and telling his elders that he longs for helmet, javelin, and battle.
+    category: speech
+    evidence_refs:
+      - ev:5
+  - id: obs:7
+    text: The white elephant at Sistan breaks loose by night and tramples people to death.
+    category: threat
+    evidence_refs:
+      - ev:6
+  - id: obs:8
+    text: Rustem forces his way out, confronts the elephant alone, bends his iron mace with the blow, and kills the beast in one strike.
+    category: action
+    evidence_refs:
+      - ev:7
+figures:
+  - id: fig:1
+    name_or_label: Rustem
+    description: Prodigious child whose Simurgh-aided birth, rapid growth, and elephant-slaying mark him as a future champion.
+    role_refs:
+      - role:1
+      - role:2
+      - role:3
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+      - ev:4
+      - ev:5
+      - ev:7
+  - id: fig:2
+    name_or_label: Zal (Zl)
+    description: Father who invokes the Simurgh in the birth crisis and later receives proof of Rustem's unmatched strength.
+    role_refs:
+      - role:4
+    evidence_refs:
+      - ev:1
+      - ev:7
+  - id: fig:3
+    name_or_label: Rudabeh (Rdbeh)
+    description: Mother endangered in labor until the Simurgh's instructions bring safe delivery.
+    role_refs:
+      - role:5
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: fig:4
+    name_or_label: Simurgh (Smrgh)
+    description: Guardian bird that answers the feather summons, predicts Rustem's greatness, and guides the birth.
+    role_refs:
+      - role:6
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: fig:5
+    name_or_label: white elephant
+    description: Royal elephant whose nocturnal rampage becomes Rustem's early proving ordeal.
+    role_refs:
+      - role:7
+    evidence_refs:
+      - ev:6
+      - ev:7
+roles:
+  - id: role:1
+    label: miraculous_child
+    assigned_to:
+      - fig:1
+    basis: Rustem is announced before birth, born prodigiously large, and marked by extraordinary bodily signs.
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+  - id: role:2
+    label: precocious_hero
+    assigned_to:
+      - fig:1
+    basis: Rustem grows with unnatural speed and speaks as if already equipped for battle.
+    evidence_refs:
+      - ev:3
+      - ev:5
+  - id: role:3
+    label: beast_slayer
+    assigned_to:
+      - fig:1
+    basis: Rustem kills the escaped white elephant with a single blow of his mace.
+    evidence_refs:
+      - ev:6
+      - ev:7
+  - id: role:4
+    label: father_who_invokes_helper
+    assigned_to:
+      - fig:2
+    basis: Zal calls the Simurgh by burning the feather during Rudabeh's dangerous labor.
+    evidence_refs:
+      - ev:1
+  - id: role:5
+    label: imperiled_mother
+    assigned_to:
+      - fig:3
+    basis: Rudabeh's labor threatens her life until the Simurgh's advice is followed.
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: role:6
+    label: guardian_birth_helper
+    assigned_to:
+      - fig:4
+    basis: The Simurgh responds to the feather summons, foretells the child, and instructs the successful delivery.
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: role:7
+    label: rampaging_beast
+    assigned_to:
+      - fig:5
+    basis: The white elephant breaks loose, crushes people, and becomes the target of Rustem's first famous feat.
+    evidence_refs:
+      - ev:6
+      - ev:7
+symbols:
+  - id: sym:1
+    label: rescue feather
+    literal_form: the Simurgh's feather burned to summon aid during Rudabeh's labor
+    associated_figures:
+      - fig:2
+      - fig:4
+    taxonomy_refs:
+      - sacred_exchange
+    evidence_refs:
+      - ev:1
+  - id: sym:2
+    label: prodigious infant body
+    literal_form: newborn who looks a year old and requires ten nurses
+    associated_figures:
+      - fig:1
+    taxonomy_refs:
+      - miraculous_child
+    evidence_refs:
+      - ev:2
+      - ev:3
+  - id: sym:3
+    label: silk warrior likeness
+    literal_form: likeness of Rustem worked in silk, shown on horseback and armed like a warrior
+    associated_figures:
+      - fig:1
+      - fig:2
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:4
+  - id: sym:4
+    label: white elephant
+    literal_form: royal white elephant whose escape turns it into a force of public danger
+    associated_figures:
+      - fig:1
+      - fig:5
+    taxonomy_refs:
+      - chaos
+    evidence_refs:
+      - ev:6
+      - ev:7
+  - id: sym:5
+    label: iron mace
+    literal_form: mace bent almost double by Rustem's killing blow
+    associated_figures:
+      - fig:1
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:7
+scenes:
+  - id: scene:1
+    label: Simurgh-aided birth of Rustem
+    summary: Zal burns the rescue feather, the Simurgh appears with prophecy and instructions, and Rudabeh is delivered of an extraordinary child.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+      - fig:4
+    symbol_refs:
+      - sym:1
+      - sym:2
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: scene:2
+    label: Signs of precocious heroism
+    summary: Rustem's size, appetite, speed of growth, warrior image, and martial speech all announce a hero already larger than ordinary childhood.
+    figure_refs:
+      - fig:1
+      - fig:2
+    symbol_refs:
+      - sym:2
+      - sym:3
+    evidence_refs:
+      - ev:3
+      - ev:4
+      - ev:5
+  - id: scene:3
+    label: Night combat with the white elephant
+    summary: When the white elephant breaks loose in Sistan, Rustem breaks out past the guards and kills the beast with one crushing blow.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:5
+    symbol_refs:
+      - sym:4
+      - sym:5
+    evidence_refs:
+      - ev:6
+      - ev:7
+candidate_motifs:
+  - id: motif:1
+    label: sacred_birth_aided_by_guardian
+    taxonomy_refs:
+      - sacred_birth
+      - miraculous_child
+      - sacred_exchange
+    basis: A dangerous birth is resolved through the summoned Simurgh, which foretells the child and enables a successful delivery.
+    evidence_refs:
+      - ev:1
+      - ev:2
+    confidence: high
+    cautions: The taxonomy does not distinguish magical or surgical delivery, and the helper is a wonder bird rather than a named birth deity.
+  - id: motif:2
+    label: precocious_hero_growth
+    taxonomy_refs:
+      - miraculous_child
+    basis: Rustem is unnaturally large from birth, grows with great speed, and speaks as an already armed warrior.
+    evidence_refs:
+      - ev:2
+      - ev:3
+      - ev:4
+      - ev:5
+    confidence: high
+    cautions: The signs indicate heroic vocation and bodily excess, not formal enthronement or divine sonship.
+  - id: motif:3
+    label: first_beast_slaying_as_initiation
+    taxonomy_refs:
+      - initiation
+      - chaos
+    basis: Rustem's night encounter with the rampaging white elephant functions as an early ordeal that proves his public heroic power.
+    evidence_refs:
+      - ev:6
+      - ev:7
+    confidence: medium
+    cautions: The elephant is a royal beast gone berserk, not an explicitly demonic monster, so the chaos tag is functional rather than explicit.
+comparison_claims:
+  - id: claim:1
+    claim: This passage can be compared with other sacred-birth traditions in which a threatened mother, prophecy, and extraordinary infant signs announce a future champion.
+    claim_level: same_motif
+    target: taxonomy/motifs.yml#sacred_birth
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+    confidence: medium
+    limitations: The comparison is typological only; the passage remains specific to the Simurgh's aid and Shah Nameh genealogy.
+  - id: claim:2
+    claim: Rustem's elephant killing fits a widespread first-feat pattern in which a young hero proves strength by destroying a beast that endangers the community.
+    claim_level: same_function
+    target: cross-cultural youthful hero first-feat and beast-slaying records
+    evidence_refs:
+      - ev:5
+      - ev:6
+      - ev:7
+    confidence: medium
+    limitations: The animal is an escaped elephant rather than a named monster, so the comparison concerns narrative function more than exact creature type.
+evidence:
+  - id: ev:1
+    type: quote
+    locator: "lines 2971-2977"
+    quote_or_summary: "\"A child will be born of mighty power, who will become the wonder of the world.\""
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    rights_note: Public-domain source text.
+  - id: ev:2
+    type: summary
+    locator: "lines 2979-2984"
+    quote_or_summary: The Simurgh's advice saves Rudabeh, and Rustem is born so prodigious that he looks a year old on his first day.
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    rights_note: Public-domain source text.
+  - id: ev:3
+    type: summary
+    locator: "lines 2982-2991"
+    quote_or_summary: Rustem requires ten nurses, eats like a man at five, may ride in his third year, and by eight matches the heroes of the time.
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    rights_note: Public-domain source text.
+  - id: ev:4
+    type: summary
+    locator: "lines 2983-2988"
+    quote_or_summary: A silk likeness shows Rustem armed on horseback, and his birth is celebrated with feasting and gifts to the poor.
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    rights_note: Public-domain source text.
+  - id: ev:5
+    type: summary
+    locator: "lines 2996-3018"
+    quote_or_summary: Rustem appears crowned on an elephant and declares that he longs for helmet, javelin, and battle rather than music or ease.
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    rights_note: Public-domain source text.
+  - id: ev:6
+    type: summary
+    locator: "lines 3038-3049"
+    quote_or_summary: The white elephant at Sistan gets loose by night, crushes people, and cannot be held back while Rustem forces his way past the guards.
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    rights_note: Public-domain source text.
+  - id: ev:7
+    type: summary
+    locator: "lines 3050-3058"
+    quote_or_summary: Rustem faces the elephant, bends his iron mace with the blow, kills it in the dust, and receives Zal's amazed praise.
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The Simurgh-assisted birth, prodigious growth, martial signs, and elephant feat are explicit; broader first-feat comparisons remain interpretive.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs review for the functional use of chaos and initiation tags in the elephant episode.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Worker B extraction focused on sacred birth, precocious heroic growth, and Rustem's first beast-slaying feat.

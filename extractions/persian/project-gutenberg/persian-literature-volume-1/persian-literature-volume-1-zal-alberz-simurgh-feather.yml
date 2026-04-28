@@ -1,0 +1,319 @@
+---
+record_id: extraction.persian.persian_literature_volume_1.zal_alberz_simurgh_feather
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: "Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and return"
+  start: 2430
+  end: 2519
+  translation: James Atkinson, Shah Nameh in Persian Literature, Volume 1
+  notes: Line numbers refer to the repository markdown source.
+canonical_text:
+  summary: Public scorn over Zal's white hair leads Sam to expose the infant on Mount Alberz, where the Simurgh pities and rears him. Dreams then rebuke Sam into repentance, and the bird restores Zal with a feather that can summon rescue in future danger.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: Sam abandons the infant Zal on Mount Alberz because public mockery treats the child's white hair as monstrous and inauspicious.
+    category: action
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: The Simurgh finds the crying child on the hard rock and carries him to its own habitation instead of devouring him.
+    category: sequence
+    evidence_refs:
+      - ev:1
+  - id: obs:3
+    text: A supernatural voice tells the Simurgh to foster the mortal because a world champion will spring from his line.
+    category: prophecy
+    evidence_refs:
+      - ev:2
+  - id: obs:4
+    text: The Simurgh's young also show kindness to Zal while he is nourished and protected for several years.
+    category: relationship
+    evidence_refs:
+      - ev:3
+  - id: obs:5
+    text: Sam dreams twice, learns that Zal lives, and hears rebuke that white hair is a gift from Heaven rather than a crime.
+    category: dream
+    evidence_refs:
+      - ev:4
+  - id: obs:6
+    text: Sam climbs Alberz, prays for forgiveness, and asks for his injured son to be restored to his sight.
+    category: prayer
+    evidence_refs:
+      - ev:5
+  - id: obs:7
+    text: Before parting, the Simurgh says it has named Zal Dustn, taught him language and understanding, and must now restore him to Sam.
+    category: speech
+    evidence_refs:
+      - ev:6
+  - id: obs:8
+    text: The Simurgh gives Zal a feather to burn in danger and then carries him back to his father.
+    category: gift
+    evidence_refs:
+      - ev:7
+figures:
+  - id: fig:1
+    name_or_label: Zal (Zl)
+    description: White-haired child exposed on Alberz, fostered by the Simurgh, and restored to his human lineage with a rescue token.
+    role_refs:
+      - role:1
+      - role:2
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:4
+      - ev:6
+      - ev:7
+  - id: fig:2
+    name_or_label: Sam (Sm)
+    description: Father who abandons Zal under social pressure, repents through dream-rebuke, and receives him back.
+    role_refs:
+      - role:3
+    evidence_refs:
+      - ev:1
+      - ev:4
+      - ev:5
+      - ev:7
+  - id: fig:3
+    name_or_label: Simurgh (Smrgh)
+    description: Wondrous mountain bird that rescues, nourishes, educates, and later restores Zal.
+    role_refs:
+      - role:4
+      - role:5
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+      - ev:6
+      - ev:7
+roles:
+  - id: role:1
+    label: exposed_child
+    assigned_to:
+      - fig:1
+    basis: Zal is abandoned on Alberz because his unusual white hair is treated as a bad omen.
+    evidence_refs:
+      - ev:1
+  - id: role:2
+    label: returned_chosen_child
+    assigned_to:
+      - fig:1
+    basis: Zal is restored from mountain fosterage and presented as worthy of throne and diadem.
+    evidence_refs:
+      - ev:6
+      - ev:7
+  - id: role:3
+    label: penitent_father
+    assigned_to:
+      - fig:2
+    basis: Sam repents after dream rebuke, prays on Alberz, and receives the son he had exposed.
+    evidence_refs:
+      - ev:4
+      - ev:5
+      - ev:7
+  - id: role:4
+    label: wonder_bird_fosterer
+    assigned_to:
+      - fig:3
+    basis: The Simurgh rescues the infant, shelters him in its dwelling, and rears him for years.
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+  - id: role:5
+    label: rescue_token_giver
+    assigned_to:
+      - fig:3
+    basis: The Simurgh leaves Zal a wing-feather whose burning will summon its aid.
+    evidence_refs:
+      - ev:6
+      - ev:7
+symbols:
+  - id: sym:1
+    label: Mount Alberz
+    literal_form: mountain where Zal is exposed, fostered, sought, and recovered
+    associated_figures:
+      - fig:1
+      - fig:2
+      - fig:3
+    taxonomy_refs:
+      - cosmic_mountain
+    evidence_refs:
+      - ev:1
+      - ev:5
+      - ev:6
+  - id: sym:2
+    label: white hair
+    literal_form: Zal's silvery or white hair, treated as a fearful sign by the people
+    associated_figures:
+      - fig:1
+      - fig:2
+    taxonomy_refs:
+      - miraculous_child
+    evidence_refs:
+      - ev:1
+      - ev:4
+  - id: sym:3
+    label: rescue feather
+    literal_form: feather from the Simurgh's wing to be burned whenever danger comes
+    associated_figures:
+      - fig:1
+      - fig:3
+    taxonomy_refs:
+      - sacred_exchange
+    evidence_refs:
+      - ev:7
+scenes:
+  - id: scene:1
+    label: Exposure on Alberz and bird fosterage
+    summary: Sam leaves Zal on Alberz, but the Simurgh pities the exposed child, carries him to its mountain dwelling, and receives divine sanction to foster him.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+    symbol_refs:
+      - sym:1
+      - sym:2
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+  - id: scene:2
+    label: Dream rebuke and mountain repentance
+    summary: Sam learns through dreams that Zal lives, is rebuked for despising white hair, and ascends Alberz in prayer for restoration.
+    figure_refs:
+      - fig:1
+      - fig:2
+    symbol_refs:
+      - sym:1
+      - sym:2
+    evidence_refs:
+      - ev:4
+      - ev:5
+  - id: scene:3
+    label: Feather gift and reunion
+    summary: The Simurgh comforts Zal, gives him a summonable feather, and returns him to Sam as a child marked for future greatness.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+    symbol_refs:
+      - sym:3
+    evidence_refs:
+      - ev:6
+      - ev:7
+candidate_motifs:
+  - id: motif:1
+    label: exposed_child_protected_by_wonder_bird
+    taxonomy_refs:
+      - miraculous_child
+      - divine_parent_child
+    basis: A child marked by an unusual bodily sign is rejected by humans but rescued and nourished by a powerful nonhuman fosterer.
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+    confidence: high
+    cautions: The taxonomy has no direct key for bird fosterage, and the protector is a wonder bird rather than a named deity or human parent.
+  - id: motif:2
+    label: mountain_fosterage_and_return
+    taxonomy_refs:
+      - cosmic_mountain
+      - departure
+      - return
+    basis: Zal is left on Alberz, raised in the mountain refuge, and returned from it with changed status and future promise.
+    evidence_refs:
+      - ev:1
+      - ev:5
+      - ev:6
+      - ev:7
+    confidence: medium
+    cautions: Alberz is a concrete epic mountain, so the cosmic-mountain tag is functional rather than doctrinal.
+  - id: motif:3
+    label: rescue_feather_token
+    taxonomy_refs:
+      - sacred_exchange
+    basis: The Simurgh leaves a feather that materializes an ongoing bond and can call down aid at moments of danger.
+    evidence_refs:
+      - ev:6
+      - ev:7
+    confidence: high
+    cautions: The taxonomy lacks a dedicated token-of-aid key, so sacred_exchange is used only for the continuing reciprocal bond.
+comparison_claims:
+  - id: claim:1
+    claim: This passage is a strong Persian witness for an exposed-child pattern in which a threatened infant survives through nonhuman fosterage and later reenters human lineage.
+    claim_level: same_function
+    target: cross-cultural exposed child and animal-fosterage records
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+      - ev:7
+    confidence: medium
+    limitations: The parallel is functional only and does not imply direct historical borrowing or identical symbolic framing.
+  - id: claim:2
+    claim: The feather can be compared with guardian-token motifs where a departing protector leaves a material sign that can summon aid in crisis.
+    claim_level: same_function
+    target: cross-cultural helper token and summoning-sign records
+    evidence_refs:
+      - ev:6
+      - ev:7
+    confidence: medium
+    limitations: The aid depends on the Simurgh's personal promise, not on an impersonal magic system.
+evidence:
+  - id: ev:1
+    type: summary
+    locator: "lines 2430-2438"
+    quote_or_summary: Sam leaves the mocked child on Alberz, but the Simurgh pities him on the rock and carries him to its own habitation.
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    rights_note: Public-domain source text.
+  - id: ev:2
+    type: quote
+    locator: "lines 2444-2453"
+    quote_or_summary: "\"To thee this mortal I resign, / Protected by the power divine.\""
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    rights_note: Public-domain source text.
+  - id: ev:3
+    type: summary
+    locator: "lines 2455-2456"
+    quote_or_summary: The Simurgh's young are also kind to the infant, who is nourished and protected for several years.
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    rights_note: Public-domain source text.
+  - id: ev:4
+    type: summary
+    locator: "lines 2461-2483"
+    quote_or_summary: Sam's dreams and their interpreters reveal that Zal still lives, and the dream rebuke insists that white hair is no crime against Heaven.
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    rights_note: Public-domain source text.
+  - id: ev:5
+    type: summary
+    locator: "lines 2485-2492"
+    quote_or_summary: Sam goes to Alberz in person, weeps and prays for forgiveness, and asks for the forsaken child to be restored to him.
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    rights_note: Public-domain source text.
+  - id: ev:6
+    type: summary
+    locator: "lines 2494-2506"
+    quote_or_summary: The Simurgh tells Zal it has nursed him, named him Dustn, taught him language and understanding, and now must return him to Sam.
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    rights_note: Public-domain source text.
+  - id: ev:7
+    type: summary
+    locator: "lines 2506-2519"
+    quote_or_summary: The Simurgh gives Zal a feather to burn whenever danger comes, then presents him to Sam as worthy of throne and diadem.
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: Exposure, fosterage, dream rebuke, reunion, and the rescue feather are explicit; broader typological parallels remain interpretive.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs review for name normalization and the functional use of cosmic-mountain and sacred-exchange tags.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Worker B extraction focused on exposed-child rescue, wonder-bird fosterage, and the Simurgh's rescue feather.

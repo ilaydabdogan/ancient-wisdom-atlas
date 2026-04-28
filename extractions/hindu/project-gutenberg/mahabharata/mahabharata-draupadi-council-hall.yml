@@ -1,0 +1,360 @@
+---
+record_id: extraction.mahabharata.draupadi_council_hall
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+passage_locator:
+  label: Draupadi in the Council Hall; Draupadi's Plaint; Insult and Vow of Revenge
+  start: 1685
+  end: 1825
+  translation: Romesh Chunder Dutt, Project Gutenberg eBook #19630
+  notes: Line numbers refer to the repository markdown source for Dutt's condensed
+    English rendering of the Sabha Parva dice-hall crisis.
+canonical_text:
+  summary: After Yudhishthira loses wealth, kin, and Draupadi in the dice game,
+    Draupadi challenges whether a man who has already lost himself can still stake
+    his wife, is dragged by the hair into the council hall, calls the elders to
+    defend justice, and ignites the Pandavas' vow of revenge.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: Yudhishthira loses possessions, brothers, himself, and then Draupadi in
+      the dice game.
+    category: wager
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: Draupadi argues that if her husband has already become a bondsman, his
+      later wager of her is invalid.
+    category: legal_speech
+    evidence_refs:
+      - ev:2
+  - id: obs:3
+    text: Duryodhana orders Duhsasana to bring Draupadi into the assembly as a slave.
+    category: command
+    evidence_refs:
+      - ev:3
+  - id: obs:4
+    text: Duhsasana seizes Draupadi by the hair and drags her from the women's rooms
+      into the council hall.
+    category: violation
+    evidence_refs:
+      - ev:4
+  - id: obs:5
+    text: Draupadi appeals to the elders and asks why no warrior rises to protect
+      an outraged queen.
+    category: appeal
+    evidence_refs:
+      - ev:5
+  - id: obs:6
+    text: Her words stir the Pandavas toward vengeance, while Bhishma, Drona, and
+      Vidura condemn the insult.
+    category: consequence
+    evidence_refs:
+      - ev:6
+figures:
+  - id: fig:1
+    name_or_label: Draupadi
+    description: Queen of the Pandavas who contests the legality of the wager and
+      publicly demands justice in the council hall.
+    role_refs:
+      - role:1
+      - role:2
+    evidence_refs:
+      - ev:2
+      - ev:4
+      - ev:5
+  - id: fig:2
+    name_or_label: Yudhishthira
+    description: Pandava king whose compulsive gambling leads to the staking of
+      himself and Draupadi.
+    role_refs:
+      - role:3
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: fig:3
+    name_or_label: Duhsasana
+    description: Kuru prince who violently enforces Duryodhana's order against Draupadi.
+    role_refs:
+      - role:4
+    evidence_refs:
+      - ev:3
+      - ev:4
+  - id: fig:4
+    name_or_label: Duryodhana
+    description: Victor of the dice game who claims Draupadi as slave and orders
+      her appearance in the hall.
+    role_refs:
+      - role:5
+    evidence_refs:
+      - ev:3
+  - id: fig:5
+    name_or_label: Bhishma, Drona, and Vidura
+    description: Elders present in the assembly who witness the outrage and are
+      named in Draupadi's appeal.
+    role_refs:
+      - role:6
+    evidence_refs:
+      - ev:5
+      - ev:6
+roles:
+  - id: role:1
+    label: wronged_queen
+    assigned_to:
+      - fig:1
+    basis: Draupadi is claimed as slave, dragged into the hall, and appeals as an
+      outraged wife and empress.
+    evidence_refs:
+      - ev:3
+      - ev:4
+      - ev:5
+  - id: role:2
+    label: dharma_questioner
+    assigned_to:
+      - fig:1
+    basis: Draupadi asks whether a man who has lost himself can still stake his
+      wife and demands a righteous answer.
+    evidence_refs:
+      - ev:2
+      - ev:5
+  - id: role:3
+    label: fallen_gambler_king
+    assigned_to:
+      - fig:2
+    basis: Yudhishthira continues staking progressively greater losses until he
+      wagers himself and Draupadi.
+    evidence_refs:
+      - ev:1
+  - id: role:4
+    label: assembly_enforcer
+    assigned_to:
+      - fig:3
+    basis: Duhsasana carries out the seizure and forced presentation of Draupadi.
+    evidence_refs:
+      - ev:3
+      - ev:4
+  - id: role:5
+    label: usurping_claimant
+    assigned_to:
+      - fig:4
+    basis: Duryodhana treats the dice result as authority to reduce Draupadi to
+      slave status.
+    evidence_refs:
+      - ev:3
+  - id: role:6
+    label: silent_elders
+    assigned_to:
+      - fig:5
+    basis: Draupadi calls on the elders by name, and their delayed moral response
+      becomes part of the scene's accusation.
+    evidence_refs:
+      - ev:5
+      - ev:6
+symbols:
+  - id: sym:1
+    label: dice wager
+    literal_form: fatal game of dice in which kin and queen are staked
+    associated_figures:
+      - fig:1
+      - fig:2
+      - fig:4
+    taxonomy_refs:
+      - sacred_exchange
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: sym:2
+    label: sacred hair
+    literal_form: Draupadi's consecrated hair seized and dragged by Duhsasana
+    associated_figures:
+      - fig:1
+      - fig:3
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:4
+  - id: sym:3
+    label: council hall
+    literal_form: royal assembly chamber where the outrage is witnessed
+    associated_figures:
+      - fig:1
+      - fig:3
+      - fig:4
+      - fig:5
+    taxonomy_refs:
+      - royal_legitimacy
+    evidence_refs:
+      - ev:3
+      - ev:5
+  - id: sym:4
+    label: unanswered appeal
+    literal_form: public demand for a righteous answer from elders and warriors
+    associated_figures:
+      - fig:1
+      - fig:5
+    taxonomy_refs:
+      - divine_judgment
+      - wisdom
+    evidence_refs:
+      - ev:5
+      - ev:6
+scenes:
+  - id: scene:1
+    label: Invalid wager challenged
+    summary: After the dice losses, Draupadi contests the legality of her staking
+      and sends back the claim that a bondsman cannot wager his wife.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:4
+    symbol_refs:
+      - sym:1
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: scene:2
+    label: Queen dragged into assembly
+    summary: Duryodhana sends Duhsasana, who seizes Draupadi by the hair and drags
+      her into the council hall despite her pleas.
+    figure_refs:
+      - fig:1
+      - fig:3
+      - fig:4
+    symbol_refs:
+      - sym:2
+      - sym:3
+    evidence_refs:
+      - ev:3
+      - ev:4
+  - id: scene:3
+    label: Public appeal and vow of revenge
+    summary: Draupadi denounces the silence of the elders, calls the outrage a Kuru
+      shame, and provokes a vengeance response from the Pandavas.
+    figure_refs:
+      - fig:1
+      - fig:5
+    symbol_refs:
+      - sym:3
+      - sym:4
+    evidence_refs:
+      - ev:5
+      - ev:6
+candidate_motifs:
+  - id: motif:1
+    label: dharma challenged in royal assembly
+    taxonomy_refs:
+      - royal_legitimacy
+      - wisdom
+    basis: The crisis centers on whether the dice result can legitimately transfer
+      a queen after the king has already lost his own freedom.
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:5
+    confidence: high
+    cautions: The appeal is to dharma and courtly justice rather than to a visible
+      divine verdict within the passage.
+  - id: motif:2
+    label: violated queen as trigger of vengeance
+    taxonomy_refs: []
+    basis: Draupadi's public humiliation becomes the emotional and ethical spur toward
+      later revenge.
+    evidence_refs:
+      - ev:4
+      - ev:5
+      - ev:6
+    confidence: high
+    cautions: The passage shows the vow impulse rather than the later fulfillment.
+  - id: motif:3
+    label: corrupt sacred exchange
+    taxonomy_refs:
+      - sacred_exchange
+    basis: The dice game acts like a binding transfer of persons and status, but
+      Draupadi rejects it as invalid once the gambler has lost himself.
+    evidence_refs:
+      - ev:1
+      - ev:2
+    confidence: medium
+    cautions: The exchange is juridical and corrupt, not a repairing or covenantal
+      sacred exchange.
+comparison_claims:
+  - id: claim:1
+    claim: This passage is a strong atlas witness for public appeals to sacred or royal order when a woman's status is violated before passive authorities.
+    claim_level: same_function
+    target: cross-cultural justice-in-assembly and violated-queen comparison records
+    evidence_refs:
+      - ev:2
+      - ev:4
+      - ev:5
+    confidence: medium
+    limitations: The comparison is functional and does not imply direct borrowing
+      from other legal or mythic traditions.
+  - id: claim:2
+    claim: Draupadi's hair seizure gives the scene a marked body-symbol motif that
+      can be compared with other traditions where dishonor to a consecrated or royal
+      person triggers curse, judgment, or vengeance.
+    claim_level: same_motif
+    target: cross-cultural dishonor-and-vengeance symbol records
+    evidence_refs:
+      - ev:4
+      - ev:6
+    confidence: medium
+    limitations: The evidence here is social and ethical; supernatural retaliation
+      is not narrated in this excerpt.
+evidence:
+  - id: ev:1
+    type: summary
+    locator: lines 1660-1677
+    quote_or_summary: Yudhishthira loses wealth, kin, himself, and then Draupadi
+      in the dice game and the Pandavas are reduced to exile.
+    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+    rights_note: Public-domain source text.
+  - id: ev:2
+    type: summary
+    locator: lines 1693-1718
+    quote_or_summary: Draupadi asks whether a man who has already become a bondsman
+      can still stake his queen and declares the wager void.
+    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+    rights_note: Public-domain source text.
+  - id: ev:3
+    type: summary
+    locator: lines 1720-1739
+    quote_or_summary: Duryodhana angrily orders Duhsasana to bring Draupadi to the
+      council hall as a conquered slave.
+    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+    rights_note: Public-domain source text.
+  - id: ev:4
+    type: summary
+    locator: lines 1741-1772
+    quote_or_summary: Duhsasana catches Draupadi by her consecrated hair and drags
+      her in slipping garments into the hall despite her pleas.
+    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+    rights_note: Public-domain source text.
+  - id: ev:5
+    type: summary
+    locator: lines 1778-1806
+    quote_or_summary: Draupadi addresses the elders, asks why no righteous warrior
+      protects a virtuous wife, and calls the scene a shame to Kuru glory.
+    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+    rights_note: Public-domain source text.
+  - id: ev:6
+    type: summary
+    locator: lines 1812-1825
+    quote_or_summary: Draupadi's glances inflame the Pandavas toward vengeance, and
+      Bhishma, Drona, and Vidura are described as condemning the outrage.
+    source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+    rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The dramatic sequence and legal challenge are explicit; broader comparative
+    claims remain cautious and functional.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs review for dharma terminology and comparative tagging.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Local extraction for the Mahabharata wave focused on assembly shame, violated
+  queenship, and dharma challenge.

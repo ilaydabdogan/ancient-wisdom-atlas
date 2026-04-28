@@ -1,0 +1,351 @@
+---
+record_id: extraction.islamicate_folklore.arabian_nights.fisherman_genius_vessel_trick
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: "The Story of the Fisherman: sealed jar, murderous genius, and return to the vessel"
+  start: 775
+  end: 903
+  translation: Andrew Lang, The Arabian Nights Entertainments
+  notes: Covers the fisherman's failed casts, the opening of the sealed vessel, the genius's threat, and the trick that forces the spirit back into confinement.
+canonical_text:
+  summary: An impoverished fisherman hauls up a lead-sealed jar from the sea, releases a rebel genius who vows to kill his liberator, and survives by challenging the spirit to prove it ever fit inside the vessel, then sealing it back in.
+  language: English
+  quote_policy: summarized
+literal_observations:
+  - id: obs:1
+    text: The fisherman is introduced as old and poor, supporting a wife and three children, and limiting himself to four casts a day.
+    category: attribute
+    evidence_refs:
+      - ev:1
+  - id: obs:2
+    text: His first three casts produce only an ass carcass, a rubbish-filled basket, and then stones, shells, and mud.
+    category: sequence
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: obs:3
+    text: On the fourth cast he draws up a yellow pot sealed with lead and marked by an impressed seal.
+    category: object
+    evidence_refs:
+      - ev:2
+      - ev:3
+  - id: obs:4
+    text: When the fisherman opens the vessel, smoke pours out, fills sea and shore, and gathers into a giant genius.
+    category: transformation
+    evidence_refs:
+      - ev:3
+  - id: obs:5
+    text: The genius tells the fisherman that freeing him will not save him, because he has resolved to kill his deliverer.
+    category: speech
+    evidence_refs:
+      - ev:4
+      - ev:5
+  - id: obs:6
+    text: The genius explains that he rebelled against the king of the genii, was sealed in the vessel and cast into the sea, and after centuries of captivity changed promises of reward into a vow of murder.
+    category: speech
+    evidence_refs:
+      - ev:5
+  - id: obs:7
+    text: The fisherman pretends disbelief that so large a being could ever have fit inside the jar.
+    category: speech
+    evidence_refs:
+      - ev:6
+  - id: obs:8
+    text: To prove the claim, the genius becomes smoke again and re-enters the vessel.
+    category: transformation
+    evidence_refs:
+      - ev:7
+  - id: obs:9
+    text: The fisherman reseals the jar, threatens to cast it back into the sea, and refuses the genius's later promise of repayment.
+    category: action
+    evidence_refs:
+      - ev:8
+      - ev:9
+figures:
+  - id: fig:1
+    name_or_label: fisherman
+    description: Poor old householder who survives the genius through suspicion and verbal cunning.
+    role_refs:
+      - role:1
+      - role:2
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:6
+      - ev:8
+      - ev:9
+  - id: fig:2
+    name_or_label: genius
+    description: Rebellious supernatural being released from the sealed vessel who turns on his liberator.
+    role_refs:
+      - role:3
+      - role:4
+    evidence_refs:
+      - ev:3
+      - ev:4
+      - ev:5
+      - ev:7
+      - ev:8
+      - ev:9
+  - id: fig:3
+    name_or_label: king of the genii
+    description: Sovereign authority who punished the genius by sealing him in the vessel and casting it into the sea.
+    role_refs:
+      - role:5
+    evidence_refs:
+      - ev:4
+      - ev:5
+roles:
+  - id: role:1
+    label: desperate_provider
+    assigned_to:
+      - fig:1
+    basis: The fisherman is old, poor, responsible for a family, and working under a strict four-cast limit to support them.
+    evidence_refs:
+      - ev:1
+      - ev:2
+  - id: role:2
+    label: trickster_survivor
+    assigned_to:
+      - fig:1
+    basis: He survives by making the genius demonstrate an impossible claim and then resealing the vessel.
+    evidence_refs:
+      - ev:6
+      - ev:7
+      - ev:8
+      - ev:9
+  - id: role:3
+    label: imprisoned_rebel_spirit
+    assigned_to:
+      - fig:2
+    basis: The genius says he rebelled, was shut in the vessel by royal punishment, and remained there for centuries.
+    evidence_refs:
+      - ev:4
+      - ev:5
+  - id: role:4
+    label: murderous_liberated_being
+    assigned_to:
+      - fig:2
+    basis: Once released, the genius declares that the fisherman must die and may only choose the manner of death.
+    evidence_refs:
+      - ev:4
+      - ev:5
+  - id: role:5
+    label: sealing_sovereign
+    assigned_to:
+      - fig:3
+    basis: The king of the genii is the punishing authority whose seal and enchantment keep the genius confined.
+    evidence_refs:
+      - ev:4
+      - ev:5
+symbols:
+  - id: sym:1
+    label: sealed yellow jar
+    literal_form: The heavy yellow vessel fastened with lead and marked by an impressed seal.
+    associated_figures:
+      - fig:1
+      - fig:2
+      - fig:3
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:2
+      - ev:3
+      - ev:5
+      - ev:8
+  - id: sym:2
+    label: smoke-body transformation
+    literal_form: The smoke that rises from the jar, spreads over sea and shore, and condenses into or out of the genius.
+    associated_figures:
+      - fig:2
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:3
+      - ev:7
+  - id: sym:3
+    label: enchanted leaden lid
+    literal_form: The lead cover whose seal and enchantment keep the genius from escaping once it is shut again.
+    associated_figures:
+      - fig:1
+      - fig:2
+      - fig:3
+    taxonomy_refs: []
+    evidence_refs:
+      - ev:5
+      - ev:8
+      - ev:9
+scenes:
+  - id: scene:1
+    label: Four casts and the jar
+    summary: After three worthless hauls, the fisherman brings up a sealed yellow vessel on his fourth and final cast.
+    figure_refs:
+      - fig:1
+    symbol_refs:
+      - sym:1
+    evidence_refs:
+      - ev:1
+      - ev:2
+      - ev:3
+  - id: scene:2
+    label: Genius released and murderous vow declared
+    summary: Opening the jar releases a giant genius who explains his long imprisonment and announces that the fisherman must die.
+    figure_refs:
+      - fig:1
+      - fig:2
+      - fig:3
+    symbol_refs:
+      - sym:1
+      - sym:2
+      - sym:3
+    evidence_refs:
+      - ev:3
+      - ev:4
+      - ev:5
+  - id: scene:3
+    label: Proof challenge and resealing
+    summary: The fisherman feigns disbelief, the genius compresses himself back into smoke and the jar, and the fisherman immediately seals the vessel shut again.
+    figure_refs:
+      - fig:1
+      - fig:2
+    symbol_refs:
+      - sym:1
+      - sym:2
+      - sym:3
+    evidence_refs:
+      - ev:6
+      - ev:7
+      - ev:8
+  - id: scene:4
+    label: Refusal of renewed bargain
+    summary: Still trapped, the genius promises repayment, but the fisherman refuses and cites another cautionary tale before continuing.
+    figure_refs:
+      - fig:1
+      - fig:2
+    symbol_refs:
+      - sym:1
+      - sym:3
+    evidence_refs:
+      - ev:9
+candidate_motifs:
+  - id: motif:1
+    label: sealed_spirit_vessel
+    taxonomy_refs: []
+    basis: A supernatural being is confined in a lead-sealed vessel under a royal seal and released only when a human opens it.
+    evidence_refs:
+      - ev:3
+      - ev:5
+      - ev:8
+      - ev:9
+    confidence: high
+    cautions: The passage does not explain the full wider tradition of bottle or ring confinement; this record stays with the local jar episode.
+  - id: motif:2
+    label: liberator_threatened_by_captive
+    taxonomy_refs: []
+    basis: The fisherman frees the genius, but the spirit's vow turns the act of rescue into a death sentence.
+    evidence_refs:
+      - ev:4
+      - ev:5
+    confidence: high
+    cautions: The threat grows from the genius's personal oath after long captivity, not from a general law governing all such beings.
+  - id: motif:3
+    label: wit_overwhelms_supernatural_force
+    taxonomy_refs: []
+    basis: The fisherman survives by verbal cunning, making the stronger being prove a claim and thereby trapping itself.
+    evidence_refs:
+      - ev:6
+      - ev:7
+      - ev:8
+      - ev:9
+    confidence: high
+    cautions: The scene is a trick of proof and timing rather than a contest of riddles or formal wisdom.
+comparison_claims:
+  - id: claim:1
+    claim: This passage is a strong comparison candidate for stories in which a released supernatural captive is forced back into confinement by human cunning.
+    claim_level: same_function
+    target: cross-cultural spirit-confinement and trickster-survival records
+    evidence_refs:
+      - ev:3
+      - ev:4
+      - ev:5
+      - ev:6
+      - ev:7
+      - ev:8
+    confidence: high
+    limitations: The claim is functional only and does not assert direct relation to other jar, bottle, ring, or vessel traditions.
+  - id: claim:2
+    claim: The fisherman's trick can be compared with episodes where a weaker human defeats a stronger foe by making the foe demonstrate an implausible claim.
+    claim_level: same_function
+    target: wit-over-strength and proof-trap comparison records
+    evidence_refs:
+      - ev:6
+      - ev:7
+      - ev:8
+    confidence: medium
+    limitations: The comparison tracks narrative strategy, not a fixed one-to-one motif lineage.
+evidence:
+  - id: ev:1
+    type: summary
+    locator: lines 775-783
+    quote_or_summary: The old poor fisherman, supporting a wife and three children, makes his first cast and hauls up only the carcass of an ass.
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    rights_note: Public-domain source text.
+  - id: ev:2
+    type: summary
+    locator: lines 785-800
+    quote_or_summary: His second and third casts fail, and the fourth brings up a heavy yellow pot instead of a fish.
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    rights_note: Public-domain source text.
+  - id: ev:3
+    type: summary
+    locator: lines 801-817
+    quote_or_summary: The pot is sealed with lead; when opened, it releases smoke that rises, spreads over sea and shore, and condenses into a giant genius.
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    rights_note: Public-domain source text.
+  - id: ev:4
+    type: summary
+    locator: lines 821-837
+    quote_or_summary: The genius first addresses the king of the genii, then tells the fisherman he will kill him and allow only the choice of death's manner.
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    rights_note: Public-domain source text.
+  - id: ev:5
+    type: summary
+    locator: lines 844-859
+    quote_or_summary: The genius says that royal punishment sealed him in the vessel, that centuries passed without rescue, and that anger finally turned promised rewards into a vow to kill his liberator.
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    rights_note: Public-domain source text.
+  - id: ev:6
+    type: summary
+    locator: lines 867-876
+    quote_or_summary: The fisherman devises a plot and claims he cannot believe so huge a being ever fit inside the vase.
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    rights_note: Public-domain source text.
+  - id: ev:7
+    type: summary
+    locator: lines 878-883
+    quote_or_summary: The genius turns again to smoke and goes back into the vase until a voice calls out from inside.
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    rights_note: Public-domain source text.
+  - id: ev:8
+    type: summary
+    locator: lines 885-892
+    quote_or_summary: The fisherman shuts the lead cover on the vase and threatens to cast it into the sea again and warn future fishermen.
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    rights_note: Public-domain source text.
+  - id: ev:9
+    type: summary
+    locator: lines 894-903
+    quote_or_summary: Unable to escape because of the enchantment, the genius tries cunning and promises repayment, but the fisherman refuses and introduces another cautionary story.
+    source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+    rights_note: Public-domain source text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The sealed vessel, threat, and reversal are explicit in the passage; comparative classification beyond this local episode remains draft-level.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Needs review for taxonomy alignment and for possible linkage to other spirit-confinement records.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Worker A extraction focused on sealed-spirit vessel confinement and the fisherman's wit-over-power reversal.
