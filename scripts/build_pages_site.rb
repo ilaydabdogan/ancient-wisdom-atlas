@@ -12,6 +12,7 @@ SITE_DIR = File.join(ROOT, "site")
 
 NAV = [
   ["Home", "index.html"],
+  ["Explorer", "explorer/index.html"],
   ["Texts", "texts/index.html"],
   ["Motifs", "motifs/index.html"],
   ["Timeline", "timeline/index.html"],
@@ -31,12 +32,19 @@ TRADITION_LABELS = {
   "hindu" => "Hindu",
   "islamic" => "Islamic",
   "islamicate_folklore" => "Islamicate Folklore",
+  "sufi" => "Sufi",
   "maya_quiche" => "Maya/Kiche",
   "mesopotamian" => "Mesopotamian",
   "norse" => "Norse",
   "persian" => "Persian",
   "celtic_irish" => "Celtic Irish",
-  "celtic_welsh" => "Celtic Welsh"
+  "celtic_welsh" => "Celtic Welsh",
+  "indigenous_australian" => "Indigenous Australian",
+  "greek_roman" => "Greek/Roman",
+  "comparative" => "Comparative",
+  "roman" => "Roman",
+  "japanese" => "Japanese",
+  "ainu" => "Ainu"
 }.freeze
 
 def relative(path)
@@ -489,6 +497,189 @@ def build_home(texts, comparisons, motif_index, extractions)
     current_output: current,
     body: body,
     page_class: "home"
+  ))
+end
+
+def build_explorer(motif_index, patterns)
+  current = "explorer/index.html"
+  motifs = motif_index.fetch("motifs", [])
+  occurrence_count = motif_index["occurrence_count"].to_i
+  tradition_counts = tradition_totals(motifs).sort_by { |name, count| [-count, tradition_label(name)] }
+  cross_tradition = motifs.select { |motif| motif.fetch("traditions", {}).length >= 2 }
+  bridge_count = motif_bridge_rows(motifs).length
+  max_occurrences = motifs.map { |motif| motif.fetch("occurrences", []).length }.max.to_i
+  tradition_options = tradition_counts.map do |name, count|
+    %(<option value="#{esc(name)}">#{esc(tradition_label(name))} (#{count})</option>)
+  end.join
+
+  top_matrix_motifs = cross_tradition
+    .sort_by { |motif| [-motif.fetch("traditions", {}).length, -motif.fetch("occurrences", []).length, motif["label"].to_s] }
+    .first(12)
+
+  matrix_rows = tradition_counts.map do |tradition, _count|
+    cells = top_matrix_motifs.map do |motif|
+      count = motif.fetch("traditions", {}).fetch(tradition, 0).to_i
+      content = count.positive? ? link_to_output(current, motif_output(motif["motif_id"]), count.to_s) : " "
+      %(<td class="#{count.positive? ? "matrix-hit" : "matrix-empty"}">#{content}</td>)
+    end.join
+    "<tr><th>#{esc(tradition_label(tradition))}</th>#{cells}</tr>"
+  end.join
+
+  explorer_rows = motifs.map do |motif|
+    occurrences = motif.fetch("occurrences", [])
+    traditions = motif.fetch("traditions", {})
+    confidence_counts = occurrences.each_with_object(Hash.new(0)) { |occ, counts| counts[occ["confidence"].to_s] += 1 }
+    confidence_labels = confidence_counts.keys.reject(&:empty?).sort
+    best_occurrence = occurrences.sort_by do |occ|
+      rank = { "high" => 0, "medium" => 1, "low" => 2 }.fetch(occ["confidence"].to_s, 3)
+      [rank, occ["source_title"].to_s]
+    end.first || {}
+    quote = (best_occurrence.fetch("evidence", []).first || {})["quote_or_summary"].to_s.strip
+    evidence_text = quote.empty? ? best_occurrence["basis"].to_s : quote
+    tradition_chips = traditions.sort_by { |name, count| [-count.to_i, tradition_label(name)] }.first(8).map do |name, count|
+      %(<span class="chip">#{esc(tradition_label(name))}<strong>#{count}</strong></span>)
+    end.join
+    width = max_occurrences.positive? ? ((occurrences.length.to_f / max_occurrences) * 100).round(1) : 0
+    search_text = [
+      motif["motif_id"],
+      motif["label"],
+      traditions.keys,
+      traditions.keys.map { |name| tradition_label(name) },
+      occurrences.map { |occ| [occ["source_title"], occ["passage_locator"], occ["motif_label"], occ["basis"]] }
+    ].flatten.compact.join(" ")
+
+    <<~HTML
+      <article class="explorer-row searchable"
+        data-search="#{esc(search_text)}"
+        data-traditions="#{esc(traditions.keys.join(" "))}"
+        data-confidences="#{esc(confidence_labels.join(" "))}"
+        data-cross="#{traditions.length >= 2}"
+        data-occurrences="#{occurrences.length}">
+        <div class="explorer-main">
+          <span class="row-kicker">#{esc(motif["motif_id"])}</span>
+          <h3><a href="#{esc(relative_url(current, motif_output(motif["motif_id"])))}">#{esc(titleize(motif["label"]))}</a></h3>
+          <p>#{esc(evidence_text[0, 260])}</p>
+          <div class="chip-row">#{tradition_chips}</div>
+        </div>
+        <aside class="explorer-metrics" aria-label="Motif metrics">
+          <strong>#{occurrences.length}</strong>
+          <span>appearances</span>
+          <small>#{traditions.length} traditions</small>
+          <i style="width: #{width}%"></i>
+        </aside>
+      </article>
+    HTML
+  end.join
+
+  evidence_rows = motifs
+    .select { |motif| motif.fetch("traditions", {}).length >= 2 }
+    .flat_map { |motif| motif.fetch("occurrences", []).map { |occ| [motif, occ] } }
+    .sort_by do |motif, occ|
+      rank = { "high" => 0, "medium" => 1, "low" => 2 }.fetch(occ["confidence"].to_s, 3)
+      [rank, -motif.fetch("traditions", {}).length, motif["label"].to_s, tradition_label(occ["tradition"])]
+    end
+    .first(80)
+    .map do |motif, occ|
+      source_output = output_for_repo_path(occ["source_text_path"])
+      quote = (occ.fetch("evidence", []).first || {})["quote_or_summary"].to_s.strip
+      evidence = quote.empty? ? occ["basis"].to_s : quote
+      <<~HTML
+        <tr class="searchable" data-search="#{esc([motif["label"], occ["tradition"], occ["source_title"], occ["passage_locator"], evidence].join(" "))}">
+          <td>#{link_to_output(current, motif_output(motif["motif_id"]), titleize(motif["label"]))}</td>
+          <td>#{esc(tradition_label(occ["tradition"]))}</td>
+          <td>#{link_to_output(current, source_output, occ["source_title"])}</td>
+          <td>#{esc(occ["passage_locator"])}</td>
+          <td><span class="confidence #{esc(occ["confidence"])}">#{esc(occ["confidence"])}</span></td>
+          <td>#{esc(evidence[0, 220])}</td>
+        </tr>
+      HTML
+    end.join
+
+  lens_cards = patterns.first(8).map do |item|
+    metadata = item[:metadata]
+    card(
+      metadata["title"] || File.basename(item[:path], ".md"),
+      metadata["motifs"].to_a.join(", "),
+      href: relative_url(current, item[:output]),
+      meta: metadata["claim_level"] || "pattern lens"
+    )
+  end.join
+
+  body = <<~HTML
+    <section class="explorer-dashboard">
+      <div class="stat"><strong>#{motifs.length}</strong><span>motif groups</span></div>
+      <div class="stat"><strong>#{occurrence_count}</strong><span>linked appearances</span></div>
+      <div class="stat"><strong>#{cross_tradition.length}</strong><span>cross-tradition motifs</span></div>
+      <div class="stat"><strong>#{bridge_count}</strong><span>tradition bridges</span></div>
+    </section>
+
+    <section class="explorer-controls" aria-label="Pattern explorer filters">
+      <input type="search" class="search-input explorer-search" placeholder="Search motifs, sources, passages, cultures">
+      <select class="explorer-filter" data-filter="tradition" aria-label="Filter by tradition">
+        <option value="">All traditions</option>
+        #{tradition_options}
+      </select>
+      <select class="explorer-filter" data-filter="confidence" aria-label="Filter by confidence">
+        <option value="">All confidence levels</option>
+        <option value="high">High confidence</option>
+        <option value="medium">Medium confidence</option>
+        <option value="low">Low confidence</option>
+      </select>
+      <label class="toggle-control"><input type="checkbox" class="explorer-toggle" data-toggle="cross"> Cross-tradition only</label>
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <h2>Motif Explorer</h2>
+        <span class="result-count"><strong data-explorer-count>#{motifs.length}</strong> visible</span>
+      </div>
+      <div class="explorer-list">#{explorer_rows}</div>
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <h2>Tradition Motif Matrix</h2>
+        <span class="muted">Counts for the most connected cross-tradition motifs</span>
+      </div>
+      <div class="table-wrap matrix-wrap">
+        <table class="matrix-table">
+          <tr>
+            <th>Tradition</th>
+            #{top_matrix_motifs.map { |motif| "<th>#{link_to_output(current, motif_output(motif["motif_id"]), titleize(motif["label"]))}</th>" }.join}
+          </tr>
+          #{matrix_rows}
+        </table>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <h2>Evidence Preview</h2>
+        <span class="muted">A high-signal slice from cross-tradition motifs</span>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <tr><th>Motif</th><th>Tradition</th><th>Source</th><th>Passage</th><th>Confidence</th><th>Evidence</th></tr>
+          #{evidence_rows}
+        </table>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <h2>Curated Pattern Lenses</h2>
+        <a href="#{relative_url(current, "patterns/index.html")}">Open all pattern essays</a>
+      </div>
+      <div class="card-grid">#{lens_cards}</div>
+    </section>
+  HTML
+
+  write_page(current, layout(
+    title: "Pattern Explorer",
+    subtitle: "Filter motifs by tradition and confidence, scan evidence, and see where symbolic structures bridge cultures.",
+    current_output: current,
+    body: body,
+    page_class: "explorer-page"
   ))
 end
 
@@ -951,6 +1142,13 @@ STYLE_CSS = <<~CSS
     margin: 28px 0;
   }
 
+  .explorer-dashboard {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 12px;
+    margin: 28px 0 18px;
+  }
+
   .stat {
     padding: 18px;
     background: var(--surface);
@@ -1045,7 +1243,20 @@ STYLE_CSS = <<~CSS
     margin: 28px 0;
   }
 
-  .search-input {
+  .explorer-controls {
+    display: grid;
+    grid-template-columns: minmax(260px, 1fr) minmax(180px, 240px) minmax(180px, 240px) auto;
+    gap: 10px;
+    align-items: center;
+    margin: 18px 0 34px;
+    padding: 12px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+  }
+
+  .search-input,
+  .explorer-filter {
     width: 100%;
     min-height: 48px;
     padding: 12px 14px;
@@ -1055,6 +1266,119 @@ STYLE_CSS = <<~CSS
     color: var(--ink);
     font: inherit;
   }
+
+  .toggle-control {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    min-height: 48px;
+    padding: 0 10px;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+
+  .toggle-control input { width: 18px; height: 18px; }
+
+  .result-count {
+    color: var(--muted);
+    font-weight: 700;
+  }
+
+  .explorer-list {
+    display: grid;
+    gap: 12px;
+  }
+
+  .explorer-row {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 150px;
+    gap: 18px;
+    align-items: stretch;
+    padding: 16px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+  }
+
+  .explorer-main h3 { margin: 2px 0 10px; }
+  .explorer-main p { margin: 0 0 12px; color: var(--muted); }
+
+  .chip-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 5px 8px;
+    background: #eef3ee;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    color: var(--ink);
+    font-size: 12px;
+    font-weight: 700;
+  }
+
+  .chip strong {
+    display: inline-grid;
+    place-items: center;
+    min-width: 20px;
+    min-height: 20px;
+    padding: 0 5px;
+    background: var(--surface);
+    border-radius: 999px;
+    color: var(--brick);
+  }
+
+  .explorer-metrics {
+    position: relative;
+    display: grid;
+    align-content: center;
+    justify-items: end;
+    gap: 2px;
+    padding: 12px;
+    overflow: hidden;
+    background: #fbfaf2;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    text-align: right;
+  }
+
+  .explorer-metrics strong,
+  .explorer-metrics span,
+  .explorer-metrics small {
+    position: relative;
+    z-index: 1;
+  }
+
+  .explorer-metrics strong {
+    font-size: 34px;
+    line-height: 1;
+  }
+
+  .explorer-metrics span,
+  .explorer-metrics small { color: var(--muted); }
+
+  .explorer-metrics i {
+    position: absolute;
+    inset: auto 0 0 auto;
+    height: 6px;
+    background: var(--gold);
+  }
+
+  .matrix-wrap { border: 1px solid var(--line); border-radius: 8px; }
+  .matrix-table th:first-child { min-width: 180px; }
+  .matrix-table th:not(:first-child) { min-width: 120px; }
+  .matrix-table td { text-align: center; }
+  .matrix-hit {
+    background: rgba(22, 124, 128, 0.12);
+    font-weight: 800;
+  }
+  .matrix-empty { background: #f6f7f2; color: transparent; }
 
   .doc-shell {
     display: grid;
@@ -1244,21 +1568,22 @@ STYLE_CSS = <<~CSS
       flex-direction: column;
     }
 
-    .stats-grid, .card-grid, .motif-cloud {
+    .stats-grid, .explorer-dashboard, .card-grid, .motif-cloud {
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
-    .doc-shell, .motif-detail-grid, .timeline-row, .insight-band {
+    .doc-shell, .motif-detail-grid, .timeline-row, .insight-band, .explorer-controls, .explorer-row {
       grid-template-columns: 1fr;
     }
 
     .metadata-panel { position: static; }
+    .explorer-metrics { justify-items: start; text-align: left; }
   }
 
   @media (max-width: 560px) {
     main { width: min(100% - 24px, 1180px); padding-top: 20px; }
     h1 { font-size: 40px; }
-    .stats-grid, .card-grid, .motif-cloud {
+    .stats-grid, .explorer-dashboard, .card-grid, .motif-cloud {
       grid-template-columns: 1fr;
     }
     .document { padding: 18px; }
@@ -1269,6 +1594,7 @@ APP_JS = <<~JS
   (() => {
     document.querySelectorAll(".search-input").forEach((input) => {
       const selector = input.dataset.searchTarget;
+      if (!selector) return;
       const items = Array.from(document.querySelectorAll(selector));
       input.addEventListener("input", () => {
         const query = input.value.trim().toLowerCase();
@@ -1278,27 +1604,81 @@ APP_JS = <<~JS
         });
       });
     });
+
+    const explorerRows = Array.from(document.querySelectorAll(".explorer-row"));
+    const explorerSearch = document.querySelector(".explorer-search");
+    const traditionFilter = document.querySelector('.explorer-filter[data-filter="tradition"]');
+    const confidenceFilter = document.querySelector('.explorer-filter[data-filter="confidence"]');
+    const crossToggle = document.querySelector('.explorer-toggle[data-toggle="cross"]');
+    const explorerCount = document.querySelector("[data-explorer-count]");
+
+    if (explorerRows.length && explorerSearch && traditionFilter && confidenceFilter && crossToggle) {
+      const applyExplorerFilters = () => {
+        const query = explorerSearch.value.trim().toLowerCase();
+        const tradition = traditionFilter.value;
+        const confidence = confidenceFilter.value;
+        const crossOnly = crossToggle.checked;
+        let visibleCount = 0;
+
+        explorerRows.forEach((row) => {
+          const haystack = (row.dataset.search || row.textContent).toLowerCase();
+          const traditions = (row.dataset.traditions || "").split(/\\s+/).filter(Boolean);
+          const confidences = (row.dataset.confidences || "").split(/\\s+/).filter(Boolean);
+          const isCross = row.dataset.cross === "true";
+          const visible =
+            (!query || haystack.includes(query)) &&
+            (!tradition || traditions.includes(tradition)) &&
+            (!confidence || confidences.includes(confidence)) &&
+            (!crossOnly || isCross);
+
+          row.classList.toggle("is-hidden", !visible);
+          if (visible) visibleCount += 1;
+        });
+
+        if (explorerCount) explorerCount.textContent = visibleCount.toString();
+      };
+
+      [explorerSearch, traditionFilter, confidenceFilter, crossToggle].forEach((control) => {
+        control.addEventListener("input", applyExplorerFilters);
+        control.addEventListener("change", applyExplorerFilters);
+      });
+
+      applyExplorerFilters();
+    }
   })();
 JS
 
+warn "resetting site" if ENV["PAGES_DEBUG"]
 FileUtils.rm_rf(SITE_DIR)
 FileUtils.mkdir_p(SITE_DIR)
 
+warn "loading texts" if ENV["PAGES_DEBUG"]
 texts = records_for_markdown("texts/public-domain/**/*.md")
+warn "loading patterns" if ENV["PAGES_DEBUG"]
 patterns = records_for_markdown("patterns/**/*.md")
+warn "loading comparisons" if ENV["PAGES_DEBUG"]
 comparisons = records_for_markdown("comparisons/**/*.md")
+warn "loading extractions" if ENV["PAGES_DEBUG"]
 extractions = extraction_records
+warn "loading motif index" if ENV["PAGES_DEBUG"]
 motif_index = load_yaml(File.join(ROOT, "data", "indexes", "motif-occurrences.yml"))
 timeline_path = File.join(ROOT, "data", "indexes", "cultural-timeline.yml")
+warn "loading timeline" if ENV["PAGES_DEBUG"]
 timeline = File.exist?(timeline_path) ? load_yaml(timeline_path) : {}
 
-build_assets
-build_home(texts, comparisons, motif_index, extractions)
-build_texts(texts)
-build_patterns(patterns)
-build_comparisons(comparisons)
-build_motifs(motif_index)
-build_timeline(timeline, texts)
-build_extractions(extractions)
+def build_step(label)
+  warn "building #{label}" if ENV["PAGES_DEBUG"]
+  yield
+end
+
+build_step("assets") { build_assets }
+build_step("home") { build_home(texts, comparisons, motif_index, extractions) }
+build_step("explorer") { build_explorer(motif_index, patterns) }
+build_step("texts") { build_texts(texts) }
+build_step("patterns") { build_patterns(patterns) }
+build_step("comparisons") { build_comparisons(comparisons) }
+build_step("motifs") { build_motifs(motif_index) }
+build_step("timeline") { build_timeline(timeline, texts) }
+build_step("extractions") { build_extractions(extractions) }
 
 puts "wrote #{relative(SITE_DIR)}"
