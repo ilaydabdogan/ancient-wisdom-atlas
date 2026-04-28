@@ -137,7 +137,7 @@ items:
   manifest_path: manifests/project-gutenberg/45158-persian-mystics-jami-davis.yml
   extraction_dir: extractions/sufi/project-gutenberg/persian-mystics-jami-davis
 - id: sufi.hafiz.divan.bell_gutenberg
-  status: queued
+  status: ingested
   priority: medium
   source: project_gutenberg
   source_id: '74883'
@@ -190,8 +190,17 @@ items:
   - lover
   why_it_matters: Adds Persian lyric love and wine symbolism for careful comparison
     with divine beloved and ecstatic wisdom motifs.
+  raw_path: imports/raw/project-gutenberg/74883-poems-from-divan-of-hafiz-bell.txt
+  pipeline:
+    raw_fetched_on: '2026-04-27'
+    converted_on: '2026-04-27'
+    promoted_on: '2026-04-27'
+  converted_path: imports/converted/project-gutenberg/74883-poems-from-divan-of-hafiz-bell.md
+  canonical_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  manifest_path: manifests/project-gutenberg/74883-poems-from-divan-of-hafiz-bell.yml
+  extraction_dir: extractions/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell
 - id: sufi.omar_khayyam.sufism_of_rubaiyat.hazeldine_gutenberg
-  status: queued
+  status: ingested
   priority: medium
   source: project_gutenberg
   source_id: '50619'
@@ -241,6 +250,15 @@ items:
   - Beloved
   why_it_matters: Useful reception text for the contested mystical reading of Khayyam,
     wine, fate, death, paradox, and divine longing.
+  raw_path: imports/raw/project-gutenberg/50619-sufism-of-rubaiyat-hazeldine.txt
+  pipeline:
+    raw_fetched_on: '2026-04-27'
+    converted_on: '2026-04-27'
+    promoted_on: '2026-04-27'
+  converted_path: imports/converted/project-gutenberg/50619-sufism-of-rubaiyat-hazeldine.md
+  canonical_path: texts/public-domain/sufi/project-gutenberg/sufism-of-rubaiyat-hazeldine.md
+  manifest_path: manifests/project-gutenberg/50619-sufism-of-rubaiyat-hazeldine.yml
+  extraction_dir: extractions/sufi/project-gutenberg/sufism-of-rubaiyat-hazeldine
 - id: sufi.omar_khayyam.sufistic_quatrains.gutenberg
   status: queued
   priority: medium

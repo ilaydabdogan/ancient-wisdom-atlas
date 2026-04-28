@@ -154,9 +154,10 @@ module CorpusQueue
     end
 
     lines = remove_transcriber_or_producer_blocks(lines)
+    lines = remove_illustration_placeholders(lines)
     lines = lines.reject do |line|
       line.match?(/\A\s*(Produced by|This eBook was produced by)\b/i) ||
-        line.match?(/\A\s*\[Illustration\]\s*\z/i)
+        line.match?(/\A\s*\[Illustration(?::[^\]]*)?\]\s*\z/i)
     end
     lines = lines.map(&:rstrip)
 
@@ -185,6 +186,27 @@ module CorpusQueue
         else
           blank_count = 0
         end
+        next
+      end
+
+      output << line
+    end
+
+    output
+  end
+
+  def remove_illustration_placeholders(lines)
+    output = []
+    skipping = false
+
+    lines.each do |line|
+      if line.match?(/\A\s*\[Illustration\b/i)
+        skipping = !line.include?("]")
+        next
+      end
+
+      if skipping
+        skipping = false if line.include?("]")
         next
       end
 
