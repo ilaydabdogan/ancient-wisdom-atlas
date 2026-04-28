@@ -30,9 +30,11 @@ TRADITION_LABELS = {
   "greek" => "Greek",
   "hindu" => "Hindu",
   "islamic" => "Islamic",
+  "islamicate_folklore" => "Islamicate Folklore",
   "maya_quiche" => "Maya/Kiche",
   "mesopotamian" => "Mesopotamian",
   "norse" => "Norse",
+  "persian" => "Persian",
   "celtic_irish" => "Celtic Irish",
   "celtic_welsh" => "Celtic Welsh"
 }.freeze

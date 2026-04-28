@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: project-gutenberg-wave-2
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.gutenberg_10315
+  work_id: persian.persian_literature_volume_1.gutenberg
+  title: Persian Literature, Volume 1
+  source_url: https://www.gutenberg.org/ebooks/10315
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/project-gutenberg/10315-shahnameh-selections.txt
+    checksum:
+      algorithm: sha256
+      value: fe463b0f4d89d7cc2659762387a48883564e305f00649caba41ce0af57c842e7
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/10315-shahnameh-selections.md
+    checksum:
+      algorithm: sha256
+      value: 9f1e1342448ca506506349b5e763786bdfd06a880a48a7d18e8b5b0c8c4ea55b
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    checksum:
+      algorithm: sha256
+      value: ecdef585624186133273168ababcd684c02349dd8e12de13fd5390f07ab0e031
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/build_gutenberg_seed.rb
+    version: '1'
+    command: ruby scripts/build_gutenberg_seed.rb 10315
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Generic plain-text converter for public-domain Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: The source catalog page records public-domain status in the USA; reuse
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure, rights metadata, and removal
+      of distributor boilerplate.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
