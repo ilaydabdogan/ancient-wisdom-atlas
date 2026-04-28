@@ -1051,7 +1051,7 @@ items:
   manifest_path: manifests/project-gutenberg/41359-golden-bough-volume-2-frazer.yml
   extraction_dir: extractions/comparative/project-gutenberg/golden-bough-volume-2-frazer
 - id: greek.aesop.fables_vernon_jones_gutenberg
-  status: queued
+  status: ingested
   priority: medium
   source: project_gutenberg
   source_id: '11339'
@@ -1101,6 +1101,15 @@ items:
   - tortoise
   why_it_matters: Adds a compact fable corpus for moral compression, animal symbols,
     trickster intelligence, and cross-cultural wisdom-tale comparison.
+  raw_path: imports/raw/project-gutenberg/11339-aesops-fables-vernon-jones.txt
+  pipeline:
+    raw_fetched_on: '2026-04-28'
+    converted_on: '2026-04-28'
+    promoted_on: '2026-04-28'
+  converted_path: imports/converted/project-gutenberg/11339-aesops-fables-vernon-jones.md
+  canonical_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  manifest_path: manifests/project-gutenberg/11339-aesops-fables-vernon-jones.yml
+  extraction_dir: extractions/greek/project-gutenberg/aesops-fables-vernon-jones
 - id: greek.plato.phaedrus_jowett_gutenberg
   status: queued
   priority: medium

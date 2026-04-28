@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-04-28'
+updated_date: '2026-04-28'
+artifacts:
+- id: artifact.gutenberg_11339
+  work_id: greek.aesop.fables_vernon_jones_gutenberg
+  title: Aesop's Fables; a new translation
+  source_url: https://www.gutenberg.org/ebooks/11339
+  fetch_date: '2026-04-28'
+  raw:
+    path: imports/raw/project-gutenberg/11339-aesops-fables-vernon-jones.txt
+    checksum:
+      algorithm: sha256
+      value: 20dae0e4a1fd7461e8f71a38b55192628a815efe33500f4882665e3127595163
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/11339-aesops-fables-vernon-jones.md
+    checksum:
+      algorithm: sha256
+      value: 54117535681ffcd0a8bb6c40d33122cc38690d205200fe4685d8e5f291de6fce
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+    checksum:
+      algorithm: sha256
+      value: e2e7f0a96041063431235eb6a041574edada6bbbf74e3ec4faac8999e398bb6e
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids greek.aesop.fables_vernon_jones_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-04-28'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.
