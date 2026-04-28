@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.gutenberg_13060
+  work_id: persian.sadi.gulistan.ross_gutenberg
+  title: The Persian Literature, Volume 2, The Gulistan
+  source_url: https://www.gutenberg.org/ebooks/13060
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/project-gutenberg/13060-gulistan-sadi-ross.txt
+    checksum:
+      algorithm: sha256
+      value: cb374b9eec59a173ea9d733884aeb21527c7d8d79b600b3450006ea5b6ca32a8
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/13060-gulistan-sadi-ross.md
+    checksum:
+      algorithm: sha256
+      value: 70dfd2cad8be9212c6d8efdd8b3aae6c8471c1f8da65e16aea3f5de6a77eeeee
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+    checksum:
+      algorithm: sha256
+      value: 17d4216248b925cefb053cf58253248e1abdc1a58210eebbbf5d7e278c87d0d8
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids persian.sadi.gulistan.ross_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; mark
+      as Persian ethical/literary wisdom rather than purely Sufi.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

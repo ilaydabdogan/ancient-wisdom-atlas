@@ -153,7 +153,10 @@ module CorpusQueue
       lines = lines[0...end_index]
     end
 
+    lines = remove_gutenberg_note_blocks(lines)
     lines = remove_transcriber_or_producer_blocks(lines)
+    lines = remove_formatting_warning(lines)
+    lines = remove_braced_redactor_note(lines)
     lines = remove_illustration_placeholders(lines)
     lines = lines.reject do |line|
       line.match?(/\A\s*(Produced by|This eBook was produced by)\b/i) ||
@@ -188,6 +191,72 @@ module CorpusQueue
         end
         next
       end
+
+      output << line
+    end
+
+    output
+  end
+
+  def remove_gutenberg_note_blocks(lines)
+    output = []
+    skipping = false
+
+    lines.each do |line|
+      if line.match?(/\A\s*Project Gutenberg Editors Note:/i) ||
+          line.match?(/\A\s*Notes?:.*Project Gutenberg/i)
+        skipping = true
+        next
+      end
+
+      if skipping
+        skipping = false if line.strip.empty?
+        next
+      end
+
+      output << line
+    end
+
+    output
+  end
+
+  def remove_formatting_warning(lines)
+    output = []
+    skipping = false
+
+    lines.each do |line|
+      if line.match?(/\A\s*Note:\s+This eBook still needs better formatting/i)
+        skipping = true
+        next
+      end
+
+      if skipping
+        skipping = false if line.strip.empty?
+        next
+      end
+
+      output << line
+    end
+
+    output
+  end
+
+  def remove_braced_redactor_note(lines)
+    output = []
+    skipping = false
+
+    lines.each do |line|
+      if line.match?(/\A\s*@@\{[^}]*\z/)
+        skipping = true
+        next
+      end
+
+      if skipping
+        skipping = false if line.include?("}")
+        next
+      end
+
+      next if line.match?(/\A\s*@@\{.*\}\s*\z/)
 
       output << line
     end

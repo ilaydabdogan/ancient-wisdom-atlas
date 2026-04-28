@@ -321,7 +321,7 @@ items:
   manifest_path: manifests/project-gutenberg/38511-sufistic-quatrains-omar-khayyam.yml
   extraction_dir: extractions/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam
 - id: persian.sadi.gulistan.ross_gutenberg
-  status: queued
+  status: ingested
   priority: high
   source: project_gutenberg
   source_id: '13060'
@@ -374,6 +374,15 @@ items:
   - dervishes
   why_it_matters: Adds Sa'di's ethical and dervish material for wisdom, kingship,
     renunciation, speech, and moral anecdote patterns.
+  raw_path: imports/raw/project-gutenberg/13060-gulistan-sadi-ross.txt
+  pipeline:
+    raw_fetched_on: '2026-04-27'
+    converted_on: '2026-04-27'
+    promoted_on: '2026-04-27'
+  converted_path: imports/converted/project-gutenberg/13060-gulistan-sadi-ross.md
+  canonical_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
+  manifest_path: manifests/project-gutenberg/13060-gulistan-sadi-ross.yml
+  extraction_dir: extractions/persian/project-gutenberg/gulistan-sadi-ross
 - id: greek.odyssey.butler_gutenberg
   status: queued
   priority: high
