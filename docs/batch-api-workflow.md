@@ -18,6 +18,13 @@ The first production pipeline is passage-level motif, symbol, and pattern extrac
 
 All run state lives under `data/batches/<run_id>/`.
 
+The second pipeline is embeddings generation for either:
+
+- segmented canonical-text passages, using `passages.jsonl` from the segmenter
+- existing extraction YAML records under `extractions/`
+
+Embedding vectors are ingested under `data/embeddings/<run_id>/`.
+
 ## Official API Assumptions
 
 The scripts follow the OpenAI Batch API contract:
@@ -27,6 +34,7 @@ The scripts follow the OpenAI Batch API contract:
 - Batch input files are uploaded through the Files API with `purpose=batch`.
 - Batch jobs are created with an uploaded `input_file_id`, an endpoint such as `/v1/responses`, and `completion_window=24h`.
 - Completed jobs expose output and error files by file ID.
+- Embedding batches can target `/v1/embeddings`; keep one embedding input per request for simple accounting against the documented 50,000 embedding-input batch limit.
 
 Reference docs:
 
@@ -46,10 +54,19 @@ export OPENAI_API_KEY="..."
 You can override the default extraction model:
 
 ```sh
-export OPENAI_BATCH_MODEL="gpt-5.4-mini"
+export OPENAI_BATCH_MODEL="gpt-5.2"
+export OPENAI_BATCH_REASONING_EFFORT="high"
 ```
 
 The request generator also accepts `--model`.
+
+For the schema-driven motif extraction pipeline, prefer `gpt-5.2` over slower variants that do not support structured outputs.
+
+You can override the default embedding model:
+
+```sh
+export OPENAI_EMBEDDING_MODEL="text-embedding-3-large"
+```
 
 ## Demo Batch
 
@@ -82,6 +99,25 @@ This creates:
 - `data/batches/demo-motif-extraction/requests/index.yml`
 - `data/batches/demo-motif-extraction/requests/shard-*.jsonl`
 - `data/batches/demo-motif-extraction/manifest.yml`
+
+Create a small embeddings demo from those same passages:
+
+```sh
+ruby scripts/batch_prepare_embedding_requests.rb \
+  --run-id demo-embeddings \
+  --source passages \
+  --passages data/batches/demo-motif-extraction/passages.jsonl \
+  --model "$OPENAI_EMBEDDING_MODEL" \
+  --max-requests-per-shard 2 \
+  --force
+```
+
+This creates:
+
+- `data/batches/demo-embeddings/embedding-request-map.jsonl`
+- `data/batches/demo-embeddings/requests/index.yml`
+- `data/batches/demo-embeddings/requests/shard-*.jsonl`
+- `data/batches/demo-embeddings/manifest.yml`
 
 ## Submit And Track
 
@@ -121,6 +157,16 @@ Ingest successful output records into draft extraction YAML:
 ruby scripts/batch_ingest_motif_results.rb --run-id demo-motif-extraction
 ```
 
+For embeddings runs, use the same upload, create, status, and download commands with the embeddings `run_id`, then ingest vectors:
+
+```sh
+ruby scripts/batch_upload_inputs.rb --run-id demo-embeddings
+ruby scripts/batch_create_jobs.rb --run-id demo-embeddings
+ruby scripts/batch_status.rb --run-id demo-embeddings
+ruby scripts/batch_download_results.rb --run-id demo-embeddings
+ruby scripts/batch_ingest_embedding_results.rb --run-id demo-embeddings
+```
+
 The importer writes machine-generated drafts to:
 
 ```text
@@ -149,6 +195,28 @@ ruby scripts/batch_prepare_motif_requests.rb \
 
 Then upload, create, poll, download, and ingest with the same commands shown above.
 
+To prepare embeddings for the same segmented passages:
+
+```sh
+ruby scripts/batch_prepare_embedding_requests.rb \
+  --run-id passage-embeddings-YYYY-MM-DD \
+  --source passages \
+  --passages data/batches/motif-extraction-YYYY-MM-DD/passages.jsonl \
+  --model "$OPENAI_EMBEDDING_MODEL" \
+  --max-requests-per-shard 10000 \
+  --max-bytes-per-shard 188743680
+```
+
+To prepare embeddings for reviewed or draft extraction records:
+
+```sh
+ruby scripts/batch_prepare_embedding_requests.rb \
+  --run-id extraction-embeddings-YYYY-MM-DD \
+  --source extractions \
+  --extraction-glob "extractions/**/*.yml" \
+  --model "$OPENAI_EMBEDDING_MODEL"
+```
+
 ## Resumability
 
 The pipeline is designed for reruns:
@@ -160,7 +228,8 @@ The pipeline is designed for reruns:
 - Job creation skips shards that already have recorded Batch IDs.
 - Download scripts skip files already present unless `--force` is used.
 - Ingest writes `data/batches/<run_id>/ingested-results.jsonl` and skips already materialized records when content is unchanged.
-- Re-running request preparation skips previously ingested `custom_id`s unless `--include-ingested` is passed.
+- Re-running motif request preparation skips previously ingested `custom_id`s unless `--include-ingested` is passed.
+- Embedding ingestion merges by `custom_id` into `data/embeddings/<run_id>/embeddings.jsonl` and records per-item ingest status under `data/batches/<run_id>/embedding-ingested-results.jsonl`.
 
 Use the same `run_id` to resume an interrupted workflow. Use a new `run_id` for a new scientific pass, model change, prompt change, or corpus-wide rerun.
 

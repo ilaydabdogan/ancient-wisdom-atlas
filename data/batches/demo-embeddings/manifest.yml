@@ -1,0 +1,28 @@
+---
+batch_pipeline_manifest_version: '1'
+run_id: demo-embeddings
+created_at: '2026-04-28T04:59:15Z'
+updated_at: '2026-04-28T05:10:36Z'
+artifacts:
+  embedding_source_passages_path: data/batches/demo-motif-extraction/passages.jsonl
+  requests_index_path: data/batches/demo-embeddings/requests/index.yml
+  embedding_request_map_path: data/batches/demo-embeddings/embedding-request-map.jsonl
+openai: {}
+state: {}
+pipeline: embeddings
+status: requests_prepared
+config:
+  embedding_request_generation:
+    source: passages
+    model: text-embedding-3-large
+    endpoint: "/v1/embeddings"
+    encoding_format: float
+    dimensions: 
+    limit: 
+    max_input_chars: 24000
+    max_requests_per_shard: 2
+    max_bytes_per_shard: 188743680
+counts:
+  embedding_inputs_prepared: 4
+  request_shards: 2
+

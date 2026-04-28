@@ -2,7 +2,7 @@
 batch_pipeline_manifest_version: '1'
 run_id: motif-extraction-2026-04-27-corpus
 created_at: '2026-04-28T02:43:05Z'
-updated_at: '2026-04-28T02:43:33Z'
+updated_at: '2026-04-28T05:10:38Z'
 artifacts:
   passages_path: data/batches/motif-extraction-2026-04-27-corpus/passages.jsonl
   requests_index_path: data/batches/motif-extraction-2026-04-27-corpus/requests/index.yml
@@ -19,12 +19,12 @@ config:
     min_chars: 500
     limit: 
   motif_request_generation:
-    model: gpt-5.4-mini
+    model: gpt-5.2
     endpoint: "/v1/responses"
     prompt_path: templates/batch-motif-extraction-prompt.md
     max_output_tokens: 4000
     temperature: 
-    reasoning_effort: 
+    reasoning_effort: high
     max_requests_per_shard: 1000
     max_bytes_per_shard: 188743680
 counts:

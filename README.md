@@ -104,7 +104,7 @@ Expected project URL after Pages is enabled: `https://ilaydabdogan.github.io/anc
 
 ## Batch Processing
 
-Use [docs/batch-api-workflow.md](docs/batch-api-workflow.md) for the OpenAI Batch API workflow that segments clean canonical Markdown, prepares sharded JSONL requests, uploads and tracks Batch jobs, downloads results, and stages machine-generated extraction drafts for human review.
+Use [docs/batch-api-workflow.md](docs/batch-api-workflow.md) for the OpenAI Batch API workflows that segment clean canonical Markdown, prepare sharded JSONL requests, upload and track Batch jobs, download results, stage machine-generated extraction drafts for human review, and generate embeddings for passages or extraction records.
 
 ## Scale-Up Workflow
 

@@ -3,13 +3,15 @@
 
 require_relative "batch_common"
 
-DEFAULT_MODEL = ENV.fetch("OPENAI_BATCH_MODEL", "gpt-5.4-mini")
+DEFAULT_MODEL = ENV.fetch("OPENAI_BATCH_MODEL", "gpt-5.2")
+DEFAULT_REASONING_EFFORT = ENV.fetch("OPENAI_BATCH_REASONING_EFFORT", "high")
 
 options = {
   model: DEFAULT_MODEL,
   endpoint: AtlasBatch::DEFAULT_ENDPOINT,
   prompt_path: "templates/batch-motif-extraction-prompt.md",
   max_output_tokens: 4_000,
+  reasoning_effort: DEFAULT_REASONING_EFFORT,
   max_requests_per_shard: 1_000,
   max_bytes_per_shard: 180 * 1024 * 1024,
   include_ingested: false,
