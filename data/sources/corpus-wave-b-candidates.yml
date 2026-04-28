@@ -1,0 +1,145 @@
+collection_id: corpus_wave_b_candidates
+title: Corpus Wave B Candidate Sources
+created_on: '2026-04-27'
+notes: Compact handoff list for the next ingestion wave; verify exact edition metadata before fetching raw text.
+candidates:
+- title: The Analects of Confucius
+  tradition: confucian
+  culture: classical_chinese
+  source_url: https://www.gutenberg.org/ebooks/3330
+  priority: high
+  rights_notes: Project Gutenberg catalog page records public-domain status in the USA.
+  why_it_matters: Core Confucian ethics and governance text; strong comparison set for virtue, ritual, filial duty, and sagehood.
+- title: The Sayings of Confucius
+  tradition: confucian
+  culture: classical_chinese
+  source_url: https://www.gutenberg.org/ebooks/46389
+  priority: medium
+  rights_notes: Project Gutenberg source; verify translator/editor metadata before ingest.
+  why_it_matters: Short Confucian wisdom collection useful for aphoristic comparison against Tao Te Ching and Dhammapada.
+- title: The Koran (Al-Qur'an), Rodwell translation
+  tradition: islamic
+  culture: arabic_islamic
+  source_url: https://www.gutenberg.org/ebooks/3434
+  priority: high
+  rights_notes: Project Gutenberg catalog page records public-domain status in the USA.
+  why_it_matters: Foundational Islamic scripture in a public-domain English translation; expands prophetic, legal, and apocalyptic motifs.
+- title: The Koran (Al-Qur'an), Sale translation
+  tradition: islamic
+  culture: arabic_islamic
+  source_url: https://www.gutenberg.org/ebooks/7440
+  priority: medium
+  rights_notes: Project Gutenberg source; compare edition and translation notes with Rodwell before choosing one.
+  why_it_matters: Alternate public-domain Qur'an translation for philological comparison or future variant tracking.
+- title: Kalevala, the Epic Poem of Finland - Complete
+  tradition: finnish_karelian
+  culture: finno_ugric
+  source_url: https://www.gutenberg.org/ebooks/5186
+  priority: high
+  rights_notes: Project Gutenberg catalog page records public-domain status in the USA.
+  why_it_matters: Major northern epic with creation, magic song, smithing, underworld, and world-object motifs.
+- title: The Upanishads
+  tradition: hindu
+  culture: sanskrit_vedic
+  source_url: https://www.gutenberg.org/ebooks/3283
+  priority: high
+  rights_notes: Project Gutenberg catalog page records public-domain status in the USA.
+  why_it_matters: Central wisdom and metaphysical corpus for self, ultimate reality, breath, death, and liberation motifs.
+- title: The Ramayana and Mahabharata Condensed into English Verse
+  tradition: hindu
+  culture: sanskrit_epic
+  source_url: https://www.gutenberg.org/ebooks/19630
+  priority: high
+  rights_notes: Project Gutenberg source; condensed retelling, so mark ingestion as adaptation/abridgment if used.
+  why_it_matters: Adds Rama, Sita, Pandavas, exile, dharma, war, ordeal, and divine weapon motifs in a manageable public-domain form.
+- title: The Ramayana of Valmiki, Griffith translation
+  tradition: hindu
+  culture: sanskrit_epic
+  discovery_note: Locate and verify the public-domain Griffith translation, preferably a complete volume set from Project Gutenberg, Internet Archive, or another auditable source.
+  priority: medium
+  rights_notes: Griffith's 19th-century translation is public domain, but exact source files and completeness need verification.
+  why_it_matters: A fuller Ramayana source would improve comparison of exile, forest, bridge-building, demon combat, and royal restoration motifs.
+- title: Rig Veda, Griffith translation
+  tradition: vedic
+  culture: sanskrit_vedic
+  discovery_note: Verify a clean public-domain source for Ralph T. H. Griffith's Rig Veda translation, such as Sacred Texts or archive scans.
+  priority: high
+  rights_notes: Translation is public domain by age; ingestion source and reuse terms should be checked before raw capture.
+  why_it_matters: Foundational Indo-Aryan hymn corpus for fire, dawn, storm, sacrifice, cosmic order, and creation motifs.
+- title: Gods and Fighting Men
+  tradition: celtic_irish
+  culture: medieval_irish
+  source_url: https://www.gutenberg.org/ebooks/14465
+  priority: high
+  rights_notes: Project Gutenberg catalog page records public-domain status in the USA.
+  why_it_matters: Strong Tuatha de Danaan and Fianna source for divine races, magic treasures, heroic bands, and otherworld encounters.
+- title: Cuchulain of Muirthemne
+  tradition: celtic_irish
+  culture: ulster_cycle
+  source_url: https://www.gutenberg.org/ebooks/16464
+  priority: high
+  rights_notes: Project Gutenberg source; verify catalog metadata and plain-text availability before ingest.
+  why_it_matters: Key Irish heroic cycle source for warrior initiation, battle frenzy, geasa, cattle raid, and tragic hero motifs.
+- title: Heroic Romances of Ireland
+  tradition: celtic_irish
+  culture: medieval_irish
+  source_url: https://www.gutenberg.org/ebooks/759
+  priority: medium
+  rights_notes: Project Gutenberg source; verify completeness and volume boundaries before ingest.
+  why_it_matters: Adds additional Irish narrative material for otherworld journeys, taboo, sovereignty, and transformation motifs.
+- title: The Mabinogion
+  tradition: celtic_welsh
+  culture: medieval_welsh
+  source_url: https://www.gutenberg.org/ebooks/5160
+  priority: high
+  rights_notes: Project Gutenberg source; verify translator and full text before ingest.
+  why_it_matters: Major Welsh mythic narrative collection with cauldrons, sovereignty, enchantment, animal transformations, and heroic quests.
+- title: The Kojiki
+  tradition: shinto
+  culture: ancient_japanese
+  discovery_note: Verify a public-domain Basil Hall Chamberlain or equivalent translation from Sacred Texts, Internet Archive, or another auditable source.
+  priority: high
+  rights_notes: Chamberlain translation is public domain by age; confirm source reuse terms and completeness.
+  why_it_matters: Foundational Japanese myth-history for creation, descent, sun goddess, storm god, underworld, and imperial origin motifs.
+- title: Nihongi, Chronicles of Japan
+  tradition: shinto
+  culture: ancient_japanese
+  discovery_note: Verify a public-domain W. G. Aston translation source and decide whether to ingest complete volumes or selected books.
+  priority: medium
+  rights_notes: Aston translation is public domain by age; exact source and completeness need verification.
+  why_it_matters: Complements Kojiki with variant Japanese cosmogony, deity genealogy, rulership, and ritual narratives.
+- title: The Popol Vuh
+  tradition: maya_quiche
+  culture: mesoamerican
+  discovery_note: Locate a public-domain English translation with auditable source files; verify copyright and translator date carefully.
+  priority: high
+  rights_notes: Candidate requires rights review; avoid modern copyrighted translations.
+  why_it_matters: Essential Mesoamerican myth text for creation attempts, hero twins, underworld trials, ballgame, and maize humanity motifs.
+- title: The Zend-Avesta
+  tradition: zoroastrian
+  culture: ancient_iranian
+  discovery_note: Verify public-domain Sacred Books of the East translations by James Darmesteter/L. H. Mills and choose complete ingest units.
+  priority: high
+  rights_notes: SBE translations are public domain by age; source files and volume segmentation need verification.
+  why_it_matters: Adds Iranian dualism, purity law, eschatology, sacred fire, demons, and cosmic conflict motifs.
+- title: The Epic of Kings (Shahnameh selections)
+  tradition: persian
+  culture: medieval_iranian
+  source_url: https://www.gutenberg.org/ebooks/10315
+  priority: medium
+  rights_notes: Project Gutenberg source; likely a selected/translated adaptation, so mark scope carefully if ingested.
+  why_it_matters: Persian heroic material for kingship, dragon combat, tragic kinship, hero cycles, and royal legitimacy motifs.
+- title: The Arabian Nights Entertainments
+  tradition: islamicate_folklore
+  culture: arabic_persian_indian_folklore
+  source_url: https://www.gutenberg.org/ebooks/128
+  priority: medium
+  rights_notes: Project Gutenberg source; verify edition, translator, and whether it is complete or selected.
+  why_it_matters: Expands frame-story, trickster, wonder journey, jinn, fate, and wisdom-tale material.
+- title: The Iliad
+  tradition: greek
+  culture: ancient_greek
+  source_url: https://www.gutenberg.org/ebooks/6130
+  priority: medium
+  rights_notes: Project Gutenberg source; choose translation intentionally and avoid duplicating existing Greek hymn coverage.
+  why_it_matters: Adds a complete heroic war epic for wrath, honor, divine intervention, fate, lament, and death-in-battle motifs.

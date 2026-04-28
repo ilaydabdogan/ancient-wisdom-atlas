@@ -90,7 +90,11 @@ See [docs/pattern-discovery-logic.md](docs/pattern-discovery-logic.md) for how t
 
 ## Similarity Browser
 
-Start with [comparisons/](comparisons/) for evidence-backed cross-cultural comparison pages and the generated [motif occurrence index](comparisons/motif-index.md), which groups extraction records by motif across traditions.
+Start with [comparisons/](comparisons/) for evidence-backed cross-cultural comparison pages and the generated [motif occurrence index](comparisons/motif-index.md), which groups extraction records by motif across traditions. The GitHub Pages site also builds individual motif pages, tradition-bridge tables, and a [timeline data index](data/indexes/cultural-timeline.yml) for approximate era comparison.
+
+## Next Corpus Wave
+
+[data/sources/corpus-wave-b-candidates.yml](data/sources/corpus-wave-b-candidates.yml) tracks 20 high-value public-domain or rights-review candidate sources for the next ingestion push, including Confucian, Islamic, Finnish/Karelian, Vedic, Celtic, Shinto, Mesoamerican, Zoroastrian, Persian, and Greek materials.
 
 ## GitHub Pages
 

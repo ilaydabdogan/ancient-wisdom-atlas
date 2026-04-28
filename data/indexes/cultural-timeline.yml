@@ -1,0 +1,155 @@
+---
+timeline_id: cultural_timeline
+title: Cultural Timeline Index
+date_model: approximate_year_range
+year_format: signed_bce_ce_sort_key
+notes:
+- Dates are approximate scholarly working ranges for textual composition, redaction,
+  compilation, or earliest recoverable written form.
+- Negative years represent approximate BCE dates as sortable keys.
+- Ranges are intentionally broad where oral transmission, layered composition, or
+  later manuscript preservation complicates dating.
+entries:
+- id: egyptian.book_of_the_dead
+  title: The Book of the Dead
+  tradition_cluster: egyptian
+  culture: ancient_egyptian
+  region: egypt
+  approximate_date_range:
+    start_year: -1550
+    end_year: -1070
+    display: ca. 1550-1070 BCE
+  timeline_label: New Kingdom Egyptian funerary spell tradition
+  current_text_paths:
+  - texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  manifest_paths:
+  - manifests/project-gutenberg/7145-book-of-the-dead.yml
+  uncertainty: The Book of the Dead is a compilation of funerary spells with older
+    antecedents and later copies; this range marks the New Kingdom period in which
+    the collection became prominent, not a single date of authorship.
+- id: mesopotamian.gilgamesh.old_babylonian
+  title: An Old Babylonian Version of the Gilgamesh Epic
+  tradition_cluster: mesopotamian
+  culture: old_babylonian
+  region: mesopotamia
+  approximate_date_range:
+    start_year: -1800
+    end_year: -1600
+    display: ca. 1800-1600 BCE
+  timeline_label: Old Babylonian Gilgamesh tradition
+  current_text_paths:
+  - texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  manifest_paths:
+  - manifests/project-gutenberg/11000-old-babylonian-gilgamesh.yml
+  uncertainty: The ingested text represents Old Babylonian Gilgamesh material rather
+    than the later Standard Babylonian epic; dating refers to the approximate period
+    of the Old Babylonian witnesses and tradition.
+- id: biblical.pentateuch
+  title: Pentateuch
+  tradition_cluster: jewish_christian
+  culture: ancient_israelite_later_biblical_reception
+  region: levant
+  approximate_date_range:
+    start_year: -900
+    end_year: -400
+    display: ca. 900-400 BCE
+  timeline_label: Ancient Israelite Torah composition and redaction
+  current_text_paths:
+  - texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  - texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  - texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  - texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  - texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  manifest_paths:
+  - manifests/biblical/world-english-bible-classic-genesis.yml
+  - manifests/biblical/world-english-bible-classic-exodus.yml
+  - manifests/biblical/world-english-bible-classic-leviticus.yml
+  - manifests/biblical/world-english-bible-classic-numbers.yml
+  - manifests/biblical/world-english-bible-classic-deuteronomy.yml
+  uncertainty: The Pentateuch is treated here as layered literature with debated
+    composition and redaction histories; the range is broad and should not be read
+    as dating every passage equally.
+- id: daoist.tao_teh_king
+  title: The Tao Teh King, or the Tao and its Characteristics
+  tradition_cluster: daoist_chinese
+  culture: early_chinese_warring_states
+  region: china
+  approximate_date_range:
+    start_year: -400
+    end_year: -250
+    display: ca. 400-250 BCE
+  timeline_label: Warring States Daoist textual tradition
+  current_text_paths:
+  - texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md
+  manifest_paths:
+  - manifests/project-gutenberg/216-tao-teh-king.yml
+  uncertainty: The Tao Teh King has a debated compositional history; this range marks
+    a cautious Warring States-era working window for the received textual tradition.
+- id: buddhist.dhammapada
+  title: Dhammapada, a Collection of Verses
+  tradition_cluster: buddhist
+  culture: early_buddhist_pali_canon_later_translation
+  region: south_asia
+  approximate_date_range:
+    start_year: -300
+    end_year: -100
+    display: ca. 300-100 BCE
+  timeline_label: Early Buddhist verse collection
+  current_text_paths:
+  - texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  manifest_paths:
+  - manifests/project-gutenberg/2017-dhammapada.yml
+  uncertainty: Individual verses may be older than their canonical arrangement; this
+    range is a working estimate for early Buddhist/Pali canonical formation rather
+    than a precise date for every verse.
+- id: hindu.bhagavad_gita
+  title: The Song Celestial; Or, Bhagavad-Gita
+  tradition_cluster: hindu
+  culture: ancient_indian_epic_sanskrit
+  region: south_asia
+  approximate_date_range:
+    start_year: -200
+    end_year: 200
+    display: ca. 200 BCE-200 CE
+  timeline_label: Sanskrit epic and devotional-philosophical tradition
+  current_text_paths:
+  - texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+  manifest_paths:
+  - manifests/project-gutenberg/2388-song-celestial-bhagavad-gita.yml
+  uncertainty: The Bhagavad-Gita is embedded in the Mahabharata and is usually dated
+    within a broad late BCE to early CE window; this entry does not resolve internal
+    layering or redaction questions.
+- id: greek.hesiod_homeric_hymns
+  title: Hesiod, the Homeric Hymns, and Homerica
+  tradition_cluster: greek
+  culture: archaic_greek
+  region: mediterranean
+  approximate_date_range:
+    start_year: -750
+    end_year: -400
+    display: ca. 750-400 BCE
+  timeline_label: Archaic Greek poetic and hymnic tradition
+  current_text_paths:
+  - texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  manifest_paths:
+  - manifests/project-gutenberg/348-hesiod-homeric-hymns-homerica.yml
+  uncertainty: The ingested anthology combines Hesiodic poems, Homeric Hymns, and
+    related material with different dates; the range covers the approximate span of
+    these archaic/classical poetic witnesses rather than one work.
+- id: norse.poetic_edda
+  title: The Poetic Edda
+  tradition_cluster: norse
+  culture: old_norse_icelandic
+  region: north_atlantic
+  approximate_date_range:
+    start_year: 800
+    end_year: 1270
+    display: ca. 800-1270 CE
+  timeline_label: Old Norse mythological and heroic poetic tradition
+  current_text_paths:
+  - texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  manifest_paths:
+  - manifests/project-gutenberg/73533-poetic-edda.yml
+  uncertainty: Many Eddic poems likely preserve older oral and poetic material, but
+    the main medieval manuscript witness is much later; this range separates broad
+    traditional formation from exact manuscript dating only imperfectly.

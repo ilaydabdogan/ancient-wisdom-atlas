@@ -14,6 +14,9 @@ Use it in three levels:
 - [Sacred Axis And World Center](sacred-axis-world-center.md)
 - [Wisdom, Revelation, And Quest](wisdom-revelation-quest.md)
 - [Divine Judgment And Moral Order](divine-judgment-moral-order.md)
+- [Divine Mother And Holy Child](divine-mother-holy-child.md)
+- [Death, Descent, And Return](death-descent-and-return.md)
+- [Flood, Renewal, And World Remaking](flood-renewal-and-world-remaking.md)
 
 ## Reading Rule
 

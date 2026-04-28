@@ -14,6 +14,7 @@ NAV = [
   ["Home", "index.html"],
   ["Texts", "texts/index.html"],
   ["Motifs", "motifs/index.html"],
+  ["Timeline", "timeline/index.html"],
   ["Comparisons", "comparisons/index.html"],
   ["Patterns", "patterns/index.html"],
   ["Extractions", "extractions/index.html"]
@@ -79,6 +80,10 @@ def output_for_repo_path(path)
   else
     nil
   end
+end
+
+def motif_output(motif_id)
+  ["motifs", "#{slugify(motif_id)}.html"].join("/")
 end
 
 def relative_url(from_output, to_output)
@@ -309,6 +314,53 @@ def tradition_label(value)
   TRADITION_LABELS.fetch(value.to_s, value.to_s.split("_").map(&:capitalize).join(" "))
 end
 
+def titleize(value)
+  value.to_s.tr("_-", " ").split.map(&:capitalize).join(" ")
+end
+
+def link_to_output(current_output, output, label)
+  return esc(label) if output.nil? || output.empty?
+
+  %(<a href="#{esc(relative_url(current_output, output))}">#{esc(label)}</a>)
+end
+
+def tradition_totals(motifs)
+  motifs.each_with_object(Hash.new(0)) do |motif, totals|
+    motif.fetch("occurrences", []).each do |occurrence|
+      totals[occurrence["tradition"]] += 1 if occurrence["tradition"]
+    end
+  end
+end
+
+def motif_bridge_rows(motifs)
+  bridges = Hash.new { |hash, key| hash[key] = { count: 0, motifs: [] } }
+  motifs.each do |motif|
+    traditions = motif.fetch("traditions", {}).keys.compact.sort
+    next if traditions.length < 2
+
+    traditions.combination(2) do |left, right|
+      bridge = bridges[[left, right]]
+      bridge[:count] += 1
+      bridge[:motifs] << motif
+    end
+  end
+  bridges.sort_by { |(left, right), data| [-data[:count], left.to_s, right.to_s] }
+end
+
+def timeline_sort_value(entry)
+  explicit = entry["sort_year"] || entry["start_year"] || entry["approx_start_year"] || entry.dig("approximate_date_range", "start_year")
+  return explicit.to_i if explicit
+
+  date_text = [entry["date_range"], entry["approx_date"], entry["date_label"], entry.dig("approximate_date_range", "display")].compact.join(" ")
+  if (match = date_text.match(/(\d{1,4})\s*(?:BCE|BC)/i))
+    -match[1].to_i
+  elsif (match = date_text.match(/(\d{1,4})\s*(?:CE|AD)/i))
+    match[1].to_i
+  else
+    999_999
+  end
+end
+
 def card(title, body, href: nil, meta: nil)
   tag_open = href ? %(<a class="card" href="#{esc(href)}">) : %(<div class="card">)
   tag_close = href ? "</a>" : "</div>"
@@ -358,7 +410,12 @@ def build_home(texts, comparisons, motif_index, extractions)
   motif_count = motif_index["motif_count"]
   occurrence_count = motif_index["occurrence_count"]
   traditions = texts.map { |item| item[:metadata]["tradition"] }.compact.uniq.length
-  top_motifs = motif_index.fetch("motifs", []).first(8)
+  motifs = motif_index.fetch("motifs", [])
+  top_motifs = motifs.first(8)
+  cross_tradition_motifs = motifs
+    .select { |motif| motif.fetch("traditions", {}).length >= 2 }
+    .sort_by { |motif| [-motif.fetch("traditions", {}).length, -motif.fetch("occurrences", []).length, motif["label"].to_s] }
+    .first(4)
 
   body = <<~HTML
     <section class="stats-grid">
@@ -387,7 +444,20 @@ def build_home(texts, comparisons, motif_index, extractions)
       </div>
       <div class="motif-cloud">
         #{top_motifs.map do |motif|
-          %(<a href="#{relative_url(current, "motifs/index.html")}#motif-#{esc(motif["motif_id"])}"><strong>#{esc(motif["label"])}</strong><span>#{motif["occurrences"].length} appearances</span></a>)
+          %(<a href="#{relative_url(current, motif_output(motif["motif_id"]))}"><strong>#{esc(motif["label"])}</strong><span>#{motif["occurrences"].length} appearances</span></a>)
+        end.join}
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <h2>Cross-Culture Signals</h2>
+        <a href="#{relative_url(current, "motifs/index.html")}#bridges">Open bridge map</a>
+      </div>
+      <div class="card-grid">
+        #{cross_tradition_motifs.map do |motif|
+          traditions_text = motif.fetch("traditions", {}).keys.map { |name| tradition_label(name) }.join(", ")
+          card(motif["label"], traditions_text, href: relative_url(current, motif_output(motif["motif_id"])), meta: "#{motif.fetch("traditions", {}).length} traditions")
         end.join}
       </div>
     </section>
@@ -486,37 +556,83 @@ end
 
 def build_motifs(motif_index)
   current = "motifs/index.html"
-  rows = motif_index.fetch("motifs", []).map do |motif|
+  motifs = motif_index.fetch("motifs", [])
+  cross_tradition = motifs
+    .select { |motif| motif.fetch("traditions", {}).length >= 2 }
+    .sort_by { |motif| [-motif.fetch("traditions", {}).length, -motif.fetch("occurrences", []).length, motif["label"].to_s] }
+  totals = tradition_totals(motifs).sort_by { |name, count| [-count, tradition_label(name)] }
+  bridge_rows = motif_bridge_rows(motifs).first(14)
+
+  motif_cards = motifs.map do |motif|
     traditions = motif.fetch("traditions", {}).sort.map { |name, count| "#{tradition_label(name)} (#{count})" }.join(", ")
     <<~HTML
-      <section id="motif-#{esc(motif["motif_id"])}" class="motif-section searchable" data-search="#{esc([motif["motif_id"], motif["label"], traditions].join(" "))}">
-        <div class="motif-section-heading">
-          <div>
-            <span class="row-kicker">#{esc(motif["motif_id"])}</span>
-            <h2>#{esc(motif["label"].to_s.split.map(&:capitalize).join(" "))}</h2>
-          </div>
-          <strong>#{motif["occurrences"].length} appearances</strong>
+      <article id="motif-#{esc(motif["motif_id"])}" class="list-row searchable" data-search="#{esc([motif["motif_id"], motif["label"], traditions].join(" "))}">
+        <div>
+          <span class="row-kicker">#{esc(motif["motif_id"])}</span>
+          <h3><a href="#{esc(relative_url(current, motif_output(motif["motif_id"])))}">#{esc(titleize(motif["label"]))}</a></h3>
+          <p>#{esc(traditions)}</p>
         </div>
-        <p class="muted">#{esc(traditions)}</p>
-        <div class="table-wrap">
-          <table>
-            <tr><th>Tradition</th><th>Source</th><th>Passage</th><th>Motif label</th><th>Record</th></tr>
-            #{motif["occurrences"].map do |occ|
-              source_output = output_for_repo_path(occ["source_text_path"])
-              extraction_output = output_for_repo_path(occ["extraction_path"])
-              "<tr><td>#{esc(tradition_label(occ["tradition"]))}</td><td><a href=\"#{esc(relative_url(current, source_output))}\">#{esc(occ["source_title"])}</a></td><td>#{esc(occ["passage_locator"])}</td><td>#{esc(occ["motif_label"])}</td><td><a href=\"#{esc(relative_url(current, extraction_output))}\">record</a></td></tr>"
-            end.join}
-          </table>
-        </div>
-      </section>
+        <small>#{motif.fetch("occurrences", []).length} appearances</small>
+      </article>
     HTML
   end.join
 
   body = <<~HTML
+    <section class="insight-band">
+      <div>
+        <span class="row-kicker">Pattern discovery</span>
+        <h2>Motifs That Travel Across Worlds</h2>
+        <p>The atlas does not treat resemblance as proof of copying. It makes recurring symbolic structures visible, then keeps the evidence close enough to inspect.</p>
+      </div>
+      <div class="insight-stats">
+        <strong>#{cross_tradition.length}</strong>
+        <span>motifs appear in more than one tradition</span>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <h2>Cross-Tradition Motifs</h2>
+      </div>
+      <div class="card-grid">
+        #{cross_tradition.first(8).map do |motif|
+          traditions_text = motif.fetch("traditions", {}).keys.map { |name| tradition_label(name) }.join(", ")
+          card(titleize(motif["label"]), traditions_text, href: relative_url(current, motif_output(motif["motif_id"])), meta: "#{motif.fetch("traditions", {}).length} traditions")
+        end.join}
+      </div>
+    </section>
+
+    <section id="bridges" class="section">
+      <div class="section-heading">
+        <h2>Tradition Bridges</h2>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <tr><th>Tradition Pair</th><th>Shared Motifs</th><th>Motifs</th></tr>
+          #{bridge_rows.map do |(left, right), data|
+            motif_links = data[:motifs].first(8).map { |motif| link_to_output(current, motif_output(motif["motif_id"]), titleize(motif["label"])) }.join(", ")
+            "<tr><td>#{esc(tradition_label(left))} + #{esc(tradition_label(right))}</td><td>#{data[:count]}</td><td>#{motif_links}</td></tr>"
+          end.join}
+        </table>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <h2>Tradition Signal Strength</h2>
+      </div>
+      <div class="signal-bars">
+        #{totals.map do |name, count|
+          width = motif_index["occurrence_count"].to_i.positive? ? ((count.to_f / motif_index["occurrence_count"].to_i) * 100).round(1) : 0
+          %(<div class="signal-bar"><span>#{esc(tradition_label(name))}</span><strong>#{count}</strong><i style="width: #{width}%"></i></div>)
+        end.join}
+      </div>
+    </section>
+
     <section class="toolbar">
       <input type="search" class="search-input" placeholder="Search motifs, traditions, or sources" data-search-target=".searchable">
     </section>
-    #{rows}
+    <section class="list-panel">#{motif_cards}</section>
   HTML
 
   write_page(current, layout(
@@ -525,6 +641,56 @@ def build_motifs(motif_index)
     current_output: current,
     body: body
   ))
+
+  motifs.each do |motif|
+    output = motif_output(motif["motif_id"])
+    traditions = motif.fetch("traditions", {}).sort.map { |name, count| "#{tradition_label(name)} (#{count})" }.join(", ")
+    occurrence_rows = motif.fetch("occurrences", []).map do |occ|
+      source_output = output_for_repo_path(occ["source_text_path"])
+      extraction_output = output_for_repo_path(occ["extraction_path"])
+      evidence = occ.fetch("evidence", []).first || {}
+      quote_or_summary = evidence["quote_or_summary"].to_s.strip
+      <<~HTML
+        <tr>
+          <td>#{esc(tradition_label(occ["tradition"]))}</td>
+          <td>#{link_to_output(output, source_output, occ["source_title"])}</td>
+          <td>#{esc(occ["passage_locator"])}</td>
+          <td><span class="confidence #{esc(occ["confidence"])}">#{esc(occ["confidence"])}</span></td>
+          <td>#{esc(quote_or_summary.empty? ? occ["basis"] : quote_or_summary)}</td>
+          <td>#{link_to_output(output, extraction_output, "record")}</td>
+        </tr>
+      HTML
+    end.join
+
+    body = <<~HTML
+      <section class="motif-detail-grid">
+        <aside class="metadata-panel">
+          <dl>
+            <dt>Motif id</dt><dd>#{esc(motif["motif_id"])}</dd>
+            <dt>Appearances</dt><dd>#{motif.fetch("occurrences", []).length}</dd>
+            <dt>Traditions</dt><dd>#{esc(traditions)}</dd>
+          </dl>
+        </aside>
+        <article class="document">
+          <h2>Evidence</h2>
+          <p class="muted">Each row links back to the complete public-domain source text and the structured extraction record.</p>
+          <div class="table-wrap">
+            <table>
+              <tr><th>Tradition</th><th>Source</th><th>Passage</th><th>Confidence</th><th>Evidence</th><th>Record</th></tr>
+              #{occurrence_rows}
+            </table>
+          </div>
+        </article>
+      </section>
+    HTML
+
+    write_page(output, layout(
+      title: titleize(motif["label"]),
+      subtitle: "#{motif.fetch("occurrences", []).length} appearances across #{motif.fetch("traditions", {}).length} tradition groups.",
+      current_output: output,
+      body: body
+    ))
+  end
 end
 
 def build_extractions(extractions)
@@ -575,6 +741,72 @@ def build_extractions(extractions)
     HTML
     write_page(output, layout(title: data["record_id"], current_output: output, body: body))
   end
+end
+
+def build_timeline(timeline, texts)
+  current = "timeline/index.html"
+  entries = timeline.fetch("entries", [])
+  if entries.empty?
+    entries = texts.map do |item|
+      metadata = item[:metadata]
+      {
+        "id" => metadata["id"],
+        "title" => metadata["title"],
+        "tradition" => metadata["tradition"],
+        "culture" => metadata["culture"],
+        "date_range" => metadata["date_range"],
+        "text_path" => item[:path],
+        "notes" => "Generated from source-text metadata until curated chronology is added."
+      }
+    end
+  end
+
+  rows = entries.sort_by { |entry| [timeline_sort_value(entry), entry["title"].to_s] }.map do |entry|
+    tradition_key = entry["tradition"] || entry["tradition_cluster"]
+    text_paths = entry["current_text_paths"] || entry["text_paths"] || [entry["text_path"]].compact
+    text_links = text_paths.map do |path|
+      label = File.basename(path.to_s, ".md").split("-").map(&:capitalize).join(" ")
+      link_to_output(current, output_for_repo_path(path.to_s), label)
+    end.join(", ")
+    date_label = entry.dig("approximate_date_range", "display") || entry["date_label"] || entry["date_range"] || entry["approx_date"] || "undated / uncertain"
+    notes = entry["uncertainty"] || entry["uncertainty_note"] || entry["notes"] || entry["method_note"]
+    <<~HTML
+      <article class="timeline-row searchable" data-search="#{esc([entry["title"], tradition_key, entry["culture"], date_label, notes].join(" "))}">
+        <div class="timeline-date">#{esc(date_label)}</div>
+        <div class="timeline-body">
+          <span class="row-kicker">#{esc(tradition_label(tradition_key))}</span>
+          <h3>#{esc(entry["title"] || entry["id"])}</h3>
+          <p>#{esc([entry["timeline_label"], entry["culture"], notes].compact.join(" - "))}</p>
+          #{text_links.empty? ? "" : "<small>#{text_links}</small>"}
+        </div>
+      </article>
+    HTML
+  end.join
+
+  body = <<~HTML
+    <section class="insight-band">
+      <div>
+        <span class="row-kicker">Chronology</span>
+        <h2>Approximate Dates, Not False Precision</h2>
+        <p>The timeline is a scaffold for comparison. It keeps date uncertainty explicit so similarities can be studied without pretending every tradition has a single clean timestamp.</p>
+      </div>
+      <div class="insight-stats">
+        <strong>#{entries.length}</strong>
+        <span>dated corpus anchors</span>
+      </div>
+    </section>
+    <section class="toolbar">
+      <input type="search" class="search-input" placeholder="Search eras, cultures, or texts" data-search-target=".searchable">
+    </section>
+    <section class="timeline-list">#{rows}</section>
+  HTML
+
+  write_page(current, layout(
+    title: "Timeline",
+    subtitle: "A cautious chronology for comparing texts, traditions, motifs, and reception layers.",
+    current_output: current,
+    body: body
+  ))
 end
 
 STYLE_CSS = <<~CSS
@@ -880,6 +1112,113 @@ STYLE_CSS = <<~CSS
     border-radius: 8px;
   }
 
+  .insight-band {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 220px;
+    gap: 18px;
+    align-items: stretch;
+    margin: 28px 0 42px;
+    padding: 22px;
+    background: #eef6f5;
+    border: 1px solid #c7dfdc;
+    border-radius: 8px;
+  }
+
+  .insight-band p { max-width: 760px; margin: 12px 0 0; color: var(--muted); }
+
+  .insight-stats {
+    display: grid;
+    place-content: center;
+    padding: 18px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    text-align: center;
+  }
+
+  .insight-stats strong {
+    display: block;
+    font-size: 44px;
+    line-height: 1;
+  }
+
+  .insight-stats span { color: var(--muted); }
+
+  .signal-bars {
+    display: grid;
+    gap: 10px;
+  }
+
+  .signal-bar {
+    position: relative;
+    display: grid;
+    grid-template-columns: minmax(160px, 1fr) 60px;
+    gap: 12px;
+    align-items: center;
+    min-height: 42px;
+    padding: 9px 12px;
+    overflow: hidden;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+  }
+
+  .signal-bar span, .signal-bar strong { position: relative; z-index: 1; }
+  .signal-bar strong { text-align: right; }
+  .signal-bar i {
+    position: absolute;
+    inset: 0 auto 0 0;
+    background: rgba(184, 132, 23, 0.18);
+  }
+
+  .motif-detail-grid {
+    display: grid;
+    grid-template-columns: 260px minmax(0, 1fr);
+    gap: 28px;
+    align-items: start;
+    margin-top: 28px;
+  }
+
+  .confidence {
+    display: inline-block;
+    min-width: 62px;
+    padding: 3px 7px;
+    border-radius: 999px;
+    background: #eef3ee;
+    color: var(--ink);
+    font-size: 12px;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  .confidence.high { background: #e6f3ea; color: #23613a; }
+  .confidence.medium { background: #fff3d8; color: #755313; }
+  .confidence.low { background: #f4e9e5; color: #8a3d27; }
+
+  .timeline-list {
+    position: relative;
+    display: grid;
+    gap: 14px;
+  }
+
+  .timeline-row {
+    display: grid;
+    grid-template-columns: 260px minmax(0, 1fr);
+    gap: 18px;
+    padding: 16px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+  }
+
+  .timeline-date {
+    color: var(--brick);
+    font-weight: 800;
+  }
+
+  .timeline-body p { margin: 8px 0 0; color: var(--muted); }
+
   .site-footer {
     display: flex;
     justify-content: space-between;
@@ -901,7 +1240,7 @@ STYLE_CSS = <<~CSS
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
-    .doc-shell {
+    .doc-shell, .motif-detail-grid, .timeline-row, .insight-band {
       grid-template-columns: 1fr;
     }
 
@@ -942,6 +1281,8 @@ patterns = records_for_markdown("patterns/**/*.md")
 comparisons = records_for_markdown("comparisons/**/*.md")
 extractions = extraction_records
 motif_index = load_yaml(File.join(ROOT, "data", "indexes", "motif-occurrences.yml"))
+timeline_path = File.join(ROOT, "data", "indexes", "cultural-timeline.yml")
+timeline = File.exist?(timeline_path) ? load_yaml(timeline_path) : {}
 
 build_assets
 build_home(texts, comparisons, motif_index, extractions)
@@ -949,6 +1290,7 @@ build_texts(texts)
 build_patterns(patterns)
 build_comparisons(comparisons)
 build_motifs(motif_index)
+build_timeline(timeline, texts)
 build_extractions(extractions)
 
 puts "wrote #{relative(SITE_DIR)}"
