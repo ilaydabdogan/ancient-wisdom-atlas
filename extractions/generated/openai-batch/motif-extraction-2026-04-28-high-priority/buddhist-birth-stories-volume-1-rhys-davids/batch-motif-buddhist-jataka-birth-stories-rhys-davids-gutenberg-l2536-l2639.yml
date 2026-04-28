@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l2536-l2639
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: TABLE I. / INDIAN WORKS. / TABLE II. / THE KALILAG AND DAMNAG LITERATURE.;
+    lines 2536-2639
+  start: '2536'
+  end: '2639'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: THE KALILAG AND DAMNAG LITERATURE.
+  summary: A bibliographic table lists versions and translations of the Kalilag and
+    Damnag literature, beginning with a lost Northern Indian Buddhist work ascribed
+    to Bidpai and tracing Pēlvī, Syriac, Arabic, Persian, Greek, Hebrew, Latin, Spanish,
+    Italian, French, German, and English versions and adaptations.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is a numbered bibliographic table headed as the Kalilag and Damnag
+    literature.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first listed item is a lost Buddhist work in a language of Northern India,
+    ascribed to Bidpai.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A Pēlvī version dated 531-579 A.D. is attributed to Barzūyē, described as
+    court physician of Khosru Nushírvan.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A Syriac version of the Pēlvī version is said, together with John of Capua's
+    Latin Directorium, to preserve strong evidence for the contents of the Pēlvī text
+    and its Buddhist original or originals.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:5
+  text: An Arabic Kalilah wā Dimnah is listed as a version of the Syriac text, made
+    by Abd-allah, son of Almokaffa, around 750 A.D.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The table lists later translations and adaptations in multiple languages,
+    including English, German, Greek, Latin, Persian, French, Italian, Hebrew, Spanish,
+    and other European-language traditions.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: obs:7
+  text: La Fontaine's Fables are listed with editions whose later books are said to
+    draw from earlier listed works, including the Livre des Lumières and Contes et
+    Nouvelles.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Bidpai
+  description: Person to whom the lost Northern Indian Buddhist work is ascribed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Barzūyē
+  description: Court physician of Khosru Nushírvan and maker of the Pēlvī version
+    dated 531-579 A.D.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Khosru Nushírvan
+  description: Ruler named in relation to Barzūyē as his court physician's patron
+    or court context.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Abd-allah, son of Almokaffa
+  description: Translator or adaptor associated with the Arabic version of Kalilah
+    wā Dimnah around 750 A.D.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: John of Capua
+  description: Author of the Latin Directorium Humanæ Vitæ, a version of the Hebrew
+    text written 1263-1278.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: La Fontaine
+  description: Author of Fables whose later books are described as drawing on earlier
+    listed works.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: ascribed author or source authority
+  assigned_to:
+  - fig:1
+  basis: The lost Buddhist work is explicitly ascribed to Bidpai.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: translator or version maker
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: The passage names these figures in connection with making Pēlvī, Arabic,
+    and Latin versions.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: court context figure
+  assigned_to:
+  - fig:3
+  basis: Khosru Nushírvan is named as the court ruler associated with Barzūyē.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: textual witness to lost sources
+  assigned_to:
+  - fig:5
+  basis: The Directorium associated with John of Capua is described as among the best
+    evidence for the contents of the lost earlier books.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: later adapter of fable material
+  assigned_to:
+  - fig:6
+  basis: La Fontaine's later books are said to take subjects from earlier listed works.
+  evidence_refs:
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Bibliographic transmission of Kalilag and Damnag literature
+  summary: The passage lays out a sequence of textual versions from a lost Northern
+    Indian Buddhist work through Pēlvī, Syriac, Arabic, and later Asian and European
+    translations and adaptations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: wisdom and fable literature transmission
+  taxonomy_refs:
+  - wisdom
+  basis: The passage concerns the Kalilag and Damnag/Bidpai fable tradition and includes
+    titles such as a book of the wise, the Seven Wise Masters, and moral or didactic
+    later versions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: This passage is bibliographic rather than narrative; it does not present
+    the contents of an individual fable or mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The table presents the Kalilag and Damnag literature as a chain of historical
+    textual transmission from a lost Northern Indian Buddhist work into Pēlvī, Syriac,
+    Arabic, and later Asian and European versions.
+  claim_level: historical_contact
+  target: Kalilag and Damnag / Kalilah wā Dimnah textual tradition
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage documents bibliographic relationships, not direct manuscript
+    proof or narrative motif-by-motif comparison.
+- id: claim:2
+  claim: The passage explicitly identifies the Syriac version and John of Capua's
+    Latin Directorium as especially important witnesses to the contents of earlier
+    lost works.
+  claim_level: historical_contact
+  target: lost Buddhist and Pēlvī antecedents of Kalilag and Damnag
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the table's statement about evidentiary value
+    and does not reconstruct the lost texts' contents.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2536-2544; Table II items 1-2
+  quote_or_summary: The table is headed 'The Kalilag and Damnag Literature'; it begins
+    with a lost Northern Indian Buddhist work ascribed to Bidpai and a Pēlvī version
+    dated 531-579 A.D. by Barzūyē, court physician of Khosru Nushírvan.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 2545-2550; Table II item 3
+  quote_or_summary: The Syriac Kalilag und Damnag is listed as a version of the Pēlvī
+    text and, together with item 15, as preserving strong evidence for the Pēlvī contents
+    and Buddhist original or originals.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 2551-2558; Table II item 4
+  quote_or_summary: Kalilah wā Dimnah is listed as an Arabic version of the Syriac
+    text by Abd-allah, son of Almokaffa, dated about 750 A.D., with recensions and
+    editions noted.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 2559-2590; Table II items 5-15
+  quote_or_summary: The table lists English, German, Greek, Latin, Persian, French,
+    Italian, and Hebrew versions; John of Capua's Latin Directorium Humanæ Vitæ is
+    said to be among the best evidence for the lost earlier books.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 2591-2629; Table II items 16-27
+  quote_or_summary: The table continues with German, Ulm dialect, Latin, Spanish,
+    Italian, and English versions or adaptations, including works connected to Baldo,
+    Don Juan Manuel, Bonaventure des Periers, Firenzuola, Doni, and North.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 2630-2639; Table II item 28
+  quote_or_summary: La Fontaine's Fables are listed; the first edition drew mostly
+    on classical authors and Planudes's Aesop, while the later books of the second
+    edition are said to be taken from items 12 and 23.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is a bibliography of textual transmission rather than a narrative
+    myth passage. Literal bibliographic relationships are clear; motif extraction
+    is necessarily limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No passage-level mythic symbols from the available symbol list are directly present. The only candidate motif is a cautious wisdom/fable-literature classification based on titles and bibliographic context.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l2536-l2639
+  passage_sha256=41d4470997b398dec606d0a8d993f5a05e2049d71fcfa8bbdff0dafae0a76826
+

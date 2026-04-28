@@ -1,0 +1,223 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l2939-l3001
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: TABLE VI. / PLACES AT WHICH THE TALES WERE TOLD. / TABLE VII. / THE BODISATS.;
+    lines 2939-3001
+  start: '2939'
+  end: '3001'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A table titled “The Bodisats” reports an analysis of how many times the
+    Bodisat appears in Buddhist Birth Stories in various characters, including human
+    social roles, divine or supernatural roles, animals, craftspeople, and marginal
+    figures, with a total of 530 appearances.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a table analyzing the number of times the Bodisat appears in
+    Buddhist Birth Stories in listed characters.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The largest listed counts are king 85, ascetic 83, tree god 43, teacher 26,
+    and several roles counted 24 or fewer times.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The table includes divine or supernatural character labels such as tree god,
+    Sakka, Brahma, and fairy.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The table includes animal character labels such as monkey, deer, lion, wild
+    duck, elephant, serpent, fish, dog, frog, hare, and others.
+  category: attribute
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: obs:5
+  text: The total number of counted appearances is 530.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Bodisat
+  description: The subject whose appearances in different characters are counted across
+    the Buddhist Birth Stories.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Rev. Spence Handy’s paṇḍit
+  description: The person said to have made the analysis of Bodisat appearances at
+    a request.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: classified recurring subject
+  assigned_to:
+  - fig:1
+  basis: The table classifies the Bodisat’s appearances across many character categories.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: compiler of analysis
+  assigned_to:
+  - fig:2
+  basis: The passage states that Rev. Spence Handy’s paṇḍit made the analysis.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: multiple listed character roles
+  assigned_to:
+  - fig:1
+  basis: The Bodisat is counted as appearing as ascetic, king, tree god, teacher,
+    animal forms, divine names, tradespeople, and other figures.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: tree god
+  literal_form: A tree god
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: serpent
+  literal_form: A serpent
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Tabulated analysis of Bodisat character appearances
+  summary: The passage presents a non-narrative table counting the Bodisat’s appearances
+    in different characters across the Buddhist Birth Stories.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Bodisat appearing across many forms and statuses
+  taxonomy_refs: []
+  basis: The table lists the Bodisat as appearing in numerous human, divine, animal,
+    occupational, and marginal character categories.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is a secondary tabulation rather than a narrative episode;
+    it supports a broad pattern of varied appearances but not a specific transformation
+    scene.
+- id: motif:2
+  label: Bodisat in animal embodiment
+  taxonomy_refs: []
+  basis: Several counted categories are animals, including monkey, deer, lion, wild
+    duck, elephant, serpent, fish, dog, frog, hare, and others.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The table lists counts only and does not describe individual animal tales
+    or actions.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2939-2945
+  quote_or_summary: The section is titled “THE BODISATS” and states that Rev. Spence
+    Handy’s paṇḍit made an analysis of how many times the Bodisat appears in each
+    listed character in the Buddhist Birth Stories.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 2946-2955
+  quote_or_summary: Early rows count the Bodisat as ascetic 83, king 85, tree god
+    43, teacher 26, courtier 24, brāhman 24, king’s son 24, nobleman 23, learned man
+    22, and Sakka 20.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 2948, 2955, 2970, 2996
+  quote_or_summary: Divine or supernatural labels in the table include tree god, Sakka,
+    Brahma, and fairy.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: 2956-2995
+  quote_or_summary: Animal and bird labels include monkey, deer, lion, wild duck,
+    snipe, elephant, cock, eagle, horse, bull, peacock, iguana, fish, rat, jackal,
+    crow, woodpecker, pig, dog, water-fowl, frog, hare, kite, and jungle cock.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: 2997-3001
+  quote_or_summary: The table gives the total of the counted appearances as 530.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: '2971'
+  quote_or_summary: One listed character is a serpent, counted 4 times.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The table is clear for counts and categories, but it is not a narrative passage;
+    motif candidates are therefore broad and require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were extracted because the passage itself does not compare the material to another tradition, motif family, or corpus beyond the Buddhist Birth Stories table.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l2939-l3001
+  passage_sha256=defcbe42a07f41b0416e821233481f273e4405d4b76ebcdeed3f4a195440bd09
+

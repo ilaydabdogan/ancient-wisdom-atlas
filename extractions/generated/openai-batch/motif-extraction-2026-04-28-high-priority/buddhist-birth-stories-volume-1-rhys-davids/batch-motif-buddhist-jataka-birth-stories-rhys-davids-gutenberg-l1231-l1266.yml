@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l1231-l1266
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: THE BIRTH STORIES. / INDEX                                              339
+    / INTRODUCTION. / THE KALILAG AND DAMNAG LITERATURE.; lines 1231-1266
+  start: '1231'
+  end: '1266'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage argues that Planudes may have known Phaedrus only with difficulty,
+    while Buddhist Birth Stories and other Indian tales had already reached Europe
+    in multiple languages before Planudes. It states that many so-called Aesop fables
+    have been traced to Buddhist or Indian sources, and that some stories later returned
+    to India through modern translations, including a Sanskrit translation by Narayan
+    Balkrishna Godpole.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says the work of Phaedrus was based on that of Babrius and was
+    available only in very rare manuscripts until the end of the sixteenth century.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says versions of Buddhist Birth Stories and other Indian tales
+    had appeared in Europe before Planudes in Greek, Latin, Hebrew, and Spanish.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says many of Planudes' stories had been clearly traced back to
+    Buddhist Birth Stories and other Indian tales.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says some fables of Babrius and Phaedrus found in Planudes were
+    possibly derived by those authors from Buddhist sources.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that the so-called Aesop's fables were first collected
+    in the Middle Ages and that many had been traced to the Buddhist Jataka book.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says some stories Planudes borrowed indirectly from India were
+    later restored to India through translations, including a Sanskrit translation
+    by Narayan Balkrishna Godpole.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Phaedrus
+  description: A Latin poet who calls himself a freedman of Augustus in the title
+    of his work.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Augustus
+  description: Named as the person whose freedman Phaedrus calls himself.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Planudes
+  description: A compiler or transmitter whose stories are discussed in relation to
+    Phaedrus, Babrius, and Indian sources.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Babrius
+  description: An author whose work is described as a basis for Phaedrus and whose
+    fables may have been derived from Buddhist sources.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: Narayan Balkrishna Godpole
+  description: A Master of the Government High School at Ahmadnagar who published
+    a second edition of a Sanskrit translation of the common English version of the
+    fables.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Unnamed Englishman
+  description: A translator said to have translated a few of the stories into several
+    languages spoken in India.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: fable author
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Phaedrus and Babrius are named in connection with fables and literary sources.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: patron-status reference
+  assigned_to:
+  - fig:2
+  basis: Augustus is mentioned only as the person in relation to whom Phaedrus identifies
+    himself as freedman.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: medieval compiler or transmitter
+  assigned_to:
+  - fig:3
+  basis: Planudes is described as having stories that may have come from earlier European
+    and Indian channels.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:4
+  label: modern translator
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The passage describes translations into Indian languages and Sanskrit.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Scholarly account of transmission of fables
+  summary: The passage discusses whether Planudes knew Phaedrus and contrasts this
+    with the earlier presence in Europe of Buddhist Birth Stories and Indian tales
+    in several languages.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Attribution of so-called Aesop fables to Indian sources
+  summary: The passage summarizes the claim that the medieval collection called Aesop's
+    fables contains many stories traced to the Buddhist Jataka book and is probably
+    largely derived from Indian sources.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Return of translated fables to India
+  summary: The passage says stories borrowed indirectly from India later returned
+    there in altered form through translations into Indian languages and Sanskrit.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Return of stories to an original home
+  taxonomy_refs:
+  - return
+  basis: The passage describes stories borrowed indirectly from India as being restored
+    to their original home through later translations.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: This is a literary-historical metaphor in the passage, not a narrative
+    motif within a mythic story.
+- id: motif:2
+  label: Wisdom tale transmission
+  taxonomy_refs:
+  - wisdom
+  basis: The passage concerns fables and Jataka stories transmitted across languages
+    and collections, with many traced to Buddhist or Indian sources.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: low
+  cautions: The passage does not recount the content or moral of any tale; the wisdom
+    classification is inferred from the genre context of fables and Jatakas.
+comparison_claims:
+- id: claim:1
+  claim: The passage claims that many so-called Aesop fables have been traced back
+    to the Buddhist Jataka book and that almost all are probably derived from Indian
+    sources in one way or another.
+  claim_level: historical_contact
+  target: So-called Aesop's fables compared with Buddhist Jataka and Indian tale sources
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports a broad scholarly conclusion but does not provide
+    individual tale examples within this line range.
+- id: claim:2
+  claim: The passage says some fables of Babrius and Phaedrus found in Planudes were
+    possibly derived from Buddhist sources.
+  claim_level: historical_contact
+  target: Fables of Babrius and Phaedrus in Planudes compared with Buddhist sources
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage itself marks this derivation as possible and gives no specific
+    fable-level evidence in the excerpt.
+- id: claim:3
+  claim: The passage states that versions of Buddhist Birth Stories and other Indian
+    tales had reached Europe before Planudes in Greek, Latin, Hebrew, and Spanish,
+    supporting a transmission context for shared fable material.
+  claim_level: historical_contact
+  target: Pre-Planudes European versions of Buddhist Birth Stories and Indian tales
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt identifies languages and timing generally but does not
+    specify manuscripts or exact routes in the provided lines.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1231-1237
+  quote_or_summary: Phaedrus, a Latin poet calling himself a freedman of Augustus,
+    may have been known to Planudes; his work, based on Babrius, was rare in manuscripts
+    until the end of the sixteenth century.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 1238-1245
+  quote_or_summary: Buddhist Birth Stories and other Indian tales had appeared in
+    Europe before Planudes in Greek, Latin, Hebrew, and Spanish, and many of Planudes'
+    stories had been traced back to this source.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: lines 1244-1247
+  quote_or_summary: Some fables of Babrius and Phaedrus found in Planudes are described
+    as possibly derived by those authors from Buddhist sources.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 1251-1257
+  quote_or_summary: The passage states that the so-called Aesop's fables are not really
+    Aesopian, were collected in the Middle Ages, and include many tales traced to
+    the Buddhist Jataka book, with almost all probably derived from Indian sources.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: lines 1258-1266
+  quote_or_summary: Stories Planudes borrowed indirectly from India are said to have
+    been restored to India through translations, including translations by an Englishman
+    into Indian languages and a Sanskrit translation by Narayan Balkrishna Godpole.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is literary-historical rather than a narrative myth passage.
+    Transmission claims are explicit, but motif extraction is limited and requires
+    review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No literal symbolic objects from the available symbol taxonomy occur in the passage; symbols are therefore left empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l1231-l1266
+  passage_sha256=3bf30f3bd2e1f0a5897e9dd7fb4b8e1af6c91134babfc5e2c9d1c5e7ae161ba3
+

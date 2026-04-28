@@ -1,0 +1,158 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l63-l89
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: Jataka tales; lines 63-89
+  start: '63'
+  end: '89'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Jataka Tales / Re-told by / Ellen C. Babbitt
+  summary: The passage is front matter for the book, identifying the title, reteller,
+    illustrator, publisher, publication date, and dedication.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage gives the title as “Jataka Tales.”
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the tales are re-told by Ellen C. Babbitt.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the illustrations are by Ellsworth Young.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage identifies New York and The Century Co. in the publication information.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage gives copyright and publication information dated 1912.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage includes a dedication to Dot.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ellen C. Babbitt
+  description: Named as the person who re-told the Jataka Tales.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ellsworth Young
+  description: Named as the illustrator.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: The Century Co.
+  description: Named in the publication and copyright information.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Dot
+  description: Named as the dedicatee.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: reteller
+  assigned_to:
+  - fig:1
+  basis: The passage says the book is “Re-told by Ellen C. Babbitt.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: illustrator
+  assigned_to:
+  - fig:2
+  basis: The passage says the book has illustrations by Ellsworth Young.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: publisher and copyright holder
+  assigned_to:
+  - fig:3
+  basis: The passage lists The Century Co. with New York publication information and
+    copyright notice.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: dedicatee
+  assigned_to:
+  - fig:4
+  basis: The passage states that the book is dedicated to Dot.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 63-70
+  quote_or_summary: "“Jataka Tales” and “Re-told by Ellen C. Babbitt.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 71-76
+  quote_or_summary: "“With illustrations by Ellsworth Young” and “New York / The Century
+    Co.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 77-83
+  quote_or_summary: The passage gives copyright information dated 1912 by The Century
+    Co. and says the book was published in September 1912.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source summarized for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 84-89
+  quote_or_summary: "“Dedicated / to / DOT.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is bibliographic front matter only; no narrative episode, mythic
+    symbol, or comparative motif is present in the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy motif or symbol references assigned because the supplied passage contains only title-page, publication, and dedication information.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l63-l89
+  passage_sha256=d89fee497792bb4b0f3f0873ec47ce53a8c49a4663f4039f70122a659524d6af
+

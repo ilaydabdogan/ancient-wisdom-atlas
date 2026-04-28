@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l2112-l2201
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: THE BARLAAM AND JOSAPHAT LITERATURE. / SUMMARY. / PART II. / ON THE HISTORY
+    OF THE BIRTH STORIES IN INDIA.; lines 2112-2201
+  start: '2112'
+  end: '2201'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses the relative age of Jātaka verses and prose stories,
+    the Ceylon tradition about an older verse-only Jātaka Book, the possible addition
+    of Bodisat roles to older stories, the arrangement of the Jātaka collection by
+    verse count, and the artificial nature of the number 550 in relation to both stories
+    and births of the Bodisat.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage reports a Ceylon tradition that an original, no longer extant
+    Jātaka Book consisted of verses alone, with Birth Stories as commentary upon them
+    and further introductory and explanatory materials as commentary on that commentary.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author argues that many Birth Stories may have existed before the verses
+    and that verses were added after the stories had become current.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The author proposes that the Birth Stories were handed down in Ceylon in the
+    Siŋhalese language, while the verses were preserved in Pāli.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage identifies a group of stories in which the Bodisat appears as
+    a chorus or moralizer only, not as an actor in the story.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says the Bodisat’s part in such stories may have been added when
+    the story was adopted by Buddhists.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Examples given include the fable of the Ass in the Lion’s Skin and stories
+    where the Bodisat is a rukkha-devatā, described as the fairy or genius of a tree.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The present Jātaka collection is described as classified by the number of
+    verses in each story rather than by contents, with the five hundred and fifty
+    Jātakas contained in twenty-two Nipātas.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage states that some Jātakas counted as one story actually contain
+    several different tales or fables.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Kulāvaka Jātaka is said to consist of seven stories woven into one, and
+    the Ummagga Jātaka is said to contain a very large number of anecdotes, estimated
+    at more than one hundred and fifty.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The number five hundred and fifty is described as an artificial round number
+    that does not indicate the actual number of stories in the present collection.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The passage estimates that the present collection contains between two and
+    three thousand independent tales, fables, anecdotes, and riddles.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The number 550 is also said not to exactly record the distinct births of the
+    Bodisat; the Kulāvaka Jātaka has two consecutive births of the future Buddha,
+    while six mentioned Jātakas do not represent a distinct birth at all.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Bodisat / future Buddha
+  description: A recurring figure in the Jātakas; in some stories he appears only
+    as a chorus or moralizer, and in the Kulāvaka Jātaka there are two consecutive
+    births of the future Buddha.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: rukkha-devatā
+  description: Described in the passage as the fairy or genius of a tree; in many
+    stories the Bodisat is such a figure.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Ass
+  description: Named in the title of the referenced fable, the Ass in the Lion’s Skin.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: moralizing chorus
+  assigned_to:
+  - fig:1
+  basis: The Bodisat is described as appearing as a sort of chorus, a moralizer only,
+    and not an actor in the play.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: tree fairy or tree genius
+  assigned_to:
+  - fig:2
+  basis: The rukkha-devatā is glossed as the fairy or genius of a tree.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: recurrent-birth figure
+  assigned_to:
+  - fig:1
+  basis: The passage discusses distinct births of the Bodisat and says the Kulāvaka
+    Jātaka contains two consecutive births of the future Buddha.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: tree associated with the rukkha-devatā, the fairy or genius of a tree
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: lion’s skin
+  literal_form: lion’s skin in the fable title Ass in the Lion’s Skin
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: number 550
+  literal_form: the stated count of five hundred and fifty Jātakas
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Argument about older verses and older stories
+  summary: The passage reports the Ceylon tradition of an older verse-only Jātaka
+    Book, then presents the author’s alternative view that many prose Birth Stories
+    may have existed before the verses were added.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Bodisat as moralizer or tree genius
+  summary: The passage describes a group of stories in which the Bodisat is not an
+    actor but a moralizing chorus, with examples including the Ass in the Lion’s Skin
+    and stories where the Bodisat is a rukkha-devatā.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Artificial arrangement and numbering of Jātakas
+  summary: The passage explains that the Jātaka collection is arranged by number of
+    verses, that some counted Jātakas contain multiple tales, and that the number
+    550 does not accurately represent either story count or distinct Bodisat births.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Bodisat as moralizing witness rather than actor
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes stories where the Bodisat functions as a chorus or
+    moralizer only, not as an actor in the plot.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is literary-historical analysis rather than a narrative episode;
+    the role is described generally, not through a full tale.
+- id: motif:2
+  label: Tree genius manifestation of the Bodisat
+  taxonomy_refs:
+  - wisdom
+  basis: The passage notes many stories in which the Bodisat is a rukkha-devatā, glossed
+    as the fairy or genius of a tree.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a general description and no individual tree-deity
+    episode.
+- id: motif:3
+  label: Disguise in animal fable
+  taxonomy_refs: []
+  basis: The passage names the fable of the Ass in the Lion’s Skin as an example in
+    the discussed group of stories.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: Only the fable title is present; the passage does not narrate the disguise
+    or its outcome.
+- id: motif:4
+  label: Multiple births of the future Buddha
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage discusses distinct births of the Bodisat and states that the
+    Kulāvaka Jātaka includes two consecutive births of the future Buddha.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage mentions births but does not narrate death, rebirth mechanics,
+    or a full reincarnation episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious comparison between some Jātaka stories and
+    stories found in the Pāli Piṭakas or in old European collections, because it states
+    that certain stories occur in those corpora as well.
+  claim_level: same_motif
+  target: Pāli Piṭakas and oldest European collections
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not list the specific stories in this excerpt, and
+    it frames the point as evidence for early date rather than as a detailed motif
+    comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2112-2122
+  quote_or_summary: The Ceylon tradition is reported to say that the original Jātaka
+    Book, no longer extant, consisted of verses alone, with Birth Stories and explanatory
+    materials as layered commentaries.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 2124-2142
+  quote_or_summary: The author argues that many Birth Stories existed before the verses,
+    that verses were added after the stories became current, and that stories were
+    handed down in Siŋhalese while verses were preserved in Pāli; he also notes some
+    stories are found in the Pāli Piṭakas or old European collections.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 2144-2152
+  quote_or_summary: "“the Bodisat appears as a sort of chorus, a moralizer only, and
+    not an actor in the play” and in many stories is a “rukkha-devatā--the fairy or
+    genius of a tree.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 2154-2174
+  quote_or_summary: The collection is described as arranged by number of verses rather
+    than contents, with the five hundred and fifty Jātakas placed in twenty-two Nipātas,
+    though the system is not consistently applied.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 2176-2192
+  quote_or_summary: 'Some Jātakas counted as one story contain multiple tales: Kulāvaka
+    has seven stories, Ummagga is estimated to contain more than one hundred and fifty
+    anecdotes, and the present collection may contain between two and three thousand
+    independent pieces.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 2194-2200
+  quote_or_summary: The number 550 is said not to exactly represent distinct births
+    of the Bodisat; Kulāvaka has two consecutive births of the future Buddha, while
+    six mentioned Jātakas do not represent distinct births at all.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily literary-historical and classificatory, so motif
+    extraction is limited to general roles and examples explicitly named in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No figures, symbols, or comparison claims were added beyond those directly supported by the supplied passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l2112-l2201
+  passage_sha256=741e606217ee5f311b2d6b178a66aef4b760a0a924f8ceb356683332106e519c
+

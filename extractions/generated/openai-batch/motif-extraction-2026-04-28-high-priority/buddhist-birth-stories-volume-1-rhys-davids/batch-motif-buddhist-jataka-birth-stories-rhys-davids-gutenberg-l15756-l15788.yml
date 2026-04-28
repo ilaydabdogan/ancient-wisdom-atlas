@@ -1,0 +1,183 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15756-l15788
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: A TALMUDIC MISCELLANY; / THE CLASSICAL POETRY OF THE JAPANESE. / BY BASIL
+    HALL CHAMBERLAIN, / KING OF ASSYRIA, B.C. 681-668.; lines 15756-15788
+  start: '15756'
+  end: '15788'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a set of publication notices advertising or announcing works
+    on Talmudic extracts, Japanese classical poetry, and a history of Esarhaddon translated
+    from cuneiform inscriptions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A work titled “A Talmudic Miscellany” is described as extracts from the Talmud,
+    Midrashim, and Kabbalah, compiled and translated by Paul Isaac Hershon.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A work titled “The Classical Poetry of the Japanese” is attributed to Basil
+    Hall Chamberlain and marked as nearly ready.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A work titled “The History of Esarhaddon” concerns Esarhaddon, son of Sennacherib
+    and king of Assyria in B.C. 681-668.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Esarhaddon work is described as translated from cuneiform inscriptions
+    on cylinders and tablets in the British Museum collection, with grammatical analysis
+    and related explanatory materials.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Paul Isaac Hershon
+  description: Named as compiler and translator of “A Talmudic Miscellany” and author
+    of “Genesis According to the Talmud.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Basil Hall Chamberlain
+  description: Named as author of “The Classical Poetry of the Japanese” and “Yeigo
+    Heñkaku Shirañ.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Esarhaddon
+  description: Identified as son of Sennacherib and king of Assyria, B.C. 681-668.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Sennacherib
+  description: Named as the father of Esarhaddon.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: compiler and translator
+  assigned_to:
+  - fig:1
+  basis: The notice says the Talmudic miscellany was compiled and translated by Paul
+    Isaac Hershon.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: author
+  assigned_to:
+  - fig:2
+  basis: The notice attributes “The Classical Poetry of the Japanese” to Basil Hall
+    Chamberlain.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: king
+  assigned_to:
+  - fig:3
+  basis: Esarhaddon is identified as king of Assyria.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: son
+  assigned_to:
+  - fig:3
+  basis: Esarhaddon is identified as son of Sennacherib.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: father
+  assigned_to:
+  - fig:4
+  basis: Sennacherib is named parenthetically as Esarhaddon's father.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Publication notices
+  summary: The passage lists notices for books on Talmudic literature, Japanese poetry,
+    and the history of Esarhaddon, including authorship and publication details.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15756-15765
+  quote_or_summary: The notice presents “A Talmudic Miscellany” as extracts from the
+    Talmud, Midrashim, and Kabbalah, compiled and translated by Paul Isaac Hershon.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 15766-15775
+  quote_or_summary: The notice presents “The Classical Poetry of the Japanese” by
+    Basil Hall Chamberlain and marks it as nearly ready.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 15776-15780
+  quote_or_summary: The notice announces “The History of Esarhaddon,” identifying
+    him as son of Sennacherib and king of Assyria, B.C. 681-668.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 15781-15788
+  quote_or_summary: The Esarhaddon work is described as translated from cuneiform
+    inscriptions on cylinders and tablets in the British Museum collection, with grammatical
+    analysis, ideograph explanations, and lists of eponyms and related material.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is bibliographic advertising matter rather than a mythic or narrative
+    passage; no motif candidates or comparison claims are supported by the supplied
+    text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy motif or symbol references are applied because the passage contains no supported mythic symbols or narrative motifs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l15756-l15788
+  passage_sha256=59d304b97f301f869de8168bcb880f63ed92dd7fa25e9e4aba7908ed98625df8
+

@@ -1,0 +1,168 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15695-l15723
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: BY J. EDKINS, D.D., / LINGUISTIC AND ORIENTAL ESSAYS. / WRITTEN FROM THE
+    YEAR 1846 TO 1878. / BY ROBERT NEEDHAM CUST,; lines 15695-15723
+  start: '15695'
+  end: '15723'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an advertising or catalog notice listing works by P. Bigandet,
+    J. Edkins, and Robert Needham Cust, with titles, credentials, physical format,
+    page counts, binding, and prices.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage names P. Bigandet as Bishop of Ramatha and Vicar Apostolic of
+    Ava and Pegu.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists a book titled Chinese Buddhism, described as historical
+    and critical sketches, by J. Edkins.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists a book titled Linguistic and Oriental Essays, written from
+    1846 to 1878, by Robert Needham Cust.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Robert Needham Cust is described as a former member of Her Majesty’s Indian
+    Civil Service and honorary secretary to the Royal Asiatic Society.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage gives publication-format details, page counts, bindings, and prices
+    for the listed books.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: P. Bigandet
+  description: Named as Right Rev. P. Bigandet, Bishop of Ramatha and Vicar Apostolic
+    of Ava and Pegu.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: J. Edkins
+  description: Named as author of Chinese Buddhism and other works.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Robert Needham Cust
+  description: Named as author of Linguistic and Oriental Essays and The Modern Languages
+    of the East Indies.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: ecclesiastical office-holder
+  assigned_to:
+  - fig:1
+  basis: The passage identifies P. Bigandet as bishop and vicar apostolic.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: author
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage attributes listed works to J. Edkins and Robert Needham Cust.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: former civil servant and society officer
+  assigned_to:
+  - fig:3
+  basis: The passage describes Robert Needham Cust as a former Indian Civil Service
+    member and honorary secretary to the Royal Asiatic Society.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: publisher catalog notice
+  summary: A catalog-style passage advertises or lists religious, historical, linguistic,
+    and oriental studies books with authorship and publication details.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15695-15698
+  quote_or_summary: 'P. Bigandet is named with ecclesiastical titles: Bishop of Ramatha
+    and Vicar Apostolic of Ava and Pegu.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 15700-15708
+  quote_or_summary: Chinese Buddhism is listed as a volume of historical and critical
+    sketches by J. Edkins, with format, page count, binding, and price.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 15710-15718
+  quote_or_summary: Linguistic and Oriental Essays, written from 1846 to 1878, is
+    attributed to Robert Needham Cust.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 15719-15723
+  quote_or_summary: Robert Needham Cust is described by offices and prior authorship,
+    and the second edition is listed with format, page count, binding, and price.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is bibliographic advertising material rather than a mythic narrative;
+    no mythological motifs, symbols, or comparison claims are supported by the provided
+    text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy motif or symbol references were applied because the passage contains only catalog descriptions of books and authors.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l15695-l15723
+  passage_sha256=91bf3c3bfc755df406645052ebffffb4b7ee1ece64926b216add8849a6715fa7
+

@@ -1,0 +1,444 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l7831-l7873
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: TABLE VIII. / THE DISTANT EPOCH. / GLORY BE TO THE BLESSED, THE HOLY, THE
+    ALL-WISE ONE. / BOOK I.; lines 7831-7873
+  start: '7831'
+  end: '7873'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A wise merchant finds the ruined remains of a previous caravan, arranges
+    his wagons defensively, keeps armed watch through the night, reorganizes the carts
+    at dawn, trades successfully, and returns home. The Teacher then draws a lesson
+    contrasting truth with false reasoning, teaches the Four Truths, reports the conversion
+    of five hundred disciples, and identifies the characters of the past-life story
+    with Devadatta, Devadatta’s followers, the Buddha’s attendants, and the Buddha
+    himself.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The traveler finds five hundred loaded carts and scattered bones of men and
+    oxen.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wagons are unyoked and arranged in a circle to form a strong encampment.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The men and oxen are fed, and the oxen are made to lie down among the men.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The leader and overseers stand guard with a drawn sword through the three
+    watches of the night.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: At dawn, weak carts are left behind, strong carts are taken, lower-value goods
+    are discarded, and higher-value goods are loaded.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The company reaches the intended market, sells the merchandise for two or
+    three times its cost, and returns to its own city.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The Teacher says that those relying on their own reason came to destruction,
+    while those holding to truth escaped demons, reached their goal, and returned
+    home.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A verse contrasts unquestionable truth with the speech of mere logicians and
+    says that the wise person takes truth as true.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The Teacher says life according to Truth brings happy states and Arahatship,
+    while life according to the Untrue leads to hells and low rebirths.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: After the discourse on the Truths, five hundred disciples are established
+    in the Fruit of Conversion.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The Teacher identifies the foolish young merchant with Devadatta, his men
+    with Devadatta’s followers, the wise young merchant’s men with the Buddha’s attendants,
+    and the wise young merchant with himself.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: wise young merchant
+  description: A merchant who organizes the caravan defensively, keeps watch, trades
+    successfully, returns home, and is identified by the Teacher with himself in a
+    former life.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: company of the wise young merchant
+  description: The men, overseers, and attendants traveling with the wise young merchant.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: oxen
+  description: The caravan animals that are fed and made to lie down among the men.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: demons
+  description: Beings from whose hands those who held to truth escaped, according
+    to the Teacher’s explanation.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: the Teacher / Blessed One / Buddha
+  description: The speaker who tells the lesson, utters the verse, teaches the Truths,
+    and identifies the Jātaka characters.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: five hundred disciples
+  description: The disciples who hear the discourse and are established in the Fruit
+    of Conversion.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: foolish young merchant
+  description: A past-life figure identified with Devadatta and associated with destruction
+    through reliance on his own reason.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:8
+  name_or_label: Devadatta and Devadatta’s followers
+  description: Present-story figures identified with the foolish young merchant and
+    his men.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: prudent caravan leader
+  assigned_to:
+  - fig:1
+  basis: He forms a defensive encampment, keeps armed watch, manages the carts and
+    goods, reaches the mart, and returns successfully.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: caravan company
+  assigned_to:
+  - fig:2
+  basis: They travel with the wise young merchant and are later identified with the
+    attendants of the Buddha.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:3
+  label: teacher and interpreter of the narrative
+  assigned_to:
+  - fig:5
+  basis: He explains the story as a lesson on truth, teaches the Truths, and sums
+    up the Jātaka identifications.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:4
+  label: disciples receiving conversion
+  assigned_to:
+  - fig:6
+  basis: At the end of the discourse, the five hundred disciples are established in
+    the Fruit of Conversion.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: demonic threat
+  assigned_to:
+  - fig:4
+  basis: The Teacher states that those who held to truth escaped the hands of the
+    demons.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: foolish counterpart and followers
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The foolish young merchant and his men are identified with Devadatta and
+    Devadatta’s followers.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: scattered bones
+  literal_form: bones of men and oxen scattered about
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: circular encampment
+  literal_form: wagons arranged in a circle to form a strong encampment
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: drawn sword
+  literal_form: drawn sword held while standing guard through the night
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Truth and the Untrue
+  literal_form: the Teacher’s contrast between life according to Truth and life according
+    to the Untrue
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: five hundred
+  literal_form: five hundred carts and five hundred disciples
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: Discovery of ruined caravan and defensive encampment
+  summary: The wise young merchant finds loaded carts and scattered bones, then arranges
+    his wagons in a circle, feeds the men and oxen, and prepares a fortified camp.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Night watch and dawn reorganization
+  summary: The leader and overseers keep armed watch through the night; at dawn the
+    caravan leaves weak carts and low-value goods behind and proceeds with stronger
+    carts and more valuable goods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:3
+  label: Successful trade and return
+  summary: The caravan reaches the intended market, sells goods for a profit, and
+    returns to its own city.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:4
+  label: Lesson on truth and conversion
+  summary: The Teacher interprets the story as a lesson on holding to truth, utters
+    a verse, teaches the Truths, and the five hundred disciples attain the Fruit of
+    Conversion.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Jātaka identification
+  summary: The Teacher connects the past-life figures with Devadatta, Devadatta’s
+    followers, the Buddha’s attendants, and himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: truth-guided escape from demonic danger
+  taxonomy_refs:
+  - wisdom
+  - return
+  basis: The Teacher states that those who held to truth escaped the hands of demons,
+    reached their destination, and returned home.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The demonic threat is mentioned in the Teacher’s summary rather than directly
+    narrated in this passage segment.
+- id: motif:2
+  label: wise leader preserves caravan through vigilance
+  taxonomy_refs:
+  - wisdom
+  basis: The wise merchant forms a defensive encampment, keeps armed watch, reorganizes
+    resources, and leads the company to successful trade and return.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This motif is extracted from practical actions in the episode, not from
+    an explicit taxonomy label in the text.
+- id: motif:3
+  label: false reasoning leads to destruction while truth leads to liberation
+  taxonomy_refs:
+  - wisdom
+  basis: The Teacher contrasts reliance on one’s own reason and the Untrue with holding
+    to Truth, happy rebirths, Arahatship, and conversion.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage frames this as a Buddhist doctrinal lesson; broader comparative
+    use should preserve that context.
+- id: motif:4
+  label: past-life identification of present figures
+  taxonomy_refs: []
+  basis: The Teacher explicitly identifies the foolish merchant with Devadatta, his
+    men with Devadatta’s followers, the wise merchant’s men with the Buddha’s attendants,
+    and the wise merchant with himself.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family directly corresponds to Jātaka past-life identification.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7831-7840
+  quote_or_summary: The merchant finds five hundred loaded carts and scattered bones,
+    arranges wagons in a circle as a strong encampment, feeds men and oxen, and keeps
+    armed watch through the three watches of the night.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 7841-7847
+  quote_or_summary: At dawn he sees to necessary tasks, leaves weak carts, chooses
+    strong ones, replaces lower-value goods with higher-value goods, reaches the mart,
+    sells profitably, and returns with his company to his city.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 7851-7857
+  quote_or_summary: The Teacher says those relying on their own reason were destroyed,
+    while those holding to truth escaped demons, went where they wished, and returned
+    home.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 7859-7863
+  quote_or_summary: A verse says some speak what cannot be questioned, mere logicians
+    do not, and the wise person recognizes and takes as true what is truth.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 7865-7870
+  quote_or_summary: The Blessed One teaches that life according to Truth leads to
+    happy states and Arahatship, while life according to the Untrue leads to hells
+    and low rebirths; after the discourse all five hundred disciples attain the Fruit
+    of Conversion.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 7871-7873
+  quote_or_summary: The Teacher concludes by identifying the foolish young merchant
+    with Devadatta, his men with Devadatta’s followers, the wise merchant’s men with
+    the Buddha’s attendants, and the wise young merchant with himself.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage gives clear actions, doctrinal interpretation, and Jātaka identifications.
+    Motif labels are candidate abstractions from the passage. No external comparison
+    claims were made because the passage itself does not support a specific cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references limited to supplied motif family list where directly supportable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l7831-l7873
+  passage_sha256=b7b692c1cbc56a1c7d43751fc750dd3f80603d7796a5edcf115ee5da25a4c55d
+

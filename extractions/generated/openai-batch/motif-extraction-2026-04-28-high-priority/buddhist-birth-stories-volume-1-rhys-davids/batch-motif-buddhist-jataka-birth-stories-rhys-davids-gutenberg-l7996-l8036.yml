@@ -1,0 +1,433 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l7996-l8036
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: THE DISTANT EPOCH. / GLORY BE TO THE BLESSED, THE HOLY, THE ALL-WISE ONE.
+    / BOOK I. / END OF THE STORY ON HOLDING TO THE TRUTH.; lines 7996-8036
+  start: '7996'
+  end: '8036'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A caravan digs deeply for water but stops at a rock. The Bodisat hears
+    water beneath it and urges his page not to give up. The page strikes the rock,
+    water rises, and the caravan survives, prospers, and returns home. The Buddha
+    then states a verse about firm resolve and continuing effort, declares the Four
+    Truths, and identifies the past-life figures in the Jātaka connection.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The group digs sixty cubits deep before striking a rock and giving up in despair.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Bodisat descends into the well, tests the stone by sound, and hears water
+    beneath it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Bodisat tells his page that if he gives up, all will be lost, and orders
+    him to strike the rock with an iron hammer.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The page goes down with determination and strikes the stone.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The rock splits, no longer blocks the stream, and water rises in the well.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The people drink and bathe, cook rice, feed their oxen, set up a flag by the
+    well, sell their merchandise profitably, return home, and live to old age.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Buddha gives a verse about firm resolve, continued effort, and finding
+    rest for the heart.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After the discourse, the despairing priest is established in Arahatship, identified
+    parenthetically as Nirvāna.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The Teacher identifies the page as the present brother without perseverance,
+    the other men as attendants on the Buddha, and the caravan leader as himself.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Bodisat / caravan leader
+  description: The figure who believes water lies under the rock, tests the sound,
+    instructs the page, later gives gifts and performs virtuous acts, and is identified
+    by the Teacher as himself in a former birth.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: page / lad
+  description: The attendant who obeys the Bodisat, descends into the pit, strikes
+    the stone, and is later identified as the brother without perseverance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:3
+  name_or_label: diggers and caravan men
+  description: The group who dig, despair after striking rock, later drink and bathe
+    in the water, eat, feed the oxen, trade, and return home; the other men are identified
+    as attendants on the Buddha.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Buddha / Teacher
+  description: The figure who tells the story, utters the verse, declares the Four
+    Truths, and forms the Jātaka connection.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: despairing priest / brother without perseverance
+  description: The listener who is established in Arahatship after the discourse and
+    is connected with the page in the former-birth story.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: resource-finding leader
+  assigned_to:
+  - fig:1
+  basis: He infers water beneath the rock, tests it, and directs the decisive action.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: obedient breaker of the obstacle
+  assigned_to:
+  - fig:2
+  basis: He obeys the instruction, descends into the pit, and strikes the rock so
+    that water can rise.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: despairing beneficiaries
+  assigned_to:
+  - fig:3
+  basis: They give up when the spade strikes rock, then later drink, bathe, eat, trade,
+    and return home.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: teacher and interpreter
+  assigned_to:
+  - fig:4
+  basis: He tells the story, gives the verse, declares the Four Truths, and explains
+    the former-birth identities.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: former-birth self of the Buddha
+  assigned_to:
+  - fig:1
+  basis: The Teacher says the caravan leader was himself.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: listener brought to attainment
+  assigned_to:
+  - fig:5
+  basis: The despairing priest is established in the highest Fruit, Arahatship, after
+    the discourse.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: water beneath rock
+  literal_form: Water gurgling beneath the stone and rising in the well after the
+    rock is split.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: blocking rock
+  literal_form: A rock struck by the diggers' spade and later split in two by the
+    page's blow.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: iron hammer
+  literal_form: The hammer given by the Bodisat to the page for striking the rock.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: well
+  literal_form: The dug pit or well in which the stone blocks the stream and where
+    water rises.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: flag by the well
+  literal_form: A flag set up by the well at sunset after the group has found and
+    used the water.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: digging reaches an obstacle
+  summary: The group digs sixty cubits and stops in despair when the spade strikes
+    rock.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bodisat detects hidden water
+  summary: The Bodisat enters the well, tests the stone by sound, hears water beneath
+    it, and instructs the page to strike the rock without losing heart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: rock split and water released
+  summary: The page strikes the stone; the rock splits, the stream is unblocked, and
+    water rises in the well.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: survival, profit, and return
+  summary: The caravan drinks, bathes, cooks, feeds the oxen, marks the well with
+    a flag, trades profitably, returns home, and lives to old age.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Buddha's moral verse and attainment
+  summary: The Buddha states the lesson of firm resolve and continuing effort, declares
+    the Four Truths, and the despairing priest attains Arahatship.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Jātaka identity connection
+  summary: The Teacher identifies the page, the other men, and the caravan leader
+    with present figures.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: perseverance through obstacle reveals life-sustaining resource
+  taxonomy_refs:
+  - wisdom
+  basis: The narrative contrasts despair with the Bodisat's inference and the page's
+    continued effort, leading to water and survival; the verse explicitly generalizes
+    this as firm resolve and continued effort.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage's explicit emphasis is perseverance
+    and effort rather than wisdom alone.
+- id: motif:2
+  label: hidden water released from beneath stone
+  taxonomy_refs: []
+  basis: Water is heard beneath a rock, the rock is split, and the stream rises in
+    the well.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: No specific supplied motif family directly corresponds to this literal
+    pattern; it is recorded as a candidate passage motif without a taxonomy reference.
+- id: motif:3
+  label: didactic past-life identification
+  taxonomy_refs: []
+  basis: After telling the story, the Teacher maps figures in the past episode to
+    present religious figures and the Buddha himself.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is a Jātaka narrative frame pattern rather than a motif family listed
+    in the supplied taxonomy.
+- id: motif:4
+  label: teaching brings listener to liberation
+  taxonomy_refs:
+  - wisdom
+  basis: After the Buddha's discourse and declaration of the Four Truths, the despairing
+    priest is established in Arahatship.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage states attainment after teaching, but the supplied taxonomy
+    has no specific liberation or enlightenment motif family beyond the broad wisdom
+    category.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7996-8000
+  quote_or_summary: The group brings a hoe, digs sixty cubits, strikes a rock with
+    the spade, and gives up in despair.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 8001-8009
+  quote_or_summary: The Bodisat reasons that water must be under the rock, enters
+    the well, listens to the stone, hears water gurgling beneath, and tells his page
+    not to lose heart but to strike the rock with an iron hammer.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 8010-8015
+  quote_or_summary: The page obeys, goes down determinedly, strikes the stone, the
+    rock splits and falls below, the stream is unblocked, and water rises to the height
+    of a palm-tree in the well.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 8015-8022
+  quote_or_summary: The group drinks, bathes, cooks rice using extra yokes and axles,
+    feeds the oxen, sets up a flag by the well, trades profitably, returns home, lives
+    to old age, and passes away according to deeds; the Bodisat gives gifts and performs
+    virtuous acts.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: lines 8023-8029
+  quote_or_summary: '"The men of firm resolve dug on into the sand... And so the wise,
+    strong by continuing effort, / Finds--if he weary not--Rest for his heart!"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: summary
+  locator: lines 8030-8033
+  quote_or_summary: After the discourse, the Buddha declares the Four Truths, and
+    the despairing priest is established in the highest Fruit, Arahatship, identified
+    as Nirvāna.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 8034-8036
+  quote_or_summary: 'The Teacher forms the Jātaka connection: the page who broke the
+    stone was the brother without perseverance, the other men were attendants on the
+    Buddha, and the caravan leader was the Teacher himself.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence and figures are explicit. Motif assignments are cautious
+    because the supplied taxonomy lacks a precise category for perseverance releasing
+    hidden water or the Jātaka identity frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another text, tradition, or motif family beyond internal didactic generalization.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l7996-l8036
+  passage_sha256=ff9a3494cf1746889b909eeb484a97d8fd508c0061782c1edac2dce0d1a60700
+

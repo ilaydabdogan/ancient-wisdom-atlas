@@ -1,0 +1,478 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l9826-l9949
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: END OF THE STORY ABOUT TRUE DIVINITY. / END OF THE STORY ON A HAPPY LIFE.
+    / END OF THE STORY OF THE BANYAN DEER. / END OF THE STORY OF THE DART OF LOVE.;
+    lines 9826-9949
+  start: '9826'
+  end: '9949'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“There is nothing worse than greed, they say.”"
+  summary: The passage introduces the Vāta-miga Jātaka, telling how the monk Young
+    Tissa, formerly strict in food observance, is lured away from the Order by a slave-girl
+    through food he likes. The Master says this has happened before and tells of an
+    antelope gradually lured by honey-smeared grass until Sanjaya the gardener leads
+    it into the palace.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Prince Tissa hears the Teacher’s discourse, desires the religious life, obtains
+    parental consent after refusing food for seven days, and takes vows under the
+    Master.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: At Jetavana, Young Tissa begs daily food in Sāvatthi and observes the Thirteen
+    Practices by which the passions are quelled.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: Tissa’s parents mourn during a festival and speak of their only son being
+    taken away to Sāvatthi.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: A slave-girl asks what dish Tissa liked most and promises, if given authority,
+    to bring him back.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The slave-girl settles on Tissa’s begging route, supplies him with food and
+    drink, feigns sickness, and persuades him to leave the Order.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The monks say that a slave-girl brought back Young Tissa by binding him with
+    the lust of taste.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Master says that the monk had formerly also fallen into a woman’s power
+    after being caught by the lust of taste.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: In the former story, an antelope repeatedly comes to King Brahma-datta’s garden
+    and becomes accustomed to Sanjaya the gardener.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Sanjaya uses honey-smeared grass at the antelope’s usual place to make it
+    return only to the garden.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: After gaining the antelope’s confidence, Sanjaya sprinkles honey-smeared grass
+    in front of it and leads it within the palace.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: The Master
+  description: Teacher living at Jetavana who explains the present event by telling
+    a former story.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: Young Tissa / Prince Tissa
+  description: A wealthy young man who becomes a monk, keeps food-related observances,
+    and is later induced to leave the Order.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Tissa’s parents
+  description: Parents who refuse consent at first, later mourn their son’s absence,
+    and authorize the slave-girl to bring him back.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Slave-girl
+  description: A woman from Tissa’s household who uses preferred food, feigned illness,
+    and persuasion to bring Tissa back from the Order.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: The monks
+  description: Monks assembled in the hall of instruction who discuss Tissa’s return.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Brahma-datta
+  description: King of Benares in the former story, owner of the garden and palace.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Sanjaya
+  description: The king’s gardener who uses honey-smeared grass to lure an antelope
+    into the palace.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:8
+  name_or_label: Antelope
+  description: A swift antelope that comes to the garden, eats honey-smeared grass,
+    gains confidence in Sanjaya, and is led into the palace.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: teacher and interpreter
+  assigned_to:
+  - fig:1
+  basis: The Master identifies the present event as a recurrence and tells a former
+    story.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: religious renunciant
+  assigned_to:
+  - fig:2
+  basis: Tissa takes vows and observes ascetic food practices.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: one lured by taste
+  assigned_to:
+  - fig:2
+  - fig:8
+  basis: Tissa is bound by the lust of taste through food; the antelope is bound by
+    honey-smeared grass.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:4
+  label: mourning family
+  assigned_to:
+  - fig:3
+  basis: The parents weep over Tissa’s absence and support the plan to bring him back.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: enticer or captor through food
+  assigned_to:
+  - fig:4
+  - fig:7
+  basis: The slave-girl uses food to gain power over Tissa; Sanjaya uses honey-smeared
+    grass to lead the antelope to the palace.
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: role:6
+  label: reporting audience
+  assigned_to:
+  - fig:5
+  basis: The monks discuss the news in the hall of instruction.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: royal requester
+  assigned_to:
+  - fig:6
+  basis: The king asks whether Sanjaya could catch the antelope and gives him honey.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: preferred food
+  literal_form: the dish Tissa was most fond of, and food and drink supplied by the
+    slave-girl
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: honey-smeared grass
+  literal_form: grass smeared with honey and placed or sprinkled before the antelope
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:3
+  label: palankeen
+  literal_form: the palankeen in which the slave-girl travels and seats Tissa for
+    return to Rājagaha
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: garden-to-palace path
+  literal_form: a path strewn with branches and honey-smeared grass leading from the
+    garden to the palace
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Tissa enters the Order
+  summary: Prince Tissa hears the Teacher’s discourse, presses his parents for consent
+    by refusing food, and becomes a monk under the Master.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Tissa becomes known for food observance
+  summary: At Jetavana, Tissa lives by begging and follows the Thirteen Practices,
+    becoming famous as the young monk who keeps the law concerning food.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Slave-girl’s plan
+  summary: Tissa’s parents mourn; the slave-girl asks about his favorite dish and
+    receives authority and resources to bring him back.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Tissa lured away
+  summary: The slave-girl provides food and drink, gains influence over Tissa, feigns
+    sickness, and persuades him to leave the Order and return in her palankeen.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Master introduces former story
+  summary: The monks discuss Tissa’s fall, and the Master says that the same susceptibility
+    to taste occurred formerly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Antelope lured into the palace
+  summary: In the former story, Sanjaya gradually wins the antelope’s confidence with
+    honey-smeared grass and leads it from the garden into the palace.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: greed or lust of taste causing downfall
+  taxonomy_refs:
+  - wisdom
+  basis: The opening maxim says there is nothing worse than greed; both Tissa and
+    the antelope are described as bound or caught by the lust of taste.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The taxonomy link to wisdom is broad; the passage’s explicit focus is
+    moral instruction on greed and taste.
+- id: motif:2
+  label: baited capture through sweet or desired food
+  taxonomy_refs: []
+  basis: The slave-girl uses Tissa’s favored food to gain control, and Sanjaya uses
+    honey-smeared grass to lure the antelope into the palace.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: No specific supplied taxonomy family directly names food-baiting.
+- id: motif:3
+  label: former-birth parallel exemplum
+  taxonomy_refs:
+  - wisdom
+  basis: The Master frames the animal story as a former instance of the same weakness
+    shown in the present story.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is a narrative structure within the Jātaka passage rather than an
+    external comparative claim.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage explicitly presents the present story of Tissa and the former
+    story of the antelope as the same recurring pattern: a being is brought under
+    another’s power through the lust of taste.'
+  claim_level: same_motif
+  target: internal comparison between the Tissa frame story and the former-birth antelope
+    story
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This claim is limited to the passage’s own explicit parallel and does
+    not assert contact, inheritance, or comparison with an outside tradition.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9826-9834
+  quote_or_summary: "“There is nothing worse than greed, they say.” The passage identifies
+    the tale as Vāta-miga Jātaka, “The Greedy Antelope.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 9835-9844
+  quote_or_summary: Prince Tissa hears the Teacher, desires religious life, compels
+    parental consent by refusing food for seven days, and takes vows under the Master.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 9845-9852
+  quote_or_summary: At Jetavana, Young Tissa begs daily food in Sāvatthi, observes
+    the Thirteen Practices, and becomes famous as the monk who keeps the law concerning
+    food.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 9853-9874
+  quote_or_summary: During a festival, Tissa’s parents mourn his absence; a slave-girl
+    asks what dish he liked most and promises to bring him back if granted authority.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: lines 9875-9900
+  quote_or_summary: The slave-girl lives on Tissa’s begging route, gives him food
+    and drink, gains power over him through taste, feigns sickness, persuades him
+    to leave the Order, and returns with him in a palankeen.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: lines 9901-9913
+  quote_or_summary: The monks discuss that Tissa was brought back by being bound with
+    the lust of taste; the Master says this happened to him formerly also and begins
+    a story.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: lines 9914-9929
+  quote_or_summary: In Benares, King Brahma-datta has a gardener named Sanjaya. A
+    swift antelope frequents the garden; Sanjaya says he could bring it into the palace
+    with honey.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source text.
+- id: ev:8
+  type: summary
+  locator: lines 9930-9940
+  quote_or_summary: Sanjaya smears honey on grass where the antelope comes; after
+    eating it, the deer is bound with the lust of taste and comes only to the garden.
+    It gradually gains confidence and eats grass from Sanjaya’s hand.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source text.
+- id: ev:9
+  type: summary
+  locator: lines 9941-9949
+  quote_or_summary: Sanjaya prepares a branch-strewn path, carries honey and grass,
+    sprinkles honey-smeared grass before the antelope, and leads it within the palace.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage explicitly marks the food-lure pattern and the internal parallel
+    between the frame story and former story. Taxonomy assignment is limited because
+    the available motif families do not include a specific food-temptation or animal-capture
+    category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons or unsupported taxonomy identifiers were added. Symbols are literal passage objects and do not use unavailable taxonomy refs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l9826-l9949
+  passage_sha256=a53e334613c33e517da2950f8df0ae18232ef55b6cbe87abad574f56d8e786e4
+

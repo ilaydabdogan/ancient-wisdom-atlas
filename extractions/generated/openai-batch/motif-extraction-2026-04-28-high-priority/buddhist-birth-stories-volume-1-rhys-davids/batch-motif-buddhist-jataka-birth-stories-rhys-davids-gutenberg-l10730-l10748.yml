@@ -1,0 +1,388 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l10730-l10748
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: END OF THE STORY OF THE SWIFT ANTELOPE. / END OF THE STORY OF THE DEER WHO
+    WOULD NOT LEARN. / END OF THE STORY ON FOOD OFFERED TO THE DEAD. / END OF THE
+    STORY OF THE KURUNGA ANTELOPE.; lines 10730-10748
+  start: '10730'
+  end: '10748'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A king accepts the Bodisat’s exhortation, grants security and food to
+    living creatures and dogs, practices charity and good deeds, and after death is
+    reborn among the gods. The Bodisat lives to old age and dies according to his
+    deeds. The Teacher then identifies the figures of the past story: the king was
+    Ānanda, the others were the Buddha’s attendants, and the Dog was the Teacher himself.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The king listens to the Bodisat’s exhortation.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king grants security to all living creatures.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The king orders a constant supply of food, described as like royal food, for
+    all the dogs from the Bodisat downward.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The king remains firm in the Bodisat’s teaching and performs charity and other
+    good deeds for the rest of his life.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After death the king is reborn in the world of the gods.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Exhortation of the Dog flourishes for tens of thousands of years.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Bodisat lives to a good old age and passes away according to his deeds.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Teacher says the discourse illustrates that the Tathāgata formerly acted
+    for the benefit of his relatives.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The Teacher identifies the former king as Ānanda, the others as the Buddha’s
+    attendants, and the Dog as himself.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: king
+  description: A ruler who accepts the Bodisat’s teaching, protects living creatures,
+    feeds dogs, performs good deeds, and is reborn among gods.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Bodisat / Dog
+  description: The Bodisat appears as a Dog whose exhortation guides the king; later
+    identified by the Teacher as himself in a former existence.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: all living creatures
+  description: Living beings to whom the king grants security.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: all the dogs
+  description: Dogs for whom the king orders a constant food supply, beginning with
+    the Bodisat.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Teacher / Tathāgata
+  description: The speaker who concludes the discourse and explains the connection
+    between the former story and present identities.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Ānanda
+  description: Identified by the Teacher as the one who had been the king in the former
+    story.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Buddha’s attendants
+  description: Identified by the Teacher as the others in the former story.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: mendicants
+  description: Audience addressed in the Teacher’s concluding statement.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: recipient of exhortation
+  assigned_to:
+  - fig:1
+  basis: The king listens to the Bodisat’s exhortation and remains firm in his teaching.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: charitable ruler reborn among gods
+  assigned_to:
+  - fig:1
+  basis: The king grants protection and food, performs charity and good deeds, and
+    after death is reborn in the world of the gods.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: exhorting teacher
+  assigned_to:
+  - fig:2
+  basis: The king follows the Bodisat’s exhortation and teaching.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: past-life identity of the Teacher
+  assigned_to:
+  - fig:2
+  basis: The Teacher says that the Dog was himself.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: protected or fed beneficiaries
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: All living creatures receive security, and all dogs receive food.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: narrative interpreter
+  assigned_to:
+  - fig:5
+  basis: The Teacher concludes the discourse, states its lesson, and makes the connection
+    between past and present figures.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: present identity linked to former story
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The Teacher identifies the king as Ānanda and the others as the Buddha’s
+    attendants.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: addressed audience
+  assigned_to:
+  - fig:8
+  basis: The Teacher’s statement is addressed to mendicants.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Dog as Bodisat
+  literal_form: dog
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: royal food for dogs
+  literal_form: food like royal food
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: world of the gods
+  literal_form: rebirth realm
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Exhortation of the Dog
+  literal_form: teaching or exhortation
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: The king implements the Bodisat’s teaching
+  summary: The king listens to the Bodisat, grants security to living creatures, orders
+    royal-like food for dogs, and continues in charity and good deeds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Consequences after life and long duration of the teaching
+  summary: The king dies and is reborn in the world of the gods; the Exhortation of
+    the Dog continues for tens of thousands of years, and the Bodisat dies in old
+    age according to his deeds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: The Teacher makes the Jātaka connection
+  summary: The Teacher explains that the discourse shows the Tathāgata formerly benefited
+    his relatives, and identifies the former king, others, and Dog with present figures.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: wise animal Bodisat instructs a ruler
+  taxonomy_refs:
+  - wisdom
+  basis: The Bodisat, identified as the Dog, gives an exhortation that the king accepts
+    and follows.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage gives only the conclusion of the story, not the full exhortation.
+- id: motif:2
+  label: royal protection and feeding of animals after moral instruction
+  taxonomy_refs: []
+  basis: After hearing the Bodisat, the king grants security to all living creatures
+    and provides food for all dogs.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the provided taxonomy
+    has no direct animal-protection motif.
+- id: motif:3
+  label: good deeds leading to divine rebirth
+  taxonomy_refs:
+  - death_rebirth
+  basis: The king performs charity and other good deeds throughout life and after
+    death is reborn in the world of the gods.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage specifically describes Buddhist
+    karmic rebirth, not necessarily a general death-and-rebirth mythic cycle.
+- id: motif:4
+  label: past-life identity revealed at the Jātaka conclusion
+  taxonomy_refs: []
+  basis: The Teacher connects the former story to present figures by identifying the
+    king as Ānanda, the others as the Buddha’s attendants, and the Dog as himself.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a narrative framing motif rather than a symbol within the embedded
+    animal story.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10730-10733
+  quote_or_summary: The king listens to the Bodisat, grants security to all living
+    creatures, and orders constant royal-like food for all dogs from the Bodisat downward.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 10733-10735
+  quote_or_summary: The king remains firm in the Bodisat’s teaching, does charity
+    and good deeds for life, and after death is reborn in the world of the gods.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 10737-10739
+  quote_or_summary: The Exhortation of the Dog flourishes for tens of thousands of
+    years; the Bodisat lives to old age and passes away according to his deeds.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 10743-10746
+  quote_or_summary: The Teacher concludes the discourse by saying it illustrates that
+    the Tathāgata previously acted for the benefit of his relatives.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 10746-10748
+  quote_or_summary: The Teacher identifies the former king as Ānanda, the others as
+    the Buddha’s attendants, and the Dog as himself.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and explicit. Motif taxonomy mapping is partly broad,
+    especially for karmic rebirth. No comparison claims were made because the passage
+    does not itself support cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; line-level evidence follows the provided locator range.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l10730-l10748
+  passage_sha256=5edff0065c418dc2bd13016f4982b0dbee7c065dce337286096ef7070595041c
+

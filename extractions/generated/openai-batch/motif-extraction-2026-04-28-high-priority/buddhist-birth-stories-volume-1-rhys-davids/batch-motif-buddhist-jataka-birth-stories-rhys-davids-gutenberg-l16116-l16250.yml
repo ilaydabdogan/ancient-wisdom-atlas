@@ -1,0 +1,210 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l16116-l16250
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: INDIAN TALES FROM TIBETAN SOURCES. / THE RELIGIONS OF INDIA. / BY A. BARTH.
+    / FOOTNOTES:; lines 16116-16250
+  start: '16116'
+  end: '16250'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of scholarly footnotes identifying relationships among
+    Jātaka stories and other Buddhist texts, noting cases where Jātakas derive from
+    or correspond to Vinaya, Nikāya, and other sources, and listing instances of duplicate
+    names or shared introductory stories. One note describes a Bharhut carving of
+    a fable involving a cat and a cock, labelled by both animal-centered Jātaka titles.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Several named Jātakas are said to be taken from, founded on, enlarged from,
+    or derived from stories or parables in the Vinaya Piṭaka, Culla Vagga, Dīgha Nikāya,
+    Majjhima Nikāya, and Saŋyutta Nikāya.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One note states that some stories had already become Jātakas, while in other
+    quoted cases the stories remained only parables.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Several Jātaka numbers are listed as having more than one title, and some
+    are described as the same story under different names.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A Bharhut carving is described as illustrating a fable of a cat and a cock
+    and as being labelled both Cat Jātaka and Cock Jātaka.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Groups of Jātaka numbers are listed as having the same Introductory Story.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: cat
+  description: An animal figure in the Bharhut carving's fable.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: cock
+  description: An animal figure in the Bharhut carving's fable.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: animal figure in fable
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says the carving illustrates a fable of a cat and a cock.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Bharhut carving of cat-and-cock fable
+  summary: A carving at Bharhut is reported to depict a fable involving a cat and
+    a cock, with labels identifying it by both animal-centered Jātaka titles.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: same narrative appearing across Buddhist textual corpora
+  taxonomy_refs: []
+  basis: The notes identify multiple Jātakas as corresponding to stories or parables
+    in Vinaya and Nikāya sources, including Pāli and Chinese versions in one case.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is bibliographic and gives little or no plot content; the
+    motif is a textual-reuse pattern rather than a fully described narrative motif.
+- id: motif:2
+  label: single animal fable identified by alternative animal titles
+  taxonomy_refs: []
+  basis: The Bharhut carving is said to illustrate a fable of a cat and a cock and
+    to be labelled both Cat Jātaka and Cock Jātaka.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage names the animals and labels but does not summarize the fable's
+    action or moral.
+- id: motif:3
+  label: shared introductory story across multiple Jātakas
+  taxonomy_refs: []
+  basis: The note lists several groups of Jātaka numbers as having the same Introductory
+    Story.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The shared introductory stories are not described, so the actual narrative
+    content cannot be extracted from this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious claim that certain named Jātakas correspond
+    to stories or parables preserved in other Buddhist canonical contexts.
+  claim_level: same_motif
+  target: Vinaya Piṭaka, Culla Vagga, Dīgha Nikāya, Majjhima Nikāya, and Saŋyutta
+    Nikāya parallels to named Jātakas
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The notes assert derivation or close correspondence, but the passage
+    does not provide the narrative plots needed to compare motif details.
+- id: claim:2
+  claim: The passage supports a cautious claim that the Cat Jātaka and Cock Jātaka
+    labels refer to the same depicted animal fable in the Bharhut carving.
+  claim_level: same_motif
+  target: Biḍala Jātaka / Kukkuṭa Jātaka, described as Cat Jātaka and Cock Jātaka
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim applies only to the labelled carving described in the note;
+    the fable's narrative sequence is not given.
+- id: claim:3
+  claim: The passage supports a cautious claim that some Jātaka entries share the
+    same introductory narrative framework.
+  claim_level: same_function
+  target: Jātaka groups listed as having the same Introductory Story
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The introductory stories are only identified as shared; their contents
+    and functions are not described.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16116-16131, footnote [61]
+  quote_or_summary: Named Jātakas are linked to stories in Pāli and Chinese Vinaya
+    sources, Culla Vagga passages, and Suttas or parables in the Dīgha, Majjhima,
+    and Saŋyutta Nikāyas.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: footnote [67]
+  quote_or_summary: The note contrasts stories that have already become Jātakas with
+    other quoted cases where the stories are still only parables.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: footnote [71]
+  quote_or_summary: The note lists Jātaka numbers with alternative titles and several
+    cases described as the same story under different names.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: footnote [72]
+  quote_or_summary: "“The carving illustrates a fable of a cat and a cock, and is
+    labelled both Biḍala Jātaka and Kukkuṭa Jātaka.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: footnote [94]
+  quote_or_summary: The note gives groups of Jātaka numbers and states that they have
+    the same Introductory Story.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly scholarly apparatus rather than narrative. Textual
+    relationships and one illustrated animal fable are clear, but motif content is
+    thin and should be reviewed by a human editor.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy references were assigned because the passage does not clearly support any supplied motif-family or symbol taxonomy item.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l16116-l16250
+  passage_sha256=6ee85ad9989ea9d58bf7beff10c22b4813252fa602a725e4b7c89604b21e4510
+

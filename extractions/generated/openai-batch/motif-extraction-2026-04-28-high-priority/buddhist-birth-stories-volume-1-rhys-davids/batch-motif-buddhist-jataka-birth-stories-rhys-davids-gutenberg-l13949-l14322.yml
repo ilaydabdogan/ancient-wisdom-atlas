@@ -1,0 +1,407 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l13949-l14322
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: END OF THE STORY OF THE BULL WHO WON THE BET. / END OF THE STORY OF THE WISE
+    BIRD AND THE FOOLS. / END OF BOOK I. CHAPTER IV. / INDEX.; lines 13949-14322
+  start: '13949'
+  end: '14322'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An index segment lists Jātaka story topics and related entries, including
+    deer stories involving foolishness and self-sacrifice, demons and a water demon,
+    fire-related marvels, flying by holy beings or by a gem, heaven and hell entries,
+    mountains and hills, and cross-references to fable traditions and story collections.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The index lists deer stories in which a deer loses a herd by foolishness,
+    saves a herd by self-sacrifice, refuses to learn, and is described as cunning.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index describes demons as red-eyed, bold, and shadowless, and separately
+    lists a water demon.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'The index groups several fire-related entries: a fiery furnace story, a fire-god
+    conquered by a quail, fire restrained in the Buddha''s presence, the origin of
+    jungle-fire, and jungle-fire stopping before the Buddha.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index lists flying as an accomplishment of Arahats, flying by Pacceka
+    Buddhas, and flying by means of a gem.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index includes entries for heaven, war in heaven, the glories of heaven
+    shown to a sinner, and hell becoming filled with light.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index includes named mountains and hills, including Dhammaka, Golden Hill,
+    and Gayā-sīsa hill near Rājagaha.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The index includes entries naming Greek and Buddhist fables and several story
+    or fable collections, but this segment does not state a specific comparison among
+    them.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Deer
+  description: An animal figure in indexed Jātaka stories, associated with losing
+    a herd by foolishness, saving a herd by self-sacrifice, refusal to learn, and
+    cunning.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Herd
+  description: A collective animal group that is lost or saved in the indexed deer
+    entries.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Demons
+  description: Supernatural beings described as red-eyed, bold, and shadowless.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Water demon
+  description: A demon specifically associated with water in the index.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Buddha
+  description: Religious figure associated in the index with fire being restrained
+    in his presence and jungle-fire stopping before him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Quail
+  description: Animal figure associated with conquering a fire-god.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Fire-god
+  description: A deity or supernatural figure conquered by a quail in an indexed story
+    entry.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Arahats
+  description: Holy beings for whom flying is listed as an accomplishment.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Pacceka Buddhas
+  description: Holy beings associated in the index with flying.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Foolish animal actor
+  assigned_to:
+  - fig:1
+  basis: The deer is indexed as losing its herd by foolishness and as one who would
+    not learn.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Self-sacrificing animal savior
+  assigned_to:
+  - fig:1
+  basis: The deer is indexed as saving its herd by self-sacrifice.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Endangered group
+  assigned_to:
+  - fig:2
+  basis: The herd is the group lost or saved in the indexed deer stories.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Demonic being
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The index identifies demons and a water demon.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Sacred presence restraining fire
+  assigned_to:
+  - fig:5
+  basis: The index says fire is restrained in the Buddha's presence and jungle-fire
+    stops before the Buddha.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Animal victor over fire deity
+  assigned_to:
+  - fig:6
+  basis: The index lists a fire-god conquered by a quail.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: Conquered fire deity
+  assigned_to:
+  - fig:7
+  basis: The index lists the fire-god as conquered by a quail.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: Holy flying being
+  assigned_to:
+  - fig:8
+  - fig:9
+  basis: The index associates Arahats and Pacceka Buddhas with flying.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Fire
+  literal_form: Fire, fiery furnace, fire-god, jungle-fire
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Water
+  literal_form: Water demon
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Mountain or hill
+  literal_form: Dhammaka mountain, Golden Hill, Gayā-sīsa hill
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Gem as flight medium
+  literal_form: Gem used as a means of flying
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Heaven and hell
+  literal_form: Heaven, hell, war in heaven, heaven shown to a sinner, hell filled
+    with light
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Indexed deer herd loss and rescue
+  summary: The index points to deer stories where a deer loses a herd through foolishness
+    and saves a herd through self-sacrifice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Indexed fire confrontations
+  summary: The index points to stories in which fire is restrained or stopped before
+    the Buddha, a quail conquers a fire-god, and a fiery furnace or jungle-fire appears.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Indexed supernatural flying
+  summary: The index lists flying by Arahats and Pacceka Buddhas and flying through
+    use of a gem.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Indexed otherworld realms
+  summary: The index lists heaven and hell topics, including war in heaven, heaven
+    shown to a sinner, and hell filled with light.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Self-sacrifice to save the herd
+  taxonomy_refs:
+  - sacrifice
+  basis: The index explicitly says a deer saves its herd by self-sacrifice.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The supplied passage is an index entry; the full narrative circumstances
+    are not present here.
+- id: motif:2
+  label: Foolishness contrasted with learning or wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The index groups deer entries involving foolishness, refusal to learn, and
+    cunning.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The index implies moral or didactic contrast, but the full story text
+    is not included in this passage.
+- id: motif:3
+  label: Fire subdued by sacred or animal power
+  taxonomy_refs: []
+  basis: The index lists fire restrained in the Buddha's presence, jungle-fire stopping
+    before the Buddha, and a fire-god conquered by a quail.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No available taxonomy family exactly matches this fire-subduing pattern;
+    this is extracted as an uncoded candidate motif.
+- id: motif:4
+  label: Holy or magical flight
+  taxonomy_refs:
+  - ascent
+  basis: The index lists flying as an accomplishment of Arahats, flying by Pacceka
+    Buddhas, and flying by means of a gem.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The entries mention flying but do not specify vertical ascent, heavenly
+    ascent, or a journey structure.
+- id: motif:5
+  label: Heaven and hell as transformative or revelatory realms
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The index lists heaven shown to a sinner and hell becoming filled with light.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage does not provide a detailed afterlife journey map; it only
+    lists index topics.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13949-13952, index s.v. Deer
+  quote_or_summary: "“Deer, loses his herd by foolishness ... saves his herd by self-sacrifice
+    ... who would not learn ... the cunning”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: lines 13958-13961, index s.v. Demons / Demon of water
+  quote_or_summary: "“Demons, red-eyed, and bold, and shadowless” and “Demon of water”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 14025-14032 and 14146, index s.v. Fire / Fire-god / Jungle-fire
+  quote_or_summary: Index entries refer to a fiery furnace, a fire-god conquered by
+    a quail, fire restrained in the Buddha's presence, the origin of jungle-fire,
+    and jungle-fire stopping before the Buddha.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: quote
+  locator: lines 14036-14038, index s.v. Flying
+  quote_or_summary: "“Flying, accomplishment of Arahats ... Flying of Pacceka Buddhas
+    ... by means of a gem”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: lines 14086-14089, index s.v. Heaven / Hell
+  quote_or_summary: Index entries mention war in heaven, heaven's glories shown to
+    a sinner, and hell becoming filled with light.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: lines 13972, 14070, 14175, index s.v. Dhammaka / Golden Hill / Gayā-sīsa
+  quote_or_summary: Index entries name Dhammaka as a mountain, Golden Hill, and Gayā-sīsa
+    hill near Rājagaha.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: lines 14049-14056, 14073, 14104, 14214, index s.v. Gesta Romanorum / Greek
+    and Buddhist fables / Hitopadesa / Kalilag and Damnag / Kathā-sarit-Sāgara
+  quote_or_summary: The index includes entries for Greek and Buddhist fables, Gesta
+    Romanorum, Hitopadesa, Kalilag and Damnag literature, and Kathā-sarit-Sāgara.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an index segment, so it preserves topic labels and cross-references
+    rather than full story narration. Motif candidates are based on explicit index
+    wording and should be checked against the referenced Jātaka stories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were recorded because the passage lists comparative fable traditions but does not state a specific shared motif, historical contact, or inheritance claim within this line range.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l13949-l14322
+  passage_sha256=5c15e1fd5f047b1a7622e5bc2c7f00b553a39a7dae58e8ab44b8f7481603844e
+

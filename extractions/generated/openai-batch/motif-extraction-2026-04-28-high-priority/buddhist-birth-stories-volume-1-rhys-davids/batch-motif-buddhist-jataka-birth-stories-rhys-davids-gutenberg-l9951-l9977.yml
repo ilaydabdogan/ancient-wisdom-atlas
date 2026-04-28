@@ -1,0 +1,379 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l9951-l9977
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: END OF THE STORY ABOUT TRUE DIVINITY. / END OF THE STORY ON A HAPPY LIFE.
+    / END OF THE STORY OF THE BANYAN DEER. / END OF THE STORY OF THE DART OF LOVE.;
+    lines 9951-9977
+  start: '9951'
+  end: '9977'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'An antelope enters an enclosed hall and is frightened by men. The king
+    observes that the animal has overcome its natural fear because of the lust of
+    taste, gives a stanza warning against greed, and releases it back to the forest.
+    The Master then connects the former story to a present situation: Sanjaya corresponds
+    to a slave-girl, the antelope to a monk, and the king of Benares to the Master
+    himself.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After the deer entered, the door was shut.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The antelope saw men, trembled in fear of death, and ran about the hall.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The king came down from an upper chamber and observed the frightened antelope.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The king says the antelope, normally fearful of places where it has seen men
+    or been frightened, came to such a place because it was bound by the lust of taste.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The king states a lesson that nothing is worse than greed and that taste brought
+    the wild deer under Sanjaya's control.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After explaining the danger of greed, the king let the antelope return to
+    the forest.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Master states that the monk had formerly also fallen into another's power
+    through lust of taste.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Master identifies Sanjaya with a slave-girl, the antelope with the monk,
+    and the king of Benares with himself.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: deer / antelope
+  description: A wild antelope or deer that enters the hall, becomes frightened, is
+    said to be bound by the lust of taste, and is released back to the forest.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: king of Benares
+  description: The king who observes the frightened antelope, teaches a lesson on
+    greed, releases it, and is later identified by the Master as himself in a former
+    birth.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Sanjaya
+  description: Named in the stanza as the one under whose control the wild deer fell
+    through taste; later identified with the slave-girl.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: men in the hall
+  description: Men seen by the antelope, causing it to tremble and run about in fear.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: the Master
+  description: The speaker who finishes the discourse, makes the connection, and identifies
+    the Jātaka figures.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: the monk
+  description: A monk in the present discourse who is said to have been caught by
+    the lust of taste and formerly to have been the antelope.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: slave-girl
+  description: The present figure identified by the Master as having been Sanjaya
+    in the former story.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: mendicants
+  description: The audience addressed by the Master in the discourse.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: being overcome by lust of taste
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: The antelope comes into danger through taste, and the monk is explicitly
+    said to be caught by the lust of taste.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: moral instructor
+  assigned_to:
+  - fig:2
+  basis: The king states a lesson about greed and shows the danger of greed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: releaser
+  assigned_to:
+  - fig:2
+  basis: The king lets the antelope go back to the forest.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: controller or captor by appetite
+  assigned_to:
+  - fig:3
+  - fig:7
+  basis: The stanza says the deer fell under Sanjaya's control through taste, and
+    the Master identifies Sanjaya with the slave-girl.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: Jātaka interpreter
+  assigned_to:
+  - fig:5
+  basis: The Master makes the connection and sums up the Jātaka by assigning past
+    identities to present figures.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: enclosed hall
+  literal_form: hall with a shut door
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: forest or jungle
+  literal_form: forest / jungle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: taste
+  literal_form: taste as the object of greed or appetite
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Antelope trapped in the hall
+  summary: The deer or antelope enters, the door is shut, and the animal panics on
+    seeing men in the hall.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: King teaches on greed and releases the antelope
+  summary: The king observes that appetite brought the wild animal into danger, gives
+    a stanza against greed, and releases the antelope back to the forest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Jātaka connection
+  summary: The Master applies the former story to the present case and identifies
+    the past figures with present ones.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:2
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Appetite leads to captivity or control
+  taxonomy_refs: []
+  basis: The antelope enters the dangerous human space because of lust of taste, and
+    the stanza says taste caused the wild deer to fall under Sanjaya's control.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents the pattern as a moral example rather than as a supernatural
+    motif.
+- id: motif:2
+  label: Moral instruction through animal example
+  taxonomy_refs:
+  - wisdom
+  basis: The king uses the frightened antelope as an example to teach the danger of
+    greed, and the Master later uses the whole story as a discourse illustration.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage supports an ethical wisdom
+    lesson, not a separate wisdom deity or esoteric teaching.
+- id: motif:3
+  label: Former-birth identification of present figures
+  taxonomy_refs: []
+  basis: The Master connects the story to present figures by identifying Sanjaya,
+    the antelope, and the king of Benares with the slave-girl, the monk, and himself.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a Jātaka framing pattern rather than a standalone mythic episode
+    in the inner animal story.
+- id: motif:4
+  label: Merciful release after moral recognition
+  taxonomy_refs: []
+  basis: After showing the danger of greed, the king lets the antelope go back to
+    the forest.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only a brief release action and does not elaborate a
+    ritual or legal pardon motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly parallels the antelope's former fall under control
+    through taste with the present monk's fall into another's power through lust of
+    taste.
+  claim_level: same_function
+  target: present discourse about the monk and slave-girl within the Jātaka frame
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the passage's Jātaka identification and
+    does not establish external historical contact or a broader cross-cultural motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9951-9954
+  quote_or_summary: After the deer enters, the door is shut; the antelope sees men,
+    trembles in fear of death, and runs about the hall.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 9954-9963
+  quote_or_summary: The king descends, sees the trembling creature, and says that
+    although an antelope normally avoids places where it has seen men or been frightened,
+    this one has come there because it is bound by the lust of taste.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 9964-9968
+  quote_or_summary: "“There’s nothing worse than greed, they say... Through taste
+    the deer, the wild one of the woods, / Fell under Sanjaya’s control.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 9970-9971
+  quote_or_summary: After showing the danger of greed, the king lets the antelope
+    go back to the forest.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 9975-9977
+  quote_or_summary: The Master says the monk had previously also fallen into another's
+    power through lust of taste, then identifies Sanjaya with the slave-girl, the
+    antelope with the monk, and the king of Benares with himself.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are descriptive and should
+    be reviewed for alignment with the Atlas taxonomy; only the broad wisdom taxonomy
+    reference is used.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons were added. The only comparison claim records the passage's own internal Jātaka parallel.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l9951-l9977
+  passage_sha256=65793f80d47d0954742a04673987bf61c7201fac1cd7cd58fefd028b43ca03d7
+

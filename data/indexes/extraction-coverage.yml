@@ -8,69 +8,23 @@ summary:
   - texts/permissioned/**/*.md
   extraction_glob: extractions/**/*.{yml,yaml}
   text_count: 58
-  texts_with_extractions: 44
-  texts_without_extractions: 14
-  texts_needing_full_extraction: 48
-  texts_needing_review_or_normalization: 44
-  extraction_record_count: 1114
-  candidate_motif_count: 4547
-  taxonomy_ref_count: 3807
-  comparison_claim_count: 1400
+  texts_with_extractions: 46
+  texts_without_extractions: 12
+  texts_needing_full_extraction: 46
+  texts_needing_review_or_normalization: 46
+  extraction_record_count: 1314
+  candidate_motif_count: 5381
+  taxonomy_ref_count: 4510
+  comparison_claim_count: 1607
   status_counts:
-    dense_draft: 10
+    dense_draft: 12
     developing: 16
-    no_extractions: 14
+    no_extractions: 12
     thin: 18
   priority_counts:
-    high: 32
-    medium: 26
+    high: 30
+    medium: 28
 texts:
-- source_text_path: texts/public-domain/ainu/project-gutenberg/aino-folk-tales-chamberlain.md
-  source_text_id: ainu.folk_tales.chamberlain_gutenberg
-  title: Aino Folk-Tales
-  tradition: ainu
-  culture: ainu_oral_traditions_colonial_collection
-  region: hokkaido_japan
-  date_range: Ainu oral traditions; 1888 public-domain English collection
-  word_count: 23703
-  target_extraction_records: 6
-  coverage_ratio: 0.0
-  status: no_extractions
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: false
-  extraction_record_count: 0
-  generated_record_count: 0
-  needs_review_count: 0
-  reviewed_count: 0
-  candidate_motif_count: 0
-  taxonomy_ref_count: 0
-  comparison_claim_count: 0
-  empty_motif_record_count: 0
-  extraction_paths: []
-- source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
-  source_text_id: buddhist.jataka.birth_stories_rhys_davids_gutenberg
-  title: Buddhist birth stories; or, Jataka tales, Volume 1
-  tradition: buddhist
-  culture: pali_buddhist_later_translation
-  region: south_asia
-  date_range: ancient Buddhist story tradition; 1880 public-domain English translation
-  word_count: 131420
-  target_extraction_records: 33
-  coverage_ratio: 0.0
-  status: no_extractions
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: false
-  extraction_record_count: 0
-  generated_record_count: 0
-  needs_review_count: 0
-  reviewed_count: 0
-  candidate_motif_count: 0
-  taxonomy_ref_count: 0
-  comparison_claim_count: 0
-  empty_motif_record_count: 0
-  extraction_paths: []
 - source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
   source_text_id: greek_roman.berens.myths_legends_gutenberg
   title: Myths and Legends of Ancient Greece and Rome
@@ -1253,6 +1207,247 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/persian-literature-volume-1/batch-motif-persian-persian-literature-volume-1-gutenberg-l8390-l8407.yml
   - extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml
   - extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml
+- source_text_path: texts/public-domain/ainu/project-gutenberg/aino-folk-tales-chamberlain.md
+  source_text_id: ainu.folk_tales.chamberlain_gutenberg
+  title: Aino Folk-Tales
+  tradition: ainu
+  culture: ainu_oral_traditions_colonial_collection
+  region: hokkaido_japan
+  date_range: Ainu oral traditions; 1888 public-domain English collection
+  word_count: 23703
+  target_extraction_records: 6
+  coverage_ratio: 4.333
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 26
+  generated_record_count: 26
+  needs_review_count: 26
+  reviewed_count: 0
+  candidate_motif_count: 150
+  taxonomy_ref_count: 130
+  comparison_claim_count: 21
+  empty_motif_record_count: 2
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l1011-l1094.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l1097-l1202.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l1204-l1297.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l121-l207.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l1299-l1389.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l1391-l1474.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l1476-l1571.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l1573-l1626.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l1629-l1717.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l1719-l1809.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l1811-l1905.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l1907-l2004.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l2006-l2100.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l209-l263.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l2102-l2199.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l2201-l2329.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l2331-l2395.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l266-l349.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l351-l433.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l435-l482.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l485-l608.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l610-l713.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l63-l119.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l715-l800.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l802-l900.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aino-folk-tales-chamberlain/batch-motif-ainu-folk-tales-chamberlain-gutenberg-l902-l1009.yml
+- source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  source_text_id: buddhist.jataka.birth_stories_rhys_davids_gutenberg
+  title: Buddhist birth stories; or, Jataka tales, Volume 1
+  tradition: buddhist
+  culture: pali_buddhist_later_translation
+  region: south_asia
+  date_range: ancient Buddhist story tradition; 1880 public-domain English translation
+  word_count: 131420
+  target_extraction_records: 33
+  coverage_ratio: 5.121
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 169
+  generated_record_count: 169
+  needs_review_count: 169
+  reviewed_count: 0
+  candidate_motif_count: 676
+  taxonomy_ref_count: 563
+  comparison_claim_count: 183
+  empty_motif_record_count: 21
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l10046-l10202.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l10204-l10299.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l10302-l10448.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l10450-l10575.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l10577-l10728.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l10730-l10748.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l10751-l10871.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l10874-l10924.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l10927-l11058.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l11060-l11105.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l111-l157.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l11108-l11242.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l1112-l1125.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l11244-l11360.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l1128-l1229.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l11363-l11492.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l11495-l11629.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l11632-l11771.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l11773-l11903.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l11905-l12036.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l12038-l12183.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l12185-l12319.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l1231-l1266.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l12321-l12478.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l12480-l12610.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l12612-l12668.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l12671-l12807.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l1269-l1363.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l12809-l12956.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l12958-l13098.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l13100-l13229.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l13231-l13357.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l13359-l13469.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l13471-l13594.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l13596-l13607.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l13610-l13947.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l1365-l1455.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l13949-l14322.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l14324-l14688.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l1457-l1503.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l14690-l15040.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15042-l15226.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l1506-l1558.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15228-l15260.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15262-l15287.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15289-l15359.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15361-l15404.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15406-l15446.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15448-l15471.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15473-l15494.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15496-l15526.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15528-l15557.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15559-l15579.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15581-l15615.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l1561-l1655.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15617-l15693.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15695-l15723.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15725-l15754.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15756-l15788.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15790-l15820.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15822-l15850.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15852-l15993.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15995-l16114.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l160-l199.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l16116-l16250.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l16252-l16400.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l16402-l16553.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l16555-l16665.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l1657-l1752.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l16667-l16811.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l16813-l16936.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l16938-l17079.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l17081-l17197.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l17199-l17302.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l17304-l17417.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l1754-l1841.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l1843-l1931.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l1933-l2022.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l202-l273.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l2024-l2110.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l2112-l2201.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l2203-l2284.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l2286-l2335.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l2337-l2496.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l2498-l2533.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l2536-l2639.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l2642-l2785.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l276-l361.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l2787-l2801.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l2804-l2852.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l2855-l2900.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l2903-l2936.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l2939-l3001.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l3004-l3127.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l3130-l3233.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l3235-l3348.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l3350-l3445.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l3447-l3547.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l3549-l3662.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l363-l474.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l3664-l3798.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l3800-l3919.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l3921-l4041.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l4043-l4161.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l4163-l4291.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l4293-l4363.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l4365-l4434.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l4436-l4521.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l4522-l4607.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l4609-l4690.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l4692-l4781.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l476-l594.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l4783-l4873.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l4875-l4993.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l4995-l5142.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l5145-l5241.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l5243-l5330.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l5332-l5432.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l5434-l5543.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l5545-l5653.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l5655-l5757.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l5759-l5862.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l5864-l5956.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l5958-l6057.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l596-l738.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l6059-l6161.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l6163-l6257.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l6259-l6359.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l6361-l6475.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l64-l84.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l6477-l6591.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l6593-l6700.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l6702-l6791.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l6793-l6896.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l6898-l7000.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l7002-l7115.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l7117-l7218.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l7220-l7330.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l7332-l7443.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l740-l872.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l7445-l7470.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l7473-l7594.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l7596-l7698.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l7700-l7829.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l7831-l7873.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l7876-l7994.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l7996-l8036.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l8039-l8169.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l8171-l8299.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l8301-l8416.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l8418-l8527.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l8529-l8631.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l86-l109.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l8634-l8761.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l874-l988.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l8763-l8784.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l8787-l8924.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l8926-l9051.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l9054-l9189.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l9191-l9259.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l9262-l9390.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l9393-l9504.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l9506-l9618.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l9620-l9746.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l9749-l9823.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l9826-l9949.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l990-l1110.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l9951-l9977.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/buddhist-birth-stories-volume-1-rhys-davids/batch-motif-buddhist-jataka-birth-stories-rhys-davids-gutenberg-l9980-l10043.yml
 - source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
   source_text_id: buddhist.jataka_tales.babbitt_gutenberg
   title: Jataka tales
@@ -1262,27 +1457,30 @@ texts:
   date_range: ancient Buddhist story tradition; 1912 public-domain English retelling
   word_count: 11494
   target_extraction_records: 3
-  coverage_ratio: 7.0
+  coverage_ratio: 8.667
   status: dense_draft
   priority: medium
   needs_full_extraction: false
   needs_review_or_normalization: true
-  extraction_record_count: 21
-  generated_record_count: 21
-  needs_review_count: 21
+  extraction_record_count: 26
+  generated_record_count: 26
+  needs_review_count: 26
   reviewed_count: 0
-  candidate_motif_count: 71
-  taxonomy_ref_count: 51
-  comparison_claim_count: 1
-  empty_motif_record_count: 1
+  candidate_motif_count: 79
+  taxonomy_ref_count: 61
+  comparison_claim_count: 4
+  empty_motif_record_count: 3
   extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l104-l125.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l1075-l1086.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l1088-l1149.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l1151-l1226.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l1228-l1339.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l127-l143.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l1341-l1390.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l1392-l1424.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l1426-l1521.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l145-l201.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l1523-l1623.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l1626-l1660.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l1663-l1663.yml
@@ -1293,9 +1491,11 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l495-l538.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l540-l606.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l608-l698.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l63-l89.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l700-l761.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l763-l845.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l847-l946.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l92-l102.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l948-l1073.yml
 - source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
   source_text_id: buddhist.more_jataka_tales.babbitt_gutenberg

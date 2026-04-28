@@ -1,0 +1,518 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l202-l273
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: TABLE OF CONTENTS. / PART I. / PART II. / SUPPLEMENTARY TABLES.; lines 202-273
+  start: '202'
+  end: '273'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents passage lists supplementary comparative tables and
+    the headings of the Ceylon compiler's introduction, the Nidāna Kathā, including
+    episodes concerning Sumedha, successive Bodisats, the last Bodisat who became
+    Buddha, his descent, birth, prophecies, renunciation, struggle, victory, teaching,
+    conversions, return, and the gift of a monastery.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a contents list under the heading “Supplementary Tables.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The supplementary tables include entries for Indian works, Kalilag and Damnag
+    literature, Barlaam and Josaphat literature, the Cariyā Piṭaka and Jātaka Mālā,
+    Jātaka stories in the Mahāvastu, places where tales were told, Bodisats, and Jātakas
+    illustrated on ancient monuments.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage identifies the Ceylon compiler’s introduction as the Nidāna Kathā.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The contents list a story of Sumedha, described as the first Bodisat.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The contents list successive Bodisats in the times of previous Buddhas.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The contents list the life of the last Bodisat, who became Buddha.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Headings in the life of the last Bodisat include descent from heaven, birth,
+    angelic song, two prophecies, a ploughing festival, skill and wisdom, four visions,
+    and the birth of the Bodisat’s son.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Later headings include a song by Kisā Gotamī, the Great Renunciation, struggle
+    against sin, victory over Satan, bliss of Nirvāna, hesitation to publish the good
+    news, and foundation of the Kingdom of Righteousness.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Final listed headings include Uruvela Kassapa’s conversion, a triumphal entrance
+    into Rājagaha, foundation of the order, return home, and presentation of the first
+    monastery to the Buddha.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Sumedha
+  description: Named in a contents entry as “the First Bodisat.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Previous Buddhas
+  description: Buddhas in whose times successive Bodisats are listed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Successive Bodisats
+  description: Bodisats listed in relation to the times of previous Buddhas.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Last Bodisat who became Buddha
+  description: The figure whose life is outlined in the contents and who is identified
+    as becoming Buddha.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Angels
+  description: Figures associated with the heading “Song of the Angels.”
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Kāḷa Devala
+  description: Named in a heading for a prophecy.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Brāhman Priests
+  description: Named in a heading for a prophecy.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Bodisat’s son
+  description: Mentioned in the heading “The Bodisat’s Son is Born.”
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Kisā Gotamī
+  description: Named in the heading “Kisā Gotamī’s Song.”
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: Satan
+  description: Named in the heading “The Great Victory over Satan.”
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:11
+  name_or_label: Uruvela Kassapa
+  description: Named in the heading “Uruvela Kassapa’s Conversion.”
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+- id: fig:12
+  name_or_label: Buddha
+  description: Named as the recipient in the heading “Presentation of the First Monastery
+    to the Buddha.”
+  role_refs:
+  - role:5
+  - role:11
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: first Bodisat
+  assigned_to:
+  - fig:1
+  basis: The contents entry calls Sumedha “the First Bodisat.”
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: previous Buddhas
+  assigned_to:
+  - fig:2
+  basis: The contents refer to previous Buddhas.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: successive Bodisats
+  assigned_to:
+  - fig:3
+  basis: The contents list successive Bodisats in the times of previous Buddhas.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: last Bodisat
+  assigned_to:
+  - fig:4
+  basis: The contents name the “Life of the Last Bodisat.”
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Buddha
+  assigned_to:
+  - fig:4
+  - fig:12
+  basis: One heading says the last Bodisat became Buddha, and another names Buddha
+    as recipient of the first monastery.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:6
+  label: singer
+  assigned_to:
+  - fig:5
+  - fig:9
+  basis: The headings refer to “Song of the Angels” and “Kisā Gotamī’s Song.”
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: prophecy speaker or source
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The headings name prophecies of Kāḷa Devala and of Brāhman priests.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: newborn son
+  assigned_to:
+  - fig:8
+  basis: The heading states that the Bodisat’s son is born.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: defeated adversary
+  assigned_to:
+  - fig:10
+  basis: The heading refers to a great victory over Satan.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: convert
+  assigned_to:
+  - fig:11
+  basis: The heading names Uruvela Kassapa’s conversion.
+  evidence_refs:
+  - ev:5
+- id: role:11
+  label: recipient of monastery
+  assigned_to:
+  - fig:12
+  basis: The heading states that the first monastery is presented to the Buddha.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Heaven
+  literal_form: Heaven
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Birth
+  literal_form: Birth of the last Bodisat
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Four Visions
+  literal_form: Four visions
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Nirvāna
+  literal_form: Nirvāna
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Kingdom of Righteousness
+  literal_form: Kingdom of Righteousness
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: First Monastery
+  literal_form: First monastery
+  associated_figures:
+  - fig:12
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Ancient monuments with bas-relief Jātakas
+  literal_form: Jātakas illustrated in bas-relief on ancient monuments
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Supplementary tables
+  summary: The contents list supplementary tables concerning related works, tale locations,
+    Bodisats, and Jātakas illustrated on monuments.
+  figure_refs: []
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Nidāna Kathā introductory sequence
+  summary: The contents introduce the Nidāna Kathā and list Sumedha, successive Bodisats,
+    previous Buddhas, and the life of the last Bodisat who became Buddha.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Early life headings of the last Bodisat
+  summary: The headings trace descent from heaven, birth, songs, prophecies, festival,
+    wisdom, visions, and the birth of a son.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Renunciation, struggle, and teaching headings
+  summary: The headings list Kisā Gotamī’s song, renunciation, struggle against sin,
+    victory over Satan, bliss of Nirvāna, hesitation to publish good news, and foundation
+    of the Kingdom of Righteousness.
+  figure_refs:
+  - fig:4
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Conversion, order, return, and monastery headings
+  summary: The headings include Uruvela Kassapa’s conversion, entrance into Rājagaha,
+    foundation of the order, return home, and presentation of the first monastery
+    to the Buddha.
+  figure_refs:
+  - fig:4
+  - fig:11
+  - fig:12
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Descent from heaven before sacred life
+  taxonomy_refs:
+  - hero_descent
+  basis: A heading in the life of the last Bodisat is “His Descent from Heaven.”
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is only a contents list and does not narrate the descent.
+- id: motif:2
+  label: Sacred birth of the future Buddha
+  taxonomy_refs:
+  - sacred_birth
+  - miraculous_child
+  basis: The contents place the birth of the last Bodisat alongside descent from heaven,
+    song of angels, and prophecies.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The birth details are not provided in this passage.
+- id: motif:3
+  label: Prophecy concerning an exceptional figure
+  taxonomy_refs: []
+  basis: The headings list prophecies by Kāḷa Devala and by Brāhman priests in the
+    early-life sequence of the last Bodisat.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No prophecy content is included in the passage.
+- id: motif:4
+  label: Wisdom of the young sacred figure
+  taxonomy_refs:
+  - wisdom
+  basis: A heading refers to “The Young Bodisat’s Skill and Wisdom.”
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: Only the heading is available.
+- id: motif:5
+  label: Transformative visions leading toward renunciation
+  taxonomy_refs:
+  - initiation
+  - departure
+  basis: The contents list the Four Visions before the birth of the Bodisat’s son
+    and the Great Renunciation.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The causal relation is suggested by sequence only; the passage does not
+    narrate it.
+- id: motif:6
+  label: Great renunciation
+  taxonomy_refs:
+  - departure
+  basis: The heading explicitly names “The Great Renunciation.”
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage supplies no narrative details beyond the heading.
+- id: motif:7
+  label: Struggle against evil and victory over adversary
+  taxonomy_refs:
+  - initiation
+  basis: Sequential headings refer to “The Great Struggle against Sin” and “The Great
+    Victory over Satan.”
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The adversarial episode is only named, not described.
+- id: motif:8
+  label: Return home after attainment and teaching activity
+  taxonomy_refs:
+  - return
+  basis: After headings for Nirvāna, publishing good news, founding the Kingdom of
+    Righteousness, conversion, and foundation of the order, the contents include “Return
+    Home.”
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage provides a sequence of headings, not a full plot.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 202-221
+  quote_or_summary: Supplementary tables are listed, including Indian works, Kalilag
+    and Damnag literature, Barlaam and Josaphat literature, Cariyā Piṭaka and Jātaka
+    Mālā, Mahāvastu Jātaka stories, tale locations, Bodisats, and bas-relief Jātakas
+    on ancient monuments.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 222-230
+  quote_or_summary: The contents identify the Ceylon compiler’s introduction, the
+    Nidāna Kathā, and list Sumedha the first Bodisat, successive Bodisats in the times
+    of previous Buddhas, and the life of the last Bodisat who became Buddha.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 231-239
+  quote_or_summary: Headings include the last Bodisat’s descent from heaven, birth,
+    song of angels, prophecies by Kāḷa Devala and Brāhman priests, ploughing festival,
+    skill and wisdom, four visions, and the birth of the Bodisat’s son.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 240-246
+  quote_or_summary: Headings include Kisā Gotamī’s song, the Great Renunciation, struggle
+    against sin, victory over Satan, bliss of Nirvāna, hesitation to publish the good
+    news, and foundation of the Kingdom of Righteousness.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 247-251
+  quote_or_summary: Headings include Uruvela Kassapa’s conversion, a triumphal entrance
+    into Rājagaha, foundation of the order, return home, and presentation of the first
+    monastery to the Buddha.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on table-of-contents headings rather than narrative prose.
+    Figures and motifs are therefore limited to named entries and cautious heading-level
+    inferences.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage lists comparative tables but does not state a specific comparative argument or shared motif.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l202-l273
+  passage_sha256=9a6bc13d38cd1577cbee6f5e0024b83863f31c696ad3fd1f29d644ccd530d705
+

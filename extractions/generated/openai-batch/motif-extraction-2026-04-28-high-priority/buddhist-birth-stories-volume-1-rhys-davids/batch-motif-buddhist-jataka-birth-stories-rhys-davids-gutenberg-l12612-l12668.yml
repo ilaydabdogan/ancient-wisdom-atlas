@@ -1,0 +1,487 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l12612-l12668
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: END OF THE STORY OF THE THOROUGHBRED. / END OF THE STORY OF THE FORD. / END
+    OF THE STORY ON CONSTANCY. / END OF THE STORY OF THE BULL WHO WON THE BET.; lines
+    12612-12668
+  start: '12612'
+  end: '12668'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A monk tells the Teacher that unsuitable lodging prevented him from completing
+    meditation. The Teacher replies that even animals formerly knew what was suitable,
+    then tells a Jātaka in which the Bodisat is born as a wise bird living with a
+    flock in a lofty tree. Seeing dust and smoke caused by branches rubbing together,
+    the Bodisat warns the birds that fire will arise and urges them to leave. Wise
+    birds follow him; foolish birds mock the warning and stay. The tree catches fire,
+    and the remaining birds are blinded by smoke, fall into the flames, and die. The
+    Teacher applies the lesson to the monk, who attains Conversion, and identifies
+    the wise bird as himself in a former birth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A monk reports that lack of suitable lodging prevented him from fully completing
+    meditation.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Teacher says that formerly even animals knew what was suitable and what
+    was not, then tells a tale.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the tale, the Bodisat is born as a bird and lives near a lofty tree with
+    a flock of birds.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Dust falls and smoke rises when branches of the tree rub against one another.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Bodisat infers that continued rubbing will produce sparks and fire that
+    will consume the tree.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Bodisat tells the flock to leave the tree and seek the skies because their
+    home and refuge has produced danger.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Wise birds listen to the Bodisat and fly away with him to another place.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Foolish birds mock the warning and remain in the tree.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Fire arises as the Bodisat predicted; smoke and flames rise, and the remaining
+    birds are blinded, fall into the fire, and burn to death.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: After the discourse, the monk is established in Conversion.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The Teacher identifies the birds who listened as the followers of the Buddha
+    and the Wise Bird as himself.
+  category: relationship
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: The Teacher
+  description: The Teacher welcomes the monk, questions him, tells the Jātaka, proclaims
+    the Truths, and identifies the former-life figures.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:10
+  - ev:11
+- id: fig:2
+  name_or_label: The monk
+  description: A monk who did not complete meditation because he lacked suitable lodging
+    and is later established in Conversion.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: fig:3
+  name_or_label: The Bodisat as Wise Bird
+  description: The Bodisat is born as a bird, recognizes danger from smoke and rubbing
+    branches, warns the flock, departs, and is later identified by the Teacher as
+    himself.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:11
+- id: fig:4
+  name_or_label: Wise birds
+  description: Birds in the flock who listen to the Bodisat and fly away to another
+    place.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:11
+- id: fig:5
+  name_or_label: Foolish birds
+  description: Birds in the flock who mock the Bodisat's warning, remain in the tree,
+    and die in the fire.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: Brahma-datta
+  description: King reigning in Benāres during the tale's long-ago setting.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: teacher of doctrine
+  assigned_to:
+  - fig:1
+  basis: He questions the monk, delivers the discourse, proclaims the Truths, and
+    connects the Jātaka to the present.
+  evidence_refs:
+  - ev:1
+  - ev:10
+  - ev:11
+- id: role:2
+  label: narrator of former-life tale
+  assigned_to:
+  - fig:1
+  basis: He responds to the monk by telling a tale about former animals knowing suitable
+    places.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: admonished monk
+  assigned_to:
+  - fig:2
+  basis: He reports failing to complete meditation due to unsuitable lodging, and
+    the Teacher questions why he did not know what was suitable.
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: role:4
+  label: wise warning figure
+  assigned_to:
+  - fig:3
+  basis: The Bodisat recognizes the impending fire and warns the flock to leave.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: former birth of the Buddha
+  assigned_to:
+  - fig:3
+  basis: The Teacher identifies the Wise Bird as himself.
+  evidence_refs:
+  - ev:11
+- id: role:6
+  label: obedient survivors
+  assigned_to:
+  - fig:4
+  basis: They heed the Bodisat's voice and fly away with him.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: foolish nonlisteners
+  assigned_to:
+  - fig:5
+  basis: They dismiss the warning, remain in place, and die when the fire comes.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:8
+  label: setting king
+  assigned_to:
+  - fig:6
+  basis: He is named as reigning in Benāres at the time of the tale.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: lofty tree as home and refuge
+  literal_form: Lofty tree with branches forking out on every side, inhabited by the
+    bird flock.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: fire arising from the home
+  literal_form: Dust, smoke, sparks, flames, and fire produced by rubbing tree branches.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:9
+- id: sym:3
+  label: smoke blinding birds
+  literal_form: Smoke and flames rise, blinding birds who stayed in the tree.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:4
+  label: flight into the air
+  literal_form: The wise birds fly up into the air and go elsewhere.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Monk reports failed meditation
+  summary: The Teacher welcomes a monk and asks about Lent and meditation; the monk
+    says unsuitable lodging kept him from completing meditation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Teacher introduces former-life example
+  summary: The Teacher says that even animals formerly knew what was suitable and
+    tells a tale.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Bodisat bird perceives danger in the tree
+  summary: In a forest near Benāres, the Bodisat as a bird lives with a flock in a
+    lofty tree; he sees dust and smoke from rubbing branches and predicts fire.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Warning and divided response
+  summary: The Bodisat warns the flock to leave because their home has become dangerous;
+    wise birds follow him, while foolish birds mock the warning and stay.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Fire destroys those who remain
+  summary: The tree catches fire, smoke blinds the birds that stayed, and they fall
+    into the flames and die.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:9
+- id: scene:6
+  label: Application and identification
+  summary: The Teacher applies the tale to the monk, proclaims the Truths, the monk
+    attains Conversion, and the Teacher identifies the wise birds with Buddha's followers
+    and the Wise Bird with himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: wise animal warns community of impending danger
+  taxonomy_refs:
+  - wisdom
+  basis: The Bodisat as a bird detects the signs of fire and tells the flock to leave
+    before the danger arrives.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is broad; no narrower supplied taxonomy ID is available
+    for animal fable warning motifs.
+- id: motif:2
+  label: obedience to wise warning brings survival while mockery brings death
+  taxonomy_refs:
+  - wisdom
+  basis: Birds who listen fly away safely, while those who mock the warning remain
+    and are burned.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is a passage-level moral pattern rather than a named taxonomy motif
+    in the supplied list.
+- id: motif:3
+  label: refuge becomes source of danger
+  taxonomy_refs:
+  - tree
+  - fire
+  basis: The birds' tree, described in the Bodisat's verse as their home and refuge,
+    produces smoke and fire that destroy the birds who remain.
+  evidence_refs:
+  - ev:6
+  - ev:9
+  confidence: medium
+  cautions: The passage presents the tree and fire literally; symbolic reading should
+    be reviewed.
+- id: motif:4
+  label: former birth reveals present teacher's wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The Teacher identifies the Wise Bird of the former tale as himself and uses
+    the story to instruct the monk.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: This reflects the Jātaka frame in this passage; broader genre claims are
+    not made beyond the provided text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12612-12617
+  quote_or_summary: The Teacher asks the monk about Lent and meditation; the monk
+    says unsuitable lodging prevented him from fully completing meditation.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 12618-12623
+  quote_or_summary: The Teacher says that formerly even animals knew what was suitable
+    and what was not, and he begins a tale.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 12627-12630
+  quote_or_summary: Long ago under Brahma-datta in Benāres, the Bodisat is born as
+    a bird and lives in the forest with a flock near a lofty tree with many forking
+    branches.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 12631-12633
+  quote_or_summary: Dust begins to fall and smoke rises as the tree branches rub against
+    one another.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 12633-12638
+  quote_or_summary: The Bodisat reasons that the rubbing branches will send out sparks,
+    the fire will reach withered leaves, and the tree will be consumed, so they should
+    leave.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 12639-12645
+  quote_or_summary: "“Seek then the skies, ye birds! ... our very home and refuge
+    / Itself has brought forth danger!”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:7
+  type: summary
+  locator: 12647-12649
+  quote_or_summary: Wise birds listen to the Bodisat, fly up with him, and go elsewhere.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 12649-12652
+  quote_or_summary: Foolish birds say he is always seeing crocodiles in a drop of
+    water, ignore him, and remain there.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 12654-12658
+  quote_or_summary: Fire is produced as predicted, the tree catches fire, smoke and
+    flames rise, the birds are blinded, cannot escape, fall into the fire, and burn
+    to death.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 12662-12665
+  quote_or_summary: The Teacher states that former birds knew suitable places, asks
+    why the monk did not, proclaims the Truths, and the monk is established in Conversion.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 12665-12668
+  quote_or_summary: 'The Teacher sums up the Jātaka: the birds who listened were the
+    Buddha''s followers, and the Wise Bird was the Teacher himself.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear for literal extraction and internal motif candidates.
+    No comparison claims are made because the passage itself does not support comparison
+    beyond its own Jātaka framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage and metadata. Taxonomy refs limited to available refs; symbols 'tree' and 'fire' applied where literal forms are present.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l12612-l12668
+  passage_sha256=6357697d82b9c7615149bc526ea937095590dd08ef8b0412d5654a65854da7a4
+

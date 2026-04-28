@@ -6,12 +6,12 @@
 
 - Generated on: 2026-04-28
 - Canonical texts checked: 58
-- Texts with extraction records: 44
-- Texts without extraction records: 14
-- Texts needing full extraction: 48
-- Texts needing review or normalization: 44
-- Extraction records counted: 1114
-- Candidate motifs counted: 4547
+- Texts with extraction records: 46
+- Texts without extraction records: 12
+- Texts needing full extraction: 46
+- Texts needing review or normalization: 46
+- Extraction records counted: 1314
+- Candidate motifs counted: 5381
 
 ## Status Logic
 
@@ -27,8 +27,6 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 
 | Status | Records | Target | Motifs | Tradition | Text |
 | --- | ---: | ---: | ---: | --- | --- |
-| `no_extractions` | 0 | 6 | 0 | ainu | [Aino Folk-Tales](../texts/public-domain/ainu/project-gutenberg/aino-folk-tales-chamberlain.md) |
-| `no_extractions` | 0 | 33 | 0 | buddhist | [Buddhist birth stories; or, Jataka tales, Volume 1](../texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md) |
 | `no_extractions` | 0 | 27 | 0 | greek_roman | [Myths and Legends of Ancient Greece and Rome](../texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md) |
 | `no_extractions` | 0 | 18 | 0 | japanese | [Japanese Fairy Tales](../texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md) |
 | `no_extractions` | 0 | 26 | 0 | norse | [Myths of the Norsemen: From the Eddas and Sagas](../texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md) |
@@ -65,6 +63,7 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | Status | Needs Review | Generated | Motifs | Tradition | Text |
 | --- | ---: | ---: | ---: | --- | --- |
 | `dense_draft` | 246 | 246 | 664 | greek | [Aesop's Fables; a new translation](../texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md) |
+| `dense_draft` | 169 | 169 | 676 | buddhist | [Buddhist birth stories; or, Jataka tales, Volume 1](../texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md) |
 | `dense_draft` | 167 | 167 | 895 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md) |
 | `dense_draft` | 157 | 157 | 749 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md) |
 | `dense_draft` | 139 | 139 | 603 | greek | [The Republic](../texts/public-domain/greek/project-gutenberg/republic-jowett.md) |
@@ -72,9 +71,10 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 43 | 43 | 197 | greek | [Phaedrus](../texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md) |
 | `dense_draft` | 37 | 37 | 175 | greek | [Symposium](../texts/public-domain/greek/project-gutenberg/symposium-jowett.md) |
 | `dense_draft` | 34 | 34 | 122 | buddhist | [The Giant Crab, and Other Tales from Old India](../texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md) |
+| `dense_draft` | 26 | 26 | 150 | ainu | [Aino Folk-Tales](../texts/public-domain/ainu/project-gutenberg/aino-folk-tales-chamberlain.md) |
+| `dense_draft` | 26 | 26 | 79 | buddhist | [Jataka tales](../texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md) |
 | `dense_draft` | 24 | 24 | 78 | buddhist | [More Jataka Tales](../texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md) |
 | `developing` | 23 | 21 | 34 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) |
-| `dense_draft` | 21 | 21 | 71 | buddhist | [Jataka tales](../texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md) |
 | `developing` | 13 | 11 | 28 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) |
 | `developing` | 5 | 0 | 15 | jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) |
 | `developing` | 5 | 0 | 15 | jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) |
@@ -141,8 +141,6 @@ ruby scripts/batch_prepare_motif_requests.rb \
 
 | Priority | Status | Records | Target | Needs Review | Tradition | Text |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| high | `no extractions` | 0 | 6 | 0 | ainu | [Aino Folk-Tales](../texts/public-domain/ainu/project-gutenberg/aino-folk-tales-chamberlain.md) |
-| high | `no extractions` | 0 | 33 | 0 | buddhist | [Buddhist birth stories; or, Jataka tales, Volume 1](../texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md) |
 | high | `no extractions` | 0 | 27 | 0 | greek_roman | [Myths and Legends of Ancient Greece and Rome](../texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md) |
 | high | `no extractions` | 0 | 18 | 0 | japanese | [Japanese Fairy Tales](../texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md) |
 | high | `no extractions` | 0 | 26 | 0 | norse | [Myths of the Norsemen: From the Eddas and Sagas](../texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md) |
@@ -189,7 +187,9 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | medium | `developing` | 3 | 10 | 3 | mesopotamian | [An Old Babylonian Version of the Gilgamesh Epic](../texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md) |
 | medium | `developing` | 23 | 40 | 23 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) |
 | medium | `developing` | 13 | 36 | 13 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) |
-| medium | `dense draft` | 21 | 3 | 21 | buddhist | [Jataka tales](../texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md) |
+| medium | `dense draft` | 26 | 6 | 26 | ainu | [Aino Folk-Tales](../texts/public-domain/ainu/project-gutenberg/aino-folk-tales-chamberlain.md) |
+| medium | `dense draft` | 169 | 33 | 169 | buddhist | [Buddhist birth stories; or, Jataka tales, Volume 1](../texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md) |
+| medium | `dense draft` | 26 | 3 | 26 | buddhist | [Jataka tales](../texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md) |
 | medium | `dense draft` | 24 | 4 | 24 | buddhist | [More Jataka Tales](../texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md) |
 | medium | `dense draft` | 34 | 6 | 34 | buddhist | [The Giant Crab, and Other Tales from Old India](../texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md) |
 | medium | `dense draft` | 157 | 33 | 157 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md) |

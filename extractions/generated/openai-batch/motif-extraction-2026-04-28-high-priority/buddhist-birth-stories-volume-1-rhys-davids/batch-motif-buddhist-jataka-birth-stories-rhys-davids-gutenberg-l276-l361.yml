@@ -1,0 +1,267 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l276-l361
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: PART I. / PART II. / SUPPLEMENTARY TABLES. / THE BIRTH STORIES.; lines 276-361
+  start: '276'
+  end: '361'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: THE BIRTH STORIES.
+  summary: A table-of-contents passage headed “The Birth Stories” lists numbered Jātaka
+    entries with English titles, Pāli titles, and page numbers, including moral, ritual,
+    animal, human, and object-focused story titles.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is a table-of-contents list headed “THE BIRTH STORIES.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The entries are numbered Jātaka story titles with corresponding Pāli names
+    and page numbers.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Several listed titles name animals, including deer, antelope, monkeys, dog,
+    horse, elephant, bull, ox, pig, peacock, quails, fish, bird, partridge, and crane.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Several listed titles explicitly name ethical or religious topics, including
+    truth, true divinity, offerings to the dead, offerings under a vow, mercy to animals,
+    and wisdom or folly.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Some listed titles name objects or places such as a sandy road, a measure
+    of rice, buried gold, and a fiery furnace.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: animal figures named in titles
+  description: Animals named in listed titles include deer, antelope, monkeys, dog,
+    horses, elephant, bull, ox, pig, peacock, quails, fish, bird, partridge, and crane.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: human or named figures in titles
+  description: Titles name figures such as the Merchant of Sēri, Chullaka the Treasurer,
+    Makhā Deva, Nanda, and an old woman.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: demon
+  description: A demon is named in the title “The Monkeys and the Demon.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: title subject
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The figures are named in story titles within the table of contents.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: fire image
+  literal_form: fiery furnace
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+- id: sym:2
+  label: buried wealth
+  literal_form: buried gold
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:3
+  label: ritual food offering
+  literal_form: food offered to the dead; offerings under a vow
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:4
+  label: road image
+  literal_form: sandy road
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: catalogue of Jātaka birth-story titles
+  summary: The passage presents a catalogue of Jātaka entries, each with an English
+    title, Pāli title, and page number.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: ethical instruction through story titles
+  taxonomy_refs:
+  - wisdom
+  basis: Titles such as “Holding to the Truth,” “On True Divinity,” “The Wise Bird
+    and the Fools,” and other moralizing headings indicate ethical or didactic themes
+    in the listed stories.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is only a table of contents; it does not provide story narratives
+    or doctrinal explanations.
+- id: motif:2
+  label: ritual offerings connected with the dead or vows
+  taxonomy_refs:
+  - sacred_exchange
+  basis: 'Two listed titles refer to offerings: “On Offering Food to the Dead” and
+    “On Offerings given under a Vow.”'
+  evidence_refs:
+  - ev:10
+  confidence: low
+  cautions: Only the titles are supplied, so the function and meaning of the offerings
+    cannot be established from this passage alone.
+- id: motif:3
+  label: animal-centered moral tales
+  taxonomy_refs: []
+  basis: Many listed titles center animals, and some combine animal subjects with
+    moral or social framing, such as mercy, learning, cunning, quarrel, wisdom, cruelty,
+    or being outwitted.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The table of contents names animal subjects but does not supply the plots
+    or explicit morals of the individual tales.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 276-277
+  quote_or_summary: "“THE BIRTH STORIES.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 278-361
+  quote_or_summary: The passage lists numbered Jātaka entries with English title,
+    Pāli title, and page number, from “Holding to the Truth ... Apaṇṇaka Jātaka” through
+    “The Fiery Furnace ... Khadirangāra Jātaka.”
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 300-359
+  quote_or_summary: Animal-centered titles include “The Banyan Deer,” “The Greedy
+    Antelope,” “The Deer who would not Learn,” “The Cunning Deer,” “The Monkeys and
+    the Demon,” “The Dog who turned Preacher,” horse, elephant, bull, ox, pig, peacock,
+    quail, fish, bird, partridge, and crane titles.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized with brief title references.
+- id: ev:4
+  type: summary
+  locator: lines 278-357
+  quote_or_summary: Ethical or religiously framed titles include “Holding to the Truth,”
+    “On True Divinity,” “On Offering Food to the Dead,” “On Offerings given under
+    a Vow,” “On Mercy to Animals,” and “The Wise Bird and the Fools.”
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized with brief title references.
+- id: ev:5
+  type: summary
+  locator: lines 280-361
+  quote_or_summary: Object or place images named in titles include a sandy road, a
+    measure of rice, buried gold, and a fiery furnace.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 282-355
+  quote_or_summary: Human or named figures in titles include the Merchant of Sēri,
+    Chullaka the Treasurer, Makhā Deva, an old woman, and Nanda.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: line 318
+  quote_or_summary: "“The Monkeys and the Demon ... Naḷapāna Jātaka”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:8
+  type: quote
+  locator: line 361
+  quote_or_summary: "“The Fiery Furnace ... Khadirangāra Jātaka”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:9
+  type: quote
+  locator: line 359
+  quote_or_summary: "“Nanda on the Buried Gold ... Nanda Jātaka”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:10
+  type: summary
+  locator: lines 314-317
+  quote_or_summary: 'Two adjacent titles concern offerings: one on offering food to
+    the dead and one on offerings given under a vow.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: quote
+  locator: line 280
+  quote_or_summary: "“The Sandy Road ... Vaṇṇupatha Jātaka”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is reliable because the passage is a table of contents.
+    Motif identification is limited because no narrative content is included; candidate
+    motifs are based only on titles. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  This record treats the supplied passage as a contents catalogue rather than as a narrative episode.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l276-l361
+  passage_sha256=331e5cc240169015ebbc300bd7daf4876a66e90f78e7684ce3bdd4424335d929
+

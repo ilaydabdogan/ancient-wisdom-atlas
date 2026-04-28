@@ -1,0 +1,478 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l2024-l2110
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: THE BARLAAM AND JOSAPHAT LITERATURE. / SUMMARY. / PART II. / ON THE HISTORY
+    OF THE BIRTH STORIES IN INDIA.; lines 2024-2110
+  start: '2024'
+  end: '2110'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage discusses the textual history of Indian story collections
+    related to the Jātakas, especially the lost Vṛihat-Kathā and related Sanskrit
+    poems, then explains the structure of Jātaka stories: an introductory present
+    story, a past birth story, and a conclusion in which the Buddha identifies figures
+    across the two narratives. It emphasizes that this identification should not be
+    understood as transmigration of souls, but as continuity of character and karma.
+    It also notes the role of verses and moral verses spoken by the Buddha.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Somadeva’s poem is described as based on the lost Vṛihat-Kathā, ascribed to
+    Guṇādhya, while Kshemendra is said to have written another Sanskrit poem based
+    on the same earlier work.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Vetāla-pañca-viṅsatī, identified as the Twenty-five Tales of a Demon,
+    is said to be contained in both Sanskrit poems and probably also in Guṇādhya’s
+    collection.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Each Jātaka story is said to be introduced by another story explaining where
+    and why it was told by the Buddha.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Birth Story is called the Atīta-vatthu or Story of the Past, and the Introductory
+    Story is called the Paccuppanna-vatthu or Story of the Present.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Some Introductory Stories are described as repetitions of the principal idea
+    of the story they introduce, and multiple Birth Stories may be introduced as having
+    been told in the same circumstances.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Ten stories are said to have been told to a love-sick monk as warnings against
+    his folly.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After the two stories, a Conclusion is said to identify personages in the
+    Birth Story with personages in the Introductory Story.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that in a few cases characters in the Story of the Past
+    are supposed not to have been reborn on earth at the time of the Story of the
+    Present.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage states that Buddhism does not teach the Transmigration of Souls
+    and instead would be better summarized as the Transmigration of Character.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Bodisat is described not as having a soul transferred from one body to
+    another, but as inheriting the character acquired by previous Bodisats.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Karma is described as the result of a person’s words, thoughts, and deeds,
+    and as the only thing continuing to exist when a person dies.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Some conclusions contain verses added as morals, called Abhisambuddha-gāthā,
+    distinguished from verses in the Birth Story spoken by the Bodisat.
+  category: object
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Somadeva
+  description: A Sanskrit author whose poem is described as based on the Vṛihat-Kathā.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Guṇādhya
+  description: The attributed author of the earlier Vṛihat-Kathā, written in the Paiṣāchī
+    dialect.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Kshemendra
+  description: A Kashmiri author said to have written another Sanskrit poem based
+    on the earlier Vṛihat-Kathā at the end of the eleventh century.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Buddha
+  description: The figure by whom Jātaka stories are said to have been told, who identifies
+    personages in the conclusion, and whose moral verses are called Abhisambuddha-gāthā.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:9
+- id: fig:5
+  name_or_label: Bodisat
+  description: A figure described as inheriting the character acquired by previous
+    Bodisats and as sometimes speaking verses within the Birth Story.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: fig:6
+  name_or_label: love-sick monk
+  description: A monk to whom ten stories are said to have been told as warnings against
+    his folly.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: textual-source author
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage identifies these figures in relation to the authorship or derivation
+    of Sanskrit story collections.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: teacher and identifier of narrative figures
+  assigned_to:
+  - fig:4
+  basis: The Buddha is said to tell the stories, explain their setting, identify personages
+    in the conclusion, and speak moral verses after Buddhahood.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:9
+- id: role:3
+  label: successive bearer of acquired character
+  assigned_to:
+  - fig:5
+  basis: The Bodisat is described as inheriting character from previous Bodisats rather
+    than as a soul transferred between bodies.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: admonished listener
+  assigned_to:
+  - fig:6
+  basis: The love-sick monk is the recipient of multiple stories told as warnings.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: demon tale-cycle
+  literal_form: Vetāla-pañca-viṅsatī, the Twenty-five Tales of a Demon
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: karma
+  literal_form: Karma, described as the result of words, thoughts, and deeds
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:3
+  label: past and present story-pair
+  literal_form: Atīta-vatthu or Story of the Past, and Paccuppanna-vatthu or Story
+    of the Present
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: moral verse
+  literal_form: Abhisambuddha-gāthā, verses spoken by the Buddha after Buddhahood
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Transmission of the Vṛihat-Kathā tradition
+  summary: The passage describes Somadeva and Kshemendra as independently preserving
+    material derived from the lost Vṛihat-Kathā attributed to Guṇādhya.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Placement of the demon tale-cycle in Sanskrit story collections
+  summary: The Vetāla-pañca-viṅsatī is described as present in both Sanskrit poems
+    and probably present in Guṇādhya’s collection, though no Jātaka stories had yet
+    been traced in it.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Jātaka framing structure
+  summary: Each Jātaka is presented with an Introductory Story explaining the circumstances
+    of the Buddha’s telling, followed by a Birth Story or Story of the Past.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Reused introductory settings
+  summary: The passage says some introductory stories repeat the principal idea of
+    the stories they introduce and that multiple stories may be assigned the same
+    setting, including ten warning stories addressed to a love-sick monk.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Conclusion and identification across stories
+  summary: After the present and past stories, the Buddha identifies figures in the
+    Birth Story with figures in the Introductory Story, while some past figures may
+    not be reborn in the present setting.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Doctrinal explanation of continuity
+  summary: The passage distinguishes Buddhist continuity of character and karma from
+    transmigration of souls and applies this to the Bodisat’s successive development
+    toward Buddhahood.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:7
+  label: Moral and narrative verses
+  summary: The passage explains that some conclusions include moral verses spoken
+    by the Buddha and distinguishes these from verses spoken by the Bodisat within
+    the Birth Story.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: framed past-life exemplum
+  taxonomy_refs: []
+  basis: The passage describes a narrative pattern in which a present introductory
+    story explains the circumstances of the Buddha’s telling, a past Birth Story follows,
+    and a conclusion links figures between the two.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a structural motif of the Jātaka presentation rather than a single
+    mythic episode.
+- id: motif:2
+  label: moral admonition through repeated tales
+  taxonomy_refs:
+  - wisdom
+  basis: The passage notes multiple stories told to a love-sick monk as warnings and
+    describes verses added by way of moral.
+  evidence_refs:
+  - ev:4
+  - ev:9
+  confidence: medium
+  cautions: The passage gives examples of moral framing but does not narrate the individual
+    warning tales.
+- id: motif:3
+  label: identity across lives without soul-transfer
+  taxonomy_refs:
+  - death_rebirth
+  basis: The conclusion identifies figures across past and present stories, while
+    the passage explains this through character and karma rather than a soul passing
+    from body to body.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage explicitly cautions against reading this as transmigration
+    of souls.
+- id: motif:4
+  label: successive accumulation of perfection toward Buddhahood
+  taxonomy_refs:
+  - wisdom
+  basis: The Bodisat’s insight, goodness, and moral and intellectual perfection are
+    described as the accumulated result of many generations of successive Bodisats.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is a doctrinal pattern summarized by the author, not a full narrative
+    scene in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The Jātaka conclusion resembles a broader identity-across-lives pattern,
+    but the passage explicitly distinguishes the Buddhist account from Christian or
+    soul-transmigration interpretations by defining continuity as character and karma
+    rather than a migrating soul.
+  claim_level: same_function
+  target: identity across lives compared with Christian ideas and transmigration-of-souls
+    interpretations
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  counter_evidence_refs:
+  - ev:6
+  confidence: high
+  limitations: The passage provides a doctrinal warning rather than a developed cross-cultural
+    comparison; it does not claim direct contact or shared origin.
+- id: claim:2
+  claim: The passage cautiously links the Vetāla-pañca-viṅsatī to the Vṛihat-Kathā
+    textual tradition because it appears in both later Sanskrit poems, while also
+    stating that no Jātaka stories had yet been traced in it.
+  claim_level: same_function
+  target: Vetāla-pañca-viṅsatī within later Indian story-book traditions related to
+    the Vṛihat-Kathā
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: The passage supports textual inclusion in related collections, not
+    a specific shared Jātaka motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2024-2033
+  quote_or_summary: Somadeva’s poem is said to derive from the lost Vṛihat-Kathā attributed
+    to Guṇādhya; Bühler discovered another Sanskrit poem based on that work, written
+    by Kshemendra in Kashmir.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2035-2043
+  quote_or_summary: The Vetāla-pañca-viṅsatī, the Twenty-five Tales of a Demon, is
+    said to be contained in both Sanskrit poems and probably in Guṇādhya’s collection,
+    though no Jātaka stories had yet been traced in it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2047-2054
+  quote_or_summary: Each Jātaka is introduced by a story explaining where and why
+    it was told by the Buddha; the Birth Story is the Atīta-vatthu, and the Introductory
+    Story is the Paccuppanna-vatthu.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2054-2067
+  quote_or_summary: Some Introductory Stories repeat the principal idea of the story
+    they introduce; different Birth Stories may be assigned the same time, place,
+    and question, including ten stories told to a love-sick monk as warnings.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2069-2075
+  quote_or_summary: After the two stories, a Conclusion identifies personages in the
+    Birth Story with those in the Introductory Story; in some cases characters in
+    the past story are not supposed to be reborn on earth in the present story.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 2075-2081
+  quote_or_summary: "“Buddhism does not teach the Transmigration of Souls”; the passage
+    says its doctrine is better summarized as “the Transmigration of Character.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 2081-2089
+  quote_or_summary: The Bodisat is described not as a soul transferred between bodies,
+    but as the inheritor of character acquired by previous Bodisats; Buddhahood is
+    the accumulated result of many generations of successive Bodisats.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 2089-2094
+  quote_or_summary: The only thing said to continue when a person dies is Karma, the
+    result of words, thoughts, and deeds; the concentration of this result in a new
+    individual is attributed to an older theory of soul.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 2096-2110
+  quote_or_summary: Some conclusions include moral verses called Abhisambuddha-gāthā,
+    spoken by the Buddha after Buddhahood, distinguished from verses in the Birth
+    Story spoken by the Bodisat.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily scholarly and structural rather than a mythic narrative.
+    Motif candidates are therefore mostly narrative-form and doctrinal-pattern extractions,
+    with limited symbolic content.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No unsupported taxonomy IDs were added. Available taxonomy symbol refs were not used because the passage does not contain those literal symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l2024-l2110
+  passage_sha256=65dec682cf71614e19b8e18644895a4fb068d01f076fb73eb4a4c77be45b445e
+

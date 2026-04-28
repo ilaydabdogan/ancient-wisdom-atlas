@@ -1,0 +1,149 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l104-l125
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: V THE OX WHO WON THE FORFEIT                    21 / VI THE SANDY ROAD                                25
+    / VII THE QUARREL OF THE QUAILS                     30 / VIII THE MEASURE OF RICE                           34;
+    lines 104-125
+  start: '104'
+  end: '125'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: CONTENTS
+  summary: The passage is a table of contents listing eight tale titles with page
+    numbers, preceded by the name Felix Adler.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The name Felix Adler appears before the contents listing.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage is headed as a contents list.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Eight tale titles are listed with page numbers.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Several titles mention animals, including a monkey, crocodile, turtle, ox,
+    and quails.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: One title mentions a merchant of Seri.
+  category: object
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Monkey
+  description: Animal named in the title "THE MONKEY AND THE CROCODILE."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Crocodile
+  description: Animal named in the title "THE MONKEY AND THE CROCODILE."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Turtle
+  description: Animal named in the titles "HOW THE TURTLE SAVED HIS OWN LIFE" and
+    "THE TURTLE WHO COULDN'T STOP TALKING."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Merchant of Seri
+  description: Person named in the title "THE MERCHANT OF SERI."
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Ox
+  description: Animal named in the title "THE OX WHO WON THE FORFEIT."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Quails
+  description: Animals named in the title "THE QUARREL OF THE QUAILS."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: title-mentioned animal figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  basis: These figures are animals named in tale titles in the contents list.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: title-mentioned human or occupational figure
+  assigned_to:
+  - fig:4
+  basis: The figure is named as a merchant in a tale title in the contents list.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 104-125
+  quote_or_summary: '"FELIX ADLER." followed by the heading "CONTENTS" and a page-numbered
+    list.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 104-125
+  quote_or_summary: 'The contents list includes eight titles: The Monkey and the Crocodile;
+    How the Turtle Saved His Own Life; The Merchant of Seri; The Turtle Who Couldn''t
+    Stop Talking; The Ox Who Won the Forfeit; The Sandy Road; The Quarrel of the Quails;
+    The Measure of Rice, each with a page number.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is a table of contents rather than a narrative passage, so figure
+    extraction is limited to names appearing in titles and no motifs or comparison
+    claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy references were assigned because the supplied passage contains only contents entries and does not support passage-level motif interpretation.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l104-l125
+  passage_sha256=21817bd6599fc66596ce44f2361a02ed5be89f7db56203a37eb303cee8fb2c68
+

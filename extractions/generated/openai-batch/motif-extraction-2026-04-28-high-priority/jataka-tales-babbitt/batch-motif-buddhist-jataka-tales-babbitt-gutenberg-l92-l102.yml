@@ -1,0 +1,194 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l92-l102
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: Jataka tales / FOREWORD; lines 92-102
+  start: '92'
+  end: '102'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The foreword speaker praises the Jataka Tales as charming, useful for teaching
+    children, layered with lessons and deeper meanings, enhanced by their setting,
+    and commends Babbitt's collection to teachers and parents.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says they were captivated by the charm of the Jataka Tales.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says the tales can be used excellently in teaching children.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that many obvious lessons in the tales are suitable for
+    little people.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that beneath the obvious lessons are deeper meanings that
+    children may learn to fathom later.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that the Oriental setting adds fascination.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker says Miss Babbitt has put together the collection and commends
+    it to teachers and parents.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Foreword speaker
+  description: First-person speaker who praises the tales and commends the collection.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Miss Babbitt
+  description: Person described as having put together the collection.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Children / little people
+  description: Intended learners for whom many obvious lessons are suitable and who
+    may later fathom deeper meanings.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Teachers and parents
+  description: Adults to whom the collection is commended.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Endorsing foreword speaker
+  assigned_to:
+  - fig:1
+  basis: The first-person speaker praises the Jataka Tales and freely commends Babbitt's
+    collection.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: Compiler of collection
+  assigned_to:
+  - fig:2
+  basis: Miss Babbitt is said to have undertaken to put together the collection.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: Child learners
+  assigned_to:
+  - fig:3
+  basis: The tales are described as useful in teaching children and suitable for little
+    people.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: Adult educational mediators
+  assigned_to:
+  - fig:4
+  basis: The collection is commended to teachers and parents.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Foreword commendation of Jataka Tales for children
+  summary: The speaker presents the Jataka Tales as charming, educational, layered
+    in meaning, and recommends Babbitt's collection to teachers and parents.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Wisdom teaching through layered moral tales
+  taxonomy_refs:
+  - wisdom
+  basis: The passage emphasizes lessons suitable for children and deeper meanings
+    to be understood later.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a foreword about educational value rather than a narrative episode;
+    the motif is thematic and didactic, not an enacted plot pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 92-96
+  quote_or_summary: The speaker says they were captivated by the Jataka Tales and
+    saw excellent use for them in teaching children.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 96-99
+  quote_or_summary: The passage says many obvious lessons suit little people, with
+    deeper meanings beneath that may be fathomed later.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 99-100
+  quote_or_summary: "“The Oriental setting lends an additional fascination.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 100-102
+  quote_or_summary: The speaker is glad Miss Babbitt made the collection and commends
+    it to teachers and parents.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a foreword rather than a mythic narrative; literal extraction
+    is straightforward, while motif identification is limited to its didactic framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The source phrase “Oriental setting” is recorded only as a literal feature of the passage's wording and not expanded beyond the supplied text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l92-l102
+  passage_sha256=c156cafe5036f4a334b7e21902f2eeffcb3005f4a32fce86a5d0e11ad507dfd8
+

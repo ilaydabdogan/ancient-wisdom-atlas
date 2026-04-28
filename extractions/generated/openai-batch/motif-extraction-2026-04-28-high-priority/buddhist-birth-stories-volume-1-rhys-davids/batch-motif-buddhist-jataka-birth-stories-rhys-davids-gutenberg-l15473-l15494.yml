@@ -1,0 +1,151 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15473-l15494
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: BY ALBRECHT WEBER. / A SKETCH OF THE MODERN LANGUAGES OF THE EAST INDIES.
+    / BY ROBERT N. CUST. / THE BIRTH OF THE WAR-GOD.; lines 15473-15494
+  start: '15473'
+  end: '15494'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: |-
+    THE BIRTH OF THE WAR-GOD.
+
+    A Poem. BY KALIDASA.
+  summary: The passage is a bibliographic advertisement for Ralph T. H. Griffith's
+    English verse translation of Kalidasa's Sanskrit poem Kumárasambhava, titled The
+    Birth of the War-God, followed by promotional notices and another advertised reference
+    work on Hindu mythology and related subjects.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage presents The Birth of the War-God as a poem by Kalidasa.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that Ralph T. H. Griffith translated the work from Sanskrit
+    into English verse.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage identifies Kumárasambhava as a well-known Sanskrit poem in a promotional
+    notice.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage advertises a Classical Dictionary of Hindu Mythology and Religion,
+    Geography, History, and Literature.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Kalidasa
+  description: Named as the author of the poem The Birth of the War-God.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ralph T. H. Griffith
+  description: Named as the translator of the Sanskrit poem into English verse.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: War-God
+  description: Named only as the title subject in The Birth of the War-God.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: poet or author
+  assigned_to:
+  - fig:1
+  basis: The passage says the poem is by Kalidasa.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: translator
+  assigned_to:
+  - fig:2
+  basis: The passage says the work was translated by Ralph T. H. Griffith.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: title subject
+  assigned_to:
+  - fig:3
+  basis: The phrase War-God appears in the title of the advertised poem.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: birth of a divine or warlike figure
+  taxonomy_refs:
+  - sacred_birth
+  basis: The advertised poem's title is The Birth of the War-God.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage is bibliographic and promotional rather than narrative; it
+    gives no actual birth episode, divine genealogy, or mythic action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 15473-15477
+  quote_or_summary: "“THE BIRTH OF THE WAR-GOD. A Poem. BY KALIDASA.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 15479-15480
+  quote_or_summary: The passage states that Ralph T. H. Griffith translated the poem
+    from Sanskrit into English verse.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 15482-15490
+  quote_or_summary: Promotional notices describe Griffith's rendering of the Kumárasambhava
+    and identify it as a well-known Sanskrit poem.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 15493-15494
+  quote_or_summary: "“A CLASSICAL DICTIONARY OF HINDU MYTHOLOGY AND RELIGION, GEOGRAPHY,
+    HISTORY, AND LITERATURE.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is an advertisement, so bibliographic extraction is reliable,
+    but motif extraction is limited to the title phrase and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No narrative scene, symbol, or comparative claim is present in the provided passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l15473-l15494
+  passage_sha256=bfa8a4aafbe9d822d04749883480225edc2f2de40729344d5bd03fa16d105f31
+

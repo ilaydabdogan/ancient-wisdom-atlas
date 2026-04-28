@@ -1,0 +1,544 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l13231-l13357
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: END OF THE STORY OF THE FORD. / END OF THE STORY ON CONSTANCY. / END OF THE
+    STORY OF THE BULL WHO WON THE BET. / END OF THE STORY OF THE WISE BIRD AND THE
+    FOOLS.; lines 13231-13357
+  start: '13231'
+  end: '13357'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A turret-dwelling fairy resents the Buddha and monks entering a merchant's
+    mansion and tries to persuade the manager, the eldest son, and later the impoverished
+    merchant to stop supporting them. The manager, son, and merchant refuse. The Buddha
+    teaches that even poor gifts given with a believing heart are not trifling. The
+    merchant rebukes the fairy and expels her; she leaves with her children and goes
+    to the city's guardian god.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The mansion is described as seven stories high with seven great gates and
+    battlemented turrets; a fairy dwells in the fourth turret.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the Buddha, chief elders, or other monks enter or leave the house, the
+    fairy cannot remain above in the turret and goes downstairs with her children.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The fairy decides to prevent Gotama and his disciples from coming to the house
+    and first approaches the chief business manager.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The manager refuses the fairy's request and says the merchant spends his money
+    on the religion of the Buddhas, which leads to salvation.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The fairy also persuades the merchant's eldest son in the same manner, and
+    he refuses her.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The merchant's wealth declines because he continually gives gifts and does
+    no business, but he continues to give to the Order with poorer offerings.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Buddha tells the merchant not to be troubled by poor gifts, saying that
+    if the heart is right a gift to Buddhas, Pacceka Buddhas, or disciples is right.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The Buddha refers to his former existence as Velāma, in which he gave away
+    the Seven Treasures and made a great donation, but did not attain refuge or precepts
+    because the recipients were unfit.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: At midnight the fairy appears in visible form before the merchant in his chamber
+    and advises him to stop going to Gotama and stop allowing disciples into his house.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The merchant says his faith is firm like the great mountain Sineru and orders
+    the fairy to leave his house.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The fairy leaves with her children and goes to the guardian god of the city.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Supreme Buddha / mendicant Gotama / Teacher / Master
+  description: The religious teacher whose entry into the house troubles the fairy
+    and who teaches the merchant about the value of gifts given with a right heart.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Turret fairy
+  description: A fairy described as a heretic who dwells in the turret over the fourth
+    gate and attempts to stop Gotama and his disciples from entering the house.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+  - ev:10
+- id: fig:3
+  name_or_label: Merchant / householder / converted saintly disciple
+  description: A wealthy merchant who gives gifts to the Order, becomes poor, receives
+    teaching from the Buddha, refuses the fairy's advice, and expels her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: Chief business manager
+  description: The merchant's manager whom the fairy asks to stop Gotama and his disciples
+    from coming; he refuses.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Merchant's eldest son
+  description: The merchant's eldest son whom the fairy also attempts to persuade;
+    he refuses as the manager did.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Eighty Chief Elders and other monks / disciples / Order
+  description: Monks and disciples who come to the merchant's house and receive gifts.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:7
+  name_or_label: Fairy's children
+  description: Children whom the fairy brings downstairs and later takes by the hand
+    when she leaves.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: fig:8
+  name_or_label: Guardian god of the city
+  description: A city guardian god whom the fairy approaches after leaving the merchant's
+    house.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:10
+- id: fig:9
+  name_or_label: Velāma
+  description: A former identity referenced by the Buddha in a teaching about gifts
+    and recipients.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: supernatural opponent and adviser
+  assigned_to:
+  - fig:2
+  basis: The fairy seeks to prevent Gotama and disciples from coming and gives advice
+    against further support.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:2
+  label: faithful lay donor
+  assigned_to:
+  - fig:3
+  basis: The merchant continues giving to the Order despite poverty and refuses to
+    abandon Gotama and his disciples.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+- id: role:3
+  label: religious teacher
+  assigned_to:
+  - fig:1
+  basis: The Buddha teaches that gifts given with a right heart are not trifling and
+    recounts the Velāmika Sutta.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: loyal intermediary who refuses harmful counsel
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Both the manager and the eldest son refuse the fairy's attempt to stop support
+    for Gotama and disciples.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: religious recipients of alms
+  assigned_to:
+  - fig:6
+  basis: The monks and disciples come to the house and receive gifts from the merchant.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:6
+  label: dependents of the supernatural figure
+  assigned_to:
+  - fig:7
+  basis: The fairy brings her children downstairs and later takes them away when she
+    leaves.
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: role:7
+  label: supernatural city authority
+  assigned_to:
+  - fig:8
+  basis: The fairy goes to and salutes the guardian god of the city after being expelled.
+  evidence_refs:
+  - ev:10
+- id: role:8
+  label: exemplary former donor in teaching narrative
+  assigned_to:
+  - fig:9
+  basis: The Buddha cites Velāma as a former self who made immense donations but lacked
+    fit recipients.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: seven-storied mansion with seven gates
+  literal_form: A mansion seven stories high with seven great gates and battlemented
+    turrets.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fourth turret
+  literal_form: The turret over the fourth gate where the fairy dwells.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: gift of stale porridge
+  literal_form: A mere trifle of stale second day’s porridge given when the merchant
+    can no longer give the best.
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: believing heart
+  literal_form: The inner disposition described as making even a poor gift not trifling.
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Seven Treasures
+  literal_form: Treasures said to have been given away by the Buddha when he was Velāma.
+  associated_figures:
+  - fig:1
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: five great rivers made one mass of water
+  literal_form: A comparison used to describe the greatness of Velāma's donation.
+  associated_figures:
+  - fig:1
+  - fig:9
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: great mountain Sineru
+  literal_form: The mountain used by the merchant as a comparison for his firm faith.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Fairy displaced by holy visitors
+  summary: In the merchant's mansion, a turret-dwelling fairy cannot remain in her
+    turret when the Buddha, elders, or monks come and must descend with her children.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fairy attempts to use household intermediaries
+  summary: The fairy approaches the chief business manager and the eldest son to stop
+    Gotama and his disciples from coming, but both refuse.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Poor gift affirmed by the Buddha
+  summary: After the merchant's wealth declines, he tells the Buddha that only stale
+    porridge is still given; the Buddha teaches that a right-hearted gift to worthy
+    recipients is not trifling.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Velāma donation teaching
+  summary: The Buddha recalls being Velāma and making an immense donation with the
+    Seven Treasures, yet not receiving equivalent religious benefit because the recipients
+    were unfit.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:9
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Merchant rebukes and expels the fairy
+  summary: The fairy advises the impoverished merchant to abandon Gotama and his disciples;
+    the merchant declares his faith immovable like Sineru and orders her away.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Fairy leaves and approaches the city guardian
+  summary: The fairy takes her children, leaves the merchant's house, and goes to
+    the guardian god of the city.
+  figure_refs:
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: right-hearted offering outweighs material value
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Buddha teaches that even stale gruel is not a trifling gift if the heart
+    is believing and the recipients are Buddhas or disciples.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The taxonomy label is applied broadly to religious almsgiving and spiritual
+    result; the passage does not use the term sacred exchange.
+- id: motif:2
+  label: wisdom and faith resist supernatural opposition
+  taxonomy_refs:
+  - wisdom
+  basis: The merchant refuses the fairy's advice, invokes Wisdom's power, compares
+    his faith to Sineru, and expels the fairy.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage emphasizes faith and Buddhist teaching as well as wisdom;
+    the motif label is a concise abstraction.
+- id: motif:3
+  label: supernatural being expelled from household after opposing religious devotion
+  taxonomy_refs: []
+  basis: A turret-dwelling fairy repeatedly tries to prevent support for Gotama and
+    his disciples, then is ordered to leave the house and departs with her children.
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: No supplied taxonomy reference precisely names this pattern.
+- id: motif:4
+  label: worthy recipient determines value of gift
+  taxonomy_refs:
+  - wisdom
+  - sacred_exchange
+  basis: The Velāma teaching contrasts immense gifts to unfit recipients with poorer
+    gifts to noble religious recipients.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is a doctrinal teaching embedded in the passage rather than a fully
+    developed narrative episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13231-13236
+  quote_or_summary: The mansion has seven stories and seven gates; a heretic fairy
+    dwells in the fourth turret and must descend with her children when the Buddha,
+    elders, or monks enter or leave.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: 13237-13252
+  quote_or_summary: The fairy thinks there is no peace while Gotama and disciples
+    come to the house, appears to the chief business manager, and urges him to prevent
+    their visits.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: quote
+  locator: 13253-13258
+  quote_or_summary: "“the Merchant in spending his money spends it on the religion
+    of the Buddhas, which leadeth to salvation.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 13259-13261
+  quote_or_summary: The fairy goes to the merchant's eldest son and persuades him
+    in the same manner, but he refuses; she does not dare speak to the merchant at
+    that time.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: 13262-13272
+  quote_or_summary: Because the merchant constantly gives gifts and does no business,
+    his wealth declines; he continues giving to the Order, though only poorer offerings
+    such as stale second-day porridge remain.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: 13273-13288
+  quote_or_summary: The Buddha tells the merchant not to be troubled by unpleasant
+    or poor gifts, because a gift given with a right or believing heart to Buddhas,
+    Pacceka Buddhas, or disciples is not trifling.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: 13289-13300
+  quote_or_summary: The Buddha says that when he was Velāma he gave away the Seven
+    Treasures in an immense donation likened to the five great rivers made one mass
+    of water, yet did not attain refuge or precepts because the recipients were unfit.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: 13301-13328
+  quote_or_summary: At midnight the fairy appears before the now-poor merchant and
+    advises him to stop going to Gotama, stop allowing disciples into the house, and
+    rebuild his family estate through business.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary used.
+- id: ev:9
+  type: quote
+  locator: 13329-13339
+  quote_or_summary: "“my faith is firm and established like the great mountain Sineru.”
+    The merchant rejects the fairy's words and tells her to depart from his house."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short quotation.
+- id: ev:10
+  type: summary
+  locator: 13340-13357
+  quote_or_summary: The fairy dares not stay, takes her children by the hand, leaves,
+    and goes to salute the guardian god of the city.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Passage-level figures and actions are explicit. Motif labels are abstractions
+    from Buddhist almsgiving and resistance-to-temptation themes; no external comparison
+    claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage and metadata; comparison_claims left empty because the passage itself does not make comparative claims beyond its internal Buddhist doctrinal examples.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l13231-l13357
+  passage_sha256=d538c1a2c5fe03d6dfc62e8ba80d36d562508cb23f2c1b1240eb21b6a3b65355
+

@@ -1,0 +1,295 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l2642-l2785
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: TABLE II. / THE KALILAG AND DAMNAG LITERATURE. / TABLE III. / THE BARLAAM
+    AND JOSAPHAT SERIES.; lines 2642-2785
+  start: '2642'
+  end: '2785'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A bibliographic table catalogs the Barlaam and Josaphat textual series
+    across Greek, Syriac, Arabic, Latin, German, Dutch, French, Italian, Scandinavian,
+    Spanish, and English versions. It notes lines of derivation, especially from a
+    Latin version, and identifies several titles and adaptations involving Barlaam,
+    Josaphat/Josafat, and related tales or fables.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies a section called the Barlaam and Josaphat Series and
+    begins with a Greek text attributed to St. John of Damascus.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that a Syriac version of the Greek text exists in manuscript,
+    and that an Arabic version of the Syriac version exists in manuscript, with one
+    Arabic manuscript at least as old as the eleventh century.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that a Latin version of the Greek text exists, that twelfth-century
+    manuscripts of it survive, and that later medieval works on the subject derive
+    directly or indirectly from this Latin version.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists German, Dutch, French, Italian, Scandinavian, Spanish, and
+    English versions or adaptations of the Barlaam and Josaphat material.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A Provençal prose tale is described as containing only the story of Josafat
+    and the tales told by Barlaam, without moralizations.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: An English prose romance is described as an abridged translation of an Italian
+    version and as containing one fable, the Nightingale and the Fowler.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: St. John of Damascus
+  description: Named in connection with the Greek text of Barlaam and Josaphat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Barlaam
+  description: Named in titles as a hermit or confessor and described as the teller
+    of tales in a Provençal version.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Josaphat / Josafat / Jehoshaphat
+  description: Named as a saintly or royal subject in multiple titles; one title calls
+    him the son of a king in India, and another English title calls him a hermit and
+    son of Avenerian, king of Barma in India.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Avenero / Avenerian
+  description: Named in titles as a king and as the father of Josafat/Jehoshaphat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: attributed textual authority
+  assigned_to:
+  - fig:1
+  basis: The passage lists St. John of Damascus’s Greek text as the first item in
+    the series.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: hermit and tale-teller
+  assigned_to:
+  - fig:2
+  basis: Titles call Barlaam a hermit or confessor, and the Provençal prose tale is
+    said to include tales told by Barlaam.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: royal son and saintly subject
+  assigned_to:
+  - fig:3
+  basis: Titles identify Josaphat/Josafat as a saintly subject and as the son of an
+    Indian king.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: royal father
+  assigned_to:
+  - fig:4
+  basis: Titles identify Avenero/Avenerian as a king and as the father of Josafat/Jehoshaphat.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols: []
+scenes:
+- id: scene:1
+  label: Textual transmission sequence
+  summary: The passage presents a sequence of versions moving from Greek to Syriac
+    to Arabic and Latin, then describes later medieval and vernacular adaptations.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Barlaam’s tales within the Josafat story
+  summary: A Provençal prose version is described as preserving the story of Josafat
+    and the tales told by Barlaam, but not the moralizations.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Instruction through tales and fables
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that one version includes tales told by Barlaam and that
+    an English prose romance contains a fable of the Nightingale and the Fowler.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is bibliographic and does not narrate the content of the tales
+    or fable.
+- id: motif:2
+  label: Holy life of a royal son guided by a hermit
+  taxonomy_refs: []
+  basis: Several titles describe Josaphat/Josafat as a king’s son or saintly subject
+    and Barlaam as a hermit or confessor; one title explicitly describes Josafat as
+    converted by Barlaam.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: The passage provides titles and catalog descriptions rather than a narrative
+    episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that all later medieval works on the Barlaam and Josaphat
+    subject are directly or indirectly derived from the Latin version.
+  claim_level: historical_contact
+  target: Later medieval Barlaam and Josaphat works derived from the Latin version
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a bibliographic derivation claim within the passage, not an
+    independent demonstration of narrative motif transmission.
+- id: claim:2
+  claim: The passage presents the Barlaam and Josaphat material as a multilingual
+    textual series with Greek, Syriac, Arabic, Latin, and multiple European vernacular
+    versions.
+  claim_level: historical_contact
+  target: Multilingual Barlaam and Josaphat textual tradition
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage lists versions and editions but gives little narrative
+    detail for comparing motifs.
+- id: claim:3
+  claim: The passage states that the English prose romance by Nicholas Herick is an
+    abridged translation of an Italian version published around 1600.
+  claim_level: historical_contact
+  target: English prose romance and Italian Barlaam and Josaphat version of about
+    1600
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim concerns textual adaptation and does not compare the internal
+    narrative content beyond the noted fable.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2642-2651
+  quote_or_summary: The section is titled the Barlaam and Josaphat Series and lists
+    St. John of Damascus’s Greek text, described as seventh century A.D. and edited
+    or reprinted in later scholarly editions.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 2652-2657
+  quote_or_summary: A Syriac version of the Greek text and an Arabic version of the
+    Syriac version are listed; one Arabic manuscript is said to be at least as old
+    as the eleventh century.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 2658-2673
+  quote_or_summary: A Latin version of the Greek text is listed, with twelfth-century
+    manuscripts; the passage states that later medieval works on the subject derive
+    directly or indirectly from this Latin version.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 2674-2768
+  quote_or_summary: The table catalogs German, Dutch, French, Italian, Scandinavian,
+    and Spanish versions or adaptations of Barlaam and Josaphat.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 2719-2724
+  quote_or_summary: A Provençal prose tale is described as containing the story of
+    Josafat and the tales told by Barlaam, without the moralizations.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 2769-2785
+  quote_or_summary: The English section lists versions of the legend and an English
+    prose romance titled The History of the Five Wise Philosophers, or the Wonderful
+    Relation of the Life of Jehoshaphat the Hermit, Son of Avenerian, King of Barma
+    in India; it is described as an abridged translation of an Italian version and
+    as containing one fable, the Nightingale and the Fowler.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 2726-2747
+  quote_or_summary: Italian titles include Vita di san Giosafat convertito da Barlaam
+    and a prose romance about Santo Josafat, son of King Avenero of India, from birth
+    until death.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is primarily bibliographic, so textual-transmission observations
+    are strong, while motif candidates are limited and inferred only from titles and
+    brief catalog notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol references were assigned because the provided passage does not supply literal symbolic objects from the available symbol list.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l2642-l2785
+  passage_sha256=435362112ecf8334d81c7db3a05f7e46205d455f3d634d18d4bac1706c0ae4b8
+

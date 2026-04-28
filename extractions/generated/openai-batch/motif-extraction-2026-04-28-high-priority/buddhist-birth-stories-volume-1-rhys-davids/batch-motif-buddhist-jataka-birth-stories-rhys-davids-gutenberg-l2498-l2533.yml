@@ -1,0 +1,219 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l2498-l2533
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: ON THE HISTORY OF THE BIRTH STORIES IN INDIA. / T. W. RHYS DAVIDS. / TABLE
+    I. / INDIAN WORKS.; lines 2498-2533
+  start: '2498'
+  end: '2533'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A bibliographic table lists Indian works numbered 34 through 42, including
+    Sanskrit, Jain Sanskrit, Bengali, English, and French works, with authors, editors,
+    translators, dates, and brief title descriptions such as stories about King Vikramāditya’s
+    magic umbrella and adventures of King Hammīra and King Ṣālivāhana.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies Vṛihat-katha as a Sanskrit version by Kshemendra of
+    Kashmir, written independently of Somadeva’s work.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes Pañca Daṇḍa Chattra Prabandha as stories about King
+    Vikramāditya’s magic umbrella, in Jain Sanskrit, with text and German version
+    by Weber.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage describes Vāsavadatta by Subandhu and Kādambarī by Bāṇa Bhaṭṭa
+    as romances, not story-books.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists Daśa-kumāra-carita by Daṇḍin and derivative or translated
+    works in English and French.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage identifies Kathārṇava as 'the Stream of Tales' in four books,
+    with the first two books corresponding to earlier numbered works and the third
+    and fourth described as miscellaneous.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage identifies Purusha-parīkshā as the Adventures of King Hammīra,
+    probably of the fourteenth century, by Vidyāpati.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage identifies Vīra-caritaṃ as the Adventures of King Ṣālivāhana.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: King Vikramāditya
+  description: A king named as the subject of stories about a magic umbrella.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: King Hammīra
+  description: A king named in the title description 'the Adventures of King Hammīra.'
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: King Ṣālivāhana
+  description: A king named in the title description 'the Adventures of King Ṣālivāhana.'
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: king associated with a magical object
+  assigned_to:
+  - fig:1
+  basis: The table describes stories about King Vikramāditya’s magic umbrella.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: king as subject of adventures
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The table describes works as the adventures of King Hammīra and King Ṣālivāhana.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: magic umbrella
+  literal_form: umbrella
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Bibliographic listing of Indian works
+  summary: The passage lists works and gives brief bibliographic descriptions, including
+    tales, romances, translations, and works centered on named kings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: king with a magical umbrella
+  taxonomy_refs: []
+  basis: One listed work is explicitly described as stories about King Vikramāditya’s
+    magic umbrella.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage is bibliographic and gives only a title-level description;
+    it does not describe the umbrella’s narrative function.
+- id: motif:2
+  label: adventures of a king
+  taxonomy_refs: []
+  basis: Two listed works are described as adventures of named kings.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: The passage provides titles or brief descriptions only and contains no
+    narrative episode details.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2498-2500
+  quote_or_summary: Vṛihat-katha is listed as a Sanskrit version by Kshemendra of
+    Kashmir, written independently of Somadeva’s work.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:2
+  type: quote
+  locator: lines 2502-2504
+  quote_or_summary: "“Stories about King Vikramāditya’s magic umbrella.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 2506-2514
+  quote_or_summary: Vāsavadatta by Subandhu and Kādambarī by Bāṇa Bhaṭṭa are listed
+    with editions and described as romances, not story-books.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:4
+  type: summary
+  locator: lines 2516-2522
+  quote_or_summary: Daśa-kumāra-carita by Daṇḍin is listed, followed by Hindoo Tales
+    founded on it and Une Tétrade containing a French translation of it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:5
+  type: summary
+  locator: lines 2524-2526
+  quote_or_summary: Kathārṇava, the Stream of Tales, is described as being in four
+    books, with the first two corresponding to earlier numbered works and the third
+    and fourth miscellaneous.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:6
+  type: quote
+  locator: lines 2528-2530
+  quote_or_summary: "“PURUSHA-PARĪKSHĀ, the Adventures of King Hammīra.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:7
+  type: quote
+  locator: line 2533
+  quote_or_summary: "“VĪRA-CARITAŊ, the Adventures of King Ṣālivāhana.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is a bibliographic list rather than a narrative passage, so motif
+    extraction is necessarily limited to title-level descriptions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the passage does not support a listed taxonomy item directly.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l2498-l2533
+  passage_sha256=9ae406df87706b6f0d551edf85b6ce1e222be22bc10a8c1f6a952c15031277ea
+

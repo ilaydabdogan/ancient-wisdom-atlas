@@ -1,0 +1,435 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15042-l15226
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: END OF THE STORY OF THE BULL WHO WON THE BET. / END OF THE STORY OF THE WISE
+    BIRD AND THE FOOLS. / END OF BOOK I. CHAPTER IV. / INDEX.; lines 15042-15226
+  start: '15042'
+  end: '15226'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An index section lists Jātaka titles, names, topics, and page references,
+    including entries for trees paying homage to Mahā Māyā and the Buddha, the Tree
+    of Wisdom, tree-gods, water presentation, a water goblin, transmigration of souls,
+    truth-acts, the sacred wheel, and named Buddhist figures.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index section listing Jātaka titles, topics, named persons,
+    beings, objects, and page references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index states that trees pay homage to Mahā Māyā and to the Buddha.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index contains entries for a tree-god, including the Buddha being mistaken
+    for a tree-god, prayer to a tree-god, and the Bodisat as a tree-god, genius, or
+    fairy.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists the Tree of Wisdom, also identified as the Bo- or Bodhi-tree.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage lists water of presentation and a water goblin.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage includes topical entries for transmigration of souls and a truth-act.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage lists the sacred wheel and Vijayuttara, Sakka’s trumpet.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage identifies Vessavana as king of the goblins.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage identifies Uddaka as the Buddha’s teacher.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage lists the Ten Cardinal Virtues.
+  category: other
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: The Buddha
+  description: Named in index entries as receiving homage from trees, being mistaken
+    for a tree-god, and having Uddaka as teacher.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:9
+- id: fig:2
+  name_or_label: Mahā Māyā
+  description: Named as a recipient of homage from trees.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Bodisat
+  description: Listed in an index entry as appearing as a tree-god, genius, or fairy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Tree-god, genius, or fairy
+  description: A supernatural tree-associated being in index entries for mistaken
+    identity, prayer, and Bodisat appearances.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Water goblin
+  description: Listed as a water-associated goblin.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Vessavana
+  description: Identified as king of the goblins.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Uddaka
+  description: Identified as the Buddha’s teacher.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+- id: fig:8
+  name_or_label: Sakka
+  description: Named through the entry for Vijayuttara, Sakka’s trumpet.
+  role_refs: []
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: recipient of tree homage
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The index says trees pay homage to Mahā Māyā and to the Buddha.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Bodisat appearing as tree-associated supernatural being
+  assigned_to:
+  - fig:3
+  basis: The index lists the Bodisat as a tree-god, genius, or fairy.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: tree-associated supernatural being
+  assigned_to:
+  - fig:4
+  basis: The index groups tree-god, genius, and fairy entries with prayer, mistaken
+    identity, and Bodisat appearance.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: water-associated supernatural being
+  assigned_to:
+  - fig:5
+  basis: The index lists a water goblin.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: king of goblins
+  assigned_to:
+  - fig:6
+  basis: The index identifies Vessavana as king of the goblins.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: teacher-student relation involving the Buddha
+  assigned_to:
+  - fig:1
+  - fig:7
+  basis: The index identifies Uddaka as the Buddha’s teacher.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: trees giving homage
+  literal_form: trees
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  - sacred_tree_axis
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Tree of Wisdom
+  literal_form: Bo- or Bodhi-tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  - wisdom
+  - sacred_tree_axis
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: tree-god
+  literal_form: tree-god, genius, or fairy
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  - sacred_tree_axis
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: water of presentation
+  literal_form: water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: water goblin
+  literal_form: water goblin
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: sacred wheel
+  literal_form: wheel
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: Sakka’s trumpet
+  literal_form: Vijayuttara, Sakka’s trumpet
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: truth-act
+  literal_form: truth-act
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Indexed tree-homage episodes
+  summary: The index refers to episodes in which trees pay homage to Mahā Māyā and
+    to the Buddha.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Indexed tree-god episodes
+  summary: The index refers to a tree-god prayed to, the Buddha being mistaken for
+    a tree-god, and the Bodisat appearing as a tree-god, genius, or fairy.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Indexed water-goblin topic
+  summary: The index includes a topic entry for a water goblin.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Sacred or venerated tree
+  taxonomy_refs:
+  - sacred_tree_axis
+  - tree
+  basis: The passage indexes trees paying homage, the Tree of Wisdom, prayer to a
+    tree-god, and tree-associated supernatural beings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is an index; it does not provide the full narrative context
+    of the indexed episodes.
+- id: motif:2
+  label: Wisdom associated with the Bodhi-tree
+  taxonomy_refs:
+  - wisdom
+  - sacred_tree_axis
+  - tree
+  basis: The index explicitly lists the Tree of Wisdom as the Bo- or Bodhi-tree.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only the index label is present; no episode is narrated in this passage.
+- id: motif:3
+  label: Supernatural beings tied to natural places
+  taxonomy_refs: []
+  basis: The index lists a tree-god, genius, or fairy, and a water goblin.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The index names the beings but does not describe their actions beyond
+    brief topical notes.
+- id: motif:4
+  label: Transmigration of souls
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage includes an index topic for transmigration of souls.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage gives only an index entry and no explanation of the doctrine
+    or narrative use.
+- id: motif:5
+  label: Truth-act
+  taxonomy_refs: []
+  basis: The passage includes an index topic for a truth-act, described as a curious
+    belief.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: No details of the act, speaker, or outcome are provided in this index
+    section.
+- id: motif:6
+  label: Sacred emblem or ritual object
+  taxonomy_refs: []
+  basis: The passage lists the sacred wheel and Sakka’s trumpet among index entries.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The index names the objects without describing their narrative function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15042-15226
+  quote_or_summary: Index entries list Jātaka titles, topics, names, beings, objects,
+    and page references from Tittira Jātaka through Yojana.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short summary.
+- id: ev:2
+  type: quote
+  locator: lines 15042-15226; index entry 'Trees pay homage'
+  quote_or_summary: "“Trees pay homage to Mahā Māyā, 66; to the Buddha, 75, 102”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 15042-15226; index entries 'Tree-god'
+  quote_or_summary: "“Tree-god, the Buddha mistaken for a, 93; prayer to, 91” and
+    “the Bodisat as” one."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 15042-15226; index entry 'Tree of Wisdom'
+  quote_or_summary: "“Tree of Wisdom (Bo- or Bodhi-tree), 95”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 15042-15226; index entries 'Water'
+  quote_or_summary: "“Water of presentation, 131, 165” and “Water goblin, 180-184”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 15042-15226; index entries 'Transmigration' and 'Truth-act'
+  quote_or_summary: "“Transmigration of souls, lxxv” and “Truth-act, curious belief
+    of, 235”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 15042-15226; index entries 'Wheel' and 'Vijayuttara'
+  quote_or_summary: "“Wheel, the sacred, 114” and “Vijayuttara, Sakka’s trumpet, 97”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:8
+  type: quote
+  locator: lines 15042-15226; index entry 'Vessavana'
+  quote_or_summary: "“Vessavana, king of the goblins, 181”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:9
+  type: quote
+  locator: lines 15042-15226; index entry 'Uddaka'
+  quote_or_summary: "“Uddaka, the Buddha’s teacher, 89, 111”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:10
+  type: quote
+  locator: lines 15042-15226; index entry 'Virtues'
+  quote_or_summary: "“Virtues, the Ten Cardinal, 15-18, 54-58, 107”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is limited by the passage’s index format. Motif candidates
+    are based on index topics and labels, not full narrative descriptions. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were applied only where the index wording directly supported available labels such as tree, water, wisdom, sacred_tree_axis, and death_rebirth.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l15042-l15226
+  passage_sha256=47ab6ef570a904e7af86e786266647859cdc8e06bfd14935d6bd06cff8a9303c
+

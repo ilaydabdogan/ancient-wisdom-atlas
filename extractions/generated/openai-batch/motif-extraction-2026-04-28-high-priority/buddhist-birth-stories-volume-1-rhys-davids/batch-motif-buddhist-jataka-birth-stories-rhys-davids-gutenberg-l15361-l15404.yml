@@ -1,0 +1,278 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l15361-l15404
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: ESSAYS ON THE SACRED LANGUAGE, WRITINGS, AND RELIGION OF THE PARSIS. / BY
+    MARTIN HAUG, PH.D., / EDITED BY DR. E. W. WEST. / TEXTS FROM THE BUDDHIST CANON;
+    lines 15361-15404
+  start: '15361'
+  end: '15404'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a publication notice for S. Beal's English translation from
+    Chinese of a work commonly known as the Dhammapada. It states that Beal found
+    a Chinese Buddhist Canon work titled “Law Verses, or Scriptural Texts,” resembling
+    the Pali Dhammapada; that a Pali recension reached China in the third century
+    A.D.; and that the Chinese recension has thirty-nine sections rather than the
+    twenty-six of the known Pali edition. Review excerpts describe the translation
+    as useful for comparative religious history and as presenting Buddhist doctrine,
+    creed, and conduct.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the advertised work as “Texts from the Buddhist Canon,”
+    commonly known as “Dhammapada,” with accompanying narratives.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: S. Beal is named as the translator from Chinese.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A Chinese Buddhist Canon was presented by the Japanese Government to the Library
+    of the India Office.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mr. Beal discovered in that canon a work titled “Law Verses, or Scriptural
+    Texts.”
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The discovered work is said to resemble the Pali version of the Dhammapada
+    in many particulars.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that the original recension of the Pali text reached China
+    in the third century A.D., where translation was finished and thirteen sections
+    were later added.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Pali Dhammapada is described as having twenty-six chapters or sections,
+    while the Chinese recension translated by Beal has thirty-nine sections.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A review excerpt says Beal made the work accessible in English and contributed
+    to the comparative study of religious history.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A review excerpt describes the work as exhibiting Buddhist doctrine, creed,
+    and rule of conduct, and states that many later followers worship the founder
+    as a god although the founder denied a God.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: S. Beal
+  description: Named translator from Chinese and discoverer of the Chinese Canon work
+    described in the notice.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Japanese Government
+  description: Presented the Chinese Buddhist Canon to the Library of the India Office.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Library of the India Office
+  description: Institution that received the Chinese Buddhist Canon.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Fausböll, Max Müller, and Albrecht Weber
+  description: Named in connection with known editions or translations of the Pali
+    Dhammapada.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Unnamed founder of the religion
+  description: The review excerpt describes the founder as having denied a God and
+    as later being worshipped as a god by followers.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: translator
+  assigned_to:
+  - fig:1
+  basis: The passage states that the work was translated from Chinese by S. Beal.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: discoverer of a canonical text
+  assigned_to:
+  - fig:1
+  basis: The passage says Mr. Beal discovered a work in the Chinese Buddhist Canon.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: presenter of the canon
+  assigned_to:
+  - fig:2
+  basis: The Japanese Government is said to have presented the canon.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: recipient institution
+  assigned_to:
+  - fig:3
+  basis: The canon was presented to the Library of the India Office.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: prior editors or translators of the Pali Dhammapada
+  assigned_to:
+  - fig:4
+  basis: The passage names Fausböll, Max Müller, and Albrecht Weber in relation to
+    editions or translations of the Pali text.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: religious founder later worshipped as divine
+  assigned_to:
+  - fig:5
+  basis: The review excerpt states that the founder denied a God but is now worshipped
+    as a god by followers.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Publication notice for Beal's Dhammapada translation
+  summary: The passage introduces Beal's English translation from Chinese of a Buddhist
+    canonical work known as Dhammapada and explains its relation to the Pali version.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Review framing of Buddhist doctrine and comparative value
+  summary: Quoted reviews describe the translation as useful for comparative religious
+    history and as presenting Buddhist doctrine, creed, and rule of conduct.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Wisdom teaching in scriptural verses
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents the Dhammapada as “Law Verses, or Scriptural Texts”
+    and a review describes it as expressing Buddhist doctrine, creed, and rule of
+    conduct.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: low
+  cautions: The passage is a bibliographic notice rather than a mythic or narrative
+    episode; the motif candidate is thematic and should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the Chinese canonical work with the Pali
+    Dhammapada, saying it resembles the Pali version in many particulars and differs
+    in section count.
+  claim_level: linguistic_similarity
+  target: Chinese recension of the Dhammapada compared with the Pali Dhammapada
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a general textual comparison but does not provide
+    parallel verses, detailed philology, or motif-level comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15361-15367
+  quote_or_summary: The notice titles the work “Texts from the Buddhist Canon,” commonly
+    known as “Dhammapada,” with accompanying narratives, translated from Chinese by
+    S. Beal.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 15368-15374
+  quote_or_summary: The Chinese Buddhist Canon was presented by the Japanese Government
+    to the Library of the India Office; Beal discovered in it a work titled “Law Verses,
+    or Scriptural Texts,” resembling the Pali Dhammapada in many particulars.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized with short title quote.
+- id: ev:3
+  type: summary
+  locator: 15374-15386
+  quote_or_summary: The notice says the Pali recension reached China in the third
+    century A.D.; translation was completed there and thirteen sections were added.
+    The Pali text has twenty-six sections, while Beal's Chinese recension has thirty-nine.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 15387-15391
+  quote_or_summary: An Academy review says Beal made the work accessible in English
+    and aided the comparative study of religious history.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 15392-15402
+  quote_or_summary: A Scotsman review says the work displays Buddhist doctrine in
+    a pure form, presents a simple creed and conduct rule, and contrasts the founder's
+    denial of a God with later worship of the founder as a god.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is primarily a bibliographic advertisement and review notice,
+    not a mythic narrative. Literal extraction is straightforward; motif relevance
+    is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available symbol taxonomy items are directly present in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l15361-l15404
+  passage_sha256=e6830cde24aa518f47bc7a5ffc68c367f3f1db038fca895be86acb3f80f35620
+

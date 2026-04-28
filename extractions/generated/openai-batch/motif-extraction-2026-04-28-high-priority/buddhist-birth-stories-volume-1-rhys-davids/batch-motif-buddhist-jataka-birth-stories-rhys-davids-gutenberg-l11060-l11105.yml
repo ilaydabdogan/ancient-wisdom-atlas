@@ -1,0 +1,405 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l11060-l11105
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: END OF THE STORY OF THE KURUNGA ANTELOPE. / END OF THE STORY OF THE DOG.
+    / END OF THE STORY OF THE BHOJA THOROUGHBRED. / END OF THE STORY OF THE THOROUGHBRED.;
+    lines 11060-11105
+  start: '11060'
+  end: '11105'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The Bodisat examines a horse that has refused to enter the water at a ford,
+    infers that the horse objects because another inferior horse was watered there
+    first, and instructs the horsekeepers to take it to another ford. The horse is
+    then bathed and fed. The king honors the Bodisat for understanding the animal’s
+    motive. The Jātaka frame identifies the former horse, king, and wise minister
+    with a monk, Ānanda, and the Master himself.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A horse refuses at first to enter the water at a ford.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Bodisat examines the horse and finds nothing physically wrong with it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Bodisat infers that another horse, described by the horsekeepers as a
+    hack, had been watered there just before.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The Bodisat explains the refusal as vanity and directs that the horse be taken
+    to another ford for rubbing down and feeding.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Bodisat recites a verse advising the charioteer to feed the horse at different
+    fords and comparing repeated use to growing tired of fine rice.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After being taken to another ford, the horse is bathed, watered, rubbed down,
+    and fed.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The king honors the Bodisat and says he understands the motives of an animal.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The frame narration states that the Master connects the story to the present
+    by identifying the former state charger as a monk, the king as Ānanda, and the
+    wise minister as himself.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Bodisat / wise minister
+  description: The figure who examines the horse, infers its motive, instructs the
+    horsekeepers, reports to the king, and is later identified by the Master as himself
+    in a past life.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Horse / state charger
+  description: A horse that refuses to enter the water at the first ford and is later
+    taken to another ford, bathed, watered, rubbed down, and fed; in the frame it
+    is identified as a monk.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Horsekeepers / charioteer
+  description: Attendants questioned by the Bodisat and instructed to take the horse
+    to another ford.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: King
+  description: The ruler who asks whether the horse has bathed and drunk, receives
+    the Bodisat’s explanation, and honors him; in the frame he is identified as Ānanda.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Master
+  description: The narrator-teacher who finishes the discourse, states the illustrative
+    connection, and identifies the former figures with present ones.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Ānanda
+  description: Identified in the Jātaka summation as the king of the former time.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: this monk
+  description: Identified in the Jātaka summation as the state charger of the former
+    time.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: discerning problem-solver
+  assigned_to:
+  - fig:1
+  basis: He examines the horse, infers the hidden reason for its refusal, and prescribes
+    a successful remedy.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: past-life identity of the Master
+  assigned_to:
+  - fig:1
+  basis: The Jātaka summation identifies the wise minister as the Master himself.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: refusing animal
+  assigned_to:
+  - fig:2
+  basis: The horse refuses the water at the first ford and is the subject of the Bodisat’s
+    diagnosis.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: attendants carrying out instruction
+  assigned_to:
+  - fig:3
+  basis: The horsekeepers answer the Bodisat’s question and take the horse to another
+    ford after his instruction.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:5
+  label: royal evaluator and patron
+  assigned_to:
+  - fig:4
+  basis: The king questions the outcome and gives the Bodisat much honor for his wisdom.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: frame narrator and identifier
+  assigned_to:
+  - fig:5
+  basis: The Master makes the connection and sums up the Jātaka by identifying past
+    and present figures.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: present-life counterpart
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Ānanda and the monk are named as present counterparts of figures in the former
+    story.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: ford water
+  literal_form: ford, water, bathing, watering
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: fine milky rice
+  literal_form: finest milky rice with delicious curry; finest rice in the verse
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Diagnosis at the ford
+  summary: The Bodisat goes to the ford, examines the horse, finds no physical problem,
+    and reasons that the horse refused because another horse had been watered there
+    first.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Instruction to use another ford
+  summary: The Bodisat identifies the issue as vanity, compares repeated use of one
+    thing to tiring of fine rice, and instructs the attendants to take the horse elsewhere.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Horse bathed and fed
+  summary: The attendants take the horse to another ford, where it is bathed, watered,
+    rubbed down, and fed; the Bodisat returns to the king.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Royal praise and Jātaka connection
+  summary: The king praises the Bodisat’s ability to understand an animal’s motive,
+    and the frame narration identifies the former characters with present figures.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: wise figure discerns an animal’s hidden motive
+  taxonomy_refs:
+  - wisdom
+  basis: The Bodisat understands why the horse refused the ford and is praised for
+    knowing even an animal’s motive.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage presents practical insight rather than a supernatural revelation.
+- id: motif:2
+  label: remedy by changing the place of ritual care
+  taxonomy_refs: []
+  basis: The horse refuses the usual ford, and the successful solution is to take
+    it to another ford for bathing, watering, rubbing down, and feeding.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is a local narrative pattern in the episode; no broader taxonomy
+    reference is directly supplied.
+- id: motif:3
+  label: past-life identification of story figures
+  taxonomy_refs:
+  - death_rebirth
+  basis: The closing Jātaka frame identifies the former horse, king, and wise minister
+    with present figures and says both the king and Bodisat passed away according
+    to their deeds.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage gives identifications and karmic language but does not narrate
+    the intervening rebirth process in detail.
+comparison_claims:
+- id: claim:1
+  claim: The closing identification follows the Jātaka pattern in which figures in
+    a past-life story are connected to figures in the Buddha’s present audience or
+    circle.
+  claim_level: same_function
+  target: Jātaka frame-story identification pattern
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a comparison to the passage’s own stated Jātaka frame function,
+    not an external historical claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11060-11065
+  quote_or_summary: The Bodisat goes to the ford, examines the horse, finds nothing
+    wrong, and reasons that another horse must have been watered there earlier, causing
+    the refusal.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 11066-11070
+  quote_or_summary: The horsekeepers answer that “A certain hack” had been watered
+    at the ford just before.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 11071-11077
+  quote_or_summary: The Bodisat sees the horse’s vanity, says it should be taken to
+    another pond or ford, and compares overuse of one food to tiring of even fine
+    milky rice with curry.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 11078-11082
+  quote_or_summary: "“Feed the horse, then, O charioteer, / Now at one ford, now at
+    another.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 11084-11087
+  quote_or_summary: The attendants take the horse to another ford, where they bathe,
+    water, rub down, and feed it, while the Bodisat returns to the king.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 11088-11099
+  quote_or_summary: The king asks whether the horse drank and bathed, hears the explanation,
+    honors the Bodisat, and praises him for understanding an animal’s motives; both
+    later pass away according to their deeds.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 11100-11105
+  quote_or_summary: The Master says he knew the man’s motive before as well as now,
+    then identifies the state charger as a monk, the king as Ānanda, and the wise
+    minister as himself.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are conservative and
+    based on the episode’s stated emphasis on discerning motive and the Jātaka frame
+    identification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons or taxonomy IDs beyond the supplied available taxonomy references were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l11060-l11105
+  passage_sha256=f1b6c6157f6c0e46aa12b0f09dfbbb421b3b4efb384ddf392f65d4cf736dfb04
+

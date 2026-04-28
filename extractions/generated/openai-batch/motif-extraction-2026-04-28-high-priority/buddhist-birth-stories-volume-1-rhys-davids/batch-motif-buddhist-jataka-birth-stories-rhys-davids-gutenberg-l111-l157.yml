@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l111-l157
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: HIS GRATEFUL PUPIL / THE AUTHOR. / TABLE OF CONTENTS. / PART I.; lines 111-157
+  start: '111'
+  end: '157'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"The Book of Birth Stories, and their Migration to the West."'
+  summary: The passage contains a dedication by the author as a grateful pupil to
+    an unnamed recipient praised for profound scholarship, followed by a table of
+    contents for Part I of the translator’s introduction. The listed topics include
+    Buddhist belief about the Book of Birth Stories, selected story titles, and comparative
+    or transmission topics involving Kalilag and Damnag, Aesop, Barlaam and Josaphat,
+    Greek and Buddhist fables, and Solomon’s Judgment.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The work is dedicated by the author, described as a grateful pupil, in respect
+    for an unnamed person's profound scholarship.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The table of contents identifies Part I as concerning the Book of Birth Stories
+    and their migration to the West.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The selected story titles listed include animal figures such as an ass, a
+    lion, a tortoise, a jackal, and a crow.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The contents list includes titles or topics involving judgment, kings, gifts,
+    and comparative fable traditions.
+  category: other
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The contents list names Kalilag and Damnag literature, Aesop's fables, Barlaam
+    and Josaphat literature, Greek and Buddhist fables, and Solomon's Judgment.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the author
+  description: The person dedicating the work and described as a grateful pupil.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unnamed scholar-dedicatee
+  description: An unnamed person praised for profound scholarship and receiving the
+    dedication.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: ass
+  description: An animal named in the selected story title "The Ass in the Lion’s
+    Skin."
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: lion
+  description: An animal named through its skin in the selected story title "The Ass
+    in the Lion’s Skin."
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: talkative tortoise
+  description: An animal figure named in the selected story title "The Talkative Tortoise."
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: jackal
+  description: An animal named in the selected story title "The Jackal and the Crow."
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: crow
+  description: An animal named in the selected story title "The Jackal and the Crow."
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: wise judge
+  description: A figure named in the selected story title "The Wise Judge."
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Sakka
+  description: A named figure in the selected story title "Sakka’s Presents."
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: kings
+  description: Rulers addressed in the selected story title "A Lesson for Kings."
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: grateful pupil
+  assigned_to:
+  - fig:1
+  basis: The dedication says the work is dedicated by "his grateful pupil," identified
+    as the author.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: honored scholar
+  assigned_to:
+  - fig:2
+  basis: The dedication states deep respect for the recipient's profound scholarship.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: judge
+  assigned_to:
+  - fig:8
+  basis: The figure is named in the title "The Wise Judge."
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: rulers receiving instruction
+  assigned_to:
+  - fig:10
+  basis: The title "A Lesson for Kings" presents kings as the audience of a lesson.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Dedication to a scholar
+  summary: The author dedicates the work to an unnamed recipient out of respect for
+    the recipient's scholarship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Contents of Part I
+  summary: The table of contents lists Part I topics, including the Book of Birth
+    Stories, selected story titles, and discussions of tale migration and comparative
+    fable literature.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wisdom and judgment
+  taxonomy_refs:
+  - wisdom
+  basis: The contents list includes "The Wise Judge" and "Solomon’s Judgment," indicating
+    topics concerned with wise adjudication or judgment.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The passage is only a table of contents; no narrative episode or judgment
+    scene is provided.
+- id: motif:2
+  label: tale migration across traditions
+  taxonomy_refs: []
+  basis: Part I is titled as concerning the Book of Birth Stories and their migration
+    to the West, with listed topics involving Aesop, Barlaam and Josaphat, Greek and
+    Buddhist fables, and other migrations of Buddhist tales.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The contents headings indicate a transmission theme but do not provide
+    the arguments or narrative evidence.
+- id: motif:3
+  label: animal fable figures
+  taxonomy_refs: []
+  basis: Several selected story titles name animal figures, including an ass, lion,
+    tortoise, jackal, and crow.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: Only titles are present; the passage does not give the animal actions
+    or story plots.
+comparison_claims:
+- id: claim:1
+  claim: The contents frame the Book of Birth Stories in relation to westward migration
+    and to other fable or narrative traditions.
+  claim_level: historical_contact
+  target: migration of Buddhist tales to the West; Aesop's fables; Barlaam and Josaphat;
+    Greek and Buddhist fables
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is supported only by table-of-contents headings; the passage does
+    not provide detailed comparative evidence.
+- id: claim:2
+  claim: The headings place Buddhist narrative material near the topic of Solomon's
+    Judgment, suggesting a comparative discussion of judgment stories.
+  claim_level: same_function
+  target: Solomon's Judgment
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage lists the heading only and does not state the nature or
+    extent of the comparison.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 111-117
+  quote_or_summary: '"AND IN DEEP RESPECT FOR HIS PROFOUND SCHOLARSHIP / THIS WORK
+    IS DEDICATED BY / HIS GRATEFUL PUPIL / THE AUTHOR."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 121-126
+  quote_or_summary: The contents identify Part I as "The Book of Birth Stories, and
+    their Migration to the West" and mention orthodox Buddhist belief and reasons
+    for its value.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short quotation/summarized heading used for extraction
+    evidence.
+- id: ev:3
+  type: summary
+  locator: lines 128-140
+  quote_or_summary: Selected story titles include "The Ass in the Lion’s Skin," "The
+    Talkative Tortoise," "The Jackal and the Crow," "The Wise Judge," "Sakka’s Presents,"
+    and "A Lesson for Kings."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; title list summarized for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 142-157
+  quote_or_summary: Later contents headings list Kalilag and Damnag literature, the
+    origin of Aesop's fables, Barlaam and Josaphat literature, other migrations of
+    Buddhist tales, Greek and Buddhist fables, Solomon's Judgment, and a summary of
+    Part I.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; headings summarized for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is a dedication and table of contents, not a narrative episode.
+    Extraction is limited to titles and headings, so motif and comparison claims are
+    necessarily tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy symbol refs are directly supported by this passage. Animal names and comparative headings are recorded only as literal contents items.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l111-l157
+  passage_sha256=4f038205b13128d09b2d35fc767f7b8b1126c4cfaf0e48f69b8ce1f6a27c3d59
+

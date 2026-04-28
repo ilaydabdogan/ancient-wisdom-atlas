@@ -1,0 +1,207 @@
+---
+record_id: batch.motif.buddhist-jataka-birth-stories-rhys-davids-gutenberg-l2804-l2852
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+passage_locator:
+  label: THE KALILAG AND DAMNAG LITERATURE. / TABLE III. / THE BARLAAM AND JOSAPHAT
+    SERIES. / TABLE IV.; lines 2804-2852
+  start: '2804'
+  end: '2852'
+  translation: Buddhist birth stories; or, Jataka tales, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: COMPARISON OF THE CARIYĀ PIṬAKA AND THE JĀTAKA MĀLĀ.
+  summary: A table pairs thirty-five entries from the Cariyā Piṭaka with corresponding
+    entries from the Jātaka Mālā, followed by bibliographic notes and a statement
+    that some titles are identical or similar across the two collections.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a comparison of the Cariyā Piṭaka and the Jātaka
+    Mālā.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The table lists thirty-five numbered pairings between titles in the two collections.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Several entries include parenthetical cross-references or numbers attached
+    to titles.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The note cites Feer, Gogerly, and Fausböll as sources relevant to the lists.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The note states that seven tales have identical titles and one or two more
+    have similar titles in the two collections.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note says editions of the two works are much needed and mentions a Cambridge
+    University Library manuscript of the former with variant readings noted by Dewa
+    Aranolis.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Cariyā Piṭaka
+  description: One of the two works compared in the table.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Jātaka Mālā
+  description: One of the two works compared in the table.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Feer
+  description: Cited in the note for an étude on the Jātakas.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Gogerly
+  description: Cited in the note with the Journal of the Ceylon Branch of the Royal
+    Asiatic Society, 1853.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Fausböll
+  description: Cited in the note for Five Jātakas.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Cambridge University Library
+  description: Said to possess a manuscript of the former work.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Dewa Aranolis
+  description: Said to have noted various readings of several manuscripts for the
+    author.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: compared textual collection
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The heading identifies the passage as a comparison of the two works, and
+    the table pairs entries from them.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: cited scholarly source
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The note directs readers to these named sources for the lists.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: manuscript holder
+  assigned_to:
+  - fig:6
+  basis: The note says the Cambridge University Library possesses a manuscript of
+    the former work.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: noter of manuscript readings
+  assigned_to:
+  - fig:7
+  basis: The note says Dewa Aranolis noted variant readings of several manuscripts.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a title-level comparison between the Cariyā Piṭaka and
+    the Jātaka Mālā, stating that several tales have identical or similar titles across
+    the two collections.
+  claim_level: linguistic_similarity
+  target: Tale titles in the Cariyā Piṭaka and the Jātaka Mālā
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to title similarity and table pairing; the passage
+    does not establish narrative identity, motif identity, historical contact, or
+    common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2804-2847
+  quote_or_summary: The table is titled as a comparison of the Cariyā Piṭaka and the
+    Jātaka Mālā and lists thirty-five numbered pairings of titles from the two works.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 2849-2851
+  quote_or_summary: The note refers readers to Feer, Gogerly, Fausböll, and earlier
+    pages for the lists.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: quote
+  locator: lines 2851-2852
+  quote_or_summary: "“there are seven tales with identical, and one or two more with
+    similar titles, in the two collections.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 2852
+  quote_or_summary: The note says editions of the two works are needed and that Cambridge
+    University Library has a manuscript of the former with readings from other manuscripts
+    noted by Dewa Aranolis.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is bibliographic and tabular rather than narrative. No mythic
+    symbols or motifs are extracted; only the explicit title-level comparison is recorded.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No candidate motifs are assigned because the passage contains no tale narrative or symbolic episode.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-birth-stories-rhys-davids-gutenberg__l2804-l2852
+  passage_sha256=45a7c5e88391924b1d12a9fded46c9f478057b3638608e7b564ef0db49f63b09
+
