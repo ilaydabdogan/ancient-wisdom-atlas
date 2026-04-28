@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4939-l4961
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE LION, THE WOLF, AND THE FOX / HERCULES AND PLUTUS / THE FOX AND THE LEOPARD
+    / THE FOX AND THE HEDGEHOG; lines 4939-4961
+  start: '4939'
+  end: '4961'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a Fox and a Leopard argue over which is more handsome; the
+    Leopard points to his fine coat, while the Fox claims superior wits. In another,
+    a Fox is swept down a rapid river, reaches land exhausted, and is attacked by
+    horseflies; when a Hedgehog offers to remove them, the Fox refuses because full
+    flies are less dangerous than a new hungry swarm.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Fox and a Leopard dispute about their looks and each claims to be more handsome.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Leopard points to his smart coat as evidence of his attractiveness.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Fox replies that his wits are smarter than the Leopard's coat.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A Fox swimming across a rapid river is swept downstream by the current despite
+    struggling.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Fox reaches dry ground from a backwater, bruised, exhausted, and unable
+    to move.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A swarm of horseflies settles on the weakened Fox and sucks his blood while
+    he cannot shake them off.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A Hedgehog asks whether he should brush away the flies tormenting the Fox.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Fox refuses the Hedgehog's help, saying the current flies have already
+    fed and a new hungry swarm would take more blood.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Fox in the beauty dispute
+  description: A Fox who argues with a Leopard about looks and claims his wits are
+    superior.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Leopard
+  description: A Leopard who argues with a Fox about looks and cites his smart coat.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Fox in the river episode
+  description: A Fox swept downstream, exhausted on dry ground, and bitten by horseflies;
+    he refuses to have the flies removed.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Hedgehog
+  description: A Hedgehog who sees the Fox and offers to brush away the tormenting
+    flies.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Swarm of horseflies
+  description: Horseflies that settle on the weakened Fox and suck his blood.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: rival claimant in appearance dispute
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both the Fox and the Leopard dispute about their looks and claim to be the
+    more handsome.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: claimant of outward beauty
+  assigned_to:
+  - fig:2
+  basis: The Leopard cites his smart coat as the thing the Fox cannot match.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: claimant of superior wits
+  assigned_to:
+  - fig:1
+  basis: The Fox answers that his wits are smarter than the Leopard's coat.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: injured river survivor
+  assigned_to:
+  - fig:3
+  basis: The Fox is swept downstream, struggles, reaches dry ground, and lies bruised
+    and exhausted.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: would-be helper
+  assigned_to:
+  - fig:4
+  basis: The Hedgehog asks whether he should brush away the flies tormenting the Fox.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: blood-sucking tormentors
+  assigned_to:
+  - fig:5
+  basis: The horseflies settle on the Fox and suck his blood while he is too weak
+    to remove them.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: pragmatic refuser of relief
+  assigned_to:
+  - fig:3
+  basis: The Fox refuses removal of the full flies because a hungry replacement swarm
+    would be worse.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: smart coat
+  literal_form: The Leopard's coat, described as smart and used in a claim of beauty.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wits
+  literal_form: The Fox's wits, described by him as smarter than the Leopard's coat.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: rapid river and current
+  literal_form: A rapid river whose current sweeps the Fox downstream.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: backwater and dry ground
+  literal_form: The backwater and dry ground where the Fox finally escapes the river.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: blood-sucking swarm
+  literal_form: A swarm of horseflies that sucks the Fox's blood.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: remaining blood
+  literal_form: The blood the Fox fears a new hungry swarm would drain completely.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Fox and Leopard dispute over beauty
+  summary: The Fox and Leopard compare their looks; the Leopard appeals to his coat,
+    and the Fox answers by valuing his wits above outward appearance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fox refuses removal of feeding flies
+  summary: After being swept downriver and left weak on dry land, the Fox is fed upon
+    by horseflies; he declines the Hedgehog's offer to remove them because a hungry
+    new swarm would harm him more.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: wit valued above outward display
+  taxonomy_refs:
+  - wisdom
+  basis: The Fox counters the Leopard's appeal to a handsome coat by asserting the
+    superiority of his wits.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage states the contrast between appearance and wits directly,
+    but does not provide an explicit moral in the supplied excerpt.
+- id: motif:2
+  label: choosing a lesser present harm over a greater future harm
+  taxonomy_refs:
+  - wisdom
+  basis: The Fox refuses to have the sated flies driven off because hungry replacements
+    would take more of his remaining blood.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The interpretation rests on the Fox's own practical explanation.
+- id: motif:3
+  label: dangerous river ordeal followed by vulnerability
+  taxonomy_refs: []
+  basis: The Fox is swept down a rapid river, reaches land bruised and exhausted,
+    and becomes unable to defend himself from horseflies.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The river episode functions as setup for the later practical lesson; no
+    broader journey motif is stated.
+- id: motif:4
+  label: offered help refused because it would worsen the situation
+  taxonomy_refs:
+  - wisdom
+  basis: The Hedgehog offers to remove the flies, but the Fox declines because the
+    offered relief would invite a worse swarm.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The fable presents the refusal through the Fox's reasoning; it does not
+    show whether the prediction is fulfilled.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4939-4945
+  quote_or_summary: A Fox and a Leopard argue over their looks; the Leopard cites
+    his smart coat, and the Fox replies that his wits are smarter.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 4947-4953
+  quote_or_summary: A Fox swimming across a rapid river is swept downstream despite
+    struggling, then reaches dry ground from a backwater bruised, exhausted, and unable
+    to move.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 4953-4961
+  quote_or_summary: Horseflies suck the weakened Fox's blood; a Hedgehog offers to
+    brush them away, but the Fox refuses because the current flies are already full
+    and a hungry swarm would drain the blood he has left.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear at the literal level. Motif labels are candidate abstractions
+    from two concise fables and require human review. No comparison claims were added
+    because the supplied passage does not itself support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage text was used; despite the locator label, no data was extracted for fables not present in the supplied passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4939-l4961
+  passage_sha256=e79bfb82e477d19540961331d33a69eec69cd9771251512b9ffae73f31400e0a
+

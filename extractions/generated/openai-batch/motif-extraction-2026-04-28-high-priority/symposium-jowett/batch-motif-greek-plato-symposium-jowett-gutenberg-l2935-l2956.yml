@@ -1,0 +1,410 @@
+---
+record_id: batch.motif.greek-plato-symposium-jowett-gutenberg-l2935-l2956
+source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+passage_locator:
+  label: Symposium / SYMPOSIUM / INTRODUCTION. / SYMPOSIUM; lines 2935-2956
+  start: '2935'
+  end: '2956'
+  translation: Symposium
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A banquet is disrupted by revellers, leading to disorder and heavy drinking.
+    As others leave or sleep, Socrates remains with Aristophanes and Agathon, argues
+    that the same genius belongs to comedy and tragedy, then departs at dawn, bathes
+    at the Lyceum, spends the day as usual, and rests at home in the evening.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Agathon rises to take a place on the couch by Socrates.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A band of revellers enters through an open door and disrupts the order of
+    the banquet.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Confusion follows, and everyone is compelled to drink large quantities of
+    wine.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Eryximachus, Phaedrus, and others leave, while Aristodemus falls asleep.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Aristodemus wakes toward daybreak after hearing cocks crowing.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: At daybreak only Socrates, Aristophanes, and Agathon remain drinking from
+    a large goblet passed around while Socrates speaks.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Socrates argues that the genius of comedy is the same as that of tragedy,
+    and that the true tragic artist is also an artist in comedy.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Aristophanes and then Agathon fall asleep while drowsy and not fully following
+    the argument.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: After laying them to sleep, Socrates rises and departs, followed by Aristodemus.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Socrates bathes at the Lyceum, passes the day as usual, and rests at home
+    in the evening.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Participant at the banquet who remains awake, drinks from the shared
+    goblet, discourses on comedy and tragedy, departs at dawn, bathes at the Lyceum,
+    and later rests at home.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: Agathon
+  description: Participant who rises to sit by Socrates, remains drinking at daybreak,
+    and later falls asleep.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Aristodemus
+  description: Narrating witness who falls asleep, wakes toward daybreak, partly hears
+    Socrates' discourse, and follows Socrates when he departs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:9
+- id: fig:4
+  name_or_label: Aristophanes
+  description: Participant who remains drinking with Socrates and Agathon at daybreak
+    and falls asleep before Agathon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: Eryximachus
+  description: Participant who goes away before the final dawn scene.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Phaedrus
+  description: Participant who goes away before the final dawn scene.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: band of revellers
+  description: Uninvited group that enters through an open door, makes itself at home,
+    and disrupts the banquet order.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: wakeful speaker
+  assigned_to:
+  - fig:1
+  basis: Socrates remains awake, drinks with the remaining guests, and discourses
+    to them before departing.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: role:2
+  label: drowsy interlocutor
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Agathon and Aristophanes remain with Socrates but are drowsy, assent to his
+    argument, and fall asleep.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:3
+  label: sleeping witness
+  assigned_to:
+  - fig:3
+  basis: Aristodemus sleeps, wakes toward daybreak, hears only part of the discourse,
+    and reports what he remembers.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:4
+  label: departing participant
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Eryximachus and Phaedrus are named among those who went away.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: disruptive entrants
+  assigned_to:
+  - fig:7
+  basis: The revellers enter through the open door and spoil the order of the banquet.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: wine
+  literal_form: large quantities of wine
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: large goblet
+  literal_form: large goblet passed round among Socrates, Aristophanes, and Agathon
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: open door
+  literal_form: door left open through which revellers enter
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: crowing cocks
+  literal_form: crowing of cocks toward daybreak
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: bath
+  literal_form: bath taken by Socrates at the Lyceum
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: banquet disrupted by revellers
+  summary: As Agathon moves to sit by Socrates, revellers enter through an open door,
+    disturb the order, and the company is made to drink heavily.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: dawn drinking and discourse
+  summary: After several guests depart or sleep, Socrates, Aristophanes, and Agathon
+    remain at daybreak drinking from a shared goblet while Socrates argues about comedy
+    and tragedy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: sleep and departure
+  summary: Aristophanes and Agathon fall asleep; Socrates departs, followed by Aristodemus,
+    then bathes at the Lyceum and continues his day normally.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: wakeful sage outlasts companions
+  taxonomy_refs:
+  - wisdom
+  basis: Socrates remains awake and reasoning while other participants are drowsy,
+    fall asleep, or leave; he then continues his ordinary day.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The passage presents a philosophical banquet scene rather than an explicit
+    mythic episode; the wisdom motif is inferred from Socrates' wakefulness and discourse.
+- id: motif:2
+  label: disorderly intrusion into ritualized feast
+  taxonomy_refs: []
+  basis: Revellers enter through an open door, spoil the order of the banquet, and
+    cause confusion and heavy drinking.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage describes a social disruption, not an explicitly sacred or
+    mythic feast.
+- id: motif:3
+  label: shared cup at liminal dawn discourse
+  taxonomy_refs: []
+  basis: At daybreak, the remaining three participants drink from a large goblet passed
+    round while Socrates discourses.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: The symbolic or ritual significance of the goblet and dawn is not stated
+    in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2935-2936
+  quote_or_summary: Agathon rises to take his place on the couch by Socrates.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2936-2939
+  quote_or_summary: A band of revellers enters through an open door, finds its way
+    in, and spoils the order of the banquet.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2939-2941
+  quote_or_summary: Confusion follows and everyone is compelled to drink large quantities
+    of wine.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2941-2943
+  quote_or_summary: Aristodemus says Eryximachus, Phaedrus, and others went away,
+    while he himself fell asleep.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2943-2945
+  quote_or_summary: Aristodemus wakes toward daybreak after hearing the crowing of
+    cocks.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 2945-2948
+  quote_or_summary: Only Socrates, Aristophanes, and Agathon remain, drinking from
+    a large goblet passed around while Socrates discourses.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 2948-2952
+  quote_or_summary: Aristodemus partly hears Socrates compelling the other two to
+    acknowledge that comedy and tragedy share the same genius and that a true tragic
+    artist is also an artist in comedy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 2952-2954
+  quote_or_summary: The two interlocutors assent while drowsy; Aristophanes falls
+    asleep first, then Agathon as day is dawning.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 2954-2955
+  quote_or_summary: After laying them to sleep, Socrates rises to depart, and Aristodemus
+    follows him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 2955-2956
+  quote_or_summary: At the Lyceum Socrates takes a bath, passes the day as usual,
+    and rests at home in the evening.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif candidates
+    are cautious because the passage is philosophical narrative rather than explicit
+    myth. No passage-supported external comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata; no external comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-symposium-jowett-gutenberg__l2935-l2956
+  passage_sha256=7290d2650fd5c1c331d46b00ff4a41dd82d23e741e6fa713e16b38be89a96dd4
+

@@ -1,0 +1,421 @@
+---
+record_id: batch.motif.greek-plato-phaedrus-jowett-gutenberg-l2459-l2497
+source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+passage_locator:
+  label: PHAEDRUS / INTRODUCTION. / ON THE DECLINE OF GREEK LITERATURE. / PHAEDRUS;
+    lines 2459-2497
+  start: '2459'
+  end: '2497'
+  translation: Phaedrus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“the initiation of which I speak into the mysteries of true love”"
+  summary: The passage describes lovers as followers or attendants of particular gods.
+    Each lover seeks a beloved whose nature resembles the god served, imitates that
+    god, and tries to educate the beloved into the same likeness. Followers of Zeus
+    seek a philosophical and imperial soul; followers of Here, Apollo, and other gods
+    seek corresponding forms of love. The passage frames inspired love as beneficial
+    to the beloved and as an initiation into the mysteries of true love.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A lover taken as an attendant of Zeus is said to be better able to bear the
+    winged god and endure a heavier burden.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Attendants and companions of Ares, when under the influence of love and imagining
+    themselves wronged, are described as ready to kill and end both themselves and
+    their beloved.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A follower of any god, while unspoiled and retaining the impression, honors
+    and imitates that god in dealings with the beloved and with the rest of the world.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Each person chooses a love from beauty according to character, makes this
+    love his god, and fashions and adorns the love as an image to worship.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Followers of Zeus seek a beloved with a philosophical and imperial soul and
+    try to confirm that nature in him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The followers’ recollection of their god clings to him, and they receive character
+    and disposition from him as far as a human can participate in God.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Followers of Here, Apollo, and every other god seek a love to be made like
+    the god they serve, imitate their god, persuade the beloved to do the same, and
+    educate him into the god’s manner and nature.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The inspired lover’s desire is called fair and blissful for the beloved and
+    is described as an initiation into the mysteries of true love.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: lover attendant of Zeus
+  description: A lover associated with Zeus who can bear the winged god and seeks
+    a beloved with a soul like Zeus.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: attendants and companions of Ares
+  description: Lovers associated with Ares who, under love and perceived injury, are
+    ready to kill and end themselves and the beloved.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: follower of another god
+  description: A follower of any god who honors and imitates that god and behaves
+    after the god’s manner toward the beloved and the world.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: beloved or love
+  description: The person chosen from beauty according to the lover’s character, fashioned
+    and adorned as an image, and educated into likeness with the god honored by the
+    lover.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Zeus
+  description: A god whose followers desire a beloved with a philosophical and imperial
+    soul and whose character and disposition they receive as far as humans can participate
+    in God.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Ares
+  description: A god whose attendants and companions are described in connection with
+    violent reactions under the influence of love.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Here
+  description: A goddess whose followers seek a royal love.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Apollo
+  description: A god whose followers, like those of every other god, seek a love to
+    be made like the god they serve.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Bacchic Nymphs
+  description: Named in a comparison for those who draw inspiration from Zeus and
+    pour out their own fountain upon the beloved.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: winged god
+  description: A divine figure or presence that the lover attendant of Zeus can better
+    bear.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: divine follower or attendant
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage repeatedly describes lovers as attendants, companions, or followers
+    of gods.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: beloved as recipient of divine likeness
+  assigned_to:
+  - fig:4
+  basis: The beloved is selected, adorned as an image, and educated to resemble the
+    god honored by the lover.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:3
+  label: divine exemplar
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:10
+  basis: Named gods serve as models whose followers imitate them or bear their influence.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: inspired lover and educator
+  assigned_to:
+  - fig:1
+  basis: The Zeus-following lover seeks, loves, and confirms a Zeus-like nature in
+    the beloved.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: inspirational comparison figure
+  assigned_to:
+  - fig:9
+  basis: The Bacchic Nymphs are invoked as a comparison for drawing inspiration and
+    pouring it upon the beloved.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: winged god borne as burden
+  literal_form: winged god and heavier burden
+  associated_figures:
+  - fig:1
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: beloved as adorned image
+  literal_form: image which he is to fall down and worship
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: fountain of inspiration
+  literal_form: pour out their own fountain upon him
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: mysteries of true love
+  literal_form: initiation into the mysteries of true love
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Lovers under divine affiliation
+  summary: The passage contrasts lovers associated with Zeus and Ares and then generalizes
+    that followers of any god imitate that god while the divine impression lasts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:10
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Choosing and worship-like fashioning of the beloved
+  summary: Each lover chooses a beloved from beauty according to his own character
+    and treats the beloved as a godlike image to be adorned and worshiped.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Zeus-followers cultivate Zeus-like nature
+  summary: Followers of Zeus seek a philosophical and imperial beloved, cultivate
+    that nature, recollect Zeus, receive character from him, and pour inspiration
+    upon the beloved to make him as like Zeus as possible.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:9
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Education into divine likeness and true-love initiation
+  summary: Followers of Here, Apollo, and every other god seek a beloved corresponding
+    to their god, imitate the god, educate the beloved into the divine nature, and
+    this process is described as an initiation into the mysteries of true love.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: beloved shaped into divine likeness
+  taxonomy_refs:
+  - divine_beloved
+  basis: The beloved is chosen according to the lover’s character, treated as a godlike
+    image, and educated to resemble the god honored by the lover.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is philosophical and erotic rather than a narrative of a divine
+    consort; the taxonomy fit is based on the beloved’s godlike modeling.
+- id: motif:2
+  label: initiation into mysteries of true love
+  taxonomy_refs:
+  - initiation
+  basis: The passage explicitly calls the inspired lover’s process an initiation into
+    the mysteries of true love.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The initiation is described metaphorically or philosophically within an
+    argument about love, not as a ritual sequence.
+- id: motif:3
+  label: divine imitation as acquisition of wisdom and character
+  taxonomy_refs:
+  - wisdom
+  basis: Followers gaze on and recollect their god, receive character and disposition
+    from him, and cultivate corresponding qualities in the beloved.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage emphasizes divine likeness and philosophical nature; the wisdom
+    classification is indirect and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2459-2464
+  quote_or_summary: "“the lover who is taken to be the attendant of Zeus” can bear
+    the winged god; companions of Ares under love are ready “to kill and put an end
+    to themselves and their beloved.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: 2464-2470
+  quote_or_summary: A follower of any other god, while unspoiled and while the impression
+    lasts, honors and imitates that god in dealings with the beloved and the world.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 2470-2474
+  quote_or_summary: Each chooses love according to character and “fashions and adorns
+    as a sort of image which he is to fall down and worship.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: 2474-2481
+  quote_or_summary: Followers of Zeus desire a beloved with a Zeus-like soul, seek
+    someone philosophical and imperial, and try to confirm that nature in him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: 2481-2489
+  quote_or_summary: Their recollection clings to the god; they receive character from
+    him as far as humans can participate in God, and, like Bacchic Nymphs, “pour out
+    their own fountain” on the beloved.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:6
+  type: summary
+  locator: 2489-2495
+  quote_or_summary: Followers of Here seek royal love; followers of Apollo and every
+    other god seek a beloved made like the god served, imitate the god, persuade the
+    beloved to imitate, and educate him into the god’s manner and nature without envy
+    or jealousy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: 2495-2497
+  quote_or_summary: The inspired lover’s desire is “fair and blissful” to the beloved
+    and is called “the initiation ... into the mysteries of true love.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is explicit about divine imitation, shaping the beloved into
+    divine likeness, and initiation into true love. Motif labels are candidate classifications
+    and require human review because the passage is philosophical rather than a conventional
+    mythic episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not establish historical, linguistic, or cross-traditional comparison beyond the candidate motif classifications.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-phaedrus-jowett-gutenberg__l2459-l2497
+  passage_sha256=19a1fc56efde224259e3737e4622a8392e7ffc8b19edb639ef8871824314fa74
+

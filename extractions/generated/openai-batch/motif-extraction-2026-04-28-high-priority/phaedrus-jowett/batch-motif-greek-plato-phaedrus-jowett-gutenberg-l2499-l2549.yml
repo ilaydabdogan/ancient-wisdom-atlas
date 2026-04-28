@@ -1,0 +1,459 @@
+---
+record_id: batch.motif.greek-plato-phaedrus-jowett-gutenberg-l2499-l2549
+source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+passage_locator:
+  label: PHAEDRUS / INTRODUCTION. / ON THE DECLINE OF GREEK LITERATURE. / PHAEDRUS;
+    lines 2499-2549
+  start: '2499'
+  end: '2549'
+  translation: Phaedrus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents the soul as a charioteer with two horses, one obedient
+    and honorable and one unruly and desirous. When the lover sees the beloved, desire
+    pulls the soul forward, while shame, memory of true beauty, and the charioteer's
+    restraint pull it back. After repeated struggle, the unruly horse is punished,
+    tamed, and the lover follows the beloved with modesty and holy fear.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The soul is divided into three parts: two horses and a charioteer.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One horse is described as good, white, honorable, modest, temperate, and responsive
+    to word and admonition rather than the whip.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The other horse is described as crooked, dark-colored, insolent, proud, deaf,
+    and barely responsive to whip and spur.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When the charioteer beholds the vision of love, the obedient horse restrains
+    itself, while the unruly horse forces the company toward the beloved.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The charioteer sees the beloved's flashing beauty and remembers true beauty,
+    associated with Modesty and a holy pedestal.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The charioteer falls back in adoration and pulls the reins, causing both horses
+    to retreat.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The unruly horse repeatedly drags the charioteer and the other horse toward
+    the beloved despite resistance.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: After repeated punishment, the unruly horse becomes tamed and follows the
+    charioteer's will.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: After the horse is tamed, the lover's soul follows the beloved in modesty
+    and holy fear.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: soul
+  description: A soul divided into two horses and a charioteer.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: charioteer
+  description: The directing figure within the divided soul who sees beauty, pulls
+    the reins, and disciplines the unruly horse.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: right-hand horse
+  description: 'The good horse: white, honorable, modest, temperate, and obedient
+    to word and admonition.'
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: unruly horse
+  description: 'The bad horse: crooked, dark, insolent, proud, deaf, and difficult
+    to control; it drags the group toward the beloved until tamed.'
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: beloved
+  description: The beautiful one whom the lover's soul approaches and later follows
+    in modesty and holy fear.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:6
+  name_or_label: true beauty
+  description: A remembered beauty beheld by the charioteer in association with Modesty.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Modesty
+  description: A figure or personified quality in whose company true beauty is beheld.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divided inner being
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly divides each soul into two horses and a charioteer.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: governing restrainer
+  assigned_to:
+  - fig:2
+  basis: The charioteer guides with reins, resists the unruly horse, and enforces
+    restraint.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: obedient modest impulse
+  assigned_to:
+  - fig:3
+  basis: The right-hand horse is obedient, under shame, and refrains from leaping
+    on the beloved.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: unruly desirous impulse
+  assigned_to:
+  - fig:4
+  basis: The other horse is insolent and repeatedly forces the company toward the
+    beloved.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:5
+  label: object of love
+  assigned_to:
+  - fig:5
+  basis: The beloved's beauty draws the lover's soul and becomes the focus of approach
+    and following.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: role:6
+  label: remembered ideal beauty
+  assigned_to:
+  - fig:6
+  basis: The charioteer's memory is carried to true beauty when seeing the beloved.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: attendant of true beauty
+  assigned_to:
+  - fig:7
+  basis: True beauty is beheld in company with Modesty.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: two horses and charioteer
+  literal_form: A charioteer with two horses forming the structure of the soul.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: white obedient horse
+  literal_form: A white right-hand horse guided by word and admonition.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: dark unruly horse
+  literal_form: A dark, crooked horse barely yielding to whip and spur.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: reins, bit, whip, and spur
+  literal_form: Instruments used to restrain, punish, and direct the horses.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: sym:5
+  label: flashing beauty of the beloved
+  literal_form: The beloved's visible beauty that causes the charioteer to remember
+    true beauty.
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: holy pedestal
+  literal_form: An image of true beauty and Modesty placed upon a holy pedestal.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: division and description of the soul-team
+  summary: The speaker explains that each soul consists of a charioteer and two horses,
+    one good and obedient, the other bad and difficult to govern.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: approach compelled by desire
+  summary: The charioteer beholds love; the obedient horse restrains itself, but the
+    unruly horse forces the team toward the beloved.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: vision of beauty and recoil
+  summary: Seeing the beloved's beauty, the charioteer remembers true beauty with
+    Modesty, falls back in adoration, and pulls the horses back with the reins.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: repeated struggle and taming
+  summary: The unruly horse reproaches and drags the others forward repeatedly until
+    the charioteer violently restrains and punishes him; eventually he is tamed.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: modest following of the beloved
+  summary: Once the unruly horse is subdued, the lover's soul follows the beloved
+    in modesty and holy fear.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divided soul in internal conflict
+  taxonomy_refs:
+  - duality
+  basis: The soul is represented as a composite of opposed horses and a charioteer,
+    with one horse obedient and the other unruly.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage gives an allegorical psychological
+    division rather than a mythic pair of external beings.
+- id: motif:2
+  label: beloved as catalyst for recollection of higher beauty
+  taxonomy_refs:
+  - divine_beloved
+  - wisdom
+  basis: The beloved's visible beauty causes the charioteer to remember true beauty,
+    associated with Modesty and holy imagery.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage names the beloved and true beauty but does not explicitly
+    identify the beloved as divine in this excerpt.
+- id: motif:3
+  label: discipline and taming of unruly desire
+  taxonomy_refs:
+  - initiation
+  basis: The unruly horse repeatedly resists control but is eventually punished, humbled,
+    and made to follow the charioteer's will.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage presents moral-psychological discipline; reading it as initiation
+    is interpretive and should be reviewed.
+- id: motif:4
+  label: reverent pursuit after inner transformation
+  taxonomy_refs:
+  - mystical_quest
+  basis: After the inner struggle and taming, the lover's soul follows the beloved
+    in modesty and holy fear.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: low
+  cautions: The excerpt supports pursuit and reverence, but a full quest structure
+    is not explicit in the supplied lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2499-2502
+  quote_or_summary: 'The speaker says each soul is divided into three: two horses
+    and a charioteer.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2503-2509
+  quote_or_summary: The right-hand horse is white, well-formed, honorable, modest,
+    temperate, and guided without the whip.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2509-2514
+  quote_or_summary: The other horse is crooked, dark, insolent, proud, deaf, and hardly
+    yields to whip and spur.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2514-2524
+  quote_or_summary: When the charioteer beholds love, the obedient horse refrains,
+    but the other horse forces the group toward the beloved and the joys of love.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2524-2534
+  quote_or_summary: At the beloved's flashing beauty, the charioteer remembers true
+    beauty with Modesty, falls back in adoration, and pulls the reins so both horses
+    retreat.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 2534-2542
+  quote_or_summary: The unruly horse reproaches the charioteer and fellow horse, then
+    repeatedly fights, neighs, and drags them toward the beloved.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 2542-2548
+  quote_or_summary: The charioteer violently restrains the wild horse, wounds its
+    mouth, forces it down, punishes it, and after several repetitions it becomes tamed
+    and humbled.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: 2548-2549
+  quote_or_summary: '"the soul of the lover follows the beloved in modesty and holy
+    fear."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strongly supported by the passage. Motif labels involving
+    initiation, wisdom, or mystical quest are broader interpretive candidates and
+    need human review. No comparison claims were made because the excerpt itself does
+    not establish cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All observations and motif candidates are based only on the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-phaedrus-jowett-gutenberg__l2499-l2549
+  passage_sha256=02ed3edfb1c49b57199cb3acdd4e1c547eca28efd2c0e59273e615ea1729737f
+

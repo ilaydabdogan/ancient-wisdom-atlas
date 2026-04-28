@@ -1,0 +1,494 @@
+---
+record_id: batch.motif.greek-plato-phaedrus-jowett-gutenberg-l639-l716
+source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+passage_locator:
+  label: Phaedrus / PHAEDRUS / INTRODUCTION.; lines 639-716
+  start: '639'
+  end: '716'
+  translation: Phaedrus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage interprets Platonic love as purified through trial, directed
+    toward God, and capable of transforming two souls into a holy union that continues
+    after apparent death. It then comments on Plato, Socrates, rhetoric, and the forthcoming
+    myth, which is described as a parable-like and partly credible mythus rather than
+    a text for overly minute interpretation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: True love of the mind is said not to exist between two souls until they are
+    purified from earthly passion through trial and conflict, described in religious
+    language as conversion or being born again.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After purification, the two souls are described as seeing the world as heavenly
+    beauty and as being accompanied by a divine idea in their thoughts and actions.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The two are said to acknowledge a higher love of duty and of God that unites
+    them.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The two may marry or live together in holy and innocent friendship after attaining
+    the exalted state.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A figurative image says the two grow wings like doves and are ready to fly
+    away together and be at rest.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: First one and then the other falls asleep, appears to the unwise to die, and
+    the two are reunited in another state of being.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: In the other state of being, the two see justice, holiness, and truth as absolute
+    rather than as imperfect copies found in this world.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The reunited souls converse with blessed souls, serve God, see wonders of
+    earth and heaven, and trace creation to its author.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Socrates condemns both speeches as sinful and blasphemous toward the god Love.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage states that a famous myth follows and calls it a parable-like
+    allegory, warning against too minute an interpretation.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: two souls / two lovers
+  description: A pair whose true love of mind is purified, united by higher love,
+    and later reunited in another state of being.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: God
+  description: The divine figure whose love and service unite the two souls and to
+    whom creation is traced.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:3
+  name_or_label: blessed souls
+  description: Souls everywhere with whom the reunited pair hold converse in the other
+    state of being.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:4
+  name_or_label: Socrates
+  description: The speaker or interpreter who condemns both speeches and whose discourse
+    is later characterized as a partly true and credible mythus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+  - ev:11
+- id: fig:5
+  name_or_label: god Love
+  description: The deity toward whom the two speeches are said to be sinful and blasphemous.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+- id: fig:6
+  name_or_label: Plato
+  description: The authorial figure whose words and thoughts are appropriated and
+    interpreted by analogy in the passage.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:12
+roles:
+- id: role:1
+  label: purified loving pair
+  assigned_to:
+  - fig:1
+  basis: The pair must be purified from earthly passion before true love of mind can
+    exist between them.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: afterlife reunion pair
+  assigned_to:
+  - fig:1
+  basis: The two appear to die and are reunited in another state of being.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: divine unifier and creator
+  assigned_to:
+  - fig:2
+  basis: A higher love of God unites the pair, and creation is traced to its author.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:4
+  label: blessed companions
+  assigned_to:
+  - fig:3
+  basis: The reunited souls converse with blessed souls everywhere.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: condemning and myth-making speaker
+  assigned_to:
+  - fig:4
+  basis: Socrates condemns the speeches and his own discourse is later called a mythus.
+  evidence_refs:
+  - ev:9
+  - ev:11
+- id: role:6
+  label: offended love deity
+  assigned_to:
+  - fig:5
+  basis: The speeches are condemned as blasphemous toward the god Love.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: interpreted philosophical authority
+  assigned_to:
+  - fig:6
+  basis: The passage speaks of appropriating Plato's words and transferring his thoughts
+    into another sphere of religion and feeling.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: wings like doves
+  literal_form: figurative wings like doves
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: fountain of light
+  literal_form: fountain of light
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:13
+- id: sym:3
+  label: another state of being
+  literal_form: post-mortal or other state of being
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:4
+  label: kingdom of love
+  literal_form: another kingdom of love, not of this world, divine and eternal
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:14
+- id: sym:5
+  label: absolute justice, holiness, and truth
+  literal_form: justice, holiness, and truth seen as absolute
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Purification before true love
+  summary: Two souls must pass through trial and conflict and be purified from earthly
+    passion before true love of the mind can exist between them.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Holy union in life
+  summary: The purified pair may marry or live in innocent friendship, serving God
+    and humanity while growing more alike.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:13
+- id: scene:3
+  label: Apparent death and reunion
+  summary: One after the other, the pair appears to die, but they are reunited in
+    another state of being where they perceive absolute virtues and converse with
+    blessed souls.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Condemnation of speeches and introduction of myth
+  summary: Socrates condemns the preceding speeches as blasphemous toward Love and
+    the passage introduces the famous myth as a parable-like mythus not meant for
+    overly minute interpretation.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:14
+candidate_motifs:
+- id: motif:1
+  label: purification through trial before sacred union
+  taxonomy_refs:
+  - initiation
+  basis: The passage describes purification from earthly passion through trial and
+    conflict before true love can exist between two souls.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is interpretive introduction rather than the primary myth
+    narrative.
+- id: motif:2
+  label: conversion or rebirth into transformed love
+  taxonomy_refs:
+  - death_rebirth
+  basis: The pair must be converted or born again before seeing the world transformed
+    into heavenly beauty.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The rebirth language is explicitly framed as religious language used in
+    the introduction, not necessarily a literal narrative event.
+- id: motif:3
+  label: winged ascent toward rest
+  taxonomy_refs:
+  - ascent
+  basis: The passage says figuratively that the two grow wings like doves and are
+    ready to fly away together and be at rest.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The text marks the image as figurative.
+- id: motif:4
+  label: after-death reunion of a purified pair
+  taxonomy_refs: []
+  basis: The two appear to die and are reunited in another state of being where they
+    perceive absolute realities and converse with blessed souls.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No detailed journey map is given, so no afterlife-journey taxonomy reference
+    is assigned.
+- id: motif:5
+  label: vision of absolute truth after purification
+  taxonomy_refs:
+  - wisdom
+  basis: The reunited souls see justice, holiness, and truth as absolute and trace
+    the works of creation to their author.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a philosophical-spiritual vision rather than a discrete mythic
+    adventure episode.
+- id: motif:6
+  label: divine and eternal kingdom of love
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage contrasts worldly love with another kingdom of love that is divine
+    and eternal.
+  evidence_refs:
+  - ev:14
+  confidence: medium
+  cautions: The taxonomy reference is approximate because the passage speaks of divine
+    love as a realm or principle rather than a specific beloved figure.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the coming myth to a parable or allegory
+    in function, stating that it should not receive too minute an interpretation.
+  claim_level: same_function
+  target: parable / allegory as interpretive form
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional comparison about interpretation, not a claim of
+    shared narrative content or historical contact.
+- id: claim:2
+  claim: The passage compares Plato with the Scriptures in allowing many applications
+    when differences of time and manners are considered.
+  claim_level: same_function
+  target: Scriptures as texts admitting broad application
+  evidence_refs:
+  - ev:12
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns interpretive adaptability, not a shared mythic
+    motif or origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 643-647
+  quote_or_summary: True love of the mind cannot exist between two souls until they
+    are purified from earthly passion; they must pass through trial and conflict and
+    be converted or born again.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 647-650
+  quote_or_summary: After this, the world is transformed into heavenly beauty and
+    a divine idea accompanies their thoughts and actions.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: quote
+  locator: lines 653-655
+  quote_or_summary: '"a higher love of duty and of God, which united them"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 658-660
+  quote_or_summary: When the pair reaches the exalted state, they may marry or live
+    together in holy and innocent friendship.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: quote
+  locator: lines 666-668
+  quote_or_summary: '"they grew wings like doves" and were ready to fly away together
+    and rest.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 668-672
+  quote_or_summary: First one and then the other falls asleep, appears to the unwise
+    to die, and they are reunited in another state of being.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary.
+- id: ev:7
+  type: summary
+  locator: lines 672-675
+  quote_or_summary: In that other state they see justice, holiness, and truth not
+    as imperfect worldly copies but as absolutes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary.
+- id: ev:8
+  type: summary
+  locator: lines 675-679
+  quote_or_summary: They converse with blessed souls, serve God, fulfill their own
+    nature, see wonders of earth and heaven, and trace creation to its author.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary.
+- id: ev:9
+  type: summary
+  locator: lines 697-701
+  quote_or_summary: Socrates strongly condemns both speeches as sinful and blasphemous
+    toward the god Love.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary.
+- id: ev:10
+  type: summary
+  locator: lines 711-714
+  quote_or_summary: The famous myth follows, described as a sort of parable; allegories
+    of this kind should not receive too minute an interpretation.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary.
+- id: ev:11
+  type: quote
+  locator: lines 715-716
+  quote_or_summary: '"partly true and tolerably credible mythus"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:12
+  type: summary
+  locator: lines 680-686
+  quote_or_summary: The passage says Plato may be appropriated to the reader's sphere
+    of religion and feeling, and that, like the Scriptures, Plato admits endless applications
+    if differences of times and manners are allowed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary.
+- id: ev:13
+  type: quote
+  locator: lines 655-657
+  quote_or_summary: '"renewing them at the fountain of light"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:14
+  type: quote
+  locator: lines 706-709
+  quote_or_summary: '"another kingdom of love, a kingdom not of this world, divine,
+    eternal"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is from an introduction/commentary and includes a Christianizing
+    paraphrase of Platonic themes before introducing the famous myth; motif extraction
+    is therefore useful but should be reviewed against the main dialogue passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were assigned conservatively and only where the passage evidence supported them.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-phaedrus-jowett-gutenberg__l639-l716
+  passage_sha256=683988b901674681b8e4409ec4c442f1aa6be1d7157db05ebc6b578d3503aa7b
+

@@ -1,0 +1,546 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l3900-l3994
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK VII / RECEPTION OF ULYSSES AT THE PALACE OF KING ALCINOUS. / BOOK VIII
+    / BOOK IX; lines 3900-3994
+  start: '3900'
+  end: '3994'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Odysseus describes a fertile island near the Cyclopes, the night landing
+    of his fleet, a goat hunt and feast, then his decision to take one ship and selected
+    men to investigate the Cyclopes. They find a cliff-side cave used for flocks and
+    dairy stores, belonging to a huge solitary shepherd described as a monster. Odysseus
+    brings powerful wine received from Maron and enters the cave despite his men urging
+    him to steal provisions and leave.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A wooded, fertile island lies near the land of the Cyclopes and is overrun
+    with wild goats.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Cyclopes are described as lacking ships and shipwrights, which prevents
+    them from sailing to the island or between cities.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The island has meadows, watered grass, land suitable for vines and ploughing,
+    a good harbour, a clear spring from a cave, and surrounding poplars.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Odysseus and his ships enter the harbour at night under darkness, mist, and
+    cloud cover, then beach the ships and camp until daybreak.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At dawn the company explores the island, and the nymphs, daughters of Jove,
+    rouse wild goats for them to hunt.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The men hunt goats in three bands, feast through the day, and drink wine taken
+    earlier from the Cicons.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: During the feast the men look toward the nearby Cyclopes' land and see smoke
+    from fires, with voices and animal sounds imagined or heard nearby.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Odysseus calls a council and says he will go with his ship to investigate
+    whether the people are savage or hospitable.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Near the Cyclopes' land, Odysseus and his men see a great cave on a cliff
+    near the sea, overhung with laurels and used for sheep and goats.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The cave's owner is described as a huge monster, a solitary shepherd, an outlaw,
+    and unlike a human being.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Odysseus takes twelve selected men and a goatskin of strong sweet black wine
+    given by Maron, priest of Apollo at Ismarus.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Inside the cave are cheese-racks, lambs, kids, pens, vessels, bowls, milk
+    pails, and whey.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: Odysseus's men urge him to steal cheeses and livestock and leave, but Odysseus
+    refuses because he wants to see the owner and hopes for a present.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Odysseus / Ulysses
+  description: First-person narrator who commands the ships, calls the council, leads
+    the exploratory party, takes Maron's wine, and decides to wait for the cave owner.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:10
+- id: fig:2
+  name_or_label: Odysseus's men / crew
+  description: Companions who sail, camp, hunt goats, feast, accompany Odysseus, and
+    advise taking goods from the cave and leaving.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:10
+- id: fig:3
+  name_or_label: Cyclopes
+  description: Neighboring people described as having no ships or shipwrights; their
+    land is near the island and marked by smoke, voices, and flocks.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:4
+  name_or_label: Nymphs, daughters of Jove
+  description: Divine figures who rouse wild goats so Odysseus's company can hunt
+    them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Cave owner / huge monster
+  description: A huge solitary shepherd whose cliff-side cave contains flocks and
+    dairy stores; he is described as a monster, an outlaw, and unlike a human being.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: fig:6
+  name_or_label: Maron, son of Euanthes
+  description: Priest of Apollo at Ismarus who was spared during the sack of the city
+    and gave Odysseus gold, a silver bowl, and strong wine.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: leader of expedition
+  assigned_to:
+  - fig:1
+  basis: Odysseus commands the men, calls a council, selects a group, and leads the
+    visit to the cave.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:2
+  label: seeker of encounter and guest-gift
+  assigned_to:
+  - fig:1
+  basis: Odysseus says he wants to investigate the people and later refuses to leave
+    because he hopes the owner may give him a present.
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: role:3
+  label: sailing companions and advisers
+  assigned_to:
+  - fig:2
+  basis: The crew sail, hunt, feast, accompany Odysseus, and advise him to take provisions
+    and depart.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:10
+- id: role:4
+  label: shipless neighboring people
+  assigned_to:
+  - fig:3
+  basis: The Cyclopes are described as lacking ships and shipwrights, and their nearby
+    land is observed from the island.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:5
+  label: divine game-rousers
+  assigned_to:
+  - fig:4
+  basis: The nymphs rouse wild goats for the men to hunt.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: monstrous cave-dwelling shepherd
+  assigned_to:
+  - fig:5
+  basis: The cave owner is a huge monster who tends flocks and lives in the cave area.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:7
+  label: solitary outlaw
+  assigned_to:
+  - fig:5
+  basis: The passage states that he has nothing to do with other people and leads
+    the life of an outlaw.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: priestly donor
+  assigned_to:
+  - fig:6
+  basis: Maron is named as priest of Apollo and giver of valuable gifts, including
+    wine.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: fertile island wilderness
+  literal_form: Wooded fertile island with wild goats, meadows, vines, ploughland,
+    and harbour
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: cave
+  literal_form: Clear spring coming from a cave on the island; later, a great cliff-side
+    cave used for flocks
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:9
+- id: sym:3
+  label: clear water spring
+  literal_form: Spring of clear water coming out of a cave at the head of the harbour
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: trees around sacred or inhabited places
+  literal_form: Poplars around the spring; laurels over the cave; pine and oak in
+    the yard wall
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:5
+  label: ships and harbour
+  literal_form: Ships beached in a harbour where anchors and cables are unnecessary
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:6
+  label: goats and flocks
+  literal_form: Wild goats on the island; sheep, goats, lambs, and kids at the cave
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:9
+- id: sym:7
+  label: strong black wine
+  literal_form: Goatskin of sweet black wine from Maron, mixed twenty parts water
+    to one part wine
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: mountain crag image
+  literal_form: The cave owner is compared to a crag standing against the sky on a
+    high mountain
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Description of the island near the Cyclopes
+  summary: The passage describes an uncolonized fertile island full of wild goats,
+    with meadows, harbour, spring, cave, and trees, and explains that the Cyclopes
+    have no ships to reach or settle it.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Night landing and beach camp
+  summary: Odysseus's ships enter the harbour in darkness, mist, and cloud, are beached,
+    and the men camp on shore until dawn.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Goat hunt and feast while watching the Cyclopes' land
+  summary: At dawn the men explore, hunt goats roused by nymphs, eat and drink, and
+    look toward the nearby land of the Cyclopes, seeing smoke and hearing or imagining
+    voices and flocks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Odysseus chooses to investigate the Cyclopes
+  summary: Odysseus calls a council, leaves most men behind, and takes one ship to
+    learn whether the nearby people are savage or hospitable.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Approach to the cave of the monster
+  summary: Odysseus and selected men reach a cliff-side cave with flocks and a walled
+    yard belonging to a huge solitary shepherd described as monstrous and outlaw-like.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Inventory of the cave and refusal to leave
+  summary: The men inspect the cave's cheeses, animals, and dairy vessels; they urge
+    Odysseus to take goods and depart, but he chooses to wait for the owner in hope
+    of receiving a present.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Exploratory departure to test an unknown people
+  taxonomy_refs:
+  - departure
+  basis: Odysseus leaves most of his company behind and goes with one ship to determine
+    whether the nearby people are savage or hospitable.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage gives a local exploratory departure within a larger voyage,
+    not the initial departure of the epic.
+- id: motif:2
+  label: Hospitality test and expected guest-gift
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Odysseus frames the visit as an inquiry into whether the people are hospitable
+    and later waits for the cave owner because he hopes for a present.
+  evidence_refs:
+  - ev:6
+  - ev:10
+  confidence: medium
+  cautions: The broader hospitality motif is implied by Odysseus's stated test and
+    expectation; the actual host-guest encounter lies beyond this passage.
+- id: motif:3
+  label: Cave encounter with a monstrous solitary herdsman
+  taxonomy_refs: []
+  basis: The explorers enter a cave stocked with flocks and dairy goods, belonging
+    to a huge non-human-like owner who lives apart from others.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage sets up the encounter but ends before direct confrontation
+    with the owner.
+- id: motif:4
+  label: Rejected prudent escape counsel
+  taxonomy_refs: []
+  basis: The men propose taking cheeses and livestock and sailing away, but Odysseus
+    refuses to listen and waits for the owner.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The negative consequences are only anticipated in this passage by the
+    statement that the owner later proved difficult.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3900-3917
+  quote_or_summary: A fertile wooded island near the Cyclopes is full of wild goats
+    and remains untilled because the Cyclopes have no ships or shipwrights.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: 3917-3929
+  quote_or_summary: The island has meadows, water, good soil, a harbour needing no
+    anchors, and a clear spring from a cave with poplars around it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: 3930-3940
+  quote_or_summary: The fleet enters at night amid darkness, mist, and clouds, beaches
+    the ships, and camps on the beach until daybreak.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: 3941-3954
+  quote_or_summary: At dawn the men admire and explore the island; nymphs rouse goats;
+    the men hunt in three bands and feast with wine.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: 3954-3961
+  quote_or_summary: While feasting they look toward the Cyclopes' land, see smoke
+    from fires, and perceive or imagine voices and bleating flocks.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: quote
+  locator: 3961-3968
+  quote_or_summary: Odysseus says he will go with his ship to see whether the people
+    are “uncivilised savages, or a hospitable and humane race.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: 3969-3982
+  quote_or_summary: Near the sea they see a great laurel-overhung cave, with sheep
+    and goats, a walled yard, and a huge solitary owner described as a monster and
+    outlaw.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text.
+- id: ev:8
+  type: summary
+  locator: 3983-4002
+  quote_or_summary: Odysseus selects twelve men and takes a goatskin of strong sweet
+    black wine given by Maron, priest of Apollo, after Odysseus spared him and his
+    family.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text.
+- id: ev:9
+  type: summary
+  locator: 4003-4012
+  quote_or_summary: Inside the cave are cheese-racks, lambs and kids separated by
+    age, and dairy vessels full of whey.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text.
+- id: ev:10
+  type: summary
+  locator: 4012-4019
+  quote_or_summary: The men ask to steal cheeses and livestock and return to the ship,
+    but Odysseus refuses because he wants to see the owner and hopes for a present.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are conservative;
+    no cross-tradition comparison claims are made because the passage itself does
+    not supply comparative evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The user-supplied locator ends at line 3994, while the pasted passage continues slightly beyond that range; evidence locators follow the internal sequence of the provided passage and may need reconciliation against canonical markdown line numbers.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l3900-l3994
+  passage_sha256=43b3f1e379fae9a741244ce23faf6ff518490d173aff8568676bab5e97115b1c
+

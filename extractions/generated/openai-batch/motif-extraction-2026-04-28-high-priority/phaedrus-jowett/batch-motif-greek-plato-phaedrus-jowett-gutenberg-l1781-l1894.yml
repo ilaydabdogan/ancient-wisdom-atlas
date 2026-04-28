@@ -1,0 +1,453 @@
+---
+record_id: batch.motif.greek-plato-phaedrus-jowett-gutenberg-l1781-l1894
+source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+passage_locator:
+  label: PHAEDRUS / INTRODUCTION. / ON THE DECLINE OF GREEK LITERATURE. / PHAEDRUS;
+    lines 1781-1894
+  start: '1781'
+  end: '1894'
+  translation: Phaedrus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Phaedrus presses Socrates to outdo Lysias on the lover and non-lover, swearing
+    by a plane-tree that he will withhold future discourses unless Socrates speaks.
+    Socrates agrees, veils his face, invokes the Muses, and begins a tale about a
+    fair youth addressed by a lover pretending to be a non-lover. The embedded speech
+    argues that counsel requires definition, distinguishes two ruling principles in
+    the soul, and defines love as irrational desire overcoming right opinion toward
+    the enjoyment of beauty.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Phaedrus accepts the premise that the lover is more disordered in wits than
+    the non-lover and promises Socrates a beaten-gold statue if Socrates makes a longer
+    and better speech than Lysias.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Phaedrus insists that he and Socrates will not leave the place until Socrates
+    has delivered the speech, noting that they are alone and that he is younger and
+    stronger.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Phaedrus swears by the plane-tree that unless Socrates repeats the discourse
+    before that tree, he will never tell Socrates another discourse.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Socrates says he is conquered and describes himself as a poor lover of discourse
+    who cannot allow himself to be starved.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Socrates says he will veil his face and hurry through the discourse because
+    seeing Phaedrus would make him ashamed and speechless.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Socrates invokes the Muses for help in the tale that Phaedrus desires him
+    to rehearse.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Socrates begins a tale about a very fair youth with many lovers, including
+    one cunning lover who persuaded the youth that he did not love him while actually
+    loving him.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The embedded speaker states that good counsel must begin with knowing and
+    agreeing about what is being discussed, and proposes defining the nature and power
+    of love before judging its advantage or disadvantage.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: 'The embedded speaker describes two guiding and ruling principles in each
+    person: natural desire for pleasure and acquired opinion aspiring after the best;
+    reason-led opinion is called temperance, while reasonless desire that drags toward
+    pleasure is called excess.'
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The embedded speaker defines love as an irrational desire that overcomes right
+    opinion and is led toward enjoyment of beauty, especially personal beauty.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Socrates asks Phaedrus whether he seems inspired, and Phaedrus replies that
+    Socrates has an unusual flow of words.
+  category: speech
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Phaedrus
+  description: Socrates' interlocutor, who presses him to speak, swears by the plane-tree,
+    and responds to the speech.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:11
+- id: fig:2
+  name_or_label: Socrates
+  description: The speaker who resists, then agrees to speak, veils his face, invokes
+    the Muses, and delivers the tale and definition of love.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:10
+  - ev:11
+- id: fig:3
+  name_or_label: Lysias
+  description: A master of speechmaking mentioned as the person whose discourse Socrates
+    is challenged to surpass.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Muses
+  description: Divine figures invoked by Socrates for help in telling the tale.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: fair youth
+  description: A very fair youth in Socrates' tale who has many lovers.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: cunning lover pretending to be a non-lover
+  description: A special cunning lover in the tale who persuades the youth that he
+    does not love him, although he does.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: interlocutor and compeller of speech
+  assigned_to:
+  - fig:1
+  basis: Phaedrus refuses to leave, threatens compulsion, and swears to withhold future
+    discourses unless Socrates speaks.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: reluctant speaker and tale-teller
+  assigned_to:
+  - fig:2
+  basis: Socrates first resists, then agrees, veils his face, invokes the Muses, and
+    begins the tale.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:3
+  label: rival or benchmark speechmaker
+  assigned_to:
+  - fig:3
+  basis: Phaedrus challenges Socrates to make a longer and better speech than Lysias.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: invoked divine helpers of speech
+  assigned_to:
+  - fig:4
+  basis: Socrates calls on the Muses to help him in the tale.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: beloved youth in illustrative tale
+  assigned_to:
+  - fig:5
+  basis: The tale presents a very fair youth with many lovers as the addressee of
+    the argument.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: deceptive lover in illustrative tale
+  assigned_to:
+  - fig:6
+  basis: The tale describes a lover who claims not to love while actually loving and
+    argues that the youth should prefer a non-lover.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: plane-tree oath witness
+  literal_form: plane-tree
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: veiled face before speech
+  literal_form: veil over Socrates' face
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: beaten-gold statue reward
+  literal_form: statue of beaten gold and colossal offerings at Olympia
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: two ruling principles
+  literal_form: natural desire of pleasure and acquired opinion aspiring after the
+    best
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Challenge to surpass Lysias
+  summary: Phaedrus accepts the starting premise and promises a golden statue if Socrates
+    makes a longer and better speech than Lysias.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Compulsion and oath by the plane-tree
+  summary: Phaedrus presses Socrates to speak, says they will not leave, and swears
+    by the plane-tree to withhold future discourses unless Socrates speaks there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Veiling and invocation
+  summary: Socrates agrees to speak, says he will veil his face to avoid shame, and
+    invokes the Muses for help with the tale.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Tale of the fair youth and deceptive lover
+  summary: Socrates introduces a fair youth with many lovers and a cunning lover who
+    pretends to be a non-lover while urging the youth to prefer the non-lover.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Definition of love through inner conflict
+  summary: The embedded speech argues that good counsel requires definition, identifies
+    two ruling principles in the person, and defines love as irrational desire overcoming
+    right opinion toward beauty.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Wisdom through definition before judgment
+  taxonomy_refs:
+  - wisdom
+  basis: The embedded speech says good counsel requires knowing what is being advised
+    about and agreeing first on the nature and power of love before judging its advantage
+    or disadvantage.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is a philosophical argumentative pattern rather than a mythic narrative
+    episode.
+- id: motif:2
+  label: Inner duality of reason and desire
+  taxonomy_refs:
+  - duality
+  basis: The passage presents two ruling principles in each person, one desire for
+    pleasure and the other opinion aspiring to the best, sometimes in harmony and
+    sometimes at war.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The duality is psychological and ethical, not personified as separate
+    mythic beings in this passage.
+- id: motif:3
+  label: Invocation of divine helpers for inspired speech
+  taxonomy_refs: []
+  basis: Socrates calls on the Muses to help him tell the tale, and Phaedrus later
+    says Socrates has an unusual flow of words after Socrates asks whether he seems
+    inspired.
+  evidence_refs:
+  - ev:6
+  - ev:11
+  confidence: medium
+  cautions: The passage contains an invocation and a statement about inspiration,
+    but does not narrate a direct divine appearance or intervention.
+- id: motif:4
+  label: Beloved addressed by disguised lover
+  taxonomy_refs: []
+  basis: The tale describes a fair youth with many lovers and one cunning lover who
+    pretends not to love him while actually loving him and arguing for the non-lover's
+    preference.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is introduced as an illustrative rhetorical tale; no available taxonomy
+    reference directly matches the pattern without overextension.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1781-1787
+  quote_or_summary: Phaedrus allows Socrates to begin from the premise that the lover
+    is more disordered than the non-lover and promises him a beaten-gold statue if
+    he makes a longer and better speech than Lysias.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: 1795-1803
+  quote_or_summary: Phaedrus says they will not leave the place until Socrates has
+    unbosomed himself of the speech, adding that they are alone and that he is stronger
+    and younger, and warning Socrates not to compel violence.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: quote
+  locator: 1814-1819
+  quote_or_summary: '"By this plane-tree I swear, that unless you repeat the discourse
+    here in the face of this very plane-tree, I will never tell you another"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 1820-1827
+  quote_or_summary: Socrates says he is conquered, calls himself a poor lover of discourse,
+    and says he cannot allow himself to be starved after Phaedrus' oath.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: quote
+  locator: 1830-1835
+  quote_or_summary: '"I will veil my face and gallop through the discourse as fast
+    as I can"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: 1838-1844
+  quote_or_summary: Socrates invokes the Muses, asking them to help him in the tale
+    that Phaedrus desires him to rehearse.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary.
+- id: ev:7
+  type: summary
+  locator: 1845-1853
+  quote_or_summary: Socrates begins a tale about a very fair youth with many lovers
+    and a cunning lover who pretended not to love him while actually loving him, and
+    who argued that the youth should accept the non-lover rather than the lover.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary.
+- id: ev:8
+  type: summary
+  locator: 1855-1866
+  quote_or_summary: The embedded speech says good counsel begins with knowing what
+    one is advising about, and proposes defining the nature and power of love before
+    deciding whether love brings advantage or disadvantage.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary.
+- id: ev:9
+  type: summary
+  locator: 1867-1884
+  quote_or_summary: The embedded speech distinguishes natural desire for pleasure
+    from acquired opinion aspiring after the best; when reason-led opinion rules it
+    is temperance, and when reasonless desire rules and drags toward pleasure it is
+    excess.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary.
+- id: ev:10
+  type: summary
+  locator: 1885-1892
+  quote_or_summary: The embedded speech defines love as irrational desire that overcomes
+    right opinion and is led to the enjoyment of beauty, especially personal beauty.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary.
+- id: ev:11
+  type: summary
+  locator: 1893-1894
+  quote_or_summary: Socrates asks whether he seems inspired, and Phaedrus answers
+    that Socrates seems to have a very unusual flow of words.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is primarily philosophical dialogue and rhetorical framing. Motif
+    candidates are limited to patterns directly supported by the passage; no external
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. Taxonomy references were applied only where directly supported: tree, wisdom, and duality.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-phaedrus-jowett-gutenberg__l1781-l1894
+  passage_sha256=4119544950e477f8b272f28b7aa18084b47220bb120427818d129af140b2f795
+

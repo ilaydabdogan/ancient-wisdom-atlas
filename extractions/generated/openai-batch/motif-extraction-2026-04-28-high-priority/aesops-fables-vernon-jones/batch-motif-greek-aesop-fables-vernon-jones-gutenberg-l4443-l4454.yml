@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4443-l4454
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE WASP AND THE SNAKE / THE EAGLE AND THE BEETLE / THE FOWLER AND THE LARK
+    / THE FISHERMAN PIPING; lines 4443-4454
+  start: '4443'
+  end: '4454'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A fisherman tries to lure fish from the sea by playing a flute from a rock,
+    fails, then catches them with a net and remarks that they leap only after he has
+    stopped piping.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A fisherman who can play the flute goes to the seashore with nets and a flute.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: He stands on a projecting rock and plays a tune, expecting the music to make
+    the fish jump out of the sea.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: No fish appear while he is playing.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: He throws down the flute, casts his net into the sea, and catches many fish.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The landed fish leap about on the shore.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The fisherman addresses the fish, saying they would not dance when he piped
+    but now can do nothing else.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Fisherman
+  description: A fisherman who can play the flute and uses nets to catch fish.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: fish
+  description: Fish in the sea that do not appear while the flute is played, are later
+    caught in the net, and leap on the shore.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: unsuccessful musical lure and successful net-catcher
+  assigned_to:
+  - fig:1
+  basis: The fisherman first tries to attract fish by piping, then succeeds by casting
+    his net.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: unresponsive fish later caught
+  assigned_to:
+  - fig:2
+  basis: The fish do not come when the flute is played but are caught and leap on
+    shore afterward.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: flute
+  literal_form: flute used by the fisherman to play music
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: net
+  literal_form: fishing net cast into the sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: sea
+  literal_form: sea from which the fisherman tries to draw and catch fish
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: projecting rock
+  literal_form: rock on the seashore where the fisherman stands
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Attempt to summon fish with music
+  summary: The fisherman goes to the shore with nets and flute, stands on a projecting
+    rock, and plays in expectation that fish will jump from the sea; no fish appear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Netting and rebuke of the fish
+  summary: After the music fails, the fisherman throws down the flute, casts his net,
+    catches many fish, and comments on their leaping after they are landed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: failed magical or musical lure replaced by practical action
+  taxonomy_refs: []
+  basis: The fisherman expects flute music to bring fish out of the sea, but only
+    succeeds when he uses his net.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is a fable rather than an explicit mythic or ritual account;
+    the available taxonomy does not provide a close motif family for this pattern.
+- id: motif:2
+  label: ironic reversal of dancing fish
+  taxonomy_refs: []
+  basis: The fisherman says the fish would not dance when he piped but leap after
+    being caught and landed.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The identification treats the fisherman’s metaphor of dancing as a narrative
+    pattern; it is not marked as a formal motif in the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4443-4446
+  quote_or_summary: A fisherman able to play the flute goes to the seashore with his
+    nets and flute.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4446-4448
+  quote_or_summary: He stands on a projecting rock and plays a tune, thinking the
+    music will bring fish jumping from the sea.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4448-4449
+  quote_or_summary: He plays for some time, but no fish appear.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4449-4451
+  quote_or_summary: He throws down the flute, casts his net into the sea, and makes
+    a large catch of fish.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4451-4452
+  quote_or_summary: After being landed, the fish leap about on the shore.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 4452-4454
+  quote_or_summary: '"You rascals! you wouldn''t dance when I piped: but now I''ve
+    stopped, you can do nothing else!"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal narrative details are clear. Motif labels are descriptive because
+    no close supplied taxonomy family applies.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage was used; the locator label includes multiple fable titles, but the supplied passage text contains only 'THE FISHERMAN PIPING.'
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4443-l4454
+  passage_sha256=142122b284d59e07168896f6950f3cfdd9359c73180b2ec2f190f1ad886c4ba0
+

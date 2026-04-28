@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l5061-l5080
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FOXES AND THE RIVER / THE HORSE AND THE STAG / THE FOX AND THE BRAMBLE
+    / THE FOX AND THE SNAKE; lines 5061-5080
+  start: '5061'
+  end: '5080'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A fox tries to save himself from falling by catching hold of a bramble,
+    is scratched, and complains; the bramble replies that he was foolish to seize
+    something that catches others. In a second fable, a snake crossing a river is
+    swept away, climbs onto a floating bundle of thorns, and is carried downstream;
+    a fox on the bank remarks that the passenger suits the ship.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A fox making his way through a hedge misses his footing and catches at a bramble
+    to avoid falling.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fox is badly scratched by the bramble and complains that he wanted help.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The bramble speaks to the fox and says he was foolish to catch at one who
+    is always catching at others.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A snake crossing a river is carried away by the current.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The snake wriggles onto a floating bundle of thorns and is carried quickly
+    downstream.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A fox sees the snake and thorn bundle from the riverbank and comments that
+    the passenger fits the ship.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Fox in the hedge
+  description: A fox who catches at a bramble to save himself from falling and is
+    scratched.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Bramble
+  description: A bramble that scratches the fox and is given speech in reply to his
+    complaint.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Snake
+  description: A snake swept by a river current who climbs onto a floating bundle
+    of thorns.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Fox on the riverbank
+  description: A fox who observes the snake on the thorn bundle and makes a comment.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: imperiled complainant
+  assigned_to:
+  - fig:1
+  basis: The fox catches at the bramble to save himself from falling, is scratched,
+    and complains.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: injurious helper and respondent
+  assigned_to:
+  - fig:2
+  basis: The bramble is seized for help, scratches the fox, and replies that it is
+    itself always catching others.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: river-borne passenger
+  assigned_to:
+  - fig:3
+  basis: The snake is swept by the river and carried downstream on the thorn bundle.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: observer-commentator
+  assigned_to:
+  - fig:4
+  basis: The fox sees the floating snake from the bank and comments on the match between
+    passenger and ship.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: bramble
+  literal_form: Bramble in a hedge that scratches and catches.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: serpent
+  literal_form: Snake crossing a river and carried by the current.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: water
+  literal_form: River and current carrying the snake downstream.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: bundle of thorns
+  literal_form: Floating bundle of thorns used by the snake as a conveyance.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Fox catches at the bramble
+  summary: A fox loses his footing in a hedge, grasps a bramble for support, is scratched,
+    complains, and is rebuked by the bramble.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Snake carried downstream on thorns
+  summary: A snake swept away while crossing a river climbs onto a floating bundle
+    of thorns and is seen by a fox, who comments that the passenger fits the vessel.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: seeking help from a harmful helper
+  taxonomy_refs: []
+  basis: The fox catches at the bramble for help but is injured by the very object
+    he seizes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a fable-level moral pattern rather than a mythological motif family
+    in the supplied taxonomy.
+- id: motif:2
+  label: dangerous passenger matched with dangerous vessel
+  taxonomy_refs: []
+  basis: The snake is carried downstream on a bundle of thorns, and the fox says the
+    passenger fits the ship.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The label abstracts the fox's remark; no broader comparative claim is
+    made from the passage alone.
+- id: motif:3
+  label: river current carries an animal away
+  taxonomy_refs: []
+  basis: The snake is carried away by the river current while crossing.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The scene includes water and a serpent, but the passage does not develop
+    an explicit mythic water-serpent motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5061-5064
+  quote_or_summary: A fox in a hedge misses his footing and catches at a bramble to
+    save himself from falling.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 5064-5067
+  quote_or_summary: The fox is badly scratched and complains that he wanted the bramble's
+    help and would rather have fallen outright.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: quote
+  locator: lines 5067-5069
+  quote_or_summary: The bramble replies that the fox was foolish to catch at one 'who
+    am myself always catching at others.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 5073-5075
+  quote_or_summary: A snake crossing a river is carried away by the current.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 5075-5077
+  quote_or_summary: The snake wriggles onto a floating bundle of thorns and is carried
+    rapidly downstream.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: quote
+  locator: lines 5077-5080
+  quote_or_summary: A fox on the bank sees it and says, 'the passenger fits the ship!'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    and not asserted as taxonomy matches except for literal symbol references to serpent
+    and water.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a cross-textual or cross-traditional comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l5061-l5080
+  passage_sha256=2bd310ef803f6cb7a1b80e6b9129465f9dac3aa45f820bc61e58b77160233503
+

@@ -1,0 +1,442 @@
+---
+record_id: batch.motif.greek-plato-symposium-jowett-gutenberg-l2763-l2834
+source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+passage_locator:
+  label: Symposium / SYMPOSIUM / INTRODUCTION. / SYMPOSIUM; lines 2763-2834
+  start: '2763'
+  end: '2834'
+  translation: Symposium
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Alcibiades recounts a nighttime attempt to offer himself and his possessions
+    to Socrates in exchange for help in becoming virtuous. Socrates replies ironically
+    by contrasting apparent bodily beauty with true beauty. Alcibiades lies beside
+    Socrates under his cloak, but Socrates remains self-controlled. Alcibiades then
+    describes Socrates' temperance, endurance in war, capacity to withstand hunger,
+    drink, and cold, and his bare-footed marching on ice during the Potidaea expedition.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After the lamp is put out and servants leave, Alcibiades initiates a private
+    conversation with Socrates.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Alcibiades tells Socrates that he is worthy of him and offers all that he
+    and his friends have in hope of assistance in virtue.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Socrates replies by contrasting a beauty in himself, if it exists, with the
+    beauty he sees in Alcibiades, describing the proposed exchange as true beauty
+    for appearance.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Alcibiades interprets his own words as arrows that may have wounded Socrates.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Alcibiades throws his coat around Socrates, lies under Socrates' threadbare
+    cloak during winter, and holds him through the night.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Alcibiades says nothing more happened and that he awoke as from the couch
+    of a father or elder brother.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Alcibiades describes Socrates as temperate, self-restrained, manly, wise,
+    and enduring.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: During the expedition to Potidaea, Alcibiades and Socrates mess together,
+    and Alcibiades observes Socrates sustaining fatigue and going without food better
+    than others.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: At a festival, Socrates can outdrink others if compelled, yet Alcibiades says
+    no one has seen Socrates drunk.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: In severe winter frost, Socrates marches on ice with bare feet and ordinary
+    dress while other soldiers wear heavy clothing and foot coverings.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Alcibiades
+  description: Narrator of the episode, speaker addressing Socrates and the judges
+    of Socrates' virtue.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Socrates
+  description: Recipient of Alcibiades' offer; described as self-restrained, wise,
+    enduring, and physically resilient.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: servants
+  description: Servants who have gone away before the private exchange begins.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: other soldiers
+  description: Soldiers at Potidaea who wear heavy winter clothing and look angrily
+    at Socrates as he marches barefoot on ice.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: first-person narrator
+  assigned_to:
+  - fig:1
+  basis: The passage is Alcibiades' first-person account of his actions, feelings,
+    and observations.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: would-be beloved and petitioner for virtue
+  assigned_to:
+  - fig:1
+  basis: Alcibiades offers himself and his possessions to Socrates for help in virtue.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: teacher or helper in virtue
+  assigned_to:
+  - fig:2
+  basis: Alcibiades says Socrates can help him in the way of virtue better than anyone
+    else.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: self-controlled beloved
+  assigned_to:
+  - fig:2
+  basis: Socrates rejects Alcibiades' solicitation and nothing further happens during
+    the night together.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: enduring soldier
+  assigned_to:
+  - fig:2
+  basis: Socrates is described enduring fatigue, hunger, drink, and severe cold during
+    military circumstances.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:6
+  label: absent attendants
+  assigned_to:
+  - fig:3
+  basis: The servants leave before the private exchange.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: contrasting soldiers
+  assigned_to:
+  - fig:4
+  basis: Other soldiers are contrasted with Socrates' barefoot marching in frost.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: extinguished lamp
+  literal_form: lamp put out before the private conversation
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: exchange of beauty
+  literal_form: beauty for beauty; true beauty in return for appearance; gold in exchange
+    for brass
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: cloak in winter
+  literal_form: threadbare cloak under which Alcibiades lies with Socrates during
+    winter
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: arrows of speech
+  literal_form: words described as arrows that may have wounded Socrates
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: unwounded by steel
+  literal_form: comparison to Ajax not being wounded by steel, extended to Socrates
+    being less woundable by money
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: bare feet on ice
+  literal_form: Socrates' bare feet on ice during severe frost
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: private nighttime offer
+  summary: After the lamp is put out and servants depart, Alcibiades tells Socrates
+    he is willing to grant favors and possessions in exchange for help in virtue.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: night under the cloak
+  summary: Alcibiades embraces Socrates under a cloak through the winter night, but
+    Socrates does not yield to the solicitation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: reflection on rejection and Socrates' self-command
+  summary: Alcibiades reflects on dishonor, failed attraction, and Socrates' temperance,
+    self-restraint, wisdom, and endurance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Potidaea endurance
+  summary: At Potidaea, Alcibiades observes Socrates enduring fatigue, hunger, drink,
+    and cold better than others, including barefoot marching on ice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: wisdom superior to bodily beauty
+  taxonomy_refs:
+  - wisdom
+  basis: Socrates redirects Alcibiades' proposal from physical desirability toward
+    true beauty and improvement in virtue.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage frames this through dialogue and irony rather than an explicit
+    mythic teaching episode.
+- id: motif:2
+  label: sacred or unequal exchange
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The proposed transaction is described as an exchange of beauty for beauty,
+    with Socrates warning that Alcibiades would gain true beauty for mere appearance,
+    like gold for brass.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The exchange is philosophical and erotic rather than explicitly ritual
+    or sacred in the passage.
+- id: motif:3
+  label: temptation resisted by self-restraint
+  taxonomy_refs:
+  - initiation
+  basis: Alcibiades attempts to captivate Socrates, but Socrates remains superior
+    to the solicitation, and Alcibiades awakens as from the couch of a father or elder
+    brother.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy does not include a direct temptation or chastity
+    motif; initiation is only approximate because the passage concerns moral testing
+    and self-mastery.
+- id: motif:4
+  label: ascetic endurance of the wise man
+  taxonomy_refs:
+  - wisdom
+  basis: Socrates is described as surpassing others in endurance of hunger, drink,
+    cold, and military hardship.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is an encomiastic character portrait within a philosophical dialogue,
+    not a full narrative of ascetic initiation.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the proposed exchange between Alcibiades
+    and Socrates to Diomede receiving gold in exchange for brass.
+  claim_level: same_function
+  target: Diomede gold-for-brass exchange allusion
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only the allusive comparison and does not narrate
+    the Diomede episode.
+- id: claim:2
+  claim: The passage explicitly compares Socrates' resistance to money with Ajax not
+    being wounded by steel.
+  claim_level: same_function
+  target: Ajax unwounded by steel allusion
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is a brief analogy in Alcibiades' speech, not a developed
+    shared motif narrative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2763-2778
+  quote_or_summary: After the lamp is put out and servants leave, Alcibiades wakes
+    Socrates and says he is willing to offer favors, himself, and his friends' possessions
+    so Socrates may help him become virtuous.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2779-2791
+  quote_or_summary: Socrates replies ironically that if Alcibiades sees in him a higher
+    beauty, the proposed sharing would let Alcibiades gain true beauty for appearance,
+    like Diomede receiving gold for brass, and warns him to look again.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2792-2805
+  quote_or_summary: Alcibiades thinks his words have wounded Socrates like arrows,
+    wraps his coat around him, lies under Socrates' threadbare cloak in winter, and
+    says nothing more happened before he awoke as from the couch of a father or elder
+    brother.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2806-2816
+  quote_or_summary: Alcibiades reflects on rejection and says he wondered at Socrates'
+    temperance, self-restraint, manliness, wisdom, and endurance; he compares Socrates'
+    resistance to money to Ajax being unwounded by steel.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2817-2824
+  quote_or_summary: Before and during the Potidaea expedition, Alcibiades and Socrates
+    mess together; Alcibiades observes Socrates' extraordinary ability to sustain
+    fatigue and go without food when supplies are cut off.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 2824-2828
+  quote_or_summary: At a festival Socrates has great powers of enjoyment and can outdrink
+    everyone if compelled, but Alcibiades says no human being has seen Socrates drunk.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 2828-2834
+  quote_or_summary: In severe winter frost, while others wear heavy clothes and foot
+    coverings, Socrates marches on ice with bare feet and ordinary dress better than
+    shod soldiers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction uses only the supplied passage. Motif candidates are strongest
+    where the passage explicitly emphasizes wisdom, exchange, self-restraint, and
+    endurance; taxonomy matches are approximate for some items.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy symbol exactly matches the passage's lamp, cloak, arrows, steel, or ice imagery, so symbol taxonomy references are left empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-symposium-jowett-gutenberg__l2763-l2834
+  passage_sha256=7adf85b65b58008419fdac3f70876b4ea0f57346c07ca1d659903ec63443b274
+

@@ -1,0 +1,397 @@
+---
+record_id: batch.motif.greek-plato-phaedrus-jowett-gutenberg-l3781-l3808
+source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+passage_locator:
+  label: PHAEDRUS / INTRODUCTION. / ON THE DECLINE OF GREEK LITERATURE. / PHAEDRUS;
+    lines 3781-3808
+  start: '3781'
+  end: '3808'
+  translation: Phaedrus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Socrates praises Isocrates as gifted, philosophically inclined, and divinely
+    inspired toward higher things. Phaedrus proposes departure as the heat lessens.
+    Socrates suggests praying to the local deities, addresses Pan and the other gods
+    of the place, asks for inward beauty, harmony between outward and inward self,
+    wisdom-valuing wealth, and only such gold as a temperate man can bear. Phaedrus
+    asks to share the prayer because friends should have things in common, and Socrates
+    says they should go.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Socrates says Isocrates has a genius above the orations of Lysias, will improve
+    with age, and contains an element of philosophy.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Socrates says a divine inspiration will lead Isocrates to higher things.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Socrates identifies his message about Isocrates as the message of the gods
+    dwelling in the place.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Phaedrus suggests departing because the heat has abated.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Socrates proposes offering a prayer to the local deities before departure.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Socrates prays to Pan and the other gods who haunt the place.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Socrates asks for beauty in the inward soul and unity between outward and
+    inward man.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Socrates asks to consider the wise wealthy and to possess only as much gold
+    as a temperate man can bear and carry.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Phaedrus asks for the same prayer for himself, saying friends should have
+    all things in common.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Socrates concludes with an instruction to go.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Speaker who praises Isocrates, invokes local deities, prays to Pan
+    and the other gods, and concludes the departure.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: Phaedrus
+  description: Speaker who proposes departure and asks that Socrates' prayer also
+    apply to him because friends should have things in common.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:3
+  name_or_label: Isocrates
+  description: Person described by Socrates as gifted, likely to improve, philosophically
+    inclined, and divinely inspired toward higher things.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Lysias
+  description: Person contrasted with Isocrates and associated by Socrates with Phaedrus.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Pan
+  description: Deity addressed by Socrates as beloved Pan.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: local deities / other gods who haunt this place
+  description: Deities of the place to whom Socrates says a prayer should be offered
+    and whom he addresses together with Pan.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: speaker-prayer-maker
+  assigned_to:
+  - fig:1
+  basis: Socrates proposes prayer and speaks the prayer to Pan and the gods of the
+    place.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: message-bearer
+  assigned_to:
+  - fig:1
+  basis: Socrates says he will deliver the message of the gods dwelling in the place
+    to Isocrates.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: companion-friend
+  assigned_to:
+  - fig:2
+  basis: Phaedrus responds to Socrates and asks to share the prayer because friends
+    should have all things in common.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: inspired-future-philosopher
+  assigned_to:
+  - fig:3
+  basis: Isocrates is described as having philosophy in his nature and divine inspiration
+    leading him higher.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: local divine recipient
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Pan and the other gods who haunt the place are addressed in prayer.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: local deities of place
+  literal_form: Pan and all other gods who haunt this place
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: inward soul beauty
+  literal_form: beauty in the inward soul
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: outward and inward unity
+  literal_form: the outward and inward man be at one
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: temperate gold
+  literal_form: such a quantity of gold as a temperate man and he only can bear and
+    carry
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: divine inspiration
+  literal_form: divine inspiration leading Isocrates to things higher still
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Prediction about Isocrates
+  summary: Socrates predicts that Isocrates will surpass earlier rhetoricians, has
+    philosophy in his nature, and is led by divine inspiration toward higher things.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Prayer before departure
+  summary: After Phaedrus proposes departure, Socrates calls for a prayer to the local
+    deities and prays to Pan and the other gods for inward beauty, inner-outer unity,
+    wise wealth, and temperate possession of gold.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Shared prayer and departure
+  summary: Phaedrus asks that the same prayer be granted to him because friends should
+    share things in common, and Socrates says to go.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Prayer to local deities before departure
+  taxonomy_refs: []
+  basis: Socrates says a prayer should be offered to the local deities before leaving
+    and addresses Pan and the other gods of the place.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level ritual action rather than a full mythic narrative.
+- id: motif:2
+  label: Divine inspiration leading a human to higher pursuits
+  taxonomy_refs:
+  - wisdom
+  - ascent
+  basis: Socrates says Isocrates has divine inspiration that will lead him to higher
+    things and an element of philosophy in his nature.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The language is evaluative and philosophical; the passage does not narrate
+    an actual ascent or divine encounter.
+- id: motif:3
+  label: Inner and outer harmony sought through prayer
+  taxonomy_refs:
+  - wisdom
+  - duality
+  basis: Socrates prays for beauty in the inward soul and for the outward and inward
+    man to be at one.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The motif is ethical-philosophical rather than a developed mythic episode.
+- id: motif:4
+  label: Temperance over material wealth
+  taxonomy_refs:
+  - wisdom
+  basis: Socrates prays to reckon the wise wealthy and to have only as much gold as
+    a temperate man can bear and carry.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a moral-prayer motif, not a narrative myth.
+- id: motif:5
+  label: Sharing a blessing among friends
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Phaedrus asks for the same prayer for himself, stating that friends should
+    have all things in common.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The sharing is requested verbally; no exchange or divine response is narrated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3781-3788
+  quote_or_summary: Socrates says Isocrates has genius above Lysias' orations, will
+    improve with age, will surpass former rhetoricians, will not be satisfied with
+    rhetoric, has divine inspiration leading him higher, and has philosophy in his
+    nature.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 3788-3791
+  quote_or_summary: Socrates says this is the message of the gods dwelling in the
+    place and that he will deliver it to Isocrates, while Phaedrus is to give another
+    message to Lysias.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: quote
+  locator: 3792-3793
+  quote_or_summary: "“now as the heat is abated let us depart.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source.
+- id: ev:4
+  type: quote
+  locator: 3794-3795
+  quote_or_summary: "“Should we not offer up a prayer first of all to the local deities?”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source.
+- id: ev:5
+  type: quote
+  locator: 3798-3801
+  quote_or_summary: "“Beloved Pan, and all ye other gods who haunt this place, give
+    me beauty in the inward soul; and may the outward and inward man be at one.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source.
+- id: ev:6
+  type: quote
+  locator: 3801-3804
+  quote_or_summary: "“May I reckon the wise to be the wealthy, and may I have such
+    a quantity of gold as a temperate man and he only can bear and carry.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source.
+- id: ev:7
+  type: quote
+  locator: 3806-3807
+  quote_or_summary: "“Ask the same for me, for friends should have all things in common.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source.
+- id: ev:8
+  type: quote
+  locator: '3808'
+  quote_or_summary: "“Let us go.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear dialogue with a prayer and ethical themes. Motif candidates
+    are mainly philosophical and ritual rather than developed mythic narrative. No
+    comparison claims were added because the passage does not itself support a comparison
+    to another tradition or motif family beyond available taxonomy tagging.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata; taxonomy references limited to supplied available motif families.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-phaedrus-jowett-gutenberg__l3781-l3808
+  passage_sha256=b542f0ded963f67a2decbf7b9bedfac54b48eab32e1de8a4de665b4eade61eda
+

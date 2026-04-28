@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l5166-l5175
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MAN WHO LOST HIS SPADE / THE PARTRIDGE AND THE FOWLER / THE RUNAWAY SLAVE
+    / THE HUNTER AND THE WOODMAN; lines 5166-5175
+  start: '5166'
+  end: '5175'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A hunter in a forest asks a woodman whether he has seen lion tracks or
+    knows the lion's den. The woodman offers to show him the lion itself. The hunter
+    becomes visibly frightened and says he only wants the tracks, not the lion.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hunter searches in the forest for the tracks of a lion.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A woodman is felling a tree in the forest.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The hunter asks whether the woodman has noticed lion footprints or knows where
+    the lion's den is.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The woodman offers to show the hunter the lion itself.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The hunter turns pale, his teeth chatter, and he says he is looking only for
+    the lion's tracks, not the lion.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hunter
+  description: A hunter searching for a lion's tracks who becomes frightened when
+    offered a direct encounter with the lion.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Woodman
+  description: A woodman felling a tree who offers to show the hunter the lion itself.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Lion
+  description: A lion whose tracks, footprints, den, and possible direct presence
+    are discussed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: fearful seeker
+  assigned_to:
+  - fig:1
+  basis: The hunter searches for signs of the lion but reacts with fear when offered
+    the lion itself.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: guide or informant
+  assigned_to:
+  - fig:2
+  basis: The woodman is asked for information and offers to show the hunter the lion.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: sought animal
+  assigned_to:
+  - fig:3
+  basis: The lion is the object of the hunter's search through tracks, footprints,
+    den, and direct sight.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: forest
+  literal_form: forest
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: lion tracks
+  literal_form: tracks or footprints of a lion
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: lion's den
+  literal_form: den of the lion
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: tree being felled
+  literal_form: tree
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Search for lion signs in the forest
+  summary: The hunter searches in the forest for lion tracks and approaches a woodman
+    who is felling a tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Offer of direct encounter and fearful refusal
+  summary: The hunter asks about lion footprints or the lion's den; the woodman offers
+    to show the lion itself, and the hunter fearfully declines, saying he wants only
+    the tracks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: seeker wanting signs but not the dangerous object itself
+  taxonomy_refs:
+  - wisdom
+  basis: The hunter claims to seek the lion through its tracks and den, but refuses
+    when offered direct access to the lion.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy has no exact fable-specific motif for cowardice
+    or empty bravado; the wisdom label is broad.
+- id: motif:2
+  label: fear exposed by fulfillment of request
+  taxonomy_refs:
+  - wisdom
+  basis: The woodman's offer to satisfy the hunter's inquiry reveals that the hunter
+    does not want an actual encounter with the lion.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is an interpretive motif candidate derived from the fable's action;
+    no explicit moral is included in the provided passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5166-5175
+  quote_or_summary: A hunter searches in the forest for the tracks of a lion.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5166-5175
+  quote_or_summary: The hunter sees a woodman felling a tree in the forest.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5166-5175
+  quote_or_summary: The hunter asks the woodman whether he has seen lion footprints
+    nearby or knows where the lion's den is.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 5166-5175
+  quote_or_summary: "“If you will come with me, I will show you the lion himself.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 5166-5175
+  quote_or_summary: The hunter turns pale, his teeth chatter, and he replies that
+    he is looking only for the lion's tracks, not the lion.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and clear. Motif labeling is somewhat interpretive because
+    the supplied taxonomy does not include an exact fable motif for cowardice or boastful
+    fear.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage text was used; although the locator label names multiple fables, the supplied passage contains only “THE HUNTER AND THE WOODMAN.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l5166-l5175
+  passage_sha256=81e266cbc87f2730b6e59bae8c93e10b0814b0dc937dfda01e85e42a596245e4
+

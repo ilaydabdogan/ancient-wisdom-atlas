@@ -1,0 +1,512 @@
+---
+record_id: batch.motif.greek-plato-phaedrus-jowett-gutenberg-l1987-l2094
+source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+passage_locator:
+  label: PHAEDRUS / INTRODUCTION. / ON THE DECLINE OF GREEK LITERATURE. / PHAEDRUS;
+    lines 1987-2094
+  start: '1987'
+  end: '2094'
+  translation: Phaedrus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“As wolves love lambs so lovers love their loves.”"
+  summary: Socrates concludes a denunciation of the lover as harmful and predatory,
+    then prepares to cross the river. Phaedrus asks him to remain until the midday
+    heat passes. Socrates reports that his usual divine sign has forbidden him to
+    leave before atoning for impious speeches against Love. He argues that Eros is
+    a god, son of Aphrodite, and therefore cannot be evil, and invokes Stesichorus
+    as an example of purgation through recantation after reviling Helen.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The lover is described as becoming a perfidious enemy when his love ceases,
+    with wisdom and temperance replacing love and infatuation as his ruling masters.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lover changes from pursuit to flight, while the beloved is compelled to
+    follow with passion and imprecation.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The lover’s affection is compared to wolves loving lambs.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Socrates says he has been overtaken by the Nymphs and proposes to cross the
+    river and go home.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Phaedrus notes that it is almost noon and that the midday sun stands in the
+    meridian, and asks Socrates to stay and talk.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Socrates reports that his usual sign forbade him to cross the stream and that
+    he heard a voice saying he had been guilty of impiety and must atone before leaving.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Socrates identifies Eros as the son of Aphrodite and a god, and infers that
+    Love, being divine, cannot be evil.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Socrates recalls Stesichorus, who lost his eyes as a penalty for reviling
+    Helen and then purged himself through a recantation.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Speaker who has just censured the lover, proposes to cross the river,
+    receives the forbidding sign, and decides that atonement is needed.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Phaedrus
+  description: Interlocutor who asks Socrates to continue, urges him to remain until
+    the heat passes, and responds to Socrates’ claims about Eros.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: the lover
+  description: A demented lover described as faithless, morose, envious, disagreeable,
+    harmful, and predatory toward the beloved.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: the beloved
+  description: The one formerly courted by the lover, later pursuing him with passion
+    and imprecation after the lover flees.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: the Nymphs
+  description: Supernatural beings whom Socrates says have overtaken him after Phaedrus
+    exposed him to them.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Eros
+  description: Named as son of Aphrodite and as a god; Socrates says Love, being divine,
+    cannot be evil.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Aphrodite
+  description: Named as the mother of Eros.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Stesichorus
+  description: Cited as the one who understood the reason for his blindness and purged
+    himself by recanting his error about Helen.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: Helen
+  description: The lovely Helen whom Stesichorus had reviled, leading to the penalty
+    of blindness in Socrates’ account.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: speaker seeking atonement
+  assigned_to:
+  - fig:1
+  basis: Socrates says he must not go away until he has made an atonement for impiety.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: recipient of forbidding sign
+  assigned_to:
+  - fig:1
+  basis: Socrates reports that his usual sign forbade the action he was about to take.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: interlocutor delaying departure
+  assigned_to:
+  - fig:2
+  basis: Phaedrus asks Socrates not to leave until the heat of the day has passed.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: harmful and predatory lover
+  assigned_to:
+  - fig:3
+  basis: The lover is called faithless and harmful and is compared to a wolf loving
+    a lamb.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: pursuing beloved after reversal
+  assigned_to:
+  - fig:4
+  basis: After the lover changes pursuit into flight, the other is compelled to follow
+    him.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: supernatural influence
+  assigned_to:
+  - fig:5
+  basis: Socrates says he is overtaken by the Nymphs.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: divine Love
+  assigned_to:
+  - fig:6
+  basis: Eros is called the son of Aphrodite and a god, and Love is described as a
+    divinity.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: divine parent
+  assigned_to:
+  - fig:7
+  basis: Aphrodite is identified as the mother of Eros.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: recanting poet
+  assigned_to:
+  - fig:8
+  basis: Stesichorus is said to have purged himself with a recantation after losing
+    his eyes.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: reviled woman in mythological error
+  assigned_to:
+  - fig:9
+  basis: Helen is the person whom Stesichorus reviled before receiving the penalty
+    of blindness.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: oyster-shell reversal
+  literal_form: An oyster-shell whose dark or light side determines fleeing or pursuing
+    in a game.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: wolf and lamb simile
+  literal_form: Wolves loving lambs as an image for lovers loving their loves.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: river crossing
+  literal_form: The stream or river Socrates is about to cross before being stopped.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: midday sun
+  literal_form: The sun standing almost at noon in the meridian.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: forbidding sign and voice
+  literal_form: Socrates’ usual sign and a voice in his ear forbidding departure before
+    atonement.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: purgation by recantation
+  literal_form: A corrective recantation after mythological error.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: blindness penalty
+  literal_form: Loss of eyes inflicted on Stesichorus after reviling Helen.
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Denunciation of the lover
+  summary: The lover is described as changing from infatuated pursuer to faithless
+    fugitive and as harmful to the beloved’s estate, body, and mind.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Delay by the river at noon
+  summary: Socrates says he will cross the river and go home, but Phaedrus asks him
+    to stay until the midday heat has passed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: The forbidding sign
+  summary: As Socrates is about to cross the stream, his usual sign and a voice forbid
+    him to leave before atoning for impiety.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Recognition that Love is divine
+  summary: Socrates identifies Eros as son of Aphrodite and a god, and states that
+    Love cannot be evil if divine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Stesichorus as model of purgation
+  summary: Socrates invokes Stesichorus, who was blinded for reviling Helen and purified
+    himself by a recantation.
+  figure_refs:
+  - fig:1
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: pursuer becomes fugitive
+  taxonomy_refs: []
+  basis: The lover’s pursuit turns into flight, while the beloved is compelled to
+    follow.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a rhetorical relationship pattern in the speech, not an independent
+    mythic episode.
+- id: motif:2
+  label: predatory love as wolf toward lamb
+  taxonomy_refs: []
+  basis: The passage explicitly compares lovers’ love to wolves loving lambs.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The motif is expressed as a simile rather than a narrated event.
+- id: motif:3
+  label: divine sign forbids departure until atonement
+  taxonomy_refs:
+  - divine_judgment
+  basis: Socrates’ sign forbids him to cross the stream, and a voice says he has committed
+    impiety and must atone before leaving.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage presents prevention and required atonement, but does not narrate
+    formal divine judgment by a named deity.
+- id: motif:4
+  label: purgation of mythological error by recantation
+  taxonomy_refs:
+  - wisdom
+  basis: Socrates invokes an ancient purgation in which Stesichorus corrected his
+    error about Helen through recantation.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The taxonomy reference to wisdom is broad; the passage’s direct emphasis
+    is on correction, religious purification, and recantation.
+- id: motif:5
+  label: divinity of Love prevents calling Love evil
+  taxonomy_refs: []
+  basis: Socrates argues that Eros is a god and that Love, being divine, cannot be
+    evil.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is a theological argument within dialogue rather than a narrated
+    mythic action.
+comparison_claims:
+- id: claim:1
+  claim: Socrates explicitly treats Stesichorus’ recantation after reviling Helen
+    as a functional precedent for his own need to atone for impious speech about Love.
+  claim_level: same_function
+  target: Stesichorus’ purgation by recantation after mythological error
+  evidence_refs:
+  - ev:6
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is made within Socrates’ argument; the passage does
+    not provide an external historical analysis of the Stesichorus tradition.
+- id: claim:2
+  claim: The lover-beloved relation is explicitly likened to a predator-prey pattern
+    through the wolf and lamb simile.
+  claim_level: same_function
+  target: predator-prey image of wolf and lamb
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is a brief rhetorical simile, not a full narrative parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1987-2002
+  quote_or_summary: When love ceases, the lover becomes perfidious; love and infatuation
+    are replaced by wisdom and temperance, and he avoids fulfilling prior oaths and
+    promises.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 2003-2015
+  quote_or_summary: 'The oyster-shell has fallen the other way: the lover changes
+    pursuit into flight, while the other follows with passion and imprecation; the
+    lover is described as faithless and harmful.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 2018-2020
+  quote_or_summary: "“As wolves love lambs so lovers love their loves.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 2028-2037
+  quote_or_summary: Socrates says he has been overtaken by the Nymphs and will cross
+    the river and go home before something worse is inflicted by Phaedrus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 2038-2043
+  quote_or_summary: Phaedrus asks Socrates not to leave yet, noting the near-noon
+    heat and the midday sun in the meridian, and proposes that they stay and talk.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 2053-2067
+  quote_or_summary: Socrates says that as he was about to cross the stream his usual
+    sign forbade him, and he heard a voice say he had committed impiety and must atone
+    before going away.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 2076-2085
+  quote_or_summary: Socrates asks whether Eros is the son of Aphrodite and a god;
+    he then states that if Love is a divinity, Love cannot be evil.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 2086-2094
+  quote_or_summary: Socrates says he needs a purgation and recalls Stesichorus, who
+    lost his eyes as penalty for reviling Helen and then purged himself with a recantation
+    denying that Helen went to Troy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is explicit about the divine sign, atonement, Eros’ divinity,
+    and Stesichorus’ recantation. Motif taxonomy mappings are cautious because the
+    available taxonomy is broad and the passage is philosophical dialogue with embedded
+    mythological references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Literal observations are separated from motif and comparison interpretations.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-phaedrus-jowett-gutenberg__l1987-l2094
+  passage_sha256=db6449af1daf5c0740088d5c99bf3c790c7b079712bedd5d813a5181dc69361c
+

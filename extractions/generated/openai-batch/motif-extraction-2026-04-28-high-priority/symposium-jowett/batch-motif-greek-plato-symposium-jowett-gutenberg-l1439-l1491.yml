@@ -1,0 +1,475 @@
+---
+record_id: batch.motif.greek-plato-symposium-jowett-gutenberg-l1439-l1491
+source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+passage_locator:
+  label: Symposium / SYMPOSIUM / INTRODUCTION. / SYMPOSIUM; lines 1439-1491
+  start: '1439'
+  end: '1491'
+  translation: Symposium
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Athenian customs around lover and beloved: lovers
+    are permitted socially unusual acts, including supplication and oath-breaking,
+    yet families and peers may also treat such relations as disgraceful. It distinguishes
+    honourable from dishonourable love, contrasting the unstable lover of the body
+    with the lifelong lover of noble disposition, and presents time, contests, and
+    trials as tests distinguishing good and bad lovers and beloveds. Honourable attachment
+    is finally tied to virtue and virtuous service.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A lover is described as socially permitted to pray, entreat, supplicate, swear,
+    lie at the door on a mat, and endure extreme servitude in pursuit of love.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that a lover may swear and forswear himself and that the
+    gods forgive this transgression because there is said to be no lover's oath.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage contrasts public praise of love with parental, tutorial, peer,
+    and elder restrictions or reproaches concerning sons and lovers.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that honour or dishonour depends on whether the practice
+    is followed honourably or dishonourably.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The vulgar lover is said to love the body rather than the soul and to depart
+    when the bloom of youth is over.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The love of noble disposition is described as lifelong and joined to what
+    is everlasting.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Custom is said to encourage some to pursue and others to flee, testing lover
+    and beloved through contests and trials until their classes are shown.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Hasty attachment is called dishonourable because time is presented as the
+    true test.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Attachment motivated by money, wealth, or political power is described as
+    dishonourable and non-lasting.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The only honourable way of attachment allowed in the beloved is identified
+    as the way of virtue and virtuous voluntary service.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: lover
+  description: A person pursuing love, socially allowed unusual acts such as supplication,
+    oath-making, and service.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: fig:2
+  name_or_label: beloved
+  description: The person to whom the lover is attached, expected to distinguish between
+    sorts of lovers and to offer only virtuous service.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: fig:3
+  name_or_label: parents
+  description: Parents who forbid their sons to talk with their lovers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: tutor
+  description: A tutor appointed to watch over sons in connection with lovers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: companions and equals
+  description: Peers who reproach or cast accusations when they observe such relations.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: elders
+  description: Elders who do not silence or rebuke the reprovers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: gods and men
+  description: Authorities said to have allowed broad liberty to the lover according
+    to local custom.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: vulgar lover
+  description: A lover who loves the body rather than the soul and leaves when youth
+    fades.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: lover of noble disposition
+  description: A lover whose love is lifelong and associated with what is everlasting.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: permitted supplicant and pursuer
+  assigned_to:
+  - fig:1
+  basis: The lover is allowed supplication, oaths, lying at the door, and service
+    in pursuit of love.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: recipient of attachment and service
+  assigned_to:
+  - fig:2
+  basis: The beloved is the one to whom attachment is directed and may offer voluntary
+    service only in a virtuous way.
+  evidence_refs:
+  - ev:10
+- id: role:3
+  label: guardian or supervisor
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Parents forbid contact, and a tutor is appointed to observe these matters.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: social reprover or non-intervening elder
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Companions and equals reproach observed conduct, while elders do not silence
+    the reprovers.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: tested participant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Custom tests both lover and beloved through contests and trials.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: sanctioning authorities
+  assigned_to:
+  - fig:7
+  basis: The passage says gods and men allow liberty to the lover and that gods forgive
+    the lover's oath-breaking.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: unstable bodily lover
+  assigned_to:
+  - fig:8
+  basis: The vulgar lover loves the body rather than the soul and departs when youth
+    fades.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: lifelong lover of noble disposition
+  assigned_to:
+  - fig:9
+  basis: This lover's love is described as lifelong and united with the everlasting.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: lover's oath
+  literal_form: oath sworn or forsworn by a lover
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: mat at the door
+  literal_form: mat at the beloved's door where the lover lies
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: bloom of youth
+  literal_form: bloom of youth desired by the vulgar lover
+  associated_figures:
+  - fig:2
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: taking wing and flying away
+  literal_form: image of the vulgar lover taking wing and flying away
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: contests and trials
+  literal_form: tests by contests and trials of lover and beloved
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: The lover's socially permitted excesses
+  summary: The passage describes the lover as allowed to supplicate, swear, lie at
+    the door, and endure servitude in ways that would otherwise be censured.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Social restriction and reproach
+  summary: The passage presents parents, tutors, peers, and elders as enforcing or
+    permitting shame around sons speaking with lovers.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Distinction between honourable and dishonourable love
+  summary: The passage argues that love practices are honourable or dishonourable
+    depending on the manner and object of attachment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Testing through time, contests, and trials
+  summary: Custom tests the lover and beloved over time, encouraging pursuit and flight
+    until good and bad attachments are distinguished.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Virtuous service as honourable attachment
+  summary: The passage rejects attachments based on wealth or power and concludes
+    that only virtuous voluntary service is honourable for the beloved.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: socially sanctioned lover's abasement
+  taxonomy_refs: []
+  basis: The lover is allowed humiliating or servile acts in pursuit of love, including
+    supplication and lying at the door, without ordinary loss of character.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a social-ethical pattern in the speech, not a mythic episode involving
+    supernatural action.
+- id: motif:2
+  label: dual classification of love as noble or base
+  taxonomy_refs:
+  - duality
+  basis: The passage opposes honourable and dishonourable pursuit, good and evil lovers,
+    and body-directed versus soul- or disposition-directed love.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy link to duality is conceptual rather than a narrative dualist
+    myth.
+- id: motif:3
+  label: trial of lover and beloved
+  taxonomy_refs:
+  - initiation
+  basis: Custom is said to test both lover and beloved through contests, trials, pursuit,
+    flight, and time before their character is revealed.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage describes social testing; it does not describe a formal rite
+    of initiation.
+- id: motif:4
+  label: virtue as the ground of rightful attachment
+  taxonomy_refs:
+  - wisdom
+  basis: The passage concludes that only the way of virtue and virtuous service makes
+    voluntary attachment honourable.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The taxonomy link to wisdom is ethical-philosophical and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1439-1448
+  quote_or_summary: The lover may pray, entreat, supplicate, swear, lie on a mat at
+    the door, and endure a slavery worse than that of any slave.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 1449-1455
+  quote_or_summary: The passage says the lover may swear and forswear himself, and
+    the gods forgive this because there is said to be no lover's oath; gods and men
+    allow the lover broad liberty.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 1456-1466
+  quote_or_summary: Parents forbid sons to talk with lovers, tutors are appointed
+    to watch, companions and equals reproach such conduct, and elders do not silence
+    them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 1467-1473
+  quote_or_summary: 'The speaker says the matter is not simple: practices are honourable
+    when followed honourably and dishonourable when followed dishonourably.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 1473-1479
+  quote_or_summary: The evil or vulgar lover loves the body rather than the soul;
+    because the loved thing is unstable, he flies away when youth's bloom is over.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 1479-1481
+  quote_or_summary: The love of noble disposition is lifelong because it becomes one
+    with the everlasting.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 1481-1486
+  quote_or_summary: Custom has both kinds proven, encourages some to pursue and others
+    to flee, and tests lover and beloved in contests and trials until their classes
+    are shown.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 1486-1489
+  quote_or_summary: Hasty attachment is dishonourable because time is the true test
+    of this and most other things.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: 1489-1496
+  quote_or_summary: Being overcome by love of money, wealth, or political power is
+    dishonourable; such things are not permanent or lasting and do not produce generous
+    friendship.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:10
+  type: summary
+  locator: 1496-1501
+  quote_or_summary: The only honourable attachment allowed in the beloved is the way
+    of virtue, namely virtuous voluntary service.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif-family alignment is tentative
+    because the passage is philosophical and social-ethical rather than a myth narrative.
+    No comparison claims were made because the supplied passage does not itself support
+    cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Line locators in evidence slightly extend beyond the supplied end where the prose segment continues conceptually; review against canonical markdown line breaks if strict line containment is required.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-symposium-jowett-gutenberg__l1439-l1491
+  passage_sha256=4a7be577c00ffe34404e3b773adf57b4e4dd2f85220c9dfaf7b79adb9fea62b9
+

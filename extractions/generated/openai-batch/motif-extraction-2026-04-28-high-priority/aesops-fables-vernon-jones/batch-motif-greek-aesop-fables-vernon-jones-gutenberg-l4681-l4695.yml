@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4681-l4695
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE PLOUGHMAN AND THE WOLF / MERCURY AND THE MAN BITTEN BY AN ANT / THE WILY
+    LION / THE PARROT AND THE CAT; lines 4681-4695
+  start: '4681'
+  end: '4695'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A man buys a parrot and gives it freedom in his house. The parrot loudly
+    screams from the mantelpiece, waking the household cat. The cat challenges the
+    newcomer’s noisy behavior, saying she has lived there all her life yet is punished
+    for making noise. The parrot replies that its own voice pleases people, while
+    the cat’s voice is considered a nuisance.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man buys a parrot and allows it to move freely in his house.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The parrot flies onto the mantelpiece and screams loudly.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A cat sleeping on the hearthrug is disturbed by the noise.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The cat asks the parrot who it is and where it has come from.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The parrot says the cat’s master has bought it and brought it home.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The cat contrasts the parrot’s freedom to make noise with her own punishment
+    when she mews.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The parrot tells the cat to be silent and says people delight in the parrot’s
+    voice but find the cat’s voice a nuisance.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Man
+  description: The owner who buys the parrot and brings it into the house.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Parrot
+  description: A newly bought bird given freedom in the house; it screams from the
+    mantelpiece and answers the cat.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Cat
+  description: A household cat born in the house, asleep on the hearthrug, disturbed
+    by the parrot’s noise, and punished when she mews.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: owner
+  assigned_to:
+  - fig:1
+  basis: The man buys the parrot and is identified by the parrot as the cat’s master.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: newcomer
+  assigned_to:
+  - fig:2
+  basis: The cat calls the parrot a newcomer, and the parrot says it has just been
+    bought and brought home.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: favored noisy speaker
+  assigned_to:
+  - fig:2
+  basis: The parrot says people delight in its voice despite its screaming.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:4
+  label: longstanding resident
+  assigned_to:
+  - fig:3
+  basis: The cat says she was born in the house and has lived there all her life.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: disfavored noisy speaker
+  assigned_to:
+  - fig:3
+  basis: The cat says she is chased and has things thrown at her if she mews; the
+    parrot says her voice is a nuisance.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols: []
+scenes:
+- id: scene:1
+  label: Parrot introduced into the house
+  summary: A man buys a parrot and gives it freedom in his house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Noise on the mantelpiece
+  summary: The parrot flies onto the mantelpiece and screams, disturbing the cat asleep
+    on the hearthrug.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Cat and parrot dispute over tolerated voices
+  summary: The cat challenges the parrot’s noisy conduct as a newcomer; the parrot
+    answers that its voice is welcomed while the cat’s voice is unwelcome.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: newcomer receives privileges denied to established resident
+  taxonomy_refs: []
+  basis: The cat says she has lived in the house all her life yet is punished for
+    making noise, while the newly bought parrot says its voice is enjoyed.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a passage-level social pattern rather than a supplied taxonomy
+    motif family.
+- id: motif:2
+  label: different reception of similar behavior
+  taxonomy_refs: []
+  basis: Both animals make vocal sounds, but the parrot’s voice is described as delightful
+    and the cat’s as a nuisance.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No explicit moral is supplied in the passage text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4681-4683
+  quote_or_summary: A man buys a parrot and gives it the run of his house.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4683-4685
+  quote_or_summary: The parrot enjoys its liberty, flies onto the mantelpiece, and
+    screams loudly.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4685-4686
+  quote_or_summary: The noise disturbs the cat, who is asleep on the hearthrug.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 4686-4687
+  quote_or_summary: "“Who may you be, and where have you come from?”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 4687-4688
+  quote_or_summary: The parrot replies that the cat’s master has just bought it and
+    brought it home.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 4688-4693
+  quote_or_summary: The cat calls the parrot an impudent newcomer and says that although
+    she was born in the house and has lived there all her life, she is chased and
+    pelted if she mews.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 4693-4695
+  quote_or_summary: The parrot tells the cat to hold her tongue and says people delight
+    in the parrot’s voice but consider the cat’s voice a nuisance.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage; no comparison claims were
+    made because the passage does not itself support a broader comparative link.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The supplied locator label includes several fable titles, but the provided passage text is only “THE PARROT AND THE CAT”; extraction is limited to that passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4681-l4695
+  passage_sha256=5d9d4b0adc4744bc62a71963d2fc245904bf2beb1995e27ab3b826d799e79512
+

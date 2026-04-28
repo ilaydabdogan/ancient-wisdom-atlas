@@ -1,0 +1,347 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l5178-l5192
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE PARTRIDGE AND THE FOWLER / THE RUNAWAY SLAVE / THE HUNTER AND THE WOODMAN
+    / THE SERPENT AND THE EAGLE; lines 5178-5192
+  start: '5178'
+  end: '5192'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An eagle attacks a serpent, but the serpent coils around him. A countryman
+    frees the eagle. The serpent poisons the man's drinking-horn in revenge, and the
+    eagle prevents the man from drinking by knocking the horn away. The fable closes
+    with the moral that one good turn deserves another.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An eagle swoops down on a serpent and seizes it in his talons intending to
+    carry it off and eat it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The serpent coils around the eagle, producing a life-and-death struggle.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A countryman witnesses the encounter and frees the eagle from the serpent.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The serpent retaliates by spitting poison into the man's drinking-horn.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The man, thirsty after exertion, is about to drink from the horn.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The eagle knocks the drinking-horn from the man's hand and spills its contents
+    on the ground.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The closing moral states that one good turn deserves another.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Eagle
+  description: A bird that attacks the serpent, is trapped by the serpent's coils,
+    is freed by the countryman, and later prevents the man from drinking poisoned
+    contents.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Serpent
+  description: A serpent seized by the eagle; it coils around the eagle and later
+    poisons the man's drinking-horn in revenge.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Countryman
+  description: A man who witnesses the struggle, frees the eagle, and is later protected
+    from drinking poison.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: attacker turned endangered figure
+  assigned_to:
+  - fig:1
+  basis: The eagle attacks the serpent but then becomes caught in the serpent's coils
+    during a life-and-death struggle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: retaliating opponent
+  assigned_to:
+  - fig:2
+  basis: The serpent responds to seizure by coiling around the eagle and later poisons
+    the man's drinking-horn in revenge.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: rescued and reciprocal helper
+  assigned_to:
+  - fig:1
+  basis: The eagle is freed by the countryman and later saves him from drinking the
+    poisoned contents.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:4
+  label: poisoning agent
+  assigned_to:
+  - fig:2
+  basis: The serpent spits poison into the man's drinking-horn.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: rescuer at risk
+  assigned_to:
+  - fig:3
+  basis: The countryman frees the eagle and is then endangered by the poisoned drinking-horn.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: Serpent
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: poisoned drinking-horn
+  literal_form: drinking-horn containing poison
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: talons
+  literal_form: eagle's talons
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: coils
+  literal_form: serpent's coils around the eagle
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Eagle seizes serpent
+  summary: The eagle swoops down, catches the serpent in his talons, and intends to
+    carry it away and eat it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Serpent coils around eagle
+  summary: The serpent quickly coils around the eagle, and the two enter a life-and-death
+    struggle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Countryman frees eagle
+  summary: A countryman who sees the encounter helps the eagle by freeing him from
+    the serpent and allowing him to escape.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Serpent poisons the horn
+  summary: The serpent takes revenge by spitting poison into the countryman's drinking-horn.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Eagle prevents poisoned drink
+  summary: As the thirsty man is about to drink, the eagle knocks the horn from his
+    hand and spills its contents.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: reciprocal rescue after aid given
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The countryman saves the eagle, and the eagle later saves the countryman
+    from drinking poison; the moral explicitly frames this as reciprocal benefit.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy reference is approximate because the passage presents practical
+    reciprocity rather than an explicitly sacred exchange.
+- id: motif:2
+  label: serpent as dangerous poisoner
+  taxonomy_refs:
+  - serpent
+  basis: The serpent is a central figure in the conflict and uses poison to threaten
+    the countryman.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage treats the serpent as an animal antagonist in a fable; no
+    broader cosmological serpent symbolism is stated.
+- id: motif:3
+  label: animal helper repays human aid
+  taxonomy_refs: []
+  basis: The eagle, after being rescued by a human, intervenes to save that human
+    from the poisoned horn.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No available taxonomy reference directly names this fable motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5178-5181
+  quote_or_summary: An eagle swoops down on a serpent, seizes it in his talons, and
+    intends to carry it off and devour it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 5181-5183
+  quote_or_summary: The serpent quickly coils around the eagle, leading to a life-and-death
+    struggle between them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 5183-5186
+  quote_or_summary: A countryman witnesses the encounter, assists the eagle, frees
+    him from the serpent, and enables him to escape.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 5186-5188
+  quote_or_summary: In revenge, the serpent spits poison into the man's drinking-horn.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 5188-5190
+  quote_or_summary: Heated by exertion, the man is about to quench his thirst from
+    the horn.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 5190-5191
+  quote_or_summary: The eagle knocks the horn from the man's hand and spills its contents
+    on the ground.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: quote
+  locator: line 5192
+  quote_or_summary: One good turn deserves another.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied fable. Motif taxonomy
+    alignment is limited because only broad taxonomy references are available; no
+    comparison claims are made beyond the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used; comparison_claims left empty because the passage itself does not support a specific cross-text comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l5178-l5192
+  passage_sha256=419005c1e2e379a232b02e4c3ef26c89b175e16d589ed4194f69a8c2c7152c08
+

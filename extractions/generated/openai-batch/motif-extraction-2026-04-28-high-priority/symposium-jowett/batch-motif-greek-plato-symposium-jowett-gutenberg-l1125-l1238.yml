@@ -1,0 +1,493 @@
+---
+record_id: batch.motif.greek-plato-symposium-jowett-gutenberg-l1125-l1238
+source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+passage_locator:
+  label: Symposium / SYMPOSIUM / INTRODUCTION. / SYMPOSIUM; lines 1125-1238
+  start: '1125'
+  end: '1238'
+  translation: Symposium
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: How I wish, said Socrates, taking his place as he was desired, that wisdom
+    could be infused by touch...
+  summary: Aristodemus arrives at Agathon's banquet while Socrates pauses outside
+    in abstraction. Socrates later enters, is invited to sit near Agathon, and jokes
+    about wisdom passing by touch like water from a fuller cup to an emptier one.
+    The company performs libations and a hymn, agrees to avoid compulsory heavy drinking,
+    dismisses the flute-girl, and chooses conversation instead.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Socrates drops behind while walking with Aristodemus and pauses in abstraction
+    before reaching the banquet.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A servant reports that Socrates is standing in the portico of a neighboring
+    house and will not move when called.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Agathon invites Aristodemus to the supper and asks where Socrates is.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Agathon asks Socrates to recline beside him so that he may touch him and benefit
+    from the thought Socrates found in the portico.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Socrates compares the possible transfer of wisdom by touch to water running
+    through wool from a fuller cup into an emptier one.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Agathon says that Dionysus will judge whether he or Socrates bears the palm
+    of wisdom.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After supper, libations are offered, a hymn is sung to the god, and the usual
+    ceremonies take place before drinking begins.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The group agrees that drinking should be voluntary and not compulsory.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Eryximachus proposes that the flute-girl go away and that the company have
+    conversation instead.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Guest who pauses in abstraction outside, later enters the banquet,
+    and speaks about wisdom and touch.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Aristodemus
+  description: Companion of Socrates who arrives at Agathon's house and explains Socrates'
+    absence.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Agathon
+  description: Host of the supper who welcomes Aristodemus, asks after Socrates, invites
+    Socrates to sit beside him, and speaks of Dionysus judging wisdom.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Servants
+  description: Household attendants who lead Aristodemus in, assist him to wash, report
+    Socrates' location, and serve supper.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:5
+  name_or_label: Eryximachus
+  description: Physician and guest who advises moderation and proposes conversation
+    in place of entertainment by the flute-girl.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Pausanias
+  description: Guest who asks how the company can drink with least injury after the
+    previous day's drinking.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Aristophanes
+  description: Guest who supports avoiding hard drinking because of the previous day's
+    drinking.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Phaedrus
+  description: Guest named among those who cannot drink hard and who agrees with the
+    physician's advice.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Flute-girl
+  description: Female entertainer whose appearance prompts the proposal that she be
+    sent away so the group may converse.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: Dionysus
+  description: God named by Agathon as future judge of the contest over wisdom; the
+    later hymn is sung to 'the god.'
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: contemplative delayed guest
+  assigned_to:
+  - fig:1
+  basis: Socrates stops outside in abstraction and does not move when called before
+    entering later.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: arriving companion
+  assigned_to:
+  - fig:2
+  basis: Aristodemus arrives at the banquet ahead of Socrates and reports that Socrates
+    was with him moments earlier.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: banquet host
+  assigned_to:
+  - fig:3
+  basis: Agathon welcomes Aristodemus, directs servants, and invites Socrates to recline
+    beside him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: household attendants
+  assigned_to:
+  - fig:4
+  basis: Servants guide, wash, report, and serve during the banquet.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: wisdom interlocutor
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Agathon and Socrates speak about who has wisdom and whether it can pass by
+    touch.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: physician moderator
+  assigned_to:
+  - fig:5
+  basis: Eryximachus speaks as a physician against heavy drinking and proposes conversation.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: drinking deliberator
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: These guests participate in the decision to avoid hard drinking or accept
+    medical advice.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: dismissed entertainer
+  assigned_to:
+  - fig:9
+  basis: The flute-girl is to be sent away so that conversation may occur.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: divine judge or ritual god
+  assigned_to:
+  - fig:10
+  basis: Dionysus is named as judge of wisdom, and a hymn is sung to the god after
+    libations.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: portico as place of withdrawal
+  literal_form: portico of a neighboring house
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: touch as imagined conduit of wisdom
+  literal_form: reclining beside and touching Socrates
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: water flow metaphor for wisdom transfer
+  literal_form: water running through wool from a fuller cup into an emptier one
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: libations and hymn
+  literal_form: libations offered and hymn sung to the god
+  associated_figures:
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: palm of wisdom
+  literal_form: palm of wisdom to be judged by Dionysus
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Arrival without Socrates
+  summary: Aristodemus reaches Agathon's open house, is welcomed to the banquet, and
+    explains that Socrates had been with him but is now absent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Socrates fixed in the portico
+  summary: A servant reports that Socrates has withdrawn into a neighboring portico
+    and will not stir when called; the company begins supper without him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:3
+  label: Wisdom by touch
+  summary: Socrates enters; Agathon asks him to sit nearby to share the benefit of
+    his thought, and Socrates replies with the image of wisdom flowing by touch like
+    water between cups.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:10
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Ritual opening and moderated drinking
+  summary: The company completes libations, hymn, and customary ceremonies, then agrees
+    that drinking will be voluntary and limited rather than compulsory.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:10
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Conversation replaces entertainment
+  summary: Eryximachus proposes dismissing the flute-girl and choosing conversation
+    as the activity of the gathering.
+  figure_refs:
+  - fig:5
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: wise figure withdraws before joining the feast
+  taxonomy_refs:
+  - wisdom
+  basis: Socrates delays outside in abstraction, stands fixed in the portico, and
+    is said to have found what he sought before entering.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage presents the behavior comically and socially; it does not
+    explicitly call the withdrawal a ritual or mystical act.
+- id: motif:2
+  label: wisdom imagined as transferable substance
+  taxonomy_refs:
+  - wisdom
+  basis: Agathon wants to touch Socrates to benefit from his thought, and Socrates
+    frames wisdom as if it could flow from a fuller to an emptier person like water
+    through wool.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: Socrates states the transfer as a wish or joke, not as an actual supernatural
+    event.
+- id: motif:3
+  label: divine judgment of wisdom contest
+  taxonomy_refs:
+  - wisdom
+  basis: Agathon says that Dionysus will judge whether he or Socrates bears the palm
+    of wisdom.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a conversational remark at a symposium rather than a narrated
+    divine appearance or judgment scene.
+- id: motif:4
+  label: ritualized banquet turns from intoxication to discourse
+  taxonomy_refs:
+  - wisdom
+  basis: After libations, hymn, and ceremonies, the guests choose voluntary moderate
+    drinking and replace flute entertainment with conversation.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage describes symposium procedure and social deliberation; broader
+    symbolic interpretation requires review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1125-1159
+  quote_or_summary: Socrates drops behind in abstraction; a servant later reports
+    that he is fixed in the portico of a neighboring house and will not stir when
+    called.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1130-1149
+  quote_or_summary: Aristodemus is led into Agathon's banqueting hall; Agathon welcomes
+    him, asks what he has done with Socrates, and directs that Socrates be found.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1160-1181
+  quote_or_summary: The supper begins without Socrates; he enters when the feast is
+    about half over, and Agathon asks him to sit nearby so Agathon may touch him and
+    benefit from the thought found in the portico.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 1182-1192
+  quote_or_summary: Socrates wishes that wisdom could be infused by touch, 'as water
+    runs through wool out of a fuller cup into an emptier one.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; short quote used.
+- id: ev:5
+  type: summary
+  locator: lines 1193-1197
+  quote_or_summary: Agathon says Socrates is mocking and that Dionysus will judge
+    who bears the palm of wisdom.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 1198-1202
+  quote_or_summary: Socrates suppes with the others; libations are offered, a hymn
+    is sung to the god, and usual ceremonies occur before drinking begins.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 1203-1226
+  quote_or_summary: Pausanias, Aristophanes, Eryximachus, Agathon, Phaedrus, and the
+    company discuss the effects of prior drinking and agree that drinking should be
+    voluntary and moderate.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 1227-1238
+  quote_or_summary: Eryximachus proposes that the flute-girl go away and play elsewhere,
+    while the company spends the day in conversation.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative actions and symposium sequence are explicit. Motif labels are
+    conservative and limited to available taxonomy references, chiefly wisdom; no
+    external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No taxonomy IDs were added beyond the provided available refs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-symposium-jowett-gutenberg__l1125-l1238
+  passage_sha256=a4d538c40f8b95d2e0bcacbccbf466a83118648453a6c526725291b66cb3234e
+

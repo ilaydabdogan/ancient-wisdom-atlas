@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l5344-l5365
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE HUNTER AND THE HORSEMAN / THE GOATHERD AND THE WILD GOATS / THE NIGHTINGALE
+    AND THE SWALLOW / THE TRAVELLER AND FORTUNE; lines 5344-5365
+  start: '5344'
+  end: '5365'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A Swallow urges a Nightingale to leave leafy coverts and live near humans,
+    but the Nightingale refuses because of past wrongs suffered among men. A tired
+    Traveller falls asleep at the edge of a deep well; Dame Fortune wakes him and
+    warns him to move away, saying that if he fell, people would blame Fortune rather
+    than his own folly.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Swallow speaks with a Nightingale and advises her to leave the leafy coverts
+    where she lives.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Swallow advises the Nightingale to live with men and nest under the shelter
+    of their roofs.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Nightingale says she formerly lived among men but now refuses to approach
+    their dwellings because of cruel wrongs she suffered there.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The moral states that the scene of past sufferings revives painful memories.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A Traveller, exhausted after a long journey, lies down at the brink of a deep
+    well and falls asleep.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Traveller is close to falling into the well.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Dame Fortune appears, touches the Traveller on the shoulder, and cautions
+    him to move farther away.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Dame Fortune says that if the Traveller fell into the well, blame would be
+    placed on Fortune rather than on his own folly.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Swallow
+  description: A bird who converses with the Nightingale and recommends living among
+    men under roofs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Nightingale
+  description: A bird who lives in leafy coverts and refuses to return to human dwellings
+    because of past wrongs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: men
+  description: Human dwellers among whom the Nightingale formerly lived and near whose
+    roofs the Swallow nests.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Traveller
+  description: A fatigued person who falls asleep at the brink of a deep well after
+    a long journey.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Dame Fortune
+  description: A personified Fortune who appears to the Traveller, touches him, warns
+    him, and comments on misplaced blame.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: advisor toward human habitation
+  assigned_to:
+  - fig:1
+  basis: The Swallow advises the Nightingale to leave her coverts and live with men
+    under roofs.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: former sufferer who refuses return
+  assigned_to:
+  - fig:2
+  basis: The Nightingale says past wrongs among men make their dwellings hateful to
+    her.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: human collective associated with former wrongs and dwellings
+  assigned_to:
+  - fig:3
+  basis: The Nightingale formerly lived among men and suffered wrongs; the Swallow
+    nests under human roofs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: endangered negligent sleeper
+  assigned_to:
+  - fig:4
+  basis: The Traveller falls asleep at the brink of a deep well and is nearly in danger
+    of falling in.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: personified warning figure
+  assigned_to:
+  - fig:5
+  basis: Dame Fortune appears, touches the Traveller, warns him to move, and explains
+    that she would be blamed for his fall.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: leafy coverts
+  literal_form: Leafy coverts where the Nightingale makes her home.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: human roofs and dwellings
+  literal_form: The shelter of human roofs and the dwellings of men.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: deep well
+  literal_form: A deep well at whose brink the Traveller falls asleep.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: warning touch on the shoulder
+  literal_form: Dame Fortune touches the Traveller on the shoulder before cautioning
+    him.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: The Nightingale refuses the Swallow's advice
+  summary: The Swallow advises the Nightingale to leave her leafy home and live under
+    human roofs, but the Nightingale refuses because living among men recalls past
+    wrongs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Fortune warns the sleeping Traveller
+  summary: A fatigued Traveller sleeps at the brink of a deep well; Dame Fortune wakes
+    him and warns him to move, saying that otherwise his fall would be blamed on Fortune
+    instead of his own folly.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: place of past suffering revives painful memory
+  taxonomy_refs: []
+  basis: The Nightingale refuses to return to human dwellings because of cruel wrongs
+    suffered there, and the stated moral generalizes this as past suffering reviving
+    painful memories.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a fable moral rather than a developed mythic episode.
+- id: motif:2
+  label: warning against negligent proximity to danger
+  taxonomy_refs:
+  - wisdom
+  basis: The Traveller sleeps at the brink of a deep well and is warned to move away
+    before falling in.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents practical caution
+    rather than esoteric wisdom.
+- id: motif:3
+  label: misplaced blame on Fortune for one's own folly
+  taxonomy_refs:
+  - wisdom
+  basis: Dame Fortune says that if the Traveller fell into the well, the blame would
+    be placed on Fortune rather than on his own folly.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The motif is explicitly moralizing but not necessarily mythological beyond
+    the personification of Fortune.
+- id: motif:4
+  label: personified Fortune intervenes to prevent blame
+  taxonomy_refs: []
+  basis: Dame Fortune appears, wakes the Traveller, and explains that she would be
+    blamed if his own folly caused him to fall.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The intervention is brief and serves the fable's moral point; no wider
+    mythic narrative is supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5344-5348
+  quote_or_summary: A Swallow converses with a Nightingale and advises her to leave
+    her leafy coverts, live with men, and nest under their roofs.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 5349-5352
+  quote_or_summary: The Nightingale replies that she once lived among men, suffered
+    cruel wrongs, and will never again approach their dwellings.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: quote
+  locator: '5354'
+  quote_or_summary: '"The scene of past sufferings revives painful memories."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 5358-5360
+  quote_or_summary: A Traveller exhausted after a long journey lies down at the brink
+    of a deep well, falls asleep, and is nearly about to fall in.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 5360-5362
+  quote_or_summary: Dame Fortune appears, touches the Traveller on the shoulder, and
+    cautions him to move farther away.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 5362-5365
+  quote_or_summary: Dame Fortune says that if the Traveller fell into the well, the
+    blame would be put on Fortune rather than on his own folly.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from two short fables. Motif labels
+    are cautious and moral-pattern oriented. No comparison claims were made because
+    the passage does not itself support comparison to an external tradition or motif
+    family beyond broad candidate taxonomy tagging.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; available taxonomy references were applied sparingly.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l5344-l5365
+  passage_sha256=37e55b373f9796302121eb94942e844015e462ac832d10ab15979d25f363260c
+

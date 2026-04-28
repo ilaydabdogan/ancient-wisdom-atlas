@@ -1,0 +1,463 @@
+---
+record_id: batch.motif.greek-plato-phaedrus-jowett-gutenberg-l2246-l2321
+source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+passage_locator:
+  label: PHAEDRUS / INTRODUCTION. / ON THE DECLINE OF GREEK LITERATURE. / PHAEDRUS;
+    lines 2246-2321
+  start: '2246'
+  end: '2321'
+  translation: Phaedrus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: The wing is the corporeal element which is most akin to the divine...
+  summary: The passage describes the soul’s winged ascent toward the divine realm,
+    the procession of Zeus and the gods through heaven, the vision of truth beyond
+    heaven, and the differing fates of souls according to their ability to behold
+    truth and follow divine order.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The wing is described as a bodily element akin to the divine, able to lift
+    what tends downward into the upper region.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wing of the soul is nourished by beauty, wisdom, goodness, and similar
+    qualities, but wastes away when fed by evil and foulness.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Zeus holds the reins of a winged chariot, leads the way in heaven, and orders
+    and cares for all.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Gods and demi-gods follow Zeus in ordered bands, while Hestia remains at home
+    in the house of heaven.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At banquet and festival the gods move up a steep path to the top of the vault
+    of heaven, and the immortals stand outside heaven and behold what lies beyond.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Beyond heaven is described as the place of true being, pure knowledge, truth,
+    and realities visible only to mind.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After beholding true existences, the divine soul returns home, and the charioteer
+    gives the horses ambrosia and nectar.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Other souls attempt to follow God, but are troubled by their steeds; some
+    rise and fall, some fail to see, and many are lamed or have wings broken through
+    poor driving.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The plain of truth contains pasture suited to the highest part of the soul
+    and nourishing to the soul’s wing.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: A law of Destiny preserves souls that behold truth with a god, while souls
+    that fail sink under forgetfulness and vice, lose their wings, drop to the ground,
+    and receive human births of different kinds.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The passage states that the resulting human lives are states of probation
+    in which righteous conduct improves one’s lot and unrighteous conduct worsens
+    it.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Zeus
+  description: Mighty lord who holds the reins of a winged chariot, leads the way
+    in heaven, and orders and cares for all.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Gods and demi-gods
+  description: An array following Zeus in eleven bands; they pass through heaven,
+    attend banquet and festival, and behold things beyond heaven.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Hestia
+  description: The one among the heavenly company who remains at home in the house
+    of heaven.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: The soul as charioteer
+  description: The soul is depicted through a charioteer whose horses may obey or
+    resist, enabling or hindering vision of true being.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: Steeds of the soul
+  description: Horses associated with the charioteer; unruly or vicious steeds weigh
+    down or trouble the soul’s ascent.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:6
+roles:
+- id: role:1
+  label: heavenly leader and orderer
+  assigned_to:
+  - fig:1
+  basis: Zeus leads the way in heaven while ordering and caring for all.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: divine procession and beholders beyond heaven
+  assigned_to:
+  - fig:2
+  basis: The gods and demi-gods follow Zeus, ascend to the vault of heaven, and behold
+    things beyond.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: heavenly house-abider
+  assigned_to:
+  - fig:3
+  basis: Hestia alone remains at home in the house of heaven.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: soul striving for vision of truth
+  assigned_to:
+  - fig:4
+  basis: The soul attempts to follow God and behold true being, succeeding or failing
+    according to its condition and guidance.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:5
+  label: obedient or obstructing powers of motion
+  assigned_to:
+  - fig:5
+  basis: The steeds may obey the rein or, when vicious and unruly, weigh down and
+    trouble the charioteer.
+  evidence_refs:
+  - ev:3
+  - ev:6
+symbols:
+- id: sym:1
+  label: wing of the soul
+  literal_form: wing
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: winged chariot and reins
+  literal_form: winged chariot with reins
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: upper region and vault of heaven
+  literal_form: upper region, steep path, top of the vault of heaven, outside of heaven
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: plain of truth and pasture
+  literal_form: plain of truth containing pasture
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: ambrosia and nectar
+  literal_form: ambrosia to eat and nectar to drink
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: forgetfulness and vice as a double load
+  literal_form: double load of forgetfulness and vice
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Nourishment and wasting of the soul’s wing
+  summary: The passage explains that the soul’s wing grows through divine qualities
+    and withers through evil and foulness.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Zeus leads the heavenly procession
+  summary: Zeus drives a winged chariot through heaven, followed by gods and demi-gods
+    in ordered bands, while Hestia stays at home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ascent to the outside of heaven
+  summary: At festival the divine chariots ascend to the top of heaven; the immortals
+    stand outside heaven and behold what lies beyond.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Vision of true being and return home
+  summary: The soul beholds truth, justice, temperance, and absolute knowledge, then
+    returns home, where the charioteer feeds the horses ambrosia and nectar.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: scene:5
+  label: Struggle and fall of other souls
+  summary: Less capable souls strive to follow the gods but are hindered by unruly
+    steeds, confusion, broken wings, and failure to attain true being.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Destiny assigns human births and probation
+  summary: Souls that behold truth are preserved, while those that fail fall to earth
+    and enter different human lives according to the degree of truth they have seen;
+    these lives are described as probationary states.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: ascent to the divine upper realm
+  taxonomy_refs:
+  - ascent
+  basis: The passage repeatedly describes upward movement by wings and chariots toward
+    the upper region, the vault of heaven, and the realm beyond heaven.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The ascent is philosophical and cosmological rather than an adventure
+    narrative.
+- id: motif:2
+  label: wisdom and truth as nourishment of the soul
+  taxonomy_refs:
+  - wisdom
+  basis: Beauty, wisdom, goodness, pure knowledge, truth, and the plain of truth nourish
+    or replenish the soul and its wing.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage frames nourishment metaphorically within a philosophical psychology.
+- id: motif:3
+  label: mystical quest for vision of true being
+  taxonomy_refs:
+  - mystical_quest
+  basis: Souls long to behold the upper world and true being, undergo great effort,
+    and succeed or fail in attaining the mysteries of true being.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The text does not present a single questing hero; it describes classes
+    of souls.
+- id: motif:4
+  label: fall from heavenly vision into embodied probation
+  taxonomy_refs: []
+  basis: Souls that cannot follow and fail to behold truth lose their wings, drop
+    to the ground, and enter human lives described as states of probation.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: No available taxonomy label exactly matches this fall-and-incarnation
+    pattern.
+- id: motif:5
+  label: ordered celestial procession
+  taxonomy_refs: []
+  basis: Zeus leads gods and demi-gods in ordered bands through heaven, with each
+    doing his own work and moving in appointed order.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a cosmological procession rather than a ritual procession explicitly
+    performed by humans.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2246-2253
+  quote_or_summary: The wing is described as akin to the divine, tending to soar upward;
+    it is nourished by beauty, wisdom, and goodness, but wastes when fed by evil and
+    foulness.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 2253-2260
+  quote_or_summary: Zeus drives a winged chariot and leads heaven; gods and demi-gods
+    follow in eleven bands, while Hestia remains at home in heaven.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 2260-2271
+  quote_or_summary: At banquet and festival, the gods ascend to the top of heaven;
+    divine chariots move easily, while others struggle, and the immortals stand outside
+    heaven and behold what is beyond.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 2271-2284
+  quote_or_summary: 'Beyond heaven abides true being: a colorless, formless, intangible
+    essence visible only to mind; divine intelligence rejoices in beholding reality
+    and truth.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 2284-2289
+  quote_or_summary: After beholding true existences, the soul returns home; the charioteer
+    stables the horses and gives them ambrosia and nectar.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 2290-2306
+  quote_or_summary: Other souls follow God with difficulty, rise and fall, struggle
+    below the surface, tread on one another, and many are lamed or have wings broken
+    by ill-driving.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: 2306-2311
+  quote_or_summary: Souls eagerly seek the plain of truth because pasture suited to
+    the highest part of the soul is found there, and it nourishes the wing on which
+    the soul soars.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: 2311-2319
+  quote_or_summary: The law of Destiny preserves a soul that sees truth with a god;
+    a soul that fails sinks under forgetfulness and vice, loses its wings, falls to
+    ground, and enters human birth according to its degree of vision.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: quote
+  locator: 2319-2321
+  quote_or_summary: Human lives are described as “states of probation,” where righteous
+    conduct improves one’s lot and unrighteous conduct worsens it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the passage. Motif labels are candidate
+    classifications using the supplied taxonomy where clearly supported. No comparison
+    claims were made because the passage itself does not explicitly compare this material
+    to another tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy references are limited to available motif families and only applied where the passage supports them.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-phaedrus-jowett-gutenberg__l2246-l2321
+  passage_sha256=7e59df551d05782864c27b935648ec82845121514852ef9494f4ee53b3d6fa64
+

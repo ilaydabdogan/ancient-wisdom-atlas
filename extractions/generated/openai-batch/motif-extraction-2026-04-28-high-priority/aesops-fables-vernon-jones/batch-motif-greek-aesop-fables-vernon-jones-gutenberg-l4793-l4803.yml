@@ -1,0 +1,242 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4793-l4803
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE LION, THE FOX, AND THE ASS / THE FOWLER, THE PARTRIDGE, AND THE COCK
+    / THE GNAT AND THE LION / THE FARMER AND HIS DOGS; lines 4793-4803
+  start: '4793'
+  end: '4803'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A farmer trapped at his farmstead by a severe snowstorm cannot obtain provisions.
+    He kills and eats his sheep, then goats, then oxen. His dogs observe the sequence
+    and decide to flee before they are next.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A severe storm snows a farmer into his farmstead.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The farmer cannot go out to procure provisions for himself and his family.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The farmer kills his sheep and uses them for food.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the storm continues, the farmer kills his goats.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When the weather still does not improve, the farmer kills and eats his oxen.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The dogs see the animals being killed and eaten in turn.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The dogs say to one another that they had better leave or they will be next.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Farmer
+  description: A farmer snowed up in his farmstead who kills livestock for food during
+    the storm.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Farmer's family
+  description: The farmer's family, for whom provisions are needed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Sheep
+  description: Animals first killed and used for food.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Goats
+  description: Animals killed after the sheep when the storm continues.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Oxen
+  description: Animals killed and eaten last when the weather does not improve.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Dogs
+  description: Dogs who observe the killings and decide they should leave before they
+    are killed next.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: trapped provider
+  assigned_to:
+  - fig:1
+  basis: The farmer is snowed up and cannot procure provisions, so he kills his animals
+    for food.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: dependents needing provisions
+  assigned_to:
+  - fig:2
+  basis: The passage states that provisions are needed for the farmer and his family.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: successive food victims
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The sheep, goats, and oxen are killed and eaten in sequence during the storm.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: observers of danger
+  assigned_to:
+  - fig:6
+  basis: The dogs see the animals being killed and eaten in turn.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: self-preserving speakers
+  assigned_to:
+  - fig:6
+  basis: The dogs say they should get out or they will be next.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Storm confinement and lack of provisions
+  summary: A severe storm traps the farmer at the farmstead and prevents him from
+    getting provisions for himself and his family.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Successive slaughter of livestock
+  summary: The farmer kills and eats sheep, then goats, then oxen as the storm continues
+    and the weather does not improve.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dogs infer their danger
+  summary: The dogs observe the animals being killed and eaten in turn and say they
+    should leave before they are next.
+  figure_refs:
+  - fig:6
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: animals infer danger from successive victims
+  taxonomy_refs:
+  - wisdom
+  basis: The dogs draw a practical conclusion from watching other farm animals killed
+    one after another, deciding to flee before they are killed too.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage is a fable about prudential
+    inference rather than an explicit wisdom myth.
+- id: motif:2
+  label: survival under scarcity leads to killing domestic animals
+  taxonomy_refs: []
+  basis: The farmer, trapped by a storm and unable to obtain provisions, kills his
+    domestic animals for food in escalating sequence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a local narrative pattern in the fable and is not tied to an available
+    taxonomy family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4793-4796
+  quote_or_summary: A severe storm snows the farmer into his farmstead, leaving him
+    unable to go out for provisions for himself and his family.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4796-4801
+  quote_or_summary: The farmer kills sheep for food, then goats as the storm continues,
+    and finally oxen when the weather does not improve.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 4801-4803
+  quote_or_summary: The dogs see the animals killed and eaten in turn and say, "We
+    had better get out of this or we shall be the next to go!"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    the available taxonomy only loosely fits the fable's prudential lesson.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage was used; no comparison claims were added because the passage itself does not support cross-textual comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4793-l4803
+  passage_sha256=60db3adf150be7f28279c5b9fdb94e318431ddca7edfc0a738ac5fcf5c097f3e
+

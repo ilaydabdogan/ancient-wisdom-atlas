@@ -1,0 +1,130 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l66-l110
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: The Odyssey; lines 66-110
+  start: '66'
+  end: '110'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: |-
+    The Odyssey
+
+    by Homer
+  summary: The passage is front matter for The Odyssey, including the title, attribution
+    to Homer, a note that the work is rendered into English prose for readers of the
+    original, a contents list of prefatory and book sections, and an Italian dedication.
+  language: English with an Italian dedication
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as The Odyssey.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage attributes the work to Homer.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the work is rendered into English prose for those
+    who cannot read the original.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage lists contents including two prefaces, The Odyssey, Books I through
+    XXIV, and footnotes.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage includes an Italian dedication to Cav. Biagio Ingroia from the
+    grateful author.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Homer
+  description: Named as the author of The Odyssey in the passage heading.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Cav. Biagio Ingroia
+  description: Named in the Italian dedication.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: attributed author
+  assigned_to:
+  - fig:1
+  basis: The passage says The Odyssey is 'by Homer.'
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dedicatee
+  assigned_to:
+  - fig:2
+  basis: The dedication addresses Cav. Biagio Ingroia.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 66-110
+  quote_or_summary: '"The Odyssey" and "by Homer" appear in the passage heading.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 66-110
+  quote_or_summary: The passage describes the text as rendered into English prose
+    for readers who cannot read the original.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 66-110
+  quote_or_summary: The passage provides a contents list naming the prefaces, The
+    Odyssey, Books I-XXIV, and footnotes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 66-110
+  quote_or_summary: The passage includes an Italian dedication to Cav. Biagio Ingroia
+    from the grateful author.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: This line range contains front matter rather than narrative mythological
+    content; no motifs, symbols, scenes, or comparison claims are extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy motif or symbol references are supported by this passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l66-l110
+  passage_sha256=57232d39e7675b910d84c9986c6df4ff59057c21aa02d55c248f0bf08ede69f3
+

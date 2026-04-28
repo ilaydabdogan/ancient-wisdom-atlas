@@ -1,0 +1,586 @@
+---
+record_id: batch.motif.greek-plato-symposium-jowett-gutenberg-l2394-l2475
+source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+passage_locator:
+  label: Symposium / SYMPOSIUM / INTRODUCTION. / SYMPOSIUM; lines 2394-2475
+  start: '2394'
+  end: '2475'
+  translation: Symposium
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Diotima explains to Socrates that human beings seek immortality through
+    fame, bodily children, and soul-born works of wisdom and virtue. She then describes
+    the lesser and greater mysteries of love: a guided progression from love of one
+    beautiful body to all beautiful bodies, then to beautiful souls, laws, institutions,
+    sciences, and finally a vision of the science of beauty everywhere.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Socrates expresses astonishment and asks Diotima whether her statement is
+    true.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Diotima says that people undertake risks, expenses, toil, and even death for
+    an eternal name and immortal memory of virtue.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Alcestis, Achilles, and Codrus are named as examples connected with death,
+    vengeance, or preservation of a kingdom for remembered virtue.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Diotima distinguishes those pregnant in body, who beget children, from those
+    pregnant in soul, who conceive wisdom and virtue.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: Poets, artists, inventors, and makers of laws or civic order are described
+    as creators of soul-born offspring.
+  category: attribute
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: A soul-pregnant person seeks beauty, embraces a fair and noble soul, speaks
+    about virtue, educates the beloved, and brings forth what was conceived.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Diotima calls the preceding teachings the lesser mysteries of love and introduces
+    greater and more hidden mysteries.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The right procedure begins with loving one beautiful form and proceeds through
+    love of all beautiful forms, beauty of mind, beauty of laws and institutions,
+    beauty of sciences, and a final vision of the science of beauty everywhere.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: The interlocutor who is astonished and addressed by Diotima.
+  role_refs:
+  - role:1
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: Diotima
+  description: The wise speaker who answers Socrates and explains love, immortality,
+    and the mysteries of beauty.
+  role_refs:
+  - role:2
+  - role:9
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: People seeking immortal fame
+  description: Human beings who endure risks, expenses, toil, and death for an eternal
+    name and lasting memory of virtue.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Alcestis
+  description: Named as one who died to save Admetus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Achilles
+  description: Named as one who acted to avenge Patroclus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Codrus
+  description: Named as one who acted to preserve the kingdom for his sons.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Those pregnant in body
+  description: Persons who seek women and beget children to preserve memory and obtain
+    future blessedness and immortality.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Those pregnant in soul
+  description: Persons more creative in soul than body, conceiving wisdom and virtue.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:9
+  name_or_label: Fair and noble soul
+  description: The beloved or educatee with whom the soul-pregnant creator brings
+    forth and tends soul-born offspring.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Instructor
+  description: The guide who directs the youth rightly in beginning with beautiful
+    forms.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:11
+  name_or_label: Seeker proceeding aright
+  description: The person who advances through stages of love and contemplation toward
+    the science of beauty everywhere.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:12
+  name_or_label: Homer, Hesiod, Lycurgus, Solon, and other creators
+  description: Named or grouped examples whose works, laws, or virtues are called
+    children that preserve memory and bring honor.
+  role_refs:
+  - role:6
+  - role:10
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: Socrates asks Diotima whether her words are true.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: authoritative teacher
+  assigned_to:
+  - fig:2
+  basis: Diotima answers Socrates and gives the teaching about love and beauty.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: role:3
+  label: seeker of immortal fame
+  assigned_to:
+  - fig:3
+  basis: People are described as acting for an eternal name and immortal memory of
+    virtue.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: exemplar of remembered heroic action
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Alcestis, Achilles, and Codrus are cited as examples whose actions are linked
+    with surviving memory of virtue.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: bodily progenitor
+  assigned_to:
+  - fig:7
+  basis: Those pregnant in body beget children to preserve memory.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: soul-born creator
+  assigned_to:
+  - fig:8
+  - fig:12
+  basis: Those pregnant in soul conceive wisdom and virtue; poets, artists, inventors,
+    and lawgivers produce enduring works.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: beloved educatee
+  assigned_to:
+  - fig:9
+  basis: The soul-pregnant person embraces the fair and noble soul, speaks of virtue,
+    and tries to educate him.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: initiate or seeker
+  assigned_to:
+  - fig:1
+  - fig:11
+  basis: Socrates may enter the lesser mysteries, while the one proceeding aright
+    advances through stages toward beauty.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:9
+  label: guide to the path of love
+  assigned_to:
+  - fig:2
+  - fig:10
+  basis: Diotima instructs Socrates; the instructor guides the youth rightly toward
+    beautiful forms.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:10
+  label: parent of enduring civic or poetic offspring
+  assigned_to:
+  - fig:12
+  basis: Their works, laws, or virtues are described as children that preserve memory
+    and receive honor.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: immortal name
+  literal_form: an eternal name and immortal memory of virtue
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: bodily children
+  literal_form: children begotten by those pregnant in body
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: pregnancy of the soul
+  literal_form: souls pregnant with conceptions proper to the soul
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: seed of wisdom and virtue
+  literal_form: seed implanted in youth that comes to maturity and seeks to beget
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: soul-born offspring
+  literal_form: fairer and more immortal children produced through virtue, poetry,
+    laws, and noble works
+  associated_figures:
+  - fig:8
+  - fig:9
+  - fig:12
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: mysteries of love
+  literal_form: lesser mysteries and greater hidden mysteries of love
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: stages of beauty
+  literal_form: one beautiful form, all beautiful forms, beautiful mind, laws, institutions,
+    sciences, and beauty everywhere
+  associated_figures:
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: vast sea of beauty
+  literal_form: the vast sea of beauty contemplated by the seeker
+  associated_figures:
+  - fig:11
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: vision of the science of beauty
+  literal_form: a final revealed vision of a single science, the science of beauty
+    everywhere
+  associated_figures:
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Diotima on immortal fame
+  summary: Diotima tells Socrates that people undertake extreme actions for an eternal
+    name and lasting memory of virtue, naming Alcestis, Achilles, and Codrus as examples.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Two kinds of pregnancy and offspring
+  summary: Diotima distinguishes bodily generation of children from soul-born generation
+    of wisdom, virtue, poetry, invention, and civic order.
+  figure_refs:
+  - fig:2
+  - fig:7
+  - fig:8
+  - fig:12
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Creative union with the beautiful soul
+  summary: The soul-pregnant creator seeks beauty, joins with a fair and noble soul,
+    speaks about virtue, educates the beloved, and tends the offspring they bring
+    forth together.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Lesser and greater mysteries of love
+  summary: Diotima names the prior teaching as lesser mysteries and describes a guided
+    progression through increasingly general forms of beauty toward a final vision
+    of the science of beauty everywhere.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Quest for immortality through fame and offspring
+  taxonomy_refs: []
+  basis: The passage says people desire the immortal and seek it through eternal fame,
+    bodily children, and enduring works.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The immortality described is memory, lineage, or enduring works rather
+    than bodily resurrection or divine afterlife.
+- id: motif:2
+  label: Soul pregnancy and birth of wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Diotima describes souls pregnant with wisdom and virtue, bringing forth teachings,
+    poetry, laws, and noble works.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The pregnancy and children are presented in philosophical-metaphorical
+    terms.
+- id: motif:3
+  label: Initiation into hidden mysteries of love
+  taxonomy_refs:
+  - initiation
+  - mystical_quest
+  - wisdom
+  basis: Diotima explicitly distinguishes lesser mysteries from greater hidden mysteries
+    and frames Socrates as one who may or may not attain them.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage uses mystery language for philosophical instruction; it does
+    not narrate a formal cult rite.
+- id: motif:4
+  label: Ascent from particular beauty to universal beauty
+  taxonomy_refs:
+  - ascent
+  - mystical_quest
+  - wisdom
+  basis: The seeker moves from one beautiful form to all forms, minds, laws, sciences,
+    and the final vision of beauty everywhere.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The ascent is intellectual and contemplative, not a physical climb.
+- id: motif:5
+  label: Teacher-guided path to revelation
+  taxonomy_refs:
+  - wisdom
+  - initiation
+  basis: A guide or instructor directs the seeker, and Diotima presents a path culminating
+    in a revealed vision of a single science of beauty.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage emphasizes philosophical pedagogy more than mythic revelation
+    by a deity.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself frames the teaching as a movement from lesser to greater
+    hidden mysteries, supporting comparison with an initiation-pattern motif at the
+    level of function.
+  claim_level: same_function
+  target: initiation motif family
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The evidence is metaphorical and philosophical; the passage does not
+    describe an enacted ritual initiation.
+- id: claim:2
+  claim: The staged movement from one beautiful body to universal beauty supports
+    comparison with an ascent-pattern motif, understood as contemplative ascent rather
+    than physical ascent.
+  claim_level: same_motif
+  target: ascent motif family
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No mountain, heaven-journey, or spatial climb is narrated; the ascent
+    is conceptual.
+- id: claim:3
+  claim: The repeated emphasis on conceiving, generating, and tending wisdom and virtue
+    supports comparison with wisdom motifs in which insight is produced and transmitted
+    through guided discipline.
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage offers philosophical argument rather than a narrative of
+    a culture hero or divine wisdom donor.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2394-2398
+  quote_or_summary: Socrates is astonished, addresses Diotima as wise, and asks whether
+    her words are true; she answers with authority.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2398-2412
+  quote_or_summary: Diotima says people risk, spend, toil, and die for an eternal
+    name and immortal memory of virtue; she cites Alcestis, Achilles, and Codrus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2414-2419
+  quote_or_summary: Those pregnant in body beget children, hoping offspring will preserve
+    memory and bring future blessedness and immortality.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2419-2428
+  quote_or_summary: Those pregnant in soul conceive wisdom and virtue; poets, artists,
+    inventors, and those concerned with states and families are named as creators.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2428-2455
+  quote_or_summary: The soul-pregnant person seeks beauty, educates a fair and noble
+    soul, and brings forth common offspring; Homer, Hesiod, Lycurgus, Solon, and others
+    are cited for enduring works and laws.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2456-2463
+  quote_or_summary: Diotima says these are the lesser mysteries of love and introduces
+    greater and more hidden mysteries that Socrates may or may not attain.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 2463-2475
+  quote_or_summary: The seeker begins with one beautiful form, advances to all beautiful
+    forms, beauty of mind, laws and institutions, sciences, the vast sea of beauty,
+    and the final vision of the science of beauty everywhere.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage. Motif labels involving
+    initiation, ascent, and wisdom are strongly supported by the passage language,
+    but comparison claims remain cautious because the passage is philosophical rather
+    than a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Available taxonomy refs were used only where directly supported by the passage. Named mythic and historical examples are treated as cited figures within Diotima's argument, not as separate narrated episodes.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-symposium-jowett-gutenberg__l2394-l2475
+  passage_sha256=66da6074bd5bbef6368be0556e62157d8dd900d692f3dbbb5cfa6b47e95502aa
+

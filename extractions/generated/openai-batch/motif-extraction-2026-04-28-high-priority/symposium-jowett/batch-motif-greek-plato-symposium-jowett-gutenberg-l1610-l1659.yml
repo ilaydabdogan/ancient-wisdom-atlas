@@ -1,0 +1,408 @@
+---
+record_id: batch.motif.greek-plato-symposium-jowett-gutenberg-l1610-l1659
+source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+passage_locator:
+  label: Symposium / SYMPOSIUM / INTRODUCTION. / SYMPOSIUM; lines 1610-1659
+  start: '1610'
+  end: '1659'
+  translation: Symposium
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: divination is the peacemaker of gods and men
+  summary: The passage describes harmonious and wanton forms of love acting in seasons,
+    elements, health, disease, astronomy, sacrifice, and divination. It then shifts
+    to Aristophanes, whose hiccough is cured by sneezing, and to a joking exchange
+    with Eryximachus before Aristophanes’ speech.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The course of the seasons is said to contain both principles of love.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When hot and cold, moist and dry blend in temperance and harmony, they bring
+    health and plenty to men, animals, and plants.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Wanton love is described as destructive and injurious when it gains control
+    of the seasons.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Pestilence, diseases, hoar-frost, hail, and blight are attributed to excesses
+    and disorders in the elements of love.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Astronomy is defined here as knowledge of these excesses and disorders in
+    relation to heavenly revolutions and the seasons.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Sacrifices and divination are described as an art of communion between gods
+    and men.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Divination is said to preserve good love, cure evil love, and act as peacemaker
+    between gods and men.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The good love perfected with temperance and justice is said to produce happiness,
+    harmony, and friendship with gods and with one another.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Aristophanes says his hiccough is gone after applying sneezing.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Eryximachus warns Aristophanes that he is making fun of him and may be laughed
+    at in return.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Eryximachus
+  description: Named interlocutor who warns Aristophanes after Aristophanes jokes
+    about sneezing and bodily harmony.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: Aristophanes
+  description: Named interlocutor who says his hiccough is gone, jokes about sneezing,
+    and is about to speak.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Love
+  description: A force described in harmonious, good, wanton, and evil forms, affecting
+    seasons, elements, ritual life, and relations among gods and men.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: gods
+  description: Divine beings described as partners in communion with men and as beings
+    with whom good love makes humans friends.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: men
+  description: Humans described as receiving health and plenty, participating in communion
+    with gods, and needing harmonious love in actions and relationships.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: animals and plants
+  description: Living beings described as receiving health and plenty under harmonious
+    elemental love and diseases or blight under disordered love.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: dialogue interlocutor and admonisher
+  assigned_to:
+  - fig:1
+  basis: Eryximachus directly addresses Aristophanes and warns him about making fun.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: next speaker and comic respondent
+  assigned_to:
+  - fig:2
+  basis: Aristophanes follows, reports the end of his hiccough, laughs, and prepares
+    to speak.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: cosmic, ritual, and ethical force
+  assigned_to:
+  - fig:3
+  basis: Love is said to affect elements, seasons, sacrifices, divination, happiness,
+    harmony, and relations with gods and men.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:4
+  label: divine partners in communion
+  assigned_to:
+  - fig:4
+  basis: Sacrifice and divination are called communion between gods and men, and good
+    love makes humans friends with the gods.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: human participants and beneficiaries
+  assigned_to:
+  - fig:5
+  basis: Men receive health and plenty, participate in sacrificial and divinatory
+    communion, and are affected by harmonious or impious love.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:6
+  label: living recipients of seasonal effects
+  assigned_to:
+  - fig:6
+  basis: Animals and plants are said to benefit from harmonious elemental blending
+    and suffer diseases or blight from disorder.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: harmonious love
+  literal_form: harmonious love blending hot and cold, moist and dry in temperance
+    and harmony
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wanton or evil love
+  literal_form: wanton love and evil love associated with excess, disorder, pestilence,
+    disease, and impiety
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: seasons and elemental mixture
+  literal_form: course of the seasons; hot and cold, moist and dry
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - seasonal_cycle
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: sacrifice and divination
+  literal_form: all sacrifices and the whole province of divination as communion between
+    gods and men
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: sneezing as bodily cure
+  literal_form: sneezing applied to cure Aristophanes’ hiccough
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Seasonal harmony and disorder
+  summary: The speaker explains that harmonious blending of elemental opposites in
+    the seasons brings health and plenty, while disordered love brings pestilence,
+    disease, frost, hail, and blight.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ritual mediation between gods and men
+  summary: Sacrifice and divination are presented as practices concerned with preserving
+    good love, curing evil love, and maintaining peaceful communion between gods and
+    men.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Hiccough cured and comic exchange
+  summary: Aristophanes reports that sneezing cured his hiccough, jokes about bodily
+    harmony, and exchanges warnings and laughter with Eryximachus before speaking.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Dual loves as ordering and disordering powers
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts harmonious or good love with wanton or evil love across
+    seasons, ritual life, piety, and human-divine relations.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The contrast is philosophical and rhetorical rather than a narrative myth
+    episode.
+- id: motif:2
+  label: Seasonal cycle governed by elemental harmony
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The seasons and elemental opposites are described as producing health and
+    plenty when harmonized and disease or blight when disordered.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives a cosmological explanation, not a personified seasonal
+    myth narrative.
+- id: motif:3
+  label: Ritual communion between gods and humans
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: Sacrifice and divination are explicitly described as communion between gods
+    and men and as means to preserve good love and heal evil love.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not describe a specific sacrifice or reciprocal exchange
+    event; it defines ritual function generally.
+- id: motif:4
+  label: Knowledge that diagnoses and heals cosmic or religious imbalance
+  taxonomy_refs:
+  - wisdom
+  basis: Astronomy and divination are described as forms of knowledge that understand
+    disorders in seasons or human loves and work to heal them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available evidence supports a wisdom or knowledge pattern, but not
+    a discrete wisdom tale.
+- id: motif:5
+  label: Comic bodily cure through sneezing
+  taxonomy_refs: []
+  basis: Aristophanes reports that his hiccough was cured by sneezing and jokes that
+    the body’s harmony may have a love of such noises and ticklings.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a comic dialogue transition rather than a major mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1610-1620
+  quote_or_summary: The seasons contain both principles; harmonious blending of hot/cold
+    and moist/dry brings health and plenty, while wanton love brings pestilence, disease,
+    hoar-frost, hail, and blight.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1620-1623
+  quote_or_summary: Knowledge of elemental excesses and disorders in relation to heavenly
+    revolutions and seasons is termed astronomy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1623-1633
+  quote_or_summary: Sacrifices and divination are described as the art of communion
+    between gods and men; divination is called “the peacemaker of gods and men.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 1633-1640
+  quote_or_summary: Good love perfected with temperance and justice has great power,
+    produces happiness and harmony, and makes humans friends with gods and one another.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1641-1646
+  quote_or_summary: Aristophanes says his hiccough is gone after sneezing and jokes
+    about whether bodily harmony has a love of noises and ticklings.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1647-1659
+  quote_or_summary: Eryximachus warns Aristophanes about making fun of him; Aristophanes
+    laughs, prepares to speak, and is told he may be called to account.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; excerpt summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal dialogue content is clear. Motif labels are limited to patterns directly
+    supported by this philosophical passage; no cross-tradition comparison claims
+    were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only supplied passage and metadata were used. Taxonomy references are restricted to available motif family refs where directly supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-symposium-jowett-gutenberg__l1610-l1659
+  passage_sha256=05ed15ca05a056ff1cbff03b2a40580801c887da75f7a3e16b1276200f95aabc
+

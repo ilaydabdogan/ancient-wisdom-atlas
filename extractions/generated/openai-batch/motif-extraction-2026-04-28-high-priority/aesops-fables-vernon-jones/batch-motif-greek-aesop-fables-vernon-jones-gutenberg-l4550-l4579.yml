@@ -1,0 +1,376 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4550-l4579
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE DOGS AND THE FOX / THE NIGHTINGALE AND THE HAWK / THE ROSE AND THE AMARANTH
+    / THE MAN, THE HORSE, THE OX, AND THE DOG; lines 4550-4579
+  start: '4550'
+  end: '4579'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A rose and an amaranth compare beauty, scent, and durability: the rose
+    is admired but short-lived, while the amaranth is described as unfading. In a
+    separate fable, a man shelters a horse, an ox, and a dog during a winter storm;
+    in gratitude, the animals divide human life into parts and give each stage their
+    own traits.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Rose and an Amaranth blossom side by side in a garden.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Amaranth says it envies the Rose's beauty and sweet scent.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Rose replies that it blooms only for a time, then withers, falls, and
+    dies.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Rose says the Amaranth's flowers never fade, even when cut, and calls
+    them everlasting.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: During a severe winter storm, a Horse, an Ox, and a Dog ask a Man for shelter.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Man admits the animals, lights a fire for warmth, and gives appropriate
+    food to each.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When the storm ends, the animals decide to show gratitude by dividing the
+    life of Man among themselves.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Horse takes youth and gives it horse-like qualities of high spirit and
+    impatience of restraint.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Ox takes middle age and gives it qualities of steadiness and hard work.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The Dog takes old age and gives it qualities of peevishness, attachment to
+    comfort-givers, and snapping at unfamiliar or distasteful people.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Rose
+  description: A garden flower admired for beauty and sweet scent but described as
+    short-lived.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Amaranth
+  description: A neighboring garden flower described as less favored than the Rose
+    but unfading and everlasting.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Man
+  description: A householder who shelters and feeds the Horse, Ox, and Dog during
+    a storm.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Horse
+  description: An animal guest who later takes youth as its portion of human life.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Ox
+  description: An animal guest who later takes middle age as its portion of human
+    life.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Dog
+  description: An animal guest who later takes old age as its portion of human life.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: short-lived admired flower
+  assigned_to:
+  - fig:1
+  basis: The Rose is praised for beauty and scent but says it blooms only briefly
+    and dies.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: everlasting neighboring flower
+  assigned_to:
+  - fig:2
+  basis: The Amaranth is said to have flowers that never fade, even when cut.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: sheltering host
+  assigned_to:
+  - fig:3
+  basis: The Man admits the animals, warms them by a fire, and feeds them.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: grateful animal guest
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The animals seek shelter and later decide to repay the Man with gifts connected
+    to human life.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: donor of youthful traits
+  assigned_to:
+  - fig:4
+  basis: The Horse takes youth and explains high-mettled impatience in young men.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: donor of middle-age traits
+  assigned_to:
+  - fig:5
+  basis: The Ox takes middle age and explains steadiness and hard work.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: donor of old-age traits
+  assigned_to:
+  - fig:6
+  basis: The Dog takes old age and explains peevishness, attachment, and snapping
+    behavior.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: rose bloom
+  literal_form: Rose flower that blooms, withers, falls, and dies
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: everlasting amaranth flower
+  literal_form: Amaranth flowers that never fade even when cut
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fire for comfort
+  literal_form: Fire lit by the Man for cold, wet animal guests
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: divided life of Man
+  literal_form: Human life divided among Horse, Ox, and Dog into youth, middle age,
+    and old age
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Garden dialogue between Rose and Amaranth
+  summary: The Amaranth envies the Rose's beauty and scent; the Rose answers by contrasting
+    its own brief life with the Amaranth's unfading flowers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Shelter during the winter storm
+  summary: A Horse, an Ox, and a Dog ask a Man for shelter; he admits them, lights
+    a fire, and feeds each according to its needs.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Animals divide human life
+  summary: After the storm, the animals repay the Man by assigning portions of human
+    life to themselves, explaining traits of youth, middle age, and old age.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ephemeral beauty contrasted with unfading life
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The Rose's admired beauty is temporary, while the Amaranth is described as
+    never fading and everlasting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents a moral contrast between flowers rather than an explicit
+    seasonal myth.
+- id: motif:2
+  label: hospitality repaid by animal gifts
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Man gives shelter, fire, and food to animal guests, who then repay him
+    by endowing parts of human life with their qualities.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The exchange is framed as fable gratitude, not explicitly as sacred or
+    ritual exchange.
+- id: motif:3
+  label: animal explanation of human life stages
+  taxonomy_refs: []
+  basis: The Horse, Ox, and Dog divide human life into youth, middle age, and old
+    age, each stage receiving traits attributed to the animal.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly names etiological animal endowment
+    of human ages.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4550-4555
+  quote_or_summary: A Rose and an Amaranth blossom side by side; the Amaranth envies
+    the Rose's beauty and sweet scent and says the Rose is widely favored.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: 4555-4561
+  quote_or_summary: The Rose says it blooms only briefly, its petals soon wither and
+    fall, and it dies; it contrasts this with the Amaranth's flowers, which never
+    fade even when cut.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: 4563-4569
+  quote_or_summary: On a winter day during a severe storm, a Horse, Ox, and Dog beg
+    a Man for shelter; he admits them, lights a fire, gives oats to the Horse, hay
+    to the Ox, and dinner remains to the Dog.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: 4569-4573
+  quote_or_summary: When the storm abates and the animals are about to leave, they
+    decide to show gratitude by dividing the life of Man among themselves and endowing
+    each part with their own qualities.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: 4573-4579
+  quote_or_summary: The Horse takes youth, explaining high spirit and impatience;
+    the Ox takes middle age, explaining steadiness and hard work; the Dog takes old
+    age, explaining peevishness, attachment to comfort-givers, and snapping at unfamiliar
+    or disliked people.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif taxonomy alignment is partly
+    approximate, especially for the flower contrast and hospitality exchange. No comparison
+    claims are made because the passage itself does not supply an explicit comparative
+    frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Passage locator label mentioned additional fables, but the supplied passage text contains only 'The Rose and the Amaranth' and 'The Man, the Horse, the Ox, and the Dog.'
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4550-l4579
+  passage_sha256=ae5d134fbae4bbd2ef05084083ea551f8b9f0c78f3363d16828d1c2fc5838667
+

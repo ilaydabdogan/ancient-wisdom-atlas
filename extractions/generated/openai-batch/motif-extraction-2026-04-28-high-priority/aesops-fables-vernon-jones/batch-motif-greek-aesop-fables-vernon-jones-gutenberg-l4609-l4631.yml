@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4609-l4631
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE WOLVES, THE SHEEP, AND THE RAM / THE SWAN / THE SNAKE AND JUPITER / THE
+    WOLF AND HIS SHADOW; lines 4609-4631
+  start: '4609'
+  end: '4631'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a snake complains to Jupiter that it is often trodden on,
+    and Jupiter says that biting the first offender would have made others more careful.
+    In another, a wolf mistakes his enlarged evening shadow for evidence of greatness,
+    boasts that he should be king rather than fear a lion, and is then killed by a
+    lion, recognizing that fantasy ruined him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A snake suffers from being frequently trodden upon by humans and animals.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The snake's vulnerability is attributed to the length of his body and inability
+    to raise himself above the ground.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The snake complains to Jupiter about the risks he faces.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Jupiter responds with little sympathy and says that biting the first one who
+    trod on the snake would have made others more careful.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A wolf roams on a plain while the sun is low in the sky.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The wolf is impressed by the apparent size of his shadow.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The wolf says to himself that he is so large he should not fear a lion and
+    ought to be king of the beasts.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The wolf struts about heedless of danger.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A lion springs upon the wolf and begins to devour him.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The wolf says that losing sight of facts and following fancies has ruined
+    him.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Snake
+  description: A snake who is often trodden upon and complains to Jupiter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Jupiter
+  description: A divine figure who hears the snake's complaint and replies with little
+    sympathy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Man and beast
+  description: Humans and animals who tread upon the snake.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Wolf
+  description: A wolf who overestimates himself because of his large shadow and is
+    attacked by a lion.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Lion
+  description: A lion who springs upon and begins to devour the wolf.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: complainant
+  assigned_to:
+  - fig:1
+  basis: The snake goes to Jupiter and complains about the risks he faces.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: divine respondent
+  assigned_to:
+  - fig:2
+  basis: Jupiter answers the snake's complaint with advice rather than aid.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: treaders
+  assigned_to:
+  - fig:3
+  basis: Man and beast are described as constantly treading upon the snake.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: self-deceived victim
+  assigned_to:
+  - fig:4
+  basis: The wolf mistakes his shadow's apparent size for his own greatness and is
+    ruined.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:5
+  label: predator
+  assigned_to:
+  - fig:5
+  basis: The lion attacks and begins to devour the wolf.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: snake
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: shadow
+  literal_form: large shadow cast by the wolf when the sun is low
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: low sun
+  literal_form: sun getting low in the sky
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Snake complains to Jupiter
+  summary: A snake, suffering because it is repeatedly trodden on, complains to Jupiter,
+    who replies that defensive biting would have made others more careful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Wolf misled by his shadow
+  summary: A wolf on a plain at low sun sees his enlarged shadow, boasts that he should
+    rule rather than fear a lion, then is attacked and devoured by a lion.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: serpent complaint before a god
+  taxonomy_refs:
+  - serpent
+  basis: The passage features a snake who appeals to Jupiter about vulnerability to
+    humans and animals.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy supports the serpent symbol/family, but the passage
+    is a brief animal fable rather than an extended mythic serpent narrative.
+- id: motif:2
+  label: exaggerated self-image leading to destruction
+  taxonomy_refs: []
+  basis: The wolf takes his enlarged shadow as evidence of greatness, behaves fearlessly,
+    and is killed by a lion.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No specific supplied taxonomy reference directly matches this fable pattern.
+- id: motif:3
+  label: failure to defend oneself invites continued harm
+  taxonomy_refs: []
+  basis: Jupiter tells the snake that if he had bitten the first being who trod on
+    him, others would have been more careful.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is expressed as the fable's practical logic rather than a named motif
+    in the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4609-4614
+  quote_or_summary: A snake is repeatedly trodden upon by man and beast because of
+    his long body and inability to raise himself above the ground.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 4614-4616
+  quote_or_summary: The snake goes to Jupiter and complains about the risks to which
+    he is exposed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 4616-4619
+  quote_or_summary: Jupiter has little sympathy and says that biting the first one
+    who trod on the snake would have made others more careful.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 4621-4624
+  quote_or_summary: A wolf roams on a plain at low sun and is impressed by the size
+    of his shadow.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 4624-4627
+  quote_or_summary: The wolf tells himself that he is so big he should not fear a
+    lion and should be king of the beasts.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary only.
+- id: ev:6
+  type: summary
+  locator: lines 4627-4628
+  quote_or_summary: The wolf struts about heedless of danger.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary only.
+- id: ev:7
+  type: summary
+  locator: lines 4628-4629
+  quote_or_summary: A lion springs upon the wolf and begins to devour him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary only.
+- id: ev:8
+  type: summary
+  locator: lines 4629-4631
+  quote_or_summary: The wolf laments that losing sight of facts and following fancies
+    caused his ruin.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Candidate motifs are plain
+    descriptive labels; only the serpent taxonomy reference is directly supported
+    by the supplied taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The passage_locator label references additional fables, but the supplied passage_text includes only THE SNAKE AND JUPITER and THE WOLF AND HIS SHADOW; extraction is limited to the provided text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4609-l4631
+  passage_sha256=5a0c9faccb342cf6195e30df2a5fbfcbb4daee19da9394d7bcda8f2b7f55b0bf
+

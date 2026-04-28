@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l5320-l5341
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: PROMETHEUS AND THE MAKING OF MAN / THE SWALLOW AND THE CROW / THE HUNTER
+    AND THE HORSEMAN / THE GOATHERD AND THE WILD GOATS; lines 5320-5341
+  start: '5320'
+  end: '5341'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A goatherd shelters wild goats with his own flock during bad weather and
+    feeds the wild goats better in hopes they will stay. When released to pasture,
+    the wild goats flee to the hills. The goatherd accuses them of ingratitude, and
+    one wild goat replies that his preferential treatment of newcomers showed that
+    they too might later be neglected for newer arrivals.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A goatherd sees wild goats approach and mingle with his flock while he is
+    tending goats at pasture.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At day's end, the goatherd drives both his own goats and the wild goats home
+    and puts them together in a pen.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Bad weather prevents the goatherd from taking the goats out the next day,
+    so he keeps them in the pen and feeds them there.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The goatherd gives his own goats only enough food to keep them from starving,
+    but gives the wild goats more than enough food because he wants them to stay.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: When the weather improves and the goats are taken near the hills, the wild
+    goats break away and run off.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The goatherd verbally accuses the wild goats of ingratitude for leaving after
+    his treatment of them.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: One wild goat answers that being treated better than the goatherd's own flock
+    made them cautious, because they might later be neglected in favor of newer strangers.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Goatherd
+  description: A keeper of goats who tends his flock, pens the goats, feeds them,
+    and tries to retain the wild goats.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Goatherd's own goats
+  description: The goatherd's existing flock, fed only enough to keep them from starving
+    while the wild goats receive more.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Wild Goats
+  description: A group of wild goats that join the flock, receive abundant food, then
+    flee when taken near the hills.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: One wild goat
+  description: A member of the wild goats who turns back and explains why they distrusted
+    the goatherd's preferential treatment.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: herder
+  assigned_to:
+  - fig:1
+  basis: The figure tends goats, drives them home, pens them, and takes them out to
+    pasture.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: would-be captor or retainer
+  assigned_to:
+  - fig:1
+  basis: He feeds the wild goats well because he wants them to stay with him.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: neglected original flock
+  assigned_to:
+  - fig:2
+  basis: The goatherd gives his own goats only enough food to keep them from starving
+    while favoring the wild goats.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: newcomers
+  assigned_to:
+  - fig:3
+  basis: The wild goats approach and mingle with the established flock, and are described
+    in the speech as newcomers or strange goats.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:5
+  label: fleeing animals
+  assigned_to:
+  - fig:3
+  basis: When near the hills, they break away from the flock and run off.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: speaking explainer
+  assigned_to:
+  - fig:4
+  basis: One wild goat turns around and states the reason for the group's distrust.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: goat pen
+  literal_form: pen
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: hills
+  literal_form: hills
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: unequal food portions
+  literal_form: food given sparingly to the old flock and abundantly to the wild goats
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Wild goats join the flock
+  summary: While the goatherd is tending his goats at pasture, wild goats approach
+    and mingle with his flock.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Penning and unequal feeding
+  summary: The goatherd pens all the goats together during bad weather, feeding his
+    own goats minimally and the wild goats abundantly so they will remain with him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Wild goats flee to the hills
+  summary: After the weather improves, the goatherd takes all goats to pasture, but
+    the wild goats break away near the hills and run off.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Accusation and reply
+  summary: The goatherd calls the wild goats ungrateful, and one wild goat replies
+    that his excessive favor toward newcomers warned them they could later be displaced
+    by newer arrivals.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: preferential treatment of newcomers exposes future unreliability
+  taxonomy_refs:
+  - wisdom
+  basis: The wild goat explains that being favored over the goatherd's own flock made
+    them suspect they would be neglected if later newcomers appeared.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The available taxonomy has no exact fable-specific motif for ingratitude
+    or mistrust; 'wisdom' is a broad family reference.
+- id: motif:2
+  label: animals speak to reveal the practical moral
+  taxonomy_refs:
+  - wisdom
+  basis: A wild goat answers the goatherd and articulates the reasoning behind the
+    group's flight.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage presents animal speech as a fable device, but no explicit
+    moral sentence outside the dialogue is supplied.
+- id: motif:3
+  label: attempt to gain loyalty through excessive favors fails
+  taxonomy_refs: []
+  basis: The goatherd overfeeds the wild goats to make them stay, but they leave as
+    soon as they return near the hills.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a plain narrative pattern rather than a matched taxonomy motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5320-5323
+  quote_or_summary: The goatherd tends goats at pasture and sees wild goats approach
+    and mingle with his flock.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5323-5324
+  quote_or_summary: At the end of the day he drives all the goats home and puts them
+    together in the pen.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5324-5327
+  quote_or_summary: Bad weather prevents normal pasturing the next day, so the goats
+    remain in the pen and are fed there.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5327-5332
+  quote_or_summary: The goatherd gives his own goats only survival rations, but feeds
+    the wild goats abundantly because he wants them to stay.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5332-5334
+  quote_or_summary: When the weather improves and the goats are near the hills, the
+    wild goats break away and run off.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 5334-5337
+  quote_or_summary: 'The goatherd is disgusted and calls them ungrateful: "Rascals!"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 5337-5341
+  quote_or_summary: One wild goat replies that the goatherd's very good treatment
+    put them on guard, since favoring newcomers over his own flock suggested they
+    could later be neglected for still newer arrivals.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative actions and dialogue are clear. Motif labels are derived from
+    the supplied passage and broad taxonomy only; no external motif index was used.
+    No comparison claims are made because the passage itself does not compare to another
+    tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage was used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l5320-l5341
+  passage_sha256=a885dc05ccb266ed28f8f3f446c302390597401bdb8f0c9f84f5e2f30aa7cbd9
+

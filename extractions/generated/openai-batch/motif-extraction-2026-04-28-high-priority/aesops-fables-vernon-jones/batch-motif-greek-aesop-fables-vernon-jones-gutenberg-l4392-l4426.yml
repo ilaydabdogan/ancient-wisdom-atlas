@@ -1,0 +1,520 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4392-l4426
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BAT, THE BRAMBLE, AND THE SEAGULL / THE DOG AND THE WOLF / THE WASP AND
+    THE SNAKE / THE EAGLE AND THE BEETLE; lines 4392-4426
+  start: '4392'
+  end: '4426'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a wasp repeatedly stings a snake's head until the snake places
+    both himself and the wasp under a wagon wheel, killing them both. In another,
+    an eagle ignores a beetle's protection of a hare and eats the hare; the beetle
+    then repeatedly destroys the eagle's eggs, even when Jupiter allows the eagle
+    to lay them in his lap. The passage ends with a moral that the weak may find ways
+    to avenge an insult against the strong.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A wasp settles on a snake's head, stings him several times, and clings there.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The snake tries unsuccessfully to remove the wasp.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The snake says he will kill the wasp even at the cost of his own life.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The snake places his head, with the wasp on it, under a passing wagon wheel;
+    both die.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: An eagle chases a hare, and the hare seeks help from a beetle.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The beetle warns the eagle not to touch the hare, saying the hare is under
+    its protection.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The eagle ignores the beetle because it is small, seizes the hare, and eats
+    her.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The beetle watches the eagle's nest and breaks the eagle's eggs whenever they
+    are laid.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The eagle asks Jupiter, described as the special protector of eagles, for
+    a safe nesting place.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Jupiter lets the eagle lay eggs in his lap.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The beetle places a ball of dirt in Jupiter's lap; Jupiter shakes out his
+    robe and accidentally shakes out and breaks the eggs.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The passage says eagles have not laid eggs during the season when beetles
+    are present since then.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The stated moral is that the weak may sometimes avenge an insult even upon
+    the strong.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Wasp
+  description: A wasp that settles on a snake's head, stings him repeatedly, and remains
+    there until both die.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Snake
+  description: A snake tormented by the wasp who kills both the wasp and himself under
+    a wagon wheel.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Eagle
+  description: An eagle that chases and eats a hare, then loses her eggs through the
+    beetle's revenge.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Hare
+  description: A hare fleeing from the eagle who asks a beetle for aid and is eaten
+    by the eagle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Beetle
+  description: A small beetle that offers protection to the hare and later destroys
+    the eagle's eggs in revenge.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: Jupiter
+  description: The special protector of eagles who allows the eagle to lay eggs in
+    his lap but accidentally shakes them out.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: tormentor
+  assigned_to:
+  - fig:1
+  basis: The wasp repeatedly stings the snake and clings to his head.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: self-destructive avenger
+  assigned_to:
+  - fig:2
+  basis: The snake chooses to kill the wasp even at the cost of his own life.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: predator
+  assigned_to:
+  - fig:3
+  basis: The eagle chases and eats the hare.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: fugitive prey
+  assigned_to:
+  - fig:4
+  basis: The hare flees from the eagle and seeks help.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: protector
+  assigned_to:
+  - fig:5
+  basis: The beetle warns the eagle not to touch the hare under its protection.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: weak avenger
+  assigned_to:
+  - fig:5
+  basis: Although small, the beetle retaliates by destroying the eagle's eggs.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:9
+- id: role:7
+  label: strong offender
+  assigned_to:
+  - fig:3
+  basis: The eagle ignores the small beetle's warning and eats the protected hare.
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: role:8
+  label: divine protector
+  assigned_to:
+  - fig:6
+  basis: Jupiter is identified as the special protector of eagles and grants the eagle
+    a place for her eggs.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: Snake
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: head under wagon wheel
+  literal_form: The snake's head, with the wasp on it, placed under the wheel of a
+    passing wagon
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: eagle eggs
+  literal_form: Eggs laid by the eagle and repeatedly broken
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: nest
+  literal_form: The eagle's nest watched by the beetle
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Jupiter's lap
+  literal_form: Jupiter's lap used as a supposedly safe place for the eagle's eggs
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: ball of dirt
+  literal_form: A ball of dirt the size of an eagle's egg
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Wasp torments snake
+  summary: A wasp settles on the snake's head, repeatedly stings him, and cannot be
+    removed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mutual death under wagon wheel
+  summary: The snake declares he will kill the wasp even at the cost of his life,
+    puts his head under a wagon wheel, and both perish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hare seeks beetle's protection
+  summary: An eagle chases a hare; the hare asks a beetle for aid, and the beetle
+    warns the eagle not to touch the hare.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Eagle ignores beetle and eats hare
+  summary: The eagle disregards the small beetle, seizes the hare, and eats her.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Beetle destroys eagle's eggs
+  summary: The beetle watches the eagle's nest and repeatedly rolls out and breaks
+    the eagle's eggs.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Jupiter's protection fails
+  summary: The eagle asks Jupiter for a safe nesting place; Jupiter lets her lay eggs
+    in his lap, but the beetle tricks the situation with a ball of dirt, and Jupiter
+    accidentally shakes out the eggs.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:7
+  label: Etiological conclusion and moral
+  summary: The fable explains that eagles avoid laying eggs when beetles are about
+    and states that the weak may avenge an insult against the strong.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: mutual destruction in revenge
+  taxonomy_refs: []
+  basis: The snake kills the wasp by putting both under a wagon wheel, explicitly
+    accepting death as the cost of revenge.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a local fable pattern rather than a mapped taxonomy family in
+    the supplied list.
+- id: motif:2
+  label: weak avenger against the strong
+  taxonomy_refs: []
+  basis: The beetle, described as small and ignored by the eagle, repeatedly avenges
+    the hare by destroying the eagle's eggs; the stated moral generalizes this pattern.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The weak-versus-strong pattern is explicit in the moral, but no precise
+    supplied taxonomy reference fits it.
+- id: motif:3
+  label: violated protection followed by vengeance
+  taxonomy_refs: []
+  basis: The hare is under the beetle's protection, the eagle violates that protection
+    by eating the hare, and the beetle retaliates against the eagle's offspring.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The passage frames the retaliation as revenge for insult; the protection
+    aspect is present but not separately moralized.
+- id: motif:4
+  label: origin explanation for animal breeding season
+  taxonomy_refs: []
+  basis: The fable ends by explaining why eagles do not lay eggs when beetles are
+    about.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is an etiological fable pattern, not represented by a supplied taxonomy
+    reference.
+comparison_claims:
+- id: claim:1
+  claim: The fable explicitly generalizes the beetle's revenge as a weak-against-strong
+    pattern.
+  claim_level: same_function
+  target: weak avenges insult against strong pattern
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports only a functional pattern, not a claim of historical
+    contact, common inheritance, or a specific external parallel.
+- id: claim:2
+  claim: The closing explanation functions as an origin account for a seasonal animal
+    behavior.
+  claim_level: same_function
+  target: etiological animal-behavior explanation pattern
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives an origin explanation, but no external comparative
+    tradition is named in the provided text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4392-4397
+  quote_or_summary: A wasp settles on a snake's head, repeatedly stings him, and clings
+    there while the snake unsuccessfully tries to remove it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 4397-4401
+  quote_or_summary: The snake cries, "Kill you I will, even at the cost of my own
+    life," then puts his head with the wasp under a passing wagon wheel, and both
+    perish.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 4404-4407
+  quote_or_summary: An eagle chases a hare, and the hare, not knowing where to turn,
+    sees a beetle and begs for aid.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4407-4411
+  quote_or_summary: The beetle warns the eagle not to touch the hare under its protection,
+    but the eagle ignores the small beetle, seizes the hare, and eats her.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4411-4414
+  quote_or_summary: The beetle remembers the offense, watches the eagle's nest, and
+    whenever the eagle lays an egg, rolls it out and breaks it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4414-4418
+  quote_or_summary: The eagle, distressed over the loss of her eggs, goes to Jupiter,
+    the special protector of eagles, and he lets her lay eggs in his lap.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4418-4423
+  quote_or_summary: The beetle makes a ball of dirt the size of an eagle's egg and
+    puts it in Jupiter's lap; when Jupiter shakes out his robe, he accidentally shakes
+    out and breaks the eggs too.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 4423-4424
+  quote_or_summary: The fable says that since then eagles never lay eggs in the season
+    when beetles are about.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 4425-4426
+  quote_or_summary: '"The weak will sometimes find ways to avenge an insult, even
+    upon the strong."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are descriptive and mostly
+    not tied to supplied taxonomy references, except the serpent symbol.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. The passage locator label includes additional fable titles, but the supplied passage text contains only THE WASP AND THE SNAKE and THE EAGLE AND THE BEETLE.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4392-l4426
+  passage_sha256=9d89bfe988d87416d571f91a2da52c1b383d1a05e003dd726919e2c0ad6bd730
+

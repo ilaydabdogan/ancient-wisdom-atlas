@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l320-l388
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: The Odyssey / PREFACE TO FIRST EDITION / S. BUTLER. / PREFACE TO SECOND EDITION;
+    lines 320-388
+  start: '320'
+  end: '388'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a preface to the second edition describing the publication
+    history and editorial handling of Butler’s Odyssey translation, then discusses
+    a quoted Odyssey simile in which Ulysses restrains his heart, turns restlessly
+    like someone cooking a paunch before a fire, and thinks how to kill the suitors.
+    It closes with thanks to assistants who helped check quotations and references.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The preface states that Butler’s translation of the Odyssey first appeared
+    in 1900 and The Authoress of the Odyssey in 1897.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The new editions are described as faithful reprints, with page-size reduction,
+    smaller type, minor rearrangements, corrected misprints, and no attempt to update
+    the books.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage notes changes to the index, headlines, shoulder-notes, illustrations,
+    and the plan of the House of Ulysses.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A quoted Odyssey passage presents Ulysses chiding his heart, checking it into
+    endurance, and tossing from side to side.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The quoted simile compares Ulysses’ motion to a person turning a paunch full
+    of blood and fat before a hot fire so it will cook quickly.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In the quoted passage Ulysses thinks about how he, alone, might contrive to
+    kill the wicked suitors, who are described as a large body of men.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The preface contrasts Butler’s earlier statement that the comparison was between
+    Ulysses and the paunch with the translation’s comparison between Ulysses and a
+    person turning the paunch.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The preface thanks A. T. Bartholomew and Donald S. Robertson for assistance,
+    including checking and correcting quotations from and references to the Iliad
+    and Odyssey.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Samuel Butler
+  description: Named translator and author whose Odyssey translation and The Authoress
+    of the Odyssey are discussed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Ulysses
+  description: Hero in the quoted Odyssey passage who restrains his heart, tosses
+    restlessly, and thinks about killing the suitors.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: wicked suitors
+  description: A large body of men whom Ulysses considers killing single-handedly
+    in the quoted passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: person turning the paunch
+  description: 'The figure used in the simile: someone turning a paunch full of blood
+    and fat before a hot fire.'
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: A. T. Bartholomew and Donald S. Robertson
+  description: Named assistants thanked for helping see the works through the press
+    and for checking references and quotations.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: translator and discussed author
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Butler’s translation and related book, and discusses
+    changes between his works.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: enduring hero and solitary planner
+  assigned_to:
+  - fig:2
+  basis: Ulysses checks his heart into endurance and thinks how he might act single-handedly
+    against many suitors.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: opposing suitors
+  assigned_to:
+  - fig:3
+  basis: The suitors are the large group of men whom Ulysses thinks about killing.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: simile figure
+  assigned_to:
+  - fig:4
+  basis: The person turning the paunch supplies the image used to describe Ulysses’
+    motion.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: editorial assistants and reference checkers
+  assigned_to:
+  - fig:5
+  basis: The passage thanks these men for assistance, care, skill, and checking references
+    and quotations.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: hot fire
+  literal_form: Fire used for cooking a paunch in the quoted simile.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: paunch full of blood and fat
+  literal_form: A paunch full of blood and fat being turned before a hot fire in the
+    simile.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: plan of the House of Ulysses
+  literal_form: An illustration or plan mentioned as needing reduction in the new
+    edition.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Second-edition editorial account
+  summary: The preface describes the publication history of Butler’s works and the
+    editorial changes made for the new editions.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Ulysses’ restless endurance and planning
+  summary: In the quoted Odyssey passage, Ulysses restrains his heart, turns restlessly
+    like someone cooking a paunch before a hot fire, and considers how to kill the
+    suitors alone.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Editorial comparison of two simile readings
+  summary: The preface explains that Butler’s earlier comment treated the comparison
+    as Ulysses to a paunch, while the translation presents Ulysses as like the person
+    turning the paunch.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Acknowledgment of scholarly assistance
+  summary: The preface thanks Bartholomew and Robertson for assistance, especially
+    checking quotations and references to the Iliad and Odyssey.
+  figure_refs:
+  - fig:5
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: hero restrains the heart before revenge against many opponents
+  taxonomy_refs: []
+  basis: The quoted passage shows Ulysses checking his heart into endurance while
+    thinking how, alone, he might kill the many suitors.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is a preface quoting a short Odyssey excerpt; it does not
+    narrate the full revenge episode.
+- id: motif:2
+  label: culinary fire simile for restless inner tension
+  taxonomy_refs: []
+  basis: Ulysses’ tossing is compared to a person turning a blood-and-fat paunch before
+    a hot fire to cook it quickly.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a literary simile rather than a full narrative motif.
+- id: motif:3
+  label: single hero against a large hostile group
+  taxonomy_refs: []
+  basis: Ulysses is described as single-handed while considering action against a
+    large body of wicked suitors.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage only states Ulysses’ contemplated action, not the outcome.
+comparison_claims:
+- id: claim:1
+  claim: 'The preface compares two formulations of the same simile: an earlier reading
+    in which Ulysses is compared to a paunch and the translation’s wording in which
+    Ulysses is compared to the person turning the paunch.'
+  claim_level: linguistic_similarity
+  target: Butler’s The Authoress of the Odyssey statement versus Butler’s Odyssey
+    translation wording
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an editorial and literary comparison internal to Butler’s works,
+    not evidence of historical contact or a broader mythological motif family.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 320-329
+  quote_or_summary: The passage dates Butler’s Odyssey translation to 1900 and The
+    Authoress of the Odyssey to 1897, and introduces the second-edition preface.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 330-338
+  quote_or_summary: The preface says the page size was reduced, smaller type was used,
+    references were preserved, minor alterations were made, and the editions were
+    not otherwise updated.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 340-353
+  quote_or_summary: The passage lists revisions to the index, headlines, shoulder-notes,
+    illustration layout, and reduced plan of the House of Ulysses.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 354-368
+  quote_or_summary: Ulysses checks his heart into endurance, tosses like one turning
+    a paunch before a hot fire, and thinks how he might single-handedly kill the wicked
+    suitors.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; short summarized quotation.
+- id: ev:5
+  type: summary
+  locator: lines 369-374
+  quote_or_summary: 'The preface says Butler may have changed his mind: the earlier
+    comparison was between Ulysses and the paunch, while the translation compares
+    Ulysses to the person turning it.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 375-388
+  quote_or_summary: The preface thanks A. T. Bartholomew and Donald S. Robertson,
+    noting Robertson checked and corrected quotations from and references to the Iliad
+    and Odyssey.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The editorial and bibliographic material is straightforward. Motif candidates
+    are limited because the passage contains only a quoted excerpt from the Odyssey
+    embedded in a preface.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference applied only to the explicit fire image.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l320-l388
+  passage_sha256=c470bee21da40209ba24513e0ca7c764502607a27fd6417bbf175bf3edf334bd
+

@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l5029-l5043
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE WITCH / THE OLD MAN AND DEATH / THE MISER / THE FOXES AND THE RIVER;
+    lines 5029-5043
+  start: '5029'
+  end: '5043'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Several foxes gather by a dangerous river to drink but hesitate. One fox
+    boasts that he is unafraid and steps into the water; the current carries him away.
+    The others ask him to return and show them a safe drinking place, but he answers
+    that the current is taking him to the seaside and that he will show them when
+    he returns.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A number of foxes assemble on the bank of a river because they want to drink.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The river current is strong, and the water appears deep and dangerous.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The foxes do not dare to drink and stand near the edge encouraging one another
+    not to be afraid.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One fox claims he is not frightened and says he will step into the water to
+    show his bravery.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After stepping into the water, the fox is swept off his feet by the current.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The other foxes call for the carried-away fox to return and show them where
+    they can drink safely.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The carried-away fox says he cannot return yet and frames his being carried
+    by the current as a trip to the seaside.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: group of foxes
+  description: A number of foxes assembled on the bank of a river wanting to drink
+    but afraid of the dangerous water.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: boasting fox
+  description: One fox who tries to shame the rest, claims not to be frightened, steps
+    into the water, and is carried downstream.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: hesitant observers
+  assigned_to:
+  - fig:1
+  basis: The group remains at the river edge, afraid to drink, and later watches the
+    other fox carried downstream.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:2
+  label: boaster of courage
+  assigned_to:
+  - fig:2
+  basis: The fox says he is not frightened and steps into the water to demonstrate
+    bravery.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: victim of current
+  assigned_to:
+  - fig:2
+  basis: The current sweeps the fox off his feet and carries him downstream.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: river
+  literal_form: river with strong current and deep, dangerous-looking water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: current
+  literal_form: strong river current that carries the fox downstream toward the seaside
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: seaside
+  literal_form: the seaside named by the carried-away fox as his destination
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: foxes hesitate at the riverbank
+  summary: The foxes gather at the river to drink, but the strong current and dangerous-looking
+    water keep them at the edge.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: boastful fox enters the river
+  summary: One fox declares himself unafraid, steps into the water, and is immediately
+    swept downstream by the current.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: carried-away fox answers the others
+  summary: The remaining foxes ask the carried-away fox to return and show them a
+    safe drinking place, but he says the current is taking him to the seaside and
+    that he will show them when he comes back.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: boastful courage exposed by danger
+  taxonomy_refs: []
+  basis: A fox publicly claims fearlessness and enters a dangerous river, only to
+    be swept away by the current.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a fable-pattern motif rather than one of the supplied mythic motif-family
+    taxonomy refs.
+- id: motif:2
+  label: rationalizing unavoidable misfortune
+  taxonomy_refs:
+  - wisdom
+  basis: After being swept away, the fox presents his loss of control as though it
+    were an intended journey to the seaside.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The wisdom taxonomy ref is broad; the passage supports a moral or prudential
+    reading but does not state an explicit moral in the supplied text.
+- id: motif:3
+  label: dangerous water boundary
+  taxonomy_refs: []
+  basis: The river is a barrier to drinking because its strong current and deep, dangerous-looking
+    water threaten those who enter it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage uses the river as a practical hazard, not as an explicitly
+    sacred or underworld boundary.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5029-5031
+  quote_or_summary: Foxes assemble on a riverbank wanting to drink.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief summary.
+- id: ev:2
+  type: summary
+  locator: lines 5031-5033
+  quote_or_summary: The current is strong, and the water looks deep and dangerous.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief summary.
+- id: ev:3
+  type: summary
+  locator: lines 5033-5035
+  quote_or_summary: The foxes do not dare to drink and encourage one another near
+    the edge.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief summary.
+- id: ev:4
+  type: quote
+  locator: lines 5035-5038
+  quote_or_summary: '"I am not a bit frightened! See, I''ll step right into the water!"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 5038-5039
+  quote_or_summary: As soon as the fox enters the water, the current sweeps him off
+    his feet.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief summary.
+- id: ev:6
+  type: summary
+  locator: lines 5039-5041
+  quote_or_summary: The other foxes call for him to return and show them where they
+    can drink safely.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief summary.
+- id: ev:7
+  type: summary
+  locator: lines 5041-5043
+  quote_or_summary: The swept-away fox says he cannot yet return, because he wants
+    to go to the seaside and the current will take him there.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are candidate analytic
+    descriptions; no passage-supported comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage text was used; the broader locator label mentions other fables not present in the supplied passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l5029-l5043
+  passage_sha256=6362792d7c8ef43dd68102da5313a44818aa6f995e23bf38f86c2b136b3c74f4
+

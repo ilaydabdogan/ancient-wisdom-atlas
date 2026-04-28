@@ -1,0 +1,403 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l5283-l5302
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE HAWK, THE KITE, AND THE PIGEONS / THE WOMAN AND THE FARMER / PROMETHEUS
+    AND THE MAKING OF MAN / THE SWALLOW AND THE CROW; lines 5283-5302
+  start: '5283'
+  end: '5302'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"forms of men but the souls of beasts"'
+  summary: Prometheus creates humans and animals at Jupiter's bidding, then turns
+    some animals into men to balance rational mankind against irrational beasts. In
+    a second fable, a Swallow claims she was once an Athenian princess whose tongue
+    was cut out by her husband and who was turned into a bird by Juno; a Crow mocks
+    her continued chatter.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Prometheus sets about creating Man and the other animals at Jupiter's bidding.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jupiter observes that rational mankind is far outnumbered by irrational beasts.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Jupiter orders Prometheus to redress the balance by turning some beasts into
+    men.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Prometheus obeys, and the passage explains that some people have human forms
+    but beastly souls.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A Swallow boasts to a Crow about her birth.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Swallow says she was once a princess and daughter of a King of Athens.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Swallow says her husband used her cruelly and cut out her tongue for a
+    slight fault.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Swallow says Juno turned her into a bird to protect her from further injury.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The Crow replies that the Swallow chatters enough even after losing her tongue.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Jupiter
+  description: Deity who commands Prometheus and orders the balance between mankind
+    and beasts to be redressed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Prometheus
+  description: Maker who creates Man and the other animals, then turns some beasts
+    into men at Jupiter's command.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Mankind
+  description: The only rational creatures in the creation account, initially outnumbered
+    by irrational beasts.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Irrational beasts
+  description: Animals contrasted with rational mankind; some are turned into men.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: People with forms of men but souls of beasts
+  description: People explained as resulting from beasts being turned into men.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Swallow
+  description: Bird who claims former identity as an Athenian princess with a cruel
+    husband and a cut-out tongue.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Crow
+  description: Bird who listens to the Swallow's boast and mocks her chatter.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Juno
+  description: Deity said to have turned the abused princess into a bird for protection.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: King of Athens
+  description: Father of the princess in the Swallow's claimed former life.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: Husband of the princess
+  description: Man said to have used the princess cruelly and cut out her tongue.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: divine commander
+  assigned_to:
+  - fig:1
+  basis: Jupiter bids Prometheus create and orders him to redress the balance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: creator of humans and animals
+  assigned_to:
+  - fig:2
+  basis: Prometheus undertakes the creation of Man and other animals.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: agent of transformation
+  assigned_to:
+  - fig:2
+  basis: Prometheus turns some beasts into men as ordered.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: rational creatures
+  assigned_to:
+  - fig:3
+  basis: Mankind is described as the only rational creatures.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: transformed beasts
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Some irrational beasts are turned into men, explaining people with human
+    forms and beastly souls.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: boaster
+  assigned_to:
+  - fig:6
+  basis: The Swallow boasts to the Crow about her birth.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: transformed princess
+  assigned_to:
+  - fig:6
+  basis: The Swallow says she was once a princess and was turned into a bird.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:8
+  label: mocking respondent
+  assigned_to:
+  - fig:7
+  basis: The Crow replies by mocking the Swallow's chatter.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: divine protector-transformer
+  assigned_to:
+  - fig:8
+  basis: Juno is said to turn the princess into a bird to protect her from further
+    injury.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: royal father
+  assigned_to:
+  - fig:9
+  basis: The Swallow claims she was the daughter of a King of Athens.
+  evidence_refs:
+  - ev:3
+- id: role:11
+  label: cruel spouse
+  assigned_to:
+  - fig:10
+  basis: The husband is said to have used her cruelly and cut out her tongue.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: human form with beast soul
+  literal_form: people having the forms of men but the souls of beasts
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: bird transformation
+  literal_form: princess turned into a bird
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: lost tongue
+  literal_form: tongue cut out
+  associated_figures:
+  - fig:6
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Prometheus creates and transforms living beings
+  summary: At Jupiter's direction, Prometheus creates humans and animals, then turns
+    some beasts into men to alter the balance between rational humans and irrational
+    animals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Swallow recounts former royal life and transformation
+  summary: The Swallow tells the Crow that she was once a princess, was mutilated
+    by her husband, and was turned into a bird by Juno for protection.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Crow mocks the Swallow
+  summary: The Crow responds that the Swallow chatters enough despite losing her tongue.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: creation of humans and animals by a named maker under divine command
+  taxonomy_refs:
+  - culture_hero
+  basis: Prometheus creates Man and the other animals at Jupiter's bidding.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents Prometheus as a maker, but it does not explicitly
+    call him a culture hero.
+- id: motif:2
+  label: animal-to-human transformation explaining mixed human and beast nature
+  taxonomy_refs:
+  - shapeshifter
+  basis: Some beasts are turned into men, explaining people with human forms and beastly
+    souls.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The transformation is etiological and moralizing rather than a developed
+    shapeshifter narrative.
+- id: motif:3
+  label: human transformed into bird for protection
+  taxonomy_refs:
+  - shapeshifter
+  basis: The Swallow says Juno turned her from an abused princess into a bird to protect
+    her from further injury.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The account is embedded in the Swallow's boast and is immediately mocked
+    by the Crow.
+- id: motif:4
+  label: mutilated speech organ and ironic chatter
+  taxonomy_refs: []
+  basis: The Swallow claims her tongue was cut out, while the Crow says she still
+    chatters enough.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: No supplied taxonomy reference directly matches this verbal-irony pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5283-5286
+  quote_or_summary: At Jupiter's bidding, Prometheus begins creating Man and the other
+    animals; Jupiter notes that rational mankind is outnumbered by irrational beasts.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 5286-5289
+  quote_or_summary: Jupiter tells Prometheus to turn some beasts into men; Prometheus
+    obeys, explaining why some people have "forms of men but the souls of beasts."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: 5293-5297
+  quote_or_summary: The Swallow boasts to the Crow that she was once a princess, daughter
+    of a King of Athens, and that her husband cruelly cut out her tongue.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 5297-5299
+  quote_or_summary: The Swallow says Juno turned her into a bird to protect her from
+    further injury.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 5299-5302
+  quote_or_summary: The Crow says the Swallow chatters enough as it is and wonders
+    what she would be like if she had not lost her tongue.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized with brief quoted sense avoided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Passage is brief and explicit. Motif taxonomy assignment is limited to available
+    references and should be reviewed, especially the culture_hero label for Prometheus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a direct comparison beyond internal motif identification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l5283-l5302
+  passage_sha256=8e561e86ab7d3cc713d782a1a4023f87c146fa86566d7333c62ced618066e030
+

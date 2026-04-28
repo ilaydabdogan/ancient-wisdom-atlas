@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l5144-l5163
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE LION, THE FOX, AND THE STAG / THE MAN WHO LOST HIS SPADE / THE PARTRIDGE
+    AND THE FOWLER / THE RUNAWAY SLAVE; lines 5144-5163
+  start: '5144'
+  end: '5163'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a captured partridge asks a fowler to spare it and promises
+    to lure other partridges into the nets; the fowler refuses, saying the treacherous
+    offer makes it deserve death. In the next fable, a runaway slave is pursued by
+    his master, hides in a treadmill, and is told by the master that this is the very
+    place for him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A fowler catches a partridge in nets and is about to wring its neck.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The partridge appeals for its life and offers to decoy other partridges into
+    the fowler's nets.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fowler refuses to spare the partridge and says its treacherous speech
+    makes it deserve its fate.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A discontented slave runs away from his master.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The master mounts a horse and pursues the runaway slave.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The slave hides in a treadmill in the hope of avoiding capture.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The master identifies the treadmill as the very place for the slave.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Fowler
+  description: A bird-catcher who catches a partridge, considers killing it, and rejects
+    its appeal.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Partridge
+  description: A captured bird that begs for life and offers to lure other partridges
+    into the nets.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Slave
+  description: A discontented runaway who hides in a treadmill while being pursued.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Master
+  description: The slave's master, who pursues the fugitive and comments on his hiding
+    place.
+  role_refs:
+  - role:6
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: captor
+  assigned_to:
+  - fig:1
+  basis: The fowler catches the partridge in his nets.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: judge of fitting consequence
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The fowler rejects the treacherous appeal as deserving its fate; the master
+    declares the treadmill the fitting place for the runaway.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:3
+  label: captured supplicant
+  assigned_to:
+  - fig:2
+  basis: The partridge makes a piteous appeal to be spared.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: would-be betrayer of its own kind
+  assigned_to:
+  - fig:2
+  basis: The partridge offers to decoy other partridges into the nets.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: fugitive
+  assigned_to:
+  - fig:3
+  basis: The slave runs away and hides to avoid capture.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:6
+  label: pursuer
+  assigned_to:
+  - fig:4
+  basis: The master mounts his horse and pursues the fugitive.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: nets
+  literal_form: fowler's nets
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: treadmill
+  literal_form: treadmill used as a hiding place
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: horse
+  literal_form: horse mounted by the master during pursuit
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Captured partridge offers betrayal for survival
+  summary: A partridge caught in nets begs the fowler to spare it and promises to
+    lure other partridges into the same nets.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Fowler rejects the partridge's appeal
+  summary: The fowler refuses mercy and says the partridge's treacherous speech makes
+    it deserve its fate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Runaway slave pursued and hidden in treadmill
+  summary: A slave runs away from his master; the master pursues him on horseback,
+    and the slave hides in a treadmill.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Master comments on the hiding place
+  summary: The master finds or addresses the slave in the treadmill and says it is
+    the very place for him.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: captured animal offers to betray its own kind
+  taxonomy_refs: []
+  basis: The partridge asks for life in exchange for decoying other partridges into
+    the fowler's nets.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives a compact fable action rather than an explicit comparative
+    motif label.
+- id: motif:2
+  label: treacherous plea rejected by captor
+  taxonomy_refs: []
+  basis: The fowler refuses to spare the partridge because its offer is treacherous.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: Interpretation is limited to the explicit rejection of the speech as treacherous.
+- id: motif:3
+  label: fugitive hides in a place that fits his punishment or labor
+  taxonomy_refs: []
+  basis: The runaway slave hides in a treadmill, and the master says that is the very
+    place for him.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The treadmill's punitive or labor-related appropriateness is implied by
+    the master's statement, not explained at length in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5144-5147
+  quote_or_summary: A fowler catches a partridge in his nets and is about to wring
+    its neck.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 5147-5150
+  quote_or_summary: 'The partridge says: "Do not kill me, but let me live" and promises
+    to repay the fowler by "decoying other partridges into your nets."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: 5150-5153
+  quote_or_summary: The fowler refuses and says that after the partridge's "treacherous
+    speech" it deserves its fate.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 5155-5157
+  quote_or_summary: A slave, discontented with his lot, runs away from his master.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 5157-5159
+  quote_or_summary: The master notices the slave is missing, mounts his horse, and
+    pursues him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 5159-5162
+  quote_or_summary: The slave hopes to avoid capture by slipping into a treadmill
+    and hiding there.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: 5162-5163
+  quote_or_summary: The master says, "that's the very place for you, my man!"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive and not
+    matched to supplied taxonomy families. No comparison claims are made because the
+    passage itself does not support a cross-text or cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l5144-l5163
+  passage_sha256=a5c0877eeb9c5033b8604b7655839f1ab703f81654816c5d7ab409dd94de2b24
+

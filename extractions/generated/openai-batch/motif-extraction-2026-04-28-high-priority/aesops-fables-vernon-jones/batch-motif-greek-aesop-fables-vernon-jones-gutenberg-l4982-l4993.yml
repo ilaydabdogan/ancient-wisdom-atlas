@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4982-l4993
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FOX AND THE LEOPARD / THE FOX AND THE HEDGEHOG / THE CROW AND THE RAVEN
+    / THE WITCH; lines 4982-4993
+  start: '4982'
+  end: '4993'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“You say you can avert the anger of the gods. How comes it, then, that you
+    have failed to disarm the enmity of men?”"
+  summary: A witch claims secret charms can avert divine anger and earns money from
+    this claim. She is accused of black magic, brought before judges, found guilty,
+    condemned to death, and mocked by a judge for being unable to avert human hostility.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A witch professes that she can avert the anger of the gods by secret charms.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The witch makes a brisk trade and a fat livelihood from her claimed ability.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Certain persons accuse the witch of black magic and bring her before judges.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The accusers demand that the witch be put to death for dealings with the Devil.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The witch is found guilty and condemned to death.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A judge asks why, if she can avert divine anger, she has failed to disarm
+    human enmity.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Witch
+  description: A woman identified as a witch who claims secret charms can avert the
+    anger of the gods and who is later condemned to death.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: certain persons
+  description: Persons who accuse the witch of black magic and carry her before the
+    judges.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: judges
+  description: Judicial figures before whom the witch is brought; they find her guilty
+    and condemn her to death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: one judge
+  description: A judge who addresses the condemned witch with a pointed question as
+    she leaves the dock.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: gods
+  description: Divine beings whose anger the witch claims she can avert.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:6
+  name_or_label: Devil
+  description: A being mentioned in the accusation that the witch has dealings with
+    the Devil.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: claimed magical practitioner
+  assigned_to:
+  - fig:1
+  basis: The witch professes to avert divine anger by secret charms.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: condemned defendant
+  assigned_to:
+  - fig:1
+  basis: She is found guilty and condemned to death.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: accusers
+  assigned_to:
+  - fig:2
+  basis: They accuse her and bring her before the judges.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: judicial authority
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The judges receive the accused woman, find her guilty, and condemn her.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: ironic questioner
+  assigned_to:
+  - fig:4
+  basis: One judge challenges the witch’s claim by asking why she could not disarm
+    human enmity.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: invoked divine powers
+  assigned_to:
+  - fig:5
+  basis: The gods are named as the beings whose anger the witch claims to avert.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: accusatory supernatural association
+  assigned_to:
+  - fig:6
+  basis: The Devil is mentioned as the being with whom the witch is accused of dealing.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: secret charms
+  literal_form: charms possessed as a secret by the witch
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: dock
+  literal_form: the dock from which the condemned witch is leaving
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Claimed charm trade
+  summary: The witch claims secret charms can avert the anger of the gods and profits
+    from that claim.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Accusation and judgment
+  summary: Accusers bring the witch before judges, charge her with black magic and
+    dealings with the Devil, and she is condemned to death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Judge’s ironic challenge
+  summary: As the witch leaves the dock, a judge asks why she could not avert human
+    enmity if she could avert divine anger.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: secret charms claimed to avert divine anger
+  taxonomy_refs: []
+  basis: The witch claims exclusive secret charms that can avert the anger of the
+    gods.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage reports the claim but does not confirm that the charms work.
+- id: motif:2
+  label: magical claim exposed by inability to escape human judgment
+  taxonomy_refs:
+  - wisdom
+  basis: The judge’s question contrasts the witch’s claimed power over divine anger
+    with her failure to avoid human enmity and legal punishment.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy link to wisdom rests on the judge’s pointed moral reasoning;
+    the passage itself does not name wisdom as a theme.
+- id: motif:3
+  label: accusation of black magic leading to condemnation
+  taxonomy_refs: []
+  basis: The witch is accused of black magic and dealings with the Devil, brought
+    before judges, found guilty, and condemned to death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe the legal process beyond accusation, conviction,
+    and sentence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4982-4986
+  quote_or_summary: A witch claims she alone possesses secret charms able to avert
+    the anger of the gods and earns a living from this claim.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 4986-4989
+  quote_or_summary: Certain persons accuse the witch of black magic, carry her before
+    judges, and demand death for dealings with the Devil.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: lines 4990-4991
+  quote_or_summary: The witch is found guilty and condemned to death.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: quote
+  locator: lines 4991-4993
+  quote_or_summary: "“You say you can avert the anger of the gods. How comes it, then,
+    that you have failed to disarm the enmity of men?”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive and require
+    human review, especially the optional taxonomy reference to wisdom. No comparison
+    claims are made because the provided passage does not itself support a comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; although the locator label names several fables, the provided passage contains only “THE WITCH.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4982-l4993
+  passage_sha256=078cf30dff4720b7ddca63567c8ceb5a38990619a2a3a809bed8126497ad9f51
+

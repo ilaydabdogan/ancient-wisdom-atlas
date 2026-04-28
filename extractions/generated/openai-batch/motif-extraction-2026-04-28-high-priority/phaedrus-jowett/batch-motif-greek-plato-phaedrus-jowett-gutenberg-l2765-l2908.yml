@@ -1,0 +1,448 @@
+---
+record_id: batch.motif.greek-plato-phaedrus-jowett-gutenberg-l2765-l2908
+source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+passage_locator:
+  label: PHAEDRUS / INTRODUCTION. / ON THE DECLINE OF GREEK LITERATURE. / PHAEDRUS;
+    lines 2765-2908
+  start: '2765'
+  end: '2908'
+  translation: Phaedrus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Socrates and Phaedrus discuss whether rhetoric can persuade by opinion
+    without truth. Socrates uses an ass mistaken for a horse as an example of deceptive
+    persuasion, personifies rhetoric as defending itself, and argues that genuine
+    speaking requires knowledge of truth, likeness, and difference. The dialogue also
+    mentions Nestor, Odysseus, Palamedes/Zeno, and contemporary rhetoricians in relation
+    to the art of speaking and disputation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Socrates asks whether a good speaker's mind should know the truth about the
+    matter on which he speaks.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Phaedrus reports a view that an orator concerns himself with what the many
+    will approve, and that persuasion comes from opinion rather than truth.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Socrates presents an imagined case in which he persuades Phaedrus to treat
+    a long-eared tame animal as a horse and then praises an ass as a war animal.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Socrates extends the example to an orator who substitutes good for evil while
+    both he and the city are ignorant of their true nature.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Rhetoric is personified as answering that it does not force anyone to speak
+    in ignorance and would advise first arriving at truth.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Socrates says opposing arguments declare rhetoric to be routine and trick
+    unless joined to truth, and a Spartan voice says no true art of speaking exists
+    when divorced from truth.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Socrates describes rhetoric, in general terms, as an art of enchanting the
+    mind by arguments across public and private settings.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The dialogue names Nestor, Odysseus, Palamedes, Gorgias, Thrasymachus, Theodorus,
+    and Zeno in connection with rhetoric or disputation.
+  category: relationship
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:9
+  text: Socrates says the art of disputation can make the same thing appear just or
+    unjust, good or the reverse, like and unlike, one and many, at rest and in motion.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Socrates and Phaedrus agree that deception is easier when differences are
+    small and that a deceiver must know real likenesses and differences.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Speaker who questions Phaedrus, gives analogies, personifies rhetoric,
+    and argues that knowledge of truth is necessary for speaking and deception alike.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:9
+- id: fig:2
+  name_or_label: Phaedrus
+  description: Interlocutor who reports a common view of rhetoric and answers Socrates'
+    questions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:9
+- id: fig:3
+  name_or_label: orator
+  description: A hypothetical speaker who may persuade by opinion, substitute an ass
+    for a horse, or confuse good with evil before an ignorant city.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: rhetoric personified
+  description: Rhetoric is spoken of as a lady who defends herself by saying she advises
+    speakers to reach truth before coming to her.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Eleatic Palamedes / Zeno
+  description: Named as having an art of speaking that makes the same things appear
+    like and unlike, one and many, at rest and in motion.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Nestor and Odysseus
+  description: Named as figures associated with rhetoric composed in leisure at Troy.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Gorgias, Thrasymachus, and Theodorus
+  description: Named by Phaedrus in a comparison with Nestor and Odysseus in the discussion
+    of rhetoric.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: questioning teacher
+  assigned_to:
+  - fig:1
+  basis: Socrates frames the discussion through questions and examples about speaking,
+    truth, and deception.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:9
+- id: role:2
+  label: critic of rhetoric without truth
+  assigned_to:
+  - fig:1
+  basis: Socrates tests claims about persuasion from opinion and develops the conclusion
+    that the speaker must know truth, likeness, and difference.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:9
+- id: role:3
+  label: responding interlocutor
+  assigned_to:
+  - fig:2
+  basis: Phaedrus answers Socrates' questions and reports what he has heard about
+    rhetoric.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:9
+- id: role:4
+  label: hypothetical deceptive persuader
+  assigned_to:
+  - fig:3
+  basis: The orator is described as persuading through false substitution or confusion
+    of good and evil.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: personified art under defense
+  assigned_to:
+  - fig:4
+  basis: Rhetoric is personified as answering accusations and defending its relation
+    to truth and persuasion.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: master of oppositional disputation
+  assigned_to:
+  - fig:5
+  basis: Palamedes/Zeno is described as making the same things appear under opposed
+    predicates.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: exemplary rhetorician reference
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The names are invoked in a discussion of rhetorical traditions and practitioners.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: ass mistaken for horse
+  literal_form: ass called a horse
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: shadow of an ass
+  literal_form: shadow of an ass confounded with a horse
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: seed and harvest
+  literal_form: rhetoric sowing seed and gathering a harvest
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: enchantment by arguments
+  literal_form: enchanting the mind by arguments
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: light of day
+  literal_form: drawing likenesses and disguises into the light of day
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Truth and opinion in rhetoric
+  summary: Phaedrus states that orators may work with what judges approve rather than
+    with true justice, while Socrates asks whether good speaking requires knowing
+    the truth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ass and horse analogy
+  summary: Socrates imagines persuading Phaedrus to treat an ass as a horse, then
+    applies the analogy to confusing good with evil before an ignorant city.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Rhetoric personified and judged
+  summary: Rhetoric is imagined as defending itself by saying truth should be learned
+    first, while opposing arguments deny that speech without truth is a real art.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Disputation and likeness
+  summary: Socrates broadens rhetoric to an art of enchanting minds, invokes named
+    rhetoricians and disputants, and argues that deception requires knowledge of likeness
+    and difference.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: wisdom as knowledge of truth before persuasive speech
+  taxonomy_refs:
+  - wisdom
+  basis: The passage repeatedly contrasts persuasion from opinion with speaking grounded
+    in truth, and concludes that ignorance of a subject prevents accurate judgment
+    of likeness.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:9
+  confidence: high
+  cautions: This is a philosophical argument rather than a mythic narrative episode.
+- id: motif:2
+  label: deceptive substitution of one thing for another
+  taxonomy_refs: []
+  basis: Socrates uses the imagined substitution of an ass for a horse and good for
+    evil to illustrate false persuasion.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents an analogy, not an enacted mythic transformation.
+- id: motif:3
+  label: speech as enchantment of the mind
+  taxonomy_refs: []
+  basis: Rhetoric is described as a general art of enchanting the mind by arguments.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The phrase is conceptual and rhetorical; no magical ritual or divine enchantment
+    is narrated.
+- id: motif:4
+  label: knowledge of likeness and difference as protection against deception
+  taxonomy_refs:
+  - wisdom
+  basis: Socrates states that one who would deceive and not be deceived must know
+    real likenesses and differences.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The motif is epistemological rather than mythic in form.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2765-2775
+  quote_or_summary: Socrates asks whether the speaker must know the truth; Phaedrus
+    reports that oratory is said to rely on what the many approve and on opinion rather
+    than truth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2780-2795
+  quote_or_summary: Socrates imagines persuading Phaedrus to buy a horse though neither
+    knows horses, then praising an ass as if it were a horse useful in war.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2799-2810
+  quote_or_summary: Socrates compares the horse-ass confusion to an orator who substitutes
+    good for evil before an ignorant city, asking what harvest such rhetoric would
+    gather.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2813-2823
+  quote_or_summary: Rhetoric is personified as saying it does not force anyone to
+    speak without truth and would advise arriving at truth first, while still claiming
+    truth alone does not provide persuasion.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 2824-2831
+  quote_or_summary: '"there never is nor ever will be a real art of speaking which
+    is divorced from the truth"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: quote
+  locator: lines 2838-2847
+  quote_or_summary: '"a universal art of enchanting the mind by arguments"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 2852-2863
+  quote_or_summary: Socrates mentions the rhetoric of Nestor, Odysseus, and Palamedes;
+    Phaedrus replies by naming Gorgias, Thrasymachus, and Theodorus in comparison.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 2864-2883
+  quote_or_summary: Socrates says speakers can make the same thing appear just or
+    unjust and good or its reverse, and names the Eleatic Palamedes/Zeno as making
+    things appear like and unlike, one and many, at rest and in motion.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 2884-2908
+  quote_or_summary: Socrates argues that deception is easier where differences are
+    small, and that one who would deceive others and not be deceived must know the
+    real likenesses and differences of things.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is philosophical dialogue with analogies and personifications
+    rather than a mythic narrative. Motif candidates are therefore conceptual and
+    require review for atlas fit.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage invokes named figures but does not itself establish a broader historical or mythological comparison beyond the rhetorical discussion.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-phaedrus-jowett-gutenberg__l2765-l2908
+  passage_sha256=ab46363ba74d6d5cc91a6b116652ea93f2553e7c204604034da1652807f0d65e
+

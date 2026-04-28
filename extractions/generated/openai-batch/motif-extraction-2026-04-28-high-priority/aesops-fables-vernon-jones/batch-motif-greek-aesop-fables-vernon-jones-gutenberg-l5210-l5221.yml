@@ -1,0 +1,303 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l5210-l5221
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE HUNTER AND THE WOODMAN / THE SERPENT AND THE EAGLE / THE ROGUE AND THE
+    ORACLE / THE HORSE AND THE ASS; lines 5210-5221
+  start: '5210'
+  end: '5221'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Where are all your gay trappings now?
+  summary: A proud Horse in fine harness threatens an overloaded Ass on the road.
+    Later the Horse loses status, is sold to a farmer, and draws a dung-cart; the
+    Ass then mocks his fall.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Horse is described as proud of his fine harness.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Horse meets an Ass on the high-road.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Ass carries a heavy burden and moves slowly aside to let the Horse pass.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Horse impatiently says he can hardly resist kicking the Ass to make him
+    move faster.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Ass remains silent but remembers the Horse’s insolence.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Horse later becomes broken-winded and is sold by his owner to a farmer.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Horse later draws a dung-cart and meets the Ass again.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Ass derides the Horse and asks where his gay trappings are now.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Horse
+  description: A proud Horse with fine harness who later becomes broken-winded, is
+    sold, and draws a dung-cart.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Ass
+  description: An Ass carrying a heavy burden who yields the road, remains silent
+    after insult, and later derides the Horse.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Horse’s owner
+  description: The owner who sells the broken-winded Horse to a farmer.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Farmer
+  description: The farmer to whom the Horse is sold.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: proud superior
+  assigned_to:
+  - fig:1
+  basis: The Horse is proud of his harness and threatens the Ass.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: burdened inferior
+  assigned_to:
+  - fig:2
+  basis: The Ass carries a heavy burden and moves aside for the Horse.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: fallen former superior
+  assigned_to:
+  - fig:1
+  basis: The Horse loses status, is sold, and draws a dung-cart.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: remembering mocker
+  assigned_to:
+  - fig:2
+  basis: The Ass remembers the insult and later derides the Horse.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:5
+  label: seller
+  assigned_to:
+  - fig:3
+  basis: The owner sells the broken-winded Horse to a farmer.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: buyer or new possessor
+  assigned_to:
+  - fig:4
+  basis: The Horse is sold to a farmer.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fine harness
+  literal_form: fine harness / gay trappings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: heavy burden
+  literal_form: heavy burden carried by the Ass
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: high-road
+  literal_form: high-road
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: dung-cart
+  literal_form: dung-cart drawn by the Horse
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Road encounter and insult
+  summary: A proud, harnessed Horse meets a burdened Ass on the high-road and threatens
+    to kick him for moving too slowly aside.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Horse’s decline
+  summary: The Horse becomes broken-winded and is sold by his owner to a farmer.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Reversal and mockery
+  summary: The Horse draws a dung-cart and meets the Ass again; the Ass mocks the
+    Horse’s loss of former trappings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: reversal of fortune humbles the proud
+  taxonomy_refs: []
+  basis: The proud Horse first threatens the burdened Ass, but later loses status
+    and is mocked by the same Ass while drawing a dung-cart.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level fable pattern label, not a supplied taxonomy family.
+- id: motif:2
+  label: insult remembered and repaid
+  taxonomy_refs: []
+  basis: The Ass silently remembers the Horse’s insolence and later derides him after
+    his decline.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage shows verbal repayment through mockery, not physical revenge
+    or formal justice.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5210-5214
+  quote_or_summary: A Horse, proud of his fine harness, meets an Ass on the high-road;
+    the Ass carries a heavy burden and slowly moves aside to let him pass.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 5214-5216
+  quote_or_summary: The Horse impatiently says he can hardly resist kicking the Ass
+    to make him move faster.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 5216-5217
+  quote_or_summary: The Ass holds his peace but does not forget the Horse’s insolence.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 5217-5219
+  quote_or_summary: Not long afterward the Horse becomes broken-winded and is sold
+    by his owner to a farmer.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 5219-5220
+  quote_or_summary: One day, while drawing a dung-cart, the Horse meets the Ass again.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:6
+  type: quote
+  locator: lines 5220-5221
+  quote_or_summary: The Ass derides him and asks, “Where are all your gay trappings
+    now?”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the provided passage. Motif labels are descriptive
+    and not mapped to supplied taxonomy families. No comparison claims were added
+    because the passage itself does not explicitly support cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The requested locator label mentions several fables, but the provided passage text includes only “THE HORSE AND THE ASS”; extraction is limited to that text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l5210-l5221
+  passage_sha256=ef00864fb7e3bfcc0ac27f35cb90026830c89abdd39ff65db90c28e0d9d18224
+

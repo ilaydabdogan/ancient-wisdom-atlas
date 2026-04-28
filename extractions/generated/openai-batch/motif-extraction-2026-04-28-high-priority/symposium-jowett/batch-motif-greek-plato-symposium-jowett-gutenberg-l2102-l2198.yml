@@ -1,0 +1,415 @@
+---
+record_id: batch.motif.greek-plato-symposium-jowett-gutenberg-l2102-l2198
+source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+passage_locator:
+  label: Symposium / SYMPOSIUM / INTRODUCTION. / SYMPOSIUM; lines 2102-2198
+  start: '2102'
+  end: '2198'
+  translation: Symposium
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Socrates questions Agathon and argues that love desires what it lacks,
+    namely beauty and the good. Socrates then introduces Diotima of Mantineia as his
+    instructor in the art of love and reports her argument that Love is neither fair
+    nor good, but in an intermediate state; because Love lacks good and fair things,
+    Diotima concludes that Love cannot be a god in the usual sense.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that one who desires desires what is not already possessed,
+    what is future or absent, and what is wanted.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Socrates asks Agathon to recall his claim that love of the beautiful set the
+    empire of the gods in order and that there is no love of deformed things.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Socrates and Agathon agree that Love is of something wanted and not possessed;
+    Socrates concludes that Love wants beauty and the good.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Agathon says that he cannot refute Socrates and allows Socrates' statement
+    to be assumed true.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Socrates introduces Diotima of Mantineia as a woman wise in many kinds of
+    knowledge and as his instructress in the art of love.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says Diotima delayed the disease for ten years when the Athenians
+    offered sacrifice before the coming of the plague.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Socrates reports that Diotima proved to him that Love was neither fair nor
+    good.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Diotima gives right opinion as a mean between wisdom and ignorance.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Diotima says Love is in a mean between fair and foul, and between good and
+    evil.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Diotima argues that gods are happy and fair, possess good and fair things,
+    and that Love, lacking these things, cannot be a god.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Speaker who questions Agathon and recounts Diotima's teaching about
+    Love.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Agathon
+  description: Respondent addressed by Socrates; he assents to Socrates' argument
+    and says he cannot refute him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Diotima of Mantineia
+  description: A woman described as wise in many kinds of knowledge and as Socrates'
+    instructress in the art of love.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Love
+  description: Personified subject of the argument; described as desiring beauty and
+    good things that he lacks, and as not being a god.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: the gods
+  description: Divine beings described by Diotima as happy and fair and as possessors
+    of good and fair things.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:6
+  name_or_label: the Athenians
+  description: Collective group said to have offered sacrifice before the coming of
+    the plague.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: questioning philosopher
+  assigned_to:
+  - fig:1
+  basis: Socrates leads Agathon through questions about desire, beauty, and the good.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: recipient and transmitter of Diotima's teaching
+  assigned_to:
+  - fig:1
+  basis: Socrates says Diotima was his instructress and that he will repeat what she
+    said to him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: respondent in refutation
+  assigned_to:
+  - fig:2
+  basis: Agathon assents to Socrates' questions and says he cannot refute him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: wise female instructor in love
+  assigned_to:
+  - fig:3
+  basis: Diotima is called wise in many kinds of knowledge and Socrates' instructress
+    in the art of love.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: personified desire lacking its object
+  assigned_to:
+  - fig:4
+  basis: Love is described as desiring beauty and good things that he does not possess.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:6
+  label: possessors of happiness, fairness, and good things
+  assigned_to:
+  - fig:5
+  basis: Diotima says gods are happy and fair and possess good and fair things.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: sacrificial community
+  assigned_to:
+  - fig:6
+  basis: The Athenians are said to have offered sacrifice before the coming plague.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: personified Love
+  literal_form: Love treated as a male personified being who desires beauty and good
+    things
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: intermediate mean
+  literal_form: 'a mean between opposed states: wisdom and ignorance; fair and foul;
+    good and evil'
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: sacrifice before plague
+  literal_form: Athenians offering sacrifice before the coming of the plague
+  associated_figures:
+  - fig:6
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Socrates argues that desire lacks its object
+  summary: Socrates obtains agreement that desire is for what one lacks, and applies
+    this to Love as wanting beauty and the good.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Socrates introduces Diotima
+  summary: Socrates says he will rehearse a tale of love heard from Diotima, a wise
+    woman and his instructor in love, who is also credited with delaying a disease
+    after Athenian sacrifice.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Diotima places Love between opposed states
+  summary: In Socrates' report, Diotima distinguishes intermediate states from their
+    extremes and says Love is neither fair nor good, nor therefore foul or evil, but
+    in a mean.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Diotima denies Love's divinity
+  summary: Diotima argues that gods possess good and fair things, while Love lacks
+    them; therefore Love cannot be a god.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: desire seeks what it lacks
+  taxonomy_refs: []
+  basis: The argument repeatedly defines love and desire as directed toward what is
+    absent, future, wanted, or not possessed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a philosophical pattern in the passage rather than a narrative
+    myth episode.
+- id: motif:2
+  label: wise woman instructs the seeker in hidden or specialized knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: Diotima is introduced as wise in many kinds of knowledge and as Socrates'
+    instructress in the art of love.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage reports instruction through philosophical dialogue; it does
+    not narrate a full initiation sequence.
+- id: motif:3
+  label: intermediate being between opposed states
+  taxonomy_refs:
+  - duality
+  basis: Diotima says right opinion stands between wisdom and ignorance and that Love
+    is between fair and foul, good and evil.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents a logical classification
+    more than a mythic dualistic cosmology.
+- id: motif:4
+  label: sacrifice before plague and delayed disease
+  taxonomy_refs:
+  - sacrifice
+  basis: The Athenians are said to have offered sacrifice before the plague, and Diotima
+    is credited with delaying the disease ten years.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explain the ritual mechanism or explicitly say that
+    the sacrifice itself caused the delay.
+- id: motif:5
+  label: questioning the divinity of a personified power
+  taxonomy_refs: []
+  basis: Diotima reasons that because Love lacks good and fair things, Love cannot
+    be a god, despite being personified and commonly called great.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is framed as philosophical argument about divine status rather than
+    as a mythic conflict among gods.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2102-2198, opening argument on desire
+  quote_or_summary: Socrates states that desire seeks what is not already possessed,
+    what is future or absent, and what is wanted.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2102-2198, Agathon's prior claim and Socrates' recap
+  quote_or_summary: Socrates recalls Agathon's claim that love of the beautiful ordered
+    the empire of the gods, and argues that Love is of something wanted and not possessed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 2102-2198, conclusion of exchange with Agathon
+  quote_or_summary: 'Short phrases: “Love wants and has not beauty”; Agathon says,
+    “I cannot refute you, Socrates.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 2102-2198, introduction of Diotima
+  quote_or_summary: Socrates says he heard a tale of love from Diotima of Mantineia,
+    a woman wise in many kinds of knowledge, who delayed the disease ten years when
+    the Athenians offered sacrifice, and who instructed him in the art of love.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2102-2198, Diotima on intermediate states
+  quote_or_summary: Diotima argues that Love is neither fair nor good, but not therefore
+    foul or evil; she gives right opinion as a mean between wisdom and ignorance and
+    places Love in a mean between opposites.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2102-2198, Diotima on gods and Love
+  quote_or_summary: Diotima says gods are happy and fair, possess good and fair things,
+    and that Love, because he lacks these, cannot be a god.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a philosophical dialogue with personified Love and a reported
+    wise instructor. Motif candidates are extracted cautiously because many elements
+    are argumentative rather than narrative. No external comparison claims were made
+    beyond the passage's own material.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. No symbols from the supplied symbol list are directly present in this passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-symposium-jowett-gutenberg__l2102-l2198
+  passage_sha256=bbd30824897d29fb31a26ac39fccb39c029e82b697f00a7de3f35dffb4b6ab4f
+

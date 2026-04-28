@@ -1,0 +1,406 @@
+---
+record_id: batch.motif.greek-plato-symposium-jowett-gutenberg-l1976-l2100
+source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+passage_locator:
+  label: Symposium / SYMPOSIUM / INTRODUCTION. / SYMPOSIUM; lines 1976-2100
+  start: '1976'
+  end: '2100'
+  translation: Symposium
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Socrates responds to Agathon's speech by rejecting ornamental praise that
+    ignores truth. With Phaedrus' permission, he questions Agathon and argues that
+    love is always of something, that desire implies lack, and that even the wish
+    to keep present goods is desire for something not yet possessed in the future.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Socrates says he was struck by Agathon's concluding words and felt shame about
+    speaking after him.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Socrates likens Agathon's rhetorical effect to a Gorginian or Gorgonian head
+    that would turn him and his speech to stone and make him dumb.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Socrates distinguishes truthful praise from praise that merely attributes
+    greatness and glory to Love without regard to truth or falsehood.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Socrates asks to speak the truth about love in his own manner rather than
+    compete in the prior style of praise.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Phaedrus and the company permit Socrates to speak as he thinks best, and Socrates
+    requests permission to question Agathon first.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Socrates asks whether Love is love of something or of nothing, using father,
+    mother, and sibling relations as examples.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Agathon agrees that Love is of something and that Love desires that of which
+    Love is.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Socrates argues that one who desires something is in want of something, and
+    that one who desires nothing is in want of nothing.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Socrates argues that a person who already has health, wealth, or strength
+    but wishes for it is wishing for its continuance into the future.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Speaker who replies to Agathon, asks to speak truthfully about love,
+    and questions Agathon about desire and lack.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Agathon
+  description: Previous speaker whose oration prompts Socrates' response and who answers
+    Socrates' questions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Phaedrus
+  description: Participant who grants Socrates permission to ask questions and speak.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Aristodemus
+  description: Narrating figure who reports that Phaedrus and the company bid Socrates
+    to speak.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Love
+  description: Personified subject of praise and inquiry; discussed as being of something
+    and as desiring what is not possessed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Gorgias / great master of rhetoric
+  description: Rhetorical master recalled by Socrates in connection with the Gorginian
+    or Gorgonian head image.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: truth-seeking questioner
+  assigned_to:
+  - fig:1
+  basis: Socrates rejects appearance-based praise and proceeds by questioning Agathon
+    about Love.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: role:2
+  label: speaker after a praised discourse
+  assigned_to:
+  - fig:1
+  basis: Socrates says he must speak after hearing Agathon's rich and varied discourse.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: respondent in dialectic
+  assigned_to:
+  - fig:2
+  basis: Agathon answers and assents to Socrates' questions about Love, desire, and
+    possession.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:4
+  label: permission-giver
+  assigned_to:
+  - fig:3
+  basis: Phaedrus grants Socrates permission to put his questions.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: reporting narrator
+  assigned_to:
+  - fig:4
+  basis: Aristodemus reports the exchange in which Socrates is invited to speak.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: personified object of inquiry
+  assigned_to:
+  - fig:5
+  basis: Love is treated as the subject whose nature and works are being examined.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:7
+  label: rhetorical exemplar alluded to
+  assigned_to:
+  - fig:6
+  basis: Socrates recalls Gorgias while describing Agathon's rhetorical power through
+    the Gorgonian image.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Gorgonian head
+  literal_form: A Gorginian or Gorgonian head imagined as shaking at Socrates, turning
+    him and his speech to stone and striking him dumb.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Love as desired object
+  literal_form: Love personified as the subject whose relation to desire, possession,
+    and lack is examined.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:3
+  label: future continuance of present goods
+  literal_form: Health, wealth, or strength desired as something to be preserved in
+    the future.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Socrates rejects ornamental praise
+  summary: Socrates responds to Agathon's speech, says he misunderstood the kind of
+    praise expected, and rejects praise that merely makes Love appear great without
+    regard to truth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Permission to question Agathon
+  summary: Aristodemus reports that Phaedrus and the company allow Socrates to speak
+    as he thinks best, and Phaedrus grants him permission to question Agathon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Love, desire, and lack
+  summary: Socrates questions Agathon and develops the point that Love is of something,
+    that desire implies lack, and that even desiring present goods means desiring
+    their future continuance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: wisdom through questioning
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers on Socrates' insistence on truth and his question-and-answer
+    examination of Agathon's claims about Love.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: This is a philosophical dialectic rather than a mythic narrative episode.
+- id: motif:2
+  label: desire as lack
+  taxonomy_refs: []
+  basis: Socrates argues that Love desires something and that desire entails wanting
+    what one does not possess or does not yet have.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: No direct taxonomy motif reference is available for this philosophical
+    pattern.
+- id: motif:3
+  label: petrifying rhetorical image
+  taxonomy_refs: []
+  basis: Socrates uses the image of a Gorgonian head to describe being turned to stone
+    and struck dumb by Agathon's rhetorical performance.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The image is an allusive metaphor in speech, not an enacted mythic event
+    in the scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Agathon's rhetorical effect to a Gorgonian
+    head associated with Homeric reference, functioning as an image of petrification
+    and silencing.
+  claim_level: same_function
+  target: Gorgonian head / Homeric Odyssey allusion
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is rhetorical and internal to Socrates' speech; the
+    passage does not narrate an actual encounter with a Gorgon.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1976-1983
+  quote_or_summary: Socrates says he must speak after Agathon's rich and varied discourse
+    and was struck by the beauty of the concluding words.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 1983-1990
+  quote_or_summary: '"Agathon was shaking at me the Gorginian or Gorgonian head...
+    to turn me and my speech into stone... and strike me dumb."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: 1990-2007
+  quote_or_summary: Socrates says he thought praise should be true, but now sees the
+    speakers attributed all greatness and glory to Love without regard to truth or
+    falsehood.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2007-2016
+  quote_or_summary: Socrates asks to be released from his promise to praise in that
+    way and offers instead to speak the truth about love in his own manner.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2017-2024
+  quote_or_summary: Aristodemus reports that Phaedrus and the company allow Socrates
+    to speak as he thinks best; Phaedrus grants permission for questions.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 2025-2044
+  quote_or_summary: Socrates praises the order of Agathon's speech and asks whether
+    Love is love of something or nothing, explaining by analogy with father, mother,
+    and brother relations.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 2045-2056
+  quote_or_summary: Agathon agrees that Love is of something and that Love desires
+    that of which Love is.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: 2057-2067
+  quote_or_summary: '"he who desires something is in want of something, and... he
+    who desires nothing is in want of nothing"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:9
+  type: summary
+  locator: 2068-2100
+  quote_or_summary: Socrates argues that a person who has health, wealth, or strength
+    but wishes for it wants its continuance in the future, which is something not
+    yet possessed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily philosophical argument, so motif extraction is strongest
+    for the explicit Gorgonian allusion and the wisdom/dialectic pattern; mythic motif
+    classification should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available symbol taxonomy refs directly match the Gorgonian head or Love/desire pattern; available motif ref 'wisdom' is used for the dialectical truth-seeking pattern.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-symposium-jowett-gutenberg__l1976-l2100
+  passage_sha256=29aef3aaf72436c17284a9ef68facbc3d5fa740ff93ad8f1751843de51988ff0
+

@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4831-l4844
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE GNAT AND THE LION / THE FARMER AND HIS DOGS / THE EAGLE AND THE FOX /
+    THE BUTCHER AND HIS CUSTOMERS; lines 4831-4844
+  start: '4831'
+  end: '4844'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Two men buying meat at a butcher's stall conceal a stolen joint by having
+    one take it and the other hide it. Each denies the theft in a technically evasive
+    way. The butcher says they may deceive him with lying, but they cannot deceive
+    the gods. The moral states that prevarication often amounts to perjury.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two men are buying meat at a butcher's stall in the market-place.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the butcher's back is turned, one man snatches up a joint of meat and
+    puts it under the other man's cloak.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The hidden joint cannot be seen under the cloak.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The butcher notices the missing meat and accuses the two men of stealing it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The man who took the meat says he has not got it, and the man who has it says
+    he has not taken it.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The butcher believes the men are deceiving him.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The butcher says the men may cheat him by lying, but cannot cheat the gods,
+    who will not let them off lightly.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The stated moral is that prevarication often amounts to perjury.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Butcher
+  description: A market-place butcher whose stall sells meat and who notices that
+    meat has been stolen.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Man who takes the meat
+  description: One of two customers; he snatches a joint of meat and hides it under
+    the other man's cloak, then denies having it.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Man who hides the meat
+  description: One of two customers; he has the stolen joint under his cloak and denies
+    having taken it.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Gods
+  description: The gods are invoked by the butcher as beings who cannot be cheated
+    and who will not let the deceivers off lightly.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: wronged owner or seller
+  assigned_to:
+  - fig:1
+  basis: The butcher owns or sells the meat at the stall, notices it is missing, and
+    charges the customers with theft.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: deceptive customer
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The two men coordinate the theft and each gives an evasive denial.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: thief or accomplice
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: One man takes the joint, and the other conceals it under his cloak.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: moral speaker
+  assigned_to:
+  - fig:1
+  basis: The butcher states that lying may deceive him but not the gods.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: divine witnesses to deception
+  assigned_to:
+  - fig:4
+  basis: The butcher says the gods cannot be cheated and will not let the deceivers
+    off lightly.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: stolen joint of meat
+  literal_form: joint of meat
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: concealing cloak
+  literal_form: cloak
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: market-place butcher's stall
+  literal_form: butcher's stall in the market-place
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: gods as moral witnesses
+  literal_form: the gods
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Theft at the butcher's stall
+  summary: Two men buy meat at a butcher's stall; when the butcher turns away, one
+    steals a joint and hides it under the other's cloak.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Evasive denial and divine warning
+  summary: After the butcher notices the missing meat and accuses them, each man denies
+    a different part of the act. The butcher warns that their lying cannot deceive
+    the gods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: technical truth used to conceal theft
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The two men divide possession and action so that one can deny having the
+    meat while the other can deny taking it, using evasive speech to conceal a theft.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy does not include a specific lying, perjury, or
+    theft-by-evasion motif; 'trickster_boundary' is a broad fit based on boundary-crossing
+    deception.
+- id: motif:2
+  label: divine witnesses cannot be deceived by human lies
+  taxonomy_refs:
+  - divine_judgment
+  basis: The butcher explicitly warns that the men may cheat him with lying but cannot
+    cheat the gods, who will not let them off lightly.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage invokes divine accountability but does not narrate an actual
+    divine punishment within the excerpt.
+- id: motif:3
+  label: prevarication equated with perjury
+  taxonomy_refs:
+  - wisdom
+  basis: The closing moral states that prevarication often amounts to perjury.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is an explicit moral statement rather than a narrative event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4831-4833
+  quote_or_summary: Two men buy meat at a butcher's stall in the market-place.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4833-4836
+  quote_or_summary: While the butcher's back is turned, one man snatches a joint and
+    puts it under the other's cloak where it cannot be seen.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4836-4838
+  quote_or_summary: The butcher turns around, notices the meat is missing, and charges
+    the men with stealing it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 4838-4840
+  quote_or_summary: '"the one who had taken it said he hadn''t got it, and the one
+    who had got it said he hadn''t taken it"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: quote
+  locator: lines 4840-4843
+  quote_or_summary: '"You may cheat me with your lying, but you can''t cheat the gods"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: quote
+  locator: line 4844
+  quote_or_summary: '"Prevarication often amounts to perjury."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the provided passage. Motif mapping is limited
+    by the broad available taxonomy; no comparison claims are made because the passage
+    does not itself provide an explicit cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The request label mentions multiple fables and lines 4831-4844, but the supplied passage text contains only 'THE BUTCHER AND HIS CUSTOMERS'; extraction is limited to the supplied passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4831-l4844
+  passage_sha256=081860092d7ad3d00baffed2d5de92ac4815b6ea53f5691605aed7eb4140c8ed
+

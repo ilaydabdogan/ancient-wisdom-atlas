@@ -1,0 +1,486 @@
+---
+record_id: batch.motif.greek-plato-phaedrus-jowett-gutenberg-l886-l959
+source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+passage_locator:
+  label: Phaedrus / PHAEDRUS / INTRODUCTION.; lines 886-959
+  start: '886'
+  end: '959'
+  translation: Phaedrus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage treats Socrates' second discourse as allegorical language about
+    love. It distinguishes lower and higher love, compares their opposition to flesh
+    and spirit in St. Paul, describes rational soul mastering the steeds in spiritual
+    combat, presents love as a power of nature with opposed but transformable forms,
+    discusses the wish to express justice, temperance, and wisdom in visible beauty,
+    and then turns to Plato's criticism of rhetoric in favor of dialectic and psychological
+    analysis.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says Socrates' second discourse is an allegory or figure of speech.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The passage distinguishes two kinds of love in the Phaedrus and Symposium:
+    a lower kind and a higher kind.'
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The lower kind of love is said to answer to natural wants of the animal.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The higher kind of love is said to rise above animal wants and contemplate
+    forms of justice, temperance, and holiness with religious awe.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The opposition between the two kinds of love is compared to the opposition
+    between flesh and spirit in the Epistles of St. Paul.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage refers to a spiritual combat in which the rational soul is finally
+    victor and master of both steeds.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Love is represented as one of the great powers of nature, taking many forms
+    and two principal ones.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The two forms of love are described as opposed but not absolutely separated,
+    and one may transform into the other.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The passage describes a yearning for ideas such as justice, temperance, and
+    wisdom to be expressed in visible beauty.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Pictures, images, carved works, and verbal descriptions are said to provide
+    not the substance but the shadow of heavenly truth.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The passage says rhetoric is criticized for seeking persuasion without knowledge
+    of truth and for ignoring the distinction between certain and probable matter.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Dialectic is distinguished from rhetoric and is associated with higher philosophy
+    and psychological analysis.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Speaker whose second discourse is described as allegory and whose description
+    of love and philosophy uses figures of speech.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Plato
+  description: Authorial figure discussed as presenting love, philosophy, dialectic,
+    and criticism of rhetoric.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Lower love
+  description: One of two kinds of love, answering to the natural wants of the animal.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Higher love
+  description: One of two kinds of love, rising above animal wants and contemplating
+    forms such as justice, temperance, and holiness.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Rational soul
+  description: The soul described as finally victor and master of both steeds in a
+    spiritual combat.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Both steeds
+  description: The two steeds over which the rational soul becomes master in the spiritual
+    combat.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Rhetoric
+  description: Subject criticized for persuasion without knowledge of truth and for
+    ignoring distinctions in matter.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Dialectic
+  description: Contrasted with rhetoric and associated with higher philosophy and
+    psychological analysis.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: allegorical speaker
+  assigned_to:
+  - fig:1
+  basis: Socrates' second discourse is identified as an allegory or figure of speech.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: philosophical author under interpretation
+  assigned_to:
+  - fig:2
+  basis: The passage interprets Plato's treatment of love, the Laws, and dialectic.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: animal-associated form of love
+  assigned_to:
+  - fig:3
+  basis: The lower love answers to natural wants of the animal.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: contemplative form of love
+  assigned_to:
+  - fig:4
+  basis: The higher love rises above animal wants and contemplates forms with religious
+    awe.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: victorious mastering principle
+  assigned_to:
+  - fig:5
+  basis: The rational soul is finally victor and master of both steeds.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: mastered paired forces
+  assigned_to:
+  - fig:6
+  basis: Both steeds are mastered by the rational soul in spiritual combat.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: criticized persuasive art
+  assigned_to:
+  - fig:7
+  basis: Rhetoric is assailed for persuasion without knowledge of truth and for confusion
+    in kinds of matter.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: method of higher analysis
+  assigned_to:
+  - fig:8
+  basis: Dialectic supplies higher philosophy and psychological analysis, unlike the
+    rhetoricians' rules.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: two kinds of love
+  literal_form: A lower and a higher love set in opposition
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: spiritual combat and mastered steeds
+  literal_form: The rational soul as victor and master of both steeds
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: dazzling forms
+  literal_form: Forms of justice, temperance, and holiness described as too dazzling
+    bright for mortal eye
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: visible beauty as image of ideas
+  literal_form: Visible beauty, pictures, images, painted or carved works, and verbal
+    descriptions
+  associated_figures: []
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: shadow of heavenly truth
+  literal_form: Images are described as shadow rather than substance of truth in heaven
+  associated_figures: []
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Allegorical framing of Socrates' discourse
+  summary: The passage states that Socrates' second discourse should be read as allegory
+    or figure of speech rather than by assigning meaning to every detail.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Opposition of lower and higher love
+  summary: The passage contrasts lower animal love with higher love that rises above
+    animal wants and contemplates moral forms.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rational soul masters the steeds
+  summary: Within the account of spiritual combat, the rational soul is described
+    as victor and master of both steeds.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:4
+  label: Transformability of love
+  summary: Love is presented as a great power of nature with two principal forms that
+    are opposed but capable of transformation into one another.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:5
+  label: Visible beauty and the shadow of truth
+  summary: The passage describes a human yearning to express justice, temperance,
+    and wisdom in visible beauty, while saying images provide only the shadow and
+    not the substance of heavenly truth.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:6
+  label: Criticism of rhetoric and turn to dialectic
+  summary: Rhetoric is criticized for persuasion without truth and for confusing kinds
+    of matter, while dialectic is distinguished as the source of higher philosophy
+    and psychological analysis.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: opposed lower and higher forms of love
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly contrasts lower and higher love and says the two are
+    opposed though not absolutely separated.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a philosophical contrast in an introduction, not a narrative episode.
+- id: motif:2
+  label: ascent from animal desire to contemplation of forms
+  taxonomy_refs:
+  - ascent
+  - wisdom
+  basis: Higher love is described as rising above animal wants and contemplating forms
+    of justice, temperance, and holiness.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The ascent is conceptual and allegorical rather than a literal journey.
+- id: motif:3
+  label: spiritual combat resolved by rational mastery
+  taxonomy_refs:
+  - duality
+  - initiation
+  basis: The passage describes a spiritual combat in which the rational soul becomes
+    victor and master of both steeds.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The details of the chariot allegory are only alluded to in this passage.
+- id: motif:4
+  label: visible image as shadow of higher truth
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that visible or described images do not provide the substance
+    but only the shadow of truth in heaven.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The motif is expressed as philosophical reflection on art and knowledge,
+    not as mythic action.
+- id: motif:5
+  label: dialectic as higher knowledge than rhetoric
+  taxonomy_refs:
+  - wisdom
+  basis: Dialectic is distinguished from rhetoric and linked with higher philosophy
+    and psychological analysis.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a doctrinal contrast rather than a symbolic narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the opposition between lower and higher love
+    to the opposition between flesh and spirit in the Epistles of St. Paul.
+  claim_level: same_function
+  target: 'Epistles of St. Paul: flesh and spirit opposition'
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is made by the commentator and does not by itself establish
+    historical contact or common inheritance.
+- id: claim:2
+  claim: The passage compares the yearning to express purity and goodness in visible
+    beauty to Christian art's realization of such ideals in the Madonna.
+  claim_level: same_function
+  target: 'Christian art: Madonna as visible expression of purity and goodness'
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns an aesthetic and philosophical function, not
+    a shared narrative motif.
+- id: claim:3
+  claim: The passage states that both the Phaedrus and the Symposium contain two kinds
+    of love, a lower and a higher.
+  claim_level: same_motif
+  target: 'Plato''s Symposium: two kinds of love'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the passage's summary of these Platonic works.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 886-904
+  quote_or_summary: Socrates' second discourse is called an allegory or figure of
+    speech; the passage warns against assigning meaning to every fanciful detail and
+    discusses Plato's treatment of love.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 905-917
+  quote_or_summary: The passage distinguishes lower and higher love, describes higher
+    love as contemplating forms with religious awe, compares the opposition to flesh
+    and spirit in St. Paul, and mentions the rational soul mastering both steeds in
+    spiritual combat.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 918-931
+  quote_or_summary: Love is represented as a great power of nature with many forms
+    and two principal ones; the two forms are opposed but not absolutely separate
+    and can transform into one another.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 932-946
+  quote_or_summary: The passage describes a yearning for justice, temperance, and
+    wisdom to appear as visible beauty, compares this to the Madonna in Christian
+    art, and says images are only the shadow of heavenly truth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 947-959
+  quote_or_summary: The passage turns to criticism of rhetoric as persuasion without
+    knowledge of truth and contrasts rhetoric with dialectic, higher philosophy, and
+    psychological analysis.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is interpretive prose rather than mythic narrative; motif extraction
+    is strongest for explicitly stated allegorical contrasts and comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to supplied available references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-phaedrus-jowett-gutenberg__l886-l959
+  passage_sha256=d2d6d2f1d4e9738f898e450f87ff13e9941e6b32a135ced8ca977d4b96bb4661
+

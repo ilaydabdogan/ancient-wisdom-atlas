@@ -1,0 +1,231 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l5305-l5317
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE WOMAN AND THE FARMER / PROMETHEUS AND THE MAKING OF MAN / THE SWALLOW
+    AND THE CROW / THE HUNTER AND THE HORSEMAN; lines 5305-5317
+  start: '5305'
+  end: '5317'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A hunter catches a hare and agrees to sell it to a horseman. Once the horseman
+    has the hare, he rides away without paying. The hunter briefly pursues him, realizes
+    he has been tricked, gives up, and calls out that the hare was intended as a present.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hunter went out after game, caught a hare, and was carrying it home.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hunter met a man on horseback who commented on the catch and offered to
+    buy it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The hunter agreed to the sale, but the horseman took the hare and rode away
+    at full gallop.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The hunter ran after the horseman briefly, then realized he had been tricked
+    and stopped trying to overtake him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The hunter called after the horseman that the hare had been meant as a present,
+    explicitly to save face.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hunter
+  description: A hunter who catches a hare, agrees to sell it, pursues the fleeing
+    horseman, and then reframes the loss as a gift.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Horseman
+  description: A man on horseback who offers to buy the hare, takes it, and rides
+    away at full gallop.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: owner or catcher of prey
+  assigned_to:
+  - fig:1
+  basis: The hunter catches a hare and carries it home.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceptive buyer
+  assigned_to:
+  - fig:2
+  basis: The horseman offers to buy the hare, obtains it, and immediately rides away.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: tricked party saving face
+  assigned_to:
+  - fig:1
+  basis: The hunter realizes he has been tricked and calls out that the hare was intended
+    as a present to save face.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: hare
+  literal_form: A hare caught by the hunter and taken by the horseman.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: horse
+  literal_form: The horse ridden by the man who flees with the hare.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Capture of the hare
+  summary: The hunter goes out after game, catches a hare, and carries it home.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: False purchase
+  summary: The horseman offers to buy the hare; the hunter agrees, but the horseman
+    takes the hare and rides away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Failed pursuit and face-saving speech
+  summary: The hunter briefly pursues the horseman, realizes the trick, stops, and
+    calls out that the hare was intended as a present.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: trickery through false purchase
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The horseman gains possession of the hare by offering to buy it and then
+    flees without completing the transaction.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage depicts deception, but it does not identify the horseman as
+    a recurring trickster figure or provide a broader boundary-crossing context.
+- id: motif:2
+  label: face-saving reinterpretation of loss
+  taxonomy_refs: []
+  basis: After failing to recover the hare, the hunter publicly recasts the loss as
+    an intended gift.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a local narrative pattern in the passage rather than a supplied
+    taxonomy motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5305-5308
+  quote_or_summary: The fable opens with a hunter going after game, catching a hare,
+    and carrying it home.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5308-5310
+  quote_or_summary: The hunter meets a man on horseback, who observes the catch and
+    offers to buy it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5310-5312
+  quote_or_summary: The hunter agrees, but once the horseman has the hare, he spurs
+    his horse and leaves at full gallop.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5312-5315
+  quote_or_summary: The hunter runs after the horseman briefly, realizes he has been
+    tricked, and gives up trying to overtake him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 5315-5317
+  quote_or_summary: "“take your hare: it was meant all along as a present.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and clear. Motif taxonomy mapping is limited to the
+    available reference list and should be reviewed by a human.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; no material from the other fables named in the locator label was extracted.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l5305-l5317
+  passage_sha256=c178e42dbac8c147559d251d6b041b8b4c5eb6fc4b26008c4719777e57729bff
+

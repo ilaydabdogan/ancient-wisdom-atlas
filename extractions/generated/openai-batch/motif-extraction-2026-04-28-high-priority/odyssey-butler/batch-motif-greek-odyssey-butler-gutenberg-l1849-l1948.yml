@@ -1,0 +1,493 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l1849-l1948
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK II / BOOK III / TELEMACHUS VISITS NESTOR AT PYLOS. / BOOK IV; lines
+    1849-1948
+  start: '1849'
+  end: '1948'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The narrating Son of Atreus explains that the gods detained him at Pharos
+    near Egypt because his sacrifices had not satisfied them. Idothea, daughter of
+    Proteus, instructs him to ambush and hold Proteus, the old man of the sea, so
+    that Proteus will reveal how to return home. Idothea helps disguise the men in
+    seal skins and masks the smell with ambrosia. At noon Proteus counts his seals,
+    sleeps, is seized, and changes forms into animals, water, and a tree before speaking.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says the gods detained him in Egypt because his hecatombs had
+    not fully satisfied them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pharos is described as an island off Egypt with a good harbour where vessels
+    can take in water and sail out to sea.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The gods becalmed the speaker and his men for twenty days, causing a danger
+    of running out of provisions and starving.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Idothea, daughter of Proteus, takes pity on the speaker and offers help.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Idothea says Proteus lives under the sea, is associated with Egypt, serves
+    Neptune, knows the sea bottom, and can reveal the speaker's voyage and household
+    news.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Idothea instructs the speaker to snare Proteus after he comes from the waves
+    and sleeps in a sea cave among seals.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Idothea says Proteus will transform into creatures, fire, and water, and that
+    the men must hold him until he returns to his former shape and speaks.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Idothea obtains four fresh seal skins, digs four pits, covers the speaker
+    and three men with the skins, and places ambrosia under their nostrils to counteract
+    the smell.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: At noon Proteus comes up, counts his seals, and lies down to sleep without
+    detecting the ambush.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: When seized, Proteus changes into a lion, dragon, leopard, wild boar, running
+    water, and a tree before speaking to the Son of Atreus.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Son of Atreus / narrating speaker
+  description: A mortal leader detained at Pharos who seeks divine knowledge about
+    reaching home.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:9
+- id: fig:2
+  name_or_label: Idothea
+  description: A goddess and daughter of Proteus who pities and assists the speaker.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:3
+  name_or_label: Proteus, old man of the sea
+  description: An old immortal living under the sea, called Neptune's head man, who
+    knows the sea bottom and changes form when seized.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:9
+- id: fig:4
+  name_or_label: The gods
+  description: Immortals said to have detained the speaker because their dues had
+    not been satisfied.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Three chosen men
+  description: The three most reliable men chosen from the speaker's fleet to join
+    the ambush.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Seals
+  description: Sea animals that sleep in shoals around Proteus and are counted by
+    him.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:7
+  name_or_label: Neptune
+  description: A god named as the superior whom Proteus serves as head man.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: detained traveler seeking return home
+  assigned_to:
+  - fig:1
+  basis: The speaker asks how he may sail the sea to reach home after being detained.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: mortal who seizes divine knowledge-holder
+  assigned_to:
+  - fig:1
+  basis: The speaker and companions seize Proteus to compel an answer.
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: role:3
+  label: divine helper and stratagem-giver
+  assigned_to:
+  - fig:2
+  basis: Idothea explains the plan and supplies seal skins, pits, and ambrosia.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:4
+  label: sea prophet or knowledge-holder
+  assigned_to:
+  - fig:3
+  basis: Proteus is said to know the sea bottom and to reveal routes, voyage details,
+    and news from home.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: shapeshifting captive
+  assigned_to:
+  - fig:3
+  basis: When seized, Proteus changes through animal, elemental, and plant forms before
+    speaking.
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: role:6
+  label: divine detainers demanding ritual dues
+  assigned_to:
+  - fig:4
+  basis: The gods detain the speaker because his hecatombs had not given full satisfaction.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: ambush companions
+  assigned_to:
+  - fig:5
+  basis: Three chosen men accompany the speaker and lie hidden under seal skins.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: counted sea herd
+  assigned_to:
+  - fig:6
+  basis: The seals gather around Proteus, and he counts them before sleeping.
+  evidence_refs:
+  - ev:5
+  - ev:8
+symbols:
+- id: sym:1
+  label: Pharos island and harbour
+  literal_form: island off Egypt with a harbour and water supply
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sea cave
+  literal_form: great sea cave where Proteus sleeps among seals
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: seal skins
+  literal_form: four freshly skinned seal skins used as coverings for ambush
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: ambrosia
+  literal_form: fragrant substance placed under each man's nostrils to mask the seals'
+    smell
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: fire transformation
+  literal_form: Proteus becomes fire as one of his escape forms in Idothea's warning
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: water transformation
+  literal_form: Proteus becomes water or running water during the struggle
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: sym:7
+  label: tree transformation
+  literal_form: Proteus becomes a tree during the struggle
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: animal transformations
+  literal_form: lion, dragon, leopard, and wild boar forms assumed by Proteus
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Detention at Pharos
+  summary: The speaker recounts being delayed by the gods at Pharos near Egypt, where
+    lack of wind and provisions threatens starvation.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Idothea reveals the stratagem
+  summary: Idothea tells the speaker how to catch Proteus in the sea cave and hold
+    him through transformations until he reveals the way home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Disguise among the seals
+  summary: Idothea prepares the ambush by covering the speaker and three men with
+    seal skins and using ambrosia to hide the stench.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:4
+  label: Seizure and transformations of Proteus
+  summary: Proteus counts the seals, sleeps, is seized, and changes through animal,
+    water, and tree forms before addressing the Son of Atreus.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Shapeshifting sea being resisted by mortal grasp
+  taxonomy_refs:
+  - shapeshifter
+  basis: Proteus changes into multiple animal forms, water, and a tree after being
+    seized, while the men maintain their hold.
+  evidence_refs:
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: The taxonomy match is based only on the explicit transformations in this
+    passage.
+- id: motif:2
+  label: Divine helper teaches a stratagem to gain hidden knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: Idothea instructs the speaker how to capture Proteus, who can reveal routes,
+    events at home, and the cause of divine obstruction.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage presents practical and prophetic knowledge rather than a formal
+    wisdom teaching.
+- id: motif:3
+  label: Obstructed homeward voyage requiring divine disclosure
+  taxonomy_refs:
+  - return
+  basis: The speaker is detained and seeks instruction on how to sail home, with Proteus
+    identified as the one who can tell him the route.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The broader return narrative is implied by the stated desire to reach
+    home, but only this episode is in the provided passage.
+- id: motif:4
+  label: Ritual dues and divine obstruction
+  taxonomy_refs:
+  - sacrifice
+  basis: The speaker says the gods detained him because his hecatombs had not given
+    them full satisfaction and the gods are strict about their dues.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage mentions hecatombs and divine dissatisfaction but does not
+    describe a sacrifice being performed in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1849-1852
+  quote_or_summary: The speaker says the gods detained him in Egypt because his hecatombs
+    had not given them full satisfaction and the gods are strict about their dues.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1852-1858
+  quote_or_summary: Pharos is described as an island off Egypt with a good harbour;
+    the gods becalmed the speaker there for twenty days until provisions were nearly
+    exhausted.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1858-1868
+  quote_or_summary: A goddess, Idothea daughter of Proteus, takes pity on the speaker,
+    finds him alone, and remarks on the men's starvation.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1869-1884
+  quote_or_summary: The speaker asks which immortal is hindering him and how to reach
+    home; Idothea says Proteus lives under the sea, serves Neptune, knows the sea
+    bottom, and can reveal the voyage and home news.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1885-1897
+  quote_or_summary: Idothea explains that at noon Proteus comes up from the waves,
+    sleeps in a great sea cave, and is surrounded by seals from the grey sea.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1898-1910
+  quote_or_summary: Idothea instructs the speaker to seize Proteus after he counts
+    the seals and sleeps, hold him through transformations into creatures, fire, and
+    water, and question him when he returns to his original form.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1911-1932
+  quote_or_summary: The next morning Idothea brings four fresh seal skins, digs four
+    pits, covers the speaker and three men, and places fragrant ambrosia under their
+    nostrils to counter the seal stench.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1933-1940
+  quote_or_summary: The seals come ashore in hundreds; at noon Proteus arrives, counts
+    them, counts the hidden men among the first, suspects no guile, and lies down
+    to sleep.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:9
+  type: summary
+  locator: lines 1940-1948
+  quote_or_summary: The men rush upon Proteus and seize him; he changes into a lion,
+    dragon, leopard, wild boar, running water, and a tree, then asks the Son of Atreus
+    who helped plot his capture and what he wants.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; passage summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction uses only the provided passage. Motif taxonomy assignments are
+    limited to explicit elements in the excerpt; no external comparative claims were
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this episode to another text, tradition, or motif family beyond the supplied taxonomy categories.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l1849-l1948
+  passage_sha256=a845fc134a59ccb2fb4de3eb7bfb4767b113e76ac7dc1dc99845c7acd962b7c7
+

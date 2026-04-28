@@ -1,0 +1,581 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l1424-l1514
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK I / BOOK II / BOOK III / TELEMACHUS VISITS NESTOR AT PYLOS.; lines 1424-1514
+  start: '1424'
+  end: '1514'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After offerings at a meal, Nestor refuses to let Telemachus sleep aboard
+    ship and insists on hosting him. Minerva, disguised as a mortal companion, approves,
+    gives travel instructions, and departs in eagle form. Nestor recognizes the goddess,
+    prays for favor, vows a gilded-horn heifer, hosts Telemachus overnight, and next
+    morning orders preparations for the sacrifice and the onward journey.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Servants pour water over guests' hands, mix wine and water, distribute drink
+    offerings, and put tongues of victims into the fire.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nestor stops Minerva and Telemachus from leaving for the ship and insists
+    that Telemachus sleep in his house.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Minerva says Telemachus should return with Nestor and sleep at his house while
+    she returns to the ship and crew.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Minerva instructs Nestor to send Telemachus to Lacedaemon in a chariot with
+    one of Nestor's sons and the best, fleetest horses.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Minerva flies away in the form of an eagle, and the onlookers marvel.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Nestor identifies the departing figure as Minerva, prays to her, and promises
+    a year-old unyoked heifer with gilded horns as sacrifice.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Nestor leads Telemachus and his household to his own house, mixes aged wine,
+    prays, and makes drink offerings to Minerva.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Telemachus sleeps in a room over the gateway with Pisistratus, while Nestor
+    sleeps in an inner room with his wife.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: At dawn Nestor sits on polished marble benches in front of his house, holding
+    a sceptre as guardian of the public weal, and his sons gather around him.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: 'Nestor assigns household and ritual tasks: bringing a heifer, inviting the
+    ship crew, fetching a goldsmith, preparing dinner, firewood, seats, and spring
+    water.'
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The heifer is brought, the goldsmith brings tools, the horns are gilded, and
+    preparations proceed with water, barley meal, an axe, a bucket, prayers, and a
+    lock from the heifer placed on the fire.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Minerva
+  description: Daughter of Jove; present in mortal guise, later departing in eagle
+    form and accepting sacrifice.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+- id: fig:2
+  name_or_label: Telemachus
+  description: Son of Ulysses, a young guest traveling by ship and to be sent onward
+    to Lacedaemon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Nestor
+  description: Host of Telemachus; elder who recognizes Minerva, prays to her, vows
+    sacrifice, and directs his household and sons.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Pisistratus
+  description: Nestor's unmarried son who sleeps in the gateway room with Telemachus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Nestor's sons
+  description: Echephron, Stratius, Perseus, Aretus, Thrasymedes, and Pisistratus
+    gather around Nestor and take part in assigned preparations.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Telemachus's crew
+  description: Young men of Telemachus's age who have taken the voyage out of friendship
+    and are later invited from the ship.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: Laerceus the goldsmith
+  description: Goldsmith summoned to gild the heifer's horns; brings anvil, hammer,
+    and tongs.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:8
+  name_or_label: Heifer
+  description: A year-old, unyoked sacrificial animal promised to Minerva; its horns
+    are gilded before sacrifice.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:9
+  name_or_label: Nestor's wife
+  description: Queen and wife of Nestor, named as part of the household for whom Nestor
+    asks grace and with whom he sleeps in an inner room.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: divine guide
+  assigned_to:
+  - fig:1
+  basis: Minerva directs Telemachus's lodging and onward travel arrangements.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: divine recipient of prayer and sacrifice
+  assigned_to:
+  - fig:1
+  basis: Nestor prays to Minerva, vows a heifer, and she comes to accept the sacrifice.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:3
+  label: young guest and traveler
+  assigned_to:
+  - fig:2
+  basis: Telemachus is hosted by Nestor and is to be sent onward to Lacedaemon.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: host
+  assigned_to:
+  - fig:3
+  basis: Nestor refuses to let Telemachus sleep on the ship and provides lodging in
+    his house.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:5
+  label: ritual leader
+  assigned_to:
+  - fig:3
+  basis: Nestor vows the sacrifice, directs preparations, washes hands, sprinkles
+    barley, prays, and places a lock on the fire.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: role:6
+  label: household son
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Nestor's sons gather around him; Pisistratus is singled out as the unmarried
+    son sleeping with Telemachus.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: ritual assistants
+  assigned_to:
+  - fig:5
+  basis: Named sons bring the heifer, fetch water, hold barley meal, stand ready with
+    an axe, and hold a bucket.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: voyage companions
+  assigned_to:
+  - fig:6
+  basis: Minerva says the crew are young men who took the voyage out of friendship;
+    Nestor orders them invited from the ship.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:9
+  label: craft specialist
+  assigned_to:
+  - fig:7
+  basis: Laerceus is fetched to gild the heifer's horns and brings metalworking tools.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:10
+  label: sacrificial victim
+  assigned_to:
+  - fig:8
+  basis: The heifer is promised and prepared as an offering to Minerva.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:11
+  label: household queen
+  assigned_to:
+  - fig:9
+  basis: Nestor prays for grace upon his wife and later sleeps with the queen his
+    wife in an inner room.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: water for purification and ritual
+  literal_form: Water poured over hands; clear spring water requested for sacrifice.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: sacrificial fire
+  literal_form: Fire receiving tongues of victims and later the heifer's head-lock.
+  associated_figures:
+  - fig:3
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: sym:3
+  label: drink offering
+  literal_form: Wine and water mixed in bowls and poured or offered to the gods.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:4
+  label: eagle manifestation
+  literal_form: Minerva flying away in the form of an eagle.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: gilded horns
+  literal_form: Gold placed on the horns of the heifer for the goddess's pleasure
+    in their beauty.
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:6
+  label: sceptre and ancestral seat
+  literal_form: Nestor sitting on marble benches once used by Neleus, holding a sceptre.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: chariot and horses
+  literal_form: Chariot and best, fleetest horses to carry Telemachus to Lacedaemon.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Communal offering after the meal
+  summary: Servants and pages perform hand-washing, wine mixing, drink offerings,
+    and placement of victim tongues into the fire.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Nestor insists on hospitality
+  summary: Nestor prevents Telemachus from sleeping aboard ship and insists that his
+    household will provide proper beds and open-house hospitality.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Minerva's instructions and eagle departure
+  summary: Minerva accepts Nestor's lodging plan for Telemachus, gives directions
+    for the next journey, and departs in eagle form, causing amazement.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Prayer and vow to Minerva
+  summary: Nestor recognizes the goddess, asks for grace upon himself and household,
+    and vows an unyoked heifer with gilded horns.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Household lodging and offerings
+  summary: Nestor brings the party to his house, mixes aged wine, offers to Minerva,
+    and lodges Telemachus with Pisistratus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Morning council before the house
+  summary: At dawn Nestor takes an ancestral public seat with sceptre in hand, and
+    his sons and Telemachus gather around him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Sacrifice preparations
+  summary: Nestor orders his sons and household to obtain the heifer, invite the crew,
+    fetch the goldsmith, and prepare dinner, firewood, seats, and spring water; the
+    heifer's horns are gilded and ritual actions begin.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Sacrifice to a deity
+  taxonomy_refs:
+  - sacrifice
+  basis: Nestor vows and begins preparing a heifer sacrifice for Minerva, including
+    gilding the horns and ritual handling of water, barley, and fire.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage includes preparation and initial ritual actions; the slaughter
+    itself is not included in the excerpt.
+- id: motif:2
+  label: Sacred exchange of divine favor and vowed offering
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Nestor asks Minerva to send grace upon himself and his household and promises
+    a valuable heifer in return.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The exchange is a prayer and vow rather than a negotiated dialogue.
+- id: motif:3
+  label: Divine shapeshifting or epiphany
+  taxonomy_refs:
+  - shapeshifter
+  basis: Minerva departs in the form of an eagle, and Nestor interprets the event
+    as the visible manifestation of a goddess.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage describes a single transformation or revealed form, not an
+    extended shapeshifting sequence.
+- id: motif:4
+  label: Guided departure for a quest journey
+  taxonomy_refs:
+  - departure
+  basis: Minerva directs that Telemachus continue from Nestor's house to Lacedaemon
+    by chariot with one of Nestor's sons and the best horses.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The actual departure to Lacedaemon is instructed but not completed in
+    this excerpt.
+- id: motif:5
+  label: Public authority signaled by sceptre and ancestral seat
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Nestor sits on the marble benches formerly associated with Neleus, holding
+    a sceptre as guardian of the public weal, while sons gather around him.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage implies recognized household and civic authority but does
+    not narrate a succession dispute or coronation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1424-1430
+  quote_or_summary: Servants wash guests' hands; pages mix wine and water, distribute
+    drink offerings, and tongues of victims are put into the fire.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1431-1443
+  quote_or_summary: Nestor stops Minerva and Telemachus from going to the ship and
+    insists that the son of Ulysses sleep in his house, where he has rugs, cloaks,
+    and open hospitality.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1444-1459
+  quote_or_summary: Minerva says Telemachus should sleep at Nestor's house, while
+    she returns to the ship and crew; she instructs Nestor to send Telemachus to Lacedaemon
+    in a chariot with a son and swift horses.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1460-1474
+  quote_or_summary: Minerva flies away as an eagle; Nestor marvels, recognizes Jove's
+    daughter, prays for favor upon himself and household, and vows an unyoked heifer
+    with gilded horns.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 1475-1487
+  quote_or_summary: Nestor leads the group home, mixes aged wine, prays and offers
+    to Minerva, and lodges Telemachus in the gateway room with Pisistratus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 1488-1500
+  quote_or_summary: At rosy-fingered Dawn, Nestor sits on marble benches formerly
+    used by Neleus, holding a sceptre as guardian of the public weal; his sons and
+    Telemachus gather.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 1501-1510
+  quote_or_summary: 'Nestor orders preparations to propitiate Minerva: bring a heifer,
+    invite the crew, fetch Laerceus the goldsmith, prepare dinner, seats, logs for
+    a burnt offering, and clear spring water.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 1511-1514
+  quote_or_summary: The heifer, crew, and goldsmith arrive; the smith gilds the horns;
+    sons assist with water, barley, axe, and bucket; Nestor washes, sprinkles barley,
+    prays, and puts a lock from the heifer's head on the fire.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal actions, figures, and ritual sequence are explicit. Motif labels
+    are limited to supported taxonomy categories. No comparison claims were added
+    because the passage itself does not compare the events with another tradition
+    or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata; taxonomy references limited to supplied lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l1424-l1514
+  passage_sha256=54ef2a26c56db576f23cc4b0080ed1ebc36d32b7ce23fb96fd8869af5652fb70
+

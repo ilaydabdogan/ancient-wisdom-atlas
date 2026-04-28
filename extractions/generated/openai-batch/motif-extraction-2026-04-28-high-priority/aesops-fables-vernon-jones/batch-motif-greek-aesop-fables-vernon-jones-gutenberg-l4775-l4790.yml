@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4775-l4790
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE DOGS AND THE HIDES / THE LION, THE FOX, AND THE ASS / THE FOWLER, THE
+    PARTRIDGE, AND THE COCK / THE GNAT AND THE LION; lines 4775-4790
+  start: '4775'
+  end: '4790'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A gnat challenges a lion, claims superior strength, attacks the lion's
+    nose, and escapes while the lion injures himself trying to crush it. After celebrating
+    victory over the lion, the gnat becomes caught in a spider's web and is eaten
+    by the spider.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A gnat approaches a lion and says it is not afraid of him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The gnat disputes the lion's strength and proposes a fight.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The gnat sounds its horn, darts in, and bites the lion on the nose.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lion scratches his own nose badly and makes it bleed while trying to crush
+    the gnat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The gnat is not hurt by the lion and leaves in triumph.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: The gnat later becomes entangled in a spider's web.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The spider catches and eats the gnat.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The lion is called the King of the Beasts in the passage.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Gnat
+  description: A small insect that challenges the lion, bites him, escapes unharmed,
+    triumphs, and is later caught and eaten by a spider.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Lion
+  description: A powerful beast addressed by the gnat and described as the King of
+    the Beasts; he injures his own nose while trying to crush the gnat.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Spider
+  description: The creature whose web entangles the gnat and who catches and eats
+    it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: boastful challenger
+  assigned_to:
+  - fig:1
+  basis: The gnat says it is not afraid, denies that the lion is a match for it, and
+    invites combat.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mighty opponent
+  assigned_to:
+  - fig:2
+  basis: The lion is the gnat's opponent and is later called the King of the Beasts.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: initial victor
+  assigned_to:
+  - fig:1
+  basis: The gnat bites the lion, avoids harm, and departs in triumph.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: victim after reversal
+  assigned_to:
+  - fig:1
+  basis: After its victory, the gnat is caught in a spider's web and eaten.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: final predator
+  assigned_to:
+  - fig:3
+  basis: The spider catches and eats the gnat after the gnat becomes entangled in
+    the web.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: spider's web as trap
+  literal_form: spider's web
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: lion as royal beast
+  literal_form: lion, called the King of the Beasts
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: wounded nose
+  literal_form: the lion's nose, bitten and scratched until it bleeds
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Gnat challenges the lion
+  summary: The gnat approaches the lion, declares that it is not afraid, belittles
+    the lion's strength, and calls for a fight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Gnat's attack and lion's self-injury
+  summary: The gnat sounds its horn, bites the lion's nose, and avoids harm while
+    the lion scratches his own nose trying to crush it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Triumph followed by capture
+  summary: The gnat leaves in triumph but then becomes caught in a spider's web and
+    is eaten by the spider.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: small creature defeats mighty opponent
+  taxonomy_refs: []
+  basis: The gnat defeats or at least overcomes the lion in their encounter, despite
+    the lion's superior status as King of the Beasts.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage presents a brief fable episode rather than an extended heroic
+    contest.
+- id: motif:2
+  label: triumph followed by sudden downfall
+  taxonomy_refs: []
+  basis: The gnat celebrates its victory over the lion but soon becomes trapped and
+    eaten by a spider.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not state a separate moral sentence; the motif is inferred
+    from the narrated sequence.
+- id: motif:3
+  label: victor destroyed by lesser danger
+  taxonomy_refs: []
+  basis: After triumphing over the King of the Beasts, the gnat falls prey to what
+    the passage calls an insignificant insect.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The description of the spider as an insignificant insect is taken from
+    the translation's wording.
+- id: motif:4
+  label: self-inflicted harm while attacking a smaller enemy
+  taxonomy_refs: []
+  basis: The lion, trying to crush the gnat, scratches his own nose badly and makes
+    it bleed while failing to hurt the gnat.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a local action pattern within the fable rather than the whole
+    narrative's final outcome.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4775-4782
+  quote_or_summary: The gnat approaches the lion, says it is not afraid, denies that
+    the lion matches it in strength, and challenges him to fight.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4782-4786
+  quote_or_summary: The gnat sounds its horn, darts in, bites the lion on the nose,
+    and the lion scratches his own nose bloody while failing to hurt the gnat.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4786-4790
+  quote_or_summary: The gnat buzzes off in triumph, later becomes entangled in a spider's
+    web, and is caught and eaten by the spider.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 4789-4790
+  quote_or_summary: '"the King of the Beasts"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    and not assigned to a supplied taxonomy family because no listed family is directly
+    supported by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a comparison to another text, tradition, or motif family.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4775-l4790
+  passage_sha256=febf991dd631821b9c3937332f1dce41b875b247e76ae7dc1b76915fc8ad7496
+

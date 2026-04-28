@@ -6,12 +6,12 @@
 
 - Generated on: 2026-04-28
 - Canonical texts checked: 58
-- Texts with extraction records: 39
-- Texts without extraction records: 19
-- Texts needing full extraction: 53
-- Texts needing review or normalization: 39
-- Extraction records counted: 714
-- Candidate motifs counted: 2760
+- Texts with extraction records: 41
+- Texts without extraction records: 17
+- Texts needing full extraction: 51
+- Texts needing review or normalization: 41
+- Extraction records counted: 914
+- Candidate motifs counted: 3665
 
 ## Status Logic
 
@@ -32,8 +32,6 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `no_extractions` | 0 | 3 | 0 | buddhist | [Jataka tales](../texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md) |
 | `no_extractions` | 0 | 4 | 0 | buddhist | [More Jataka Tales](../texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md) |
 | `no_extractions` | 0 | 6 | 0 | buddhist | [The Giant Crab, and Other Tales from Old India](../texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md) |
-| `no_extractions` | 0 | 10 | 0 | greek | [Phaedrus](../texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md) |
-| `no_extractions` | 0 | 9 | 0 | greek | [Symposium](../texts/public-domain/greek/project-gutenberg/symposium-jowett.md) |
 | `no_extractions` | 0 | 27 | 0 | greek_roman | [Myths and Legends of Ancient Greece and Rome](../texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md) |
 | `no_extractions` | 0 | 18 | 0 | japanese | [Japanese Fairy Tales](../texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md) |
 | `no_extractions` | 0 | 26 | 0 | norse | [Myths of the Norsemen: From the Eddas and Sagas](../texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md) |
@@ -69,10 +67,12 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 
 | Status | Needs Review | Generated | Motifs | Tradition | Text |
 | --- | ---: | ---: | ---: | --- | --- |
-| `dense_draft` | 197 | 197 | 519 | greek | [Aesop's Fables; a new translation](../texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md) |
+| `dense_draft` | 246 | 246 | 664 | greek | [Aesop's Fables; a new translation](../texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md) |
 | `dense_draft` | 167 | 167 | 895 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md) |
 | `dense_draft` | 139 | 139 | 603 | greek | [The Republic](../texts/public-domain/greek/project-gutenberg/republic-jowett.md) |
-| `dense_draft` | 61 | 61 | 315 | greek | [The Odyssey](../texts/public-domain/greek/project-gutenberg/odyssey-butler.md) |
+| `dense_draft` | 132 | 132 | 703 | greek | [The Odyssey](../texts/public-domain/greek/project-gutenberg/odyssey-butler.md) |
+| `dense_draft` | 43 | 43 | 197 | greek | [Phaedrus](../texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md) |
+| `dense_draft` | 37 | 37 | 175 | greek | [Symposium](../texts/public-domain/greek/project-gutenberg/symposium-jowett.md) |
 | `dense_draft` | 36 | 36 | 138 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md) |
 | `developing` | 23 | 21 | 34 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) |
 | `developing` | 13 | 11 | 28 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) |
@@ -146,8 +146,6 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | high | `no extractions` | 0 | 3 | 0 | buddhist | [Jataka tales](../texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md) |
 | high | `no extractions` | 0 | 4 | 0 | buddhist | [More Jataka Tales](../texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md) |
 | high | `no extractions` | 0 | 6 | 0 | buddhist | [The Giant Crab, and Other Tales from Old India](../texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md) |
-| high | `no extractions` | 0 | 10 | 0 | greek | [Phaedrus](../texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md) |
-| high | `no extractions` | 0 | 9 | 0 | greek | [Symposium](../texts/public-domain/greek/project-gutenberg/symposium-jowett.md) |
 | high | `no extractions` | 0 | 27 | 0 | greek_roman | [Myths and Legends of Ancient Greece and Rome](../texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md) |
 | high | `no extractions` | 0 | 18 | 0 | japanese | [Japanese Fairy Tales](../texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md) |
 | high | `no extractions` | 0 | 26 | 0 | norse | [Myths of the Norsemen: From the Eddas and Sagas](../texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md) |
@@ -196,6 +194,8 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | medium | `developing` | 13 | 36 | 13 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) |
 | medium | `dense draft` | 36 | 33 | 36 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md) |
 | medium | `dense draft` | 167 | 37 | 167 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md) |
-| medium | `dense draft` | 197 | 11 | 197 | greek | [Aesop's Fables; a new translation](../texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md) |
-| medium | `dense draft` | 61 | 33 | 61 | greek | [The Odyssey](../texts/public-domain/greek/project-gutenberg/odyssey-butler.md) |
+| medium | `dense draft` | 246 | 11 | 246 | greek | [Aesop's Fables; a new translation](../texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md) |
+| medium | `dense draft` | 43 | 10 | 43 | greek | [Phaedrus](../texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md) |
+| medium | `dense draft` | 37 | 9 | 37 | greek | [Symposium](../texts/public-domain/greek/project-gutenberg/symposium-jowett.md) |
+| medium | `dense draft` | 132 | 33 | 132 | greek | [The Odyssey](../texts/public-domain/greek/project-gutenberg/odyssey-butler.md) |
 | medium | `dense draft` | 139 | 40 | 139 | greek | [The Republic](../texts/public-domain/greek/project-gutenberg/republic-jowett.md) |

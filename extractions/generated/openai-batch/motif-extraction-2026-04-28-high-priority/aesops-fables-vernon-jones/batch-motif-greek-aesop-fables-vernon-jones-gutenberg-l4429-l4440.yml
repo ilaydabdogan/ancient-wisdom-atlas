@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4429-l4440
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE DOG AND THE WOLF / THE WASP AND THE SNAKE / THE EAGLE AND THE BEETLE
+    / THE FOWLER AND THE LARK; lines 4429-4440
+  start: '4429'
+  end: '4440'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A fowler sets nets for small birds. A lark asks what he is doing, and he
+    falsely says he is founding a city before hiding nearby. The lark investigates
+    the nets, tries to take the bait, becomes entangled, and is captured. She remarks
+    that such a city will take a long time to fill with enough fools.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A fowler is setting nets for little birds.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A lark approaches the fowler and asks what he is doing.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fowler says he is founding a city, then withdraws and hides nearby.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The lark examines the nets and sees bait.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The lark hops onto the nets to get the bait and becomes entangled in the meshes.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The fowler runs up and captures the lark.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The lark calls herself a fool and says the fowler’s city will take a long
+    time to fill with enough fools.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Fowler
+  description: A bird-catcher setting nets for little birds, hiding nearby, and capturing
+    the lark.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Lark
+  description: A bird who questions the fowler, inspects the nets, tries to take bait,
+    becomes entangled, and comments on her own folly.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: trapper
+  assigned_to:
+  - fig:1
+  basis: The fowler sets nets for birds and captures the lark after she becomes entangled.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: deceptive speaker
+  assigned_to:
+  - fig:1
+  basis: He answers the lark’s question by saying he is founding a city, then hides
+    near the nets.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: curious questioner
+  assigned_to:
+  - fig:2
+  basis: The lark asks what the fowler is doing and examines the nets with curiosity.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: entrapped victim
+  assigned_to:
+  - fig:2
+  basis: The lark hops onto the nets for the bait, becomes entangled, and is captured.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: nets
+  literal_form: nets and meshes set for little birds
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: bait
+  literal_form: bait visible on the nets
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: city
+  literal_form: the fowler’s claimed city-founding activity
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+scenes:
+- id: scene:1
+  label: Question at the nets
+  summary: The fowler sets nets for small birds, and the lark asks him what he is
+    doing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: False explanation and concealment
+  summary: The fowler says he is founding a city and then hides a short distance away.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Baited entanglement
+  summary: The lark inspects the nets, notices the bait, hops onto the nets to get
+    it, and becomes caught in the meshes.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Capture and retort
+  summary: The fowler captures the lark, and she remarks on her foolishness and on
+    the unlikely population of his supposed city.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: deceptive explanation concealing a trap
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The fowler answers the lark’s question with the false claim that he is founding
+    a city, hides, and then captures her when she is caught in the nets.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy label is broad; the passage shows deception and
+    entrapment but does not name the fowler as a trickster.
+- id: motif:2
+  label: baited trap catching the unwary
+  taxonomy_refs: []
+  basis: The lark’s curiosity and desire for bait lead her onto the nets, where she
+    becomes entangled and is captured.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a plain narrative pattern rather than a mapped taxonomy reference.
+- id: motif:3
+  label: victim recognizes folly after capture
+  taxonomy_refs:
+  - wisdom
+  basis: After being captured, the lark says she was a fool and comments that few
+    fools will populate the fowler’s supposed city.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage gives a witty recognition of folly; assigning it to the broad
+    wisdom family is interpretive and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4429-4430
+  quote_or_summary: A fowler was setting nets for little birds.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: 4430-4431
+  quote_or_summary: A lark came to the fowler and asked what he was doing.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: quote
+  locator: 4431-4433
+  quote_or_summary: "“I am engaged in founding a city,” said he, and then withdrew
+    and concealed himself nearby."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: 4433-4435
+  quote_or_summary: The lark examined the nets with curiosity and saw the bait.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: 4435-4437
+  quote_or_summary: The lark hopped onto the nets to get the bait and became entangled
+    in the meshes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: summary
+  locator: '4437'
+  quote_or_summary: The fowler ran up quickly and captured the lark.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:7
+  type: quote
+  locator: 4437-4440
+  quote_or_summary: The lark says she was a fool and that such a city will take a
+    long time to fill with enough fools.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary with limited quotation in surrounding
+    fields.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif-family mapping is limited because
+    the available taxonomy has only broad categories and the passage itself is a concise
+    fable.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific cross-text comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4429-l4440
+  passage_sha256=72a1432fb1a42a503b0854c4d1997ccb99448aca194684ec6867a2c838dddf58
+

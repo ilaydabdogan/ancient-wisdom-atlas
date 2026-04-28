@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4582-l4606
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE ROSE AND THE AMARANTH / THE MAN, THE HORSE, THE OX, AND THE DOG / THE
+    WOLVES, THE SHEEP, AND THE RAM / THE SWAN; lines 4582-4606
+  start: '4582'
+  end: '4606'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Wolves propose peace to the Sheep if the Sheep surrender their sheep-dogs
+    to death; the Sheep agree, but an old Ram warns that the Wolves are dangerous
+    even while the dogs protect the flock. A Swan, believed to sing only when near
+    death, is bought by a man who wants to hear its song at dinner; it remains silent
+    until old age, then sings as death approaches, prompting the owner to regret not
+    killing it earlier when he wanted the song.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Wolves send a deputation to the Sheep proposing lasting peace on condition
+    that the Sheep give up the sheep-dogs to instant death.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Sheep agree to the Wolves' terms.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An old Ram, described as having wisdom from age, intervenes and questions
+    how peace with the Wolves can be expected.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Ram states that even with dogs present to protect the Sheep, they are
+    never secure from the Wolves' murderous attacks.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Swan is said to sing once in its life, when it knows it is about to die.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A man buys a Swan in the market and takes it home.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The man asks the Swan to sing for dinner guests, but the Swan remains silent.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: When the Swan grows old and becomes aware of its approaching end, it sings
+    a sweet, sad song.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The owner angrily says that if the Swan sings only when about to die, he should
+    have wrung its neck when he wanted to hear the song.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Wolves
+  description: Predatory group that sends a deputation proposing peace to the Sheep
+    while demanding the death of the sheep-dogs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Sheep
+  description: Group that receives the Wolves' peace proposal and foolishly agrees
+    to give up the sheep-dogs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: sheep-dogs
+  description: Dogs kept at hand to protect the Sheep; the Wolves demand that they
+    be given up to instant death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: old Ram
+  description: An old Ram whose years have brought him wisdom; he interrupts the agreement
+    and warns the Sheep.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Swan
+  description: A bird said to sing only once, when it knows it is about to die; it
+    remains silent when commanded to entertain, then sings near death.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: owner of the Swan
+  description: A man who buys the Swan after hearing of its song, asks it to sing
+    for guests, and later regrets not killing it when he wanted the song.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:7
+  name_or_label: dinner guests
+  description: Friends of the Swan's owner, present when he asks the Swan to sing
+    for entertainment.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: predatory negotiators
+  assigned_to:
+  - fig:1
+  basis: The Wolves propose peace while demanding the removal and death of the Sheep's
+    protectors, and the Ram recalls their murderous attacks.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: foolish concession-makers
+  assigned_to:
+  - fig:2
+  basis: The Sheep agree to surrender the sheep-dogs under the Wolves' terms.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: protective guards
+  assigned_to:
+  - fig:3
+  basis: The dogs are described as being at hand to protect the Sheep.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: wise elder counselor
+  assigned_to:
+  - fig:4
+  basis: The Ram is old, his years have brought him wisdom, and he intervenes with
+    a warning.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: death-song bird
+  assigned_to:
+  - fig:5
+  basis: The Swan is said to sing only when it knows it is about to die, and later
+    sings as its end approaches.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:6
+  label: impatient owner
+  assigned_to:
+  - fig:6
+  basis: The owner buys the Swan for its song, commands it to sing for entertainment,
+    and later angrily regrets not killing it.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:7
+  label: intended audience
+  assigned_to:
+  - fig:7
+  basis: The friends are present at dinner when the owner produces the Swan and asks
+    it to sing.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: protective sheep-dogs
+  literal_form: sheep-dogs at hand to protect the Sheep
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: swan death-song
+  literal_form: a sweet, sad song sung when the Swan knows its death is approaching
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Predators propose peace through disarmament
+  summary: The Wolves propose a lasting peace if the Sheep surrender the sheep-dogs
+    to death; the Sheep agree, but the old Ram warns that the Wolves remain dangerous
+    even with the dogs present.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Swan bought for its famous song
+  summary: A man hears that Swans sing before death, buys one in the market, and later
+    asks it to sing for guests; it remains silent.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Song at the approach of death
+  summary: When the Swan becomes old and aware of its approaching end, it sings; the
+    owner angrily concludes that he should have killed it earlier if he wanted the
+    song.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: wise elder warns against foolish surrender
+  taxonomy_refs:
+  - wisdom
+  basis: The old Ram, explicitly associated with wisdom from age, intervenes when
+    the Sheep agree to give up their protectors and gives a reasoned warning.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The taxonomy link is limited to the explicit wisdom theme; no broader
+    mythic comparison is asserted.
+- id: motif:2
+  label: predator's peace proposal requires removal of protection
+  taxonomy_refs: []
+  basis: The Wolves' proposed peace depends on the Sheep giving up the sheep-dogs
+    to death, leaving the flock less protected.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a fable pattern rather than a supplied taxonomy motif family.
+- id: motif:3
+  label: song reserved for the moment before death
+  taxonomy_refs: []
+  basis: The Swan is said to sing only once, when it knows it is about to die, and
+    later sings as its end approaches.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference directly matches the death-song pattern.
+- id: motif:4
+  label: desire for a marvel at the wrong time
+  taxonomy_refs: []
+  basis: The owner wants the Swan's song for entertainment, but the song occurs only
+    at the Swan's natural approach to death.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This abstracts the fable's situation; the passage itself frames the owner's
+    regret but does not provide an explicit moral.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4582-4588
+  quote_or_summary: The Wolves send a deputation proposing lasting peace with the
+    Sheep if the Sheep give up the sheep-dogs to instant death; the Sheep agree.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 4588-4592
+  quote_or_summary: An old Ram, whose years have brought him wisdom, intervenes and
+    asks how they can expect peace, since even with the dogs protecting them they
+    are not secure from the Wolves' attacks.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 4594-4596
+  quote_or_summary: The Swan is said to sing only once in its life, when it knows
+    it is about to die.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 4596-4601
+  quote_or_summary: A man who has heard of the Swan's song buys one in the market,
+    takes it home, and later asks it to sing for dinner guests, but it remains silent.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 4601-4603
+  quote_or_summary: When the Swan grows old and becomes aware of its approaching end,
+    it breaks into a sweet, sad song.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 4603-4606
+  quote_or_summary: The owner angrily says that if the Swan sings only when about
+    to die, he was foolish not to wring its neck when he wanted to hear the song.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    beyond explicit wisdom are descriptive fable-pattern candidates without taxonomy
+    matches. No comparison claims are made because the passage itself does not support
+    a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4582-l4606
+  passage_sha256=992c45c84a76281ef1c1c8df1d1d7b6ef7ac97095a511f48e8c0f59783538b1d
+

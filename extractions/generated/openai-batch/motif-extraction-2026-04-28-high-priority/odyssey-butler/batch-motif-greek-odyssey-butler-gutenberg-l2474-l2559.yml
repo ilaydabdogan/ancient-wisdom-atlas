@@ -1,0 +1,529 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l2474-l2559
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK III / TELEMACHUS VISITS NESTOR AT PYLOS. / BOOK IV / BOOK V; lines 2474-2559
+  start: '2474'
+  end: '2559'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Ulysses prepares to leave Calypso’s island by building a raft from island
+    timber with tools and materials supplied by Calypso. Calypso sends him away with
+    clothing, food, wine, water, and a favorable wind. He navigates by the stars until
+    he nears the Phaeacian coast. Neptune sees him, becomes angry, raises a storm
+    with his trident and the winds, and Ulysses is thrown from and then returns to
+    his damaged raft. Ino/Leucothea, a marine goddess formerly mortal, sees his distress
+    and approaches with compassion.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At dawn, Ulysses puts on his shirt and cloak, while Calypso wears a fine dress,
+    golden girdle, and veil.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Calypso plans how to speed Ulysses on his way and gives him a bronze axe and
+    sharp adze.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Calypso leads Ulysses to the end of the island where tall dry alder, poplar,
+    and pine grow.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Ulysses cuts twenty trees, shapes them, joins timbers with bolts and rivets,
+    and constructs a raft with deck, gunwale, mast, yard, rudder, wicker protection,
+    and sails.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After four days of work, Calypso sends Ulysses from the island on the fifth
+    day with clean clothes, wine, water, provisions, meat, and a fair warm wind.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Ulysses keeps watch on the Pleiads, Bootes, and the Bear as he sails, and
+    after eighteen days he sees the mountains of the Phaeacian coast.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Neptune sees Ulysses from the mountains of the Solymi, becomes angry, and
+    says Ulysses will have more hardship before he is done.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Neptune gathers clouds, grasps his trident, stirs the sea, and rouses winds
+    from all directions against Ulysses.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Ulysses laments that he may perish at sea and contrasts this death with an
+    honored death and burial before Troy.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: A wave strikes the raft, throws Ulysses overboard, breaks the mast, and sends
+    the sail and yard into the sea; Ulysses surfaces, swims back, and climbs onto
+    the raft.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Ino, also called Leucothea, formerly mortal and now a marine goddess, sees
+    Ulysses in distress, feels compassion, rises from the waves like a sea-gull, and
+    sits on the raft.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ulysses
+  description: The voyager who builds the raft, leaves Calypso’s island, navigates
+    by stars, is struck by Neptune’s storm, and struggles to remain alive at sea.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Calypso
+  description: A goddess who equips Ulysses with tools and materials, shows him the
+    trees, brings augers and linen, and sends him away with clothing, provisions,
+    and a favorable wind.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Neptune
+  description: A kingly god who sees Ulysses from afar, becomes angry, speaks against
+    his imminent escape, and raises a storm with clouds, winds, sea, and trident.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Ino / Leucothea
+  description: Daughter of Cadmus, formerly mortal and later a marine goddess, who
+    sees Ulysses’ distress and approaches his raft with compassion.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: Dawn
+  description: The child of morning, called rosy-fingered, whose appearance marks
+    the beginning of the passage.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: raft-builder
+  assigned_to:
+  - fig:1
+  basis: Ulysses cuts trees, shapes timbers, fits the raft together, and makes its
+    mast, rudder, and sails.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: sea-voyager
+  assigned_to:
+  - fig:1
+  basis: Ulysses leaves the island by raft, steers by stars, and sails toward the
+    Phaeacian coast.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: divine helper
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Calypso materially assists and sends Ulysses away; Ino/Leucothea sees his
+    distress and approaches with compassion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:8
+- id: role:4
+  label: divine adversary
+  assigned_to:
+  - fig:3
+  basis: Neptune becomes angry at Ulysses’ progress and raises a storm against him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: distressed survivor
+  assigned_to:
+  - fig:1
+  basis: Ulysses is thrown into the sea, held down by wet clothing, resurfaces, and
+    returns to the raft to avoid drowning.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: marine goddess
+  assigned_to:
+  - fig:4
+  basis: The passage states that Ino/Leucothea had been raised to the rank of a marine
+    goddess.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: dawn marker
+  assigned_to:
+  - fig:5
+  basis: Dawn’s appearance marks the time when Ulysses and Calypso begin the day’s
+    actions.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: island timber
+  literal_form: alder, poplar, and pine trees used for the raft
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: raft
+  literal_form: broad timber raft with deck, gunwale, mast, yard, rudder, wicker hurdles,
+    and sails
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: sym:3
+  label: sea water
+  literal_form: sea, waves, brine, and Oceanus mentioned in the voyage and storm
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: star navigation
+  literal_form: Pleiads, late-setting Bootes, and the Bear used as navigational markers
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: distant mountains
+  literal_form: mountains of the Phaeacian coast and mountains of the Solymi
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: trident
+  literal_form: Neptune’s trident used while stirring the sea and rousing the storm
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: winds from all directions
+  literal_form: East, South, North, and West winds falling on Ulysses at the same
+    time
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Calypso equips Ulysses to build
+  summary: At dawn, Calypso prepares to speed Ulysses on his way, gives him tools,
+    and shows him the dry timber at the end of the island.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ulysses constructs the raft
+  summary: Ulysses cuts twenty trees and builds a functional raft with ship-like features,
+    while Calypso supplies augers and linen for sails.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Departure from Calypso’s island
+  summary: After the raft is complete, Calypso washes and clothes Ulysses, gives him
+    wine, water, food, meat, and favorable wind, and he departs by sail.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Star-guided voyage toward Phaeacia
+  summary: Ulysses steers without sleeping by watching the constellations and, after
+    eighteen days, sees the mountains of the Phaeacian coast.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Neptune raises the storm
+  summary: Neptune sees Ulysses nearing escape, grows angry, declares that more hardship
+    awaits him, and uses his trident to stir clouds, sea, and winds.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Ulysses is thrown from the raft
+  summary: The storm breaks the raft’s mast and throws Ulysses underwater; he resurfaces,
+    spits out brine, swims back, and climbs onto the raft.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Ino/Leucothea appears
+  summary: Ino/Leucothea, a former mortal now marine goddess, sees Ulysses in distress
+    and approaches the raft compassionately from the waves.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: aided departure from an island
+  taxonomy_refs:
+  - departure
+  basis: Calypso provides tools, materials, provisions, clothing, and a fair wind,
+    then sends Ulysses away from the island.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives the departure itself, but broader narrative context
+    for why Ulysses was on the island is outside the supplied range.
+- id: motif:2
+  label: homeward return by sea
+  taxonomy_refs:
+  - return
+  basis: Ulysses sails by raft, keeps the Bear to his left as instructed, approaches
+    the Phaeacian coast, and speaks of trouble before getting back home.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage indicates homeward movement, but the full return arc is not
+    completed within this excerpt.
+- id: motif:3
+  label: divine obstruction through storm
+  taxonomy_refs: []
+  basis: Neptune becomes angry at Ulysses’ progress and raises a storm with clouds,
+    winds, and sea to impose further hardship.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No specific taxonomy reference is assigned because the passage frames
+    the act as hostile divine interference rather than explicit judgment.
+- id: motif:4
+  label: storm-tossed survivor on a fragile vessel
+  taxonomy_refs: []
+  basis: Ulysses’ raft is battered by opposing winds and waves; he is thrown into
+    the sea but regains the raft to avoid drowning.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage shows survival in progress, not the complete resolution of
+    the danger.
+- id: motif:5
+  label: compassionate marine helper appears to distressed hero
+  taxonomy_refs: []
+  basis: Ino/Leucothea sees Ulysses’ distress, has compassion, rises from the waves,
+    and takes a seat on the raft.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: Her assistance begins in the passage, but any advice or rescue outcome
+    lies beyond the supplied range.
+- id: motif:6
+  label: crafting a vessel for passage over water
+  taxonomy_refs:
+  - ark_vessel
+  basis: Ulysses builds a raft from selected trees and equips it with mast, rudder,
+    deck, protective wicker, and sails for sea travel.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: The vessel is a raft, not an ark; the taxonomy reference is only a broad
+    vessel-related comparison and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2474-2488
+  quote_or_summary: At dawn Ulysses and Calypso dress; Calypso thinks how to speed
+    him on his way, gives him a bronze axe and adze, and leads him to tall dry alder,
+    poplar, and pine at the end of the island.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain text per supplied metadata.
+- id: ev:2
+  type: summary
+  locator: 2488-2508
+  quote_or_summary: Ulysses cuts twenty trees, shapes and joins timbers, builds the
+    raft’s deck, gunwale, mast, yard, rudder, wicker protection, and sails; Calypso
+    supplies augers and linen.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain text per supplied metadata.
+- id: ev:3
+  type: summary
+  locator: 2510-2519
+  quote_or_summary: After four days of work, on the fifth day Calypso sends Ulysses
+    from the island with clean clothes, wine, water, provisions, meat, and a fair
+    warm wind.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain text per supplied metadata.
+- id: ev:4
+  type: summary
+  locator: 2519-2528
+  quote_or_summary: Ulysses steers by the Pleiads, Bootes, and the Bear, following
+    Calypso’s instruction, and after eighteen days sees the mountains of the Phaeacian
+    coast.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain text per supplied metadata.
+- id: ev:5
+  type: summary
+  locator: 2530-2538
+  quote_or_summary: Neptune, returning from the Ethiopians, sees Ulysses from the
+    mountains of the Solymi, becomes angry, and says the gods have changed their minds
+    but Ulysses will still have hardship.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain text per supplied metadata.
+- id: ev:6
+  type: summary
+  locator: 2540-2550
+  quote_or_summary: Neptune gathers clouds, grasps his trident, stirs the sea, and
+    rouses all winds; Ulysses laments the blackened sky, the sea, and the likelihood
+    of a pitiable death at sea.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain text per supplied metadata.
+- id: ev:7
+  type: summary
+  locator: 2551-2557
+  quote_or_summary: A violent sea breaks over the raft, throws Ulysses overboard,
+    breaks the mast, and sends sail and yard into the sea; Ulysses surfaces, spits
+    out brine, swims back, and climbs onto the raft.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain text per supplied metadata.
+- id: ev:8
+  type: summary
+  locator: 2558-2559
+  quote_or_summary: Ino daughter of Cadmus, also called Leucothea, formerly mortal
+    and now a marine goddess, sees Ulysses’ distress, has compassion, rises like a
+    sea-gull from the waves, and sits on the raft.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain text per supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based entirely on the supplied passage. Motif candidates
+    involving departure, return, storm obstruction, vessel construction, and marine
+    assistance are evident, though broader Odyssey context is not used. No comparison
+    claims are made beyond taxonomy-style motif tagging.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons were added. Literal observations are separated from motif interpretation.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l2474-l2559
+  passage_sha256=de34efbe783673df6bbce45f8201dbdd9931b38788a294b9a6a9bbac654724c8
+

@@ -1,0 +1,407 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4806-l4828
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FOWLER, THE PARTRIDGE, AND THE COCK / THE GNAT AND THE LION / THE FARMER
+    AND HIS DOGS / THE EAGLE AND THE FOX; lines 4806-4828
+  start: '4806'
+  end: '4828'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: False faith may escape human punishment, but cannot escape the divine.
+  summary: An eagle and a fox agree to live near each other as friends. The eagle
+    nests in a high tree while the fox lives below in a thicket and has cubs. When
+    the fox is away, the eagle takes the fox's cubs to feed her own young. The fox
+    curses the eagle but cannot reach her. Later, after villagers sacrifice a goat,
+    the eagle carries burning flesh to her nest; wind sets the nest on fire, and the
+    eagle's fledglings fall to the ground, where the fox devours them. The moral states
+    that false faith may avoid human punishment but not divine punishment.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The eagle and the fox become friends and decide to live near one another.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The eagle builds a nest at the top of a high tree, and the fox settles in
+    a thicket at the foot of the tree.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The fox produces a litter of cubs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: While the fox is away foraging, the eagle carries off the fox's cubs to feed
+    herself and her young.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The fox is furious at the eagle's treachery because she cannot reach the eagle,
+    and she curses her from nearby.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Villagers sacrifice a goat on a neighboring altar.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The eagle carries a piece of burning flesh to her nest.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A strong wind causes the nest to catch fire, and the eagle's fledglings fall
+    half-roasted to the ground.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The fox devours the eagle's fledglings in sight of the eagle.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The moral says that false faith may escape human punishment but cannot escape
+    the divine.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Eagle
+  description: A bird who befriends the fox, nests in a high tree, steals the fox's
+    cubs, and later loses her own young when her nest burns.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Fox
+  description: An animal who befriends the eagle, lives below the eagle's tree, bears
+    cubs, curses the eagle after the cubs are taken, and later devours the eagle's
+    fallen fledglings.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Fox's cubs
+  description: The fox's litter, carried off by the eagle as food for the eagle and
+    her family.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Eagle's fledglings
+  description: The eagle's young, in the nest when it catches fire; they fall to the
+    ground and are devoured by the fox.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Villagers
+  description: People sacrificing a goat on a neighboring altar before the eagle carries
+    away burning flesh.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: neighboring friend
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The eagle and fox become friends and decide to live near one another.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: betrayer of friendship
+  assigned_to:
+  - fig:1
+  basis: The eagle takes the fox's cubs for food after establishing friendship and
+    proximity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: wronged parent
+  assigned_to:
+  - fig:2
+  basis: The fox returns to find her cubs taken and reacts with fury.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: avenger
+  assigned_to:
+  - fig:2
+  basis: The fox devours the eagle's fallen fledglings after the nest burns.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: punished wrongdoer
+  assigned_to:
+  - fig:1
+  basis: After taking the fox's cubs, the eagle's own young are destroyed following
+    the burning-flesh incident; the moral frames this as divine punishment for false
+    faith.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:6
+  label: offspring victim
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Both the fox's cubs and the eagle's fledglings are taken or devoured as food.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:7
+  label: sacrificers
+  assigned_to:
+  - fig:5
+  basis: The villagers are described as sacrificing a goat on a neighboring altar.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: high tree
+  literal_form: tree holding the eagle's nest above the fox's thicket
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: fire in the nest
+  literal_form: burning flesh and nest fire caused by wind
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: altar sacrifice
+  literal_form: villagers sacrificing a goat on a neighboring altar
+  associated_figures:
+  - fig:5
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: cubs and fledglings as reciprocal prey
+  literal_form: fox's cubs taken by the eagle and eagle's fledglings devoured by the
+    fox
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+scenes:
+- id: scene:1
+  label: Friendship and neighboring dwellings
+  summary: The eagle and fox become friends, decide to live near each other, and establish
+    homes in a high tree and a thicket at its foot.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Eagle seizes the fox's cubs
+  summary: While the fox is away foraging, the eagle takes the fox's cubs up into
+    the tree as food for herself and her family.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fox curses the inaccessible eagle
+  summary: The fox returns, discovers the loss, cannot reach the eagle, and curses
+    her from nearby.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Sacrificial fire reaches the eagle's nest
+  summary: Villagers sacrifice a goat; the eagle carries burning flesh to her nest,
+    and wind causes the nest to burn so that the fledglings fall to the ground.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Fox devours the fallen fledglings
+  summary: The fox eats the eagle's fledglings in full sight of the eagle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Moral of divine punishment
+  summary: The moral states that false faith may escape human punishment but not divine
+    punishment.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: betrayed pact of friendship punished
+  taxonomy_refs:
+  - divine_judgment
+  basis: The eagle violates friendship by taking the fox's cubs; the eagle's own young
+    then die through the burning nest, and the moral explicitly says false faith cannot
+    escape divine punishment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The narrative does not show a named deity acting; the divine framing is
+    supplied by the stated moral.
+- id: motif:2
+  label: reciprocal loss of offspring as revenge
+  taxonomy_refs: []
+  basis: The eagle takes the fox's cubs for food, and later the fox devours the eagle's
+    fledglings after they fall from the burning nest.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a passage-specific pattern without a supplied taxonomy reference.
+- id: motif:3
+  label: sacrifice-associated fire as instrument of reversal
+  taxonomy_refs:
+  - sacrifice
+  basis: A goat sacrifice on an altar provides the burning flesh that the eagle carries
+    to her nest, leading to the fire that destroys her young.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The sacrifice is literal in the plot, but the passage does not state that
+    the sacrificial act itself intentionally judges the eagle.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4806-4812
+  quote_or_summary: The eagle and fox become friends, choose to live near each other,
+    the eagle nests in a high tree, and the fox lives in a thicket below and has cubs.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4812-4816
+  quote_or_summary: While the fox is away foraging, the eagle takes the fox's cubs
+    up into the tree as a meal for herself and her family.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4816-4819
+  quote_or_summary: The fox returns, learns what happened, is furious at the eagle's
+    treachery because she cannot reach her, and sits nearby cursing her.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4819-4824
+  quote_or_summary: Villagers sacrifice a goat on a neighboring altar; the eagle carries
+    burning flesh to her nest, wind ignites the nest, and the fledglings fall half-roasted
+    to the ground.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4824-4825
+  quote_or_summary: The fox runs to the fallen fledglings and devours them in the
+    eagle's sight.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 4827-4828
+  quote_or_summary: False faith may escape human punishment, but cannot escape the
+    divine.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence is clear in the provided passage. Motif mapping is limited
+    to available taxonomy references and the explicit moral; no external comparisons
+    are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. Comparison claims left empty because no specific intertextual or cross-traditional comparison is supported by the passage itself.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4806-l4828
+  passage_sha256=754c4bcaa5aea1b0eb73d16519ba142090806f7eefa01f7960219fd0428f0ae9
+

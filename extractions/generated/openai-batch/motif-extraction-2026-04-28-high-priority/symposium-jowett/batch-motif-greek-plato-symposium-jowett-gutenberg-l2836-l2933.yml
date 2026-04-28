@@ -1,0 +1,554 @@
+---
+record_id: batch.motif.greek-plato-symposium-jowett-gutenberg-l2836-l2933
+source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+passage_locator:
+  label: Symposium / SYMPOSIUM / INTRODUCTION. / SYMPOSIUM; lines 2836-2933
+  start: '2836'
+  end: '2933'
+  translation: Symposium
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Alcibiades praises Socrates by recounting his prolonged fixed contemplation
+    during a military expedition, his prayer to the sun, his courage in rescuing Alcibiades
+    and calmly retreating at Delium, and his strange likeness to Silenus and satyrs,
+    especially in speech that seems ridiculous outside but contains divine and virtuous
+    meaning within. Alcibiades then warns Agathon about Socrates’ erotic influence.
+    Socrates interprets Alcibiades’ praise as a satyric or Silenic plot to separate
+    him from Agathon, after which the three dispute couch placement and praise.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Socrates stands fixed in thought from early dawn through the day and night
+    until the following morning.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At the return of light Socrates offers a prayer to the sun and then departs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Socrates rescues the wounded Alcibiades and his arms during an engagement.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Socrates is said to have deserved the prize of valour, but he wanted Alcibiades
+    to receive it instead.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: During the retreat after Delium, Socrates and Laches withdraw while the troops
+    are in flight.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Socrates is described as calmly observing enemies and friends and signaling
+    that anyone attacking him would meet resistance.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Alcibiades says Socrates has no close likeness among human beings except the
+    figure of Silenus and the satyrs.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Socrates’ words are compared to Silenus images that open, appearing ridiculous
+    at first but containing meaningful and divine contents within.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Alcibiades warns Agathon that Socrates begins as a lover and ends by making
+    others address him as beloved.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Socrates says Alcibiades’ long praise is a detected Satyric or Silenic drama
+    intended to cause conflict between Socrates and Agathon.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Agathon, Socrates, and Alcibiades dispute who will lie next to whom on the
+    couch.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: The central figure praised by Alcibiades; depicted as contemplative,
+    courageous in battle, unlike other humans, and comparable to Silenus and satyrs.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Alcibiades
+  description: Speaker who praises Socrates, recounts being rescued by him, warns
+    Agathon, and is said by Socrates to be trying to separate Socrates and Agathon.
+  role_refs:
+  - role:5
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Ionians
+  description: Curious observers who bring out mats and sleep in the open air to watch
+    whether Socrates will stand all night.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Laches
+  description: Companion of Socrates during the retreat after Delium.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Agathon
+  description: Addressee warned by Alcibiades and later invited by Socrates to lie
+    near him so that Socrates may praise him.
+  role_refs:
+  - role:10
+  - role:11
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Silenus and the satyrs
+  description: Mythic or figurative beings used as the closest likeness for Socrates
+    and for the form of his words.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:7
+  name_or_label: Charmides son of Glaucon and Euthydemus son of Diocles
+  description: Named among others whom Alcibiades says Socrates treated in the same
+    way as himself.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: contemplative vigil figure
+  assigned_to:
+  - fig:1
+  basis: Socrates remains standing in thought from dawn through the night.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: rescuer in battle
+  assigned_to:
+  - fig:1
+  basis: Socrates rescues Alcibiades and his arms when Alcibiades is wounded.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: calm warrior in retreat
+  assigned_to:
+  - fig:1
+  basis: Socrates retreats calmly, observing enemies and friends, and escapes with
+    Laches.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: bearer of hidden wise speech
+  assigned_to:
+  - fig:1
+  basis: His words are said to appear ridiculous externally but contain divine and
+    virtuous meaning within.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: praising witness
+  assigned_to:
+  - fig:2
+  basis: Alcibiades narrates marvels in praise of Socrates.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:6
+  label: rescued companion
+  assigned_to:
+  - fig:2
+  basis: Alcibiades says Socrates saved his life when he was wounded.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: jealous lover or rival
+  assigned_to:
+  - fig:2
+  basis: Socrates says Alcibiades wants Socrates to love only him and wants himself
+    alone to love Agathon.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:8
+  label: curious night watchers
+  assigned_to:
+  - fig:3
+  basis: The Ionians sleep in the open air to see whether Socrates will stand all
+    night.
+  evidence_refs:
+  - ev:1
+- id: role:9
+  label: retreating companion
+  assigned_to:
+  - fig:4
+  basis: Laches retreats with Socrates after Delium.
+  evidence_refs:
+  - ev:3
+- id: role:10
+  label: warned beloved youth
+  assigned_to:
+  - fig:5
+  basis: Alcibiades directly warns Agathon not to be deceived by Socrates.
+  evidence_refs:
+  - ev:6
+- id: role:11
+  label: object of praise and proximity
+  assigned_to:
+  - fig:5
+  basis: Agathon wants to lie next to Socrates and be praised by him.
+  evidence_refs:
+  - ev:8
+- id: role:12
+  label: figurative likeness for Socrates
+  assigned_to:
+  - fig:6
+  basis: Alcibiades says Socrates and his words are represented by Silenus and satyrs.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:13
+  label: others affected by Socrates’ erotic reversal
+  assigned_to:
+  - fig:7
+  basis: They are named as among those whom Socrates has treated in the same way.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sun at dawn
+  literal_form: the sun, addressed in prayer at return of light
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: opened Silenus image
+  literal_form: images or busts of Silenus that open to reveal what is within
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: satyr skin or satyr exterior
+  literal_form: language compared to the skin of the wanton satyr
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: couch placement
+  literal_form: the couch positions around Socrates, Agathon, and Alcibiades
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: standing vigil and dawn prayer
+  summary: During an expedition, Socrates stands in thought from dawn through the
+    night while others watch, then prays to the sun at morning light and leaves.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: rescue and prize of valour
+  summary: Alcibiades recounts that Socrates saved him when wounded, rescued his arms,
+    and should have received the prize of valour but preferred Alcibiades receive
+    it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: retreat after Delium
+  summary: Socrates and Laches retreat during a rout; Socrates remains calm, watchful,
+    and ready to resist, so the two escape.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Silenus comparison and hidden speech
+  summary: Alcibiades says Socrates cannot be likened to ordinary famous men, but
+    only to Silenus and satyrs; his words seem ridiculous outside but contain divine
+    images of virtue within.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: warning to Agathon
+  summary: Alcibiades warns Agathon not to be deceived by Socrates, saying Socrates
+    begins as lover and makes others pursue him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: detected Silenic drama and couch rivalry
+  summary: Socrates interprets Alcibiades’ praise as a Silenic drama meant to divide
+    him from Agathon; Agathon, Socrates, and Alcibiades then negotiate who will lie
+    next to whom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: prolonged contemplative vigil followed by dawn prayer
+  taxonomy_refs:
+  - wisdom
+  basis: Socrates’ extended immobility in thought and subsequent prayer to the sun
+    present a pattern of contemplative endurance associated with insight or wisdom
+    in the passage.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not state what Socrates resolved or learned, so the wisdom
+    classification is based on the surrounding characterization rather than an explicit
+    result.
+- id: motif:2
+  label: hidden wisdom inside a ridiculous exterior
+  taxonomy_refs:
+  - wisdom
+  - duality
+  basis: Socrates’ speech is described as ridiculous at first and clothed in satyr-like
+    language, but when opened it contains divine, virtuous meaning.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a figurative description of speech, not a literal transformation
+    or hidden object episode.
+- id: motif:3
+  label: Silenus or satyr-like wise figure
+  taxonomy_refs:
+  - wisdom
+  - duality
+  basis: Alcibiades says Socrates’ closest likeness is Silenus and the satyrs, and
+    that this figure represents both Socrates and his words.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The comparison is explicit but metaphorical; Socrates is not presented
+    as literally nonhuman.
+- id: motif:4
+  label: courageous rescuer who yields honor to another
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Socrates rescues Alcibiades and his arms, is said to deserve the prize of
+    valour, but is eager for Alcibiades to receive it.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage emphasizes generosity
+    and honor transfer rather than a formal sacred exchange.
+- id: motif:5
+  label: erotic reversal from lover to beloved
+  taxonomy_refs: []
+  basis: Alcibiades says Socrates begins as others’ lover but ends by making them
+    address themselves to him, and Socrates frames Alcibiades as jealous over Agathon.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No available taxonomy reference directly matches this erotic-social pattern.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Socrates and his speech to Silenus and the
+    satyrs as figurative analogues.
+  claim_level: visual_similarity
+  target: Silenus and satyrs
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The similarity is rhetorical and figurative; the passage denies any
+    ordinary human likeness but does not make Socrates literally a satyr.
+- id: claim:2
+  claim: The passage explicitly refers to Aristophanes’ portrayal of Socrates in Clouds
+    when describing Socrates’ gait and eye movements.
+  claim_level: same_function
+  target: Aristophanes, Clouds
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only a brief intratextual or literary reference is present; the passage
+    does not develop a full shared motif beyond the physical characterization.
+- id: claim:3
+  claim: The passage contrasts Socrates with famous heroic or statesmanlike figures
+    such as Achilles, Nestor, Antenor, Pericles, and Brasidas, saying Socrates lacks
+    a comparable human likeness.
+  claim_level: visual_similarity
+  target: Greek heroic and political exemplars named in the passage
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is mainly negative and classificatory, used to emphasize
+    Socrates’ uniqueness rather than to align him with a shared motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2836-2850
+  quote_or_summary: Socrates stands fixed in thought from early dawn through noon
+    and the night while Ionians watch; at morning light he prays to the sun and goes
+    away.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2850-2864
+  quote_or_summary: Alcibiades says Socrates saved his life when he was wounded, rescued
+    him and his arms, and deserved the prize of valour but wanted Alcibiades to receive
+    it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2864-2880
+  quote_or_summary: After Delium, Socrates retreats with Laches, walking calmly, observing
+    enemies and friends, making clear that attackers would meet resistance, and escaping
+    because such a person is not touched in war.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2880-2891
+  quote_or_summary: Alcibiades says Socrates is absolutely unlike any human being,
+    unlike comparisons among famous men, and has no likeness except the earlier figure
+    of Silenus and the satyrs.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2891-2904
+  quote_or_summary: 'Socrates’ words are likened to Silenus images that open: outwardly
+    ridiculous and satyr-like, speaking of ordinary trades and animals, but inwardly
+    full of meaning, divine quality, and images of virtue.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2905-2914
+  quote_or_summary: Alcibiades ends his praise and blame by warning Agathon that Socrates
+    has treated him, Charmides, Euthydemus, and others by beginning as their lover
+    and ending with them pursuing him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 2915-2925
+  quote_or_summary: 'After laughter at Alcibiades, Socrates says the satyr praise
+    hides a purpose: Alcibiades wants to make Socrates and Agathon quarrel, but the
+    Satyric or Silenic drama has been detected.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 2926-2933
+  quote_or_summary: Agathon says he will lie on the couch next to Socrates; Socrates
+    agrees, Alcibiades asks that Agathon lie between them, and Socrates gives an order-of-praise
+    reason for Agathon to come to him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage gives strong evidence for figures, scenes, and explicit Silenus/satyr
+    comparisons. Motif taxonomy assignments are more cautious because available taxonomy
+    terms only partly match the passage’s social and rhetorical patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata; taxonomy references limited to provided lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-symposium-jowett-gutenberg__l2836-l2933
+  passage_sha256=9fdf1f171d7abeab2ef656e727c6761c38079366e34ce18fa4998e682fcd66aa
+

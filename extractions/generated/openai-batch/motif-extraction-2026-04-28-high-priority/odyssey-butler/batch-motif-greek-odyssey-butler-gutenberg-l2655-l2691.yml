@@ -1,0 +1,461 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l2655-l2691
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK III / TELEMACHUS VISITS NESTOR AT PYLOS. / BOOK IV / BOOK V; lines 2655-2691
+  start: '2655'
+  end: '2691'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A god calms the river and waves so Ulysses reaches the river mouth. Exhausted
+    and near-speechless from the sea, Ulysses returns Ino's scarf to the water, leaves
+    the river, kisses the earth, debates whether to stay by the river or seek the
+    woods, chooses a sheltered place beneath two olive shoots from one stock, covers
+    himself with leaves like a hidden firebrand in ashes, and Minerva sends him sleep
+    and forgetfulness of sorrow.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A god stops the stream, stills the waves, and makes the way calm before Ulysses
+    at the river mouth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Ulysses is physically broken by the sea: his knees and hands fail, his body
+    is swollen, sea-water runs from his mouth and nostrils, and he swoons from exhaustion.'
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After regaining breath and consciousness, Ulysses removes Ino's scarf and
+    throws it back into the salt stream, where Ino receives it from the wave.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ulysses leaves the river, lies among rushes, and kisses the earth.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: 'Ulysses speaks to himself about two dangers: cold and damp if he stays on
+    the river bed, or attack by a savage beast if he sleeps in the woods.'
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Ulysses chooses the woods on high ground near the water and shelters beneath
+    two olive shoots growing from a single stock.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The two olive shoots grow closely enough to block wind, sun, and rain.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Ulysses makes a bed from dead leaves and heaps leaves around himself.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage compares Ulysses covered in leaves to a solitary country dweller
+    hiding a brand as fire-seed in ashes.
+  category: other
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Minerva gives Ulysses sweet sleep, closes his eyelids, and makes him lose
+    memories of his sorrows.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: the god
+  description: An unnamed god who calms the stream and waves and brings Ulysses safely
+    into the river mouth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ulysses
+  description: The exhausted sea-battered man who reaches the river, returns Ino's
+    scarf, chooses shelter, covers himself with leaves, and receives sleep from Minerva.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:10
+- id: fig:3
+  name_or_label: Ino
+  description: The giver of the scarf, who receives it back from the wave when Ulysses
+    throws it into the salt stream.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Minerva
+  description: A goddess who sends sleep on Ulysses, closes his eyelids, and makes
+    him lose memories of sorrow.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:10
+- id: fig:5
+  name_or_label: savage beast
+  description: A possible animal threat imagined by Ulysses if he sleeps in the woods.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine calmer of waters
+  assigned_to:
+  - fig:1
+  basis: The god stills the stream and waves and brings Ulysses safely to the river
+    mouth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: exhausted survivor
+  assigned_to:
+  - fig:2
+  basis: Ulysses is described as broken by the sea, swollen, unable to breathe or
+    speak, and swooning from exhaustion.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: seeker of shelter
+  assigned_to:
+  - fig:2
+  basis: Ulysses weighs dangers, chooses the woods, makes a bed, and covers himself
+    with leaves.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:4
+  label: receiver of returned protective scarf
+  assigned_to:
+  - fig:3
+  basis: Ino had given the scarf, and receives it when Ulysses throws it back into
+    the stream.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: divine sleep-giver
+  assigned_to:
+  - fig:4
+  basis: Minerva sheds sweet sleep on Ulysses and closes his eyelids.
+  evidence_refs:
+  - ev:10
+- id: role:6
+  label: possible predator
+  assigned_to:
+  - fig:5
+  basis: Ulysses fears that a savage beast may take advantage of him and devour him.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: dangerous and calming water
+  literal_form: sea, river mouth, stream, waves, salt stream, river bed
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: Ino's scarf
+  literal_form: scarf given by Ino and returned to the salt stream
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: earth kissed after escape from water
+  literal_form: bounteous earth
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sheltering olive shoots
+  literal_form: two olive shoots growing from a single stock, one ungrafted sucker
+    and one grafted
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: leaf covering
+  literal_form: dead leaves used as bed and covering
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: hidden fire-seed
+  literal_form: brand hidden as fire-seed in ashes, used in a simile for Ulysses covered
+    in leaves
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Safe arrival at the river mouth
+  summary: A god calms water and waves, and Ulysses reaches the mouth of the river
+    in a state of extreme exhaustion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Return of Ino's scarf
+  summary: After recovering consciousness, Ulysses removes Ino's scarf and throws
+    it into the salt stream, where Ino receives it from the wave.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Choice between river bed and woods
+  summary: Ulysses leaves the river, kisses the earth, and weighs whether to remain
+    by the river and risk cold or climb to the woods and risk a beast.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Shelter beneath olive shoots
+  summary: Ulysses finds two tightly intertwined olive shoots on high ground near
+    water, makes a bed from leaves, and covers himself.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Fire-seed simile and divine sleep
+  summary: The leaf-covered Ulysses is compared to a hidden firebrand kept alive in
+    ashes, and Minerva sends him sleep and forgetfulness of sorrow.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: divine aid in surviving dangerous waters
+  taxonomy_refs: []
+  basis: A god calms the stream and waves and brings the exhausted Ulysses safely
+    into the river mouth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage names the action but does not elaborate a broader mythic type
+    beyond divine assistance in water danger.
+- id: motif:2
+  label: return of a divine token after rescue
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Ulysses returns the scarf that Ino had given him by casting it into the salt
+    stream, and Ino receives it from the wave.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents a returned divine object; classification as sacred
+    exchange is plausible but should be reviewed.
+- id: motif:3
+  label: liminal choice of shelter after ordeal
+  taxonomy_refs: []
+  basis: Ulysses weighs danger from cold at the river bed against danger from beasts
+    in the woods, then chooses the wooded shelter.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is an episode of survival deliberation rather than an explicitly
+    named traditional motif.
+- id: motif:4
+  label: protective tree shelter
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: Ulysses shelters beneath two olive shoots from one stock whose dense growth
+    blocks wind, sun, and rain.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: The tree is protective in the scene, but the passage does not identify
+    it as an axis, sacred tree, or cosmic structure.
+- id: motif:5
+  label: hidden fire-seed as image of preserved life
+  taxonomy_refs: []
+  basis: The passage compares Ulysses covered with leaves to a solitary person hiding
+    a brand as fire-seed in ashes to preserve a light.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: This is explicitly a simile in the passage; any broader symbolic reading
+    of preserved life requires review.
+- id: motif:6
+  label: divine sleep after suffering
+  taxonomy_refs: []
+  basis: Minerva sends Ulysses sweet sleep, closes his eyelids, and makes him lose
+    memories of sorrow after his ordeal.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The passage supports divine sleep and relief, but not necessarily a larger
+    initiation or rebirth motif without wider context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2655-2657
+  quote_or_summary: A god stills the stream and waves, making all calm before Ulysses
+    and bringing him safely into the mouth of the river.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2657-2663
+  quote_or_summary: Ulysses' knees and hands fail; the sea has broken him; he is swollen,
+    unable to breathe or speak because of sea-water, and swoons from exhaustion.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2663-2667
+  quote_or_summary: After recovering breath, Ulysses removes Ino's scarf and throws
+    it back into the salt stream; Ino receives it from the wave.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2667-2668
+  quote_or_summary: Ulysses leaves the river, lies among the rushes, and kisses the
+    bounteous earth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2670-2679
+  quote_or_summary: Ulysses wonders whether he will die from cold and damp by the
+    river or be devoured by a savage beast if he shelters in the woods.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 2681-2684
+  quote_or_summary: Ulysses decides to go to the woods on high ground near the water
+    and creeps under two olive shoots growing from one stock, one ungrafted and one
+    grafted.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 2684-2687
+  quote_or_summary: The olive shoots are so close that wind, sun, and rain cannot
+    get through them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 2687-2690
+  quote_or_summary: Ulysses makes a bed from a large litter of dead leaves and heaps
+    the leaves around himself.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 2690-2691
+  quote_or_summary: The passage likens Ulysses under the leaves to a solitary country
+    dweller hiding a brand as fire-seed in ashes to avoid seeking light elsewhere.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: '2691'
+  quote_or_summary: Minerva sheds sweet sleep on Ulysses' eyes, closes his eyelids,
+    and makes him lose all memories of his sorrows.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is supported by the supplied passage. Motif labels are
+    cautious and mostly descriptive; taxonomy assignments for sacred_exchange and
+    sacred_tree_axis require human review. No comparison claims were added because
+    the passage itself does not make an explicit cross-textual comparison beyond its
+    internal simile.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; public-domain text summarized rather than quoted at length.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l2655-l2691
+  passage_sha256=f3da308a40a0cd49128bd120966bb78c04eaab789d81b56727340885de32833d
+

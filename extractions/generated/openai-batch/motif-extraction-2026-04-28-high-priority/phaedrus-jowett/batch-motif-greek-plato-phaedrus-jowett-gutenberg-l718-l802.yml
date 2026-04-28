@@ -1,0 +1,548 @@
+---
+record_id: batch.motif.greek-plato-phaedrus-jowett-gutenberg-l718-l802
+source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+passage_locator:
+  label: Phaedrus / PHAEDRUS / INTRODUCTION.; lines 718-802
+  start: '718'
+  end: '802'
+  translation: Phaedrus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes and interprets Plato's image of the soul as a charioteer
+    with two winged steeds, discusses the soul's former vision of truth, its transmigration
+    through human and animal forms, its struggle with desire, and compares the chariot
+    image cautiously with a chariot scene in Parmenides.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The soul is described as self-moved and as the source of motion in other things.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Souls of gods and humans are described under the figure of two winged steeds
+    and a charioteer.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage identifies the charioteer with reason, the black horse with sensual
+    or concupiscent nature, and the white horse with rational impulse.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The charioteer-and-steeds image is said to have been compared with a similar
+    image in Parmenides.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says that Parmenides' horses have no allegorical meaning in that
+    comparison.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The triple soul is said to have had a previous existence, following in the
+    train of a god and seeing a partial vision of absolute truth.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The soul's later existence is described as passing through many forms of humans
+    and animals while trying to regain the vision of truth.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Animal desires of the inferior steed hinder the soul's progress.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The soul repeatedly sees the flashing beauty of the beloved, but animal desires
+    must be subjected before the vision can be finally enjoyed.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The moral or spiritual element is represented by an immortal steed that sides
+    with reason.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The passage says the horses of the gods are both white and that their impulses
+    are in harmony with reason.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The passage discusses love as a madness and associates this with inspiration,
+    imagination, idealism, or communion with God.
+  category: attribute
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: the soul
+  description: Described as self-moved, as a source of motion, as tripartite in the
+    chariot figure, and as having a former existence.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: charioteer
+  description: A figure in the image of the soul with two winged steeds; the passage
+    says the charioteer represents reason.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: black horse
+  description: A horse in the chariot image; the passage calls it the symbol of the
+    sensual or concupiscent element of human nature.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: white horse
+  description: A horse in the chariot image; the passage says it represents rational
+    impulse and is associated with honour, modesty, temperance, and true glory.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:5
+  name_or_label: some god
+  description: A god whose train the soul formerly followed and from whom the soul
+    derived its character.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: the beloved
+  description: The beloved whose flashing beauty is repeatedly beheld by the soul.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Parmenides' poet
+  description: The passage describes the poet as approaching in a chariot to regions
+    of light and the house of the goddess of truth.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: goddess of truth
+  description: A goddess whose house is approached by the poet in the Parmenides comparison.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: self-moving source of motion
+  assigned_to:
+  - fig:1
+  basis: The soul is described as self-moved and as the source of motion in all other
+    things.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: reasoning guide
+  assigned_to:
+  - fig:2
+  basis: The passage says the charioteer represents reason.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: sensual or concupiscent element
+  assigned_to:
+  - fig:3
+  basis: The passage says the black horse symbolizes the sensual or concupiscent element
+    of human nature.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: seeker of regained truth
+  assigned_to:
+  - fig:1
+  basis: The soul's later existence is described as spent in regaining a former partial
+    vision of absolute truth.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: rational or moral impulse
+  assigned_to:
+  - fig:4
+  basis: The white horse is described as rational impulse and as siding with reason
+    in the later discussion of the immortal steed.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:6
+  label: divine source of character
+  assigned_to:
+  - fig:5
+  basis: The soul is said to have followed in the train of a god from whom it derived
+    its character.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: object of beautiful vision
+  assigned_to:
+  - fig:6
+  basis: The soul repeatedly beholds the flashing beauty of the beloved.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: chariot traveler toward light
+  assigned_to:
+  - fig:7
+  basis: The passage describes the poet's approach in a chariot to regions of light
+    and the house of the goddess of truth.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: dweller in house of truth
+  assigned_to:
+  - fig:8
+  basis: The comparison passage names the house of the goddess of truth as the destination
+    of the chariot approach.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: charioteer and winged steeds
+  literal_form: two winged steeds and a charioteer
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: black horse
+  literal_form: black horse
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: white horse
+  literal_form: white horse or immortal steed
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:4
+  label: vision of absolute truth
+  literal_form: partial and imperfect vision of absolute truth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: flashing beauty of the beloved
+  literal_form: flashing beauty of the beloved
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: chariot approach to light
+  literal_form: a chariot approaching regions of light and the house of the goddess
+    of truth
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Soul imaged as charioteer and two steeds
+  summary: The soul is represented by a charioteer with two winged steeds; the passage
+    interprets these as reason, sensual desire, and rational or moral impulse.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Former vision and later recovery
+  summary: The soul formerly followed a god and partly beheld absolute truth; its
+    later existence through human and animal forms is spent attempting to regain this
+    vision.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Conflict with desire before beauty
+  summary: The soul repeatedly beholds the beloved's beauty, but the inferior steed's
+    animal desires must be humbled and subjected before the vision can be enjoyed.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Parmenides chariot comparison
+  summary: The passage reports a comparison with Parmenides, where a poet approaches
+    in a chariot to regions of light and the house of the goddess of truth, but the
+    horses are said not to be allegorical.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Gods' harmonious horses
+  summary: The passage says the gods' horses are both white and that their impulses
+    are harmonious with reason.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: chariot allegory of the divided soul
+  taxonomy_refs:
+  - duality
+  basis: The soul is imaged as a charioteer with two winged steeds, with the horses
+    representing opposed or differing impulses and the charioteer representing reason.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  confidence: medium
+  cautions: The passage emphasizes a threefold psychology, while the available taxonomy
+    term 'duality' only partially fits the two-horse opposition.
+- id: motif:2
+  label: soul's preexistent vision and recovery of truth
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The soul has a previous existence, partly beholds absolute truth, and spends
+    later existence attempting to regain it.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:11
+  confidence: medium
+  cautions: The terms 'wisdom' and 'mystical_quest' are broad taxonomy matches; the
+    passage frames the issue philosophically rather than as a narrative quest.
+- id: motif:3
+  label: transmigration through human and animal forms
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage describes the soul's after-existence as passing through many
+    forms of humans and animals and later refers to Plato's possible doctrine of transmigration.
+  evidence_refs:
+  - ev:6
+  - ev:12
+  confidence: low
+  cautions: The passage names transmigration, but the available taxonomy lacks a precise
+    transmigration motif; 'death_rebirth' is only an approximate family.
+- id: motif:4
+  label: ascent or journey by chariot toward truth and light
+  taxonomy_refs:
+  - ascent
+  - wisdom
+  basis: In the comparison to Parmenides, a chariot approaches regions of light and
+    the house of the goddess of truth.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This motif belongs to the compared Parmenides image as described in this
+    passage, not necessarily to Plato's allegorical horses.
+- id: motif:5
+  label: love as inspired madness
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage discusses love as madness and connects it with inspiration, imagination,
+    idealism, or communion with God; it also describes repeated vision of the beloved's
+    beauty.
+  evidence_refs:
+  - ev:7
+  - ev:10
+  confidence: low
+  cautions: The beloved is not explicitly called divine in the passage; the taxonomy
+    match is therefore tentative.
+comparison_claims:
+- id: claim:1
+  claim: The charioteer-and-steeds image in the Phaedrus has been compared with a
+    chariot image in Parmenides, but the passage distinguishes their functions because
+    Parmenides' horses are said to lack allegorical meaning.
+  claim_level: visual_similarity
+  target: Parmenides' chariot approach to the regions of light and the house of the
+    goddess of truth
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: high
+  limitations: The passage supports only a visual or imagistic comparison and explicitly
+    rejects the same allegorical function for Parmenides' horses.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 718-720
+  quote_or_summary: The soul is described as self-moved and as the source of motion
+    in all other things.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 721-725
+  quote_or_summary: The passage turns to the image of the souls of gods and humans
+    as two winged steeds and a charioteer.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 726-735
+  quote_or_summary: The charioteer is identified with reason, the black horse with
+    sensual or concupiscent nature, and the white horse with rational impulse and
+    virtues such as honour, modesty, temperance, and true glory.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 736-742
+  quote_or_summary: The charioteer-and-steeds image is compared with Parmenides, but
+    the passage says Parmenides' horses are not allegorical and that the poet approaches
+    in a chariot to regions of light and the house of the goddess of truth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 744-747
+  quote_or_summary: The triple soul is said to have had a previous existence, to have
+    followed in the train of a god, and to have partially and imperfectly seen absolute
+    truth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 747-751
+  quote_or_summary: The soul's after-existence passes through many forms of humans
+    and animals and is spent regaining the vision, while animal desires of the inferior
+    steed hinder it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 751-754
+  quote_or_summary: The soul repeatedly beholds the flashing beauty of the beloved,
+    but animal desires must be subjected before that vision can be enjoyed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 756-763
+  quote_or_summary: The moral or spiritual element is represented by an immortal steed
+    that sides with reason, though reason and this element are dragged by furious
+    desire; the way of philosophy is described as abstinence from bodily delights.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 786-791
+  quote_or_summary: The passage says the horses of the gods are both white, and their
+    every impulse is in harmony with reason.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 791-798
+  quote_or_summary: The passage asks whether Plato is serious in regarding love as
+    madness and associates such a faculty with genius, inspiration, imagination, idealism,
+    or communion with God.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 769-780
+  quote_or_summary: The passage describes Plato's concern with abstract knowledge,
+    an inner unseen world, and the attempt to regain saving knowledge of the ideas.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 782-785
+  quote_or_summary: The passage says Plato may have been serious in his reminiscence
+    of a former state of being and perhaps in his doctrine of transmigration.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif taxonomy matches
+    are sometimes approximate because the passage is philosophical commentary rather
+    than a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources were used. Comparisons are limited to the Parmenides comparison explicitly stated in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-phaedrus-jowett-gutenberg__l718-l802
+  passage_sha256=795460bbe11759199bc980c10194c6f30283b4084eba38e75814fa9d948c11aa
+

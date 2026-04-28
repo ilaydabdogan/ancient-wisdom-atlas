@@ -1,0 +1,455 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l5252-l5280
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE DOG CHASING A WOLF / GRIEF AND HIS DUE / THE HAWK, THE KITE, AND THE
+    PIGEONS / THE WOMAN AND THE FARMER; lines 5252-5280
+  start: '5252'
+  end: '5280'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: One fable tells of pigeons who invite a hawk to defend them from a kite,
+    only to suffer greater losses from the hawk. Another tells of a widow mourning
+    at her husband's grave, a farmer who courts her by claiming similar grief, their
+    quick agreement to marry, and the farmer's later genuine lament when a thief steals
+    his oxen.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pigeons in a dovecote are repeatedly attacked by a Kite, who carries off some
+    of them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Pigeons invite a Hawk into the dovecote to defend them against the Kite.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Hawk kills more Pigeons in one day than the Kite had killed in a year.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A Woman who has recently lost her husband goes daily to his grave and laments.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A Farmer ploughing nearby sees the Woman, desires to marry her, leaves his
+    plough, sits beside her, and weeps.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Farmer says he has recently lost his wife and that tears ease his grief.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Woman and Farmer agree that, being in a similar case, they should marry
+    and replace each other's dead spouses.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: While the Farmer is away from his plough, a thief steals the oxen left with
+    it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: After discovering the theft, the Farmer beats his breast and loudly bewails
+    the loss.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: When the Woman asks whether he is still weeping, the Farmer replies that he
+    means it this time.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Pigeons
+  description: A group living in a dovecote and persecuted by a Kite.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Kite
+  description: A bird that swoops down and carries off Pigeons.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Hawk
+  description: A bird invited into the dovecote as defender, who kills more Pigeons
+    than the Kite.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Woman
+  description: A widow who visits her husband's grave, laments, and agrees to marry
+    the Farmer.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Farmer
+  description: A ploughman who desires the Woman as wife, claims to grieve for his
+    own dead wife, proposes marriage, and later laments the theft of his oxen.
+  role_refs:
+  - role:8
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Thief
+  description: An unnamed thief who steals the Farmer's oxen.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Dead husband
+  description: The Woman's recently deceased husband, whose grave she visits.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:8
+  name_or_label: Dead wife
+  description: The Farmer's claimed recently deceased wife.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Oxen
+  description: Animals left with the Farmer's plough and stolen by the thief.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: persecuted group
+  assigned_to:
+  - fig:1
+  basis: The Pigeons are persecuted by the Kite.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: unwise petitioners
+  assigned_to:
+  - fig:1
+  basis: They invite the Hawk for defense and soon repent of the decision.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: predatory enemy
+  assigned_to:
+  - fig:2
+  basis: The Kite repeatedly swoops down and carries off Pigeons.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: invited defender
+  assigned_to:
+  - fig:3
+  basis: The Hawk is invited into the dovecote to defend the Pigeons.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: worse destroyer
+  assigned_to:
+  - fig:3
+  basis: The Hawk kills more Pigeons in a day than the Kite had in a year.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: mourning widow
+  assigned_to:
+  - fig:4
+  basis: She visits her husband's grave daily and laments.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: prospective bride
+  assigned_to:
+  - fig:4
+  basis: She consents to marry the Farmer.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: ploughman
+  assigned_to:
+  - fig:5
+  basis: He is engaged in ploughing near the grave.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: suitor using shared grief
+  assigned_to:
+  - fig:5
+  basis: He weeps, claims a similar loss, and proposes marriage on that basis.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:10
+  label: victim of theft
+  assigned_to:
+  - fig:5
+  basis: His oxen are stolen while he is away from the plough.
+  evidence_refs:
+  - ev:4
+- id: role:11
+  label: thief
+  assigned_to:
+  - fig:6
+  basis: The figure steals the oxen.
+  evidence_refs:
+  - ev:4
+- id: role:12
+  label: deceased spouse
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Each is described as the lost spouse of a living character.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:13
+  label: stolen property
+  assigned_to:
+  - fig:9
+  basis: The oxen left with the plough are stolen.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: dovecote
+  literal_form: dovecote
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: grave
+  literal_form: husband's grave
+  associated_figures:
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: plough
+  literal_form: plough left by the Farmer
+  associated_figures:
+  - fig:5
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: tears
+  literal_form: weeping and tears
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: breast-beating
+  literal_form: the Farmer beating his breast
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Pigeons seek a defender against the Kite
+  summary: The Pigeons suffer attacks from the Kite and invite a Hawk into their dovecote
+    for protection.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The invited Hawk proves worse than the Kite
+  summary: After entering the dovecote, the Hawk kills more Pigeons in a day than
+    the Kite had killed in a year.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: Mourning at the grave and courtship
+  summary: The Woman laments at her husband's grave; the Farmer leaves his plough,
+    sits with her, weeps, and claims a similar bereavement.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:4
+  label: Agreement to remarry
+  summary: The Farmer proposes that he and the Woman marry and replace one another's
+    dead spouses, and the Woman consents.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:5
+  label: Theft of the oxen and genuine lament
+  summary: A thief steals the oxen left with the plough; the Farmer discovers the
+    loss, beats his breast, and says that this time his weeping is sincere.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: choosing a protector worse than the enemy
+  taxonomy_refs:
+  - wisdom
+  basis: The Pigeons seek protection from the Kite by inviting a Hawk, but the Hawk
+    kills more of them than the Kite did.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The available taxonomy contains only broad motif-family references; this
+    is a fable-level prudential pattern rather than a mythic episode.
+- id: motif:2
+  label: feigned grief exposed by material loss
+  taxonomy_refs:
+  - wisdom
+  basis: The Farmer's earlier tears support his courtship, but after his oxen are
+    stolen he distinguishes the later lament as genuine.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives a comic moral pattern, not an explicit theological or
+    ritual symbol of grief.
+- id: motif:3
+  label: quick replacement of dead spouses
+  taxonomy_refs:
+  - wisdom
+  basis: The Woman and Farmer agree that each can take the place of the other's deceased
+    spouse after a brief exchange about shared bereavement.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents this as a practical proposal inside a fable; broader
+    marriage or bereavement symbolism is not stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5252-5258
+  quote_or_summary: In “The Hawk, the Kite, and the Pigeons,” a Kite repeatedly carries
+    off Pigeons; the Pigeons invite a Hawk as defender, but the Hawk kills more in
+    a day than the Kite had in a year.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5262-5267
+  quote_or_summary: A Woman recently widowed visits her husband's grave daily; a nearby
+    Farmer sees her, wants her as his wife, leaves his plough, sits beside her, and
+    weeps.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5267-5274
+  quote_or_summary: The Farmer claims he too has lost a dear spouse; he and the Woman
+    discuss their shared condition and agree to marry and replace one another's dead
+    spouses.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5274-5280
+  quote_or_summary: A thief steals the oxen left with the Farmer's plough; the Farmer
+    laments loudly, and when the Woman asks if he is still weeping, he replies that
+    he means it this time.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear and literal. Motif assignments use the broad available
+    “wisdom” family because the episodes are didactic fables; no external comparisons
+    are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy symbol refs apply directly to the literal objects in this passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l5252-l5280
+  passage_sha256=4a514ca060f2fda381275b6221364a4df48699ff23d2dea1f485e2d4e228ceff
+

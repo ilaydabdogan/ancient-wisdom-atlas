@@ -1,0 +1,422 @@
+---
+record_id: batch.motif.greek-plato-symposium-jowett-gutenberg-l923-l996
+source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+passage_locator:
+  label: Symposium / SYMPOSIUM / INTRODUCTION.; lines 923-996
+  start: '923'
+  end: '996'
+  translation: Symposium
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The introduction characterizes Alcibiades, dates the Symposium by reference
+    to Mantinea, compares the Symposium with the Phaedrus, Phaedo, Republic, and Xenophon's
+    Symposium, and summarizes Plato's account of love and philosophy as an ascent
+    through stages of initiation toward the vision of eternal beauty.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Alcibiades is described as lawless, generous, fascinated by Socrates, and
+    possessing a genius that might either destroy or save Athens.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage dates the Symposium after the destruction of Mantinea and probably
+    between 384 and 369 B.C.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Symposium and Phaedrus are described as the only Platonic dialogues in
+    which love is discussed at length.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Philosophy in the Symposium and Phaedrus is described as a kind of enthusiasm
+    or madness.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Socrates is described as newly inspired with Bacchanalian revelry and as attributing
+    his philosophy to others rather than himself.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Symposium is described as moving without a break from this world to another
+    by a regular series of steps or stages.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The described ascent proceeds from particulars of sense to universals of reason
+    and finally to a single science.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage uses the language of mysteries to describe higher degrees of initiation
+    ending in the vision of beauty.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The final vision of beauty is described as eternal, absolute, divine, unlimited
+    by space or time, and the highest knowledge available to the human mind.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage says Plato does not decide whether the individual is absorbed
+    in the sea of light and beauty or retains personality.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The soul is said to be capable of partaking of eternal nature, which seems
+    to imply that the soul also is eternal.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Xenophon's Symposium is compared with Plato's Symposium, but its genuineness
+    is doubted in the passage.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The passage states that the relative chronological order of Phaedrus, Symposium,
+    and Phaedo cannot be determined.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Alcibiades
+  description: A figure characterized as lawless, generous, fascinated by Socrates,
+    and potentially destructive or saving for Athens.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Socrates
+  description: A figure who fascinates Alcibiades and is described as newly inspired
+    with Bacchanalian revelry while attributing his philosophy to others.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Plato
+  description: The author whose Symposium is dated and whose philosophical treatment
+    of beauty, the soul, and the idea is summarized.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Xenophon
+  description: The attributed author of another Symposium whose genuineness is questioned
+    in the passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: lawless yet gifted political figure
+  assigned_to:
+  - fig:1
+  basis: Alcibiades is described as the impersonation of lawlessness, generous, and
+    capable of destruction or salvation for Athens.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: philosophical inspirer
+  assigned_to:
+  - fig:2
+  basis: Alcibiades is said to be strangely fascinated by Socrates.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: inspired philosopher
+  assigned_to:
+  - fig:2
+  basis: Socrates is described as newly inspired with Bacchanalian revelry and as
+    deriving his philosophy from others.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: philosophical author
+  assigned_to:
+  - fig:3
+  basis: The passage discusses the date and doctrine of Plato's Symposium and related
+    dialogues.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:5
+  label: disputed author
+  assigned_to:
+  - fig:4
+  basis: The passage says the Symposium of Xenophon may have no more title to be regarded
+    as genuine than a spurious Apology.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: steps or stages
+  literal_form: regular series of steps or stages
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: initiation degrees
+  literal_form: higher and higher degree of initiation
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: vision of beauty
+  literal_form: perfect vision of beauty
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: sea of light and beauty
+  literal_form: sea of light and beauty
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Characterization of Alcibiades
+  summary: The passage describes Alcibiades as lawless, generous, fascinated by Socrates,
+    and potentially decisive for Athens' destruction or salvation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ascent toward beauty
+  summary: The passage summarizes the Symposium as an ascent through stages from sensible
+    particulars to universals and a final vision of eternal divine beauty.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Question of absorption and eternity
+  summary: The passage notes that Plato does not ask whether the individual is absorbed
+    in light and beauty or retains personality, while suggesting the soul partakes
+    of eternal nature.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Comparison with Xenophon's Symposium
+  summary: The passage compares Xenophon's Symposium with Plato's works but questions
+    the genuineness of Xenophon's text.
+  figure_refs:
+  - fig:4
+  - fig:3
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: philosophical ascent through stages
+  taxonomy_refs:
+  - ascent
+  - mystical_quest
+  - initiation
+  - wisdom
+  basis: The passage describes movement from this world to another through steps or
+    stages, from sense particulars to universals, and through higher degrees of initiation
+    to the vision of beauty.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a philosophical and introductory summary rather than a mythic
+    narrative episode.
+- id: motif:2
+  label: vision of eternal divine beauty
+  taxonomy_refs:
+  - divine_beloved
+  - wisdom
+  basis: The passage describes a perfect vision of beauty that is eternal, absolute,
+    divine, unlimited, and the highest knowledge of the human mind.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage frames beauty as an idea or philosophical object rather than
+    a personified deity or narrative beloved.
+- id: motif:3
+  label: possible absorption in light and beauty
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage explicitly raises but says Plato does not answer whether the
+    individual is absorbed in the sea of light and beauty or retains personality.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage states this question is not pursued, so the motif is only
+    a possible conceptual boundary, not an enacted event.
+- id: motif:4
+  label: inspired madness of philosophy
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes philosophy as enthusiasm or madness and Socrates as
+    newly inspired with Bacchanalian revelry.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy has no specific possession or divine madness category;
+    mapped only broadly to wisdom.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the Symposium and Phaedrus as works in which
+    love is treated at length and philosophy is described as enthusiasm or madness.
+  claim_level: same_function
+  target: Plato's Phaedrus
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the passage's literary-philosophical comparison,
+    not a historical derivation claim.
+- id: claim:2
+  claim: The passage contrasts the Symposium with the Phaedo and Phaedrus by noting
+    that those works look to past and future states of existence, while the Symposium
+    presents a continuous staged ascent.
+  claim_level: same_function
+  target: Plato's Phaedo and Phaedrus
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a thematic comparison internal to Platonic dialogues, not a
+    broader mythological comparison.
+- id: claim:3
+  claim: The passage compares Xenophon's Symposium with Plato's Symposium on the discussion
+    of sensual and sentimental love, while expressing doubt about the Xenophontic
+    work's genuineness.
+  claim_level: same_function
+  target: Xenophon's Symposium
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs:
+  - ev:7
+  confidence: medium
+  limitations: The same evidence also undermines the comparison by questioning authenticity
+    and suggesting possible imitation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 923-932
+  quote_or_summary: Alcibiades is characterized as lawless, generous, fascinated by
+    Socrates, and endowed with a genius that could destroy or save Athens.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 934-945
+  quote_or_summary: The dating of the Symposium is inferred from the division of Arcadia
+    after Mantinea's destruction; composition is placed probably between 384 and 369
+    B.C.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 947-954
+  quote_or_summary: The Symposium is connected with the Phaedrus in style and subject;
+    both discuss love at length, and philosophy is treated as enthusiasm or madness,
+    with Socrates described as newly inspired with Bacchanalian revelry.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 955-964
+  quote_or_summary: The Phaedo is compared with the Symposium; unlike Phaedo and Phaedrus,
+    the Symposium has no break between this world and another but rises through steps
+    from sense particulars to universals and a single science.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 965-972
+  quote_or_summary: The passage describes a language of mysteries with higher degrees
+    of initiation leading to a perfect vision of eternal, absolute, divine beauty
+    beyond limits of space and time.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 973-983
+  quote_or_summary: The passage says Plato does not ask whether the individual is
+    absorbed in the sea of light and beauty or keeps personality, and says the soul's
+    participation in eternal nature seems to imply its eternity.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 985-993
+  quote_or_summary: Xenophon's Symposium is said to offer points of comparison, including
+    Socrates as pander and a discourse on sensual and sentimental love, but the passage
+    questions the work's genuineness.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 994-996
+  quote_or_summary: The passage states that there are no means of determining the
+    relative chronological order of the Phaedrus, Symposium, and Phaedo.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an introduction and philosophical-literary commentary rather
+    than a mythic narrative. Motif candidates are based on explicit imagery of ascent,
+    initiation, vision, and union/absorption language.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No unsupported external comparisons were added; taxonomy references are limited to supplied available motif families.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-symposium-jowett-gutenberg__l923-l996
+  passage_sha256=5dab881e0652d515995094c6617b339b779471610d8612bcc764ec94248ab9f6
+

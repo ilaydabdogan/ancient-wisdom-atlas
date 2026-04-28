@@ -1,0 +1,622 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l494-l587
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: PREFACE TO SECOND EDITION / HENRY FESTING JONES. / THE ODYSSEY / BOOK I;
+    lines 494-587
+  start: '494'
+  end: '587'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Telemachus sees Minerva before the suitors do, welcomes her as a stranger,
+    seats her apart from the suitors, and offers food before asking questions. Servants
+    prepare washing water, bread, meat, and wine. The suitors feast noisily and compel
+    Phemius to sing. Telemachus privately complains to Minerva about the suitors consuming
+    his absent father’s goods and asks the visitor’s identity. Minerva identifies
+    herself as Mentes, describes a sea voyage and inherited friendship with Ulysses’
+    family, says Ulysses is likely detained but not dead, and predicts his return.
+    Telemachus voices uncertainty about his father, and Minerva asks why the suitors
+    are feasting so riotously in the house.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Telemachus notices Minerva before anyone else while he is sitting among the
+    suitors and thinking about his father.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Telemachus welcomes the stranger, takes her right hand, receives her spear,
+    and offers food before asking her purpose.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Telemachus places Minerva’s spear in a spear-stand with the spears of his
+    father and seats her apart from the suitors.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Servants bring water for handwashing, bread, meat, cups, and wine for Telemachus
+    and the visitor.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The suitors feast, receive service, and ask for music and dancing after eating
+    and drinking.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Phemius is compelled by the suitors to sing, and Telemachus speaks quietly
+    to Minerva so others cannot hear.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Telemachus says the suitors’ entertainment is paid for from the property of
+    his absent father, whom he believes he will not see again.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Minerva identifies herself as Mentes, son of Anchialus and king of the Taphians,
+    and says she came by ship with iron to trade for copper.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Minerva says Ulysses is not dead, may be detained on an island or among hostile
+    people, and will find a way home.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Telemachus says his mother tells him he is Ulysses’ son, but he cannot know
+    his father with certainty.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Minerva asks about the feast and criticizes the guests for behaving riotously
+    and not bringing their own provisions.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Telemachus
+  description: Son of Ulysses according to his mother; he receives Minerva as a guest
+    and speaks privately with her about his absent father and the suitors.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Minerva / Mentes
+  description: Called Minerva by the narrator; she appears as a stranger whom Telemachus
+    receives and identifies herself as Mentes, son of Anchialus and king of the Taphians.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:3
+  name_or_label: The suitors
+  description: Men in Ulysses’ house who feast, demand music and dancing, compel Phemius
+    to sing, and are described as noisy, insolent, and riotous.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: Ulysses
+  description: Absent father of Telemachus; his goods support the suitors’ feasting,
+    and Minerva says he is not dead and will return.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Phemius
+  description: A singer to whom a servant brings a lyre; the suitors compel him to
+    sing.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Servants
+  description: Maid servants, men servants, pages, an upper servant, a carver, and
+    a manservant provide water, food, cups, and wine.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Laertes
+  description: Named as an old friend of Mentes’ father; said to live apart in the
+    country with an old woman to care for him.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Penelope
+  description: Named by Minerva as the mother of Telemachus; Telemachus says his mother
+    tells him he is Ulysses’ son.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: host to stranger
+  assigned_to:
+  - fig:1
+  basis: Telemachus welcomes the stranger, takes her spear, seats her, and has food
+    served before questioning her.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: divine visitor in assumed identity
+  assigned_to:
+  - fig:2
+  basis: The narrator names the visitor as Minerva, while she tells Telemachus she
+    is Mentes, king of the Taphians.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: disorderly suitors consuming the household
+  assigned_to:
+  - fig:3
+  basis: They feast in the house, compel song, make noise, and are criticized for
+    bringing no provisions of their own.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: role:4
+  label: absent father expected to return
+  assigned_to:
+  - fig:4
+  basis: Telemachus laments Ulysses’ absence, and Minerva says he is not dead and
+    will find a way home.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: uncertain son and heir
+  assigned_to:
+  - fig:1
+  basis: Telemachus says his mother identifies Ulysses as his father, while he cannot
+    know this himself.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: compelled bard
+  assigned_to:
+  - fig:5
+  basis: The suitors compel Phemius to sing after a servant brings him a lyre.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: household attendants
+  assigned_to:
+  - fig:6
+  basis: Servants provide washing water, bread, meat, cups, wine, and banquet service.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:8
+  label: isolated elder kinsman
+  assigned_to:
+  - fig:7
+  basis: Laertes is said not to come to town and to live by himself in the country.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: mother naming the father
+  assigned_to:
+  - fig:8
+  basis: Telemachus says his mother tells him he is son to Ulysses, and Minerva names
+    Penelope as his mother.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: spear
+  literal_form: Minerva’s spear and the many spears of Telemachus’ father in the spear-stand
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: handwashing water
+  literal_form: Water poured from a golden ewer into a silver basin for washing hands
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: banquet food and wine
+  literal_form: Bread, meat, cups of gold, wine, and mixing-bowls of wine and water
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: lyre
+  literal_form: A lyre brought to Phemius for song at the banquet
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: ship and cargo
+  literal_form: Mentes’ ship, crew, cargo of iron, and expected copper return cargo
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: wooded mountain Neritum
+  literal_form: The wooded mountain Neritum near the harbour Rheithron
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: island detention
+  literal_form: A sea-girt island in mid ocean where Ulysses may be detained
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: iron chains
+  literal_form: Chains of iron used hypothetically to describe confinement from which
+    Ulysses could escape
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Telemachus welcomes Minerva at the gate
+  summary: Telemachus sees Minerva while brooding among the suitors, goes to the gate,
+    takes her hand and spear, and welcomes her to the house with food before questions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Guest seated apart from the suitors
+  summary: Telemachus stores the spear, seats Minerva on a decorated seat with a footstool,
+    and places himself near her away from the suitors so they may eat and speak about
+    his father.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Household meal service
+  summary: Servants bring washing water, a table, bread, meat, cups, and wine for
+    Telemachus and Minerva.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Suitors’ banquet and compelled song
+  summary: The suitors enter, feast, receive service, ask for music and dancing, and
+    compel Phemius to sing with the lyre.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Private complaint and questioning
+  summary: Telemachus speaks quietly to Minerva, complains that the suitors consume
+    his absent father’s resources, imagines their fear if Ulysses returned, and asks
+    the visitor’s origin, ship, people, and prior relation to the house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Minerva’s identity and prediction of return
+  summary: Minerva answers as Mentes, describes a trading voyage, the harbor and mountain
+    where the ship lies, inherited friendship with Ulysses’ family, Laertes’ isolation,
+    and Ulysses’ likely detention and eventual homecoming.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Lineage uncertainty and renewed criticism of the feast
+  summary: Telemachus says his mother names Ulysses as his father but that a child
+    cannot know this with certainty; Minerva praises Penelope’s son and questions
+    the suitors’ improper feasting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: hospitality to a stranger before inquiry
+  taxonomy_refs: []
+  basis: Telemachus welcomes the stranger, takes her spear, seats her, and provides
+    food before asking who she is or why she came.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage presents the action as household reception, but it does not
+    explicitly name a formal hospitality code.
+- id: motif:2
+  label: divine visitor in human identity
+  taxonomy_refs:
+  - shapeshifter
+  basis: The narrator calls the visitor Minerva, while the visitor identifies herself
+    to Telemachus as Mentes, king of the Taphians.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The passage does not describe the mechanics of transformation; the shapeshifter
+    taxonomy is used only for the assumed identity pattern.
+- id: motif:3
+  label: absent father’s expected return
+  taxonomy_refs:
+  - return
+  basis: Telemachus laments Ulysses’ absence and imagines the suitors’ fear if he
+    came back; Minerva says Ulysses is not dead and will find a way home.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage predicts return but does not narrate the return itself.
+- id: motif:4
+  label: disordered household under exploitative guests
+  taxonomy_refs: []
+  basis: The suitors feast at the expense of the absent householder, compel entertainment,
+    behave riotously, and bring no provisions of their own.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: No external comparison is implied beyond the immediate household conflict.
+- id: motif:5
+  label: uncertain lineage of the son
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Telemachus says his mother tells him he is Ulysses’ son but that a child
+    cannot know his own father; Minerva responds that Penelope has a fine son and
+    that the race will not die out.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage concerns household and family continuity; explicit kingship
+    or succession language is not developed in this excerpt.
+- id: motif:6
+  label: food and information exchange with a guest
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Telemachus offers food before requesting the visitor’s identity, origin,
+    ship, and relation to his father’s house.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The exchange is socially framed; the passage does not explicitly call
+    it sacred.
+comparison_claims:
+- id: claim:1
+  claim: The predicted homecoming of Ulysses fits the listed return motif family at
+    the level of narrative function.
+  claim_level: same_motif
+  target: return
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The excerpt contains anticipation and prediction of return, not the
+    completed return episode.
+- id: claim:2
+  claim: Minerva’s presentation as Mentes can be cautiously compared with a disguised-divinity
+    or shapeshifter pattern.
+  claim_level: same_function
+  target: shapeshifter
+  evidence_refs:
+  - ev:1
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage identifies two names for the visitor but does not narrate
+    a visible transformation.
+- id: claim:3
+  claim: Telemachus’ reception of the stranger, meal service, and delayed questioning
+    form a hospitality-to-stranger pattern.
+  claim_level: same_function
+  target: hospitality pattern within the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: No specific taxonomy reference for hospitality was provided, and no
+    broader cross-cultural comparison is made.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 494-502
+  quote_or_summary: Telemachus sees Minerva while brooding among the suitors, goes
+    to the gate, takes her hand and spear, welcomes her, and offers food before questions.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 503-512
+  quote_or_summary: Telemachus leads Minerva inside, sets her spear with his father’s
+    spears, seats her apart from the suitors, and wants to ask about his father freely.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 513-520
+  quote_or_summary: Servants bring washing water in a golden ewer and silver basin,
+    a clean table, bread, meats, cups of gold, and wine.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 521-532
+  quote_or_summary: The suitors enter, feast, receive water, bread, and mixed wine,
+    then demand music and dancing; Phemius is compelled to sing with a lyre while
+    Telemachus whispers to Minerva.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 533-550
+  quote_or_summary: Telemachus says the suitors’ entertainment is paid for from his
+    absent father’s goods, imagines their fear if Ulysses returned, says he does not
+    expect to see him again, and asks the visitor’s identity, origin, ship, people,
+    and prior connection to the house.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 551-575
+  quote_or_summary: Minerva answers as Mentes, son of Anchialus and king of the Taphians,
+    describes a trading voyage and ship at Rheithron under wooded Neritum, claims
+    old family friendship, describes Laertes’ isolation, and says Ulysses is not dead
+    and will find a way home.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 576-581
+  quote_or_summary: Telemachus says his mother tells him he is Ulysses’ son, but a
+    child cannot know his father, and he calls his reported father ill-starred.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 582-587
+  quote_or_summary: Minerva says Telemachus’ race will not die out while Penelope
+    has such a son, then asks about the feast and criticizes the guests for their
+    riot and lack of their own provisions.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is well supported by the passage. Motif tagging is cautious,
+    especially where available taxonomy labels only approximately match hospitality,
+    disguise, or household-disorder patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. Ulysses is retained as the translation’s name for Odysseus.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l494-l587
+  passage_sha256=e5989489766231304c3c0664eae04c10f8553595e74b86874a5b4238ae0319fd
+

@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4924-l4936
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FOX WHO SERVED A LION / THE QUACK DOCTOR / THE LION, THE WOLF, AND THE
+    FOX / HERCULES AND PLUTUS; lines 4924-4936
+  start: '4924'
+  end: '4936'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: I do not like Plutus... he was to be found in the company of scoundrels.
+  summary: Hercules is received among the gods and entertained by Jupiter. He greets
+    the gods courteously except for Plutus, whom he avoids. When Jupiter asks why,
+    Hercules says he dislikes Plutus because on earth he noticed Plutus in the company
+    of scoundrels.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Hercules is received among the gods and entertained at a banquet by Jupiter.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hercules responds courteously to greetings from all except Plutus.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Plutus is identified as the god of wealth.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When Plutus approaches, Hercules casts his eyes to the ground, turns away,
+    and pretends not to see him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Jupiter asks Hercules why he behaved differently toward Plutus after being
+    cordial with the other gods.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Hercules says he does not like Plutus because, when they were on earth together,
+    Plutus was found in the company of scoundrels.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Hercules
+  description: A figure received among the gods, courteous to most gods, but avoiding
+    Plutus and explaining his dislike of him.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Jupiter
+  description: The host who entertains Hercules at a banquet and questions his conduct
+    toward Plutus.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Plutus
+  description: The god of wealth, approached by Hercules but avoided by him; Hercules
+    says Plutus keeps company with scoundrels.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: the gods
+  description: The divine group among whom Hercules is received and whose greetings
+    he answers courteously.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: scoundrels
+  description: The company in which Hercules says he observed Plutus on earth.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: received guest among the gods
+  assigned_to:
+  - fig:1
+  basis: Hercules is said to be received among the gods and entertained at a banquet.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine host
+  assigned_to:
+  - fig:2
+  basis: Jupiter entertains Hercules at a banquet.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: god of wealth
+  assigned_to:
+  - fig:3
+  basis: The passage explicitly identifies Plutus as the god of wealth.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: moral critic of wealth's company
+  assigned_to:
+  - fig:1
+  basis: Hercules explains his avoidance of Plutus by saying Plutus was found with
+    scoundrels on earth.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: questioner
+  assigned_to:
+  - fig:2
+  basis: Jupiter asks why Hercules behaved differently toward Plutus.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: divine assembly
+  assigned_to:
+  - fig:4
+  basis: Hercules is among the gods and responds to their greetings.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: disreputable associates
+  assigned_to:
+  - fig:5
+  basis: Hercules names scoundrels as the company in which Plutus was found.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: wealth
+  literal_form: Plutus, the god of wealth
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: averted gaze and turning away
+  literal_form: Hercules casts his eyes on the ground, turns away, and pretends not
+    to see Plutus.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: banquet among the gods
+  literal_form: A banquet hosted by Jupiter after Hercules is received among the gods.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Reception and banquet among the gods
+  summary: Hercules is received among the gods and entertained at a banquet by Jupiter,
+    responding courteously to divine greetings except Plutus's.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Avoidance of Plutus
+  summary: When Plutus approaches, Hercules looks down, turns away, and pretends not
+    to see him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Jupiter questions Hercules
+  summary: Jupiter asks Hercules why he was cordial to the other gods but behaved
+    differently toward Plutus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Hercules explains his dislike
+  summary: Hercules says he dislikes Plutus because, on earth, Plutus was found in
+    the company of scoundrels.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Moral rejection of wealth because of corrupt associations
+  taxonomy_refs:
+  - wisdom
+  basis: Hercules avoids Plutus and states that wealth was observed in the company
+    of scoundrels.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy reference 'wisdom' is broad; the passage presents
+    a moralizing fable rather than an explicit wisdom-initiation scene.
+- id: motif:2
+  label: Divine banquet with selective recognition
+  taxonomy_refs: []
+  basis: Hercules is entertained by Jupiter among the gods but deliberately refuses
+    normal recognition to Plutus.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a brief fable setting, not an extended mythic banquet
+    episode.
+- id: motif:3
+  label: Wealth personified as a morally suspect companion
+  taxonomy_refs: []
+  basis: Plutus is personified as the god of wealth, and Hercules says he is commonly
+    found with scoundrels.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level motif candidate based on personification and moral
+    statement; no broader comparison is asserted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4924-4927
+  quote_or_summary: Hercules is received among the gods and entertained at a banquet
+    by Jupiter; he greets all courteously except Plutus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: quote
+  locator: 4927-4930
+  quote_or_summary: Plutus is called “the god of wealth”; Hercules looks down, turns
+    away, and pretends not to see him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation embedded in summary.
+- id: ev:3
+  type: summary
+  locator: 4930-4932
+  quote_or_summary: Jupiter is surprised and asks why Hercules was cordial with the
+    other gods but behaved that way to Plutus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: quote
+  locator: 4932-4936
+  quote_or_summary: Hercules says he dislikes Plutus because Plutus “was to be found
+    in the company of scoundrels.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are passage-level candidates
+    and should be reviewed against the Atlas taxonomy; no comparison claims were made
+    because the passage itself does not support a cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied Hercules and Plutus passage was used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4924-l4936
+  passage_sha256=e6c62c5257cda4e2d1250f2d6d30c1e85e4453e896668e46909c0956a3449c34
+

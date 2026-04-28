@@ -1,0 +1,368 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l113-l185
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: The Odyssey / PREFACE TO FIRST EDITION; lines 113-185
+  start: '113'
+  end: '185'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The preface explains that this full translation supplements Butler's earlier
+    work on the authorship and geography of the Odyssey. It states Butler's claims
+    that the Odyssey is localized around Trapani in Sicily and was written by a young
+    woman who represented herself as Nausicaa. The passage then introduces translation
+    principles and quotes the opening invocation of the Odyssey, in which the Muse
+    is asked to tell of the much-wandering man, his sufferings at sea, his struggle
+    to secure return for himself and his companions, and the companions' destruction
+    after they devoured the oxen of Helios Hyperion.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The preface says the translation is intended to supplement the author's earlier
+    work, “The Authoress of the Odyssey,” and presents the completed translation in
+    full.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The preface states a claim that the Odyssey was written at and drawn from
+    Trapani on the west coast of Sicily, including both Phaeacian and Ithaca scenes.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The preface states that Ulysses' voyages, once near Sicily, form a periplus
+    from Trapani back to Trapani by way of the Lipari islands, the Straits of Messina,
+    and Pantellaria.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The preface states a claim that the poem was written by a very young woman
+    at Trapani who introduced herself under the name Nausicaa.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The preface mentions illustrations and a plan of Ulysses' house, including
+    the outer court and an appendix explaining the plan.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In the quoted opening, a Muse or goddess is asked to tell of a man who wandered
+    widely after sacking the sacred citadel of Troy.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The quoted opening says the wandering man saw many towns, learned many minds,
+    and suffered many woes on the deep while striving for his own life and the return
+    of his company.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The quoted opening says the company perished because they devoured the oxen
+    of Helios Hyperion, and a god took from them their day of returning.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ulysses / the wandering man
+  description: The man who wandered widely after sacking Troy, suffered on the deep,
+    and sought return for himself and his company.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Muse / goddess, daughter of Zeus
+  description: The divine addressee asked to declare the tale of the wandering man.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Ulysses' company
+  description: The companions whose return the wandering man sought and who perished
+    after devouring the oxen of Helios Hyperion.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Helios Hyperion
+  description: The divine owner or associated figure of the oxen devoured by the company.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Nausicaa
+  description: The name under which the preface says the alleged young woman author
+    introduced herself into the poem.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: alleged young woman author
+  description: The very young woman at Trapani whom the preface claims wrote the poem.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: wandering return-seeker
+  assigned_to:
+  - fig:1
+  basis: The quoted opening describes the man as wandering widely, suffering on the
+    deep, and striving for return.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: divine source of narration
+  assigned_to:
+  - fig:2
+  basis: The speaker asks the Muse or goddess, daughter of Zeus, to declare the events.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: doomed companions
+  assigned_to:
+  - fig:3
+  basis: The company are not saved and perish after devouring the oxen of Helios Hyperion.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: offended solar deity
+  assigned_to:
+  - fig:4
+  basis: The company devour the oxen of Helios Hyperion, after which a god removes
+    their day of returning.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: authorial self-insertion name
+  assigned_to:
+  - fig:5
+  basis: The preface says the alleged author introduced herself into the work under
+    the name Nausicaa.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: alleged poet
+  assigned_to:
+  - fig:6
+  basis: The preface states that the poem was written by a very young woman living
+    at Trapani.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: the deep
+  literal_form: the deep sea on which the wandering man suffers
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: oxen of Helios Hyperion
+  literal_form: the oxen devoured by the company
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: sacred citadel of Troy
+  literal_form: the sacred citadel sacked before the wandering begins
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Ulysses' house plan
+  literal_form: illustrations and a plan of Ulysses' house, including the outer court
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Preface's localization and authorship claims
+  summary: 'The preface summarizes two claims: that the Odyssey is rooted in Trapani
+    and Sicilian geography, and that it was written by a young woman who appears under
+    the name Nausicaa.'
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Invocation of the Muse
+  summary: The quoted opening asks the Muse or goddess, daughter of Zeus, to declare
+    the story of the wandering man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Wandering, suffering, and attempted return
+  summary: The wandering man travels after Troy, sees many towns, learns many minds,
+    suffers on the deep, and strives to secure life and return for himself and his
+    company.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Companions' destruction after eating Helios' oxen
+  summary: The company perish after devouring the oxen of Helios Hyperion, and a god
+    takes away their day of returning.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: wandering hero seeking return
+  taxonomy_refs:
+  - return
+  basis: The quoted opening centers on the man who wanders widely, suffers on the
+    deep, and strives for his own life and the return of his company.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage is a quoted translation of the opening rather than a full
+    narrative episode.
+- id: motif:2
+  label: divine invocation for epic knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker asks the Muse or goddess, daughter of Zeus, to declare the story
+    of the wandering man.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the passage directly supports divine
+    narration, not a developed wisdom episode.
+- id: motif:3
+  label: divine punishment for consuming a god's cattle
+  taxonomy_refs:
+  - divine_judgment
+  - sacred_theft
+  basis: The company devour the oxen of Helios Hyperion and perish; a god removes
+    their day of returning.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage says the oxen were devoured, but does not explicitly describe
+    theft or all details of judgment.
+- id: motif:4
+  label: circular island voyage returning to point of origin
+  taxonomy_refs:
+  - return
+  basis: The preface describes Ulysses' voyages near Sicily as a periplus from Trapani
+    back to Trapani via named islands and straits.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is Butler's geographic interpretation in the preface, not a narrative
+    scene from the Odyssey itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 113-119
+  quote_or_summary: The translator says this full translation supplements his earlier
+    work “The Authoress of the Odyssey.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 125-131
+  quote_or_summary: The preface states that the Odyssey was written at and drawn from
+    Trapani, and that Ulysses' nearby voyages form a periplus from Trapani back to
+    Trapani via the Lipari islands, the Straits of Messina, and Pantellaria.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 133-135
+  quote_or_summary: The preface states that the poem was written by a very young woman
+    at Trapani who introduced herself under the name Nausicaa.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 155-164
+  quote_or_summary: The preface discusses illustrations, the outer court of Ulysses'
+    house, and an appendix reprinting explanatory paragraphs and the house plan.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 177-181
+  quote_or_summary: "“Tell me, Muse, of that man ... who wandered far and wide” after
+    Troy and suffered on the deep while seeking life and return."
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 181-185
+  quote_or_summary: 'The quoted opening says the company were not saved: they perished
+    after devouring the oxen of Helios Hyperion, and the god took away their day of
+    returning; the goddess, daughter of Zeus, is asked to declare these things.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is mostly translator's preface and scholarly claims; motif candidates
+    are strongest in the quoted opening of the Odyssey. No comparison claims were
+    added because the passage does not itself develop cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Line locators are approximate within the provided stable range.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l113-l185
+  passage_sha256=839b38875f4d45b6f2aedf0d0b860bb4f4af93efec10b5266136c9cc9651fd51
+

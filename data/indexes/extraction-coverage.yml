@@ -8,22 +8,22 @@ summary:
   - texts/permissioned/**/*.md
   extraction_glob: extractions/**/*.{yml,yaml}
   text_count: 58
-  texts_with_extractions: 39
-  texts_without_extractions: 19
-  texts_needing_full_extraction: 53
-  texts_needing_review_or_normalization: 39
-  extraction_record_count: 714
-  candidate_motif_count: 2760
-  taxonomy_ref_count: 2248
-  comparison_claim_count: 913
+  texts_with_extractions: 41
+  texts_without_extractions: 17
+  texts_needing_full_extraction: 51
+  texts_needing_review_or_normalization: 41
+  extraction_record_count: 914
+  candidate_motif_count: 3665
+  taxonomy_ref_count: 3016
+  comparison_claim_count: 1054
   status_counts:
-    dense_draft: 5
+    dense_draft: 7
     developing: 16
-    no_extractions: 19
+    no_extractions: 17
     thin: 18
   priority_counts:
-    high: 37
-    medium: 21
+    high: 35
+    medium: 23
 texts:
 - source_text_path: texts/public-domain/ainu/project-gutenberg/aino-folk-tales-chamberlain.md
   source_text_id: ainu.folk_tales.chamberlain_gutenberg
@@ -127,52 +127,6 @@ texts:
   date_range: Buddhist Jataka source material; 1897 public-domain English retelling
   word_count: 22785
   target_extraction_records: 6
-  coverage_ratio: 0.0
-  status: no_extractions
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: false
-  extraction_record_count: 0
-  generated_record_count: 0
-  needs_review_count: 0
-  reviewed_count: 0
-  candidate_motif_count: 0
-  taxonomy_ref_count: 0
-  comparison_claim_count: 0
-  empty_motif_record_count: 0
-  extraction_paths: []
-- source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
-  source_text_id: greek.plato.phaedrus_jowett_gutenberg
-  title: Phaedrus
-  tradition: greek
-  culture: classical_greek_later_translation
-  region: aegean_mediterranean
-  date_range: 4th-century BCE philosophical dialogue; public-domain English translation
-  word_count: 38136
-  target_extraction_records: 10
-  coverage_ratio: 0.0
-  status: no_extractions
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: false
-  extraction_record_count: 0
-  generated_record_count: 0
-  needs_review_count: 0
-  reviewed_count: 0
-  candidate_motif_count: 0
-  taxonomy_ref_count: 0
-  comparison_claim_count: 0
-  empty_motif_record_count: 0
-  extraction_paths: []
-- source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
-  source_text_id: greek.plato.symposium_jowett_gutenberg
-  title: Symposium
-  tradition: greek
-  culture: classical_greek_later_translation
-  region: aegean_mediterranean
-  date_range: 4th-century BCE philosophical dialogue; public-domain English translation
-  word_count: 32591
-  target_extraction_records: 9
   coverage_ratio: 0.0
   status: no_extractions
   priority: high
@@ -1627,19 +1581,19 @@ texts:
   date_range: ancient fable tradition; 1912 public-domain English translation
   word_count: 41357
   target_extraction_records: 11
-  coverage_ratio: 17.909
+  coverage_ratio: 22.364
   status: dense_draft
   priority: medium
   needs_full_extraction: false
   needs_review_or_normalization: true
-  extraction_record_count: 197
-  generated_record_count: 197
-  needs_review_count: 197
+  extraction_record_count: 246
+  generated_record_count: 246
+  needs_review_count: 246
   reviewed_count: 0
-  candidate_motif_count: 519
-  taxonomy_ref_count: 282
-  comparison_claim_count: 13
-  empty_motif_record_count: 2
+  candidate_motif_count: 664
+  taxonomy_ref_count: 353
+  comparison_claim_count: 17
+  empty_motif_record_count: 3
   extraction_paths:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l1002-l1013.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l1016-l1029.yml
@@ -1822,8 +1776,57 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4339-l4350.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4353-l4370.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4373-l4389.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4392-l4426.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4429-l4440.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4443-l4454.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4457-l4467.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4470-l4493.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4496-l4514.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4517-l4534.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4537-l4547.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4550-l4579.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4582-l4606.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4609-l4631.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4634-l4646.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4649-l4660.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l466-l504.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4663-l4678.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4681-l4695.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4698-l4726.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4729-l4754.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4757-l4772.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4775-l4790.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4793-l4803.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4806-l4828.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4831-l4844.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4847-l4860.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4863-l4875.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4878-l4899.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4902-l4921.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4924-l4936.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4939-l4961.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4964-l4979.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4982-l4993.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l4996-l5007.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l5010-l5026.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l5029-l5043.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l5046-l5058.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l506-l544.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l5061-l5080.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l5083-l5122.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l5125-l5141.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l5144-l5163.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l5166-l5175.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l5178-l5192.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l5195-l5207.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l5210-l5221.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l5224-l5249.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l5252-l5280.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l5283-l5302.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l5305-l5317.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l5320-l5341.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l5344-l5365.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l5368-l5368.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l546-l580.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l582-l624.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l626-l662.yml
@@ -1838,6 +1841,132 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l952-l964.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l967-l984.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/aesops-fables-vernon-jones/batch-motif-greek-aesop-fables-vernon-jones-gutenberg-l987-l999.yml
+- source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  source_text_id: greek.plato.phaedrus_jowett_gutenberg
+  title: Phaedrus
+  tradition: greek
+  culture: classical_greek_later_translation
+  region: aegean_mediterranean
+  date_range: 4th-century BCE philosophical dialogue; public-domain English translation
+  word_count: 38136
+  target_extraction_records: 10
+  coverage_ratio: 4.3
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 43
+  generated_record_count: 43
+  needs_review_count: 43
+  reviewed_count: 0
+  candidate_motif_count: 197
+  taxonomy_ref_count: 171
+  comparison_claim_count: 45
+  empty_motif_record_count: 0
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l1039-l1112.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l1114-l1188.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l1190-l1207.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l1210-l1298.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l1300-l1387.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l1389-l1409.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l1412-l1536.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l1538-l1589.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l154-l206.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l1591-l1673.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l1675-l1779.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l1781-l1894.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l1896-l1985.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l1987-l2094.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l208-l288.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l2096-l2186.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l2188-l2244.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l2246-l2321.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l2323-l2387.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l2389-l2457.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l2459-l2497.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l2499-l2549.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l2551-l2634.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l2636-l2763.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l2765-l2908.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l290-l374.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l2910-l3059.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l3061-l3191.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l3193-l3311.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l3313-l3435.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l3437-l3548.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l3550-l3661.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l3663-l3779.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l376-l455.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l3781-l3808.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l457-l547.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l549-l637.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l63-l152.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l639-l716.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l718-l802.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l804-l884.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l886-l959.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/phaedrus-jowett/batch-motif-greek-plato-phaedrus-jowett-gutenberg-l961-l1037.yml
+- source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  source_text_id: greek.plato.symposium_jowett_gutenberg
+  title: Symposium
+  tradition: greek
+  culture: classical_greek_later_translation
+  region: aegean_mediterranean
+  date_range: 4th-century BCE philosophical dialogue; public-domain English translation
+  word_count: 32591
+  target_extraction_records: 9
+  coverage_ratio: 4.111
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 37
+  generated_record_count: 37
+  needs_review_count: 37
+  reviewed_count: 0
+  candidate_motif_count: 175
+  taxonomy_ref_count: 185
+  comparison_claim_count: 58
+  empty_motif_record_count: 0
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l1125-l1238.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l1240-l1318.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l1320-l1353.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l1355-l1438.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l1439-l1491.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l1493-l1543.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l150-l231.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l1545-l1608.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l1610-l1659.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l1661-l1745.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l1746-l1831.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l1833-l1883.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l1885-l1974.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l1976-l2100.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l2102-l2198.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l2200-l2261.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l2263-l2316.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l2318-l2392.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l233-l318.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l2394-l2475.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l2477-l2569.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l2571-l2651.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l2653-l2699.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l2701-l2761.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l2763-l2834.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l2836-l2933.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l2935-l2956.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l320-l409.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l411-l502.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l504-l591.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l593-l675.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l64-l148.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l677-l763.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l765-l833.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l835-l921.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l923-l996.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/symposium-jowett/batch-motif-greek-plato-symposium-jowett-gutenberg-l999-l1123.yml
 - source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
   source_text_id: greek.odyssey.butler_gutenberg
   title: The Odyssey
@@ -1847,25 +1976,26 @@ texts:
   date_range: archaic Greek epic; 1900 public-domain English prose translation
   word_count: 129573
   target_extraction_records: 33
-  coverage_ratio: 1.848
+  coverage_ratio: 4.0
   status: dense_draft
   priority: medium
   needs_full_extraction: false
   needs_review_or_normalization: true
-  extraction_record_count: 61
-  generated_record_count: 61
-  needs_review_count: 61
+  extraction_record_count: 132
+  generated_record_count: 132
+  needs_review_count: 132
   reviewed_count: 0
-  candidate_motif_count: 315
-  taxonomy_ref_count: 237
-  comparison_claim_count: 71
-  empty_motif_record_count: 0
+  candidate_motif_count: 703
+  taxonomy_ref_count: 578
+  comparison_claim_count: 105
+  empty_motif_record_count: 1
   extraction_paths:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l10017-l10117.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l10119-l10211.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l10213-l10296.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l10298-l10348.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l10351-l10444.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l1038-l1133.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l10446-l10532.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l10534-l10622.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l10624-l10722.yml
@@ -1875,18 +2005,85 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l11059-l11172.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l11174-l11276.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l11278-l11377.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l113-l185.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l1136-l1230.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l11379-l11488.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l11490-l11612.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l11614-l11741.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l11743-l11857.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l11859-l11864.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l1232-l1327.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l1329-l1422.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l1424-l1514.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l1516-l1558.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l1561-l1661.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l1663-l1760.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l1762-l1847.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l1849-l1948.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l187-l272.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l1950-l2039.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l2041-l2133.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l2135-l2239.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l2241-l2286.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l2289-l2384.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l2386-l2472.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l2474-l2559.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l2561-l2653.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l2655-l2691.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l2694-l2792.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l274-l318.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l2794-l2880.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l2882-l2972.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l2974-l2989.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l2992-l3088.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l3090-l3174.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l3176-l3259.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l320-l388.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l3261-l3292.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l3295-l3396.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l3398-l3494.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l3496-l3597.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l3599-l3696.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l3698-l3785.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l3787-l3798.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l3801-l3898.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l390-l492.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l3900-l3994.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l3996-l4072.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l4074-l4168.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l4170-l4268.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l4270-l4293.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l4296-l4397.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l4399-l4490.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l4492-l4586.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l4588-l4678.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l4680-l4781.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l4783-l4874.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l4876-l4967.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l494-l587.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l4969-l5068.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l5070-l5169.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l5171-l5269.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l5271-l5317.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l5320-l5420.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l5422-l5511.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l5513-l5608.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l5610-l5710.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l5712-l5817.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l5819-l5919.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l589-l680.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l5921-l5999.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l6001-l6093.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l6096-l6194.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l6196-l6288.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l6290-l6372.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l6374-l6464.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l6466-l6544.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l6547-l6648.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l66-l110.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l6650-l6731.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l6733-l6832.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l682-l759.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l6834-l6930.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l6932-l7022.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l7025-l7122.yml
@@ -1897,6 +2094,7 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l7434-l7526.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l7528-l7613.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l7615-l7715.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l762-l849.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l7717-l7818.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l7820-l7923.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l7925-l7968.yml
@@ -1906,6 +2104,7 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l8279-l8350.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l8353-l8450.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l8452-l8531.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l851-l936.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l8533-l8618.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l8620-l8703.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l8705-l8786.yml
@@ -1916,6 +2115,7 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l9148-l9215.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l9218-l9315.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l9317-l9414.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l938-l1036.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l9416-l9503.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l9505-l9596.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/odyssey-butler/batch-motif-greek-odyssey-butler-gutenberg-l9599-l9707.yml

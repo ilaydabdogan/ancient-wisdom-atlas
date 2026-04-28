@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4663-l4678
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE WOLF AND HIS SHADOW / THE PLOUGHMAN AND THE WOLF / MERCURY AND THE MAN
+    BITTEN BY AN ANT / THE WILY LION; lines 4663-4678
+  start: '4663'
+  end: '4678'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A lion desires to eat a fat bull but fears the bull's horns. Since direct
+    force seems unlikely to succeed, the lion flatters the bull and persuades him
+    that his horns are ugly and unnecessary. After the bull has his horns cut off,
+    he loses his only defense and is easily taken by the lion.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A lion watches a fat bull feeding in a meadow and wants to eat him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lion does not attack the bull directly because he fears the bull's sharp
+    horns.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The lion chooses artifice rather than force because force does not promise
+    success.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The lion approaches the bull in a friendly manner and praises the bull's body.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The lion calls the bull's horns ugly, awkward, and unnecessary, and advises
+    that the bull would be better without them.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The bull is persuaded by the flattery to have his horns cut off.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: After losing his horns, the bull loses his only means of defense and becomes
+    easy prey for the lion.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: A hungry lion who wants to eat the bull, fears the bull's horns, and
+    uses flattery to remove the bull's defense.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Bull
+  description: A fat bull feeding in a meadow, possessing sharp horns that serve as
+    his only defense until he is persuaded to have them cut off.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: predator
+  assigned_to:
+  - fig:1
+  basis: The lion wants to make a feast of the bull and the bull becomes his prey.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: deceiver by flattery
+  assigned_to:
+  - fig:1
+  basis: The lion uses friendly speech and praise to persuade the bull to remove his
+    horns.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: prey
+  assigned_to:
+  - fig:2
+  basis: The bull is desired as food and finally falls an easy prey to the lion.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:4
+  label: deceived possessor of defense
+  assigned_to:
+  - fig:2
+  basis: The bull's horns are his defense, but he is persuaded by flattery to remove
+    them.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: horns as defense
+  literal_form: sharp horns
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: meadow
+  literal_form: meadow
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Lion observes bull in meadow
+  summary: A lion sees a fat bull feeding in a meadow and wants to eat him, but does
+    not attack because of the bull's horns.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Lion uses flattery
+  summary: Because force seems unlikely to work, the lion approaches the bull in a
+    friendly way, praises him, and argues that the horns are ugly and unnecessary.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Bull loses defense and becomes prey
+  summary: The bull is persuaded to have his horns cut off, loses his only means of
+    defense, and becomes easy prey for the lion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: deceiver persuades victim to surrender protection
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The lion cannot safely use force, so he uses flattery to induce the bull
+    to remove the horns that protect him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage is an animal fable rather than an explicit mythic trickster
+    episode; the taxonomy reference is approximate.
+- id: motif:2
+  label: flattery leading to self-endangerment
+  taxonomy_refs:
+  - wisdom
+  basis: The bull accepts flattering speech and, through foolish persuasion, gives
+    up the defense that kept him safe.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is a moral-pattern extraction; the supplied passage does not state
+    a separate explicit moral.
+- id: motif:3
+  label: force replaced by cunning
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The lion determines to use artifice because direct force does not promise
+    success against the horned bull.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The lion is not named as a trickster figure; the motif is inferred from
+    the action pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4663-4665
+  quote_or_summary: A lion watches a fat bull feeding in a meadow and desires to make
+    a feast of him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 4665-4666
+  quote_or_summary: The lion does not dare attack because he fears the bull's sharp
+    horns.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 4666-4668
+  quote_or_summary: Hunger compels the lion to act; since force does not promise success,
+    he decides to use artifice.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 4668-4671
+  quote_or_summary: The lion approaches the bull in a friendly fashion and praises
+    his figure, head, shoulders, and thighs.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 4671-4675
+  quote_or_summary: The lion asks why the bull wears ugly horns and says he would
+    do better without them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 4675-4677
+  quote_or_summary: The bull is foolishly persuaded by the lion's flattery to have
+    his horns cut off.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 4677-4678
+  quote_or_summary: After losing his only means of defense, the bull falls easy prey
+    to the lion.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are cautious and based
+    on the fable's action pattern. No comparison claims are made because the passage
+    itself does not support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used. No figures or claims were added from adjacent fables mentioned in the broader locator label.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4663-l4678
+  passage_sha256=a9ba90729fc9be92aaca095452e767676d017600837bfacaaefa291afd2ca785
+

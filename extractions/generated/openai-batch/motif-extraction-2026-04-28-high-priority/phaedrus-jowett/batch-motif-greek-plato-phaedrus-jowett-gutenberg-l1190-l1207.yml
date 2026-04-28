@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.greek-plato-phaedrus-jowett-gutenberg-l1190-l1207
+source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+passage_locator:
+  label: Phaedrus / PHAEDRUS / INTRODUCTION.; lines 1190-1207
+  start: '1190'
+  end: '1207'
+  translation: Phaedrus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: the 'wing of the soul' is renewed
+  summary: The passage says that appreciation of Plato's dialogues, especially the
+    Phaedrus, Symposium, and parts of the Republic, requires sympathy with mysticism.
+    It describes Platonic mysticism as reason concentrated in feeling, love of the
+    good, true, and one, and a sense of infinite knowledge. It says such thoughts
+    renew the soul's wing, raise the soul above earthly opinions, and leave it waiting
+    and working to discover what God may reveal in this or another life.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that appreciating certain Platonic dialogues requires sympathy
+    with mysticism.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the uninitiated may see the dialogues as dreams of a poet
+    disguised as a philosopher.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage describes Greek literature as having a marble exterior concealing
+    a soul filled with spiritual emotion.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage contrasts Platonic forms or figures with images from Isaiah and
+    the Apocalypse.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage defines mysticism as concentration of reason in feeling, love
+    of the good, true, and one, and a sense of the infinity of knowledge and the marvel
+    of human faculties.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says that when the soul feeds on such thoughts, its wing is renewed
+    and strengthened.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage says the soul is raised above earthly manikins and their opinions.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage says the soul waits in wonder and works with reverence to find
+    out what God may reveal in this or another life.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: dialogues of Plato
+  description: The Platonic dialogues named or grouped as the Phaedrus, Symposium,
+    and portions of the Republic.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the uninitiated
+  description: Those without sympathy with mysticism, for whom the dialogues may appear
+    as dreams of a poet disguised as a philosopher.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: poet disguised as a philosopher
+  description: A figurative characterization of how the uninitiated may perceive Plato
+    or the dialogues.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: soul
+  description: A feminine personified soul whose wing is renewed, who is raised above
+    earthly opinions, and who seeks divine revelation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: God
+  description: The divine source from whom revelation may come in this or another
+    life.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: mystical philosophical texts
+  assigned_to:
+  - fig:1
+  basis: The dialogues are said to require sympathy with mysticism for due appreciation.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: uninitiated perceivers
+  assigned_to:
+  - fig:2
+  basis: They are described as unable to properly recognize the mystical aspect and
+    as seeing the writings as poetic dreams.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: disguised poet-philosopher figure
+  assigned_to:
+  - fig:3
+  basis: The passage says the uninitiated will view the writings as dreams of a poet
+    disguised as a philosopher.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: ascending seeker of knowledge
+  assigned_to:
+  - fig:4
+  basis: The soul's wing is renewed, she is raised above earthly opinions, and she
+    seeks what God may reveal.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:5
+  label: revealer
+  assigned_to:
+  - fig:5
+  basis: God is named as the one who may reveal something to the soul in this or another
+    life.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: wing of the soul
+  literal_form: wing
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: marble exterior
+  literal_form: marble exterior
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: earthly manikins
+  literal_form: manikins of earth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: divine revelation
+  literal_form: what God may reveal
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Reception of Platonic mysticism
+  summary: The passage describes how readers with sympathy for mysticism can appreciate
+    the Platonic dialogues, while the uninitiated may misread them as poetic dreams
+    under philosophical disguise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hidden spiritual interior of Greek literature
+  summary: Greek literature is described as having an outward marble exterior beneath
+    which a spiritually emotional soul is concealed.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Renewal and ascent of the soul
+  summary: When nourished by mystical thoughts of goodness, truth, unity, knowledge,
+    and human faculties, the soul's wing is renewed, and the soul is raised above
+    earthly opinions while seeking divine revelation.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: mystical quest for divine knowledge
+  taxonomy_refs:
+  - mystical_quest
+  - wisdom
+  basis: The soul waits in wonder and works reverently to learn what God may reveal,
+    in connection with the infinity of knowledge and love of the good, true, and one.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: This is framed in an interpretive introduction rather than in a narrative
+    myth episode.
+- id: motif:2
+  label: ascent of the soul above earthly opinion
+  taxonomy_refs:
+  - ascent
+  basis: The passage says the soul's wing is renewed and that she is raised above
+    earthly manikins and their opinions.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The ascent is metaphorical and philosophical, not a fully narrated journey.
+- id: motif:3
+  label: initiation and uninitiated misunderstanding
+  taxonomy_refs:
+  - initiation
+  basis: The passage explicitly contrasts those with sympathy for mysticism against
+    the uninitiated, who misread the dialogues as poetic dreams.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage uses 'uninitiated' descriptively for reception of texts, not
+    for a formal ritual initiation.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly contrasts Platonic figures with images from Isaiah
+    and the Apocalypse, stating that the Platonic forms are not familiar in the same
+    way.
+  claim_level: visual_similarity
+  target: Images of the prophet Isaiah and of the Apocalypse
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is a literary contrast of imagery, not evidence of shared
+    motif, historical contact, or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1190-1192
+  quote_or_summary: No one can duly appreciate the dialogues of Plato, especially
+    the Phaedrus, Symposium, and parts of the Republic, without sympathy with mysticism.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; brief summary.
+- id: ev:2
+  type: summary
+  locator: lines 1192-1194
+  quote_or_summary: To the uninitiated, the writings may appear to be dreams of a
+    poet disguised as a philosopher.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; brief summary.
+- id: ev:3
+  type: summary
+  locator: lines 1195-1198
+  quote_or_summary: The passage says that beneath the marble exterior of Greek literature
+    a soul filled with spiritual emotion was concealed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; brief summary.
+- id: ev:4
+  type: summary
+  locator: lines 1198-1201
+  quote_or_summary: The Platonic forms or figures are said not to resemble the familiar
+    images of Isaiah or the Apocalypse.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; brief summary.
+- id: ev:5
+  type: summary
+  locator: lines 1201-1205
+  quote_or_summary: Mysticism is defined as reason concentrated in feeling, enthusiastic
+    love of the good, true, and one, and a sense of infinite knowledge and human faculties.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; brief summary.
+- id: ev:6
+  type: quote
+  locator: lines 1205-1206
+  quote_or_summary: '"the ''wing of the soul'' is renewed and gains strength"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 1206-1207
+  quote_or_summary: The soul is raised above the manikins of earth and their opinions.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; brief summary.
+- id: ev:8
+  type: summary
+  locator: lines 1207-1207
+  quote_or_summary: The soul waits in wonder and works reverently to find out what
+    God may reveal in this or another life.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; brief summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is interpretive and philosophical rather than narrative; motif
+    labels are based on explicit language of mysticism, initiation, soul-wing renewal,
+    ascent, and revelation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol references were assigned because the available symbol list does not include wing, soul, marble, or revelation.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-phaedrus-jowett-gutenberg__l1190-l1207
+  passage_sha256=4862f6a88e8c73413945d242106aa0f431eeaf72f8519b5fd3fa09b443d10051
+

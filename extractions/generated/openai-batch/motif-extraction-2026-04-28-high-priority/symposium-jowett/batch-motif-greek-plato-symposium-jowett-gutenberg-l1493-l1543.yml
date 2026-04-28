@@ -1,0 +1,457 @@
+---
+record_id: batch.motif.greek-plato-symposium-jowett-gutenberg-l1493-l1543
+source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+passage_locator:
+  label: Symposium / SYMPOSIUM / INTRODUCTION. / SYMPOSIUM; lines 1493-1543
+  start: '1493'
+  end: '1543'
+  translation: Symposium
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Pausanias concludes that love is honorable when lover and beloved unite
+    erotic attachment with the pursuit of wisdom, virtue, education, and mutual improvement;
+    he distinguishes this heavenly love from other loves associated with the common
+    goddess. The narrative then shifts turns among the speakers: Aristophanes has
+    hiccoughs, exchanges speaking turns with Eryximachus, and receives practical remedies
+    including holding the breath, gargling water, and inducing sneezing.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A custom is described in which voluntary service to another for improvement
+    in wisdom or virtue is not considered dishonorable or flattery.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Two customs are said to meet: love of youth and the practice of philosophy
+    and virtue.'
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The lover is described as capable of communicating wisdom and virtue, while
+    the beloved seeks to acquire them for education and wisdom.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Yielding to a lover is presented as honorable only when the two laws of love
+    meet in the pursuit of wisdom and virtue.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A person who accepts a lover for money is described as disgraced, whether
+    or not the expected gain is realized.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A person who accepts a lover as a good man in hope of improvement is described
+    as virtuous even if deceived.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage names this virtuous form as love of the heavenly goddess and contrasts
+    other loves as offspring of the common goddess.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Pausanias ends his contribution in praise of love addressed to Phaedrus.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Aristodemus reports that Aristophanes was next to speak but had hiccoughs
+    and exchanged turns with Eryximachus the physician.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: 'Eryximachus agrees to speak in Aristophanes’ turn and recommends remedies
+    for the hiccough: holding the breath, gargling water, tickling the nose, and sneezing.'
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Pausanias
+  description: Speaker who concludes an extempore contribution in praise of love.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Phaedrus
+  description: Addressee to whom Pausanias offers his contribution in praise of love.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: lover
+  description: A person described as doing service to the beloved and as capable of
+    communicating wisdom and virtue in the honorable form of love.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: beloved
+  description: A person described as yielding honorably when seeking education, wisdom,
+    virtue, and improvement from the lover.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: heavenly goddess
+  description: Goddess associated with the heavenly love of great price to individuals
+    and cities.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: common goddess
+  description: Goddess associated with all other loves as their offspring.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Aristodemus
+  description: Reporter who says Aristophanes was next but had hiccoughs and changed
+    turns with Eryximachus.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Aristophanes
+  description: Next intended speaker who has hiccoughs and asks Eryximachus to stop
+    them or speak in his turn.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:9
+  name_or_label: Eryximachus
+  description: Physician reclining below Aristophanes who agrees to speak in his turn
+    and prescribe remedies for the hiccough.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: speaker in praise of love
+  assigned_to:
+  - fig:1
+  basis: Pausanias offers his contribution in praise of love.
+  evidence_refs:
+  - ev:7
+- id: role:2
+  label: addressee
+  assigned_to:
+  - fig:2
+  basis: Pausanias addresses his contribution to Phaedrus.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: communicator of wisdom and virtue
+  assigned_to:
+  - fig:3
+  basis: The lover is described as capable of communicating wisdom and virtue.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: seeker of education and wisdom
+  assigned_to:
+  - fig:4
+  basis: The beloved is described as seeking to acquire wisdom and virtue with a view
+    to education and wisdom.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: participant in honorable love
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The lover and beloved fulfill and unite the two laws of love for virtue and
+    improvement.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:6
+  label: divine source associated with heavenly love
+  assigned_to:
+  - fig:5
+  basis: This love is called the love of the heavenly goddess and heavenly.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: divine source associated with other loves
+  assigned_to:
+  - fig:6
+  basis: All other loves are called offspring of the common goddess.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: narrative reporter
+  assigned_to:
+  - fig:7
+  basis: Aristodemus is said to report the order of speakers and the interruption
+    caused by hiccoughs.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: interrupted speaker
+  assigned_to:
+  - fig:8
+  basis: Aristophanes was next but had hiccoughs and changed turns.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: physician and substitute speaker
+  assigned_to:
+  - fig:9
+  basis: Eryximachus is called the physician and agrees to speak in Aristophanes’
+    turn while prescribing remedies.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: wisdom
+  literal_form: wisdom
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: virtue
+  literal_form: virtue
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: heavenly goddess
+  literal_form: heavenly goddess
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: common goddess
+  literal_form: common goddess
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: water
+  literal_form: a little water used for gargling
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Pausanias defines honorable love
+  summary: Pausanias describes honorable love as the meeting of love of youth with
+    philosophy and virtue, so that lover and beloved pursue wisdom, education, virtue,
+    and improvement rather than money or base gain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:2
+  label: Turn exchange after Aristophanes’ hiccoughs
+  summary: After Pausanias pauses, Aristodemus reports that Aristophanes is unable
+    to take his speaking turn because of hiccoughs and exchanges turns with Eryximachus,
+    who gives medical advice while preparing to speak.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: love as mutual pursuit of wisdom and virtue
+  taxonomy_refs:
+  - wisdom
+  - sacred_exchange
+  basis: The lover provides wisdom and virtue while the beloved seeks education and
+    improvement; the exchange is honorable when directed toward virtue rather than
+    gain.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is philosophical discourse rather than mythic narrative; taxonomy
+    mapping to sacred_exchange is interpretive and should be reviewed.
+- id: motif:2
+  label: dual forms of love from two goddesses
+  taxonomy_refs:
+  - duality
+  - divine_beloved
+  basis: The passage contrasts heavenly love associated with a heavenly goddess and
+    other loves as offspring of a common goddess.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The goddesses are invoked as part of Pausanias’ argument; the passage
+    does not narrate a myth involving them.
+- id: motif:3
+  label: ritualized order of speech interrupted by bodily ailment
+  taxonomy_refs: []
+  basis: The symposium speaking order is altered when Aristophanes’ hiccoughs require
+    Eryximachus to speak in his turn and prescribe remedies.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: low
+  cautions: This is a narrative-social pattern, not clearly a comparative mythology
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1493-1497
+  quote_or_summary: Voluntary service to another for improvement in wisdom or virtue
+    is not dishonorable or flattery.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: 1497-1500
+  quote_or_summary: The customs of love of youth and philosophy/virtue are said to
+    meet, allowing the beloved to indulge the lover honorably.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: 1500-1508
+  quote_or_summary: The lover serves the beloved; the beloved shows kindness to one
+    making him wise and good; one communicates wisdom and virtue while the other seeks
+    them for education and wisdom.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: 1510-1516
+  quote_or_summary: Accepting a lover for expected wealth is described as disgraceful
+    if the lover turns out poor, because the motive was money and base use.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: 1516-1525
+  quote_or_summary: Accepting a lover believed to be good, in hope of moral improvement,
+    is described as virtuous even if the lover proves villainous; the error is called
+    noble.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: 1525-1531
+  quote_or_summary: Acceptance for the sake of virtue is noble; this love is called
+    heavenly, of the heavenly goddess, and valuable to individuals and cities; other
+    loves are offspring of the common goddess.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: 1531-1533
+  quote_or_summary: Pausanias offers Phaedrus his extempore contribution in praise
+    of love.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: 1534-1540
+  quote_or_summary: Pausanias pauses; Aristodemus says Aristophanes was next, but
+    hiccoughs forced him to change turns with Eryximachus the physician reclining
+    below him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: 1540-1543
+  quote_or_summary: Eryximachus agrees to speak in Aristophanes’ turn and advises
+    holding the breath, gargling with water, tickling the nose, and sneezing to cure
+    the hiccough.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied public-domain passage. Motif
+    candidates are cautious because much of the passage is philosophical argument
+    and symposium narration rather than mythic narrative. No comparison claims are
+    made because the passage itself does not support cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage and metadata; maintained empty comparison_claims because no comparison is explicitly supported within the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-symposium-jowett-gutenberg__l1493-l1543
+  passage_sha256=7bd821130ace2404968b462af66124984833149f3cdb97b2f12e16ca43f1e246
+

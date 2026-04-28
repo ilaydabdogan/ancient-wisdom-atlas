@@ -1,0 +1,401 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l2974-l2989
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK IV / BOOK V / BOOK VI / THE MEETING BETWEEN NAUSICAA AND ULYSSES.; lines
+    2974-2989
+  start: '2974'
+  end: '2989'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“grant that I may find friends and be hospitably received by the Phaeacians.”"
+  summary: Nausicaa drives the mule-wagon from the river toward the sacred grove of
+    Minerva, keeping pace with Ulysses and the maids on foot. At sunset Ulysses sits
+    in the grove and prays to Minerva for pity, friendship, and hospitality among
+    the Phaeacians. Minerva hears him but does not appear openly because Neptune remains
+    angry and is still trying to keep Ulysses from returning home.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A woman lashes the mules with her whip, and the group leaves the river.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mules pull the wagon along the road.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The woman regulates the pace so that Ulysses and the maids following on foot
+    can keep up with the wagon.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: At sunset the group reaches the sacred grove of Minerva.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ulysses sits down in the grove and prays to the daughter of Jove.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: Ulysses asks Minerva to hear him, states that she did not heed him when Neptune
+    was wrecking him, and asks for pity, friends, and hospitality from the Phaeacians.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Minerva hears Ulysses’ prayer but does not show herself openly.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Minerva refrains from appearing because she fears her uncle Neptune, who is
+    still angry and trying to prevent Ulysses from getting home.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Nausicaa
+  description: The woman driving the mule-wagon and controlling the pace for Ulysses
+    and the maids.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ulysses
+  description: A man following on foot, later sitting in Minerva’s grove and praying
+    for pity, friends, and hospitality.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the maids
+  description: Women following on foot with Ulysses along with the wagon.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Minerva
+  description: The mighty daughter of Jove who hears Ulysses’ prayer but does not
+    appear openly.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Jove
+  description: Named as Aegis-bearing Jove and as father of Minerva.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Neptune
+  description: Minerva’s uncle, formerly wrecking Ulysses and still furious in efforts
+    to prevent him from getting home.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: the Phaeacians
+  description: The people among whom Ulysses asks to find friends and receive hospitality.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: the mules
+  description: Animals drawing the wagon from the river along the road.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: wagon driver and pace-setter
+  assigned_to:
+  - fig:1
+  basis: She lashes the mules and plies the whip with judgment so the people on foot
+    can keep pace.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: traveler on foot
+  assigned_to:
+  - fig:2
+  basis: Ulysses follows on foot with the maids along with the wagon.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: supplicant praying for hospitality
+  assigned_to:
+  - fig:2
+  basis: He prays to Minerva for pity, friends, and hospitable reception by the Phaeacians.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: attendants following the wagon
+  assigned_to:
+  - fig:3
+  basis: The maids follow on foot along with Ulysses and the wagon.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: divine recipient of prayer
+  assigned_to:
+  - fig:4
+  basis: Ulysses addresses his prayer to Minerva, daughter of Jove.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: hidden divine listener
+  assigned_to:
+  - fig:4
+  basis: Minerva hears the prayer but does not show herself openly.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: divine father named in invocation
+  assigned_to:
+  - fig:5
+  basis: Minerva is addressed as daughter of Aegis-bearing Jove.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: angry divine obstructer of homecoming
+  assigned_to:
+  - fig:6
+  basis: Neptune is described as furious and trying to prevent Ulysses from getting
+    home.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: prospective hosts
+  assigned_to:
+  - fig:7
+  basis: Ulysses asks to find friends and be hospitably received by the Phaeacians.
+  evidence_refs:
+  - ev:3
+- id: role:10
+  label: draft animals
+  assigned_to:
+  - fig:8
+  basis: The mules draw the wagon along the road.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: river
+  literal_form: the river left behind by the wagon and travelers
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sacred grove of Minerva
+  literal_form: a sacred grove reached at sunset where Ulysses sits and prays
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sunset
+  literal_form: the sun going down as the group reaches the sacred grove
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: whip
+  literal_form: the whip used to drive and pace the mules
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: wagon
+  literal_form: the wagon drawn by mules along the road
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Departure from the river by wagon
+  summary: Nausicaa drives the mule-wagon away from the river while Ulysses and the
+    maids follow on foot, and she controls the pace so they can keep up.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Prayer in the sacred grove
+  summary: At sunset the group reaches Minerva’s sacred grove, where Ulysses sits
+    and prays to Minerva for pity, friends, and Phaeacian hospitality.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Heard prayer and hidden goddess
+  summary: Minerva hears Ulysses’ prayer but does not appear openly because Neptune
+    remains angry and is still obstructing Ulysses’ homecoming.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: homecoming obstructed by an angry deity
+  taxonomy_refs:
+  - return
+  basis: Neptune is described as still furious and trying to prevent Ulysses from
+    getting home.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives only a brief explanation of the obstruction, not the
+    wider narrative history.
+- id: motif:2
+  label: prayer for aid before entering a host community
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Ulysses prays to Minerva for pity and asks to find friends and be hospitably
+    received by the Phaeacians.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The exchange is petitionary; the passage does not show a completed reciprocal
+    offering or fulfilled hospitality.
+- id: motif:3
+  label: concealed divine assistance or attention
+  taxonomy_refs: []
+  basis: Minerva hears Ulysses’ prayer but does not show herself openly because of
+    Neptune.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states divine hearing and concealment, but does not show an
+    explicit act of assistance in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage participates in a return-pattern episode, since Ulysses’ desired
+    homecoming is explicitly opposed by Neptune while he seeks divine favor and human
+    hospitality.
+  claim_level: same_function
+  target: return motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to this excerpt’s explicit references to getting
+    home, divine obstruction, and requested hospitality; broader Odyssey context is
+    not used.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2974-2979
+  quote_or_summary: The woman lashes the mules, leaves the river, and paces the wagon
+    so Ulysses and the maids can follow on foot.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2979-2981
+  quote_or_summary: As the sun goes down, they arrive at the sacred grove of Minerva,
+    where Ulysses sits and prays to the daughter of Jove.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2982-2987
+  quote_or_summary: Ulysses asks Minerva to hear him, recalls that she did not heed
+    him when Neptune was wrecking him, and asks to “find friends and be hospitably
+    received by the Phaeacians.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 2988-2989
+  quote_or_summary: Minerva hears the prayer but does not appear openly because she
+    fears Neptune, who remains furious and tries to prevent Ulysses from getting home.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: 'Literal extraction is straightforward. Motif labels are limited to elements
+    explicit in the excerpt: prayer, hospitality, divine concealment, and obstruction
+    of homecoming.'
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were restricted to the provided lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l2974-l2989
+  passage_sha256=ac042c6ebb366885c8c2ccaa84a94c35bae4d92955f1eaca603f1f0bbc684fb6
+

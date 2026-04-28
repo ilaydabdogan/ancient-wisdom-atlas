@@ -1,0 +1,460 @@
+---
+record_id: batch.motif.greek-plato-phaedrus-jowett-gutenberg-l1412-l1536
+source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+passage_locator:
+  label: PHAEDRUS / INTRODUCTION. / ON THE DECLINE OF GREEK LITERATURE. / PHAEDRUS;
+    lines 1412-1536
+  start: '1412'
+  end: '1536'
+  translation: Phaedrus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Socrates meets Phaedrus outside Athens and asks where he has been. Phaedrus
+    says he has been with Lysias and is going for a walk. They discuss Lysias's speech
+    about accepting a non-lover rather than a lover. Socrates suspects Phaedrus has
+    the written discourse hidden under his cloak. They go by the Ilissus to sit under
+    a plane-tree, and Phaedrus asks whether this is the place where Boreas is said
+    to have carried off Orithyia.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The named dialogue participants are Socrates and Phaedrus.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The scene is placed under a plane-tree by the banks of the Ilissus.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Phaedrus says he comes from Lysias, son of Cephalus, and is walking outside
+    the wall after sitting with him during the morning.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Phaedrus reports that Lysias wrote about a fair youth being tempted, not by
+    a lover, and argued that the non-lover should be accepted rather than the lover.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Socrates infers that Phaedrus has the actual discourse as a roll hidden in
+    his left hand under his cloak.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Socrates and Phaedrus decide to go by the Ilissus and sit in a quiet spot.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Phaedrus describes the route along the brook as a way to cool their feet in
+    the water at midday in summer.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Phaedrus identifies a tall plane-tree with shade, gentle breezes, and grass
+    where they may sit or lie down.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Phaedrus asks whether this place is where Boreas is said to have carried off
+    Orithyia from the banks of the Ilissus.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Socrates says the tradition places the spot lower down near the crossing to
+    the temple of Artemis, with some sort of altar of Boreas there.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: One of the two dialogue participants; he questions Phaedrus, recognizes
+    the hidden roll, and directs the walk by the Ilissus.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Phaedrus
+  description: One of the two dialogue participants; he has come from Lysias, carries
+    or has access to Lysias's discourse, and raises the local tradition about Boreas
+    and Orithyia.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+- id: fig:3
+  name_or_label: Lysias son of Cephalus
+  description: An absent speaker and writer whose discourse about love and non-love
+    Phaedrus has heard or brought.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Boreas
+  description: A figure in the local tradition, said to have carried off Orithyia
+    from the banks of the Ilissus; Socrates mentions an altar of Boreas near the traditional
+    place.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: Orithyia
+  description: A figure in the local tradition, said to have been carried off by Boreas
+    from the banks of the Ilissus.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Artemis
+  description: Named in reference to a temple near the place associated with the Boreas
+    tradition.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: dialogue participant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage lists Socrates and Phaedrus as the persons of the dialogue.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: questioner and guide
+  assigned_to:
+  - fig:1
+  basis: Socrates questions Phaedrus, detects the hidden roll, and suggests turning
+    aside by the Ilissus.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: bearer of discourse
+  assigned_to:
+  - fig:2
+  basis: Phaedrus has heard Lysias's discourse and is suspected of holding the actual
+    discourse under his cloak.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: local-tradition inquirer
+  assigned_to:
+  - fig:2
+  basis: Phaedrus asks whether the place is where Boreas is said to have carried off
+    Orithyia.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: absent rhetorician
+  assigned_to:
+  - fig:3
+  basis: Lysias is described as composing or providing the discourse that Phaedrus
+    reports.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: mythic abductor in reported tradition
+  assigned_to:
+  - fig:4
+  basis: Boreas is said to have carried off Orithyia.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: carried-off maiden in reported tradition
+  assigned_to:
+  - fig:5
+  basis: Orithyia is named as the one carried off by Boreas.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: deity associated with nearby temple
+  assigned_to:
+  - fig:6
+  basis: Socrates locates the traditional place near the crossing to the temple of
+    Artemis.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: plane-tree
+  literal_form: The plane-tree under or near which the dialogue scene is set; Phaedrus
+    later points out the tallest plane-tree with shade.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:2
+  label: Ilissus water
+  literal_form: The banks of the Ilissus, a brook, and a clear bright stream where
+    the walkers may cool their feet.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: sym:3
+  label: written roll
+  literal_form: A roll, suspected to be the actual discourse of Lysias, hidden under
+    Phaedrus's cloak.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: cloak
+  literal_form: Phaedrus's cloak, under which Socrates suspects the roll is held.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: altar of Boreas
+  literal_form: Some sort of altar of Boreas near the place Socrates identifies as
+    connected with the tradition.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: temple of Artemis
+  literal_form: The temple of Artemis near the crossing lower down from the place
+    Phaedrus first asks about.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Meeting and destination
+  summary: Socrates meets Phaedrus and asks where he is coming from and going; Phaedrus
+    says he has been with Lysias and is taking a walk outside the wall.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Report of Lysias's love discourse
+  summary: Phaedrus explains that Lysias's topic was love, specifically the argument
+    that a non-lover should be accepted rather than a lover.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hidden roll disclosed
+  summary: Socrates suspects Phaedrus has the actual discourse under his cloak, and
+    Phaedrus concedes that he cannot practice his art on Socrates and will read.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Choosing the shaded riverside place
+  summary: The two turn aside by the Ilissus, walk along the brook, and identify a
+    shaded plane-tree with breezes and grass as a place to sit or lie down.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Local tradition of Boreas and Orithyia
+  summary: Phaedrus asks whether the nearby place is where Boreas is said to have
+    carried off Orithyia from the Ilissus; Socrates locates the tradition lower down
+    near the temple of Artemis and an altar of Boreas.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: carrying off of a maiden by a mythic figure
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The passage reports a tradition in which Boreas carried off Orithyia from
+    the banks of the Ilissus.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage only alludes to the tradition and does not narrate the event
+    in detail.
+- id: motif:2
+  label: sacred or myth-marked landscape
+  taxonomy_refs: []
+  basis: The riverside place is connected with a named tradition, a nearby temple
+    of Artemis, and an altar of Boreas.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: No explicit taxonomy reference is supplied for sacred landscape; the identification
+    rests on the passage's place markers.
+- id: motif:3
+  label: wisdom-bearing written discourse
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers on the carrying, reading, and discussion of a composed
+    discourse attributed to Lysias.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The discourse is rhetorical and erotic rather than explicitly mythic or
+    sapiential; the wisdom taxonomy link is tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1412-1536
+  quote_or_summary: 'PERSONS OF THE DIALOGUE: Socrates, Phaedrus. SCENE: Under a plane-tree,
+    by the banks of the Ilissus.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 1412-1536
+  quote_or_summary: Phaedrus says he comes from Lysias son of Cephalus and is going
+    to walk outside the wall after sitting with him all morning.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1412-1536
+  quote_or_summary: Phaedrus says Lysias wrote about a fair youth being tempted, not
+    by a lover, and argued that the non-lover should be accepted rather than the lover.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 1412-1536
+  quote_or_summary: Socrates says Phaedrus must show what he has in his left hand
+    under his cloak, suspecting that the roll is the actual discourse.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short excerpt paraphrased from public domain
+    text.
+- id: ev:5
+  type: quote
+  locator: 1412-1536
+  quote_or_summary: Socrates says, “Let us turn aside and go by the Ilissus; we will
+    sit down at some quiet spot.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: 1412-1536
+  quote_or_summary: Phaedrus suggests going along the brook and cooling their feet
+    in the water, noting the midday summer heat.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 1412-1536
+  quote_or_summary: Phaedrus points out the tallest plane-tree and says there are
+    shade, gentle breezes, and grass for sitting or lying down.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: 1412-1536
+  quote_or_summary: Phaedrus asks whether this is the place where “Boreas is said
+    to have carried off Orithyia from the banks of the Ilissus.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:9
+  type: summary
+  locator: 1412-1536
+  quote_or_summary: Socrates says the place is lower down near the crossing to the
+    temple of Artemis and that there is some sort of altar of Boreas there.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Most entities and settings are explicit. Motif candidates are strongest for
+    the Boreas-Orithyia abduction allusion; broader landscape and wisdom/discourse
+    motifs are more tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage only briefly alludes to a local mythic tradition and does not itself develop cross-textual comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-phaedrus-jowett-gutenberg__l1412-l1536
+  passage_sha256=b06adc37e5cd409c99c2e70f7aab8062ad6220a1301b78bcc3f84af62c8b9ec0
+

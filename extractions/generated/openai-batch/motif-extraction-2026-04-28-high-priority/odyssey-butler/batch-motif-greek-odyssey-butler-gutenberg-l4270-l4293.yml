@@ -1,0 +1,414 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l4270-l4293
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK VII / RECEPTION OF ULYSSES AT THE PALACE OF KING ALCINOUS. / BOOK VIII
+    / BOOK IX; lines 4270-4293
+  start: '4270'
+  end: '4293'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After Neptune hears the Cyclops' prayer, the Cyclops hurls a large rock
+    that nearly strikes Ulysses' ship and drives it toward shore. Ulysses and his
+    men return to the island where the other ships wait, divide the Cyclops' sheep,
+    sacrifice the ram to Jove, feast, camp on the beach, and sail away at dawn grieving
+    their losses but glad to have escaped death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Neptune hears a prayer before a large rock is hurled at the ship.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The thrown rock falls just short of the ship, nearly hitting the rudder, and
+    its wave drives the ship toward the island shore.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The returning crew finds their comrades lamenting and waiting anxiously at
+    the island where the other ships had been left.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The crew lands the Cyclops' sheep and divides them equitably among the men.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ulysses receives the ram as an extra share and sacrifices it on the sea shore,
+    burning its thigh bones to Jove.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Jove does not heed the sacrifice and considers the destruction of Ulysses'
+    ships and comrades.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The men feast on meat and drink through the day, camp on the beach at night,
+    and sail away at dawn with sorrow but relief at escaping death.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Neptune
+  description: A god who hears the prayer preceding the rock thrown at the ship.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Cyclops
+  description: The figure whose sheep are landed and divided; the ram from his flock
+    is sacrificed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Ulysses
+  description: The speaker and leader who receives the ram as an extra share, sacrifices
+    it to Jove, commands his men to board, and sails onward.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Ulysses' companions
+  description: The men with Ulysses who divide the sheep, feast, camp, board the ship,
+    row, and depart sorrowfully.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: Jove
+  description: Lord of all, to whom the ram's thigh bones are burned; he does not
+    heed the sacrifice.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: comrades on the island
+  description: The men left with the other ships, found lamenting and anxiously awaiting
+    the return of Ulysses' party.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: child of morning rosy-fingered Dawn
+  description: Dawn personified as appearing before the men board and depart.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine hearer of prayer
+  assigned_to:
+  - fig:1
+  basis: Neptune is said to have heard the prayer.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: owner of captured sheep
+  assigned_to:
+  - fig:2
+  basis: The sheep are identified as the Cyclops' sheep.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: leader of departing crew
+  assigned_to:
+  - fig:3
+  basis: Ulysses orders the men aboard and directs departure at dawn.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: sacrificer
+  assigned_to:
+  - fig:3
+  basis: Ulysses sacrifices the ram on the sea shore and burns its thigh bones to
+    Jove.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: crew and sharers of spoil
+  assigned_to:
+  - fig:4
+  basis: The companions divide the Cyclops' sheep, feast, camp, board, row, and sail
+    onward.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:6
+  label: recipient who rejects or ignores sacrifice
+  assigned_to:
+  - fig:5
+  basis: Jove is the deity to whom the thigh bones are burned, but he does not heed
+    the sacrifice.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: waiting mourners
+  assigned_to:
+  - fig:6
+  basis: The comrades left at the island are found lamenting and anxiously awaiting
+    the return.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sea
+  literal_form: sea
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: rock hurled at ship
+  literal_form: large rock
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: ship
+  literal_form: vessel / ship
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: Cyclops' sheep and ram
+  literal_form: sheep and ram
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: sacrificial thigh bones
+  literal_form: burned thigh bones of the ram
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: shore and beach
+  literal_form: sea shore / beach
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:7
+  label: dawn
+  literal_form: child of morning rosy-fingered Dawn
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Rock cast after prayer
+  summary: After Neptune hears a prayer, a large rock is hurled at Ulysses' ship,
+    narrowly misses the rudder, and raises a wave that pushes the ship toward shore.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Return to waiting comrades and division of sheep
+  summary: Ulysses and his men reach the island where the other ships wait, find comrades
+    lamenting, beach their vessel, land the Cyclops' sheep, and divide them fairly.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Unheeded sacrifice to Jove
+  summary: Ulysses receives the ram as an extra portion, sacrifices it on the shore,
+    and burns the thigh bones to Jove, who does not heed the offering.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Feasting, night camp, and dawn departure
+  summary: The men feast until sunset, camp on the beach, then board at dawn and sail
+    away sorrowful for losses but glad to have escaped death.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine prayer followed by hostile natural force
+  taxonomy_refs: []
+  basis: A prayer is heard by Neptune immediately before the ship is endangered by
+    a hurled rock and the sea wave it raises.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not restate the prayer's content or identify the thrower
+    by name within the excerpt.
+- id: motif:2
+  label: return to companions after escape from death
+  taxonomy_refs:
+  - return
+  basis: Ulysses' party reaches the island where comrades have been anxiously awaiting
+    them and later sails onward, glad to have escaped death.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a local return to the fleet, not the larger homecoming of the
+    epic.
+- id: motif:3
+  label: division of captured livestock
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Cyclops' sheep are landed and divided equitably, with the ram assigned
+    to Ulysses as an extra share.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents distribution of
+    spoil rather than an explicit sacred exchange until the later sacrifice.
+- id: motif:4
+  label: sacrifice not accepted by deity
+  taxonomy_refs:
+  - sacrifice
+  - divine_judgment
+  basis: Ulysses burns the ram's thigh bones to Jove, but Jove does not heed the sacrifice
+    and thinks of destroying the ships and comrades.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage states divine non-heeding and hostile intent but does not
+    specify a formal judgment scene.
+- id: motif:5
+  label: dawn departure over the sea after loss
+  taxonomy_refs:
+  - departure
+  basis: At rosy-fingered Dawn, Ulysses orders the men aboard and they sail away sorrowful
+    but alive.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a travel episode within a longer wandering narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4270-4276
+  quote_or_summary: Neptune hears the prayer; a much larger rock is hurled with force,
+    falls just short of the ship, nearly strikes the rudder, and sends a wave that
+    drives the ship toward the island shore.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4277-4283
+  quote_or_summary: At the island where the rest of the ships were left, the returning
+    men find comrades lamenting and waiting, beach the vessel, land the Cyclops' sheep,
+    and divide them equitably.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4283-4288
+  quote_or_summary: Ulysses receives the ram as an extra share, sacrifices it on the
+    sea shore, burns its thigh bones to Jove, but Jove does not heed the sacrifice
+    and thinks of destroying the ships and comrades.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4289-4293
+  quote_or_summary: The men feast through the day, camp on the beach at night, and
+    at Dawn board, row over the grey sea, and sail on sorrowful but glad to have escaped
+    death despite lost comrades.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    and should be reviewed for taxonomy fit. No comparison claims were added because
+    the passage itself does not make an explicit comparative link.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All quotations avoided in favor of public-domain summaries; taxonomy references limited to supplied available refs where directly supportable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l4270-l4293
+  passage_sha256=6544a4da1a01ef301b945da3aecc97604ace2c1ad6aeb2f67b106fffe3afa06c
+

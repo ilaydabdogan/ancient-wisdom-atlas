@@ -1,0 +1,471 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l2241-l2286
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK II / BOOK III / TELEMACHUS VISITS NESTOR AT PYLOS. / BOOK IV; lines
+    2241-2286
+  start: '2241'
+  end: '2286'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Minerva sends a vision in the likeness of Penelope’s sister Iphthime to
+    comfort Penelope in sleep. The vision assures Penelope that Telemachus will return
+    and that Minerva accompanies him, but refuses to say whether Ulysses is alive
+    or dead. Penelope wakes refreshed. Meanwhile the suitors sail to Asteris and set
+    an ambush for Telemachus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Minerva makes a vision in the likeness of Iphthime and sends it to Ulysses’
+    house to stop Penelope’s crying.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The vision enters Penelope’s room through the door’s thong-hole and hovers
+    over her head.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The vision tells Penelope that the gods will not suffer her to remain sad
+    and that her son will come back.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Penelope says she has lost her husband and is anxious about her son, who has
+    gone by ship and has enemies plotting to kill him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The vision says Minerva has compassion for Penelope, has gone with Telemachus,
+    and sent the message.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Penelope asks whether the other unhappy one is alive or dead and in Hades;
+    the vision refuses to answer certainly.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The vision vanishes through the thong-hole and dissipates into thin air; Penelope
+    wakes refreshed and comforted.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The suitors sail over the sea intending to murder Telemachus and place themselves
+    in ambush at Asteris.
+  category: action
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Minerva
+  description: A goddess who creates and sends the vision, has compassion on Penelope,
+    and accompanies Telemachus.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Vision in the likeness of Iphthime
+  description: A dreamlike messenger made by Minerva in the likeness of Penelope’s
+    sister; it speaks to Penelope and then vanishes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Penelope
+  description: Sleeping and grieving woman addressed by the vision; she worries about
+    her absent husband and son.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Telemachus
+  description: Penelope’s son, away by ship, protected by Minerva, and targeted by
+    enemies before he can return home.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:5
+  name_or_label: Ulysses
+  description: Owner of the house; Penelope’s absent husband is referred to as brave,
+    lion-hearted, and possibly alive or dead in Hades.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:6
+  name_or_label: Suitors / Achaeans
+  description: The men who sail and set an ambush at Asteris, intent on murdering
+    Telemachus.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: Iphthime
+  description: Penelope’s sister, daughter of Icarius and wife of Eumelus, whose likeness
+    the vision takes.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: divine sender
+  assigned_to:
+  - fig:1
+  basis: Minerva makes the vision and sends it to Ulysses’ house.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dream messenger
+  assigned_to:
+  - fig:2
+  basis: The vision speaks comforting messages to Penelope while she sleeps and reports
+    that Minerva sent it.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: divine protector
+  assigned_to:
+  - fig:1
+  basis: The vision says Minerva has gone with Telemachus and many would be glad to
+    have her stand by their side.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: grieving mother and wife
+  assigned_to:
+  - fig:3
+  basis: Penelope weeps for her husband and fears for her son.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: threatened absent son
+  assigned_to:
+  - fig:4
+  basis: Telemachus is away by ship and enemies are plotting to kill him before he
+    returns.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:6
+  label: absent husband whose fate is unknown
+  assigned_to:
+  - fig:5
+  basis: Penelope describes her lost husband and asks whether the other unhappy one
+    is alive or dead in Hades.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:7
+  label: ambushers
+  assigned_to:
+  - fig:6
+  basis: The suitors sail to Asteris and place themselves in ambush.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:8
+  label: recognizable likeness
+  assigned_to:
+  - fig:7
+  basis: The vision is made in the likeness of Iphthime, Penelope’s sister.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: dream-vision
+  literal_form: A vision in the likeness of Iphthime appearing during Penelope’s sleep.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: door thong-hole
+  literal_form: The hole through which the door-thong passed, used by the vision to
+    enter and vanish.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:3
+  label: gates of dreamland
+  literal_form: Penelope is described as sleeping sweetly at the gates of dreamland.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sea
+  literal_form: The sea crossed by Telemachus and later by the suitors.
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:5
+  label: Hades
+  literal_form: The house of Hades, named as the possible place of the absent man
+    if dead.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: rocky islet Asteris
+  literal_form: A small rocky islet between Ithaca and Samos with a harbor on either
+    side.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Minerva sends a dreamlike vision
+  summary: Minerva creates a vision resembling Iphthime and sends it to Penelope’s
+    room to comfort her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Penelope questions the vision
+  summary: Penelope explains her grief and fear, hears that Minerva accompanies Telemachus,
+    and asks about the uncertain fate of her absent husband.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Vision vanishes and Penelope is comforted
+  summary: The vision leaves through the door’s thong-hole and dissipates; Penelope
+    wakes refreshed by the vivid dream.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Suitors set ambush at Asteris
+  summary: The suitors sail over the sea to the small islet Asteris and set themselves
+    in ambush for Telemachus.
+  figure_refs:
+  - fig:6
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divinely sent consolatory dream-message
+  taxonomy_refs: []
+  basis: A goddess sends a dreamlike vision to a sleeping mortal to relieve grief
+    and convey reassurance about a loved one’s return.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy reference directly names dream messages; label is
+    passage-derived.
+- id: motif:2
+  label: divine protection of a threatened traveler
+  taxonomy_refs: []
+  basis: The vision says Minerva accompanies Telemachus, while Penelope and the narrator
+    describe enemies plotting to kill him during his journey.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The protection is reported in speech, while the ambush is narrated separately.
+- id: motif:3
+  label: return endangered by ambush
+  taxonomy_refs:
+  - return
+  basis: Telemachus is expected to come back, but the suitors plan to kill him before
+    he can return and lie in ambush at Asteris.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy term 'return' is broad; this passage presents only an anticipated
+    return and a threat to it.
+- id: motif:4
+  label: image-likeness as divine messenger
+  taxonomy_refs:
+  - shapeshifter
+  basis: Minerva makes a vision in the likeness of Penelope’s sister Iphthime to deliver
+    a message.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage describes a made vision in another’s likeness, not necessarily
+    a deity personally changing shape.
+- id: motif:5
+  label: unknown fate of absent husband
+  taxonomy_refs: []
+  basis: Penelope asks whether the absent man is alive or dead in Hades, and the vision
+    refuses certainty.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is an uncertainty motif within the passage, not linked to a supplied
+    taxonomy family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2241-2248
+  quote_or_summary: Minerva makes a vision in the likeness of Iphthime, sends it to
+    Ulysses’ house, and it enters Penelope’s room through the door thong-hole, hovering
+    over her head.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 2249-2252
+  quote_or_summary: "“Your son has done them no wrong, so he will yet come back to
+    you.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2253-2268
+  quote_or_summary: Penelope addresses the figure as her sister, laments her lost
+    brave husband, fears for her son who has gone by ship, and says enemies are plotting
+    to kill him before he returns home.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2269-2273
+  quote_or_summary: The vision tells Penelope to take heart because Minerva has gone
+    with Telemachus, has compassion on Penelope, and sent the message.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2274-2280
+  quote_or_summary: Penelope asks whether the other unhappy one is alive or dead in
+    Hades; the vision says it will not tell her for certain whether he is alive or
+    dead.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 2281-2283
+  quote_or_summary: The vision vanishes through the thong-hole and dissipates into
+    thin air; Penelope rises refreshed and comforted by the vivid dream.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 2284-2286
+  quote_or_summary: The suitors sail over the sea intent on murdering Telemachus and
+    place themselves in ambush.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 2284-2286
+  quote_or_summary: Asteris is described as a small rocky islet in mid-channel between
+    Ithaca and Samos, with a harbor on either side where a ship can lie.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are cautious and mostly passage-derived; only broad available taxonomy refs are
+    used where directly supportable. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no external Odyssey context added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l2241-l2286
+  passage_sha256=855e53bd5c3b715e51b0deeff9392377a1db12c69eeec51d589c17d875fb7ebd
+

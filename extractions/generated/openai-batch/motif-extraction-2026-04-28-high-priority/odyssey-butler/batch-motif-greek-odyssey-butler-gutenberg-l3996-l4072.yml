@@ -1,0 +1,535 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l3996-l4072
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK VII / RECEPTION OF ULYSSES AT THE PALACE OF KING ALCINOUS. / BOOK VIII
+    / BOOK IX; lines 3996-4072
+  start: '3996'
+  end: '4072'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Ulysses recounts how he and his companions wait in the Cyclops' cave, request
+    hospitality, are imprisoned by a great stone, and suffer the Cyclops' killing
+    and eating of several companions while Ulysses preserves a deceptive account of
+    their ship and begins to plan revenge.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Achaeans light a fire, offer some cheeses in sacrifice, eat other cheeses,
+    and wait in the cave for the Cyclops to return.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Cyclops enters with sheep, goats, and firewood, then closes the mouth
+    of the cave with a huge stone.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Cyclops milks the ewes and goats, curdles part of the milk, sets it in
+    wicker strainers, and pours the rest into bowls for drinking.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Cyclops asks the strangers who they are and whether they are traders or
+    sea-rovers.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Ulysses identifies his group as Achaeans returning from Troy, asks for hospitality
+    and gifts for visitors, and invokes Jove as protector and avenger of suppliants
+    and foreigners.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Cyclops rejects concern for Jove and the blessed gods, claiming the Cyclopes
+    are stronger, and asks where the ship is located.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Ulysses answers with a lie, saying Neptune wrecked the ship on rocks and that
+    only he and his present companions escaped.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The Cyclops kills two of Ulysses' men, tears them apart, eats them, drinks
+    milk, and sleeps among his sheep.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Ulysses considers killing the Cyclops with a sword but refrains because the
+    men cannot move the stone blocking the door.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: At dawn the Cyclops repeats his milking tasks, eats two more men, rolls the
+    stone aside, drives out the sheep, replaces the stone, and goes toward the mountain
+    with the flock.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: After the Cyclops leaves, Ulysses remains inside and begins to scheme for
+    revenge and glory.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Ulysses
+  description: Narrator and Achaean speaker who requests hospitality, lies about the
+    ship, and later schemes revenge.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Cyclops
+  description: A huge cave-dwelling shepherd who tends goats and sheep, rejects fear
+    of Jove, blocks the cave with a stone, and eats several men.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: Ulysses' companions / Achaeans
+  description: Achaeans returning from Troy who are trapped in the cave; several are
+    killed and eaten by the Cyclops.
+  role_refs:
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: Jove
+  description: Deity invoked by Ulysses as protector and avenger of suppliants and
+    foreigners; dismissed by the Cyclops.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Neptune
+  description: Deity named in Ulysses' false account as the one who wrecked the ship
+    on rocks.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Narrator
+  assigned_to:
+  - fig:1
+  basis: The passage is told in first person by Ulysses as he recounts the cave encounter.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:2
+  label: Suppliant stranger
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Ulysses asks the Cyclops for hospitality and identifies the group as suppliants
+    under Jove's protection.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: Cunning strategist
+  assigned_to:
+  - fig:1
+  basis: He lies about the ship to avoid being drawn out and later begins to scheme
+    revenge.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:4
+  label: Cave-dwelling shepherd
+  assigned_to:
+  - fig:2
+  basis: He brings sheep and goats into the cave, milks them, and sleeps among them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: role:5
+  label: Captor
+  assigned_to:
+  - fig:2
+  basis: He seals the cave with a huge stone that the trapped men cannot move.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:6
+  label: Cannibalistic antagonist
+  assigned_to:
+  - fig:2
+  basis: He kills and eats Ulysses' companions.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:7
+  label: Victims
+  assigned_to:
+  - fig:3
+  basis: Several of Ulysses' men are seized, killed, and eaten by the Cyclops.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:8
+  label: Protector of suppliants invoked in speech
+  assigned_to:
+  - fig:4
+  basis: Ulysses says Jove protects respectable travellers and avenges suppliants
+    and foreigners in distress.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: Alleged ship-wrecker in deceptive speech
+  assigned_to:
+  - fig:5
+  basis: Ulysses falsely claims Neptune wrecked the ship.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Cave
+  literal_form: The Cyclops' cave or cavern, with a mouth blocked by a huge stone.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: sym:2
+  label: Fire
+  literal_form: Fire lit by the Achaeans and later by the Cyclops for work and supper.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:9
+- id: sym:3
+  label: Milk
+  literal_form: Milk from ewes and goats, curdled, set aside, poured into bowls, and
+    drunk by the Cyclops.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+- id: sym:4
+  label: Huge stone door-barrier
+  literal_form: A stone rolled to the mouth of the cave, too large for the trapped
+    men to move.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: Sheep and goats
+  literal_form: The Cyclops' ewes, she-goats, rams, and he-goats, driven in and out
+    of the cave and milked.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  - ev:9
+- id: sym:6
+  label: Mountain
+  literal_form: The mountain toward which the Cyclops drives the sheep after leaving
+    the cave.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Waiting in the cave
+  summary: Ulysses and his companions light a fire, make a cheese offering, eat, and
+    wait inside the cave for the Cyclops.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cyclops seals the cave and tends the herd
+  summary: The Cyclops brings in firewood and female animals, leaves the males outside,
+    seals the cave with a huge stone, milks the flock, and prepares milk and cheese.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Hospitality request and divine rejection
+  summary: The Cyclops questions the strangers; Ulysses asks for hospitality under
+    Jove's protection; the Cyclops rejects concern for Jove and the gods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: False account of the ship
+  summary: When asked where the ship is, Ulysses lies that Neptune wrecked it and
+    that only the men present escaped.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Cannibal meal and night imprisonment
+  summary: The Cyclops kills and eats two men, drinks milk, and sleeps; Ulysses considers
+    stabbing him but refrains because the cave-stone would still trap the survivors.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Morning slaughter and departure with the flock
+  summary: At dawn the Cyclops completes his herding tasks, eats two more men, opens
+    and recloses the cave, drives the sheep toward the mountain, and leaves Ulysses
+    planning revenge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Violated hospitality toward suppliants
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Ulysses asks for hospitality and visitor gifts under Jove's protection, while
+    the Cyclops refuses and attacks the guests.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The supplied taxonomy does not include a specific hospitality motif; sacred_exchange
+    is a broad fit because the passage centers on expected guest-host exchange and
+    its violation.
+- id: motif:2
+  label: Cunning speech against a dangerous captor
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Ulysses avoids revealing the ship's location by lying about its wreck and
+    later remains trapped behind the cave boundary while scheming revenge.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The full trickster episode extends beyond this passage; this extract contains
+    the deceptive speech and planning but not the later execution of the trick.
+- id: motif:3
+  label: Monster's cave imprisonment
+  taxonomy_refs:
+  - cave
+  basis: The Cyclops' cave is sealed by a stone so large that the trapped men cannot
+    move it, making the cave a place of confinement and danger.
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: Classified as a symbolic setting rather than a formal motif family in
+    the available taxonomy.
+- id: motif:4
+  label: Human victims devoured by a monstrous being
+  taxonomy_refs: []
+  basis: The Cyclops seizes, kills, dismembers, and eats Ulysses' companions in the
+    cave.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: No exact available taxonomy reference for cannibalistic monster or ogre
+    motif is supplied.
+- id: motif:5
+  label: Ritual offering before danger
+  taxonomy_refs:
+  - sacrifice
+  basis: The Achaeans offer some of the Cyclops' cheeses in sacrifice before the Cyclops
+    returns.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The sacrificial action is brief and not developed further in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3996-4000
+  quote_or_summary: The Achaeans light a fire, sacrifice some cheeses, eat others,
+    and wait in the cave for the Cyclops.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: 4000-4009
+  quote_or_summary: The Cyclops brings firewood, drives female sheep and goats inside,
+    leaves males outside, and rolls a huge stone to the cave mouth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: 4009-4015
+  quote_or_summary: The Cyclops milks the animals, lets each have her young, curdles
+    half the milk, pours the rest into bowls, lights the fire, and sees the men.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: quote
+  locator: 4016-4019
+  quote_or_summary: The Cyclops asks, “Strangers, who are you?” and asks whether they
+    are traders or rovers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; short excerpt quoted.
+- id: ev:5
+  type: summary
+  locator: 4020-4030
+  quote_or_summary: Ulysses says they are Achaeans returning from Troy, driven off
+    course, and asks the Cyclops for hospitality and visitor gifts under Jove's protection.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: 4031-4040
+  quote_or_summary: The Cyclops calls Ulysses foolish, denies fearing the gods or
+    Jove, claims Cyclopes are stronger, and asks where the ship is fastened.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: 4041-4046
+  quote_or_summary: Ulysses says he was too cunning to be caught and lies that Neptune
+    wrecked the ship on rocks, leaving only the present men alive.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: 4047-4062
+  quote_or_summary: The Cyclops seizes two men, kills and eats them, drinks milk,
+    sleeps among the sheep, and Ulysses refrains from stabbing him because the stone
+    would trap them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: 4063-4072
+  quote_or_summary: At dawn the Cyclops lights the fire, milks the animals, eats two
+    more men, moves and replaces the stone, drives the sheep to the mountain, and
+    Ulysses plans revenge.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong from the provided passage. Motif mapping is
+    limited by the broad available taxonomy and by the fact that the full Cyclops
+    trick continues beyond this excerpt. No comparison claims were added because the
+    passage itself does not explicitly support historical or cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references limited to the available lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l3996-l4072
+  passage_sha256=ddb11b952a3d9519088ea2c9d1d7a90e3f2b66b78269d0d7e3bc9c419e71bdee
+

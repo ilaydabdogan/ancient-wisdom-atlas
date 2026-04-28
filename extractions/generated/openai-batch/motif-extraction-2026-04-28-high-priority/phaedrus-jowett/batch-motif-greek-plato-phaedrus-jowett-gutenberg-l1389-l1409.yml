@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.greek-plato-phaedrus-jowett-gutenberg-l1389-l1409
+source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+passage_locator:
+  label: Phaedrus / PHAEDRUS / INTRODUCTION. / ON THE DECLINE OF GREEK LITERATURE.;
+    lines 1389-1409
+  start: '1389'
+  end: '1409'
+  translation: Phaedrus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage argues that literature and education will not be exhausted:
+    past writers will continue to educate future generations; nations, East and West,
+    will exchange culture; world religions and literatures will become accessible;
+    greater leisure and broader views of nature may promote mental improvement, love
+    of humankind, freedom from prejudice, better understanding of truth, and future
+    revival or renaissance from recollection of the past.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Great writers of ancient and modern times are said to remain as educational
+    materials for coming generations.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says that every nation now communicates with every other nation.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The East and the West are each described as providing elements of culture
+    to the other.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: World religions and literatures are described as open books available to those
+    who choose to read them.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The human race is imagined as possibly having more leisure for improvement
+    of the mind rather than being ground down by bodily toil.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A growing sense of the greatness and infinity of nature is said to awaken
+    larger and more liberal thoughts.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage predicts possible greater freedom from prejudice and party, better
+    understanding of truth, and greater success in the search for truth.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Recollection of the past is said to contain seeds of future revival and renaissance.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage rejects the fear that literature will die out.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: great writers of ancient and modern times
+  description: Writers whose works are said to remain as educational materials for
+    future generations.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: coming generation
+  description: Future learners who may be educated by earlier writers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: every nation
+  description: Collective nations described as communicating with every other nation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: East
+  description: A cultural region described as providing elements of culture to the
+    West.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: West
+  description: A cultural region described as providing elements of culture to the
+    East.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: human race
+  description: Humanity, possibly freed from constant bodily toil and given greater
+    leisure for improvement of the mind.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: educational source
+  assigned_to:
+  - fig:1
+  basis: The writers remain to furnish educational materials.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: future recipient of education
+  assigned_to:
+  - fig:2
+  basis: The coming generation receives materials of education from past and modern
+    writers.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: participant in universal communication
+  assigned_to:
+  - fig:3
+  basis: Every nation is said to hold communication with every other.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: cultural exchange partner
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: East and West each provide elements of culture to the other.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: seeker of mental improvement
+  assigned_to:
+  - fig:6
+  basis: Humanity may gain leisure for improvement of the mind.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: open books
+  literal_form: The religions and literatures of the world described as open books.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: seeds of revival and renaissance
+  literal_form: Seeds contained in recollection of the past, leading toward future
+    revival and renaissance.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:3
+  label: search for truth
+  literal_form: A search in which better understanding may bring more success and
+    fewer failures.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Global circulation of culture and learning
+  summary: The passage presents nations, East, and West as communicating and exchanging
+    elements of culture while world religions and literatures become accessible to
+    readers.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Human mental enlargement and search for truth
+  summary: Humanity may gain leisure for mental improvement; the sense of nature may
+    awaken larger thoughts; prejudice may decline and the search for truth may become
+    more successful.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Future revival from memory of the past
+  summary: The coming ages carry recollection of the past, which is said to contain
+    seeds of revival and renaissance, countering the fear that literature will die
+    out.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Transmission of wisdom across generations
+  taxonomy_refs:
+  - wisdom
+  basis: Earlier writers remain as materials of education for coming generations,
+    and world literatures become available for reading.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage is an essayistic reflection on literature and education, not
+    a mythic narrative.
+- id: motif:2
+  label: Search for truth
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly describes better understanding of the whereabouts
+    of truth and greater success in the search for it.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The search is philosophical and cultural rather than an enacted quest
+    by a mythic figure.
+- id: motif:3
+  label: Revival from the past
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage speaks of seeds of revival and renaissance in the future and
+    rejects the idea that literature will die out.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: low
+  cautions: The death-and-rebirth association is metaphorical and applied to literature,
+    not to a deity, hero, or ritual cycle.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1389-1392
+  quote_or_summary: Great writers of ancient and modern times will remain to furnish
+    educational materials for coming generations.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1392-1396
+  quote_or_summary: Every nation now communicates with every other, widening human
+    thoughts and preventing confinement to a province or island.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1396-1397
+  quote_or_summary: "“The East will provide elements of culture to the West as well
+    as the West to the East.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: lines 1397-1399
+  quote_or_summary: "“The religions and literatures of the world will be open books”
+    to those who will read them."
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 1399-1401
+  quote_or_summary: The human race may have greater leisure for improvement of the
+    mind instead of being ground down by bodily toil.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1401-1403
+  quote_or_summary: A growing sense of nature’s greatness and infinity may awaken
+    larger and more liberal thoughts.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1404-1407
+  quote_or_summary: Greater freedom from prejudice and party may allow better understanding
+    of truth and more success in the search for it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 1407-1409
+  quote_or_summary: Recollection of the past contains “many seeds of revival and renaissance
+    in the future.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:9
+  type: summary
+  locator: lines 1409
+  quote_or_summary: The passage says the world is not exhausted and the fear that
+    literature will die out is groundless.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is a literary-philosophical introduction rather than a mythic episode.
+    No comparison claims were made because the passage itself does not support a specific
+    cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Passage concerns cultural transmission, global communication, mental improvement, truth-seeking, and literary revival; mythic motif tagging should be treated cautiously.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-phaedrus-jowett-gutenberg__l1389-l1409
+  passage_sha256=efded4113db102579f2eb2a23b3bfd89e4412846266c0511f25ab13b7c8137d1
+

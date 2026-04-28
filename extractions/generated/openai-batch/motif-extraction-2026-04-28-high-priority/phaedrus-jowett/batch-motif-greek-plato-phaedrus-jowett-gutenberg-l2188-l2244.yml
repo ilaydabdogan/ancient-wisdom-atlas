@@ -1,0 +1,442 @@
+---
+record_id: batch.motif.greek-plato-phaedrus-jowett-gutenberg-l2188-l2244
+source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+passage_locator:
+  label: PHAEDRUS / INTRODUCTION. / ON THE DECLINE OF GREEK LITERATURE. / PHAEDRUS;
+    lines 2188-2244
+  start: '2188'
+  end: '2244'
+  translation: Phaedrus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The speaker argues that inspired love is a divine blessing, then introduces
+    a proof of the soul's immortality based on self-motion. The soul is described
+    figuratively as a charioteer with a pair of winged horses; divine teams are noble,
+    while the human team is mixed. A perfect winged soul rises through heaven and
+    orders the world, while an imperfect soul loses its wings, falls to earth, and
+    joins with a body as a mortal living creature.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says that inspired love is sent by the gods and is the greatest
+    of heaven's blessings.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker proposes to examine the affections and actions of the divine and
+    human soul.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage argues that what is self-moving is immortal, unbegotten, indestructible,
+    and the beginning of motion.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The soul is identified with self-motion and therefore described as necessarily
+    unbegotten and immortal.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The nature of the soul is presented in a figure composed of a pair of winged
+    horses and a charioteer.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The winged horses and charioteers of the gods are described as noble and of
+    noble descent.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The human charioteer drives a pair in which one horse is noble and the other
+    ignoble, making the driving troublesome.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The soul is said to care for inanimate being everywhere and to traverse the
+    whole heaven in various forms.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: When perfect and fully winged, the soul soars upward and orders the whole
+    world.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: When imperfect, the soul loses its wings, droops in flight, settles on the
+    solid ground, and receives an earthly frame.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The composition of soul and body is called a living and mortal creature.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the soul
+  description: A self-moving, immortal principle later described through the figure
+    of a charioteer and winged horses.
+  role_refs:
+  - role:2
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the gods
+  description: Divine beings said to send love and to possess noble winged horses
+    and charioteers.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: lover
+  description: One of the human parties said to receive possible good from love sent
+    by the gods.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: beloved
+  description: One of the human parties said to receive possible good from love sent
+    by the gods.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: charioteer
+  description: A figure used in the account of the soul; the human charioteer drives
+    a mixed pair of horses.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: pair of winged horses
+  description: A paired set of horses in the figure of the soul; divine horses are
+    noble, while the human pair is mixed, one noble and one ignoble.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: living and mortal creature
+  description: The composition of soul and earthly body after the imperfect soul settles
+    on the ground and receives an earthly frame.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: sender of love
+  assigned_to:
+  - fig:2
+  basis: Love is described as sent by the gods for possible good to lover or beloved.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: immortal self-mover
+  assigned_to:
+  - fig:1
+  basis: The soul is identified with self-motion and therefore with immortality and
+    unbegottenness.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine possessor of noble chariot team
+  assigned_to:
+  - fig:2
+  basis: The gods' winged horses and charioteers are described as noble and of noble
+    descent.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recipient of divine love's possible good
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage challenges an opponent to show that love is not sent by the gods
+    for any good to lover or beloved.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: driver in the soul figure
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The soul is figured as a charioteer with a pair of winged horses, and the
+    human charioteer drives the pair.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: winged soul-team
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: The soul's nature is described in a composite figure of winged horses and
+    charioteer.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: mixed noble and ignoble pair
+  assigned_to:
+  - fig:6
+  basis: The human pair contains one noble horse and one ignoble horse.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: mortal embodiment
+  assigned_to:
+  - fig:7
+  basis: The union of soul and body is called a living and mortal creature.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: chariot team of the soul
+  literal_form: a pair of winged horses and a charioteer
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: wings of the soul
+  literal_form: wings that allow upward flight and whose loss leads to descent
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: mixed pair of horses
+  literal_form: one noble horse and one ignoble horse in the human team
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: upward flight through heaven
+  literal_form: the perfect, fully winged soul soaring upward
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: fall to solid ground
+  literal_form: the imperfect soul losing wings, drooping in flight, and settling
+    on solid ground
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: earthly frame
+  literal_form: the body received by the fallen soul
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Defense of inspired love
+  summary: The speaker says that inspired love is a divine blessing and challenges
+    the opposing preference for a merely temperate friend.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Proof of the soul's immortality
+  summary: The passage argues from self-motion to the soul's immortality, unbegottenness,
+    and indestructibility.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Figure of the charioteer and winged horses
+  summary: The soul's nature is described through a composite image of a charioteer
+    and two winged horses, with divine teams noble and human teams mixed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Ascent and fall of the winged soul
+  summary: The perfect winged soul rises through heaven and orders the world, while
+    the imperfect soul loses its wings, falls to earth, and receives an earthly body.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divinely inspired love as blessing
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage says love is sent by the gods and calls the madness of love the
+    greatest of heaven's blessings.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is philosophical argument rather than narrative myth; the
+    taxonomy link is based on divine love language, not on a full beloved-deity episode.
+- id: motif:2
+  label: immortal self-moving soul
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents a doctrinal proof that the self-moving soul is immortal,
+    unbegotten, and indestructible.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The motif is abstract and philosophical; the wisdom taxonomy fit is broad.
+- id: motif:3
+  label: soul as charioteer with opposed horses
+  taxonomy_refs:
+  - duality
+  basis: The human chariot team contains one noble and one ignoble horse, creating
+    a divided pair that troubles the driver.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is explicitly introduced as a figure, not as a literal mythic event.
+- id: motif:4
+  label: ascent of the winged soul
+  taxonomy_refs:
+  - ascent
+  basis: The perfect and fully winged soul is described as soaring upward and traversing
+    heaven.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The ascent is part of a philosophical image of soul rather than a narrated
+    journey of a named hero.
+- id: motif:5
+  label: loss of wings and embodiment on earth
+  taxonomy_refs: []
+  basis: The imperfect soul loses its wings, descends to solid ground, receives an
+    earthly frame, and becomes part of a mortal living creature.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family exactly matches this embodiment pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2188-2199
+  quote_or_summary: The speaker defends inspired madness and says love is sent by
+    the gods for good to lover or beloved; the madness of love is called the greatest
+    of heaven's blessings.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2200-2224
+  quote_or_summary: The passage argues that what is ever self-moving is immortal,
+    unbegotten, indestructible, and the beginning of motion; the soul is identified
+    with this self-moving nature.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2225-2234
+  quote_or_summary: The soul's nature is presented in a figure of a charioteer and
+    a pair of winged horses; divine teams are noble, while the human team contains
+    one noble and one ignoble horse.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2235-2241
+  quote_or_summary: The soul traverses heaven; when perfect and winged it soars upward
+    and orders the world, while when imperfect it loses its wings, droops, settles
+    on the ground, and receives an earthly frame.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2241-2244
+  quote_or_summary: The union of soul and body is called a living and mortal creature;
+    the passage then turns to the reason why the soul loses its wings.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the passage explicitly states the philosophical
+    claims and figures. Motif taxonomy assignments are cautious because the passage
+    is allegorical and philosophical rather than a mythic narrative. No comparison
+    claims were added because the supplied passage does not itself establish an external
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy references are limited to supplied available motif families; no external parallels are asserted.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-phaedrus-jowett-gutenberg__l2188-l2244
+  passage_sha256=174d15a026753867fffa56d7525ce52302239780ccef4983a745f001d92cd28d
+

@@ -1,0 +1,506 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l5271-l5317
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK X / AEOLUS, THE LAESTRYGONES, CIRCE. / BOOK XI / THE VISIT TO THE DEAD.88;
+    lines 5271-5317
+  start: '5271'
+  end: '5317'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Odysseus recounts seeing Tantalus and Sisyphus undergoing punishments among
+    the dead, then seeing the phantom of Hercules, who speaks of his earthly sufferings
+    and his labor of fetching the hell-hound from Hades with divine help. Odysseus
+    remains in hope of seeing other famous dead, but flees when crowds of ghosts frighten
+    him and he fears Proserpine may send the Gorgon's head. He returns to his ship
+    and departs on Oceanus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Tantalus stands in a lake reaching his chin, but the water disappears whenever
+    he stoops to drink.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fruit trees hang over Tantalus, but their branches are blown back when he
+    reaches for the fruit.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Sisyphus repeatedly pushes a large stone uphill; when it nearly reaches the
+    top, it rolls back down.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Hercules appears as a phantom, while the narration says he feasts with the
+    immortal gods and has Hebe as wife.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Ghosts scream around Hercules, who holds a bow and arrow and wears a golden
+    belt decorated with animals and scenes of war, battle, and death.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Hercules recognizes Ulysses and speaks to him about suffering, bondage, labors,
+    and fetching the hell-hound from Hades with help from Mercury and Minerva.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Ulysses stays in Hades hoping to see other mighty dead, including Theseus
+    and Pirithous.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Large numbers of ghosts gather and cry out, causing Ulysses to fear that Proserpine
+    might send up the Gorgon's head.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Ulysses returns to his ship, orders his men aboard, and the ship departs down
+    the river Oceanus.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Tantalus
+  description: A dead figure seen undergoing thirst and deprivation beside unreachable
+    water and fruit.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Sisyphus
+  description: A dead figure engaged in the endless task of pushing a stone uphill
+    only for it to roll back down.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Hercules
+  description: A mighty figure seen as a phantom in Hades, armed with bow and arrow,
+    while also described as feasting with the immortal gods.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Ulysses
+  description: The narrator and underworld visitor who sees the dead, speaks with
+    Hercules, becomes frightened, and returns to his ship.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: ghosts
+  description: Crowds of dead spirits who scream around Hercules and later gather
+    around Ulysses with appalling cries.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:6
+  name_or_label: Hebe
+  description: Named as Hercules' wife, daughter of Jove and Juno.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Mercury and Minerva
+  description: Named by Hercules as helpers when he brought the hell-hound out of
+    Hades.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Proserpine
+  description: Feared by Ulysses as one who might send the Gorgon's head from the
+    house of Hades.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: Gorgon
+  description: An awful monster whose head Ulysses fears may be sent up from Hades.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: Ulysses' men
+  description: The men ordered by Ulysses to board the ship and loose the hawsers.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: punished deprived figure
+  assigned_to:
+  - fig:1
+  basis: Tantalus is unable to drink or take fruit despite standing near both.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: endless-task sufferer
+  assigned_to:
+  - fig:2
+  basis: Sisyphus repeatedly pushes the stone uphill and must begin again when it
+    rolls down.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: phantom hero in Hades
+  assigned_to:
+  - fig:3
+  basis: Hercules is seen as a phantom among the dead.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: labor-performing hero
+  assigned_to:
+  - fig:3
+  basis: Hercules describes being assigned labors, including fetching the hell-hound
+    from Hades.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: underworld visitor and narrator
+  assigned_to:
+  - fig:4
+  basis: Ulysses observes the dead, remains in Hades, and then returns to his ship.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:6
+  label: crowd of dead spirits
+  assigned_to:
+  - fig:5
+  basis: The ghosts scream around Hercules and gather around Ulysses.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:7
+  label: divine helpers
+  assigned_to:
+  - fig:7
+  basis: Hercules says Mercury and Minerva helped him bring the hound out of Hades.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: feared underworld power
+  assigned_to:
+  - fig:8
+  basis: Ulysses fears Proserpine may send up the Gorgon's head from Hades.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: monstrous threat
+  assigned_to:
+  - fig:9
+  basis: The Gorgon's head is named as an awful monster feared by Ulysses.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: ship crew
+  assigned_to:
+  - fig:10
+  basis: They board the ship and take their places after Ulysses orders them aboard.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: unreachable water
+  literal_form: lake water that vanishes when Tantalus stoops to drink
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: unreachable fruit trees
+  literal_form: trees bearing pears, pomegranates, apples, figs, and olives whose
+    branches are blown away
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: rolling stone
+  literal_form: prodigious stone pushed uphill by Sisyphus and rolling back down
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: bow and arrow
+  literal_form: bare bow and arrow on the string in Hercules' hands
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: golden belt of beasts and violence
+  literal_form: golden belt adorned with bears, wild boars, lions, war, battle, and
+    death
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: hell-hound
+  literal_form: hound fetched from Hades by Hercules
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: Gorgon's head
+  literal_form: head of the awful monster Gorgon feared by Ulysses
+  associated_figures:
+  - fig:4
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: ship on Oceanus
+  literal_form: ship departing down the stream of the river Oceanus
+  associated_figures:
+  - fig:4
+  - fig:10
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Tantalus deprived of water and fruit
+  summary: Ulysses sees Tantalus standing in water and beneath fruit trees, but both
+    water and fruit withdraw whenever he tries to reach them.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sisyphus and the stone
+  summary: Ulysses sees Sisyphus repeatedly pushing a large stone uphill; it rolls
+    back down before he can complete the task.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hercules' phantom speaks in Hades
+  summary: Ulysses sees Hercules' phantom among screaming ghosts; Hercules speaks
+    of his sufferings, labors, descent to fetch the hell-hound, and divine help.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Ulysses flees the dead
+  summary: After Hercules departs, Ulysses waits for other famous dead but is frightened
+    by the gathering ghosts and the feared Gorgon's head, then returns to his ship
+    and leaves on Oceanus.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: journey among the dead
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage is set in Hades among ghosts and famous dead figures, and ends
+    with Ulysses departing by ship on Oceanus.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage is only one segment of the larger underworld visit.
+- id: motif:2
+  label: hero descent to the underworld
+  taxonomy_refs:
+  - hero_descent
+  basis: Ulysses is present in Hades as an observer, and Hercules also recounts being
+    sent there to fetch the hell-hound and bringing it out.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: Ulysses' means of entering Hades is not described in this excerpt; Hercules'
+    descent is reported in speech rather than narrated directly.
+- id: motif:3
+  label: punitive afterlife ordeals
+  taxonomy_refs:
+  - divine_judgment
+  basis: Tantalus and Sisyphus are shown undergoing continuing punishments among the
+    dead; Tantalus' deprivation is attributed to the spite of heaven.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt does not state the crimes or formal judgment that caused the
+    punishments.
+- id: motif:4
+  label: return from the realm of the dead
+  taxonomy_refs:
+  - return
+  basis: Ulysses leaves the gathering ghosts, returns to his ship, and departs down
+    the river Oceanus.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The broader completion of the return journey lies outside the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5271-5276
+  quote_or_summary: Tantalus stands in a lake up to his chin, but whenever he stoops
+    to drink, the water dries up and vanishes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text; concise quotation/summary used.
+- id: ev:2
+  type: quote
+  locator: lines 5276-5281
+  quote_or_summary: Fruit trees over Tantalus bear pears, pomegranates, apples, figs,
+    and olives, but the branches are tossed back when he reaches for them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text; concise quotation/summary used.
+- id: ev:3
+  type: summary
+  locator: lines 5282-5289
+  quote_or_summary: Sisyphus tries with hands and feet to roll a prodigious stone
+    uphill; near the top the stone thunders back down, and he starts again.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5290-5293
+  quote_or_summary: Hercules is seen as a phantom, while the narration says he feasts
+    with the immortal gods and has Hebe as wife.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5293-5301
+  quote_or_summary: Ghosts scream around Hercules; he holds a bow and arrow, appears
+    black as night, and wears a golden belt decorated with animals and scenes of war,
+    battle, and death.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5301-5310
+  quote_or_summary: Hercules recognizes Ulysses and says he suffered many labors,
+    including being sent to Hades to fetch the hell-hound, which he brought out with
+    help from Mercury and Minerva.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5311-5314
+  quote_or_summary: Hercules returns into the house of Hades, while Ulysses remains
+    hoping to see other mighty dead, including Theseus and Pirithous.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text summarized.
+- id: ev:8
+  type: summary
+  locator: lines 5314-5317
+  quote_or_summary: Thousands of ghosts gather with appalling cries, and Ulysses fears
+    Proserpine may send up the Gorgon's head from Hades.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text summarized.
+- id: ev:9
+  type: summary
+  locator: lines 5317-5317
+  quote_or_summary: Ulysses hastens back to his ship, orders his men aboard, and the
+    ship goes down the stream of Oceanus, first rowing and then with a fair wind.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is strongly supported by the passage. Motif assignment
+    uses only available taxonomy refs and remains cautious where the excerpt omits
+    causes of punishment or the larger frame of the underworld journey.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons were added because the passage itself does not explicitly support a specific cross-textual comparison beyond candidate motif classification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l5271-l5317
+  passage_sha256=b36542b5bb624579fba615599a3e4239e78acb50aedcfde320ec0c2d14c0dc8b
+

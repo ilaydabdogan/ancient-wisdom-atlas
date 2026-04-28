@@ -1,0 +1,555 @@
+---
+record_id: batch.motif.greek-plato-phaedrus-jowett-gutenberg-l804-l884
+source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+passage_locator:
+  label: Phaedrus / PHAEDRUS / INTRODUCTION.; lines 804-884
+  start: '804'
+  end: '884'
+  translation: Phaedrus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Jowett’s introduction comments on Plato’s mythic image of charioteers and
+    steeds at the dome of heaven, the soul’s return after ten thousand years, former
+    existence, divine attachment, love, philosophical madness, and the allegorical
+    character of the Phaedrus passage. It also compares these themes with other Platonic
+    works and with later religious or literary imagery.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Charioteers and their steeds are described as standing upon the dome of heaven
+    and beholding intangible, invisible essences that are not objects of sight.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that after ten thousand years all are to return to the
+    place from which they came, while also noting that return is represented as dependent
+    on good conduct through successive stages of existence.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Men are distinguished from animals by recognition of the universal, known
+    in a former state, and this gift of reason is said not to be obliterated or lost.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A moral as well as intellectual principle in man is described under the image
+    of an immortal steed.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The philosopher, or philosopher and lover in one, is described as a sort of
+    madman and is compared with portrayals in the Republic and Theaetetus.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Philosophy is represented as the inspiration of love, and this conception
+    is connected with the Symposium.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Love and its associations are explained by reference to a former state of
+    existence, and the capriciousness of love is derived from attachment to some god
+    in a former world.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Different characters of men are explained by referring them back to the nature
+    of the god whom they served in a former state of existence.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The image of the charioteer and his steeds is placed beside absolute forms
+    such as justice and temperance, seen with the eye of the soul in a heavenly journey.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: charioteers and steeds
+  description: Figures standing upon the dome of heaven and later identified as the
+    image of the charioteer and his steeds in the soul’s heavenly journey.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: fig:2
+  name_or_label: men
+  description: Human beings distinguished from animals by recognition of universals
+    known in a former state.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: animals
+  description: Animals are contrasted with men in relation to recognition of the universal.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: philosopher or philosopher-lover
+  description: A figure described as a sort of madman, stranger, or monster upon the
+    earth in comparison with other Platonic works.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: lover
+  description: A figure associated with love as inspiration and with attachment to
+    a god in a former world.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: beloved
+  description: The beloved is said to be more affected than the lover at the final
+    consummation of love.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: god or gods served in a former state
+  description: A divine figure or figures to whom human characters are referred through
+    former service or attachment in a former world.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:8
+  name_or_label: soul
+  description: The soul is discussed as self-moving, possibly human or divine, and
+    as seeing forms with the eye of the soul in a heavenly journey.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: heavenly beholders
+  assigned_to:
+  - fig:1
+  basis: They stand on the dome of heaven and behold invisible essences.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recognizers of universals from a former state
+  assigned_to:
+  - fig:2
+  basis: Men are distinguished by recognition of universals known in a former state.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: inspired outsider
+  assigned_to:
+  - fig:4
+  basis: The philosopher or philosopher-lover is called a sort of madman and compared
+    to a stranger and monster upon earth.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: one inspired by love
+  assigned_to:
+  - fig:5
+  basis: Philosophy is represented as the inspiration of love, and love is explained
+    through former existence.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: affected beloved
+  assigned_to:
+  - fig:6
+  basis: The beloved is said to be more affected than the lover at the final consummation
+    of love.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: former divine attachment or model
+  assigned_to:
+  - fig:7
+  basis: Love and character are linked to attachment to, or service of, a god in a
+    former world or former state.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: heavenly traveler and perceiver
+  assigned_to:
+  - fig:8
+  basis: The soul is associated with self-motion and with seeing forms in a heavenly
+    journey.
+  evidence_refs:
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: charioteer and steeds
+  literal_form: The image of a charioteer with steeds.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: sym:2
+  label: dome of heaven
+  literal_form: The dome of heaven on which the charioteers and steeds stand.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: intangible invisible essences
+  literal_form: Essences that are intangible, invisible, and not objects of sight.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: immortal steed
+  literal_form: An immortal steed used as the image of a moral and intellectual principle
+    in man.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: eye of the soul
+  literal_form: The eye of the soul that sees absolute forms during the heavenly journey.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: veil over mortal knowledge
+  literal_form: A mythological figure described as drawing a veil over things beyond
+    mortal knowledge.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Charioteers at the dome of heaven
+  summary: Charioteers and their steeds stand upon the dome of heaven and behold invisible
+    essences beyond ordinary sight.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Return after successive existence
+  summary: All are said to return after ten thousand years to their place of origin,
+    with return also described as dependent on good conduct in successive stages of
+    existence.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Former-state recognition
+  summary: Human beings are distinguished from animals by recognition of universals
+    known in a former state, and reason is described as not being lost.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Love, former existence, and divine attachment
+  summary: Love is described as philosophic inspiration and is explained by reference
+    to former existence and attachment to a god in a former world.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Soul’s heavenly journey and forms
+  summary: The charioteer-and-steeds image is placed beside absolute forms such as
+    justice and temperance, which are seen with the eye of the soul in a heavenly
+    journey.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Heavenly journey of the soul
+  taxonomy_refs:
+  - ascent
+  - afterlife_journey_map
+  basis: The passage describes a heavenly journey in which the soul, through the image
+    of charioteer and steeds, encounters absolute forms and invisible essences.
+  evidence_refs:
+  - ev:1
+  - ev:9
+  confidence: medium
+  cautions: The passage is an introductory commentary on Plato’s allegory rather than
+    a continuous narrative episode.
+- id: motif:2
+  label: Return to origin after a cosmic cycle
+  taxonomy_refs:
+  - return
+  basis: The passage says that after ten thousand years all return to the place from
+    which they came, though return is also tied to conduct across successive existences.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The commentary notes tension in the details of the return.
+- id: motif:3
+  label: Former existence as source of knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: Recognition of universals known in a former state distinguishes humans from
+    animals, and reason is described as not being lost.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The motif is philosophical and epistemological rather than a narrative
+    quest episode.
+- id: motif:4
+  label: Divine attachment shaping love and character
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage says the capriciousness of love comes from attachment to some
+    god in a former world and that human characters are referred back to the god served
+    in a former state.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy reference is approximate because the passage concerns former
+    divine attachment, not necessarily a deity as beloved in a narrative sense.
+- id: motif:5
+  label: Philosophical madness or inspired lover
+  taxonomy_refs:
+  - mystical_quest
+  - wisdom
+  basis: The philosopher or philosopher-lover is described as a sort of madman, while
+    philosophy is represented as inspired by love.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents this as interpretive commentary and cross-reference
+    within Plato rather than as a standalone mythic scene.
+- id: motif:6
+  label: Allegory veiling what is beyond mortal knowledge
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The passage describes Plato’s mythological figure as drawing a veil over
+    things beyond mortal knowledge and says the whole myth figures things beyond human
+    faculties.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: low
+  cautions: The available taxonomy label is only approximate; the passage emphasizes
+    epistemic limitation rather than a prohibition on knowledge.
+comparison_claims:
+- id: claim:1
+  claim: The philosopher or philosopher-lover as a madman is explicitly compared with
+    the Republic and Theaetetus, where the philosopher is described as a stranger
+    and monster upon earth.
+  claim_level: same_function
+  target: Plato, Republic and Theaetetus portrayals of the philosopher
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives only a brief comparison and does not quote the parallel
+    passages.
+- id: claim:2
+  claim: The representation of philosophy as inspired by love is linked to a conception
+    already familiar from the Symposium.
+  claim_level: same_motif
+  target: 'Plato, Symposium: philosophy and love'
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage characterizes the connection broadly without detailing
+    the Symposium material.
+- id: claim:3
+  claim: The allegorical method is compared with parables and prophecies of Scripture,
+    where meaning breaks through the figure and details may not remain consistent.
+  claim_level: same_function
+  target: Parables and prophecies of Scripture
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is formal and interpretive, not a claim of historical
+    dependence or shared narrative content.
+- id: claim:4
+  claim: The passage compares Plato’s heavenly beauty with visionary beauty said to
+    flash before Dante or Bunyan.
+  claim_level: visual_similarity
+  target: Visionary beauty in Dante or Bunyan
+  evidence_refs:
+  - ev:12
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made by the commentator and remains illustrative
+    rather than a detailed motif parallel.
+- id: claim:5
+  claim: The Phaedrus myth is grouped with other myths of Plato as figurative descriptions
+    of things beyond ordinary human faculties or the knowledge of the age.
+  claim_level: same_function
+  target: Other myths of Plato
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not enumerate the other Platonic myths in this line.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 804-811
+  quote_or_summary: "“the charioteers and their steeds stand upon the dome of heaven”
+    and behold intangible invisible essences not objects of sight."
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 811-815
+  quote_or_summary: At the completion of ten thousand years all return to their place
+    of origin, but the return is also represented as depending on good conduct in
+    successive stages of existence.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 818-823
+  quote_or_summary: Men are distinguished from animals by recognition of the universal
+    known in a former state, and reason cannot be obliterated or lost.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 826-831
+  quote_or_summary: The passage lists a moral as well as intellectual principle in
+    man under the image of an immortal steed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 838-844
+  quote_or_summary: The philosopher, or philosopher and lover together, is described
+    as a sort of madman and compared with the Republic and Theaetetus; the myth is
+    said to describe figuratively things beyond human faculties or inaccessible to
+    the age.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 844-849
+  quote_or_summary: Philosophy is represented as the inspiration of love, a conception
+    connected with the Symposium and with the Greek passion of friendship.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 849-857
+  quote_or_summary: Love’s mystery and associations are explained by reference to
+    a former state of existence; its capriciousness is derived from attachment to
+    some god in a former world; the beloved is said to be more affected than the lover
+    at consummation.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 868-873
+  quote_or_summary: Different human characters are traced to the god served in a former
+    state, perhaps as a mythological figure drawing a veil over matters beyond mortal
+    knowledge.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 879-884
+  quote_or_summary: The image of the charioteer and steeds is placed beside absolute
+    forms such as justice and temperance, seen with the eye of the soul in her heavenly
+    journey.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 858-867
+  quote_or_summary: The passage questions whether the soul discussed is human or divine,
+    whether both are self-moving, and whether the divine soul shares the same threefold
+    principle.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 804-807
+  quote_or_summary: The passage compares the handling of figure and meaning to parables
+    and prophecies of Scripture, where meaning breaks through the figure and details
+    are not always consistent.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 873-877
+  quote_or_summary: The passage contrasts external artistic beauty with an imaginary
+    or heavenly beauty like that which flashed before Dante or Bunyan.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is commentary on Plato’s myth rather than the mythic passage
+    itself, so literal extraction is reliable but motif labeling is interpretive and
+    should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to the provided available taxonomy list.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-phaedrus-jowett-gutenberg__l804-l884
+  passage_sha256=287b27a58efa66ef0ddac9a55900855299974f096e96fdd04221f10edd107574
+

@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l274-l318
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: The Odyssey / PREFACE TO FIRST EDITION; lines 274-318
+  start: '274'
+  end: '318'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The preface argues that the Odyssey consists of two distinct poems: one
+    concerning the Return of Ulysses and his adventures, and another concerning Penelope,
+    the suitors, and Telemachus’ voyage to Pylos. It further discusses editorial changes
+    allegedly made to give the combined poem a semblance of unity, and ends with observations
+    on punctuation and capitalization in a Teubner edition.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the Odyssey consists of two distinct poems.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first poem is identified as The Return of Ulysses and includes the Phaeacian
+    episode and Ulysses’ account of his adventures in Books ix-xii.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The second poem is identified as the story of Penelope and the suitors, with
+    the episode of Telemachus’ voyage to Pylos.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says certain inserted or moved lines and a new council of the
+    gods were used to give the old and new schemes a semblance of unity.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Muse is described as having been asked to sing of one subject but spending
+    much of her time singing a different one.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage comments on commas at the ends of Books ii and iii and on initial
+    capitals in certain books of the Odyssey.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ulysses
+  description: Named as the subject of the Return of Ulysses, the teller of adventures,
+    and the figure who wakes in Book xiii.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Muse
+  description: The Muse is described as being asked to sing in the opening lines and
+    as singing about more than one subject.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Penelope
+  description: Named as part of the second poem’s story, together with the suitors.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Suitors
+  description: Named as figures in the story of Penelope and the suitors.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Telemachus
+  description: Named in connection with a voyage to Pylos.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Preface speaker
+  description: The first-person speaker discusses prior arguments, textual division,
+    and editorial preferences.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: returning figure
+  assigned_to:
+  - fig:1
+  basis: The first poem is called The Return of Ulysses.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: invoked singer
+  assigned_to:
+  - fig:2
+  basis: The Muse is said to be asked to sing in the opening lines and to sing of
+    different subjects.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: subjects of the second poem
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The second poem is described as the story of Penelope and the suitors.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: voyager to Pylos
+  assigned_to:
+  - fig:5
+  basis: The passage refers to the episode of Telemachus’ voyage to Pylos.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: textual commentator
+  assigned_to:
+  - fig:6
+  basis: The speaker explains a theory of the poem’s development and notes editorial
+    punctuation choices.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Division of the Odyssey into two poems
+  summary: The preface speaker states that difficulties disappear if the poem’s development
+    is understood, then divides the Odyssey into two distinct poems.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Return of Ulysses as first poem
+  summary: The first proposed poem is described as The Return of Ulysses, including
+    the Phaeacian episode and Ulysses’ narrated adventures.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Penelope, suitors, and Telemachus as second poem
+  summary: The second proposed poem concerns Penelope and the suitors and includes
+    Telemachus’ voyage to Pylos, resuming when Ulysses wakes in Book xiii.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Semblance of unity between old and new schemes
+  summary: The passage quotes an earlier claim that additions and rearrangements created
+    only a semblance of unity between the old and new schemes, with the Muse singing
+    largely about a subject not requested.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Editorial punctuation and capitalization note
+  summary: The preface speaker discusses commas, stops, and initial capitals in an
+    edition of the Odyssey, explaining a conservative editorial preference.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Return of Ulysses
+  taxonomy_refs:
+  - return
+  basis: The passage explicitly identifies one component poem as The Return of Ulysses.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is a critical preface about textual structure, not a direct
+    narration of the return episode.
+- id: motif:2
+  label: Voyage to Pylos
+  taxonomy_refs: []
+  basis: The passage explicitly names the episode of Telemachus’ voyage to Pylos.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only the existence of the voyage episode is mentioned; no narrative details
+    are provided in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 274-282
+  quote_or_summary: The speaker says difficulties disappear once the poem’s development
+    is understood and states that the Odyssey consists of two distinct poems.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 280-288
+  quote_or_summary: The first poem is called The Return of Ulysses; the Muse is asked
+    to sing it, and it includes the Phaeacian episode and Ulysses’ account of adventures
+    in Books ix-xii.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 290-296
+  quote_or_summary: The second poem is the story of Penelope and the suitors, with
+    Telemachus’ voyage to Pylos, and resumes when Ulysses wakes in Book xiii.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 298-309
+  quote_or_summary: The quoted argument says added lines, a new council of the gods,
+    and rearrangement gave a semblance of unity while the Muse, asked to sing one
+    subject, sings largely another; the Return occupies roughly eight books and Penelope
+    and the suitors sixteen.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 313-318
+  quote_or_summary: The speaker discusses the Teubner edition’s commas at the ends
+    of Books ii and iii, the late date of stops, and unexplained initial capitals
+    in certain books.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on explicit statements in a critical preface. Motif candidates
+    are limited because the passage discusses textual structure rather than narrating
+    mythic events. No comparison claims are made because the passage does not support
+    cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbols are assigned; the passage contains textual and editorial discussion rather than concrete symbolic imagery.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l274-l318
+  passage_sha256=04b24d2a13be157c2bf423769ddb0f657c8013e361fc60e8bfddff4860c9ba61
+

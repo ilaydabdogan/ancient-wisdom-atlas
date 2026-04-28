@@ -1,0 +1,523 @@
+---
+record_id: batch.motif.greek-plato-symposium-jowett-gutenberg-l999-l1123
+source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+passage_locator:
+  label: Symposium / SYMPOSIUM / INTRODUCTION. / SYMPOSIUM; lines 999-1123
+  start: '999'
+  end: '1123'
+  translation: Symposium
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage opens the dialogue frame: Apollodorus is asked to recount
+    speeches about love delivered at Agathon’s supper. He explains that he heard the
+    account from Aristodemus and checked parts with Socrates. The frame then shifts
+    to Aristodemus meeting Socrates, who is unusually bathed and sandalled before
+    going to Agathon’s banquet, and Socrates invites Aristodemus to come unasked while
+    joking with a proverb and a Homeric example.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The persons of the dialogue are listed, and the scene is given as the House
+    of Agathon.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Apollodorus is asked to provide an account of speeches in praise of love delivered
+    by Socrates, Alcibiades, and others at Agathon’s supper.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Apollodorus says the meeting occurred in their boyhood, when Agathon won the
+    prize with his first tragedy, after Agathon and his chorus offered a sacrifice
+    of victory.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Apollodorus says Aristodemus was present at Agathon’s feast, that Aristodemus
+    was a devoted admirer of Socrates, and that Socrates confirmed some parts of Aristodemus’s
+    narrative.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Apollodorus and his companion walk toward Athens while speaking about the
+    discourses on love.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Apollodorus says speaking or hearing about philosophy gives him great pleasure
+    and profit.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The companion says Apollodorus is known as Apollodorus the madman and is always
+    raging against himself and everybody except Socrates.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Aristodemus meets Socrates fresh from the bath and wearing sandals, which
+    is described as unusual.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Socrates says he is going to a banquet at Agathon’s and has dressed finely
+    because Agathon is a fine man.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Socrates invites Aristodemus to go with him unasked to Agathon’s banquet.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Socrates proposes altering a proverb about unbidden guests at feasts and supports
+    the alteration by citing Homer’s depiction of Menelaus coming unbidden to Agamemnon’s
+    banquet.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Apollodorus
+  description: A speaker who repeats a dialogue he heard from Aristodemus and had
+    already narrated to Glaucon; he presents himself as prepared to recount the speeches
+    on love.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Companion / Glaucon
+  description: The requester who asks Apollodorus to repeat the conversation about
+    the speeches on love.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Aristodemus
+  description: A shoeless man from Cydathenaeum who was at Agathon’s feast and is
+    described as a devoted admirer of Socrates.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Socrates
+  description: A participant in the speeches on love; he confirms parts of Aristodemus’s
+    narrative and is later met bathed and sandalled on the way to Agathon’s banquet.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Agathon
+  description: The host of the supper and banquet; he has won a prize with his first
+    tragedy and offered a sacrifice of victory with his chorus.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:6
+  name_or_label: Phoenix, son of Philip
+  description: An intermediary who told another person about the speeches before Apollodorus
+    is asked for a clearer account.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Menelaus
+  description: A Homeric figure cited by Socrates as coming unbidden to Agamemnon’s
+    banquet.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Agamemnon
+  description: A Homeric figure cited by Socrates as host of a banquet while feasting
+    and offering sacrifices.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: Frame narrator
+  assigned_to:
+  - fig:1
+  basis: Apollodorus says he can comply with the request and rehearse the account
+    he received.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: Devotee of philosophical speech
+  assigned_to:
+  - fig:1
+  basis: He says speaking or hearing philosophy gives him the greatest pleasure and
+    profit.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: Requester of the account
+  assigned_to:
+  - fig:2
+  basis: The companion asks Apollodorus to repeat the conversation about the speeches
+    on love.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:4
+  label: Eyewitness source
+  assigned_to:
+  - fig:3
+  basis: Aristodemus is said to have been at Agathon’s feast and to have supplied
+    the account.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Philosophical authority checked by narrator
+  assigned_to:
+  - fig:4
+  basis: Apollodorus says he asked Socrates about parts of Aristodemus’s narrative
+    and Socrates confirmed them.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Inviter of unbidden guest
+  assigned_to:
+  - fig:4
+  basis: Socrates asks Aristodemus whether he will go with him unasked to Agathon’s
+    banquet.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: Victorious host
+  assigned_to:
+  - fig:5
+  basis: Agathon has won the prize with his first tragedy and hosts the supper or
+    banquet.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: role:8
+  label: Intermediary informant
+  assigned_to:
+  - fig:6
+  basis: Phoenix is named as someone who told another person about the speeches.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: Homeric unbidden guest
+  assigned_to:
+  - fig:7
+  basis: Socrates cites Menelaus as coming unbidden to Agamemnon’s banquet.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: Homeric banquet host
+  assigned_to:
+  - fig:8
+  basis: Socrates cites Agamemnon as feasting and offering sacrifices when Menelaus
+    comes unbidden.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: House of Agathon
+  literal_form: house
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Road to Athens
+  literal_form: road
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Victory sacrifice
+  literal_form: sacrifice
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Sandals
+  literal_form: sandals
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Banquet or feast
+  literal_form: banquet / feast
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Dialogue frame and setting
+  summary: The passage names the dialogue participants and locates the scene at Agathon’s
+    house.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Request for the speeches on love
+  summary: A companion asks Apollodorus to recount the speeches in praise of love
+    from Agathon’s supper, after hearing an indistinct report through others.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Narrative chain and philosophical walk
+  summary: Apollodorus explains that Aristodemus was the eyewitness source, that Socrates
+    confirmed parts, and that the road to Athens provides occasion for philosophical
+    conversation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Socrates invites Aristodemus to Agathon’s banquet
+  summary: Aristodemus meets Socrates freshly bathed and sandalled; Socrates says
+    he is going to Agathon’s banquet and invites Aristodemus to accompany him without
+    an invitation.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Proverb and Homeric banquet analogy
+  summary: Socrates jokes about changing a proverb concerning unbidden guests and
+    cites Menelaus coming unbidden to Agamemnon’s sacrificial banquet in Homer.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Transmission of a revered discourse through a chain of narrators
+  taxonomy_refs:
+  - wisdom
+  basis: The passage emphasizes that Apollodorus heard the account from Aristodemus,
+    checked parts with Socrates, and is asked to rehearse speeches concerning love
+    and philosophy.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is a literary dialogue frame rather than a mythic revelation
+    narrative; the taxonomy reference is broad.
+- id: motif:2
+  label: Philosophical conversation on the road
+  taxonomy_refs:
+  - wisdom
+  basis: Apollodorus and his companion walk toward Athens while discussing the speeches
+    on love, and Apollodorus praises the pleasure and profit of philosophical speech.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The road functions as a conversational setting; no explicit initiation
+    or journey symbolism is stated.
+- id: motif:3
+  label: Victory sacrifice followed by feast
+  taxonomy_refs:
+  - sacrifice
+  basis: Agathon’s victory with his first tragedy is associated with a sacrifice of
+    victory and the later feast or banquet at his house.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The sacrifice is mentioned as background and is not narrated in detail.
+- id: motif:4
+  label: Unbidden guest at a feast
+  taxonomy_refs: []
+  basis: Socrates invites Aristodemus to go unasked to Agathon’s banquet and explicitly
+    discusses proverbial and Homeric precedents for unbidden attendance at a feast.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No available taxonomy reference directly matches this motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Socrates and Aristodemus going unbidden to
+    Agathon’s banquet with the Homeric example of Menelaus coming unbidden to Agamemnon’s
+    banquet.
+  claim_level: same_function
+  target: 'Homeric banquet episode cited as Iliad: Menelaus unbidden at Agamemnon’s
+    feast'
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is made as a playful literary analogy inside the dialogue;
+    it does not by itself establish a broader mythic equivalence.
+- id: claim:2
+  claim: The passage sets the proposed unbidden attendance beside a proverbial pattern
+    about good or inferior men going unbidden to feasts.
+  claim_level: same_motif
+  target: Proverbial unbidden guest at feast pattern
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The proverb is quoted and altered in jest, and the exact proverb tradition
+    is not further documented in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 999-1005
+  quote_or_summary: The dramatis personae are listed, and the scene is identified
+    as the House of Agathon.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1006-1024
+  quote_or_summary: Apollodorus is stopped and asked for an account of speeches in
+    praise of love delivered by Socrates, Alcibiades, and others at Agathon’s supper;
+    Phoenix is mentioned as part of an indistinct report.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1040-1048
+  quote_or_summary: Apollodorus says the meeting was long ago, when Agathon won a
+    prize with his first tragedy, on the day after Agathon and his chorus offered
+    the sacrifice of victory.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1049-1058
+  quote_or_summary: Apollodorus identifies Aristodemus as the source, says he was
+    present at Agathon’s feast and admired Socrates, and says Socrates confirmed some
+    parts of the narrative.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1058-1074
+  quote_or_summary: Glaucon says the road to Athens is made for conversation; Apollodorus
+    says they walked and talked of the discourses on love, and that speaking or hearing
+    philosophy gives him pleasure and profit.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1075-1089
+  quote_or_summary: The companion calls Apollodorus the same as ever, says he speaks
+    evil of himself and others, and refers to his name as Apollodorus the madman;
+    Apollodorus answers that his notions of himself and others are why he is thought
+    mad.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1094-1109
+  quote_or_summary: Aristodemus meets Socrates fresh from the bath and wearing unusual
+    sandals; Socrates says he is going to Agathon’s banquet, has dressed finely for
+    Agathon, and asks Aristodemus to come with him unasked.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1110-1123
+  quote_or_summary: Socrates jokes about altering a proverb concerning the good going
+    unbidden to feasts and cites Homer’s Menelaus coming unbidden to Agamemnon’s banquet
+    while Agamemnon feasts and offers sacrifices.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The frame narrative, figures, and Homeric comparison are explicit. Motif
+    labels are cautious because the passage is primarily introductory dialogue framing
+    rather than a full mythic episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available refs and used only where broadly supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-symposium-jowett-gutenberg__l999-l1123
+  passage_sha256=5f41fdbb16a32560bd07949ff4f9c157b2672aaf4f8b36082c0d30fa858629fc
+

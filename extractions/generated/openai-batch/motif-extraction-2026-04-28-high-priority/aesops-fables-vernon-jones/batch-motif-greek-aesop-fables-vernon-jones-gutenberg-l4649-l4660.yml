@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4649-l4660
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE SNAKE AND JUPITER / THE WOLF AND HIS SHADOW / THE PLOUGHMAN AND THE WOLF
+    / MERCURY AND THE MAN BITTEN BY AN ANT; lines 4649-4660
+  start: '4649'
+  end: '4660'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A man sees a ship sink with its crew and accuses the gods of injustice
+    for letting good and bad people die together. After an ant bites his foot, he
+    angrily crushes many ants at an ant-heap. Mercury appears, beats him with his
+    staff, and asks where his sense of justice has gone.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man sees a ship go down with all its crew.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man says the gods do not care about a man's character and let good and
+    bad people die together.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An ant-heap is close to where the man is standing.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: An ant bites the man in the foot.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The man stamps on the ant-heap and crushes hundreds of ants described as unoffending.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Mercury appears suddenly and beats the man with his staff.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Mercury calls the man a villain and asks where his sense of justice is now.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Man bitten by an ant
+  description: A man who criticizes divine injustice, is bitten by an ant, and then
+    crushes many ants.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Ship's crew
+  description: The crew of a ship that goes down together.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: The gods
+  description: Divine beings accused by the man of caring nothing for human character.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Ant
+  description: An ant that bites the man in the foot.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Ants at the ant-heap
+  description: Hundreds of ants crushed by the man after he is bitten by one ant.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Mercury
+  description: A divine figure who appears suddenly, beats the man with a staff, and
+    rebukes him.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: critic of divine justice
+  assigned_to:
+  - fig:1
+  basis: The man comments severely on the injustice of the gods after seeing the ship
+    sink.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: perpetrator of disproportionate retaliation
+  assigned_to:
+  - fig:1
+  basis: After one ant bites him, the man crushes hundreds of ants.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: collective victims of shipwreck
+  assigned_to:
+  - fig:2
+  basis: The ship goes down with all its crew.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: accused divine powers
+  assigned_to:
+  - fig:3
+  basis: The man says the gods let good and bad people die together.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: single biting animal
+  assigned_to:
+  - fig:4
+  basis: One ant bites the man in the foot.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: collective innocent victims
+  assigned_to:
+  - fig:5
+  basis: The ants are called unoffending and are crushed in large numbers.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: divine rebuker
+  assigned_to:
+  - fig:6
+  basis: Mercury appears and challenges the man's sense of justice.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: punisher with staff
+  assigned_to:
+  - fig:6
+  basis: Mercury belabours the man with his staff.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: shipwreck
+  literal_form: ship going down with all its crew
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ant-heap
+  literal_form: ant-heap near the man
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: staff
+  literal_form: Mercury's staff used to beat the man
+  associated_figures:
+  - fig:6
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Shipwreck and complaint against the gods
+  summary: The man watches a ship sink with its whole crew and says the gods unjustly
+    let good and bad people die together.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ant bite and destruction of the ant-heap
+  summary: An ant bites the man's foot, and the man angrily stamps on the ant-heap,
+    crushing many ants.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Mercury's rebuke
+  summary: Mercury appears, beats the man with a staff, and asks where his sense of
+    justice is now.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine rebuke of human hypocrisy
+  taxonomy_refs:
+  - divine_judgment
+  - wisdom
+  basis: Mercury punishes and questions the man after the man condemns divine injustice
+    but himself destroys many unoffending ants for the act of one.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents a fable-style moral episode rather than an explicit
+    doctrinal account of divine judgment.
+- id: motif:2
+  label: collective punishment after an individual offense
+  taxonomy_refs:
+  - wisdom
+  basis: The man criticizes collective death in the shipwreck, then responds to one
+    ant's bite by crushing hundreds of ants.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The motif is inferred from the parallel actions inside the passage; no
+    external taxonomy ID beyond the broad wisdom family is supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4649-4660
+  quote_or_summary: A man sees a ship go down with all its crew.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 4649-4660
+  quote_or_summary: "“They care nothing for a man's character,” said he, “but let
+    the good and the bad go to their deaths together.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 4649-4660
+  quote_or_summary: An ant-heap is nearby, and an ant bites the man in the foot just
+    as he speaks.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 4649-4660
+  quote_or_summary: The man angrily stamps on the ant-heap and crushes hundreds of
+    unoffending ants.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: lines 4649-4660
+  quote_or_summary: Mercury appeared, belaboured him with his staff, and said, “You
+    villain, where's your nice sense of justice now?”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence and figures are clear in the supplied passage. Motif
+    labels are interpretive and kept broad. No passage-supported cross-text comparison
+    claim is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No external comparisons were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4649-l4660
+  passage_sha256=ba8b3a3e4c95b1e2e2cc828cde738c506cb33fd8d1866ce6c44f598592caf594
+

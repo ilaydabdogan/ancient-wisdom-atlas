@@ -1,0 +1,512 @@
+---
+record_id: batch.motif.greek-plato-symposium-jowett-gutenberg-l677-l763
+source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+passage_locator:
+  label: Symposium / SYMPOSIUM / INTRODUCTION.; lines 677-763
+  start: '677'
+  end: '763'
+  translation: Symposium
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes Jowett's interpretation of the speeches on Love
+    in Plato's Symposium, especially Socrates' use of Diotima's teaching. It presents
+    Love as lack, desire, philosophical aspiration, and an ascent from earthly beauty
+    toward eternal beauty, knowledge, and the union of spiritual and bodily dimensions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The earlier speeches are described as common opinions with some philosophy,
+    providing material for Socrates' discourse.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Socrates' speech is said to take the form of a dialogue between Socrates and
+    a mysterious foreign woman.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says Socrates argues that Love is not itself a good because love
+    desires the good, and no one desires what he already has.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The argument about Love is ascribed to Diotima, who is said to have previously
+    urged it upon Socrates.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Diotima is called the prophetess of Mantineia and is described as sacred and
+    superhuman in character.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Diotima is said to teach Socrates that love is another aspect of philosophy.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage describes a human want that may be satisfied by physical procreation
+    or transformed into intellectual desire.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage compares Plato's absorption of loves into knowledge with Christian,
+    medieval, and Dantean expressions of divine or human love.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Reason and passion are described as appearing antagonistic, while the Symposium
+    is said to take the 'passion of the reason' as its theme.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage describes a higher region where love is satisfied in perfect beauty
+    and eternal knowledge.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The ascent is described as beginning with earthly or visible beauty and reaching
+    a beauty in which all existence is harmonious and one.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The passage uses images of a highest summit, a way upward and downward, and
+    a ladder reaching to heaven.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: The passage says the idea is seen under one aspect as love and under another
+    as truth.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:14
+  text: The passage describes a mystery involving union of spiritual and fleshly elements
+    and interpenetration of moral and intellectual faculties.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Speaker whose discourse is formed from earlier speeches and who presents
+    Diotima's teaching about Love.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Diotima of Mantineia
+  description: A mysterious foreign woman and prophetess who teaches Socrates about
+    the art and mystery of love.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Love
+  description: The subject of the speeches, described as desiring the good and as
+    related to philosophy, beauty, and knowledge.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Earlier speakers
+  description: Phaedrus, Pausanias, Eryximachus, Aristophanes, and Agathon are named
+    as prior speakers whose ideas Socrates uses or overturns.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Plato
+  description: The authorial figure whom the passage presents as directing other loves
+    and desires toward the love of knowledge.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:6
+  name_or_label: Lover of wisdom
+  description: A generalized figure described as a spectator of all time and all existence.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: dialectical speaker
+  assigned_to:
+  - fig:1
+  basis: Socrates' discourse is formed from earlier material and contains an argument
+    about Love.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: recipient of Diotima's teaching
+  assigned_to:
+  - fig:1
+  basis: Diotima is said to have taught Socrates more about the art and mystery of
+    love.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: prophetic teacher
+  assigned_to:
+  - fig:2
+  basis: Diotima is called a prophetess and is described as teaching Socrates about
+    Love.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: object of inquiry and desire
+  assigned_to:
+  - fig:3
+  basis: The passage treats Love as the subject of praise, argument, and philosophical
+    teaching.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:5
+  label: prior contributors to discourse
+  assigned_to:
+  - fig:4
+  basis: The earlier speakers furnish material for Socrates and are also said to be
+    overturned by his argument.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: philosophical interpreter of love
+  assigned_to:
+  - fig:5
+  basis: The passage says Plato would have readers absorb other loves and desires
+    in the love of knowledge.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: spectator of all time and existence
+  assigned_to:
+  - fig:6
+  basis: The lover of wisdom is explicitly described with this phrase near the end
+    of the passage.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: personified Love
+  literal_form: Love treated as a figure praised, examined, and said to desire the
+    good
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: ladder to heaven
+  literal_form: a 'ladder reaching to heaven' by which one passes from visible beauty
+    and hypotheses toward the eternal
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: highest summit
+  literal_form: the highest summit reached in the Symposium and compared with that
+    reached in the Republic
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: light of truth and warmth of desire
+  literal_form: the paired image of truth as light and desire as warmth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: vision of the eternal
+  literal_form: beholding the vision of the eternal after passing from concrete to
+    abstract
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Socrates gathers and redirects earlier speeches
+  summary: The passage explains how Socrates' discourse begins from mythology and
+    common opinions voiced by the preceding speakers.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Diotima's argument about Love as lack
+  summary: Socrates' argument, attributed to Diotima, states that Love is not a good
+    because Love desires the good and desire concerns what is lacking.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Diotima teaches the mystery of love
+  summary: Diotima is described as teaching Socrates that love is linked with philosophy
+    and that human desire can rise from procreation to intellectual aspiration.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Reason and passion are joined
+  summary: The passage describes the apparent opposition of reason and passion and
+    presents the Symposium as exploring their intense union.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Ascent to eternal beauty and knowledge
+  summary: Love is described as moving from earthly beauty toward eternal knowledge,
+    using images of a higher region, summit, upward and downward path, and ladder
+    to heaven.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ascent from visible beauty to eternal knowledge
+  taxonomy_refs:
+  - ascent
+  - wisdom
+  - mystical_quest
+  basis: The passage describes a progression from earthly or visible beauty through
+    abstract thought to a vision of the eternal and perfect beauty.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is presented in philosophical and interpretive language rather than
+    as a narrative myth episode.
+- id: motif:2
+  label: love as lack transformed into philosophical desire
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: Love is described as desire for the good one lacks, and Diotima's teaching
+    transforms human want into intellectual aspiration.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The motif is conceptual rather than attached to a concrete mythic action.
+- id: motif:3
+  label: union of reason and passion
+  taxonomy_refs:
+  - duality
+  basis: The passage describes reason and passion as apparently antagonistic, while
+    the Symposium's theme is the 'passion of the reason' and the union of spiritual
+    and fleshly aspects.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage treats the union philosophically
+    rather than through paired mythic beings.
+- id: motif:4
+  label: harmony and oneness of existence revealed through beauty
+  taxonomy_refs:
+  - annihilation_union
+  - wisdom
+  basis: The passage says love reaches a beauty in which all existence is seen as
+    harmonious and one, culminating in eternal knowledge.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not describe annihilation of self; the taxonomy reference
+    is used only for the union aspect and needs review.
+- id: motif:5
+  label: prophetic female teacher reveals the mystery of love
+  taxonomy_refs:
+  - wisdom
+  - initiation
+  basis: Diotima, a prophetess with sacred and superhuman character, is described
+    as teaching Socrates the art and mystery of love.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is a literary-philosophical summary, not a full initiation
+    narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Plato's redirection of love toward knowledge
+    with Christian divine love, medieval enjoyment of God, and Dante's love of Beatrice.
+  claim_level: same_function
+  target: Christian divine love, medieval 'fruitio Dei,' and Dante's Beatrice
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made by the translator-commentator and does not establish
+    direct historical dependence.
+- id: claim:2
+  claim: The passage suggests an affinity between the Symposium's 'passion of the
+    reason' and forms of Eastern or Hebrew prophetic wisdom.
+  claim_level: archetypal_reading
+  target: so-called Eastern mysticism, Hebrew prophet, or Eastern sage
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The wording is speculative and broad, and the passage gives no specific
+    Eastern text or transmission mechanism.
+- id: claim:3
+  claim: The passage compares the Symposium's ascent to ideal beauty with the Republic's
+    ascent to the ideal good, treating them as parallel philosophical culminations
+    approached from different sides.
+  claim_level: same_function
+  target: Plato's Republic and its ideal good
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim concerns comparison within the Platonic corpus as presented
+    by the commentator.
+- id: claim:4
+  claim: The passage links the final vision in the Symposium with related Platonic
+    passages in the Republic and Phaedrus.
+  claim_level: same_function
+  target: Platonic visions of the eternal in Symposium, Republic, and Phaedrus
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The cited Greek references are abbreviated in the supplied passage,
+    so exact cross-references require human verification.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 677-688
+  quote_or_summary: Earlier speeches provide material for Socrates; named speakers
+    contribute views on Love, and Socrates' speech becomes a dialogue with a mysterious
+    foreign woman.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 689-711
+  quote_or_summary: 'Socrates'' argument overturns prior praises of Love: Love desires
+    the good and therefore is not itself a good; the argument is ascribed to Diotima
+    and is then critiqued as a fallacy.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 712-723
+  quote_or_summary: Diotima, prophetess of Mantineia, teaches Socrates the art and
+    mystery of love, love as philosophy, and the transformation of human want from
+    procreation to intellectual desire; comparisons are made with Christian, medieval,
+    and Dantean love.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 724-741
+  quote_or_summary: The passage connects the Symposium with Neoplatonism and so-called
+    Eastern mysticism, describes reason and passion as apparently antagonistic, calls
+    the theme the 'passion of the reason,' and uses the image of truth's light and
+    desire's warmth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 742-755
+  quote_or_summary: Love reaches a higher region of perfect beauty and eternal knowledge,
+    beginning with earthly beauty and culminating in harmony and oneness; the passage
+    uses images of a summit, upward and downward way, and ladder to heaven.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 755-763
+  quote_or_summary: The passage describes arrival at a vision of the eternal, the
+    idea as love or truth, the lover of wisdom as spectator of all time and existence,
+    and a mystery uniting spiritual and fleshly, moral and intellectual faculties.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an interpretive introduction rather than a primary narrative
+    episode. Literal extraction is strong, while motif and comparison mapping require
+    review because several patterns are philosophical metaphors.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to the available lists and assigned cautiously.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-symposium-jowett-gutenberg__l677-l763
+  passage_sha256=4da1741c7ffb90182cc37c86bf97fd40cd34e19aca68488ac9dc49411882d3f1
+

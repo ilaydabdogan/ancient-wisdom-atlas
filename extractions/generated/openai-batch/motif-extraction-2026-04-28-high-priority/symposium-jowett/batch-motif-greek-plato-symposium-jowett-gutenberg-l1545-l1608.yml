@@ -1,0 +1,521 @@
+---
+record_id: batch.motif.greek-plato-symposium-jowett-gutenberg-l1545-l1608
+source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+passage_locator:
+  label: Symposium / SYMPOSIUM / INTRODUCTION. / SYMPOSIUM; lines 1545-1608
+  start: '1545'
+  end: '1608'
+  translation: Symposium
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Eryximachus argues that love is double and universal, present in bodies,
+    animals, plants, medicine, music, and divine as well as human things. He applies
+    the distinction between good and bad love to health and disease, describing medicine
+    as knowledge of bodily loves and desires. He says the physician reconciles hostile
+    bodily opposites, invokes Asclepius as founder of medicine, compares music and
+    rhythm to reconciled opposites, and concludes that both loves must be recognized
+    in all things.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Eryximachus says Pausanias correctly distinguished two kinds of love but did
+    not carry the distinction far enough.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Eryximachus states that double love exists not only in the soul but in animal
+    bodies, productions of the earth, and all that is.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Love is described as a deity whose empire extends over divine and human things.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The human body is said to contain two kinds of love, with the healthy and
+    diseased having unlike desires.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The physician is said to indulge good and healthy bodily elements and discourage
+    diseased elements.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Medicine is described as knowledge of the loves and desires of the body and
+    how to satisfy or refuse them.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The skilful practitioner can separate fair love from foul love, convert one
+    into the other, eradicate or implant love, and reconcile hostile bodily elements.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Hostile bodily opposites are listed as hot and cold, bitter and sweet, moist
+    and dry, and similar pairs.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Asclepius is called Eryximachus's ancestor and the creator of medicine through
+    knowing how to implant friendship and accord in bodily elements.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Music is said to contain the same reconciliation of opposites as medicine.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:11
+  text: Heracleitus is cited as saying that the One is united by disunion, like the
+    harmony of the bow and the lyre.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Harmony is explained as an agreement of higher and lower notes that once differed
+    but are now reconciled by music.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: Rhythm is described as composed of short and long elements once differing
+    and now in accord.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:14
+  text: Urania is associated with fair and heavenly love, while Polyhymnia is associated
+    with a vulgar love that must be used with circumspection.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:15
+  text: Eryximachus concludes that both loves are present in music, medicine, and
+    all human and divine things.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Eryximachus
+  description: Speaker who extends Pausanias's distinction of two loves through the
+    art of medicine and examples from music and other arts.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: fig:2
+  name_or_label: Pausanias
+  description: Earlier speaker credited with distinguishing two kinds of love.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Love
+  description: A deity described as wonderful, universal, and ruling over divine as
+    well as human things.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Asclepius
+  description: Eryximachus's ancestor, said to have founded medicine by implanting
+    friendship and accord among bodily elements.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Heracleitus
+  description: Philosopher cited for a saying about the One being united by disunion,
+    compared to the harmony of the bow and the lyre.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Urania
+  description: The fair and heavenly muse associated with fair and heavenly love.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Polyhymnia
+  description: The muse associated in the passage with vulgar love requiring circumspection.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: speaker
+  assigned_to:
+  - fig:1
+  basis: Eryximachus is introduced as speaking the passage.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: medical interpreter of love
+  assigned_to:
+  - fig:1
+  basis: He explains love through the art of medicine and bodily desires.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: prior distinguisher of two loves
+  assigned_to:
+  - fig:2
+  basis: Eryximachus says Pausanias rightly distinguished two kinds of love.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: universal deity
+  assigned_to:
+  - fig:3
+  basis: Love is called a deity whose empire extends over all divine and human things.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: founder of medical art
+  assigned_to:
+  - fig:4
+  basis: Asclepius is said to be creator of the medical art by implanting friendship
+    and accord in elements.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: cited authority on unity and disunion
+  assigned_to:
+  - fig:5
+  basis: Heracleitus is quoted or paraphrased about the One united by disunion.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: heavenly muse of fair love
+  assigned_to:
+  - fig:6
+  basis: Urania is named as the fair and heavenly muse connected with fair and heavenly
+    love.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: muse linked with vulgar love
+  assigned_to:
+  - fig:7
+  basis: Polyhymnia is named in connection with vulgar love and the need for circumspection.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: two loves
+  literal_form: Double love; two kinds of love
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: sym:2
+  label: healthy and diseased desires
+  literal_form: The desire of the healthy and the desire of the diseased
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hostile opposites
+  literal_form: Hot and cold, bitter and sweet, moist and dry
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: harmony of bow and lyre
+  literal_form: The harmony of the bow and the lyre
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: higher and lower notes in accord
+  literal_form: Differing notes of higher or lower pitch reconciled by music
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: short and long rhythm
+  literal_form: Short and long elements once differing and now in accord
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Eryximachus extends the doctrine of two loves
+  summary: Eryximachus begins by accepting Pausanias's distinction of two loves and
+    expands it to bodies, animals, the earth, and all existence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Medicine as regulation of bodily loves
+  summary: The speaker applies the two loves to health and disease, defining medicine
+    as knowledge of bodily desires and their proper satisfaction or refusal.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Physician reconciles hostile elements
+  summary: The skilful practitioner separates fair and foul love, implants or removes
+    love, and reconciles opposing bodily elements such as hot and cold or moist and
+    dry.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Music as reconciliation of opposites
+  summary: Eryximachus compares medicine to music, cites Heracleitus's image of the
+    bow and lyre, and explains harmony and rhythm as former oppositions brought into
+    accord.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Heavenly and vulgar love in practice
+  summary: The speaker applies the distinction to education, song, performance, pleasure,
+    and self-regulation, invoking Urania for fair heavenly love and Polyhymnia for
+    vulgar love.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: duality of love
+  taxonomy_refs:
+  - duality
+  basis: 'The passage repeatedly distinguishes two loves: healthy and diseased, fair
+    and foul, heavenly and vulgar.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage is philosophical and medical rather than a narrative myth
+    episode.
+- id: motif:2
+  label: reconciliation of opposites
+  taxonomy_refs: []
+  basis: 'Medicine and music are described as arts that bring hostile or differing
+    elements into accord: hot/cold, bitter/sweet, higher/lower notes, and short/long
+    rhythm.'
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No available taxonomy reference exactly names this pattern.
+- id: motif:3
+  label: wisdom regulating desire
+  taxonomy_refs:
+  - wisdom
+  basis: The physician or artist is valued for knowing how to distinguish, regulate,
+    convert, implant, or restrain loves and desires.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy label 'wisdom' is broader than the passage's specific technical
+    knowledge of medicine and music.
+- id: motif:4
+  label: universal divine ordering force
+  taxonomy_refs: []
+  basis: Love is presented as a deity whose power extends over all divine and human
+    things and is present in medicine, music, and other domains.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: medium
+  cautions: The passage presents this as philosophical discourse, not as a mythic
+    action narrative.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, medicine and music are compared as arts that reconcile
+    opposing elements by producing accord or unison.
+  claim_level: same_function
+  target: medicine and music as arts of reconciliation
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal analogy made by the speaker, not evidence for historical
+    contact between traditions.
+- id: claim:2
+  claim: The passage links Eryximachus's account of harmony with a Heracleitean pattern
+    in which unity is described through disunion, illustrated by the bow and lyre.
+  claim_level: same_motif
+  target: Heracleitean unity through disunion / harmony of bow and lyre
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The speaker also criticizes the wording attributed to Heracleitus,
+    so the comparison is interpretive and qualified within the passage.
+- id: claim:3
+  claim: The passage compares the regulation of musical pleasure with the medical
+    regulation of bodily appetite, treating both as management of the two loves.
+  claim_level: same_function
+  target: musical education and medical appetite-regulation
+  evidence_refs:
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison remains within Eryximachus's philosophical analogy and
+    does not establish a separate mythic tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1545-1554
+  quote_or_summary: Eryximachus says Pausanias distinguished two kinds of love, and
+    adds that double love exists in bodies, animals, productions of the earth, and
+    all that is; love is a universal deity over divine and human things.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: 1554-1564
+  quote_or_summary: The human body is said to have two unlike loves and desires, healthy
+    and diseased; medicine concerns knowing bodily loves and desires and how to satisfy
+    or refuse them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: 1564-1571
+  quote_or_summary: The best physician separates fair from foul love, converts one
+    into another, eradicates or implants love, and reconciles hostile elements such
+    as hot/cold, bitter/sweet, moist/dry.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 1571-1576
+  quote_or_summary: Asclepius is described as Eryximachus's ancestor and creator of
+    medicine because he knew how to implant friendship and accord in bodily elements;
+    medicine, gymnastic, and husbandry are under his dominion.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: quote
+  locator: 1576-1582
+  quote_or_summary: 'Music has the same reconciliation of opposites; Heracleitus is
+    cited: "The One is united by disunion, like the harmony of the bow and the lyre."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: 1582-1594
+  quote_or_summary: Harmony is explained as agreement among higher and lower notes
+    once in disagreement; rhythm is similarly composed of short and long elements
+    once differing and now in accord; music implants love and unison.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: 1594-1605
+  quote_or_summary: In practical music and education, the speaker repeats the distinction
+    between fair heavenly love connected with Urania and vulgar Polyhymnia, urging
+    temperance and circumspection so pleasure does not become licentiousness or disease.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: 1605-1608
+  quote_or_summary: Eryximachus infers that in music, medicine, and all things human
+    and divine, both loves are present and should be noted.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about two loves, bodily and musical oppositions,
+    and internal analogies. Motif assignment is less certain because the passage is
+    a philosophical speech rather than a narrative myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available symbol taxonomy refs were applied, since the passage does not literally include the listed symbols such as cave, fire, water, tree, serpent, milk, or mountain.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-symposium-jowett-gutenberg__l1545-l1608
+  passage_sha256=ff1f83185cc1a97f986897b645e298a6b3b0af237463767087347be23620a264
+

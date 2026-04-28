@@ -1,0 +1,402 @@
+---
+record_id: batch.motif.greek-plato-symposium-jowett-gutenberg-l2701-l2761
+source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+passage_locator:
+  label: Symposium / SYMPOSIUM / INTRODUCTION. / SYMPOSIUM; lines 2701-2761
+  start: '2701'
+  end: '2761'
+  translation: Symposium
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Alcibiades describes Socrates as outwardly like a Silenus or satyr but
+    inwardly containing temperance and divine golden images. He recounts attempts
+    to entice Socrates in private settings, then frames his confession as compelled
+    by wine and by the painful sting of philosophy, shared by others who long after
+    wisdom.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says Socrates resembles a satyr or Silenus, with an outer mask
+    like a carved Silenus head.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says that when Socrates is opened, temperance is found within
+    him.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says Socrates disregards beauty, wealth, honour, and persons gifted
+    with them.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker says he saw divine and golden images inside Socrates and was ready
+    to do what Socrates commanded.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker expected Socrates to speak as a lover would when they were alone,
+    but Socrates conversed as usual and went away.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker invited Socrates to the palaestra and wrestled with him when no
+    one was present, but says he made no progress.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker invited Socrates to supper, detained him late on the second occasion,
+    and Socrates lay down on the couch next to him while they were alone in the apartment.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The speaker invokes the proverb about truth in wine before continuing his
+    confession.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The speaker says he has felt the serpent's sting and compares the pang of
+    philosophy to a more violent bite than a serpent's tooth.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The speaker names several companions as sharing the same madness and passion
+    in longing after wisdom.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The speaker asks attendants and other profane or unmannered persons to close
+    the doors of their ears.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Alcibiades, the speaker
+  description: Narrator of the passage who praises Socrates, recounts his own designs,
+    and describes suffering the pang of philosophy.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Socrates
+  description: Person described as outwardly like a Silenus or satyr, inwardly temperate
+    and containing divine golden images, and resistant to the speaker's advances.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Companions at the drinking party
+  description: Audience addressed by the speaker, including Phaedrus, Agathon, Eryximachus,
+    Pausanias, Aristodemus, and Aristophanes, said to share longing after wisdom.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:4
+  name_or_label: Attendants and other profane or unmannered persons
+  description: Persons whom the speaker tells to close the doors of their ears before
+    he continues.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: confessing narrator
+  assigned_to:
+  - fig:1
+  basis: The speaker says he will tell the truth, recounts his actions, and asks the
+    audience to listen and excuse him.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: hidden wise figure
+  assigned_to:
+  - fig:2
+  basis: Socrates is said to have an outer Silenus-like mask but inner temperance
+    and divine golden images.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: wounded lover of wisdom
+  assigned_to:
+  - fig:1
+  basis: The speaker says he has been bitten by the pang of philosophy and speaks
+    from that agony.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: resistant beloved or teacher
+  assigned_to:
+  - fig:2
+  basis: The speaker tries to draw Socrates into private erotic speech or intimacy,
+    but Socrates converses normally and departs or resists progress.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: fellow sufferers in longing after wisdom
+  assigned_to:
+  - fig:3
+  basis: The speaker says the named companions have experience of the same madness
+    and passion in longing after wisdom.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: excluded profane audience
+  assigned_to:
+  - fig:4
+  basis: The speaker tells attendants and other profane or unmannered persons to close
+    the doors of their ears.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Silenus or satyr mask
+  literal_form: The carved head or outer mask of Silenus, used to describe Socrates'
+    outward appearance.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: divine golden images within
+  literal_form: Divine and golden images said to be seen inside Socrates when he is
+    opened.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: serpent sting
+  literal_form: Serpent's sting, viper's tooth, and serpent's tooth used to describe
+    the pang of philosophy.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: wine and truth proverb
+  literal_form: The proverb 'In vino veritas' invoked before the confession.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: closed doors of the ears
+  literal_form: The request that profane or unmannered persons close up the doors
+    of their ears.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Revealing Socrates as Silenus-like
+  summary: The speaker addresses the drinking companions and explains that Socrates
+    has a Silenus-like outer mask while concealing temperance and divine golden images
+    within.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Failed attempts to entice Socrates
+  summary: The speaker recounts arranging private time, wrestling, and supper with
+    Socrates in hopes of gaining intimate or privileged speech, but Socrates does
+    not respond as expected.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Confession of philosophical wound
+  summary: The speaker frames his disclosure through wine, compares philosophy's pain
+    to a serpent's bite, includes the companions among fellow sufferers, and excludes
+    profane listeners.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Hidden wisdom beneath a deceptive outer form
+  taxonomy_refs:
+  - wisdom
+  basis: Socrates is described as outwardly Silenus-like and ignorant in appearance,
+    but inwardly temperate and filled with divine golden images.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents this as Alcibiades' praise and metaphor, not as an
+    independent mythic episode.
+- id: motif:2
+  label: Painful longing after wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker describes the pang of philosophy as worse than a serpent's tooth
+    and says the companions share the same madness and passion in longing after wisdom.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The serpent language is metaphorical within a philosophical speech.
+- id: motif:3
+  label: Restricted disclosure before initiated or sympathetic hearers
+  taxonomy_refs:
+  - initiation
+  basis: The speaker says only fellow sufferers can understand his agony and tells
+    profane or unmannered persons to close their ears.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage uses social and rhetorical exclusion; it does not describe
+    a formal ritual initiation.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Socrates' outward appearance and concealed
+    inner value to a Silenus or satyr image that opens to reveal what is inside.
+  claim_level: visual_similarity
+  target: Silenus or satyr image
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is made inside the speech and should not be extended
+    beyond the passage without external evidence.
+- id: claim:2
+  claim: The passage explicitly compares the suffering caused by philosophy to a serpent
+    or viper bite, using the bite as an image of inner pain that compels speech.
+  claim_level: same_function
+  target: serpent bite as painful transformative wound
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage uses the serpent bite as a metaphor for philosophical passion;
+    it does not narrate an actual serpent encounter.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2701-2714
+  quote_or_summary: The speaker describes Socrates as like a satyr or Silenus, with
+    an outer Silenus mask, but says temperance resides within and that Socrates despises
+    beauty, wealth, honour, and human admiration.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: 2714-2718
+  quote_or_summary: The speaker says that when he opened Socrates and looked within,
+    he saw divine and golden images of fascinating beauty and was ready to obey Socrates'
+    commands.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: 2718-2737
+  quote_or_summary: The speaker believed Socrates desired his beauty, arranged to
+    be alone with him, expected lover-like speech, then tried wrestling with him privately,
+    but says he made no progress.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: 2737-2748
+  quote_or_summary: The speaker invited Socrates to supper, later kept him conversing
+    into the night, and Socrates lay on the couch next to him while no one else was
+    sleeping in the apartment.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: quote
+  locator: 2748-2756
+  quote_or_summary: The speaker invokes 'In vino veritas,' says he has felt the serpent's
+    sting, and calls philosophy's pang more violent than any serpent's tooth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; short quotation and summary.
+- id: ev:6
+  type: summary
+  locator: 2756-2761
+  quote_or_summary: The speaker names Phaedrus, Agathon, Eryximachus, Pausanias, Aristodemus,
+    Aristophanes, and Socrates as having the same madness and passion in longing after
+    wisdom, then tells attendants and profane persons to close their ears.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    limited to the supplied taxonomy and are interpretive, especially for initiation
+    and serpent imagery.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage and metadata; no external claims about Plato, Alcibiades, Socrates, or Silenus traditions are added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-symposium-jowett-gutenberg__l2701-l2761
+  passage_sha256=b08d12619172bde35c9b0c687192f73a5df853858d0fafc22732a6225c084fc0
+

@@ -1,0 +1,561 @@
+---
+record_id: batch.motif.greek-plato-symposium-jowett-gutenberg-l593-l675
+source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+passage_locator:
+  label: Symposium / SYMPOSIUM / INTRODUCTION.; lines 593-675
+  start: '593'
+  end: '675'
+  translation: Symposium
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage summarizes interpretive features of speeches in Plato''s Symposium:
+    Phaedrus and Pausanias are linked with sophistic rhetoric; Pausanias defends male
+    loves and distinguishes elder and younger Love; Plato rearranges speeches to juxtapose
+    comic and tragic poets; Eryximachus treats Love as a physician-like harmony in
+    body, soul, heaven, and earth; Aristophanes gives a comic account of original
+    divided human nature seeking reunion; Agathon speaks poetically of youthful Love
+    among Olympian gods as creator and artist.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says Phaedrus's speech has a sophistical ring and recalls a speech
+    in the dialogue Phaedrus.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pausanias is described as defending male loves and distinguishing between
+    elder and younger Love through an appeal to mythology.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that Plato transposes two speeches to avoid monotony and
+    to place the comic and tragic poet in juxtaposition.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Aristophanes has hiccough, and Eryximachus, a physician, cures or substitutes
+    for him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Eryximachus treats Love as a good physician and as a law that pervades moral
+    and physical realms.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Eryximachus explains harmony of opposites as harmony after discord and speaks
+    of harmony in soul, body, heaven, and earth.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Aristophanes is described as comic, coarse in imagery, and concerned with
+    love between intelligent beings.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Aristophanes' account includes a human monster whirling on four arms and four
+    legs, eight limbs in all.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage says Aristophanes insinuates that humans cannot exist in isolation
+    and must be reunited to be perfected.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage says Aristophanes presents love as mediator and reconciler of
+    divided human nature and as anticipating an ideal union.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Agathon's speech is described as poetic, tragic, moving among the gods of
+    Olympus, and concerning youthful Love.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Agathon distinguishes Love from the works of Love and speaks of Love as creator
+    and artist.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Phaedrus
+  description: Speaker whose speech is described as having a sophistical ring and
+    recalling a speech in the dialogue Phaedrus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Pausanias
+  description: Speaker described as hyperlogical, confused, pedantic, and as defending
+    male loves through a mythological distinction between elder and younger Love.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Plato
+  description: Authorial figure described as attacking sophists and rhetoricians and
+    as transposing speeches for literary arrangement.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Agathon
+  description: Tragic poet whose speech is described as poetic, Olympian, and as presenting
+    Love as youthful, creative, and artistic.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Aristophanes
+  description: Comic poet associated with laughter, hiccough, an account of the origin
+    of the sexes, and a comic image of the original human monster.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Eryximachus
+  description: Physician who substitutes for Aristophanes and interprets Love as a
+    physician-like harmonizing principle.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Socrates
+  description: Figure described as ready to argue before speaking and as giving real,
+    half-ironical approval to Agathon's speech.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:8
+  name_or_label: Love
+  description: Personified or conceptual Love, described as elder and younger, as
+    good physician, as mediator and reconciler, as youthful, and as creator and artist.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:9
+  name_or_label: Human monster
+  description: Composite being in Aristophanes' account, described as whirling on
+    four arms and four legs, eight in all.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: sophistical or rhetorical speaker
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage characterizes Phaedrus's and Pausanias's speeches as sophistical,
+    hyperlogical, confused, or pedantic.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: defender of male loves
+  assigned_to:
+  - fig:2
+  basis: Pausanias is described as the upholder and earnest defender of male loves.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: literary arranger and critic of sophists
+  assigned_to:
+  - fig:3
+  basis: Plato is said to attack sophists and rhetoricians and to transpose speeches
+    for artistic purposes.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: tragic poet of harmonious Love
+  assigned_to:
+  - fig:4
+  basis: Agathon is called the tragic poet and is said to have a deeper sense of harmony
+    and reconciliation.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:5
+  label: comic poet and teller of origin of sexes
+  assigned_to:
+  - fig:5
+  basis: Aristophanes is associated with old comedy and with an account of the origin
+    of the sexes.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: physician-theorist of Love
+  assigned_to:
+  - fig:6
+  basis: Eryximachus is identified as a physician and presents Love in medical and
+    physical terms.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: dialectical respondent
+  assigned_to:
+  - fig:7
+  basis: Socrates is characterized as ready to argue and as approving Agathon's speech
+    in a half-ironical way.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:8
+  label: personified harmonizing principle
+  assigned_to:
+  - fig:8
+  basis: Love is described as physician, mediator, reconciler, youthful presence,
+    creator, and artist.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:9
+  label: comic composite human image
+  assigned_to:
+  - fig:9
+  basis: The human monster is part of Aristophanes' comic account of human origins.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: elder and younger Love
+  literal_form: Mythological distinction between elder and younger Love
+  associated_figures:
+  - fig:2
+  - fig:8
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Love as physician
+  literal_form: The good physician
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: harmony after discord
+  literal_form: Harmony of opposites explained as harmony after discord
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: whirling composite human
+  literal_form: Human monster whirling on four arms and four legs, eight in all
+  associated_figures:
+  - fig:5
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: divided human nature
+  literal_form: Poor, divided human nature needing mediation and reconciliation
+  associated_figures:
+  - fig:5
+  - fig:8
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: ideal union
+  literal_form: Indistinct anticipation of an ideal union not yet realized
+  associated_figures:
+  - fig:5
+  - fig:8
+  taxonomy_refs:
+  - annihilation_union
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: gods of Olympus
+  literal_form: Poetic movement among the gods of Olympus
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: sunlit heights
+  literal_form: Rhetoric that elevates the soul to sunlit heights
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - ascent
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Pausanias distinguishes loves
+  summary: Pausanias is described as defending male loves and appealing to mythology
+    to distinguish elder and younger Love, with moral value depending on manner of
+    performance.
+  figure_refs:
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Transposition and medical substitution
+  summary: Plato's arrangement raises expectation for Aristophanes through a hiccough
+    episode, and Eryximachus substitutes as physician.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Eryximachus explains Love as harmony
+  summary: Eryximachus interprets Love as a physician-like law joining moral and physical
+    order and producing harmony in body, soul, heaven, and earth.
+  figure_refs:
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Aristophanes' divided human nature
+  summary: Aristophanes' account includes a whirling composite human and principles
+    of isolation, reunion, mediation, reconciliation, and ideal union.
+  figure_refs:
+  - fig:5
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Agathon's youthful creative Love
+  summary: Agathon's tragic-poetic speech moves among Olympian gods, treats Love as
+    youthful rather than ancient, distinguishes Love from Love's works, and calls
+    Love creator and artist.
+  figure_refs:
+  - fig:4
+  - fig:8
+  - fig:7
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: dual forms of Love
+  taxonomy_refs:
+  - duality
+  basis: Pausanias distinguishes elder and younger Love and evaluates loves according
+    to their manner of performance.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is interpretive introduction, not direct dramatic speech.
+- id: motif:2
+  label: harmony of opposites after discord
+  taxonomy_refs:
+  - duality
+  basis: Eryximachus explains Love through harmony after discord and harmony in soul,
+    body, heaven, and earth.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage frames this as Eryximachus's philosophical-medical view rather
+    than a narrative myth.
+- id: motif:3
+  label: Love as healer and reconciler
+  taxonomy_refs: []
+  basis: Love is called the good physician by Eryximachus and mediator and reconciler
+    of divided human nature in the account of Aristophanes.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: No exact supplied taxonomy family names the healing or mediating function.
+- id: motif:4
+  label: divided beings seeking reunion
+  taxonomy_refs:
+  - duality
+  - annihilation_union
+  basis: Aristophanes' account is summarized as teaching that humans cannot exist
+    in isolation, must be reunited to be perfected, and anticipate an ideal union.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Union is explicit, but annihilation of individuality is not stated in
+    this passage.
+- id: motif:5
+  label: composite primordial human
+  taxonomy_refs: []
+  basis: Aristophanes' account includes a human monster with four arms and four legs,
+    eight limbs in all, whirling rapidly.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives only a compressed reference to the fuller myth.
+- id: motif:6
+  label: youthful divine Love as creator and artist
+  taxonomy_refs: []
+  basis: Agathon's speech treats Love as present, youthful, and as creator and artist
+    moving in a poetic Olympian setting.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The supplied taxonomy does not include a precise family for personified
+    creative Love.
+- id: motif:7
+  label: rhetorical ascent of the soul
+  taxonomy_refs:
+  - ascent
+  basis: Agathon's rhetoric is said to elevate the soul to sunlit heights.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: This is metaphorical literary description rather than a narrative ascent
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 593-601
+  quote_or_summary: Phaedrus's speech is described as having a sophistical ring and
+    recalling the dialogue Phaedrus; Plato is said to attack sophists and rhetoricians
+    through their pupils.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:2
+  type: summary
+  locator: 602-619
+  quote_or_summary: Pausanias is described as upholder of male loves, appealing to
+    mythology, distinguishing elder and younger Love, and defending such loves as
+    motives to virtue and philosophy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:3
+  type: summary
+  locator: 623-631
+  quote_or_summary: Plato transposes two speeches to avoid monotony and juxtapose
+    comic and tragic poets; Aristophanes has hiccough, and physician Eryximachus cures
+    or substitutes for him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:4
+  type: summary
+  locator: 631-644
+  quote_or_summary: Eryximachus treats Love as the good physician, extends love and
+    strife to body and mind, explains harmony of opposites as harmony after discord,
+    and summarizes Love as harmony in soul, body, heaven, and earth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:5
+  type: summary
+  locator: 646-656
+  quote_or_summary: Aristophanes is characterized as embodying old comedy; his account
+    of the origin of the sexes includes a human monster whirling on four arms and
+    four legs, eight in all.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:6
+  type: summary
+  locator: 656-662
+  quote_or_summary: 'The passage identifies three principles in Aristophanes'' jest:
+    humans cannot exist in isolation, must be reunited to be perfected, Love mediates
+    divided human nature, and worldly loves anticipate an unrealized ideal union.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:7
+  type: summary
+  locator: 664-671
+  quote_or_summary: Agathon's speech is described as high, poetic, and tragic, moving
+    among the gods of Olympus; he presents Love as youthful rather than ancient, and
+    Socrates gives half-ironical approval.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:8
+  type: summary
+  locator: 671-675
+  quote_or_summary: Agathon's rhetoric is said to elevate the soul to sunlit heights;
+    he distinguishes Love from Love's works, hints that Love is always of beauty,
+    and speaks of Love as creator and artist.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain source metadata; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an introduction/commentary summarizing speeches rather than
+    a primary narrative excerpt. Motif candidates are therefore based on reported
+    content within the passage. No comparison claims were extracted because explicit
+    comparisons are mainly literary and not passage-supported motif comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. Taxonomy references were limited to supplied motif families and symbols where directly or cautiously supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-symposium-jowett-gutenberg__l593-l675
+  passage_sha256=25e7afdb1e274012c1ae35c625e665fb246cd5fde65bb5f1ec85e00cb6b45588
+

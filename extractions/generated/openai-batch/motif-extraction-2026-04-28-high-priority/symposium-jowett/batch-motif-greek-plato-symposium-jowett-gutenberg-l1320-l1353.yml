@@ -1,0 +1,545 @@
+---
+record_id: batch.motif.greek-plato-symposium-jowett-gutenberg-l1320-l1353
+source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+passage_locator:
+  label: Symposium / SYMPOSIUM / INTRODUCTION. / SYMPOSIUM; lines 1320-1353
+  start: '1320'
+  end: '1353'
+  translation: Symposium
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The speaker argues that Love inspires men and women to die for the beloved,
+    citing Alcestis, Orpheus, and Achilles. Alcestis willingly dies for her husband
+    and is rewarded by the gods with return to life. Orpheus seeks his beloved in
+    Hades without dying and is denied her, receiving only an apparition and later
+    punishment. Achilles knowingly chooses death to avenge Patroclus and is rewarded
+    with the Islands of the Blest. The passage concludes that Love is the eldest,
+    noblest, and mightiest god, giver of virtue in life and happiness after death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Love is said to make both men and women dare to die for their beloved.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Alcestis, daughter of Pelias, is described as willing to lay down her life
+    for her husband when no one else would.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The gods and humans judged Alcestis' action noble, and the gods granted her
+    the privilege of returning alive to earth.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Orpheus, son of Oeagrus and a harper, sought a woman in Hades but was sent
+    away with only an apparition of her.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Orpheus is criticized in the passage for not daring to die for love and for
+    trying to enter Hades alive.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Orpheus is said to have later suffered death at the hands of women as punishment
+    for cowardliness.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Achilles is described as loving Patroclus and knowing from his mother that
+    he could avoid death by abstaining from killing Hector.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Achilles chose to give his life to avenge Patroclus after Patroclus was dead.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The gods honored Achilles above Alcestis and sent him to the Islands of the
+    Blest.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage concludes that Love is the eldest, noblest, and mightiest of the
+    gods and a giver of virtue in life and happiness after death.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Love
+  description: A divine power described as making people dare death for the beloved
+    and as the eldest, noblest, and mightiest of the gods.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: fig:2
+  name_or_label: Alcestis
+  description: Daughter of Pelias; willing to die for her husband and granted return
+    alive to earth.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Alcestis' husband
+  description: The husband on whose behalf Alcestis lays down her life.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: The gods
+  description: Divine evaluators who reward Alcestis and Achilles and deny Orpheus
+    the woman he seeks.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+- id: fig:5
+  name_or_label: Orpheus
+  description: Son of Oeagrus and a harper; enters or seeks to enter Hades alive,
+    receives only an apparition, and later dies at the hands of women.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Woman sought by Orpheus
+  description: The woman Orpheus sought; the gods present only her apparition to him
+    and do not give her up.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Achilles
+  description: Beloved of Patroclus according to the passage; knowingly chooses death
+    to avenge Patroclus and is sent to the Islands of the Blest.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:8
+  name_or_label: Patroclus
+  description: Described as Achilles' lover and friend, whose death Achilles avenges.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:9
+  name_or_label: Achilles' mother
+  description: The mother who told Achilles he could avoid death and return home if
+    he abstained from slaying Hector.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: Hector
+  description: The person Achilles must abstain from slaying if he is to avoid death
+    and return home.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: divine inspirer of love and virtue
+  assigned_to:
+  - fig:1
+  basis: Love is said to inspire daring death for the beloved and to be a god who
+    gives virtue and happiness after death.
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: role:2
+  label: self-sacrificing beloved or lover
+  assigned_to:
+  - fig:2
+  - fig:7
+  basis: Alcestis lays down her life for her husband; Achilles gives his life to avenge
+    Patroclus.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:3
+  label: beloved or beneficiary of devotion
+  assigned_to:
+  - fig:3
+  - fig:6
+  - fig:8
+  basis: Alcestis acts for her husband; Orpheus seeks a woman; Achilles acts for Patroclus.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:8
+- id: role:4
+  label: divine judges and rewarders
+  assigned_to:
+  - fig:4
+  basis: The gods reward Alcestis and Achilles and refuse Orpheus the woman he seeks.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+- id: role:5
+  label: recipient of blessed return or afterlife honor
+  assigned_to:
+  - fig:2
+  - fig:7
+  basis: Alcestis returns alive to earth; Achilles is sent to the Islands of the Blest.
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: role:6
+  label: failed seeker in Hades
+  assigned_to:
+  - fig:5
+  basis: Orpheus seeks a woman in Hades while alive and receives only an apparition.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: prophetic informant
+  assigned_to:
+  - fig:9
+  basis: Achilles' mother tells him the condition under which he can avoid death and
+    return home.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: target whose killing entails Achilles' death
+  assigned_to:
+  - fig:10
+  basis: Achilles can avoid death if he abstains from slaying Hector.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Hades
+  literal_form: Underworld place entered or approached by Orpheus while alive.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: apparition of the sought woman
+  literal_form: Apparition presented to Orpheus instead of the woman herself.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: return alive to earth
+  literal_form: Return from death or the underworld condition to earthly life, granted
+    to Alcestis.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Islands of the Blest
+  literal_form: Blessed afterlife destination to which the gods send Achilles.
+  associated_figures:
+  - fig:7
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Alcestis dies for her husband and returns
+  summary: Alcestis offers her life for her husband when others will not, and the
+    gods reward her noble action by allowing her to return alive to earth.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Orpheus seeks in Hades without dying
+  summary: Orpheus seeks the woman in Hades while alive, but the gods give him only
+    an apparition and not the woman herself; he later dies at the hands of women.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Achilles chooses death for Patroclus
+  summary: Achilles knows he can avoid death by not killing Hector, but he chooses
+    to avenge Patroclus and die; the gods reward him with the Islands of the Blest.
+  figure_refs:
+  - fig:4
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: Praise of Love
+  summary: The passage presents Love as the divine source of courageous devotion,
+    virtue in life, and happiness after death.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: death willingly accepted for the beloved
+  taxonomy_refs:
+  - sacrifice
+  - divine_beloved
+  basis: The passage states that Love makes people dare to die for the beloved, with
+    Alcestis and Achilles as examples.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+  confidence: high
+  cautions: The passage frames these deaths as acts of love rather than ritual sacrifice;
+    the taxonomy reference to sacrifice is functional and should be reviewed.
+- id: motif:2
+  label: divine reward for self-sacrificial love
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Alcestis receives return to earth, and Achilles receives the Islands of the
+    Blest because the gods honor their devotion.
+  evidence_refs:
+  - ev:3
+  - ev:9
+  confidence: medium
+  cautions: The exchange is moral and divine rather than a formal bargain.
+- id: motif:3
+  label: return from death or underworld condition
+  taxonomy_refs:
+  - death_rebirth
+  - return
+  basis: Alcestis is granted the privilege of returning alive to earth after laying
+    down her life.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not narrate the mechanics of her death or return.
+- id: motif:4
+  label: failed living descent or entry into Hades
+  taxonomy_refs:
+  - hero_descent
+  basis: Orpheus tries to enter Hades alive to recover the woman he seeks, but is
+    denied her and receives only an apparition.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage gives a compressed evaluative account rather than a full descent
+    narrative.
+- id: motif:5
+  label: choice between long life and glorious death
+  taxonomy_refs:
+  - death_rebirth
+  basis: Achilles is told he can avoid death and return home to old age if he does
+    not slay Hector, but he chooses vengeance and death for Patroclus.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The available taxonomy does not include a specific heroic-choice motif;
+    death_rebirth is only a partial fit.
+- id: motif:6
+  label: blessed afterlife as divine honor
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The gods send Achilles to the Islands of the Blest as a reward for his love
+    and chosen death.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage names the destination but does not describe a journey or geography.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage explicitly contrasts Alcestis and Orpheus as two responses to
+    love: Alcestis dies for love and is restored, while Orpheus tries to recover the
+    beloved without dying and is denied.'
+  claim_level: same_function
+  target: Alcestis and Orpheus as contrasting examples of love tested by death or
+    Hades
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison made by the speaker; it does not establish
+    historical relationship between mythic traditions.
+- id: claim:2
+  claim: The passage compares Achilles with Alcestis as figures honored by the gods
+    for love, while ranking Achilles' reward above Alcestis' reward.
+  claim_level: same_function
+  target: Achilles and Alcestis as rewarded examples of self-sacrificial love
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is evaluative within the argument and does not imply
+    identical mythic structure.
+- id: claim:3
+  claim: The passage presents Orpheus' Hades episode as a negative counterpart to
+    the pattern of dying for the beloved, because he seeks recovery of the beloved
+    while remaining alive.
+  claim_level: same_motif
+  target: failed recovery of beloved from Hades contrasted with self-sacrificial beloved-death
+    motifs
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs:
+  - ev:3
+  - ev:9
+  confidence: medium
+  limitations: The claim is based on the passage's compressed version of the Orpheus
+    story and should not be generalized beyond this passage without further evidence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1320-1321
+  quote_or_summary: "“Love will make men dare to die for their beloved--love alone;
+    and women as well as men.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 1321-1325
+  quote_or_summary: Alcestis, daughter of Pelias, is willing to lay down her life
+    on behalf of her husband when no one else will.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: 1325-1330
+  quote_or_summary: Gods and humans admire Alcestis' noble action, and the gods grant
+    her the privilege of returning alive to earth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: 1330-1334
+  quote_or_summary: Orpheus, son of Oeagrus and a harper, is sent away empty; the
+    gods show him only an apparition of the woman he sought and do not give her up.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: 1334-1336
+  quote_or_summary: Orpheus is described as lacking spirit because he did not dare
+    to die for love and contrived to enter Hades alive.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: 1336-1338
+  quote_or_summary: The gods later cause Orpheus to suffer death at the hands of women
+    as punishment for cowardliness.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: 1338-1347
+  quote_or_summary: Achilles is presented as the beloved of Patroclus; he knows from
+    his mother that he can avoid death, return home, and live to old age if he abstains
+    from slaying Hector.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: 1347-1349
+  quote_or_summary: Achilles gives his life to avenge his friend Patroclus after Patroclus
+    is dead.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: 1349-1351
+  quote_or_summary: The gods honor Achilles above Alcestis and send him to the Islands
+    of the Blest.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:10
+  type: quote
+  locator: 1351-1353
+  quote_or_summary: Love is affirmed as “the eldest and noblest and mightiest of the
+    gods” and the giver of virtue in life and happiness after death.
+  source_text_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage directly names and contrasts mythic examples, so figure and scene
+    extraction is strong. Taxonomy mapping is partly interpretive and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All content is drawn from the supplied passage and metadata. No external details, such as the name of Orpheus' beloved, have been added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-symposium-jowett-gutenberg__l1320-l1353
+  passage_sha256=9066cd3eda2bd57533194725db91e3f65aefa56072fdbd56537a912dc8de0af8
+

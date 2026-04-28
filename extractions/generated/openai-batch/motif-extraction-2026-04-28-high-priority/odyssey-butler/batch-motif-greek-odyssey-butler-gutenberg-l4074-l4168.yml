@@ -1,0 +1,605 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l4074-l4168
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK VII / RECEPTION OF ULYSSES AT THE PALACE OF KING ALCINOUS. / BOOK VIII
+    / BOOK IX; lines 4074-4168
+  start: '4074'
+  end: '4168'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Odysseus describes preparing and hiding a sharpened olive-wood stake in
+    the Cyclops' cave, intoxicating Polyphemus with wine, giving the false name 'Noman,'
+    blinding him while he sleeps, and escaping immediate help from the neighboring
+    Cyclopes through the ambiguity of that name. Polyphemus then removes the stone
+    from the cave door and guards the exit by touch.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Odysseus cuts a length from a large green olive-wood club, has his men smooth
+    it, sharpens it, chars its point in the fire, and hides it under dung in the cave.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Odysseus selects by lot four men to help him bore the sharpened wood into
+    the Cyclops' eye while the Cyclops is asleep.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Polyphemus returns with his flocks, closes the cave with a stone, milks ewes
+    and goats, and then eats two more of Odysseus' men.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Odysseus gives Polyphemus black wine from an ivy-wood bowl and presents it
+    as a drink meant to accompany a request for compassion and help home.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Polyphemus enjoys the wine, asks for more, requests Odysseus' name, and promises
+    a present.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Odysseus says his name is 'Noman.'
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Polyphemus answers that he will eat Noman's comrades first and Noman last,
+    calling this his present.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: After drinking three bowls, Polyphemus becomes drunk, vomits wine and human
+    flesh, and falls into deep sleep.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Odysseus and his men heat the sharpened beam and drive it into Polyphemus'
+    eye, turning it as if with an auger.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage compares the hissing of the Cyclops' eye around the hot olive
+    wood to a blacksmith tempering an axe or hatchet in cold water.
+  category: other
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Polyphemus pulls the bloodied beam from his eye, throws it away, and calls
+    to the other Cyclopes nearby.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The neighboring Cyclopes ask whether someone is carrying off Polyphemus' sheep
+    or trying to kill him by fraud or force.
+  category: speech
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: Polyphemus says that 'Noman' is killing him by fraud and that no man is killing
+    him by force; the other Cyclopes leave after interpreting this as no attack.
+  category: sequence
+  evidence_refs:
+  - ev:13
+- id: obs:14
+  text: Polyphemus removes the stone from the cave doorway and sits there with hands
+    outstretched to catch anyone leaving with the sheep.
+  category: action
+  evidence_refs:
+  - ev:14
+figures:
+- id: fig:1
+  name_or_label: Odysseus / Ulysses / narrator
+  description: The speaker who plans the attack, offers wine, gives the false name
+    'Noman,' and leads the blinding of Polyphemus.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:9
+  - ev:13
+- id: fig:2
+  name_or_label: Polyphemus / the Cyclops
+  description: A Cyclops who keeps Odysseus and his men in a cave, eats some of them,
+    drinks the wine, is blinded, and calls to neighboring Cyclopes.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:11
+  - ev:13
+  - ev:14
+- id: fig:3
+  name_or_label: Odysseus' men / comrades
+  description: Captive companions of Odysseus; some are eaten by Polyphemus, and four
+    help Odysseus bore the heated beam into the Cyclops' eye.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:9
+- id: fig:4
+  name_or_label: neighboring Cyclopes
+  description: Other Cyclopes living on nearby headlands who come to Polyphemus' cave
+    after hearing his cries and then depart.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+- id: fig:5
+  name_or_label: flocks of sheep, ewes, and goats
+  description: The animals driven into the cave, milked by Polyphemus, and associated
+    with the guarded cave exit.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:12
+  - ev:14
+roles:
+- id: role:1
+  label: planner of stratagem
+  assigned_to:
+  - fig:1
+  basis: Odysseus prepares the sharpened stake, hides it, arranges helpers by lot,
+    uses wine, and gives a misleading name.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:2
+  label: captive attacker
+  assigned_to:
+  - fig:1
+  basis: Odysseus acts from within the cave and takes part in blinding the sleeping
+    Cyclops.
+  evidence_refs:
+  - ev:9
+- id: role:3
+  label: cannibal captor
+  assigned_to:
+  - fig:2
+  basis: Polyphemus closes the cave with a stone and eats two of Odysseus' men in
+    this passage.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:4
+  label: blinded opponent
+  assigned_to:
+  - fig:2
+  basis: The heated olive-wood beam is driven into Polyphemus' eye, after which he
+    pulls it out and cries for help.
+  evidence_refs:
+  - ev:9
+  - ev:11
+- id: role:5
+  label: endangered companions and helpers
+  assigned_to:
+  - fig:3
+  basis: Odysseus' comrades are both victims of Polyphemus and participants in the
+    planned blinding.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:9
+- id: role:6
+  label: summoned neighbors
+  assigned_to:
+  - fig:4
+  basis: The nearby Cyclopes gather when Polyphemus cries out and leave after hearing
+    his explanation.
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+- id: role:7
+  label: livestock at the cave threshold
+  assigned_to:
+  - fig:5
+  basis: Polyphemus drives the flocks into the cave, milks them, and later guards
+    the doorway to catch anyone going out with the sheep.
+  evidence_refs:
+  - ev:3
+  - ev:14
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: Polyphemus' cave, closed by a stone and used as the setting for captivity,
+    attack, and guarded exit
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:11
+  - ev:14
+- id: sym:2
+  label: fire
+  literal_form: Fire used to char and heat the sharpened olive-wood beam before the
+    blinding
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:9
+  - ev:10
+- id: sym:3
+  label: green olive-wood beam
+  literal_form: A piece cut from Polyphemus' large green olive-wood club, sharpened
+    and heated as a weapon
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:9
+  - ev:11
+- id: sym:4
+  label: wine
+  literal_form: Black wine served in an ivy-wood bowl and drunk repeatedly by Polyphemus
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: sym:5
+  label: false name 'Noman'
+  literal_form: The name Odysseus gives to Polyphemus, later causing ambiguity when
+    Polyphemus calls for help
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:13
+- id: sym:6
+  label: stone door
+  literal_form: The stone placed against the cave door and later removed by Polyphemus
+    as he guards the exit
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:14
+- id: sym:7
+  label: milk
+  literal_form: Milk from ewes and goats as part of Polyphemus' evening work in the
+    cave
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Preparation of the hidden stake
+  summary: Odysseus cuts, sharpens, chars, and hides a piece of the Cyclops' olive-wood
+    club, then selects four helpers by lot.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Cyclops' return and renewed cannibalism
+  summary: Polyphemus brings the flocks into the cave, seals the doorway with a stone,
+    performs milking, and eats two more of Odysseus' men.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Wine offering and false name
+  summary: Odysseus gives Polyphemus wine; Polyphemus asks for more and for Odysseus'
+    name; Odysseus says he is called 'Noman,' and Polyphemus promises to eat him last.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Drunken sleep and blinding
+  summary: After Polyphemus is overcome by wine, Odysseus and his men heat the beam
+    and bore it into the Cyclops' eye.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: scene:5
+  label: Failed appeal to neighboring Cyclopes
+  summary: Polyphemus calls for help, but his statement that 'Noman' is killing him
+    by fraud leads the other Cyclopes to conclude that no attacker is present and
+    to leave.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+- id: scene:6
+  label: Guarding the cave exit
+  summary: Polyphemus removes the stone from the doorway and tries to catch any person
+    leaving with the sheep by feeling with his hands.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:14
+candidate_motifs:
+- id: motif:1
+  label: weaker captive defeats stronger monster by stratagem
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Odysseus is trapped with a powerful cannibal captor and uses prepared concealment,
+    wine, and a false name to make the blinding possible and prevent effective rescue.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:9
+  - ev:13
+  confidence: high
+  cautions: The taxonomy label is broader than the passage; the extraction rests on
+    the explicit use of deception and boundary escape conditions in this episode.
+- id: motif:2
+  label: intoxication of dangerous host or captor
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Odysseus gives Polyphemus wine repeatedly until it takes hold of him, enabling
+    the subsequent attack during sleep.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage presents the wine as part of a practical stratagem rather
+    than as a formal ritual.
+- id: motif:3
+  label: false name blocks recognition and aid
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Odysseus' name 'Noman' causes Polyphemus' cry for help to be understood as
+    saying that no man is attacking him, so the neighboring Cyclopes leave.
+  evidence_refs:
+  - ev:6
+  - ev:12
+  - ev:13
+  confidence: high
+  cautions: This is a wordplay-dependent motif in the English translation; review
+    against the Greek may be useful.
+- id: motif:4
+  label: imprisonment in a cave with a blocked exit
+  taxonomy_refs:
+  - labyrinth_initiation
+  basis: The action occurs in a cave sealed by a stone, with the captives planning
+    violence and escape under confinement and the exit later guarded by Polyphemus.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:14
+  confidence: medium
+  cautions: The passage does not present a literal labyrinth; the taxonomy reference
+    is only approximate as an enclosed ordeal space.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports comparison with a trickster-stratagem motif family:
+    a weaker trapped figure uses intoxicating hospitality, a false name, and coordinated
+    timing to overcome a stronger dangerous being.'
+  claim_level: same_function
+  target: trickster_boundary
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:13
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself does not compare traditions or state a general motif;
+    this is a functional comparison to an available taxonomy category.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4074-4168
+  quote_or_summary: Odysseus cuts about six feet from the Cyclops' green olive-wood
+    club, has it smoothed, points and chars it, and hides it under dung in the cave.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: 4074-4168
+  quote_or_summary: Odysseus tells the men to cast lots for those who will help lift
+    the wood and bore it into the monster's eye while he sleeps; four are selected
+    and Odysseus makes five.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: 4074-4168
+  quote_or_summary: Polyphemus returns, drives all the flocks into the cave, replaces
+    the stone at the door, milks his ewes and goats, and eats two more of Odysseus'
+    men.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: 4074-4168
+  quote_or_summary: Odysseus approaches Polyphemus with an ivy-wood bowl of black
+    wine, saying it was meant as a drink-offering in hope that Polyphemus would show
+    compassion and send him home.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: 4074-4168
+  quote_or_summary: Polyphemus drinks, delights in the wine, asks for more, asks Odysseus'
+    name, and says he wants to give him a present.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: quote
+  locator: 4074-4168
+  quote_or_summary: '"my name is Noman"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; short quotation.
+- id: ev:7
+  type: summary
+  locator: 4074-4168
+  quote_or_summary: Polyphemus says he will eat all of Noman's comrades before Noman
+    and will keep Noman for last as the promised present.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: 4074-4168
+  quote_or_summary: After Odysseus fills the bowl three times, the wine affects Polyphemus;
+    he reels, falls backward, sleeps deeply, and vomits wine and human flesh.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: 4074-4168
+  quote_or_summary: Odysseus heats the beam in the embers, encourages his men, and
+    together they drive and rotate the red-hot sharp end into the Cyclops' eye.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:10
+  type: summary
+  locator: 4074-4168
+  quote_or_summary: The hot beam in the Cyclops' eye is compared to a blacksmith plunging
+    an axe or hatchet into cold water to temper iron, producing a hiss.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:11
+  type: summary
+  locator: 4074-4168
+  quote_or_summary: Polyphemus yells, pulls the gore-covered beam from his eye, throws
+    it away, and calls to other Cyclopes living nearby.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:12
+  type: summary
+  locator: 4074-4168
+  quote_or_summary: The other Cyclopes ask whether anyone is carrying off sheep or
+    trying to kill Polyphemus by fraud or force.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:13
+  type: summary
+  locator: 4074-4168
+  quote_or_summary: Polyphemus says that Noman is killing him by fraud and no man
+    by force; the other Cyclopes answer that if no man attacks him he must be ill,
+    advise prayer to Neptune, and depart.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:14
+  type: summary
+  locator: 4074-4168
+  quote_or_summary: Polyphemus groans, feels for the stone, removes it from the door,
+    and sits in the doorway with hands stretched out to catch anyone going out with
+    the sheep.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal episode details are explicit in the passage. Motif labels are candidate
+    analytical classifications and should be reviewed, especially taxonomy alignment
+    for the cave ordeal and the translation-dependent 'Noman' wordplay.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage, metadata, and available taxonomy references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l4074-l4168
+  passage_sha256=7b2253fcb6535a241a605fec38ae4bd06ce7d7998dc6b467dae32c56ca7bf31c
+

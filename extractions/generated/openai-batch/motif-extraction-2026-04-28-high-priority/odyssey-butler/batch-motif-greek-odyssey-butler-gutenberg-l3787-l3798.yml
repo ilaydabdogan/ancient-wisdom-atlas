@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l3787-l3798
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: THE MEETING BETWEEN NAUSICAA AND ULYSSES. / BOOK VII / RECEPTION OF ULYSSES
+    AT THE PALACE OF KING ALCINOUS. / BOOK VIII; lines 3787-3798
+  start: '3787'
+  end: '3798'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“And now, tell me and tell me true.”"
+  summary: A speaker asks Ulysses to recount where he has wandered, what peoples and
+    cities he has encountered, and why hearing of the Argive Danaans’ return from
+    Troy makes him unhappy. The speaker states that the gods arranged the misfortunes
+    so future generations would have something to sing about, and asks whether Ulysses
+    lost a close kinsman or beloved comrade at Troy.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker asks the addressee to tell the truth about where he has wandered
+    and what countries he has travelled through.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker asks for an account of peoples and cities, distinguishing hostile,
+    savage, and uncivilised peoples from hospitable and humane ones.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker asks why the addressee is unhappy when hearing about the return
+    of the Argive Danaans from Troy.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker says the gods arranged the misfortunes so that future generations
+    would have something to sing about.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker asks whether the addressee lost a brave in-law, kinsman, or kindly
+    comrade before Troy.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ulysses
+  description: The addressee of the questions, identified by the passage label and
+    asked about his wandering, travels, distress, and possible losses at Troy.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: unnamed speaker
+  description: A speaker who asks Ulysses to recount his travels and explain his unhappiness.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Argive Danaans
+  description: A group whose return from Troy is mentioned as causing unhappiness
+    to Ulysses when heard about.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: the gods
+  description: Divine agents said to have arranged the misfortunes and sent them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: future generations
+  description: Later people said to have something to sing about because of the arranged
+    misfortunes.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: possible lost kinsman or comrade
+  description: Hypothetical close relation or good friend whose loss might explain
+    Ulysses’ unhappiness.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:2
+  basis: The speaker repeatedly asks the addressee to tell where he has been, what
+    peoples he encountered, and why he is unhappy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: wanderer and traveller
+  assigned_to:
+  - fig:1
+  basis: The addressee is asked where he has been wandering and what countries he
+    has travelled.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: distressed listener to the return from Troy
+  assigned_to:
+  - fig:1
+  basis: The addressee is described as unhappy on hearing about the return of the
+    Argive Danaans from Troy.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: returning warriors from Troy
+  assigned_to:
+  - fig:3
+  basis: The Argive Danaans are mentioned in connection with a return from Troy.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: divine arrangers of misfortune
+  assigned_to:
+  - fig:4
+  basis: The gods are said to have arranged and sent the misfortunes.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: future singers or hearers
+  assigned_to:
+  - fig:5
+  basis: Future generations are said to have something to sing about because of the
+    misfortunes.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: hypothetical beloved dead
+  assigned_to:
+  - fig:6
+  basis: The speaker proposes that Ulysses may have lost a close in-law or a good
+    friend at Troy.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Inquiry into wanderings and sorrow
+  summary: A speaker asks Ulysses to recount his wanderings, the lands and peoples
+    he has encountered, and the reason for his grief when hearing of the Argive Danaans’
+    return from Troy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Misfortune made into song
+  summary: The speaker states that the gods arranged and sent misfortunes so that
+    future generations would have something to sing about, then asks whether Ulysses’
+    sorrow comes from the loss of a close relation or comrade at Troy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: hero questioned about wanderings
+  taxonomy_refs: []
+  basis: The speaker asks the addressee to truthfully recount his wandering, travels,
+    peoples, and cities encountered.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents the inquiry but not the actual travel narrative.
+- id: motif:2
+  label: return from Troy causing grief
+  taxonomy_refs:
+  - return
+  basis: The passage explicitly mentions the return of the Argive Danaans from Troy
+    and the addressee’s unhappiness on hearing about it.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage refers to a return and emotional response, but does not narrate
+    the return itself.
+- id: motif:3
+  label: divinely arranged suffering preserved in song
+  taxonomy_refs: []
+  basis: The speaker says the gods arranged and sent the misfortunes so that future
+    generations might have something to sing about.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference precisely matches this poetic-aetiological
+    pattern.
+- id: motif:4
+  label: grief for lost kinsman or comrade
+  taxonomy_refs: []
+  basis: The speaker asks whether Ulysses lost a close in-law or a good friend at
+    Troy, presenting bereavement as a possible cause of sorrow.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The losses are hypothetical questions in the passage, not confirmed events.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3787-3789
+  quote_or_summary: "“Where have you been wandering, and in what countries have you
+    travelled?”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 3789-3791
+  quote_or_summary: The speaker asks about the peoples and cities encountered, contrasting
+    hostile and uncivilised peoples with hospitable and humane ones.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text summarized.
+- id: ev:3
+  type: quote
+  locator: lines 3791-3793
+  quote_or_summary: The speaker asks why the addressee is unhappy on hearing of “the
+    return of the Argive Danaans from Troy.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 3793-3795
+  quote_or_summary: The speaker says the gods arranged and sent the misfortunes so
+    that future generations would have something to sing about.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3795-3798
+  quote_or_summary: The speaker asks whether the addressee lost a brave in-law or
+    a brave, kindly comrade, adding that a good friend is dear like a brother.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a direct speech with clear literal content. Motif candidates
+    are limited to what is explicit in the excerpt; no comparison claims are made
+    because the passage itself does not support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage, locator, metadata, and available taxonomy references. Hypothetical bereavement figures are marked as hypothetical rather than asserted as events.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l3787-l3798
+  passage_sha256=5f6a97857ee2ecda4a7673245971ea29eda3be004efb0128b11c9d636dbca0ba
+

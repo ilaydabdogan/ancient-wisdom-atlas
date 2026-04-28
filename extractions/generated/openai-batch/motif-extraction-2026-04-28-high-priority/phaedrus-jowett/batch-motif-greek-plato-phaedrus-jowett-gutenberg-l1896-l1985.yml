@@ -1,0 +1,452 @@
+---
+record_id: batch.motif.greek-plato-phaedrus-jowett-gutenberg-l1896-l1985
+source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+passage_locator:
+  label: PHAEDRUS / INTRODUCTION. / ON THE DECLINE OF GREEK LITERATURE. / PHAEDRUS;
+    lines 1896-1985
+  start: '1896'
+  end: '1985'
+  translation: Phaedrus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Socrates asks Phaedrus to listen in silence in a holy place and continues
+    a speech assessing whether a lover or non-lover benefits a youth. He argues that
+    a passion-driven lover harms the beloved by making him mentally inferior, keeping
+    him from wisdom and philosophy, weakening his body, isolating him from family,
+    friends, property, marriage, and household, and forcing upon him an unpleasant
+    and jealous companionship.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Socrates tells Phaedrus to listen in silence and describes the place as holy.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Socrates says he may appear to be in a divine fury and to be entering dithyrambics.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Socrates frames the inquiry as weighing the advantage or disadvantage that
+    may come from the lover or the non-lover to one who accepts their advances.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lover is described as a victim of passions and slave of pleasure who wants
+    the beloved to be agreeable to himself.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The lover is said to reduce the beloved to inferiority and to delight in,
+    or implant, mental defects in him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The lover is said to bar the beloved from society that would make a man of
+    him, especially society that would give him wisdom.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The lover is said to banish divine philosophy from the beloved.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The lover, described as a master whose law is pleasure and not good, is said
+    to prefer a delicate beloved raised in shade and luxury rather than a sturdy one
+    trained by exercise and toil.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The delicate beloved is said to become an anxiety to friends and lover in
+    war or crisis, not a terror to enemies.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The lover is said to want to deprive the beloved of father, mother, kindred,
+    friends, gold, silver, property, wife, children, and home.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Socrates compares certain harmful but temporarily pleasant figures, such as
+    flatterers and courtesans, with the lover, whom he calls hurtful and disagreeable.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The lover is described as old, the beloved as young, and the lover as forcing
+    himself upon the beloved day and night under necessity and desire.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The beloved is described as watched, guarded, praised, and censured by the
+    lover in ways that are intolerable or wearisome.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Speaker who asks for silence and delivers the argument about the lover
+    and beloved.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Phaedrus
+  description: Interlocutor who answers Socrates and listens to the speech.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the lover
+  description: A passion-driven lover described as jealous, harmful, pleasure-seeking,
+    and controlling toward the beloved.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: the beloved / youth
+  description: The recipient of the lover's advances, described as harmed in mind,
+    body, social ties, property, and daily life.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: father, mother, kindred, and friends of the beloved
+  description: Relatives and friends named as persons the lover wants to remove because
+    they may hinder or reprove the lover's converse with the beloved.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: speaker in sacred setting
+  assigned_to:
+  - fig:1
+  basis: Socrates directs Phaedrus to listen in a holy place and continues the speech.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: listener and respondent
+  assigned_to:
+  - fig:2
+  basis: Phaedrus answers Socrates briefly and is addressed as the listener.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: harmful lover
+  assigned_to:
+  - fig:3
+  basis: The lover is described as a slave of pleasure who harms the beloved mentally,
+    bodily, socially, and materially.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:4
+  label: harmed beloved
+  assigned_to:
+  - fig:4
+  basis: The beloved is the person whose mind, body, social ties, property, and comfort
+    are said to be damaged by the lover.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:5
+  label: jealous guardian or master
+  assigned_to:
+  - fig:3
+  basis: The lover is described as a jealous guardian, associate, and master whose
+    law is pleasure rather than good.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: role:6
+  label: hinderers or reprovers
+  assigned_to:
+  - fig:5
+  basis: Relatives and friends are named as people the lover thinks may hinder or
+    reprove his converse with the beloved.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: holy place
+  literal_form: the place described by Socrates as holy
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: divine philosophy
+  literal_form: philosophy called divine and said to be banished from the beloved
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: gold and silver
+  literal_form: gold, silver, and other property of the beloved
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: birds of a feather
+  literal_form: proverbial birds used to express likeness and association
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: sting of desire
+  literal_form: the sting of desire said to drive the lover on
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Socrates speaks in a holy place
+  summary: Socrates asks Phaedrus to listen silently, calls the place holy, and says
+    he may be entering a divine fury as he continues.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Inquiry into lover and non-lover
+  summary: Socrates states that the subject has been defined and proposes to examine
+    the advantage or disadvantage from lover or non-lover to the one who accepts their
+    advances.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Mental harm of the beloved
+  summary: The lover is described as jealous and as making the beloved inferior, ignorant,
+    dependent, and deprived of society that would give wisdom and divine philosophy.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Bodily weakening of the beloved
+  summary: The lover is said to choose and train a delicate beloved raised in shade
+    and luxury, leaving him ineffective in war or crisis.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Isolation from kin and possessions
+  summary: The lover is said to seek the beloved's separation from parents, kindred,
+    friends, wealth, wife, children, and home, because these make him less manageable.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Forced and unpleasant companionship
+  summary: The lover is compared with harmful but temporarily pleasant figures, then
+    described as forcing himself on the young beloved, watching and guarding him,
+    and burdening him with praise and censure.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: destructive erotic attachment
+  taxonomy_refs: []
+  basis: The lover's desire is represented as harmful to the beloved's mind, body,
+    social ties, property, and daily comfort.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: This is an ethical and rhetorical motif in a philosophical dialogue, not
+    a mythic narrative episode.
+- id: motif:2
+  label: jealous isolation of the beloved
+  taxonomy_refs: []
+  basis: The lover is said to remove or resent the beloved's society, kin, friends,
+    possessions, wife, children, and home so that the beloved remains dependent and
+    manageable.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage presents this as an argument about erotic conduct rather than
+    a narrated abduction or imprisonment.
+- id: motif:3
+  label: withholding of wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The lover is said to bar the beloved from society that would give wisdom
+    and to banish divine philosophy from him.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy link is limited to the explicit concern with wisdom and philosophy;
+    the passage does not present a quest for wisdom.
+- id: motif:4
+  label: inspired speech in a holy place
+  taxonomy_refs: []
+  basis: Socrates marks the setting as holy and says he appears to be in a divine
+    fury and entering dithyrambics before continuing the speech.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a rhetorical frame of inspired speech, but does not
+    narrate a divine visitation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1896-1905
+  quote_or_summary: Socrates asks Phaedrus to listen in silence, calls the place holy,
+    says he may appear in divine fury and be getting into dithyrambics; Phaedrus agrees.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1906-1914
+  quote_or_summary: Socrates says the subject has been declared and defined, and proposes
+    to examine what advantage or disadvantage follows from the lover or non-lover
+    to one who accepts their advances.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1915-1920
+  quote_or_summary: The lover is described as a victim of passions and slave of pleasure
+    who wants the beloved to be agreeable to himself and hates what is equal or superior.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1920-1940
+  quote_or_summary: The lover is said to reduce the beloved to inferiority, delight
+    in or implant defects, act jealously, bar useful society, prevent wisdom, banish
+    divine philosophy, and keep the beloved ignorant and dependent.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 1941-1957
+  quote_or_summary: Socrates asks how the lover as master will train the beloved's
+    body, saying he will prefer delicacy, shade, luxury, and lack of exercise, making
+    the beloved a source of anxiety in war or crisis.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 1958-1973
+  quote_or_summary: The lover is said to desire the beloved's separation from father,
+    mother, kindred, friends, gold, silver, other property, wife, children, and home,
+    because these make him harder to manage.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 1974-1982
+  quote_or_summary: Socrates mentions harmful but temporarily pleasant figures such
+    as flatterers and courtesans, cites the proverb that birds of a feather flock
+    together, and says the lover is hurtful and disagreeable.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 1982-1985
+  quote_or_summary: The lover is described as old while the beloved is young; he forces
+    himself on the beloved day and night, driven by desire, and the beloved is watched,
+    guarded, praised, and censured in intolerable ways.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a philosophical-rhetorical argument rather than a mythic narrative;
+    literal extraction is straightforward, while motif labeling is necessarily cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a cross-textual or tradition-level comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-phaedrus-jowett-gutenberg__l1896-l1985
+  passage_sha256=4da9ffa79f06e83367abfa05b2fe8b404603da50c06e479f0c7ba9ba6c6d803d
+

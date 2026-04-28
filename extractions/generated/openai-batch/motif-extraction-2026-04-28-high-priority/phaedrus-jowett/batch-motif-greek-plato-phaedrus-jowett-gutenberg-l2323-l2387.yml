@@ -1,0 +1,548 @@
+---
+record_id: batch.motif.greek-plato-phaedrus-jowett-gutenberg-l2323-l2387
+source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+passage_locator:
+  label: PHAEDRUS / INTRODUCTION. / ON THE DECLINE OF GREEK LITERATURE. / PHAEDRUS;
+    lines 2323-2387
+  start: '2323'
+  end: '2387'
+  translation: Phaedrus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes souls cycling through periods of thousands of years,
+    receiving judgment after a life, being punished under the earth or borne to heaven
+    according to justice, choosing later lives by lot, and moving between human and
+    animal forms. The philosopher or philosophical lover recollects the vision of
+    truth and true beauty, grows wings sooner, is initiated into perfect mysteries,
+    and is viewed by others as mad or inspired. Souls once followed gods, beheld beauty
+    and blessed visions in pure light, and are now imprisoned in the body, described
+    as a living tomb or shell.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Each soul normally must wait ten thousand years before returning to its place
+    of origin because wings cannot grow sooner.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The soul of a philosopher, or of a lover not devoid of philosophy, may acquire
+    wings in the third recurring thousand-year period.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Souls other than the philosopher receive judgment after completing their first
+    life.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After judgment, some souls go to correction houses under the earth and are
+    punished, while others are borne by justice to a place in heaven.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At the end of the first thousand years, good and evil souls draw lots and
+    choose a second life.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A human soul may pass into the life of a beast, and from beast return into
+    human form.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The philosopher's mind has wings because it recollects things in which God
+    abides.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The person who rightly uses these memories is described as being initiated
+    into perfect mysteries and becoming truly perfect.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: When someone sees earthly beauty and recollects true beauty, he wants to fly
+    away but cannot, and is compared to a bird fluttering and looking upward.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: All human souls have by nature beheld true being, but not all easily recall
+    the other world.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Few souls retain adequate remembrance and are amazed when beholding an earthly
+    image of the other world.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The passage states that philosophers once followed in the train of Zeus, while
+    others followed other gods, and beheld a blessed vision.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The earlier vision is described as a mystery, seen in innocence, with apparitions
+    shining in pure light.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: The embodied state is described as being enshrined in a living tomb and imprisoned
+    in the body like an oyster in its shell.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: soul
+  description: The soul undergoes cycles of return, judgment, punishment or heavenly
+    reward, choice of lives, and possible passage between human and animal forms.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: philosopher
+  description: The philosopher retains recollection of truth, has wings, is not subject
+    to judgment, and is described as initiated into perfect mysteries.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: lover not devoid of philosophy
+  description: The lover associated with philosophy may acquire wings in the third
+    recurring thousand-year period and is transported by recollection of true beauty.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:4
+  name_or_label: justice
+  description: Justice bears some judged souls lightly to a place in heaven.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: God
+  description: God is associated with the things recollected by the philosopher and
+    with true being.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Zeus
+  description: Philosophers are described as having once followed in the train of
+    Zeus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: other gods
+  description: Other souls are described as having followed in company with other
+    gods.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: vulgar
+  description: The vulgar deem the inspired philosopher mad and rebuke him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: cycle-traversing soul
+  assigned_to:
+  - fig:1
+  basis: The soul passes through periods, judgment, places of correction or heaven,
+    and later life choices.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: recollecting initiate
+  assigned_to:
+  - fig:2
+  basis: The philosopher recollects divine realities, has wings, and is initiated
+    into perfect mysteries.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: beauty-struck lover
+  assigned_to:
+  - fig:3
+  basis: The lover sees earthly beauty, recollects true beauty, and longs to fly upward.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: post-judgment conveyor
+  assigned_to:
+  - fig:4
+  basis: Justice bears some souls to a heavenly place after judgment.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: divine locus of truth
+  assigned_to:
+  - fig:5
+  basis: God is named as the one with whom the soul once saw truth and in whom the
+    recollected things abide.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: divine leader or companion
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Souls are described as having followed Zeus or other gods in a former blessed
+    vision.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: misrecognizing onlookers
+  assigned_to:
+  - fig:8
+  basis: The vulgar interpret the philosopher's divine rapture as madness and rebuke
+    him.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: wings
+  literal_form: wings of the soul or mind
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: under-earth correction houses
+  literal_form: houses of correction under the earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: heavenly place
+  literal_form: place in heaven
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: lots for lives
+  literal_form: drawing lots and choosing a second life
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: bird looking upward
+  literal_form: bird fluttering and looking upward
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: pure light
+  literal_form: apparitions shining in pure light
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: living tomb
+  literal_form: body described as a living tomb
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: oyster shell
+  literal_form: body compared to an oyster shell
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: soul-cycle and return by wings
+  summary: Souls normally require ten thousand years to return to their origin, while
+    philosophical souls may grow wings sooner after repeated periods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: judgment and destinations after life
+  summary: After a first life, souls receive judgment and are sent either to punishment
+    under the earth or to a heavenly place by justice.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: lot-choice and transmigration
+  summary: After a thousand years, good and evil souls draw lots, choose second lives,
+    and may move between human and animal forms.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: philosophical recollection and initiation
+  summary: The philosopher recollects divine realities, has wings, and through these
+    memories is initiated into perfect mysteries, though others judge him mad.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: scene:5
+  label: lover's recollection of true beauty
+  summary: The lover beholds earthly beauty, recollects true beauty, longs to fly
+    away, and is likened to a bird fluttering upward.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: former blessed vision with gods
+  summary: Souls once followed Zeus or other gods, beheld beauty and a blessed mystery,
+    and saw calm apparitions shining in pure light before embodiment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: embodiment as imprisonment
+  summary: The present embodied condition is described as imprisonment in a body,
+    a living tomb, and an oyster shell.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: afterlife judgment and allotted destinations
+  taxonomy_refs:
+  - divine_judgment
+  - afterlife_journey_map
+  basis: Souls are judged after life and sent to under-earth punishment or heavenly
+    reward, then later return to choose new lives.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is philosophical mythic discourse rather than a narrative
+    of a single dead person's journey.
+- id: motif:2
+  label: ascent through wings and upward longing
+  taxonomy_refs:
+  - ascent
+  basis: Philosophical or loving souls acquire wings, look upward, and desire to fly
+    away toward the realm recalled through beauty.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The ascent is described through soul imagery and recollection, not as
+    a literal bodily climb.
+- id: motif:3
+  label: transmigration between human and animal lives
+  taxonomy_refs: []
+  basis: The passage states that the soul of a man may pass into the life of a beast
+    and return from beast into human form.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference directly names transmigration.
+- id: motif:4
+  label: mystery initiation through recollection
+  taxonomy_refs:
+  - initiation
+  - wisdom
+  basis: The one who rightly uses memories of divine realities is initiated into perfect
+    mysteries and becomes truly perfect.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage uses mystery language in a philosophical sense.
+- id: motif:5
+  label: body as tomb or shell imprisoning soul
+  taxonomy_refs: []
+  basis: The passage describes souls as imprisoned in the body, enshrined in a living
+    tomb, and like an oyster in its shell.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: No supplied taxonomy reference directly corresponds to body-prison imagery.
+- id: motif:6
+  label: recollection of a lost divine vision
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: Souls once beheld true being and pure-light visions with the gods, and only
+    some retain and respond to images of that other world.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The motif is framed as philosophical epistemology as well as mythic recollection.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2323-2331
+  quote_or_summary: Souls usually require ten thousand years to return and grow wings;
+    philosophical souls or philosophical lovers may acquire wings in the third thousand-year
+    period.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2331-2339
+  quote_or_summary: The philosopher is not subject to judgment; others are judged
+    after a first life and go either to under-earth correction and punishment or to
+    a heavenly place borne by justice.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2339-2346
+  quote_or_summary: After a thousand years good and evil souls draw lots and choose
+    a second life; a human soul may enter a beast's life or return from beast to human
+    form.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2346-2358
+  quote_or_summary: The philosopher recollects the things the soul saw while following
+    God; the philosopher's mind has wings and is initiated into perfect mysteries
+    through these memories.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2360-2369
+  quote_or_summary: The fourth kind of madness occurs when seeing earthly beauty recalls
+    true beauty; the person wants to fly away but cannot and is like a bird fluttering
+    and looking upward.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 2369-2378
+  quote_or_summary: Every human soul has beheld true being, but many fail to recall
+    the other world; few retain remembrance and are amazed by earthly images of it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 2378-2385
+  quote_or_summary: Philosophers once followed Zeus and others followed other gods;
+    they saw beauty shining, a blessed mystery, and calm apparitions in pure light
+    before later evils.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 2385-2387
+  quote_or_summary: The current embodied state is described as being imprisoned in
+    the body, a living tomb, and like an oyster in its shell.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 2356-2359
+  quote_or_summary: Because the philosopher forgets earthly interests and is rapt
+    in the divine, the vulgar deem him mad and rebuke him, not seeing that he is inspired.
+  source_text_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: Extraction uses only the supplied public-domain passage. Comparison claims
+    are omitted because the passage does not itself make an external comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not include the passage's main symbols such as wings, lots, tomb, shell, heaven, or under-earth correction houses.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-phaedrus-jowett-gutenberg__l2323-l2387
+  passage_sha256=dc886e84cd6e8dd46ecca3f72723c89dd340504e91076c8853fba4be852ac775
+
