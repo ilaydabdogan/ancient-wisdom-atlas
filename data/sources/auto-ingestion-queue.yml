@@ -992,7 +992,7 @@ items:
   manifest_path: manifests/project-gutenberg/41082-golden-bough-volume-1-frazer.yml
   extraction_dir: extractions/comparative/project-gutenberg/golden-bough-volume-1-frazer
 - id: comparative.golden_bough.volume_2_frazer_gutenberg
-  status: queued
+  status: ingested
   priority: medium
   source: project_gutenberg
   source_id: '41359'
@@ -1041,6 +1041,15 @@ items:
   - scapegoat
   why_it_matters: Completes the two-volume Golden Bough lane for scapegoat, fertility,
     seasonal death and renewal, and comparative ritual theory.
+  raw_path: imports/raw/project-gutenberg/41359-golden-bough-volume-2-frazer.txt
+  pipeline:
+    raw_fetched_on: '2026-04-28'
+    converted_on: '2026-04-28'
+    promoted_on: '2026-04-28'
+  converted_path: imports/converted/project-gutenberg/41359-golden-bough-volume-2-frazer.md
+  canonical_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  manifest_path: manifests/project-gutenberg/41359-golden-bough-volume-2-frazer.yml
+  extraction_dir: extractions/comparative/project-gutenberg/golden-bough-volume-2-frazer
 - id: greek.aesop.fables_vernon_jones_gutenberg
   status: queued
   priority: medium

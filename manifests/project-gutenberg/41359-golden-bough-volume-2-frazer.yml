@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-04-28'
+updated_date: '2026-04-28'
+artifacts:
+- id: artifact.gutenberg_41359
+  work_id: comparative.golden_bough.volume_2_frazer_gutenberg
+  title: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  source_url: https://www.gutenberg.org/ebooks/41359
+  fetch_date: '2026-04-28'
+  raw:
+    path: imports/raw/project-gutenberg/41359-golden-bough-volume-2-frazer.txt
+    checksum:
+      algorithm: sha256
+      value: 4718de1ea144ceac2b5a6e19a39bd3ffb3094ff607f18b928e97d655721b81e9
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/41359-golden-bough-volume-2-frazer.md
+    checksum:
+      algorithm: sha256
+      value: 03a19f93a6ff2972dc02c966488bc2efc3d7993c290a1242240fc150b82a28e7
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+    checksum:
+      algorithm: sha256
+      value: b3852d57b14f2ed6acdf239b066793b5642e640975102aea247b84b9ed1f80dd
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids comparative.golden_bough.volume_2_frazer_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      as historical comparative scholarship and review critically.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-04-28'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.
