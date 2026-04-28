@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-04-28'
+updated_date: '2026-04-28'
+artifacts:
+- id: artifact.gutenberg_1636
+  work_id: greek.plato.phaedrus_jowett_gutenberg
+  title: Phaedrus
+  source_url: https://www.gutenberg.org/ebooks/1636
+  fetch_date: '2026-04-28'
+  raw:
+    path: imports/raw/project-gutenberg/1636-phaedrus-jowett.txt
+    checksum:
+      algorithm: sha256
+      value: 5676d27bd5acc46587dd3c041c51d8ac89cceef62b2402a72dbaac0415be8db1
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/1636-phaedrus-jowett.md
+    checksum:
+      algorithm: sha256
+      value: 6bfb09adb2c270a0183156a3981a8f79ccaa7bea83d6dbf77ef1e3d8bc2cf524
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+    checksum:
+      algorithm: sha256
+      value: 787d58d58205a4a67a6d34762d561f8a266b17943c253c8cde8028615e9962f2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids greek.plato.phaedrus_jowett_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-04-28'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

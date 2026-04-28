@@ -1111,7 +1111,7 @@ items:
   manifest_path: manifests/project-gutenberg/11339-aesops-fables-vernon-jones.yml
   extraction_dir: extractions/greek/project-gutenberg/aesops-fables-vernon-jones
 - id: greek.plato.phaedrus_jowett_gutenberg
-  status: queued
+  status: ingested
   priority: medium
   source: project_gutenberg
   source_id: '1636'
@@ -1161,6 +1161,15 @@ items:
   - soul
   why_it_matters: Adds a philosophical love and soul text for eros, ascent, divine
     madness, memory, and the winged-soul image.
+  raw_path: imports/raw/project-gutenberg/1636-phaedrus-jowett.txt
+  pipeline:
+    raw_fetched_on: '2026-04-28'
+    converted_on: '2026-04-28'
+    promoted_on: '2026-04-28'
+  converted_path: imports/converted/project-gutenberg/1636-phaedrus-jowett.md
+  canonical_path: texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md
+  manifest_path: manifests/project-gutenberg/1636-phaedrus-jowett.yml
+  extraction_dir: extractions/greek/project-gutenberg/phaedrus-jowett
 - id: greek.plato.republic_jowett_gutenberg
   status: queued
   priority: medium

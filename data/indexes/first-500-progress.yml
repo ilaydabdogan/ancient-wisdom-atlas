@@ -644,7 +644,7 @@ queue_outside_first500:
   source_id: '11339'
 - id: greek.plato.phaedrus_jowett_gutenberg
   title: Phaedrus
-  status: queued
+  status: ingested
   priority: medium
   source_id: '1636'
 - id: greek.plato.republic_jowett_gutenberg
@@ -725,6 +725,10 @@ ingested_outside_first500:
   title: Hesiod, the Homeric Hymns, and Homerica
   tradition_cluster: greek
   source_id: source.project_gutenberg.348
+- id: greek.plato.phaedrus_jowett_gutenberg
+  title: Phaedrus
+  tradition_cluster: greek_philosophical
+  source_id: source.project_gutenberg.1636
 - id: hindu.upanishads.paramananda_gutenberg
   title: The Upanishads
   tradition_cluster: hindu
