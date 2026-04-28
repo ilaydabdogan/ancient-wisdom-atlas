@@ -2,7 +2,7 @@
 batch_request_index_version: '1'
 run_id: motif-extraction-2026-04-27-corpus
 created_at: '2026-04-28T05:10:38Z'
-updated_at: '2026-04-28T05:10:38Z'
+updated_at: '2026-04-28T05:20:09Z'
 endpoint: "/v1/responses"
 model: gpt-5.2
 prompt_path: templates/batch-motif-extraction-prompt.md
@@ -17,7 +17,69 @@ shards:
   sha256: faf5a5c4c4df55375d6f5aeef13942d043a0d46cfbb5bf04d5a6265b99b92e8c
   endpoint: "/v1/responses"
   model: gpt-5.2
-  status: prepared
+  status: failed
+  input_file_id: file-5HDjPjg7uWRQYq9WEoq67n
+  input_file:
+    object: file
+    id: file-5HDjPjg7uWRQYq9WEoq67n
+    purpose: batch
+    filename: shard-0001.jsonl
+    bytes: 16194416
+    created_at: 1777353375
+    expires_at: 1779945375
+    status: processed
+    status_details: 
+  uploaded_at: '2026-04-28T05:16:15Z'
+  batch_id: batch_69f042ab12208190bd468774870e2c3b
+  batch:
+    id: batch_69f042ab12208190bd468774870e2c3b
+    object: batch
+    endpoint: "/v1/responses"
+    model: gpt-5.2-2025-12-11
+    errors:
+      object: list
+      data:
+      - code: token_limit_exceeded
+        message: 'Enqueued token limit reached for gpt-5.2 in organization org-aFYWZsfMb26b4ASZPE69bFE4.
+          Limit: 900,000 enqueued tokens. Please try again once some in_progress batches
+          have been completed.'
+        param: 
+        line: 
+    input_file_id: file-5HDjPjg7uWRQYq9WEoq67n
+    completion_window: 24h
+    status: failed
+    output_file_id: 
+    error_file_id: 
+    created_at: 1777353387
+    in_progress_at: 
+    expires_at: 1777439787
+    finalizing_at: 
+    completed_at: 
+    failed_at: 1777353448
+    expired_at: 
+    cancelling_at: 
+    cancelled_at: 
+    request_counts:
+      total: 0
+      completed: 0
+      failed: 0
+    usage:
+      input_tokens: 0
+      output_tokens: 0
+      total_tokens: 0
+      input_tokens_details:
+        cached_tokens: 0
+      output_tokens_details:
+        reasoning_tokens: 0
+    metadata:
+      repo: ancient-wisdom-atlas
+      run_id: motif-extraction-2026-04-27-corpus
+      shard_id: shard-0001
+      pipeline: motif_extraction
+  batch_created_at: '2026-04-28T05:16:27Z'
+  output_file_id: 
+  error_file_id: 
+  last_checked_at: '2026-04-28T05:20:09Z'
 - shard_id: shard-0002
   path: data/batches/motif-extraction-2026-04-27-corpus/requests/shard-0002.jsonl
   request_count: 1000
@@ -25,7 +87,69 @@ shards:
   sha256: 36efa495bc15d3ac179f39fa8af2b2fc561ede6b4d1ca3e2c7401ca63606cd0e
   endpoint: "/v1/responses"
   model: gpt-5.2
-  status: prepared
+  status: failed
+  input_file_id: file-YYJouWDGQvQQ1vEYzbVtQh
+  input_file:
+    object: file
+    id: file-YYJouWDGQvQQ1vEYzbVtQh
+    purpose: batch
+    filename: shard-0002.jsonl
+    bytes: 16534348
+    created_at: 1777353379
+    expires_at: 1779945379
+    status: processed
+    status_details: 
+  uploaded_at: '2026-04-28T05:16:20Z'
+  batch_id: batch_69f042abdabc8190adb3a028177fd558
+  batch:
+    id: batch_69f042abdabc8190adb3a028177fd558
+    object: batch
+    endpoint: "/v1/responses"
+    model: gpt-5.2-2025-12-11
+    errors:
+      object: list
+      data:
+      - code: token_limit_exceeded
+        message: 'Enqueued token limit reached for gpt-5.2 in organization org-aFYWZsfMb26b4ASZPE69bFE4.
+          Limit: 900,000 enqueued tokens. Please try again once some in_progress batches
+          have been completed.'
+        param: 
+        line: 
+    input_file_id: file-YYJouWDGQvQQ1vEYzbVtQh
+    completion_window: 24h
+    status: failed
+    output_file_id: 
+    error_file_id: 
+    created_at: 1777353387
+    in_progress_at: 
+    expires_at: 1777439787
+    finalizing_at: 
+    completed_at: 
+    failed_at: 1777353450
+    expired_at: 
+    cancelling_at: 
+    cancelled_at: 
+    request_counts:
+      total: 0
+      completed: 0
+      failed: 0
+    usage:
+      input_tokens: 0
+      output_tokens: 0
+      total_tokens: 0
+      input_tokens_details:
+        cached_tokens: 0
+      output_tokens_details:
+        reasoning_tokens: 0
+    metadata:
+      repo: ancient-wisdom-atlas
+      run_id: motif-extraction-2026-04-27-corpus
+      shard_id: shard-0002
+      pipeline: motif_extraction
+  batch_created_at: '2026-04-28T05:16:28Z'
+  output_file_id: 
+  error_file_id: 
+  last_checked_at: '2026-04-28T05:20:09Z'
 - shard_id: shard-0003
   path: data/batches/motif-extraction-2026-04-27-corpus/requests/shard-0003.jsonl
   request_count: 1000
@@ -33,7 +157,69 @@ shards:
   sha256: 47ae4e3dda83c5bf8160edd3c6ea7f5be110faab6cc2a5e845199d711f2533e0
   endpoint: "/v1/responses"
   model: gpt-5.2
-  status: prepared
+  status: failed
+  input_file_id: file-9h9Hhxk4t84Yy6SqCSz1kq
+  input_file:
+    object: file
+    id: file-9h9Hhxk4t84Yy6SqCSz1kq
+    purpose: batch
+    filename: shard-0003.jsonl
+    bytes: 16443439
+    created_at: 1777353383
+    expires_at: 1779945383
+    status: processed
+    status_details: 
+  uploaded_at: '2026-04-28T05:16:24Z'
+  batch_id: batch_69f042acad5c8190b9f73f3fe81eb672
+  batch:
+    id: batch_69f042acad5c8190b9f73f3fe81eb672
+    object: batch
+    endpoint: "/v1/responses"
+    model: gpt-5.2-2025-12-11
+    errors:
+      object: list
+      data:
+      - code: token_limit_exceeded
+        message: 'Enqueued token limit reached for gpt-5.2 in organization org-aFYWZsfMb26b4ASZPE69bFE4.
+          Limit: 900,000 enqueued tokens. Please try again once some in_progress batches
+          have been completed.'
+        param: 
+        line: 
+    input_file_id: file-9h9Hhxk4t84Yy6SqCSz1kq
+    completion_window: 24h
+    status: failed
+    output_file_id: 
+    error_file_id: 
+    created_at: 1777353388
+    in_progress_at: 
+    expires_at: 1777439788
+    finalizing_at: 
+    completed_at: 
+    failed_at: 1777353449
+    expired_at: 
+    cancelling_at: 
+    cancelled_at: 
+    request_counts:
+      total: 0
+      completed: 0
+      failed: 0
+    usage:
+      input_tokens: 0
+      output_tokens: 0
+      total_tokens: 0
+      input_tokens_details:
+        cached_tokens: 0
+      output_tokens_details:
+        reasoning_tokens: 0
+    metadata:
+      repo: ancient-wisdom-atlas
+      run_id: motif-extraction-2026-04-27-corpus
+      shard_id: shard-0003
+      pipeline: motif_extraction
+  batch_created_at: '2026-04-28T05:16:29Z'
+  output_file_id: 
+  error_file_id: 
+  last_checked_at: '2026-04-28T05:20:09Z'
 - shard_id: shard-0004
   path: data/batches/motif-extraction-2026-04-27-corpus/requests/shard-0004.jsonl
   request_count: 386
@@ -41,5 +227,59 @@ shards:
   sha256: df8416d7050a013bd86f2d30bc8a2aa5a53fa5c57f39e6677c951d5c06a6b410
   endpoint: "/v1/responses"
   model: gpt-5.2
-  status: prepared
+  status: in_progress
+  input_file_id: file-S65UvLAQzzSwjSLAwuzWng
+  input_file:
+    object: file
+    id: file-S65UvLAQzzSwjSLAwuzWng
+    purpose: batch
+    filename: shard-0004.jsonl
+    bytes: 6325932
+    created_at: 1777353386
+    expires_at: 1779945386
+    status: processed
+    status_details: 
+  uploaded_at: '2026-04-28T05:16:26Z'
+  batch_id: batch_69f042ad36d881908ee3267d02e5ab05
+  batch:
+    id: batch_69f042ad36d881908ee3267d02e5ab05
+    object: batch
+    endpoint: "/v1/responses"
+    model: gpt-5.2-2025-12-11
+    errors: 
+    input_file_id: file-S65UvLAQzzSwjSLAwuzWng
+    completion_window: 24h
+    status: in_progress
+    output_file_id: 
+    error_file_id: 
+    created_at: 1777353389
+    in_progress_at: 1777353390
+    expires_at: 1777439789
+    finalizing_at: 
+    completed_at: 
+    failed_at: 
+    expired_at: 
+    cancelling_at: 
+    cancelled_at: 
+    request_counts:
+      total: 386
+      completed: 11
+      failed: 0
+    usage:
+      input_tokens: 0
+      output_tokens: 0
+      total_tokens: 0
+      input_tokens_details:
+        cached_tokens: 0
+      output_tokens_details:
+        reasoning_tokens: 0
+    metadata:
+      repo: ancient-wisdom-atlas
+      run_id: motif-extraction-2026-04-27-corpus
+      shard_id: shard-0004
+      pipeline: motif_extraction
+  batch_created_at: '2026-04-28T05:16:29Z'
+  output_file_id: 
+  error_file_id: 
+  last_checked_at: '2026-04-28T05:20:09Z'
 

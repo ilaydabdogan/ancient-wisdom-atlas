@@ -1,0 +1,158 @@
+---
+batch_request_index_version: '1'
+run_id: passage-embeddings-2026-04-27-corpus-sharded
+created_at: '2026-04-28T05:17:47Z'
+updated_at: '2026-04-28T05:20:10Z'
+pipeline: embeddings
+endpoint: "/v1/embeddings"
+model: text-embedding-3-large
+encoding_format: float
+dimensions: 
+source: passages
+request_map_path: data/batches/passage-embeddings-2026-04-27-corpus-sharded/embedding-request-map.jsonl
+shards:
+- shard_id: shard-0001
+  path: data/batches/passage-embeddings-2026-04-27-corpus-sharded/requests/shard-0001.jsonl
+  request_count: 1000
+  embedding_input_count: 1000
+  bytes: 4804494
+  sha256: 9bf2db04e4b4c131b66e611db814697088d8ad3b7d364a1eb16d52bb4ec74249
+  endpoint: "/v1/embeddings"
+  model: text-embedding-3-large
+  status: in_progress
+  input_file_id: file-T2pvY1zqFGqUGvmr1XPCKg
+  input_file:
+    object: file
+    id: file-T2pvY1zqFGqUGvmr1XPCKg
+    purpose: batch
+    filename: shard-0001.jsonl
+    bytes: 4804494
+    created_at: 1777353566
+    expires_at: 1779945566
+    status: processed
+    status_details: 
+  uploaded_at: '2026-04-28T05:19:26Z'
+  batch_id: batch_69f0436a681881909521da4344c98a52
+  batch:
+    id: batch_69f0436a681881909521da4344c98a52
+    object: batch
+    endpoint: "/v1/embeddings"
+    model: text-embedding-3-large
+    errors: 
+    input_file_id: file-T2pvY1zqFGqUGvmr1XPCKg
+    completion_window: 24h
+    status: in_progress
+    output_file_id: 
+    error_file_id: 
+    created_at: 1777353578
+    in_progress_at: 1777353581
+    expires_at: 1777439978
+    finalizing_at: 
+    completed_at: 
+    failed_at: 
+    expired_at: 
+    cancelling_at: 
+    cancelled_at: 
+    request_counts:
+      total: 1000
+      completed: 0
+      failed: 0
+    usage:
+      input_tokens: 0
+      output_tokens: 0
+      total_tokens: 0
+      input_tokens_details:
+        cached_tokens: 0
+      output_tokens_details:
+        reasoning_tokens: 0
+    metadata:
+      repo: ancient-wisdom-atlas
+      run_id: passage-embeddings-2026-04-27-corpus-sharded
+      shard_id: shard-0001
+      pipeline: embeddings
+  batch_created_at: '2026-04-28T05:19:38Z'
+  output_file_id: 
+  error_file_id: 
+  last_checked_at: '2026-04-28T05:20:09Z'
+- shard_id: shard-0002
+  path: data/batches/passage-embeddings-2026-04-27-corpus-sharded/requests/shard-0002.jsonl
+  request_count: 1000
+  embedding_input_count: 1000
+  bytes: 5189997
+  sha256: e770d6750906eb14a197d0e7c57d2cc5db3a7a8088b3b7055774a684db2228b6
+  endpoint: "/v1/embeddings"
+  model: text-embedding-3-large
+  status: in_progress
+  input_file_id: file-YHpPqjZ8Tuv4REG7QbR68o
+  input_file:
+    object: file
+    id: file-YHpPqjZ8Tuv4REG7QbR68o
+    purpose: batch
+    filename: shard-0002.jsonl
+    bytes: 5189997
+    created_at: 1777353592
+    expires_at: 1779945592
+    status: processed
+    status_details: 
+  uploaded_at: '2026-04-28T05:19:53Z'
+  batch_id: batch_69f04379b47481908af7470b283f16d5
+  batch:
+    id: batch_69f04379b47481908af7470b283f16d5
+    object: batch
+    endpoint: "/v1/embeddings"
+    model: text-embedding-3-large
+    errors: 
+    input_file_id: file-YHpPqjZ8Tuv4REG7QbR68o
+    completion_window: 24h
+    status: in_progress
+    output_file_id: 
+    error_file_id: 
+    created_at: 1777353593
+    in_progress_at: 1777353594
+    expires_at: 1777439993
+    finalizing_at: 
+    completed_at: 
+    failed_at: 
+    expired_at: 
+    cancelling_at: 
+    cancelled_at: 
+    request_counts:
+      total: 1000
+      completed: 0
+      failed: 0
+    usage:
+      input_tokens: 0
+      output_tokens: 0
+      total_tokens: 0
+      input_tokens_details:
+        cached_tokens: 0
+      output_tokens_details:
+        reasoning_tokens: 0
+    metadata:
+      repo: ancient-wisdom-atlas
+      run_id: passage-embeddings-2026-04-27-corpus-sharded
+      shard_id: shard-0002
+      pipeline: embeddings
+  batch_created_at: '2026-04-28T05:19:53Z'
+  output_file_id: 
+  error_file_id: 
+  last_checked_at: '2026-04-28T05:20:10Z'
+- shard_id: shard-0003
+  path: data/batches/passage-embeddings-2026-04-27-corpus-sharded/requests/shard-0003.jsonl
+  request_count: 1000
+  embedding_input_count: 1000
+  bytes: 5058641
+  sha256: 24b75504255e05c03ce4ff1d4ce9caac2e157ae0d100a49eb720da6bad2110a5
+  endpoint: "/v1/embeddings"
+  model: text-embedding-3-large
+  status: prepared
+- shard_id: shard-0004
+  path: data/batches/passage-embeddings-2026-04-27-corpus-sharded/requests/shard-0004.jsonl
+  request_count: 386
+  embedding_input_count: 386
+  bytes: 1898318
+  sha256: 55091e2306a01a1d190091aa88ee7a78dad97f78ced9f7ad952a02a432345825
+  endpoint: "/v1/embeddings"
+  model: text-embedding-3-large
+  status: prepared
+

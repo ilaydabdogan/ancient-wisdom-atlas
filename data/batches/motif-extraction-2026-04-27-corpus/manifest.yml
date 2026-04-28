@@ -2,15 +2,19 @@
 batch_pipeline_manifest_version: '1'
 run_id: motif-extraction-2026-04-27-corpus
 created_at: '2026-04-28T02:43:05Z'
-updated_at: '2026-04-28T05:10:38Z'
+updated_at: '2026-04-28T05:20:09Z'
 artifacts:
   passages_path: data/batches/motif-extraction-2026-04-27-corpus/passages.jsonl
   requests_index_path: data/batches/motif-extraction-2026-04-27-corpus/requests/index.yml
   request_map_path: data/batches/motif-extraction-2026-04-27-corpus/request-map.jsonl
 openai: {}
-state: {}
+state:
+  last_status_check_at: '2026-04-28T05:20:09Z'
+  batch_status_counts:
+    failed: 3
+    in_progress: 1
 pipeline: motif_extraction
-status: requests_prepared
+status: jobs_created
 config:
   segmentation:
     glob: texts/public-domain/**/*.md
@@ -33,6 +37,8 @@ counts:
   requests_prepared: 3386
   request_shards: 4
   skipped_ingested_requests: 0
+  request_shards_uploaded: 4
+  batch_jobs_created: 4
 source_texts:
 - path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
   source_text_id: biblical.deuteronomy.web_classic

@@ -1,0 +1,187 @@
+---
+batch_request_index_version: '1'
+run_id: motif-extraction-2026-04-27-corpus-sharded
+created_at: '2026-04-28T05:21:04Z'
+updated_at: '2026-04-28T05:21:30Z'
+endpoint: "/v1/responses"
+model: gpt-5.2
+prompt_path: templates/batch-motif-extraction-prompt.md
+passages_path: data/batches/motif-extraction-2026-04-27-corpus/passages.jsonl
+request_map_path: data/batches/motif-extraction-2026-04-27-corpus-sharded/request-map.jsonl
+skipped_ingested_count: 0
+shards:
+- shard_id: shard-0001
+  path: data/batches/motif-extraction-2026-04-27-corpus-sharded/requests/shard-0001.jsonl
+  request_count: 250
+  bytes: 3858562
+  sha256: 62a816229c152f44c9c83cde3260715dd59e43778baca8ad44a6f983843f07c0
+  endpoint: "/v1/responses"
+  model: gpt-5.2
+  status: failed
+  input_file_id: file-Y82JRSqj5KspgXXhFrxKiZ
+  input_file:
+    object: file
+    id: file-Y82JRSqj5KspgXXhFrxKiZ
+    purpose: batch
+    filename: shard-0001.jsonl
+    bytes: 3858562
+    created_at: 1777353678
+    expires_at: 1779945678
+    status: processed
+    status_details: 
+  uploaded_at: '2026-04-28T05:21:18Z'
+  batch_id: batch_69f043cec720819080a107a9269eb103
+  batch:
+    id: batch_69f043cec720819080a107a9269eb103
+    object: batch
+    endpoint: "/v1/responses"
+    model: gpt-5.2-2025-12-11
+    errors:
+      object: list
+      data:
+      - code: token_limit_exceeded
+        message: 'Enqueued token limit reached for gpt-5.2 in organization org-aFYWZsfMb26b4ASZPE69bFE4.
+          Limit: 900,000 enqueued tokens. Please try again once some in_progress batches
+          have been completed.'
+        param: 
+        line: 
+    input_file_id: file-Y82JRSqj5KspgXXhFrxKiZ
+    completion_window: 24h
+    status: failed
+    output_file_id: 
+    error_file_id: 
+    created_at: 1777353678
+    in_progress_at: 
+    expires_at: 1777440078
+    finalizing_at: 
+    completed_at: 
+    failed_at: 1777353679
+    expired_at: 
+    cancelling_at: 
+    cancelled_at: 
+    request_counts:
+      total: 0
+      completed: 0
+      failed: 0
+    usage:
+      input_tokens: 0
+      output_tokens: 0
+      total_tokens: 0
+      input_tokens_details:
+        cached_tokens: 0
+      output_tokens_details:
+        reasoning_tokens: 0
+    metadata:
+      repo: ancient-wisdom-atlas
+      run_id: motif-extraction-2026-04-27-corpus-sharded
+      shard_id: shard-0001
+      pipeline: motif_extraction
+  batch_created_at: '2026-04-28T05:21:18Z'
+  output_file_id: 
+  error_file_id: 
+  last_checked_at: '2026-04-28T05:21:30Z'
+- shard_id: shard-0002
+  path: data/batches/motif-extraction-2026-04-27-corpus-sharded/requests/shard-0002.jsonl
+  request_count: 250
+  bytes: 4119097
+  sha256: 5770acf94a763ad388b360a5f7253277f74c64790e57d854afe237656d31118d
+  endpoint: "/v1/responses"
+  model: gpt-5.2
+  status: prepared
+- shard_id: shard-0003
+  path: data/batches/motif-extraction-2026-04-27-corpus-sharded/requests/shard-0003.jsonl
+  request_count: 250
+  bytes: 4026838
+  sha256: 493d1d856e7cc9a1af83222f257e56b439d40e6f64b82ca54d420197fa225beb
+  endpoint: "/v1/responses"
+  model: gpt-5.2
+  status: prepared
+- shard_id: shard-0004
+  path: data/batches/motif-extraction-2026-04-27-corpus-sharded/requests/shard-0004.jsonl
+  request_count: 250
+  bytes: 4189919
+  sha256: f7ff4f45e04b1148a460b2aa2374cec1d54f5ac4b41381f5439a33f0d23007d8
+  endpoint: "/v1/responses"
+  model: gpt-5.2
+  status: prepared
+- shard_id: shard-0005
+  path: data/batches/motif-extraction-2026-04-27-corpus-sharded/requests/shard-0005.jsonl
+  request_count: 250
+  bytes: 4096704
+  sha256: 0b6cec9d836206a16e5dcc329b161f1c6c6930e51f7528650279ba9feb3afd0d
+  endpoint: "/v1/responses"
+  model: gpt-5.2
+  status: prepared
+- shard_id: shard-0006
+  path: data/batches/motif-extraction-2026-04-27-corpus-sharded/requests/shard-0006.jsonl
+  request_count: 250
+  bytes: 4249482
+  sha256: 883f1ce4c6f257b6ea754277bd4569131da3d60e602eabfb157cc8ea5e8974ef
+  endpoint: "/v1/responses"
+  model: gpt-5.2
+  status: prepared
+- shard_id: shard-0007
+  path: data/batches/motif-extraction-2026-04-27-corpus-sharded/requests/shard-0007.jsonl
+  request_count: 250
+  bytes: 4081526
+  sha256: e8f00ee5f6c8b0465d12dd5dc9b08513af65181783f1503e0938a7c325259937
+  endpoint: "/v1/responses"
+  model: gpt-5.2
+  status: prepared
+- shard_id: shard-0008
+  path: data/batches/motif-extraction-2026-04-27-corpus-sharded/requests/shard-0008.jsonl
+  request_count: 250
+  bytes: 4106636
+  sha256: 3a9e905ef2f34939e52e7c84e5b0a579ec22c57d036fa580c03c3bbf8d4dcd03
+  endpoint: "/v1/responses"
+  model: gpt-5.2
+  status: prepared
+- shard_id: shard-0009
+  path: data/batches/motif-extraction-2026-04-27-corpus-sharded/requests/shard-0009.jsonl
+  request_count: 250
+  bytes: 4280104
+  sha256: 86964946eda8dabd22a80baf308df10a65386a7acc372b9936b07bc84aa75efb
+  endpoint: "/v1/responses"
+  model: gpt-5.2
+  status: prepared
+- shard_id: shard-0010
+  path: data/batches/motif-extraction-2026-04-27-corpus-sharded/requests/shard-0010.jsonl
+  request_count: 250
+  bytes: 3972496
+  sha256: 64b81d9460576aff040e7326ddfe8624f22246130291c421ad63a901d883416c
+  endpoint: "/v1/responses"
+  model: gpt-5.2
+  status: prepared
+- shard_id: shard-0011
+  path: data/batches/motif-extraction-2026-04-27-corpus-sharded/requests/shard-0011.jsonl
+  request_count: 250
+  bytes: 4092383
+  sha256: cc95a550bb783e2f95c8a5fc2995f8f2faee888eb0b5c2c4b149183206ea191e
+  endpoint: "/v1/responses"
+  model: gpt-5.2
+  status: prepared
+- shard_id: shard-0012
+  path: data/batches/motif-extraction-2026-04-27-corpus-sharded/requests/shard-0012.jsonl
+  request_count: 250
+  bytes: 4098456
+  sha256: '01879bb81a538c9ae340c39697d80fcf8154b7aa3e254d724236a87a9c1de9f1'
+  endpoint: "/v1/responses"
+  model: gpt-5.2
+  status: prepared
+- shard_id: shard-0013
+  path: data/batches/motif-extraction-2026-04-27-corpus-sharded/requests/shard-0013.jsonl
+  request_count: 250
+  bytes: 4097507
+  sha256: 1537469f65ce5f9a0ab0c09b728461201d708861a67b0aa25ced679253c179e1
+  endpoint: "/v1/responses"
+  model: gpt-5.2
+  status: prepared
+- shard_id: shard-0014
+  path: data/batches/motif-extraction-2026-04-27-corpus-sharded/requests/shard-0014.jsonl
+  request_count: 136
+  bytes: 2228425
+  sha256: ed8be566e8d27014333716e52191293d5decd69c8c3bb64ad5d4d3747dc7eb35
+  endpoint: "/v1/responses"
+  model: gpt-5.2
+  status: prepared
+
