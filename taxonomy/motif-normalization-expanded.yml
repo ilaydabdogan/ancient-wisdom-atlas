@@ -1288,6 +1288,23 @@ canonical_motif_groups:
   draft_reason_existing_groups_insufficient: Existing groups cover thresholds, love,
     and death, but none directly covers lethal enchantment or seductive supernatural
     luring as the narrative mechanism.
+- id: external_soul
+  label: External Soul and Life-Token
+  description: A being's life, soul, vulnerability, or death is bound to an external
+    animal, object, plant, or hidden token whose damage causes harm or death.
+  children:
+  - death_by_destruction_of_an_external_animal_soul
+  - death_caused_by_damage_to_external_life_object
+  aliases: []
+  related:
+  - sacred_treasures
+  - shapeshifter
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - death_and_transformation
+  draft_reason_existing_groups_insufficient: Existing groups cover death, objects,
+    and transformation broadly but do not preserve the distinctive externalized-life
+    mechanism.
 - id: external_detachable_soul
   label: External or Detachable Soul
   description: A person's life, soul, or vital essence is located outside the ordinary
@@ -2526,6 +2543,169 @@ raw_motif_group_index:
     notes: 'The motif treats mortality as a desired transformative release from endless
       suffering. Caution: Could be merged with death_as_release_from_cursed_misery
       as an alias if both refer to the same narrative pattern.'
+  death_by_destruction_of_an_external_animal_soul:
+    group_id: external_soul
+    relationship: child
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'External soul motifs are a recurring comparative pattern distinct from
+      general death transformation or shapeshifting. Caution: Needs review to decide
+      whether to group animal-soul and life-object variants together; not every animal
+      association is shapeshifting.'
+  death_caused_by_damage_to_external_life_object:
+    group_id: external_soul
+    relationship: child
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'This is a life-token or external-soul death mechanism, not merely a sacred
+      object motif. Caution: Review alongside animal-soul variant; if only one-off
+      in corpus, preserve as granular child rather than taxonomy family.'
+  death_of_a_tyrant_celebrated_by_the_people:
+    group_id: divine_judgment
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The death of a tyrant celebrated by the people functions as moral reckoning
+      and social release after oppressive rule. Caution: If the passage emphasizes
+      politics rather than sacred or karmic justice, royal legitimacy or exclusion
+      as contextual detail may be better.'
+  death_omen_produced_by_ritual_failure_or_contact_with_the_death_figure:
+    group_id: divine_judgment
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A death omen caused by ritual failure fits sacred order responding to
+      ritual breach or improper contact. Caution: If the emphasis is divination rather
+      than consequence, dream_and_vision or a future omen group may be preferable.'
+  death_or_misfortune_apparition:
+    group_id: dream_and_vision
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'An apparition foretelling death or misfortune is a visionary warning or
+      omen-bearing perception. Caution: Could also belong under death_by_fate if the
+      passage stresses unavoidable destiny, or departed spirits if the apparition
+      is a ghost.'
+  deathlike_sleep_during_passage:
+    group_id: death_and_transformation
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Deathlike sleep during a passage is a temporary death-state or liminal
+      transition within transformation narratives. Caution: If the passage is specifically
+      a journey threshold, descent or initiation may be the better primary group.'
+  deity_with_absolute_power_over_life_and_death:
+    group_id: divine_judgment
+    relationship: role_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A deity controlling life and death functions as divine authority over
+      mortal fate and moral or cosmic order. Caution: May be a deity-description artifact
+      rather than a narrative motif unless tied to action, judgment, restoration,
+      or punishment.'
+  departed_spirits_return_to_warn_the_living:
+    group_id: dream_and_vision
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Returning spirits who warn the living operate as postmortem messengers
+      or visionary warning figures. Caution: If the passage maps the dead person''s
+      realm or journey, afterlife_passage may be secondary; if it stresses ancestor
+      cult, a future ancestor group may be needed.'
+  desecration_of_defeated_enemy_s_corpse:
+    group_id: divine_warrior
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Corpse desecration after combat is tied to warrior honor, defeat, and
+      sacred conflict consequences. Caution: Could also belong under lament or burial
+      ethics if passage emphasizes mourning or funerary violation rather than combat.'
+  destructive_passion_leading_to_death:
+    group_id: pride_and_downfall
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A harmful inner passion produces ruin or death, matching the downfall
+      pattern through destructive attachment or excess. Caution: In Buddhist context
+      this may be more ethical-psychological than hubris; consider a future attachment/craving
+      group if many recur.'
+  discarded_object_spirit_causes_child_deaths_until_ritually_honoured:
+    group_id: sacred_exchange
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The deaths cease when the offended spirit receives ritual honor, fitting
+      reciprocal repair with sacred powers. Caution: Highly culture-specific object-spirit
+      logic should be preserved; may also involve divine judgment or animist spirit
+      appeasement.'
+  divine_helper_counsels_returning_hero:
+    group_id: hero_journey
+    relationship: functional_variant
+    confidence: high
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A divine helper advising a hero during return fits the return phase of
+      the hero-journey pattern. Caution: If the counsel is primarily revelation or
+      prophecy, sacred_knowledge or divine_intervention may also be relevant.'
+  divinely_aided_passage_of_a_unique_vessel_through_deadly_rocks:
+    group_id: divine_intervention
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The key function is supernatural aid enabling safe passage through a deadly
+      obstacle. Caution: Could also be sacred_vessel or hero_journey if the vessel
+      itself or quest structure is the focus; label is over-specific.'
+  dying_animal_laments_the_manner_of_its_death:
+    group_id: lament_and_mourning
+    relationship: role_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The motif centers on lament at death, with an animal occupying the lamenting
+      role. Caution: If the animal’s speech is the salient feature, an animal/trickster
+      or transformation grouping may be relevant; preserve animal detail.'
+  dying_mother_addresses_daughter:
+    group_id: lament_and_mourning
+    relationship: over_specific_label
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A deathbed address belongs with mourning and tragic recognition when its
+      main context is impending death and familial loss. Caution: Too specific for
+      a canonical motif unless repeated; if the address contains instruction, sacred_law
+      or wisdom may also apply.'
+  dying_mother_s_moral_injunction_to_child:
+    group_id: sacred_law
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The salient element is a moral command transmitted within a family at
+      death, fitting ethical instruction and social order. Caution: May also belong
+      to lament_and_mourning if grief or farewell matters more than the injunction’s
+      content.'
+  dying_parent_gives_a_remembrance_token:
+    group_id: sacred_treasures
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A token passed at death functions as a charged object preserving memory,
+      identity, or obligation. Caution: If the token is ordinary evidence detail with
+      no power or narrative function, exclude or keep as passage note; also overlaps
+      mourning.'
   external_or_detachable_soul:
     group_id: external_detachable_soul
     relationship: uncertain
@@ -2552,11 +2732,11 @@ expansion_draft:
   purpose: Draft expansion generated from model normalization suggestions. Review
     before merging into taxonomy/motif-normalization.yml.
   include_low_confidence: false
-  suggestion_count: 60
-  accepted_mapping_count: 41
-  new_group_candidate_count: 7
+  suggestion_count: 80
+  accepted_mapping_count: 58
+  new_group_candidate_count: 8
   excluded_count: 3
-  needs_review_count: 16
+  needs_review_count: 19
   already_known_count: 0
 expansion_review_flags:
   low_confidence_or_needs_human_review:
@@ -2801,6 +2981,51 @@ expansion_review_flags:
       no existing group cleanly captures the ritual or cosmological function.
     cautions: 'Needs source evidence: could be ancestor cult, divine intervention,
       sacred waters, fertility rite, or local weather magic.'
+  - motif_id: death_by_a_weapon_made_partly_from_oneself_or_one_s_kind
+    label: death by a weapon made partly from oneself or one's kind
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label describes a very specific death mechanism, but its symbolic
+      function is unclear from the label alone.
+    cautions: Could belong under death by fate, sacred treasures, divine judgment,
+      or a local etiological detail depending on passage evidence.
+  - motif_id: death_through_loss_of_shadow
+    label: Death through loss of shadow
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: new_group_candidate
+    suggested_group_id: ''
+    suggested_group_label: External Soul and Life-Token
+    relationship: symbolic_variant
+    confidence: low
+    reason: low confidence
+    rationale: Loss of shadow may indicate loss of soul, life-force, or externalized
+      vital double, related to external-soul patterns.
+    cautions: Culturally sensitive and semantically variable; shadow may mean soul,
+      status, protection, or omen depending on source.
+  - motif_id: detained_sleeper_s_soul_causing_illness
+    label: detained sleeper’s soul causing illness
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: Soul absence during sleep, detention, and illness may involve dream
+      travel, otherworld capture, or folk-medical soul loss.
+    cautions: Existing groups do not clearly cover illness from detained soul without
+      more source context; avoid forcing into afterlife or descent.
   new_group_candidates:
   - id: apotropaic_protection
     label: Apotropaic Protection Against Spirits
@@ -2915,6 +3140,23 @@ expansion_review_flags:
     draft_reason_existing_groups_insufficient: Existing groups cover thresholds, love,
       and death, but none directly covers lethal enchantment or seductive supernatural
       luring as the narrative mechanism.
+  - id: external_soul
+    label: External Soul and Life-Token
+    description: A being's life, soul, vulnerability, or death is bound to an external
+      animal, object, plant, or hidden token whose damage causes harm or death.
+    children:
+    - death_by_destruction_of_an_external_animal_soul
+    - death_caused_by_damage_to_external_life_object
+    aliases: []
+    related:
+    - sacred_treasures
+    - shapeshifter
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - death_and_transformation
+    draft_reason_existing_groups_insufficient: Existing groups cover death, objects,
+      and transformation broadly but do not preserve the distinctive externalized-life
+      mechanism.
   - id: external_detachable_soul
     label: External or Detachable Soul
     description: A person's life, soul, or vital essence is located outside the ordinary

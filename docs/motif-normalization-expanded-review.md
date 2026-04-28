@@ -6,10 +6,10 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 
 ## Summary
 
-- Suggestions reviewed: 60
-- Accepted draft mappings: 41
-- New canonical group candidates: 7
-- Low-confidence / needs human review: 16
+- Suggestions reviewed: 80
+- Accepted draft mappings: 58
+- New canonical group candidates: 8
+- Low-confidence / needs human review: 19
 - Suggested exclusions: 3
 - Already known in base normalization: 0
 
@@ -19,6 +19,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | --- | --- | ---: | --- |
 | `apotropaic_protection` | Apotropaic Protection Against Spirits | 3 | Existing sacred-object and judgment groups do not capture the recurring protective/averting function against spirits or pollution. |
 | `external_detachable_soul` | External or Detachable Soul | 2 | Existing groups cover death, rebirth, vessels, and shapeshifting, but not the specific pattern of vital essence externalized from the body. |
+| `external_soul` | External Soul and Life-Token | 2 | Existing groups cover death, objects, and transformation broadly but do not preserve the distinctive externalized-life mechanism. |
 | `external_soul_life_token` | External Soul and Life Token | 2 | Existing object groups cover sacred power objects or vessels, but not the recurring narrative function of an externally stored life or soul. |
 | `perilous_lure_fatal_enchantment` | Perilous Lure and Fatal Enchantment | 1 | Existing groups cover thresholds, love, and death, but none directly covers lethal enchantment or seductive supernatural luring as the narrative mechanism. |
 | `ritual_expulsion_boundary_sealing` | Ritual Expulsion and Boundary Sealing | 3 | Existing groups include sacrifice, sacred law, and threshold guardianship, but not the recurring ritual sequence of expulsion plus boundary closure. |
@@ -45,8 +46,11 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `covered_mouth_or_face_blocks_spiritual_danger` | covered mouth or face blocks spiritual danger | needs_human_review | ``  | low | low confidence |
 | `danger_of_a_sacred_or_spirit_bearing_substance_over_a_tabooed_head` | danger of a sacred or spirit-bearing substance over a tabooed head | needs_human_review | ``  | low | low confidence |
 | `dead_or_departed_agent_mediating_rain` | Dead or departed agent mediating rain | needs_human_review | ``  | low | low confidence |
+| `death_by_a_weapon_made_partly_from_oneself_or_one_s_kind` | death by a weapon made partly from oneself or one's kind | needs_human_review | ``  | low | low confidence |
+| `death_through_loss_of_shadow` | Death through loss of shadow | new_group_candidate | `` External Soul and Life-Token | low | low confidence |
+| `detained_sleeper_s_soul_causing_illness` | detained sleeper’s soul causing illness | needs_human_review | ``  | low | low confidence |
 
-_Showing first 16 of 16 review rows._
+_Showing first 19 of 19 review rows._
 
 ## Suggested Exclusions
 

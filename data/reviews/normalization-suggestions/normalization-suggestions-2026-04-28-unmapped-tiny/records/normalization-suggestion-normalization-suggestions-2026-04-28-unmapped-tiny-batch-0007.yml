@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-28-unmapped-tiny.batch-0007
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.death-by-a-weapon-made-partly-from-oneself-or-one-s-kind
+  motif_id: death_by_a_weapon_made_partly_from_oneself_or_one_s_kind
+  label: death by a weapon made partly from oneself or one's kind
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a very specific death mechanism, but its symbolic
+    function is unclear from the label alone.
+  cautions: Could belong under death by fate, sacred treasures, divine judgment, or
+    a local etiological detail depending on passage evidence.
+  suggested_aliases:
+  - weapon made from victim's own substance
+  - death by kindred material weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-by-destruction-of-an-external-animal-soul
+  motif_id: death_by_destruction_of_an_external_animal_soul
+  label: Death by destruction of an external animal-soul
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: External Soul and Life-Token
+  relationship: child
+  confidence: medium
+  rationale: External soul motifs are a recurring comparative pattern distinct from
+    general death transformation or shapeshifting.
+  cautions: Needs review to decide whether to group animal-soul and life-object variants
+    together; not every animal association is shapeshifting.
+  suggested_aliases:
+  - external animal soul
+  - life hidden in animal
+  - death by destruction of external soul
+  suggested_new_group:
+    id: external_soul
+    label: External Soul and Life-Token
+    description: A being's life, soul, vulnerability, or death is bound to an external
+      animal, object, plant, or hidden token whose damage causes harm or death.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - sacred_treasures
+    - shapeshifter
+    reason_existing_groups_insufficient: Existing groups cover death, objects, and
+      transformation broadly but do not preserve the distinctive externalized-life
+      mechanism.
+- suggestion_id: normalization.suggestion.death-caused-by-damage-to-external-life-object
+  motif_id: death_caused_by_damage_to_external_life_object
+  label: Death caused by damage to external life-object
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: External Soul and Life-Token
+  relationship: child
+  confidence: medium
+  rationale: This is a life-token or external-soul death mechanism, not merely a sacred
+    object motif.
+  cautions: Review alongside animal-soul variant; if only one-off in corpus, preserve
+    as granular child rather than taxonomy family.
+  suggested_aliases:
+  - external life object
+  - life-token destroyed
+  - life bound to object
+  suggested_new_group:
+    id: external_soul
+    label: External Soul and Life-Token
+    description: A being's life, soul, vulnerability, or death is bound to an external
+      animal, object, plant, or hidden token whose damage causes harm or death.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - sacred_treasures
+    - sacred_vessel
+    reason_existing_groups_insufficient: Sacred treasures and death transformation
+      are too broad to capture the specific external-life vulnerability.
+- suggestion_id: normalization.suggestion.death-of-a-tyrant-celebrated-by-the-people
+  motif_id: death_of_a_tyrant_celebrated_by_the_people
+  label: Death of a tyrant celebrated by the people
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The death of a tyrant celebrated by the people functions as moral reckoning
+    and social release after oppressive rule.
+  cautions: If the passage emphasizes politics rather than sacred or karmic justice,
+    royal legitimacy or exclusion as contextual detail may be better.
+  suggested_aliases:
+  - tyrant's death celebrated
+  - oppressor's death as public relief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-omen-produced-by-ritual-failure-or-contact-with-the-death-figure
+  motif_id: death_omen_produced_by_ritual_failure_or_contact_with_the_death_figure
+  label: Death omen produced by ritual failure or contact with the Death figure
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A death omen caused by ritual failure fits sacred order responding to
+    ritual breach or improper contact.
+  cautions: If the emphasis is divination rather than consequence, dream_and_vision
+    or a future omen group may be preferable.
+  suggested_aliases:
+  - death omen from ritual failure
+  - death omen by contact with Death
+  - ritual failure as death portent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-or-misfortune-apparition
+  motif_id: death_or_misfortune_apparition
+  label: death-or-misfortune apparition
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: An apparition foretelling death or misfortune is a visionary warning
+    or omen-bearing perception.
+  cautions: Could also belong under death_by_fate if the passage stresses unavoidable
+    destiny, or departed spirits if the apparition is a ghost.
+  suggested_aliases:
+  - death apparition
+  - misfortune apparition
+  - omen apparition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-through-loss-of-shadow
+  motif_id: death_through_loss_of_shadow
+  label: Death through loss of shadow
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: External Soul and Life-Token
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Loss of shadow may indicate loss of soul, life-force, or externalized
+    vital double, related to external-soul patterns.
+  cautions: Culturally sensitive and semantically variable; shadow may mean soul,
+    status, protection, or omen depending on source.
+  suggested_aliases:
+  - loss of shadow causes death
+  - shadow as life-soul
+  - death by soul-shadow loss
+  suggested_new_group:
+    id: external_soul
+    label: External Soul and Life-Token
+    description: A being's life, soul, vulnerability, or death is bound to an external
+      double, animal, object, shadow, plant, or hidden token whose loss or damage
+      causes harm or death.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - duality
+    - dream_and_vision
+    reason_existing_groups_insufficient: Existing groups do not preserve the life-force
+      double or externalized-vitality mechanism.
+- suggestion_id: normalization.suggestion.deathlike-sleep-during-passage
+  motif_id: deathlike_sleep_during_passage
+  label: Deathlike sleep during passage
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Deathlike sleep during a passage is a temporary death-state or liminal
+    transition within transformation narratives.
+  cautions: If the passage is specifically a journey threshold, descent or initiation
+    may be the better primary group.
+  suggested_aliases:
+  - deathlike sleep
+  - sleep as temporary death
+  - liminal sleep during passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-with-absolute-power-over-life-and-death
+  motif_id: deity_with_absolute_power_over_life_and_death
+  label: deity with absolute power over life and death
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: medium
+  rationale: A deity controlling life and death functions as divine authority over
+    mortal fate and moral or cosmic order.
+  cautions: May be a deity-description artifact rather than a narrative motif unless
+    tied to action, judgment, restoration, or punishment.
+  suggested_aliases:
+  - lord of life and death
+  - deity ruling life and death
+  - divine power over death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.departed-spirits-return-to-warn-the-living
+  motif_id: departed_spirits_return_to_warn_the_living
+  label: Departed spirits return to warn the living
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Returning spirits who warn the living operate as postmortem messengers
+    or visionary warning figures.
+  cautions: If the passage maps the dead person's realm or journey, afterlife_passage
+    may be secondary; if it stresses ancestor cult, a future ancestor group may be
+    needed.
+  suggested_aliases:
+  - ghost returns to warn
+  - dead warn the living
+  - departed spirit warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are one-occurrence comparative death mechanisms; human
+  review should decide whether they are recurring motif types or source-specific evidence
+  notes.
+- Consider adding an External Soul and Life-Token review group if similar labels recur
+  across the gap audit.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; no transmission claims implied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-28'
+batch:
+  run_id: normalization-suggestions-2026-04-28-unmapped-tiny
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-28-unmapped-tiny-batch-0007
+  input_sha256: 3a1f823b146c6e0055ab0b0f6e37bc81f0fef0621550a96631c9f78b3b5440ef
+

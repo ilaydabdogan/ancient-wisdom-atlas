@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-28-unmapped-tiny.batch-0008
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.desecration-of-defeated-enemy-s-corpse
+  motif_id: desecration_of_defeated_enemy_s_corpse
+  label: Desecration of defeated enemy's corpse
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Corpse desecration after combat is tied to warrior honor, defeat, and
+    sacred conflict consequences.
+  cautions: Could also belong under lament or burial ethics if passage emphasizes
+    mourning or funerary violation rather than combat.
+  suggested_aliases:
+  - corpse desecration after defeat
+  - dishonor of defeated enemy
+  - post-battle body violation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-passion-leading-to-death
+  motif_id: destructive_passion_leading_to_death
+  label: destructive passion leading to death
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: narrower_than
+  confidence: medium
+  rationale: A harmful inner passion produces ruin or death, matching the downfall
+    pattern through destructive attachment or excess.
+  cautions: In Buddhist context this may be more ethical-psychological than hubris;
+    consider a future attachment/craving group if many recur.
+  suggested_aliases:
+  - fatal passion
+  - desire leading to death
+  - destructive attachment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.detained-sleeper-s-soul-causing-illness
+  motif_id: detained_sleeper_s_soul_causing_illness
+  label: detained sleeper’s soul causing illness
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Soul absence during sleep, detention, and illness may involve dream travel,
+    otherworld capture, or folk-medical soul loss.
+  cautions: Existing groups do not clearly cover illness from detained soul without
+    more source context; avoid forcing into afterlife or descent.
+  suggested_aliases:
+  - soul loss during sleep
+  - captured sleeper's soul
+  - illness from detained soul
+  suggested_new_group:
+    id: soul_loss_and_spirit_illness
+    label: Soul Loss and Spirit Illness
+    description: Illness or danger caused by a soul’s absence, capture, wandering,
+      or detention by spirits or otherworld powers.
+    parent_group_ids:
+    - dream_and_vision
+    - otherworld
+    related_group_ids:
+    - descent
+    - death_and_transformation
+    reason_existing_groups_insufficient: Current groups cover dreams, otherworlds,
+      and death journeys, but not the recurring folk-medical pattern of soul absence
+      causing illness.
+- suggestion_id: normalization.suggestion.discarded-object-spirit-causes-child-deaths-until-ritually-honoured
+  motif_id: discarded_object_spirit_causes_child_deaths_until_ritually_honoured
+  label: Discarded object spirit causes child deaths until ritually honoured
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The deaths cease when the offended spirit receives ritual honor, fitting
+    reciprocal repair with sacred powers.
+  cautions: Highly culture-specific object-spirit logic should be preserved; may also
+    involve divine judgment or animist spirit appeasement.
+  suggested_aliases:
+  - offended object spirit appeased by ritual
+  - ritual honoring of discarded spirit
+  - spirit-caused deaths repaired by honor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-helper-counsels-returning-hero
+  motif_id: divine_helper_counsels_returning_hero
+  label: Divine helper counsels returning hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine helper advising a hero during return fits the return phase of
+    the hero-journey pattern.
+  cautions: If the counsel is primarily revelation or prophecy, sacred_knowledge or
+    divine_intervention may also be relevant.
+  suggested_aliases:
+  - divine counsel on return
+  - helper advises returning hero
+  - supernatural guidance for homecoming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-aided-passage-of-a-unique-vessel-through-deadly-rocks
+  motif_id: divinely_aided_passage_of_a_unique_vessel_through_deadly_rocks
+  label: Divinely aided passage of a unique vessel through deadly rocks
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is supernatural aid enabling safe passage through a
+    deadly obstacle.
+  cautions: Could also be sacred_vessel or hero_journey if the vessel itself or quest
+    structure is the focus; label is over-specific.
+  suggested_aliases:
+  - divinely aided dangerous passage
+  - supernatural aid through deadly rocks
+  - protected vessel passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dying-animal-laments-the-manner-of-its-death
+  motif_id: dying_animal_laments_the_manner_of_its_death
+  label: dying animal laments the manner of its death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif centers on lament at death, with an animal occupying the lamenting
+    role.
+  cautions: If the animal’s speech is the salient feature, an animal/trickster or
+    transformation grouping may be relevant; preserve animal detail.
+  suggested_aliases:
+  - animal death lament
+  - dying animal speech
+  - lament by dying animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dying-mother-addresses-daughter
+  motif_id: dying_mother_addresses_daughter
+  label: dying mother addresses daughter
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A deathbed address belongs with mourning and tragic recognition when
+    its main context is impending death and familial loss.
+  cautions: Too specific for a canonical motif unless repeated; if the address contains
+    instruction, sacred_law or wisdom may also apply.
+  suggested_aliases:
+  - deathbed address to daughter
+  - dying mother's farewell
+  - maternal deathbed speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dying-mother-s-moral-injunction-to-child
+  motif_id: dying_mother_s_moral_injunction_to_child
+  label: Dying mother’s moral injunction to child
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The salient element is a moral command transmitted within a family at
+    death, fitting ethical instruction and social order.
+  cautions: May also belong to lament_and_mourning if grief or farewell matters more
+    than the injunction’s content.
+  suggested_aliases:
+  - deathbed moral injunction
+  - dying parent's ethical command
+  - maternal final instruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dying-parent-gives-a-remembrance-token
+  motif_id: dying_parent_gives_a_remembrance_token
+  label: dying parent gives a remembrance token
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A token passed at death functions as a charged object preserving memory,
+    identity, or obligation.
+  cautions: If the token is ordinary evidence detail with no power or narrative function,
+    exclude or keep as passage note; also overlaps mourning.
+  suggested_aliases:
+  - deathbed remembrance token
+  - dying parent's keepsake
+  - memorial token from parent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and over-specific; preserve as evidence details
+  even when mapped to broad query groups.
+- Deathbed family motifs often straddle lament, moral instruction, and charged-object
+  inheritance; placement should follow passage emphasis.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; one soul-loss motif flagged for human review
+    and possible new group consideration.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-28'
+batch:
+  run_id: normalization-suggestions-2026-04-28-unmapped-tiny
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-28-unmapped-tiny-batch-0008
+  input_sha256: 4342a244f4f7a93f7b3a11b4e494137fb793793ca230c68a275cf5b28773b911
+
