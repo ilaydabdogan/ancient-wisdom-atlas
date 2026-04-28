@@ -184,7 +184,7 @@ items:
     full_text: allowed
     training_use: allowed
   ingestion_status: canonical_text_added
-  extraction_status: pending_seed_records
+  extraction_status: seed_records_added
 - id: egyptian.book_of_the_dead.budge_gutenberg
   title: The Book of the Dead
   tradition_cluster: egyptian
@@ -302,7 +302,7 @@ items:
     full_text: allowed
     training_use: allowed
   ingestion_status: canonical_text_added
-  extraction_status: pending_seed_records
+  extraction_status: seed_records_added
 - id: islamic.koran.rodwell_gutenberg
   title: The Koran (Al-Qur'an)
   tradition_cluster: islamic
@@ -388,6 +388,58 @@ items:
   canonical_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
   manifest_path: manifests/project-gutenberg/10315-persian-literature-volume-1.yml
   extraction_dir: extractions/persian/project-gutenberg/persian-literature-volume-1
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: seed_records_added
+- id: sufi.al_ghazzali.confessions_field_gutenberg
+  title: The Confessions of Al Ghazzali
+  tradition_cluster: islamic_persian_sufi
+  source_id: source.project_gutenberg.58977
+  canonical_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  manifest_path: manifests/project-gutenberg/58977-confessions-al-ghazzali.yml
+  extraction_dir: extractions/sufi/project-gutenberg/confessions-al-ghazzali
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: seed_records_added
+- id: sufi.mystics_and_saints_of_islam.field_gutenberg
+  title: Mystics and Saints of Islam
+  tradition_cluster: islamic_sufi
+  source_id: source.project_gutenberg.24314
+  canonical_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  manifest_path: manifests/project-gutenberg/24314-mystics-and-saints-of-islam.yml
+  extraction_dir: extractions/sufi/project-gutenberg/mystics-and-saints-of-islam
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: seed_records_added
+- id: sufi.mystics_of_islam.nicholson_gutenberg
+  title: The Mystics of Islam
+  tradition_cluster: islamic_sufi
+  source_id: source.project_gutenberg.67388
+  canonical_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  manifest_path: manifests/project-gutenberg/67388-mystics-of-islam-nicholson.yml
+  extraction_dir: extractions/sufi/project-gutenberg/mystics-of-islam
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: seed_records_added
+- id: sufi.rumi.mesnevi_book_1_redhouse_gutenberg
+  title: The Mesnevi
+  tradition_cluster: islamic_persian_sufi
+  source_id: source.project_gutenberg.61724
+  canonical_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  manifest_path: manifests/project-gutenberg/61724-mesnevi-book-1-redhouse.yml
+  extraction_dir: extractions/sufi/project-gutenberg/mesnevi-book-1
   rights:
     status: public_domain
     full_text: allowed

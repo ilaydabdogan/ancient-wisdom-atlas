@@ -1,0 +1,145 @@
+---
+record_id: extraction.sufi.rabia.divine_love_no_room_for_world
+source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+passage_locator:
+  label: Mystics and Saints of Islam, Rabia, the Woman Sufi
+  start: lines 1037
+  end: lines 1047
+  translation: Claud Field, Project Gutenberg eBook #24314
+  notes: Stable line locator from canonical Markdown; public-domain English study and translated material.
+canonical_text:
+  quote: |
+    O Rabia, if thou desirest it, I will give thee the whole world
+    for thine own; but I shall have to take away the love which thou hast
+    for Me from thy heart.
+  language: English
+  quote_policy: short_public_domain_excerpt
+literal_observations:
+- id: obs:1
+  text: A voice offers Rabia the whole world at the cost of the love she has for God.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the love of God and the love of the world cannot exist together.
+  category: doctrine
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Rabia responds by expelling earthly love from her heart and praying for absorption in divine love.
+  category: action
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Rabia
+  description: Woman Sufi whose heart is presented as wholly oriented toward divine love.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: divine voice
+  description: Voice that frames the world and divine love as incompatible objects of attachment.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: lover of God
+  assigned_to:
+  - fig:1
+  basis: Rabia chooses divine love over the whole world and prays that no other affection remain.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: revealer of attachment's cost
+  assigned_to:
+  - fig:2
+  basis: The voice says the love of God and the love of the world cannot coexist in Rabia's heart.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: whole world
+  literal_form: the world offered as possession
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - renunciation
+  - sacrifice
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: heart filled by divine love
+  literal_form: Rabia's heart having no room for other affection
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - divine_beloved
+  - annihilation_union
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Rabia chooses divine love over the world
+  summary: A divine voice offers Rabia worldly possession at the cost of divine love, and she turns away from earthly attachment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: divine beloved excludes worldly possession
+  taxonomy_refs:
+  - divine_beloved
+  - renunciation
+  - sacrifice
+  basis: Rabia rejects the whole world because divine love is treated as incompatible with worldly attachment.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The story is hagiographical and should be compared as devotional literature, not as direct biography.
+- id: motif:2
+  label: heart emptied for one love
+  taxonomy_refs:
+  - annihilation_union
+  - mystical_quest
+  basis: Rabia's prayer asks to be so absorbed in divine love that no other affection can occupy the heart.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage speaks of absorption in love, while technical union language should be reviewed carefully.
+comparison_claims:
+- id: claim:1
+  claim: Rabia's scene gives the atlas a Sufi form of sacred exchange where the offered object is the whole world and the chosen object is divine love.
+  claim_level: same_function
+  target: pattern.sacrifice_and_covenant / pattern.mystical_quest
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is about renunciation and love, not covenant law or ritual sacrifice.
+evidence:
+- id: ev:1
+  type: quote_and_summary
+  locator: Mystics and Saints of Islam, Rabia, lines 1037-1047
+  quote_or_summary: A voice tells Rabia she cannot keep both the world and divine love; Rabia turns from earthly love and prays for absorption in God's love.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public-domain Project Gutenberg source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The divine-love and renunciation motifs are explicit; union language is interpretive.
+reviewer_status:
+  status: draft
+  notes: Draft extraction; mark hagiographical framing in future review.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Seed extraction for Rabia, divine beloved, renunciation, and heart symbolism.

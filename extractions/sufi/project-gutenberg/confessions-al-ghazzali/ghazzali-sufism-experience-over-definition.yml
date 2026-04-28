@@ -1,0 +1,148 @@
+---
+record_id: extraction.sufi.al_ghazzali.confessions.sufism_experience_over_definition
+source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+passage_locator:
+  label: The Confessions of Al Ghazzali, Sufism
+  start: lines 920
+  end: lines 954
+  translation: Claud Field, Project Gutenberg eBook #58977
+  notes: Stable line locator from canonical Markdown; public-domain translation.
+canonical_text:
+  quote: |
+    I saw that in order to understand it thoroughly
+    one must combine theory with practice.
+
+    Sufism consists in experiences rather than in definitions.
+  language: English
+  quote_policy: short_public_domain_excerpt
+literal_observations:
+- id: obs:1
+  text: Al Ghazzali says Sufism requires both theory and practice.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: He describes the Sufi aim as freeing the soul from passions and leaving room in the purified heart for God.
+  category: doctrine
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: He distinguishes knowing definitions from undergoing ecstasy, initiation, and moral transformation.
+  category: comparison
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Al Ghazzali
+  description: Seeker and narrator who moves from intellectual study toward lived Sufi discipline.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sufis
+  description: Practitioners whose way is presented as purification, practice, and experiential knowledge.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: seeker after experiential truth
+  assigned_to:
+  - fig:1
+  basis: The narrator studies Sufism and concludes that instruction alone cannot reach the final stage.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: path exemplars
+  assigned_to:
+  - fig:2
+  basis: The Sufis' aim is described as purifying the soul and heart for God.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: purified heart
+  literal_form: heart with room only for God
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - self_knowledge
+  - mystical_quest
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: definitions versus experience
+  literal_form: contrast between theoretical knowledge and being transformed
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - wisdom
+  - initiation
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Study becomes practice
+  summary: Al Ghazzali finds that Sufi truth cannot be completed by books and instruction alone; it requires lived transformation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: theory crossed into initiation
+  taxonomy_refs:
+  - mystical_quest
+  - wisdom
+  - initiation
+  basis: The passage marks a threshold where intellectual knowledge must become practice, ecstasy, and moral transformation.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an autobiographical philosophical passage, not a mythic quest narrative.
+- id: motif:2
+  label: purification of the heart
+  taxonomy_refs:
+  - self_knowledge
+  - renunciation
+  - mystical_quest
+  basis: The Sufi goal is framed as freeing the soul from passions so the heart remains for God.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: Taxonomy may later split purification, renunciation, and contemplative practice into separate motifs.
+comparison_claims:
+- id: claim:1
+  claim: The passage gives the atlas a clear Sufi version of wisdom as threshold practice rather than information alone.
+  claim_level: same_function
+  target: comparison.wisdom_revelation_quest
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison should preserve the specific Islamic theological language of heart, God, and invocation.
+evidence:
+- id: ev:1
+  type: quote_and_summary
+  locator: The Confessions of Al Ghazzali, Sufism, lines 920-954
+  quote_or_summary: Al Ghazzali says Sufism requires theory joined to practice and consists in experiences rather than definitions.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public-domain Project Gutenberg source text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The contrast between instruction and lived transformation is explicit.
+reviewer_status:
+  status: draft
+  notes: Draft extraction; verify terminology against Arabic source if using for scholarly claims.
+extracted_by: Codex
+extracted_at: '2026-04-27'
+notes: Seed extraction for Sufi practice, renunciation, and experiential wisdom.

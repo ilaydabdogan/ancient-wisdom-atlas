@@ -1,8 +1,8 @@
 ---
 generated_on: '2026-04-27'
 source: extractions
-motif_count: 125
-occurrence_count: 330
+motif_count: 131
+occurrence_count: 352
 motifs:
 - motif_id: wisdom
   label: Wisdom
@@ -17,6 +17,7 @@ motifs:
     hindu: 10
     islamic: 3
     mesopotamian: 4
+    sufi: 3
   occurrences:
   - record_id: extraction.deuteronomy.covenant_renewal_moab
     extraction_path: extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-covenant-renewal-moab.yml
@@ -1162,6 +1163,60 @@ motifs:
       type: quote
       quote_or_summary: Forth from our dwelling thou never shalt fare, / Unless wiser
         than I thou art.
+  - record_id: extraction.sufi.al_ghazzali.confessions.sufism_experience_over_definition
+    extraction_path: extractions/sufi/project-gutenberg/confessions-al-ghazzali/ghazzali-sufism-experience-over-definition.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+    source_title: The Confessions of Al Ghazzali
+    tradition: sufi
+    culture: persian_islamic_sufi_later_translation
+    region: iran_west_asia
+    passage_locator: The Confessions of Al Ghazzali, Sufism
+    motif_label: theory crossed into initiation
+    basis: The passage marks a threshold where intellectual knowledge must become
+      practice, ecstasy, and moral transformation.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: The Confessions of Al Ghazzali, Sufism, lines 920-954
+      type: quote_and_summary
+      quote_or_summary: Al Ghazzali says Sufism requires theory joined to practice
+        and consists in experiences rather than definitions.
+  - record_id: extraction.sufi.rumi.mesnevi.reed_flute_separation_longing
+    extraction_path: extractions/sufi/project-gutenberg/mesnevi-book-1/mesnevi-reed-flute-separation-longing.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+    source_title: The Mesnevi
+    tradition: sufi
+    culture: persian_sufi_mevlevi_later_translation
+    region: iran_anatolia
+    passage_locator: The Mesnevi, Book I, Proem, The Reed-Flute
+    motif_label: sacred song as wound and medicine
+    basis: The flute's sound carries grief and joy, making music a vehicle of spiritual
+      teaching.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: The Mesnevi, Book I, Proem, lines 5400-5429
+      type: quote_and_summary
+      quote_or_summary: The reed-flute tells of absence from its reed-bed and voices
+        the grief and joy of the absent lover.
+  - record_id: extraction.sufi.mystics_of_islam.path_stages_gnosis_union
+    extraction_path: extractions/sufi/project-gutenberg/mystics-of-islam/sufi-path-stages-gnosis-union.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+    source_title: The Mystics of Islam
+    tradition: sufi
+    culture: islamic_sufi_scholarship
+    region: west_asia_iran_north_africa_south_asia
+    passage_locator: The Mystics of Islam, The Path
+    motif_label: seeker becomes knower
+    basis: The passage says the seeker becomes the knower and realizes knowledge,
+      knower, and known as one.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: The Mystics of Islam, The Path, lines 796-837
+      type: quote_and_summary
+      quote_or_summary: Nicholson presents Sufi spiritual life as a journey or pilgrimage
+        through stages and states toward gnosis, truth, and union with Reality.
 - motif_id: divine_judgment
   label: Divine Judgment
   traditions:
@@ -1640,6 +1695,7 @@ motifs:
     hindu: 4
     maya_quiche: 1
     mesopotamian: 1
+    sufi: 2
   occurrences:
   - record_id: extraction.numbers.wilderness_wandering_judgment
     extraction_path: extractions/biblical/world-english-bible-classic/numbers/numbers-wilderness-wandering-judgment.yml
@@ -2086,6 +2142,42 @@ motifs:
       type: summary
       quote_or_summary: Rustem faces the elephant, bends his iron mace with the blow,
         kills it in the dust, and receives Zal's amazed praise.
+  - record_id: extraction.sufi.al_ghazzali.confessions.sufism_experience_over_definition
+    extraction_path: extractions/sufi/project-gutenberg/confessions-al-ghazzali/ghazzali-sufism-experience-over-definition.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+    source_title: The Confessions of Al Ghazzali
+    tradition: sufi
+    culture: persian_islamic_sufi_later_translation
+    region: iran_west_asia
+    passage_locator: The Confessions of Al Ghazzali, Sufism
+    motif_label: theory crossed into initiation
+    basis: The passage marks a threshold where intellectual knowledge must become
+      practice, ecstasy, and moral transformation.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: The Confessions of Al Ghazzali, Sufism, lines 920-954
+      type: quote_and_summary
+      quote_or_summary: Al Ghazzali says Sufism requires theory joined to practice
+        and consists in experiences rather than definitions.
+  - record_id: extraction.sufi.mystics_of_islam.path_stages_gnosis_union
+    extraction_path: extractions/sufi/project-gutenberg/mystics-of-islam/sufi-path-stages-gnosis-union.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+    source_title: The Mystics of Islam
+    tradition: sufi
+    culture: islamic_sufi_scholarship
+    region: west_asia_iran_north_africa_south_asia
+    passage_locator: The Mystics of Islam, The Path
+    motif_label: mapped interior pilgrimage
+    basis: Sufi spiritual life is described as a journey, pilgrimage, path, and ascent
+      with stages.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: The Mystics of Islam, The Path, lines 796-837
+      type: quote_and_summary
+      quote_or_summary: Nicholson presents Sufi spiritual life as a journey or pilgrimage
+        through stages and states toward gnosis, truth, and union with Reality.
 - motif_id: death_rebirth
   label: Death And Rebirth
   traditions:
@@ -2713,6 +2805,7 @@ motifs:
     norse: 1
     greek: 1
     hindu: 4
+    sufi: 1
   occurrences:
   - record_id: extraction.exodus.passover_plague
     extraction_path: extractions/biblical/world-english-bible-classic/exodus/exodus-passover-plague.yml
@@ -2949,6 +3042,24 @@ motifs:
       type: summary
       quote_or_summary: Bharat reverently circles Ráma, places the bright sandals
         above his brows, and has them bound upon the royal elephant before departing.
+  - record_id: extraction.sufi.rabia.divine_love_no_room_for_world
+    extraction_path: extractions/sufi/project-gutenberg/mystics-and-saints-of-islam/rabia-divine-love-no-room-for-world.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+    source_title: Mystics and Saints of Islam
+    tradition: sufi
+    culture: islamic_sufi_biographical_collection
+    region: west_asia_iran_north_africa_south_asia
+    passage_locator: Mystics and Saints of Islam, Rabia, the Woman Sufi
+    motif_label: divine beloved excludes worldly possession
+    basis: Rabia rejects the whole world because divine love is treated as incompatible
+      with worldly attachment.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: Mystics and Saints of Islam, Rabia, lines 1037-1047
+      type: quote_and_summary
+      quote_or_summary: A voice tells Rabia she cannot keep both the world and divine
+        love; Rabia turns from earthly love and prays for absorption in God's love.
 - motif_id: covenant
   label: Covenant
   traditions:
@@ -3959,6 +4070,156 @@ motifs:
       type: quote
       quote_or_summary: Nine worlds I knew, the nine in the tree / With mighty roots
         beneath the mold.
+- motif_id: departure
+  label: Departure
+  traditions:
+    jewish_christian: 1
+    celtic_irish: 1
+    persian: 2
+    norse: 1
+    sufi: 1
+  occurrences:
+  - record_id: extraction.numbers.wilderness_wandering_judgment
+    extraction_path: extractions/biblical/world-english-bible-classic/numbers/numbers-wilderness-wandering-judgment.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+    source_title: Numbers
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Numbers 14:1-35
+    motif_label: wilderness_wandering
+    basis: The passage sends the community back into the wilderness for a prolonged
+      journey.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Numbers 14:1-35
+      type: quote
+      quote_or_summary: Only don't rebel against Yahweh... Your children shall be
+        wanderers in the wilderness forty years.
+  - record_id: extraction.celtic_irish.gods_and_fighting_men.oisin_country_of_young
+    extraction_path: extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-oisin-country-of-young.yml
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+    source_title: Gods and Fighting Men
+    tradition: celtic_irish
+    culture: medieval_irish_later_retelling
+    region: ireland
+    passage_locator: 'Book Eleven, Chapter I: Oisin''s Story; journey to and return
+      from the Country of the Young'
+    motif_label: departure_to_transformed_realm
+    basis: Oisin leaves Ireland and enters a realm of altered time, marriage, feasting,
+      and changed status.
+    confidence: medium
+    evidence:
+    - id: ev:2
+      locator: lines 14381-14385
+      type: summary
+      quote_or_summary: Oisin says he and Niamh turned westward over the sea, with
+        the sea going away before them and filling in behind.
+    - id: ev:5
+      locator: lines 14408-14424
+      type: summary
+      quote_or_summary: The country has blossoms, smooth plains, a grand dun, shining
+        palaces, armed men, young girls, and royal figures.
+    - id: ev:6
+      locator: lines 14426-14435
+      type: summary
+      quote_or_summary: The king welcomes Oisin, promises long-lasting life and youth
+        forever, and identifies Niamh as his daughter.
+  - record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l15309-l15336
+    extraction_path: extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/persian-literature-volume-1/batch-motif-persian-persian-literature-volume-1-gutenberg-l15309-l15336.yml
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    source_title: Persian Literature, Volume 1
+    tradition: persian
+    culture: medieval_iranian_later_anthology
+    region: iran_central_asia
+    passage_locator: THE RUBIYT OF OMAR KHAYYM / THE RUBIYT / THE DIVAN / BY HFIZ;
+      lines 15309-15336
+    motif_label: Departure/absence anticipated in a familiar place
+    basis: The moon is imagined to look for the speakers again in the same garden
+      and to seek one in vain, implying a forthcoming absence.
+    confidence: low
+    evidence:
+    - id: ev:1
+      locator: lines 15309-15313
+      type: summary
+      quote_or_summary: The moon is addressed as rising again; it will wax and wane
+        often in the future and rise to look for the speakers through the same garden,
+        looking for one in vain.
+  - record_id: extraction.norse.poetic_edda.vafthruthnismol_odin_wisdom_contest
+    extraction_path: extractions/norse/project-gutenberg/poetic-edda/vafthruthnismol-odin-wisdom-contest.yml
+    source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+    source_title: The Poetic Edda
+    tradition: norse
+    culture: old_norse_medieval_icelandic
+    region: scandinavia_north_atlantic
+    passage_locator: Vafthruthnismol 1-8
+    motif_label: departure_to_liminal_opponent
+    basis: The god leaves home and enters the hall of a powerful giant wisdom-opponent.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Vafthruthnismol 1
+      type: quote
+      quote_or_summary: In wisdom old with the giant wise / Myself would I seek to
+        match.
+    - id: ev:3
+      locator: Vafthruthnismol 5-6
+      type: summary
+      quote_or_summary: Othin goes to test the giant's wisdom, enters the hall, and
+        greets Vafthruthnir.
+  - record_id: extraction.persian.persian_literature_volume_1.zal_alberz_simurgh_feather
+    extraction_path: extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    source_title: Persian Literature, Volume 1
+    tradition: persian
+    culture: medieval_iranian_later_anthology
+    region: iran_central_asia
+    passage_locator: Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and
+      return
+    motif_label: mountain_fosterage_and_return
+    basis: Zal is left on Alberz, raised in the mountain refuge, and returned from
+      it with changed status and future promise.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: lines 2430-2438
+      type: summary
+      quote_or_summary: Sam leaves the mocked child on Alberz, but the Simurgh pities
+        him on the rock and carries him to its own habitation.
+    - id: ev:5
+      locator: lines 2485-2492
+      type: summary
+      quote_or_summary: Sam goes to Alberz in person, weeps and prays for forgiveness,
+        and asks for the forsaken child to be restored to him.
+    - id: ev:6
+      locator: lines 2494-2506
+      type: summary
+      quote_or_summary: The Simurgh tells Zal it has nursed him, named him Dustn,
+        taught him language and understanding, and now must return him to Sam.
+    - id: ev:7
+      locator: lines 2506-2519
+      type: summary
+      quote_or_summary: The Simurgh gives Zal a feather to burn whenever danger comes,
+        then presents him to Sam as worthy of throne and diadem.
+  - record_id: extraction.sufi.rumi.mesnevi.reed_flute_separation_longing
+    extraction_path: extractions/sufi/project-gutenberg/mesnevi-book-1/mesnevi-reed-flute-separation-longing.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+    source_title: The Mesnevi
+    tradition: sufi
+    culture: persian_sufi_mevlevi_later_translation
+    region: iran_anatolia
+    passage_locator: The Mesnevi, Book I, Proem, The Reed-Flute
+    motif_label: longing for return to source
+    basis: The reed-flute's song begins from separation and turns absence into the
+      desire for return.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: The Mesnevi, Book I, Proem, lines 5400-5429
+      type: quote_and_summary
+      quote_or_summary: The reed-flute tells of absence from its reed-bed and voices
+        the grief and joy of the absent lover.
 - motif_id: miraculous_child
   label: Miraculous Child
   traditions:
@@ -4119,6 +4380,165 @@ motifs:
       type: summary
       quote_or_summary: The Simurgh's young are also kind to the infant, who is nourished
         and protected for several years.
+- motif_id: return
+  label: Return
+  traditions:
+    celtic_irish: 1
+    celtic_welsh: 1
+    persian: 2
+    norse: 1
+    sufi: 1
+  occurrences:
+  - record_id: extraction.celtic_irish.gods_and_fighting_men.oisin_country_of_young
+    extraction_path: extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-oisin-country-of-young.yml
+    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+    source_title: Gods and Fighting Men
+    tradition: celtic_irish
+    culture: medieval_irish_later_retelling
+    region: ireland
+    passage_locator: 'Book Eleven, Chapter I: Oisin''s Story; journey to and return
+      from the Country of the Young'
+    motif_label: return_from_otherworld_with_time_shift
+    basis: Oisin returns from the Country of the Young to a changed Ireland and immediately
+      ages when he violates the return condition.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: lines 14366-14373
+      type: summary
+      quote_or_summary: Oisin returns long after Niamh took him away; the time seemed
+        short to him, but he is later found old and fallen from the white horse.
+    - id: ev:7
+      locator: lines 14454-14472
+      type: summary
+      quote_or_summary: Niamh allows Oisin to return but warns that touching the ground
+        will prevent return and make him old, blind, and withered.
+    - id: ev:8
+      locator: lines 14533-14544
+      type: summary
+      quote_or_summary: Oisin forgets the warning, dismounts by the stone trough,
+        the years come upon him, and the horse leaves him.
+  - record_id: extraction.celtic_welsh.mabinogion.pwyll_annwvyn_exchange
+    extraction_path: extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-pwyll-annwvyn-exchange.yml
+    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+    source_title: The Mabinogion
+    tradition: celtic_welsh
+    culture: medieval_welsh_later_translation
+    region: wales
+    passage_locator: Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn
+    motif_label: return_with_new_status
+    basis: Pwyll returns from Annwvyn after ruling and gains the title Chief of Annwvyn.
+    confidence: medium
+    evidence:
+    - id: ev:8
+      locator: lines 6010-6047
+      type: summary
+      quote_or_summary: Arawn restores Pwyll's form, Pwyll returns to Dyved, friendship
+        is strengthened, and Pwyll is called Chief of Annwvyn.
+  - record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l5019-l5036
+    extraction_path: extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/persian-literature-volume-1/batch-motif-persian-persian-literature-volume-1-gutenberg-l5019-l5036.yml
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    source_title: Persian Literature, Volume 1
+    tradition: persian
+    culture: medieval_iranian_later_anthology
+    region: iran_central_asia
+    passage_locator: KAI-KS / THE SEVEN LABORS OF RUSTEM / INVASION OF IRN BY AFRSIYB
+      / THE RETURN OF KAI-KS; lines 5019-5036
+    motif_label: Hero returns home after victory and reports to rulers
+    basis: Rustem reports victory by letter to Kai-ks and the party returns home to
+      pay respects to the Persian king.
+    confidence: medium
+    evidence:
+    - id: ev:2
+      locator: lines 5021-5024
+      type: summary
+      quote_or_summary: Rustem and companions fall back to the sporting-grounds; from
+        there Rustem informs Kai-ks by letter of the victory gained.
+    - id: ev:4
+      locator: lines 5026-5027
+      type: summary
+      quote_or_summary: The party returns home to pay their respects to the Persian
+        king.
+  - record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l11252-l11299
+    extraction_path: extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l11252-l11299.yml
+    source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+    source_title: The Poetic Edda
+    tradition: norse
+    culture: old_norse_medieval_icelandic
+    region: scandinavia_north_atlantic
+    passage_locator: HELGAKVITHA HJORVARTHSSONAR / THE LAY OF HELGI THE SON OF HJORVARTH
+      / INTRODUCTORY NOTE / OF HJORVARTH AND SIGRLIN; lines 11252-11299
+    motif_label: Hero's death and being 'born again' (rebirth of hero and beloved)
+    basis: The passage reports Helgi's fatal wounding/fall and then explicitly states
+      that Helgi and Svava were born again.
+    confidence: high
+    evidence:
+    - id: ev:2
+      locator: st. 39 (Sigar)
+      type: summary
+      quote_or_summary: Sigar reports Helgi fell in the morning at Frekastein; calls
+        him the noblest king beneath the sun; says Alf has the joy of victory.
+    - id: ev:3
+      locator: st. 40 (Helgi)
+      type: summary
+      quote_or_summary: Helgi greets Svava, says this is their last meeting in life,
+        and describes his bleeding wounds and a sword near his heart.
+    - id: ev:7
+      locator: prose note after st. 43
+      type: summary
+      quote_or_summary: The text states that Helgi and Svava were born again.
+  - record_id: extraction.persian.persian_literature_volume_1.zal_alberz_simurgh_feather
+    extraction_path: extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml
+    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+    source_title: Persian Literature, Volume 1
+    tradition: persian
+    culture: medieval_iranian_later_anthology
+    region: iran_central_asia
+    passage_locator: Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and
+      return
+    motif_label: mountain_fosterage_and_return
+    basis: Zal is left on Alberz, raised in the mountain refuge, and returned from
+      it with changed status and future promise.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: lines 2430-2438
+      type: summary
+      quote_or_summary: Sam leaves the mocked child on Alberz, but the Simurgh pities
+        him on the rock and carries him to its own habitation.
+    - id: ev:5
+      locator: lines 2485-2492
+      type: summary
+      quote_or_summary: Sam goes to Alberz in person, weeps and prays for forgiveness,
+        and asks for the forsaken child to be restored to him.
+    - id: ev:6
+      locator: lines 2494-2506
+      type: summary
+      quote_or_summary: The Simurgh tells Zal it has nursed him, named him Dustn,
+        taught him language and understanding, and now must return him to Sam.
+    - id: ev:7
+      locator: lines 2506-2519
+      type: summary
+      quote_or_summary: The Simurgh gives Zal a feather to burn whenever danger comes,
+        then presents him to Sam as worthy of throne and diadem.
+  - record_id: extraction.sufi.rumi.mesnevi.reed_flute_separation_longing
+    extraction_path: extractions/sufi/project-gutenberg/mesnevi-book-1/mesnevi-reed-flute-separation-longing.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+    source_title: The Mesnevi
+    tradition: sufi
+    culture: persian_sufi_mevlevi_later_translation
+    region: iran_anatolia
+    passage_locator: The Mesnevi, Book I, Proem, The Reed-Flute
+    motif_label: longing for return to source
+    basis: The reed-flute's song begins from separation and turns absence into the
+      desire for return.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: The Mesnevi, Book I, Proem, lines 5400-5429
+      type: quote_and_summary
+      quote_or_summary: The reed-flute tells of absence from its reed-bed and voices
+        the grief and joy of the absent lover.
 - motif_id: shapeshifter
   label: Shapeshifter
   traditions:
@@ -4295,137 +4715,198 @@ motifs:
       quote_or_summary: 'Additional glosses of Othin’s by-names, including ‘Fjolsvith:
         Wide of Wisdom,’ and other descriptive epithets (e.g., many-shaped, swift
         in deceit, long-bearded).'
-- motif_id: departure
-  label: Departure
+- motif_id: ascent
+  label: Ascent
   traditions:
-    jewish_christian: 1
-    celtic_irish: 1
-    persian: 2
-    norse: 1
+    jewish_christian: 3
+    egyptian: 1
+    sufi: 1
   occurrences:
-  - record_id: extraction.numbers.wilderness_wandering_judgment
-    extraction_path: extractions/biblical/world-english-bible-classic/numbers/numbers-wilderness-wandering-judgment.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
-    source_title: Numbers
+  - record_id: extraction.deuteronomy.moses_death_succession
+    extraction_path: extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-moses-death-succession.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+    source_title: Deuteronomy
     tradition: jewish_christian
     culture: ancient_israelite_later_biblical_reception
     region: levant
-    passage_locator: Numbers 14:1-35
-    motif_label: wilderness_wandering
-    basis: The passage sends the community back into the wilderness for a prolonged
-      journey.
+    passage_locator: Deuteronomy 34:1-12
+    motif_label: ascent
+    basis: Moses goes up to Mount Nebo before seeing the land and dying.
     confidence: medium
     evidence:
     - id: ev:1
-      locator: Numbers 14:1-35
+      locator: Deuteronomy 34:1-12
       type: quote
-      quote_or_summary: Only don't rebel against Yahweh... Your children shall be
-        wanderers in the wilderness forty years.
-  - record_id: extraction.celtic_irish.gods_and_fighting_men.oisin_country_of_young
-    extraction_path: extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-oisin-country-of-young.yml
-    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
-    source_title: Gods and Fighting Men
-    tradition: celtic_irish
-    culture: medieval_irish_later_retelling
-    region: ireland
-    passage_locator: 'Book Eleven, Chapter I: Oisin''s Story; journey to and return
-      from the Country of the Young'
-    motif_label: departure_to_transformed_realm
-    basis: Oisin leaves Ireland and enters a realm of altered time, marriage, feasting,
-      and changed status.
-    confidence: medium
-    evidence:
-    - id: ev:2
-      locator: lines 14381-14385
-      type: summary
-      quote_or_summary: Oisin says he and Niamh turned westward over the sea, with
-        the sea going away before them and filling in behind.
-    - id: ev:5
-      locator: lines 14408-14424
-      type: summary
-      quote_or_summary: The country has blossoms, smooth plains, a grand dun, shining
-        palaces, armed men, young girls, and royal figures.
-    - id: ev:6
-      locator: lines 14426-14435
-      type: summary
-      quote_or_summary: The king welcomes Oisin, promises long-lasting life and youth
-        forever, and identifies Niamh as his daughter.
-  - record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l15309-l15336
-    extraction_path: extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/persian-literature-volume-1/batch-motif-persian-persian-literature-volume-1-gutenberg-l15309-l15336.yml
-    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
-    source_title: Persian Literature, Volume 1
-    tradition: persian
-    culture: medieval_iranian_later_anthology
-    region: iran_central_asia
-    passage_locator: THE RUBIYT OF OMAR KHAYYM / THE RUBIYT / THE DIVAN / BY HFIZ;
-      lines 15309-15336
-    motif_label: Departure/absence anticipated in a familiar place
-    basis: The moon is imagined to look for the speakers again in the same garden
-      and to seek one in vain, implying a forthcoming absence.
-    confidence: low
-    evidence:
-    - id: ev:1
-      locator: lines 15309-15313
-      type: summary
-      quote_or_summary: The moon is addressed as rising again; it will wax and wane
-        often in the future and rise to look for the speakers through the same garden,
-        looking for one in vain.
-  - record_id: extraction.norse.poetic_edda.vafthruthnismol_odin_wisdom_contest
-    extraction_path: extractions/norse/project-gutenberg/poetic-edda/vafthruthnismol-odin-wisdom-contest.yml
-    source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
-    source_title: The Poetic Edda
-    tradition: norse
-    culture: old_norse_medieval_icelandic
-    region: scandinavia_north_atlantic
-    passage_locator: Vafthruthnismol 1-8
-    motif_label: departure_to_liminal_opponent
-    basis: The god leaves home and enters the hall of a powerful giant wisdom-opponent.
+      quote_or_summary: Moses the servant of Yahweh died there in the land of Moab...
+        Joshua the son of Nun was full of the spirit of wisdom.
+  - record_id: extraction.exodus.sinai_covenant_ascent
+    extraction_path: extractions/biblical/world-english-bible-classic/exodus/exodus-sinai-covenant-ascent.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+    source_title: Exodus
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Exodus 19:1-20; 24:3-18
+    motif_label: ascent
+    basis: Candidate motif from literal passage evidence.
     confidence: medium
     evidence:
     - id: ev:1
-      locator: Vafthruthnismol 1
+      locator: Exodus 19:1-20; 24:3-18
       type: quote
-      quote_or_summary: In wisdom old with the giant wise / Myself would I seek to
-        match.
-    - id: ev:3
-      locator: Vafthruthnismol 5-6
-      type: summary
-      quote_or_summary: Othin goes to test the giant's wisdom, enters the hall, and
-        greets Vafthruthnir.
-  - record_id: extraction.persian.persian_literature_volume_1.zal_alberz_simurgh_feather
-    extraction_path: extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml
-    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
-    source_title: Persian Literature, Volume 1
-    tradition: persian
-    culture: medieval_iranian_later_anthology
-    region: iran_central_asia
-    passage_locator: Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and
-      return
-    motif_label: mountain_fosterage_and_return
-    basis: Zal is left on Alberz, raised in the mountain refuge, and returned from
-      it with changed status and future promise.
+      quote_or_summary: Moses went up to God... Yahweh's glory settled on Mount Sinai,
+        and the cloud covered it six days.
+  - record_id: extraction.genesis.dream_descent
+    extraction_path: extractions/biblical/world-english-bible-classic/genesis/genesis-dream-descent.yml
+    source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+    source_title: Genesis
+    tradition: jewish_christian
+    culture: ancient_israelite_later_biblical_reception
+    region: levant
+    passage_locator: Genesis 28:10-17
+    motif_label: ascent
+    basis: Candidate motif from literal passage evidence.
     confidence: medium
     evidence:
     - id: ev:1
-      locator: lines 2430-2438
+      locator: Genesis 28:10-17
+      type: quote
+      quote_or_summary: He dreamed and saw a stairway set upon the earth, and its
+        top reached to heaven.
+  - record_id: extraction.egyptian.book_of_the_dead.transformations_protection
+    extraction_path: extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml
+    source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+    source_title: The Book of the Dead
+    tradition: egyptian
+    culture: ancient_egyptian_later_translation
+    region: nile_valley
+    passage_locator: CHAPTER IX, A Short Description of the "Doors" or Chapters of
+      the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII,
+      and CLV-CLXVII
+    motif_label: ascent_by_boat_and_ladder
+    basis: The deceased is given a boat for the northern heavens and a ladder to ascend
+      to heaven.
+    confidence: medium
+    evidence:
+    - id: ev:4
+      locator: CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book
+        of the Dead; Chapters XCVIII-CIII
       type: summary
-      quote_or_summary: Sam leaves the mocked child on Alberz, but the Simurgh pities
-        him on the rock and carries him to its own habitation.
-    - id: ev:5
-      locator: lines 2485-2492
-      type: summary
-      quote_or_summary: Sam goes to Alberz in person, weeps and prays for forgiveness,
-        and asks for the forsaken child to be restored to him.
-    - id: ev:6
-      locator: lines 2494-2506
-      type: summary
-      quote_or_summary: The Simurgh tells Zal it has nursed him, named him Dustn,
-        taught him language and understanding, and now must return him to Sam.
-    - id: ev:7
-      locator: lines 2506-2519
-      type: summary
-      quote_or_summary: The Simurgh gives Zal a feather to burn whenever danger comes,
-        then presents him to Sam as worthy of throne and diadem.
+      quote_or_summary: Chapter XCVIII provides a boat and ladder; Chapters XCIX-CIII
+        describe the magical boat whose parts' mystic names must be known.
+  - record_id: extraction.sufi.mystics_of_islam.path_stages_gnosis_union
+    extraction_path: extractions/sufi/project-gutenberg/mystics-of-islam/sufi-path-stages-gnosis-union.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+    source_title: The Mystics of Islam
+    tradition: sufi
+    culture: islamic_sufi_scholarship
+    region: west_asia_iran_north_africa_south_asia
+    passage_locator: The Mystics of Islam, The Path
+    motif_label: mapped interior pilgrimage
+    basis: Sufi spiritual life is described as a journey, pilgrimage, path, and ascent
+      with stages.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: The Mystics of Islam, The Path, lines 796-837
+      type: quote_and_summary
+      quote_or_summary: Nicholson presents Sufi spiritual life as a journey or pilgrimage
+        through stages and states toward gnosis, truth, and union with Reality.
+- motif_id: mystical_quest
+  label: Mystical Quest
+  traditions:
+    sufi: 5
+  occurrences:
+  - record_id: extraction.sufi.al_ghazzali.confessions.sufism_experience_over_definition
+    extraction_path: extractions/sufi/project-gutenberg/confessions-al-ghazzali/ghazzali-sufism-experience-over-definition.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+    source_title: The Confessions of Al Ghazzali
+    tradition: sufi
+    culture: persian_islamic_sufi_later_translation
+    region: iran_west_asia
+    passage_locator: The Confessions of Al Ghazzali, Sufism
+    motif_label: theory crossed into initiation
+    basis: The passage marks a threshold where intellectual knowledge must become
+      practice, ecstasy, and moral transformation.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: The Confessions of Al Ghazzali, Sufism, lines 920-954
+      type: quote_and_summary
+      quote_or_summary: Al Ghazzali says Sufism requires theory joined to practice
+        and consists in experiences rather than definitions.
+  - record_id: extraction.sufi.al_ghazzali.confessions.sufism_experience_over_definition
+    extraction_path: extractions/sufi/project-gutenberg/confessions-al-ghazzali/ghazzali-sufism-experience-over-definition.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+    source_title: The Confessions of Al Ghazzali
+    tradition: sufi
+    culture: persian_islamic_sufi_later_translation
+    region: iran_west_asia
+    passage_locator: The Confessions of Al Ghazzali, Sufism
+    motif_label: purification of the heart
+    basis: The Sufi goal is framed as freeing the soul from passions so the heart
+      remains for God.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: The Confessions of Al Ghazzali, Sufism, lines 920-954
+      type: quote_and_summary
+      quote_or_summary: Al Ghazzali says Sufism requires theory joined to practice
+        and consists in experiences rather than definitions.
+  - record_id: extraction.sufi.rumi.mesnevi.reed_flute_separation_longing
+    extraction_path: extractions/sufi/project-gutenberg/mesnevi-book-1/mesnevi-reed-flute-separation-longing.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+    source_title: The Mesnevi
+    tradition: sufi
+    culture: persian_sufi_mevlevi_later_translation
+    region: iran_anatolia
+    passage_locator: The Mesnevi, Book I, Proem, The Reed-Flute
+    motif_label: longing for return to source
+    basis: The reed-flute's song begins from separation and turns absence into the
+      desire for return.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: The Mesnevi, Book I, Proem, lines 5400-5429
+      type: quote_and_summary
+      quote_or_summary: The reed-flute tells of absence from its reed-bed and voices
+        the grief and joy of the absent lover.
+  - record_id: extraction.sufi.rabia.divine_love_no_room_for_world
+    extraction_path: extractions/sufi/project-gutenberg/mystics-and-saints-of-islam/rabia-divine-love-no-room-for-world.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+    source_title: Mystics and Saints of Islam
+    tradition: sufi
+    culture: islamic_sufi_biographical_collection
+    region: west_asia_iran_north_africa_south_asia
+    passage_locator: Mystics and Saints of Islam, Rabia, the Woman Sufi
+    motif_label: heart emptied for one love
+    basis: Rabia's prayer asks to be so absorbed in divine love that no other affection
+      can occupy the heart.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Mystics and Saints of Islam, Rabia, lines 1037-1047
+      type: quote_and_summary
+      quote_or_summary: A voice tells Rabia she cannot keep both the world and divine
+        love; Rabia turns from earthly love and prays for absorption in God's love.
+  - record_id: extraction.sufi.mystics_of_islam.path_stages_gnosis_union
+    extraction_path: extractions/sufi/project-gutenberg/mystics-of-islam/sufi-path-stages-gnosis-union.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+    source_title: The Mystics of Islam
+    tradition: sufi
+    culture: islamic_sufi_scholarship
+    region: west_asia_iran_north_africa_south_asia
+    passage_locator: The Mystics of Islam, The Path
+    motif_label: mapped interior pilgrimage
+    basis: Sufi spiritual life is described as a journey, pilgrimage, path, and ascent
+      with stages.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: The Mystics of Islam, The Path, lines 796-837
+      type: quote_and_summary
+      quote_or_summary: Nicholson presents Sufi spiritual life as a journey or pilgrimage
+        through stages and states toward gnosis, truth, and union with Reality.
 - motif_id: resurrection
   label: Resurrection
   traditions:
@@ -4557,146 +5038,6 @@ motifs:
       locator: prose note after st. 43
       type: summary
       quote_or_summary: The text states that Helgi and Svava were born again.
-- motif_id: return
-  label: Return
-  traditions:
-    celtic_irish: 1
-    celtic_welsh: 1
-    persian: 2
-    norse: 1
-  occurrences:
-  - record_id: extraction.celtic_irish.gods_and_fighting_men.oisin_country_of_young
-    extraction_path: extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-oisin-country-of-young.yml
-    source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
-    source_title: Gods and Fighting Men
-    tradition: celtic_irish
-    culture: medieval_irish_later_retelling
-    region: ireland
-    passage_locator: 'Book Eleven, Chapter I: Oisin''s Story; journey to and return
-      from the Country of the Young'
-    motif_label: return_from_otherworld_with_time_shift
-    basis: Oisin returns from the Country of the Young to a changed Ireland and immediately
-      ages when he violates the return condition.
-    confidence: high
-    evidence:
-    - id: ev:1
-      locator: lines 14366-14373
-      type: summary
-      quote_or_summary: Oisin returns long after Niamh took him away; the time seemed
-        short to him, but he is later found old and fallen from the white horse.
-    - id: ev:7
-      locator: lines 14454-14472
-      type: summary
-      quote_or_summary: Niamh allows Oisin to return but warns that touching the ground
-        will prevent return and make him old, blind, and withered.
-    - id: ev:8
-      locator: lines 14533-14544
-      type: summary
-      quote_or_summary: Oisin forgets the warning, dismounts by the stone trough,
-        the years come upon him, and the horse leaves him.
-  - record_id: extraction.celtic_welsh.mabinogion.pwyll_annwvyn_exchange
-    extraction_path: extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-pwyll-annwvyn-exchange.yml
-    source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
-    source_title: The Mabinogion
-    tradition: celtic_welsh
-    culture: medieval_welsh_later_translation
-    region: wales
-    passage_locator: Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn
-    motif_label: return_with_new_status
-    basis: Pwyll returns from Annwvyn after ruling and gains the title Chief of Annwvyn.
-    confidence: medium
-    evidence:
-    - id: ev:8
-      locator: lines 6010-6047
-      type: summary
-      quote_or_summary: Arawn restores Pwyll's form, Pwyll returns to Dyved, friendship
-        is strengthened, and Pwyll is called Chief of Annwvyn.
-  - record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l5019-l5036
-    extraction_path: extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/persian-literature-volume-1/batch-motif-persian-persian-literature-volume-1-gutenberg-l5019-l5036.yml
-    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
-    source_title: Persian Literature, Volume 1
-    tradition: persian
-    culture: medieval_iranian_later_anthology
-    region: iran_central_asia
-    passage_locator: KAI-KS / THE SEVEN LABORS OF RUSTEM / INVASION OF IRN BY AFRSIYB
-      / THE RETURN OF KAI-KS; lines 5019-5036
-    motif_label: Hero returns home after victory and reports to rulers
-    basis: Rustem reports victory by letter to Kai-ks and the party returns home to
-      pay respects to the Persian king.
-    confidence: medium
-    evidence:
-    - id: ev:2
-      locator: lines 5021-5024
-      type: summary
-      quote_or_summary: Rustem and companions fall back to the sporting-grounds; from
-        there Rustem informs Kai-ks by letter of the victory gained.
-    - id: ev:4
-      locator: lines 5026-5027
-      type: summary
-      quote_or_summary: The party returns home to pay their respects to the Persian
-        king.
-  - record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l11252-l11299
-    extraction_path: extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l11252-l11299.yml
-    source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
-    source_title: The Poetic Edda
-    tradition: norse
-    culture: old_norse_medieval_icelandic
-    region: scandinavia_north_atlantic
-    passage_locator: HELGAKVITHA HJORVARTHSSONAR / THE LAY OF HELGI THE SON OF HJORVARTH
-      / INTRODUCTORY NOTE / OF HJORVARTH AND SIGRLIN; lines 11252-11299
-    motif_label: Hero's death and being 'born again' (rebirth of hero and beloved)
-    basis: The passage reports Helgi's fatal wounding/fall and then explicitly states
-      that Helgi and Svava were born again.
-    confidence: high
-    evidence:
-    - id: ev:2
-      locator: st. 39 (Sigar)
-      type: summary
-      quote_or_summary: Sigar reports Helgi fell in the morning at Frekastein; calls
-        him the noblest king beneath the sun; says Alf has the joy of victory.
-    - id: ev:3
-      locator: st. 40 (Helgi)
-      type: summary
-      quote_or_summary: Helgi greets Svava, says this is their last meeting in life,
-        and describes his bleeding wounds and a sword near his heart.
-    - id: ev:7
-      locator: prose note after st. 43
-      type: summary
-      quote_or_summary: The text states that Helgi and Svava were born again.
-  - record_id: extraction.persian.persian_literature_volume_1.zal_alberz_simurgh_feather
-    extraction_path: extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml
-    source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
-    source_title: Persian Literature, Volume 1
-    tradition: persian
-    culture: medieval_iranian_later_anthology
-    region: iran_central_asia
-    passage_locator: Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and
-      return
-    motif_label: mountain_fosterage_and_return
-    basis: Zal is left on Alberz, raised in the mountain refuge, and returned from
-      it with changed status and future promise.
-    confidence: medium
-    evidence:
-    - id: ev:1
-      locator: lines 2430-2438
-      type: summary
-      quote_or_summary: Sam leaves the mocked child on Alberz, but the Simurgh pities
-        him on the rock and carries him to its own habitation.
-    - id: ev:5
-      locator: lines 2485-2492
-      type: summary
-      quote_or_summary: Sam goes to Alberz in person, weeps and prays for forgiveness,
-        and asks for the forsaken child to be restored to him.
-    - id: ev:6
-      locator: lines 2494-2506
-      type: summary
-      quote_or_summary: The Simurgh tells Zal it has nursed him, named him Dustn,
-        taught him language and understanding, and now must return him to Sam.
-    - id: ev:7
-      locator: lines 2506-2519
-      type: summary
-      quote_or_summary: The Simurgh gives Zal a feather to burn whenever danger comes,
-        then presents him to Sam as worthy of throne and diadem.
 - motif_id: serpent
   label: Serpent
   traditions:
@@ -4794,84 +5135,6 @@ motifs:
       locator: lines 22700-23006
       type: summary
       quote_or_summary: The index includes the entry 'Svaf-nir, a serpent'.
-- motif_id: ascent
-  label: Ascent
-  traditions:
-    jewish_christian: 3
-    egyptian: 1
-  occurrences:
-  - record_id: extraction.deuteronomy.moses_death_succession
-    extraction_path: extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-moses-death-succession.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
-    source_title: Deuteronomy
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Deuteronomy 34:1-12
-    motif_label: ascent
-    basis: Moses goes up to Mount Nebo before seeing the land and dying.
-    confidence: medium
-    evidence:
-    - id: ev:1
-      locator: Deuteronomy 34:1-12
-      type: quote
-      quote_or_summary: Moses the servant of Yahweh died there in the land of Moab...
-        Joshua the son of Nun was full of the spirit of wisdom.
-  - record_id: extraction.exodus.sinai_covenant_ascent
-    extraction_path: extractions/biblical/world-english-bible-classic/exodus/exodus-sinai-covenant-ascent.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
-    source_title: Exodus
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Exodus 19:1-20; 24:3-18
-    motif_label: ascent
-    basis: Candidate motif from literal passage evidence.
-    confidence: medium
-    evidence:
-    - id: ev:1
-      locator: Exodus 19:1-20; 24:3-18
-      type: quote
-      quote_or_summary: Moses went up to God... Yahweh's glory settled on Mount Sinai,
-        and the cloud covered it six days.
-  - record_id: extraction.genesis.dream_descent
-    extraction_path: extractions/biblical/world-english-bible-classic/genesis/genesis-dream-descent.yml
-    source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
-    source_title: Genesis
-    tradition: jewish_christian
-    culture: ancient_israelite_later_biblical_reception
-    region: levant
-    passage_locator: Genesis 28:10-17
-    motif_label: ascent
-    basis: Candidate motif from literal passage evidence.
-    confidence: medium
-    evidence:
-    - id: ev:1
-      locator: Genesis 28:10-17
-      type: quote
-      quote_or_summary: He dreamed and saw a stairway set upon the earth, and its
-        top reached to heaven.
-  - record_id: extraction.egyptian.book_of_the_dead.transformations_protection
-    extraction_path: extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml
-    source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
-    source_title: The Book of the Dead
-    tradition: egyptian
-    culture: ancient_egyptian_later_translation
-    region: nile_valley
-    passage_locator: CHAPTER IX, A Short Description of the "Doors" or Chapters of
-      the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII,
-      and CLV-CLXVII
-    motif_label: ascent_by_boat_and_ladder
-    basis: The deceased is given a boat for the northern heavens and a ladder to ascend
-      to heaven.
-    confidence: medium
-    evidence:
-    - id: ev:4
-      locator: CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book
-        of the Dead; Chapters XCVIII-CIII
-      type: summary
-      quote_or_summary: Chapter XCVIII provides a boat and ladder; Chapters XCIX-CIII
-        describe the magical boat whose parts' mystic names must be known.
 - motif_id: culture_hero
   label: Culture Hero
   traditions:
@@ -5320,6 +5583,47 @@ motifs:
       type: summary
       quote_or_summary: The Simurgh's advice saves Rudabeh, and Rustem is born so
         prodigious that he looks a year old on his first day.
+- motif_id: annihilation_union
+  label: Annihilation And Union
+  traditions:
+    sufi: 2
+  occurrences:
+  - record_id: extraction.sufi.rabia.divine_love_no_room_for_world
+    extraction_path: extractions/sufi/project-gutenberg/mystics-and-saints-of-islam/rabia-divine-love-no-room-for-world.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+    source_title: Mystics and Saints of Islam
+    tradition: sufi
+    culture: islamic_sufi_biographical_collection
+    region: west_asia_iran_north_africa_south_asia
+    passage_locator: Mystics and Saints of Islam, Rabia, the Woman Sufi
+    motif_label: heart emptied for one love
+    basis: Rabia's prayer asks to be so absorbed in divine love that no other affection
+      can occupy the heart.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: Mystics and Saints of Islam, Rabia, lines 1037-1047
+      type: quote_and_summary
+      quote_or_summary: A voice tells Rabia she cannot keep both the world and divine
+        love; Rabia turns from earthly love and prays for absorption in God's love.
+  - record_id: extraction.sufi.mystics_of_islam.path_stages_gnosis_union
+    extraction_path: extractions/sufi/project-gutenberg/mystics-of-islam/sufi-path-stages-gnosis-union.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+    source_title: The Mystics of Islam
+    tradition: sufi
+    culture: islamic_sufi_scholarship
+    region: west_asia_iran_north_africa_south_asia
+    passage_locator: The Mystics of Islam, The Path
+    motif_label: seeker becomes knower
+    basis: The passage says the seeker becomes the knower and realizes knowledge,
+      knower, and known as one.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: The Mystics of Islam, The Path, lines 796-837
+      type: quote_and_summary
+      quote_or_summary: Nicholson presents Sufi spiritual life as a journey or pilgrimage
+        through stages and states toward gnosis, truth, and union with Reality.
 - motif_id: ark_vessel
   label: Ark Or Preserving Vessel
   traditions:
@@ -5459,6 +5763,47 @@ motifs:
       type: summary
       quote_or_summary: The Simurgh gives Zal a feather to burn whenever danger comes,
         then presents him to Sam as worthy of throne and diadem.
+- motif_id: divine_beloved
+  label: Divine Beloved
+  traditions:
+    sufi: 2
+  occurrences:
+  - record_id: extraction.sufi.rumi.mesnevi.reed_flute_separation_longing
+    extraction_path: extractions/sufi/project-gutenberg/mesnevi-book-1/mesnevi-reed-flute-separation-longing.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+    source_title: The Mesnevi
+    tradition: sufi
+    culture: persian_sufi_mevlevi_later_translation
+    region: iran_anatolia
+    passage_locator: The Mesnevi, Book I, Proem, The Reed-Flute
+    motif_label: longing for return to source
+    basis: The reed-flute's song begins from separation and turns absence into the
+      desire for return.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: The Mesnevi, Book I, Proem, lines 5400-5429
+      type: quote_and_summary
+      quote_or_summary: The reed-flute tells of absence from its reed-bed and voices
+        the grief and joy of the absent lover.
+  - record_id: extraction.sufi.rabia.divine_love_no_room_for_world
+    extraction_path: extractions/sufi/project-gutenberg/mystics-and-saints-of-islam/rabia-divine-love-no-room-for-world.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+    source_title: Mystics and Saints of Islam
+    tradition: sufi
+    culture: islamic_sufi_biographical_collection
+    region: west_asia_iran_north_africa_south_asia
+    passage_locator: Mystics and Saints of Islam, Rabia, the Woman Sufi
+    motif_label: divine beloved excludes worldly possession
+    basis: Rabia rejects the whole world because divine love is treated as incompatible
+      with worldly attachment.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: Mystics and Saints of Islam, Rabia, lines 1037-1047
+      type: quote_and_summary
+      quote_or_summary: A voice tells Rabia she cannot keep both the world and divine
+        love; Rabia turns from earthly love and prays for absorption in God's love.
 - motif_id: divine_intervention
   label: divine intervention
   traditions:
@@ -5614,6 +5959,47 @@ motifs:
         she lay with Heaven and bare deep-swirling Oceanus..."
 
 '
+- motif_id: renunciation
+  label: purification of the heart
+  traditions:
+    sufi: 2
+  occurrences:
+  - record_id: extraction.sufi.al_ghazzali.confessions.sufism_experience_over_definition
+    extraction_path: extractions/sufi/project-gutenberg/confessions-al-ghazzali/ghazzali-sufism-experience-over-definition.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+    source_title: The Confessions of Al Ghazzali
+    tradition: sufi
+    culture: persian_islamic_sufi_later_translation
+    region: iran_west_asia
+    passage_locator: The Confessions of Al Ghazzali, Sufism
+    motif_label: purification of the heart
+    basis: The Sufi goal is framed as freeing the soul from passions so the heart
+      remains for God.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: The Confessions of Al Ghazzali, Sufism, lines 920-954
+      type: quote_and_summary
+      quote_or_summary: Al Ghazzali says Sufism requires theory joined to practice
+        and consists in experiences rather than definitions.
+  - record_id: extraction.sufi.rabia.divine_love_no_room_for_world
+    extraction_path: extractions/sufi/project-gutenberg/mystics-and-saints-of-islam/rabia-divine-love-no-room-for-world.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+    source_title: Mystics and Saints of Islam
+    tradition: sufi
+    culture: islamic_sufi_biographical_collection
+    region: west_asia_iran_north_africa_south_asia
+    passage_locator: Mystics and Saints of Islam, Rabia, the Woman Sufi
+    motif_label: divine beloved excludes worldly possession
+    basis: Rabia rejects the whole world because divine love is treated as incompatible
+      with worldly attachment.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: Mystics and Saints of Islam, Rabia, lines 1037-1047
+      type: quote_and_summary
+      quote_or_summary: A voice tells Rabia she cannot keep both the world and divine
+        love; Rabia turns from earthly love and prays for absorption in God's love.
 - motif_id: sacred_fire
   label: sacred fire
   traditions:
@@ -7690,6 +8076,29 @@ motifs:
       type: quote
       quote_or_summary: Moses went up to God... Yahweh's glory settled on Mount Sinai,
         and the cloud covered it six days.
+- motif_id: sacred_song
+  label: sacred song as wound and medicine
+  traditions:
+    sufi: 1
+  occurrences:
+  - record_id: extraction.sufi.rumi.mesnevi.reed_flute_separation_longing
+    extraction_path: extractions/sufi/project-gutenberg/mesnevi-book-1/mesnevi-reed-flute-separation-longing.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+    source_title: The Mesnevi
+    tradition: sufi
+    culture: persian_sufi_mevlevi_later_translation
+    region: iran_anatolia
+    passage_locator: The Mesnevi, Book I, Proem, The Reed-Flute
+    motif_label: sacred song as wound and medicine
+    basis: The flute's sound carries grief and joy, making music a vehicle of spiritual
+      teaching.
+    confidence: medium
+    evidence:
+    - id: ev:1
+      locator: The Mesnevi, Book I, Proem, lines 5400-5429
+      type: quote_and_summary
+      quote_or_summary: The reed-flute tells of absence from its reed-bed and voices
+        the grief and joy of the absent lover.
 - motif_id: sacred_treasures
   label: sacred treasures
   traditions:
@@ -7802,6 +8211,29 @@ motifs:
       quote_or_summary: The moon is addressed as rising again; it will wax and wane
         often in the future and rise to look for the speakers through the same garden,
         looking for one in vain.
+- motif_id: self_knowledge
+  label: purification of the heart
+  traditions:
+    sufi: 1
+  occurrences:
+  - record_id: extraction.sufi.al_ghazzali.confessions.sufism_experience_over_definition
+    extraction_path: extractions/sufi/project-gutenberg/confessions-al-ghazzali/ghazzali-sufism-experience-over-definition.yml
+    source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+    source_title: The Confessions of Al Ghazzali
+    tradition: sufi
+    culture: persian_islamic_sufi_later_translation
+    region: iran_west_asia
+    passage_locator: The Confessions of Al Ghazzali, Sufism
+    motif_label: purification of the heart
+    basis: The Sufi goal is framed as freeing the soul from passions so the heart
+      remains for God.
+    confidence: high
+    evidence:
+    - id: ev:1
+      locator: The Confessions of Al Ghazzali, Sufism, lines 920-954
+      type: quote_and_summary
+      quote_or_summary: Al Ghazzali says Sufism requires theory joined to practice
+        and consists in experiences rather than definitions.
 - motif_id: social_care
   label: social care
   traditions:

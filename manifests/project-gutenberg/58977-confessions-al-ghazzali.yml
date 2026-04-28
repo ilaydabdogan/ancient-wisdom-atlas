@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: project-gutenberg-wave-2
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.gutenberg_58977
+  work_id: sufi.al_ghazzali.confessions_field_gutenberg
+  title: The Confessions of Al Ghazzali
+  source_url: https://www.gutenberg.org/ebooks/58977
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/project-gutenberg/58977-confessions-al-ghazzali.txt
+    checksum:
+      algorithm: sha256
+      value: ad3bd1c111441627464c64ad233de737b1f4d03d102aefdf871c11f03dfd1c8f
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/58977-confessions-al-ghazzali.md
+    checksum:
+      algorithm: sha256
+      value: 03302eb7c43f4d884966831ba10af9d03b9bae246a092cc012c2e77f5e8c8322
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+    checksum:
+      algorithm: sha256
+      value: ecce25488ff9652333cc267560ee725f4aeda5ab8cef177a6ecf8b0352486b2a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/build_gutenberg_seed.rb
+    version: '1'
+    command: ruby scripts/build_gutenberg_seed.rb 58977
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Generic plain-text converter for public-domain Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: The source catalog page records public-domain status in the USA; reuse
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure, rights metadata, and removal
+      of distributor boilerplate.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.

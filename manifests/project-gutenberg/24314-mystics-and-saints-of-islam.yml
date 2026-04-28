@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: project-gutenberg-wave-2
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.gutenberg_24314
+  work_id: sufi.mystics_and_saints_of_islam.field_gutenberg
+  title: Mystics and Saints of Islam
+  source_url: https://www.gutenberg.org/ebooks/24314
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/project-gutenberg/24314-mystics-and-saints-of-islam.txt
+    checksum:
+      algorithm: sha256
+      value: 59f196e497e95b4529ba04091d9a860417cc7a7d1adf1d7838289f03c7338a5f
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/24314-mystics-and-saints-of-islam.md
+    checksum:
+      algorithm: sha256
+      value: a54078e16f9203ed1dd2f3b993593a36e79c7382224e3d94ff4b40d75c8671c9
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+    checksum:
+      algorithm: sha256
+      value: 66dedefb41e8b891859a872bcdcd3dcc2cb55a4e98c1e13ea629d3d039e0ba78
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/build_gutenberg_seed.rb
+    version: '1'
+    command: ruby scripts/build_gutenberg_seed.rb 24314
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Generic plain-text converter for public-domain Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: The source catalog page records public-domain status in the USA; reuse
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure, rights metadata, and removal
+      of distributor boilerplate.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.

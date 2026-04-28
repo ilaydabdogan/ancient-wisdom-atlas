@@ -16,36 +16,40 @@ rights:
 
 | Motif | Occurrences | Traditions |
 | --- | ---: | --- |
-| `wisdom` | 49 | buddhist (3), celtic_irish (1), confucian (6), daoist (4), hindu (10), islamic (3), jewish_christian (8), mesopotamian (4), norse (6), persian (4) |
+| `wisdom` | 52 | buddhist (3), celtic_irish (1), confucian (6), daoist (4), hindu (10), islamic (3), jewish_christian (8), mesopotamian (4), norse (6), persian (4), sufi (3) |
 | `divine_judgment` | 19 | egyptian (2), greek (3), hindu (3), islamic (3), jewish_christian (4), maya_quiche (2), norse (2) |
-| `initiation` | 16 | buddhist (1), celtic_irish (2), confucian (1), daoist (1), egyptian (1), hindu (4), jewish_christian (1), maya_quiche (1), mesopotamian (1), norse (1), persian (2) |
+| `initiation` | 18 | buddhist (1), celtic_irish (2), confucian (1), daoist (1), egyptian (1), hindu (4), jewish_christian (1), maya_quiche (1), mesopotamian (1), norse (1), persian (2), sufi (2) |
 | `death_rebirth` | 12 | celtic_irish (1), celtic_welsh (1), egyptian (2), hindu (3), jewish_christian (1), maya_quiche (1), mesopotamian (1), norse (1), persian (1) |
 | `royal_legitimacy` | 12 | celtic_welsh (1), confucian (2), hindu (4), jewish_christian (1), norse (1), persian (3) |
-| `sacrifice` | 11 | celtic_welsh (1), greek (1), hindu (4), jewish_christian (4), norse (1) |
+| `sacrifice` | 12 | celtic_welsh (1), greek (1), hindu (4), jewish_christian (4), norse (1), sufi (1) |
 | `covenant` | 9 | celtic_irish (1), hindu (1), islamic (1), jewish_christian (6) |
 | `sacred_exchange` | 9 | confucian (1), hindu (2), jewish_christian (4), persian (2) |
 | `chaos` | 7 | finnish_karelian (1), greek (1), jewish_christian (1), maya_quiche (1), norse (1), persian (2) |
 | `duality` | 7 | daoist (3), greek (1), mesopotamian (2), persian (1) |
 | `sacred_tree_axis` | 7 | hindu (1), jewish_christian (3), norse (3) |
 | `world_center` | 7 | finnish_karelian (1), indigenous_australian (1), jewish_christian (3), norse (2) |
+| `departure` | 6 | celtic_irish (1), jewish_christian (1), norse (1), persian (2), sufi (1) |
 | `miraculous_child` | 6 | islamic (3), persian (3) |
+| `return` | 6 | celtic_irish (1), celtic_welsh (1), norse (1), persian (2), sufi (1) |
 | `shapeshifter` | 6 | celtic_irish (2), celtic_welsh (1), daoist (1), egyptian (1), norse (1) |
-| `departure` | 5 | celtic_irish (1), jewish_christian (1), norse (1), persian (2) |
+| `ascent` | 5 | egyptian (1), jewish_christian (3), sufi (1) |
+| `mystical_quest` | 5 | sufi (5) |
 | `resurrection` | 5 | celtic_welsh (2), egyptian (2), norse (1) |
-| `return` | 5 | celtic_irish (1), celtic_welsh (1), norse (1), persian (2) |
 | `serpent` | 5 | jewish_christian (2), norse (3) |
-| `ascent` | 4 | egyptian (1), jewish_christian (3) |
 | `culture_hero` | 4 | finnish_karelian (1), greek (1), indigenous_australian (1), mesopotamian (1) |
 | `hero_descent` | 4 | egyptian (1), indigenous_australian (1), jewish_christian (1), maya_quiche (1) |
 | `trickster_boundary` | 4 | greek (1), maya_quiche (1), norse (2) |
 | `divine_parent_child` | 3 | norse (2), persian (1) |
 | `sacred_birth` | 3 | islamic (2), persian (1) |
+| `annihilation_union` | 2 | sufi (2) |
 | `ark_vessel` | 2 | celtic_welsh (1), jewish_christian (1) |
 | `atonement_rite` | 2 | jewish_christian (2) |
 | `cosmic_mountain` | 2 | jewish_christian (1), persian (1) |
+| `divine_beloved` | 2 | sufi (2) |
 | `divine_intervention` | 2 | greek (2) |
 | `flood_and_renewal` | 2 | jewish_christian (1), maya_quiche (1) |
 | `mother_goddess` | 2 | daoist (1), greek (1) |
+| `renunciation` | 2 | sufi (2) |
 | `sacred_fire` | 2 | jewish_christian (2) |
 | `sacred_theft` | 2 | greek (1), indigenous_australian (1) |
 | `sacred_twins` | 2 | maya_quiche (1), mesopotamian (1) |
@@ -120,10 +124,12 @@ rights:
 | `sabbath_cycle` | 1 | jewish_christian (1) |
 | `sacred_cauldron` | 1 | celtic_irish (1) |
 | `sacred_mountain` | 1 | jewish_christian (1) |
+| `sacred_song` | 1 | sufi (1) |
 | `sacred_treasures` | 1 | celtic_irish (1) |
 | `scapegoat` | 1 | jewish_christian (1) |
 | `sealed_spirit_vessel` | 1 | islamicate_folklore (1) |
 | `seasonal_cycle` | 1 | persian (1) |
+| `self_knowledge` | 1 | sufi (1) |
 | `social_care` | 1 | jewish_christian (1) |
 | `storytelling_as_survival` | 1 | islamicate_folklore (1) |
 | `supreme_ruler_descends_appears_from_above_to_rule_all_lands` | 1 | norse (1) |
@@ -145,8 +151,8 @@ rights:
 ## Wisdom
 
 - Motif id: `wisdom`
-- Occurrences: 49
-- Traditions: buddhist, celtic_irish, confucian, daoist, hindu, islamic, jewish_christian, mesopotamian, norse, persian
+- Occurrences: 52
+- Traditions: buddhist, celtic_irish, confucian, daoist, hindu, islamic, jewish_christian, mesopotamian, norse, persian, sufi
 
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
@@ -199,6 +205,9 @@ rights:
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | KAI-KS / THE SEVEN LABORS OF RUSTEM / INVASION OF IRN BY AFRSIYB / THE RETURN OF KAI-KS; lines 5019-5036 | Didactic reflection on impermanence of fortune and the sweep of time | medium | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/persian-literature-volume-1/batch-motif-persian-persian-literature-volume-1-gutenberg-l5019-l5036.yml) |
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | SIKANDER / FIRDUSI'S INVOCATION / FIRDUSI'S SATIRE ON MAHMUD / THE RUBIYT OF OMAR KHAYYM; lines 14793-14809 | Wise skeptic rejects absurdity and arrogant authority; tolerance grounded in awareness of fallibility | medium | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/persian-literature-volume-1/batch-motif-persian-persian-literature-volume-1-gutenberg-l14793-l14809.yml) |
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | XXIII / XLIII / LXIII / LXXVII; lines 16308-16324 | Wisdom counsel on aging and the passing of youthful graces | medium | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/persian-literature-volume-1/batch-motif-persian-persian-literature-volume-1-gutenberg-l16308-l16324.yml) |
+| sufi | [The Confessions of Al Ghazzali](../texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md) | The Confessions of Al Ghazzali, Sufism | theory crossed into initiation | high | [record](../extractions/sufi/project-gutenberg/confessions-al-ghazzali/ghazzali-sufism-experience-over-definition.yml) |
+| sufi | [The Mesnevi](../texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md) | The Mesnevi, Book I, Proem, The Reed-Flute | sacred song as wound and medicine | medium | [record](../extractions/sufi/project-gutenberg/mesnevi-book-1/mesnevi-reed-flute-separation-longing.yml) |
+| sufi | [The Mystics of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md) | The Mystics of Islam, The Path | seeker becomes knower | high | [record](../extractions/sufi/project-gutenberg/mystics-of-islam/sufi-path-stages-gnosis-union.yml) |
 
 ## Divine Judgment
 
@@ -231,8 +240,8 @@ rights:
 ## Initiation
 
 - Motif id: `initiation`
-- Occurrences: 16
-- Traditions: buddhist, celtic_irish, confucian, daoist, egyptian, hindu, jewish_christian, maya_quiche, mesopotamian, norse, persian
+- Occurrences: 18
+- Traditions: buddhist, celtic_irish, confucian, daoist, egyptian, hindu, jewish_christian, maya_quiche, mesopotamian, norse, persian, sufi
 
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
@@ -252,6 +261,8 @@ rights:
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | RIGSTHULA / THE SONG OF RIG / INTRODUCTORY NOTE / NOTES; lines 8480-8601 | Ritual sprinkling of water on children (pre-Christian) | medium | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l8480-l8601.yml) |
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Birth of Rustem; Simurgh aid, prodigious growth, and the white elephant feat | first_beast_slaying_as_initiation | medium | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml) |
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | GUSHTSP, AND THE FAITH OF ZERDUSHT / THE HEFT-KHAN OF ISFENDIYR / CAPTURE OF THE BRAZEN FORTRESS / THE DEATH OF ISFENDIYR; lines 13144-13177 | Initiation/education of a young successor in warrior skills | medium | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/persian-literature-volume-1/batch-motif-persian-persian-literature-volume-1-gutenberg-l13144-l13177.yml) |
+| sufi | [The Confessions of Al Ghazzali](../texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md) | The Confessions of Al Ghazzali, Sufism | theory crossed into initiation | high | [record](../extractions/sufi/project-gutenberg/confessions-al-ghazzali/ghazzali-sufism-experience-over-definition.yml) |
+| sufi | [The Mystics of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md) | The Mystics of Islam, The Path | mapped interior pilgrimage | high | [record](../extractions/sufi/project-gutenberg/mystics-of-islam/sufi-path-stages-gnosis-union.yml) |
 
 ## Death And Rebirth
 
@@ -298,8 +309,8 @@ rights:
 ## Sacrifice
 
 - Motif id: `sacrifice`
-- Occurrences: 11
-- Traditions: celtic_welsh, greek, hindu, jewish_christian, norse
+- Occurrences: 12
+- Traditions: celtic_welsh, greek, hindu, jewish_christian, norse, sufi
 
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
@@ -314,6 +325,7 @@ rights:
 | jewish_christian | [Leviticus](../texts/public-domain/biblical/world-english-bible-classic/leviticus.md) | Leviticus 1:3-9 | sacrifice | medium | [record](../extractions/biblical/world-english-bible-classic/leviticus/leviticus-burnt-offering.yml) |
 | jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 16:1-50 | priestly_intercession | medium | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-korah-rebellion-judgment.yml) |
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | INTRODUCTORY NOTE / GUTHRUNARKVITHA II, EN FORNA / THE SECOND, OR OLD, LAY OF GUTHRUN / INTRODUCTORY NOTE; lines 17752-17772 | Sacrifice involving beheading of beasts and imminent death | high | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l17752-l17772.yml) |
+| sufi | [Mystics and Saints of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md) | Mystics and Saints of Islam, Rabia, the Woman Sufi | divine beloved excludes worldly possession | high | [record](../extractions/sufi/project-gutenberg/mystics-and-saints-of-islam/rabia-divine-love-no-room-for-world.yml) |
 
 ## Covenant
 
@@ -415,6 +427,21 @@ rights:
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | INTRODUCTORY NOTE / NOTES / PRONOUNCING INDEX OF PROPER NAMES / PRONOUNCING INDEX; lines 23008-23324 | World tree / sacred axis (Yggdrasil as world-ash) | medium | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l23008-l23324.yml) |
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | Voluspo 1-6 | world_center | medium | [record](../extractions/norse/project-gutenberg/poetic-edda/voluspo-yggdrasil-cosmic-origins.yml) |
 
+## Departure
+
+- Motif id: `departure`
+- Occurrences: 6
+- Traditions: celtic_irish, jewish_christian, norse, persian, sufi
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| celtic_irish | [Gods and Fighting Men](../texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md) | Book Eleven, Chapter I: Oisin's Story; journey to and return from the Country of the Young | departure_to_transformed_realm | medium | [record](../extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-oisin-country-of-young.yml) |
+| jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 14:1-35 | wilderness_wandering | medium | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-wilderness-wandering-judgment.yml) |
+| norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | Vafthruthnismol 1-8 | departure_to_liminal_opponent | medium | [record](../extractions/norse/project-gutenberg/poetic-edda/vafthruthnismol-odin-wisdom-contest.yml) |
+| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | THE RUBIYT OF OMAR KHAYYM / THE RUBIYT / THE DIVAN / BY HFIZ; lines 15309-15336 | Departure/absence anticipated in a familiar place | low | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/persian-literature-volume-1/batch-motif-persian-persian-literature-volume-1-gutenberg-l15309-l15336.yml) |
+| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and return | mountain_fosterage_and_return | medium | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml) |
+| sufi | [The Mesnevi](../texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md) | The Mesnevi, Book I, Proem, The Reed-Flute | longing for return to source | high | [record](../extractions/sufi/project-gutenberg/mesnevi-book-1/mesnevi-reed-flute-separation-longing.yml) |
+
 ## Miraculous Child
 
 - Motif id: `miraculous_child`
@@ -429,6 +456,21 @@ rights:
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Birth of Rustem; Simurgh aid, prodigious growth, and the white elephant feat | sacred_birth_aided_by_guardian | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml) |
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Birth of Rustem; Simurgh aid, prodigious growth, and the white elephant feat | precocious_hero_growth | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml) |
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and return | exposed_child_protected_by_wonder_bird | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml) |
+
+## Return
+
+- Motif id: `return`
+- Occurrences: 6
+- Traditions: celtic_irish, celtic_welsh, norse, persian, sufi
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| celtic_irish | [Gods and Fighting Men](../texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md) | Book Eleven, Chapter I: Oisin's Story; journey to and return from the Country of the Young | return_from_otherworld_with_time_shift | high | [record](../extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-oisin-country-of-young.yml) |
+| celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) | Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn | return_with_new_status | medium | [record](../extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-pwyll-annwvyn-exchange.yml) |
+| norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | HELGAKVITHA HJORVARTHSSONAR / THE LAY OF HELGI THE SON OF HJORVARTH / INTRODUCTORY NOTE / OF HJORVARTH AND SIGRLIN; lines 11252-11299 | Hero's death and being 'born again' (rebirth of hero and beloved) | high | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l11252-l11299.yml) |
+| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | KAI-KS / THE SEVEN LABORS OF RUSTEM / INVASION OF IRN BY AFRSIYB / THE RETURN OF KAI-KS; lines 5019-5036 | Hero returns home after victory and reports to rulers | medium | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/persian-literature-volume-1/batch-motif-persian-persian-literature-volume-1-gutenberg-l5019-l5036.yml) |
+| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and return | mountain_fosterage_and_return | medium | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml) |
+| sufi | [The Mesnevi](../texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md) | The Mesnevi, Book I, Proem, The Reed-Flute | longing for return to source | high | [record](../extractions/sufi/project-gutenberg/mesnevi-book-1/mesnevi-reed-flute-separation-longing.yml) |
 
 ## Shapeshifter
 
@@ -445,19 +487,33 @@ rights:
 | egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII, and CLV-CLXVII | ritual_transformation | high | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml) |
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | GRIMNISMOL / THE BALLAD OF GRIMNIR / INTRODUCTORY NOTE / NOTES; lines 4391-4441 | God appears in disguise under many names | high | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l4391-l4441.yml) |
 
-## Departure
+## Ascent
 
-- Motif id: `departure`
+- Motif id: `ascent`
 - Occurrences: 5
-- Traditions: celtic_irish, jewish_christian, norse, persian
+- Traditions: egyptian, jewish_christian, sufi
 
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
-| celtic_irish | [Gods and Fighting Men](../texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md) | Book Eleven, Chapter I: Oisin's Story; journey to and return from the Country of the Young | departure_to_transformed_realm | medium | [record](../extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-oisin-country-of-young.yml) |
-| jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 14:1-35 | wilderness_wandering | medium | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-wilderness-wandering-judgment.yml) |
-| norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | Vafthruthnismol 1-8 | departure_to_liminal_opponent | medium | [record](../extractions/norse/project-gutenberg/poetic-edda/vafthruthnismol-odin-wisdom-contest.yml) |
-| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | THE RUBIYT OF OMAR KHAYYM / THE RUBIYT / THE DIVAN / BY HFIZ; lines 15309-15336 | Departure/absence anticipated in a familiar place | low | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/persian-literature-volume-1/batch-motif-persian-persian-literature-volume-1-gutenberg-l15309-l15336.yml) |
-| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and return | mountain_fosterage_and_return | medium | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml) |
+| egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII, and CLV-CLXVII | ascent_by_boat_and_ladder | medium | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml) |
+| jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 34:1-12 | ascent | medium | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-moses-death-succession.yml) |
+| jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 19:1-20; 24:3-18 | ascent | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-sinai-covenant-ascent.yml) |
+| jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 28:10-17 | ascent | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-dream-descent.yml) |
+| sufi | [The Mystics of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md) | The Mystics of Islam, The Path | mapped interior pilgrimage | high | [record](../extractions/sufi/project-gutenberg/mystics-of-islam/sufi-path-stages-gnosis-union.yml) |
+
+## Mystical Quest
+
+- Motif id: `mystical_quest`
+- Occurrences: 5
+- Traditions: sufi
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| sufi | [Mystics and Saints of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md) | Mystics and Saints of Islam, Rabia, the Woman Sufi | heart emptied for one love | medium | [record](../extractions/sufi/project-gutenberg/mystics-and-saints-of-islam/rabia-divine-love-no-room-for-world.yml) |
+| sufi | [The Confessions of Al Ghazzali](../texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md) | The Confessions of Al Ghazzali, Sufism | theory crossed into initiation | high | [record](../extractions/sufi/project-gutenberg/confessions-al-ghazzali/ghazzali-sufism-experience-over-definition.yml) |
+| sufi | [The Confessions of Al Ghazzali](../texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md) | The Confessions of Al Ghazzali, Sufism | purification of the heart | high | [record](../extractions/sufi/project-gutenberg/confessions-al-ghazzali/ghazzali-sufism-experience-over-definition.yml) |
+| sufi | [The Mesnevi](../texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md) | The Mesnevi, Book I, Proem, The Reed-Flute | longing for return to source | high | [record](../extractions/sufi/project-gutenberg/mesnevi-book-1/mesnevi-reed-flute-separation-longing.yml) |
+| sufi | [The Mystics of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md) | The Mystics of Islam, The Path | mapped interior pilgrimage | high | [record](../extractions/sufi/project-gutenberg/mystics-of-islam/sufi-path-stages-gnosis-union.yml) |
 
 ## Resurrection
 
@@ -473,20 +529,6 @@ rights:
 | egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER VII, The Judgment of Osiris; Chapter CXXV and Papyrus of Ani judgment vignette | acquittal_and_afterlife_reward | medium | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-judgment-heart-maati.yml) |
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | HELGAKVITHA HJORVARTHSSONAR / THE LAY OF HELGI THE SON OF HJORVARTH / INTRODUCTORY NOTE / OF HJORVARTH AND SIGRLIN; lines 11252-11299 | Hero's death and being 'born again' (rebirth of hero and beloved) | high | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l11252-l11299.yml) |
 
-## Return
-
-- Motif id: `return`
-- Occurrences: 5
-- Traditions: celtic_irish, celtic_welsh, norse, persian
-
-| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
-| --- | --- | --- | --- | --- | --- |
-| celtic_irish | [Gods and Fighting Men](../texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md) | Book Eleven, Chapter I: Oisin's Story; journey to and return from the Country of the Young | return_from_otherworld_with_time_shift | high | [record](../extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-oisin-country-of-young.yml) |
-| celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) | Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn | return_with_new_status | medium | [record](../extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-pwyll-annwvyn-exchange.yml) |
-| norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | HELGAKVITHA HJORVARTHSSONAR / THE LAY OF HELGI THE SON OF HJORVARTH / INTRODUCTORY NOTE / OF HJORVARTH AND SIGRLIN; lines 11252-11299 | Hero's death and being 'born again' (rebirth of hero and beloved) | high | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l11252-l11299.yml) |
-| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | KAI-KS / THE SEVEN LABORS OF RUSTEM / INVASION OF IRN BY AFRSIYB / THE RETURN OF KAI-KS; lines 5019-5036 | Hero returns home after victory and reports to rulers | medium | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/persian-literature-volume-1/batch-motif-persian-persian-literature-volume-1-gutenberg-l5019-l5036.yml) |
-| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and return | mountain_fosterage_and_return | medium | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml) |
-
 ## Serpent
 
 - Motif id: `serpent`
@@ -500,19 +542,6 @@ rights:
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | INTRODUCTORY NOTE / NOTES / PRONOUNCING INDEX OF PROPER NAMES / PRONOUNCING INDEX; lines 22700-23006 | Serpent being named in the tradition | low | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l22700-l23006.yml) |
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | LAYS OF THE GODS / VOLUSPO / THE WISE-WOMANS PROPHECY / INTRODUCTORY NOTE; lines 1099-1112 | Underworld dragon/serpent rises bearing the dead | high | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l1099-l1112.yml) |
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | VOLUSPO / THE WISE-WOMANS PROPHECY / INTRODUCTORY NOTE / NOTES; lines 1629-1639 | Dragon/serpent associated with cosmic order (Nithhogg at Yggdrasil’s roots) | medium | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l1629-l1639.yml) |
-
-## Ascent
-
-- Motif id: `ascent`
-- Occurrences: 4
-- Traditions: egyptian, jewish_christian
-
-| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
-| --- | --- | --- | --- | --- | --- |
-| egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII, and CLV-CLXVII | ascent_by_boat_and_ladder | medium | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml) |
-| jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 34:1-12 | ascent | medium | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-moses-death-succession.yml) |
-| jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 19:1-20; 24:3-18 | ascent | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-sinai-covenant-ascent.yml) |
-| jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 28:10-17 | ascent | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-dream-descent.yml) |
 
 ## Culture Hero
 
@@ -577,6 +606,17 @@ rights:
 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) | 19. Entitled, Mary; annunciation, palm-tree birth, and infant speech | son_of_mary_as_sign_and_mercy | medium | [record](../extractions/islamic/project-gutenberg/koran-sale/koran-sale-mary-gabriel-palm-infant-jesus.yml) |
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Birth of Rustem; Simurgh aid, prodigious growth, and the white elephant feat | sacred_birth_aided_by_guardian | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml) |
 
+## Annihilation And Union
+
+- Motif id: `annihilation_union`
+- Occurrences: 2
+- Traditions: sufi
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| sufi | [Mystics and Saints of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md) | Mystics and Saints of Islam, Rabia, the Woman Sufi | heart emptied for one love | medium | [record](../extractions/sufi/project-gutenberg/mystics-and-saints-of-islam/rabia-divine-love-no-room-for-world.yml) |
+| sufi | [The Mystics of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md) | The Mystics of Islam, The Path | seeker becomes knower | high | [record](../extractions/sufi/project-gutenberg/mystics-of-islam/sufi-path-stages-gnosis-union.yml) |
+
 ## Ark Or Preserving Vessel
 
 - Motif id: `ark_vessel`
@@ -610,6 +650,17 @@ rights:
 | jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 4:9-14 | cosmic_mountain | medium | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-sacred-mountain-law.yml) |
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and return | mountain_fosterage_and_return | medium | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml) |
 
+## Divine Beloved
+
+- Motif id: `divine_beloved`
+- Occurrences: 2
+- Traditions: sufi
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| sufi | [Mystics and Saints of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md) | Mystics and Saints of Islam, Rabia, the Woman Sufi | divine beloved excludes worldly possession | high | [record](../extractions/sufi/project-gutenberg/mystics-and-saints-of-islam/rabia-divine-love-no-room-for-world.yml) |
+| sufi | [The Mesnevi](../texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md) | The Mesnevi, Book I, Proem, The Reed-Flute | longing for return to source | high | [record](../extractions/sufi/project-gutenberg/mesnevi-book-1/mesnevi-reed-flute-separation-longing.yml) |
+
 ## Divine Intervention
 
 - Motif id: `divine_intervention`
@@ -642,6 +693,17 @@ rights:
 | --- | --- | --- | --- | --- | --- |
 | daoist | [The Tao Teh King, or the Tao and its Characteristics](../texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md) | Tao Teh King, Ch. 1.1-4 | cosmic mother | low | [record](../extractions/daoist/project-gutenberg/tao-teh-king/tao-teh-king-origin-mother-mystery.yml) |
 | greek | [Hesiod, the Homeric Hymns, and Homerica](../texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md) | Theogony ll. 116-138 | cosmic maternity | medium | [record](../extractions/greek/project-gutenberg/hesiod-homeric-hymns/theogony-cosmic-origin.yml) |
+
+## Purification Of The Heart
+
+- Motif id: `renunciation`
+- Occurrences: 2
+- Traditions: sufi
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| sufi | [Mystics and Saints of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md) | Mystics and Saints of Islam, Rabia, the Woman Sufi | divine beloved excludes worldly possession | high | [record](../extractions/sufi/project-gutenberg/mystics-and-saints-of-islam/rabia-divine-love-no-room-for-world.yml) |
+| sufi | [The Confessions of Al Ghazzali](../texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md) | The Confessions of Al Ghazzali, Sufism | purification of the heart | high | [record](../extractions/sufi/project-gutenberg/confessions-al-ghazzali/ghazzali-sufism-experience-over-definition.yml) |
 
 ## Sacred Fire
 
@@ -1387,6 +1449,16 @@ rights:
 | --- | --- | --- | --- | --- | --- |
 | jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 19:1-20; 24:3-18 | sacred_mountain | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-sinai-covenant-ascent.yml) |
 
+## Sacred Song As Wound And Medicine
+
+- Motif id: `sacred_song`
+- Occurrences: 1
+- Traditions: sufi
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| sufi | [The Mesnevi](../texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md) | The Mesnevi, Book I, Proem, The Reed-Flute | sacred song as wound and medicine | medium | [record](../extractions/sufi/project-gutenberg/mesnevi-book-1/mesnevi-reed-flute-separation-longing.yml) |
+
 ## Sacred Treasures
 
 - Motif id: `sacred_treasures`
@@ -1426,6 +1498,16 @@ rights:
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | THE RUBIYT OF OMAR KHAYYM / THE RUBIYT / THE DIVAN / BY HFIZ; lines 15309-15336 | Cyclical celestial time contrasted with human absence | medium | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/persian-literature-volume-1/batch-motif-persian-persian-literature-volume-1-gutenberg-l15309-l15336.yml) |
+
+## Purification Of The Heart
+
+- Motif id: `self_knowledge`
+- Occurrences: 1
+- Traditions: sufi
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| sufi | [The Confessions of Al Ghazzali](../texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md) | The Confessions of Al Ghazzali, Sufism | purification of the heart | high | [record](../extractions/sufi/project-gutenberg/confessions-al-ghazzali/ghazzali-sufism-experience-over-definition.yml) |
 
 ## Social Care
 
