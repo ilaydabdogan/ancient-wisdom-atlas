@@ -51,7 +51,7 @@ This is source-level coverage. Long works still need unit-level Markdown splitti
 | ingested | comparative.golden_bough.volume_2_frazer_gutenberg | The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) |
 | ingested | greek.aesop.fables_vernon_jones_gutenberg | Aesop's Fables; a new translation |
 | ingested | greek.plato.phaedrus_jowett_gutenberg | Phaedrus |
-| queued | greek.plato.republic_jowett_gutenberg | The Republic |
+| ingested | greek.plato.republic_jowett_gutenberg | The Republic |
 | queued | greek.plato.symposium_jowett_gutenberg | Symposium |
 | queued | greek_roman.berens.myths_legends_gutenberg | Myths and Legends of Ancient Greece and Rome |
 | queued | japanese.fairy_tales.ozaki_gutenberg | Japanese Fairy Tales |

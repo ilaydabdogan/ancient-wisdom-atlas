@@ -1171,7 +1171,7 @@ items:
   manifest_path: manifests/project-gutenberg/1636-phaedrus-jowett.yml
   extraction_dir: extractions/greek/project-gutenberg/phaedrus-jowett
 - id: greek.plato.republic_jowett_gutenberg
-  status: queued
+  status: ingested
   priority: medium
   source: project_gutenberg
   source_id: '1497'
@@ -1221,6 +1221,15 @@ items:
   - prisoners of the cave
   why_it_matters: Adds the cave, philosopher-ruler, just city, and soul-ordering material
     for wisdom and illumination patterns.
+  raw_path: imports/raw/project-gutenberg/1497-republic-jowett.txt
+  pipeline:
+    raw_fetched_on: '2026-04-28'
+    converted_on: '2026-04-28'
+    promoted_on: '2026-04-28'
+  converted_path: imports/converted/project-gutenberg/1497-republic-jowett.md
+  canonical_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  manifest_path: manifests/project-gutenberg/1497-republic-jowett.yml
+  extraction_dir: extractions/greek/project-gutenberg/republic-jowett
 - id: greek.plato.symposium_jowett_gutenberg
   status: queued
   priority: medium
