@@ -509,7 +509,7 @@ items:
   manifest_path: manifests/project-gutenberg/21765-metamorphoses-books-1-7-riley.yml
   extraction_dir: extractions/roman/project-gutenberg/metamorphoses-books-1-7-riley
 - id: roman.ovid.metamorphoses_books_8_15_riley_gutenberg
-  status: queued
+  status: ingested
   priority: high
   source: project_gutenberg
   source_id: '26073'
@@ -561,6 +561,15 @@ items:
   - Caesar
   why_it_matters: Adds the second half of Ovid for labyrinth, artist-creator, descent,
     love, transformation, and apotheosis patterns.
+  raw_path: imports/raw/project-gutenberg/26073-metamorphoses-books-8-15-riley.txt
+  pipeline:
+    raw_fetched_on: '2026-04-28'
+    converted_on: '2026-04-28'
+    promoted_on: '2026-04-28'
+  converted_path: imports/converted/project-gutenberg/26073-metamorphoses-books-8-15-riley.md
+  canonical_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  manifest_path: manifests/project-gutenberg/26073-metamorphoses-books-8-15-riley.yml
+  extraction_dir: extractions/roman/project-gutenberg/metamorphoses-books-8-15-riley
 - id: roman.aeneid.mackail_gutenberg
   status: queued
   priority: high

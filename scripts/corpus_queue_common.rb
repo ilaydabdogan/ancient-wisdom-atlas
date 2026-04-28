@@ -173,19 +173,29 @@ module CorpusQueue
   def remove_transcriber_or_producer_blocks(lines)
     output = []
     skipping = false
+    bracketed_skipping = false
     blank_count = 0
 
     lines.each do |line|
-      if line.match?(/\A\s*(Transcriber's Notes?|Transcriber’s Notes?|A note from the digitizer|Produced by|Distributed Proofreading Team)\b/i)
+      if line.match?(/\A\s*\[?(Transcriber's Notes?|Transcriber’s Notes?|A note from the digitizer|Produced by|Distributed Proofreading Team)\b/i)
         skipping = true
+        bracketed_skipping = line.lstrip.start_with?("[")
+        skipping = false if bracketed_skipping && line.strip.end_with?("]")
         blank_count = 0
         next
       end
 
       if skipping
-        if line.strip.empty?
-          blank_count += 1
-          skipping = false if blank_count >= 2
+        if bracketed_skipping && line.strip.end_with?("]")
+          skipping = false
+          bracketed_skipping = false
+        elsif !bracketed_skipping && line.strip == "]"
+          skipping = false
+        elsif line.strip.empty?
+          unless bracketed_skipping
+            blank_count += 1
+            skipping = false if blank_count >= 2
+          end
         else
           blank_count = 0
         end
