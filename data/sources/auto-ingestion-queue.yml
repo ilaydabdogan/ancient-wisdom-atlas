@@ -814,7 +814,7 @@ items:
   manifest_path: manifests/project-gutenberg/62514-jataka-tales-babbitt.yml
   extraction_dir: extractions/buddhist/project-gutenberg/jataka-tales-babbitt
 - id: buddhist.more_jataka_tales.babbitt_gutenberg
-  status: queued
+  status: ingested
   priority: medium
   source: project_gutenberg
   source_id: '7518'
@@ -864,6 +864,15 @@ items:
   - animals
   why_it_matters: Extends the Jataka lane with more compact episodes for rebirth,
     compassion, cleverness, and moral-pattern comparisons.
+  raw_path: imports/raw/project-gutenberg/7518-more-jataka-tales-babbitt.txt
+  pipeline:
+    raw_fetched_on: '2026-04-28'
+    converted_on: '2026-04-28'
+    promoted_on: '2026-04-28'
+  converted_path: imports/converted/project-gutenberg/7518-more-jataka-tales-babbitt.md
+  canonical_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  manifest_path: manifests/project-gutenberg/7518-more-jataka-tales-babbitt.yml
+  extraction_dir: extractions/buddhist/project-gutenberg/more-jataka-tales-babbitt
 - id: buddhist.old_india_tales.rouse_gutenberg
   status: queued
   priority: medium

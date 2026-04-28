@@ -619,7 +619,7 @@ queue_outside_first500:
   source_id: '62514'
 - id: buddhist.more_jataka_tales.babbitt_gutenberg
   title: More Jataka Tales
-  status: queued
+  status: ingested
   priority: medium
   source_id: '7518'
 - id: buddhist.old_india_tales.rouse_gutenberg
@@ -681,6 +681,10 @@ ingested_outside_first500:
   title: Jataka tales
   tradition_cluster: buddhist
   source_id: source.project_gutenberg.62514
+- id: buddhist.more_jataka_tales.babbitt_gutenberg
+  title: More Jataka Tales
+  tradition_cluster: buddhist
+  source_id: source.project_gutenberg.7518
 - id: celtic_irish.gods_and_fighting_men.gregory_gutenberg
   title: Gods and Fighting Men
   tradition_cluster: celtic_irish
