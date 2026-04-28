@@ -1231,7 +1231,7 @@ items:
   manifest_path: manifests/project-gutenberg/1497-republic-jowett.yml
   extraction_dir: extractions/greek/project-gutenberg/republic-jowett
 - id: greek.plato.symposium_jowett_gutenberg
-  status: queued
+  status: ingested
   priority: medium
   source: project_gutenberg
   source_id: '1600'
@@ -1282,6 +1282,15 @@ items:
   - Eros
   why_it_matters: Adds a central eros text for the ladder of love, beauty, divine
     longing, and lover-beloved patterns across traditions.
+  raw_path: imports/raw/project-gutenberg/1600-symposium-jowett.txt
+  pipeline:
+    raw_fetched_on: '2026-04-28'
+    converted_on: '2026-04-28'
+    promoted_on: '2026-04-28'
+  converted_path: imports/converted/project-gutenberg/1600-symposium-jowett.md
+  canonical_path: texts/public-domain/greek/project-gutenberg/symposium-jowett.md
+  manifest_path: manifests/project-gutenberg/1600-symposium-jowett.yml
+  extraction_dir: extractions/greek/project-gutenberg/symposium-jowett
 - id: greek_roman.berens.myths_legends_gutenberg
   status: queued
   priority: medium

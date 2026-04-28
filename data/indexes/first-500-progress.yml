@@ -654,7 +654,7 @@ queue_outside_first500:
   source_id: '1497'
 - id: greek.plato.symposium_jowett_gutenberg
   title: Symposium
-  status: queued
+  status: ingested
   priority: medium
   source_id: '1600'
 - id: greek_roman.berens.myths_legends_gutenberg
@@ -733,6 +733,10 @@ ingested_outside_first500:
   title: The Republic
   tradition_cluster: greek_philosophical
   source_id: source.project_gutenberg.1497
+- id: greek.plato.symposium_jowett_gutenberg
+  title: Symposium
+  tradition_cluster: greek_philosophical
+  source_id: source.project_gutenberg.1600
 - id: hindu.upanishads.paramananda_gutenberg
   title: The Upanishads
   tradition_cluster: hindu
