@@ -1,0 +1,148 @@
+---
+record_id: extraction.chuang_tzu.great_awakening_life_dream
+source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+passage_locator:
+  label: Chuang Tzu, Chapter II, Great Awakening
+  start: lines 1942
+  end: lines 1950
+  translation: Herbert A. Giles, Project Gutenberg eBook #59709
+  notes: Stable line locator from canonical Markdown; public-domain translation.
+canonical_text:
+  quote: |
+    Those who dream of the banquet, wake to lamentation and sorrow. Those who dream of lamentation and sorrow wake to join the hunt.
+
+    By and by comes the Great Awakening, and then we find out that this life is really a great dream.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage contrasts dreams of banquet with waking sorrow and dreams of sorrow with waking activity.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says dreamers do not know they are dreaming while they dream.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says the Great Awakening reveals that this life is a great dream.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker calls Confucius, the interlocutor, and himself dreams within the same paradox.
+  category: relationship
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: dreamers
+  description: People who misread their dream-state as waking reality until later awakening.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: sage
+  description: Future figure invoked as able to explain the paradox of dream and awakening.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: beings mistaken about waking and dreaming
+  assigned_to:
+  - fig:1
+  basis: The passage says dreamers do not know they dream and that ordinary life is later seen as dream.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: interpreter of paradox
+  assigned_to:
+  - fig:2
+  basis: The passage invokes a future sage to explain the paradox.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Great Awakening
+  literal_form: awakening that reveals life as dream
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - wisdom
+  - initiation
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: great dream
+  literal_form: life understood as dream
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - duality
+  - wisdom
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Great Awakening reveals waking life as dream
+  summary: The passage uses dream reversal to argue that ordinary waking confidence may itself be a dream until a Great Awakening discloses it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: awakening from the world-dream
+  taxonomy_refs:
+  - wisdom
+  - initiation
+  basis: The passage frames wisdom as awakening from the mistaken condition of ordinary life.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is philosophical awakening, not a ritual initiation episode.
+- id: motif:2
+  label: waking and dream as reversible states
+  taxonomy_refs:
+  - duality
+  basis: The passage repeatedly reverses the apparent hierarchy between dream and waking.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Duality is present as epistemic contrast rather than paired characters.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be compared with awakening/liberation motifs because it imagines ordinary life as a mistaken state disclosed by a higher awakening.
+  claim_level: same_function
+  target: comparative awakening and liberation motifs
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage is Daoist and should not be collapsed into Buddhist enlightenment without separate evidence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Chuang Tzu, Chapter II, lines 1942-1950
+  quote_or_summary: The passage says dreamers do not know they dream and that the Great Awakening reveals this life as a great dream.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public-domain Project Gutenberg source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The dream and awakening language is explicit; cross-tradition comparisons should be cautious.
+reviewer_status:
+  status: draft
+  notes: Draft extraction; verify chapter locator and whether this should be promoted as a wisdom or initiation motif.
+extracted_by: Codex
+extracted_at: '2026-04-28'
+notes: Seed extraction for Daoist awakening, dream, and epistemic reversal.

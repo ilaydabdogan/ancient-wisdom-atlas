@@ -39,6 +39,35 @@ WORKS = {
     figures: ["Laozi", "Tao"],
     tradition_cluster: "daoist_chinese"
   },
+  "59709" => {
+    id: "daoist.zhuangzi.giles_gutenberg",
+    title: "Chuang Tzu: Mystic, Moralist, and Social Reformer",
+    alternate_titles: ["Zhuangzi", "Chuang Tzu", "Nanhua jing"],
+    text_status: "complete",
+    tradition: "daoist",
+    culture: "classical_chinese",
+    region: "china",
+    source_language: "Classical Chinese",
+    text_language: "English",
+    date_range: "Warring States source text; 1889 public-domain English translation",
+    source_type: "text",
+    source_id: "source.project_gutenberg.59709",
+    edition: "Project Gutenberg plain-text eBook #59709",
+    translator: "Herbert A. Giles",
+    editor: "Herbert A. Giles",
+    publication_year: 1889,
+    publisher: "Project Gutenberg",
+    source_url: "https://www.gutenberg.org/ebooks/59709",
+    raw_path: "imports/raw/project-gutenberg/59709-chuang-tzu.txt",
+    converted_path: "imports/converted/project-gutenberg/59709-chuang-tzu.md",
+    canonical_path: "texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md",
+    manifest_path: "manifests/project-gutenberg/59709-chuang-tzu.yml",
+    extraction_dir: "extractions/daoist/project-gutenberg/chuang-tzu",
+    tags: %w[daoism transformation dream relativity non_action paradox freedom],
+    motifs: %w[wisdom shapeshifter duality trickster_boundary initiation],
+    figures: ["Chuang Tzu", "Hui Tzu", "Tao"],
+    tradition_cluster: "daoist_chinese"
+  },
   "2017" => {
     id: "buddhist.dhammapada.max_muller_gutenberg",
     title: "Dhammapada, a Collection of Verses",
@@ -183,6 +212,35 @@ WORKS = {
     motifs: %w[sacred_tree_axis chaos wisdom death_rebirth trickster_boundary],
     figures: ["Odin", "Thor", "Loki", "Baldr", "Freyr"],
     tradition_cluster: "norse"
+  },
+  "3833" => {
+    id: "indigenous_australian.australian_legendary_tales.parker_gutenberg",
+    title: "Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies",
+    alternate_titles: ["Australian Legendary Tales"],
+    text_status: "complete",
+    tradition: "indigenous_australian",
+    culture: "noongahburrah_euahlayi_context_colonial_collection",
+    region: "australia",
+    source_language: "Noongahburrah / Euahlayi oral traditions mediated through English collection",
+    text_language: "English",
+    date_range: "living Indigenous traditions; 1896 public-domain English colonial collection",
+    source_type: "text",
+    source_id: "source.project_gutenberg.3833",
+    edition: "Project Gutenberg plain-text eBook #3833",
+    translator: "",
+    editor: "K. Langloh Parker",
+    publication_year: 1896,
+    publisher: "Project Gutenberg",
+    source_url: "https://www.gutenberg.org/ebooks/3833",
+    raw_path: "imports/raw/project-gutenberg/3833-australian-legendary-tales.txt",
+    converted_path: "imports/converted/project-gutenberg/3833-australian-legendary-tales.md",
+    canonical_path: "texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md",
+    manifest_path: "manifests/project-gutenberg/3833-australian-legendary-tales.yml",
+    extraction_dir: "extractions/indigenous-australian/project-gutenberg/australian-legendary-tales",
+    tags: %w[indigenous_australian noongahburrah euahlayi ancestral_beings creation colonial_collection ethics_review],
+    motifs: %w[culture_hero shapeshifter trickster_boundary sacred_birth wisdom],
+    figures: ["Baiame", "Wurrunnah"],
+    tradition_cluster: "indigenous_australian"
   },
   "11000" => {
     id: "mesopotamian.gilgamesh.old_babylonian_jastrow_clay_gutenberg",
@@ -717,6 +775,7 @@ def clean_raw_text(raw)
 
   lines = remove_gutenberg_editor_note(lines)
   lines = remove_digitizer_note(lines)
+  lines = remove_distributed_proofreading_note(lines)
   lines = remove_formatting_warning(lines)
   lines = remove_braced_redactor_note(lines)
   lines = lines.reject do |line|
@@ -772,6 +831,27 @@ def remove_digitizer_note(lines)
       else
         blank_count = 0
       end
+      next
+    end
+
+    output << line
+  end
+
+  output
+end
+
+def remove_distributed_proofreading_note(lines)
+  output = []
+  skipping = false
+
+  lines.each do |line|
+    if line.match?(/\A\s*Distributed Proofreading Team\b/i)
+      skipping = true
+      next
+    end
+
+    if skipping
+      skipping = false if line.strip.empty?
       next
     end
 

@@ -1,0 +1,69 @@
+---
+manifest_version: '1'
+batch_id: project-gutenberg-wave-2
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.gutenberg_3833
+  work_id: indigenous_australian.australian_legendary_tales.parker_gutenberg
+  title: 'Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the
+    Piccaninnies'
+  source_url: https://www.gutenberg.org/ebooks/3833
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/project-gutenberg/3833-australian-legendary-tales.txt
+    checksum:
+      algorithm: sha256
+      value: f48a7bbcb592e6d212ca9fed0575e9b4a4e560838514e65a1237fd76d7c24ae7
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/3833-australian-legendary-tales.md
+    checksum:
+      algorithm: sha256
+      value: 9be194607dd633e2ec96eb042838ba5b3f6ff8854d446973af166d0542ef79c4
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+    checksum:
+      algorithm: sha256
+      value: 51dfce430a808d3a8c22f59959a4a8e6b244bf388b62cde68c1a8063c920ccdb
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/build_gutenberg_seed.rb
+    version: '1'
+    command: ruby scripts/build_gutenberg_seed.rb 3833
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Generic plain-text converter for public-domain Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: The source catalog page records public-domain status in the USA; reuse
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure, rights metadata, and removal
+      of distributor boilerplate.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.

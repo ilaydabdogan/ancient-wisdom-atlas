@@ -16,29 +16,29 @@ rights:
 
 | Motif | Occurrences | Traditions |
 | --- | ---: | --- |
-| `wisdom` | 47 | buddhist (3), celtic_irish (1), confucian (6), daoist (2), hindu (10), islamic (3), jewish_christian (8), mesopotamian (4), norse (6), persian (4) |
+| `wisdom` | 49 | buddhist (3), celtic_irish (1), confucian (6), daoist (4), hindu (10), islamic (3), jewish_christian (8), mesopotamian (4), norse (6), persian (4) |
 | `divine_judgment` | 19 | egyptian (2), greek (3), hindu (3), islamic (3), jewish_christian (4), maya_quiche (2), norse (2) |
-| `initiation` | 15 | buddhist (1), celtic_irish (2), confucian (1), egyptian (1), hindu (4), jewish_christian (1), maya_quiche (1), mesopotamian (1), norse (1), persian (2) |
+| `initiation` | 16 | buddhist (1), celtic_irish (2), confucian (1), daoist (1), egyptian (1), hindu (4), jewish_christian (1), maya_quiche (1), mesopotamian (1), norse (1), persian (2) |
 | `death_rebirth` | 12 | celtic_irish (1), celtic_welsh (1), egyptian (2), hindu (3), jewish_christian (1), maya_quiche (1), mesopotamian (1), norse (1), persian (1) |
 | `royal_legitimacy` | 12 | celtic_welsh (1), confucian (2), hindu (4), jewish_christian (1), norse (1), persian (3) |
 | `sacrifice` | 11 | celtic_welsh (1), greek (1), hindu (4), jewish_christian (4), norse (1) |
 | `covenant` | 9 | celtic_irish (1), hindu (1), islamic (1), jewish_christian (6) |
 | `sacred_exchange` | 9 | confucian (1), hindu (2), jewish_christian (4), persian (2) |
 | `chaos` | 7 | finnish_karelian (1), greek (1), jewish_christian (1), maya_quiche (1), norse (1), persian (2) |
+| `duality` | 7 | daoist (3), greek (1), mesopotamian (2), persian (1) |
 | `sacred_tree_axis` | 7 | hindu (1), jewish_christian (3), norse (3) |
+| `world_center` | 7 | finnish_karelian (1), indigenous_australian (1), jewish_christian (3), norse (2) |
 | `miraculous_child` | 6 | islamic (3), persian (3) |
-| `world_center` | 6 | finnish_karelian (1), jewish_christian (3), norse (2) |
+| `shapeshifter` | 6 | celtic_irish (2), celtic_welsh (1), daoist (1), egyptian (1), norse (1) |
 | `departure` | 5 | celtic_irish (1), jewish_christian (1), norse (1), persian (2) |
-| `duality` | 5 | daoist (1), greek (1), mesopotamian (2), persian (1) |
 | `resurrection` | 5 | celtic_welsh (2), egyptian (2), norse (1) |
 | `return` | 5 | celtic_irish (1), celtic_welsh (1), norse (1), persian (2) |
 | `serpent` | 5 | jewish_christian (2), norse (3) |
-| `shapeshifter` | 5 | celtic_irish (2), celtic_welsh (1), egyptian (1), norse (1) |
 | `ascent` | 4 | egyptian (1), jewish_christian (3) |
+| `culture_hero` | 4 | finnish_karelian (1), greek (1), indigenous_australian (1), mesopotamian (1) |
+| `hero_descent` | 4 | egyptian (1), indigenous_australian (1), jewish_christian (1), maya_quiche (1) |
 | `trickster_boundary` | 4 | greek (1), maya_quiche (1), norse (2) |
-| `culture_hero` | 3 | finnish_karelian (1), greek (1), mesopotamian (1) |
 | `divine_parent_child` | 3 | norse (2), persian (1) |
-| `hero_descent` | 3 | egyptian (1), jewish_christian (1), maya_quiche (1) |
 | `sacred_birth` | 3 | islamic (2), persian (1) |
 | `ark_vessel` | 2 | celtic_welsh (1), jewish_christian (1) |
 | `atonement_rite` | 2 | jewish_christian (2) |
@@ -47,6 +47,7 @@ rights:
 | `flood_and_renewal` | 2 | jewish_christian (1), maya_quiche (1) |
 | `mother_goddess` | 2 | daoist (1), greek (1) |
 | `sacred_fire` | 2 | jewish_christian (2) |
+| `sacred_theft` | 2 | greek (1), indigenous_australian (1) |
 | `sacred_twins` | 2 | maya_quiche (1), mesopotamian (1) |
 | `sibling_pair` | 2 | maya_quiche (1), norse (1) |
 | `annual_purification` | 1 | jewish_christian (1) |
@@ -79,6 +80,7 @@ rights:
 | `failed_negotiated_exchange` | 1 | celtic_irish (1) |
 | `fate_lament` | 1 | greek (1) |
 | `fidelity_in_ornamental_captivity` | 1 | hindu (1) |
+| `forbidden_knowledge` | 1 | indigenous_australian (1) |
 | `gentle_remonstrance_within_hierarchy` | 1 | confucian (1) |
 | `healing_sign` | 1 | jewish_christian (1) |
 | `hero_wins_a_bride_surrounded_by_flames` | 1 | norse (1) |
@@ -118,7 +120,6 @@ rights:
 | `sabbath_cycle` | 1 | jewish_christian (1) |
 | `sacred_cauldron` | 1 | celtic_irish (1) |
 | `sacred_mountain` | 1 | jewish_christian (1) |
-| `sacred_theft` | 1 | greek (1) |
 | `sacred_treasures` | 1 | celtic_irish (1) |
 | `scapegoat` | 1 | jewish_christian (1) |
 | `sealed_spirit_vessel` | 1 | islamicate_folklore (1) |
@@ -144,7 +145,7 @@ rights:
 ## Wisdom
 
 - Motif id: `wisdom`
-- Occurrences: 47
+- Occurrences: 49
 - Traditions: buddhist, celtic_irish, confucian, daoist, hindu, islamic, jewish_christian, mesopotamian, norse, persian
 
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
@@ -159,6 +160,8 @@ rights:
 | confucian | [The Sayings of Confucius](../texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md) | Government and Public Affairs | rectification through speech | high | [record](../extractions/confucian/project-gutenberg/sayings-of-confucius/sayings-of-confucius-government-pole-star-rectification.yml) |
 | confucian | [The Sayings of Confucius](../texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md) | Individual Virtue | reverent filial duty | high | [record](../extractions/confucian/project-gutenberg/sayings-of-confucius/sayings-of-confucius-filial-piety-reverence.yml) |
 | confucian | [The Sayings of Confucius](../texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md) | Individual Virtue | inward spirit over outward display | high | [record](../extractions/confucian/project-gutenberg/sayings-of-confucius/sayings-of-confucius-filial-piety-reverence.yml) |
+| daoist | [Chuang Tzu: Mystic, Moralist, and Social Reformer](../texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md) | Chuang Tzu, Chapter II, Great Awakening | awakening from the world-dream | high | [record](../extractions/daoist/project-gutenberg/chuang-tzu/chuang-tzu-great-awakening-life-dream.yml) |
+| daoist | [Chuang Tzu: Mystic, Moralist, and Social Reformer](../texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md) | Chuang Tzu, Chapter II, butterfly dream | wisdom through unstable identity | medium | [record](../extractions/daoist/project-gutenberg/chuang-tzu/chuang-tzu-butterfly-dream-transformation.yml) |
 | daoist | [The Tao Teh King, or the Tao and its Characteristics](../texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md) | Tao Teh King, Ch. 1.1-4 | hidden mystery as source-gate | medium | [record](../extractions/daoist/project-gutenberg/tao-teh-king/tao-teh-king-origin-mother-mystery.yml) |
 | daoist | [The Tao Teh King, or the Tao and its Characteristics](../texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md) | Tao Teh King, Ch. 43.1-2 | teaching without words | medium | [record](../extractions/daoist/project-gutenberg/tao-teh-king/tao-teh-king-soft-overcomes-hard-non-action.yml) |
 | hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) | Draupadi in the Council Hall; Draupadi's Plaint; Insult and Vow of Revenge | dharma challenged in royal assembly | high | [record](../extractions/hindu/project-gutenberg/mahabharata/mahabharata-draupadi-council-hall.yml) |
@@ -228,8 +231,8 @@ rights:
 ## Initiation
 
 - Motif id: `initiation`
-- Occurrences: 15
-- Traditions: buddhist, celtic_irish, confucian, egyptian, hindu, jewish_christian, maya_quiche, mesopotamian, norse, persian
+- Occurrences: 16
+- Traditions: buddhist, celtic_irish, confucian, daoist, egyptian, hindu, jewish_christian, maya_quiche, mesopotamian, norse, persian
 
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
@@ -237,6 +240,7 @@ rights:
 | celtic_irish | [Gods and Fighting Men](../texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md) | Book Eleven, Chapter I: Oisin's Story; journey to and return from the Country of the Young | departure_to_transformed_realm | medium | [record](../extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-oisin-country-of-young.yml) |
 | celtic_irish | [The Ancient Irish Epic Tale Tain Bo Cualnge](../texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md) | Culann's feast, the slaughter-hound, Setanta's vow, and the naming of Cuchulain | threshold_ordeal_with_new_name | high | [record](../extractions/celtic-irish/project-gutenberg/tain-bo-cualnge/tain-bo-cualnge-setanta-cuchulain-naming.yml) |
 | confucian | [The Analects of Confucius](../texts/public-domain/confucian/project-gutenberg/analects-legge.md) | Book II, Chs. I-IV | wisdom through lifelong cultivation | medium | [record](../extractions/confucian/project-gutenberg/analects/analects-virtue-governance-learning.yml) |
+| daoist | [Chuang Tzu: Mystic, Moralist, and Social Reformer](../texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md) | Chuang Tzu, Chapter II, Great Awakening | awakening from the world-dream | high | [record](../extractions/daoist/project-gutenberg/chuang-tzu/chuang-tzu-great-awakening-life-dream.yml) |
 | egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII, and CLV-CLXVII | afterlife_passage_by_names | medium | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml) |
 | hindu | [The Song Celestial; Or, Bhagavad-Gita](../texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md) | CHAPTER II | battlefield_revelation | medium | [record](../extractions/hindu/project-gutenberg/bhagavad-gita/bhagavad-gita-battlefield-duty.yml) |
 | hindu | [The Song Celestial; Or, Bhagavad-Gita](../texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md) | CHAPTER XI | cosmic_vision | medium | [record](../extractions/hindu/project-gutenberg/bhagavad-gita/bhagavad-gita-cosmic-vision.yml) |
@@ -363,6 +367,22 @@ rights:
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Birth of Rustem; Simurgh aid, prodigious growth, and the white elephant feat | first_beast_slaying_as_initiation | medium | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml) |
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Persian Literature, Volume 1 / PERSIAN LITERATURE / SPECIAL INTRODUCTION; lines 68-154 | Speculation about the beginnings of all things (origins hidden by a veil) | low | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/persian-literature-volume-1/batch-motif-persian-persian-literature-volume-1-gutenberg-l68-l154.yml) |
 
+## Duality
+
+- Motif id: `duality`
+- Occurrences: 7
+- Traditions: daoist, greek, mesopotamian, persian
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| daoist | [Chuang Tzu: Mystic, Moralist, and Social Reformer](../texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md) | Chuang Tzu, Chapter II, Great Awakening | waking and dream as reversible states | medium | [record](../extractions/daoist/project-gutenberg/chuang-tzu/chuang-tzu-great-awakening-life-dream.yml) |
+| daoist | [Chuang Tzu: Mystic, Moralist, and Social Reformer](../texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md) | Chuang Tzu, Chapter II, butterfly dream | dream transformation | high | [record](../extractions/daoist/project-gutenberg/chuang-tzu/chuang-tzu-butterfly-dream-transformation.yml) |
+| daoist | [The Tao Teh King, or the Tao and its Characteristics](../texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md) | Tao Teh King, Ch. 43.1-2 | soft overcomes hard | medium | [record](../extractions/daoist/project-gutenberg/tao-teh-king/tao-teh-king-soft-overcomes-hard-non-action.yml) |
+| greek | [Hesiod, the Homeric Hymns, and Homerica](../texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md) | Theogony ll. 116-138 | night-day differentiation | medium | [record](../extractions/greek/project-gutenberg/hesiod-homeric-hymns/theogony-cosmic-origin.yml) |
+| mesopotamian | [An Old Babylonian Version of the Gilgamesh Epic](../texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md) | PENNSYLVANIA TABLET, TRANSLATION, Col. I-Col. III | dream_portending_counterpart | high | [record](../extractions/mesopotamian/project-gutenberg/gilgamesh/gilgamesh-enkidu-dream-civilization-boundary.yml) |
+| mesopotamian | [An Old Babylonian Version of the Gilgamesh Epic](../texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md) | PENNSYLVANIA TABLET, TRANSLATION, Col. I-Col. III | rival_counterpart | medium | [record](../extractions/mesopotamian/project-gutenberg/gilgamesh/gilgamesh-enkidu-dream-civilization-boundary.yml) |
+| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Persian Literature, Volume 1 / PERSIAN LITERATURE / SPECIAL INTRODUCTION; lines 68-154 | Welding of dual cultural forces (Hellenic and Semitic) as defining signature | medium | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/persian-literature-volume-1/batch-motif-persian-persian-literature-volume-1-gutenberg-l68-l154.yml) |
+
 ## Sacred Tree Or Axis Mundi
 
 - Motif id: `sacred_tree_axis`
@@ -379,6 +399,22 @@ rights:
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | VOLUSPO / THE WISE-WOMANS PROPHECY / INTRODUCTORY NOTE / NOTES; lines 1629-1639 | Dragon/serpent associated with cosmic order (Nithhogg at Yggdrasil’s roots) | medium | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l1629-l1639.yml) |
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | Voluspo 1-6 | sacred_tree_axis | high | [record](../extractions/norse/project-gutenberg/poetic-edda/voluspo-yggdrasil-cosmic-origins.yml) |
 
+## World Center
+
+- Motif id: `world_center`
+- Occurrences: 7
+- Traditions: finnish_karelian, indigenous_australian, jewish_christian, norse
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| finnish_karelian | [Kalevala: The Epic Poem of Finland](../texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md) | Rune X, Ilmarinen forges the Sampo | world_object_of_abundance | medium | [record](../extractions/finnish-karelian/project-gutenberg/kalevala/kalevala-ilmarinen-forges-sampo.yml) |
+| indigenous_australian | [Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies](../texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md) | The Origin of the Narran Lake | landform origin through sacred action | medium | [record](../extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-origin-narran-lake.yml) |
+| jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 1:1-5 | world_center | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-creation-light.yml) |
+| jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 28:10-17 | world_center | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-dream-descent.yml) |
+| jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 9:15-23 | sacred_center | low | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-cloud-fire-guidance.yml) |
+| norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | INTRODUCTORY NOTE / NOTES / PRONOUNCING INDEX OF PROPER NAMES / PRONOUNCING INDEX; lines 23008-23324 | World tree / sacred axis (Yggdrasil as world-ash) | medium | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l23008-l23324.yml) |
+| norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | Voluspo 1-6 | world_center | medium | [record](../extractions/norse/project-gutenberg/poetic-edda/voluspo-yggdrasil-cosmic-origins.yml) |
+
 ## Miraculous Child
 
 - Motif id: `miraculous_child`
@@ -394,20 +430,20 @@ rights:
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Birth of Rustem; Simurgh aid, prodigious growth, and the white elephant feat | precocious_hero_growth | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml) |
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and return | exposed_child_protected_by_wonder_bird | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml) |
 
-## World Center
+## Shapeshifter
 
-- Motif id: `world_center`
+- Motif id: `shapeshifter`
 - Occurrences: 6
-- Traditions: finnish_karelian, jewish_christian, norse
+- Traditions: celtic_irish, celtic_welsh, daoist, egyptian, norse
 
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
-| finnish_karelian | [Kalevala: The Epic Poem of Finland](../texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md) | Rune X, Ilmarinen forges the Sampo | world_object_of_abundance | medium | [record](../extractions/finnish-karelian/project-gutenberg/kalevala/kalevala-ilmarinen-forges-sampo.yml) |
-| jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 1:1-5 | world_center | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-creation-light.yml) |
-| jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 28:10-17 | world_center | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-dream-descent.yml) |
-| jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 9:15-23 | sacred_center | low | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-cloud-fire-guidance.yml) |
-| norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | INTRODUCTORY NOTE / NOTES / PRONOUNCING INDEX OF PROPER NAMES / PRONOUNCING INDEX; lines 23008-23324 | World tree / sacred axis (Yggdrasil as world-ash) | medium | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l23008-l23324.yml) |
-| norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | Voluspo 1-6 | world_center | medium | [record](../extractions/norse/project-gutenberg/poetic-edda/voluspo-yggdrasil-cosmic-origins.yml) |
+| celtic_irish | [Heroic Romances of Ireland](../texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md) | The Apparition of the Great Queen to Cuchulain; literal translation | shapechanging_battle_queen | high | [record](../extractions/celtic-irish/project-gutenberg/heroic-romances-of-ireland/heroic-romances-of-ireland-cuchulain-morrigan-apparition.yml) |
+| celtic_irish | [Heroic Romances of Ireland](../texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md) | The Courtship of Etain (Leabhar na h-Uidhri version); Etain transformed, wind-borne, swallowed, and born again | enchanted_transformation_and_rebirth | high | [record](../extractions/celtic-irish/project-gutenberg/heroic-romances-of-ireland/heroic-romances-of-ireland-etain-transformation-rebirth.yml) |
+| celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) | Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn | shapeshifted_substitution | high | [record](../extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-pwyll-annwvyn-exchange.yml) |
+| daoist | [Chuang Tzu: Mystic, Moralist, and Social Reformer](../texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md) | Chuang Tzu, Chapter II, butterfly dream | dream transformation | high | [record](../extractions/daoist/project-gutenberg/chuang-tzu/chuang-tzu-butterfly-dream-transformation.yml) |
+| egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII, and CLV-CLXVII | ritual_transformation | high | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml) |
+| norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | GRIMNISMOL / THE BALLAD OF GRIMNIR / INTRODUCTORY NOTE / NOTES; lines 4391-4441 | God appears in disguise under many names | high | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l4391-l4441.yml) |
 
 ## Departure
 
@@ -422,20 +458,6 @@ rights:
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | Vafthruthnismol 1-8 | departure_to_liminal_opponent | medium | [record](../extractions/norse/project-gutenberg/poetic-edda/vafthruthnismol-odin-wisdom-contest.yml) |
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | THE RUBIYT OF OMAR KHAYYM / THE RUBIYT / THE DIVAN / BY HFIZ; lines 15309-15336 | Departure/absence anticipated in a familiar place | low | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/persian-literature-volume-1/batch-motif-persian-persian-literature-volume-1-gutenberg-l15309-l15336.yml) |
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and return | mountain_fosterage_and_return | medium | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml) |
-
-## Duality
-
-- Motif id: `duality`
-- Occurrences: 5
-- Traditions: daoist, greek, mesopotamian, persian
-
-| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
-| --- | --- | --- | --- | --- | --- |
-| daoist | [The Tao Teh King, or the Tao and its Characteristics](../texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md) | Tao Teh King, Ch. 43.1-2 | soft overcomes hard | medium | [record](../extractions/daoist/project-gutenberg/tao-teh-king/tao-teh-king-soft-overcomes-hard-non-action.yml) |
-| greek | [Hesiod, the Homeric Hymns, and Homerica](../texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md) | Theogony ll. 116-138 | night-day differentiation | medium | [record](../extractions/greek/project-gutenberg/hesiod-homeric-hymns/theogony-cosmic-origin.yml) |
-| mesopotamian | [An Old Babylonian Version of the Gilgamesh Epic](../texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md) | PENNSYLVANIA TABLET, TRANSLATION, Col. I-Col. III | dream_portending_counterpart | high | [record](../extractions/mesopotamian/project-gutenberg/gilgamesh/gilgamesh-enkidu-dream-civilization-boundary.yml) |
-| mesopotamian | [An Old Babylonian Version of the Gilgamesh Epic](../texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md) | PENNSYLVANIA TABLET, TRANSLATION, Col. I-Col. III | rival_counterpart | medium | [record](../extractions/mesopotamian/project-gutenberg/gilgamesh/gilgamesh-enkidu-dream-civilization-boundary.yml) |
-| persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Persian Literature, Volume 1 / PERSIAN LITERATURE / SPECIAL INTRODUCTION; lines 68-154 | Welding of dual cultural forces (Hellenic and Semitic) as defining signature | medium | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/persian-literature-volume-1/batch-motif-persian-persian-literature-volume-1-gutenberg-l68-l154.yml) |
 
 ## Resurrection
 
@@ -479,20 +501,6 @@ rights:
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | LAYS OF THE GODS / VOLUSPO / THE WISE-WOMANS PROPHECY / INTRODUCTORY NOTE; lines 1099-1112 | Underworld dragon/serpent rises bearing the dead | high | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l1099-l1112.yml) |
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | VOLUSPO / THE WISE-WOMANS PROPHECY / INTRODUCTORY NOTE / NOTES; lines 1629-1639 | Dragon/serpent associated with cosmic order (Nithhogg at Yggdrasil’s roots) | medium | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l1629-l1639.yml) |
 
-## Shapeshifter
-
-- Motif id: `shapeshifter`
-- Occurrences: 5
-- Traditions: celtic_irish, celtic_welsh, egyptian, norse
-
-| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
-| --- | --- | --- | --- | --- | --- |
-| celtic_irish | [Heroic Romances of Ireland](../texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md) | The Apparition of the Great Queen to Cuchulain; literal translation | shapechanging_battle_queen | high | [record](../extractions/celtic-irish/project-gutenberg/heroic-romances-of-ireland/heroic-romances-of-ireland-cuchulain-morrigan-apparition.yml) |
-| celtic_irish | [Heroic Romances of Ireland](../texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md) | The Courtship of Etain (Leabhar na h-Uidhri version); Etain transformed, wind-borne, swallowed, and born again | enchanted_transformation_and_rebirth | high | [record](../extractions/celtic-irish/project-gutenberg/heroic-romances-of-ireland/heroic-romances-of-ireland-etain-transformation-rebirth.yml) |
-| celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) | Pwyll Prince of Dyved; encounter with Arawn and year in Annwvyn | shapeshifted_substitution | high | [record](../extractions/celtic-welsh/project-gutenberg/mabinogion/mabinogion-pwyll-annwvyn-exchange.yml) |
-| egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII, and CLV-CLXVII | ritual_transformation | high | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml) |
-| norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | GRIMNISMOL / THE BALLAD OF GRIMNIR / INTRODUCTORY NOTE / NOTES; lines 4391-4441 | God appears in disguise under many names | high | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l4391-l4441.yml) |
-
 ## Ascent
 
 - Motif id: `ascent`
@@ -505,6 +513,32 @@ rights:
 | jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) | Deuteronomy 34:1-12 | ascent | medium | [record](../extractions/biblical/world-english-bible-classic/deuteronomy/deuteronomy-moses-death-succession.yml) |
 | jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 19:1-20; 24:3-18 | ascent | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-sinai-covenant-ascent.yml) |
 | jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) | Genesis 28:10-17 | ascent | medium | [record](../extractions/biblical/world-english-bible-classic/genesis/genesis-dream-descent.yml) |
+
+## Culture Hero
+
+- Motif id: `culture_hero`
+- Occurrences: 4
+- Traditions: finnish_karelian, greek, indigenous_australian, mesopotamian
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| finnish_karelian | [Kalevala: The Epic Poem of Finland](../texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md) | Rune X, Ilmarinen forges the Sampo | smith_craft | high | [record](../extractions/finnish-karelian/project-gutenberg/kalevala/kalevala-ilmarinen-forges-sampo.yml) |
+| greek | [Hesiod, the Homeric Hymns, and Homerica](../texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md) | Theogony ll. 507-616 | sacred theft of fire | high | [record](../extractions/greek/project-gutenberg/hesiod-homeric-hymns/theogony-prometheus-fire-theft.yml) |
+| indigenous_australian | [Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies](../texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md) | Bootoolgah the Crane and Goonur the Kangaroo Rat, the Fire Makers | origin of fire-making | high | [record](../extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-fire-makers.yml) |
+| mesopotamian | [An Old Babylonian Version of the Gilgamesh Epic](../texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md) | PENNSYLVANIA TABLET, TRANSLATION, Col. I-Col. III | civilization_boundary_initiation | high | [record](../extractions/mesopotamian/project-gutenberg/gilgamesh/gilgamesh-enkidu-dream-civilization-boundary.yml) |
+
+## Descent Into The Underworld
+
+- Motif id: `hero_descent`
+- Occurrences: 4
+- Traditions: egyptian, indigenous_australian, jewish_christian, maya_quiche
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII, and CLV-CLXVII | afterlife_passage_by_names | medium | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml) |
+| indigenous_australian | [Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies](../texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md) | The Origin of the Narran Lake | hidden watercourse boundary | low | [record](../extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-origin-narran-lake.yml) |
+| jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 16:1-50 | descent_to_sheol | low | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-korah-rebellion-judgment.yml) |
+| maya_quiche | [The Popol Vuh](../texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md) | The Second Book, Hero Twins in Xibalba | underworld_trial | high | [record](../extractions/mesoamerican/project-gutenberg/popol-vuh/popol-vuh-hero-twins-xibalba-trials.yml) |
 
 ## Trickster At The Boundary
 
@@ -519,18 +553,6 @@ rights:
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | NOTES / ALVISSMOL / THE BALLAD OF ALVIS / INTRODUCTORY NOTE; lines 7663-7805 | Deceptive delay/trick used against a knowledgeable other; daylight ‘catches’ the dwarf | medium | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l7663-l7805.yml) |
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | Vafthruthnismol 1-8 | trickster_boundary | medium | [record](../extractions/norse/project-gutenberg/poetic-edda/vafthruthnismol-odin-wisdom-contest.yml) |
 
-## Culture Hero
-
-- Motif id: `culture_hero`
-- Occurrences: 3
-- Traditions: finnish_karelian, greek, mesopotamian
-
-| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
-| --- | --- | --- | --- | --- | --- |
-| finnish_karelian | [Kalevala: The Epic Poem of Finland](../texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md) | Rune X, Ilmarinen forges the Sampo | smith_craft | high | [record](../extractions/finnish-karelian/project-gutenberg/kalevala/kalevala-ilmarinen-forges-sampo.yml) |
-| greek | [Hesiod, the Homeric Hymns, and Homerica](../texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md) | Theogony ll. 507-616 | sacred theft of fire | high | [record](../extractions/greek/project-gutenberg/hesiod-homeric-hymns/theogony-prometheus-fire-theft.yml) |
-| mesopotamian | [An Old Babylonian Version of the Gilgamesh Epic](../texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md) | PENNSYLVANIA TABLET, TRANSLATION, Col. I-Col. III | civilization_boundary_initiation | high | [record](../extractions/mesopotamian/project-gutenberg/gilgamesh/gilgamesh-enkidu-dream-civilization-boundary.yml) |
-
 ## Divine Parent And Holy Child
 
 - Motif id: `divine_parent_child`
@@ -542,18 +564,6 @@ rights:
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | INTRODUCTORY NOTE / NOTES / PRONOUNCING INDEX OF PROPER NAMES / PRONOUNCING INDEX; lines 22700-23006 | Named parent-child relationship (mother of a named figure) | low | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l22700-l23006.yml) |
 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) | RIGSTHULA / THE SONG OF RIG / INTRODUCTORY NOTE / NOTES; lines 8480-8601 | Divine figure associated with humankind (kinsman/ancestor language) | low | [record](../extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/poetic-edda-bellows/batch-motif-norse-poetic-edda-bellows-gutenberg-l8480-l8601.yml) |
 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) | Zal, the son of Sam; exposure on Alberz, Simurgh fosterage, and return | exposed_child_protected_by_wonder_bird | high | [record](../extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml) |
-
-## Descent Into The Underworld
-
-- Motif id: `hero_descent`
-- Occurrences: 3
-- Traditions: egyptian, jewish_christian, maya_quiche
-
-| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
-| --- | --- | --- | --- | --- | --- |
-| egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) | CHAPTER IX, A Short Description of the "Doors" or Chapters of the Book of the Dead; summaries of Chapters LXIV, LXXIV-LXXXVIII, CXLIV-CXLVII, and CLV-CLXVII | afterlife_passage_by_names | medium | [record](../extractions/egyptian/project-gutenberg/book-of-the-dead/book-of-the-dead-transformations-protection.yml) |
-| jewish_christian | [Numbers](../texts/public-domain/biblical/world-english-bible-classic/numbers.md) | Numbers 16:1-50 | descent_to_sheol | low | [record](../extractions/biblical/world-english-bible-classic/numbers/numbers-korah-rebellion-judgment.yml) |
-| maya_quiche | [The Popol Vuh](../texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md) | The Second Book, Hero Twins in Xibalba | underworld_trial | high | [record](../extractions/mesoamerican/project-gutenberg/popol-vuh/popol-vuh-hero-twins-xibalba-trials.yml) |
 
 ## Sacred Birth
 
@@ -643,6 +653,17 @@ rights:
 | --- | --- | --- | --- | --- | --- |
 | jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 3:1-15 | sacred_fire | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-burning-bush.yml) |
 | jewish_christian | [Leviticus](../texts/public-domain/biblical/world-english-bible-classic/leviticus.md) | Leviticus 1:3-9 | sacred_fire | medium | [record](../extractions/biblical/world-english-bible-classic/leviticus/leviticus-burnt-offering.yml) |
+
+## Sacred Theft
+
+- Motif id: `sacred_theft`
+- Occurrences: 2
+- Traditions: greek, indigenous_australian
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| greek | [Hesiod, the Homeric Hymns, and Homerica](../texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md) | Theogony ll. 507-616 | sacred theft of fire | high | [record](../extractions/greek/project-gutenberg/hesiod-homeric-hymns/theogony-prometheus-fire-theft.yml) |
+| indigenous_australian | [Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies](../texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md) | Bootoolgah the Crane and Goonur the Kangaroo Rat, the Fire Makers | hidden fire knowledge becomes communal | medium | [record](../extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-fire-makers.yml) |
 
 ## Sacred Twins
 
@@ -965,6 +986,16 @@ rights:
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
 | hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) | Book V, Cantos XIV-XVI: The Asoka Grove; Sítá; Hanumán's Lament | fidelity in ornamental captivity | medium | [record](../extractions/hindu/project-gutenberg/ramayana/ramayana-asoka-grove-sita-witness.yml) |
+
+## Forbidden Knowledge
+
+- Motif id: `forbidden_knowledge`
+- Occurrences: 1
+- Traditions: indigenous_australian
+
+| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
+| --- | --- | --- | --- | --- | --- |
+| indigenous_australian | [Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies](../texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md) | Bootoolgah the Crane and Goonur the Kangaroo Rat, the Fire Makers | hidden fire knowledge becomes communal | medium | [record](../extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-fire-makers.yml) |
 
 ## Gentle Remonstrance Within Hierarchy
 
@@ -1355,16 +1386,6 @@ rights:
 | Tradition | Source | Passage | Motif Label | Confidence | Extraction |
 | --- | --- | --- | --- | --- | --- |
 | jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) | Exodus 19:1-20; 24:3-18 | sacred_mountain | medium | [record](../extractions/biblical/world-english-bible-classic/exodus/exodus-sinai-covenant-ascent.yml) |
-
-## Sacred Theft
-
-- Motif id: `sacred_theft`
-- Occurrences: 1
-- Traditions: greek
-
-| Tradition | Source | Passage | Motif Label | Confidence | Extraction |
-| --- | --- | --- | --- | --- | --- |
-| greek | [Hesiod, the Homeric Hymns, and Homerica](../texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md) | Theogony ll. 507-616 | sacred theft of fire | high | [record](../extractions/greek/project-gutenberg/hesiod-homeric-hymns/theogony-prometheus-fire-theft.yml) |
 
 ## Sacred Treasures
 

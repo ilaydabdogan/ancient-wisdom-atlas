@@ -1,0 +1,158 @@
+---
+record_id: extraction.chuang_tzu.butterfly_dream_transformation
+source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+passage_locator:
+  label: Chuang Tzu, Chapter II, butterfly dream
+  start: lines 2009
+  end: lines 2015
+  translation: Herbert A. Giles, Project Gutenberg eBook #59709
+  notes: Stable line locator from canonical Markdown; public-domain translation.
+canonical_text:
+  quote: |
+    Once upon a time, I, Chuang Tzu, dreamt I was a butterfly, fluttering hither and thither, to all intents and purposes a butterfly.
+
+    I did not know then whether I was a man dreaming I was a butterfly, or whether I am now a butterfly dreaming I am a man.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Chuang Tzu describes dreaming that he was a butterfly.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the dream he is conscious only of acting as a butterfly.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After waking, the passage questions whether the speaker is a man who dreamed he was a butterfly or a butterfly dreaming he is a man.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage says there is necessarily a barrier between a man and a butterfly.
+  category: relationship
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Chuang Tzu
+  description: Speaker who dreams he is a butterfly and then questions the boundary between waking identity and dream identity.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: butterfly
+  description: Dream identity of the speaker and possible alternate standpoint for interpreting the waking self.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: dreamer and questioned self
+  assigned_to:
+  - fig:1
+  basis: The speaker states that he dreamed he was a butterfly and then questions which identity is primary.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dream form and alternate self
+  assigned_to:
+  - fig:2
+  basis: The butterfly is both dream form and the imagined subject who may be dreaming the human.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: butterfly
+  literal_form: butterfly in dream
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - shapeshifter
+  - duality
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: dream
+  literal_form: dream state
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: barrier
+  literal_form: boundary between man and butterfly
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Butterfly dream and identity reversal
+  summary: Chuang Tzu dreams he is a butterfly, wakes, and questions whether the human self dreamed the butterfly or the butterfly now dreams the human self.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: dream transformation
+  taxonomy_refs:
+  - shapeshifter
+  - duality
+  basis: The speaker moves between human and butterfly identity through dream and questions which identity is primary.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The transformation is philosophical and dreamlike rather than a literal metamorphosis scene.
+- id: motif:2
+  label: wisdom through unstable identity
+  taxonomy_refs:
+  - wisdom
+  basis: The passage uses dream uncertainty to reveal instability in ordinary self-knowledge.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The wisdom claim is interpretive but closely grounded in the passage's paradox.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits the atlas pattern of identity reversal because it makes the boundary between human and nonhuman self uncertain.
+  claim_level: same_function
+  target: pattern.trickster_at_boundary / pattern.forbidden_knowledge_and_fire identity-boundary comparisons
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is not a trickster theft or initiation narrative; it is a philosophical dream vignette.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Chuang Tzu, Chapter II, lines 2009-2015
+  quote_or_summary: Chuang Tzu dreams he is a butterfly and then questions whether he is a man dreaming a butterfly or a butterfly dreaming a man.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public-domain Project Gutenberg source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The literal dream and identity reversal are explicit; broader pattern placement should be reviewed.
+reviewer_status:
+  status: draft
+  notes: Draft extraction; verify chapter locator and translation wording before promotion.
+extracted_by: Codex
+extracted_at: '2026-04-28'
+notes: Seed extraction for Daoist dream, transformation, and identity-boundary motifs.

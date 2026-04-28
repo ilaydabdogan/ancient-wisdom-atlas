@@ -1,0 +1,173 @@
+---
+record_id: extraction.australian_legendary_tales.fire_makers
+source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+passage_locator:
+  label: Bootoolgah the Crane and Goonur the Kangaroo Rat, the Fire Makers
+  start: lines 900
+  end: lines 1032
+  translation: K. Langloh Parker collection, Project Gutenberg eBook #3833
+  notes: Colonial English collection of Noongahburrah / Euahlayi-context material; cultural protocol review needed before interpretive reuse.
+canonical_text:
+  quote: ''
+  summary: Bootoolgah and Goonur discover how to make fire, hide the firesticks, cook food secretly, and later others learn of the fire and spread it.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says there was no fire in the country before Bootoolgah and Goonur discovered fire-making.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bootoolgah and Goonur learn to make fire by splitting and rubbing sticks.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: They cook food with fire but keep the firesticks hidden.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Other figures plan to gain the firestick so fires can be started for the good of all.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Fire spreads when the stolen firestick is used to ignite grass while fleeing.
+  category: action
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Bootoolgah
+  description: Crane figure who discovers fire-making with Goonur and helps keep the firesticks hidden.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Goonur
+  description: Kangaroo rat figure who discovers fire-making with Bootoolgah.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Beeargah
+  description: Figure who takes a hidden firestick and spreads fire while escaping.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: fire makers and secret keepers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Bootoolgah and Goonur discover fire-making, cook secretly, and hide the firesticks.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fire taker and distributor
+  assigned_to:
+  - fig:3
+  basis: Beeargah seizes the firestick and fires the grass while fleeing.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: firestick
+  literal_form: stick used to make and carry fire
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  - sacred_theft
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: cooked food
+  literal_form: food cooked after fire-making is discovered
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - culture_hero
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hidden seeds
+  literal_form: open-mouthed seeds used as hiding places for firesticks
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - forbidden_knowledge
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Fire-making discovered, hidden, and spread
+  summary: Bootoolgah and Goonur discover fire-making and keep the firesticks hidden, but others seek the fire for wider use and Beeargah carries it away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: origin of fire-making
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage explains how fire-making first appears in the country.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The fire is discovered and later taken; do not reduce the narrative to a Prometheus analogue.
+- id: motif:2
+  label: hidden fire knowledge becomes communal
+  taxonomy_refs:
+  - forbidden_knowledge
+  - sacred_theft
+  basis: Firesticks are hidden by their discoverers, then seized and spread for broader use.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The motive and ethical frame differ from Greek and Biblical forbidden-knowledge stories.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be compared with theft-of-fire and culture-hero motifs because fire-making knowledge moves from secret possession to wider availability.
+  claim_level: same_function
+  target: pattern.forbidden_knowledge_and_fire
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Comparison should not imply borrowing or treat Indigenous Australian fire-origin narrative as a variant of Prometheus.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Fire Makers, lines 900-1032
+  quote_or_summary: Bootoolgah and Goonur discover fire-making, hide their firesticks, cook secretly, and Beeargah eventually takes a firestick and spreads fire while escaping.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public-domain US text; colonial collection and living-culture protocols require careful review.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Fire-origin structure is clear, but cross-cultural comparison needs careful framing.
+reviewer_status:
+  status: draft
+  notes: Draft extraction; requires cultural-context review before public interpretive use.
+extracted_by: Codex
+extracted_at: '2026-04-28'
+notes: Seed extraction for fire-origin, culture-hero, and forbidden-knowledge comparison while preserving local caution.

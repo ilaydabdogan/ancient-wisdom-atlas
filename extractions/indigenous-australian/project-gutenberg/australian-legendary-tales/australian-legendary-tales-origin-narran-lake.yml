@@ -1,0 +1,184 @@
+---
+record_id: extraction.australian_legendary_tales.origin_narran_lake
+source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+passage_locator:
+  label: The Origin of the Narran Lake
+  start: lines 574
+  end: lines 662
+  translation: K. Langloh Parker collection, Project Gutenberg eBook #3833
+  notes: Colonial English collection of Noongahburrah / Euahlayi-context material; cultural protocol review needed before interpretive reuse.
+canonical_text:
+  quote: ''
+  summary: Byamee's wives enter a spring, are taken through an underground watercourse by kurreahs, and Byamee pursues, kills the kurreahs, restores the women, and declares that the water-filled hollows will become Narran Lake.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Byamee sends his two young wives to a spring for water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The women enter the spring and are drawn through an underground watercourse toward the Narran River.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Byamee follows the watercourse and wounds or kills the kurreahs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The water the kurreahs carried fills hollows in the ground.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Byamee declares that the water-filled place will become Narran Lake.
+  category: speech
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Byamee
+  description: Powerful figure who pursues the kurreahs, restores his wives, and names or establishes the future lake.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Birrahgnooloo and Cunnunbeillee
+  description: Byamee's two young wives who enter the spring and are taken through the watercourse.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: kurreahs
+  description: Water-associated beings who take the women through the underground watercourse and whose bodies release water into hollows.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: pursuer and restorer
+  assigned_to:
+  - fig:1
+  basis: Byamee pursues the kurreahs and restores the women after cutting open the dead beings.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: landform origin speaker
+  assigned_to:
+  - fig:1
+  basis: Byamee states that the water-filled place will become a lake.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: taken through watercourse
+  assigned_to:
+  - fig:2
+  basis: The women enter the spring and are carried away through an underground passage.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: water-carrying beings
+  assigned_to:
+  - fig:3
+  basis: The kurreahs carry or draw away the spring water and fill hollows when killed.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: spring
+  literal_form: clear water spring
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: underground watercourse
+  literal_form: hidden passage leading toward the Narran River
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - hero_descent
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Narran Lake
+  literal_form: water-filled hollows made into a lake
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - world_center
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Byamee establishes Narran Lake
+  summary: The passage explains the origin of Narran Lake through Byamee's pursuit of water beings, the rescue of his wives, and a declaration that the hollows will hold water and water-fowl.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: landform origin through sacred action
+  taxonomy_refs:
+  - world_center
+  basis: The narrative explains how a named water-place becomes Narran Lake.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The atlas taxonomy does not yet have a precise landform-origin motif; world_center is only approximate.
+- id: motif:2
+  label: hidden watercourse boundary
+  taxonomy_refs:
+  - hero_descent
+  basis: The women pass through an underground watercourse and Byamee follows across the hidden boundary.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: This is not an underworld-descent narrative in the usual sense; review before broad comparison.
+comparison_claims:
+- id: claim:1
+  claim: The passage belongs in a landform-origin comparison set because it narrates how a specific lake comes into being through sacred pursuit and released water.
+  claim_level: same_function
+  target: landform origin and sacred geography motifs
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This should be compared only with careful place-specific and community-specific metadata, not as a generic global myth.
+evidence:
+- id: ev:1
+  type: summary
+  locator: The Origin of the Narran Lake, lines 574-662
+  quote_or_summary: Byamee pursues water beings through connected water holes, kills them, restores his wives, and declares that the water-filled hollows will become Narran Lake.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public-domain US text; colonial collection and living-culture protocols require careful review.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: Literal narrative arc is clear; cultural interpretation must be reviewed with care.
+reviewer_status:
+  status: draft
+  notes: Draft extraction; requires cultural-context review before public interpretive use.
+extracted_by: Codex
+extracted_at: '2026-04-28'
+notes: Seed extraction for Indigenous Australian place-origin and sacred geography material; avoid generic "Dreamtime" flattening.
