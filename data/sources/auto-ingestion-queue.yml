@@ -933,7 +933,7 @@ items:
   manifest_path: manifests/project-gutenberg/36039-giant-crab-old-india-tales-rouse.yml
   extraction_dir: extractions/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse
 - id: comparative.golden_bough.volume_1_frazer_gutenberg
-  status: queued
+  status: ingested
   priority: medium
   source: project_gutenberg
   source_id: '41082'
@@ -982,6 +982,15 @@ items:
   - dying god
   why_it_matters: Adds a foundational comparative-religion study for ritual kingship,
     sacrifice, vegetation cycles, and dying-and-returning-god theory.
+  raw_path: imports/raw/project-gutenberg/41082-golden-bough-volume-1-frazer.txt
+  pipeline:
+    raw_fetched_on: '2026-04-28'
+    converted_on: '2026-04-28'
+    promoted_on: '2026-04-28'
+  converted_path: imports/converted/project-gutenberg/41082-golden-bough-volume-1-frazer.md
+  canonical_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  manifest_path: manifests/project-gutenberg/41082-golden-bough-volume-1-frazer.yml
+  extraction_dir: extractions/comparative/project-gutenberg/golden-bough-volume-1-frazer
 - id: comparative.golden_bough.volume_2_frazer_gutenberg
   status: queued
   priority: medium
