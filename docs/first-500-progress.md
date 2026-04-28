@@ -53,6 +53,6 @@ This is source-level coverage. Long works still need unit-level Markdown splitti
 | ingested | greek.plato.phaedrus_jowett_gutenberg | Phaedrus |
 | ingested | greek.plato.republic_jowett_gutenberg | The Republic |
 | ingested | greek.plato.symposium_jowett_gutenberg | Symposium |
-| queued | greek_roman.berens.myths_legends_gutenberg | Myths and Legends of Ancient Greece and Rome |
+| ingested | greek_roman.berens.myths_legends_gutenberg | Myths and Legends of Ancient Greece and Rome |
 | queued | japanese.fairy_tales.ozaki_gutenberg | Japanese Fairy Tales |
 | queued | norse.myths_of_norsemen.guerber_gutenberg | Myths of the Norsemen: From the Eddas and Sagas |

@@ -659,7 +659,7 @@ queue_outside_first500:
   source_id: '1600'
 - id: greek_roman.berens.myths_legends_gutenberg
   title: Myths and Legends of Ancient Greece and Rome
-  status: queued
+  status: ingested
   priority: medium
   source_id: '22381'
 - id: japanese.fairy_tales.ozaki_gutenberg
@@ -737,6 +737,10 @@ ingested_outside_first500:
   title: Symposium
   tradition_cluster: greek_philosophical
   source_id: source.project_gutenberg.1600
+- id: greek_roman.berens.myths_legends_gutenberg
+  title: Myths and Legends of Ancient Greece and Rome
+  tradition_cluster: classical
+  source_id: source.project_gutenberg.22381
 - id: hindu.upanishads.paramananda_gutenberg
   title: The Upanishads
   tradition_cluster: hindu
