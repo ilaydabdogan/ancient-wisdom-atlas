@@ -26,6 +26,14 @@ The second production lane is extraction review and motif normalization:
 4. Ingest review results under `data/reviews/extraction-quality/<run_id>/`.
 5. Use those review records before promoting drafts or rebuilding pattern-facing indexes.
 
+The third production lane is normalization gap suggestion:
+
+1. Read the generated normalization gap audit.
+2. Prepare Batch requests over unmapped motif IDs, grouped by rough semantic bucket.
+3. Ask the model to suggest an existing canonical motif group, a new group candidate, a human-review hold, or exclusion from pattern queries.
+4. Ingest suggestions under `data/reviews/normalization-suggestions/<run_id>/`.
+5. Review those suggestions before editing `taxonomy/motif-normalization.yml`.
+
 Embeddings are a later discovery lane for either:
 
 - segmented canonical-text passages, using `passages.jsonl` from the segmenter
@@ -325,6 +333,46 @@ Treat these as advisory review records. They do not automatically rewrite extrac
 
 The normalization guidance lives in `taxonomy/motif-normalization.yml`. It supplies hierarchy notes, aliases, quality flags, comparison-mode discipline, and broader `canonical_motif_groups` for Pattern Explorer queries. Review batches can map labels like `descent`, `underworld_trial`, `sacred_fire`, or `renunciation` without collapsing them into one flat motif, while granular generated labels can still be placed through `raw_motif_group_index`.
 
+## Normalization Gap Suggestions
+
+After `scripts/audit_normalization_gaps.rb` has generated `data/indexes/normalization-gap-audit.yml`, prepare a suggestion batch over the unmapped motif IDs:
+
+```sh
+ruby scripts/batch_prepare_normalization_suggestion_requests.rb \
+  --run-id normalization-suggestions-YYYY-MM-DD \
+  --gap-audit data/indexes/normalization-gap-audit.yml \
+  --normalization taxonomy/motif-normalization.yml \
+  --model "$OPENAI_BATCH_MODEL" \
+  --motifs-per-request 20 \
+  --max-output-tokens 8000 \
+  --max-requests-per-shard 500 \
+  --force
+```
+
+Use the same generic upload/create/status/download scripts:
+
+```sh
+ruby scripts/batch_upload_inputs.rb --run-id normalization-suggestions-YYYY-MM-DD
+ruby scripts/batch_create_jobs.rb --run-id normalization-suggestions-YYYY-MM-DD
+ruby scripts/batch_status.rb --run-id normalization-suggestions-YYYY-MM-DD
+ruby scripts/batch_download_results.rb --run-id normalization-suggestions-YYYY-MM-DD
+```
+
+Then ingest suggestion outputs:
+
+```sh
+ruby scripts/batch_ingest_normalization_suggestion_results.rb --run-id normalization-suggestions-YYYY-MM-DD
+```
+
+The suggestion importer writes:
+
+- `data/reviews/normalization-suggestions/<run_id>/suggestions.jsonl`
+- `data/reviews/normalization-suggestions/<run_id>/suggestion-batches.jsonl`
+- `data/reviews/normalization-suggestions/<run_id>/records/*.yml`
+- `data/reviews/normalization-suggestions/<run_id>/manifest.yml`
+
+These suggestions are advisory. They do not automatically edit the taxonomy. A human should promote approved rows into `taxonomy/motif-normalization.yml` as `aliases`, `canonical_motif_groups` children, or `raw_motif_group_index` entries.
+
 ## Embeddings
 
 Embeddings are useful for later unexpected-discovery workflows, but they are not required before dense extraction and motif normalization.
@@ -365,6 +413,7 @@ The pipeline is designed for reruns:
 - Re-running motif request preparation skips previously ingested `custom_id`s unless `--include-ingested` is passed.
 - New motif runs can skip records already ingested by a prior run with `--skip-ingested-from-run-id PRIOR_RUN_ID`; use this for retry passes after queue failures, schema changes, or `max_output_tokens` truncation.
 - Extraction review ingestion merges by `review_id` into `data/reviews/extraction-quality/<run_id>/reviews.jsonl` and records per-item ingest status under `data/batches/<run_id>/extraction-review-ingested-results.jsonl`.
+- Normalization suggestion ingestion merges by `suggestion_id` into `data/reviews/normalization-suggestions/<run_id>/suggestions.jsonl` and records per-request ingest status under `data/batches/<run_id>/normalization-suggestion-ingested-results.jsonl`.
 - Embedding ingestion merges by `custom_id` into `data/embeddings/<run_id>/embeddings.jsonl` and records per-item ingest status under `data/batches/<run_id>/embedding-ingested-results.jsonl`.
 
 Use the same `run_id` to resume an interrupted workflow. Use a new `run_id` for a new scientific pass, model change, prompt change, or corpus-wide rerun.
