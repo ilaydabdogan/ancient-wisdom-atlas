@@ -6,11 +6,11 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 
 ## Summary
 
-- Suggestions reviewed: 20
-- Accepted draft mappings: 13
-- New canonical group candidates: 2
-- Low-confidence / needs human review: 5
-- Suggested exclusions: 2
+- Suggestions reviewed: 40
+- Accepted draft mappings: 26
+- New canonical group candidates: 6
+- Low-confidence / needs human review: 11
+- Suggested exclusions: 3
 - Already known in base normalization: 0
 
 ## New Group Candidates
@@ -19,6 +19,10 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | --- | --- | ---: | --- |
 | `apotropaic_protection` | Apotropaic Protection Against Spirits | 3 | Existing sacred-object and judgment groups do not capture the recurring protective/averting function against spirits or pollution. |
 | `external_detachable_soul` | External or Detachable Soul | 2 | Existing groups cover death, rebirth, vessels, and shapeshifting, but not the specific pattern of vital essence externalized from the body. |
+| `external_soul_life_token` | External Soul and Life Token | 2 | Existing object groups cover sacred power objects or vessels, but not the recurring narrative function of an externally stored life or soul. |
+| `ritual_expulsion_boundary_sealing` | Ritual Expulsion and Boundary Sealing | 3 | Existing groups include sacrifice, sacred law, and threshold guardianship, but not the recurring ritual sequence of expulsion plus boundary closure. |
+| `spirit_contagion` | Spirit Contagion and Death Pollution | 1 | Sacred law and divine judgment are too broad for repeated ritual-pollution and spirit-contagion labels. |
+| `tutelary_spirit` | Tutelary Spirit and Communal Guardian | 1 | Existing groups cover divine action or boundary guardians, but not ongoing protective patronage of a community or place. |
 
 ## Low Confidence Or Human Review
 
@@ -29,8 +33,14 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `animal_pleads_usefulness_to_avoid_death` | animal pleads usefulness to avoid death | needs_human_review | ``  | low | low confidence |
 | `animal_taboo_based_on_mythic_death` | animal taboo based on mythic death | needs_human_review | `sacred_law` Sacred Law and Social Order | low | low confidence |
 | `authorship_as_public_immortality` | authorship as public immortality | needs_human_review | `storytelling_as_power` Storytelling and Narrative as Sacred Power | low | low confidence |
+| `birth_or_generation_as_access_to_immortality` | birth or generation as access to immortality | needs_human_review | ``  | low | low confidence |
+| `boundary_preventing_return_of_expelled_harms` | boundary preventing return of expelled harms | needs_human_review | ``  | low | low confidence |
+| `breath_caught_as_departing_soul` | breath caught as departing soul | needs_human_review | ``  | low | low confidence |
+| `caravan_lost_in_deadly_desert_through_failed_navigation` | Caravan lost in deadly desert through failed navigation | needs_human_review | ``  | low | low confidence |
+| `child_taken_by_wood_spirits_and_recovered_in_a_tree` | Child taken by wood spirits and recovered in a tree | needs_human_review | ``  | low | low confidence |
+| `coercing_a_rain_god_spirit_fetish_animal_or_substitute` | coercing a rain-god, spirit, fetish, animal, or substitute | needs_human_review | ``  | low | low confidence |
 
-_Showing first 5 of 5 review rows._
+_Showing first 11 of 11 review rows._
 
 ## Suggested Exclusions
 
@@ -38,5 +48,6 @@ _Showing first 5 of 5 review rows._
 | --- | --- | --- | --- |
 | `animal_or_lizard_form_of_the_soul_as_a_variant_marker` | animal or lizard form of the soul as a variant marker | medium | The phrase 'as a variant marker' suggests a comparative classification note rather than a usable motif label. |
 | `assimilation_of_local_underworld_to_greek_hades` | Assimilation of local underworld to Greek Hades | high | The label describes interpretive or syncretic classification of traditions rather than a narrative motif. |
+| `chthonic_wealth_divinity_confused_with_underworld_god` | chthonic wealth divinity confused with underworld god | high | The label describes interpretive confusion or identification between divine figures rather than a narrative or symbolic motif. |
 
-_Showing first 2 of 2 exclusion rows._
+_Showing first 3 of 3 exclusion rows._

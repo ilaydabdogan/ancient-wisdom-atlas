@@ -1,0 +1,330 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-28-unmapped-tiny.batch-0003
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.birth-or-generation-as-access-to-immortality
+  motif_id: birth_or_generation_as_access_to_immortality
+  label: birth or generation as access to immortality
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could refer to immortality through descendants, divine birth, or philosophical
+    rebirth; the function is unclear from the label alone.
+  cautions: Do not force into sacred_birth or death_and_transformation without passage
+    evidence about literal birth, lineage, rebirth, or afterlife status.
+  suggested_aliases:
+  - generation as immortality
+  - immortality through offspring
+  - birth as death-transcendence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - death_and_transformation
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessed-island-with-painless-divine-death-in-old-age
+  motif_id: blessed_island_with_painless_divine_death_in_old_age
+  label: Blessed island with painless divine death in old age
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: A blessed island where death is painless fits an enchanted otherworld
+    or blessed realm more than an underworld journey.
+  cautions: If the source frames it as a mapped postmortem destination, afterlife_passage
+    may also be relevant; the current label is highly specific.
+  suggested_aliases:
+  - blessed island
+  - painless death in blessed realm
+  - island of the blessed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-contains-the-animal-s-life-or-soul
+  motif_id: blood_contains_the_animal_s_life_or_soul
+  label: Blood contains the animal's life or soul
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The taxonomy already includes blood_as_life under sacred_law, and this
+    label is a close variant of that motif.
+  cautions: May also support sacrifice or ritual prohibition depending on the passage;
+    preserve animal-life specificity as evidence detail.
+  suggested_aliases:
+  - blood as life
+  - blood as soul
+  - animal blood contains life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-as-tomb-or-shell-imprisoning-soul
+  motif_id: body_as_tomb_or_shell_imprisoning_soul
+  label: body as tomb or shell imprisoning soul
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The body as prison of the soul points to interior liberation, self-knowledge,
+    and separateness from ordinary identity.
+  cautions: Could belong under a more specific soul/body anthropology group if such
+    labels recur; avoid treating it as literal death-rebirth without context.
+  suggested_aliases:
+  - body as prison of the soul
+  - body as tomb
+  - soul imprisoned in body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-part-of-the-dead-transformed-into-stars
+  motif_id: body_part_of_the_dead_transformed_into_stars
+  label: Body part of the dead transformed into stars
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A dead body part becoming stars is a postmortem transformation into a
+    new cosmic form.
+  cautions: If the body part shapes the cosmos at creation, primordial_sacrifice may
+    be relevant; label alone does not prove sacrifice.
+  suggested_aliases:
+  - dead transformed into stars
+  - corpse part becomes stars
+  - postmortem astral transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - primordial_sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boundary-preventing-return-of-expelled-harms
+  motif_id: boundary_preventing_return_of_expelled_harms
+  label: boundary preventing return of expelled harms
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests apotropaic boundary logic, but the existing taxonomy
+    lacks a clear protective-boundary group.
+  cautions: Could be ritual purification, threshold guarding, scapegoat expulsion,
+    or disease/demon containment depending on source evidence.
+  suggested_aliases:
+  - apotropaic boundary
+  - barrier against returning harms
+  - boundary after expulsion
+  suggested_new_group:
+    id: apotropaic_boundary
+    label: Apotropaic Boundary and Harm Containment
+    description: Boundaries, barriers, marks, or ritual limits that prevent expelled
+      harms, spirits, pollution, disease, or danger from returning to a person or
+      community.
+    parent_group_ids:
+    - threshold_guardian
+    - divine_judgment
+    related_group_ids:
+    - sacrifice
+    - sacred_law
+    - sacred_treasures
+    reason_existing_groups_insufficient: threshold_guardian centers on a guarding
+      figure, while this motif concerns the boundary's protective function after expulsion.
+- suggestion_id: normalization.suggestion.breaking-or-burning-the-token-causes-death
+  motif_id: breaking_or_burning_the_token_causes_death
+  label: breaking or burning the token causes death
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: External Soul and Life Token
+  relationship: functional_variant
+  confidence: medium
+  rationale: Death caused by damaging an external token points to a separable-life
+    or external-soul pattern not covered by current groups.
+  cautions: May overlap with sacred_treasures when the token is a power object, but
+    the key function is life-dependency rather than authority or protection.
+  suggested_aliases:
+  - life token
+  - external soul token
+  - death by destroyed token
+  suggested_new_group:
+    id: external_soul_life_token
+    label: External Soul and Life Token
+    description: A person's life, soul, vulnerability, or death is bound to an external
+      object, animal, container, token, or hidden locus that can be captured, damaged,
+      or restored.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_treasures
+    related_group_ids:
+    - sacred_vessel
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Existing object groups cover sacred power
+      objects or vessels, but not the recurring narrative function of an externally
+      stored life or soul.
+- suggestion_id: normalization.suggestion.breath-caught-as-departing-soul
+  motif_id: breath_caught_as_departing_soul
+  label: breath caught as departing soul
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif concerns soul substance and capture at death, but current groups
+    do not clearly distinguish soul anthropology from death transformation.
+  cautions: Could be a variant of external soul, resurrection magic, or a passage
+    artifact from comparative folklore notes.
+  suggested_aliases:
+  - departing soul as breath
+  - captured death-breath
+  - breath soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.calling-back-the-soul
+  motif_id: calling_back_the_soul
+  label: calling back the soul
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Calling back the soul functions as restoration from soul loss, death,
+    or near-death into renewed life.
+  cautions: If used as a healing rite rather than death reversal, it may need a ritual-healing
+    subgroup not present here.
+  suggested_aliases:
+  - soul recall
+  - soul retrieval
+  - recalling the soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.capture-and-confinement-of-the-separable-soul
+  motif_id: capture_and_confinement_of_the_separable_soul
+  label: capture and confinement of the separable soul
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: External Soul and Life Token
+  relationship: functional_variant
+  confidence: medium
+  rationale: A separable soul captured and confined is part of the same external-soul
+    complex as life stored outside the body.
+  cautions: Confirm whether the passage is narrative motif, ritual belief, or comparative
+    commentary before indexing broadly.
+  suggested_aliases:
+  - separable soul
+  - captured soul
+  - soul confinement
+  - external soul
+  suggested_new_group:
+    id: external_soul_life_token
+    label: External Soul and Life Token
+    description: A person's life, soul, vulnerability, or death is bound to an external
+      object, animal, container, token, or hidden locus that can be captured, damaged,
+      or restored.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_vessel
+    related_group_ids:
+    - sacred_treasures
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Current groups cover death transformation
+      and sacred containers, but not the specific motif of a soul existing outside
+      the body and being confined.
+batch_notes:
+- Several comparative labels in this batch appear to concern separable-soul or external-soul
+  folklore. Consider reviewing them together for a possible canonical group rather
+  than scattering them across death_and_transformation and sacred_treasures.
+- One-off Greek philosophical labels may need passage-level review before being promoted
+  as motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-28'
+batch:
+  run_id: normalization-suggestions-2026-04-28-unmapped-tiny
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-28-unmapped-tiny-batch-0003
+  input_sha256: 75421c7f6a9a247369fdd1f60bb69043989e04c6153e582a863c3541c360b747
+

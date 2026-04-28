@@ -1198,6 +1198,78 @@ canonical_motif_groups:
   - divine_judgment
   draft_reason_existing_groups_insufficient: Existing sacred-object and judgment groups
     do not capture the recurring protective/averting function against spirits or pollution.
+- id: external_soul_life_token
+  label: External Soul and Life Token
+  description: A person's life, soul, vulnerability, or death is bound to an external
+    object, animal, container, token, or hidden locus that can be captured, damaged,
+    or restored.
+  children:
+  - breaking_or_burning_the_token_causes_death
+  - capture_and_confinement_of_the_separable_soul
+  aliases: []
+  related:
+  - sacred_vessel
+  - sacred_knowledge
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - death_and_transformation
+  - sacred_treasures
+  draft_reason_existing_groups_insufficient: Existing object groups cover sacred power
+    objects or vessels, but not the recurring narrative function of an externally
+    stored life or soul.
+- id: tutelary_spirit
+  label: Tutelary Spirit and Communal Guardian
+  description: A spirit, deity, ancestor, or local power protects a person, household,
+    city, community, or territory and embodies its sacred guardianship.
+  children:
+  - civic_or_communal_tutelary_spirit
+  aliases: []
+  related:
+  - threshold_guardian
+  - royal_legitimacy
+  - sacred_law
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - divine_intervention
+  draft_reason_existing_groups_insufficient: Existing groups cover divine action or
+    boundary guardians, but not ongoing protective patronage of a community or place.
+- id: spirit_contagion
+  label: Spirit Contagion and Death Pollution
+  description: Contact with death, spirits, places, or persons transmits harmful spiritual
+    attachment, impurity, misfortune, or pollution requiring avoidance or ritual cleansing.
+  children:
+  - clinging_spirit_contagion_after_contact_with_death_or_persons
+  aliases: []
+  related:
+  - sacrifice
+  - sacred_exchange
+  - divine_intervention
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - sacred_law
+  - divine_judgment
+  draft_reason_existing_groups_insufficient: Sacred law and divine judgment are too
+    broad for repeated ritual-pollution and spirit-contagion labels.
+- id: ritual_expulsion_boundary_sealing
+  label: Ritual Expulsion and Boundary Sealing
+  description: A community or ritual specialist expels harmful spirits, demons, pollution,
+    or misfortune and seals boundaries to prevent their return.
+  children:
+  - closing_boundaries_after_expelling_spirits
+  - communal_expulsion_of_misfortune_causing_spirits
+  - community_clearance_of_harmful_spiritual_beings
+  aliases: []
+  related:
+  - threshold_guardian
+  - sacrifice
+  - sacred_exchange
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - sacred_law
+  - divine_intervention
+  draft_reason_existing_groups_insufficient: Existing groups include sacrifice, sacred
+    law, and threshold guardianship, but not the recurring ritual sequence of expulsion
+    plus boundary closure.
 - id: external_detachable_soul
   label: External or Detachable Soul
   description: A person's life, soul, or vital essence is located outside the ordinary
@@ -2166,6 +2238,134 @@ raw_motif_group_index:
     notes: 'Receiving immortality transforms a mortal or vulnerable figure into a
       death-transcending state. Caution: If tied to apotheosis, divine reward, or
       heroic cult, a more specific future group may be useful.'
+  blessed_island_with_painless_divine_death_in_old_age:
+    group_id: otherworld
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A blessed island where death is painless fits an enchanted otherworld
+      or blessed realm more than an underworld journey. Caution: If the source frames
+      it as a mapped postmortem destination, afterlife_passage may also be relevant;
+      the current label is highly specific.'
+  blood_contains_the_animal_s_life_or_soul:
+    group_id: sacred_law
+    relationship: symbolic_variant
+    confidence: high
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The taxonomy already includes blood_as_life under sacred_law, and this
+      label is a close variant of that motif. Caution: May also support sacrifice
+      or ritual prohibition depending on the passage; preserve animal-life specificity
+      as evidence detail.'
+  body_as_tomb_or_shell_imprisoning_soul:
+    group_id: mystical_quest
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The body as prison of the soul points to interior liberation, self-knowledge,
+      and separateness from ordinary identity. Caution: Could belong under a more
+      specific soul/body anthropology group if such labels recur; avoid treating it
+      as literal death-rebirth without context.'
+  body_part_of_the_dead_transformed_into_stars:
+    group_id: death_and_transformation
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A dead body part becoming stars is a postmortem transformation into a
+      new cosmic form. Caution: If the body part shapes the cosmos at creation, primordial_sacrifice
+      may be relevant; label alone does not prove sacrifice.'
+  breaking_or_burning_the_token_causes_death:
+    group_id: external_soul_life_token
+    relationship: functional_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Death caused by damaging an external token points to a separable-life
+      or external-soul pattern not covered by current groups. Caution: May overlap
+      with sacred_treasures when the token is a power object, but the key function
+      is life-dependency rather than authority or protection.'
+  calling_back_the_soul:
+    group_id: death_and_transformation
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Calling back the soul functions as restoration from soul loss, death,
+      or near-death into renewed life. Caution: If used as a healing rite rather than
+      death reversal, it may need a ritual-healing subgroup not present here.'
+  capture_and_confinement_of_the_separable_soul:
+    group_id: external_soul_life_token
+    relationship: functional_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A separable soul captured and confined is part of the same external-soul
+      complex as life stored outside the body. Caution: Confirm whether the passage
+      is narrative motif, ritual belief, or comparative commentary before indexing
+      broadly.'
+  civic_or_communal_tutelary_spirit:
+    group_id: tutelary_spirit
+    relationship: role_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A guardian spirit of a city or community is a recurring protective role
+      not well covered by divine_intervention or threshold_guardian. Caution: May
+      overlap with local deity, genius loci, ancestor, or civic cult; human review
+      should decide whether this deserves a durable group.'
+  clinging_spirit_contagion_after_contact_with_death_or_persons:
+    group_id: spirit_contagion
+    relationship: ritual_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The motif concerns harmful spiritual attachment or pollution after contact,
+      a ritual-purity pattern not directly represented by existing groups. Caution:
+      Could be handled under sacred_law if source frames it as purity law; review
+      culturally specific spirit concepts carefully.'
+  closing_boundaries_after_expelling_spirits:
+    group_id: ritual_expulsion_boundary_sealing
+    relationship: ritual_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'This is a ritual act of removing harmful spirits and sealing communal
+      or spatial boundaries against return. Caution: Could be a child of a broader
+      expulsion/exorcism group if added; avoid conflating with threshold guardians
+      unless a guardian figure is present.'
+  coin_payment_accompanying_death_registration:
+    group_id: afterlife_passage
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A coin payment associated with death plausibly belongs with afterlife
+      passage rites and requirements for postmortem transit. Caution: If the source
+      is administrative death registration rather than funerary/afterlife payment,
+      exclude or review as contextual artifact.'
+  communal_expulsion_of_misfortune_causing_spirits:
+    group_id: ritual_expulsion_boundary_sealing
+    relationship: ritual_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'This is a collective ritual removal of harmful spirits or misfortune,
+      matching the same expulsion complex as boundary sealing. Caution: May overlap
+      with scapegoat or annual purification when expulsion is tied to sacrificial
+      transfer or calendar rites.'
+  community_clearance_of_harmful_spiritual_beings:
+    group_id: ritual_expulsion_boundary_sealing
+    relationship: ritual_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The label describes communal clearing of harmful beings, functionally
+      equivalent to ritual expulsion of spirits or misfortune. Caution: Review whether
+      the source describes literal beings, ritual impurity, disease, or social scapegoating
+      before final placement.'
   external_or_detachable_soul:
     group_id: external_detachable_soul
     relationship: uncertain
@@ -2192,11 +2392,11 @@ expansion_draft:
   purpose: Draft expansion generated from model normalization suggestions. Review
     before merging into taxonomy/motif-normalization.yml.
   include_low_confidence: false
-  suggestion_count: 20
-  accepted_mapping_count: 13
-  new_group_candidate_count: 2
-  excluded_count: 2
-  needs_review_count: 5
+  suggestion_count: 40
+  accepted_mapping_count: 26
+  new_group_candidate_count: 6
+  excluded_count: 3
+  needs_review_count: 11
   already_known_count: 0
 expansion_review_flags:
   low_confidence_or_needs_human_review:
@@ -2275,6 +2475,97 @@ expansion_review_flags:
       beyond death.
     cautions: Could be literary ideology rather than mythic motif; if merely an authorial
       claim, exclude as textual commentary.
+  - motif_id: birth_or_generation_as_access_to_immortality
+    label: birth or generation as access to immortality
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: Could refer to immortality through descendants, divine birth, or philosophical
+      rebirth; the function is unclear from the label alone.
+    cautions: Do not force into sacred_birth or death_and_transformation without passage
+      evidence about literal birth, lineage, rebirth, or afterlife status.
+  - motif_id: boundary_preventing_return_of_expelled_harms
+    label: boundary preventing return of expelled harms
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label suggests apotropaic boundary logic, but the existing taxonomy
+      lacks a clear protective-boundary group.
+    cautions: Could be ritual purification, threshold guarding, scapegoat expulsion,
+      or disease/demon containment depending on source evidence.
+  - motif_id: breath_caught_as_departing_soul
+    label: breath caught as departing soul
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The motif concerns soul substance and capture at death, but current
+      groups do not clearly distinguish soul anthropology from death transformation.
+    cautions: Could be a variant of external soul, resurrection magic, or a passage
+      artifact from comparative folklore notes.
+  - motif_id: caravan_lost_in_deadly_desert_through_failed_navigation
+    label: Caravan lost in deadly desert through failed navigation
+    occurrences: 1
+    traditions:
+    - buddhist
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: Could be an ordeal, death-facing journey, moral exemplum, or passage-specific
+      travel detail depending on source context.
+    cautions: Single occurrence and highly contextual; do not force into descent or
+      hero journey without evidence of transformation or otherworld passage.
+  - motif_id: child_taken_by_wood_spirits_and_recovered_in_a_tree
+    label: Child taken by wood spirits and recovered in a tree
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: Combines spirit abduction, child recovery, and tree imagery; placement
+      depends on whether the function is enchanted otherworld, miraculous child, or
+      sacred tree.
+    cautions: Over-specific composite label; source evidence needed before mapping
+      to otherworld, miraculous_child, or axis_mundi.
+  - motif_id: coercing_a_rain_god_spirit_fetish_animal_or_substitute
+    label: coercing a rain-god, spirit, fetish, animal, or substitute
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label suggests ritual rainmaking coercion, but current taxonomy
+      lacks a clear weather/ritual coercion group and source context is needed.
+    cautions: Culturally sensitive terms such as fetish should be reviewed; may be
+      too broad or antiquated as generated wording.
   new_group_candidates:
   - id: apotropaic_protection
     label: Apotropaic Protection Against Spirits
@@ -2297,6 +2588,80 @@ expansion_review_flags:
     draft_reason_existing_groups_insufficient: Existing sacred-object and judgment
       groups do not capture the recurring protective/averting function against spirits
       or pollution.
+  - id: external_soul_life_token
+    label: External Soul and Life Token
+    description: A person's life, soul, vulnerability, or death is bound to an external
+      object, animal, container, token, or hidden locus that can be captured, damaged,
+      or restored.
+    children:
+    - breaking_or_burning_the_token_causes_death
+    - capture_and_confinement_of_the_separable_soul
+    aliases: []
+    related:
+    - sacred_vessel
+    - sacred_knowledge
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - death_and_transformation
+    - sacred_treasures
+    draft_reason_existing_groups_insufficient: Existing object groups cover sacred
+      power objects or vessels, but not the recurring narrative function of an externally
+      stored life or soul.
+  - id: tutelary_spirit
+    label: Tutelary Spirit and Communal Guardian
+    description: A spirit, deity, ancestor, or local power protects a person, household,
+      city, community, or territory and embodies its sacred guardianship.
+    children:
+    - civic_or_communal_tutelary_spirit
+    aliases: []
+    related:
+    - threshold_guardian
+    - royal_legitimacy
+    - sacred_law
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - divine_intervention
+    draft_reason_existing_groups_insufficient: Existing groups cover divine action
+      or boundary guardians, but not ongoing protective patronage of a community or
+      place.
+  - id: spirit_contagion
+    label: Spirit Contagion and Death Pollution
+    description: Contact with death, spirits, places, or persons transmits harmful
+      spiritual attachment, impurity, misfortune, or pollution requiring avoidance
+      or ritual cleansing.
+    children:
+    - clinging_spirit_contagion_after_contact_with_death_or_persons
+    aliases: []
+    related:
+    - sacrifice
+    - sacred_exchange
+    - divine_intervention
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - sacred_law
+    - divine_judgment
+    draft_reason_existing_groups_insufficient: Sacred law and divine judgment are
+      too broad for repeated ritual-pollution and spirit-contagion labels.
+  - id: ritual_expulsion_boundary_sealing
+    label: Ritual Expulsion and Boundary Sealing
+    description: A community or ritual specialist expels harmful spirits, demons,
+      pollution, or misfortune and seals boundaries to prevent their return.
+    children:
+    - closing_boundaries_after_expelling_spirits
+    - communal_expulsion_of_misfortune_causing_spirits
+    - community_clearance_of_harmful_spiritual_beings
+    aliases: []
+    related:
+    - threshold_guardian
+    - sacrifice
+    - sacred_exchange
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - sacred_law
+    - divine_intervention
+    draft_reason_existing_groups_insufficient: Existing groups include sacrifice,
+      sacred law, and threshold guardianship, but not the recurring ritual sequence
+      of expulsion plus boundary closure.
   - id: external_detachable_soul
     label: External or Detachable Soul
     description: A person's life, soul, or vital essence is located outside the ordinary
@@ -2348,5 +2713,20 @@ expansion_review_flags:
       rather than a narrative motif.
     cautions: Preserve as provenance or reception note if source discusses local underworld
       concepts; avoid using as evidence of transmission here.
+  - motif_id: chthonic_wealth_divinity_confused_with_underworld_god
+    label: chthonic wealth divinity confused with underworld god
+    occurrences: 1
+    traditions:
+    - greek_roman
+    suggested_action: exclude_from_pattern_queries
+    suggested_group_id: _meta_textual
+    suggested_group_label: Textual and Scholarly Artifacts
+    relationship: meta_artifact
+    confidence: high
+    reason: model suggested exclusion from pattern queries
+    rationale: The label describes interpretive confusion or identification between
+      divine figures rather than a narrative or symbolic motif.
+    cautions: Preserve as commentary/provenance if useful, but exclude from motif
+      pattern queries.
   already_known_in_base_normalization: []
 
