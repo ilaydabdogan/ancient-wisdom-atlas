@@ -754,7 +754,7 @@ items:
   manifest_path: manifests/project-gutenberg/29287-aino-folk-tales-chamberlain.yml
   extraction_dir: extractions/ainu/project-gutenberg/aino-folk-tales-chamberlain
 - id: buddhist.jataka_tales.babbitt_gutenberg
-  status: queued
+  status: ingested
   priority: medium
   source: project_gutenberg
   source_id: '62514'
@@ -804,6 +804,15 @@ items:
   - animals
   why_it_matters: Adds accessible Jataka retellings useful for motif extraction over
     compact moral episodes and animal symbolism.
+  raw_path: imports/raw/project-gutenberg/62514-jataka-tales-babbitt.txt
+  pipeline:
+    raw_fetched_on: '2026-04-28'
+    converted_on: '2026-04-28'
+    promoted_on: '2026-04-28'
+  converted_path: imports/converted/project-gutenberg/62514-jataka-tales-babbitt.md
+  canonical_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  manifest_path: manifests/project-gutenberg/62514-jataka-tales-babbitt.yml
+  extraction_dir: extractions/buddhist/project-gutenberg/jataka-tales-babbitt
 - id: buddhist.more_jataka_tales.babbitt_gutenberg
   status: queued
   priority: medium
