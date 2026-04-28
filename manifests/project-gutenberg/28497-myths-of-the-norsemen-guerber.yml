@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-04-28'
+updated_date: '2026-04-28'
+artifacts:
+- id: artifact.gutenberg_28497
+  work_id: norse.myths_of_norsemen.guerber_gutenberg
+  title: 'Myths of the Norsemen: From the Eddas and Sagas'
+  source_url: https://www.gutenberg.org/ebooks/28497
+  fetch_date: '2026-04-28'
+  raw:
+    path: imports/raw/project-gutenberg/28497-myths-of-the-norsemen-guerber.txt
+    checksum:
+      algorithm: sha256
+      value: 8af2a5b3b2694df8fe2c24f6a56c0c0c56683782b6a685befb0e15855c39e498
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/28497-myths-of-the-norsemen-guerber.md
+    checksum:
+      algorithm: sha256
+      value: eb3fc99372086d9899206126f0e401f9865fbc57e28c52e2206d12786a756ec3
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+    checksum:
+      algorithm: sha256
+      value: fb8ffff13bb941c9a88005a53a006ea5bd3cd2b154d20508e270c4e54e9b688d
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids norse.myths_of_norsemen.guerber_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; this
+      is a later retelling drawn from Eddic and saga material.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-04-28'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

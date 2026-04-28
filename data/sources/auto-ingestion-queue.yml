@@ -1413,7 +1413,7 @@ items:
   manifest_path: manifests/project-gutenberg/4018-japanese-fairy-tales-ozaki.yml
   extraction_dir: extractions/japanese/project-gutenberg/japanese-fairy-tales-ozaki
 - id: norse.myths_of_norsemen.guerber_gutenberg
-  status: queued
+  status: ingested
   priority: high
   source: project_gutenberg
   source_id: '28497'
@@ -1465,3 +1465,12 @@ items:
   - Baldr
   why_it_matters: Adds a readable Norse myth synthesis for creation, world tree, trickster,
     divine doom, and Ragnarok pattern extraction.
+  raw_path: imports/raw/project-gutenberg/28497-myths-of-the-norsemen-guerber.txt
+  pipeline:
+    raw_fetched_on: '2026-04-28'
+    converted_on: '2026-04-28'
+    promoted_on: '2026-04-28'
+  converted_path: imports/converted/project-gutenberg/28497-myths-of-the-norsemen-guerber.md
+  canonical_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  manifest_path: manifests/project-gutenberg/28497-myths-of-the-norsemen-guerber.yml
+  extraction_dir: extractions/norse/project-gutenberg/myths-of-the-norsemen-guerber
