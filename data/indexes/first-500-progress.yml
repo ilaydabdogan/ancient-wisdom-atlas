@@ -4,9 +4,9 @@ generated_on: '2026-04-28'
 source_map_path: data/collections/first-500-source-map.yml
 first500_total_units: 500
 state_counts:
-  source_ingested: 221
+  source_ingested: 233
   source_ingested_review: 56
-  source_queued: 22
+  source_queued: 10
   source_candidate: 0
   unmapped: 201
 by_culture_area:
@@ -33,9 +33,9 @@ by_culture_area:
     unmapped: 65
   Greek and Roman Mediterranean:
     total: 80
-    source_ingested: 63
+    source_ingested: 75
     source_ingested_review: 0
-    source_queued: 12
+    source_queued: 0
     source_candidate: 0
     unmapped: 5
   South Asia:
@@ -239,7 +239,7 @@ mapped_sources:
   next_action: ingest_then_split_into_book_files
 - source_work_id: roman.aeneid.mackail_gutenberg
   source_title: The Aeneid of Virgil
-  state: source_queued
+  state: source_ingested
   coverage_mode: complete_source_covers_planned_units
   coverage_confidence: high
   first500_unit_count: 12
@@ -581,26 +581,6 @@ mapped_sources:
   - first500.481
   next_action: split_into_preamble_and_parts
 next_first500_queue:
-- source_work_id: roman.aeneid.mackail_gutenberg
-  source_title: The Aeneid of Virgil
-  state: source_queued
-  coverage_mode: complete_source_covers_planned_units
-  coverage_confidence: high
-  first500_unit_count: 12
-  first500_units:
-  - first500.184
-  - first500.185
-  - first500.186
-  - first500.187
-  - first500.188
-  - first500.189
-  - first500.190
-  - first500.191
-  - first500.192
-  - first500.193
-  - first500.194
-  - first500.195
-  next_action: ingest_then_split_into_book_files
 - source_work_id: buddhist.jataka.birth_stories_rhys_davids_gutenberg
   source_title: Buddhist birth stories; or, Jataka tales, Volume 1
   state: source_queued

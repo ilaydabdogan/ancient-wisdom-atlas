@@ -571,7 +571,7 @@ items:
   manifest_path: manifests/project-gutenberg/26073-metamorphoses-books-8-15-riley.yml
   extraction_dir: extractions/roman/project-gutenberg/metamorphoses-books-8-15-riley
 - id: roman.aeneid.mackail_gutenberg
-  status: queued
+  status: ingested
   priority: high
   source: project_gutenberg
   source_id: '22456'
@@ -623,6 +623,15 @@ items:
   - Dido
   why_it_matters: Adds Rome's founding epic for exile, divine ancestry, underworld
     instruction, sacred destiny, and empire-making patterns.
+  raw_path: imports/raw/project-gutenberg/22456-aeneid-mackail.txt
+  pipeline:
+    raw_fetched_on: '2026-04-28'
+    converted_on: '2026-04-28'
+    promoted_on: '2026-04-28'
+  converted_path: imports/converted/project-gutenberg/22456-aeneid-mackail.md
+  canonical_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  manifest_path: manifests/project-gutenberg/22456-aeneid-mackail.yml
+  extraction_dir: extractions/roman/project-gutenberg/aeneid-mackail
 - id: buddhist.jataka.birth_stories_rhys_davids_gutenberg
   status: queued
   priority: high

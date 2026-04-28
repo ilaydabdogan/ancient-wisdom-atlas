@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-04-28'
+updated_date: '2026-04-28'
+artifacts:
+- id: artifact.gutenberg_22456
+  work_id: roman.aeneid.mackail_gutenberg
+  title: The Aeneid of Virgil
+  source_url: https://www.gutenberg.org/ebooks/22456
+  fetch_date: '2026-04-28'
+  raw:
+    path: imports/raw/project-gutenberg/22456-aeneid-mackail.txt
+    checksum:
+      algorithm: sha256
+      value: 493968ccdee403862b0c775ed35cc22b912398fa8c09b1045a55fe249a1c41bc
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/22456-aeneid-mackail.md
+    checksum:
+      algorithm: sha256
+      value: 21bd1f34382750cf958935cff21f08ed0af2dc6e907efe56d43856c96456e7f0
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+    checksum:
+      algorithm: sha256
+      value: e786ef09b6fa3b57e971238cb0b45044bd51cb1237ba6135a5aa9e033729852f
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids roman.aeneid.mackail_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-04-28'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.
