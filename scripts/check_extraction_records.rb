@@ -35,8 +35,15 @@ def numeric_locator?(value)
 end
 
 known_motif_refs = load_yaml(TAXONOMY_PATH).fetch("motif_families", {}).keys
-known_normalization_aliases = File.file?(NORMALIZATION_PATH) ? load_yaml(NORMALIZATION_PATH).fetch("aliases", {}).keys : []
-known_motif_or_alias_refs = (known_motif_refs + known_normalization_aliases).uniq
+normalization = File.file?(NORMALIZATION_PATH) ? load_yaml(NORMALIZATION_PATH) : {}
+known_normalization_aliases = normalization.fetch("aliases", {}).keys
+known_group_refs = Array(normalization["canonical_motif_groups"]).flat_map do |group|
+  next [] unless group.is_a?(Hash)
+
+  [group["id"], *Array(group["children"]), *Array(group["aliases"])]
+end.compact
+known_group_index_refs = normalization.fetch("raw_motif_group_index", {}).keys
+known_motif_or_alias_refs = (known_motif_refs + known_normalization_aliases + known_group_refs + known_group_index_refs).uniq
 errors = []
 warnings = []
 

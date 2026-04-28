@@ -323,7 +323,7 @@ The review importer writes:
 
 Treat these as advisory review records. They do not automatically rewrite extraction YAML or taxonomy files; promotion should remain deliberate.
 
-The normalization guidance lives in `taxonomy/motif-normalization.yml`. It supplies hierarchy notes, aliases, quality flags, and comparison-mode discipline so review batches can map labels like `descent`, `underworld_trial`, `sacred_fire`, or `renunciation` without collapsing them into one flat motif.
+The normalization guidance lives in `taxonomy/motif-normalization.yml`. It supplies hierarchy notes, aliases, quality flags, comparison-mode discipline, and broader `canonical_motif_groups` for Pattern Explorer queries. Review batches can map labels like `descent`, `underworld_trial`, `sacred_fire`, or `renunciation` without collapsing them into one flat motif, while granular generated labels can still be placed through `raw_motif_group_index`.
 
 ## Embeddings
 
