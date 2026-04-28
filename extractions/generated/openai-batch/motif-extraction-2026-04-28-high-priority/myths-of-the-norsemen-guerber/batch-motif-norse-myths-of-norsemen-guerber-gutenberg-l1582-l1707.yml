@@ -1,0 +1,649 @@
+---
+record_id: batch.motif.norse-myths-of-norsemen-guerber-gutenberg-l1582-l1707
+source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+passage_locator:
+  label: 'LIST OF ILLUSTRATIONS / INTRODUCTION / CHAPTER I: THE BEGINNING / CHAPTER
+    II: ODIN; lines 1582-1707'
+  start: '1582'
+  end: '1707'
+  translation: 'Myths of the Norsemen: From the Eddas and Sagas'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Odin as god of wisdom and inventor of runes, recounts
+    his self-wounding and nine-night hanging on Yggdrasil to gain knowledge, and narrates
+    the story of Geirrod and Agnar: Odin and Frigga foster the brothers in disguise,
+    Geirrod betrays Agnar, later fails a hospitality test when Odin comes as Grimnir,
+    and is doomed when Odin reveals himself.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Odin is described as god of wisdom and inventor of runes, which are said to
+    have first been used for divination and later for inscriptions and records.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Odin hangs for nine nights from the sacred tree Yggdrasil, wounded with a
+    spear and looking down into Nifl-heim, before gaining the knowledge he seeks.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After mastering the knowledge, Odin cuts magic runes on Gungnir, Sleipnir's
+    teeth, bear claws, and other animate and inanimate things.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Because of his hanging over the abyss, Odin is afterward considered patron
+    divinity of those hanged or killed by the noose.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Geirrod and Agnar, sons of King Hrauding, are blown out to sea while fishing
+    and reach an island where Odin and Frigga dwell in disguise as an old couple.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Odin favors Geirrod and teaches him arms, while Frigga favors and pets Agnar
+    during the winter on the island.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When the brothers return toward their native shore, Geirrod jumps out, pushes
+    the boat back, sends Agnar away, lies about him, and later succeeds his father
+    as king.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Odin and Frigga sit on Hlidskialf; Odin praises Geirrod's power, while Frigga
+    contrasts Agnar's poverty with Geirrod's hardheartedness and lack of hospitality.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Odin decides to test Geirrod's generosity by going as a Wanderer, and Frigga
+    sends a messenger warning Geirrod about a man in a wide mantle and broad-brimmed
+    hat.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Geirrod has Odin, under the name Grimnir, bound between two fires for eight
+    days and nights without food.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Agnar, secretly present in his brother's palace as a menial, gives the captive
+    a horn of ale out of pity.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Odin sings a prophecy that Geirrod will perish by his own sword; the chains
+    fall, the fires go out, and Odin appears in divine form.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Odin
+  description: God of wisdom, inventor of runes, seeker of knowledge through self-wounding,
+    disguised fosterer and later disguised Wanderer called Grimnir.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Frigga
+  description: Odin's wife, disguised with him as part of an old couple, protector
+    of Agnar, and sender of a warning messenger to Geirrod.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Geirrod
+  description: Son of King Hrauding, Odin's favored pupil, betrayer of Agnar, later
+    king, inhospitable host who torments Grimnir.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: Agnar
+  description: Son of King Hrauding, Frigga's favored child, displaced by Geirrod,
+    later secretly present as a menial who gives ale to the captive.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: King Hrauding
+  description: Father of Geirrod and Agnar, whose palace Geirrod returns to and whose
+    throne Geirrod later succeeds.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Dísir
+  description: A collective named in Odin's prophecy as wrathful toward Geirrod.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: god of wisdom and inventor of runes
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly gives Odin these titles and describes the early function
+    of runes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: self-wounded seeker of knowledge
+  assigned_to:
+  - fig:1
+  basis: Odin hangs nine nights on Yggdrasil, wounded by a spear, before winning knowledge.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: inscriber of magic runes
+  assigned_to:
+  - fig:1
+  basis: After gaining knowledge, Odin cuts runes on several objects and beings.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: disguised tester of hospitality
+  assigned_to:
+  - fig:1
+  basis: Odin assumes the guise of a Wanderer to test Geirrod's generosity and later
+    reveals himself.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:5
+  label: divine patron and counter-strategist
+  assigned_to:
+  - fig:2
+  basis: Frigga favors Agnar, disputes Odin's praise of Geirrod, and warns Geirrod
+    against the disguised visitor.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:6
+  label: favored pupil
+  assigned_to:
+  - fig:3
+  basis: Odin chooses Geirrod as favorite and teaches him arms.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: betraying brother and inhospitable king
+  assigned_to:
+  - fig:3
+  basis: Geirrod pushes Agnar's boat away, lies about him, and later tortures the
+    stranger between fires.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:8
+  label: displaced brother
+  assigned_to:
+  - fig:4
+  basis: Agnar is sent away by Geirrod and carried off after the boat is pushed back
+    into the water.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: compassionate helper
+  assigned_to:
+  - fig:4
+  basis: Agnar gives ale to the suffering captive.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: mortal father-king
+  assigned_to:
+  - fig:5
+  basis: Hrauding is named as the father of Geirrod and Agnar, and Geirrod later succeeds
+    him on the throne.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:11
+  label: prophetic agents of wrath
+  assigned_to:
+  - fig:6
+  basis: The prophecy says the Dísir are wroth with Geirrod.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: runes
+  literal_form: alphabetic or magical characters used for divination, inscriptions,
+    records, and magic inscription
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Yggdrasil
+  literal_form: sacred tree from which Odin hangs
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Nifl-heim abyss
+  literal_form: immeasurable depths below Odin during his hanging
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: spear and Gungnir
+  literal_form: the spear that wounds Odin and the spear on which he later cuts runes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: Sleipnir's teeth
+  literal_form: the teeth of Odin's horse marked with magic runes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: boat and sea
+  literal_form: the fishing boat blown out to sea and later pushed back into the water
+    by Geirrod
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: Hlidskialf
+  literal_form: throne on which Odin and Frigga sit while observing the brothers'
+    later fortunes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: Wanderer's clothing and staff
+  literal_form: cloud-hued raiment, slouch hat, and pilgrim staff used by Odin in
+    disguise
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: two fires
+  literal_form: fires between which Grimnir is bound for eight days and nights
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:10
+  label: horn of ale
+  literal_form: drink brought by Agnar to the suffering captive
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:11
+  label: Geirrod's sword
+  literal_form: the weapon by which Odin prophesies Geirrod will perish
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Odin wins rune-wisdom on Yggdrasil
+  summary: Odin hangs nine nights from Yggdrasil, self-wounded with a spear and looking
+    into Nifl-heim, until he gains the sought knowledge.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Odin inscribes magic runes
+  summary: After mastering rune-knowledge, Odin cuts magic runes on Gungnir, Sleipnir's
+    teeth, bear claws, and other things.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Divine fosterage on the island
+  summary: A storm drives Geirrod and Agnar to an island, where Odin and Frigga, disguised
+    as an old couple, shelter them through winter and each favors one brother.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Geirrod betrays Agnar
+  summary: As the brothers approach home, Geirrod pushes the boat away with Agnar
+    in it, tells him to sail into an evil spirit's power, lies to his father, and
+    later becomes king.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Odin and Frigga debate the brothers' fortunes
+  summary: From Hlidskialf, Odin points to Geirrod's power while Frigga replies that
+    Geirrod is hardhearted and inhospitable, unlike poor Agnar.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: The Wanderer test is set in motion
+  summary: Odin sets out disguised as a Wanderer to test Geirrod, while Frigga sends
+    a messenger warning Geirrod about the disguised man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Grimnir bound between fires
+  summary: Geirrod interrogates the disguised Odin, has him bound between fires without
+    food, and Agnar secretly gives him a horn of ale.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:8
+- id: scene:8
+  label: Prophecy and divine revelation
+  summary: Odin sings Geirrod's doom by his own sword; the chains drop, the fires
+    go out, and Odin appears in divine form.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:9
+  - sym:11
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: wisdom won through self-sacrifice
+  taxonomy_refs:
+  - wisdom
+  - sacrifice
+  basis: Odin gains knowledge and runes only after hanging nine nights on Yggdrasil
+    while wounded with his own spear.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage frames the action as sacrifice for wisdom; broader theological
+    interpretation is not added.
+- id: motif:2
+  label: sacred tree as site of ordeal and knowledge
+  taxonomy_refs:
+  - sacred_tree_axis
+  - world_center
+  basis: The ordeal occurs on the sacred tree Yggdrasil, with Odin looking into the
+    depths of Nifl-heim and the tree's root origin described as unknown in the quoted
+    verse.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage supports a sacred-tree ordeal; the 'world center' classification
+    is inferred from the available motif family rather than explicitly named here.
+- id: motif:3
+  label: magical signs granting power
+  taxonomy_refs:
+  - wisdom
+  basis: Runes are described as mysterious characters first used for divination, and
+    Odin's gained rune-knowledge gives him power over all things.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe the full mechanics of rune magic.
+- id: motif:4
+  label: divine fosterage of mortal children
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Odin and Frigga, in disguise as an old couple, shelter the mortal brothers
+    through winter and favor them separately.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The gods act as temporary protectors and teachers, not biological parents.
+- id: motif:5
+  label: sibling betrayal and displacement
+  taxonomy_refs:
+  - sibling_pair
+  basis: Geirrod pushes Agnar's boat away, sends him off, lies about him, and later
+    occupies the royal succession alone.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The later fate of Agnar is only partly described in this passage.
+- id: motif:6
+  label: disguised god tests hospitality
+  taxonomy_refs:
+  - divine_judgment
+  basis: Odin assumes the guise of a Wanderer to test Geirrod's generosity after Frigga
+    accuses Geirrod of inhospitable conduct.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage emphasizes hospitality as a Northman moral standard, but details
+    of broader legal or ritual context are not given.
+- id: motif:7
+  label: divine punishment by prophecy and self-caused death
+  taxonomy_refs:
+  - divine_judgment
+  basis: Odin prophesies that Geirrod will soon perish by his own sword, after which
+    Odin's divine identity is revealed.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The actual death event is prophesied here but not narrated in the supplied
+    passage.
+- id: motif:8
+  label: compassionate offering to a suffering captive
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Agnar gives Odin a horn of ale during the captivity, and this act is singled
+    out as relieving Odin's severe thirst.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The exchange is not explicitly called sacred in the passage; the classification
+    rests on the divine recipient and significant gift.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1582-1587
+  quote_or_summary: Odin is identified as god of wisdom and inventor of runes; runes
+    are described as mysterious characters first used for divination and later for
+    inscriptions and records.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 1587-1605
+  quote_or_summary: Odin relates that he hung nine nights on the wind-rocked sacred
+    tree, wounded with a spear and offered to himself, while seeking knowledge and
+    looking into Nifl-heim.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 1607-1615
+  quote_or_summary: After mastering rune-knowledge, Odin cuts magic runes on Gungnir,
+    Sleipnir's teeth, bear claws, and many other things; because of his hanging over
+    the abyss, he becomes patron of those hanged or killed by the noose.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 1619-1637
+  quote_or_summary: Odin watches King Hrauding's sons Geirrod and Agnar; a storm drives
+    their fishing boat to an island where Odin and Frigga, disguised as an old couple,
+    shelter them through winter. Odin favors Geirrod and teaches arms; Frigga favors
+    Agnar.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 1637-1649
+  quote_or_summary: In spring Odin provides a boat for the brothers. Near shore Geirrod
+    jumps out, pushes the boat back, tells Agnar to sail into evil spirit power, lies
+    to his father, and eventually succeeds to the throne.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: lines 1651-1664
+  quote_or_summary: Odin and Frigga sit on Hlidskialf and discuss the brothers. Odin
+    praises Geirrod's power; Frigga says poverty is better than hardheartedness and
+    accuses Geirrod of violating hospitality by mistreating guests.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: summary
+  locator: lines 1665-1680
+  quote_or_summary: Odin declares he will test Geirrod by going as a Wanderer, dressed
+    in cloud-hued raiment with slouch hat and pilgrim staff. Frigga sends a messenger
+    warning Geirrod about a man in wide mantle and broad-brimmed hat.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:8
+  type: summary
+  locator: lines 1682-1694
+  quote_or_summary: Odin appears as Grimnir, refuses to explain himself, and Geirrod
+    has him bound between two fires for eight days and nights without food. Agnar,
+    secretly a menial in the palace, gives the captive a horn of ale.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:9
+  type: summary
+  locator: lines 1696-1707
+  quote_or_summary: Odin sings a prophecy that Geirrod will perish by his own sword
+    and that the Dísir are angry with him; then the chains fall, the fires go out,
+    and Odin appears in divine form.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strongly supported by the supplied passage. Some motif-family
+    assignments, especially world_center and sacred_exchange, require human review
+    because the taxonomy labels are broader than the passage wording.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a cross-text or cross-tradition comparison beyond internal references to Eddic materials.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:norse-myths-of-norsemen-guerber-gutenberg__l1582-l1707
+  passage_sha256=ba9718d6c4a80faaf25ef7663e86894b1391f9205b68e97335e2a81e66a89509
+

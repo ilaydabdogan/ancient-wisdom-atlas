@@ -1,0 +1,530 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l8919-l8977
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: BELLEROPHON. / THESEUS. / OEDIPUS. / THE SEVEN AGAINST THEBES.; lines 8919-8977
+  start: '8919'
+  end: '8977'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage recounts Menoeceus sacrificing himself for Thebes, the battle
+    between Thebes and the Argives, the fatal duel between Eteocles and Polynices,
+    Creon's prohibition of burial for Polynices and the Argive dead, Antigone's defiance
+    and entombment, the suicides of Antigone, Haemon, and Eurydice, and Theseus' later
+    intervention to secure burial rites for the fallen Argives.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Menoeceus rejects Creon's request that he leave Thebes for Delphi and instead
+    kills himself on the city walls in view of the opposing armies.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Adrastus orders his troops to storm Thebes; after heavy losses, the Argives
+    are routed.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Eteocles proposes single combat with Polynices to decide the campaign, and
+    both brothers die from wounds in the duel.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Thebans ultimately win the renewed battle; Adrastus survives because of
+    the speed of his horse Arion.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Creon becomes king again after the brothers' deaths and forbids burial of
+    Polynices and his allies.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Antigone disobeys Creon's order and attempts to bury Polynices.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Creon condemns Antigone to be sealed alive in a subterranean vault.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Haemon enters the vault, finds Antigone dead by hanging, curses his father,
+    and kills himself beside her body.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Eurydice kills herself after hearing of Haemon's death, leaving Creon widowed
+    and childless.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Adrastus takes refuge at Athens and persuades Theseus to compel the Thebans
+    to return the Argive dead for funeral rites.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Creon
+  description: Ruler of Thebes who tries to send Menoeceus away, later becomes king
+    again, forbids burial of Polynices and the Argive allies, and condemns Antigone.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Menoeceus
+  description: Creon's favourite son and youngest scion of the royal house, who sacrifices
+    his life for his country.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Adrastus
+  description: Leader associated with the Argive attack, survivor of the Theban defeat,
+    and later petitioner to Theseus at Athens.
+  role_refs:
+  - role:6
+  - role:9
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:8
+- id: fig:4
+  name_or_label: Eteocles
+  description: Brother of Polynices who proposes single combat and dies in the duel
+    outside the city walls.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Polynices
+  description: Brother of Eteocles who accepts single combat, dies in the duel, and
+    is denied burial by Creon.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:6
+  name_or_label: Antigone
+  description: Sister of Polynices who disobeys Creon to bury him, is entombed alive,
+    and hangs herself with her veil.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Haemon
+  description: Creon's son and Antigone's betrothed, who enters the vault and kills
+    himself beside Antigone.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Eurydice
+  description: Creon's wife, who kills herself after hearing of Haemon's death.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Theseus
+  description: Leader from Athens who is persuaded by Adrastus to force the Thebans
+    to restore the Argive dead for burial.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: Argive warriors
+  description: The fallen warriors whose bodies are restored to their friends for
+    funeral rites.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: Theban ruler
+  assigned_to:
+  - fig:1
+  basis: Creon becomes king of Thebes again after the deaths of Eteocles and Polynices.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: self-sacrificing youth
+  assigned_to:
+  - fig:2
+  basis: Menoeceus chooses to die for the benefit of his country.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: rival brothers in single combat
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Eteocles and Polynices decide the campaign by duel and both die.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: sibling linked to contested burial
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Polynices is denied burial, and Antigone acts to bury her brother.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: forbidder of burial
+  assigned_to:
+  - fig:1
+  basis: Creon forbids anyone to bury Polynices or his allies.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: defeated military leader
+  assigned_to:
+  - fig:3
+  basis: Adrastus leads troops against Thebes and later escapes the defeat.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:7
+  label: betrothed pair separated by death
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Haemon is betrothed to Antigone and dies beside her after finding her dead.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: suicide after kin or beloved's death
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Haemon kills himself after Antigone's death; Eurydice kills herself after
+    Haemon's death.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:9
+  label: restorer or enforcer of funeral rites
+  assigned_to:
+  - fig:9
+  - fig:3
+  basis: Adrastus persuades Theseus to compel return of the dead for funeral rites.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: unburied fallen warriors
+  assigned_to:
+  - fig:10
+  basis: The Argive fallen require restoration to their friends for proper funeral
+    rites.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: city walls
+  literal_form: The walls of Thebes from which Menoeceus kills himself and outside
+    which the duel later occurs.
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: dagger
+  literal_form: The dagger Menoeceus plunges into his heart.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: unburied remains
+  literal_form: The remains of Polynices, his allies, and the fallen Argive warriors
+    whose burial is forbidden or delayed.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:4
+  label: subterranean vault
+  literal_form: The underground vault where Antigone is entombed alive and where Haemon
+    finds her dead.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: veil
+  literal_form: The veil by which Antigone hangs herself.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: sword
+  literal_form: The sword on which Haemon throws himself.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: horse Arion
+  literal_form: The fleet horse that enables Adrastus to escape.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Menoeceus' self-sacrifice
+  summary: After Creon tries to send him away for safety, Menoeceus chooses to die
+    for Thebes and kills himself on the city walls.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Argive assault and Theban victory
+  summary: Adrastus orders an assault on Thebes; the battle is renewed after a first
+    rout, and the Thebans ultimately prevail.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: Fatal duel of the brothers
+  summary: Eteocles and Polynices agree to single combat outside the walls, and both
+    die from their wounds.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Burial prohibition and Antigone's defiance
+  summary: Creon forbids burial of Polynices and the Argive allies, while Antigone
+    disregards the order to give burial to Polynices.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Entombment and family suicides
+  summary: Antigone is entombed alive and hangs herself; Haemon kills himself beside
+    her, and Eurydice later kills herself after hearing of Haemon's death.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Restoration of the Argive dead
+  summary: Adrastus seeks help at Athens, and Theseus successfully compels Thebes
+    to return the fallen Argives for proper funeral rites.
+  figure_refs:
+  - fig:3
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: self-sacrifice for the safety of the city
+  taxonomy_refs:
+  - sacrifice
+  basis: Menoeceus voluntarily dies for the benefit of his country after a seer's
+    words and Creon's attempt to send him away.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not reproduce the seer's full prophecy, so the precise
+    ritual logic is not stated in this excerpt.
+- id: motif:2
+  label: mutual death of rival brothers
+  taxonomy_refs:
+  - sibling_pair
+  basis: Eteocles and Polynices, identified as brothers, fight in single combat and
+    both die.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage presents the fraternal duel but gives limited background on
+    their earlier conflict.
+- id: motif:3
+  label: denial and restoration of funeral rites
+  taxonomy_refs: []
+  basis: Creon forbids burial of Polynices and the Argive dead; Antigone attempts
+    burial, and Theseus later compels return of the bodies for due rites.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: No available taxonomy reference directly names this funeral-rite pattern.
+- id: motif:4
+  label: entombed beloved followed by suicide
+  taxonomy_refs: []
+  basis: Antigone is sealed alive in a subterranean vault, hangs herself, and Haemon
+    kills himself beside her body.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a localized tragic sequence; the passage does not frame it as
+    a broader mythic type.
+- id: motif:5
+  label: retributive ruin of a ruler's household
+  taxonomy_refs:
+  - divine_judgment
+  basis: After Creon's harsh decree and punishment of Antigone, the passage states
+    that retribution is at hand and narrates the deaths of Haemon and Eurydice, leaving
+    Creon widowed and childless.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: Although Haemon invokes divine curses, the passage does not explicitly
+    say the gods directly cause the deaths.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8919-8927
+  quote_or_summary: Creon urges Menoeceus to leave for Delphi, but Menoeceus resolves
+    to sacrifice his life for his country and kills himself with a dagger on the city
+    walls.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:2
+  type: summary
+  locator: lines 8928-8932
+  quote_or_summary: Adrastus commands an assault on the city; after a fierce battle
+    and heavy losses, the Argives are routed.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:3
+  type: summary
+  locator: lines 8933-8942
+  quote_or_summary: Eteocles sends a herald proposing single combat with Polynices;
+    the duel occurs outside the city walls, and both brothers die on the battlefield.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:4
+  type: summary
+  locator: lines 8943-8948
+  quote_or_summary: After renewed fighting, the Thebans win; the Argive leaders are
+    lost except Adrastus, who is saved by the fleetness of Arion.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:5
+  type: summary
+  locator: lines 8949-8958
+  quote_or_summary: Creon becomes king again and forbids burial of Polynices and his
+    allies; Antigone returns to Thebes and attempts to bury Polynices despite the
+    order.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:6
+  type: summary
+  locator: lines 8959-8969
+  quote_or_summary: Creon condemns Antigone to be entombed alive in a subterranean
+    vault; Haemon enters, finds Antigone hanged by her veil, invokes curses on his
+    father, and kills himself with his sword beside her.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:7
+  type: summary
+  locator: lines 8970-8973
+  quote_or_summary: A messenger reports that Eurydice has killed herself after hearing
+    of Haemon's death, leaving Creon widowed and childless.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:8
+  type: summary
+  locator: lines 8974-8977
+  quote_or_summary: Adrastus takes refuge at Athens and persuades Theseus to lead
+    an army to compel the Thebans to restore the Argive dead for proper funeral rites;
+    the bodies are interred with honours.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are cautious and limited to patterns visible in the excerpt; no cross-text comparison
+    claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparison to another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l8919-l8977
+  passage_sha256=55f72daea498df4b0c04edafee6bd96269e12e26566f511896c5ec806a84863a
+

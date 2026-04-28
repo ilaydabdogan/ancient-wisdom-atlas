@@ -1,0 +1,556 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l5595-l5702
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE STORY OF THE OLD MAN WHO MADE WITHERED TREES TO FLOWER / THE JELLY FISH
+    AND THE MONKEY / THE QUARREL OF THE MONKEY AND THE CRAB / THE WHITE HARE AND THE
+    CROCODILES; lines 5595-5702
+  start: '5595'
+  end: '5702'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A spiteful young man gives the injured hare a false remedy that worsens
+    its pain. A kind man, later identified as Okuni-nushi-no-Mikoto, hears the hare's
+    account of tricking the crocodiles and being punished, gives a true remedy using
+    pond water and kaba flowers, and restores the hare's fur. The grateful hare predicts
+    that Princess Yakami will refuse the brothers and choose Okuni-nushi-no-Mikoto,
+    which happens. The closing note says Okuni-nushi-no-Mikoto is worshiped as a god
+    in parts of Japan and the hare is known as the White Hare of Inaba.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A bad and spiteful young man pretends kindness and tells the hare to bathe
+    in the sea and sit in the wind as a cure.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sea salt and wind cause the hare's skin to harden and increase its pain.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Another King's son passes by carrying a large bag and asks the crying hare
+    why it is crying.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hare recounts that it tricked the crocodiles into forming a bridge, mocked
+    them, and was then attacked in revenge.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The kind man says the hare's suffering was the consequence of the deceit it
+    practiced on the crocodiles.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The hare says it has repented and asks how to heal its sore body and regrow
+    its fur.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The kind man instructs the hare to wash the salt from its body in a pond and
+    roll on kaba flowers so that their pollen will make its fur grow again.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The hare follows the instructions, its white fur grows again, its pain stops,
+    and it recovers quickly.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The healed hare kneels at the young man's feet, thanks him, and asks who he
+    is.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The young man identifies himself as Okuni-nushi-no-Mikoto and says the preceding
+    men are his brothers seeking Princess Yakami as a bride.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The hare predicts that Princess Yakami will refuse the brothers and prefer
+    Okuni-nushi-no-Mikoto because of his goodness of heart.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Princess Yakami refuses the brothers, chooses Okuni-nushi-no-Mikoto, and they
+    marry.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The passage states that Okuni-nushi-no-Mikoto is worshiped as a god in some
+    parts of Japan and that the hare became famous as the White Hare of Inaba.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: the hare / White Hare of Inaba
+  description: An injured hare whose fur has been pulled out; it previously deceived
+    crocodiles, suffers, repents, receives healing, and later becomes famous as the
+    White Hare of Inaba.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: bad and spiteful young man
+  description: One of the young men who feigns kindness and gives the hare a harmful
+    false remedy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Okuni-nushi-no-Mikoto
+  description: A kind man carrying a large bag, later identifying himself as Okuni-nushi-no-Mikoto;
+    he heals the hare and is later chosen by Princess Yakami.
+  role_refs:
+  - role:5
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: Okuni-nushi-no-Mikoto's brothers
+  description: The beings who pass before Okuni-nushi-no-Mikoto and travel to seek
+    Princess Yakami as a bride.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: Princess Yakami
+  description: A beautiful princess in Inaba who refuses the brothers and chooses
+    Okuni-nushi-no-Mikoto as her bridegroom.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:6
+  name_or_label: the crocodiles
+  description: The crocodiles whom the hare tricked into forming a bridge and who
+    revenged themselves on the hare.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:2
+  - ev:9
+roles:
+- id: role:1
+  label: injured sufferer
+  assigned_to:
+  - fig:1
+  basis: The hare is crying, bare-skinned, in pain, and asks for medicine.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: repentant deceiver
+  assigned_to:
+  - fig:1
+  basis: The hare admits its trick on the crocodiles and says it has repented of deceit.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: grateful prophetic animal
+  assigned_to:
+  - fig:1
+  basis: After being healed, the hare thanks Okuni-nushi-no-Mikoto and predicts Princess
+    Yakami will choose him.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:4
+  label: false healer
+  assigned_to:
+  - fig:2
+  basis: The young man feigns kindness and gives advice that makes the hare's suffering
+    worse.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: compassionate healer
+  assigned_to:
+  - fig:3
+  basis: He pities the hare and gives an effective remedy involving pond water and
+    kaba flowers.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:6
+  label: deity or worshiped fairy
+  assigned_to:
+  - fig:3
+  basis: He identifies himself as Okuni-nushi-no-Mikoto, and the passage says people
+    in some parts of Japan worship him as a god.
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: role:7
+  label: chosen bridegroom
+  assigned_to:
+  - fig:3
+  basis: Princess Yakami chooses him and they marry.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: rejected suitors
+  assigned_to:
+  - fig:4
+  basis: The brothers seek Princess Yakami, but she refuses them.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:9
+  label: selecting bride
+  assigned_to:
+  - fig:5
+  basis: Princess Yakami refuses the brothers and gives herself to Okuni-nushi-no-Mikoto.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: deceived avengers
+  assigned_to:
+  - fig:6
+  basis: The hare says it tricked the crocodiles and that they revenged themselves
+    on him.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: harmful sea water and wind
+  literal_form: the sea, salt, and wind used in the false cure
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: healing pond water
+  literal_form: the pond where the hare washes salt from its body
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: kaba flowers and pollen
+  literal_form: kaba flowers growing near the water; their pollen restores the hare's
+    fur
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: great bag
+  literal_form: a great big bag carried on Okuni-nushi-no-Mikoto's back
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:5
+  label: crocodile bridge
+  literal_form: the bridge made by crocodiles when the hare tricked them into lining
+    up
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: False remedy and worsened pain
+  summary: A spiteful young man pretends to help the hare by prescribing sea bathing
+    and wind exposure, but the treatment intensifies the hare's pain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Compassionate questioning and confession
+  summary: A kind man carrying a bag stops beside the crying hare; the hare recounts
+    its deception of the crocodiles and its later mistreatment.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Repentance and true cure
+  summary: The kind man names the hare's suffering as a consequence of deceit; the
+    repentant hare asks for help, receives instructions, and is healed by pond water
+    and kaba flowers.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Revelation and prediction
+  summary: The healed hare thanks the helper, learns he is Okuni-nushi-no-Mikoto,
+    and predicts that Princess Yakami will reject his brothers and choose him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Princess chooses Okuni-nushi-no-Mikoto
+  summary: Princess Yakami refuses the brothers, chooses Okuni-nushi-no-Mikoto, and
+    marries him.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: false cure that worsens suffering
+  taxonomy_refs: []
+  basis: A spiteful man feigns kindness and gives the hare a remedy that increases
+    its pain.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a local episode-level pattern; no supplied taxonomy family directly
+    names it.
+- id: motif:2
+  label: deceiver punished and repents
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The hare admits deceiving the crocodiles, is told its suffering is the consequence
+    of that deceit, and says it has repented.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage reports the earlier trick retrospectively rather than narrating
+    it fully in this excerpt.
+- id: motif:3
+  label: compassionate supernatural healer restores an animal
+  taxonomy_refs:
+  - wisdom
+  basis: Okuni-nushi-no-Mikoto pities the injured hare and gives effective instructions
+    using pond water and flowers, after which the hare recovers.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:9
+  confidence: medium
+  cautions: The available taxonomy has no exact healing-animal category; the wisdom
+    reference is based on effective remedial instruction and moral counsel.
+- id: motif:4
+  label: grateful animal foretells or enables the helper's reward
+  taxonomy_refs:
+  - sacred_exchange
+  basis: After healing, the hare offers to do something in return and predicts that
+    Princess Yakami will choose Okuni-nushi-no-Mikoto; the prediction is fulfilled.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The hare gives prophecy rather than a material reward; the exchange is
+    implied by gratitude and fulfilled prediction.
+- id: motif:5
+  label: humble kind brother chosen over unkind brothers
+  taxonomy_refs: []
+  basis: Okuni-nushi-no-Mikoto travels behind his brothers as an attendant carrying
+    a large bag, yet Princess Yakami refuses the brothers and chooses him.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage does not provide full details of the brothers' conduct beyond
+    the earlier unkind episode and their rejection.
+- id: motif:6
+  label: marriage of a princess to a worshiped divine figure
+  taxonomy_refs:
+  - sacred_marriage
+  basis: Princess Yakami gives herself to Okuni-nushi-no-Mikoto, who is identified
+    in the passage as a fairy and worshiped as a god in parts of Japan.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  confidence: low
+  cautions: The passage presents a marriage but does not frame it as a ritual, cosmic,
+    or cultic sacred marriage; taxonomy fit is tentative.
+comparison_claims:
+- id: claim:1
+  claim: 'The episode functions like a grateful-animal-helper pattern: an injured
+    animal receives compassionate aid and then provides a benefit through prophecy
+    concerning the helper''s marriage.'
+  claim_level: same_function
+  target: grateful animal helper pattern
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The animal's help is predictive rather than directly active, and no
+    external comparator is supplied in the passage metadata.
+- id: claim:2
+  claim: The hare's trick against the crocodiles and later suffering can be cautiously
+    grouped with trickster-boundary motifs because the hare crosses by deception and
+    is punished after mocking the deceived animals.
+  claim_level: same_motif
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The crossing episode is summarized by the hare within this passage
+    rather than fully narrated here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5595-5612
+  quote_or_summary: A spiteful young man pretends kindness and tells the hare to bathe
+    in the sea and sit in the wind; the salt and wind harden the hare's skin and increase
+    its pain.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 5613-5636
+  quote_or_summary: A kind man carrying a great bag stops; the hare tells how it tricked
+    crocodiles into making a bridge, mocked them, was revenged upon, and was later
+    deceived by men like the present helper.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 5637-5648
+  quote_or_summary: The man says the hare's suffering was the consequence of deceiving
+    the crocodiles; the hare says it has repented and asks how to be cured.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 5649-5663
+  quote_or_summary: The man prescribes washing in a pond and rolling on kaba flowers;
+    the hare does so, its white fur grows back, pain ceases, and it recovers.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 5664-5671
+  quote_or_summary: The recovered hare joyfully approaches, kneels, thanks the helper,
+    wishes to do something in return, and asks his identity.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 5672-5681
+  quote_or_summary: The helper says he is Okuni-nushi-no-Mikoto, not a King's son;
+    his brothers have gone to seek Princess Yakami of Inaba, while he follows as an
+    attendant carrying a large bag.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:7
+  type: summary
+  locator: 5682-5693
+  quote_or_summary: The hare humbles itself before Okuni-nushi-no-Mikoto and predicts
+    that Princess Yakami will refuse the brothers and prefer him for his goodness
+    of heart.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:8
+  type: quote
+  locator: 5694-5700
+  quote_or_summary: Princess Yakami says to the kind brother, "To you I give myself,"
+    and they are married.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:9
+  type: summary
+  locator: 5701-5702
+  quote_or_summary: The closing note says Okuni-nushi-no-Mikoto is worshiped as a
+    god in some parts of Japan, the hare is famous as the White Hare of Inaba, and
+    the crocodiles' fate is unknown.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for this passage. Motif taxonomy mappings are
+    cautious because the available taxonomy has no exact entries for false healing,
+    grateful animal prophecy, or animal-healing episodes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l5595-l5702
+  passage_sha256=08c29aca548aa82392df8e1877951a42193af7f11d36ec40de2d6cebad82171d
+

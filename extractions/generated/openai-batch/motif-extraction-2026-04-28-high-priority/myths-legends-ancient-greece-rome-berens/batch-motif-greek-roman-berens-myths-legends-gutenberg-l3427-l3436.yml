@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l3427-l3436
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: NEPTUNE. / SEA DIVINITIES. / OCEANUS. / NEREUS.; lines 3427-3436
+  start: '3427'
+  end: '3436'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Nereus appears to have been the personification of the sea in its calm and
+    placid moods...
+  summary: The passage describes Nereus as a benevolent prophetic sea-deity associated
+    with the calm sea and the Aegean, dwelling beneath the waves with Doris and the
+    Nereides and helping mariners in danger.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Nereus is described as the personification of the sea in calm and placid moods.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nereus is said to be the most important sea-deity after Poseidon.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Nereus is represented as a kind and benevolent old man.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Nereus possesses the gift of prophecy.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Nereus presides especially over the Aegean Sea and is considered its protecting
+    spirit.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Nereus dwells beneath the waves in a beautiful grotto-palace with his wife
+    Doris and their fifty daughters, the Nereides.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Nereus is ready to assist distressed mariners in danger.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Nereus
+  description: A sea-deity described as personifying the calm sea, a benevolent old
+    man with prophecy, protector of the Aegean, and helper of distressed mariners.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Poseidon
+  description: Named as the sea-deity after whom Nereus ranks in importance.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Doris
+  description: Wife of Nereus who dwells with him beneath the waves.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Nereides
+  description: Fifty blooming daughters of Nereus and Doris who dwell beneath the
+    waves.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Distressed mariners
+  description: Mariners in danger whom Nereus is ready to assist.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: sea-deity
+  assigned_to:
+  - fig:1
+  basis: Nereus is called an important sea-deity.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: personification of calm sea
+  assigned_to:
+  - fig:1
+  basis: The passage says Nereus personifies the sea in calm and placid moods.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: prophetic old man
+  assigned_to:
+  - fig:1
+  basis: Nereus is represented as an old man who possesses the gift of prophecy.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: protecting spirit of the Aegean Sea
+  assigned_to:
+  - fig:1
+  basis: The passage says he presides over the Aegean Sea and was considered its protecting
+    spirit.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: helper of mariners
+  assigned_to:
+  - fig:1
+  basis: He is ready to assist distressed mariners in danger.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: higher-ranking sea-deity
+  assigned_to:
+  - fig:2
+  basis: Nereus is described as the most important sea-deity after Poseidon.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: wife of Nereus
+  assigned_to:
+  - fig:3
+  basis: Doris is identified as Nereus's wife.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: daughters of Nereus and Doris
+  assigned_to:
+  - fig:4
+  basis: The Nereides are identified as the fifty daughters of Nereus and Doris.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: humans in maritime danger
+  assigned_to:
+  - fig:5
+  basis: The mariners are described as distressed and in the hour of danger.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sea
+  literal_form: The sea in calm and placid moods; the Aegean Sea; waves over the divine
+    dwelling.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: grotto-palace beneath the waves
+  literal_form: A beautiful grotto-palace where Nereus, Doris, and the Nereides dwell.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - cave
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: prophecy
+  literal_form: The gift of prophecy possessed by Nereus.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Nereus described as calm-sea deity and protector
+  summary: Nereus is characterized as a benevolent prophetic old sea-deity, subordinate
+    in importance to Poseidon, and protector of the Aegean Sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Undersea household of Nereus
+  summary: Nereus dwells beneath the waves in a grotto-palace with Doris and their
+    fifty daughters, the Nereides.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Aid to endangered mariners
+  summary: Nereus is ready to assist mariners who are in danger at sea.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Prophetic sea elder
+  taxonomy_refs:
+  - wisdom
+  basis: Nereus is portrayed as an old sea-deity with the gift of prophecy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage does not frame prophecy as
+    instruction or wisdom-teaching.
+- id: motif:2
+  label: Protective sea deity aiding mariners
+  taxonomy_refs: []
+  basis: Nereus is identified as a protecting spirit of the Aegean and helper of distressed
+    mariners in danger.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: No narrower supplied taxonomy reference directly matches maritime protection.
+- id: motif:3
+  label: Divine parent with many daughters in an undersea dwelling
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Nereus dwells beneath the waves with Doris and their fifty daughters, the
+    Nereides.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives the family relationship but no narrative action centered
+    on parent-child conflict or succession.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3427-3430
+  quote_or_summary: "“Nereus appears to have been the personification of the sea in
+    its calm and placid moods” and is described as the most important sea-deity after
+    Poseidon."
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 3430-3433
+  quote_or_summary: Nereus is represented as a kind, benevolent old man with prophecy
+    who presides over the Aegean Sea as its protecting spirit.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 3433-3435
+  quote_or_summary: Nereus dwells beneath the waves in a beautiful grotto-palace with
+    Doris and their fifty daughters, the Nereides.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 3435-3436
+  quote_or_summary: Nereus is ready to assist distressed mariners in danger.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is descriptive and supports stable extraction of figures, setting,
+    and attributes. Motif assignment is cautious because the supplied taxonomy does
+    not include a precise maritime-protector category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-text or cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l3427-l3436
+  passage_sha256=e27a2e52c08c30bc7e759088feab3f13c5f23705d400249362f4e07f60bfab94
+

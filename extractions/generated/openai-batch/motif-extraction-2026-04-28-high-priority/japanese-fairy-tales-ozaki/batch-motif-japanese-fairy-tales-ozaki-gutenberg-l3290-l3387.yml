@@ -1,0 +1,436 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l3290-l3387
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE FARMER AND THE BADGER / THE ADVENTURES OF KINTARO, THE GOLDEN BOY / THE
+    STORY OF THE MAN WHO DID NOT WISH TO DIE / THE BAMBOO-CUTTER AND THE MOON-CHILD;
+    lines 3290-3387
+  start: '3290'
+  end: '3387'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A dying mother gives her daughter a mirror and tells her that, after death,
+    the daughter may see her in it for comfort. After the mother dies, the daughter
+    grieves, remembers the gift, looks into the mirror, and believes the reflected
+    face is her mother's soul. The mirror consoles her and reinforces her effort to
+    become gentle, kind, and dutiful. Later the father remarries, and the new stepmother
+    begins treating the girl unkindly and trying to separate father and child.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The mother, near death, asks her daughter to care for her father and to be
+    a good and dutiful woman.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mother takes a square wooden box tied with a silken cord and tassels from
+    beside her pillow and removes a mirror from it.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The mother gives the mirror to her daughter as a parting gift and says the
+    daughter will see her in its clear surface when lonely.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The mother dies quietly after giving the mirror.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The daughter grieves intensely and, while alone doing household duties, remembers
+    her mother's words about the mirror.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The daughter looks into the mirror and sees a young and beautiful face she
+    identifies as her mother.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The daughter believes she is seeing her mother's soul in the mirror and that
+    her mother has come to comfort her.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The daughter looks into the mirror every morning and evening for strength
+    and consolation.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The daughter becomes gentle, kind, and dutiful toward her father.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: After a year of mourning, the father remarries, and the daughter comes under
+    a stepmother's authority.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The stepmother begins treating the girl unkindly and tries to come between
+    father and child.
+  category: relationship
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: dying mother
+  description: The girl's mother, who gives her daughter a mirror before dying and
+    urges her to be dutiful.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: daughter
+  description: A young girl who receives the mirror, grieves for her mother, believes
+    the mirror shows her mother's soul, and tries to live dutifully.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: father
+  description: The bereaved husband and father whom the daughter is asked to care
+    for; after a year he remarries.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:9
+- id: fig:4
+  name_or_label: stepmother
+  description: The father's second wife, who later treats the motherless girl unkindly
+    and tries to come between father and child.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: dying parent
+  assigned_to:
+  - fig:1
+  basis: The mother speaks of her imminent death and dies after giving instructions
+    and the mirror.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: giver of remembrance token
+  assigned_to:
+  - fig:1
+  basis: She gives the mirror to her daughter as an object by which to remember and
+    meet her.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: bereaved child
+  assigned_to:
+  - fig:2
+  basis: The daughter mourns her dead mother and longs to see her face again.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: filial daughter
+  assigned_to:
+  - fig:2
+  basis: She tries to follow her mother's instruction and becomes dutiful toward her
+    father and later toward her father's wife.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:5
+  label: surviving father
+  assigned_to:
+  - fig:3
+  basis: He is left bereaved after his wife's death and later remarries.
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: role:6
+  label: unkind stepmother
+  assigned_to:
+  - fig:4
+  basis: She begins to treat the girl unkindly and attempts to divide father and child.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: mirror of remembrance
+  literal_form: mirror kept in a square wooden box with silken cord and tassels
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: mother's reflected face
+  literal_form: young and beautiful face seen in the round mirror
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: parting gift
+  literal_form: mirror handed from dying mother to daughter before death
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Dying mother's charge and gift
+  summary: The mother tells her daughter to care for her father, gives her a mirror,
+    and explains that the daughter may see her in it after death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Death and mourning
+  summary: The mother dies quietly, and the father and daughter experience intense
+    grief before accepting the burial and continuing in sorrow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Daughter sees the mother in the mirror
+  summary: While grieving alone, the daughter remembers the mirror, looks into it,
+    sees a face she takes to be her mother, and believes the mother's soul has come
+    to comfort her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Daily consolation and moral imitation
+  summary: The daughter uses the mirror morning and evening for strength and consolation
+    and grows in likeness to her mother's character.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Arrival of the stepmother
+  summary: After a year of mourning, the father remarries; the daughter resolves to
+    be dutiful, but the stepmother eventually treats her unkindly and tries to separate
+    father and child.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: dying parent gives a remembrance token
+  taxonomy_refs: []
+  basis: The dying mother gives her daughter a mirror as a parting gift and explains
+    how it will preserve contact and memory after death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage frames the mirror as a consoling object; no broader taxonomy
+    reference is directly supplied for this specific token motif.
+- id: motif:2
+  label: mirror as medium for the dead beloved parent
+  taxonomy_refs: []
+  basis: The daughter looks into the mirror, sees a face she identifies as her mother,
+    and believes it is her mother's soul comforting her.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The narration presents the girl's belief in the reflection; it does not
+    explicitly confirm a supernatural apparition.
+- id: motif:3
+  label: filial virtue sustained by memory of the dead mother
+  taxonomy_refs:
+  - wisdom
+  basis: The mother's instruction and the daughter's daily mirror practice lead the
+    girl to become gentle, kind, and dutiful.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad and moral rather than a precise
+    named motif.
+- id: motif:4
+  label: unkind stepmother threatens father-child bond
+  taxonomy_refs: []
+  basis: After the father remarries, the stepmother begins treating the girl unkindly
+    and trying to come between father and child.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: Only the beginning of the stepmother conflict appears in this passage;
+    later developments are outside the supplied text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3290-3301
+  quote_or_summary: The mother tells her daughter that nothing can save her, asks
+    her to care for her father, and explains that her death is ordained by a previous
+    state of existence.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3302-3307
+  quote_or_summary: The mother takes a square wooden box tied with silken cord and
+    tassels from beside the pillow and removes the mirror her husband had once given
+    her.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3308-3320
+  quote_or_summary: The mother gives the mirror to her daughter and says that, after
+    she is gone, the daughter will see her in the clear shining surface and may tell
+    her all her heart.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3321-3331
+  quote_or_summary: The mother dies quietly; father and daughter grieve intensely
+    before regaining some resignation and committing the body to the earth.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3332-3346
+  quote_or_summary: The daughter remains desolate, remembers her mother in ordinary
+    sights and sounds, weeps alone in her mother's room, and recalls the mother's
+    last words about the mirror.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3347-3357
+  quote_or_summary: The daughter takes out the mirror, gazes into it, and sees the
+    face of her mother as young and beautiful, not wasted by illness.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3358-3363
+  quote_or_summary: The daughter states that it is certainly her mother's soul and
+    believes her mother has come to comfort her through the mirror.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 3364-3373
+  quote_or_summary: Every morning and evening the girl gazes at the mirror for strength
+    and consolation, believes the reflection to be her mother's soul, and grows gentle,
+    kind, and dutiful.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 3374-3383
+  quote_or_summary: After a year of mourning, the father remarries; the daughter is
+    under a stepmother's authority and resolves to be filial and dutiful to her father's
+    wife.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 3384-3387
+  quote_or_summary: The stepmother's heart is not as her first smiles were; she begins
+    to treat the motherless girl unkindly and tries to come between father and child.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage clearly supports extraction of figures, objects, scenes, and
+    local motifs. Taxonomy alignment is limited because the available motif list does
+    not include a precise mirror/remembrance-token category. No comparison claims
+    were added because the passage itself does not support cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage and metadata; supernatural status of the mirror is recorded as the daughter's belief rather than as confirmed narration.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l3290-l3387
+  passage_sha256=10518e4f46b2352b1e2866e4aa0c7ba9deea37f26ddbcb94935ad87c9b176573
+

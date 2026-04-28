@@ -1,0 +1,417 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l7000-l7120
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE STORY OF PRINCE YAMATO TAKE / MOMOTARO, OR THE STORY OF THE SON OF A
+    PEACH / THE OGRE OF RASHOMON / HOW AN OLD MAN LOST HIS WEN; lines 7000-7120
+  start: '7000'
+  end: '7120'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An old man with a large wen on his cheek goes into the hills to cut firewood.
+    A storm forces him to shelter inside a hollow tree on a mountain pass. After the
+    storm, he sees a large company of horned demons holding a feast with music, drinking,
+    and dancing. Drawn by his love of dancing, he comes out and dances before them.
+    The demon chief praises his skill, gives him wine, and asks him to return the
+    next day.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The old man has a large wen growing from his right cheek and has unsuccessfully
+    tried medicines and doctors to remove it.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old man goes into the wooded hills with an ax to cut firewood for his
+    household.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Rain and a thunderstorm overtake the old man on a mountain pass, and he shelters
+    in a large hole in the hollow trunk of a tree.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After the storm clears, the old man sees hundreds of demons approaching; they
+    vary in size and features, and all have horns on their foreheads.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The demons gather around food and wine, with music, singing, drinking, and
+    dancing.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The demon chief sits near the tree, watches a dance, and complains that the
+    dance is monotonous.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The old man decides to dance before the demons despite fearing that failure
+    might cost him his life.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The demon chief praises the old man's dancing, offers him wine, and asks him
+    to come again to dance.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: old man with a wen
+  description: A good old man with a large wen on his right cheek; he is fond of dancing
+    and is skilled at it.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: old man's wife
+  description: The old man's wife wants firewood at once, prompting his trip to the
+    hills.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: demon chief
+  description: A horned chief among the demons; he sits by the tree, watches the dancing,
+    praises the old man, offers wine, and asks him to return.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: demons
+  description: Hundreds of horned demons with varied grotesque features; they feast,
+    drink, sing, and dance.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: afflicted protagonist
+  assigned_to:
+  - fig:1
+  basis: The passage introduces him as having a disfiguring wen that he has long tried
+    to remove.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: accidental witness
+  assigned_to:
+  - fig:1
+  basis: He shelters in a hollow tree and observes the demons after the storm.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: human performer before supernatural beings
+  assigned_to:
+  - fig:1
+  basis: He comes out before the demon gathering and dances, relying on his skill
+    to please them.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:4
+  label: domestic requester
+  assigned_to:
+  - fig:2
+  basis: Her need for firewood motivates the old man's journey.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: supernatural judge and host
+  assigned_to:
+  - fig:3
+  basis: The chief evaluates the dancers, praises the old man, and offers him wine.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:6
+  label: supernatural reveler
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The demons are gathered for food, wine, music, singing, and dancing.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: supernatural audience
+  assigned_to:
+  - fig:4
+  basis: The demons watch the old man's dance and move from surprise to admiration.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: wen
+  literal_form: large lump on the old man's right cheek
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hollow tree refuge
+  literal_form: large hole in the hollow trunk of a tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: mountain pass during storm
+  literal_form: mountain pass, heavy rain, thunder, and lightning
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: horned demons
+  literal_form: demons with horns growing on their foreheads
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: wine-cup
+  literal_form: large wine-cup of sake offered by the demon chief
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: dance before demons
+  literal_form: human dance performed before the demon gathering
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Affliction and failed remedies
+  summary: The old man lives with a large wen on his cheek and fails to remove it
+    despite seeking doctors and medicines.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Firewood journey into the hills
+  summary: At his wife's request, the old man takes an ax and goes into the wooded
+    hills to cut firewood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Storm shelter in the hollow tree
+  summary: A heavy mountain storm forces the old man to hide inside a hollow tree
+    on the mountain pass.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Demon revel revealed
+  summary: After the storm, the old man sees hundreds of horned demons gathering with
+    food, wine, music, singing, and dancing.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Old man's risky dance
+  summary: The old man comes out before the demons and dances skillfully, hoping to
+    please them and avoid danger.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Praise and invitation
+  summary: The demon chief praises the dance, gives the old man wine, and asks him
+    to return the next day.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Afflicted person seeks removal of bodily growth
+  taxonomy_refs: []
+  basis: The passage centers the old man's large wen and his unsuccessful attempts
+    to be rid of it.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: Within this passage range, the wen has not yet been removed despite the
+    story title.
+- id: motif:2
+  label: Accidental encounter with supernatural beings in a wild place
+  taxonomy_refs: []
+  basis: The old man is stranded by a storm in a hollow tree on a mountain pass and
+    unexpectedly sees a company of demons.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not state why the demons gather there or whether the
+    place is normally supernatural.
+- id: motif:3
+  label: Human wins favor of demons through performance
+  taxonomy_refs: []
+  basis: The old man risks dancing before the demons; the demon chief praises him
+    and invites him back.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The consequences of the invitation are outside the provided passage.
+- id: motif:4
+  label: Hospitality or reward from supernatural host
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The demon chief offers the old man wine after his successful dance and requests
+    a future return.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The exchange is with supernatural beings, but the passage does not frame
+    it explicitly as sacred or ritualized.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7000-7010
+  quote_or_summary: A good old man has a tennis-ball-sized wen on his right cheek;
+    doctors and medicines fail, and the lump grows larger.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7011-7020
+  quote_or_summary: Because his wife wants firewood, the old man takes his ax to the
+    woods among the hills and spends the afternoon chopping wood.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7021-7038
+  quote_or_summary: On a mountain pass, rain and thunder overtake the old man; he
+    finds shelter in a large hole in a hollow tree trunk.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7039-7055
+  quote_or_summary: After the storm clears, the old man sees hundreds of demons with
+    varied strange bodies and horns on their foreheads approaching the spot.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7056-7071
+  quote_or_summary: Music, singing, food, wine, drinking, and dancing reveal that
+    the demons are holding a lively entertainment.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 7072-7081
+  quote_or_summary: The demon chief says the current dance is monotonous and asks
+    whether anyone can dance better.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:7
+  type: summary
+  locator: lines 7082-7094
+  quote_or_summary: The old man, skilled and fond of dancing, debates the danger,
+    then comes before the demons and dances with great effort.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 7095-7120
+  quote_or_summary: The demons admire the old man's skill; the chief praises him,
+    offers him a large cup of sake, and asks him to come again the next day.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal sequence is clear in the supplied passage. Motif labels are descriptive
+    and conservative; one taxonomy mapping to sacred_exchange is tentative because
+    the passage depicts an exchange with demons but does not name it sacred.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage itself does not explicitly support comparison to another text, motif family beyond cautious taxonomy mapping, or nearby corpus tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l7000-l7120
+  passage_sha256=46aa703e57a0f7b7c8484f6d7150d35a3360f44cb855d00c13a9cd67114fac3b
+

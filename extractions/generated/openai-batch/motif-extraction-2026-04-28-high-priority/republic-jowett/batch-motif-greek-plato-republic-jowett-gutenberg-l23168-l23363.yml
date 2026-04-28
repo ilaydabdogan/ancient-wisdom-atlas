@@ -1,0 +1,460 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l23168-l23363
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK VII. / BOOK VIII. / BOOK IX. / BOOK X.; lines 23168-23363
+  start: '23168'
+  end: '23363'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: all poetical imitations are ruinous to the understanding of the hearers
+  summary: The speaker defends the exclusion of imitative poetry, then analyzes imitation
+    through examples of beds, tables, mirrors, painters, carpenters, and God. He distinguishes
+    the ideal form, the crafted object, and the painted image, concluding that the
+    painter is an imitator at a third remove from nature.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says the rule rejecting imitative poetry is among the excellences
+    of the State.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says poetical imitations are ruinous to the understanding of hearers
+    unless their true nature is known.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Homer is described as the great captain and teacher of the tragic company,
+    though truth is given priority over reverence for him.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The inquiry begins by assuming that things sharing a common name correspond
+    to an idea or form.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'Beds and tables are used as examples of many individual objects corresponding
+    to two forms: the form of bed and the form of table.'
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: An artificer is said to make a particular bed or table for use, but not the
+    idea itself.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A mirror turned around is described as producing appearances of the sun, heavens,
+    earth, oneself, animals, plants, and other things.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The painter is compared to the mirror-user as a creator of appearances rather
+    than real things.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: 'The passage distinguishes three beds: one in nature made by God, one made
+    by the carpenter, and one made by the painter.'
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: God is said to have made one ideal bed in nature and to be the natural author
+    of this and all other things.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The painter is designated as the imitator of what others make and as third
+    in descent from nature.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: primary speaker
+  description: The main speaker who argues for the rejection of imitative poetry and
+    questions the interlocutor about imitation.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+- id: fig:2
+  name_or_label: interlocutor
+  description: The respondent who answers the speaker's questions and agrees to the
+    distinctions made.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Homer
+  description: A poet toward whom the speaker says he has awe and love; described
+    as captain and teacher of the tragic company.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: tragedians and imitative tribe
+  description: Poetic imitators mentioned as those to whom the speaker would not like
+    his words repeated.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: God
+  description: The maker of the bed in nature and natural author of this and all other
+    things.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: carpenter
+  description: The maker of the particular bed.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: painter
+  description: The producer of the painted bed, described as a creator of appearances
+    and an imitator.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:8
+  name_or_label: artificer or workman
+  description: A maker who produces particular objects for use according to an idea,
+    but does not make the ideas themselves.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: philosophical questioner
+  assigned_to:
+  - fig:1
+  basis: The speaker conducts an inquiry by asking what imitation is and directing
+    the examples.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:2
+  label: critic of imitative poetry
+  assigned_to:
+  - fig:1
+  basis: The speaker argues that imitative poetry should be rejected and harms understanding.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: respondent
+  assigned_to:
+  - fig:2
+  basis: The interlocutor answers and affirms the speaker's distinctions.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: role:4
+  label: revered poetic authority
+  assigned_to:
+  - fig:3
+  basis: Homer is described with awe and love and as teacher of the tragic company.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: imitative poets
+  assigned_to:
+  - fig:4
+  basis: Tragedians and others are grouped as an imitative tribe connected to poetical
+    imitations.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: natural maker
+  assigned_to:
+  - fig:5
+  basis: God is said to make the bed in nature and to be the author of all other things.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: craft maker
+  assigned_to:
+  - fig:6
+  - fig:8
+  basis: The carpenter and artificer make particular useful objects in accordance
+    with the idea.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:8
+  label: imitator of appearances
+  assigned_to:
+  - fig:7
+  basis: The painter is said to create appearances and to imitate what others make.
+  evidence_refs:
+  - ev:5
+  - ev:8
+symbols:
+- id: sym:1
+  label: mirror
+  literal_form: A mirror turned round and round, producing appearances of many things.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: bed
+  literal_form: 'An example object appearing in three kinds: natural form, crafted
+    object, and painted image.'
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:3
+  label: table
+  literal_form: An example object used alongside the bed to explain common names and
+    forms.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: idea or form
+  literal_form: A corresponding idea or form assumed for things sharing a common name,
+    such as bed and table.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: painted image
+  literal_form: The painter's production, described as an appearance and not a real
+    bed.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+scenes:
+- id: scene:1
+  label: Rejection of imitative poetry
+  summary: The speaker praises the State's rule rejecting imitative poetry and says
+    such imitations harm the understanding unless their nature is known.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Inquiry into forms and crafted objects
+  summary: The speaker uses beds and tables to distinguish common names, forms, and
+    the work of artificers who make particular objects but not the ideas themselves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Mirror and appearances
+  summary: The speaker describes how a mirror can produce appearances of many things,
+    and uses this to explain the painter as a creator of appearances.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Three beds and three makers
+  summary: The passage distinguishes the bed in nature made by God, the particular
+    bed made by the carpenter, and the painted bed made by the painter, concluding
+    that the painter is an imitator third from nature.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: appearance versus reality
+  taxonomy_refs:
+  - duality
+  basis: The passage repeatedly contrasts forms or true existence with crafted objects
+    and painted or mirrored appearances.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage is philosophical argument
+    rather than narrative myth.
+- id: motif:2
+  label: wisdom through inquiry into imitation
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker frames knowledge of the true nature of imitation as an antidote
+    to its harm and conducts a stepwise inquiry into forms, makers, and appearances.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+  confidence: medium
+  cautions: The passage presents dialectical instruction, not a mythic wisdom tale.
+- id: motif:3
+  label: hierarchy of makers
+  taxonomy_refs: []
+  basis: 'God, carpenter, and painter are ordered according to their relation to the
+    bed: natural maker, maker of a particular object, and imitator of the made object.'
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No supplied taxonomy family directly names this pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 23168-23196
+  quote_or_summary: The speaker praises the State's rule about poetry, especially
+    the rejection of imitative poetry, and says poetical imitations are ruinous to
+    understanding unless their true nature is known.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; short quotation/summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 23197-23213
+  quote_or_summary: The speaker says he has loved and revered Homer from youth, calls
+    him captain and teacher of the tragic company, but states that truth must be honored
+    above a man.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 23214-23266
+  quote_or_summary: The speakers begin an inquiry into imitation; the main speaker
+    says things with a common name correspond to a form, using beds and tables as
+    examples, and says artisans make particular objects but not the ideas themselves.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 23267-23291
+  quote_or_summary: The speaker proposes that by turning a mirror around one could
+    quickly make the sun, heavens, earth, oneself, animals, plants, and other things,
+    but the respondent says these would be appearances only.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 23292-23310
+  quote_or_summary: The painter is described as another creator of appearances whose
+    created bed is not a real bed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 23311-23335
+  quote_or_summary: 'The passage identifies three beds and three corresponding artists:
+    the bed in nature made by God, the bed made by the carpenter, and the bed made
+    by the painter.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: 23336-23355
+  quote_or_summary: God is said to have made one bed in nature only and to be the
+    natural author or maker of this and all other things.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:8
+  type: quote
+  locator: 23356-23363
+  quote_or_summary: The painter is designated as "the imitator of that which the others
+    make" and as "third in the descent from nature."
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal philosophical structure is clear. Motif classification is cautious
+    because the passage is argumentation rather than mythic narrative, and no comparison
+    claims are directly supported by the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare the pattern to another tradition or corpus.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l23168-l23363
+  passage_sha256=1990c9c7ffd60845efb36bb0bd18c2b4183346be20067f4c9d385ff8b30c26e0
+

@@ -1,0 +1,505 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l6021-l6126
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE JELLY FISH AND THE MONKEY / THE QUARREL OF THE MONKEY AND THE CRAB /
+    THE WHITE HARE AND THE CROCODILES / THE STORY OF PRINCE YAMATO TAKE; lines 6021-6126
+  start: '6021'
+  end: '6126'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Prince Yamato Take attributes his escape from a burning prairie to the
+    sword of Murakumo and Amaterasu, renames the sword Kusanagi-no-Tsurugi, and continues
+    eastward with his wife Ototachibana. He neglects and humiliates her while favoring
+    Princess Miyadzu. At the shore of Idzu he mocks the sea before crossing to Kadzusa.
+    A storm arises, attributed to the anger of Rin Jin/Kin Jin, the Dragon King or
+    God of the Sea. Ototachibana declares that she will give her life in place of
+    Yamato Take to appease the sea and bring him safely to shore.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Prince attributes his escape to the sword of Murakumo and to the protection
+    of Amaterasu, then renames the sword Kusanagi-no-Tsurugi, the Grass-Cleaving Sword.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The place where the Prince set fire to the grass and escaped the burning prairie
+    is called Yaidzu in the passage.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ototachibana follows Yamato Take through journeys and war, serving him by
+    handing him his sword and caring for him.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Yamato Take treats Ototachibana coldly, says she belongs at home, and later
+    leaves her behind while visiting Princess Miyadzu.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: Princess Miyadzu is described as beautiful, richly dressed, sheltered, and
+    living in a palace shaded by pine-trees.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Yamato Take promises to return to Owari and marry Princess Miyadzu after the
+    war.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: At Idzu, Yamato Take mocks the sea as only a brook and says he could jump
+    it.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: After the party embarks, a violent storm arises with high waves, wind, lightning,
+    and thunder.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The storm is attributed to the anger of Kin Jin, the Dragon King of the Sea,
+    because Yamato Take jeered at the sea.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Ototachibana decides to sacrifice her life in an attempt to save Yamato Take
+    from death.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Ototachibana addresses the sea, offering to take Yamato Take’s place and asking
+    that he be brought safely to Kadzusa.
+  category: speech
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Prince Yamato Take
+  description: A warrior prince who escapes danger, marches eastward, neglects Ototachibana,
+    mocks the sea, and is threatened by a storm.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Princess Ototachibana
+  description: Yamato Take’s faithful wife, who follows him through hardship and offers
+    her life to save him during the storm.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:10
+  - ev:11
+- id: fig:3
+  name_or_label: Amaterasu
+  description: The Sun Goddess of Ise, described as controlling the wind and elements
+    and protecting those who pray to her in danger.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Princess Miyadzu
+  description: A beautiful princess at Owari whom Yamato Take visits and promises
+    to marry after the war.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Kin Jin / Rin Jin, Dragon King or God of the Sea
+  description: The sea deity who is said to raise the storm in anger after Yamato
+    Take mocks the sea.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+  - ev:11
+roles:
+- id: role:1
+  label: warrior prince
+  assigned_to:
+  - fig:1
+  basis: He marches eastward, battles foes, and leads soldiers across the straits.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:2
+  label: husband who neglects his wife
+  assigned_to:
+  - fig:1
+  basis: He is described as cold to Ototachibana and ashamed of her travel-worn appearance.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: scoffer at the sea
+  assigned_to:
+  - fig:1
+  basis: He calls the sea a brook and claims he could jump it.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: faithful wife
+  assigned_to:
+  - fig:2
+  basis: She follows Yamato Take through journeys and war, despite rebuffs and grief.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: self-sacrificing substitute
+  assigned_to:
+  - fig:2
+  basis: She offers to take Yamato Take’s place by casting herself into the sea.
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: role:6
+  label: divine protector
+  assigned_to:
+  - fig:3
+  basis: Yamato Take credits Amaterasu’s protection for his escape, and the passage
+    says she protects those who pray in danger.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: favored princess
+  assigned_to:
+  - fig:4
+  basis: Yamato Take visits Miyadzu, forgets his wife, and promises to marry her.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: angered sea deity
+  assigned_to:
+  - fig:5
+  basis: The storm is attributed to his anger at Yamato Take’s jeering.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: Grass-Cleaving Sword
+  literal_form: Kusanagi-no-Tsurugi, formerly the sword of Murakumo
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: burning prairie and grass fire
+  literal_form: Grass around Yamato Take is set on fire; the place is named Yaidzu
+    after his escape.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sea crossing
+  literal_form: The straits from Idzu to Kadzusa and the sea mocked by Yamato Take.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:11
+- id: sym:4
+  label: storm at sea
+  literal_form: Clouds, high waves, wind, lightning, and thunder threaten the boat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: palace at Owari
+  literal_form: Princess Miyadzu’s palace shaded by pine-trees and approached by imposing
+    gates.
+  associated_figures:
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Renaming of the sword after escape
+  summary: Yamato Take attributes his escape to the sword and Amaterasu, raises the
+    sword in respect, renames it Kusanagi-no-Tsurugi, and names the place Yaidzu.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ototachibana follows the war expedition
+  summary: Ototachibana accompanies Yamato Take through danger and hardship, while
+    he remains focused on war and treats her coldly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Yamato Take favors Miyadzu at Owari
+  summary: At Owari, Yamato Take leaves Ototachibana behind, visits Princess Miyadzu,
+    and promises to return and marry her after the war.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Mocking the sea before crossing
+  summary: At Idzu, the soldiers seek boats to cross to Kadzusa, and Yamato Take boasts
+    that the sea is only a brook that he could jump.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Storm raised by the sea deity
+  summary: During the crossing, a violent storm threatens the boat, and the passage
+    says the Dragon King of the Sea raised it in anger at Yamato Take’s jeering.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Ototachibana offers her life
+  summary: Ototachibana interprets the storm as punishment for Yamato Take’s offense
+    to the sea deity and offers to give her life in his place so he may reach Kadzusa
+    safely.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: divine aid through a sacred weapon
+  taxonomy_refs: []
+  basis: Yamato Take credits his escape to the virtue of the sword and Amaterasu’s
+    protection, then ritually renames the sword.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage states divine protection and a named sword, but it does not
+    present a broader taxonomy label for sacred weapons.
+- id: motif:2
+  label: hero threatened by divine anger after boastful speech
+  taxonomy_refs:
+  - divine_judgment
+  basis: Yamato Take mocks the sea, and the storm is explicitly attributed to the
+    Sea Dragon King’s anger at the jeer.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The judgment is localized to the sea deity’s anger and is not framed as
+    a universal moral law.
+- id: motif:3
+  label: life offered in exchange for another life
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: Ototachibana says she will take Yamato Take’s place, cast herself into the
+    sea, and give her life for his safe passage.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The passage ends before the actual completion or result of the sacrifice
+    within this excerpt.
+- id: motif:4
+  label: faithful spouse saves unfaithful or neglectful partner
+  taxonomy_refs:
+  - divine_beloved
+  basis: Despite Yamato Take’s neglect and promise to marry Miyadzu, Ototachibana
+    acts from love to save his life.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The available taxonomy does not have a precise spousal-devotion motif;
+    the taxonomy reference is approximate and should be reviewed.
+- id: motif:5
+  label: dangerous sea crossing
+  taxonomy_refs:
+  - departure
+  basis: The expedition attempts to cross from Idzu to Kadzusa by boat and is endangered
+    by the storm at sea.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The excerpt gives a journey episode but not a complete departure-return
+    structure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6021-6030
+  quote_or_summary: Yamato Take credits his escape to the sword of Murakumo and Amaterasu’s
+    protection, raises the sword, and renames it Kusanagi-no-Tsurugi, the Grass-Cleaving
+    Sword.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; passage use allowed.
+- id: ev:2
+  type: summary
+  locator: 6027-6032
+  quote_or_summary: The place where he set fire to the grass and escaped death in
+    the burning prairie is called Yaidzu.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; passage use allowed.
+- id: ev:3
+  type: summary
+  locator: 6039-6048
+  quote_or_summary: Ototachibana follows Yamato Take through journeys and war, regarding
+    hardship as nothing if she can serve him in battle and camp.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; passage use allowed.
+- id: ev:4
+  type: summary
+  locator: 6049-6060
+  quote_or_summary: Yamato Take is cold toward Ototachibana, says her place is at
+    the palace rather than the warpath, and she remains despite rebuffs.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; passage use allowed.
+- id: ev:5
+  type: summary
+  locator: 6061-6074
+  quote_or_summary: Princess Miyadzu lives in a palace at Owari and is described as
+    beautiful, sheltered, richly dressed, and fair-skinned; Yamato Take leaves Ototachibana
+    behind while visiting her.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; passage use allowed.
+- id: ev:6
+  type: summary
+  locator: 6075-6087
+  quote_or_summary: Yamato Take visits Miyadzu, forgets his wife and duty, and swears
+    to return to Owari and marry Miyadzu after the war.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; passage use allowed.
+- id: ev:7
+  type: quote
+  locator: 6088-6097
+  quote_or_summary: "“This is not the sea! This is only a brook! ... I could jump
+    this if I would.”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:8
+  type: summary
+  locator: 6098-6105
+  quote_or_summary: After they embark, the sky clouds, a storm arises, waves rise
+    high, and the boat carrying Yamato Take, Ototachibana, and the men is violently
+    tossed.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; passage use allowed.
+- id: ev:9
+  type: summary
+  locator: 6105-6110
+  quote_or_summary: Kin Jin, the Dragon King of the Sea, is said to have heard Yamato
+    Take’s jeer and raised the storm in anger.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; passage use allowed.
+- id: ev:10
+  type: summary
+  locator: 6111-6118
+  quote_or_summary: Ototachibana rises during the worsening storm and resolves to
+    sacrifice her life to rescue Yamato Take from death if possible.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; passage use allowed.
+- id: ev:11
+  type: quote
+  locator: 6119-6126
+  quote_or_summary: "“I will take the place of His Augustness, Yamato Take... giving
+    my life for his... bring him safely to the shore of Kadzusa.”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif taxonomy
+    assignments are candidates and should be reviewed, especially approximate labels
+    for spousal devotion and sacred weapon imagery. No comparison claims were made
+    because the passage itself does not compare this episode to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage and metadata. The passage uses both Kin Jin and Rin Jin for the sea deity; both names are retained in the figure label.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l6021-l6126
+  passage_sha256=acacddcd4e05644bc29f0b0720b1faf59e3b3f707d4092aa34b84cbb44523773
+

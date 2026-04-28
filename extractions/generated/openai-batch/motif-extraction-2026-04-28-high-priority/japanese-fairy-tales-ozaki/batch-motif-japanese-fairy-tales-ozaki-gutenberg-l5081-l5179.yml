@@ -1,0 +1,416 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l5081-l5179
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE SAGACIOUS MONKEY AND THE BOAR / THE HAPPY HUNTER AND THE SKILLFUL FISHER
+    / THE STORY OF THE OLD MAN WHO MADE WITHERED TREES TO FLOWER / THE JELLY FISH
+    AND THE MONKEY; lines 5081-5179
+  start: '5081'
+  end: '5179'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“I have left all my livers hanging on the pine-tree.”"
+  summary: A monkey learns that a jelly fish is taking him to the Sea King’s Palace
+    for his liver. The monkey lies that he left his livers hanging on a pine tree,
+    persuades the jelly fish to return him to the island, escapes into the tree, and
+    mocks the jelly fish. The jelly fish returns to the Dragon King and confesses
+    his failure. The Dragon King orders him punished by having his bones removed and
+    being beaten, explaining why jellyfish are now soft and boneless.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The monkey tells the jelly fish that he has several livers and has left them
+    hanging on a pine tree.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The jelly fish believes the monkey and turns back toward Monkey Island so
+    the monkey can supposedly retrieve a liver.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When they reach shore, the monkey climbs into the pine tree and expresses
+    joy at being safe.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The monkey admits that his promise was false and says he deceived the jelly
+    fish to avoid losing his life.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The jelly fish returns to the Dragon King and reports that he revealed his
+    commission and was deceived by the monkey.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Dragon King orders the jelly fish to be punished by having his bones drawn
+    out and being beaten with sticks.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The story states that jellyfish descendants are soft and boneless because
+    of the sentence carried out on their ancestor.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: monkey
+  description: A cunning monkey from Monkey Island who lies about leaving his liver
+    on a pine tree and escapes the journey to the Sea King’s Palace.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: jelly fish
+  description: A messenger who is taking the monkey across the sea, believes the monkey’s
+    false story, returns him to the island, and is punished after reporting failure.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Dragon King of the Sea
+  description: A sea ruler who waits for the jelly fish’s return and orders the jelly
+    fish’s punishment after the failed mission.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Dragon Queen of the Sea
+  description: A sea queen for whom the monkey says a liver is wanted.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: doctor
+  description: A doctor waiting at the Sea King’s Palace for the monkey.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Palace servants
+  description: Servants who carry out the Dragon King’s order by bringing sticks,
+    surrounding the jelly fish, pulling out his bones, and beating him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: cunning deceiver
+  assigned_to:
+  - fig:1
+  basis: The monkey invents the claim that his livers are hanging on a tree and later
+    says he deceived the jelly fish.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: intended victim who escapes
+  assigned_to:
+  - fig:1
+  basis: The monkey says he would have lost his life if he had continued to the Sea
+    King’s Palace, but he returns safely to the island.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: duped messenger
+  assigned_to:
+  - fig:2
+  basis: The jelly fish believes the monkey’s claim and turns back to the island.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: punished failed agent
+  assigned_to:
+  - fig:2
+  basis: The jelly fish confesses the failed mission and is punished by order of the
+    Dragon King.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: wrathful sea ruler and judge
+  assigned_to:
+  - fig:3
+  basis: The Dragon King reacts with wrath and orders the jelly fish’s severe punishment.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: recipient or cause of liver quest
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The monkey states that the liver is wanted for the Dragon Queen, and later
+    says a doctor was waiting at the Sea King’s Palace.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:7
+  label: executors of punishment
+  assigned_to:
+  - fig:6
+  basis: The servants bring sticks, surround the jelly fish, remove his bones, and
+    beat him.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: pine tree refuge
+  literal_form: pine tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: sea crossing
+  literal_form: sea between Monkey Island and the Sea King’s Palace
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: liver
+  literal_form: monkey’s liver
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: boneless jelly fish body
+  literal_form: soft and boneless body after bones are removed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Monkey invents the pine-tree liver story
+  summary: The monkey responds to the jelly fish by claiming that monkeys can spare
+    livers and that he left his livers hanging on a pine tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Jelly fish returns monkey to the island
+  summary: The jelly fish believes the monkey and turns back to Monkey Island so the
+    monkey can supposedly retrieve a liver.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Monkey escapes and mocks the jelly fish
+  summary: At the shore the monkey climbs into the pine tree, says his promise was
+    false, and mocks the jelly fish from safety.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Jelly fish confesses failure at the palace
+  summary: The jelly fish returns to the Dragon King and explains that he revealed
+    the mission and was tricked by the monkey’s liver story.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Dragon King punishes the jelly fish
+  summary: The Dragon King orders the jelly fish’s bones removed and the palace servants
+    beat him, producing his new boneless condition.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Trickster escapes death by verbal deception
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The monkey avoids being taken to the Sea King’s Palace and losing his life
+    by persuading the jelly fish to return him to the island with a false story about
+    his liver.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy label is broad; the passage supports trickery and escape
+    but does not explicitly name a mythic trickster category.
+- id: motif:2
+  label: Animal body explained by ancestral punishment
+  taxonomy_refs: []
+  basis: The passage explicitly explains the present soft, boneless state of jellyfish
+    as the result of punishment imposed on the ancestor of jellyfishes.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No specific provided taxonomy reference matches etiological animal-origin
+    tales.
+- id: motif:3
+  label: Failed messenger punished by ruler
+  taxonomy_refs: []
+  basis: The jelly fish fails to bring back the monkey, confesses to the Dragon King,
+    and receives a severe punishment ordered by the ruler.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a narrative pattern in the passage, not tied to an available taxonomy
+    reference.
+comparison_claims:
+- id: claim:1
+  claim: The passage functions as an etiological animal tale because it explains why
+    jellyfish are now soft and boneless.
+  claim_level: same_function
+  target: etiological animal-origin tale pattern
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports the functional comparison internally, but no external
+    tradition or specific taxonomy ID is provided in the request for this pattern.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5081-5101
+  quote_or_summary: The monkey says monkeys can spare livers, claims to have several,
+    and says he left them hanging on a pine tree.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5102-5115
+  quote_or_summary: The jelly fish believes the monkey, is disappointed that the monkey
+    has no liver with him, and turns back toward Monkey Island after the monkey promises
+    to retrieve one.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5116-5124
+  quote_or_summary: At the shore, the monkey lands, climbs into the pine tree, rejoices
+    at being safe, and sends compliments to the Dragon King.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5125-5143
+  quote_or_summary: The monkey says he cannot afford to lose his liver, admits the
+    promise was false, explains that he deceived the jelly fish to avoid death at
+    the Sea King’s Palace, and mocks him from the tree.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5144-5160
+  quote_or_summary: The jelly fish returns sadly; the Dragon King, doctor, chief steward,
+    and servants ask where the monkey is, and the jelly fish reports that he revealed
+    his commission and was deceived by the monkey’s claim about leaving his liver
+    behind.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5161-5172
+  quote_or_summary: 'The Dragon King orders a severe punishment: the jelly fish’s
+    bones are drawn out, he is beaten with sticks by palace servants, thrown into
+    the water, and left to adjust to bonelessness.'
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5173-5179
+  quote_or_summary: The narrator says this explains why jellyfish, whose ancestor
+    once had a shell and bones, have ever since been soft and boneless on Japanese
+    shores.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; passage summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The narrative actions and etiological conclusion are explicit. Taxonomy mapping
+    is limited because the available motif families do not include a dedicated etiological-animal-origin
+    category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l5081-l5179
+  passage_sha256=a53d748bba8d51f24bde0bc7653ede80e54dd17d6148ad570a39b90bd70de1ec
+

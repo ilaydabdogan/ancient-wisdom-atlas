@@ -1,0 +1,481 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l3438-l3467
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: SEA DIVINITIES. / OCEANUS. / NEREUS. / PROTEUS.; lines 3438-3467
+  start: '3438'
+  end: '3467'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Proteus as a prophetic son of Poseidon who avoids
+    consultation by changing forms until restrained long enough to resume his true
+    form and answer. It then describes Triton as the son of Poseidon and Amphitrite,
+    a minor sea divinity and trumpeter who uses a conch-shell, lives beneath the sea,
+    rides over billows, and is represented as half man and half fish; related Tritons
+    are also mentioned.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Proteus is identified as a son of Poseidon and as gifted with prophetic power.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Proteus objects to being consulted as a seer.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Those seeking Proteus's prophecies watch for noon, when he comes to Pharos
+    with Poseidon's flock of seals.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Proteus tends Poseidon's seals at the bottom of the sea and sleeps beneath
+    rocks when surrounded by them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When seized, Proteus changes himself into many forms to avoid importunities.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: If held long enough, Proteus becomes weary, resumes his true form, and gives
+    the desired information.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After giving information, Proteus dives back to the bottom of the sea with
+    the animals he tends.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Triton is identified as the son of Poseidon and Amphitrite and as a minor
+    divinity.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Triton is represented as preceding Poseidon and serving as his trumpeter with
+    a conch-shell.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Triton lives with his parents in a golden palace beneath the sea at AEgea.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Triton's pastime is riding over the billows on horses or sea-monsters.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Triton is represented as half man and half fish, with the lower body ending
+    in a dolphin's tail.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The passage mentions Tritons as offspring or kindred of Triton.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Proteus
+  description: A prophetic sea figure called the Old Man of the Sea; son of Poseidon;
+    tends seals, changes forms, and gives information when compelled.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Poseidon
+  description: Named as father of Proteus and Triton; owner of the seal flock tended
+    by Proteus; father whom Triton precedes as trumpeter.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Poseidon's flock of seals
+  description: Sea animals tended by Proteus at the bottom of the sea and accompanying
+    him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Triton
+  description: A minor divinity, son of Poseidon and Amphitrite, trumpeter with a
+    conch-shell, resident beneath the sea, rider over billows, and represented as
+    half man and half fish.
+  role_refs:
+  - role:6
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Amphitrite
+  description: Named as mother of Triton and one of the parents with whom Triton lives
+    beneath the sea.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: Tritons
+  description: Figures mentioned as offspring or kindred of Triton.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: Horses or sea-monsters
+  description: Beings ridden by Triton over the billows.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: prophetic sea figure
+  assigned_to:
+  - fig:1
+  basis: Proteus is called the Old Man of the Sea and is gifted with prophetic power.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: reluctant seer
+  assigned_to:
+  - fig:1
+  basis: Proteus objects to being consulted and answers only after being held through
+    transformations.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: seal tender
+  assigned_to:
+  - fig:1
+  basis: Proteus tends Poseidon's flock of seals at the bottom of the sea.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divine parent
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: Poseidon is father of Proteus and Triton; Amphitrite is mother of Triton.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:5
+  label: attendant sea animals
+  assigned_to:
+  - fig:3
+  basis: The seals surround Proteus and accompany him back to the bottom of the sea.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:6
+  label: minor sea divinity
+  assigned_to:
+  - fig:4
+  basis: Triton is described as possessing little influence and being a minor divinity.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: trumpeter of Poseidon
+  assigned_to:
+  - fig:4
+  basis: Triton precedes his father and acts as trumpeter, using a conch-shell.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: hybrid sea being
+  assigned_to:
+  - fig:4
+  basis: Triton is represented as half man and half fish with a dolphin tail.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: offspring or kindred
+  assigned_to:
+  - fig:6
+  basis: Tritons are mentioned as offspring or kindred of Triton.
+  evidence_refs:
+  - ev:9
+- id: role:10
+  label: mounts for sea-riding
+  assigned_to:
+  - fig:7
+  basis: Triton rides over the billows on horses or sea-monsters.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: sea
+  literal_form: The sea and its bottom, where Proteus tends seals and Triton lives
+    beneath the water.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: island of Pharos
+  literal_form: An island where Proteus comes up at noon with the seals.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: rocks and shade
+  literal_form: Rocks whose shade shelters Proteus while he sleeps.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: many forms
+  literal_form: The infinite variety of forms into which Proteus changes when seized.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: conch-shell trumpet
+  literal_form: A conch-shell used by Triton as a trumpet.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: golden palace beneath the sea
+  literal_form: The beautiful golden palace at AEgea beneath the sea where Triton
+    lives with his parents.
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: half-man half-fish body
+  literal_form: Triton's body, human above the waist and fish-like below, ending in
+    a dolphin tail.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Compelling Proteus to prophesy
+  summary: People who want prophecy wait for Proteus at noon on Pharos, seize him
+    while he sleeps among the seals, hold him through his transformations, and receive
+    information after he resumes his true form.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Triton as sea trumpeter and hybrid divinity
+  summary: Triton is presented as a minor son of Poseidon and Amphitrite who precedes
+    Poseidon as conch-shell trumpeter, lives in a golden underwater palace, rides
+    over the billows, and is depicted with a fish-like lower body.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:3
+  label: Mention of Tritons
+  summary: The passage notes that Tritons are described as offspring or kindred of
+    Triton.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: reluctant shapeshifting seer compelled to reveal knowledge
+  taxonomy_refs:
+  - shapeshifter
+  - wisdom
+  basis: Proteus possesses prophetic power, resists consultation, changes into many
+    forms when seized, and gives information only after being held long enough to
+    resume his true form.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage is a handbook summary and does not narrate a specific named
+    consultation episode.
+- id: motif:2
+  label: divine parent and sea-divinity offspring
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Proteus is called a son of Poseidon, and Triton is called the son of Poseidon
+    and Amphitrite.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage gives genealogical statements rather than a developed parent-child
+    narrative.
+- id: motif:3
+  label: hybrid aquatic being
+  taxonomy_refs: []
+  basis: Triton is represented as half man and half fish, with the body below the
+    waist ending in a dolphin tail.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: No available motif-family taxonomy reference directly matches this hybrid-body
+    description.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3438-3442
+  quote_or_summary: Proteus, known as the Old Man of the Sea, is a son of Poseidon,
+    has prophetic power, and resists being consulted as a seer.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3442-3447
+  quote_or_summary: Seekers watch for noon, when Proteus comes to Pharos with Poseidon's
+    seals; he tends them at the sea bottom and sleeps in the shade of rocks among
+    them.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3447-3452
+  quote_or_summary: The favorable moment is to seize Proteus; he changes into many
+    forms to avoid demands, but if held long enough he tires, resumes his true form,
+    and gives the desired information.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3452-3454
+  quote_or_summary: After giving information, Proteus dives again to the bottom of
+    the sea with the animals he tends.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3458-3460
+  quote_or_summary: Triton is described as the only son of Poseidon and Amphitrite
+    and as a minor divinity with little influence.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3460-3462
+  quote_or_summary: Triton is usually represented as preceding his father and acting
+    as his trumpeter, using a conch-shell.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3462-3465
+  quote_or_summary: Triton lives with his parents in a beautiful golden palace beneath
+    the sea at AEgea, and rides over the billows on horses or sea-monsters.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 3465-3467
+  quote_or_summary: Triton is represented as half man and half fish, with the body
+    below the waist ending in a dolphin's tail.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: line 3467
+  quote_or_summary: The passage mentions Tritons as offspring or kindred of Triton.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is direct from the passage. Motif labels are limited to
+    patterns supported by this summary passage and available taxonomy. No comparison
+    claims were made because the passage itself does not compare traditions or texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata; no external comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l3438-l3467
+  passage_sha256=27cd12957c7261826cd7f6b69f4f9077a5533ce88106faf962e23e59ca9b79aa
+

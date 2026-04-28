@@ -1,0 +1,307 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l5897-l5913
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: PICUS. / PICUMNUS AND PILUMNUS. / SILVANUS. / TERMINUS.; lines 5897-5913
+  start: '5897'
+  end: '5913'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Terminus was the god who presided over all boundaries and landmarks.
+  summary: The passage describes Terminus as the Roman god of boundaries and landmarks,
+    represented by stone boundary markers and honored with altars and the Terminalia
+    festival. It also recounts that Terminus and Juventas refused displacement when
+    Tarquin planned a new temple, and that this was read as an omen of Rome's lasting
+    boundaries and youth.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Terminus is described as presiding over boundaries and landmarks.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Terminus was first represented by a simple block of stone, later with a head
+    of the divinity placed on it.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Numa Pompilius ordered the erection of stone blocks to mark lines dividing
+    one property from another.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Numa Pompilius caused altars to be raised to Terminus and instituted the Terminalia
+    festival on 23 February.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: When Tarquin wished to remove altars to build a new temple, Terminus and Juventas
+    objected to being displaced.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The refusal of Terminus and Juventas to be displaced was interpreted as a
+    good omen for Rome's boundaries and enduring vigor.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Terminus
+  description: God presiding over boundaries and landmarks; represented by a stone
+    block and later by a headed marker; resisted displacement of his altar.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Numa Pompilius
+  description: Described as a benefactor of his people who ordered boundary stones,
+    altars to Terminus, and the Terminalia festival.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Tarquin
+  description: Wished to remove the altars of several deities in order to build a
+    new temple.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Juventas
+  description: A deity who, along with Terminus, objected to being displaced.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Rome
+  description: The city whose boundaries and continued youth and vigor were signified
+    by the omen.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: boundary deity
+  assigned_to:
+  - fig:1
+  basis: The passage says Terminus presided over boundaries and landmarks.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: immovable divine presence
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Terminus and Juventas objected to being displaced when Tarquin sought to
+    remove altars.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: ritual and boundary institutor
+  assigned_to:
+  - fig:2
+  basis: Numa ordered boundary stones, altars, and a festival for Terminus.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: temple builder seeking removal of altars
+  assigned_to:
+  - fig:3
+  basis: Tarquin wished to remove altars to build a new temple.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: recipient of omen
+  assigned_to:
+  - fig:5
+  basis: The refusal was interpreted as an omen about Rome's lasting boundaries and
+    vigor.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: boundary stone
+  literal_form: simple block of stone marking property divisions
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: altar of Terminus
+  literal_form: altar raised to Terminus and later targeted for removal
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Terminalia festival date
+  literal_form: festival celebrated on the 23rd of February
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: omen of enduring boundaries
+  literal_form: refusal of Terminus and Juventas to be displaced
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Institution of boundary markers and worship
+  summary: Numa Pompilius orders stone blocks to mark property divisions, raises altars
+    to Terminus, and institutes the Terminalia festival.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Refusal of divine displacement
+  summary: Tarquin plans to remove altars for a new temple, but Terminus and Juventas
+    refuse to be displaced; their refusal is read as a favorable omen for Rome.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: deity embodied in boundary marker
+  taxonomy_refs: []
+  basis: Terminus presides over boundaries and is represented by stone blocks marking
+    property divisions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy symbol directly matches stone or boundary marker.
+- id: motif:2
+  label: ritual establishment of property boundaries
+  taxonomy_refs: []
+  basis: Numa orders durable stone monuments to divide properties and institutes associated
+    altars and a festival.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is handbook summary rather than a detailed ritual narrative.
+- id: motif:3
+  label: immovable deity as civic omen
+  taxonomy_refs: []
+  basis: Terminus and Juventas refuse displacement, and the refusal is interpreted
+    as a favorable omen for Rome's future boundaries and vigor.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage reports the interpretation but does not narrate the mechanism
+    of the divine objection.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5897-5913
+  quote_or_summary: "“Terminus was the god who presided over all boundaries and landmarks.”"
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 5897-5913
+  quote_or_summary: Terminus was originally represented by a simple stone block, later
+    surmounted by a head of the divinity.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5897-5913
+  quote_or_summary: Numa Pompilius ordered stone blocks to be erected as durable monuments
+    marking the division between properties.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5897-5913
+  quote_or_summary: Numa also raised altars to Terminus and instituted the Terminalia
+    festival, celebrated on 23 February.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5897-5913
+  quote_or_summary: When Tarquin wanted to remove altars of several deities to build
+    a new temple, Terminus and Juventas alone objected to displacement.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5897-5913
+  quote_or_summary: The refusal was interpreted as a good omen that Rome would never
+    lose her boundaries and would remain young and vigorous.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage is concise and supports extraction of boundary, stone-marker,
+    ritual-institution, and omen motifs. No comparison claims are made because the
+    passage itself does not compare this material to another tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy reference was applied; the passage concerns boundary stones and civic omens, while the supplied taxonomy list lacks a direct boundary-stone category.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l5897-l5913
+  passage_sha256=38e045b84f7c39cefd125c4b09e2b42b0ded8521af8c20c37999728f14f6de7a
+

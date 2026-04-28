@@ -1,0 +1,339 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l17068-l17208
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK II. / BOOK III. / BOOK IV. / BOOK V.; lines 17068-17208
+  start: '17068'
+  end: '17208'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The speakers distinguish knowledge, ignorance, and opinion by correlating
+    knowledge with being, ignorance with not-being, and opinion with an intermediate
+    realm. They argue that sensible many things, such as beautiful or just things,
+    can also appear ugly or unjust, while absolute and immutable forms are objects
+    of knowledge. Those attached to sights, sounds, and manifold appearances are called
+    lovers of opinion, while those who love truth in each thing are called lovers
+    of wisdom.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ignorance is treated as the correlative of not-being, and knowledge as the
+    correlative of being.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Opinion is described as neither knowledge nor ignorance, but as intermediate
+    between them.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Things that appear both to be and not to be are assigned to an interval between
+    pure being and absolute not-being.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:4
+  text: The passage says beautiful things may also be found ugly, just things unjust,
+    and holy things unholy, depending on the point of view.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Individual objects are compared to riddles because they have a double sense
+    and cannot be fixed simply as being or not-being.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Those who see many beautiful or just things but not absolute beauty or justice
+    are said to have opinion but not knowledge.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Those who see the absolute, eternal, and immutable are said to know.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage contrasts lovers of opinion with lovers of wisdom, identifying
+    lovers of wisdom as those who love truth in each thing.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Questioning speaker
+  description: The speaker who conducts the argument by asking questions and drawing
+    distinctions among knowledge, ignorance, opinion, being, and not-being.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Responding interlocutor
+  description: The respondent who answers affirmatively and expands the comparison
+    of individual objects to riddles with double sense.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Lover of beautiful sights
+  description: A hypothetical person who accepts beautiful manifold things but does
+    not accept an absolute or unchangeable idea of beauty.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Lovers of opinion
+  description: People attached to the subjects of opinion, including those who listen
+    to sweet sounds and gaze upon fair colours but do not tolerate absolute beauty.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Lovers of wisdom
+  description: People who love the truth in each thing and are contrasted with lovers
+    of opinion.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Dialectical questioner
+  assigned_to:
+  - fig:1
+  basis: The figure poses questions and formulates the inference that opinion occupies
+    an interval between knowledge and ignorance.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Assenting respondent
+  assigned_to:
+  - fig:2
+  basis: The figure repeatedly agrees and supplies the riddle comparison for individual
+    objects.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: Adherent of manifold beauty
+  assigned_to:
+  - fig:3
+  basis: The figure is described as one who regards the beautiful as manifold and
+    rejects the claim that the beautiful is one.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Lover of opinion
+  assigned_to:
+  - fig:4
+  basis: The passage names those attached to sights, sounds, colours, and appearances
+    as lovers of opinion rather than lovers of wisdom.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: Lover of wisdom
+  assigned_to:
+  - fig:5
+  basis: The passage says those who love truth in each thing should be called lovers
+    of wisdom.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Light and darkness scale
+  literal_form: Darker than knowledge, lighter than ignorance; not more full of light
+    and existence than being nor in greater darkness than not-being.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Intermediate interval
+  literal_form: An interval or half-way region between pure being and absolute not-being,
+    assigned to opinion.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: Riddle with double sense
+  literal_form: Punning riddles at feasts and a children's puzzle about a eunuch aiming
+    at a bat are used as comparisons for individual objects with double sense.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Locating opinion between knowledge and ignorance
+  summary: The speakers reason that opinion is neither knowledge nor ignorance and
+    corresponds to what lies between being and not-being.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Testing manifold beautiful things
+  summary: The questioning speaker addresses a hypothetical lover of beautiful sights
+    and argues that many beautiful, just, and holy things can also be described by
+    their opposites.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Assigning the many to opinion
+  summary: The speakers conclude that the many ideas entertained about beautiful and
+    other things occupy a half-way region and are the matter of opinion, not knowledge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Contrasting lovers of opinion and wisdom
+  summary: The passage distinguishes those who see only many beautiful or just things
+    from those who know the absolute and immutable, ending with the labels lovers
+    of opinion and lovers of wisdom.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Wisdom as love of truth beyond appearances
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly reserves the name lovers of wisdom for those who love
+    truth in each thing and know the absolute, eternal, and immutable rather than
+    merely apprehending appearances.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a philosophical motif in the passage rather than a narrative mythic
+    episode.
+- id: motif:2
+  label: Duality of opposed predicates in sensible things
+  taxonomy_refs:
+  - duality
+  basis: The passage repeatedly describes manifold things as bearing opposite predicates,
+    such as beautiful and ugly, just and unjust, or being and not-being.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy term 'duality' fits the opposed-predicate structure,
+    but the passage frames it as epistemological argument rather than mythic dualism.
+- id: motif:3
+  label: Intermediate realm between extremes
+  taxonomy_refs: []
+  basis: Opinion and its objects are placed between knowledge and ignorance and between
+    pure being and absolute not-being.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: No specific available taxonomy reference directly matches the intermediate-region
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17068-17103
+  quote_or_summary: The speakers state that ignorance corresponds to not-being and
+    knowledge to being; opinion is neither, but is darker than knowledge, lighter
+    than ignorance, and intermediate between them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 17104-17137
+  quote_or_summary: The speaker addresses the lover of beautiful sights who rejects
+    absolute beauty; the discussion states that beautiful, just, holy, great, small,
+    heavy, and light things may also be described by opposite names, and compares
+    individual objects to riddles with double sense.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 17138-17152
+  quote_or_summary: The many ideas about beautiful and other things are said to be
+    tossed in a region half-way between pure being and pure not-being; this intermediate
+    flux is assigned to opinion.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 17153-17170
+  quote_or_summary: Those who see many beautiful and just things but not absolute
+    beauty or justice are said to have opinion, while those who see the absolute,
+    eternal, and immutable are said to know.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 17171-17208
+  quote_or_summary: The passage contrasts those who love subjects of knowledge with
+    those who love subjects of opinion, including people drawn to sweet sounds and
+    fair colours; it concludes that those who love truth in each thing are lovers
+    of wisdom, not lovers of opinion.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is primarily philosophical and epistemological. Motif candidates
+    are therefore framed as passage-level symbolic or conceptual patterns rather than
+    mythic narrative motifs. No comparison claims are made because the passage itself
+    does not support external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No named Platonic interlocutors were inferred beyond the passage's speaker/respondent roles.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l17068-l17208
+  passage_sha256=929b507984b394bd7a0069daa14e14eb4039cb93839c199eacd6f08e9d093aae
+

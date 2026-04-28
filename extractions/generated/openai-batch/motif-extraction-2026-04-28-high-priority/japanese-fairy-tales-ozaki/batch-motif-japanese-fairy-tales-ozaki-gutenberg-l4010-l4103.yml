@@ -1,0 +1,494 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l4010-l4103
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE BAMBOO-CUTTER AND THE MOON-CHILD / THE GOBLIN OF ADACHIGAHARA / THE SAGACIOUS
+    MONKEY AND THE BOAR / THE HAPPY HUNTER AND THE SKILLFUL FISHER; lines 4010-4103
+  start: '4010'
+  end: '4103'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The Skillful Fisher remains angry over his lost hook and intends to kill
+    his virtuous younger brother, the Happy Hunter, and usurp his place. The Happy
+    Hunter returns to the shore to search, where a suddenly appearing old man, Shiwozuchino
+    Okina, advises him that the hook is likely in the sea or inside a fish and directs
+    him to seek help from Ryn Jin, the Dragon King of the Sea, in Ryn Gu. The old
+    man makes a basket-like boat for him. The Happy Hunter rides it through the sea
+    to the Sea King’s Palace, sees its coral-and-gem gate and katsura trees, waits
+    hidden in a tree above a well, and observes two beautiful women or princesses
+    emerge with golden buckets to draw water.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Skillful Fisher is described as angry, hostile to his brother, and planning
+    to kill him and usurp his place as ruler of Japan.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Happy Hunter knows of his brother’s intent but, as the younger brother,
+    feels bound to obey and returns to the seashore to search for the lost hook.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An old man carrying a stick appears suddenly while the Happy Hunter stands
+    perplexed on the beach.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The old man names himself Shiwozuchino Okina and says the hook is not on the
+    shore but may be at the bottom of the sea or in a fish.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Shiwozuchino Okina advises the Happy Hunter to go to Ryn Gu and ask Ryn Jin,
+    the Dragon King of the Sea, to find the hook.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Shiwozuchino Okina makes a basket for the Happy Hunter to ride through the
+    sea.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The basket resembles a small boat and moves through the water of its own accord
+    toward the Sea King’s Palace.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The Sea King’s Palace has many roofs and gables, huge gateways, gray stone
+    walls, red coral pillars, glittering gems, and katsura trees.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: At the closed palace gate, the Happy Hunter notices a well of fresh spring
+    water under trees, climbs into an overhanging tree, and waits.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Two beautiful women, described as lovely princesses, emerge from the gate
+    carrying golden buckets and approach the well to draw water, unaware that the
+    Happy Hunter is hidden in the branches.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: The Happy Hunter / Hohodemi, the Augustness
+  description: A younger brother seeking his elder brother’s lost fishing hook; he
+    travels toward Ryn Gu to ask the Sea King for help.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: The Skillful Fisher
+  description: The elder brother of the Happy Hunter; he is angry over the lost fishing
+    hook and plans to kill his brother and usurp his place.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Shiwozuchino Okina
+  description: An old man with a stick who appears on the shore, gives advice about
+    the hook, directs the Happy Hunter to Ryn Gu, and makes him a basket for sea travel.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Ryn Jin, the Dragon King of the Sea
+  description: The ruler of the Sea King’s realm at the bottom of the sea, named as
+    the one to whom the Happy Hunter should appeal for help in finding the hook.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Two beautiful women or princesses of Ryn Gu
+  description: Two lovely women emerge from the gate of the Sea King’s Palace carrying
+    golden buckets to draw water from the well.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: questing younger brother
+  assigned_to:
+  - fig:1
+  basis: He seeks the lost fishing hook under pressure from his elder brother and
+    undertakes a journey to the Sea King’s realm.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: role:2
+  label: hostile elder brother
+  assigned_to:
+  - fig:2
+  basis: He is said to hate his brother and to plan murder and usurpation under cover
+    of the lost hook.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: advising helper
+  assigned_to:
+  - fig:3
+  basis: He explains where the hook may be, directs the Happy Hunter to Ryn Gu, and
+    provides the means of travel.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: undersea royal authority
+  assigned_to:
+  - fig:4
+  basis: He is identified as the Dragon King of the Sea in the realm of Ryn Gu, to
+    whom the Happy Hunter is told to appeal.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: palace women at the well
+  assigned_to:
+  - fig:5
+  basis: They emerge from the palace gate with golden buckets and approach the well
+    to draw water.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: lost fishing hook
+  literal_form: The brother’s precious fishing hook, lost while fishing and sought
+    by the Happy Hunter.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: basket boat
+  literal_form: A basket made by the old man, ridden by the Happy Hunter through the
+    sea and resembling a small boat.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: sea water passage
+  literal_form: The sea route to the bottom-of-the-sea realm of Ryn Gu and the Sea
+    King’s Palace.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: Sea King’s Palace gate
+  literal_form: A large closed gateway with red coral pillars, glittering gems, and
+    nearby katsura trees.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: well of fresh spring water
+  literal_form: A well full of fresh spring water before the palace gate.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: sym:6
+  label: katsura trees
+  literal_form: Large katsura trees overshadow the gate; the Happy Hunter hides in
+    a tree overhanging the well.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: sym:7
+  label: golden buckets
+  literal_form: Golden buckets carried by the two women when they come to draw water.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Threat and renewed search at the seashore
+  summary: The Skillful Fisher’s anger and murderous intent force the Happy Hunter
+    to continue seeking the lost hook at the shore despite despair.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Old man’s counsel and preparation for undersea travel
+  summary: Shiwozuchino Okina appears, explains that the hook must be sought in the
+    sea, directs the Happy Hunter to Ryn Gu, and makes him a basket for the journey.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Arrival at the Sea King’s Palace
+  summary: The Happy Hunter rides the self-moving basket through the sea and reaches
+    the ornate palace of the Sea King, with coral pillars, gemmed gates, walls, roofs,
+    and katsura trees.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Waiting hidden above the well
+  summary: Finding the palace gate closed, the Happy Hunter hides in a tree above
+    a fresh-water well and watches two beautiful women come out with golden buckets
+    to draw water.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: hostile elder brother threatens younger brother
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage presents an elder brother who hates his virtuous younger brother
+    and uses the lost hook as an excuse to plan murder and usurpation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage contains sibling conflict, but the available taxonomy label
+    is broad and does not specify rivalry or attempted usurpation.
+- id: motif:2
+  label: quest for a lost object
+  taxonomy_refs:
+  - mystical_quest
+  basis: The Happy Hunter must recover the lost fishing hook and is directed beyond
+    the ordinary shore to the Sea King’s realm to find it.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives the beginning of the quest but not its resolution.
+- id: motif:3
+  label: journey to an underwater otherworld
+  taxonomy_refs:
+  - hero_descent
+  basis: The Happy Hunter is told that Ryn Gu is at the bottom of the sea and travels
+    through the water to the Sea King’s Palace.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage describes travel under or through the sea, though it does
+    not explicitly use ritual descent language.
+- id: motif:4
+  label: mysterious helper provides guidance and transport
+  taxonomy_refs:
+  - wisdom
+  basis: A suddenly appearing old man identifies the problem, advises the Happy Hunter
+    to seek the Dragon King, and makes a basket for sea travel.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The old man’s nature is not explained in this passage; assigning a wisdom-related
+    taxonomy is based only on his advising function.
+- id: motif:5
+  label: marvelous vessel crossing water
+  taxonomy_refs:
+  - ark_vessel
+  basis: The old man makes a basket that the Happy Hunter rides through the sea; it
+    resembles a small boat and moves of its own accord.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The vessel is a basket-like boat for transport rather than an ark of preservation;
+    the taxonomy fit is functional but not exact.
+- id: motif:6
+  label: encounter threshold at palace well
+  taxonomy_refs: []
+  basis: The Happy Hunter cannot enter the closed gate, hides in a tree above a well,
+    and observes palace women arriving to draw water.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The passage establishes the threshold scene but does not yet show the
+    consequences of the encounter.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4010-4017
+  quote_or_summary: The Skillful Fisher remains angry over the lost hook, is said
+    to have always hated his brother because of his virtues, and plans to kill him
+    and usurp his place as ruler of Japan.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4017-4025
+  quote_or_summary: The Happy Hunter knows his brother’s intent but says nothing because,
+    as the younger brother, he owes obedience; he returns to the seashore to continue
+    searching for the missing hook.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 4025-4030
+  quote_or_summary: "“an old man suddenly appeared carrying a stick in his hand” while
+    the Happy Hunter stood on the beach."
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 4037-4051
+  quote_or_summary: The old man names himself Shiwozuchino Okina, says he lives nearby,
+    and explains that the hook is not on the shore but may be at the bottom of the
+    sea or inside a fish.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4052-4062
+  quote_or_summary: The old man advises the Happy Hunter to go to Ryn Gu and ask Ryn
+    Jin, the Dragon King of the Sea, to find the hook; the Happy Hunter notes that
+    this realm is said to be at the bottom of the sea.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 4063-4072
+  quote_or_summary: The old man says he can make something for sea travel, makes a
+    basket, and gives it to the Happy Hunter, who mounts it at the water.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 4072-4081
+  quote_or_summary: The old man gives directions and watches the Happy Hunter ride
+    out to sea on the basket, which resembles a small boat; the boat goes through
+    the water of its own accord and reaches sight of the Sea King’s Palace in a few
+    hours.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 4081-4090
+  quote_or_summary: The Sea King’s Palace is described as large, with many roofs and
+    gables, huge gateways, gray stone walls, red coral gate pillars, glittering gems,
+    and large katsura trees.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 4091-4098
+  quote_or_summary: The Happy Hunter finds the gate closed, notices a well full of
+    fresh spring water in the shade of trees, climbs into the tree overhanging the
+    well, and waits.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 4098-4103
+  quote_or_summary: The gate opens and two beautiful women, described as lovely princesses,
+    come out with golden buckets, approach the well to draw water, and do not know
+    that the Happy Hunter is hidden in the tree branches.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif taxonomy
+    assignments are cautious because the excerpt is an episode opening and does not
+    include the full outcome of the journey or palace encounter. No comparison claims
+    were added because the passage itself does not explicitly compare traditions or
+    motif families beyond the candidate patterning.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Ryn Gu and Ryn Jin spellings follow the provided text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l4010-l4103
+  passage_sha256=6bb4b708400d36e180a523f41c17189467823e9140afc9905b11b1869176713c
+

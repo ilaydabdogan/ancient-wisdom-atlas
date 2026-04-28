@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.norse-myths-of-norsemen-guerber-gutenberg-l1830-l1874
+source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+passage_locator:
+  label: 'LIST OF ILLUSTRATIONS / INTRODUCTION / CHAPTER I: THE BEGINNING / CHAPTER
+    II: ODIN; lines 1830-1874'
+  start: '1830'
+  end: '1874'
+  translation: 'Myths of the Norsemen: From the Eddas and Sagas'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"Upsal''s temple, where the North / Saw Valhal''s halls fair imag''d here
+    on earth."'
+  summary: The passage describes cult honors to Odin at festivals and shrines, the
+    sacred status of Woden's day, gifts to scalds, vanished wooden images of Odin,
+    and Odin's supposed giving of moral and burial instructions in the Hávamál.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The first toast at every festival described in the passage was drunk in Odin's
+    honour.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The first of May and one day each week were held sacred to Odin; the weekly
+    day is linked to Woden's day and the English word Wednesday.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: People assembled at Odin's shrine on festive occasions to hear songs of the
+    scalds.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The scalds were rewarded for their minstrelsy with golden bracelets or armlets
+    curled at the ends and called Odin's serpents.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says wooden statues of Odin were once common but had disappeared
+    because they were made of perishable wood and were reduced to ashes by missionaries,
+    especially Olaf the Saint.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Odin is said to have given his people a code of laws in the Hávamál, or High
+    Song, part of the Edda.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Hávamál passage summary attributes teachings on fallibility, courage,
+    temperance, independence, truthfulness, respect for old age, hospitality, charity,
+    contentment, and burial of the dead to Odin.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: The quoted illustration caption represents Upsal's temple as an earthly image
+    of Valhal's halls.
+  category: relationship
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Odin / Woden
+  description: A deity honoured by toasts, sacred days, shrine gatherings, images,
+    and the supposed giver of the Hávamál code of laws.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: scalds
+  description: Singers whose songs were heard at Odin's shrine and who received golden
+    armlets for their minstrelsy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the people
+  description: The community that assembled at Odin's shrine and is described as receiving
+    Odin's code of laws.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: missionaries and Olaf the Saint
+  description: Agents, especially Olaf the Saint, said to have reduced wooden images
+    of Odin to ashes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: honoured deity
+  assigned_to:
+  - fig:1
+  basis: The first festival toast was drunk in Odin's honour, sacred days were held
+    for him, and people assembled at his shrine.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: lawgiver and moral teacher
+  assigned_to:
+  - fig:1
+  basis: Odin is supposed to have given a code of laws and taught virtues and burial
+    instructions through the Hávamál.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: ritual singers or minstrels
+  assigned_to:
+  - fig:2
+  basis: The scalds sang at Odin's shrine on festive occasions and received rewards
+    for their minstrelsy.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: worshipping community
+  assigned_to:
+  - fig:3
+  basis: The people assembled at Odin's shrine on festive occasions and are described
+    as Odin's people.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: image-destroyers or iconoclasts
+  assigned_to:
+  - fig:4
+  basis: Missionaries, especially Olaf the Saint, are said to have reduced wooden
+    images of Odin to ashes.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Upsal temple as earthly Valhal image
+  literal_form: Upsal's temple, where Valhal's halls are imagined on earth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Odin's serpents
+  literal_form: golden bracelets or armlets curled up at the ends and called Odin's
+    serpents
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wooden image of Odin
+  literal_form: rude statues or carved wooden image of Odin
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Hávamál / High Song
+  literal_form: poem containing a code of laws and moral instructions attributed to
+    Odin
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Woden's day
+  literal_form: weekly day held sacred to Odin, linked to Wednesday
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: festival toast
+  literal_form: first toast drunk at every festival in Odin's honour
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Upsal temple likened to Valhal
+  summary: A quoted poetic caption presents Upsal's temple as a place where the North
+    saw Valhal's halls imaged on earth.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Festive honouring of Odin at shrine
+  summary: At festivals and sacred times, Odin is honoured with the first toast; people
+    assemble at his shrine to hear scalds, who are rewarded with golden armlets called
+    Odin's serpents.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Disappearance of wooden Odin images
+  summary: The passage describes once-common wooden images of Odin as vanished after
+    destruction by missionaries, especially Olaf the Saint.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Odin's teachings in the Hávamál
+  summary: Odin is presented as giving a code of laws and moral and burial instructions
+    in the Hávamál.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine wisdom teaching
+  taxonomy_refs:
+  - wisdom
+  basis: Odin is said to give a law code and teach moral qualities, practical conduct,
+    and burial instructions in the Hávamál.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is a later retelling and summarizes the Hávamál rather than
+    presenting the whole poem.
+- id: motif:2
+  label: deity as culture-giving lawgiver
+  taxonomy_refs:
+  - culture_hero
+  basis: Odin is supposed to have given his people a code of laws governing conduct.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage frames this as supposition and limits the culture-giving act
+    to law and conduct instructions.
+- id: motif:3
+  label: sacred performance and gift reward
+  taxonomy_refs:
+  - sacred_exchange
+  basis: At Odin's shrine on festive occasions, scalds perform songs and receive golden
+    bracelets or armlets as rewards.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The exchange is located at a shrine, but the passage does not state that
+    the gift itself is divinely bestowed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1830-1833
+  quote_or_summary: '"Upsal''s temple, where the North / Saw Valhal''s halls fair
+    imag''d here on earth."'
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1835-1842
+  quote_or_summary: The first festival toast was drunk in Odin's honour; the first
+    of May and Woden's day were sacred to him; people assembled at his shrine to hear
+    scalds, who received golden bracelets or armlets called Odin's serpents.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1844-1853
+  quote_or_summary: The passage says wooden statues of Odin were once common but disappeared
+    because wood was perishable and because missionaries, especially Olaf the Saint,
+    reduced them to ashes; a Longfellow quotation mentions a wooden temple image of
+    Odin.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1855-1863
+  quote_or_summary: Odin is supposed to have given his people a code of laws in the
+    Hávamál, teaching virtues and giving instructions for burial of the dead.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 1865-1874
+  quote_or_summary: '"At home let a man be cheerful, / And toward a guest liberal"
+    and the passage continues with advice on wise conduct, memory, speech, and knowledge.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited to patterns
+    directly supported by the passage. No comparison claims were made because the
+    passage does not itself establish comparative links beyond the supplied taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used; no external identifications or comparative claims were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:norse-myths-of-norsemen-guerber-gutenberg__l1830-l1874
+  passage_sha256=063b70b98fe92195b8965b92c7111b626c2f4aff78198b220e4be0da462a4da0
+

@@ -1,0 +1,599 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l1577-l1695
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE TONGUE-CUT SPARROW / THE STORY OF URASHIMA TARO, THE FISHER LAD / THE
+    FARMER AND THE BADGER / THE ADVENTURES OF KINTARO, THE GOLDEN BOY; lines 1577-1695
+  start: '1577'
+  end: '1695'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After Kintoki dies in disgrace, his widow flees to the Ashigara Mountains,
+    where she gives birth to Kintaro. Kintaro grows up with extraordinary strength
+    in the mountain wilds, befriends and speaks with animals, and plays with his animal
+    retainers. On a grassy plain, Kintaro arranges a wrestling match among the animals;
+    the hare defeats the monkey and receives a rice-dumpling prize, after which the
+    monkey protests that he was not fairly beaten.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kintoki, a brave soldier in Kyoto, marries a beautiful lady, falls into disgrace
+    at Court, is dismissed, and dies.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kintoki's widow flees to the Ashigara Mountains because she fears her husband's
+    enemies.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A boy named Kintaro, or the Golden Boy, is born in lonely mountain forests.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Kintaro is described as remarkably strong; by age eight he can cut down trees
+    as quickly as woodcutters and can smash rocks and stones.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Kintaro grows up alone in the mountain wilds, makes friends with animals,
+    and learns to understand and speak their talk.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The bear, deer, monkey, and hare are identified as Kintaro's special retainers.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The bear lets Kintaro ride on her back to her cave; Kintaro also shows affection
+    for the deer by putting his arms around its neck.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Kintaro and the four animals reach a wide grassy plain covered with wild flowers.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Kintaro proposes a wrestling match, and the bear shapes a wrestling platform
+    with help from the deer, monkey, and hare.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Kintaro assigns the monkey and hare to open the sports and appoints the deer
+    as umpire.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The deer raises and drops a leaf as a signal for the monkey and hare to begin
+    wrestling.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The hare pushes the monkey off the platform and is declared the winner by
+    the deer.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: Kintaro gives the hare a rice-dumpling from his luncheon box as the prize.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:14
+  text: The monkey says he was not fairly beaten because his foot slipped and asks
+    for another chance.
+  category: speech
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Kintoki
+  description: A brave soldier in Kyoto, Kintaro's father, who dies after disgrace
+    at Court.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Kintoki's wife / Kintaro's mother
+  description: A beautiful high-ranking woman who flees to the Ashigara Mountains
+    and gives birth to Kintaro.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Kintaro / the Golden Boy
+  description: A boy born in the mountain forests, remarkable for strength, able to
+    speak with animals, and organizer of the animals' wrestling match.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:10
+- id: fig:4
+  name_or_label: Bear
+  description: One of Kintaro's special retainers; she brings cubs, carries Kintaro
+    to her cave, and makes the wrestling platform.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Deer
+  description: One of Kintaro's special retainers; Kintaro embraces its neck, and
+    it acts as umpire in the wrestling match.
+  role_refs:
+  - role:7
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: Monkey
+  description: One of Kintaro's special retainers; wrestles the hare, loses the round,
+    and protests the result.
+  role_refs:
+  - role:7
+  - role:10
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:11
+- id: fig:7
+  name_or_label: Hare
+  description: One of Kintaro's special retainers; wrestles the monkey, wins the round,
+    and receives a rice-dumpling prize.
+  role_refs:
+  - role:7
+  - role:11
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: deceased father
+  assigned_to:
+  - fig:1
+  basis: Kintoki dies before Kintaro's mountain upbringing.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: widowed mother in flight
+  assigned_to:
+  - fig:2
+  basis: She flees to the Ashigara Mountains after her husband's death because she
+    fears his enemies.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: hidden high-ranking woman
+  assigned_to:
+  - fig:2
+  basis: Woodcutters call her the Old Nurse of the Mountains because they do not know
+    her high rank.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: extraordinarily strong child
+  assigned_to:
+  - fig:3
+  basis: The passage emphasizes Kintaro's strength and calls him a Wonder-child.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: animal-speaking mountain child
+  assigned_to:
+  - fig:3
+  basis: He grows up in the mountain wilds and learns to understand and speak animal
+    talk.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: organizer and prize-giver
+  assigned_to:
+  - fig:3
+  basis: He arranges the wrestling match and gives the hare a rice-dumpling prize.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:10
+- id: role:7
+  label: animal retainer
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The bear, deer, monkey, and hare are named as Kintaro's special retainers.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: platform maker
+  assigned_to:
+  - fig:4
+  basis: The bear says she will make the wrestling platform and shapes the earth.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: umpire
+  assigned_to:
+  - fig:5
+  basis: Kintaro appoints the deer as umpire, and the deer declares the winner.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:10
+  label: defeated wrestler and protester
+  assigned_to:
+  - fig:6
+  basis: The monkey is pushed off the platform and later says he was not fairly beaten.
+  evidence_refs:
+  - ev:9
+  - ev:11
+- id: role:11
+  label: winning wrestler
+  assigned_to:
+  - fig:7
+  basis: The hare defeats the monkey and receives the prize.
+  evidence_refs:
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: Ashigara Mountains
+  literal_form: mountain range and wilderness refuge
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: large ax
+  literal_form: ax given to Kintaro by his mother
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: trees
+  literal_form: forest trees cut by Kintaro and a tree rubbed by the deer
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: rocks and stones
+  literal_form: rocks and stones smashed by Kintaro
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: bear's cave
+  literal_form: cave reached by Kintaro riding on the bear's back
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: wrestling platform
+  literal_form: earthen platform made by the animals for wrestling
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:7
+  label: leaf signal
+  literal_form: leaf raised and dropped by the deer to start the match
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: rice-dumpling prize
+  literal_form: rice-dumpling from Kintaro's luncheon box awarded to the winning hare
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Flight to the mountains and Kintaro's birth
+  summary: After Kintoki's death, his widow flees from his enemies to the Ashigara
+    Mountains, where Kintaro is born in the lonely forests.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Growth of the strong mountain child
+  summary: Kintaro grows in strength, receives an ax, helps woodcutters cut trees,
+    smashes stones, and is called Wonder-child.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Kintaro and the animal retainers
+  summary: Kintaro grows up without human companions, befriends animals, speaks their
+    language, and is especially attended by the bear, deer, monkey, and hare.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Wrestling match arranged on the plain
+  summary: Kintaro and the animals arrive on a grassy plain; Kintaro proposes a wrestling
+    match, and the bear and other animals make the platform.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Hare defeats monkey
+  summary: The deer serves as umpire, starts the match with a leaf, and declares the
+    hare winner after the hare pushes the monkey off the platform.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Prize and protest
+  summary: Kintaro awards a rice-dumpling to the hare, while the monkey protests that
+    he slipped and asks for another round.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Extraordinarily strong child raised in the wilderness
+  taxonomy_refs:
+  - miraculous_child
+  basis: Kintaro is born in the mountain forests and is repeatedly described as having
+    remarkable strength from childhood, including cutting trees and smashing stones.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives no supernatural conception or divine parentage; the
+    motif identification rests on extraordinary childhood strength and the Wonder-child
+    designation.
+- id: motif:2
+  label: Hidden noble mother and child in mountain exile
+  taxonomy_refs:
+  - departure
+  basis: Kintaro's mother, whose high rank is unknown to local woodcutters, flees
+    to the mountains after her husband's death and raises the child there.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage describes flight and exile
+    but not a full quest departure by Kintaro.
+- id: motif:3
+  label: Human child as master and companion of animals
+  taxonomy_refs: []
+  basis: Kintaro learns animal speech, befriends animals, and is treated by them as
+    master, with four named animal retainers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No provided taxonomy family directly labels this human-animal companionship
+    pattern.
+- id: motif:4
+  label: Contest among animal companions judged by an appointed umpire
+  taxonomy_refs: []
+  basis: Kintaro organizes a wrestling match among animal companions, appoints the
+    deer as umpire, and awards a prize to the hare after victory.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: This is a local narrative pattern within the passage rather than a mapped
+    taxonomy motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1577-1588
+  quote_or_summary: Kintoki marries, falls into disgrace, dies, and his widow flees
+    to the Ashigara Mountains, where she gives birth to Kintaro, the Golden Boy.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1588-1595
+  quote_or_summary: 'Kintaro''s great strength is emphasized: by age eight he cuts
+    trees like woodcutters, receives a large ax, is called Wonder-child, and smashes
+    rocks and stones.'
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1597-1602
+  quote_or_summary: Kintaro grows up alone in the mountain wilds, befriends animals,
+    learns their speech, is treated as master, and has the bear, deer, monkey, and
+    hare as special retainers.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1604-1608
+  quote_or_summary: The bear brings cubs and carries Kintaro to her cave; Kintaro
+    also shows affection for the deer by embracing its neck.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1610-1618
+  quote_or_summary: Kintaro and the bear, deer, monkey, and hare travel through the
+    mountains and reach a wide grassy plain with wild flowers, where the animals show
+    pleasure.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1620-1634
+  quote_or_summary: Kintaro proposes a wrestling match; the bear volunteers to make
+    the platform, and the other animals help raise it.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1635-1645
+  quote_or_summary: Kintaro says the monkey and hare will open the sports and appoints
+    the deer as umpire; the deer calls them to the platform.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1646-1658
+  quote_or_summary: The deer calls the monkey Red-back and the hare Long-ears, raises
+    a leaf as signal, drops it, and the two begin wrestling.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 1660-1682
+  quote_or_summary: During the match the deer and bear encourage the wrestlers; the
+    hare pushes the monkey off the platform, and the deer declares the hare the winner.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 1684-1687
+  quote_or_summary: Kintaro opens his luncheon box and gives the hare a rice-dumpling
+    as the prize for winning.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 1689-1695
+  quote_or_summary: The monkey becomes cross, says his foot slipped and that he was
+    not fairly beaten, and asks for another round with the hare.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif candidates are conservative;
+    no comparison claims are made because the passage itself does not support cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No figures or comparisons outside the supplied line range were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l1577-l1695
+  passage_sha256=7492956ca2fc302b9326816fdebec732bfc3b0a9ec176acaa86dbfa6822d062f
+

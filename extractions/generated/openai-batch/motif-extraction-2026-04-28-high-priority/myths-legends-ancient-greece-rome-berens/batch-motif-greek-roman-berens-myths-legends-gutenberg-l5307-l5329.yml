@@ -1,0 +1,231 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l5307-l5329
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: HORAE (SEASONS). / THE NYMPHS. / WATER NYMPHS. / OCEANIDES, NEREIDES, AND
+    NAIADES.; lines 5307-5329
+  start: '5307'
+  end: '5329'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"living, moving, life-awakening element"'
+  summary: The passage explains water-nymph worship by describing streams, springs,
+    fountains, rivers, brooks, and waterfalls as life-giving and emotionally significant.
+    It states that early Greek tribes regarded their local rivers and springs as beneficent
+    powers and imagined graceful beings presiding over such waters.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that worship of water-deities is common to most primitive
+    nations.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Streams, springs, and fountains are compared to blood coursing through the
+    arteries of a human body.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Water is described as a living, moving, life-awakening element necessary for
+    existence.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Early Greek tribes regarded the rivers and springs of their own states as
+    beneficent powers bringing blessing and prosperity.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage describes the sounds of fountains, brooks, and waterfalls as affecting
+    imagination and delight.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The imagined beings presiding over water scenes are described as corresponding
+    in graceful appearance with those natural scenes.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Water-deities
+  description: Divine beings associated with waters and worshipped by many nations
+    according to the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Oceanides, Nereides, and Naiades
+  description: Named classes of water nymphs introduced in the passage heading.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Early Greek tribes
+  description: Human groups said to regard their local rivers and springs as beneficent
+    powers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Presiding water beings
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says beings were imagined as presiding over sights and sounds
+    of running water and appearing graceful in relation to those scenes.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: Worshipping or revering community
+  assigned_to:
+  - fig:3
+  basis: The passage says early Greek tribes regarded rivers and springs of their
+    states as beneficent powers.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Water
+  literal_form: streams, springs, fountains, rivers, brooks, waterfalls
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Blood-like watercourses
+  literal_form: streams, springs, and fountains compared to blood in arteries
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Local waters revered as beneficent powers
+  summary: The passage presents early Greek tribes as treating the rivers and springs
+    of their own states as powers that bring blessing and prosperity.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Imagined beings preside over running water
+  summary: The passage describes people delighting in the sounds of fountains, brooks,
+    and waterfalls and imagining graceful beings presiding over these sights and sounds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Worship of life-giving water powers
+  taxonomy_refs: []
+  basis: The passage connects water-deity worship with waters described as necessary
+    for life and with local rivers and springs viewed as beneficent powers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is explanatory rather than a narrative episode; no specific
+    mythic action is recounted.
+- id: motif:2
+  label: Nature beings presiding over water places
+  taxonomy_refs: []
+  basis: The passage says beings were pictured as presiding over fountains, brooks,
+    waterfalls, and similar natural water scenes.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The beings are collective categories rather than individual named characters
+    in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself frames water-deity worship as a broadly recurring pattern
+    across many nations, with early Greek practice presented as one instance of revering
+    local waters as beneficent powers.
+  claim_level: same_function
+  target: cross-cultural worship of water-deities
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a broad handbook generalization and does not
+    provide detailed evidence from other named traditions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5311-5318
+  quote_or_summary: The passage states that worship of water-deities is widespread
+    and compares streams, springs, and fountains to blood in a body, calling water
+    a life-awakening element necessary for existence.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 5320-5323
+  quote_or_summary: Among early Greeks, each tribe is said to regard the rivers and
+    springs of its own state as beneficent powers bringing blessing and prosperity.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 5323-5329
+  quote_or_summary: The passage describes the sounds of fountain, brook, and waterfall
+    as charming to imagination and says beings were pictured as presiding over these
+    sights and sounds of nature.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: citation
+  locator: lines 5307-5310
+  quote_or_summary: Section headings identify the topic as Water Nymphs, including
+    Oceanides, Nereides, and Naiades.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; citation-only evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is descriptive and interpretive within the handbook, not a discrete
+    myth narrative. Motif labels are therefore broad and based on explicit statements
+    about worship, beneficent powers, and presiding beings.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No external taxonomy identifiers were added beyond the available water symbol.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l5307-l5329
+  passage_sha256=bf1c245a7a932455fb18e66ebd132532aac0b17a320c00e8dd287d1f40989d7a
+

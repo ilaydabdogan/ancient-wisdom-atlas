@@ -1,0 +1,412 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l5009-l5031
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: EROS (CUPID, AMOR) AND PSYCHE. / HYMEN. / IRIS (THE RAINBOW). / HEBE (JUVENTAS).;
+    lines 5009-5031
+  start: '5009'
+  end: '5031'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Hebe as the personification of eternal youth, daughter
+    of Zeus and Hera, cup-bearer to the gods, bearer of nectar or ambrosia, deprived
+    of her office after slipping while serving, replaced by Ganymedes, and later bride
+    of Heracles after his apotheosis.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hebe is identified as Juventas and as the personification of eternal youth
+    in an attractive and joyous aspect.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hebe is described as the daughter of Zeus and Hera.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Hebe is represented as cup-bearer to the gods despite her high rank.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hebe is described as a comely, modest maiden with small stature, rounded contour,
+    nut-brown tresses, and sparkling eyes.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hebe is often depicted pouring nectar from an upraised vessel or carrying
+    a shallow dish containing ambrosia.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Ambrosia is described as the ever youth-renewing food of the immortals.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After slipping while serving the gods, Hebe was deprived of her office, which
+    was then delegated to Ganymedes, son of Tros.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Hebe later became the bride of Heracles after Heracles' apotheosis and reception
+    among the immortals.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hebe / Juventas
+  description: Personification of eternal youth; daughter of Zeus and Hera; cup-bearer
+    to the gods; later bride of Heracles.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Zeus
+  description: Father of Hebe.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Hera
+  description: Mother of Hebe.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the gods
+  description: Divine recipients served by Hebe.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: Ganymedes, son of Tros
+  description: Figure to whom Hebe's office as cup-bearer was delegated after she
+    slipped while serving.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Heracles
+  description: Became Hebe's bridegroom after his apotheosis and reception among the
+    immortals.
+  role_refs:
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Tros
+  description: Father of Ganymedes.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: the immortals
+  description: Group among whom Heracles was received after apotheosis; also associated
+    with ambrosia as their youth-renewing food.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: personification of eternal youth
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly identifies Hebe as the personification of eternal
+    youth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine daughter
+  assigned_to:
+  - fig:1
+  basis: The passage states that Hebe was daughter of Zeus and Hera.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: cup-bearer to the gods
+  assigned_to:
+  - fig:1
+  basis: The passage says Hebe is represented as cup-bearer to the gods.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: bride of Heracles
+  assigned_to:
+  - fig:1
+  basis: The passage says Hebe became the bride of Heracles.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: father of Hebe
+  assigned_to:
+  - fig:2
+  basis: Zeus is named as Hebe's father.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: mother of Hebe
+  assigned_to:
+  - fig:3
+  basis: Hera is named as Hebe's mother.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: served divine guests
+  assigned_to:
+  - fig:4
+  basis: The gods are served by Hebe as cup-bearer.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:8
+  label: replacement cup-bearer
+  assigned_to:
+  - fig:5
+  basis: Hebe's office was delegated to Ganymedes after she slipped.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: bridegroom of Hebe
+  assigned_to:
+  - fig:6
+  basis: Hebe became the bride of Heracles.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: apotheosized hero received among immortals
+  assigned_to:
+  - fig:6
+  basis: The passage states that Heracles was received among the immortals after his
+    apotheosis.
+  evidence_refs:
+  - ev:5
+- id: role:11
+  label: father of Ganymedes
+  assigned_to:
+  - fig:7
+  basis: Ganymedes is described as son of Tros.
+  evidence_refs:
+  - ev:4
+- id: role:12
+  label: immortal recipients or group
+  assigned_to:
+  - fig:8
+  basis: The immortals are associated with ambrosia and receive Heracles among them
+    after apotheosis.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: nectar
+  literal_form: nectar poured from an upraised vessel
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: ambrosia
+  literal_form: shallow dish supposed to contain ambrosia, the ever youth-renewing
+    food of the immortals
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: upraised vessel
+  literal_form: vessel from which Hebe pours nectar
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: shallow dish
+  literal_form: dish borne in Hebe's hand and supposed to contain ambrosia
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Hebe as cup-bearer
+  summary: Hebe, daughter of Zeus and Hera, is represented as cup-bearer to the gods,
+    serving nectar or ambrosia.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Loss of office after slipping
+  summary: Hebe slips while serving the gods and is deprived of her office, which
+    is then given to Ganymedes, son of Tros.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Marriage after Heracles' apotheosis
+  summary: After Heracles is apotheosized and received among the immortals, Hebe becomes
+    his bride.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine parent-child relationship
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Hebe is explicitly described as daughter of Zeus and Hera.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives only the genealogical relationship and does not narrate
+    a parent-child episode.
+- id: motif:2
+  label: youth-renewing divine food
+  taxonomy_refs: []
+  basis: Ambrosia is described as the ever youth-renewing food of the immortals, and
+    Hebe is associated with serving it.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No matching available taxonomy reference is provided for ambrosia or youth-renewing
+    food.
+- id: motif:3
+  label: loss and replacement of divine office
+  taxonomy_refs: []
+  basis: Hebe loses her office after slipping while serving, and the office is delegated
+    to Ganymedes.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives a brief causal explanation rather than an extended mythic
+    episode.
+- id: motif:4
+  label: marriage of goddess to apotheosized hero
+  taxonomy_refs:
+  - sacred_marriage
+  basis: Hebe becomes the bride of Heracles after his apotheosis and reception among
+    the immortals.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage states the marriage but does not elaborate ritual, cosmic,
+    or dynastic functions often associated with sacred marriage motifs.
+- id: motif:5
+  label: ascent to immortal status through apotheosis
+  taxonomy_refs:
+  - ascent
+  basis: Heracles is said to be received among the immortals after his apotheosis.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage only briefly mentions apotheosis and does not describe the
+    process or ascent narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5009-5012
+  quote_or_summary: Hebe, also called Juventas, is described as the personification
+    of eternal youth in an attractive and joyous aspect.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 5013-5018
+  quote_or_summary: Hebe is daughter of Zeus and Hera and is represented as cup-bearer
+    to the gods despite her distinguished rank.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 5019-5025
+  quote_or_summary: Hebe is described as a modest maiden and is depicted pouring nectar
+    from an upraised vessel or bearing a dish of ambrosia, the youth-renewing food
+    of the immortals.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 5026-5029
+  quote_or_summary: Because she slipped while serving the gods, Hebe was deprived
+    of her office, which was then delegated to Ganymedes, son of Tros.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 5030-5031
+  quote_or_summary: Hebe later became the bride of Heracles after his apotheosis and
+    reception among the immortals.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif mapping is limited by the brief
+    handbook-style passage and sparse available taxonomy matches. No comparison claims
+    are made because the passage itself does not support cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only provided passage and metadata; no external comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l5009-l5031
+  passage_sha256=6e7ffdefd6683e5718668beeb1c7376cf2367a8b236d595ea4653d90df883945
+

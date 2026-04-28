@@ -1,0 +1,491 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l983-l1099
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: JAPANESE FAIRY TALES / MY LORD BAG OF RICE / THE TONGUE-CUT SPARROW / THE
+    STORY OF URASHIMA TARO, THE FISHER LAD; lines 983-1099
+  start: '983'
+  end: '1099'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Urashima remains in the Sea King's realm, celebrates a splendid wedding
+    with Otohime Sama, tours a coral and pearl palace and a garden showing all four
+    seasons at once, then remembers his parents and asks to return home. Otohime gives
+    him the tamate-bako, forbidding him to open it, and Urashima departs across the
+    sea on a large tortoise.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Urashima thanks the woman for her speech and says he wishes to stay in the
+    beautiful land.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fishes in ceremonial trailing garments enter the hall with coral trays of
+    fish and seaweed delicacies for the bride and bridegroom.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The young pair pledge themselves in the wedding cup of wine three times three,
+    followed by music, songs, and dancing fishes.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Urashima is shown a palace built of coral and adorned with pearls in an enchanted
+    land where youth and joy are untouched by time and age.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The palace garden displays the scenery of spring, summer, autumn, and winter
+    at the same time in different directions.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Urashima's happiness makes him forget his home, parents, and country for three
+    days before he remembers them.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Urashima tells Otohime Sama he must go back to his old parents, while she
+    weeps and asks him to stay one more day.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Otohime Sama gives Urashima a lacquer box tied with a silken cord and red
+    tassels, names it the tamate-bako, and tells him never to open it.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Urashima promises never to open the box, says goodbye, mounts a large tortoise,
+    and is carried eastward over the sea.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Urashima
+  description: A fisherman and bridegroom who marries Otohime Sama in the Sea King's
+    realm and later seeks to return to his parents.
+  role_refs:
+  - role:1
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Otohime Sama
+  description: The Sea King's daughter, Urashima's bride and wife, who asks him to
+    stay and gives him the tamate-bako.
+  role_refs:
+  - role:2
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Ceremonial fishes
+  description: Fishes dressed in ceremonial trailing garments who serve the wedding
+    feast; fishes with silver scales and golden tails dance.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Urashima's parents
+  description: Urashima's old father and mother at home, whom he remembers and wishes
+    to visit.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Large tortoise
+  description: A large tortoise waiting at the seashore that carries Urashima over
+    the sea.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Sea King
+  description: The ruler associated with the sea realm, palace, and daughter mentioned
+    in the passage.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: bridegroom
+  assigned_to:
+  - fig:1
+  basis: Urashima is explicitly called the bridegroom during the bridal feast.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: bride and princess
+  assigned_to:
+  - fig:2
+  basis: Otohime Sama is identified as the Princess, the Sea King's daughter, and
+    Urashima's wife.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:3
+  label: visitor to enchanted realm
+  assigned_to:
+  - fig:1
+  basis: Urashima is shown the palace and garden of the enchanted land.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: wife who asks him to remain
+  assigned_to:
+  - fig:2
+  basis: Otohime Sama weeps and asks Urashima to stay another day.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: giver of forbidden box
+  assigned_to:
+  - fig:2
+  basis: She gives the tamate-bako and commands that it must not be opened.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: son returning to parents
+  assigned_to:
+  - fig:1
+  basis: Urashima says he must return to his old father and mother.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: wedding attendants and dancers
+  assigned_to:
+  - fig:3
+  basis: The fishes serve the feast and dance after the wedding cup pledge.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: absent parents
+  assigned_to:
+  - fig:4
+  basis: They are not present in the sea realm but motivate Urashima's return.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:9
+  label: sea transport
+  assigned_to:
+  - fig:5
+  basis: The tortoise carries Urashima across the sea.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: ruler of the sea realm
+  assigned_to:
+  - fig:6
+  basis: The passage names the Sea King's realm and his palace, and identifies Otohime
+    Sama as his daughter.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Sea King's realm
+  literal_form: Otherworldly sea realm and palace
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: sym:2
+  label: coral and pearl palace
+  literal_form: Palace built of coral and adorned with pearls
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: four-season garden
+  literal_form: Garden showing spring, summer, autumn, and winter at once
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - seasonal_cycle
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: wedding cup of wine
+  literal_form: Cup of wine used by the young pair three times three
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - sacred_marriage
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: tamate-bako
+  literal_form: Beautiful lacquer box tied with a silken cord and red tassels
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - forbidden_knowledge
+  - sacred_exchange
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: large tortoise
+  literal_form: Large tortoise waiting at the seashore and carrying Urashima over
+    the sea
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Wedding feast in the Sea King's realm
+  summary: Urashima and Otohime Sama are celebrated as bridegroom and bride with ceremonial
+    fish attendants, coral trays of food, a wedding cup, music, songs, and dancing
+    fishes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Tour of palace and four-season garden
+  summary: Urashima follows Otohime Sama through the coral and pearl palace and sees
+    a garden where the four seasons appear simultaneously in four directions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Remembrance of home and request to return
+  summary: After three days of happiness, Urashima remembers his parents and country
+    and tells Otohime Sama that he must go back to them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Gift and prohibition of the tamate-bako
+  summary: Otohime Sama gives Urashima a lacquer box as a token of love, identifies
+    it as the tamate-bako, warns him not to open it, and receives his promise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Departure over the sea
+  summary: Urashima says goodbye, mounts a large tortoise at the seashore, and is
+    carried eastward over the shining sea toward his own land.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Marriage with otherworldly sea princess
+  taxonomy_refs:
+  - sacred_marriage
+  - divine_beloved
+  basis: Urashima is married to Otohime Sama, the Sea King's daughter, in the Sea
+    King's realm with a formal wedding feast and cup.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage identifies Otohime as a princess and Sea King's daughter;
+    it does not explicitly call her divine.
+- id: motif:2
+  label: Enchanted realm outside ordinary time
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The realm is described as one where time and age do not touch youth and joy,
+    and the garden displays all four seasons at once.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The broader time-displacement consequences are not shown in this passage.
+- id: motif:3
+  label: Remembering home and returning from an otherworld
+  taxonomy_refs:
+  - return
+  basis: After forgetting his home and parents, Urashima remembers them and insists
+    on returning to his own land.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage ends during the return journey and does not show his arrival.
+- id: motif:4
+  label: Forbidden opening of a gifted box
+  taxonomy_refs:
+  - forbidden_knowledge
+  - sacred_exchange
+  basis: Otohime gives Urashima the tamate-bako as a token of love and warns that
+    something dreadful will happen if he opens it; he promises not to open it.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The contents of the box and the result of opening it are not revealed
+    in this passage.
+- id: motif:5
+  label: Animal conveyance across the sea
+  taxonomy_refs:
+  - water
+  basis: A large tortoise waits for Urashima and carries him over the sea toward his
+    own land.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy list supplies water as a symbol rather than a specific animal-vehicle
+    motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 983-997
+  quote_or_summary: Urashima thanks the speaker and says he wishes to stay in the
+    beautiful land he has heard of but never seen.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 998-1011
+  quote_or_summary: Ceremonial fishes bring food on coral trays; the bridal is celebrated,
+    the young pair pledge themselves with the wedding cup of wine three times three,
+    and fishes dance.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 1012-1022
+  quote_or_summary: Urashima follows his bride, the Sea King's daughter, through an
+    enchanted land; the palace is built of coral and adorned with pearls, and time
+    and age do not touch youth and joy there.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 1023-1040
+  quote_or_summary: The garden around the palace displays spring in the east, summer
+    in the south, autumn in the west, and winter in the north at the same time.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 1041-1052
+  quote_or_summary: Urashima's happiness makes him forget home, parents, and country
+    for three days; then he remembers he does not belong there and must return to
+    his old father and mother.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: lines 1053-1071
+  quote_or_summary: Urashima tells Otohime Sama he must go back to his old parents;
+    she weeps and asks him to stay another day, but he insists and says he will return.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: summary
+  locator: lines 1072-1091
+  quote_or_summary: Otohime Sama gives Urashima a beautiful lacquer box tied with
+    silk, calls it the tamate-bako, says it contains something precious, and warns
+    him never to open it or something dreadful will happen.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:8
+  type: summary
+  locator: lines 1092-1099
+  quote_or_summary: Urashima says goodbye, finds a large tortoise waiting at the seashore,
+    rides it over the shining sea into the East, and looks toward his own land.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the provided passage. Motif candidates use supplied
+    taxonomy refs where directly supported; claims about divinity or later consequences
+    of the box are limited because they are not explicit in this line range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons were added because the passage itself does not provide explicit comparative claims beyond the motif patterns identified.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l983-l1099
+  passage_sha256=14b80bdd2780d61cf4c926d31afa3fddb3caa41233cfe0ac53e3b7f38e5e29ec
+

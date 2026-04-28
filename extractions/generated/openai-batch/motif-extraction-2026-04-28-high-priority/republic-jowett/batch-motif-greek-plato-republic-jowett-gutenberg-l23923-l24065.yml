@@ -1,0 +1,426 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l23923-l24065
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK VII. / BOOK VIII. / BOOK IX. / BOOK X.; lines 23923-24065
+  start: '23923'
+  end: '24065'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Socrates and Glaucon discuss the exclusion of imitative poetry from the
+    well-ordered state, the ancient quarrel between philosophy and poetry, the conditions
+    under which poetry might return, and the need to resist poetic seduction for the
+    sake of justice. The discussion then turns to the greater rewards of virtue, eternity,
+    and an argument that the soul is immortal because its own evils do not dissolve
+    or destroy it as bodily disease destroys the body.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says poetry was sent away from the State because of its described
+    tendencies, and that reason required this judgment.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker describes an ancient quarrel between philosophy and poetry and
+    cites sayings as signs of this enmity.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Poetry is addressed as a charming female figure and as related to sister arts
+    of imitation.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The speaker says poetry may return from exile only if she makes a defense
+    of herself, and that prose defenders may also argue that poetry is useful as well
+    as pleasant.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: If poetry fails to defend herself, the speakers must give her up despite their
+    love for her, using their argument as a charm against her strains.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The listener to poetry is told to guard against her seductions for the safety
+    of the city within him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker frames the issue as whether a person becomes good or bad and warns
+    against neglecting justice and virtue under the influence of honor, money, power,
+    or poetry.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The speaker says greater prizes and rewards await virtue and contrasts the
+    ordinary human lifespan with eternity.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:9
+  text: The speaker states that the soul of man is immortal and imperishable.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The speaker argues by analogy that each thing has an inherent evil that corrupts
+    or destroys it, such as disease of the body, mildew of corn, rot of timber, and
+    rust of metals.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The speaker lists unrighteousness, intemperance, cowardice, and ignorance
+    as evils of the soul and asks whether they dissolve or destroy the soul.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Socrates / main speaker
+  description: The first-person speaker who argues about poetry, virtue, and the soul.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Glaucon
+  description: The interlocutor addressed by name, who answers and agrees at several
+    points.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Poetry
+  description: Poetry is personified as a charming female figure, a sweet friend,
+    associated with sister arts of imitation, and imagined as exiled from or potentially
+    returning to the State.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Soul of man
+  description: The soul is discussed as immortal and imperishable, with its own evils
+    named.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: philosophical speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker presents arguments concerning poetry, truth, virtue, and the
+    immortality of the soul.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:2
+  label: interlocutor
+  assigned_to:
+  - fig:2
+  basis: Glaucon answers the speaker, expresses astonishment, and agrees or asks to
+    hear the argument.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: defender of reason and truth
+  assigned_to:
+  - fig:1
+  basis: The speaker says reason constrained the judgment against poetry and that
+    truth must not be betrayed for poetry's charms.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: exiled art
+  assigned_to:
+  - fig:3
+  basis: Poetry is described as sent away from the State and as allowed to return
+    from exile only under a condition.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: seductive beloved
+  assigned_to:
+  - fig:3
+  basis: The speakers admit love for poetry but say they must restrain themselves
+    and guard against her seductions.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: immortal subject of argument
+  assigned_to:
+  - fig:4
+  basis: The soul is explicitly described as immortal and imperishable, and the argument
+    asks whether its evils destroy it.
+  evidence_refs:
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: exile and return of Poetry
+  literal_form: Poetry sent away from the State and conditionally allowed to return
+    from exile
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - departure
+  - return
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: argument as charm
+  literal_form: The philosophical argument repeated as a charm while listening to
+    poetic strains
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: city within the listener
+  literal_form: The safety of the city which is within him
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: immortal and imperishable soul
+  literal_form: The soul of man described as immortal and imperishable
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: inherent corruption
+  literal_form: Evils such as disease, mildew, rot, rust, and the soul's vices considered
+    as corrupting principles
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Poetry judged and conditionally recalled
+  summary: The speaker defends the former judgment of sending imitative poetry out
+    of the State, describes the quarrel between philosophy and poetry, and proposes
+    that poetry may return only if she can defend herself as useful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Resistance to poetic seduction
+  summary: The speakers acknowledge their love for poetry but say they must give her
+    up if her defense fails, using their argument as a protective charm and guarding
+    the inner city against poetic seduction.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Transition to virtue, eternity, and the soul
+  summary: The discussion turns from the danger of neglecting justice and virtue to
+    the greater rewards of virtue, eternity, and the claim that the soul is immortal
+    and imperishable.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Analogy of corruption and destruction
+  summary: The speaker argues that each thing is destroyed by its own evil, gives
+    physical examples, and then asks whether the soul's evils destroy the soul.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: banished figure conditionally allowed to return
+  taxonomy_refs:
+  - departure
+  - return
+  basis: Poetry is personified as an exiled figure sent from the State who may return
+    only after making a successful defense.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a philosophical personification of an art, not a narrative mythic
+    exile of a human or deity.
+- id: motif:2
+  label: seductive art resisted by protective speech
+  taxonomy_refs:
+  - wisdom
+  basis: The speakers describe poetry as charming and seductive, while philosophical
+    argument is to be repeated like a charm to preserve judgment and protect the inner
+    city.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The protective charm is metaphorical and embedded in philosophical argument
+    rather than ritual action.
+- id: motif:3
+  label: immortal soul beyond the short span of life
+  taxonomy_refs:
+  - wisdom
+  basis: The passage contrasts a short human lifespan with eternity and states that
+    the soul is immortal and imperishable.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage begins an argument for immortality but does not narrate an
+    afterlife journey or judgment in this excerpt.
+- id: motif:4
+  label: inner corruption tested against imperishable nature
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker reasons that a thing is destroyed by its own evil, then tests
+    whether the soul's evils can dissolve or destroy it.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is an abstract philosophical pattern rather than a concrete mythic
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 23923-23935
+  quote_or_summary: The speaker defends sending imitative poetry out of the State,
+    says there is an ancient quarrel between philosophy and poetry, cites hostile
+    sayings, and acknowledges poetry's charm, especially in Homer.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 23936-23951
+  quote_or_summary: The speaker proposes that poetry may return from exile only if
+    she defends herself, and that prose defenders may argue that poetry is useful
+    as well as pleasant.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 23952-23973
+  quote_or_summary: If poetry's defense fails, those who love her must give her up;
+    their argument will be repeated like a charm so they do not fall into childish
+    love or yield to her seductions, and the listener should guard the city within
+    him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 23974-23984
+  quote_or_summary: The speaker says the issue is whether a person becomes good or
+    bad and asks what profit there is if honor, money, power, or poetry leads one
+    to neglect justice and virtue; he then introduces greater rewards of virtue.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 23985-24003
+  quote_or_summary: The speaker contrasts seventy years with eternity, asks whether
+    an immortal being should consider the whole, and states that the soul of man is
+    immortal and imperishable.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 24004-24035
+  quote_or_summary: The speaker argues that good saves and improves while evil corrupts
+    and destroys; examples include ophthalmia of the eyes, bodily disease, mildew
+    of corn, rot of timber, and rust of metals.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: 24036-24065
+  quote_or_summary: The speaker says that if a nature's inherent corruption cannot
+    destroy it, it has no destruction; he names unrighteousness, intemperance, cowardice,
+    and ignorance as evils of the soul and compares the question to bodily disease
+    destroying the body.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are cautious because the passage is philosophical discourse with personification
+    and analogy rather than a mythic narrative episode. No comparison claims were
+    added beyond the passage's own internal references because no specific cross-tradition
+    comparison is developed in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references were applied only where directly supported by the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l23923-l24065
+  passage_sha256=10e515485dfa079605ecc4efe9ea932367dd3b1e1fa007b96ea6821b68cadbdf
+

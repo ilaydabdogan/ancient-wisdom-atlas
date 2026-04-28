@@ -1,0 +1,495 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l18617-l18744
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK III. / BOOK IV. / BOOK V. / BOOK VI.; lines 18617-18744
+  start: '18617'
+  end: '18744'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The primary speaker explains the idea of the good through an analogy with
+    the sun, then introduces a divided line distinguishing visible and intelligible
+    realms, images and originals, opinion and knowledge, and lower and higher modes
+    of intellectual inquiry.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The idea of the good is described as imparting truth to known things and the
+    power of knowing to the knower.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The good is said to be the cause of science and truth, while surpassing both
+    in beauty and honour.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The sun is described as causing visibility, generation, nourishment, and growth,
+    while not itself being generation.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The good is analogized to the sun and is said to be the author of knowledge,
+    being, and essence, while exceeding essence in dignity and power.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: 'Two ruling powers are distinguished: one over the intellectual world and
+    one over the visible world.'
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A line is imagined as divided into unequal parts, then each part divided again
+    in the same proportion, corresponding to visible and intelligible divisions and
+    their degrees of clarity.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The first visible section consists of images, including shadows and reflections
+    in water and in smooth polished bodies.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The other visible section includes animals, growing things, and made things.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The copy is related to the original as opinion is related to knowledge.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: In the lower intellectual subdivision, the soul uses visible figures as images
+    and proceeds hypothetically toward a conclusion rather than upward to a principle.
+  category: action
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:11
+  text: In the higher intellectual subdivision, the soul passes beyond hypotheses
+    and goes up to a principle above hypotheses, using ideas themselves rather than
+    images.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Students of geometry and related sciences use visible forms while thinking
+    of ideal forms such as the absolute square and absolute diameter.
+  category: action
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: obs:13
+  text: The things sought by geometry are said to be seen only with the eye of the
+    mind.
+  category: attribute
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: primary speaker
+  description: The speaker who explains the good, the sun analogy, and the divided
+    line.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: fig:2
+  name_or_label: Glaucon
+  description: The named interlocutor who responds with wonder and asks the primary
+    speaker to continue.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:11
+- id: fig:3
+  name_or_label: the soul
+  description: The soul is described as using images, hypotheses, and ideas in different
+    modes of intellectual inquiry.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:4
+  name_or_label: students of geometry, arithmetic, and kindred sciences
+  description: Students who assume hypotheses, use visible forms, and reason toward
+    conclusions while seeking ideal objects.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: philosophical expositor
+  assigned_to:
+  - fig:1
+  basis: The speaker presents definitions, analogies, and divisions concerning the
+    good, the sun, and knowledge.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: role:2
+  label: respondent and questioner
+  assigned_to:
+  - fig:2
+  basis: Glaucon reacts to the description and asks the speaker to continue the similitude
+    of the sun.
+  evidence_refs:
+  - ev:11
+- id: role:3
+  label: knowing subject in ascent of inquiry
+  assigned_to:
+  - fig:3
+  basis: The soul is said to use images in one subdivision and to go up beyond hypotheses
+    in another.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: practitioners of mathematical inquiry
+  assigned_to:
+  - fig:4
+  basis: Students of geometry and related sciences are described as assuming hypotheses
+    and reasoning with visible forms toward ideal objects.
+  evidence_refs:
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: idea of the good
+  literal_form: The idea of good, described as source of truth, knowledge, being,
+    and essence.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: sun
+  literal_form: The sun, described as cause of visibility, generation, nourishment,
+    and growth.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: light and sight
+  literal_form: Light and sight, said to be like the sun but not the sun.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: two ruling powers
+  literal_form: One ruling power over the intellectual world and another over the
+    visible world.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: divided line
+  literal_form: A line cut into two unequal parts, each divided again in the same
+    proportion.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: images
+  literal_form: Shadows and reflections in water and in smooth polished bodies.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: visible originals
+  literal_form: Animals, growing things, and made things, described as the section
+    of which images are resemblances.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: hypotheses
+  literal_form: Assumptions used by mathematical sciences, such as odd and even, figures,
+    and kinds of angles.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:9
+  label: ideas themselves
+  literal_form: Ideas through which the higher intellectual inquiry proceeds without
+    images.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:8
+- id: sym:10
+  label: eye of the mind
+  literal_form: The faculty by which ideal objects are said to be seen.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: the good compared with the sun
+  summary: The speaker states that the good gives truth and knowledge and is above
+    science and truth, then compares it with the sun as a source of visibility, generation,
+    and growth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:11
+- id: scene:2
+  label: division of visible and intelligible realms
+  summary: The speaker distinguishes two ruling powers and asks the listener to imagine
+    a divided line corresponding to visible and intelligible domains.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: images and originals in the visible realm
+  summary: The visible realm is divided between images such as shadows and reflections,
+    and the animals, growing things, and made things of which they are resemblances.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: hypothetical and higher intellectual inquiry
+  summary: The intellectual realm is divided between inquiry that uses images and
+    hypotheses and inquiry in which the soul goes beyond hypotheses to a principle
+    through ideas themselves.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:8
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: supreme good as source of knowledge and being
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes the good as imparting truth and knowledge and as the
+    author of knowledge, being, and essence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a philosophical pattern rather than a narrative mythic episode.
+- id: motif:2
+  label: ascent from hypotheses to a higher principle
+  taxonomy_refs:
+  - ascent
+  - wisdom
+  basis: The higher intellectual subdivision is described as the soul going up beyond
+    hypotheses to a principle above hypotheses.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The ascent is epistemic and metaphorical, not a physical journey.
+- id: motif:3
+  label: dual ordering of visible and intelligible realms
+  taxonomy_refs:
+  - duality
+  basis: The passage distinguishes two ruling powers, visible and intellectual worlds,
+    and a divided line with corresponding subdivisions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The duality is analytic and philosophical rather than a conflict between
+    opposed beings.
+- id: motif:4
+  label: image and original as graded reality
+  taxonomy_refs: []
+  basis: The passage contrasts shadows and reflections with visible originals and
+    relates copy to original as opinion to knowledge.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No provided taxonomy family directly names this pattern.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly assigns analogous source-functions to the sun in the
+    visible domain and the good in the intelligible domain.
+  claim_level: same_function
+  target: sun analogy for the idea of the good
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal analogy within the passage, not evidence of historical
+    contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18617-18629
+  quote_or_summary: The good imparts truth to the known and knowing power to the knower;
+    it is the cause of science and truth and is more beautiful than either, as light
+    and sight are like the sun but are not the sun.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 18638-18652
+  quote_or_summary: The sun is said to cause visibility, generation, nourishment,
+    and growth; likewise the good is said to cause knowledge, being, and essence while
+    exceeding essence in dignity and power.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 18671-18679
+  quote_or_summary: The speaker asks the listener to imagine two ruling powers, one
+    over the intellectual world and one over the visible, and to fix the distinction
+    between visible and intelligible in mind.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 18683-18690
+  quote_or_summary: A line is to be cut into two unequal parts, and each part divided
+    again in the same proportion, with main divisions answering to visible and intelligible
+    spheres and their relative clarity.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 18690-18696
+  quote_or_summary: '"by images I mean, in the first place, shadows, and in the second
+    place, reflections in water"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: summary
+  locator: 18699-18702
+  quote_or_summary: The next visible section includes the animals seen by humans and
+    everything that grows or is made.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 18704-18709
+  quote_or_summary: The sections have different degrees of truth; copy is to original
+    as opinion is to knowledge.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 18713-18723
+  quote_or_summary: The lower intellectual subdivision uses figures as images and
+    proceeds hypothetically downward; the higher passes out of hypotheses and goes
+    up to a principle above hypotheses, through ideas themselves.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 18728-18739
+  quote_or_summary: Students of geometry, arithmetic, and related sciences assume
+    odd and even, figures, and angles as hypotheses and reason from them to conclusions.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 18741-18744
+  quote_or_summary: Mathematicians use visible forms but think of the ideals they
+    resemble, such as the absolute square and diameter; they seek things seen only
+    with the eye of the mind.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 18630-18668
+  quote_or_summary: Glaucon responds with wonder at the account of the good and asks
+    the speaker to continue the similitude of the sun.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal philosophical structure is clear. Motif assignments use only available
+    broad taxonomy labels and should be reviewed because the passage is philosophical
+    argument rather than mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons or historical claims are made beyond the passage's internal sun analogy.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l18617-l18744
+  passage_sha256=a25b844b8d81c9e33ec1516a4a641fc59eed59f2be9966b5069830ace4c8f78c
+

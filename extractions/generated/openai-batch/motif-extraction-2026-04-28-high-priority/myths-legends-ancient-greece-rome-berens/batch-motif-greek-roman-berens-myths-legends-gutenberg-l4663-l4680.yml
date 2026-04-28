@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l4663-l4680
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: THANATOS (MORS) AND HYPNUS (SOMNUS). / MORPHEUS. / THE GORGONS. / GRAEAE.;
+    lines 4663-4680
+  start: '4663'
+  end: '4680'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Graeae as three sisters and servants of the Gorgons,
+    originally personifications of kindly venerable old age, later represented as
+    misshapen old women sharing one eye, one tooth, and one gray wig. Perseus visits
+    them in the far west to learn the way to the Gorgons and withholds their shared
+    eye, tooth, and wig until they give him directions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Graeae are three in number and are named Pephredo, Enyo, and Dino.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Graeae act as servants to their sisters the Gorgons.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In an earlier conception, the Graeae are personifications of kindly and venerable
+    old age and possess benevolent attributes without old age's natural infirmities.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Graeae are described as old and gray from birth and remaining so.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In a later conception, the Graeae are described as misshapen, decrepit, hideously
+    ugly females who share one eye, one tooth, and one gray wig.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The shared eye, tooth, and wig are lent to one another when one Graea wishes
+    to appear before the world.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Perseus goes to the abode of the Graeae in the far west to ask the way to
+    the Gorgons during his expedition to slay Medusa.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After the Graeae refuse to give information, Perseus deprives them of their
+    one eye, tooth, and wig and restores them only after receiving directions.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Graeae
+  description: Three sisters of the Gorgons, named Pephredo, Enyo, and Dino; later
+    described as misshapen old women sharing one eye, one tooth, and one gray wig.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Pephredo
+  description: One of the three Graeae.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Enyo
+  description: One of the three Graeae.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Dino
+  description: One of the three Graeae.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Gorgons
+  description: Sisters of the Graeae, served by the Graeae.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Perseus
+  description: The figure who enters an expedition to slay Medusa, visits the Graeae,
+    and takes their shared eye, tooth, and wig until they provide directions.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Medusa
+  description: The target of Perseus's expedition to slay her.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: one of three Graeae
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage states that the Graeae are three in number and names them Pephredo,
+    Enyo, and Dino.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: servants and sisters of the Gorgons
+  assigned_to:
+  - fig:1
+  basis: The Graeae are described as servants to their sisters the Gorgons.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: personifications of old age
+  assigned_to:
+  - fig:1
+  basis: The passage says they were originally personifications of kindly and venerable
+    old age.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: served sisters
+  assigned_to:
+  - fig:5
+  basis: The Gorgons are identified as sisters whom the Graeae serve.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: questing visitor seeking directions
+  assigned_to:
+  - fig:6
+  basis: Perseus visits the Graeae to inquire the way to the Gorgons during his expedition.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: coercive taker of shared objects
+  assigned_to:
+  - fig:6
+  basis: Perseus deprives the Graeae of their shared eye, tooth, and wig until he
+    receives directions.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: slaying target
+  assigned_to:
+  - fig:7
+  basis: Medusa is named as the being Perseus sets out to slay.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: shared eye
+  literal_form: one eye shared among the Graeae
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: shared tooth
+  literal_form: one tooth shared among the Graeae
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: shared gray wig
+  literal_form: one gray wig shared among the Graeae
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: far western abode
+  literal_form: the abode of the Graeae in the far west
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Description of the Graeae
+  summary: The Graeae are introduced as three named sisters and servants of the Gorgons,
+    originally personifications of kindly old age and later depicted as hideous old
+    women sharing one eye, tooth, and gray wig.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Perseus obtains directions from the Graeae
+  summary: Perseus goes to the Graeae in the far west to find the way to the Gorgons;
+    when they refuse to tell him, he takes their shared eye, tooth, and wig and restores
+    them only after receiving directions.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: three old sisters sharing vital objects
+  taxonomy_refs:
+  - sibling_pair
+  basis: The Graeae are a group of sisters, three in number, who share one eye, one
+    tooth, and one gray wig.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: Available taxonomy includes sibling_pair but not a precise triadic-sisters
+    category; the passage concerns three sisters rather than a pair.
+- id: motif:2
+  label: quester coerces guardians or informants to obtain directions
+  taxonomy_refs:
+  - mystical_quest
+  basis: Perseus seeks the way to the Gorgons and withholds the Graeae's shared possessions
+    until they give him necessary directions.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage supports a quest episode, but the available taxonomy does
+    not include a more specific direction-from-guardian motif.
+- id: motif:3
+  label: deprivation and restoration of a shared sense-object
+  taxonomy_refs: []
+  basis: Perseus deprives the Graeae of their shared eye, along with their tooth and
+    wig, and restores them after they provide information.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: No matching supplied taxonomy reference is available.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4663-4667
+  quote_or_summary: The Graeae are three named sisters, Pephredo, Enyo, and Dino,
+    and act as servants to their sisters the Gorgons.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4668-4672
+  quote_or_summary: The Graeae were originally conceived as personifications of kindly,
+    venerable old age, old and gray from birth, without natural infirmities.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4672-4676
+  quote_or_summary: Later tradition describes the Graeae as misshapen, decrepit, ugly
+    females sharing one eye, one tooth, and one gray wig, lending these among themselves.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4677-4679
+  quote_or_summary: Perseus, on his expedition to slay Medusa, goes to the Graeae's
+    abode in the far west to ask the way to the Gorgons.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4679-4680
+  quote_or_summary: When the Graeae refuse information, Perseus takes their shared
+    eye, tooth, and wig and does not restore them until he receives directions.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif taxonomy mapping
+    is approximate where the available taxonomy lacks precise categories for triadic
+    sisters or shared sensory organs. No comparison claims were added because the
+    passage does not itself make comparative claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Line locators follow the supplied stable markdown range. Empty comparison_claims reflects lack of passage-supported comparisons.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l4663-l4680
+  passage_sha256=8b1aee5600cf5fb8efdbbb8d058f8fbeac55c4266a32b6c53231993c614db8b3
+

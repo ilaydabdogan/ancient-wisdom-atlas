@@ -1,0 +1,487 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l6521-l6561
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: ROMAN FESTIVALS. / SATURNALIA. / CEREALIA. / VESTALIA.; lines 6521-6561
+  start: '6521'
+  end: '6561'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Roman festivals Cerealia and Vestalia. Cerealia
+    honors Ceres and is performed by women in white with torches to represent Ceres'
+    search for Proserpine; games at the Circus Maximus require white clothing. Vestalia
+    honors Vesta on June 9 and is performed by women walking barefoot to Vesta's temple.
+    The passage also describes the Vestal Virgins, their number, selection, thirty-year
+    term, duties, privileges, power to pardon an accidentally encountered condemned
+    criminal, vow of chastity, and punishment for violating that vow.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Cerealia is described as a festival celebrated in honor of Ceres.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cerealia is described as solemnized exclusively by women dressed in white
+    garments.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The women at Cerealia wander with torches in their hands to represent the
+    goddess's search for her daughter Proserpine.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Games are celebrated in the Circus Maximus during Cerealia, and admission
+    is limited to those clothed in white.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Vestalia is described as a festival held in honor of Vesta on June 9.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Vestalia is described as celebrated exclusively by women walking barefoot
+    in procession to Vesta's temple.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The priestesses of Vesta are called Vestales or Vestal Virgins, are six in
+    number, and are chosen between ages six and ten from noble Roman families.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: 'The Vestal Virgins serve for thirty years: ten years of initiation, ten years
+    of performance of duties, and ten years of instructing novices.'
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The chief duty of the Vestal Virgins is to watch and feed the ever-burning
+    flame on Vesta's altar.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The extinction of Vesta's altar flame is described as a national calamity
+    of ominous import.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The Vestal Virgins receive public honors and privileges, including reserved
+    seats and precedence before consuls and praetors.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: A Vestal Virgin may pardon a criminal on the way to execution if the meeting
+    is proved accidental.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The Vestal Virgins are vowed to chastity, and violation is punished by burial
+    alive.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Ceres
+  description: Goddess honored by Cerealia; represented as searching for her daughter
+    Proserpine.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Proserpine
+  description: Daughter of Ceres, named as the object of Ceres' search represented
+    in the festival.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Women celebrants of Cerealia
+  description: Women dressed in white garments who wander with torches during Cerealia.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Vesta
+  description: Goddess honored by Vestalia and associated with a temple, altar, and
+    ever-burning flame.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:5
+  name_or_label: Women celebrants of Vestalia
+  description: Women who walk barefooted in procession to Vesta's temple during Vestalia.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Vestales or Vestal Virgins
+  description: Six priestesses of Vesta chosen as children from noble Roman families,
+    serving thirty-year terms and tending the flame of Vesta.
+  role_refs:
+  - role:6
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:7
+  name_or_label: Criminal on the way to execution
+  description: A condemned person whom a Vestal Virgin may pardon if encountered accidentally.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: honored deity
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Cerealia is in honor of Ceres; Vestalia is in honor of Vesta.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: searching mother goddess
+  assigned_to:
+  - fig:1
+  basis: The festival action represents Ceres' search for her daughter Proserpine.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: sought daughter
+  assigned_to:
+  - fig:2
+  basis: Proserpine is identified as the daughter for whom the goddess searches.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: female festival celebrants
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: Both Cerealia and Vestalia are described as celebrated exclusively by women.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:5
+  label: hearth-flame deity
+  assigned_to:
+  - fig:4
+  basis: Vesta is associated with a temple, altar, and ever-burning flame tended by
+    her priestesses.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:6
+  label: priestesses
+  assigned_to:
+  - fig:6
+  basis: The Vestales are identified as priestesses of Vesta.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: guardians of sacred flame
+  assigned_to:
+  - fig:6
+  basis: Their chief duty is to watch and feed the ever-burning flame on Vesta's altar.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: vowed virgins
+  assigned_to:
+  - fig:6
+  basis: They are called Vestal Virgins and are vowed to chastity.
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: role:9
+  label: potentially pardoned condemned person
+  assigned_to:
+  - fig:7
+  basis: A criminal on the way to execution may be pardoned by a Vestal if the meeting
+    was accidental.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: white garments
+  literal_form: white garments or white clothing
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: torches
+  literal_form: torches carried in the hands
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: bare feet
+  literal_form: barefooted walking in procession
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: temple of Vesta
+  literal_form: temple of the goddess Vesta
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: ever-burning flame
+  literal_form: ever-burning flame on the altar of Vesta
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: burial alive
+  literal_form: punishment of being buried alive
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Cerealia torch procession and white-clad rites
+  summary: Women in white garments celebrate Cerealia for Ceres, carrying torches
+    to represent Ceres' search for Proserpine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cerealia games at the Circus Maximus
+  summary: Games are held at the Circus Maximus during Cerealia, and only those clothed
+    in white are admitted.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Vestalia barefoot procession
+  summary: Women celebrate Vestalia on June 9 by walking barefooted in procession
+    to Vesta's temple.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Vestal service and tending of the flame
+  summary: The Vestal Virgins are selected as girls from noble families, serve a thirty-year
+    term, and watch and feed Vesta's ever-burning altar flame.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Privileges and sanctions of the Vestals
+  summary: The Vestals receive public honors, may pardon an accidentally encountered
+    condemned criminal, and face burial alive for violating chastity.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: ritual reenactment of goddess searching for daughter
+  taxonomy_refs:
+  - mother_goddess
+  basis: Cerealia includes women with torches representing Ceres' search for her daughter
+    Proserpine.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage reports a festival reenactment rather than narrating the full
+    myth; broader seasonal or underworld context is not stated in this excerpt.
+- id: motif:2
+  label: women-only sacred festival
+  taxonomy_refs: []
+  basis: Both Cerealia and Vestalia are described as celebrated exclusively by women.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference directly matches this ritual pattern.
+- id: motif:3
+  label: guarding an ever-burning sacred flame
+  taxonomy_refs: []
+  basis: The Vestal Virgins' chief duty is to watch and feed the ever-burning flame
+    on Vesta's altar, whose extinction would be a national calamity.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy includes the symbol fire but no specific motif
+    family for sacred flame guardianship.
+- id: motif:4
+  label: ritual purity vow and severe punishment
+  taxonomy_refs:
+  - initiation
+  basis: The Vestal Virgins undergo a staged term of religious training and service
+    and are vowed to chastity, with violation punished by burial alive.
+  evidence_refs:
+  - ev:5
+  - ev:9
+  confidence: medium
+  cautions: The initiation taxonomy reference is only partly supported by the passage's
+    explicit statement about initiation in religious duties.
+- id: motif:5
+  label: sacred office conferring pardon power
+  taxonomy_refs: []
+  basis: A Vestal Virgin may pardon a criminal on the way to execution if their meeting
+    is accidental.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage does not connect this privilege to a wider mythic motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6521-6527
+  quote_or_summary: Cerealia honors Ceres and is solemnized exclusively by women in
+    white garments who carry torches to represent Ceres' search for Proserpine.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6528-6530
+  quote_or_summary: During Cerealia, games are celebrated in the Circus Maximus, and
+    admission is restricted to those clothed in white.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6532-6536
+  quote_or_summary: Vestalia honors Vesta on June 9 and is celebrated exclusively
+    by women walking barefooted in procession to Vesta's temple.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6537-6540
+  quote_or_summary: The priestesses of Vesta, called Vestales or Vestal Virgins, are
+    six in number and chosen between ages six and ten from noble Roman families.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6540-6544
+  quote_or_summary: 'The Vestals'' office lasts thirty years: ten years of initiation,
+    ten of performing duties, and ten of instructing novices.'
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6544-6547
+  quote_or_summary: Their chief duty is tending the ever-burning flame on Vesta's
+    altar; its extinction is regarded as a national calamity of ominous import.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 6550-6553
+  quote_or_summary: The Vestals receive great honors and privileges, including reserved
+    public seats and precedence when consuls and praetors make way for them.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 6553-6556
+  quote_or_summary: If the Vestals meet a criminal on his way to execution, they may
+    pardon him if the meeting is proved accidental.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 6558-6560
+  quote_or_summary: The Vestals are vowed to chastity; violation is punished by being
+    buried alive.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif candidates are
+    conservative because the passage is a handbook description of festivals rather
+    than a full mythic narrative. No comparison claims were made because the passage
+    itself does not support comparison to another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and available taxonomy references. Empty comparison_claims reflects lack of passage-internal comparative evidence.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l6521-l6561
+  passage_sha256=099eac068e5e869567d42dfaca7bee02106bec1925d4453fa6019e639c85732d
+

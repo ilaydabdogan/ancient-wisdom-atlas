@@ -1,0 +1,392 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l14689-l14843
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK I. / BOOK II. / BOOK III. / BOOK IV.; lines 14689-14843
+  start: '14689'
+  end: '14843'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A dialectical passage analyzes desire through opposites and relative terms.
+    The speaker distinguishes simple thirst as desire for drink alone from qualified
+    forms of thirst. He argues that if something pulls a thirsty soul away from drink,
+    it must be different from the thirsty principle that draws it toward drink, using
+    an archer's two hands pushing and pulling a bow as an analogy. The respondent
+    agrees that a person may be thirsty and yet unwilling to drink.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker lists assent and dissent, desire and aversion, attraction and
+    repulsion as opposites.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hunger and thirst are selected as obvious examples of desires, with food as
+    the object of hunger and drink as the object of thirst.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker distinguishes simple thirst, which desires drink alone, from qualified
+    thirst, which may desire cold, warm, much, or little drink depending on accompanying
+    conditions.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker explains that relative terms may be simple or qualified, and that
+    if one term of a relation is qualified, the other is qualified also.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The thirsty soul, insofar as it is thirsty, desires drink and tries to obtain
+    it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: If something pulls a thirsty soul away from drink, the speaker says it must
+    be different from the thirsty principle that draws the soul toward drink.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: 'The speaker uses the archer''s hands as an example: one hand pushes the bow
+    and the other pulls it.'
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The respondent agrees that a person can be thirsty and yet unwilling to drink.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: dialectical speaker
+  description: The first-person speaker who questions the respondent and develops
+    the argument about desire, relative terms, and the soul.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: respondent
+  description: The unnamed respondent who agrees with the speaker's distinctions and
+    examples.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: fig:3
+  name_or_label: thirsty soul
+  description: The soul considered insofar as it is thirsty and desires drink.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: thirsty principle
+  description: The principle described as drawing the thirsty soul toward drink.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: opposing pull away from drink
+  description: An unspecified factor or principle that pulls the thirsty soul away
+    from drink.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: archer
+  description: An illustrative archer whose hands are said not to push and pull the
+    bow in the same way at the same time.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: questioning instructor
+  assigned_to:
+  - fig:1
+  basis: The speaker frames distinctions through questions and explanatory examples.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: assenting interlocutor
+  assigned_to:
+  - fig:2
+  basis: The respondent repeatedly agrees with the speaker's statements, including
+    the final example of thirst without willingness to drink.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:3
+  label: desiring subject
+  assigned_to:
+  - fig:3
+  basis: The soul of the thirsty one desires drink and tries to obtain it.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: attractive desire-principle
+  assigned_to:
+  - fig:4
+  basis: The thirsty principle is described as drawing the soul toward drink.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: repelling or restraining factor
+  assigned_to:
+  - fig:5
+  basis: Something is supposed that pulls the thirsty soul away from drink.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: analogy figure
+  assigned_to:
+  - fig:6
+  basis: The archer is used to illustrate contrary actions assigned to different hands
+    rather than to the same part.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: thirst
+  literal_form: thirst as desire for drink
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: drink
+  literal_form: the object desired by thirst
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: opposite movements
+  literal_form: attraction and repulsion, drawing toward drink and pulling away from
+    drink
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:4
+  label: archer's bow
+  literal_form: bow pushed by one hand and pulled by the other
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: classification of desire and opposition
+  summary: The speaker establishes pairs of opposites and treats hunger and thirst
+    as obvious desires with corresponding objects, food and drink.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: simple and qualified thirst
+  summary: The speaker argues that thirst in itself is for drink alone, while qualified
+    thirst is for qualified drink such as cold, warm, much, or little drink.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: conflict within the thirsty soul
+  summary: The speaker states that the thirsty soul desires drink, and that anything
+    pulling it away from drink must differ from the thirsty principle drawing it toward
+    drink.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: archer analogy and admitted case
+  summary: The speaker compares contrary actions to an archer whose one hand pushes
+    and another pulls the bow, and the respondent agrees that a thirsty person may
+    be unwilling to drink.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: division of the soul by opposing impulses
+  taxonomy_refs:
+  - duality
+  basis: The passage treats attraction and repulsion as opposites, then argues that
+    a thirsty soul drawn toward drink and pulled away from drink must involve different
+    principles.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage is philosophical argument rather than narrative myth; the
+    motif label captures a pattern of internal duality rather than a mythic episode.
+- id: motif:2
+  label: desire restrained by a counterforce
+  taxonomy_refs: []
+  basis: A thirsty soul is described as desiring drink, while another factor may pull
+    it away, and a person may be thirsty yet unwilling to drink.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The restraining factor is not named in this excerpt, and the passage does
+    not narrate an enacted conflict.
+- id: motif:3
+  label: instruction through bodily analogy
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker uses the archer's two hands pushing and pulling a bow to clarify
+    a distinction about contrary actions and parts.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy term 'wisdom' is broad; the passage supports dialectical
+    teaching but not a specific wisdom myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14698-14706
+  quote_or_summary: The speaker asks whether “assent and dissent, desire and aversion,
+    attraction and repulsion” are opposites, and the respondent agrees.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 14708-14727
+  quote_or_summary: The speaker selects hunger and thirst as obvious desires and identifies
+    food as the object of hunger and drink as the object of thirst.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 14729-14743
+  quote_or_summary: The speaker argues that simple thirst desires drink alone, while
+    thirst accompanied by heat, cold, or degree desires cold, warm, much, or little
+    drink.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 14745-14819
+  quote_or_summary: The speaker develops the rule that relative terms may be simple
+    or qualified, using examples such as greater and less, double and half, hot and
+    cold, and sciences with particular objects.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 14829-14832
+  quote_or_summary: "“the soul of the thirsty one, in so far as he is thirsty, desires
+    only drink; for this he yearns and tries to obtain it”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: lines 14834-14839
+  quote_or_summary: If something pulls a thirsty soul away from drink, the speaker
+    says it must be different from the thirsty principle that draws the soul to drink,
+    since the same thing cannot act in contrary ways about the same object at the
+    same time and in the same part.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 14841-14843
+  quote_or_summary: 'The speaker compares the point to an archer: one should not say
+    that the archer''s hands push and pull the bow at the same time, but that one
+    hand pushes and the other pulls.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: line 14843 and following sentence in supplied passage
+  quote_or_summary: The respondent agrees that “a man” may be thirsty and “yet unwilling
+    to drink.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear for literal philosophical observations. Motif assignments
+    are cautious because the excerpt is argumentative rather than mythic. No comparison
+    claims were added because the passage itself does not compare this pattern to
+    another tradition or motif family beyond its own analogy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to available refs and applied only where directly supportable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l14689-l14843
+  passage_sha256=10ed326a3e24dc421f1e38c93901bb0420fdd3eb20f904dd016445b05a4be4c1
+

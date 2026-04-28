@@ -1,0 +1,213 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l6327-l6339
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: SACRIFICES. / ORACLES. / SOOTHSAYERS (AUGURS). / AUGURS.; lines 6327-6339
+  start: '6327'
+  end: '6339'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that Greeks believed soothsayers could foretell future
+    events through dreams, bird flight, entrails of sacrificed animals, and altar
+    flames or smoke. It adds that Roman soothsayers were called augurs and were consulted
+    before any enterprise to determine its success.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Greek soothsayers are described as men believed to have the power to foretell
+    future events.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The listed means of foretelling include dreams, flight of birds, entrails
+    of sacrificed animals, and the direction of flames and smoke from the altar.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Roman soothsayers are called augurs.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Romans are described as consulting augurs before undertaking any enterprise,
+    with regard to its ultimate success.
+  category: action
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Greek soothsayers
+  description: Certain men among the Greeks believed to be gifted with foretelling
+    future events.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Roman augurs
+  description: Roman soothsayers who were consulted before enterprises.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: foreteller of future events
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage identifies soothsayers as persons gifted with foretelling future
+    events and calls Roman soothsayers augurs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: ritual consultant before enterprise
+  assigned_to:
+  - fig:2
+  basis: The passage states that no Roman enterprise was undertaken without consulting
+    augurs about its success.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: dreams as divinatory signs
+  literal_form: dreams
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bird flight as omen
+  literal_form: flight of birds
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: entrails of sacrificed animals
+  literal_form: entrails of sacrificed animals
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: altar flames and smoke
+  literal_form: direction of the flames and smoke from the altar
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Greek methods of foretelling
+  summary: Greek soothsayers are described as foretelling future events from dreams,
+    bird flight, sacrificial entrails, and altar flames or smoke.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Roman consultation of augurs
+  summary: Roman augurs are described as important officials consulted before enterprises
+    to judge their ultimate success.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Omen-based divination
+  taxonomy_refs: []
+  basis: 'The passage lists multiple observed signs used to foretell future events:
+    dreams, bird flight, sacrificial entrails, and altar fire or smoke.'
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a handbook summary and does not narrate a specific divinatory
+    episode.
+- id: motif:2
+  label: Divination from sacrificial remains
+  taxonomy_refs:
+  - sacrifice
+  basis: One method of foretelling is observing the entrails of sacrificed animals.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Sacrifice is mentioned as the source of entrails, but no sacrificial ritual
+    is described in detail.
+- id: motif:3
+  label: Consulting diviners before an undertaking
+  taxonomy_refs: []
+  basis: The passage says Romans did not undertake an enterprise without first consulting
+    augurs about its success.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives a general custom rather than a particular mythic narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Greek soothsayers and Roman augurs as occupying the
+    same general function of foretelling or advising about future outcomes.
+  claim_level: same_function
+  target: Greek soothsayers and Roman augurs
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage distinguishes Greek examples of divinatory methods from
+    Roman institutional consultation and does not provide a detailed historical comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6327-6333
+  quote_or_summary: Greeks believed certain men called soothsayers could foretell
+    future events from dreams, bird flight, entrails of sacrificed animals, and altar
+    flames or smoke.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 6335-6339
+  quote_or_summary: Roman soothsayers were called augurs and were consulted before
+    enterprises regarding their ultimate success.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about divinatory roles and methods, but it is descriptive
+    rather than narrative, limiting motif specificity.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references limited to available supplied refs where directly supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l6327-l6339
+  passage_sha256=5bb2fcb6ad92d142f8ade0518dd0d418861d44cec39be7fa35c7c11a920148f8
+

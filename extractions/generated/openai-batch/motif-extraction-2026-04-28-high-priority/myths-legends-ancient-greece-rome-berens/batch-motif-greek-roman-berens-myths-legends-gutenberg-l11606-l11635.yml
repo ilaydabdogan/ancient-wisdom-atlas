@@ -1,0 +1,187 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l11606-l11635
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: THE SIEGE OF TROY. / RETURN OF THE GREEKS FROM TROY. / PRONOUNCING INDEX.
+    / A COMPLETE COURSE IN THE STUDY OF ENGLISH.; lines 11606-11635
+  start: '11606'
+  end: '11635'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: A COMPLETE COURSE IN THE STUDY OF ENGLISH.
+  summary: The passage advertises a progressive series of English-language study books,
+    lists titles in the series, states that the series is intended to avoid contradictions
+    from using books by different authors, invites teachers to examine the books,
+    and names Maynard, Merrill, & Co. as publishers in New York.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage presents a heading for a complete course in the study of English,
+    covering spelling, language, grammar, composition, and literature.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists several textbooks or lesson books by Reed, Reed & Kellogg,
+    and Kellogg.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the authors intended the series to form a complete,
+    progressive course from spelling-book work to the study of English literature.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says that using the complete course will avoid troublesome contradictions
+    arising from books arranged by different authors.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Teachers are invited to examine the books.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Maynard, Merrill, & Co. are identified as the publishers, with an address
+    on East Tenth Street in New York.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: authors of the series
+  description: The passage refers to authors who prepared the series with a stated
+    educational objective.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: teachers
+  description: Teachers are addressed as the audience invited to examine the books.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Maynard, Merrill, & Co.
+  description: The publishers named at the end of the advertisement.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: educational-series preparers
+  assigned_to:
+  - fig:1
+  basis: The passage says the authors prepared the series with the object of developing
+    the study of English as a progressive course.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: invited examiners of the books
+  assigned_to:
+  - fig:2
+  basis: Teachers are explicitly invited to examine the books.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: publishers
+  assigned_to:
+  - fig:3
+  basis: Maynard, Merrill, & Co. are explicitly labeled as publishers.
+  evidence_refs:
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: educational book advertisement
+  summary: An advertisement describes a course of English-study books, explains its
+    intended progression and practical advantage, and invites teachers to examine
+    the books.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 11606-11612
+  quote_or_summary: '"A COMPLETE COURSE IN THE STUDY OF ENGLISH"; the subjects named
+    are spelling, language, grammar, composition, and literature.'
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: summary
+  locator: 11614-11620
+  quote_or_summary: The passage lists titles including Reed's Word Lessons, Reed's
+    Introductory Language Work, Reed & Kellogg's English lessons, and Kellogg's rhetoric
+    and English literature textbooks.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 11622-11625
+  quote_or_summary: The authors' object in preparing the series is described as developing
+    English-language study into a complete, progressive course from spelling to English
+    literature.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 11625-11629
+  quote_or_summary: The passage says the course will avoid contradictions caused by
+    using books arranged by different authors, which otherwise require explanation
+    in the schoolroom.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: '11631'
+  quote_or_summary: '"Teachers are earnestly invited to examine these books."'
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: 11633-11635
+  quote_or_summary: Maynard, Merrill, & Co. are named as publishers at 43, 45, and
+    47 East Tenth Street, New York.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The supplied passage is an advertisement for English-study textbooks and
+    contains no mythological narrative, symbols from the available taxonomy, or supported
+    comparative motif claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No candidate mythology motifs or comparison claims were extracted because the passage does not contain mythic figures, actions, or symbolic narrative content.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l11606-l11635
+  passage_sha256=49be0a7b0cf8d82497bfa35bec26a16ba36048c8039819f1cabbcda195d381a5
+

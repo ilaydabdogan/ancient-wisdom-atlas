@@ -1,0 +1,429 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l6289-l6325
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: ALTARS. / PRIESTS. / SACRIFICES. / ORACLES.; lines 6289-6325
+  start: '6289'
+  end: '6325'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Greek oracles, especially Apollo''s oracle at Delphi:
+    people sought prophetic knowledge through priests; the Pythia bathed, sat over
+    a cave on a tripod, entered ecstasy from vapours, uttered phrases interpreted
+    by priests, and was later led away fainting. It concludes with Croesus misinterpreting
+    an ambiguous oracle before his defeat by Cyrus.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that Greeks sought prophetic knowledge from oracles and
+    that priests interpreted predictions for the people.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The oracle of Apollo at Delphi is identified as the most famous of these institutions
+    and as widely consulted.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The priestess who delivered the oracles was called the Pythia, named after
+    the serpent Python killed by Apollo.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Before delivering oracles, the Pythia bathed in the waters of the Castalian
+    spring and was conducted into the temple by priests.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Pythia sat on a tripod placed over the mouth of a cave from which sulphurous
+    vapours issued.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: In an ecstatic condition, the Pythia uttered phrases treated as Apollo's utterance,
+    and priests interpreted them to the people.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Incense clouds filled the temple during the ceremony and hid the priestess
+    from the uninitiated.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Croesus consulted an oracle before war with Cyrus, received an ambiguous prediction,
+    crossed a river, was defeated, and his own empire was destroyed.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Greeks
+  description: People who sought prophetic knowledge from oracles.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Priests
+  description: Specially appointed interpreters of oracular predictions who conducted
+    the Pythia and interpreted her utterances.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Apollo
+  description: God associated with the Delphi oracle; the Pythia's utterances were
+    held to be his utterance, and he killed Python.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: Pythia
+  description: Priestess who delivered the oracles at Delphi.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Python
+  description: Serpent killed by Apollo, after whom the Pythia was named.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Uninitiated
+  description: Persons from whose view the priestess was hidden during the ceremony.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Croesus
+  description: Rich king of Lydia who consulted an oracle before going to war with
+    Cyrus.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Cyrus
+  description: King of Persia who defeated Croesus.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: seekers of prophetic knowledge
+  assigned_to:
+  - fig:1
+  basis: The Greeks are described as seeking prophetic knowledge from oracles.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: oracular interpreters and ritual attendants
+  assigned_to:
+  - fig:2
+  basis: Priests interpreted predictions, conducted the Pythia into the temple, and
+    interpreted her phrases.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:3
+  label: oracular deity
+  assigned_to:
+  - fig:3
+  basis: The oracle is Apollo's, and the Pythia's utterances were held to be Apollo's
+    utterance.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:4
+  label: ecstatic priestess
+  assigned_to:
+  - fig:4
+  basis: The Pythia delivered oracles after bathing, sitting on the tripod, and entering
+    an ecstatic condition.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: slain serpent namesake
+  assigned_to:
+  - fig:5
+  basis: Python is named as the serpent killed by Apollo and as the source of the
+    Pythia's name.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: excluded observers
+  assigned_to:
+  - fig:6
+  basis: The uninitiated are hidden from the priestess by incense clouds.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: oracle consultant who misinterprets prophecy
+  assigned_to:
+  - fig:7
+  basis: Croesus consults an oracle, interprets the response favourably, and is defeated.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: victorious opposing king
+  assigned_to:
+  - fig:8
+  basis: Cyrus is the Persian king by whom Croesus was defeated.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: serpent Python
+  literal_form: serpent
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Castalian spring waters
+  literal_form: water used for bathing before the oracle ritual
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: cave mouth beneath tripod
+  literal_form: mouth of a cave emitting sulphurous vapours
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: tripod
+  literal_form: three-legged stool or table placed over the cave mouth
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: incense clouds
+  literal_form: clouds of incense filling the temple and hiding the priestess
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: river in Croesus's oracle
+  literal_form: a river crossed by Croesus before the predicted destruction of a great
+    empire
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: General consultation of Greek oracles
+  summary: Greeks seek prophetic knowledge at oracles, and priests interpret the predictions
+    to the people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Delphic oracle ritual of the Pythia
+  summary: At Apollo's oracle at Delphi, the Pythia bathes, enters the temple, sits
+    on a tripod over a cave mouth, becomes ecstatic from vapours, utters phrases attributed
+    to Apollo, and is hidden by incense before being led away fainting.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Croesus and the ambiguous oracle
+  summary: Croesus consults an oracle before war with Cyrus, receives a prediction
+    that crossing a river will destroy a great empire, interprets it favourably, crosses,
+    is defeated, and his own empire is destroyed.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: seeking divine prophetic knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers on people seeking knowledge of the future through oracles
+    and priestly interpretation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy label 'wisdom' is broad; the passage specifically concerns
+    divination and prophecy rather than wisdom teaching in general.
+- id: motif:2
+  label: ecstatic oracle as divine mouthpiece
+  taxonomy_refs:
+  - wisdom
+  basis: The Pythia enters an ecstatic state and utters phrases regarded as Apollo's
+    own utterance, which priests interpret.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No separate taxonomy reference for oracle or divination is supplied.
+- id: motif:3
+  label: serpent slain by deity as cultic namesake
+  taxonomy_refs:
+  - serpent
+  basis: The Pythia is named after Python, a serpent killed by Apollo.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a brief etiological reference and does not narrate
+    the serpent combat episode.
+- id: motif:4
+  label: ambiguous prophecy fulfilled by reversal
+  taxonomy_refs:
+  - wisdom
+  basis: Croesus interprets the oracle's prediction in his favour, but the prediction
+    is fulfilled through the destruction of his own empire.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The taxonomy label 'wisdom' only loosely covers ambiguous oracular knowledge.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6289-6295
+  quote_or_summary: The passage states that humans desire to know the future to avert
+    danger, and that Greeks sought prophetic knowledge from oracles whose predictions
+    were interpreted by appointed priests.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 6297-6301
+  quote_or_summary: Apollo's oracle at Delphi is called the most famous oracle and
+    is described as widely consulted by people from far and near.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 6305-6307
+  quote_or_summary: The priestess was called the Pythia after Python, the serpent
+    killed by Apollo.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 6307-6309
+  quote_or_summary: The Pythia first bathed in the Castalian spring and was then conducted
+    into the temple by priests.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 6309-6312
+  quote_or_summary: She sat on a tripod placed over the mouth of a cave from which
+    sulphurous vapours issued.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: lines 6312-6317
+  quote_or_summary: The Pythia became ecstatic and uttered extraordinary phrases regarded
+    as Apollo's utterance; priests interpreted these for the people, often ambiguously.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+- id: ev:7
+  type: summary
+  locator: lines 6317-6320
+  quote_or_summary: Clouds of incense filled the temple, hid the priestess from the
+    uninitiated, and she was later returned fainting to her cell.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+- id: ev:8
+  type: summary
+  locator: lines 6322-6325
+  quote_or_summary: Croesus consulted an oracle before war with Cyrus; the oracle
+    said crossing a river would destroy a great empire, and after Croesus crossed
+    it he was defeated and his own empire was destroyed.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the passage. Motif tagging is limited
+    because the supplied taxonomy lacks a specific oracle/divination category. No
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; comparisons omitted because the passage does not support a specific external comparison beyond general statements about desire for future knowledge.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l6289-l6325
+  passage_sha256=091f605757025c3861fbafaa392c8ba25ee93e73bfa627b6038d3e3002af2cf0
+

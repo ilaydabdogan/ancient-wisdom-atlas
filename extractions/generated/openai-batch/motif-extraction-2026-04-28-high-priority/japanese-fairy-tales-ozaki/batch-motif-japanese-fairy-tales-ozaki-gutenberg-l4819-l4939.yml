@@ -1,0 +1,518 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l4819-l4939
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE SAGACIOUS MONKEY AND THE BOAR / THE HAPPY HUNTER AND THE SKILLFUL FISHER
+    / THE STORY OF THE OLD MAN WHO MADE WITHERED TREES TO FLOWER / THE JELLY FISH
+    AND THE MONKEY; lines 4819-4939
+  start: '4819'
+  end: '4939'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The Dragon King of the Sea rules a splendid underwater kingdom and possesses
+    jewels controlling the tides. He marries a young dragon princess, but after a
+    short happy period she falls ill. A fish doctor says she can recover only with
+    the liver of a live monkey, which must be obtained from Monkey Island on dry land.
+    The chief steward suggests sending the jelly fish, who can walk on land, and advises
+    that strength will not work; the jelly fish must trick a monkey.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Kingdom of the Sea is ruled by Rin Jin, the Dragon King, who has authority
+    over sea creatures and keeps the Jewels of the Ebb and Flow of the Tide.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The tide jewels can make the sea recede or rise into mountain-high waves flowing
+    onto the shore.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Dragon King’s palace is located at the bottom of the sea and is described
+    as made of coral, jadestone, chrysoprase, and mother-of-pearl.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Dragon King seeks a wife, marries a young dragon bride, and sea creatures
+    gather to celebrate the wedding.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After two months, the Dragon Queen becomes ill and does not recover despite
+    nursing and medicine.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The fish doctor states that the Queen needs the liver of a live monkey, which
+    cannot be found in the sea.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The doctor identifies a Monkey Island to the south where many monkeys live,
+    but the Dragon King notes that his sea subjects are powerless on dry land.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The chief steward proposes sending the jelly fish, described as ugly but able
+    to walk on land with four legs like a tortoise.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The jelly fish is troubled by the mission and says he lacks experience catching
+    monkeys.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The chief steward says a monkey cannot be caught by strength or dexterity
+    and that the jelly fish must play a trick.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Rin Jin, Dragon King of the Sea
+  description: Ruler of all sea creatures, keeper of the tide jewels, husband of the
+    Dragon Queen.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Dragon Queen / young dragon bride
+  description: A lovely young dragon with glittering green scales, fiery eyes, and
+    jeweled robes; she becomes the Dragon King’s wife and later falls ill.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Fish doctor
+  description: A doctor in the sea kingdom who says the Queen can recover if given
+    the liver of a live monkey.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Chief steward
+  description: The Dragon King’s steward, consulted about how to obtain a monkey,
+    who suggests sending the jelly fish and using trickery.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Jelly fish / kurage
+  description: A sea creature said to be ugly, able to walk on land with four legs
+    like a tortoise, and selected to catch a monkey.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Monkeys of Monkey Island
+  description: Monkeys living on an island to the south; one is sought for its live
+    liver.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Fish retainers and sea creatures
+  description: The Dragon King’s subjects and servants, including ambassadors and
+    wedding celebrants from whales to shrimps.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: sea ruler
+  assigned_to:
+  - fig:1
+  basis: He governs the Kingdom of the Sea and rules all sea creatures.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: keeper of tide-controlling jewels
+  assigned_to:
+  - fig:1
+  basis: The Jewels of the Ebb and Flow of the Tide are in his keeping.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: husband seeking cure
+  assigned_to:
+  - fig:1
+  basis: He marries the Dragon Queen and urgently seeks the medicine needed to cure
+    her.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: royal bride
+  assigned_to:
+  - fig:2
+  basis: She is brought to the palace as the Dragon King’s bride and marries him in
+    a splendid ceremony.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: ailing queen
+  assigned_to:
+  - fig:2
+  basis: She falls ill and grows worse despite care and medicine.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: diagnostician prescribing difficult remedy
+  assigned_to:
+  - fig:3
+  basis: He identifies the desired medicine as the liver of a live monkey, unavailable
+    in the sea.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: strategic adviser
+  assigned_to:
+  - fig:4
+  basis: He proposes sending the jelly fish and recommends trickery rather than force.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:8
+  label: land-capable emissary
+  assigned_to:
+  - fig:5
+  basis: He is selected because he can walk on land with four legs like a tortoise.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: reluctant agent
+  assigned_to:
+  - fig:5
+  basis: He says he has not been to the island and does not know how to catch monkeys.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: sought victim or source of remedy
+  assigned_to:
+  - fig:6
+  basis: A live monkey’s liver is required, and Monkey Island is named as the place
+    where monkeys live.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:11
+  label: royal subjects and celebrants
+  assigned_to:
+  - fig:7
+  basis: Sea creatures serve the king, act as ambassadors, and attend the wedding
+    celebration.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sea kingdom
+  literal_form: underwater kingdom and palace at the bottom of the sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Jewels of the Ebb and Flow of the Tide
+  literal_form: two jewels that make the sea recede or rise in great waves
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: coral palace
+  literal_form: palace walls of coral, roof of jadestone and chrysoprase, floors of
+    mother-of-pearl
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: live monkey liver
+  literal_form: the liver of a live monkey prescribed as medicine
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Monkey Island
+  literal_form: island to the south where many monkeys live on dry land
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: land-water boundary
+  literal_form: sea creatures live in water and are powerless on dry land; monkeys
+    live on land
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Undersea rule and tide jewels
+  summary: Rin Jin rules the sea kingdom, keeps the tide jewels, and lives in a splendid
+    palace under the sea.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Marriage of the Dragon King
+  summary: The Dragon King sends fish retainers to find a bride, marries a young dragon,
+    and receives congratulations from sea creatures.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Illness and prescription
+  summary: The Dragon Queen falls ill; the fish doctor says the needed cure is the
+    liver of a live monkey, which cannot be found in the sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Problem of reaching Monkey Island
+  summary: The doctor names Monkey Island as the source of monkeys, but the Dragon
+    King recognizes the difficulty because sea creatures are powerless on dry land.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Jelly fish chosen and trick proposed
+  summary: The chief steward selects the land-walking jelly fish for the mission;
+    the jelly fish hesitates, and the steward says a monkey must be caught by trickery.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: ruler’s bride becomes ill and requires a rare impossible remedy
+  taxonomy_refs: []
+  basis: The Dragon Queen falls ill, and the fish doctor says her cure requires the
+    liver of a live monkey, unavailable in the sea kingdom.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives only the opening of the quest for the remedy; it does
+    not yet show whether the cure is obtained.
+- id: motif:2
+  label: mission across water-land boundary
+  taxonomy_refs: []
+  basis: Sea beings must obtain a monkey from dry land, where they are normally powerless,
+    so a land-capable jelly fish is selected.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage has not yet narrated the actual journey to the island.
+- id: motif:3
+  label: trickery proposed as substitute for force
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The chief steward says strength or dexterity will not catch a monkey and
+    that the jelly fish must play a trick.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The trick is proposed but not yet performed in this passage.
+- id: motif:4
+  label: royal sea marriage
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The Dragon King marries a dragon bride in a lavish ceremony attended by the
+    creatures of the sea.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The marriage is royal and marvelous, but the passage does not explicitly
+    present it as sacred or cosmological.
+- id: motif:5
+  label: tide-controlling royal objects
+  taxonomy_refs: []
+  basis: The Dragon King keeps jewels whose use controls the ebb and flow of the tide.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage describes the jewels but does not show them being used in
+    the narrated action.
+comparison_claims:
+- id: claim:1
+  claim: The planned use of deception to bring a monkey from land into a sea-being’s
+    mission has the same function as a trickster-boundary pattern, because it addresses
+    a crossing between incompatible realms through cunning rather than force.
+  claim_level: same_function
+  target: motif_family:trickster_boundary
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the plan for deception appears in this passage; the actual trick
+    and its outcome are outside the supplied excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4819-4939, opening paragraph
+  quote_or_summary: Rin Jin, the Dragon King of the Sea, governs sea creatures and
+    keeps the Jewels of the Ebb and Flow of the Tide, which can make the sea recede
+    or rise in great waves.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4819-4939, palace description
+  quote_or_summary: The Dragon King’s palace lies at the bottom of the sea and is
+    described with coral walls, a jadestone and chrysoprase roof, and mother-of-pearl
+    floors.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4819-4939, bride search and wedding
+  quote_or_summary: The king sends fish ambassadors to find a dragon bride; he marries
+    the young dragon, and sea creatures gather in ceremonial celebration.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4819-4939, queen’s illness
+  quote_or_summary: After two months of happiness, the Dragon Queen falls ill, stays
+    in bed, and grows worse despite nursing and the fish doctor’s medicine.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 4819-4939, doctor’s prescription
+  quote_or_summary: "“I want the liver of a live monkey!”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short quote.
+- id: ev:6
+  type: summary
+  locator: lines 4819-4939, Monkey Island and land-water problem
+  quote_or_summary: The doctor says monkeys live on an island to the south; the Dragon
+    King says monkeys live on dry land, while sea beings live in water and are powerless
+    out of their element.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4819-4939, steward’s proposal
+  quote_or_summary: The chief steward proposes sending the kurage, or jelly fish,
+    because it is proud of being able to walk on land with four legs like a tortoise.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 4819-4939, jelly fish’s hesitation and advice to trick
+  quote_or_summary: The jelly fish says he has no experience catching monkeys; the
+    steward replies that strength will not work and that the only way is to trick
+    one.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    involving trickery and boundary crossing are well supported as proposed actions,
+    while broader taxonomy links are cautious because the excerpt ends before the
+    trick is carried out.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to available refs and included only where directly supportable or cautiously marked.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l4819-l4939
+  passage_sha256=05ec8b1d643bcf6287f7e27f752da765385141c9809c7cfc52c459cf602113b6
+

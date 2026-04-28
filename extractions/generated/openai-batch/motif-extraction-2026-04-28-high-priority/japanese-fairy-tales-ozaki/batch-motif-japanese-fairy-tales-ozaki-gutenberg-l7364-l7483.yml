@@ -1,0 +1,583 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l7364-l7483
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE STORY OF PRINCE YAMATO TAKE / MOMOTARO, OR THE STORY OF THE SON OF A
+    PEACH / THE OGRE OF RASHOMON / HOW AN OLD MAN LOST HIS WEN; lines 7364-7483
+  start: '7364'
+  end: '7483'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Hako and Eiko recognize that their rescuer may be supernatural. Empress
+    Jokwa asks Shikuyu, the Fire King, to lead her forces against the rebel wizard
+    Kokai, who commands water. Shikuyu uses ashes from a special burned shrub to neutralize
+    Kokai's flood, sees through Kokai's trickery, and helps rout the enemy. Kokai
+    calls unsuccessfully on the Water Devil, then kills himself against Mount Shu.
+    His impact breaks the mountain, releases fire and lava, damages a pillar of Heaven,
+    and causes one corner of the sky to drop toward the earth. Empress Jokwa rewards
+    Shikuyu and then travels to inspect the disaster.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hako and Eiko infer that their rescuer is not merely human and may be a god
+    in disguise.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Empress Jokwa decides to ask Shikuyu, the Fire King, to lead her army against
+    Kokai.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Shikuyu lives at the South Pole because his fire burns everything around him
+    except ice and snow.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Shikuyu is described as a thirty-foot giant, with a marble-like face, white
+    hair and beard, great strength, and mastery over fire.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Kokai is described as a wizard who has supernatural powers and mastery over
+    water.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: Shikuyu instructs the soldiers to burn a certain shrub and fill bags with
+    the ashes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When Kokai raises mountain-high floods by incantation, Shikuyu has the soldiers
+    scatter the ashes, which turn the water into stiff mud.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Kokai pretends to retreat in order to take Hako by surprise, but Shikuyu recognizes
+    the deception.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Kokai calls on the Water Devil, but Shikuyu knows a counter-charm.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Kokai dies by dashing his head against the rocks of Mount Shu.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Kokai's impact bursts the mountain, releases fire from the earth, and breaks
+    a pillar upholding the Heavens.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Fire and lava destroy villages, burn rice-fields, fill riverbeds, and leave
+    people homeless.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Hako
+  description: A young warrior companion of Eiko; he is rescued from Kokai's flood,
+    later fights Kokai in Eiko's place, and is almost deceived by Kokai's feigned
+    retreat.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: Eiko
+  description: A young warrior who is sent by Empress Jokwa to the South Pole to request
+    Shikuyu's help; he fights Kokai before tiring.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Empress Jokwa
+  description: The ruler who consults with Hako and Eiko, sends for Shikuyu, rewards
+    him after Kokai's defeat, and travels to inspect the disaster.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:10
+  - ev:9
+- id: fig:4
+  name_or_label: Shikuyu, the Fire King
+  description: A supernatural fire-master and giant from the South Pole who rescues
+    Hako and Eiko, becomes Generalissimo of Jokwa's army, defeats Kokai's flood with
+    ashes, sees through Kokai's trickery, and knows the counter-charm to the Water
+    Devil.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Kokai
+  description: A rebel wizard with supernatural powers over water who raises floods,
+    uses deception in combat, calls on the Water Devil, and dies at Mount Shu.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Water Devil
+  description: A supernatural power invoked by Kokai during his defeat; Shikuyu has
+    a counter-charm against it.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Jokwa's soldiers
+  description: Thirty thousand soldiers led by Shikuyu; they gather and scatter the
+    ashes and later charge Kokai's forces.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: rescued human warriors
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Hako and Eiko had been rescued from drowning in the flood raised by Kokai.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ruling petitioner and restorer
+  assigned_to:
+  - fig:3
+  basis: Empress Jokwa asks Shikuyu for military aid, rewards him after victory, and
+    goes to inspect the damage to Heaven and earth.
+  evidence_refs:
+  - ev:2
+  - ev:10
+  - ev:9
+- id: role:3
+  label: supernatural fire champion
+  assigned_to:
+  - fig:4
+  basis: Shikuyu is the Fire King, master of fire, and accepts command of Jokwa's
+    army against Kokai.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: rebel water wizard antagonist
+  assigned_to:
+  - fig:5
+  basis: Kokai is the rebel wizard opposed to Jokwa, able to raise floods and associated
+    with mastery of water.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:5
+  label: wise counter-magician
+  assigned_to:
+  - fig:4
+  basis: Shikuyu knows the secret of Kokai's power, uses ashes to counter the flood,
+    detects Kokai's trick, and knows the counter-charm to the Water Devil.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:6
+  label: combatants in Jokwa's army
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:7
+  basis: Hako, Eiko, and the soldiers fight or march under Shikuyu against Kokai's
+    forces.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:7
+  label: invoked water power
+  assigned_to:
+  - fig:6
+  basis: Kokai calls on the Water Devil for help, but Shikuyu's counter-charm prevents
+    aid.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Shikuyu's fire mastery; fire bursting from the broken mountain; burning
+    lava
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+- id: sym:2
+  label: water
+  literal_form: Kokai's water-floods raised by incantation
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: ashes from burned shrub
+  literal_form: Bags of ashes made from a certain burned shrub, scattered into floodwater
+    to form stiff mud
+  associated_figures:
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Mount Shu
+  literal_form: The rocks and mountain against which Kokai dashes his head; the mountain
+    bursts after his impact
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: pillar upholding the Heavens
+  literal_form: One of the pillars upholding the Heavens is broken, making one corner
+    of the sky drop until it touches the earth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: South Pole ice and snow
+  literal_form: The icy and snowy South Pole where Shikuyu can live safely because
+    he cannot burn ice and snow
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: lamp in darkness
+  literal_form: Empress Jokwa lights her lamp to see the extent of the disaster in
+    the darkened place
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Appeal to the Fire King
+  summary: After recognizing that ordinary human strength cannot defeat Kokai, Hako,
+    Eiko, and Empress Jokwa decide to summon Shikuyu from the South Pole to lead the
+    army.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Ashes counter the flood
+  summary: Shikuyu commands soldiers to prepare ashes from a burned shrub. When Kokai
+    raises floods by incantation, the ashes transform the water into mud and prevent
+    drowning.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Combat, deception, and rout
+  summary: Eiko and Hako fight Kokai. Kokai attempts a deceptive retreat, but Shikuyu
+    detects it. Shikuyu's side charges and routs Kokai's forces.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Kokai's death at Mount Shu
+  summary: Kokai's appeal to the Water Devil fails because Shikuyu knows a counter-charm.
+    Kokai then kills himself against Mount Shu.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Cosmic and earthly disaster
+  summary: Kokai's impact bursts Mount Shu, releases fire from the earth, breaks a
+    heavenly pillar, lowers a corner of the sky, and causes destruction by fire and
+    lava. Jokwa travels to inspect the damage.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Victory honors before renewed crisis
+  summary: Shikuyu brings Kokai's body to Empress Jokwa, who rejoices and rewards
+    Shikuyu before confronting the larger disaster caused by Kokai's death.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Elemental opposition of fire and water
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts Shikuyu as master of fire with Kokai as master of water,
+    and the conflict turns on fire-associated countermeasures against magically raised
+    floods.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage presents the opposition explicitly, but the broader cosmological
+    meaning is not developed in this excerpt.
+- id: motif:2
+  label: Wisdom defeats destructive magic
+  taxonomy_refs:
+  - wisdom
+  basis: Shikuyu knows Kokai's secret, uses ashes to neutralize the flood, detects
+    Kokai's deceptive retreat, and knows the counter-charm to the Water Devil.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The motif is inferred from repeated successful counter-knowledge rather
+    than from an explicit statement that wisdom is the theme.
+- id: motif:3
+  label: Supernatural helper summoned by a ruler
+  taxonomy_refs: []
+  basis: Empress Jokwa sends Eiko to ask Shikuyu, a supernatural Fire King, to lead
+    her army against Kokai.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference precisely matches this pattern.
+- id: motif:4
+  label: Mountain rupture releases world-damaging fire
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: After Kokai dies against Mount Shu, the mountain bursts, fire comes from
+    the earth, and lava and fire destroy villages, fields, and riverbeds.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The damage is regional in the passage, though it is tied to damage to
+    Heaven and earth.
+- id: motif:5
+  label: Cosmic order damaged by broken sky support
+  taxonomy_refs:
+  - chaos
+  basis: Kokai's impact breaks a pillar upholding the Heavens and causes one corner
+    of the sky to drop until it touches the earth.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The excerpt stops at the inspection of the damage and does not include
+    any repair or restoration episode.
+- id: motif:6
+  label: Victory followed by unresolved disaster
+  taxonomy_refs: []
+  basis: Kokai is defeated and Jokwa rewards Shikuyu, but the passage immediately
+    states that trouble remains because Kokai's death has caused fire, lava, and damage
+    to Heaven and earth.
+  evidence_refs:
+  - ev:10
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: This is a narrative sequence pattern rather than a named taxonomy motif
+    in the supplied list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7364-7366; 7392-7394
+  quote_or_summary: Hako and Eiko think their deliverer may be a god in disguise;
+    Shikuyu later says he rescued them when they were drowning in Kokai's flood.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 7372-7376
+  quote_or_summary: Hako and Eiko tell Empress Jokwa that Kokai has supernatural powers;
+    Jokwa decides to ask Shikuyu, the Fire King, to help and lead her army against
+    Kokai.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 7378-7384
+  quote_or_summary: Shikuyu lives at the South Pole because he burns everything except
+    ice and snow; he is a thirty-foot giant and master of all fire, just as Kokai
+    is master of water.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 7400-7412
+  quote_or_summary: Shikuyu returns with Eiko, is asked to become Generalissimo, assures
+    Jokwa he will kill Kokai, leads thirty thousand soldiers, and orders them to burn
+    a certain shrub and bag the ashes.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 7414-7424
+  quote_or_summary: Kokai boasts that he can extinguish the Fire King, raises floods
+    as high as mountains by incantation, and Shikuyu has the soldiers scatter ashes
+    that turn the water into stiff mud.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 7430-7452
+  quote_or_summary: Eiko fights Kokai, Hako replaces him, Kokai pretends to retreat
+    in order to surprise Hako, and Shikuyu identifies the deception and urges Hako
+    to attack.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: 7454-7463
+  quote_or_summary: Shikuyu orders Jokwa's soldiers to charge and rout Kokai's forces;
+    Kokai calls on the Water Devil, but Shikuyu knows the counter-charm; Kokai dashes
+    his head against Mount Shu and dies.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: 7465-7470
+  quote_or_summary: Kokai's fall against the rocks bursts the mountain, releases fire
+    from the earth, and breaks a pillar upholding the Heavens so that one corner of
+    the sky drops to the earth.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: summary
+  locator: 7476-7483
+  quote_or_summary: Fire continues bursting from the mountain; villages are destroyed,
+    rice-fields burned, riverbeds filled with lava, people made homeless, and Jokwa
+    travels to inspect the damage to Heaven and earth in darkness.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:10
+  type: summary
+  locator: 7471-7474
+  quote_or_summary: Shikuyu carries Kokai's body to Empress Jokwa, who rejoices that
+    her enemy is defeated and gives Shikuyu gifts and honors.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif candidates
+    use only supplied taxonomy references where directly supported. No comparison
+    claims were made because the passage does not itself support comparison to another
+    text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Line locators are based on the provided stable line range and visible passage segmentation.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l7364-l7483
+  passage_sha256=6e739936bc75b245d66712a49c06888f51a9f580f0071576b32150b03fcb91c9
+

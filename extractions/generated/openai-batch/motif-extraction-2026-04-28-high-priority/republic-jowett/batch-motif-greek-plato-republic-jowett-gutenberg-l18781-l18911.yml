@@ -1,0 +1,576 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l18781-l18911
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK IV. / BOOK V. / BOOK VI. / BOOK VII.; lines 18781-18911
+  start: '18781'
+  end: '18911'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: To them, I said, the truth would be literally nothing but the shadows of
+    the images.
+  summary: The passage presents a figurative account of human beings chained in an
+    underground den, seeing only shadows cast by firelight, and then describes the
+    painful release, ascent toward the upper world, gradual vision of objects and
+    heavenly lights, contemplation of the sun, reflection on the former den, and difficulty
+    of returning to darkness.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Human beings are described as living from childhood in an underground den
+    with their legs and necks chained so that they can only look forward.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A fire burns above and behind the prisoners, and a raised way and low wall
+    stand between the fire and the prisoners.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: People pass along the wall carrying vessels, statues, and animal figures made
+    of wood, stone, and other materials; some speak and others are silent.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The prisoners see only shadows of themselves, one another, and the carried
+    objects on the opposite wall of the cave.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: An echo from the other side of the prison would lead the prisoners to associate
+    a passer-by's voice with the passing shadow.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A released prisoner is compelled to stand, turn, walk, and look toward the
+    light, suffering pain and distress from the glare.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The released prisoner is imagined as initially judging the former shadows
+    to be truer than the objects shown to him.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The prisoner is reluctantly dragged up a steep and rugged ascent until forced
+    into the presence of the sun.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The prisoner gradually sees shadows, reflections in water, objects, heavenly
+    lights by night, and finally the sun in its own place.
+  category: sequence
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:10
+  text: The sun is described as giving seasons and years, guarding the visible world,
+    and being in a certain way the cause of what the prisoner and his fellows had
+    seen.
+  category: attribute
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The liberated prisoner remembers the old habitation, the den's wisdom, and
+    his fellow-prisoners, and is said to pity them.
+  category: relationship
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: When imagined returning suddenly from the sun to the old situation, the prisoner
+    would have eyes full of darkness.
+  category: sequence
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: Chained prisoners
+  description: Human beings in an underground den, chained from childhood so they
+    can only see before them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Passers-by carrying objects
+  description: Men passing along the wall with vessels, statues, and animal figures;
+    some speak and some are silent.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Released prisoner
+  description: One prisoner who is liberated, compelled to turn toward the light,
+    dragged upward, acclimated to the upper world, and imagined returning to the cave.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:11
+  - ev:13
+- id: fig:4
+  name_or_label: Instructor
+  description: A person imagined as telling the released prisoner that his former
+    sight was illusion and pointing to the passing objects for him to name.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Fellow-prisoners
+  description: The remaining prisoners in the den whom the released prisoner remembers
+    and pities.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:11
+  - ev:12
+roles:
+- id: role:1
+  label: Captive observers
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: They are chained in the den and limited to seeing shadows before them.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: Object carriers and shadow-casters
+  assigned_to:
+  - fig:2
+  basis: They carry objects behind the prisoners, causing visible shadows and audible
+    speech associated with shadows.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: Painfully reoriented learner
+  assigned_to:
+  - fig:3
+  basis: The liberated prisoner is forced to turn toward the light, suffers pain,
+    and gradually learns to see beyond shadows.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: role:4
+  label: Guide or instructor
+  assigned_to:
+  - fig:4
+  basis: The imagined instructor explains the former illusion and points out objects
+    for naming.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: Returnee to darkness
+  assigned_to:
+  - fig:3
+  basis: The same person is imagined returning from sunlight to the old situation
+    with eyes full of darkness.
+  evidence_refs:
+  - ev:13
+symbols:
+- id: sym:1
+  label: Underground den or cave
+  literal_form: An underground den with an opening toward the light.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Chains
+  literal_form: Chains on the prisoners' legs and necks preventing movement and head-turning.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Fire behind the prisoners
+  literal_form: A blazing fire above and behind the prisoners at a distance.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Low wall or screen
+  literal_form: A low wall along the raised way, compared to a marionette screen.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Carried images
+  literal_form: Vessels, statues, and figures of animals made of wood, stone, and
+    various materials.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Shadows
+  literal_form: Shadows of prisoners and carried objects cast on the opposite wall
+    of the cave.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: Echo
+  literal_form: An echo coming from the other side of the prison.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: Steep and rugged ascent
+  literal_form: An upward path by which the prisoner is dragged toward the sun.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: Water reflections
+  literal_form: Reflections of men and other objects in water, seen before the objects
+    themselves.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:10
+  label: Sun
+  literal_form: The sun seen in its own proper place and described as source of seasons,
+    years, and visible-world order.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: sym:11
+  label: Moon, stars, and heaven
+  literal_form: The light of the moon, stars, and spangled heaven seen during acclimation
+    to the upper world.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:12
+  label: Darkened eyes on return
+  literal_form: Eyes full of darkness when the released prisoner returns suddenly
+    from the sun to the old situation.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:13
+scenes:
+- id: scene:1
+  label: Chained life in the underground den
+  summary: Prisoners live from childhood chained in an underground den, unable to
+    turn their heads, with fire and a wall behind them.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Shadows and echoes taken as reality
+  summary: Passers-by carry objects behind the prisoners; the prisoners see shadows
+    and may attribute voices and names to the shadows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Release and painful turning toward light
+  summary: A prisoner is released, forced to stand, turn, walk, and look toward the
+    light, experiencing pain, distress, and perplexity.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Ascent to the upper world and vision of the sun
+  summary: The prisoner is dragged up a steep ascent, gradually learns to see shadows,
+    reflections, objects, night sky, and finally the sun itself.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:8
+  - sym:9
+  - sym:10
+  - sym:11
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Reflection on the den and its honours
+  summary: The liberated prisoner recalls the old habitation and its shadow-based
+    honors, pities the prisoners, and would prefer suffering to that former way of
+    life.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: scene:6
+  label: Return from sunlight to darkness
+  summary: The liberated prisoner is imagined returning suddenly from sunlight to
+    the old situation and being darkened in vision.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:10
+  - sym:12
+  evidence_refs:
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: Ascent from underground darkness to light
+  taxonomy_refs:
+  - ascent
+  basis: The released prisoner is dragged up a steep and rugged ascent from the den
+    toward the upper world and the sun.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage is explicitly philosophical and figurative, not a narrative
+    myth in the strict sense.
+- id: motif:2
+  label: Painful initiation into clearer vision
+  taxonomy_refs:
+  - initiation
+  - wisdom
+  basis: The liberated prisoner undergoes compulsion, pain, disorientation, gradual
+    acclimation, and eventual understanding of the sun's role.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The initiation pattern is inferred from the sequence of reorientation
+    and learning; the passage does not use ritual terminology.
+- id: motif:3
+  label: Shadow-world contrasted with real objects
+  taxonomy_refs:
+  - duality
+  - wisdom
+  basis: The den presents a contrast between shadows taken as truth and later-seen
+    objects and sunlight treated as clearer vision.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: The contrast is epistemological in the passage; broader dualistic interpretation
+    should remain cautious.
+- id: motif:4
+  label: Return of the enlightened figure to former darkness
+  taxonomy_refs:
+  - return
+  basis: The prisoner who has seen the sun is imagined returning suddenly to the old
+    situation and being unable to see in the darkness.
+  evidence_refs:
+  - ev:13
+  confidence: medium
+  cautions: Only the beginning of the return episode is included in this excerpt.
+- id: motif:5
+  label: Solar source of visible order
+  taxonomy_refs:
+  - seasonal_cycle
+  - wisdom
+  basis: The sun is described as giving seasons and years and as a cause of the visible
+    things the prisoners had beheld.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The sun is part of a philosophical image rather than an independent solar
+    deity narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 18781-18789
+  quote_or_summary: Human beings live in an underground den from childhood, with legs
+    and necks chained so they can only see before them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; concise excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: 18789-18795
+  quote_or_summary: A fire blazes above and behind the prisoners; a raised way and
+    low wall stand between the fire and prisoners, compared to a marionette screen.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: 18798-18803
+  quote_or_summary: Men pass along the wall carrying vessels, statues, and animal
+    figures of wood, stone, and other materials; some talk and others remain silent.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: 18806-18818
+  quote_or_summary: The prisoners see only their own shadows, one another's shadows,
+    and the shadows of the carried objects.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: 18820-18833
+  quote_or_summary: If the prison had an echo, prisoners would think a passer-by's
+    spoken voice came from the passing shadow; the truth for them would be only shadows
+    of images.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: 18835-18854
+  quote_or_summary: When a prisoner is liberated and compelled to stand, turn, walk,
+    and look toward the light, he suffers pain, is distressed by glare, and is perplexed
+    when shown the objects.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: quote
+  locator: 18863-18870
+  quote_or_summary: The prisoner is “reluctantly dragged up a steep and rugged ascent”
+    and forced into the presence of the sun.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; short quote.
+- id: ev:8
+  type: summary
+  locator: 18873-18882
+  quote_or_summary: The prisoner grows accustomed to the upper world, first seeing
+    shadows, then reflections in water, then objects, then moon, stars, and the night
+    sky.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: 18885-18890
+  quote_or_summary: Last of all, the prisoner can see the sun itself, not merely its
+    reflection in water, and contemplate it in its own place.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:10
+  type: summary
+  locator: 18893-18899
+  quote_or_summary: The prisoner reasons that the sun gives seasons and years, guards
+    the visible world, and is in a certain way the cause of what he and his fellows
+    had seen.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:11
+  type: summary
+  locator: 18901-18906
+  quote_or_summary: Remembering the old habitation, the wisdom of the den, and fellow-prisoners,
+    the liberated person would felicitate himself and pity them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:12
+  type: summary
+  locator: 18908-18925
+  quote_or_summary: The den's prisoners honor those best at observing passing shadows,
+    sequences, conjunctions, and predicting what will come; the liberated person would
+    not envy such honors.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:13
+  type: summary
+  locator: 18931-18935
+  quote_or_summary: A person coming suddenly from the sun back to the old situation
+    would have eyes full of darkness.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal elements are explicit in the passage. Motif labels are cautious because
+    the excerpt is an allegorical philosophical passage rather than a conventional
+    myth narrative. No comparison claims were generated beyond available motif-family
+    tagging.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. Taxonomy references limited to supplied motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l18781-l18911
+  passage_sha256=5362e764797b16e3475635231865a79703e069c94cbed1c5f2ab313564b278f1
+

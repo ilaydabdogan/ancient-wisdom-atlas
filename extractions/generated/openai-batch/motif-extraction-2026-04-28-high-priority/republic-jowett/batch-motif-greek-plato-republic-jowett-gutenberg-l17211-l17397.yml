@@ -1,0 +1,502 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l17211-l17397
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK III. / BOOK IV. / BOOK V. / BOOK VI.; lines 17211-17397
+  start: '17211'
+  end: '17397'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'In a dialogue with Glaucon, the speaker distinguishes true and false philosophers
+    and argues that those able to grasp eternal and unchangeable truth should be guardians
+    or rulers. The passage lists qualities of the genuine philosophical nature: love
+    of truth and true being, temperance, freedom from covetousness, largeness of mind,
+    lack of fear of death, justice, gentleness, pleasure in learning, and good memory.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says that true and false philosophers have come into view after
+    a long argument.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The speaker asks which of two classes should rule the State: those who grasp
+    the eternal and unchangeable, or those who wander among the many and variable.'
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The proposed guardians are those best able to guard the laws and institutions
+    of the State.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker compares persons without knowledge of true being and without a
+    clear pattern in their souls to blind persons.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker says that philosophical minds love knowledge showing the eternal
+    nature, not varying from generation and corruption.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The philosophical nature is described as loving true being and truth, and
+    as detesting falsehood.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The speaker compares desires directed toward knowledge to a stream drawn off
+    into another channel, leaving bodily pleasures weaker.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The philosophical person is described as temperate, not covetous, and as longing
+    after the whole of divine and human things.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The philosophical person is described as a spectator of all time and all existence
+    who does not fear death.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The speaker says that signs distinguishing the philosophical nature in youth
+    include justice, gentleness, and sociability rather than rudeness.
+  category: attribute
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The speaker says that the philosopher should take pleasure in learning and
+    should have a good memory; a forgetful learner is compared to an empty vessel.
+  category: attribute
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: speaker in the dialogue
+  description: The first-person speaker who questions Glaucon and develops the account
+    of philosophers as possible rulers.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Glaucon
+  description: The named interlocutor addressed by the speaker and responding to the
+    argument.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: true philosophers or philosophical minds
+  description: Those able to grasp the eternal and unchangeable, lovers of true being,
+    truth, and knowledge.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: false philosophers or non-philosophers
+  description: Those who wander in the region of the many and variable and lack knowledge
+    of true being.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: guardians or rulers of the State
+  description: The class under consideration for guarding the laws and institutions
+    and ruling the State.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: true lover of learning
+  description: A person whose desires are drawn toward knowledge, who is absorbed
+    in pleasures of the soul, and who should have good memory.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+  - ev:11
+roles:
+- id: role:1
+  label: questioning speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker asks Glaucon a series of questions about philosophers, guardians,
+    and the State.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: teacher of philosophical criteria
+  assigned_to:
+  - fig:1
+  basis: The speaker enumerates qualities by which the philosophical nature is to
+    be recognized.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:11
+- id: role:3
+  label: interlocutor
+  assigned_to:
+  - fig:2
+  basis: Glaucon is addressed by name and answers the speaker's questions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: lover of knowledge and truth
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: The passage says philosophical minds love knowledge, true being, and truth,
+    and that the true lover of learning desires all truth.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: qualified ruler candidate
+  assigned_to:
+  - fig:3
+  basis: The passage argues that those who know the truth of each thing should have
+    first place unless they fail in some other respect.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:6
+  label: unqualified or blind guardian candidate
+  assigned_to:
+  - fig:4
+  basis: Those lacking knowledge of true being and a clear pattern in the soul are
+    called much like blind persons.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: law and institution guardian
+  assigned_to:
+  - fig:5
+  basis: Guardians are defined as those best able to guard the laws and institutions
+    of the State.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: eyes and vision
+  literal_form: eyes, painter's eye, perfect vision
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: blindness
+  literal_form: blind persons; wanting knowledge of true being and lacking a clear
+    pattern in the soul
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: clear pattern in the soul
+  literal_form: clear pattern in their souls; absolute truth as an original to which
+    laws are repaired
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: stream diverted into another channel
+  literal_form: desires like a stream drawn off into another channel
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: empty vessel
+  literal_form: forgetful learner compared to an empty vessel
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:6
+  label: spectator of all time and existence
+  literal_form: soul or person as spectator of all time and all existence
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Opening distinction between true and false philosophers
+  summary: The speaker tells Glaucon that the discussion has brought true and false
+    philosophers into view, and Glaucon agrees the path could not have been shortened.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Question of who should rule the State
+  summary: The speaker asks whether those who grasp eternal and unchangeable being
+    or those who wander among variable things should be rulers, and the answer is
+    that the best guardians of the laws and institutions should rule.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Definition of the philosophical nature
+  summary: The speaker and Glaucon agree that philosophical minds love knowledge of
+    eternal nature, true being, truth, and wisdom, and cannot be lovers of falsehood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Desires redirected toward knowledge
+  summary: The speaker says that a person whose desires are drawn toward knowledge
+    will be absorbed in pleasures of the soul and will have weaker bodily pleasures.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Moral and intellectual signs of the philosopher
+  summary: The speaker lists temperance, lack of covetousness, largeness of mind,
+    lack of fear of death, justice, gentleness, pleasure in learning, and memory as
+    signs of the philosophical nature.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: wisdom as qualification for rulership
+  taxonomy_refs:
+  - wisdom
+  - royal_legitimacy
+  basis: The passage argues that rulers or guardians should be those who know the
+    truth of each thing and can guard the laws and institutions of the State.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is philosophical argument rather than mythic narrative; the
+    motif label identifies a political-wisdom pattern, not a narrated myth.
+- id: motif:2
+  label: vision and blindness as knowledge and ignorance
+  taxonomy_refs:
+  - wisdom
+  basis: The passage contrasts guardians with eyes and perfect vision of truth against
+    persons lacking knowledge of true being, who are described as blind.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is an explicit metaphor within philosophical discourse; no available
+    taxonomy symbol directly matches eyes or blindness.
+- id: motif:3
+  label: philosopher as lover and seeker of eternal truth
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: Philosophical minds are described as loving knowledge of the eternal and
+    unchangeable and as desiring all truth from youth.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not narrate an actual journey or quest; the quest-like
+    element is an intellectual orientation.
+- id: motif:4
+  label: turning desire from bodily pleasures toward the soul
+  taxonomy_refs:
+  - duality
+  - wisdom
+  basis: The speaker contrasts pleasures of the soul with bodily pleasure and uses
+    the image of a stream drawn into another channel.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The duality is ethical and psychological, not presented as a cosmological
+    myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17211-17217
+  quote_or_summary: The speaker addresses Glaucon and says that true and false philosophers
+    have appeared in view after a long argument; Glaucon says the path could not have
+    been shortened.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: quote
+  locator: lines 17225-17230
+  quote_or_summary: "“philosophers only are able to grasp the eternal and unchangeable,”
+    while others “wander in the region of the many and variable”; the speaker asks
+    which class should rule the State."
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 17234-17235
+  quote_or_summary: "“Whichever of the two are best able to guard the laws and institutions
+    of our State—let them be our guardians.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 17239-17257
+  quote_or_summary: The speaker says a guardian should have eyes, then describes those
+    without knowledge of true being or a clear pattern in the soul as lacking the
+    painter-like vision needed to order laws about beauty, goodness, and justice,
+    and says they are much like blind persons.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: quote
+  locator: lines 17272-17278
+  quote_or_summary: "“philosophical minds always love knowledge of a sort which shows
+    them the eternal nature not varying from generation and corruption.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 17280-17308
+  quote_or_summary: The philosophical mind is said to love all true being, to possess
+    truthfulness, to detest falsehood, and to desire all truth from earliest youth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:7
+  type: summary
+  locator: lines 17310-17321
+  quote_or_summary: The speaker says strong desires in one direction are weaker in
+    others, like a stream drawn into another channel; the true philosopher’s desires
+    are drawn toward knowledge and pleasures of the soul rather than bodily pleasure.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:8
+  type: summary
+  locator: lines 17323-17339
+  quote_or_summary: The philosophical person is described as temperate, not covetous,
+    and not mean, because the soul longs after the whole of divine and human things.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:9
+  type: quote
+  locator: lines 17341-17348
+  quote_or_summary: The speaker asks how one with “magnificence of mind” who is “the
+    spectator of all time and all existence” could think much of human life or fear
+    death.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:10
+  type: summary
+  locator: lines 17350-17363
+  quote_or_summary: The speaker excludes cowardice, meanness, covetousness, boasting,
+    injustice, and harshness from true philosophy, and says youth reveals whether
+    a person is just and gentle or rude and unsociable.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:11
+  type: summary
+  locator: lines 17365-17395
+  quote_or_summary: The speaker says a philosophical nature must take pleasure in
+    learning, not be forgetful, and have good memory; the forgetful learner is likened
+    to an empty vessel and to one laboring in vain.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif assignments are
+    cautious because the passage is philosophical dialogue rather than mythic narrative.
+    No comparison claims were added because the passage itself does not support a
+    specific cross-text or cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only supplied passage text and metadata were used. Available taxonomy references were applied only where directly supported by the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l17211-l17397
+  passage_sha256=164d60a67b955f3547b9d33509caac8076732170b96b191b6d8c717872669f23
+

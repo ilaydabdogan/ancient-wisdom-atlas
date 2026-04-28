@@ -1,0 +1,525 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l20815-l20973
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK V. / BOOK VI. / BOOK VII. / BOOK VIII.; lines 20815-20973
+  start: '20815'
+  end: '20973'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes how the son of a timocratic man, after seeing his
+    father ruined by the state, turns from ambition to money-making. His covetous
+    element is figured as a ruler over reason and spirit, producing the oligarchical
+    character: miserly, outwardly respectable, inwardly divided, and ruled by wealth.
+    The dialogue then turns to the emergence of democracy from oligarchy, describing
+    rulers who profit from spendthrift youths, impoverished citizens who remain armed
+    and resentful, and a revolutionary disposition arising from economic injustice.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A son first imitates his father, but after the father is ruined by trial,
+    death or exile, loss of citizenship, and confiscation of property, the son becomes
+    fearful and poor.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The son removes ambition and passion from the ruling place in himself and
+    turns to money-making, saving, and hard work.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The covetous element is described as sitting on a vacant throne and playing
+    the great king within him, with royal and martial ornaments.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Reason and spirit are made subordinate to the money-making element and are
+    directed toward increasing wealth and admiring rich men.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The avaricious individual is identified as the oligarchical youth and is compared
+    to the oligarchical state.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The oligarchical individual satisfies only necessary appetites, suppresses
+    other desires as unprofitable, saves money, and is praised by the vulgar.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage says that lack of cultivation leaves dronelike desires in the
+    man, including pauper and rogue desires, which are held down by habit, necessity,
+    and fear rather than reason.
+  category: attribute
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:8
+  text: The miser is described as being at war with himself, as two men rather than
+    one, although his better desires generally prevail over his inferior ones.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: The miser is said to compete poorly for prizes of victory or honour because
+    he refuses to spend money and fights with only a small part of his resources.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:10
+  text: The passage turns from oligarchy to democracy and asks how the change arises
+    from an insatiable desire for wealth.
+  category: sequence
+  evidence_refs:
+  - ev:11
+- id: obs:11
+  text: Oligarchical rulers profit from spendthrift youths by lending at interest
+    and buying their estates, thereby increasing their own wealth and importance.
+  category: action
+  evidence_refs:
+  - ev:12
+- id: obs:12
+  text: Citizens of good family are reduced to beggary, remain in the city armed and
+    resentful, and conspire against those who possess their former property.
+  category: action
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: Father of the timocratic son
+  description: A general or high officer who is brought to trial under prejudice raised
+    by informers and loses life, exile, citizenship, property, or some combination
+    of these.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Son of the timocratic man
+  description: A youth who first emulates his father, then becomes ruined, fearful,
+    poor, and devoted to money-making.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Covetous element
+  description: An inner element seated on the vacant throne and described as playing
+    the great king within the transformed youth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Reason and spirit
+  description: Inner powers made to sit obediently on either side of the covetous
+    ruler and directed toward wealth-related aims.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Oligarchical rulers
+  description: Rulers whose power rests on wealth and who profit from the ruin of
+    spendthrift youths.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:12
+- id: fig:6
+  name_or_label: Spendthrift youths
+  description: Extravagant young men whose ruin benefits the wealthy rulers through
+    interest and estate acquisition.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:12
+- id: fig:7
+  name_or_label: Impoverished armed citizens
+  description: Men of good family reduced to beggary who remain in the city, are armed,
+    resentful, indebted or disenfranchised, and eager for revolution.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:13
+roles:
+- id: role:1
+  label: Ruined public man
+  assigned_to:
+  - fig:1
+  basis: The father is described as an officer brought to trial and deprived of life,
+    exile status, citizenship, or property.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Transformed son
+  assigned_to:
+  - fig:2
+  basis: The son changes from emulating the father to rejecting ambition and taking
+    up money-making after ruin and fear.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: Oligarchical youth or miser
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the avaricious person as the oligarchical youth and
+    describes him as miserly and wealth-valuing.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: Inner sovereign of appetite and wealth
+  assigned_to:
+  - fig:3
+  basis: The covetous element is seated on a throne and made to play the great king
+    within the person.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Subordinated inner powers
+  assigned_to:
+  - fig:4
+  basis: Reason and spirit are made obedient to the covetous ruler and redirected
+    toward wealth.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Wealth-preserving oligarchs
+  assigned_to:
+  - fig:5
+  basis: The rulers' power rests on wealth and they increase their own importance
+    by profiting from others' ruin.
+  evidence_refs:
+  - ev:12
+- id: role:7
+  label: Objects of exploitation
+  assigned_to:
+  - fig:6
+  basis: The rulers refuse to restrain the youths' extravagance because they gain
+    by their ruin.
+  evidence_refs:
+  - ev:12
+- id: role:8
+  label: Potential revolutionaries
+  assigned_to:
+  - fig:7
+  basis: The impoverished citizens hate, conspire, and are eager for revolution.
+  evidence_refs:
+  - ev:13
+symbols:
+- id: sym:1
+  label: Vacant throne of the soul
+  literal_form: throne
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Royal and martial ornaments of appetite
+  literal_form: tiara, chain, and scimitar
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Blind god as director
+  literal_form: blind god directing a chorus
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:14
+- id: sym:4
+  label: Dronelike desires
+  literal_form: drone-like pauper and rogue desires
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Stinging armed poor
+  literal_form: armed men ready to sting
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:13
+- id: sym:6
+  label: Sunken reef of the state
+  literal_form: state as a sunken reef against which the father founders
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Ruin of the father and transformation of the son
+  summary: The son sees his father ruined by the state, loses security, becomes fearful
+    and poor, and shifts from ambition to money-making.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Enthronement of the covetous element
+  summary: The youth's covetous element is placed in the ruling position, while reason
+    and spirit become subordinate and serve wealth-making.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Character of the oligarchical individual
+  summary: The miserly individual saves money, suppresses unnecessary desires, harbors
+    dronelike bad desires, and remains inwardly divided.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: Transition from oligarchy toward democracy
+  summary: The dialogue describes oligarchical rulers profiting from extravagance,
+    the incompatibility of wealth-love and moderation, and impoverished armed citizens
+    becoming resentful and revolutionary.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: Inner enthronement of appetite over reason
+  taxonomy_refs:
+  - duality
+  basis: The passage presents the person as an internal polity in which the covetous
+    element becomes king and reason and spirit are subordinated.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a philosophical-psychological image rather than a mythic narrative
+    episode.
+- id: motif:2
+  label: Divided self as two persons
+  taxonomy_refs:
+  - duality
+  basis: The miser is explicitly described as at war with himself and as two men rather
+    than one.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The motif is abstract and ethical, not tied to a named mythic figure.
+- id: motif:3
+  label: Fear-driven conversion from honor to wealth
+  taxonomy_refs: []
+  basis: The son’s observation of his father’s ruin causes him to abandon ambition
+    and pursue wealth through saving and labor.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a political-psychological pattern in dialogue form, not a conventional
+    mythological plot.
+- id: motif:4
+  label: Economic injustice producing revolutionary avengers
+  taxonomy_refs: []
+  basis: The passage describes impoverished armed citizens who hate and conspire against
+    those who have acquired their property and are eager for revolution.
+  evidence_refs:
+  - ev:13
+  confidence: medium
+  cautions: The passage supports a social pattern but not a specific mythic taxonomy
+    reference.
+- id: motif:5
+  label: False or blind guide of life
+  taxonomy_refs:
+  - wisdom
+  basis: The oligarchical individual is said to have made a blind god director of
+    his chorus, implying misdirected ordering of the self through lack of cultivation.
+  evidence_refs:
+  - ev:14
+  confidence: low
+  cautions: The 'blind god' image is brief and metaphorical; the passage does not
+    name the god or expand the image.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the miserly individual to the oligarchical
+    state, presenting the person as an image of the political order he represents.
+  claim_level: same_function
+  target: Oligarchical individual and oligarchical State
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:10
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the philosophical argument and should
+    not be treated as evidence of historical contact or mythic inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 20815-20824
+  quote_or_summary: The son emulates his father, then sees him ruined by the State
+    like a ship foundering on a sunken reef; the father may be tried, executed, exiled,
+    deprived of citizenship, and stripped of property.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 20827-20833
+  quote_or_summary: The son, ruined and fearful, casts ambition and passion from the
+    throne of his bosom, becomes humbled by poverty, and turns to money-making, saving,
+    and hard work.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 20831-20834
+  quote_or_summary: '"seat the concupiscent and covetous element on the vacant throne"
+    and let it "play the great king within him, girt with tiara and chain and scimitar"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: 20838-20844
+  quote_or_summary: Reason and spirit are made to sit obediently on either side of
+    the covetous sovereign and are directed toward turning smaller sums into larger
+    ones and admiring riches and rich men.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 20848-20857
+  quote_or_summary: The dialogue identifies the avaricious person as the oligarchical
+    youth and asks whether he resembles the State from which oligarchy came.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 20859-20872
+  quote_or_summary: The individual and state both value wealth; the individual satisfies
+    only necessary appetites, suppresses unprofitable desires, saves money, and is
+    praised by the vulgar.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: 20878-20882
+  quote_or_summary: '"there will be found in him dronelike desires as of pauper and
+    rogue"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:8
+  type: summary
+  locator: 20888-20896
+  quote_or_summary: His bad passions are coerced by enforced virtue, necessity, and
+    fear rather than tamed by reason; he trembles for his possessions.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: 20902-20907
+  quote_or_summary: '"The man, then, will be at war with himself; he will be two men,
+    and not one"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:10
+  type: summary
+  locator: 20913-20923
+  quote_or_summary: The miser avoids spending in contests for glory, fights with only
+    part of his resources, and commonly loses the prize while saving his money.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 20929-20939
+  quote_or_summary: The discussion turns to democracy and asks how oligarchy changes
+    into democracy, beginning from an insatiable desire to become as rich as possible.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: 20941-20951
+  quote_or_summary: Rulers whose power rests on wealth refuse to restrain spendthrift
+    youth because they gain by their ruin, taking interest and buying estates.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: 20961-20973
+  quote_or_summary: Men of good family reduced to beggary remain in the city, armed
+    and ready to sting; some are in debt or disenfranchised, and they hate, conspire,
+    and desire revolution.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:14
+  type: quote
+  locator: 20874-20877
+  quote_or_summary: '"he would never have made a blind god director of his chorus"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is philosophical and political rather than mythological. Motif
+    candidates are therefore limited to abstract patterns directly supported by the
+    passage imagery and argument.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons or unsupported taxonomy identifiers were added. Available symbol taxonomy terms such as cave, fire, serpent, tree, water, milk, and mountain are not present in this passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l20815-l20973
+  passage_sha256=94bb78007bd016c6c1cffda33ca8ff41fa22ebcc2ceb18b14c1063e895a399c3
+

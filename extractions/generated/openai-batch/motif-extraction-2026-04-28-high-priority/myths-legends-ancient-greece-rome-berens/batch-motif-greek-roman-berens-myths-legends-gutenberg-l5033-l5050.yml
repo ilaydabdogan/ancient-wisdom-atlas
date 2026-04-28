@@ -1,0 +1,363 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l5033-l5050
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: IRIS (THE RAINBOW). / HEBE (JUVENTAS). / JUVENTAS. / GANYMEDES.; lines 5033-5050
+  start: '5033'
+  end: '5050'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Juventas as the Roman divinity identified with Hebe
+    and associated with the vigor and glory of the Roman state. It then recounts Ganymedes,
+    son of Tros, being seen by Zeus while drawing water on Mount Ida, carried by Zeus's
+    eagle to Olympus, granted immortality, and made cup-bearer to the gods.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Juventas is identified as the Roman divinity corresponding to Hebe.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Juventas's attributes were regarded by Romans as applying especially to the
+    imperishable vigour and immortal glory of the state.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Several temples were erected in Rome in honor of Juventas.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ganymedes is described as the youngest son of Tros, king of Troy.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ganymedes was drawing water from a well on Mount Ida when Zeus observed him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Zeus was struck by Ganymedes's wonderful beauty.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Zeus sent his eagle to transport Ganymedes to Olympus.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Ganymedes was endowed with immortality and appointed cup-bearer to the gods.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Ganymedes is represented as a youth of exquisite beauty with golden hair,
+    delicate features, blue eyes, and pouting lips.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Juventas
+  description: Roman divinity identified with Hebe and associated with the imperishable
+    vigour and immortal glory of the state.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Hebe
+  description: Greek divinity with whom Juventas is identified.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Ganymedes
+  description: Youngest son of Tros, king of Troy; a beautiful youth carried to Olympus
+    and made immortal cup-bearer to the gods.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Tros
+  description: King of Troy and father of Ganymedes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Zeus
+  description: God who observes Ganymedes, is struck by his beauty, and sends an eagle
+    to transport him to Olympus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Zeus's eagle
+  description: Eagle sent by Zeus to transport Ganymedes to Olympus.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: gods
+  description: Divine group for whom Ganymedes is appointed cup-bearer.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Roman divinity honored with temples
+  assigned_to:
+  - fig:1
+  basis: Juventas is called a Roman divinity, and several temples were erected in
+    her honor in Rome.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: beautiful youth
+  assigned_to:
+  - fig:3
+  basis: Ganymedes is described as possessing wonderful and exquisite beauty.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: transported mortal
+  assigned_to:
+  - fig:3
+  basis: Ganymedes is transported to Olympus by Zeus's eagle.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: immortal cup-bearer
+  assigned_to:
+  - fig:3
+  basis: Ganymedes is endowed with immortality and appointed cup-bearer to the gods.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: royal father
+  assigned_to:
+  - fig:4
+  basis: Tros is described as king of Troy and father of Ganymedes.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: divine observer and sender
+  assigned_to:
+  - fig:5
+  basis: Zeus observes Ganymedes, is struck by his beauty, and sends his eagle.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: divine transporter
+  assigned_to:
+  - fig:6
+  basis: The eagle transports Ganymedes to Olympus.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: recipients of cup-bearing service
+  assigned_to:
+  - fig:7
+  basis: Ganymedes is appointed cup-bearer to the gods.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: well water
+  literal_form: water from a well
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Mount Ida
+  literal_form: mountain
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Olympus
+  literal_form: divine mountain/place of the gods
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: eagle
+  literal_form: Zeus's eagle
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: temples of Juventas
+  literal_form: temples erected in Rome
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Juventas identified and honored
+  summary: Juventas is identified with Hebe, associated by Romans with the vigor and
+    immortal glory of the state, and honored with several temples in Rome.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ganymedes taken to Olympus
+  summary: Ganymedes draws water from a well on Mount Ida, is seen by Zeus, and is
+    transported by Zeus's eagle to Olympus, where he becomes immortal cup-bearer to
+    the gods.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Appearance of Ganymedes
+  summary: Ganymedes is represented as an exceptionally beautiful youth with golden
+    locks, delicate features, blue eyes, and pouting lips.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ascent or transport to divine realm
+  taxonomy_refs:
+  - ascent
+  basis: Ganymedes is transported from Mount Ida to Olympus by Zeus's eagle.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage states transport to Olympus but does not elaborate on ritual
+    or initiatory ascent.
+- id: motif:2
+  label: divine selection of a beautiful beloved youth
+  taxonomy_refs:
+  - divine_beloved
+  basis: Zeus sees Ganymedes, is struck by his beauty, and has him brought to Olympus.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage emphasizes beauty and divine selection but does not explicitly
+    describe a romantic relationship.
+- id: motif:3
+  label: bestowal of immortality
+  taxonomy_refs: []
+  basis: Ganymedes is endowed with immortality after being transported to Olympus.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No more specific taxonomy reference is available in the provided list
+    for immortality alone.
+- id: motif:4
+  label: youthful divinity and state vitality
+  taxonomy_refs: []
+  basis: Juventas is associated with imperishable vigor and immortal glory of the
+    Roman state.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an ideological association rather than a narrative motif in the
+    passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5033-5037
+  quote_or_summary: Juventas is the Roman divinity identified with Hebe; Romans regarded
+    her attributes as applying especially to the imperishable vigor and immortal glory
+    of the state.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:2
+  type: summary
+  locator: line 5039
+  quote_or_summary: Several temples were erected in Rome in honor of Juventas.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5043-5048
+  quote_or_summary: Ganymedes, youngest son of Tros, king of Troy, draws water from
+    a well on Mount Ida; Zeus sees his beauty, sends his eagle to carry him to Olympus,
+    grants him immortality, and makes him cup-bearer to the gods.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5050-5050
+  quote_or_summary: Ganymedes is represented as an exquisitely beautiful youth with
+    short golden locks, delicate features, blue eyes, and pouting lips.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; passage summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the provided passage. Motif labeling is cautious,
+    especially for divine beloved, because the passage emphasizes beauty and divine
+    selection without explicitly naming erotic or relational terms.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison beyond the available motif-family tagging.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l5033-l5050
+  passage_sha256=0d73b472ca9a5bfc4b045e41ff5b5b1508a3cafb94f78ae7d0d5923290f33a51
+

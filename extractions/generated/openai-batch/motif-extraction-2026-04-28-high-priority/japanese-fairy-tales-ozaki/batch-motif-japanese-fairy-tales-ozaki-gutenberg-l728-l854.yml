@@ -1,0 +1,493 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l728-l854
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: JAPANESE FAIRY TALES / MY LORD BAG OF RICE / THE TONGUE-CUT SPARROW / THE
+    STORY OF URASHIMA TARO, THE FISHER LAD; lines 728-854
+  start: '728'
+  end: '854'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage closes the Tongue-Cut Sparrow tale with the old woman repenting
+    and the elderly couple living happily on the treasure received from the sparrow.
+    It then begins the story of Urashima Taro, a kind and skillful fisherman from
+    Mizu-no-ye. Urashima rescues a tortoise being tormented by children by buying
+    it from them, speaks gently to it, returns it to the sea, and the next morning
+    hears his name called while alone in his boat; the same tortoise appears beside
+    the boat and answers him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The old woman repents of her unkind ways and becomes good, and she and her
+    husband spend their last days happily using the treasure received from the tongue-cut
+    sparrow.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Urashima Taro lives in the fishing village of Mizu-no-ye in Tango and is described
+    as an unusually skillful fisherman.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Urashima is known for a kind heart and for never hurting living things or
+    joining children in teasing animals.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A group of children torment a tortoise by pulling it, beating it with a stick,
+    and hammering its shell with a stone.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Urashima asks the boys to stop, then offers money in exchange for the tortoise.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The boys accept the money, give the tortoise to Urashima, and leave.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Urashima strokes the tortoise, speaks to it, mentions the tortoise's reputed
+    ten-thousand-year life, and returns it to the sea.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The next morning Urashima goes out alone in his boat and drifts far from the
+    other fishing boats over blue water.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Urashima hears his name called over the sea and sees the rescued tortoise
+    beside his boat.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Urashima asks whether the tortoise called his name, and the tortoise nods
+    and begins to speak.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: old woman
+  description: An old woman who repents of cross, unkind ways and becomes good.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: old man / husband
+  description: The old woman's husband, who lives happily with her in their last days
+    using the sparrow's treasure.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: tongue-cut sparrow
+  description: The pet from whom the old man had received treasure before the passage's
+    closing sentence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Urashima Taro
+  description: A young fisherman of Mizu-no-ye in Tango, skillful at fishing and known
+    for kindness to living things.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: children / boys
+  description: A group of children who torment a tortoise, then give it to Urashima
+    in exchange for money.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:6
+  name_or_label: tortoise
+  description: A tortoise tormented by children, bought and released by Urashima,
+    later appearing beside his boat and speaking.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: repentant wrongdoer
+  assigned_to:
+  - fig:1
+  basis: She repents of unkind behavior and becomes good.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: spouse sharing restored welfare
+  assigned_to:
+  - fig:2
+  basis: He lives happily with the old woman in their last days, free from want or
+    care.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: animal benefactor remembered by gift
+  assigned_to:
+  - fig:3
+  basis: The treasure sustaining the old couple is identified as having been received
+    from the tongue-cut sparrow.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: kind fisherman
+  assigned_to:
+  - fig:4
+  basis: Urashima is explicitly described as a skillful fisherman known for kindness
+    and reluctance to harm creatures.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: rescuer of an animal
+  assigned_to:
+  - fig:4
+  basis: He buys the tormented tortoise from the boys and returns it to the sea.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:6
+  label: animal tormentors
+  assigned_to:
+  - fig:5
+  basis: The children pull, beat, and strike the tortoise before accepting money for
+    it.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:7
+  label: rescued animal
+  assigned_to:
+  - fig:6
+  basis: The tortoise is saved by Urashima from the children and put back into the
+    water.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:8
+  label: speaking animal caller
+  assigned_to:
+  - fig:6
+  basis: The tortoise appears by Urashima's boat, nods when asked whether it called
+    him, and begins to speak.
+  evidence_refs:
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: treasure from sparrow
+  literal_form: treasure
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tortoise
+  literal_form: tortoise
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:9
+  - ev:10
+- id: sym:3
+  label: sea water
+  literal_form: sea / blue waters
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:4
+  label: money used to buy the tortoise
+  literal_form: coins strung on a string
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: boat at sea
+  literal_form: fishing boat
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Repentance after the sparrow's treasure
+  summary: The old woman changes her behavior, and the old couple live happily and
+    carefully use treasure received from the tongue-cut sparrow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Introduction of Urashima Taro
+  summary: Urashima is introduced as a young fisherman from Mizu-no-ye, highly skilled
+    at fishing and known for kindness to living things.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Children torment the tortoise
+  summary: On a summer twilight, Urashima encounters children pulling, beating, and
+    striking a tortoise.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Urashima buys and releases the tortoise
+  summary: Urashima persuades the boys to give him the tortoise in exchange for money,
+    comforts it, and returns it to the sea.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: The tortoise calls Urashima at sea
+  summary: The next morning Urashima drifts far out in his boat, hears his name called
+    over the sea, and sees the same tortoise beside the boat beginning to speak.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: repentance followed by restored household welfare
+  taxonomy_refs: []
+  basis: The old woman repents, becomes good, and the couple live happily and without
+    want using the sparrow's treasure.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Only the closing outcome of the preceding tale is included in this passage.
+- id: motif:2
+  label: compassionate rescue of a tormented animal
+  taxonomy_refs: []
+  basis: Urashima intervenes when children torment a tortoise, buys it from them,
+    and releases it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The later reward or consequence is not included in the provided passage
+    beyond the tortoise's return and speech.
+- id: motif:3
+  label: speaking rescued animal returns to the helper
+  taxonomy_refs: []
+  basis: The tortoise rescued the previous day appears beside Urashima's boat, responds
+    to his question, and begins to speak.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The content of the tortoise's speech is outside the passage.
+- id: motif:4
+  label: exchange to save a living creature
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Urashima gives money to the boys so that the tortoise can be freed and returned
+    to the sea.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy term is broader than the literal monetary exchange
+    shown in the passage.
+- id: motif:5
+  label: departure alone over water before supernatural encounter
+  taxonomy_refs:
+  - departure
+  basis: Urashima goes out in his boat, leaves other fishing boats behind, drifts
+    far over the blue waters, and then hears a non-human voice.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage begins the encounter but does not yet show the destination
+    or full journey.
+comparison_claims:
+- id: claim:1
+  claim: The rescue of the tortoise followed by the animal's return and speech fits
+    the broad folktale pattern of a grateful or responsive animal helper.
+  claim_level: same_function
+  target: animal helper / grateful animal rescue pattern
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:9
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage only reaches the tortoise's initial response and does not
+    include any later aid or reward.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 728-733
+  quote_or_summary: The old woman repents of her cross, unkind ways; the couple live
+    happily and carefully spend the treasure the old man received from the tongue-cut
+    sparrow.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short summary.
+- id: ev:2
+  type: summary
+  locator: lines 737-745
+  quote_or_summary: Urashima Taro is introduced as a young fisherman in Mizu-no-ye,
+    Tango, and as the most skillful fisher in the countryside.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short summary.
+- id: ev:3
+  type: summary
+  locator: lines 747-753
+  quote_or_summary: Urashima is known for his kind heart, has never hurt anything,
+    and as a boy refused to join in teasing animals.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short summary.
+- id: ev:4
+  type: summary
+  locator: lines 755-763
+  quote_or_summary: At summer twilight Urashima finds children tormenting a tortoise
+    by pulling it, beating it with a stick, and hammering its shell with a stone.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short summary.
+- id: ev:5
+  type: summary
+  locator: lines 765-793
+  quote_or_summary: Urashima feels sorry for the tortoise, asks the boys to stop,
+    then offers them money so he can buy the tortoise from them.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short summary.
+- id: ev:6
+  type: summary
+  locator: lines 795-804
+  quote_or_summary: The boys are persuaded by Urashima's gentle words, give him the
+    tortoise in exchange for money, and run away.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short summary.
+- id: ev:7
+  type: summary
+  locator: lines 806-820
+  quote_or_summary: Urashima strokes the tortoise, says tortoises are said to live
+    ten thousand years, warns it not to be caught again, and puts it into the sea.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short summary.
+- id: ev:8
+  type: summary
+  locator: lines 822-833
+  quote_or_summary: The next morning Urashima goes out in his boat, passes the other
+    fishing boats, drifts far over the blue waters, and thinks about wishing for thousands
+    of years of life.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short summary.
+- id: ev:9
+  type: summary
+  locator: lines 835-848
+  quote_or_summary: Urashima hears his own name called over the sea, sees no other
+    boat, and then notices that the very tortoise he rescued has come beside his boat.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short summary.
+- id: ev:10
+  type: summary
+  locator: lines 850-854
+  quote_or_summary: Urashima asks the tortoise whether it called his name; the tortoise
+    nods several times and speaks.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal sequence is clear. Motif and comparison labels are cautious because
+    the passage cuts off just as the tortoise begins to speak.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references were limited to the supplied available taxonomy list.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l728-l854
+  passage_sha256=feed0ca6ae6dbe2a02ac7053a3fa4fe4940088de114691e85942d85af1d0e987
+

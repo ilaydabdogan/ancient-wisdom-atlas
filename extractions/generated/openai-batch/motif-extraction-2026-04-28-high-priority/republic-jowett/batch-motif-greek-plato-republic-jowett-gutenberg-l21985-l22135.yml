@@ -1,0 +1,575 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l21985-l22135
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK VI. / BOOK VII. / BOOK VIII. / BOOK IX.; lines 21985-22135
+  start: '21985'
+  end: '22135'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the tyrannical person whose desires exhaust his property,
+    drive him to cheat or assault parents, commit theft and sacrilege, and become
+    in waking life what was formerly only dream. Personified Love rules within him
+    as tyrant, leading a rabble of desires. Such people, when numerous in a city,
+    choose the most tyrannical among them as ruler, who then subjugates the fatherland
+    or motherland as he once mistreated his parents. The tyrant is said to be master
+    or servant, never a true friend, and utterly unjust.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The man's desires are described as growing daily and nightly, becoming many
+    and formidable, and quickly consuming his revenues.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When his resources are gone, the man's desires are compared to young ravens
+    in a nest crying for food.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Love is described as the captain of the desires and later as the tyrant who
+    lives lawlessly in the man.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: obs:4
+  text: The man is said to seek money by fraud, despoiling, cheating, deception, force,
+    and plunder.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The man is described as willing to take property from his father and mother
+    and even strike or subject them for the sake of a new attachment.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: After taking parental property, the man proceeds to housebreaking, theft from
+    a night traveler, temple robbery, murder, forbidden eating, and other horrid acts.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Former childhood opinions about good and evil are said to be overthrown by
+    newly emancipated passions that become the bodyguard of love.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The man's waking life is described as the reality of what had previously appeared
+    only rarely in dreams.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: obs:9
+  text: When such men are few in a city, they become mercenary bodyguards elsewhere
+    or commit theft, burglary, robbery, temple robbery, kidnapping, false witness,
+    and bribery at home.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: When the noxious class becomes numerous, they choose the person with the most
+    tyrant in his soul and create him as tyrant.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The political tyrant is compared to a man who first beat his parents and then
+    subjugates his fatherland or motherland under young retainers.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The tyrannical person is said to be either master or servant, never a true
+    friend, and to lack true freedom and friendship.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: tyrannical son or tyrannical man
+  description: A person ruled by many desires and by Love, who spends his property,
+    mistreats parents, commits crimes, and becomes increasingly tyrannical.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+- id: fig:2
+  name_or_label: father and mother
+  description: The parents whose property the tyrannical son seeks, and whom he may
+    cheat, plunder, strike, or subject to another's authority.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Love
+  description: A personified ruling passion described as captain of the desires, tyrant,
+    king, and lordly presence within the man.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: desires and pleasures
+  description: Many formidable demands that swarm, cry out, replace older pleasures,
+    and act as a rabble or bodyguard associated with Love.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:5
+  name_or_label: noxious class and followers
+  description: A class of tyrannical people in the state who commit crimes and, when
+    numerous, choose a tyrant from among themselves.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: political tyrant
+  description: The person chosen from the noxious class as the one with most of the
+    tyrant in his own soul, who subjugates the fatherland or motherland if resisted.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: fatherland or motherland
+  description: The country or city imagined as an aged parent whom the tyrant subjugates
+    under young retainers.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: ruled-by-desire figure
+  assigned_to:
+  - fig:1
+  basis: The man is driven by many desires and by Love as their captain and tyrant.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: parent-plunderer
+  assigned_to:
+  - fig:1
+  basis: He takes parental property and may cheat, deceive, use force, plunder, or
+    strike his parents.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: criminal transgressor
+  assigned_to:
+  - fig:1
+  basis: He is described as breaking into houses, robbing travelers and temples, committing
+    murder, eating forbidden food, and doing other horrid acts.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: violated parents
+  assigned_to:
+  - fig:2
+  basis: The parents resist the loss of their property and may be beaten or subjected
+    by the tyrannical son.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: inner tyrant
+  assigned_to:
+  - fig:3
+  basis: Love is explicitly described as tyrant, king, and captain within the man.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:6
+  label: inner rabble or bodyguard
+  assigned_to:
+  - fig:4
+  basis: The desires swarm, demand gratification, and are described as the bodyguard
+    of Love.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:7
+  label: criminal faction
+  assigned_to:
+  - fig:5
+  basis: The group commits civic crimes and produces a tyrant when numerous and conscious
+    of its strength.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:8
+  label: ruler produced by lawless class
+  assigned_to:
+  - fig:6
+  basis: The people choose the one with most tyrant in his soul and create him tyrant.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: political parent-victim
+  assigned_to:
+  - fig:7
+  basis: The fatherland or motherland is treated analogously to parents subjected
+    by the tyrant.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: young ravens in a nest
+  literal_form: young ravens crying in a nest
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: hive of the soul
+  literal_form: pleasures swarming in the hive of his soul
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: bodyguard of love
+  literal_form: emancipated passions as bodyguard sharing Love's empire
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: dream becoming waking reality
+  literal_form: waking reality of what was formerly dream
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: sym:5
+  label: fatherland or motherland
+  literal_form: country named as fatherland or motherland
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: temple robbery
+  literal_form: clearing a temple or robbers of temples
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Desires exhaust property and demand satisfaction
+  summary: The tyrannical man's desires multiply, consume his revenues, and drive
+    him toward fraud and plunder to obtain money.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Assault on parental order
+  summary: The tyrannical son seeks to take his parents' property, first by deception
+    and then by force, and may subject them to a new beloved or companion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Inner tyranny and criminal acts
+  summary: Love rules within the man, childhood judgments are overthrown, and the
+    man commits theft, sacrilege, murder, forbidden eating, and other reckless acts.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Criminal class in the city
+  summary: Tyrannical individuals become mercenaries or commit civic crimes, and when
+    numerous they select the most tyrannical soul among themselves as ruler.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Subjugation of the fatherland or motherland
+  summary: The tyrant's private violence against parents becomes an analogy for political
+    domination of the fatherland or motherland under young retainers.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Summary of tyrannical character
+  summary: The tyrannical person is described as master or servant rather than friend,
+    lacking true freedom and friendship, treacherous, unjust, and the waking reality
+    of dream.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: inner tyranny of desire
+  taxonomy_refs:
+  - duality
+  basis: The passage presents a structured analogy between the soul ruled by Love
+    and desires and a city ruled by a tyrant; the inner ruler leads a rabble to lawless
+    acts.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The taxonomy reference to duality is based on the passage's repeated inner-political
+    analogy, not on a named mythic pair.
+- id: motif:2
+  label: dream transgression made waking life
+  taxonomy_refs:
+  - duality
+  basis: The man becomes in waking reality what he had formerly been only rarely in
+    dream, and the worst man is summarized as the waking reality of what was dreamed.
+  evidence_refs:
+  - ev:5
+  - ev:9
+  confidence: high
+  cautions: This is a philosophical-psychological pattern rather than a narrative
+    myth episode.
+- id: motif:3
+  label: violation of parents as sign of tyranny
+  taxonomy_refs: []
+  basis: The tyrannical son escalates from taking parental property to cheating, plundering,
+    striking, and subjecting father and mother.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No external mythic parent-violence motif is asserted.
+- id: motif:4
+  label: sacrilegious theft under lawless passion
+  taxonomy_refs:
+  - sacred_theft
+  basis: The passage includes robbing or clearing a temple among the tyrannical person's
+    escalating crimes and also lists robbers of temples among civic evildoers.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy term is broader than the passage's brief mention
+    of temple robbery; the act is one example within a moral catalogue.
+- id: motif:5
+  label: criminal faction creates tyrant
+  taxonomy_refs: []
+  basis: A noxious class and its followers, once numerous and conscious of strength,
+    choose the person with most tyranny in his soul and create him tyrant.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is a political-ethical pattern internal to the passage rather than
+    an explicit mythic event.
+- id: motif:6
+  label: homeland as parent subjected by ruler
+  taxonomy_refs: []
+  basis: The tyrant is said to subjugate the fatherland or motherland as he previously
+    beat father and mother.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage itself marks this as an analogy; no external motherland/fatherland
+    myth is identified.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage explicitly compares tyranny in the soul to tyranny in the State:
+    Love rules the person as a tyrant rules a city, and the most tyrannical soul becomes
+    the political tyrant.'
+  claim_level: same_function
+  target: tyrannical soul and tyrannical State
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is philosophical and analogical within the passage,
+    not evidence of historical contact or shared mythic origin.
+- id: claim:2
+  claim: The passage compares private violence against father and mother with political
+    domination of fatherland or motherland.
+  claim_level: same_function
+  target: parental household and homeland under tyrannical domination
+  evidence_refs:
+  - ev:4
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The analogy is internal to the passage and should not be extended to
+    a broader myth family without additional evidence.
+- id: claim:3
+  claim: The passage compares dream-state lawlessness with waking tyrannical conduct,
+    making the tyrant the waking form of what was formerly dreamed.
+  claim_level: same_function
+  target: dream transgression and waking tyranny
+  evidence_refs:
+  - ev:5
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports functional analogy, not a claim about an external
+    dream-vision tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 21985-21994
+  quote_or_summary: Desires grow daily and nightly, make many demands, and the man's
+    revenues are soon spent, leading to debt and loss of property.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 21995-22004
+  quote_or_summary: Desires crowd in the nest like young ravens, while love is described
+    as their captain and the man seeks someone to defraud or despoil.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:3
+  type: summary
+  locator: 22005-22020
+  quote_or_summary: The younger man claims more than father and mother, takes a slice
+    of their property, and if refused tries cheating, deception, force, and plunder.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 22021-22038
+  quote_or_summary: The passage asks whether he would strike his mother or subject
+    her to a new beloved, and do the same to his old father for a newly found youth;
+    the answer affirms this.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 22039-22070
+  quote_or_summary: After parental property fails, pleasures swarm in the soul; old
+    judgments are overthrown by passions that are Love's bodyguard. Love is tyrant
+    and king, leading him to housebreaking, theft, temple robbery, murder, forbidden
+    food, and other horrid acts, making waking reality what had been dream.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 22071-22092
+  quote_or_summary: When few in the state, such men become bodyguards or mercenaries
+    elsewhere, or at home become thieves, burglars, cut-purses, footpads, temple robbers,
+    kidnappers, informers, false witnesses, and bribe-takers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 22093-22104
+  quote_or_summary: When the noxious class and their followers become numerous and
+    aware of their strength, aided by popular infatuation, they choose the one with
+    most tyrant in his soul and create him tyrant.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 22105-22115
+  quote_or_summary: If resisted, the tyrant beats the people as he began by beating
+    father and mother, and keeps his fatherland or motherland subject to young retainers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 22116-22135
+  quote_or_summary: Such men associate with flatterers or tools, are always masters
+    or servants and never friends, lack true freedom and friendship, are treacherous
+    and unjust, and the worst man is the waking reality of what was dreamed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is explicit about the psychology-polis analogy and about the
+    sequence of moral decline. Motif-family taxonomy fits are limited because this
+    is a philosophical argument rather than a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons were added beyond analogies directly supported by the supplied passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l21985-l22135
+  passage_sha256=3ecfde5e867dba600c408a51c64c1ae86451a9532513bc281e6b6c939877b1f7
+

@@ -1,0 +1,563 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l5295-l5401
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE HAPPY HUNTER AND THE SKILLFUL FISHER / THE STORY OF THE OLD MAN WHO MADE
+    WITHERED TREES TO FLOWER / THE JELLY FISH AND THE MONKEY / THE QUARREL OF THE
+    MONKEY AND THE CRAB; lines 5295-5401
+  start: '5295'
+  end: '5401'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After discovering evidence that the monkey murdered his father, the young
+    crab decides to avenge him by cunning rather than direct attack. He gathers the
+    mortar, bee, and chestnut as allies. The monkey, fearing discovery but later reassured
+    by the crabs' apparent ignorance, accepts an invitation to a seventh-day memorial
+    feast for the dead crab, unaware that it is part of a revenge plot.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The young crab stops weeping and decides that he must avenge his father's
+    murder.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The young crab observes missing ripe fruit, peel, seeds, and unripe persimmons
+    around the tree and infers that the monkey is the murderer.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The young crab decides not to attack the monkey directly because the monkey
+    is old, cunning, strong, and difficult to overcome alone.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The young crab asks the mortar for help, and the mortar summons the bee and
+    the chestnut; all agree to help punish the monkey.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The mortar goes home with the young crab to help bury the dead father.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The monkey privately congratulates himself for robbing the crab of ripe persimmons
+    and killing him, but fears possible consequences if discovered.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The monkey leaves home to listen for gossip in the crab settlement and concludes
+    that the crabs do not know who murdered their chief.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The young crab deliberately pretends not to know who killed his father and
+    pretends to believe the death was accidental, in order to conceal his revenge
+    plan.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A messenger invites the monkey to a seventh-day memorial festival for the
+    dead crab, presenting the death as an accident involving a persimmon tree.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The monkey accepts the invitation, pretends grief, mentions the earlier exchange
+    of a rice-dumpling for a persimmon-seed, and produces false tears.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The messenger inwardly recognizes the monkey's false tears and expects that
+    the monkey will soon shed real tears.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: After the messenger leaves, the monkey laughs at what he takes to be the young
+    crab's innocence and sets out for the memorial feast.
+  category: action
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: young crab
+  description: The son of the murdered old crab; he investigates his father's death
+    and plans revenge against the monkey.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: old crab
+  description: The young crab's father and chief of the crab tribe; he has been killed
+    near the persimmon tree.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: monkey
+  description: A cunning animal who is identified by the young crab as the murderer
+    and who later accepts an invitation to the dead crab's memorial feast.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:11
+- id: fig:4
+  name_or_label: mortar
+  description: An old friend of the crab's father who agrees to help the young crab
+    punish the monkey and helps bury the dead crab.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: bee
+  description: One of the old crab's friends summoned by the mortar; the bee agrees
+    to help the young crab in his revenge.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: chestnut
+  description: One of the old crab's friends summoned by the mortar; the chestnut
+    agrees to help the young crab in his revenge.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: messenger from the young crab
+  description: A messenger who invites the monkey to the memorial festival and inwardly
+    recognizes the monkey's false grief.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: fig:8
+  name_or_label: crab settlement neighbors
+  description: The crabs around the dead chief's settlement, whose apparent lack of
+    gossip helps mislead the monkey.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: avenging child
+  assigned_to:
+  - fig:1
+  basis: The young crab determines to avenge his father's murder and seeks allies
+    to do so.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: murdered father and chief
+  assigned_to:
+  - fig:2
+  basis: The old crab is described as the young crab's father and as chief of the
+    tribe, and his death is treated as murder.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: role:3
+  label: murderer and deceiver
+  assigned_to:
+  - fig:3
+  basis: The monkey is identified as the murderer, congratulates himself on the killing,
+    hides his guilt, and feigns grief.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:9
+- id: role:4
+  label: revenge allies
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The mortar, bee, and chestnut agree to help the young crab punish the monkey.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: plot messenger
+  assigned_to:
+  - fig:7
+  basis: The messenger carries the invitation that lures the monkey to the memorial
+    feast and is aware of the monkey's hypocrisy.
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: role:6
+  label: feigned ignorance participants
+  assigned_to:
+  - fig:1
+  - fig:8
+  basis: The young crab and the apparent behavior of the crab settlement conceal knowledge
+    of the monkey's guilt, misleading him.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: invited target of plot
+  assigned_to:
+  - fig:3
+  basis: The monkey accepts the invitation to the memorial feast, not realizing it
+    is part of a plot against him.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:11
+symbols:
+- id: sym:1
+  label: persimmon tree
+  literal_form: tree
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: sym:2
+  label: persimmons and fruit remains
+  literal_form: ripe fruit, unripe persimmons, peel, and seeds
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: rice-dumpling and persimmon-seed exchange
+  literal_form: rice-dumpling and persimmon-seed
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: sym:4
+  label: seventh-day memorial festival
+  literal_form: festival in honor of the dead crab on the seventh day after death
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:11
+- id: sym:5
+  label: false tears
+  literal_form: tears produced by the monkey while pretending grief
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Discovery and identification of the murderer
+  summary: The young crab examines the area around the persimmon tree, notes missing
+    fruit and scattered remains, remembers the earlier exchange story, and concludes
+    that the monkey killed his father.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Decision to use cunning and allies
+  summary: The young crab restrains his immediate anger, reasons that he cannot defeat
+    the monkey alone, and seeks help from the mortar, bee, and chestnut.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Burial of the dead father
+  summary: After planning, the mortar accompanies the young crab home to help bury
+    the old crab.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Monkey's guilty self-reassurance
+  summary: The monkey congratulates himself on robbing and killing the crab, worries
+    about discovery, then persuades himself that no one can accuse him.
+  figure_refs:
+  - fig:3
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Feigning ignorance in the crab settlement
+  summary: The monkey prowls near the crab's house to hear gossip, while the young
+    crab's apparent ignorance and the settlement's silence conceal the revenge plan.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Invitation to the memorial feast
+  summary: A messenger invites the monkey to the seventh-day festival for the dead
+    crab, presenting the death as an accident; the monkey accepts, feigns grief, and
+    prepares to attend.
+  figure_refs:
+  - fig:3
+  - fig:7
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Child avenges murdered parent
+  taxonomy_refs: []
+  basis: The young crab determines that his father was murdered and makes revenge
+    his duty.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage covers the planning and luring stage, not the completed revenge.
+- id: motif:2
+  label: Weak victim's kin gathers helpers against a stronger cunning enemy
+  taxonomy_refs: []
+  basis: The young crab judges the monkey too strong and cunning to kill alone and
+    recruits the mortar, bee, and chestnut as allies.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not yet describe how the helpers act in the punishment.
+- id: motif:3
+  label: Feigning ignorance to lure the guilty party
+  taxonomy_refs: []
+  basis: The young crab pretends not to know the murderer and sends a messenger with
+    an invitation that reassures the monkey and draws him toward the planned revenge.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:11
+  confidence: high
+  cautions: The exact trap is not disclosed within this passage.
+- id: motif:4
+  label: Memorial feast used as a trap
+  taxonomy_refs: []
+  basis: The invitation to the seventh-day festival in honor of the dead crab is part
+    of a plot against the unsuspecting monkey.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The passage states that a plot has been set in motion but does not yet
+    show the trap being sprung.
+- id: motif:5
+  label: Hypocritical mourner with false tears
+  taxonomy_refs: []
+  basis: The monkey pretends sorrow over the death of the crab he killed, producing
+    false tears while accepting the invitation.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: This is a behavioral motif within the scene rather than a full plot pattern.
+- id: motif:6
+  label: Greed for fruit leads to murder and retaliation
+  taxonomy_refs: []
+  basis: The young crab links the monkey's desire for persimmons to the old crab's
+    death, and the monkey later congratulates himself on robbing the crab of ripe
+    persimmons and killing him.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage recalls the cause but does not narrate the original quarrel
+    in full.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5295-5310
+  quote_or_summary: The young crab resolves to avenge his father, examines the persimmon
+    tree area, notices missing fruit, peel, seeds, and thrown unripe persimmons, remembers
+    the rice-dumpling and persimmon-seed story, and concludes that the monkey killed
+    his father.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: 5311-5319
+  quote_or_summary: The young crab first wants to attack the monkey, then decides
+    this is useless because the monkey is old, cunning, and difficult to overcome
+    alone; he decides to meet cunning with cunning and seek friends' help.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: 5320-5334
+  quote_or_summary: The young crab tells the mortar what happened and asks for help.
+    The mortar agrees, warns him to be careful, and summons the bee and chestnut,
+    who also agree to help avenge the old crab.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: 5335-5338
+  quote_or_summary: After discussing plans, the allies separate, and the mortar goes
+    home with the young crab to help bury his father.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: 5339-5355
+  quote_or_summary: The monkey congratulates himself for robbing his friend of ripe
+    persimmons and killing him, fears discovery, then persuades himself that no one
+    can tell who murdered the crab.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:6
+  type: summary
+  locator: 5356-5366
+  quote_or_summary: The monkey prowls near the crab's house to hear gossip about the
+    chief's death and concludes that the crabs do not know or care who murdered their
+    chief.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:7
+  type: summary
+  locator: 5367-5373
+  quote_or_summary: 'The young crab''s apparent unconcern is part of his plan: he
+    pretends not to know the murderer and pretends to think his father died by his
+    own fault so that the revenge plot can remain secret.'
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:8
+  type: summary
+  locator: 5374-5388
+  quote_or_summary: A messenger from the young crab tells the monkey that the old
+    crab died by falling from a persimmon tree, says the seventh-day memorial festival
+    has been prepared, and invites the monkey as one of the dead crab's best friends.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:9
+  type: summary
+  locator: 5389-5397
+  quote_or_summary: The monkey is inwardly relieved, does not suspect the plot, pretends
+    surprise and sorrow, recalls exchanging a rice-dumpling for a persimmon-seed,
+    accepts the invitation, and produces false tears.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:10
+  type: summary
+  locator: 5398-5400
+  quote_or_summary: The messenger inwardly laughs at the monkey's false tears and
+    thinks the monkey will soon shed real ones, while outwardly thanking him politely.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:11
+  type: summary
+  locator: 5400-5401
+  quote_or_summary: After the messenger leaves, the monkey laughs at the young crab's
+    supposed innocence, anticipates the feast, changes dress, and solemnly sets out
+    to visit the young crab.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports the extraction of figures, actions, symbols,
+    and local plot motifs. No comparison claims were added because the passage itself
+    does not explicitly compare this episode with another tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to the available symbol reference for tree; no motif-family taxonomy reference was assigned because the passage does not clearly establish one of the supplied motif families.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l5295-l5401
+  passage_sha256=b18326e3b2978dcb47afc3f0a3f87242df2a66c12718928cccf023afc69d6815
+

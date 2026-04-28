@@ -1,0 +1,461 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l22466-l22655
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK VI. / BOOK VII. / BOOK VIII. / BOOK IX.; lines 22466-22655
+  start: '22466'
+  end: '22655'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage compares three lives associated with gain, honour, and wisdom.
+    It argues that the philosopher is the best judge of pleasures because he has broader
+    experience, wisdom, and reason. It ranks the wise life as most pleasant, the honour-loving
+    life next, and the money-making life last. It then begins a further argument about
+    pleasure, pain, and the neutral state between them, concluding that absence of
+    pain is not identical with pleasure and absence of pleasure is not identical with
+    pain.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Three classes of men are examined according to which life each considers most
+    pleasant.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The money-maker values the advantages of gold and silver and depreciates honour
+    or learning when they bring no money.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The lover of honour regards the pleasure of riches as vulgar and learning
+    without distinction as worthless.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The philosopher values the pleasure of knowing truth above other pleasures
+    and treats other pleasures as necessary rather than preferred.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Experience, wisdom, and reason are proposed as the criterion for judging which
+    life is most pleasant.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The philosopher is said to have experienced other pleasures from childhood,
+    while the lover of gain has not necessarily tasted the pleasure of learning and
+    knowing truth.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The philosopher is described as the only one who possesses wisdom as well
+    as experience, and reason is named as his instrument of judgment.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The pleasure of the intelligent part of the soul is ranked first, the soldier
+    or lover of honour second, and the lover of gain last.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The speaker describes a third trial dedicated to Olympian Zeus the saviour
+    and says a sage whispers that only the pleasure of the wise is true and pure.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Pleasure is opposed to pain, and a neutral state between them is described
+    as repose or rest of the soul.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Sick or suffering people are said to call health, relief, or cessation of
+    pain the greatest pleasure.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: The argument concludes that the absence of pain cannot rightly be supposed
+    to be pleasure, nor the absence of pleasure to be pain.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: money-maker / lover of gain
+  description: A class of person who praises the life of gain and values gold and
+    silver.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: lover of honour / soldier
+  description: A class of person who values honour, distinction, victory, or courage
+    and is ranked between the philosopher and the money-maker.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:3
+  name_or_label: philosopher / lover of wisdom
+  description: A class of person who pursues truth, has experience of other pleasures,
+    and uses wisdom and reason to judge pleasures.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Olympian Zeus the saviour
+  description: A divine name invoked as the dedicatee of the third trial in the speaker's
+    argument.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: unnamed sage
+  description: A sage who is said to whisper that only the pleasure of the wise is
+    true and pure.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: advocate of gain
+  assigned_to:
+  - fig:1
+  basis: The money-maker praises the life of gain and the advantages of gold and silver.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: advocate of honour
+  assigned_to:
+  - fig:2
+  basis: The lover of honour values distinction and is later identified with the soldier
+    and lover of honour.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:3
+  label: lover of wisdom
+  assigned_to:
+  - fig:3
+  basis: The philosopher is associated with learning, knowing truth, wisdom, and reason.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: authoritative judge of pleasures
+  assigned_to:
+  - fig:3
+  basis: The philosopher is said to possess experience, wisdom, and reason, which
+    are named as the judges of pleasure.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: divine dedicatee of a trial
+  assigned_to:
+  - fig:4
+  basis: The third trial in the argument is said to be dedicated to Olympian Zeus
+    the saviour.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: source of whispered maxim
+  assigned_to:
+  - fig:5
+  basis: The speaker says a sage whispers that only the pleasure of the wise is true
+    and pure.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: gold and silver
+  literal_form: gold and silver
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: truth and knowledge
+  literal_form: knowing the truth; learning and knowing truth
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: reason as instrument of judgment
+  literal_form: reason
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: third trial
+  literal_form: third trial dedicated to Olympian Zeus the saviour
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: shadow pleasures
+  literal_form: other pleasures are a shadow only
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: rest of the soul
+  literal_form: neutral state; repose of the soul
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Dispute among three lives
+  summary: The speaker contrasts the money-making, honour-loving, and philosophical
+    lives, noting that each class praises its own pleasures and depreciates the others.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Criterion of judgment
+  summary: Experience, wisdom, and reason are named as the proper criteria for judging
+    pleasures, and the philosopher is described as possessing these more fully than
+    the other classes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Ranking of pleasures
+  summary: The wise life is ranked as the most pleasant, the honour-loving life second,
+    and the gain-seeking life last.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:4
+  label: Third trial under Zeus
+  summary: The speaker frames the next proof as a third trial dedicated to Olympian
+    Zeus the saviour, with an unnamed sage asserting that only the wise person's pleasure
+    is true and pure.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Pleasure, pain, and neutral rest
+  summary: The dialogue distinguishes pleasure, pain, and an intermediate state of
+    rest, then argues that the mere cessation of pain should not be identified with
+    pleasure.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: wisdom as the authority to judge pleasures
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly identifies experience, wisdom, and reason as the judges
+    of pleasure and assigns their fullest possession to the philosopher.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a philosophical argument rather than a narrative mythic episode.
+- id: motif:2
+  label: competitive trial of ways of life
+  taxonomy_refs: []
+  basis: The just man is said to have overthrown the unjust twice, and a third trial
+    is introduced, producing a ranked contest among lives and pleasures.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The trial and overthrow language appears rhetorical or argumentative,
+    not an enacted mythic contest.
+- id: motif:3
+  label: apparent pleasure as shadow
+  taxonomy_refs: []
+  basis: A sage's maxim states that only the pleasure of the wise is true and pure,
+    while all others are shadow only.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The shadow image is brief and abstract; no extended symbolic scene is
+    present.
+- id: motif:4
+  label: discrimination between true and false pleasure
+  taxonomy_refs:
+  - wisdom
+  basis: The passage distinguishes true and pure pleasure from mere relief, rest,
+    or cessation of pain, using reasoned judgment.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: This motif is conceptual and ethical rather than mythological.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 22466-22475
+  quote_or_summary: Three classes are introduced; the money-maker praises his own
+    life and contrasts honour or learning with the advantages of gold and silver.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 22476-22482
+  quote_or_summary: The lover of honour considers riches vulgar and learning without
+    distinction to be insignificant.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 22483-22493
+  quote_or_summary: The philosopher values the pleasure of knowing truth above other
+    pleasures and would avoid necessary pleasures if they were not necessary.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 22500-22505
+  quote_or_summary: '"Is any better than experience and wisdom and reason?"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 22506-22523
+  quote_or_summary: The philosopher is said to have tasted other pleasures from childhood,
+    while the lover of gain has not necessarily tasted the sweetness of learning and
+    knowing truth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 22538-22555
+  quote_or_summary: The philosopher alone is said to have wisdom as well as experience,
+    and reason is identified as his special instrument of judgment.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 22566-22584
+  quote_or_summary: The pleasures approved by wisdom and reason are called truest;
+    the intelligent part of the soul has the pleasantest life, the soldier and lover
+    of honour comes next, and the lover of gain last.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: 22585-22594
+  quote_or_summary: '"now comes the third trial, which is dedicated to Olympian Zeus
+    the saviour"; a sage says only the wise person''s pleasure is true and pure and
+    all others are shadow.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation with summary.
+- id: ev:9
+  type: summary
+  locator: 22599-22615
+  quote_or_summary: Pleasure is opposed to pain; an intermediate neutral state is
+    described as a repose or rest of the soul.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 22616-22639
+  quote_or_summary: People who are sick or in acute pain are said to call health,
+    relief from pain, or rest from suffering the greatest pleasure.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 22640-22655
+  quote_or_summary: The argument distinguishes rest from the motions of pleasure and
+    pain and concludes that absence of pain is not pleasure, nor absence of pleasure
+    pain.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is abstract philosophical argument with limited mythic content.
+    Motif candidates are therefore conceptual and should be reviewed for atlas inclusion.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage itself does not support a comparison to another text, tradition, or motif family beyond the available wisdom taxonomy reference.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l22466-l22655
+  passage_sha256=dec883910ad4fe9ff60932d014d7eaa0f1f0cc15066ef65fe22cf1952cf1ece9
+

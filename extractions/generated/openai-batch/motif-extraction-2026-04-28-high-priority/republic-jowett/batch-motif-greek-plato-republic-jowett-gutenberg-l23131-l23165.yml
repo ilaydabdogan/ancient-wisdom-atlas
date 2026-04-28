@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l23131-l23165
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK VI. / BOOK VII. / BOOK VIII. / BOOK IX.; lines 23131-23165
+  start: '23131'
+  end: '23165'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“In heaven... there is laid up a pattern of it... which he who desires may
+    behold.”"
+  summary: The passage describes a man who regulates wealth and honours by preserving
+    order in the city within himself. He may not rule in his birth-city unless divinely
+    called, but he will live according to the ideal city, whose pattern is said to
+    be laid up in heaven.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The man will not be dazzled by worldly applause or heap up riches to his own
+    harm.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man is said to look at the city within himself and prevent disorder arising
+    from either superfluity or want.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man regulates property, gain, and spending according to his means.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The man accepts honours likely to make him better and avoids honours likely
+    to disorder his life.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker says the man will be a ruler in his own city, though perhaps not
+    in his birth-land unless he has a divine call.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The ideal city is described as existing in idea only and not necessarily anywhere
+    on earth.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A pattern of the city is said to be laid up in heaven, where one who desires
+    may behold it and set his own house in order.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The man will live after the manner of that city, regardless of whether it
+    exists in fact.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the ordered man
+  description: A hypothetical man who governs wealth, honours, and conduct by reference
+    to order within himself and to the ideal city.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: narrating speaker
+  description: The speaker who replies that the man will rule in his own city and
+    describes the heavenly pattern of the city.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: respondent
+  description: The interlocutor who agrees and interprets the speaker as referring
+    to a city founded in idea only.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: self-governor
+  assigned_to:
+  - fig:1
+  basis: He looks at the city within himself and regulates property, gain, spending,
+    and honours to avoid disorder.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: beholder of ideal pattern
+  assigned_to:
+  - fig:1
+  basis: He may behold the pattern laid up in heaven and set his own house in order.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: teacher or explanatory speaker
+  assigned_to:
+  - fig:2
+  basis: The speaker explains the distinction between ruling in the inner or ideal
+    city and ruling in the land of birth.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: assenting interlocutor
+  assigned_to:
+  - fig:3
+  basis: The respondent agrees and restates the meaning of the ideal city as existing
+    in idea only.
+  evidence_refs:
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: city within
+  literal_form: the city which is within him
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: heavenly pattern of the city
+  literal_form: a pattern of the city laid up in heaven
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: disorder from excess or lack
+  literal_form: disorder arising from superfluity or want
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: divine call
+  literal_form: a divine call
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Regulation of wealth and honours
+  summary: The ordered man avoids harmful accumulation of riches, regulates property
+    by his means, accepts honours that improve him, and avoids honours that disorder
+    his life.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Ruling in the inner or ideal city
+  summary: The speaker says the man will rule in his own city, though perhaps not
+    in his birth-land unless divinely called; the respondent identifies this as the
+    city founded in idea only.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Beholding the heavenly pattern
+  summary: The ideal city is said to have a pattern laid up in heaven; one may behold
+    it, set one’s house in order, and live after its manner whether or not it exists
+    in fact.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: inner polity as model for self-ordering
+  taxonomy_refs:
+  - wisdom
+  basis: The passage represents ethical conduct as looking to and preserving order
+    in an internal city, regulating wealth and honour accordingly.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is philosophical dialogue rather than a narrative myth; the
+    taxonomy reference is broad.
+- id: motif:2
+  label: heavenly archetype of an ideal city
+  taxonomy_refs: []
+  basis: The ideal city is described as having a pattern laid up in heaven, which
+    may be beheld and used to order one’s own life.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No specific mythic taxonomy item is directly named by the passage.
+- id: motif:3
+  label: divinely authorized public rule
+  taxonomy_refs: []
+  basis: The man may rule in his land of birth only if he has a divine call.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The divine call is mentioned briefly and not elaborated into a full narrative
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 23131-23135
+  quote_or_summary: "“he will not allow himself to be dazzled by the foolish applause
+    of the world, and heap up riches to his own infinite harm”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: 23139-23143
+  quote_or_summary: "“He will look at the city which is within him... no disorder...
+    either from superfluity or from want... regulate his property and gain or spend
+    according to his means.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: 23147-23150
+  quote_or_summary: He will accept honours that make him better and avoid private
+    or public honours likely to disorder his life.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: quote
+  locator: 23154-23157
+  quote_or_summary: "“he will be a ruler in the city which is his own... though in
+    the land of his birth perhaps not, unless he have a divine call.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: 23159-23162
+  quote_or_summary: The respondent says the speaker means the city they founded, which
+    exists in idea only, and doubts that such a city exists anywhere on earth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: quote
+  locator: 23163-23165
+  quote_or_summary: "“In heaven... there is laid up a pattern of it... which he who
+    desires may behold... he will live after the manner of that city.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: quote
+  locator: '23165'
+  quote_or_summary: "“I think so, he said.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong. Motif labels are cautious because the passage
+    is philosophical and symbolic rather than a myth narrative. No comparison claims
+    were made because the passage itself does not support an explicit comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references were limited to the available list.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l23131-l23165
+  passage_sha256=9c2b7c88bbc3e363beae3d64bdf5ea8ae130519579e7612c68eb6a663e4766e0
+

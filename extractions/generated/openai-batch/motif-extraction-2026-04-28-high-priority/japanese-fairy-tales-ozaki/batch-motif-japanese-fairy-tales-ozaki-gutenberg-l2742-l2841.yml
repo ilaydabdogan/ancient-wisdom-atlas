@@ -1,0 +1,504 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l2742-l2841
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE FARMER AND THE BADGER / THE ADVENTURES OF KINTARO, THE GOLDEN BOY / THE
+    STORY OF THE MAN WHO DID NOT WISH TO DIE / THE BAMBOO-CUTTER AND THE MOON-CHILD;
+    lines 2742-2841
+  start: '2742'
+  end: '2841'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Two suitors of Princess Moonlight attempt to fulfill impossible requests
+    by deception. The first substitutes a temple stone bowl for Buddha’s bowl, but
+    the Princess rejects it when it does not shine. The second has jewelers manufacture
+    a gold and silver branch resembling one from the fabled tree on Mount Horai, then
+    invents a long tale of sea travel, demons, a shining being, and the mountain’s
+    golden tree. The unpaid jewelers expose the fraud, the Princess pays them and
+    returns the branch, and the disgraced suitor withdraws to the mountains.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The First Knight announces a quest for Buddha’s bowl but does not travel to
+    India; instead he obtains a stone bowl from a temple in Kyoto and presents it
+    after waiting three years.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Princess Moonlight expects the bowl to fill the room with light; because it
+    does not shine, she identifies it as false and refuses to see the First Knight.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Second Knight says he is going to Mount Horai to obtain a branch from
+    a gold and silver tree for Princess Moonlight.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Second Knight hides in an inaccessible house with six jewelers and has
+    them make an artificial gold and silver branch.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The text states that people consulted by the Second Knight described Mount
+    Horai as belonging to fable rather than fact.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Princess Moonlight examines the branch and says she believes it is artificial
+    because it could not have been obtained from Mount Horai so quickly or easily.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Second Knight tells a fabricated account of a sea voyage, storm, demons,
+    an unknown island, a shining being with a golden bowl, and climbing Mount Horai
+    to take a branch from a golden tree with silver roots.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The unpaid jewelers arrive and reveal that they made the presented branch;
+    the Princess pays them and returns the branch to the Knight.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: After the deception is revealed, the Second Knight attacks the jewelers and
+    later retires to solitary life among the mountains.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Princess Moonlight
+  description: The Princess who receives and evaluates the suitors’ quest objects,
+    rejects the false bowl and the artificial branch, and pays the jewelers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: First Knight
+  description: A suitor who claims to seek Buddha’s bowl but substitutes a stone bowl
+    from a Kyoto temple.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Second Knight
+  description: A suitor who claims to seek a branch from Mount Horai but secretly
+    has jewelers make one and later invents a travel tale.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: old man / bamboo-cutter / foster-parent
+  description: Princess Moonlight’s foster-parent, who receives the objects from the
+    suitors and is initially deceived by the Second Knight’s appearance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:5
+  name_or_label: temple priest in Kyoto
+  description: A priest from whom the First Knight obtains a stone bowl for a large
+    payment.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: six jewelers
+  description: Skilled jewelers employed by the Second Knight to make the gold and
+    silver branch; they later expose the fraud by petitioning for payment.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:7
+  name_or_label: demons in the Second Knight’s story
+  description: Figures in the Second Knight’s fabricated tale who inhabit an unknown
+    island, threaten to kill and eat him, and later help repair his boat.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: shining being in the Second Knight’s story
+  description: A figure in the fabricated tale who appears on the beach holding a
+    golden bowl and identifies the island as Mount Horai.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: tester and rejecter of false quest gifts
+  assigned_to:
+  - fig:1
+  basis: Princess Moonlight examines the objects and rejects them when they fail her
+    expectations or appear artificial.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:2
+  label: deceptive suitor
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Both knights claim to undertake difficult quests but use substitute or manufactured
+    objects.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:3
+  label: fabricator of a false travel narrative
+  assigned_to:
+  - fig:3
+  basis: The Second Knight tells a detailed invented account of reaching Mount Horai
+    and taking the branch.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: intermediary foster-parent
+  assigned_to:
+  - fig:4
+  basis: The old man receives the quest objects and tries to persuade the Princess
+    to see the Second Knight.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:5
+  label: supplier of substitute sacred object
+  assigned_to:
+  - fig:5
+  basis: The priest accepts payment for the stone bowl taken from the temple altar.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: makers of counterfeit treasure
+  assigned_to:
+  - fig:6
+  basis: The jewelers work for over a thousand days making the gold branch, silver
+    twigs, and jeweled fruit.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: witnesses exposing deception
+  assigned_to:
+  - fig:6
+  basis: Their petition for unpaid labor reveals that the branch was manufactured.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: figures inside fabricated quest tale
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The demons and shining being occur only within the Second Knight’s narrated
+    story.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Buddha’s bowl
+  literal_form: Quest object expected to shine and fill the room with light.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: stone bowl substitute
+  literal_form: A stone bowl taken from a Kyoto temple altar and wrapped in gold cloth.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Mount Horai
+  literal_form: A fabled remote mountain or island destination named as the source
+    of the gold and silver tree.
+  associated_figures:
+  - fig:3
+  - fig:8
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: gold and silver tree
+  literal_form: A wonderful tree on Mount Horai described as golden with silver roots.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: artificial jeweled branch
+  literal_form: A manufactured branch of gold with silver twigs and jeweled fruit.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:6
+  label: golden bowl in fabricated tale
+  literal_form: A golden bowl held by the shining being on the beach in the Second
+    Knight’s story.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: First Knight’s false bowl
+  summary: The First Knight avoids the dangerous journey to India, obtains a stone
+    bowl from a Kyoto temple, wraps it in gold cloth, and presents it as Buddha’s
+    bowl.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Princess rejects the bowl
+  summary: Princess Moonlight examines the bowl, expects it to shine, identifies it
+    as false when it does not, and refuses the First Knight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Second Knight manufactures a branch
+  summary: The Second Knight pretends to set out for Mount Horai, hides with jewelers,
+    and has them make an artificial gold and silver branch.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Presentation and suspicion
+  summary: The Second Knight returns looking travel-worn, the old man is deceived,
+    but Princess Moonlight examines the branch and judges it likely artificial.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Invented Mount Horai adventure
+  summary: The Second Knight tells a false story of sailing through storms, encountering
+    demons, meeting a shining being with a golden bowl, climbing Mount Horai, and
+    taking a branch from the golden tree.
+  figure_refs:
+  - fig:3
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Exposure and aftermath
+  summary: The unpaid jewelers reveal that they made the branch, Princess Moonlight
+    pays them and returns the branch, and the Second Knight later attacks them and
+    withdraws to the mountains.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: impossible suitor tasks answered by counterfeit gifts
+  taxonomy_refs: []
+  basis: The suitors attempt to satisfy Princess Moonlight’s demands for rare sacred
+    or fabled objects by substituting a temple bowl and a manufactured branch.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The wider set of tasks is not fully included in this passage; the motif
+    is inferred only from the two examples present here.
+- id: motif:2
+  label: mystical quest for a remote wondrous object
+  taxonomy_refs:
+  - mystical_quest
+  basis: 'Both requested objects are framed as requiring difficult travel to distant
+    sacred or fabled places: India for Buddha’s bowl and Mount Horai for the branch
+    of the gold and silver tree.'
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: In this passage the actual quests are not completed; one is avoided and
+    the other is fabricated.
+- id: motif:3
+  label: fabled mountain island with wondrous tree
+  taxonomy_refs:
+  - sacred_tree_axis
+  - mystical_quest
+  basis: The Second Knight’s tale describes Mount Horai as an island with a high mountain,
+    a summit, and a golden tree with silver roots, while the narrator notes that Mount
+    Horai is regarded as fable rather than fact.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The Mount Horai details occur inside a deceptive speech, not as verified
+    events in the story-world.
+- id: motif:4
+  label: fraud exposed by makers of the false treasure
+  taxonomy_refs: []
+  basis: The jewelers who made the artificial branch arrive seeking payment and thereby
+    reveal the Second Knight’s deception.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No broader taxonomy reference is assigned from the provided list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2742-2750
+  quote_or_summary: The First Knight announces a quest for Buddha’s bowl, avoids traveling
+    to India, takes a stone bowl from a Kyoto temple altar after paying a priest,
+    wraps it in gold cloth, waits three years, and carries it to the old man.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 2751-2758
+  quote_or_summary: Princess Moonlight unwraps the bowl, expects it to shine, sees
+    that it does not, identifies it as a sham, returns it, and refuses to see the
+    First Knight.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 2760-2777
+  quote_or_summary: The Second Knight claims to be setting out for Mount Horai to
+    get a branch of the gold and silver tree, sends his servants back, hides in a
+    specially built inaccessible house with six jewelers, and has them make such a
+    branch; people say Mount Horai belongs to fable, not fact.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: 2779-2794
+  quote_or_summary: The Second Knight returns looking travel-worn with the branch
+    in a lacquer box; the old man is deceived and praises the treasure, but Princess
+    Moonlight examines it and says she believes it is artificial.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: 2796-2825
+  quote_or_summary: The Second Knight invents a story of sailing toward the far Eastern
+    Sea, being storm-tossed, encountering demons on an unknown island, meeting a shining
+    being with a golden bowl, learning the place is Mount Horai, climbing to the summit,
+    and breaking a branch from a golden tree with silver roots.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: 2827-2837
+  quote_or_summary: The six unpaid jewelers petition Princess Moonlight, saying they
+    made the gold branch with silver twigs and jeweled fruit; the deception is exposed,
+    the Princess sends back the branch, pays the workmen, and they leave happy.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: summary
+  locator: 2837-2841
+  quote_or_summary: On their way home, the jewelers are overtaken and beaten by the
+    disappointed Knight, who then returns home enraged and retires to solitary life
+    among the mountains.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are conservative;
+    Mount Horai and its wonders are reported within a fraudulent speech, which limits
+    confidence for some motif assignments. No comparison claims were added because
+    the passage itself does not support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All observations and motif candidates are derived from the provided line range and public-domain passage metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l2742-l2841
+  passage_sha256=aefef6e51c0590d980e572cc2db428cfc058e4cbf4d36b4e9e7a69bd83ef89d7
+

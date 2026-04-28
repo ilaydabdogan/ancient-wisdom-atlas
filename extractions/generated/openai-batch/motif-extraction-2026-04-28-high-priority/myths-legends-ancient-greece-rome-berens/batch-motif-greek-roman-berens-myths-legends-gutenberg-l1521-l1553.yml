@@ -1,0 +1,401 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l1521-l1553
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: JUPITER. / HERA (JUNO). / JUNO. / PALLAS-ATHENE (MINERVA).; lines 1521-1553
+  start: '1521'
+  end: '1553'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Athene's appearance, her war-goddess attributes,
+    her worship in Greece and especially Athens, the Parthenon statue by Phidias,
+    the olive tree sacred to her and produced in a contest with Poseidon, the tree's
+    regrowth after Persian burning, the Panathenaea, and animals and sacrifices sacred
+    to Athene.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Athene is described as fully draped, serious, thoughtful, wise in aspect,
+    strong, grand, majestic, and slightly masculine in appearance.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: As war-goddess, Athene is described wearing armour and a plumed helmet, carrying
+    the aegis, and holding a golden staff.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The golden staff is said to endow Athene's chosen favourites with youth and
+    dignity.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Athene was worshipped throughout Greece and especially venerated by the Athenians
+    as guardian deity of Athens.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Parthenon on the Acropolis contained a colossal ivory-and-gold statue
+    of Athene by Phidias.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The statue represented Athene standing with spear and shield, holding an image
+    of Nike, with a serpent at her feet.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The olive tree was sacred to Athene and was said to have been produced by
+    her in a contest with Poseidon.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The olive tree preserved in the temple of Erectheus reportedly sent out new
+    shoots immediately after the Persians burned it.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The principal festival in honour of Athene was the Panathenaea.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The owl, cock, and serpent were sacred animals of Athene, and rams, bulls,
+    and cows were her sacrifices.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Athene
+  description: Goddess described in appearance, war-goddess form, cult, sacred tree,
+    animals, sacrifices, and festival.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Nike
+  description: An image held in the hand of Athene's statue in the Parthenon.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Poseidon
+  description: Named as Athene's opponent in the contest in which she produced the
+    olive tree.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Persians
+  description: Group said to have burned the sacred olive tree after sacking the town.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: wisdom-bearing deity
+  assigned_to:
+  - fig:1
+  basis: Athene is described as earnest and wise in aspect.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: war-goddess
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly describes Athene when represented as the war-goddess,
+    wearing armour and bearing martial objects.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: guardian deity of Athens
+  assigned_to:
+  - fig:1
+  basis: The passage states that Athene was the guardian deity of Athens.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: image borne by Athene's statue
+  assigned_to:
+  - fig:2
+  basis: The Parthenon statue is described as holding an image of Nike.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: contest opponent
+  assigned_to:
+  - fig:3
+  basis: Poseidon is named in the contest in which Athene produced the olive tree.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: burners of the sacred tree
+  assigned_to:
+  - fig:4
+  basis: The Persians are said to have burned the olive tree after sacking the town.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: olive tree
+  literal_form: sacred olive tree produced by Athene and preserved on the Acropolis
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: serpent
+  literal_form: serpent at Athene's feet in the statue; also listed among animals
+    sacred to her
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:3
+  label: aegis
+  literal_form: aegis carried on Athene's arm in war-goddess representation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: golden staff
+  literal_form: staff held by Athene that endows chosen favourites with youth and
+    dignity
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: owl and cock
+  literal_form: animals sacred to Athene
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: spear and shield
+  literal_form: objects borne by Athene in the Parthenon statue
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Athene's physical and moral aspect
+  summary: Athene is described as draped, serious, thoughtful, wise, strong, grand,
+    majestic, and slightly masculine in form.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Athene as war-goddess
+  summary: Athene appears in armour with a plumed helmet, aegis, and golden staff
+    that grants youth and dignity to chosen favourites.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Parthenon statue of Athene
+  summary: The Parthenon housed Phidias's ivory-and-gold statue of Athene, represented
+    standing with spear, shield, an image of Nike, and a serpent at her feet.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Sacred olive tree and renewal after burning
+  summary: Athene produced the olive tree in a contest with Poseidon; the tree preserved
+    on the Acropolis was burned by the Persians and then immediately produced new
+    shoots.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Cult honours for Athene
+  summary: The Panathenaea was Athene's principal festival; the owl, cock, and serpent
+    were sacred to her, and rams, bulls, and cows were sacrificed to her.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: wisdom-bearing goddess
+  taxonomy_refs:
+  - wisdom
+  basis: Athene is described as thoughtful and replete with wisdom, and her appearance
+    embodies strength, grandeur, and majesty.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an attribute description rather than a narrated wisdom episode.
+- id: motif:2
+  label: sacred tree with renewed vitality
+  taxonomy_refs:
+  - death_rebirth
+  basis: The sacred olive tree is burned and immediately sends out new shoots, suggesting
+    a plant-renewal pattern within the passage.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage describes a tree's regrowth, not the death and rebirth of
+    a deity or human figure.
+- id: motif:3
+  label: deity produces a sacred civic tree
+  taxonomy_refs: []
+  basis: Athene produces the olive tree in a contest with Poseidon, and the tree is
+    sacred to her and preserved in an Athenian temple.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The contest is only briefly mentioned; details and civic consequences
+    are not narrated in this passage.
+- id: motif:4
+  label: armed guardian goddess of a city
+  taxonomy_refs: []
+  basis: Athene is represented with martial equipment and is described as guardian
+    deity of Athens.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage provides iconographic and cultic description rather than a
+    narrative defense episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1521-1527
+  quote_or_summary: Athene is represented fully draped with a serious, thoughtful,
+    wise aspect, strength, grandeur, majesty, and a slightly masculine appearance.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1528-1532
+  quote_or_summary: As war-goddess she wears armour and a plumed helmet, carries the
+    aegis, and holds a golden staff that grants youth and dignity to her chosen favourites.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1533-1540
+  quote_or_summary: Athene was widely worshipped in Greece, specially venerated by
+    Athenians as guardian of Athens, and had a celebrated Parthenon temple containing
+    Phidias's colossal ivory-and-gold statue.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1540-1543
+  quote_or_summary: The statue represented Athene standing erect with spear and shield,
+    holding an image of Nike, with a serpent at her feet.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1544-1546
+  quote_or_summary: The olive tree sacred to Athene was said to have been produced
+    by her in a contest with Poseidon.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1546-1550
+  quote_or_summary: The olive tree preserved in the temple of Erectheus on the Acropolis
+    reportedly had such vitality that, after the Persians burned it, it immediately
+    produced new shoots.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1551-1551
+  quote_or_summary: The Panathenaea is named as the principal festival held in honour
+    of Athene.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1552-1553
+  quote_or_summary: The owl, cock, and serpent are listed as sacred to Athene, and
+    rams, bulls, and cows as her sacrifices.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is descriptive and iconographic with one brief mythic reference
+    to the olive tree contest; motif candidates are therefore mostly attribute- or
+    symbol-based. No passage-supported external comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only provided passage and metadata were used; taxonomy references are limited to the supplied lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l1521-l1553
+  passage_sha256=1998a3a30291d8f87c973d2b6d5c0e66c2238c7ebc30cbffafb1f7abadca16fb
+

@@ -1,0 +1,242 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l5940-l5953
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: CONSUS. / LIBITINA. / LAVERNA. / COMUS.; lines 5940-5953
+  start: '5940'
+  end: '5953'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage identifies Laverna as a goddess presiding over thieves, artifice,
+    and fraud, with an altar and sacred grove associated with her. It then identifies
+    Comus as a genius presiding over banquets, revelry, and pleasure, and describes
+    him as a flower-crowned, wine-flushed young man in a drunken posture with a torch
+    falling from his hand.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Laverna is described as the presiding goddess of thieves, artifice, and fraud.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An altar to Laverna stood near the Porta Lavernalis, which was named after
+    her.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Laverna possessed a sacred grove on the Via Salavia.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Comus is described as the presiding genius of banquets, festive scenes, revelry,
+    joyous pleasures, and reckless gaiety.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Comus is represented as a young man crowned with flowers, with his face heated
+    and flushed with wine.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Comus leans against a post in a half-sleepy and drunken attitude, with a torch
+    falling from his hand.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Laverna
+  description: Presiding goddess of thieves, artifice, and fraud; associated with
+    an altar near the Porta Lavernalis and a sacred grove on the Via Salavia.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Comus
+  description: Presiding genius of banquets, festive scenes, revelry, joyous pleasures,
+    and reckless gaiety; represented as a flower-crowned, wine-flushed young man in
+    a drunken attitude with a torch falling from his hand.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: Presiding goddess of thieves and fraud
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls Laverna the presiding goddess of thieves, artifice,
+    and fraud.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Presiding genius of revelry
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly calls Comus the presiding genius of banquets, festive
+    scenes, revelry, and pleasures.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Drunken reveler figure
+  assigned_to:
+  - fig:2
+  basis: The passage describes Comus as wine-flushed, half-sleepy, drunken, flower-crowned,
+    and holding a falling torch.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Altar
+  literal_form: Altar erected to Laverna near the Porta Lavernalis
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Sacred grove
+  literal_form: Sacred grove possessed by Laverna on the Via Salavia
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Flowers
+  literal_form: Flowers crowning Comus
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Wine
+  literal_form: Wine associated with Comus's heated and flushed face
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Torch
+  literal_form: Torch falling from Comus's hand
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Post
+  literal_form: Post against which Comus leans
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Laverna's domains and cult places
+  summary: 'Laverna is identified by her sphere of patronage and by cult places associated
+    with her: an altar near the Porta Lavernalis and a sacred grove on the Via Salavia.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Iconographic representation of Comus
+  summary: Comus is identified by his sphere of revelry and described in a visual
+    representation as a flower-crowned, wine-flushed young man leaning drunkenly against
+    a post while a torch falls from his hand.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Divine patronage of theft and fraud
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Laverna presides over thieves, artifice, and fraud, linking a divine figure
+    to deception and illicit boundary-crossing behavior.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage names patronage of theft and fraud but does not narrate a
+    trickster episode or boundary-crossing action.
+- id: motif:2
+  label: Personified revelry as a drunken youth
+  taxonomy_refs: []
+  basis: Comus presides over banquets and revelry and is represented as a drunken,
+    flower-crowned young man with wine and a falling torch.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly matches banquet revelry or personified
+    festivity.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5940-5943
+  quote_or_summary: Laverna is the presiding goddess of thieves, artifice, and fraud;
+    she has an altar near the Porta Lavernalis and a sacred grove on the Via Salavia.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 5946-5948
+  quote_or_summary: Comus is the presiding genius of banquets, festive scenes, revelry,
+    joyous pleasures, and reckless gaiety.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 5950-5953
+  quote_or_summary: Comus is represented as a young man crowned with flowers, flushed
+    with wine, leaning against a post in a half-sleepy drunken attitude, with a torch
+    falling from his hand.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on a short descriptive handbook passage. Motif identification
+    is limited because the passage gives attributes and iconography rather than narrative
+    episodes. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. The passage text supplied for this record includes Laverna and Comus, despite the broader locator label also naming Consus and Libitina.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l5940-l5953
+  passage_sha256=35ee56df41963dc8be6dfd7e364dc7c9850d6113ef64bbb496167c9e2c6e26a2
+

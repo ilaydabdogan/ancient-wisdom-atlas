@@ -1,0 +1,409 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l14545-l14687
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK I. / BOOK II. / BOOK III. / BOOK IV.; lines 14545-14687
+  start: '14545'
+  end: '14687'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Socrates and his interlocutor examine justice by comparing the just city
+    with the individual soul. They define civic justice as each class doing its own
+    work, then ask whether the soul has corresponding parts. Socrates introduces a
+    rule that the same thing cannot undergo or perform contrary actions in the same
+    respect at the same time, illustrating it with examples of a person moving one
+    part while another rests and a spinning top with axis and circumference.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Injustice is described as the greatest degree of evil-doing to one's own city.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Justice in the city is described as the trader, auxiliary, and guardian each
+    doing their own business.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speakers propose testing the account of justice in the individual after
+    finding it in the State.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The State is treated as a larger example that may help discern justice in
+    the individual.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage uses an image of friction striking a light so that justice may
+    shine forth and be fixed in the soul.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The just individual is said to be like the just State insofar as both are
+    called just.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The individual is assumed to have the same three principles in the soul as
+    those found in the State.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Socrates asks whether learning, anger, and appetite belong to distinct parts
+    of nature or to the whole soul in each action.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Socrates states that the same thing cannot act or be acted upon in contrary
+    ways in the same part, relation, and time.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: A standing person moving hands and head is used as an example in which one
+    part moves while another is at rest.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: A spinning top is described as having an axis that stands still and a circumference
+    that goes round.
+  category: object
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Primary speaker who directs the inquiry into justice, the city, and
+    the soul.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Interlocutor
+  description: Unnamed respondent who agrees, asks questions, and urges continuation
+    of the inquiry.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Trader
+  description: One of the three city classes named in the definition of civic justice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Auxiliary
+  description: One of the three city classes named in the definition of civic justice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Guardian
+  description: One of the three city classes named in the definition of civic justice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: State
+  description: The larger example in which justice is examined before applying the
+    discovery to the individual.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Individual soul
+  description: The individual case in which the same principles found in the State
+    are sought.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: philosophical questioner
+  assigned_to:
+  - fig:1
+  basis: Socrates leads the inquiry by posing questions and proposing tests for the
+    account of justice and the soul.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: role:2
+  label: respondent in inquiry
+  assigned_to:
+  - fig:2
+  basis: The interlocutor answers, agrees, asks how the inquiry can proceed, and encourages
+    pursuit of the speculation.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: role:3
+  label: civic class assigned its own function
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Civic justice is defined as each of these classes doing its own business.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: larger analogue for inquiry
+  assigned_to:
+  - fig:6
+  basis: The State is used as a larger example for discerning justice before applying
+    it to the individual.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: smaller analogue under examination
+  assigned_to:
+  - fig:7
+  basis: The individual soul is examined for principles corresponding to those in
+    the State.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: light from friction
+  literal_form: Image of two things rubbed together striking a light in which justice
+    shines forth.
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: spinning top axis and circumference
+  literal_form: A revolving top with an axis that stands still and a circumference
+    that goes round.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Definition of civic justice
+  summary: The speakers identify civic injustice as evil-doing to one's own city and
+    civic justice as each class performing its own work.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Transfer of inquiry from State to individual
+  summary: Socrates proposes applying the account discovered in the State to the individual
+    and testing whether the two cases agree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Question of the soul's parts
+  summary: The speakers consider whether learning, anger, and appetite belong to distinct
+    principles within the soul or to the whole soul in each action.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Rule of non-contradictory action
+  summary: Socrates proposes that the same thing cannot act or be acted upon in contrary
+    ways in the same respect at the same time, then illustrates this with a person
+    partly moving and a spinning top.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: quest for wisdom through analogical inquiry
+  taxonomy_refs:
+  - wisdom
+  basis: The passage stages a philosophical search for justice by moving from the
+    larger case of the State to the individual soul and by testing principles through
+    reasoned examples.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: This is a philosophical argument rather than a narrative myth; the motif
+    label is limited to the passage's explicit inquiry into knowledge and justice.
+- id: motif:2
+  label: inner division of the soul
+  taxonomy_refs: []
+  basis: The passage asks whether learning, anger, and appetite are performed by different
+    principles within the soul and uses contradiction tests to distinguish parts.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy family directly names tripartition of the soul; therefore
+    no taxonomy reference is assigned.
+- id: motif:3
+  label: illumination of hidden truth
+  taxonomy_refs:
+  - wisdom
+  basis: The passage uses the image of friction striking light so that justice may
+    shine forth and be fixed in the soul.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The image is metaphorical within philosophical speech, not a literal mythic
+    event.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious comparison with a wisdom-pattern in which
+    inquiry brings a hidden truth into visibility.
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself is argumentative philosophy and does not narrate
+    a mythic revelation; comparison is functional and metaphorical only.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 14545-14552
+  quote_or_summary: Injustice is identified with the greatest evil-doing to one's
+    city; justice is defined as trader, auxiliary, and guardian each doing their own
+    business.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 14553-14570
+  quote_or_summary: Socrates says the account should be tested in the individual after
+    being found in the State, using the State as the larger example.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 14566-14569
+  quote_or_summary: '"The friction of the two when rubbed together may possibly strike
+    a light in which justice will shine forth"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 14573-14583
+  quote_or_summary: The speakers agree that things called by the same name are alike
+    in that respect, and that the just man will be like the just State in regard to
+    justice.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 14584-14596
+  quote_or_summary: The State was just when its three classes did their own work;
+    the individual is assumed to have the same three principles in the soul.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 14618-14652
+  quote_or_summary: Socrates asks whether learning, anger, and appetite arise from
+    different parts of nature or whether the whole soul acts in each case.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 14653-14661
+  quote_or_summary: Socrates states the rule that the same thing cannot act or be
+    acted upon in contrary ways in the same part, relation, and time.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 14662-14673
+  quote_or_summary: A man standing while moving his hands and head is described as
+    partly at rest and partly in motion.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 14674-14687
+  quote_or_summary: A spinning top is described as having an axis that stands still
+    and a circumference that goes round; if the axis inclines, it cannot be called
+    at rest.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal argumentative content is clear. Motif and comparison fields are limited
+    because the passage is philosophical and mostly non-narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references were assigned only where directly supportable by the passage language and supplied taxonomy list.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l14545-l14687
+  passage_sha256=fbae11a22ed6f9ab2b104c5446e0fc6a9b9aff06b3a645e1de303bd88efb36b5
+

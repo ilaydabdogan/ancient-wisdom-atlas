@@ -1,0 +1,545 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l5813-l5924
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE JELLY FISH AND THE MONKEY / THE QUARREL OF THE MONKEY AND THE CRAB /
+    THE WHITE HARE AND THE CROCODILES / THE STORY OF PRINCE YAMATO TAKE; lines 5813-5924
+  start: '5813'
+  end: '5924'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Prince Yamato enters the tent of the rebel chiefs Kumaso and Takeru disguised
+    as a beautiful woman, serves wine to Kumaso, kills him with a hidden dagger, then
+    wounds Takeru. The dying Takeru asks Yamato's identity, recognizes his strength,
+    and gives him the name Yamato Take. On the return journey, Yamato Take defeats
+    another outlaw, Idzumo Takeru, by feigning friendship, exchanging a wooden sword
+    for the outlaw's real sword during a swim at the River Hinokawa, and beheading
+    him. The prince's victories bring peace to the land; the King honors him with
+    praise, a feast, gifts, and renewed affection.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Prince Yamato approaches the tent of the chiefs Kumaso and Takeru while disguised
+    as a beautiful woman in sumptuous garments.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kumaso invites the disguised Prince to sit and serve wine.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Kumaso drinks many cups of wine and becomes overcome by drink.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Prince kills Kumaso with a dagger hidden in his breast.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Takeru tries to escape but is caught and stabbed by Prince Yamato.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The dying Takeru asks the Prince who he is and says the Prince must be more
+    than mortal because he defeated the brothers alone.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Prince Yamato identifies himself as the King's son, sent by his father to
+    bring death to rebels.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The dying Takeru gives the Prince the new name Yamato Take and bequeaths the
+    title as bravest man in Yamato.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: On his return, Yamato Take meets another outlaw, Idzumo Takeru, in the province
+    of Idum.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Yamato Take feigns friendship under an assumed name and prepares a wooden
+    sword jammed in a sword shaft.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Yamato Take invites Idzumo Takeru to swim at the River Hinokawa and secretly
+    exchanges swords while the outlaw is still in the water.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Idzumo Takeru attempts to draw the wooden sword, but it is jammed fast and
+    useless.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: Yamato Take uses the outlaw's real sword to cut off the outlaw's head.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:14
+  text: The passage says Yamato Take defeats the King's foes through wisdom, bodily
+    strength, and craftiness, bringing peace and rest to the land and people.
+  category: attribute
+  evidence_refs:
+  - ev:11
+- id: obs:15
+  text: The King praises Yamato Take, holds a palace feast, gives him rare gifts,
+    and keeps him close after his return.
+  category: sequence
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Prince Yamato / Yamato Take
+  description: The King's son; a young warrior who uses disguise, stratagem, strength,
+    and craft to defeat rebel chiefs and outlaws, and is given the name Yamato Take
+    by the dying Takeru.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:11
+  - ev:12
+- id: fig:2
+  name_or_label: Kumaso
+  description: One of two rebel chiefs in the tent; he is charmed by the disguised
+    Prince, drinks wine, and is killed with a hidden dagger.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Takeru
+  description: Kumaso's brother, a rebel chief who is stabbed while trying to escape
+    and gives Prince Yamato the name Yamato Take before dying.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Idzumo Takeru
+  description: An outlaw in the province of Idum who is deceived by Yamato Take, disarmed
+    through the wooden-sword exchange, and beheaded.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:5
+  name_or_label: The King
+  description: Prince Yamato's father; sends him as avenger of evil and later praises,
+    feasts, rewards, and keeps him close.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:12
+roles:
+- id: role:1
+  label: royal avenger
+  assigned_to:
+  - fig:1
+  basis: The Prince says he is the King's son and has been sent by his father as avenger
+    of evil to bring death to rebels.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: disguised infiltrator
+  assigned_to:
+  - fig:1
+  basis: He enters the rebel chiefs' tent disguised as a beautiful woman and serves
+    wine before attacking.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: crafty warrior
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly says he prevails by wisdom, bodily strength, and craftiness.
+  evidence_refs:
+  - ev:11
+- id: role:4
+  label: rebel or outlaw opponent
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Kumaso and Takeru are rebel chiefs; Idzumo Takeru is another outlaw who had
+    done harm in the land.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:5
+  label: dying name-giver
+  assigned_to:
+  - fig:3
+  basis: Before dying, Takeru gives Prince Yamato the new name Yamato Take.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: royal father and sender
+  assigned_to:
+  - fig:5
+  basis: The Prince identifies himself as the King's son sent by his father; the King
+    later honors him on return.
+  evidence_refs:
+  - ev:6
+  - ev:12
+symbols:
+- id: sym:1
+  label: disguise as beautiful woman
+  literal_form: A beautiful woman robed in sumptuous garments; actually Prince Yamato
+    in disguise.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - shapeshifter
+  - trickster_boundary
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wine
+  literal_form: Wine served by the disguised Prince to Kumaso until Kumaso is overcome.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hidden dagger
+  literal_form: A dagger secretly carried hidden in the Prince's breast and used to
+    kill Kumaso and stab Takeru.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: bestowed name
+  literal_form: The name Yamato Take, given by the dying Takeru to Prince Yamato.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: wooden sword substitution
+  literal_form: A wooden sword jammed in a shaft and exchanged for Idzumo Takeru's
+    steel sword.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: sym:6
+  label: River Hinokawa
+  literal_form: The river where Yamato Take invites Idzumo Takeru to swim and secretly
+    changes swords.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: kingly reward feast
+  literal_form: A feast in the Palace, praise, rare gifts, and the King's renewed
+    attachment to his son.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+scenes:
+- id: scene:1
+  label: Disguised entry into the rebel tent
+  summary: Prince Yamato approaches the tent of Kumaso and Takeru disguised as a beautiful
+    woman, while the chiefs discuss the King's son and fear his army.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wine service and killing of Kumaso
+  summary: Kumaso is charmed by the disguised Prince, asks him to serve wine, drinks
+    heavily, and is stabbed to death with a hidden dagger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Takeru's death and naming of Yamato Take
+  summary: Takeru tries to flee, is stabbed, asks the Prince's identity, recognizes
+    his exceptional strength, and gives him the name Yamato Take before dying.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Sword trick at the River Hinokawa
+  summary: Yamato Take feigns friendship with Idzumo Takeru, invites him to swim,
+    exchanges a wooden sword for the outlaw's real sword, and then kills him when
+    he cannot draw the jammed wooden weapon.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: scene:5
+  label: Return and royal honor
+  summary: After defeating the King's foes, Yamato Take returns to the capital, where
+    the King praises him, holds a feast, gives gifts, and keeps him close.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: hero defeats enemies through disguise and deception
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Prince enters an enemy tent disguised as a woman, disarms suspicion through
+    service and charm, and kills the rebel chiefs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents this as martial stratagem rather than a supernatural
+    transformation.
+- id: motif:2
+  label: weapon substitution disables opponent
+  taxonomy_refs: []
+  basis: Yamato Take replaces Idzumo Takeru's sword with a jammed wooden sword, leaving
+    the outlaw unable to fight.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: No supplied taxonomy family directly names weapon substitution.
+- id: motif:3
+  label: dying enemy confers heroic name
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The dying Takeru recognizes Prince Yamato's superiority and gives him the
+    new name Yamato Take as bravest man in Yamato.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The name is conferred by an enemy, not by formal royal ceremony; the royal_legitimacy
+    taxonomy ref is only partially applicable.
+- id: motif:4
+  label: royal son pacifies land by defeating rebels
+  taxonomy_refs:
+  - culture_hero
+  - royal_legitimacy
+  basis: The Prince is the King's son, sent as avenger of evil, and his victories
+    bring peace and rest to the land and people before royal reward.
+  evidence_refs:
+  - ev:6
+  - ev:11
+  - ev:12
+  confidence: medium
+  cautions: The passage frames political pacification and heroic service rather than
+    explicit culture-founding.
+- id: motif:5
+  label: return of the victorious hero to royal honor
+  taxonomy_refs:
+  - return
+  - royal_legitimacy
+  basis: After defeating the King's enemies, Yamato Take returns to the capital and
+    receives praise, feast, gifts, and increased affection from the King.
+  evidence_refs:
+  - ev:12
+  confidence: high
+  cautions: The return is courtly and familial, not a supernatural return journey.
+- id: motif:6
+  label: victory by wisdom, strength, and craft
+  taxonomy_refs:
+  - wisdom
+  basis: The narrator states that Yamato Take prevailed through wisdom, bodily strength,
+    and craftiness against the King's foes.
+  evidence_refs:
+  - ev:11
+  confidence: high
+  cautions: This is an explicit evaluative summary in the passage rather than a single
+    concrete episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5813-5824
+  quote_or_summary: Kumaso and Takeru sit in their tent discussing the King's son's
+    army; Prince Yamato approaches in the disguise of a beautiful woman in sumptuous
+    garments, unrecognized by them.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 5826-5839
+  quote_or_summary: Kumaso admires the apparent woman, invites the disguised Prince
+    to sit and serve wine, and drinks cup after cup until overcome.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5841-5844
+  quote_or_summary: At the chosen moment, the Prince throws down the wine jar, seizes
+    Kumaso, and stabs him to death with a dagger hidden in his breast.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 5846-5851
+  quote_or_summary: Takeru tries to escape but Prince Yamato catches him by his garments
+    and stabs him, leaving him dying.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 5853-5866
+  quote_or_summary: The dying brigand asks the Prince to wait, asks who he is, and
+    says that one who has overcome both brothers alone must be more than mortal.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 5868-5872
+  quote_or_summary: The Prince identifies himself as the King's son Yamato, sent by
+    his father as avenger of evil to bring death to rebels and end robbery and murder.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 5874-5881
+  quote_or_summary: The dying Takeru recognizes Yamato's strength, gives him the new
+    name Yamato Take, bequeaths the title as bravest man in Yamato, and dies.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 5883-5891
+  quote_or_summary: On the way back through Idum, Yamato Take meets the outlaw Idzumo
+    Takeru, feigns friendship under an assumed name, and prepares a jammed wooden
+    sword.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 5893-5902
+  quote_or_summary: Yamato Take invites Idzumo Takeru to swim in the River Hinokawa
+    and secretly changes swords while the outlaw is still swimming.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 5904-5916
+  quote_or_summary: Idzumo Takeru accepts a sword contest, cannot draw the jammed
+    wooden sword, and Yamato Take kills him with the outlaw's own steel sword.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 5918-5921
+  quote_or_summary: The narrator says Yamato Take prevails against the King's foes
+    through wisdom, bodily strength, and craftiness, bringing peace and rest to the
+    land and people.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: 5923-5924
+  quote_or_summary: When Yamato Take returns to the capital, the King praises him,
+    holds a palace feast, gives rare gifts, and loves him more than ever.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif taxonomy assignments
+    are cautious where available taxonomy does not precisely cover the episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l5813-l5924
+  passage_sha256=ccbcc4840039bd5db30457b0fa574f1e7130e13627ba746cdfd4ef88f606d893
+

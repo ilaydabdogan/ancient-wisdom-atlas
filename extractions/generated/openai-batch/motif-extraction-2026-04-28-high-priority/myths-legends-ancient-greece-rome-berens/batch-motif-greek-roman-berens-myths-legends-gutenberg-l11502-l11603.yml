@@ -1,0 +1,215 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l11502-l11603
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: THE HERACLIDAE. / THE SIEGE OF TROY. / RETURN OF THE GREEKS FROM TROY. /
+    PRONOUNCING INDEX.; lines 11502-11603
+  start: '11502'
+  end: '11603'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A pronouncing index segment lists mythological names, places, objects,
+    and page references from Taenarum through Zeus. It includes entries such as Tartarus,
+    Theseus, Thetis, Troy and its walls, Ulysses as a cross-reference to Odysseus,
+    Venus, Vesta, Vulcan, Winds, Wooden Horse, and Zeus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an alphabetical pronouncing index section covering entries
+    from Taenarum through Zeus, with page references.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage includes an entry for Troy and a sub-entry for the walls of Troy.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage includes an entry for Ulysses that directs the reader to Odysseus.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage includes entries for Winds and Wooden Horse.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage lists multiple named figures or places without narrating actions
+    involving them.
+  category: other
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Ulysses
+  description: Index entry cross-referenced to Odysseus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Odysseus
+  description: Named as the target of the Ulysses cross-reference.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Zeus
+  description: Index entry with pronunciation and page reference.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Venus
+  description: Index entry with pronunciation and page references, including a sub-entry
+    for Venus of Milo.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Vulcan
+  description: Index entry with page reference.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Theseus
+  description: Index entry with pronunciation and page references.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: cross-referenced index name
+  assigned_to:
+  - fig:1
+  basis: The entry for Ulysses instructs the reader to see Odysseus.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: cross-reference target
+  assigned_to:
+  - fig:2
+  basis: Odysseus is named as the reference target in the Ulysses entry.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: indexed name
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Each figure is present as a pronouncing index entry with page reference information.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: Wooden Horse
+  literal_form: Wooden Horse
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: walls of Troy
+  literal_form: walls of Troy
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Winds
+  literal_form: Winds
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11502-11603
+  quote_or_summary: The passage is a pronouncing index segment containing alphabetized
+    entries from Taenarum through Zeus with page references.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 11560-11562
+  quote_or_summary: "“Troy, 283. -- walls of, 104.”"
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: line 11569
+  quote_or_summary: "“Ulysses (u-lis'-seez), _See_ Odysseus.”"
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 11594-11595
+  quote_or_summary: "“Winds, 170, 298. Wooden Horse, 301.”"
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: line 11600
+  quote_or_summary: "“Zeus (zuce), 26.”"
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 11574-11576
+  quote_or_summary: The index lists Venus with page references and includes a sub-entry
+    for Venus of Milo.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: line 11583
+  quote_or_summary: "“Vulcan, 100.”"
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:8
+  type: summary
+  locator: line 11535
+  quote_or_summary: The index lists Theseus with pronunciation and page references.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is an index segment rather than a narrative passage; therefore
+    no scenes, actions, or motif candidates are extracted beyond literal index objects
+    and cross-references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy motif refs assigned because the passage does not narrate mythic events or explicitly connect entries to motif families.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l11502-l11603
+  passage_sha256=38d062c11b450cb7960e78cd2628356046c9b7d9d3fce6d212b22b8e0c2e0707
+

@@ -1,0 +1,494 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l17399-l17515
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK III. / BOOK IV. / BOOK V. / BOOK VI.; lines 17399-17515
+  start: '17399'
+  end: '17515'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Socrates and Adeimantus discuss the qualities required for philosophical
+    rule and the common objection that philosophers become useless or corrupt. Socrates
+    replies with a parable of a ship whose impaired captain is manipulated by quarrelling
+    sailors, while the true pilot, who understands navigation by seasons, sky, stars,
+    and winds, is dismissed as useless. Socrates identifies this figure as describing
+    the true philosopher's relation to the State.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A soul suited to the study must have memory, quickness in learning, nobility,
+    graciousness, and kinship with truth, justice, courage, and temperance.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Socrates says such people, when perfected by years and education, should be
+    entrusted with the State.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Adeimantus reports an objection that Socrates' hearers feel led astray in
+    argument and finally overthrown, as in a game of draughts.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Adeimantus says many mature practitioners of philosophy are considered strange,
+    roguish, or useless to the world.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Socrates says the question requires a reply in a parable and introduces a
+    fictional composite figure.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The imagined ship has a captain who is taller and stronger than the crew but
+    has impaired hearing and sight and little knowledge of navigation.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The sailors quarrel over steering, each claiming a right to steer without
+    having learned navigation.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The sailors beg the captain for the helm and remove rivals by killing them
+    or throwing them overboard.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The sailors drug or intoxicate the captain, mutiny, take possession of the
+    ship, and consume the stores during the voyage.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The sailors praise those who help them seize the ship as pilots or able seamen
+    and abuse the other sort as good-for-nothing.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The true pilot attends to year, seasons, sky, stars, winds, and the other
+    matters belonging to navigation.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: In the mutinous ship, the true pilot is called a prater, star-gazer, and good-for-nothing.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: Socrates states that the parable describes the true philosopher in relation
+    to the State.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Speaker who describes the qualities of the philosophical ruler and
+    gives the parable of the ship.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: Adeimantus
+  description: Interlocutor who raises the objection about philosophers and responds
+    to Socrates' parable.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:3
+  name_or_label: philosophical ruler candidate
+  description: Person with memory, quickness, nobility, graciousness, and kinship
+    with truth, justice, courage, and temperance, to be entrusted with the State when
+    educated and mature.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: votaries of philosophy
+  description: People described by objectors as becoming strange, roguish, or useless
+    when they continue philosophy into mature years.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: captain
+  description: In the parable, a taller and stronger captain with impaired hearing
+    and sight and little knowledge of navigation.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: sailors
+  description: In the parable, quarrelling crew members who claim the right to steer,
+    manipulate the captain, seize the ship, and praise their own partisans.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: true pilot
+  description: A figure who understands the proper art of steering by attending to
+    seasons, sky, stars, winds, and other navigational matters, but is dismissed by
+    mutineers.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: the State
+  description: The political community to be entrusted to perfected philosophical
+    natures and interpreted through the ship parable.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+  - ev:7
+roles:
+- id: role:1
+  label: parable speaker
+  assigned_to:
+  - fig:1
+  basis: Socrates says he must answer by a parable and then supplies the ship figure.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: objecting interlocutor
+  assigned_to:
+  - fig:2
+  basis: Adeimantus introduces the objection that philosophers may become monstrous,
+    roguish, or useless.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: qualified guardian-ruler
+  assigned_to:
+  - fig:3
+  basis: Socrates says those perfected by years and education are the only ones to
+    whom the State should be entrusted.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: criticized philosopher
+  assigned_to:
+  - fig:4
+  basis: Adeimantus reports the view that many philosophers become strange, rogues,
+    or useless.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: nominal captain
+  assigned_to:
+  - fig:5
+  basis: The captain is physically superior but impaired and does not effectively
+    navigate or command.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: mutinous crew
+  assigned_to:
+  - fig:6
+  basis: The sailors quarrel for control, drug or intoxicate the captain, and seize
+    the ship.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: knowledgeable navigator
+  assigned_to:
+  - fig:7
+  basis: The true pilot attends to seasons, sky, stars, winds, and other requirements
+    of navigation.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: unrecognized wise figure
+  assigned_to:
+  - fig:7
+  basis: The mutinous sailors call the true pilot a prater, star-gazer, and good-for-nothing.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: political community
+  assigned_to:
+  - fig:8
+  basis: Socrates says philosophers should be entrusted with the State and later explains
+    the parable as the philosopher's relation to the State.
+  evidence_refs:
+  - ev:1
+  - ev:7
+symbols:
+- id: sym:1
+  label: ship
+  literal_form: fleet or ship
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: helm
+  literal_form: helm of the ship
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: sky, stars, and winds
+  literal_form: year, seasons, sky, stars, winds, and other navigational matters
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: narcotic drug or drink
+  literal_form: drink or some narcotic drug used to chain up the captain's senses
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: stores of the ship
+  literal_form: ship's stores consumed by the mutinous sailors
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: fabulous composite creatures
+  literal_form: fabulous unions of goats and stags found in pictures
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Qualifications for entrusting the State
+  summary: Socrates describes the traits of the mind suited to true study and says
+    only such people, perfected by age and education, should be entrusted with the
+    State.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Adeimantus' objection about philosophy
+  summary: Adeimantus says Socrates' arguments leave hearers feeling defeated and
+    reports the common view that long-term philosophers become strange, roguish, or
+    useless.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Introduction of the ship parable
+  summary: Socrates says the issue must be answered by a parable and introduces a
+    fictional composite image to plead the cause of the best men in cities.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Mutiny aboard the ship
+  summary: In the parable, quarrelling sailors demand control of the helm, remove
+    rivals, incapacitate the captain, seize the ship, and consume its stores.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Dismissal of the true pilot
+  summary: The true pilot understands navigation through seasons, sky, stars, winds,
+    and the art of steering, but the mutinous sailors call him useless.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Interpretation of the parable
+  summary: Socrates states that the figure describes the true philosopher's relation
+    to the State, and Adeimantus agrees he understands.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: wise navigator dismissed as useless
+  taxonomy_refs:
+  - wisdom
+  basis: The true pilot possesses the relevant navigational knowledge but is called
+    a prater, star-gazer, and good-for-nothing by the mutinous sailors; Socrates links
+    this to the true philosopher in the State.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is philosophical parable rather than mythic narrative; the
+    taxonomy reference is broad.
+- id: motif:2
+  label: mutinous seizure of communal vessel
+  taxonomy_refs: []
+  basis: The sailors reject instruction, fight for the helm, incapacitate the captain,
+    seize the ship, and conduct the voyage while eating and drinking from the stores.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: No supplied taxonomy family directly matches this political-parabolic
+    vessel motif.
+- id: motif:3
+  label: rightful expertise versus popular acclaim
+  taxonomy_refs:
+  - wisdom
+  basis: Those who help the sailors take the ship are praised as pilots and able seamen,
+    while the actually qualified pilot is abused as useless.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an interpretive motif grounded in the explicit parable; it should
+    not be treated as evidence of a separate traditional myth without further sources.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17399-17417
+  quote_or_summary: Socrates says the suitable soul has memory, quickness, nobility,
+    graciousness, and kinship with truth, justice, courage, and temperance, and that
+    such people should be entrusted with the State after years and education.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 17419-17445
+  quote_or_summary: Adeimantus says hearers feel gradually led astray and overthrown
+    in argument, and reports the view that many who pursue philosophy into maturity
+    become strange, roguish, or useless.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 17447-17465
+  quote_or_summary: Socrates agrees the objection is right in one sense and says he
+    must answer with a parable, using a fictional composite image like fabulous unions
+    of goats and stags.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 17465-17475
+  quote_or_summary: Socrates imagines a ship with a tall, strong captain who is partly
+    deaf and visually impaired, while sailors quarrel over steering and claim navigation
+    cannot be taught.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 17475-17487
+  quote_or_summary: The sailors beg for the helm, kill or throw rivals overboard,
+    drug or intoxicate the captain, mutiny, seize the ship, consume stores, and praise
+    accomplices as pilots or able seamen.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 17488-17502
+  quote_or_summary: The true pilot must attend to the year, seasons, sky, stars, winds,
+    and the art of command, but in a mutinous vessel he is called a prater, star-gazer,
+    and good-for-nothing.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:7
+  type: summary
+  locator: 17503-17515
+  quote_or_summary: Socrates says the figure describes the true philosopher in relation
+    to the State, and Adeimantus agrees that he understands.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The parable and its interpretation are explicit in the passage. Motif labeling
+    is cautious because the text is philosophical argument rather than mythic narrative.
+    No comparison claims were added because the passage itself does not compare this
+    parable to another tradition or motif family beyond its own internal interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to the supplied list and only applied where broadly supported by the explicit emphasis on knowledge and the true philosopher.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l17399-l17515
+  passage_sha256=abed77aa39108bf093be6b3142d33bdc38ed5221b6d86d95448b0e32dc017eb6
+

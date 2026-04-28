@@ -1,0 +1,454 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l527-l547
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: PART I.--MYTHS. / INTRODUCTION. / ORIGIN OF THE WORLD.--FIRST DYNASTY. /
+    URANUS AND GAEA. (COELUS AND TERRA.); lines 527-547
+  start: '527'
+  end: '547'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: He therefore hurled them into Tartarus, that portion of the lower world which
+    served as the subterranean dungeon of the gods.
+  summary: Uranus fears and imprisons the Giants in Tartarus. Gaea urges the Titans
+    to conspire against Uranus, and Cronus wounds and dethrones him. Blood from Uranus's
+    wound falls on earth and produces another race of Giants. Uranus curses Cronus
+    and predicts that he will suffer a similar fate. Cronus gains supreme power, rewards
+    his brothers with offices, later betrays and defeats them with Giant aid, and
+    sends resisters into Tartarus.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Uranus abhors and fears his offspring, the Giants, because of their crude,
+    turbulent character and great power.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Uranus hurls the Giants into Tartarus, described as a lower-world subterranean
+    dungeon of the gods.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Gaea seeks to avenge the oppression of her children by instigating a conspiracy
+    of the Titans against Uranus.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Cronus carries out the conspiracy successfully by wounding his father Uranus.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Blood from Uranus's wound falls upon the earth, and a race of monstrous beings
+    called Giants springs from it.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Cronus, aided by his brother-Titans, dethrones Uranus.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Uranus curses Cronus and foretells that Cronus will experience a similar fate.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Cronus assumes supreme power and gives his brothers distinguished offices
+    subordinate to himself.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Cronus later makes war on his brother-allies, defeats them with the Giants'
+    assistance, and sends resisting brothers to the depths of Tartarus.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Uranus
+  description: The chaste light of heaven; father of the Giants; ruler overthrown
+    by Cronus.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Gaea
+  description: Mother of the Giants who instigates a conspiracy to avenge her children.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Giants, offspring of Uranus and Gaea
+  description: Crude, rough, turbulent, powerful offspring whom Uranus fears and imprisons
+    in Tartarus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Titans
+  description: Group incited by Gaea to conspire against Uranus; includes Cronus and
+    his brother-Titans.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: Cronus
+  description: Son of Gaea and Uranus who wounds and dethrones Uranus, receives a
+    curse, becomes supreme ruler, and later defeats his brother-allies.
+  role_refs:
+  - role:2
+  - role:5
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: Monstrous Giants born from Uranus's blood
+  description: A race of monstrous beings called Giants, produced when blood from
+    Uranus's wound falls upon the earth; later assist Cronus.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:9
+roles:
+- id: role:1
+  label: fearful divine parent and imprisoner
+  assigned_to:
+  - fig:1
+  basis: Uranus fears the Giants' power and hurls them into Tartarus.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: overthrown father
+  assigned_to:
+  - fig:1
+  basis: Cronus wounds his father Uranus and, with Titan aid, dethrones him.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: avenging mother and instigator
+  assigned_to:
+  - fig:2
+  basis: Gaea acts to avenge her children by instigating the Titans' conspiracy.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: oppressed offspring
+  assigned_to:
+  - fig:3
+  basis: The Giants are Uranus's offspring and are hurled into Tartarus.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: rebellious son and conspirator
+  assigned_to:
+  - fig:5
+  basis: Cronus, son of Gaea, successfully executes the conspiracy against Uranus.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:6
+  label: cursing defeated ruler
+  assigned_to:
+  - fig:1
+  basis: After defeat, Uranus curses Cronus and predicts a similar fate for him.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: allied brothers later betrayed
+  assigned_to:
+  - fig:4
+  basis: Cronus's brother-Titans help him overthrow Uranus but are later attacked
+    and defeated by him.
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: role:8
+  label: new supreme ruler and betrayer
+  assigned_to:
+  - fig:5
+  basis: Cronus gains supreme power, gives offices to his brothers, then turns against
+    them once secure.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:9
+  label: blood-born allies
+  assigned_to:
+  - fig:6
+  basis: The monstrous Giants spring from Uranus's blood and later assist Cronus in
+    defeating his brothers.
+  evidence_refs:
+  - ev:5
+  - ev:9
+symbols:
+- id: sym:1
+  label: Tartarus as divine dungeon
+  literal_form: Tartarus, a lower-world subterranean dungeon of the gods
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: sym:2
+  label: blood falling on earth
+  literal_form: blood from Uranus's wound falling upon the earth
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: curse of repeated fate
+  literal_form: Uranus's curse and prophecy that Cronus will suffer a similar fate
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Uranus imprisons the Giants
+  summary: Uranus fears his powerful Giant offspring and throws them into Tartarus.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Gaea instigates revenge through the Titans
+  summary: Gaea responds to the oppression of her children by prompting the Titans
+    to conspire against Uranus.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Cronus wounds and dethrones Uranus
+  summary: Cronus wounds his father; blood falling on earth generates monstrous Giants,
+    and Cronus dethrones Uranus with Titan help.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Uranus curses Cronus
+  summary: After his defeat, Uranus curses Cronus and predicts that he will undergo
+    a similar overthrow.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Cronus rules and betrays his allies
+  summary: Cronus becomes supreme ruler, grants offices to his brothers, later wars
+    on them with Giant help, defeats them, and sends resisters into Tartarus.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: divine parent-child conflict and succession
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Uranus imprisons his offspring; Cronus wounds and dethrones his father; Uranus
+    predicts Cronus will suffer a similar fate.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage gives a handbook summary rather than a full narrative episode.
+- id: motif:2
+  label: mother avenges oppressed children
+  taxonomy_refs:
+  - mother_goddess
+  basis: Gaea acts on behalf of her oppressed children by instigating the Titans'
+    conspiracy against Uranus.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage names Gaea's action but does not elaborate her divine attributes
+    beyond the family relation.
+- id: motif:3
+  label: birth of beings from divine blood and earth
+  taxonomy_refs:
+  - sacred_birth
+  basis: A monstrous race called Giants springs from Uranus's wound-blood after it
+    falls upon the earth.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The birth is monstrous and violent; the taxonomy label is approximate
+    because the passage does not call it sacred.
+- id: motif:4
+  label: rebellion followed by betrayal of allies
+  taxonomy_refs: []
+  basis: Cronus gains power with his brother-Titans' aid, later no longer needs them,
+    wages war on them, and imprisons resisters in Tartarus.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: No specific supplied taxonomy family directly matches this political betrayal
+    pattern.
+- id: motif:5
+  label: underworld imprisonment of divine beings
+  taxonomy_refs: []
+  basis: Uranus imprisons the Giants in Tartarus, and Cronus later sends resisting
+    brothers to Tartarus's lowest depths.
+  evidence_refs:
+  - ev:2
+  - ev:9
+  confidence: high
+  cautions: Tartarus is described as a dungeon rather than an afterlife journey or
+    descent episode in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 527-531
+  quote_or_summary: Uranus, described as the chaste light of heaven, abhors his crude
+    and turbulent Giant offspring and fears their power may harm him.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 531-533
+  quote_or_summary: "“He therefore hurled them into Tartarus, that portion of the
+    lower world which served as the subterranean dungeon of the gods.”"
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 533-536
+  quote_or_summary: To avenge the oppression of her children, Gaea instigates a Titan
+    conspiracy against Uranus, successfully carried out by Cronus.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 536-537
+  quote_or_summary: Cronus wounds his father Uranus.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 537-539
+  quote_or_summary: Blood from Uranus's wound falls on earth, and from it springs
+    a race of monstrous beings also called Giants.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 539-540
+  quote_or_summary: With help from his brother-Titans, Cronus dethrones Uranus.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 540-542
+  quote_or_summary: Uranus, enraged by defeat, curses Cronus and foretells that he
+    will suffer a similar fate.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 542-544
+  quote_or_summary: Cronus becomes supreme ruler and gives his brothers distinguished
+    offices subordinate to himself.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 544-547
+  quote_or_summary: Once secure, Cronus betrays his brother-allies, makes war on them
+    with Giant assistance, defeats them, and sends resisters into Tartarus's lowest
+    depths.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Passage gives clear sequence and figures. Motif taxonomy assignments are
+    cautious where the supplied taxonomy lacks exact labels for succession struggle,
+    betrayal, or Tartarus imprisonment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only provided passage and metadata were used; no external comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l527-l547
+  passage_sha256=859b87c66168a9144afc4c2bbdeac27c1aef367c878771650edc1968018c16ed
+

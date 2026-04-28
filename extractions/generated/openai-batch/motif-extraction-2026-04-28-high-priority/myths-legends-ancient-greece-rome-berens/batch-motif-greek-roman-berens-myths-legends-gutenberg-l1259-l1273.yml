@@ -1,0 +1,400 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l1259-l1273
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: RHEA (OPS). / DIVISION OF THE WORLD. / THEORIES AS TO THE ORIGIN OF MAN.
+    / THIRD DYNASTY--OLYMPIAN DIVINITIES.; lines 1259-1273
+  start: '1259'
+  end: '1273'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Zeus travels through Arcadia to investigate reports of mankind's wickedness.
+    The Arcadians recognize and venerate him, but King Lycaon doubts Zeus's divinity,
+    plots to murder him, and serves him human flesh as a test. Zeus is not deceived;
+    he overturns the table, turns Lycaon into a wolf, and destroys Lycaon's sons by
+    lightning except Nyctimus, who is saved through Gaea's intervention.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Zeus makes a journey through Arcadia to ascertain reports about the wickedness
+    of mankind.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Arcadians recognize Zeus as king of heaven and receive him with respect
+    and veneration.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Lycaon is described as king of the Arcadians and as infamous for the impiety
+    of himself and his sons.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Lycaon doubts the divinity of Zeus and ridicules his people for being deceived.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Lycaon customarily kills strangers who trust his hospitality and resolves
+    to murder Zeus.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Lycaon kills a boy and places before Zeus a dish containing human flesh in
+    order to test him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Zeus recognizes the dish, reacts with horror and loathing, and angrily overturns
+    the table.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Zeus turns Lycaon into a wolf.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Zeus destroys Lycaon's fifty sons by lightning, except Nyctimus.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Nyctimus is saved by the intervention of Gaea.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Zeus
+  description: King of heaven who journeys through Arcadia, is tested by Lycaon, and
+    punishes Lycaon and his sons.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Arcadians
+  description: People who recognize Zeus as king of heaven and receive him with respect
+    and veneration.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Lycaon
+  description: King of the Arcadians, described as impious, who doubts Zeus, kills
+    strangers, serves human flesh to Zeus, and is transformed into a wolf.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Lycaon's sons
+  description: Fifty sons associated with Lycaon's impiety; all are destroyed by lightning
+    except Nyctimus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: Unnamed boy
+  description: A boy killed by Lycaon so that human flesh can be placed before Zeus.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Nyctimus
+  description: One of Lycaon's sons, spared from destruction by Gaea's intervention.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Gaea
+  description: Intervenes to save Nyctimus.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: investigating deity
+  assigned_to:
+  - fig:1
+  basis: Zeus journeys through Arcadia to ascertain the truth of reports about human
+    wickedness.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine punisher
+  assigned_to:
+  - fig:1
+  basis: Zeus transforms Lycaon and destroys Lycaon's sons by lightning.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: reverent human community
+  assigned_to:
+  - fig:2
+  basis: The Arcadians recognize Zeus and receive him with respect and veneration.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: impious king
+  assigned_to:
+  - fig:3
+  basis: Lycaon is identified as king and described as infamous for impiety.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: host who tests and violates guest safety
+  assigned_to:
+  - fig:3
+  basis: Lycaon kills strangers who trust his hospitality and serves human flesh to
+    Zeus as a test.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: condemned sons
+  assigned_to:
+  - fig:4
+  basis: Lycaon's sons are associated with his impiety and are destroyed by lightning
+    except Nyctimus.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:7
+  label: murdered victim
+  assigned_to:
+  - fig:5
+  basis: Lycaon kills the boy for the purpose of preparing the test dish.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: spared survivor
+  assigned_to:
+  - fig:6
+  basis: Nyctimus is excepted from the destruction of Lycaon's sons.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: intercessor
+  assigned_to:
+  - fig:7
+  basis: Gaea intervenes to save Nyctimus.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: human flesh dish
+  literal_form: dish containing human flesh
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: overturned table
+  literal_form: table upset by Zeus
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: wolf transformation
+  literal_form: Lycaon turned into a wolf
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: lightning punishment
+  literal_form: lightning used to destroy Lycaon's sons
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: fifty sons
+  literal_form: Lycaon's fifty sons
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Zeus investigates Arcadia
+  summary: Zeus travels through Arcadia to investigate reports of human wickedness
+    and is reverently received by the Arcadians.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lycaon's test of Zeus
+  summary: Lycaon doubts Zeus's divinity, plans to murder him, kills a boy, and serves
+    Zeus a dish of human flesh as a test.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Divine punishment and spared son
+  summary: Zeus recognizes the test, overturns the table, transforms Lycaon into a
+    wolf, and destroys Lycaon's sons by lightning except Nyctimus, who is saved by
+    Gaea.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine investigation and judgment of human wickedness
+  taxonomy_refs:
+  - divine_judgment
+  basis: Zeus investigates reports of wickedness and then punishes Lycaon and his
+    sons after the human-flesh test.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents a specific punitive episode rather than a formal
+    trial scene.
+- id: motif:2
+  label: violation of hospitality by murderous host
+  taxonomy_refs: []
+  basis: Lycaon is said to kill strangers who trust his hospitality and plans to murder
+    Zeus as a guest.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No matching supplied taxonomy reference is available for hospitality violation.
+- id: motif:3
+  label: test of divinity through impious meal
+  taxonomy_refs: []
+  basis: Lycaon kills a boy and sets human flesh before Zeus to test whether Zeus
+    is divine.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The motif label is descriptive and not linked to a supplied taxonomy family.
+- id: motif:4
+  label: punitive animal transformation
+  taxonomy_refs:
+  - shapeshifter
+  basis: Zeus turns Lycaon into a wolf as punishment.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The supplied taxonomy term 'shapeshifter' is only an approximate fit because
+    Lycaon is transformed by another being rather than voluntarily changing shape.
+- id: motif:5
+  label: spared survivor through divine intervention
+  taxonomy_refs: []
+  basis: Nyctimus alone among Lycaon's fifty sons is saved by Gaea's intervention.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives no further details about Nyctimus's later function or
+    role.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1259-1262
+  quote_or_summary: Zeus journeys through Arcadia to verify reports of mankind's wickedness;
+    the Arcadians recognize him as king of heaven and receive him with respect and
+    veneration.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1262-1267
+  quote_or_summary: Lycaon, king of the Arcadians, is described as infamous for impiety;
+    he doubts Zeus's divinity, ridicules the people, customarily kills trusting strangers,
+    and resolves to murder Zeus.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1268-1270
+  quote_or_summary: Before murdering Zeus, Lycaon decides to test him by killing a
+    boy and placing before Zeus a dish containing human flesh.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1270-1273
+  quote_or_summary: Zeus is not deceived; he reacts with horror and loathing, overturns
+    the table, turns Lycaon into a wolf, and destroys all fifty sons by lightning
+    except Nyctimus, saved by Gaea's intervention.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based entirely on the supplied passage. Motif candidates are
+    mostly descriptive; only divine judgment is a strong supplied taxonomy fit.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons were added because the passage itself does not provide an explicit comparative frame.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l1259-l1273
+  passage_sha256=6951370be4f1611dc58bfbf7fc40c56bf1103fa804a74d6552756ba3c6ca5040
+

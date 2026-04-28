@@ -1,0 +1,473 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l6883-l6997
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE WHITE HARE AND THE CROCODILES / THE STORY OF PRINCE YAMATO TAKE / MOMOTARO,
+    OR THE STORY OF THE SON OF A PEACH / THE OGRE OF RASHOMON; lines 6883-6997
+  start: '6883'
+  end: '6997'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After Watanabe cuts off an ogre's arm, he locks it in a strong iron-banded
+    box. A seemingly respectable old woman arrives at night claiming to be his former
+    nurse and persuades him to show her the arm. When he opens the box, she seizes
+    the arm, declares it hers, transforms into the ogre, and escapes through the roof
+    into mist and clouds. Watanabe fails to kill the ogre, but the ogre never troubles
+    Kyoto again.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Watanabe keeps the ogre's severed arm in a strong wooden box banded with iron
+    and sealed with a heavy lid.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An old woman arrives at night, appears respectable, and says she was Watanabe's
+    nurse when he was a baby.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The old woman asks repeatedly to see the ogre's arm, appealing to her claimed
+    relationship with Watanabe.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: Watanabe refuses at first because he fears the ogre may appear and carry off
+    the arm if the box is opened.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Watanabe eventually opens the box but does not remove the arm from it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The old woman seizes the arm from the box and says that she has got her arm
+    back.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The old woman is suddenly transformed into the towering figure of the ogre.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Watanabe draws his sword and tries to cut down the ogre.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The ogre escapes by springing to the ceiling, breaking through the roof, and
+    disappearing into mist and clouds.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: After escaping with the arm, the ogre never troubles Kyoto again.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Watanabe
+  description: A knight or warrior who cut off the ogre's arm, guards it, and later
+    attempts to kill the ogre when it returns.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: The ogre of Rashomon
+  description: A revengeful ogre whose arm was cut off by Watanabe; it returns in
+    disguise, recovers the arm, transforms back into its frightful form, and escapes.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: Old woman claiming to be Watanabe's nurse
+  description: A respectable-looking old woman who arrives at night and claims to
+    have been Watanabe's nurse; she is revealed as the ogre in disguise.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Watanabe's servant
+  description: The servant answers the door and reports the old woman's arrival to
+    Watanabe.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: People of Kyoto
+  description: People hear of Watanabe's deed, come to see the arm, and later can
+    go out at night without fear after the ogre ceases troubling the city.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:9
+roles:
+- id: role:1
+  label: guardian of dangerous trophy
+  assigned_to:
+  - fig:1
+  basis: Watanabe keeps the ogre's arm sealed in a strong box and refuses to show
+    it because of the risk that the ogre may reclaim it.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: heroic defender
+  assigned_to:
+  - fig:1
+  basis: His comrades call him the hero of their band, and he tries to kill the ogre
+    when it is revealed.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:3
+  label: returning antagonist
+  assigned_to:
+  - fig:2
+  basis: The ogre returns to reclaim its severed arm and escapes with it.
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: role:4
+  label: deceptive shapeshifter
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The old woman who gains entry by claiming to be the nurse is revealed by
+    transformation to be the ogre.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:5
+  label: household intermediary
+  assigned_to:
+  - fig:4
+  basis: The servant checks the visitor at the door and tells Watanabe she has arrived.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: threatened community
+  assigned_to:
+  - fig:5
+  basis: Kyoto's people first publicize and view the arm, and later are able to go
+    out safely at night after the ogre stops troubling the city.
+  evidence_refs:
+  - ev:1
+  - ev:9
+symbols:
+- id: sym:1
+  label: severed ogre arm
+  literal_form: The ogre's arm cut off by Watanabe and kept in a sealed box.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: iron-banded wooden box
+  literal_form: A box made of the strongest wood, banded with iron, sealed with a
+    heavy lid, and kept in Watanabe's room.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: old nurse disguise
+  literal_form: The ogre's appearance as a respectable old woman claiming to have
+    nursed Watanabe as a baby.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: sword
+  literal_form: Watanabe's sword, drawn from its sheath when he tries to cut down
+    the ogre.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: mist and clouds
+  literal_form: The mist and clouds into which the ogre disappears after bursting
+    through the roof.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Public fame and guarded arm
+  summary: Watanabe's comrades praise him as a hero, people come to see the ogre's
+    arm, and he locks it in a strong iron-banded box because he fears the ogre will
+    return for it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Night visit of the old woman
+  summary: A respectable-looking old woman arrives at the porch at night, claims to
+    be Watanabe's former nurse, and is admitted.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Persuasion to open the box
+  summary: The old woman praises Watanabe, asks to see the ogre's arm, and overcomes
+    Watanabe's refusal by invoking her identity as his old nurse.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Revelation and recovery of the arm
+  summary: When Watanabe opens the box, the old woman reaches in, seizes the arm,
+    declares it her own, and transforms into the ogre.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Failed attack and aerial escape
+  summary: Watanabe attacks with his sword, but the ogre escapes through the roof
+    into mist and clouds with the arm.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Kyoto relieved
+  summary: The ogre, afraid of Watanabe's strength and daring, never troubles Kyoto
+    again, and the city's people can go out at night without fear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: monster returns in disguise to recover severed body part
+  taxonomy_refs:
+  - shapeshifter
+  basis: The ogre appears as an old woman, persuades Watanabe to open the box, seizes
+    the severed arm, and transforms back into the ogre.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference captures the transformation aspect; it does not
+    specifically encode recovery of a severed limb.
+- id: motif:2
+  label: dangerous trophy kept in a sealed container
+  taxonomy_refs: []
+  basis: Watanabe stores the ogre's arm in a strong, iron-banded box and refuses to
+    open it because he fears the ogre may appear and reclaim the arm.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches the sealed trophy or guarded
+    container pattern.
+- id: motif:3
+  label: deceptive visitor gains entry by claiming intimate kinship or household ties
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The visitor arrives at the porch at night, claims to be Watanabe's old nurse,
+    and uses that claim to obtain access and persuade him to show the arm.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage shows deception at a household threshold, but does not explicitly
+    frame the figure as a trickster; the taxonomy match is therefore cautious.
+- id: motif:4
+  label: hero's incomplete victory leaves antagonist alive
+  taxonomy_refs: []
+  basis: Watanabe says he wished to capture the monster rather than only cut off its
+    arm, and the ogre later escapes with the arm.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: This is a narrative pattern in the passage but has no direct supplied
+    taxonomy reference.
+- id: motif:5
+  label: heroic protection of a city from a night-roaming monster
+  taxonomy_refs:
+  - culture_hero
+  basis: Watanabe's deed is celebrated, and after the ogre escapes it fears Watanabe
+    and no longer troubles Kyoto, allowing people to go out at night safely.
+  evidence_refs:
+  - ev:1
+  - ev:9
+  confidence: medium
+  cautions: The passage presents Watanabe as a remembered hero, but the broader 'culture
+    hero' taxonomy may be broader than the local city-protection episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6883-6900
+  quote_or_summary: Watanabe is praised as a hero after showing the ogre's arm; he
+    has a strong wooden, iron-banded box made, seals the arm inside, and keeps it
+    in his room under his own charge.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 6901-6917
+  quote_or_summary: At night someone knocks at the porch; the servant finds a respectable-looking
+    old woman who says she was Watanabe's nurse when he was a baby, and Watanabe has
+    her shown in.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 6918-6940
+  quote_or_summary: The old woman praises Watanabe's fight and asks to see the ogre's
+    arm; Watanabe refuses, explaining that ogres are revengeful and that opening the
+    box may let the ogre appear and carry off the arm.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: 6941-6955
+  quote_or_summary: The old woman insists that, as his old nurse, she should be allowed
+    to see the arm, and asks whether Watanabe suspects her of being a spy sent by
+    the ogre.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: 6956-6967
+  quote_or_summary: Watanabe gives in, leads her to his room, shuts the door, opens
+    the heavy lid of the box, and calls her near to look in without removing the arm.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: quote
+  locator: 6968-6977
+  quote_or_summary: "“Oh, joy! I have got my arm back again!” The old woman is then
+    suddenly transformed into the towering figure of the frightful ogre."
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; brief quote from public domain text.
+- id: ev:7
+  type: summary
+  locator: 6978-6984
+  quote_or_summary: Watanabe recognizes the ogre from the Gate of Rashomon, seizes
+    his sword, draws it quickly, and tries to cut the ogre down.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:8
+  type: summary
+  locator: 6985-6988
+  quote_or_summary: The ogre narrowly escapes, springs to the ceiling, bursts through
+    the roof, and disappears in mist and clouds.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:9
+  type: summary
+  locator: 6989-6997
+  quote_or_summary: The ogre escapes with the arm; Watanabe waits for another chance,
+    but the ogre fears him, never troubles Kyoto again, and the people can go out
+    at night without fear.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage provides clear literal action and figure evidence. Motif labels
+    are local and cautious; only supplied taxonomy references that are directly or
+    plausibly supported are used. No comparison claims are made because the passage
+    does not itself compare this episode to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied line-range passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l6883-l6997
+  passage_sha256=8e4410cdf164389eb9634831e791f90fcf2c895184d4a299c3f81b224b37e79a
+

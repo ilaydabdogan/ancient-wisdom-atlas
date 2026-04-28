@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l5846-l5863
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: ROBIGUS. / POMONA. / VERTUMNUS. / PALES.; lines 5846-5863
+  start: '5846'
+  end: '5863'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Pales as an ancient Italian divinity represented
+    as male or female, associated with shepherds, flocks, husbandry, and herd fruitfulness.
+    It describes the Palilia festival on April 21, when shepherds ignited straw and
+    rushed through it with their flocks for purification, and notes offerings of cakes
+    and milk.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pales is described as a very ancient Italian divinity represented sometimes
+    as male and sometimes as female.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: As a male divinity, Pales is described as the god of shepherds and flocks.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: As a female deity, Pales is described as presiding over husbandry and the
+    fruitfulness of herds.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Palilia festival was celebrated on April 21, identified in the passage
+    as the day Rome was founded.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: During the festival, shepherds ignited a mass of straw and rushed through
+    it with their flocks.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states that shepherds believed the ordeal would purify them from
+    sin.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The name Palatine is said to derive from Pales and originally to have signified
+    a pastoral colony.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Offerings to Pales are identified as cakes and milk.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Pales
+  description: A very ancient Italian divinity represented sometimes as male and sometimes
+    as female, associated with shepherds, flocks, husbandry, and herd fruitfulness.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: shepherds
+  description: Participants in the Palilia festival who ignite straw and rush through
+    it with their flocks for purification.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: flocks
+  description: The animals of shepherds, led through the burning straw during the
+    festival.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: ancient Italian divinity
+  assigned_to:
+  - fig:1
+  basis: Pales is explicitly described as a very ancient Italian divinity.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: god of shepherds and flocks
+  assigned_to:
+  - fig:1
+  basis: The passage states that, as a male divinity, Pales is particularly the god
+    of shepherds and flocks.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: deity of husbandry and herd fruitfulness
+  assigned_to:
+  - fig:1
+  basis: The passage states that, as a female deity, Pales presides over husbandry
+    and the fruitfulness of herds.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: festival participants seeking purification
+  assigned_to:
+  - fig:2
+  basis: Shepherds perform the straw-fire ordeal believing it will purify them from
+    sin.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: pastoral animals in purification rite
+  assigned_to:
+  - fig:3
+  basis: Flocks accompany shepherds through the ignited straw during the festival.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: straw fire
+  literal_form: mass of straw ignited during the Palilia festival
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: milk offering
+  literal_form: milk offered to Pales
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: cakes offering
+  literal_form: cakes offered to Pales
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: Palilia festival date
+  literal_form: 21st of April, the day on which Rome was founded
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Description of Pales and domains
+  summary: Pales is introduced as an ancient Italian divinity with male and female
+    representations, associated with shepherds, flocks, husbandry, and herd fruitfulness.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Palilia purification rite
+  summary: At the Palilia festival on April 21, shepherds ignite straw and rush through
+    it with their flocks, believing this purifies them from sin.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Offerings and place-name derivation
+  summary: The passage states that Palatine derives from Pales and that offerings
+    to the divinity were cakes and milk.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: pastoral fire purification rite
+  taxonomy_refs:
+  - sacrifice
+  basis: Shepherds and flocks pass through ignited straw in a festival ordeal believed
+    to purify them from sin.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage describes purification through fire, but does not explicitly
+    frame the act as sacrifice; the taxonomy match is approximate.
+- id: motif:2
+  label: seasonal pastoral fertility festival
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The Palilia is dated to April 21 and associated with Pales, husbandry, herd
+    fruitfulness, shepherds, and flocks.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly call the festival seasonal, though the
+    fixed spring date and fertility associations support a cautious candidate.
+- id: motif:3
+  label: dual-gender divinity of pastoral fertility
+  taxonomy_refs:
+  - duality
+  basis: Pales is represented sometimes as male and sometimes as female, with related
+    pastoral and fertility domains.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage states alternating male/female representation, but gives no
+    mythic narrative about duality.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5846-5849
+  quote_or_summary: Pales is a very ancient Italian divinity represented sometimes
+    as male and sometimes as female.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5850-5851
+  quote_or_summary: As a male divinity, Pales is particularly the god of shepherds
+    and flocks.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5852-5853
+  quote_or_summary: As a female deity, Pales presides over husbandry and the fruitfulness
+    of herds.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5853-5855
+  quote_or_summary: The Palilia festival was celebrated on April 21, described as
+    the day Rome was founded.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5855-5858
+  quote_or_summary: During the Palilia, shepherds ignited straw and rushed through
+    it with their flocks, believing the ordeal purified them from sin.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5860-5861
+  quote_or_summary: The name Palatine, originally meaning a pastoral colony, is said
+    to derive from Pales.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5861-5862
+  quote_or_summary: Offerings to Pales were cakes and milk.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif candidates
+    are cautious because the passage is a handbook description rather than a narrative
+    myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims added because the passage itself does not support a comparison beyond the described Roman/Italian rite.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l5846-l5863
+  passage_sha256=1f20d6e44dcab6563a9c1137195298ae488826e69e3561cbfa36d8fb13da537b
+

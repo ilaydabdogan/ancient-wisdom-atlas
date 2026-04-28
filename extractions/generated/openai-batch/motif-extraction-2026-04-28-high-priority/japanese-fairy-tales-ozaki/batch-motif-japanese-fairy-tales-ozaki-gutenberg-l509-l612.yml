@@ -1,0 +1,420 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l509-l612
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: PREFACE / JAPANESE FAIRY TALES / MY LORD BAG OF RICE / THE TONGUE-CUT SPARROW;
+    lines 509-612
+  start: '509'
+  end: '612'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An old man finds his lost sparrow at a bamboo grove, learns that her tongue
+    has grown back, and recognizes her as a fairy. She leads him to her beautiful
+    home, where her family feasts and entertains him. When he insists on returning
+    home, she offers him a choice between a large and a small box as a present. He
+    chooses the smaller box because he is old and weak, returns home, tells his cross
+    wife what happened, and they begin to open the box.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The old man reaches a large bamboo wood in the afternoon and sees his sparrow
+    waiting at the edge of the wood.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sparrow bows, performs tricks, and speaks to the old man.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The sparrow shows that a new tongue has grown in place of the old one.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The old man concludes that the sparrow is a fairy rather than a common bird.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The sparrow leads the old man to a beautiful house in the heart of the bamboo
+    grove.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The house contains fine mats, cushions, vases, lacquer boxes, and alcoves
+    for precious objects.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The Lady Sparrow thanks the old man for his kindness over many years.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The sparrow’s daughters bring a feast, and some daughters perform the Sparrow’s
+    dance for the guest.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The old man declines the Lady Sparrow’s invitation to stay several days and
+    says he must return home.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The Lady Sparrow has servants bring in two boxes, one large and one small,
+    and asks the old man to choose one as a present.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The old man chooses the smaller box because he says he is too old and feeble
+    to carry the large heavy one.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: The sparrows help the old man put the small box on his back and bid him farewell
+    with bows.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:13
+  text: The old man returns home late at night and finds his wife angry about his
+    absence.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:14
+  text: The old man tells his wife what happened and they sit down to open the box.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: old man
+  description: An old man who searches for his lost sparrow, visits her home, receives
+    a gift, and returns home.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Lady Sparrow
+  description: The old man’s sparrow, revealed as a fairy, with a newly grown tongue
+    and a beautiful house in the bamboo grove.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: sparrow daughters
+  description: Daughters of the Lady Sparrow who serve food and perform the Sparrow’s
+    dance.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: sparrow servants
+  description: Servants who bring in two boxes at the Lady Sparrow’s order.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: old wife
+  description: The old man’s wife, described as cross and angry when he returns late.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: seeker and guest
+  assigned_to:
+  - fig:1
+  basis: He searches for the sparrow, follows her to her house, is seated in the place
+    of honor, and receives hospitality.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: fairy animal hostess
+  assigned_to:
+  - fig:2
+  basis: She is identified as a fairy sparrow, leads the old man to her house, thanks
+    him, entertains him, and offers him a gift.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: grateful recipient of past kindness
+  assigned_to:
+  - fig:2
+  basis: She thanks the old man for kindness shown over many years and shows no ill
+    will despite prior mistreatment by his wife.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: humble gift chooser
+  assigned_to:
+  - fig:1
+  basis: He chooses the smaller box because it is easier for him to carry in old age.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: attendants and entertainers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The daughters bring food and dance, while servants bring in the two boxes.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: angry spouse at home
+  assigned_to:
+  - fig:5
+  basis: She waits up late and questions the old man angrily about his absence.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: bamboo grove
+  literal_form: large bamboo wood / bamboo grove
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: new tongue
+  literal_form: new tongue grown in place of the old one
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: fairy sparrow house
+  literal_form: beautiful house in the heart of the bamboo grove
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: feast and dance
+  literal_form: delicious foods and the suzume-odori or Sparrow’s dance
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: choice of two boxes
+  literal_form: two boxes, one large and one small
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Reunion at the bamboo wood
+  summary: The old man finds his lost sparrow at the edge of a bamboo wood, sees that
+    she can speak, and learns that her tongue has grown back.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hospitality in the fairy sparrow house
+  summary: The sparrow leads the old man to her beautiful house, seats him honorably,
+    thanks him, introduces her family, and has him feasted and entertained.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Gift choice and farewell
+  summary: When the old man declines to stay longer, the Lady Sparrow offers him a
+    large or small box as a present, and he chooses the smaller one before departing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Return home with the box
+  summary: The old man returns home late, is questioned angrily by his wife, tells
+    her what happened, and begins opening the box with her.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: supernatural animal revealed as fairy benefactor
+  taxonomy_refs: []
+  basis: The sparrow can speak, has regrown her tongue, is identified by the old man
+    as a fairy, and hosts him in a hidden beautiful home.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage states fairy identity directly, but does not describe transformation
+    between forms.
+- id: motif:2
+  label: kindness repaid by supernatural hospitality
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Lady Sparrow thanks the old man for years of kindness and repays him
+    with an honored seat, a feast, entertainment, and a present.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy label is broad; the exchange is between an old man and a
+    fairy sparrow rather than explicitly ritual or divine.
+- id: motif:3
+  label: choice between large and small gift containers
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Lady Sparrow offers two boxes as a present, and the old man chooses the
+    smaller box because it is easier for him to carry.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The contents of the box are not revealed within this passage.
+- id: motif:4
+  label: journey out and return home with a gift
+  taxonomy_refs:
+  - departure
+  - return
+  basis: The old man travels to find the sparrow, enters her hidden home in the bamboo
+    grove, receives a gift, and returns home.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is a short folktale episode rather than a full quest cycle.
+- id: motif:5
+  label: bodily restoration after injury
+  taxonomy_refs: []
+  basis: The sparrow shows that a new tongue has grown in place of the old one and
+    that she is well again.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not explain the mechanism of restoration beyond the old
+    man’s recognition that she is a fairy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 509-532
+  quote_or_summary: The old man reaches a bamboo wood, finds his sparrow waiting,
+    hears her speak, sees that a new tongue has grown, and realizes she is a fairy
+    rather than a common bird.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 533-544
+  quote_or_summary: The sparrow leads the old man to a beautiful house in the bamboo
+    grove, furnished with fine mats, silk and crape cushions, vases, lacquer boxes,
+    and tokonoma alcoves.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 545-561
+  quote_or_summary: The Lady Sparrow seats the old man honorably, thanks him for many
+    years of kindness, introduces her family, and has her daughters serve a feast
+    and perform the Sparrow’s dance.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 562-597
+  quote_or_summary: The old man says he must return home; the Lady Sparrow offers
+    him one of two boxes, large or small, and he chooses the smaller because he is
+    too old and feeble to carry the larger one. The sparrows help him leave with it.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 598-612
+  quote_or_summary: The old man comes home late, finds his wife angry, tells her of
+    his visit to the sparrow’s house, and they sit down to open the box.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif candidates
+    use broad descriptive labels and only two available taxonomy refs where directly
+    supportable. No comparison claims are made because the passage itself does not
+    support a specific cross-text or cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Taxonomy refs were limited to those supplied in the request; no external motif index identifiers were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l509-l612
+  passage_sha256=635a0bc3261f64151771158f2ea4d9f524bed5c05104b8d1a10d57519d008fdf
+

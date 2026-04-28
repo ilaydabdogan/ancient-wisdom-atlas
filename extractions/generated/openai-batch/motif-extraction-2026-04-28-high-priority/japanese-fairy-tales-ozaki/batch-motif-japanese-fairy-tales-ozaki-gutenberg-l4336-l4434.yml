@@ -1,0 +1,502 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l4336-l4434
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE BAMBOO-CUTTER AND THE MOON-CHILD / THE GOBLIN OF ADACHIGAHARA / THE SAGACIOUS
+    MONKEY AND THE BOAR / THE HAPPY HUNTER AND THE SKILLFUL FISHER; lines 4336-4434
+  start: '4336'
+  end: '4434'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The cuttlefish removes the lost fishing hook from the Tai fish and returns
+    it through Ryn Jin to the Happy Hunter. The Happy Hunter asks the Sea King to
+    forgive the Tai. After remaining in the Sea Realm for three years, the Happy Hunter
+    becomes homesick and requests permission to return to Japan and reconcile with
+    his brother. Ryn Jin sadly accepts his departure, speaks of friendship between
+    Land and Sea, and gives him two inherited Tide-Jewels, one commanding flood tide
+    and the other ebbing tide.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The cuttlefish opens the Tai fish's mouth, removes the hook from its throat,
+    washes it, and brings it to the King.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ryn Jin returns the recovered hook to the Happy Hunter, who thanks him and
+    credits the Sea King's authority and kindness for the success of the quest.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ryn Jin wants to punish the Tai, but the Happy Hunter asks that the Tai be
+    forgiven because it has already suffered and acted without intention.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fish praise the virtues of the Happy Hunter after Ryn Jin forgives the
+    Tai.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Happy Hunter wants to return to his own kingdom, make peace with his brother,
+    and later says he governs Japan.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Ryn Jin and his daughters urge the Happy Hunter to remain in the Sea Palace,
+    and he stays for some time.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Three years pass in the Sea Realm while the Happy Hunter is happy there, but
+    he becomes increasingly homesick and anxious about his home, country, and brother.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Ryn Jin says the friendship begun between Land and Sea should last and grow
+    stronger.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Ryn Jin orders his daughters to bring two Tide-Jewels, which they carry into
+    the hall as flashing gems that fill the room with light.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Ryn Jin gives the two inherited talismans, named nanjiu and kanjiu, to the
+    Happy Hunter as a parting gift.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The nanjiu commands the sea to roll in and flood the land, while the kanjiu
+    controls the sea and causes a tidal wave to recede.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Happy Hunter
+  description: The Mikoto or Augustness; honored guest of the Sea King, ruler of Japan,
+    recoverer of the lost hook, and recipient of the Tide-Jewels.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Ryn Jin
+  description: The Sea King, ruler in Ryn Gu, who returns the hook, forgives the Tai,
+    hosts the Happy Hunter, and gives the Tide-Jewels.
+  role_refs:
+  - role:5
+  - role:6
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Tai fish
+  description: The fish from whose mouth the hook is removed; it is considered to
+    have taken the hook and to have suffered for the act.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Cuttlefish
+  description: Friend of the Tai who removes the hook from the Tai's throat and brings
+    it to the King.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Tayotama
+  description: One of Ryn Jin's two daughters who urges the Happy Hunter to stay and
+    later brings a Tide-Jewel.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:6
+  name_or_label: Tamayori
+  description: One of Ryn Jin's two daughters who urges the Happy Hunter to stay and
+    later brings a Tide-Jewel.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:7
+  name_or_label: Skillful Fisher
+  description: The Happy Hunter's angry brother, whose fishing hook is to be returned.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: quester recovering a lost object
+  assigned_to:
+  - fig:1
+  basis: The Happy Hunter is overjoyed to regain the hook and thanks Ryn Jin for the
+    happy ending of his quest.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: compassionate intercessor
+  assigned_to:
+  - fig:1
+  basis: He asks Ryn Jin not to punish the Tai and argues for forgiveness.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ruler obligated to return home
+  assigned_to:
+  - fig:1
+  basis: He says he governs Japan and cannot remain away forever.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recipient of sea talismans
+  assigned_to:
+  - fig:1
+  basis: Ryn Jin gives him the nanjiu and kanjiu as a parting gift.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: Sea King
+  assigned_to:
+  - fig:2
+  basis: The passage identifies Ryn Jin as the King of the Sea and ruler of the Sea
+    Palace.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:6
+  label: judge with authority to punish or forgive
+  assigned_to:
+  - fig:2
+  basis: He considers punishing the Tai and then forgives it at the Happy Hunter's
+    request.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: host and friend
+  assigned_to:
+  - fig:2
+  basis: He asks the Happy Hunter to remain in the Sea Palace and mourns his departure.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:8
+  label: giver of ancestral talismans
+  assigned_to:
+  - fig:2
+  basis: He gives inherited Tide-Jewels to the Happy Hunter as a parting gift.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: sufferer and forgiven offender
+  assigned_to:
+  - fig:3
+  basis: The hook is removed from the Tai, and the Happy Hunter says it had already
+    suffered enough and acted heedlessly.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:10
+  label: healer or extractor helper
+  assigned_to:
+  - fig:4
+  basis: The cuttlefish removes the hook from the Tai's throat and delivers it to
+    the King.
+  evidence_refs:
+  - ev:1
+- id: role:11
+  label: princess attendants
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The two princesses help persuade the Happy Hunter to stay and bring the two
+    Tide-Jewels.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:12
+  label: absent brother and hook owner
+  assigned_to:
+  - fig:7
+  basis: The Happy Hunter wishes to return the hook to his brother and ask forgiveness
+    for keeping it so long.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: lost fishing hook
+  literal_form: fishing hook removed from the Tai's throat and returned to the Happy
+    Hunter
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Sea Realm / Ryn Gu
+  literal_form: undersea realm and Sea Palace where the Happy Hunter stays for three
+    years
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: nanjiu, Jewel of the Flood Tide
+  literal_form: flashing gem; talisman that commands the sea to roll in and flood
+    the land
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: kanjiu, Jewel of the Ebbing Tide
+  literal_form: flashing gem; talisman that controls the sea and makes a tidal wave
+    recede
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: friendship between Land and Sea
+  literal_form: spoken bond between the Happy Hunter's land realm and Ryn Jin's sea
+    realm
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Recovery of the hook and pardon of the Tai
+  summary: The cuttlefish extracts the hook from the Tai, Ryn Jin returns it to the
+    Happy Hunter, and the Happy Hunter successfully asks that the Tai be forgiven.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Delayed return from the Sea Realm
+  summary: After the hook is recovered, the Happy Hunter remains in the Sea Palace
+    at the urging of Ryn Jin and the princesses; three years pass before homesickness
+    and duty to Japan lead him to seek departure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Farewell and gift of the Tide-Jewels
+  summary: Ryn Jin accepts the Happy Hunter's departure, expresses hope for lasting
+    friendship between Land and Sea, and gives him the nanjiu and kanjiu, talismans
+    controlling flood and ebb tides.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: quest for a lost object in the sea realm
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage identifies the Happy Hunter's recovery of the hook as the happy
+    ending of his quest, achieved through the Sea King's help.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The broader beginning of the quest lies outside this line range.
+- id: motif:2
+  label: compassionate judgment and pardon
+  taxonomy_refs:
+  - wisdom
+  basis: The Happy Hunter argues against punishment of the Tai and is described as
+    a wise and compassionate judge.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents this as moral conduct rather than a formal legal
+    judgment by the Happy Hunter.
+- id: motif:3
+  label: return from an enchanted otherworld after elapsed time
+  taxonomy_refs:
+  - return
+  basis: The Happy Hunter spends three happy years in the Sea Realm but becomes homesick
+    and asks to return to Japan and his brother.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage states that night/time are not different between sea and earth,
+    so no time-distortion motif is asserted.
+- id: motif:4
+  label: parting gift of powerful talismans
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Ryn Jin gives the Happy Hunter ancestral Tide-Jewels as a parting gift in
+    token of affection.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not yet show the jewels being used.
+- id: motif:5
+  label: control of waters by magical jewels
+  taxonomy_refs: []
+  basis: The nanjiu commands the sea to flood the land, and the kanjiu makes the sea
+    or a tidal wave recede.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No specific available motif-family reference directly names tide-control
+    talismans.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4336-4350
+  quote_or_summary: The cuttlefish removes the hook from the Tai's throat, washes
+    it, and brings it to Ryn Jin, who returns it to the Happy Hunter; the Happy Hunter
+    thanks him for the successful end of the quest.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 4351-4369
+  quote_or_summary: Ryn Jin wishes to punish the Tai, but the Happy Hunter pleads
+    for forgiveness, saying the Tai has already suffered and acted heedlessly; Ryn
+    Jin forgives it, and the fish praise the Happy Hunter.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 4370-4405
+  quote_or_summary: The Happy Hunter wants to return to his kingdom and reconcile
+    with the Skillful Fisher, but Ryn Jin and his daughters persuade him to stay in
+    Ryn Gu; after three years he becomes homesick and asks permission to return because
+    he governs Japan and must return the hook to his brother.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 4406-4420
+  quote_or_summary: Ryn Jin sorrowfully accepts the Happy Hunter's departure and says
+    he hopes the friendship begun between Land and Sea will last and grow stronger.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 4421-4432
+  quote_or_summary: Ryn Jin tells his daughters to bring two Tide-Jewels; they return
+    with flashing gems, and he gives the inherited talismans, named nanjiu and kanjiu,
+    to the Happy Hunter as a parting gift.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 4433-4434
+  quote_or_summary: Ryn Jin explains that the nanjiu, Jewel of the Flood Tide, can
+    make the sea flood the land, while the kanjiu, Jewel of the Ebbing Tide, can control
+    the sea and make a tidal wave recede.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are candidate
+    classifications using available taxonomy where directly supported. No comparison
+    claims were made because the passage itself does not establish comparison to another
+    text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or unsupported comparisons were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l4336-l4434
+  passage_sha256=8c4c3a08a01b9ed32511e03fa0e8af8bf4ee2ab034fbddb56979418503f3e902
+

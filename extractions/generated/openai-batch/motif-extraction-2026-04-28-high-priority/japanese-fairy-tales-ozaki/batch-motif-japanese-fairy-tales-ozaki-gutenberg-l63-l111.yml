@@ -1,0 +1,186 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l63-l111
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: Japanese Fairy Tales / COMPILED BY; lines 63-111
+  start: '63'
+  end: '111'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents the title and compiler of the book, notes illustrations
+    by Japanese artists, lists the table of contents, and includes a dedication by
+    Yei Theodora Ozaki to Eleanor Marion-Crawford recalling fairy stories from Japan
+    told by the southern sea.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as Japanese Fairy Tales, compiled by Yei Theodora
+    Ozaki.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the book is profusely illustrated by Japanese artists.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists the contents of the collection, including tales such as
+    My Lord Bag of Rice, Urashima Taro, Kintaro, the Bamboo-Cutter and the Moon-Child,
+    Momotaro, and others.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The dedication addresses Eleanor Marion-Crawford and connects the book to
+    memories of listening to fairy stories from Japan by the southern sea.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The dedication is signed Y. T. O. and dated Tokio, 1908.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Yei Theodora Ozaki
+  description: Named as compiler and represented by the initials Y. T. O. in the dedication.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Eleanor Marion-Crawford
+  description: Named as the dedicatee of the book.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Japanese artists
+  description: Collective group credited with illustrating the book.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: compiler
+  assigned_to:
+  - fig:1
+  basis: The title page states that the fairy tales were compiled by Yei Theodora
+    Ozaki.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dedicator
+  assigned_to:
+  - fig:1
+  basis: The dedication is signed with Ozaki's initials and expresses love and remembrance.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: dedicatee
+  assigned_to:
+  - fig:2
+  basis: The dedication is addressed to Eleanor Marion-Crawford.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: illustrators
+  assigned_to:
+  - fig:3
+  basis: The passage says the book is illustrated by Japanese artists.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Title page and contents
+  summary: The work is introduced with title, compiler, illustrator credit, and a
+    list of included tales.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Dedication
+  summary: Ozaki dedicates the book to Eleanor Marion-Crawford, recalling her pleasure
+    in listening to fairy stories from Japan by the southern sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 63-71
+  quote_or_summary: The passage gives the title Japanese Fairy Tales and states that
+    it was compiled by Yei Theodora Ozaki.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 73-73
+  quote_or_summary: The passage states that the book was profusely illustrated by
+    Japanese artists.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 75-101
+  quote_or_summary: The contents list the preface and multiple Japanese fairy tales,
+    including My Lord Bag of Rice, Urashima Taro, Kintaro, the Bamboo-Cutter and the
+    Moon-Child, Momotaro, and others.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 103-108
+  quote_or_summary: The dedication addresses Eleanor Marion-Crawford and recalls days
+    by the southern sea when she listened with pleasure to fairy stories from Japan.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 110-111
+  quote_or_summary: The dedication is signed Y. T. O. and dated Tokio, 1908.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: This passage is front matter and a table of contents rather than a narrative
+    episode; no passage-level mythic motifs or symbols are extracted beyond bibliographic
+    and dedication content.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No candidate motifs were assigned because the passage does not narrate any tale episode; title names in the contents were not treated as evidence for motifs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l63-l111
+  passage_sha256=ebc87ae6305b53ec253328c66d1576d858da81c57f6077fbc6072c8343ab544d
+

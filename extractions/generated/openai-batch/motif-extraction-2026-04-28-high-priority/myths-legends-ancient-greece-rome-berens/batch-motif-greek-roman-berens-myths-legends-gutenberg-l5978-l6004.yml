@@ -1,0 +1,393 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l5978-l6004
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: LAVERNA. / COMUS. / THE CAMENAE. / GENII.; lines 5978-6004
+  start: '5978'
+  end: '6004'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Roman genii as personal protective spirits accompanying
+    individuals from birth to death, later paired with an evil genius whose influence
+    opposed the beneficent one. It notes depictions as winged beings, civic genii
+    for communities, offerings on birthdays, a woman's guiding genius called Juno,
+    and Greek Daemons as similar beings who mediate between humans and gods.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Each Roman individual is described as accompanied through life by a protecting
+    spirit called a genius, from birth until death.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The protecting genius is said to prompt good and noble deeds, comfort sorrow,
+    and guide the individual through earthly life.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A second genius of evil nature is described as instigating wrong-doing and
+    opposing the beneficent genius.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The individual’s fate is said to depend on the outcome of the conflict between
+    the antagonistic influences.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The genii are described as winged beings resembling modern representations
+    of guardian angels.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Every state, town, or city, as well as every person, is described as possessing
+    its special genius.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Sacrifices to the genii are said to consist of wine, cakes, and incense offered
+    on birthdays.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The genius guiding a woman is called Juno.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Greek Daemons are described as exercising functions similar to Roman genii.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Daemons are described as spirits of the righteous race from the Golden
+    Age who watch over mankind and carry prayers to the gods and divine gifts to humans.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Roman genius
+  description: A protecting spirit accompanying an individual through life.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: evil genius
+  description: A second genius of evil nature, instigating wrong-doing and opposing
+    the beneficent genius.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: individual person
+  description: A person accompanied by a genius from birth to death and affected by
+    antagonistic influences.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: state, town, or city genius
+  description: A special genius possessed by a state, town, or city.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Juno
+  description: The name given to the genius guiding a woman, after the queen of heaven.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Greek Daemons
+  description: Greek beings regarded as exercising functions similar to Roman genii.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: gods
+  description: Recipients of human prayers carried by Daemons and sources of gifts
+    carried back to humans.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: personal protecting spirit
+  assigned_to:
+  - fig:1
+  basis: The genius accompanies an individual through life, prompts good deeds, comforts,
+    and guides.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: instigator of wrong-doing
+  assigned_to:
+  - fig:2
+  basis: The evil genius is described as instigating wrong-doing and opposing the
+    beneficent genius.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: human recipient of spiritual guidance and conflict
+  assigned_to:
+  - fig:3
+  basis: The person is accompanied by a genius and has a fate affected by conflicting
+    influences.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: civic tutelary spirit
+  assigned_to:
+  - fig:4
+  basis: Every state, town, or city is described as possessing its special genius.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: woman’s guiding genius
+  assigned_to:
+  - fig:5
+  basis: The passage states that the genius guiding a woman was called Juno.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: Greek analogous guardian and intermediary spirit
+  assigned_to:
+  - fig:6
+  basis: Daemons are described as similar to genii, watching over mankind and mediating
+    prayers and gifts.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: divine recipients and benefactors
+  assigned_to:
+  - fig:7
+  basis: Daemons carry prayers to the gods and gifts from the gods to humans.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: winged spirit image
+  literal_form: winged beings
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: birthday offerings to genii
+  literal_form: wine, cakes, and incense offered on birthdays
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: antagonistic paired influences
+  literal_form: beneficent genius and evil genius at war
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: prayers and divine gifts carried between realms
+  literal_form: prayers carried to the gods and gifts carried from the gods
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: personal genius accompanies life
+  summary: A Roman individual is accompanied from birth to death by a protecting genius
+    who prompts good deeds, comforts sorrow, and guides earthly life.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: conflict of beneficent and evil genii
+  summary: A second evil genius opposes the beneficent genius, and the person’s fate
+    depends on the conflict between these influences.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: birthday sacrifice to genii
+  summary: Wine, cakes, and incense are offered to the genii on birthdays.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Daemons mediate between humans and gods
+  summary: Greek Daemons watch over mankind and carry prayers to the gods and gifts
+    from the gods to humans.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: personal guardian spirit accompanying a human life
+  taxonomy_refs: []
+  basis: The Roman genius accompanies a person from birth to death, protects, comforts,
+    and guides.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The available taxonomy list has no direct guardian-spirit motif family.
+- id: motif:2
+  label: opposed good and evil spiritual influences shaping fate
+  taxonomy_refs:
+  - duality
+  basis: A beneficent genius and an evil genius are described as antagonistic influences
+    whose conflict affects the individual’s fate.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage describes a moral-spiritual opposition, but does not narrate
+    a specific mythic episode.
+- id: motif:3
+  label: civic or communal tutelary spirit
+  taxonomy_refs: []
+  basis: Every state, town, or city is said to possess its own special genius.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives a general belief rather than a narrative example.
+- id: motif:4
+  label: ritual offerings to guardian spirits on birthdays
+  taxonomy_refs: []
+  basis: Sacrifices of wine, cakes, and incense are offered to the genii on birthdays.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference directly matches birthday offerings.
+- id: motif:5
+  label: intermediary spirits carry prayers and divine gifts
+  taxonomy_refs: []
+  basis: Greek Daemons are said to watch over mankind, carry prayers to the gods,
+    and bring divine gifts to humans.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage states a belief-function rather than a specific narrated journey.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents Greek Daemons as having functions similar
+    to Roman genii.
+  claim_level: same_function
+  target: Greek Daemons compared with Roman genii
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to functional similarity as stated in the
+    passage; it does not establish historical contact, common inheritance, or exact
+    identity.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5978-5985
+  quote_or_summary: Romans believed each individual was accompanied from birth to
+    death by a protecting genius who prompted good deeds, comforted sorrow, and guided
+    earthly life.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: public_domain
+- id: ev:2
+  type: summary
+  locator: lines 5986-5992
+  quote_or_summary: A second evil genius was believed to instigate wrong-doing, oppose
+    the beneficent genius, and influence the individual’s fate through this conflict.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: public_domain
+- id: ev:3
+  type: summary
+  locator: lines 5992-5994
+  quote_or_summary: The genii were depicted as winged beings resembling modern representations
+    of guardian angels.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: public_domain
+- id: ev:4
+  type: summary
+  locator: lines 5995-5998
+  quote_or_summary: Every state, town, city, and person possessed a special genius;
+    sacrifices of wine, cakes, and incense were offered to genii on birthdays.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: public_domain
+- id: ev:5
+  type: summary
+  locator: lines 6000-6001
+  quote_or_summary: The genius guiding a woman was called Juno, after the queen of
+    heaven.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: public_domain
+- id: ev:6
+  type: summary
+  locator: lines 6002-6004
+  quote_or_summary: 'Greek Daemons were regarded as similar in function to Roman genii:
+    spirits of the righteous Golden Age race who watched over mankind and mediated
+    prayers to gods and gifts from gods.'
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: public_domain
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is an expository handbook description with explicit statements
+    about genii and Daemons. Motif labels are candidate abstractions and should be
+    reviewed against project taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used; taxonomy references were limited to available entries.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l5978-l6004
+  passage_sha256=d9e0228b1b042a438f1e29be21c83d1e758ed02828272ef1cc05c2262c246537
+

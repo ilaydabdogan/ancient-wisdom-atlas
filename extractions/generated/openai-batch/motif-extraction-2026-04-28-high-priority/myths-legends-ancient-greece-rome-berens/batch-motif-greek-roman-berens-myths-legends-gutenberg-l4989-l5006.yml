@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l4989-l5006
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: MOMUS. / EROS (CUPID, AMOR) AND PSYCHE. / HYMEN. / IRIS (THE RAINBOW).; lines
+    4989-5006
+  start: '4989'
+  end: '5006'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Iris, the daughter of Thaumas and Electra, personified the rainbow, and was
+    the special attendant and messenger of the queen of heaven
+  summary: The passage identifies Iris as the daughter of Thaumas and Electra, personification
+    of the rainbow, and messenger-attendant of Hera. It explains the rainbow as a
+    bridge of communication between heaven and earth and describes Iris with Hera’s
+    chariot, variegated robes, silver sandals, golden wings, light, and floral fragrance.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Iris is described as the daughter of Thaumas and Electra.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Iris personifies the rainbow.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Iris serves as special attendant and messenger of the queen of heaven, executing
+    her commands with tact, intelligence, and swiftness.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage states that many early peoples regarded the rainbow as a bridge
+    of communication between heaven and earth.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage connects Iris’s role of communication between gods and men with
+    her representation of the rainbow.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Iris is usually represented seated behind Hera’s chariot, ready to do Hera’s
+    bidding.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Iris is described as a slender beautiful maiden wearing variegated airy fabric,
+    bright silver sandals, and golden wings.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Where Iris appears, radiance of light and a sweet spring-flower fragrance
+    fill the air.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Iris
+  description: Daughter of Thaumas and Electra; personification of the rainbow; attendant
+    and messenger of Hera; represented as a beautiful winged maiden.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Thaumas
+  description: Named as the father of Iris.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Electra
+  description: Named as the mother of Iris.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Hera / queen of heaven
+  description: The queen of heaven and royal mistress whose commands Iris executes;
+    Iris is represented behind her chariot.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: gods and men
+  description: Groups between whom Iris is said to communicate.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: rainbow personification
+  assigned_to:
+  - fig:1
+  basis: Iris is explicitly said to personify the rainbow.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine attendant
+  assigned_to:
+  - fig:1
+  basis: Iris is described as special attendant of the queen of heaven.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: divine messenger
+  assigned_to:
+  - fig:1
+  basis: Iris executes Hera’s commands and communicates between gods and men.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: parent of Iris
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Thaumas and Electra are named as Iris’s parents.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: royal mistress / queen of heaven
+  assigned_to:
+  - fig:4
+  basis: The queen of heaven is the figure whose commands Iris executes and whose
+    chariot Iris attends.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:6
+  label: parties connected by divine communication
+  assigned_to:
+  - fig:5
+  basis: The passage says Iris was invested with the office of communicating between
+    gods and men.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: rainbow bridge
+  literal_form: rainbow regarded as a bridge of communication between heaven and earth
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Hera’s chariot
+  literal_form: chariot of Hera with Iris seated behind it
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: golden wings
+  literal_form: golden wings of Iris
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: variegated airy robe
+  literal_form: airy fabric of variegated hues resembling mother-of-pearl
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: radiance and floral fragrance
+  literal_form: radiance of light and sweet odour like delicate spring flowers accompanying
+    Iris
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Iris as rainbow messenger
+  summary: Iris is identified as the rainbow personified and as the swift, intelligent
+    attendant-messenger of Hera, communicating between gods and men.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Iconographic appearance of Iris
+  summary: Iris is represented behind Hera’s chariot as a beautiful winged maiden,
+    with variegated clothing, silver sandals, golden wings, light, and floral fragrance.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: rainbow as bridge between heaven and earth
+  taxonomy_refs: []
+  basis: The passage explicitly describes the rainbow as a bridge of communication
+    between heaven and earth and uses this to explain Iris’s office as intermediary.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states a general cross-cultural idea but does not provide
+    examples from other traditions.
+- id: motif:2
+  label: divine messenger mediating gods and humans
+  taxonomy_refs: []
+  basis: Iris is described as Hera’s messenger and as communicating between gods and
+    men.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is descriptive handbook material rather than a narrative episode.
+- id: motif:3
+  label: winged maiden as swift supernatural envoy
+  taxonomy_refs: []
+  basis: Iris is presented as a beautiful maiden with golden wings and marked swiftness
+    in carrying out divine commands.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The text gives iconographic attributes but no specific journey or message
+    episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself frames the rainbow-as-bridge idea as a broadly recurring
+    pattern among early peoples, while applying it to the Greek figure Iris.
+  claim_level: same_function
+  target: rainbow as a bridge of communication between heaven and earth
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage uses a broad generalization and names no specific comparator
+    traditions or texts.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4989-4993
+  quote_or_summary: Iris is introduced as daughter of Thaumas and Electra, personification
+    of the rainbow, and special attendant and messenger of the queen of heaven.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 4994-5000
+  quote_or_summary: The rainbow is described as a bridge of communication between
+    heaven and earth, explaining why the Greeks made Iris an intermediary between
+    gods and men.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 5001-5006
+  quote_or_summary: Iris is represented behind Hera’s chariot, as a slender beautiful
+    maiden in variegated airy robes, bright silver sandals, and golden wings, accompanied
+    by light and spring-flower fragrance.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about Iris’s identity, attributes, and messenger
+    function. Motif labels are conservative and mostly not mapped to the supplied
+    taxonomy because no exact available taxonomy reference matches the rainbow-bridge
+    or divine-messenger pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No supplied symbol taxonomy item directly matches rainbow, wings, chariot, light, or fragrance; taxonomy_refs are therefore left empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l4989-l5006
+  passage_sha256=8195a2b1ab0111b4d1fdd99cfe406e45e4d32aa8688709bcac8cc48d2c5fe9a2
+

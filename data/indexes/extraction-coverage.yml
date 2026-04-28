@@ -8,92 +8,23 @@ summary:
   - texts/permissioned/**/*.md
   extraction_glob: extractions/**/*.{yml,yaml}
   text_count: 58
-  texts_with_extractions: 46
-  texts_without_extractions: 12
-  texts_needing_full_extraction: 46
-  texts_needing_review_or_normalization: 46
-  extraction_record_count: 1314
-  candidate_motif_count: 5381
-  taxonomy_ref_count: 4510
-  comparison_claim_count: 1607
+  texts_with_extractions: 49
+  texts_without_extractions: 9
+  texts_needing_full_extraction: 43
+  texts_needing_review_or_normalization: 49
+  extraction_record_count: 1714
+  candidate_motif_count: 7380
+  taxonomy_ref_count: 6119
+  comparison_claim_count: 1845
   status_counts:
-    dense_draft: 12
+    dense_draft: 15
     developing: 16
-    no_extractions: 12
+    no_extractions: 9
     thin: 18
   priority_counts:
-    high: 30
-    medium: 28
+    high: 27
+    medium: 31
 texts:
-- source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
-  source_text_id: greek_roman.berens.myths_legends_gutenberg
-  title: Myths and Legends of Ancient Greece and Rome
-  tradition: greek_roman
-  culture: classical_myth_later_handbook
-  region: aegean_mediterranean_rome
-  date_range: ancient classical mythic material; 1880 public-domain English handbook
-  word_count: 106406
-  target_extraction_records: 27
-  coverage_ratio: 0.0
-  status: no_extractions
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: false
-  extraction_record_count: 0
-  generated_record_count: 0
-  needs_review_count: 0
-  reviewed_count: 0
-  candidate_motif_count: 0
-  taxonomy_ref_count: 0
-  comparison_claim_count: 0
-  empty_motif_record_count: 0
-  extraction_paths: []
-- source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
-  source_text_id: japanese.fairy_tales.ozaki_gutenberg
-  title: Japanese Fairy Tales
-  tradition: japanese
-  culture: japanese_folklore_later_english_retelling
-  region: japan
-  date_range: Japanese folk traditions; 1908 public-domain English retelling
-  word_count: 70626
-  target_extraction_records: 18
-  coverage_ratio: 0.0
-  status: no_extractions
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: false
-  extraction_record_count: 0
-  generated_record_count: 0
-  needs_review_count: 0
-  reviewed_count: 0
-  candidate_motif_count: 0
-  taxonomy_ref_count: 0
-  comparison_claim_count: 0
-  empty_motif_record_count: 0
-  extraction_paths: []
-- source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
-  source_text_id: norse.myths_of_norsemen.guerber_gutenberg
-  title: 'Myths of the Norsemen: From the Eddas and Sagas'
-  tradition: norse
-  culture: norse_myth_later_retelling
-  region: scandinavia_north_atlantic
-  date_range: medieval Norse source material; 1909 public-domain English retelling
-  word_count: 100261
-  target_extraction_records: 26
-  coverage_ratio: 0.0
-  status: no_extractions
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: false
-  extraction_record_count: 0
-  generated_record_count: 0
-  needs_review_count: 0
-  reviewed_count: 0
-  candidate_motif_count: 0
-  taxonomy_ref_count: 0
-  comparison_claim_count: 0
-  empty_motif_record_count: 0
-  extraction_paths: []
 - source_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
   source_text_id: persian.sadi.gulistan.ross_gutenberg
   title: The Persian Literature, Volume 2, The Gulistan
@@ -2531,18 +2462,18 @@ texts:
   date_range: 4th-century BCE philosophical dialogue; public-domain English translation
   word_count: 216288
   target_extraction_records: 40
-  coverage_ratio: 3.475
+  coverage_ratio: 5.7
   status: dense_draft
   priority: medium
   needs_full_extraction: false
   needs_review_or_normalization: true
-  extraction_record_count: 139
-  generated_record_count: 139
-  needs_review_count: 139
+  extraction_record_count: 228
+  generated_record_count: 228
+  needs_review_count: 228
   reviewed_count: 0
-  candidate_motif_count: 603
-  taxonomy_ref_count: 454
-  comparison_claim_count: 195
+  candidate_motif_count: 974
+  taxonomy_ref_count: 732
+  comparison_claim_count: 251
   empty_motif_record_count: 0
   extraction_paths:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l10055-l10189.yml
@@ -2566,23 +2497,112 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l11969-l12129.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l12131-l12273.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l12275-l12403.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l12405-l12538.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l12540-l12667.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l1265-l1334.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l12669-l12786.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l12788-l12962.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l12964-l13082.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l13084-l13196.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l13198-l13348.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l13350-l13505.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l1336-l1415.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l13507-l13621.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l13623-l13650.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l13653-l13780.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l13782-l13921.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l13923-l14069.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l14071-l14242.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l1417-l1481.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l14244-l14387.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l14389-l14543.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l14545-l14687.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l14689-l14843.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l1483-l1541.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l14845-l14992.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l14994-l15155.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l15157-l15248.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l15251-l15379.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l15381-l15526.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l1543-l1614.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l15528-l15704.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l15706-l15845.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l15847-l15992.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l15994-l16145.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l16147-l16288.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l1616-l1687.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l16290-l16451.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l16453-l16611.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l165-l251.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l16613-l16748.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l16750-l16884.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l16886-l17066.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l1689-l1772.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l17068-l17208.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l17211-l17397.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l17399-l17515.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l17517-l17660.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l17662-l17790.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l1774-l1852.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l17792-l17900.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l17902-l18011.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l18013-l18130.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l18132-l18283.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l18285-l18436.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l18438-l18615.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l1854-l1938.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l18617-l18744.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l18746-l18778.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l18781-l18911.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l18913-l19020.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l19022-l19142.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l19144-l19306.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l19308-l19466.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l1940-l1994.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l19468-l19613.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l19615-l19736.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l19738-l19854.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l19856-l19996.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l1996-l2074.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l19998-l20152.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l20154-l20256.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l20259-l20385.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l20387-l20491.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l20493-l20627.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l20629-l20813.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l2076-l2139.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l20815-l20973.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l20975-l21105.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l21107-l21266.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l21268-l21405.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l21407-l21561.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l2141-l2228.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l21563-l21745.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l21747-l21839.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l21842-l21983.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l21985-l22135.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l22137-l22315.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l2230-l2329.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l22317-l22464.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l22466-l22655.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l22657-l22822.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l22824-l22996.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l22998-l23129.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l23131-l23165.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l23168-l23363.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l2331-l2410.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l23365-l23487.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l23489-l23651.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l23653-l23817.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l23819-l23921.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l23923-l24065.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l24067-l24188.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l2412-l2454.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l24190-l24303.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l24305-l24376.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l24378-l24425.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l24427-l24481.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l24483-l24572.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l2456-l2517.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l2519-l2584.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l253-l329.yml
@@ -2684,3 +2704,383 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l9637-l9730.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l9732-l9860.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/republic-jowett/batch-motif-greek-plato-republic-jowett-gutenberg-l9862-l10053.yml
+- source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  source_text_id: greek_roman.berens.myths_legends_gutenberg
+  title: Myths and Legends of Ancient Greece and Rome
+  tradition: greek_roman
+  culture: classical_myth_later_handbook
+  region: aegean_mediterranean_rome
+  date_range: ancient classical mythic material; 1880 public-domain English handbook
+  word_count: 106406
+  target_extraction_records: 27
+  coverage_ratio: 7.333
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 198
+  generated_record_count: 198
+  needs_review_count: 198
+  reviewed_count: 0
+  candidate_motif_count: 1041
+  taxonomy_ref_count: 832
+  comparison_claim_count: 123
+  empty_motif_record_count: 8
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l10012-l10108.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l10110-l10199.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l10201-l10297.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l10299-l10392.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l10394-l10485.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l10487-l10546.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l10548-l10712.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l10714-l10897.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l1081-l1171.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l10899-l11103.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l11105-l11310.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l11312-l11500.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l11502-l11603.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l11606-l11635.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l11638-l11773.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l1173-l1257.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l11775-l11823.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l1259-l1273.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l1275-l1294.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l1296-l1386.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l1388-l1411.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l1413-l1428.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l1430-l1518.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l144-l280.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l1521-l1553.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l1556-l1567.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l1569-l1632.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l1634-l1698.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l1700-l1774.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l1776-l1867.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l1869-l1876.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l1878-l1983.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l1985-l2069.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l2071-l2157.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l2159-l2198.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l2200-l2277.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l2279-l2363.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l2365-l2439.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l2441-l2527.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l2529-l2596.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l2598-l2664.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l2666-l2715.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l2717-l2760.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l2762-l2780.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l2782-l2879.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l282-l303.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l2881-l2924.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l2926-l2974.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l2976-l3057.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l305-l397.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3059-l3071.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3073-l3081.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3083-l3107.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3109-l3194.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3196-l3207.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3209-l3294.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3296-l3398.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3400-l3425.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3427-l3436.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3438-l3467.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3469-l3487.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3489-l3545.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3548-l3566.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3568-l3630.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3632-l3714.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3716-l3733.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3735-l3744.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3746-l3817.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3819-l3892.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3894-l3936.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3938-l3952.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l3954-l4041.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l399-l434.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4043-l4125.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4127-l4148.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4150-l4244.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4246-l4341.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4343-l4363.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l436-l525.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4365-l4377.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4379-l4402.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4404-l4453.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4455-l4503.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4505-l4546.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4548-l4560.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4562-l4601.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4603-l4614.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4616-l4661.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4663-l4680.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4682-l4726.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4728-l4751.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4753-l4765.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4767-l4807.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4809-l4823.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4825-l4914.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4917-l4962.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4964-l4987.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l4989-l5006.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5009-l5031.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5033-l5050.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5052-l5157.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5159-l5187.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5189-l5203.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5205-l5246.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5248-l5291.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l527-l547.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5293-l5305.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5307-l5329.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5331-l5340.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5342-l5365.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5367-l5384.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5386-l5413.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5415-l5467.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5469-l5497.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l549-l631.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5499-l5583.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5585-l5598.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5600-l5633.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5635-l5659.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5661-l5710.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5712-l5790.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5792-l5804.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5806-l5825.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5827-l5844.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5846-l5863.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5865-l5878.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5880-l5895.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5897-l5913.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5915-l5938.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5940-l5953.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5955-l5976.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l5978-l6004.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6006-l6046.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6048-l6067.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6070-l6142.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6144-l6159.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6161-l6180.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6182-l6199.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6201-l6287.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6289-l6325.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6327-l6339.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l633-l649.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6341-l6359.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6361-l6392.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6394-l6446.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l64-l142.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6448-l6480.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6482-l6494.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6496-l6519.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l651-l698.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6521-l6561.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6563-l6631.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6633-l6734.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6736-l6832.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6834-l6902.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6904-l6953.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l6955-l7048.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l700-l744.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l7050-l7143.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l7145-l7238.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l7240-l7332.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l7334-l7430.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l7432-l7522.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l746-l830.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l7524-l7533.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l7535-l7585.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l7587-l7685.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l7687-l7783.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l7785-l7884.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l7886-l7984.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l7986-l8074.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l8076-l8168.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l8170-l8264.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l8266-l8323.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l832-l898.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l8325-l8402.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l8404-l8503.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l8505-l8590.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l8592-l8681.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l8683-l8725.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l8727-l8823.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l8825-l8917.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l8919-l8977.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l8979-l9016.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l900-l984.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l9018-l9107.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l9109-l9206.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l9208-l9222.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l9224-l9321.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l9323-l9415.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l9417-l9512.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l9514-l9591.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l9593-l9685.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l9687-l9774.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l9776-l9867.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l986-l1079.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l9869-l9911.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l9913-l10010.yml
+- source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  source_text_id: japanese.fairy_tales.ozaki_gutenberg
+  title: Japanese Fairy Tales
+  tradition: japanese
+  culture: japanese_folklore_later_english_retelling
+  region: japan
+  date_range: Japanese folk traditions; 1908 public-domain English retelling
+  word_count: 70626
+  target_extraction_records: 18
+  coverage_ratio: 4.0
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 72
+  generated_record_count: 72
+  needs_review_count: 72
+  reviewed_count: 0
+  candidate_motif_count: 330
+  taxonomy_ref_count: 237
+  comparison_claim_count: 22
+  empty_motif_record_count: 3
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l1101-l1205.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l114-l148.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l1208-l1299.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l1301-l1411.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l1413-l1523.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l151-l260.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l1525-l1574.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l1577-l1695.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l1697-l1832.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l1834-l1943.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l1946-l2051.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l2053-l2152.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l2154-l2248.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l2251-l2371.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l2373-l2477.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l2479-l2525.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l2528-l2630.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l262-l377.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l2632-l2740.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l2742-l2841.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l2843-l2950.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l2952-l3060.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l3062-l3176.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l3178-l3288.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l3290-l3387.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l3389-l3500.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l3502-l3611.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l3614-l3738.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l3740-l3793.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l379-l393.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l3796-l3896.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l3899-l4008.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l396-l507.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l4010-l4103.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l4105-l4215.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l4217-l4334.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l4336-l4434.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l4436-l4526.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l4529-l4625.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l4627-l4745.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l4747-l4816.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l4819-l4939.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l4941-l5079.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l5081-l5179.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l509-l612.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l5182-l5293.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l5295-l5401.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l5403-l5452.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l5455-l5593.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l5595-l5702.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l5705-l5811.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l5813-l5924.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l5926-l6019.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l6021-l6126.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l6128-l6233.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l614-l726.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l6236-l6369.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l63-l111.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l6371-l6508.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l6510-l6645.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l6647-l6752.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l6755-l6881.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l6883-l6997.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l7000-l7120.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l7122-l7243.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l7245-l7362.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l728-l854.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l7364-l7483.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l7485-l7562.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l7564-l7564.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l856-l981.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/japanese-fairy-tales-ozaki/batch-motif-japanese-fairy-tales-ozaki-gutenberg-l983-l1099.yml
+- source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  source_text_id: norse.myths_of_norsemen.guerber_gutenberg
+  title: 'Myths of the Norsemen: From the Eddas and Sagas'
+  tradition: norse
+  culture: norse_myth_later_retelling
+  region: scandinavia_north_atlantic
+  date_range: medieval Norse source material; 1909 public-domain English retelling
+  word_count: 100261
+  target_extraction_records: 26
+  coverage_ratio: 1.577
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 41
+  generated_record_count: 41
+  needs_review_count: 41
+  reviewed_count: 0
+  candidate_motif_count: 257
+  taxonomy_ref_count: 262
+  comparison_claim_count: 37
+  empty_motif_record_count: 1
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l1014-l1160.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l1163-l1296.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l125-l193.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l1298-l1437.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l1440-l1580.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l1582-l1707.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l1709-l1827.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l1830-l1874.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l1877-l1990.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l196-l294.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l1992-l2120.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l2123-l2236.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l2238-l2359.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l2362-l2458.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l2461-l2608.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l2611-l2730.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l2733-l2850.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l2852-l2939.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l2942-l3047.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l296-l325.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l3050-l3168.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l3171-l3290.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l328-l454.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l3293-l3366.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l3369-l3493.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l3495-l3611.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l3614-l3719.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l3722-l3817.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l3819-l3966.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l3968-l3988.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l3991-l4133.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l4135-l4274.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l4277-l4407.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l4410-l4484.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l456-l592.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l594-l736.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l65-l86.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l739-l863.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l865-l877.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l880-l1012.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-of-the-norsemen-guerber/batch-motif-norse-myths-of-norsemen-guerber-gutenberg-l89-l122.yml

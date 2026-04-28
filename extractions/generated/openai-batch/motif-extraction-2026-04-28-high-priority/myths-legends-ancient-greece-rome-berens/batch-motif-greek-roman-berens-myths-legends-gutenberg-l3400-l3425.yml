@@ -1,0 +1,479 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l3400-l3425
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: POSEIDON (NEPTUNE). / NEPTUNE. / SEA DIVINITIES. / OCEANUS.; lines 3400-3425
+  start: '3400'
+  end: '3425'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that Romans worshipped Poseidon as Neptune, propitiated
+    him with sacrifice before naval expeditions, and honored him with a temple and
+    festival. It then describes Oceanus as son of Uranus and Gaea, a world-encircling
+    stream and source of rivers, husband of Tethys, father of the Oceanides, and the
+    Titan who did not oppose Zeus and therefore retained dominion.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Romans worshipped Poseidon under the name Neptune and assigned him the attributes
+    of the Greek divinity.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Roman commanders made sacrifice to Neptune before naval expeditions.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Neptune had a temple in the Campus Martius at Rome and festivals called Neptunalia.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Oceanus is identified as the son of Uranus and Gaea.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Oceanus is described as the personification of an ever-flowing stream encircling
+    the world.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: All rivers and streams that watered the earth are said to have sprung from
+    Oceanus.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Oceanus was married to Tethys and fathered the Oceanides, said to number three
+    thousand.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Oceanus did not take part against Zeus in the Titanomachia and retained his
+    dominion under the new dynasty.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Neptune / Poseidon
+  description: Greek Poseidon worshipped by Romans under the name Neptune and given
+    the Greek divinity's attributes.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Roman commanders
+  description: Commanders who propitiated Neptune with sacrifice before naval expeditions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Oceanus
+  description: Son of Uranus and Gaea; personification of the ever-flowing world-encircling
+    stream; husband of Tethys; father of the Oceanides; a Titan who retained dominion
+    after not opposing Zeus.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Uranus
+  description: Named as father of Oceanus.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Gaea
+  description: Named as mother of Oceanus.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Tethys
+  description: A Titan and wife of Oceanus.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Oceanides
+  description: Numerous progeny of Oceanus and Tethys, said to be three thousand in
+    number.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Zeus
+  description: Divinity opposed by the Titans in the Titanomachia; Oceanus did not
+    take part against him.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Titans
+  description: Group to which Tethys belonged and against Zeus in the Titanomachia;
+    Oceanus alone refrained from taking part against Zeus.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: Roman sea god identified with Greek Poseidon
+  assigned_to:
+  - fig:1
+  basis: The passage says Romans worshipped Poseidon under the name Neptune with the
+    Greek divinity's attributes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of propitiatory sacrifice
+  assigned_to:
+  - fig:1
+  basis: Roman commanders sacrificed to Neptune before naval expeditions.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: naval sacrificers
+  assigned_to:
+  - fig:2
+  basis: Roman commanders undertook no naval expedition without propitiating Neptune
+    by sacrifice.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: primeval water personification
+  assigned_to:
+  - fig:3
+  basis: Oceanus is called the personification of the ever-flowing stream encircling
+    the world.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: source of rivers and streams
+  assigned_to:
+  - fig:3
+  basis: Rivers and streams that watered the earth are said to spring from Oceanus.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: divine spouse and progenitor
+  assigned_to:
+  - fig:3
+  basis: Oceanus is married to Tethys and father of the Oceanides.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: Titan who retained dominion
+  assigned_to:
+  - fig:3
+  basis: Oceanus refrained from opposing Zeus and retained dominion under the new
+    dynasty.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: parent of Oceanus
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Oceanus is named as son of Uranus and Gaea.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: Titan spouse
+  assigned_to:
+  - fig:6
+  basis: Tethys is described as one of the Titans and wife of Oceanus.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: divine offspring
+  assigned_to:
+  - fig:7
+  basis: The Oceanides are described as the numerous progeny of Oceanus and Tethys.
+  evidence_refs:
+  - ev:6
+- id: role:11
+  label: ruler opposed in Titanomachia
+  assigned_to:
+  - fig:8
+  basis: The Titans are described as taking part against Zeus in the Titanomachia,
+    while Oceanus refrained.
+  evidence_refs:
+  - ev:7
+- id: role:12
+  label: primeval divine group
+  assigned_to:
+  - fig:9
+  basis: Tethys is one of the Titans, and the passage refers to Titans and primeval
+    divinities under a new dynasty.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: sea and naval domain
+  literal_form: naval expeditions and Neptune as Poseidon under Roman worship
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: world-encircling water
+  literal_form: ever-flowing stream encircling the world
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: river-source water
+  literal_form: rivers and streams watering the earth springing from Oceanus
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: sacrifice before sea expedition
+  literal_form: propitiatory sacrifice to Neptune before naval expeditions
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: three thousand Oceanides
+  literal_form: numerous progeny called Oceanides, said to be three thousand
+  associated_figures:
+  - fig:3
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Roman worship of Neptune
+  summary: The Romans identify Poseidon as Neptune, worship him with Greek attributes,
+    and maintain a temple and festivals in his honor.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Sacrifice before naval expedition
+  summary: Roman commanders propitiate Neptune by sacrifice before undertaking naval
+    expeditions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Oceanus as cosmic stream and source of waters
+  summary: Oceanus is presented as the son of Uranus and Gaea and as the ever-flowing
+    stream encircling the world from which rivers and streams arise.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Oceanus, Tethys, and the Oceanides
+  summary: Oceanus is married to Tethys, and their progeny, the Oceanides, are said
+    to number three thousand.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Oceanus in the Titanomachia aftermath
+  summary: Oceanus does not take part against Zeus in the Titanomachia and is allowed
+    to keep his dominion under the new dynasty.
+  figure_refs:
+  - fig:3
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: propitiatory sacrifice before dangerous expedition
+  taxonomy_refs:
+  - sacrifice
+  basis: Roman commanders sacrifice to Neptune before naval expeditions.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents this as Roman ritual practice in a handbook summary,
+    not as a narrative episode.
+- id: motif:2
+  label: world-encircling cosmic water
+  taxonomy_refs: []
+  basis: Oceanus is described as the ever-flowing stream that encircles the world
+    and gives rise to rivers and streams.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No matching motif-family taxonomy ref is supplied; only the water symbol
+    taxonomy is directly applicable.
+- id: motif:3
+  label: divine genealogy of primordial water being
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Oceanus is son of Uranus and Gaea and father of the Oceanides by Tethys.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy ref captures parent-child divinity relations, but the passage
+    is genealogical rather than a developed mythic plot.
+- id: motif:4
+  label: divine marriage producing numerous offspring
+  taxonomy_refs:
+  - sacred_marriage
+  basis: Oceanus is married to Tethys and is father of the numerous Oceanides.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage says they are married but does not describe a ritualized or
+    hierogamic scene.
+- id: motif:5
+  label: neutrality in divine conflict preserves dominion
+  taxonomy_refs: []
+  basis: Oceanus alone among the Titans refrains from acting against Zeus and therefore
+    retains dominion under the new dynasty.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy ref directly names this political or dynastic pattern.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly equates Roman Neptune with Greek Poseidon by stating
+    that Romans worshipped Poseidon under the name Neptune and gave him the Greek
+    divinity's attributes.
+  claim_level: same_function
+  target: Greek Poseidon and Roman Neptune
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports identification and functional equivalence, but
+    gives no linguistic or historical-contact argument beyond the handbook statement.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3400-3404
+  quote_or_summary: Romans worshipped Poseidon as Neptune and invested him with the
+    Greek divinity's attributes.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 3405-3407
+  quote_or_summary: Roman commanders never undertook naval expeditions without propitiating
+    Neptune by sacrifice.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 3408-3410
+  quote_or_summary: Neptune's temple was in the Campus Martius at Rome, and festivals
+    in his honor were called Neptunalia.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source.
+- id: ev:4
+  type: summary
+  locator: lines 3417-3418
+  quote_or_summary: Oceanus was son of Uranus and Gaea.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source.
+- id: ev:5
+  type: summary
+  locator: lines 3418-3421
+  quote_or_summary: Oceanus personified the ever-flowing stream encircling the world,
+    from which sprang the rivers and streams watering the earth.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source.
+- id: ev:6
+  type: summary
+  locator: lines 3421-3423
+  quote_or_summary: Oceanus was married to Tethys, one of the Titans, and fathered
+    the Oceanides, said to be three thousand.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source.
+- id: ev:7
+  type: summary
+  locator: lines 3423-3425
+  quote_or_summary: Oceanus alone of the Titans did not take part against Zeus in
+    the Titanomachia and was allowed to retain dominion under the new dynasty.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labeling is more interpretive
+    for divine marriage and genealogy, so those candidates are marked with cautions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no external taxonomy IDs or unsupported comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l3400-l3425
+  passage_sha256=ba79eb5d3e3db24856a2c7110fa1cb4900be4ec3e41d7c26fd733a778adac566
+

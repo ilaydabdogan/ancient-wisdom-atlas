@@ -1,0 +1,231 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l4753-l4765
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: SPHINX. / TYCHE (FORTUNA) AND ANANKE (NECESSITAS). / TYCHE (FORTUNA). / FORTUNA.;
+    lines 4753-4765
+  start: '4753'
+  end: '4765'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage says that Tyche was worshipped at Rome as Fortuna and was more
+    important among Romans than Greeks. Later Roman Fortuna is described as bearing
+    only the cornucopia, without wings or a ball, indicating a role as goddess of
+    good luck and blessings rather than as a personification of fortune’s fluctuations.
+    The Romans also worshipped Felicitas as giver of positive good fortune.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Tyche was worshipped in Rome under the name Fortuna.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fortuna held greater importance among Romans than Tyche did among Greeks,
+    according to the passage.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In later times Fortuna is described as not represented with wings or standing
+    on a ball.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In later times Fortuna is described as bearing the cornucopia.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage distinguishes Roman Fortuna as goddess of good luck and blessings
+    from the Greek personification of fortune’s fluctuations.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Romans also worshipped Felicitas as the giver of positive good fortune.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Tyche
+  description: Greek figure worshipped in Rome under the name Fortuna; associated
+    with fluctuations of fortune in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Fortuna
+  description: Roman form/name under which Tyche was worshipped; later represented
+    with a cornucopia and regarded as goddess of good luck who brings blessings.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Felicitas
+  description: Roman figure worshipped as giver of positive good fortune.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: personification of fluctuations of fortune
+  assigned_to:
+  - fig:1
+  basis: The passage contrasts Greek Tyche with later Roman Fortuna by saying the
+    Greek figure personified the fluctuations of fortune.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: goddess of good luck and blessings
+  assigned_to:
+  - fig:2
+  basis: The passage states that Fortuna came to be regarded as goddess of good luck
+    only, bringing blessings to man.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: giver of positive good fortune
+  assigned_to:
+  - fig:3
+  basis: The passage identifies Felicitas as worshipped by Romans as giver of positive
+    good fortune.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: cornucopia
+  literal_form: cornucopia borne by Fortuna
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: wings absent from later Fortuna
+  literal_form: wings, explicitly not used in later representations of Fortuna
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ball absent from later Fortuna
+  literal_form: ball, explicitly not used as a support on which later Fortuna stands
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Roman worship and later representation of Fortuna
+  summary: Tyche is identified as worshipped at Rome under the name Fortuna; later
+    Fortuna is represented with a cornucopia and interpreted as a giver of good luck
+    and blessings rather than as a figure of fortune’s instability.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Roman worship of Felicitas
+  summary: The Romans are said to have worshipped Felicitas as a giver of positive
+    good fortune in addition to Fortuna.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: deity of good fortune and blessings
+  taxonomy_refs: []
+  basis: Fortuna is described as goddess of good luck who brings blessings, and Felicitas
+    is described as giver of positive good fortune.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference directly matches fortune or luck.
+- id: motif:2
+  label: iconographic shift from unstable fortune to beneficent luck
+  taxonomy_refs: []
+  basis: The passage notes the absence of wings and ball in later Fortuna, the retention
+    of the cornucopia, and the resulting interpretation as good-luck goddess rather
+    than personification of fortune’s fluctuations.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is an interpretive motif based on the handbook’s explicit contrast;
+    the passage gives no narrative episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4753-4757
+  quote_or_summary: Tyche was worshipped in Rome as Fortuna and held greater importance
+    among Romans than among Greeks.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4758-4760
+  quote_or_summary: Later Fortuna is described as not winged, not standing on a ball,
+    and as bearing the cornucopia.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4760-4763
+  quote_or_summary: The passage says Fortuna had come to be regarded as goddess of
+    good luck who brings blessings, not as the Greek personification of fortune’s
+    fluctuations.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4764-4765
+  quote_or_summary: The Romans also worshipped Felicitas as giver of positive good
+    fortune.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a brief handbook description with clear figure names and attributes,
+    but it contains little narrative material and no supported external comparison
+    claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy refs were applied because the passage concerns fortune/luck iconography and worship, which are not directly represented in the supplied taxonomy lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l4753-l4765
+  passage_sha256=648be32b0239826d58186c07ce0793fc0cc6780350a72f62550ba849995baa09
+

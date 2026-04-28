@@ -1,0 +1,285 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l5386-l5413
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: OCEANIDES. / THE NEREIDES. / THE NAIADES. / DRYADES, OR TREE NYMPHS.; lines
+    5386-5413
+  start: '5386'
+  end: '5413'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Dryades as tree nymphs whose characteristics correspond
+    to the particular trees they inhabit and whose lives are bound to those trees.
+    It gives descriptions of oak, birch, beech, and linden nymphs, and states that
+    a tree nymph ceases to exist if her tree is felled or fatally injured.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Tree nymphs are described as sharing the distinguishing characteristics of
+    the particular tree to whose life they are wedded.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Tree nymphs are collectively called Dryades.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hamadryades are identified as oak nymphs and are associated with qualities
+    attributed to the oak tree.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The birch nymph is described as a melancholy maiden with floating hair resembling
+    branches of the tree she inhabits.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The beech nymph is described as strong, sturdy, lively, joyous, and physically
+    vigorous.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The linden-tree nymph is described as a coy maiden with silver-gray dress,
+    blue eyes, pale golden hair, and shy or surprised expression.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A tree nymph ceases to exist when the tree she inhabits is felled or fatally
+    injured so that it withers and dies.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Dryades
+  description: Tree nymphs collectively, wedded to the lives of particular trees and
+    sharing their characteristics.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Hamadryades
+  description: Oak nymphs associated with the individuality of the oak.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Birch nymph
+  description: A melancholy maiden with floating hair resembling the branches of the
+    birch she inhabits.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Beech nymph
+  description: A strong, sturdy, lively, joyous female figure associated with health,
+    vigour, and vitality.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Linden-tree nymph
+  description: A coy maiden with silver-gray dress, blue eyes, pale golden hair, and
+    shy mistrustful expression.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: tree nymphs bound to trees
+  assigned_to:
+  - fig:1
+  basis: The passage says tree nymphs are wedded to the life of the particular tree
+    they inhabit.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: oak nymphs
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the Hamadryades as oak nymphs.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: birch nymph
+  assigned_to:
+  - fig:3
+  basis: The passage describes the birch nymph as inhabiting the birch tree.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: beech nymph
+  assigned_to:
+  - fig:4
+  basis: The passage describes the beech nymph and her traits.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: linden-tree nymph
+  assigned_to:
+  - fig:5
+  basis: The passage describes the nymph of the linden tree.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: Particular trees inhabited by nymphs, including oak, birch, beech,
+    and linden.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Description of tree-bound nymphs
+  summary: The passage explains that Dryades are tree nymphs whose characteristics
+    correspond to the trees to which their lives are bound.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Individual tree nymph descriptions
+  summary: Oak, birch, beech, and linden nymphs are each described with traits corresponding
+    to their trees.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Death of the tree-bound nymph
+  summary: The passage states that a tree nymph dies or ceases to exist if the tree
+    she inhabits is felled or fatally injured.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: life-bound tree spirit
+  taxonomy_refs: []
+  basis: The nymph's life is explicitly tied to the life of the tree she inhabits,
+    and she ceases to exist when that tree is destroyed.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy includes the symbol 'tree' but no exact motif-family
+    reference for a tree spirit whose life is bound to a tree.
+- id: motif:2
+  label: personified tree qualities
+  taxonomy_refs: []
+  basis: Different tree nymphs are described as embodying or reflecting qualities
+    associated with oak, birch, beech, and linden trees.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents descriptive personifications rather than a narrative
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5386-5390
+  quote_or_summary: Tree nymphs share the distinguishing characteristics of the particular
+    tree to whose life they are wedded and are collectively called Dryades.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5391-5393
+  quote_or_summary: Hamadryades are oak nymphs and represent qualities associated
+    with the oak, described as quiet, self-reliant power.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5395-5397
+  quote_or_summary: The birch nymph is a melancholy maiden with floating hair resembling
+    the branches of the tree she inhabits.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5399-5402
+  quote_or_summary: The beech nymph is described as strong, sturdy, lively, joyous,
+    graceful, healthy, vigorous, and vital.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5404-5410
+  quote_or_summary: The linden-tree nymph is represented as a coy maiden with silver-gray
+    dress, blue eyes, pale golden hair, and a shy, mistrustful expression.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5412-5413
+  quote_or_summary: A tree nymph, wedded to the life of the tree she inhabits, ceases
+    to exist if the tree is felled or fatally injured and dies.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive and explicit about tree nymphs, their traits,
+    and their life-dependence on trees. Motif candidates are straightforward but do
+    not map exactly to the supplied motif-family references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not make or imply a specific comparison to another tradition, motif family, or nearby corpus.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l5386-l5413
+  passage_sha256=95ffddd40880c6ac593a59cd8cbe107a65b05775d4c73b319dc20a7732a217c2
+

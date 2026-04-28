@@ -1,0 +1,596 @@
+---
+record_id: batch.motif.norse-myths-of-norsemen-guerber-gutenberg-l1298-l1437
+source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+passage_locator:
+  label: 'LIST OF ILLUSTRATIONS / INTRODUCTION / CHAPTER I: THE BEGINNING / CHAPTER
+    II: ODIN; lines 1298-1437'
+  start: '1298'
+  end: '1437'
+  translation: 'Myths of the Norsemen: From the Eddas and Sagas'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: the soul escaped from the body in the shape of a mouse
+  summary: The passage describes a Northern belief that the soul can leave the body
+    as a mouse, then connects Odin as leader of disembodied spirits with the Pied
+    Piper of Hamelin. It recounts the Pied Piper leading rats to drowning, then leading
+    children into an opening hill after Hamelin refuses payment. It further recounts
+    the German legend of Bishop Hatto, whose murdered peasants' souls appear as rats
+    and devour him as judgment.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that Northern nations generally believed the soul could
+    leave the body in the shape of a mouse through a corpse's mouth or through the
+    mouths of people in a trance.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: While the soul was absent, remedies could not restore the patient; when it
+    returned, animation returned.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says Odin was leader of all disembodied spirits and was identified
+    in the middle ages with the Pied Piper of Hamelin.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A piper in parti-coloured garments played through Hamelin and compelled rats
+    to follow him in procession to the river Weser, where they drowned.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the people of Hamelin refused to pay the reward, the piper played again
+    and the children followed him out of the houses.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The piper led the children to the Koppelberg, which opened to receive them
+    and closed after the last child disappeared.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage explicitly interprets the piper as Odin, the flute tones as whistling
+    wind, the rats as souls of the dead, and the hollow mountain as the grave.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Bishop Hatto is described as a miserly prelate who burned the poor alive in
+    a deserted barn during famine, comparing them to rats consuming corn.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A swarm of rats, identified as the souls of the murdered peasants, pursued
+    Bishop Hatto to a stone tower in the Rhine and devoured him alive.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The quoted Southey passage says the rats were sent to do judgment on Bishop
+    Hatto.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: soul in mouse form
+  description: A soul that escapes from the body in the shape of a mouse and may return
+    to restore animation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Odin
+  description: Described as leader of all disembodied spirits and identified with
+    the Pied Piper in this mythic interpretation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Pied Piper of Hamelin
+  description: A parti-coloured piper whose music leads rats to drowning and later
+    leads children into the Koppelberg.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: rats of Hamelin
+  description: Rats drawn out of their holes by the piper's music and drowned in the
+    Weser; the passage later says they represent souls of the dead.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:5
+  name_or_label: children of Hamelin
+  description: Children who follow the piper's music out of town and disappear into
+    the opening hill.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: people of Hamelin
+  description: Townspeople who refuse to pay the piper after the rats are gone.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Bishop Hatto
+  description: A miserly prelate who burns the poor during famine and is later devoured
+    by rats.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:8
+  name_or_label: murdered peasants / poor
+  description: Poor people burned alive in a barn; their souls are said to assume
+    rat forms.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:9
+  name_or_label: rats pursuing Bishop Hatto
+  description: A vast swarm identified as the souls of the murdered peasants, pursuing
+    and devouring the bishop.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: departing and returning life-soul
+  assigned_to:
+  - fig:1
+  basis: The soul leaves the body as a mouse; absence prevents animation, and return
+    restores animation.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: leader of disembodied spirits
+  assigned_to:
+  - fig:2
+  basis: The passage directly calls Odin the leader of all disembodied spirits.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: enchanted musician
+  assigned_to:
+  - fig:3
+  basis: The piper's playing compels rats and later children to follow.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: guide into disappearance
+  assigned_to:
+  - fig:3
+  basis: The piper leads the children to a hill that opens and receives them.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: compelled animal procession / souls of the dead
+  assigned_to:
+  - fig:4
+  basis: The rats follow the piper and are later interpreted as souls of the dead.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:6
+  label: vanishing children
+  assigned_to:
+  - fig:5
+  basis: The children follow the piper into the hill and are never seen in Hamelin
+    again.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: oath-breaking or nonpaying townspeople
+  assigned_to:
+  - fig:6
+  basis: The townspeople refuse to pay the promised reward after the rats are gone.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: miserly perpetrator
+  assigned_to:
+  - fig:7
+  basis: Bishop Hatto withholds grain and has the poor burned alive.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: target of rat judgment
+  assigned_to:
+  - fig:7
+  basis: The rats pursue Bishop Hatto into a tower and devour him; the quoted verse
+    calls this judgment.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:10
+  label: murdered famine victims
+  assigned_to:
+  - fig:8
+  basis: The poor are burned alive during famine in a deserted barn.
+  evidence_refs:
+  - ev:7
+- id: role:11
+  label: avenging rat swarm
+  assigned_to:
+  - fig:9
+  basis: The rat swarm is identified as the murdered peasants' souls and devours the
+    bishop.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: mouse-shaped soul
+  literal_form: mouse
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: magic flute or pipe
+  literal_form: flute / pipe music
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: rats as souls of the dead
+  literal_form: rats
+  associated_figures:
+  - fig:4
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:4
+  label: river of drowning
+  literal_form: river Weser
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: opening hollow mountain as grave
+  literal_form: Koppelberg hill / hollow mountain
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: barn fire
+  literal_form: burning deserted barn
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: stone tower refuge
+  literal_form: stone tower in the Rhine
+  associated_figures:
+  - fig:7
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Soul leaves and returns as mouse
+  summary: The soul is described as leaving the body in mouse form, with life suspended
+    until it returns.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Piper leads rats to the Weser
+  summary: The piper plays through Hamelin, draws out the rats, and leads them into
+    the river where they drown.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Piper leads children into Koppelberg
+  summary: After Hamelin refuses payment, the piper plays again and leads the children
+    into a hill that opens and closes behind them.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Interpretive identification of Pied Piper myth
+  summary: The passage identifies Odin with the piper, the flute tones with wind,
+    the rats with souls of the dead, and the hollow mountain with the grave.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Bishop Hatto burns the poor
+  summary: During famine, Bishop Hatto refuses aid and has the poor burned alive in
+    a barn.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Rat-souls devour Bishop Hatto
+  summary: Rats identified as the murdered peasants' souls pursue Bishop Hatto to
+    a tower and devour him as judgment.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Soul departing the body in animal form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The soul is said to leave the body in the shape of a mouse and later return.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents a soul taking animal form, but it does not describe
+    a full narrative shapeshifter figure.
+- id: motif:2
+  label: Psychopomp leading disembodied spirits
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Odin is called leader of disembodied spirits and identified with the piper;
+    rats are interpreted as souls of the dead following him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The afterlife route is symbolic and interpretive rather than a detailed
+    map of the afterlife.
+- id: motif:3
+  label: Enchanted music compels procession
+  taxonomy_refs: []
+  basis: The piper's music causes rats and later children to follow him in ordered
+    movement.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No specific supplied taxonomy reference directly names enchanted music.
+- id: motif:4
+  label: Vanishing into an opening mountain
+  taxonomy_refs:
+  - mountain
+  basis: The Koppelberg opens to receive the children and then closes after them;
+    the passage calls the hollow mountain typical of the grave.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy includes mountain as a symbol, not a specific vanishing-mountain
+    motif.
+- id: motif:5
+  label: Animal swarm as divine or moral judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The rats identified as murdered peasants' souls devour Bishop Hatto, and
+    the quoted verse states they were sent to do judgment on him.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage does not specify which deity sends the judgment.
+- id: motif:6
+  label: Murdered dead return as avenging animals
+  taxonomy_refs:
+  - death_rebirth
+  - shapeshifter
+  basis: The souls of murdered peasants are said to assume rat forms and kill their
+    murderer.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage frames this as soul-form rather than bodily rebirth.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares Odin with the Pied Piper by stating that Odin
+    was identified in the middle ages with the Pied Piper of Hamelin.
+  claim_level: same_function
+  target: Pied Piper of Hamelin legend
+  evidence_refs:
+  - ev:2
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a claim made by the retelling, not independently demonstrated
+    in the supplied passage.
+- id: claim:2
+  claim: The passage links the Pied Piper story and Bishop Hatto story through the
+    shared belief that souls of the dead can appear in mouse or rat form.
+  claim_level: same_motif
+  target: German legends involving rats as souls of the dead
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The connection is asserted by the author for these examples; no broader
+    corpus evidence is included in the passage.
+- id: claim:3
+  claim: The passage presents the Pied Piper's hollow mountain and the Bishop Hatto
+    rat-swarm as different narrative uses of the dead or grave-associated rat-soul
+    motif.
+  claim_level: same_motif
+  target: rat-souls connected with death, grave, and judgment
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: 'The two legends differ in function: one concerns guiding or disappearance,
+    the other punitive judgment.'
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1298-1303
+  quote_or_summary: The soul was believed to escape the body as a mouse from a corpse's
+    mouth or from the mouths of people in trance; life returned when the soul came
+    back.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summarized with brief quotation in canonical_text.
+- id: ev:2
+  type: quote
+  locator: lines 1307-1309
+  quote_or_summary: "“Odin was the leader of all disembodied spirits” and was identified
+    in the middle ages with the Pied Piper of Hamelin."
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source.
+- id: ev:3
+  type: summary
+  locator: lines 1309-1333
+  quote_or_summary: Hamelin is infested with rats; a parti-coloured piper plays, the
+    rats follow in procession, and they drown in the river Weser.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1337-1355
+  quote_or_summary: After the rats are gone, Hamelin refuses to pay the piper; he
+    plays again and the town's children run after the music.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1357-1379
+  quote_or_summary: The piper leads the children to the Koppelberg, which opens to
+    receive them and closes after the last child; the children are never seen in Hamelin
+    again.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 1381-1385
+  quote_or_summary: The passage states that Odin is the piper, the flute tones are
+    the whistling wind, the rats are souls of the dead, and the hollow mountain is
+    typical of the grave.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summarized with minimal direct phrasing.
+- id: ev:7
+  type: summary
+  locator: lines 1387-1398
+  quote_or_summary: Bishop Hatto, during famine, refuses grain to the poor and has
+    them burned alive in a deserted barn, calling them rats who consume corn.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1400-1408
+  quote_or_summary: A vast swarm of rats, identified as the souls of the murdered
+    peasants, pursues Bishop Hatto to a stone tower in the Rhine, gnaws through its
+    walls, and devours him alive.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 1410-1420
+  quote_or_summary: The rats attack from all directions and “were sent to do judgment
+    on him.”
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction relies only on the supplied passage. Motif mapping is strongest
+    where the passage explicitly interprets symbols or states judgment; taxonomy matches
+    are less exact for enchanted music and rat-soul material.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All comparisons are limited to claims supported within the passage; no external corroboration has been added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:norse-myths-of-norsemen-guerber-gutenberg__l1298-l1437
+  passage_sha256=91dcda9f22f55b94f1979e63bd81983f739680bed09dfb8e1a3029e5df540e11
+

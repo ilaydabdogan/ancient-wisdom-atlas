@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.norse-myths-of-norsemen-guerber-gutenberg-l865-l877
+source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+passage_locator:
+  label: 'CONTENTS / LIST OF ILLUSTRATIONS / INTRODUCTION / CHAPTER I: THE BEGINNING;
+    lines 865-877'
+  start: '865'
+  end: '877'
+  translation: 'Myths of the Norsemen: From the Eddas and Sagas'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Æsir and the Vanas as distinct divine groups.
+    The Vanas are associated with sea and wind, dwell in Vana-heim, and rule their
+    own realms. Before Asgard's golden palaces are built, the Æsir and Vanas fight
+    using rocks, mountains, and icebergs as missiles. They later make peace, ratify
+    the treaty by exchanging hostages, and Niörd, Frey, and Freya come to Asgard while
+    Hoenir goes to Vana-heim.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Æsir are described as original inhabitants of heaven but not the only
+    divinities recognized by the Northern races.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Vanas are described as sea- and wind-gods who dwell in Vana-heim and rule
+    their realms as they please.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A dispute arises between the Æsir and the Vanas before the golden palaces
+    in Asgard are built.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Æsir and Vanas resort to arms and use rocks, mountains, and icebergs as
+    missiles.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The two groups make peace after discovering that strength lies in unity.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The peace treaty is ratified by an exchange of hostages.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Niörd comes to dwell in Asgard with his two children, Frey and Freya.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Hoenir, identified as Odin's own brother, takes up residence in Vana-heim.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Æsir
+  description: Divine group described as original inhabitants of heaven and participants
+    in the dispute with the Vanas.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Vanas
+  description: Divine group described as sea- and wind-gods dwelling in Vana-heim
+    and participants in the dispute with the Æsir.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Niörd
+  description: A Van who comes to dwell in Asgard as part of the hostage exchange.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Frey
+  description: One of Niörd's two children who comes to Asgard.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Freya
+  description: One of Niörd's two children who comes to Asgard.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Hoenir
+  description: An Asa, identified as Odin's own brother, who takes up residence in
+    Vana-heim.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Odin
+  description: Mentioned only as Hoenir's brother.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: original heavenly divinities
+  assigned_to:
+  - fig:1
+  basis: The Æsir are called the original inhabitants of heaven.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sea- and wind-gods
+  assigned_to:
+  - fig:2
+  basis: The Vanas are described as sea- and wind-gods dwelling in Vana-heim.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: opposing divine parties reconciled by treaty
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Æsir and Vanas fight, then make peace and exchange hostages.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: exchanged hostage or resident in the other realm
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Niörd with Frey and Freya dwell in Asgard, while Hoenir dwells in Vana-heim
+    after the treaty.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: kin reference
+  assigned_to:
+  - fig:7
+  basis: Odin is mentioned to identify Hoenir as his brother.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Vana-heim
+  literal_form: Realm where the Vanas dwell and where Hoenir later resides.
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: Asgard
+  literal_form: Realm with golden palaces not yet built at the time of the dispute,
+    and later dwelling place of Niörd, Frey, and Freya.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: mountains used as missiles
+  literal_form: Mountains are among the missiles used in the battle, along with rocks
+    and icebergs.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: hostage exchange
+  literal_form: Hostages are exchanged to ratify the peace treaty.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Distinct divine groups and realms
+  summary: The passage identifies the Æsir as original inhabitants of heaven and the
+    Vanas as sea- and wind-gods dwelling in Vana-heim.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: War between Æsir and Vanas
+  summary: Before Asgard's golden palaces are built, the Æsir and Vanas quarrel and
+    fight with rocks, mountains, and icebergs as missiles.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Peace treaty and exchange of hostages
+  summary: The Æsir and Vanas make peace, ratify the treaty through hostage exchange,
+    and named divine figures take up residence in the opposite realm.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: war of divine clans followed by reconciliation
+  taxonomy_refs:
+  - duality
+  basis: The passage presents two divine groups, Æsir and Vanas, first in conflict
+    and then reconciled through peace.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage gives a specific inter-divine
+    conflict rather than an abstract dualist system.
+- id: motif:2
+  label: treaty ratified by exchange of hostages
+  taxonomy_refs:
+  - covenant
+  - sacred_exchange
+  basis: The treaty between the Æsir and Vanas is explicitly ratified by exchanging
+    hostages, including named divine figures relocating between realms.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage uses political treaty language; any ritual or theological
+    meaning beyond the stated exchange is not specified here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 865-869
+  quote_or_summary: The Æsir are original inhabitants of heaven; the Vanas are also
+    recognized divinities, associated with sea and wind, dwelling in Vana-heim and
+    ruling their realms.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 869-872
+  quote_or_summary: Before the golden palaces in Asgard are built, a dispute arises
+    between the Æsir and Vanas; they fight using rocks, mountains, and icebergs as
+    missiles.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 872-875
+  quote_or_summary: The two sides conclude that unity brings strength, compose their
+    differences, make peace, and ratify the treaty by exchanging hostages.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 875-877
+  quote_or_summary: Niörd comes to Asgard with his children Frey and Freya, while
+    Hoenir, Odin's brother, takes up residence in Vana-heim.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate classifications
+    based only on this passage and should be reviewed against the wider Norse context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit cross-textual or cross-traditional comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:norse-myths-of-norsemen-guerber-gutenberg__l865-l877
+  passage_sha256=6eeb0cef2b8fa383fb4470db2aafb3aec46ad8f7abdfb048486f45681ab5d71d
+

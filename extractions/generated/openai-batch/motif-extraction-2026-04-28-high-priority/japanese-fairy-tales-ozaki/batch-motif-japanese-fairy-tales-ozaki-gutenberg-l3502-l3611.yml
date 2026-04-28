@@ -1,0 +1,461 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l3502-l3611
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE FARMER AND THE BADGER / THE ADVENTURES OF KINTARO, THE GOLDEN BOY / THE
+    STORY OF THE MAN WHO DID NOT WISH TO DIE / THE BAMBOO-CUTTER AND THE MOON-CHILD;
+    lines 3502-3611
+  start: '3502'
+  end: '3611'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A daughter accused of hostile magic denies wrongdoing and reveals that
+    she has been secretly looking into a mirror to remember her dead mother. Her father
+    realizes she has mistaken her own reflection, which resembles her mother, for
+    an encounter with her mother, praises her filial piety, and apologizes. The stepmother,
+    who had suspected revenge magic out of jealousy, confesses, repents, and asks
+    forgiveness. The daughter forgives her, and the household becomes harmonious.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The daughter denies that she cursed or prayed for the death of anyone loved
+    by her father and suggests that lies or an evil spirit may have caused the accusation.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The father asks why the daughter has been alone in her room and demands to
+    see what she has hidden in her sleeve.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The daughter produces a mirror from her sleeve and says it is what she was
+    looking at.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The father identifies the mirror as a gift he once brought to the daughter’s
+    mother from the capital.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The daughter explains that her mother’s last words promised a meeting whenever
+    the daughter looked into the glass.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The father concludes that the daughter has mistaken her own reflected face
+    for her dead mother’s face because of their resemblance.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The father praises the daughter as faithful, filial, innocent, and good, and
+    asks her forgiveness for suspecting her.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The father compares the daughter to a lotus blossom rising clean from muddy
+    water.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The stepmother watches from outside the room, enters, bows on the mats, and
+    confesses shame.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The stepmother says her jealousy led her to believe the daughter was using
+    magic art to take her life, and she asks forgiveness.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The daughter forgives the stepmother and does not keep resentment or malice
+    toward her afterwards.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The father, daughter, and stepmother live happily together after the misunderstanding
+    is resolved.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: daughter
+  description: A young girl who keeps a mirror to remember her lost mother and is
+    accused of hostile magic before being vindicated.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: father
+  description: The daughter’s father, who questions her, recognizes the mirror and
+    the misunderstanding, praises her, and asks forgiveness.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: stepmother
+  description: The father’s wife, who had suspected the daughter out of jealousy,
+    then confesses, repents, and asks forgiveness.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: lost mother
+  description: The deceased mother whose last words directed the daughter to look
+    into the mirror to meet her.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: accused child
+  assigned_to:
+  - fig:1
+  basis: The daughter is accused of wishing harm by curse or magic and denies it.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: filial child
+  assigned_to:
+  - fig:1
+  basis: The father praises her conduct as filial piety rooted in remembrance of her
+    mother.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: forgiver
+  assigned_to:
+  - fig:1
+  basis: She willingly forgives the stepmother and bears no later malice.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: suspicious parent
+  assigned_to:
+  - fig:2
+  basis: He questions the daughter about her solitude and hidden object after believing
+    the stepmother’s story.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: penitent parent
+  assigned_to:
+  - fig:2
+  basis: After understanding the mirror episode, he says he is ashamed and asks the
+    daughter to forgive him.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: jealous accuser
+  assigned_to:
+  - fig:3
+  basis: She says her jealous heart led her to suspect the daughter of revenge magic
+    and cause the father’s suspicion.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: repentant wrongdoer
+  assigned_to:
+  - fig:3
+  basis: She humbles herself, asks forgiveness, and promises to love and cherish the
+    daughter.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:8
+  label: remembered dead parent
+  assigned_to:
+  - fig:4
+  basis: Her last words are recalled as instructing the child to look into the mirror
+    to meet her.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: mirror of maternal remembrance
+  literal_form: mirror / smooth metal disk
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: reflected face
+  literal_form: the daughter’s face reflected in the mirror
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: lotus in mud and water
+  literal_form: lotus blossom rising from slime and mud of moats and ponds
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: water in reconciliation language
+  literal_form: water in the stepmother’s request to discard the past, and fish in
+    water as a happiness simile
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:8
+scenes:
+- id: scene:1
+  label: Accusation and mirror revealed
+  summary: The daughter denies the accusation of harmful intent, and the father demands
+    to see what she has hidden; she reveals the mirror.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Recognition of the mirror’s meaning
+  summary: The father recognizes the mirror as the gift once given to the mother and
+    learns that the daughter has been looking into it because of her mother’s last
+    words.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Father’s apology and lotus comparison
+  summary: The father realizes the daughter mistook her own reflected face for her
+    mother’s, praises her filial piety, apologizes, and compares her purity to a lotus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Stepmother’s confession and repentance
+  summary: The stepmother enters, bows, admits jealousy and false suspicion, asks
+    forgiveness, and promises a changed heart.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Forgiveness and restored household
+  summary: The daughter forgives the stepmother, the father sees that repentance is
+    genuine, and the three live happily afterward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: mirror used to maintain bond with dead parent
+  taxonomy_refs: []
+  basis: The daughter keeps and looks into her dead mother’s mirror because she believes
+    her mother’s last words promised a meeting through it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage explains the encounter as the daughter’s own reflection, not
+    as a literal supernatural appearance.
+- id: motif:2
+  label: innocent child falsely suspected of harmful magic
+  taxonomy_refs: []
+  basis: The stepmother’s jealousy leads her to think the daughter is using magic
+    art for revenge, and the father comes to suspect the daughter before learning
+    the truth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage contains suspicion of magic, but no actual magical act by
+    the daughter.
+- id: motif:3
+  label: filial piety revealed through misunderstanding
+  taxonomy_refs: []
+  basis: The mirror misunderstanding causes the father to recognize the daughter’s
+    devotion to her dead mother and praise her filial piety.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a moral and familial motif rather than a supernatural one in this
+    passage.
+- id: motif:4
+  label: repentance of the jealous stepmother
+  taxonomy_refs: []
+  basis: The stepmother confesses that jealousy caused her wrong actions, asks forgiveness,
+    promises to change, and is forgiven.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The resolution is reconciliatory; the passage does not describe punishment
+    or expulsion of the stepmother.
+- id: motif:5
+  label: restored household harmony after confession and forgiveness
+  taxonomy_refs: []
+  basis: After the daughter forgives the stepmother and the misunderstanding is removed,
+    the three live happily together.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The motif is limited to this household episode and does not establish
+    a broader comparative lineage by itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3502-3510
+  quote_or_summary: The daughter addresses her father, denies cursing or wishing death
+    on anyone he loves, and says lies or an evil spirit may have caused the accusation.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 3511-3524
+  quote_or_summary: The father remains suspicious, asks why she is alone and what
+    she hides in her sleeve; she takes out the mirror and lays it before him.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 3525-3538
+  quote_or_summary: The father recognizes the mirror as the gift he brought her mother
+    from the capital; the daughter explains her mother’s last words and promise to
+    meet her when she looked into the glass.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 3539-3560
+  quote_or_summary: The daughter points to her reflected face; the father understands
+    that her face resembles her mother’s, says she has been looking at her own reflection
+    as if meeting her mother, praises her filial piety, and asks forgiveness.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 3561-3571
+  quote_or_summary: The father weeps over the daughter’s loneliness and compares her
+    patience and goodness to a lotus blossom rising unsullied from mud and pond water.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 3572-3601
+  quote_or_summary: The stepmother, who has been watching, enters and bows; she admits
+    jealousy, says she wrongly suspected the daughter of revenge by magic art, asks
+    forgiveness, and promises a new repentant heart.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 3602-3607
+  quote_or_summary: The daughter willingly forgives the stepmother and bears no resentment;
+    the father sees the stepmother is truly sorry and that the misunderstanding is
+    wiped away.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 3608-3611
+  quote_or_summary: From that time the three live happily together, and the daughter’s
+    patience and goodness are rewarded.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    and not tied to external taxonomy IDs except for the literal water symbol where
+    present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The supplied locator label spans multiple tale titles, but the passage itself concerns the mirror, filial daughter, father, and repentant stepmother episode. No external comparisons were asserted.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l3502-l3611
+  passage_sha256=7160fbf8248d69cefc1e35d1d7aafc22b8496967e70243d4b359a25c4004bb7a
+

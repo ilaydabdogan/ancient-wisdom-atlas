@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l5865-l5878
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: POMONA. / VERTUMNUS. / PALES. / PICUS.; lines 5865-5878
+  start: '5865'
+  end: '5878'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Picus as a prophetic woodland divinity, son of Saturn
+    and father of Faunus. It relates a myth in which Picus, married to the nymph Canens,
+    rejects Circe’s advances; Circe then transforms him into a woodpecker, in which
+    form he retains prophetic powers. Picus is iconographically represented as a youth
+    with a woodpecker on his head, and the woodpecker becomes associated with prophecy.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Picus is identified as the son of Saturn and father of Faunus.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Picus is described as a woodland divinity with prophetic powers.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A myth describes Picus as a beautiful youth united to a nymph named Canens.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Circe becomes infatuated with Picus and tries to gain his love.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Picus rejects Circe’s advances.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Circe changes Picus into a woodpecker in revenge.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Picus retains his prophetic powers after being changed into a woodpecker.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: Picus is represented as a youth with a woodpecker perched on his head.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The woodpecker is thereafter regarded as possessing prophetic power.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Picus
+  description: Son of Saturn, father of Faunus, woodland divinity, prophetic youth
+    transformed into a woodpecker.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Saturn
+  description: Named as the father of Picus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Faunus
+  description: Named as the son of Picus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Canens
+  description: A nymph united to Picus.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Circe
+  description: A sorceress infatuated with Picus who changes him into a woodpecker
+    after his rejection.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: woodland divinity
+  assigned_to:
+  - fig:1
+  basis: Picus is explicitly called a woodland divinity.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: prophetic figure
+  assigned_to:
+  - fig:1
+  basis: Picus is said to have prophetic powers and to retain them after transformation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: transformed youth
+  assigned_to:
+  - fig:1
+  basis: The myth describes Picus as a beautiful youth changed into a woodpecker.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: rejecter of unwanted advances
+  assigned_to:
+  - fig:1
+  basis: Picus rejects Circe’s attempts to secure his love.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: divine father
+  assigned_to:
+  - fig:2
+  basis: Saturn is named as Picus’s father.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: descendant
+  assigned_to:
+  - fig:3
+  basis: Faunus is named as Picus’s son.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: nymph spouse or consort
+  assigned_to:
+  - fig:4
+  basis: Canens is named as the nymph to whom Picus was united.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: sorceress
+  assigned_to:
+  - fig:5
+  basis: Circe is explicitly called a sorceress.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: agent of revenge transformation
+  assigned_to:
+  - fig:5
+  basis: After Picus rejects her, Circe changes him into a woodpecker in revenge.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: woodpecker
+  literal_form: Woodpecker; the animal form into which Picus is changed and the bird
+    shown perched on his head in representation.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: prophetic bird
+  literal_form: Woodpecker regarded as possessing prophetic power.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Picus identified as prophetic woodland divinity
+  summary: 'Picus is introduced through family relations and attributes: son of Saturn,
+    father of Faunus, woodland divinity, and possessor of prophetic powers.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Circe transforms Picus
+  summary: Picus, united to Canens, rejects Circe’s advances; Circe takes revenge
+    by changing him into a woodpecker, while he keeps his prophetic powers.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Woodpecker as prophetic sign
+  summary: Picus is represented as a youth with a woodpecker on his head, and the
+    woodpecker is regarded as prophetic.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: human transformed into bird after rejected desire
+  taxonomy_refs:
+  - shapeshifter
+  basis: Circe changes Picus into a woodpecker after he rejects her advances.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy term 'shapeshifter' is approximate, since the passage
+    describes an involuntary magical transformation rather than voluntary shape-shifting.
+- id: motif:2
+  label: prophetic power retained after metamorphosis
+  taxonomy_refs: []
+  basis: Picus retains his prophetic powers after being changed into a woodpecker.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No more specific available taxonomy reference is provided for retained
+    prophetic power after transformation.
+- id: motif:3
+  label: animal associated with prophecy
+  taxonomy_refs: []
+  basis: The woodpecker becomes regarded as possessing the power of prophecy.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives the association but does not elaborate ritual or omen
+    practices.
+- id: motif:4
+  label: rejected sorceress punishes beloved
+  taxonomy_refs: []
+  basis: Circe, described as infatuated with Picus, attempts to secure his love and
+    transforms him in revenge when rejected.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage frames the act as revenge but gives only a brief handbook-style
+    account.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5865-5868
+  quote_or_summary: Picus is described as son of Saturn, father of Faunus, a woodland
+    divinity, and gifted with prophetic powers.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 5870-5875
+  quote_or_summary: A myth says Picus was a beautiful youth united to the nymph Canens;
+    Circe desired him, he rejected her, and she changed him into a woodpecker, in
+    which form he retained prophecy.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 5877-5878
+  quote_or_summary: Picus is represented as a youth with a woodpecker on his head,
+    and the bird is thereafter regarded as prophetic.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and explicit for figures, relationships, transformation,
+    and prophetic bird association. Taxonomy mapping is limited because the available
+    motif family 'shapeshifter' only approximately matches an involuntary metamorphosis.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims added because the passage itself does not provide comparative framing beyond the local myth account.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l5865-l5878
+  passage_sha256=4156e97b63d173a0555b0e08875abedfa6e8bb99229d4a61f3207ce0442cdd50
+

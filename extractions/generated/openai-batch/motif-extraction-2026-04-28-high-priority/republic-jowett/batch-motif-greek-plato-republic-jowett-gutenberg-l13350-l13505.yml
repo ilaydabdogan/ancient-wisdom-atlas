@@ -1,0 +1,450 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l13350-l13505
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: PERSONS OF THE DIALOGUE. / BOOK I. / BOOK II. / BOOK III.; lines 13350-13505
+  start: '13350'
+  end: '13505'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Socrates argues that the best rulers and guardians of the State must be
+    selected from those who combine proper education, wisdom, efficiency, and care
+    for the State. Candidates must be watched and tested from youth through maturity
+    against forgetfulness, persuasion, force, pain, grief, pleasure, fear, and other
+    forms of deception. Those who preserve their conviction and pass trials are appointed
+    rulers and guardians, honored in life and death; those who fail are rejected.
+    A distinction is then drawn between the higher guardians/rulers and younger auxiliaries
+    who support their principles.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes a person who properly mingles music with gymnastic as
+    a true musician and harmonist in a higher sense than a string tuner.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dialogue states that a presiding genius will always be required in the
+    State if the government is to last.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speakers agree that rulers and subjects must be distinguished, that elders
+    should rule younger people, and that the best should rule.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The best guardians are described as wise, efficient, and specially careful
+    of the State.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Guardians are to be selected from those who show eagerness to do what benefits
+    their country and repugnance to doing what harms it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Candidates are to be watched at every age to see whether they keep their sense
+    of duty to the State under force or enchantment.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage classifies involuntary loss of truth as caused by theft, force,
+    or enchantment.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Persuasion and time are described as stealing away the heart or causing forgetfulness;
+    pain and grief compel change; pleasure and fear are forms of enchantment.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Candidates must perform actions in which they are likely to forget or be deceived,
+    and those who remember and are not deceived are selected while those who fail
+    are rejected.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Additional tests include toils, pains, conflicts, terrors, and pleasures.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:11
+  text: The testing of youth is compared to taking colts amid noise and tumult to
+    see whether they are timid.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The proof of candidates is compared to gold being proved in a furnace.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: A candidate who emerges victorious and pure from trials at every age is appointed
+    ruler and guardian of the State and receives honors in life and death.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:14
+  text: The fullest sense of the word guardian is applied to the higher class who
+    preserve the city from foreign enemies and maintain internal peace.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:15
+  text: The young men previously called guardians are renamed auxiliaries and supporters
+    of the rulers' principles.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Named speaker who explains the principles for selecting rulers and
+    guardians.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Unnamed interlocutor
+  description: The respondent who agrees with Socrates and asks for clarification.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Candidate guardians and rulers
+  description: Those among the guardians who are watched, tested, selected, or rejected
+    according to their care for the State and preservation of conviction.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Higher guardians
+  description: The higher class who preserve the city against foreign enemies and
+    maintain peace among citizens at home.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Auxiliaries
+  description: Young men formerly called guardians, later designated auxiliaries and
+    supporters of the rulers' principles.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Instructor in political selection
+  assigned_to:
+  - fig:1
+  basis: Socrates explains how rulers and guardians should be selected, tested, and
+    appointed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: Dialogic respondent
+  assigned_to:
+  - fig:2
+  basis: The interlocutor agrees, asks how resolutions are cast off, and confirms
+    understanding.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:3
+  label: Tested candidates
+  assigned_to:
+  - fig:3
+  basis: Candidates are watched from youth upward and tested by actions, toils, pains,
+    conflicts, terrors, and pleasures.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: Rulers and guardians
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Those who pass the trials are appointed rulers and guardians; the fullest
+    guardians preserve against enemies and maintain internal peace.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: Auxiliaries and supporters
+  assigned_to:
+  - fig:5
+  basis: Young men previously called guardians are designated auxiliaries and supporters
+    of the rulers' principles.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Music and gymnastic in proportion
+  literal_form: The mingling of music with gymnastic, attempered to the soul
+  associated_figures: []
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Theft, force, and enchantment
+  literal_form: Three named causes by which a person is involuntarily deprived of
+    truth
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Enchantment by pleasure and fear
+  literal_form: Pleasure and fear described as influences that cause a person to change
+    their mind
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: Gold proved in the furnace
+  literal_form: A comparison between testing candidates and proving gold in a furnace
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Colts amid noise and tumult
+  literal_form: A comparison to taking colts into noise and tumult to test timidity
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Education as harmony
+  summary: The passage presents the proper combination of music and gymnastic as a
+    higher harmonizing art applied to the soul and necessary for the State.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Selection of rulers
+  summary: The speakers reason that the elder and best should rule, and that the best
+    guardians are those who are wise, efficient, and caring toward the State.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Loss of truth explained
+  summary: Socrates explains how a resolution or truth may be lost through persuasion,
+    time, pain, grief, pleasure, and fear, grouped as theft, force, and enchantment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Trials of guardians
+  summary: Candidates are tested from youth by forgetfulness, deception, toils, pains,
+    conflicts, terrors, and pleasures; those who remain steadfast are selected, and
+    those who fail are rejected.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Appointment and distinction of ranks
+  summary: Those who emerge victorious and pure are appointed rulers and guardians
+    and honored in life and death; younger men are classified as auxiliaries supporting
+    the rulers' principles.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Testing and initiation of future guardians
+  taxonomy_refs:
+  - initiation
+  basis: Candidates are watched from youth through maturity and subjected to trials
+    involving forgetfulness, deception, toils, pains, conflicts, terrors, and pleasures;
+    only those who emerge victorious and pure are appointed to the higher role.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is philosophical and political rather than a narrative rite;
+    the initiation label is based on the structure of testing and elevation, not on
+    an explicit ritual initiation.
+- id: motif:2
+  label: Wisdom as qualification for rule
+  taxonomy_refs:
+  - wisdom
+  basis: The best guardians are described as wise and efficient, educated through
+    harmony of music and gymnastic, and selected for steadfast understanding of the
+    State's interest.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The motif is conceptual and ethical rather than mythic; wisdom is explicitly
+    named but embedded in political argument.
+- id: motif:3
+  label: Purification through ordeal
+  taxonomy_refs:
+  - initiation
+  basis: The candidate who passes tests at every age is said to come out of the trial
+    victorious and pure, with testing compared to gold proved in a furnace.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Purity and furnace-testing are metaphorical in the passage; no literal
+    fire ordeal is described.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13350-13363
+  quote_or_summary: A person who best mingles music with gymnastic and tempers them
+    to the soul is called a true musician and harmonist; such a presiding genius is
+    required if the State is to last.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13364-13389
+  quote_or_summary: 'The dialogue turns to who should rule and who should be subject:
+    elders over younger people, the best over others, and the best guardians as wise,
+    efficient, and specially careful of the State.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13390-13404
+  quote_or_summary: Guardians must be selected from those who eagerly do what benefits
+    their country and avoid what harms it; they are to be watched at every age so
+    they do not forget or cast off duty under force or enchantment.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13405-13436
+  quote_or_summary: 'Socrates explains involuntary deprivation of truth through theft,
+    force, or enchantment: persuasion and time steal or cause forgetting, pain and
+    grief compel change, and pleasure or fear enchant.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13437-13445
+  quote_or_summary: Candidates are watched from youth and made to perform actions
+    likely to cause forgetfulness or deception; those who remember and are not deceived
+    are selected, failures rejected, with further proof through toils, pains, and
+    conflicts.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 13446-13480
+  quote_or_summary: Candidates are tested with terrors and pleasures, like colts tested
+    amid noise and tumult and more thoroughly than gold in a furnace; whoever passes
+    at every age, victorious and pure, is appointed ruler and guardian and honored
+    in life and death, while failures are rejected.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 13481-13505
+  quote_or_summary: The fullest sense of guardian applies to the higher class who
+    protect against foreign enemies and maintain internal peace; younger men formerly
+    called guardians are more properly auxiliaries and supporters of the rulers' principles.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction relies on a supplied public-domain English passage. Motif identification
+    is cautious because the passage is philosophical argument rather than mythic narrative.
+    No comparison claims were added because the passage itself does not support a
+    specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to provided available refs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l13350-l13505
+  passage_sha256=c833bf1507acabeaad7fdfe6adf3575de11b676a47dd0ff8393e9d56cf607c74
+

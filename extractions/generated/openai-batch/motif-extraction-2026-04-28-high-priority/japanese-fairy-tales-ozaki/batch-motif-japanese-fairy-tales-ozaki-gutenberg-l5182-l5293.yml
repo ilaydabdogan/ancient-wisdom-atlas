@@ -1,0 +1,443 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l5182-l5293
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE HAPPY HUNTER AND THE SKILLFUL FISHER / THE STORY OF THE OLD MAN WHO MADE
+    WITHERED TREES TO FLOWER / THE JELLY FISH AND THE MONKEY / THE QUARREL OF THE
+    MONKEY AND THE CRAB; lines 5182-5293
+  start: '5182'
+  end: '5293'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A monkey and a crab exchange a rice-dumpling for a persimmon seed after
+    the monkey persuades the crab that the seed will become valuable. The crab plants
+    the seed, grows a persimmon tree, and later asks the monkey to climb it and pick
+    the ripe fruit. The monkey eats the ripe persimmons himself, throws hard unripe
+    fruit at the crab, kills him, flees, and the crab's son finds the body and weeps.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'A pink-faced monkey and a yellow crab play together along a river bank and
+    find different objects: the crab finds a rice-dumpling and the monkey finds a
+    persimmon seed.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The monkey is described as greedy and envious of the crab's dumpling, and
+    he proposes an exchange.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The monkey tells the crab that the seed can be sown and will become a tree
+    bearing persimmons year after year.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The crab agrees to the exchange; the monkey eats the dumpling, and the crab
+    plants the persimmon seed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The seed grows over time into a persimmon tree that blossoms and bears large
+    ripe fruit.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The crab cannot climb the tree and goes to ask the monkey for help because
+    the monkey can climb trees.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After hearing about the fruiting tree, the monkey forms a plan to get all
+    the persimmons for himself.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The monkey climbs the tree, eats the best ripe persimmons, and gives none
+    to the waiting crab.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The monkey throws hard unripe persimmons at the crab until the crab dies at
+    the foot of the tree he planted.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The monkey flees, and the crab's son later finds his father dead with broken
+    shell and unripe persimmons around the body.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: pink-faced monkey
+  description: A monkey who finds a persimmon seed, exchanges it for the crab's rice-dumpling,
+    later climbs the persimmon tree, eats the ripe fruit, kills the crab with unripe
+    fruit, and flees.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: yellow crab
+  description: A crab who finds a rice-dumpling, accepts the persimmon seed, plants
+    it, waits for the tree to bear fruit, asks the monkey for help, and is killed
+    by thrown unripe persimmons.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: crab's son
+  description: The son of the crab, who finds his father dead and weeps.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: deceptive exchanger
+  assigned_to:
+  - fig:1
+  basis: The monkey proposes and persuades the crab into exchanging the dumpling for
+    a hard seed that he himself does not want at that moment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: tree climber and fruit taker
+  assigned_to:
+  - fig:1
+  basis: The monkey is asked to climb the tree, then climbs it and eats the ripe fruit
+    without giving any to the crab.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: killer
+  assigned_to:
+  - fig:1
+  basis: The monkey throws hard unripe persimmons at the crab until the crab dies.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: deceived exchanger
+  assigned_to:
+  - fig:2
+  basis: The crab accepts the monkey's persuasion and gives up the rice-dumpling for
+    the persimmon seed.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: planter and patient watcher
+  assigned_to:
+  - fig:2
+  basis: The crab plants the seed and watches the persimmons ripen over time.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: victim
+  assigned_to:
+  - fig:2
+  basis: The crab waits below the tree, receives no ripe fruit, is struck by unripe
+    persimmons, and dies.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: bereaved discoverer
+  assigned_to:
+  - fig:3
+  basis: The crab's son finds his father dead and weeps.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: rice-dumpling
+  literal_form: A food item found by the crab and exchanged to the monkey.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: persimmon seed
+  literal_form: A hard, uneatable seed found by the monkey, exchanged to the crab,
+    and planted.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: persimmon tree
+  literal_form: A tree grown from the seed planted by the crab, later bearing ripe
+    persimmons.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: ripe persimmons
+  literal_form: Fine ripe fruit on the tree, eaten by the monkey while the crab waits
+    below.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: unripe persimmons as missiles
+  literal_form: Hard green persimmons thrown by the monkey at the crab, causing fatal
+    wounds.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: river bank
+  literal_form: The river-side setting where the monkey and crab first play and find
+    the dumpling and seed.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Finding and exchange
+  summary: The crab finds a rice-dumpling, the monkey finds a persimmon seed, and
+    the monkey persuades the crab to exchange the edible dumpling for the seed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Planting and growth
+  summary: The crab plants the persimmon seed, and over time it grows into a flowering
+    and fruit-bearing tree.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Request for climbing help
+  summary: Unable to climb the tree, the crab seeks out the monkey and asks for help
+    reaching the fruit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Monopolizing the fruit
+  summary: The monkey climbs the tree and eats the best ripe persimmons while giving
+    none to the crab below.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Killing at the tree
+  summary: When the crab complains, the monkey throws hard unripe persimmons at him
+    until he dies at the foot of the tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Discovery by the son
+  summary: The monkey flees, and the crab's son finds his father's broken body surrounded
+    by the unripe persimmons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: deceptive exchange of present food for promised future gain
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The monkey uses persuasive speech about the future value of a seed to obtain
+    the crab's immediately edible dumpling.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents trickery and exchange
+    but does not name a formal motif category.
+- id: motif:2
+  label: helper betrays the one who requested help
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The crab asks the monkey to help pick fruit, but the monkey eats the ripe
+    fruit himself and gives the crab none.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage frames the monkey's conduct as cunning and greedy; broader
+    comparative classification requires review.
+- id: motif:3
+  label: natural fruit turned into a lethal weapon
+  taxonomy_refs: []
+  basis: The monkey uses hard unripe persimmons from the crab's own tree as missiles
+    and kills the crab.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: No supplied taxonomy family directly matches this specific action.
+- id: motif:4
+  label: bereaved child discovers slain parent
+  taxonomy_refs: []
+  basis: The crab's son comes home, finds his father's damaged body, and weeps.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage excerpt ends at the discovery and does not include any subsequent
+    response or resolution.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5182-5205
+  quote_or_summary: The monkey and crab play along a river bank; the crab finds a
+    rice-dumpling, the monkey finds a hard persimmon seed, and the monkey envies the
+    dumpling and proposes an exchange.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5206-5224
+  quote_or_summary: The monkey persuades the crab that the seed can grow into a fruit-bearing
+    tree; the crab agrees to exchange, the monkey eats the dumpling, and the crab
+    plants the seed.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5225-5241
+  quote_or_summary: The seed grows into a tree, blossoms, and later bears large ripe
+    persimmons that the crab watches as they ripen.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5242-5258
+  quote_or_summary: The crab cannot climb the tree and seeks the monkey's help; when
+    the monkey hears the tree bears fruit, he devises a plan to get the persimmons
+    for himself.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5259-5269
+  quote_or_summary: The monkey climbs the tree, eats the best and ripest persimmons,
+    and gives none to the hungry crab waiting below.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5270-5284
+  quote_or_summary: After the crab complains, the monkey throws hard green persimmons
+    at him until he drops dead at the foot of the tree he planted.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5285-5293
+  quote_or_summary: The monkey flees; the crab's son finds his father's smashed head
+    and broken shell, with unripe persimmons around the body, and weeps.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative actions and figures are explicit in the supplied passage. Motif
+    labels are candidate descriptions based only on the excerpt and supplied taxonomy;
+    no cross-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied lines were used. The excerpt appears to begin within the tale 'The Quarrel of the Monkey and the Crab' and ends with the son's discovery of the crab's body.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l5182-l5293
+  passage_sha256=9f8b79373b063d51720e865126174b3de7c06a86188c5f21be48cba511541501
+

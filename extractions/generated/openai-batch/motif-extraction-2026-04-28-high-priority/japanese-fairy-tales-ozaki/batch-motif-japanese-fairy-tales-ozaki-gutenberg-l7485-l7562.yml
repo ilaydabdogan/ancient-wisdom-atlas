@@ -1,0 +1,504 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l7485-l7562
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE STORY OF PRINCE YAMATO TAKE / MOMOTARO, OR THE STORY OF THE SON OF A
+    PEACH / THE OGRE OF RASHOMON / HOW AN OLD MAN LOST HIS WEN; lines 7485-7562
+  start: '7485'
+  end: '7562'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Empress Jokwa makes a paste from five-colored stones to mend the damaged
+    sky, repairs a broken pillar of Heaven with tortoise legs, sends two wise men
+    in magical chariots to inform the Sun and Moon that the heavenly roads are safe,
+    and the Sun and Moon resume giving light to the earth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jokwa orders her subjects to collect blue, yellow, red, white, and black stones,
+    boils them with porcelain in a caldron, and makes a paste intended to mend the
+    sky.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jokwa rides clouds heavenward with a vase containing the paste and applies
+    it to the broken corner of the sky.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Jokwa repairs the broken pillar with the legs of a very large tortoise.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After Jokwa descends to earth, it remains dark, with neither sun by day nor
+    moon by night.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Two wise men say the roads of Heaven were damaged and that the Sun and Moon
+    have stayed at home because they do not know the damage has been repaired.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Jokwa gives the two ambassadors magical chariots that can travel through the
+    air, and they journey east to the country where the Sun and Moon live.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Sun and Moon explain that Mount Shu burst forth with fire and damaged
+    the roads of Heaven, making their usual journeys impossible.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The ambassadors tell the Sun and Moon that Jokwa repaired the heavenly roads
+    with stones of five colors and restored the pillar with a great tortoise’s legs.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The Sun and Moon test the roads, resume giving light to the earth, and the
+    people rejoice.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Empress Jokwa
+  description: The empress who repairs the sky, restores the heavenly pillar, consults
+    wise men, and sends ambassadors to the Sun and Moon.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Jokwa’s subjects
+  description: The subjects ordered to collect stones of five colors.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: two wise men / ambassadors
+  description: Two wise men who advise Jokwa and travel to inform the Sun and Moon
+    that the heavenly roads and pillar have been repaired.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Sun
+  description: A celestial figure who has stopped making the daily journey because
+    the roads of Heaven were damaged.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: Moon
+  description: A celestial figure who has stopped issuing forth at night because the
+    roads of Heaven were damaged.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: very large tortoise
+  description: A very large tortoise whose legs are used by Jokwa to repair the broken
+    pillar.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:7
+  name_or_label: people of the earth / China
+  description: People affected by darkness who rejoice when the Sun and Moon give
+    light again.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: cosmic repairer
+  assigned_to:
+  - fig:1
+  basis: Jokwa mends the broken sky and repairs the broken pillar of Heaven.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: ruler seeking counsel
+  assigned_to:
+  - fig:1
+  basis: Jokwa calls a meeting of wise men and approves their proposed mission.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: collectors of materials
+  assigned_to:
+  - fig:2
+  basis: They are ordered to collect stones of five colors.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: advisors and messengers
+  assigned_to:
+  - fig:3
+  basis: The two wise men advise Jokwa, then travel as ambassadors to the Sun and
+    Moon.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:5
+  label: celestial light-givers
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The Sun and Moon normally make daily and nightly journeys and later again
+    give light to the earth.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:6
+  label: source of repair material
+  assigned_to:
+  - fig:6
+  basis: The tortoise’s legs are used to mend the broken pillar.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:7
+  label: affected populace
+  assigned_to:
+  - fig:7
+  basis: The world and its people are plunged into darkness and later rejoice when
+    light returns.
+  evidence_refs:
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: stones of five colors
+  literal_form: blue, yellow, red, white, and black stones made into paste
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: mending paste and vase
+  literal_form: paste made from five-colored stones and carried in a vase
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: broken sky
+  literal_form: a broken corner of the sky
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: broken pillar of Heaven
+  literal_form: a damaged heavenly pillar restored with tortoise legs
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:5
+  label: clouds as transport
+  literal_form: clouds summoned and ridden heavenward and earthward
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: roads of Heaven
+  literal_form: heavenly roads used by the Sun and Moon for their journeys
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:7
+  label: magical aerial chariots
+  literal_form: chariots that whirl through the air by magic power
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: Mount Shu fire
+  literal_form: Mount Shu bursting forth with fire
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: return of light
+  literal_form: the Sun and Moon again giving light to the earth
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Making the sky-mending paste
+  summary: Jokwa has five-colored stones collected and makes them into a paste with
+    which she can mend the sky.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Repair of sky and pillar
+  summary: Jokwa rides clouds to the damaged sky, mends it with the paste, and repairs
+    the broken pillar with tortoise legs, but darkness remains on earth.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Counsel and embassy
+  summary: Wise men explain that the Sun and Moon remain absent because they do not
+    know the heavenly roads are repaired, and Jokwa sends them east in magical chariots.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Interview with the Sun and Moon
+  summary: The ambassadors ask why the Sun and Moon have withdrawn; the Sun and Moon
+    cite the fire of Mount Shu and damaged heavenly roads, and the ambassadors report
+    Jokwa’s repairs.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Restoration of light and order
+  summary: The Sun and Moon test the roads, resume giving light, and the people rejoice
+    as peace and prosperity follow under Jokwa’s reign.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:9
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: repair of damaged sky and heavenly support
+  taxonomy_refs: []
+  basis: Jokwa mends a broken corner of the sky and restores a broken pillar of Heaven.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: No specific available taxonomy reference directly names sky repair or
+    heavenly pillar repair.
+- id: motif:2
+  label: ascent to heaven to perform repair
+  taxonomy_refs:
+  - ascent
+  basis: Jokwa mounts clouds and rides heavenward to reach and mend the broken sky.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The ascent is functional rather than a long quest narrative.
+- id: motif:3
+  label: withdrawal and return of celestial lights
+  taxonomy_refs: []
+  basis: The Sun and Moon stop their daily and nightly journeys after the heavenly
+    roads are damaged, then resume giving light after the repairs are confirmed.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage frames the withdrawal as practical caution rather than punishment
+    or concealment.
+- id: motif:4
+  label: ruler restores cosmic order
+  taxonomy_refs:
+  - culture_hero
+  basis: Jokwa repairs cosmic damage, restores the conditions for sunlight and moonlight,
+    and peace and prosperity follow under her reign.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage identifies Jokwa as an empress and repairer, but does not
+    explicitly use the term culture hero.
+- id: motif:5
+  label: fire from mountain disrupts the cosmos
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: The Sun and Moon say Mount Shu burst forth with fire and greatly damaged
+    the roads of Heaven, causing darkness on earth.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The fire causes cosmic disruption and darkness, but the passage does not
+    describe total world destruction.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7485-7492
+  quote_or_summary: Jokwa has subjects collect five-colored stones, boils them with
+    porcelain in a caldron, and produces a paste for mending the sky.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7493-7503
+  quote_or_summary: Jokwa summons clouds, rides heavenward with the vase of paste,
+    mends the broken sky, repairs the broken pillar with legs of a very large tortoise,
+    descends, and finds the world still dark.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7504-7518
+  quote_or_summary: Jokwa consults wise men; two say the roads of Heaven were damaged
+    and that the Sun and Moon stayed home because they do not know the roads are repaired.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7519-7528
+  quote_or_summary: Jokwa approves the mission and gives the two ambassadors magical
+    chariots that travel through the air; they journey far east to where the Sun and
+    Moon live.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7529-7541
+  quote_or_summary: The ambassadors ask why the Sun and Moon secluded themselves;
+    the Sun and Moon answer that Mount Shu burst forth with fire and damaged the roads
+    of Heaven, preventing their usual journeys.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 7542-7555
+  quote_or_summary: The ambassadors report that Empress Jokwa repaired the roads with
+    stones of five colors and restored the broken pillar with the legs of a great
+    tortoise.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 7556-7562
+  quote_or_summary: The Sun and Moon test the roads, find the report true, give light
+    to the earth again, and the people rejoice as peace and prosperity follow in China
+    under Jokwa.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based only on the supplied passage. Motif labels are
+    candidate analytical groupings and require human review, especially where available
+    taxonomy terms only partially fit the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a comparison to another text, tradition, or named motif family beyond candidate motif classification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l7485-l7562
+  passage_sha256=76f5d61b29beffbb14769d368ad92bd0b948ae51b4bfc137c652fef266150aa0
+

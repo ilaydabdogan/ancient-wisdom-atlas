@@ -1,0 +1,569 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l151-l260
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: COMPILED BY / PREFACE / JAPANESE FAIRY TALES / MY LORD BAG OF RICE; lines
+    151-260
+  start: '151'
+  end: '260'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Tawara Toda, also called Fujiwara Hidesato, as a
+    brave warrior who sets out seeking adventure. At the bridge of Seta-no-Karashi
+    by Lake Biwa he encounters a huge serpent-dragon blocking the way. He walks over
+    it without fleeing. The creature disappears and is replaced by a ceremonious man
+    who identifies himself as the Dragon King of the Lake. The Dragon King explains
+    that a monster centipede from Mount Mikami has been carrying off his family and
+    asks Hidesato to kill it. Hidesato agrees and is taken beneath the lake to the
+    Dragon King’s palace, where the waters part and fish attendants serve a feast.
+    At midnight the palace shakes, and two fiery eyes on the mountain announce the
+    centipede’s approach.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Tawara Toda, whose true name is Fujiwara Hidesato, is introduced as a brave
+    warrior in Japan.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hidesato sets out in search of adventures carrying two swords, a huge bow,
+    and a quiver.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At the bridge of Seta-no-Karashi by Lake Biwa, a huge serpent-dragon lies
+    across Hidesato’s path, with fire and smoke coming from its nostrils.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hidesato feels alarmed but walks over and between the dragon’s coils without
+    looking back.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After Hidesato passes, the dragon disappears and a strange-looking man appears,
+    bowing ceremoniously.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The strange man has red hair, a crown shaped like a dragon’s head, and a sea-green
+    shell-patterned dress.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The man identifies himself as the Dragon King of the Lake and says his home
+    is in the waters under the bridge.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Dragon King asks Hidesato to kill his mortal enemy, a centipede living
+    on the mountain beyond the lake.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Dragon King says the centipede has been coming night after night and carrying
+    off members of his family.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Dragon King says he waited on the bridge in serpent-dragon shape to find
+    a brave human helper.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Hidesato agrees to help and follows the Dragon King downward beneath the bridge;
+    the waters part and his clothes remain dry.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The Dragon King’s palace is built of white marble beneath Lake Biwa and is
+    served by goldfish, carp, and trout.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: At the feast, lotus leaves and flowers serve as dishes, ebony chopsticks are
+    used, and goldfish dancers and red-carp musicians perform.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:14
+  text: At midnight the palace shakes, and Hidesato sees two glowing balls of fire
+    on the mountain; the Dragon King identifies them as the centipede’s eyes.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Tawara Toda / Fujiwara Hidesato
+  description: A brave warrior in Japan who sets out armed for adventure and agrees
+    to help the Dragon King.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: Dragon King of the Lake
+  description: A being who first appears as a serpent-dragon, then as a strange man
+    with dragon-themed regalia, and identifies himself as ruler of the lake beneath
+    the bridge.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Monster centipede
+  description: The Dragon King’s mortal enemy, living on Mount Mikami and approaching
+    with fiery eyes to seize prey.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:10
+- id: fig:4
+  name_or_label: Dragon King’s family
+  description: Children and grandchildren of the Dragon King who are being carried
+    off by the centipede.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Aquatic palace attendants
+  description: Goldfish, red carp, trout, goldfish dancers, and red-carp musicians
+    who serve or perform in the lake palace.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+  - ev:9
+roles:
+- id: role:1
+  label: brave warrior
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls Hidesato a brave warrior and shows him walking
+    over the serpent-dragon without fleeing.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: human helper against monster
+  assigned_to:
+  - fig:1
+  basis: Hidesato agrees to help the Dragon King by confronting the centipede.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: lake ruler
+  assigned_to:
+  - fig:2
+  basis: The man identifies himself as the Dragon King of the Lake and says his home
+    is under the bridge.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: shapeshifter
+  assigned_to:
+  - fig:2
+  basis: The Dragon King says he waited in the shape of the serpent-dragon, and the
+    passage shows the dragon disappearing before the man appears.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: suppliant seeking aid
+  assigned_to:
+  - fig:2
+  basis: The Dragon King asks Hidesato to kill the centipede because he cannot protect
+    his family.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: predatory enemy
+  assigned_to:
+  - fig:3
+  basis: The centipede is described as the Dragon King’s mortal enemy and as carrying
+    off members of his family.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:10
+- id: role:7
+  label: threatened family victims
+  assigned_to:
+  - fig:4
+  basis: The Dragon King says his children and grandchildren are being taken by the
+    centipede.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: palace servants and entertainers
+  assigned_to:
+  - fig:5
+  basis: Fish wait upon the Dragon King and Hidesato; goldfish dancers and red-carp
+    musicians perform at the feast.
+  evidence_refs:
+  - ev:7
+  - ev:9
+symbols:
+- id: sym:1
+  label: serpent-dragon
+  literal_form: A huge serpent-dragon lying across the bridge, breathing fire and
+    smoke.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: bridge over Lake Biwa
+  literal_form: The bridge of Seta-no-Karashi spanning one end of Lake Biwa.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: lake waters
+  literal_form: The waters under the bridge and of Lake Biwa, which part to let Hidesato
+    and the Dragon King pass downward.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: Mount Mikami
+  literal_form: The mountain where the centipede lives and from which its fiery eyes
+    approach.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+  - ev:10
+- id: sym:5
+  label: fire and fiery eyes
+  literal_form: Fire and smoke from the serpent-dragon’s nostrils, and two glowing
+    balls of fire identified as the centipede’s eyes.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:10
+- id: sym:6
+  label: underwater palace
+  literal_form: A white marble palace beneath Lake Biwa with aquatic attendants, feast
+    vessels, dancers, and musicians.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: sym:7
+  label: warrior weapons
+  literal_form: Two swords, a huge bow, and a quiver carried by Hidesato.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Warrior departure
+  summary: Hidesato arms himself and sets out in search of adventure.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Encounter on the bridge
+  summary: Hidesato finds a serpent-dragon blocking the bridge over Lake Biwa and
+    walks over it despite fear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Dragon King reveals himself
+  summary: The serpent-dragon is replaced by a strange man, who identifies himself
+    as the Dragon King and asks Hidesato to kill the centipede threatening his family.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Descent to the lake palace
+  summary: Hidesato agrees to help and follows the Dragon King beneath the lake as
+    the waters part and reveal a white marble palace.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Feast before the attack
+  summary: Hidesato is feasted in the palace with elaborate vessels, dancers, and
+    musicians until midnight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:9
+- id: scene:6
+  label: Centipede approaches
+  summary: The palace shakes, and fiery eyes on the mountain signal the centipede’s
+    arrival for prey.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: armed hero departs seeking adventure
+  taxonomy_refs:
+  - departure
+  basis: Hidesato deliberately arms himself and goes out in search of adventures.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives the departure but not yet the full outcome of the adventure.
+- id: motif:2
+  label: fear test by monstrous being
+  taxonomy_refs:
+  - initiation
+  basis: The Dragon King waits in serpent-dragon shape to find a brave man; Hidesato
+    proves fearless by walking over the dragon instead of fleeing.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly call this an initiation; it functions
+    as a courage test within the narrative.
+- id: motif:3
+  label: shapeshifting dragon ruler
+  taxonomy_refs:
+  - shapeshifter
+  - serpent
+  basis: The Dragon King appears first as a huge serpent-dragon and then as a man,
+    and he states that he took that shape while waiting on the bridge.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The exact mechanics of the transformation are not explained.
+- id: motif:4
+  label: human warrior aids supernatural ruler against monster
+  taxonomy_refs:
+  - mystical_quest
+  basis: The Dragon King asks a human warrior to kill the centipede that threatens
+    his family, and Hidesato agrees to help.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The killing of the centipede occurs after the selected passage and is
+    not included here.
+- id: motif:5
+  label: descent to underwater palace
+  taxonomy_refs:
+  - hero_descent
+  basis: Hidesato follows the Dragon King downward beneath the lake to an underwater
+    palace while the waters part around them.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The descent is aquatic rather than explicitly underworld or afterlife-related.
+- id: motif:6
+  label: monster predator with fiery signs approaches at night
+  taxonomy_refs: []
+  basis: At midnight the centipede approaches from the mountain, its eyes appearing
+    as two glowing balls of fire while the palace shakes.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: No available taxonomy reference exactly names this pattern.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents the Lake Biwa palace as comparable to the Sea
+    King’s palace at the bottom of the sea, especially through the underwater setting
+    and fish retainers.
+  claim_level: visual_similarity
+  target: Sea King’s palace at the bottom of the sea mentioned within the passage
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is internal to this retelling; the passage does not
+    identify a specific external text or tradition for the Sea King’s palace.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 151-260, opening of 'My Lord Bag of Rice'
+  quote_or_summary: Hidesato, also called Tawara Toda, is introduced as a brave warrior
+    who arms himself with swords, bow, and quiver and sets out seeking adventure.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 151-260, bridge encounter
+  quote_or_summary: At the bridge of Seta-no-Karashi by Lake Biwa, a huge serpent-dragon
+    lies across the path, filling the bridge and breathing fire and smoke.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 151-260, Hidesato crosses the dragon
+  quote_or_summary: Hidesato is alarmed but chooses not to turn back; he walks over
+    the dragon’s body and between its coils without looking backward.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 151-260, transformation after crossing
+  quote_or_summary: After Hidesato passes, a voice calls him; the dragon is gone and
+    a strange man appears, bowing, with red hair, a dragon-head crown, and sea-green
+    shell-patterned clothing.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 151-260, Dragon King identifies himself
+  quote_or_summary: The man says he is the Dragon King of the Lake, living in the
+    waters under the bridge, and asks Hidesato to kill his mortal enemy, the centipede
+    on the mountain beyond.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 151-260, Dragon King explains danger
+  quote_or_summary: The Dragon King says the centipede has found his home and carries
+    off his family night after night; he waited in serpent-dragon shape for a brave
+    human, and Hidesato is the first not to flee.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 151-260, descent to palace
+  quote_or_summary: Hidesato agrees to help and is conducted under the bridge to the
+    Dragon King’s palace; the waters part, his clothes remain dry, and he sees a white
+    marble palace beneath Lake Biwa served by fish.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 151-260, palace comparison
+  quote_or_summary: The narration says Hidesato had heard of the Sea King’s palace
+    at the bottom of the sea with salt-water fish servants, and now sees a magnificent
+    palace in Lake Biwa.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 151-260, feast in lake palace
+  quote_or_summary: A feast is served with crystallized lotus dishes and ebony chopsticks;
+    goldfish dancers and red-carp musicians perform with koto and samisen until midnight.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 151-260, centipede approaches
+  quote_or_summary: At midnight the palace shakes as if from marching; Hidesato sees
+    two glowing balls of fire on the opposite mountain, and the Dragon King says they
+    are the centipede’s eyes as it comes for prey.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear for literal extraction. Motif labeling is cautious where
+    taxonomy categories are broader than the specific scene. The comparison claim
+    is based only on an explicit internal comparison in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No external comparisons or taxonomy identifiers beyond the supplied lists were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l151-l260
+  passage_sha256=cb44688ac5a32e12b6934026ddc8cbd00656ea04ea091536db2d05a2861e54ca
+

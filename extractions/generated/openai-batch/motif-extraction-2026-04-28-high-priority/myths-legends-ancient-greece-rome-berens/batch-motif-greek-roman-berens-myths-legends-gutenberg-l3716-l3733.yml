@@ -1,0 +1,355 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l3716-l3733
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: THE SIRENS. / ARES (MARS). / MARS. / NIKE (VICTORIA).; lines 3716-3733
+  start: '3716'
+  end: '3733'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage identifies Nike/Victoria as the goddess of victory, gives her
+    parentage as Pallas and Styx, describes her common sculptural attributes and associations
+    with Zeus or Pallas-Athene, and notes a preserved temple to her on the Acropolis
+    at Athens.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Nike, also named Victoria, is identified as the goddess of victory.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nike is described as the daughter of the Titan Pallas and Styx, the nymph
+    of the river of that name in the lower world.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Statues of Nike resemble Athene but are recognizable by large graceful wings
+    and flowing drapery fastened on the right shoulder.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Nike holds a laurel crown in her left hand and a palm-branch in her right
+    hand.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In ancient sculpture Nike is usually represented with colossal statues of
+    Zeus or Pallas-Athene, standing life-sized on a ball held in the deity's open
+    palm.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Nike is sometimes represented inscribing the victory of a conqueror on his
+    shield, with her right foot raised and placed on a ball.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A temple to Nike was erected on the Acropolis at Athens and is described as
+    still visible and well preserved.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Nike (Victoria)
+  description: Goddess of victory, daughter of Pallas and Styx; represented with wings,
+    flowing drapery, a laurel crown, and a palm-branch.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Pallas
+  description: Titan named as the father of Nike.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Styx
+  description: Presiding nymph of the lower-world river Styx, named as the mother
+    of Nike.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Zeus
+  description: Deity whose colossal statue may be accompanied by a life-sized Nike
+    standing on a ball held in his open palm.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Pallas-Athene
+  description: Deity whose colossal statue may be accompanied by a life-sized Nike
+    standing on a ball held in her open palm.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Conqueror
+  description: Unnamed conqueror whose victory Nike may be shown inscribing on his
+    shield.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: goddess of victory
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly identifies Nike as the goddess of victory.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine child
+  assigned_to:
+  - fig:1
+  basis: Nike is described as the daughter of Pallas and Styx.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: father of Nike
+  assigned_to:
+  - fig:2
+  basis: Pallas is named as Nike's father.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: mother of Nike
+  assigned_to:
+  - fig:3
+  basis: Styx is named as Nike's mother.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: accompanied deity in sculpture
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Nike is represented in connection with colossal statues of Zeus or Pallas-Athene.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: recipient of inscribed victory
+  assigned_to:
+  - fig:6
+  basis: Nike is sometimes represented inscribing a conqueror's victory on his shield.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: wings
+  literal_form: large, graceful wings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: laurel crown
+  literal_form: crown of laurel held aloft in Nike's left hand
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: palm-branch
+  literal_form: palm-branch held in Nike's right hand
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: ball
+  literal_form: ball on which Nike stands, held in the open palm of Zeus or Pallas-Athene,
+    or under Nike's raised right foot
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: shield with inscribed victory
+  literal_form: shield on which Nike inscribes the victory of a conqueror
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: temple on the Acropolis
+  literal_form: temple to Nike on the Acropolis at Athens
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Nike's identity and parentage
+  summary: Nike/Victoria is introduced as the goddess of victory and the daughter
+    of Pallas and Styx.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sculptural image of Nike
+  summary: Nike is described in statuary with wings, flowing drapery, a laurel crown,
+    and a palm-branch.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Nike accompanying Zeus or Pallas-Athene
+  summary: Nike is represented with colossal statues of Zeus or Pallas-Athene, standing
+    on a ball in the deity's open palm.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Nike inscribing a conqueror's victory
+  summary: Nike is sometimes shown writing the victory of a conqueror on his shield
+    while placing her raised right foot on a ball.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Temple of Nike on the Acropolis
+  summary: A temple to Nike on the Acropolis at Athens is noted as still visible and
+    well preserved.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: personified victory as winged goddess
+  taxonomy_refs: []
+  basis: Nike is directly identified as the goddess of victory and described with
+    wings and victory-associated objects in statuary.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is a handbook description of iconography rather than a narrative
+    myth episode.
+- id: motif:2
+  label: victory recorded on a warrior's shield
+  taxonomy_refs: []
+  basis: Nike is represented inscribing the victory of a conqueror on his shield.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage reports an iconographic type, not a specific narrative event.
+- id: motif:3
+  label: divine parent-child lineage
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Nike is described as the daughter of Pallas and Styx.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage states genealogy only; it does not develop a parent-child
+    story.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3716-3719
+  quote_or_summary: Nike/Victoria is identified as the goddess of victory and daughter
+    of the Titan Pallas and Styx, nymph of the lower-world river.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 3721-3726
+  quote_or_summary: Nike's statues resemble Athene; she has large wings, flowing drapery
+    fastened on the right shoulder, a laurel crown in the left hand, and a palm-branch
+    in the right.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 3726-3729
+  quote_or_summary: Ancient sculpture usually represents Nike with colossal statues
+    of Zeus or Pallas-Athene, life-sized and standing on a ball in the deity's open
+    palm.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 3729-3731
+  quote_or_summary: Nike is sometimes represented inscribing a conqueror's victory
+    on his shield, with her right foot raised and placed on a ball.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 3732-3733
+  quote_or_summary: A temple to Nike on the Acropolis at Athens is described as still
+    visible and well preserved.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is primarily descriptive iconography and cult-site notice, so
+    motif extraction is limited and non-narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no comparison claims added because the passage does not itself support comparative claims.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l3716-l3733
+  passage_sha256=a3f8ae341b6a88d678b58002cde85373b008d019143f1a0b2e6b928db656c961
+

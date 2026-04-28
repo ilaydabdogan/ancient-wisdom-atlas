@@ -1,0 +1,737 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l1413-l1523
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: MY LORD BAG OF RICE / THE TONGUE-CUT SPARROW / THE STORY OF URASHIMA TARO,
+    THE FISHER LAD / THE FARMER AND THE BADGER; lines 1413-1523
+  start: '1413'
+  end: '1523'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The rabbit kills the badger by giving him a clay boat that dissolves in
+    the water, declaring the act vengeance for the old woman’s murder. The old farmer
+    thanks the rabbit, who thereafter lives with him. A new tale begins by describing
+    the south-pointing carriage, or shinansha, invented by the mythological Chinese
+    emperor Kotei. Kotei’s birth is preceded by his mother’s vision of lightning from
+    the North Star. Kotei later fights the rebel magician Shiyu, whose fog confuses
+    armies. Kotei invents the shinansha to navigate through fog and pursues Shiyu
+    until a flooded river blocks him; Shiyu crosses by magic, while Kotei later watches
+    a spider float across a pond on a leaf.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The rabbit kept a wooden boat for himself and gave the badger a clay boat
+    before they went fishing.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the boats were some distance from shore, the rabbit proposed a rowing
+    race.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The badger’s clay boat softened in the water and began to break apart.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The badger cried to the rabbit for help, but the rabbit said he was avenging
+    the old woman’s murder.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The rabbit struck at the badger with an oar until the badger sank with the
+    clay boat and disappeared.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: The old farmer thanked the rabbit and said he would again be able to sleep
+    and eat as before.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The old farmer asked the rabbit to live with him, and they remained friends.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The shinansha is described as a chariot with a figure of a man that always
+    points south.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Kotei’s mother had a vision foretelling that her son would be a great man.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Before Kotei’s birth, his mother saw the North Star shoot vivid flashes of
+    lightning in every direction.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: Shiyu is described as a rebel, a wicked magician, and as having a head made
+    of iron.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Shiyu brought a dense fog over the battlefield, causing Kotei’s army to wander
+    in confusion while Shiyu retreated.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: Kotei invented the shinansha so that dense fog would not prevent him from
+    finding the way.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: In the second battle, Kotei used the shinansha to direct his army despite
+    Shiyu’s fog.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:15
+  text: A flooded river stopped Kotei’s pursuit, while Shiyu crossed it by magic and
+    entered a fortress on the opposite bank.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:16
+  text: Kotei sat by a pond and watched a spider climb onto a floating leaf and cross
+    the water.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: rabbit
+  description: The animal who gives the badger a clay boat, declares vengeance for
+    the old woman’s murder, kills the badger, and later lives with the old farmer.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: badger
+  description: The animal who receives the clay boat, asks for help when it breaks
+    apart, and sinks after the rabbit strikes him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: old farmer
+  description: The widower whose wife’s death is avenged; he thanks the rabbit and
+    invites him to share his home.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: old woman
+  description: The murdered wife whose death the rabbit says he is avenging.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Kotei
+  description: A mythological Chinese emperor, son of Emperor Yuhi, whose birth is
+    preceded by a portent and who invents the shinansha to counter Shiyu’s fog.
+  role_refs:
+  - role:6
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Kotei’s mother
+  description: The mother who has a vision foretelling Kotei’s greatness and sees
+    the North Star emit lightning before his birth.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Emperor Yuhi
+  description: Kotei’s father and predecessor as emperor.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: Shiyu
+  description: A rebel and wicked magician with an iron head who uses fog and magic
+    against Kotei.
+  role_refs:
+  - role:11
+  - role:12
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:9
+  name_or_label: royal army
+  description: Kotei’s soldiers, first confused by magical fog and later guided by
+    the shinansha.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:10
+  name_or_label: spider
+  description: A small creature that climbs onto a floating leaf and moves across
+    the pond.
+  role_refs:
+  - role:14
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: avenger
+  assigned_to:
+  - fig:1
+  basis: The rabbit states that he is avenging the old woman’s murder and kills the
+    badger.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: benefactor-companion
+  assigned_to:
+  - fig:1
+  basis: After killing the badger, the rabbit lives with the old farmer as a friend.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: deceived victim
+  assigned_to:
+  - fig:2
+  basis: The badger accepts the clay boat, does not understand boats, and drowns when
+    it dissolves.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: bereaved beneficiary
+  assigned_to:
+  - fig:3
+  basis: The farmer’s wife has been killed, and he receives relief after the badger’s
+    death.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: murdered woman
+  assigned_to:
+  - fig:4
+  basis: The rabbit names her murder as the reason for vengeance.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: emperor
+  assigned_to:
+  - fig:5
+  basis: Kotei succeeds Emperor Yuhi and leads the royal army.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:7
+  label: inventor
+  assigned_to:
+  - fig:5
+  basis: Kotei invents the shinansha to find his way through fog.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: opponent of magician-rebel
+  assigned_to:
+  - fig:5
+  basis: Kotei wars against Shiyu and pursues his army.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:9
+  label: visionary mother
+  assigned_to:
+  - fig:6
+  basis: Kotei’s mother has a vision and sees the North Star emit lightning before
+    his birth.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: imperial father
+  assigned_to:
+  - fig:7
+  basis: Yuhi is named as Kotei’s father and predecessor.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:11
+  label: rebel
+  assigned_to:
+  - fig:8
+  basis: Shiyu wants to make himself king and fights against Kotei.
+  evidence_refs:
+  - ev:5
+- id: role:12
+  label: magician-antagonist
+  assigned_to:
+  - fig:8
+  basis: Shiyu is called a wicked magician and uses fog and magic to escape.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:13
+  label: confused-and-guided army
+  assigned_to:
+  - fig:9
+  basis: The army is first confused by fog and later guided by Kotei using the shinansha.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:14
+  label: observed natural example
+  assigned_to:
+  - fig:10
+  basis: Kotei watches the spider use a leaf to float across the pond.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: wooden boat
+  literal_form: wooden boat kept by the rabbit
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: clay boat
+  literal_form: clay boat given to the badger, softened by water, and sunk
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: oar
+  literal_form: oar raised and used by the rabbit to strike the badger
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: shinansha
+  literal_form: south-pointing carriage with a man-shaped figure always pointing south
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: south-pointing figure
+  literal_form: figure of a man mounted on the chariot and always pointing south
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: North Star lightning
+  literal_form: vivid flashes of lightning from the North Star seen before Kotei’s
+    birth
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: iron head
+  literal_form: Shiyu’s head made of iron
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: magical fog
+  literal_form: dense fog brought down on the battlefield by Shiyu
+  associated_figures:
+  - fig:8
+  - fig:5
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:9
+  label: flooded river barrier
+  literal_form: big river swollen by floods and impossible for Kotei’s army to cross
+  associated_figures:
+  - fig:5
+  - fig:8
+  - fig:9
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:10
+  label: fortress across the river
+  literal_form: fortress on the opposite bank where Shiyu shuts himself up
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:11
+  label: pond
+  literal_form: pond where Kotei sits and thinks
+  associated_figures:
+  - fig:5
+  - fig:10
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+- id: sym:12
+  label: floating leaf
+  literal_form: leaf floating on the pond that carries a spider across the water
+  associated_figures:
+  - fig:10
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: rabbit’s boat-trap vengeance
+  summary: The rabbit gives the badger a clay boat, challenges him to row, refuses
+    help when the clay dissolves, announces vengeance, and kills him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: old farmer’s relief and new companionship
+  summary: The rabbit tells the old farmer of the badger’s death; the farmer thanks
+    him and invites him to live as a friend.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: description of the south-pointing carriage
+  summary: The shinansha is introduced as a chariot whose mounted human figure always
+    points south.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Kotei’s birth portent
+  summary: Kotei’s mother receives a vision of her son’s future greatness and later
+    sees lightning from the North Star before Kotei’s birth.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Shiyu’s fog defeats the first campaign
+  summary: Kotei attacks Shiyu, but Shiyu brings down dense fog, causing the royal
+    army to lose its way while he retreats.
+  figure_refs:
+  - fig:5
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: invention and use of the shinansha
+  summary: Kotei invents the shinansha to navigate fog and then uses it to guide his
+    army during Shiyu’s second fog attack.
+  figure_refs:
+  - fig:5
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:7
+  label: river barrier and magical crossing
+  summary: Kotei’s pursuit is stopped by a flooded river, while Shiyu crosses by magic
+    and retreats into a fortress.
+  figure_refs:
+  - fig:5
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:8
+- id: scene:8
+  label: spider on floating leaf
+  summary: Blocked by the river and without boats, Kotei thinks by a pond and observes
+    a spider cross the water on a floating leaf.
+  figure_refs:
+  - fig:5
+  - fig:10
+  symbol_refs:
+  - sym:11
+  - sym:12
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: animal helper avenges murder through deception
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The rabbit deceives the badger with a clay boat and kills him as vengeance
+    for the old woman’s murder.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents the rabbit’s trick as revenge rather than general
+    comic trickster behavior.
+- id: motif:2
+  label: fatal flawed vessel
+  taxonomy_refs: []
+  basis: The badger’s boat is made of clay and dissolves in water, causing him to
+    sink.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No broader taxonomy reference is explicitly supplied for this specific
+    vessel motif.
+- id: motif:3
+  label: restoration after vengeance
+  taxonomy_refs:
+  - return
+  basis: After the badger’s death is reported, the old farmer says he can sleep and
+    eat as before, and the rabbit joins his household.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not describe a physical journey-return; the taxonomy
+    link is functional and should be reviewed.
+- id: motif:4
+  label: great ruler’s birth preceded by celestial portent
+  taxonomy_refs:
+  - miraculous_child
+  - sacred_birth
+  basis: Kotei’s mother has a vision foretelling his greatness and sees lightning
+    from the North Star shortly before his birth.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives a portent and prophecy but does not describe a nonhuman
+    conception or divine parentage.
+- id: motif:5
+  label: culture hero ruler invents guiding technology
+  taxonomy_refs:
+  - culture_hero
+  - wisdom
+  basis: Kotei invents the shinansha, a south-pointing carriage, to overcome the magician’s
+    fog and guide his army.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: Kotei is named as an emperor and inventor; the culture-hero label should
+    be reviewed in relation to the wider tale.
+- id: motif:6
+  label: magical fog overcome by directional guide
+  taxonomy_refs:
+  - wisdom
+  basis: Shiyu’s fog confuses the army in the first battle, but Kotei’s shinansha
+    prevents confusion in the second.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage frames the solution as an invention rather than an explicitly
+    sacred or divine aid.
+- id: motif:7
+  label: water barrier halts pursuit while magician escapes
+  taxonomy_refs: []
+  basis: A flooded river stops Kotei’s army, while Shiyu crosses by magic and takes
+    refuge in a fortress.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: No supplied taxonomy reference exactly matches this pursuit-and-river-barrier
+    episode.
+- id: motif:8
+  label: natural observation of a small creature crossing water
+  taxonomy_refs:
+  - water
+  basis: Kotei observes a spider climb onto a floating leaf and cross a pond.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: Within the supplied passage, the observation is not yet explicitly connected
+    to an invention or later action.
+- id: motif:9
+  label: metal-headed magical antagonist
+  taxonomy_refs: []
+  basis: Shiyu is described as a wicked magician whose head is made of iron and whom
+    no man can conquer.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives the attribute but does not yet explain how it functions
+    in the plot.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage explicitly sets the shinansha beside the compass as a directional
+    instrument: the compass needle points north, while the shinansha’s figure points
+    south.'
+  claim_level: same_function
+  target: compass as directional guide
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage compares practical function only; it does not claim historical
+    derivation between compass and shinansha.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1413-1428
+  quote_or_summary: The rabbit keeps the wooden boat, gives the badger the clay boat,
+    proposes a rowing race, refuses help when the clay dissolves, says he is avenging
+    the old woman’s murder, strikes the badger, and the badger sinks.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: 1430-1443
+  quote_or_summary: The rabbit tells the old farmer that the badger has been killed;
+    the farmer thanks him, says he can again sleep and eat, and invites the rabbit
+    to share his home as a friend.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: 1445-1455
+  quote_or_summary: The passage contrasts the north-pointing compass with the shinansha,
+    a chariot bearing a man-shaped figure that always points south.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: 1457-1467
+  quote_or_summary: Kotei is introduced as a mythological Chinese emperor, son of
+    Yuhi; before his birth his mother has a vision of his future greatness and sees
+    lightning flash from the North Star.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: 1469-1476
+  quote_or_summary: Kotei succeeds Yuhi; the rebel Shiyu seeks kingship, is called
+    a wicked magician, has an iron head, and is said to be unconquerable by any man.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: 1478-1486
+  quote_or_summary: At Takuroku, Shiyu brings dense fog over the battlefield, confusing
+    the royal army and escaping with his troops.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:7
+  type: summary
+  locator: 1488-1496
+  quote_or_summary: Kotei returns to his palace, thinks about how to defeat Shiyu,
+    and invents the shinansha so the magician’s fog cannot make his army lose the
+    way.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:8
+  type: summary
+  locator: 1498-1509
+  quote_or_summary: Kotei places the shinansha before his army; when Shiyu again creates
+    fog, Kotei uses it to guide the troops, pursues Shiyu to a flooded river, and
+    Shiyu crosses by magic to a fortress.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:9
+  type: summary
+  locator: 1511-1523
+  quote_or_summary: With no boats available, Kotei camps, sits beside a pond, watches
+    autumn leaves float, and sees a spider get onto a leaf and float across the water.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited to the supplied line range. Several motif labels, especially
+    taxonomy assignments for vengeance, return, and sacred birth, require human review
+    because the passage gives literal events but not all interpretive categories explicitly.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and supplied taxonomy references were used. The passage spans the ending of one tale and the beginning of another; scenes and motifs are separated accordingly.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l1413-l1523
+  passage_sha256=5aaea07547fee9732538f3fd8a967e7eee88460de87ae7a6e8b3cf9fab2abf94
+

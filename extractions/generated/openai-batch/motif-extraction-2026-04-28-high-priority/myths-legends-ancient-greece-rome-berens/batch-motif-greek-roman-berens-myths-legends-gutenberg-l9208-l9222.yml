@@ -1,0 +1,363 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l9208-l9222
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: THE SEVEN AGAINST THEBES. / THE EPIGONI. / ALCMAEON AND THE NECKLACE. / THE
+    HERACLIDAE.; lines 9208-9222
+  start: '9208'
+  end: '9222'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After an oracle is consulted again, it directs that Hippolytes be banished
+    for ten years and that command be given to a man with three eyes. The Heraclidae
+    find Oxylus, obey the oracle, equip an army and fleet, and appoint him commander.
+    They then gain the Peloponnesus, divide it by lot among Temenus, Aristodemus,
+    and Cresphontes, and grant Elis to Oxylus in gratitude for his service.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The oracle advises that Hippolytes, identified as the offender, be banished
+    from the country for ten years.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The oracle advises that command of the troops be delegated to a man having
+    three eyes.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Heraclidae search for a man matching the three-eyed description and find
+    Oxylus, a descendant of the Aetolian race of kings.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hippolytes is banished, an army and fleet are equipped again, and Oxylus is
+    elected commander-in-chief.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Heraclidae obtain possession of the Peloponnesus and divide it among themselves
+    by lot.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: Argos falls to Temenus, Lacedaemon to Aristodemus, and Messene to Cresphontes.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Heraclidae confer the kingdom of Elis upon Oxylus in gratitude for his
+    services.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Oracle
+  description: A consulted oracle that gives instructions concerning Hippolytes and
+    the command of the troops.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Hippolytes
+  description: Named as the offender and banished from the country for ten years.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Heraclidae
+  description: The descendants of the great hero who consult the oracle, search for
+    the three-eyed man, obtain the Peloponnesus, and grant Elis to Oxylus.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Oxylus
+  description: A descendant of the Aetolian race of kings, found as the man matching
+    the three-eyed description, elected commander-in-chief, and later granted Elis.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:5
+  name_or_label: Temenus
+  description: Recipient of Argos in the division of the Peloponnesus by lot.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Aristodemus
+  description: Recipient of Lacedaemon in the division of the Peloponnesus by lot.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Cresphontes
+  description: Recipient of Messene in the division of the Peloponnesus by lot.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: oracular authority
+  assigned_to:
+  - fig:1
+  basis: The oracle is consulted and gives commands about banishment and military
+    leadership.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: offender and exile
+  assigned_to:
+  - fig:2
+  basis: Hippolytes is called the offender and is banished for ten years.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: obedient kin-group and conquerors
+  assigned_to:
+  - fig:3
+  basis: The Heraclidae obey the oracle, equip forces, and obtain the Peloponnesus.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: marked commander
+  assigned_to:
+  - fig:4
+  basis: Oxylus is found as the man answering the three-eyed description and is elected
+    commander-in-chief.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: distributors of kingdoms
+  assigned_to:
+  - fig:3
+  basis: The Heraclidae divide the Peloponnesus by lot and confer Elis upon Oxylus.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: territorial recipient
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Temenus, Aristodemus, and Cresphontes receive territories by lot; Oxylus
+    receives Elis in gratitude.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: three eyes
+  literal_form: A man having three eyes
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: lot division
+  literal_form: Division of the Peloponnesus by lot
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: army and fleet
+  literal_form: An army and fleet equipped again
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Oracle gives conditions for renewed action
+  summary: The oracle directs the banishment of Hippolytes and requires that troop
+    command be assigned to a man with three eyes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Search and appointment of Oxylus
+  summary: The Heraclidae search for the three-eyed man, find Oxylus, banish Hippolytes,
+    equip forces, and elect Oxylus commander-in-chief.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Conquest and territorial division
+  summary: The Heraclidae obtain the Peloponnesus, divide it by lot among Temenus,
+    Aristodemus, and Cresphontes, and give Elis to Oxylus.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: oracular command determines punishment and leadership
+  taxonomy_refs:
+  - divine_judgment
+  basis: A consulted oracle identifies the offender's penalty and sets a condition
+    for legitimate military command.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage uses an oracle rather than explicitly naming a deity; the
+    divine judgment classification is based on the oracle's authoritative decision.
+- id: motif:2
+  label: banishment of the offender
+  taxonomy_refs:
+  - departure
+  basis: Hippolytes is designated the offender and is banished from the country for
+    ten years.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The departure is punitive exile, not a voluntary heroic journey.
+- id: motif:3
+  label: marked outsider chosen as commander
+  taxonomy_refs: []
+  basis: The oracle requires a commander with three eyes, and Oxylus is found as the
+    man matching that description and appointed commander-in-chief.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the literal or symbolic meaning of the three
+    eyes.
+- id: motif:4
+  label: territorial legitimacy through lot and reward
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: After gaining the Peloponnesus, the Heraclidae divide its kingdoms by lot
+    and confer Elis upon Oxylus for his services.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents distribution of territories but does not provide
+    a detailed legal or ritual framework.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9208-9211
+  quote_or_summary: The oracle advises that Hippolytes, as offender, be banished for
+    ten years and that troop command be delegated to a man with three eyes.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9211-9214
+  quote_or_summary: The Heraclidae search for someone matching the description and
+    find Oxylus, a descendant of the Aetolian race of kings.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9214-9216
+  quote_or_summary: In obedience to the oracle, Hippolytes is banished, an army and
+    fleet are equipped again, and Oxylus is elected commander-in-chief.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9218-9220
+  quote_or_summary: The long-suffering descendants of the great hero succeed and obtain
+    possession of the Peloponnesus.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9220-9221
+  quote_or_summary: 'The Peloponnesus is divided by lot: Argos to Temenus, Lacedaemon
+    to Aristodemus, and Messene to Cresphontes.'
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 9221-9222
+  quote_or_summary: In gratitude for Oxylus's services, the Heraclidae confer the
+    kingdom of Elis upon him.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied English passage.
+    Motif labels are candidate analytical groupings and require human review. No comparison
+    claims are made because the passage itself does not support an explicit comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no external context added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l9208-l9222
+  passage_sha256=b8cfc88a8d501177a5d9b3aefab0d098b48cf3dc367b9daadf49831017424ad7
+

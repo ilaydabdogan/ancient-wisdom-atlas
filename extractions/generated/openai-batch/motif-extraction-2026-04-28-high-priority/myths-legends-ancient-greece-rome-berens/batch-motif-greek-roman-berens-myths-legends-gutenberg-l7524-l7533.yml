@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l7524-l7533
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: CADMUS. / PERSEUS. / THE ARGONAUTS. / STORY OF THE GOLDEN FLEECE.; lines
+    7524-7533
+  start: '7524'
+  end: '7533'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Medea gliding through the air in a golden chariot drawn by dragons.
+  summary: After losing Jason's love, Medea kills her three sons. Jason discovers
+    his murdered children, cannot find Medea, then sees her escaping through the air
+    in a golden chariot drawn by dragons. In despair, Jason kills himself with his
+    sword at the threshold of his deserted home.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Medea kills her three sons after the loss of her husband's love.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jason leaves the chamber of his dead bride and goes to his own house seeking
+    Medea.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Jason sees the bodies of his murdered children.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Medea cannot be found until Jason hears a sound above him and looks up.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Medea is seen moving through the air in a golden chariot drawn by dragons.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Jason throws himself on his own sword and dies on the threshold of his deserted
+    home.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Medea
+  description: Jason's wife, described as maddened by the loss of her husband's love;
+    she kills her three sons and escapes in a golden chariot drawn by dragons.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Jason
+  description: Medea's husband, seeking revenge after the death of his bride; he discovers
+    his murdered children and dies by his own sword.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Medea's three sons
+  description: The three sons of Medea, put to death by her and later seen by Jason
+    as murdered children.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Jason's dead bride
+  description: A dead bride whose chamber Jason leaves before going in search of Medea.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: child-killer
+  assigned_to:
+  - fig:1
+  basis: The passage states that Medea put her three sons to death.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: aerial escapee
+  assigned_to:
+  - fig:1
+  basis: Medea is seen gliding through the air in a dragon-drawn golden chariot.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: bereaved seeker of revenge
+  assigned_to:
+  - fig:2
+  basis: Jason is described as thirsting for revenge and seeking Medea after leaving
+    the chamber of his dead bride.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: suicide victim
+  assigned_to:
+  - fig:2
+  basis: Jason throws himself on his own sword and perishes.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: murdered victim
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The sons are murdered children, and the bride is described as dead.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: golden chariot
+  literal_form: A golden chariot carrying Medea through the air.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: dragons
+  literal_form: Dragons drawing Medea's aerial chariot.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sword
+  literal_form: Jason's own sword, used in his suicide.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: threshold of deserted home
+  literal_form: The threshold of Jason's desolate and deserted home where he dies.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Medea kills her sons
+  summary: Medea, enraged by the loss of Jason's love, kills her three sons.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Jason discovers the murdered children
+  summary: Jason leaves the chamber of his dead bride, goes to his house seeking Medea,
+    and sees the bodies of his murdered children.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Medea's dragon-drawn escape
+  summary: Jason hears a sound above him and sees Medea escaping through the air in
+    a golden chariot drawn by dragons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Jason's suicide
+  summary: Jason, overcome by despair, kills himself with his sword at the threshold
+    of his deserted home.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: aerial escape in a dragon-drawn chariot
+  taxonomy_refs:
+  - serpent
+  - departure
+  basis: Medea departs through the air in a golden chariot drawn by dragons.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives the escape image but does not explain the origin or
+    meaning of the chariot or dragons.
+- id: motif:2
+  label: revenge killing of children
+  taxonomy_refs: []
+  basis: Medea kills her three sons after the loss of her husband's love, and Jason
+    later sees the murdered children.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No direct taxonomy reference is available for this motif in the supplied
+    list.
+- id: motif:3
+  label: suicide after catastrophic loss
+  taxonomy_refs: []
+  basis: Jason kills himself in despair after the deaths and Medea's disappearance.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No direct taxonomy reference is available for this motif in the supplied
+    list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7524-7525
+  quote_or_summary: Medea, maddened by the loss of her husband's love, puts her three
+    sons to death.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7525-7528
+  quote_or_summary: Jason leaves the chamber of his dead bride, goes to his house
+    seeking Medea, and is met by the sight of his murdered children.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 7528-7531
+  quote_or_summary: Medea is seen "gliding through the air in a golden chariot drawn
+    by dragons."
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 7532-7533
+  quote_or_summary: In despair, Jason throws himself on his own sword and dies on
+    the threshold of his desolate, deserted home.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    the supplied taxonomy has limited direct matches for filicide and suicide; dragon
+    imagery supports a serpent-related reference only broadly.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no external comparison claims added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l7524-l7533
+  passage_sha256=711d6c3a8ba1d0e683c239d80b9fc10f1f9546f78bed344132ce463f869085a2
+

@@ -1,0 +1,486 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l13084-l13196
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: PERSONS OF THE DIALOGUE. / BOOK I. / BOOK II. / BOOK III.; lines 13084-13196
+  start: '13084'
+  end: '13196'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Socrates argues that excessive bodily care impedes virtue and thought,
+    presents Asclepius as a politically minded healer who treats definite ailments
+    but does not prolong useless diseased lives, cites the sons of Asclepius treating
+    wounds at Troy, rejects accounts that Asclepius was both divine-born and avaricious,
+    and distinguishes the proper training of physicians from that of judges.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Excessive care of the body is described as hostile to virtue, study, thought,
+    and self-reflection.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Asclepius is described as curing generally healthy people with definite ailments
+    by purges and operations, then telling them to live as usual.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Asclepius is described as not attempting to cure bodies penetrated through
+    and through by disease through gradual evacuation and infusion.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The sons of Asclepius are described as heroes of old who practiced medicine
+    at the siege of Troy.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When Pandarus wounded Menelaus, the sons of Asclepius are said to have sucked
+    blood from the wound and applied soothing remedies.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The sons of Asclepius are said not to prescribe later food or drink for Menelaus
+    or Eurypylus.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The sons of Asclepius are said to have declined to attend unhealthy and intemperate
+    persons, even if as rich as Midas.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Tragedians and Pindar are reported as saying that Asclepius was the son of
+    Apollo, was bribed to heal a rich man near death, and was struck by lightning
+    for it.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Socrates states that if Asclepius was the son of a god, he was not avaricious;
+    if he was avaricious, he was not the son of a god.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Physicians are described as curing the body with the mind, and a mind that
+    is sick cannot cure anything.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Judges are described as governing mind by mind and as needing knowledge of
+    evil from long observation rather than personal contamination.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Speaker who develops the argument about medicine, Asclepius, physicians,
+    and judges.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Asclepius
+  description: A healer described as politically minded; also reported by others as
+    son of Apollo and as struck by lightning after accepting a bribe to heal a rich
+    dying man.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: sons of Asclepius
+  description: Heroes of old who practiced medicine at Troy and treated wounds with
+    direct remedies.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Pandarus
+  description: Person who wounded Menelaus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Menelaus
+  description: Wounded person treated by the sons of Asclepius.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Eurypylus
+  description: Named as another patient for whom later food or drink was not prescribed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Midas
+  description: Example of great wealth in the phrase about people as rich as Midas.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Apollo
+  description: God named as father of Asclepius in the reported account.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: rich man at the point of death
+  description: Person whom tragedians and Pindar say Asclepius was bribed into healing.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: physician
+  description: A practitioner whose skill is associated with knowledge of disease
+    and curing body with mind.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:11
+  name_or_label: judge
+  description: A person who governs mind by mind and should learn evil through observation
+    rather than personal wrongdoing.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: philosophical speaker
+  assigned_to:
+  - fig:1
+  basis: Socrates frames and answers the questions in the dialogue.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: healer
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:10
+  basis: These figures are associated with curing, remedies, or the medical art.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:3
+  label: reported divine child
+  assigned_to:
+  - fig:2
+  basis: The passage reports the claim that Asclepius was son of Apollo.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: heroic practitioners at Troy
+  assigned_to:
+  - fig:3
+  basis: The sons of Asclepius are called heroes in old days who practiced medicine
+    at Troy.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: wounder
+  assigned_to:
+  - fig:4
+  basis: Pandarus is named as the one who wounded Menelaus.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: patient or wounded person
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:9
+  basis: Menelaus is wounded, Eurypylus is named in the medical example, and the rich
+    dying man is healed in the reported account.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:7
+  label: wealth figure
+  assigned_to:
+  - fig:7
+  - fig:9
+  basis: Midas is used as an example of wealth, and the dying man is described as
+    rich.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: divine father
+  assigned_to:
+  - fig:8
+  basis: Apollo is named as father of Asclepius in the reported account.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: moral judge
+  assigned_to:
+  - fig:11
+  basis: The judge is said to govern mind by mind and to require knowledge of evil
+    through observation.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: wound and blood
+  literal_form: Menelaus’ wound and blood sucked from it
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: soothing remedies
+  literal_form: remedies sprinkled on the wound
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: lightning strike
+  literal_form: lightning striking Asclepius in the reported account
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: mind as curing instrument
+  literal_form: mind curing the body; mind governing mind
+  associated_figures:
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Excessive bodily care opposed to virtue
+  summary: Socrates argues that excessive care of bodily symptoms prevents higher
+    virtue, study, thought, and self-reflection.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Asclepius as selective healer
+  summary: Asclepius is presented as treating definite ailments in otherwise healthy
+    persons and refusing to prolong deeply diseased lives.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Medical treatment at Troy
+  summary: The sons of Asclepius treat Menelaus’ wound after Pandarus wounds him,
+    using blood removal and remedies rather than extended dietary regimens.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Refusal to treat the intemperate rich
+  summary: The sons of Asclepius are said to reject unhealthy and intemperate subjects,
+    even those as rich as Midas.
+  figure_refs:
+  - fig:3
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Rejected account of bribed healing and lightning
+  summary: Socrates reports that tragedians and Pindar say Asclepius, son of Apollo,
+    was bribed to heal a rich dying man and was struck by lightning; Socrates refuses
+    to accept both divine sonship and avarice together.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Physician and judge contrasted
+  summary: Socrates distinguishes physicians, who may know disease through bodily
+    experience, from judges, who should know evil through long observation rather
+    than personal corruption.
+  figure_refs:
+  - fig:1
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: selective healing for the health of the state
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents a normative account of medical practice in which treatment
+    is limited by usefulness to the person and the state.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is primarily a philosophical argument about medicine and civic order,
+    not a narrative mythic episode.
+- id: motif:2
+  label: divine healer as child of a god
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The passage reports that Asclepius is acknowledged as son of Apollo and uses
+    that relation in Socrates’ reasoning about his character.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage reports and evaluates the claim rather than narrating a birth
+    story.
+- id: motif:3
+  label: punishment by lightning for illicit healing
+  taxonomy_refs:
+  - divine_judgment
+  basis: Tragedians and Pindar are reported as saying Asclepius was bribed to heal
+    a rich dying man and was struck by lightning for it.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Socrates explicitly rejects accepting the combined claims of divine sonship
+    and avarice, so the motif is present as a reported account under dispute.
+- id: motif:4
+  label: knowledge through observation rather than corruption
+  taxonomy_refs:
+  - wisdom
+  basis: The ideal judge should know evil from late and long observation, with knowledge
+    as guide rather than personal experience.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is an ethical-philosophical pattern rather than a mythic narrative
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13084-13103
+  quote_or_summary: Excessive care of the body beyond gymnastic rules is said to be
+    inimical to virtue and incompatible with study, thought, and self-reflection.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 13107-13122
+  quote_or_summary: Asclepius is described as healing generally healthy people with
+    definite ailments, but not attempting to prolong lives of bodies thoroughly penetrated
+    by disease.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 13126-13141
+  quote_or_summary: 'The sons of Asclepius at Troy treated Menelaus after Pandarus
+    wounded him: “Sucked the blood out of the wound, and sprinkled soothing remedies,”
+    without prescribing later diet for Menelaus or Eurypylus.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt from public domain translation.
+- id: ev:4
+  type: summary
+  locator: 13142-13149
+  quote_or_summary: The sons of Asclepius are said to refuse unhealthy and intemperate
+    subjects, even if they were as rich as Midas.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 13153-13163
+  quote_or_summary: Tragedians and Pindar are reported as saying Asclepius was son
+    of Apollo, accepted a bribe to heal a rich dying man, and was struck by lightning;
+    Socrates rejects believing both divine sonship and avarice.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 13175-13186
+  quote_or_summary: Good physicians are said to combine medical knowledge with experience
+    of disease; they cure the body with the mind, and a sick mind can cure nothing.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 13188-13196
+  quote_or_summary: A judge governs mind by mind and should learn evil from long observation
+    of others rather than from personal contamination or experience of crime.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is philosophical argument with mythic examples; motif candidates
+    involving Asclepius are clearer than broader ethical patterns. No comparison claims
+    were added beyond the passage’s own reported references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All interpretations are limited to the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l13084-l13196
+  passage_sha256=a979db40755cc1fc921ea7728a8d239123eeccded7bb7389afbaef956ae35aa1
+

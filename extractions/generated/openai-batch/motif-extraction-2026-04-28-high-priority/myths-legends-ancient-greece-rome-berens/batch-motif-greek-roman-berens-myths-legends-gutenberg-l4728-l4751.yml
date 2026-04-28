@@ -1,0 +1,362 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l4728-l4751
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: GRAEAE. / SPHINX. / TYCHE (FORTUNA) AND ANANKE (NECESSITAS). / TYCHE (FORTUNA).;
+    lines 4728-4751
+  start: '4728'
+  end: '4751'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Tyche/Fortuna as the personification and source
+    of fortune, luck, and unexpected events in human life, whether beneficial or harmful.
+    It lists several iconographic representations: rudders for steering human fortunes,
+    blindfolded stance on a ball or wheel for fortune''s changeability, sceptre, cornucopia,
+    wings, and holding the infant Plutus at Thebes to signify power over wealth and
+    prosperity. It also notes her worship in Greece, especially among Athenians.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Tyche personifies luck or fortune and is described as the source of unexpected
+    events in human life, both good and evil.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Success without special merit is attributed to Tyche smiling on a person's
+    birth.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Undeserved ill-luck and repeated failure are attributed to Tyche's adverse
+    influence.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Tyche is sometimes represented holding two rudders, one steering the bark
+    of the fortunate and one steering the bark of the unfortunate among mortals.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In later representations, Tyche appears blindfolded and stands on a ball or
+    wheel.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The ball or wheel is stated to indicate the fickleness and ever-revolving
+    changes of fortune.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Tyche frequently bears a sceptre and cornucopia or horn of plenty, and is
+    usually winged.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: In her temple at Thebes, Tyche is represented holding the infant Plutus in
+    her arms.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The representation of Tyche holding infant Plutus symbolizes her power over
+    riches and prosperity.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Tyche was worshipped in various parts of Greece, especially by the Athenians,
+    who believed she favored their city.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Tyche / Fortuna
+  description: Goddess of Fortune; personification of luck or fortune and source of
+    unexpected events in human life.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Plutus
+  description: Infant held by Tyche in her temple at Thebes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Athenians
+  description: Worshippers who believed in Tyche's special predilection for their
+    city.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: personification of fortune
+  assigned_to:
+  - fig:1
+  basis: Tyche personifies luck or fortune.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dispenser of good and adverse fortune
+  assigned_to:
+  - fig:1
+  basis: Success, ill-luck, and unexpected events are attributed to Tyche's influence.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: infant symbol of riches and prosperity
+  assigned_to:
+  - fig:2
+  basis: Infant Plutus is held by Tyche to symbolize her power over riches and prosperity.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: devotees of Tyche
+  assigned_to:
+  - fig:3
+  basis: The Athenians are described as especially worshipping Tyche and believing
+    she favored their city.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: rudders
+  literal_form: two rudders held by Tyche
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: barks of the fortunate and unfortunate
+  literal_form: barks steered by Tyche with separate rudders
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: blindfold
+  literal_form: blindfold worn by Tyche in later representations
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: ball or wheel
+  literal_form: ball or wheel on which Tyche stands
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: sceptre
+  literal_form: sceptre borne by Tyche
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: cornucopia or horn of plenty
+  literal_form: cornucopia or horn of plenty borne by Tyche
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: wings
+  literal_form: wings of Tyche
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: infant Plutus
+  literal_form: infant Plutus held in Tyche's arms
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: temple at Thebes
+  literal_form: Tyche's temple at Thebes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Tyche governs human fortune
+  summary: Tyche is described as causing or influencing unexpected good and bad events,
+    success without merit, and undeserved ill-luck.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Iconography of Tyche
+  summary: Tyche is represented with rudders, blindfolded on a ball or wheel, with
+    sceptre, cornucopia, wings, and holding infant Plutus in Thebes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Worship of Tyche
+  summary: Tyche is worshipped in parts of Greece, especially by Athenians who believe
+    she has a special favor for their city.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: personified fortune governing human outcomes
+  taxonomy_refs: []
+  basis: The passage explicitly treats Tyche as the personification and source of
+    luck, fortune, success, ill-luck, and unexpected events in human life.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supplied taxonomy family directly names fortune or fate, so no taxonomy
+    reference is assigned.
+- id: motif:2
+  label: fortune as unstable wheel or ball
+  taxonomy_refs: []
+  basis: Tyche is later depicted blindfolded standing on a ball or wheel, explained
+    as indicating fickleness and ever-revolving changes of fortune.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an iconographic motif rather than a narrative episode in the passage.
+- id: motif:3
+  label: divine power over prosperity through child Plutus
+  taxonomy_refs: []
+  basis: Tyche holding infant Plutus in Thebes is said to symbolize her power over
+    riches and prosperity.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage describes a symbolic representation, not a narrative action.
+- id: motif:4
+  label: patron fortune of a city
+  taxonomy_refs: []
+  basis: Athenians are said to worship Tyche especially and to believe in her special
+    predilection for their city.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage does not narrate a specific founding, rescue, or civic myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4732-4740
+  quote_or_summary: Tyche personifies luck or fortune and is the source of unexpected
+    good or evil events; success without merit and undeserved ill-luck are attributed
+    to her influence.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 4742-4745
+  quote_or_summary: Tyche is sometimes depicted holding two rudders, steering the
+    barks of fortunate and unfortunate mortals.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 4745-4747
+  quote_or_summary: In later times Tyche appears blindfolded and standing on a ball
+    or wheel, signifying fortune's fickleness and revolving changes.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 4747-4748
+  quote_or_summary: Tyche frequently bears a sceptre and cornucopia or horn of plenty
+    and is usually winged.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 4748-4750
+  quote_or_summary: In her temple at Thebes, Tyche is represented holding infant Plutus
+    to symbolize her power over riches and prosperity.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: lines 4750-4751
+  quote_or_summary: Tyche was worshipped in parts of Greece, especially by Athenians
+    who believed she favored their city.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive and iconographic, with clear evidence for Tyche's
+    attributes and worship. Motif candidates are straightforward but not aligned to
+    the supplied taxonomy families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only provided passage and metadata were used; no comparison claims were added because the passage does not itself support a specific comparative claim.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l4728-l4751
+  passage_sha256=651bd3485abe0fbc81036e584fd58ea4e21f0d7152825bee8969f757dccbc8a3
+

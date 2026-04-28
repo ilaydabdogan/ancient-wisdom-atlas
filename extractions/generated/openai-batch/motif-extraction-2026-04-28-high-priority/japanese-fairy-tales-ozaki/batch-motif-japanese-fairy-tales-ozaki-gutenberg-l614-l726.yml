@@ -1,0 +1,560 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l614-l726
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: PREFACE / JAPANESE FAIRY TALES / MY LORD BAG OF RICE / THE TONGUE-CUT SPARROW;
+    lines 614-726
+  start: '614'
+  end: '726'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After the old man receives a small box filled with riches from the sparrows,
+    the old woman reproaches him for not taking the larger box. Driven by greed despite
+    her earlier cruelty to the Lady Sparrow, she goes to the sparrow’s house in the
+    bamboo grove and demands the large box. The Lady Sparrow gives it to her. On the
+    way home, the old woman opens the heavy box expecting wealth, but demons, monsters,
+    a huge snake, and a frog come out. Terrified, she flees home, where the old man
+    tells her that her wickedness has met its reward.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The small box received by the old man is filled with gold, silver coins, and
+    other precious things.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old man repeatedly thanks the sparrow after seeing the contents of the
+    small box.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The old woman reproaches the old man for refusing the large box and says they
+    might have had twice as much silver and gold.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The old woman makes the old man describe the way to the sparrow’s house and
+    goes there despite his attempt to stop her.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The sparrows remember that the old woman cut off the Lady Sparrow’s tongue
+    after the sparrow ate rice-paste by mistake.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The sparrow family and relations determine to punish the old woman if they
+    have the chance.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The old woman finds the bamboo grove and the sparrow’s house, then knocks
+    at the door.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The old woman asks for the big box and says she does not want to be entertained.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The Lady Sparrow consents and has the servants bring out the big box.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The old woman takes the big box, does not stop to thank the Lady Sparrow,
+    and hurries homeward.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The big box is heavy, and the old woman has to rest while carrying it.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The old woman opens the big box by the wayside because she expects it to contain
+    wealth like the small box.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Horrible demons and monsters come out of the big box, including a one-eyed
+    demon, gaping-mouthed monsters, a huge snake, and a big frog.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: The old woman runs away frightened and later tells her husband that demons
+    in the box nearly killed her.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:15
+  text: The old man tells the old woman not to blame the sparrow and says her wickedness
+    has met its reward.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: old man
+  description: The husband who received the small box of riches and later tells the
+    old woman that her wickedness has met its reward.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: fig:2
+  name_or_label: old woman
+  description: The greedy wife who had earlier cut off the Lady Sparrow’s tongue,
+    seeks the large box, opens it, and is terrified by the beings inside.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: Lady Sparrow
+  description: The tongue-cut sparrow who receives the old woman at her house and
+    has the big box brought out.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: sparrow family, relations, and servants
+  description: The sparrow household remembers the old woman’s cruelty, intends to
+    punish her, and serves the Lady Sparrow.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: demons and monsters from the big box
+  description: Frightful beings that emerge from the big box and surround the old
+    woman.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: one-eyed demon
+  description: A demon with one huge eye in the middle of its forehead that glares
+    at the old woman.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: huge snake
+  description: A huge snake that coils and hisses about the old woman after the box
+    is opened.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: big frog
+  description: A big frog that hops and croaks toward the old woman after the box
+    is opened.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: rewarded recipient of small gift box
+  assigned_to:
+  - fig:1
+  basis: The old man receives the smaller box, which contains gold, silver, and precious
+    things.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: greedy seeker of larger gift
+  assigned_to:
+  - fig:2
+  basis: The old woman reproaches the old man for not bringing the large box and goes
+    to get it herself.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:3
+  label: injured hostess and giver of the big box
+  assigned_to:
+  - fig:3
+  basis: The Lady Sparrow had been harmed by the old woman but politely greets her
+    and consents to give the big box.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: avenging sparrow household
+  assigned_to:
+  - fig:4
+  basis: The sparrow family and relations discuss the old woman’s cruelty and determine
+    to punish her when possible.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: frightening agents of punishment
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: The beings from the big box terrify the old woman and make her flee.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:6
+  label: moral interpreter
+  assigned_to:
+  - fig:1
+  basis: The old man states that the old woman’s wickedness has met its reward and
+    that the event should be a lesson.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: small box of riches
+  literal_form: small box filled with gold, silver coins, and precious things
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: large box
+  literal_form: big heavy box requested by the old woman and carried on her back
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: bamboo grove
+  literal_form: bamboo grove containing the sparrow’s house
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: demons from the box
+  literal_form: horrible and frightful looking demons and monsters emerging from the
+    big box
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: serpent in the box
+  literal_form: huge snake coiling and hissing about the old woman
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: frog in the box
+  literal_form: big frog hopping and croaking toward the old woman
+  associated_figures:
+  - fig:2
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Small box opened at home
+  summary: The old man and old woman find that the small box contains gold, silver,
+    and precious things; the old man thanks the sparrow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Old woman resolves to seek the large box
+  summary: The old woman reproaches the old man for leaving the big box and the next
+    morning makes him describe the way to the sparrow’s house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Sparrow household remembers the injury
+  summary: The sparrow family recalls the old woman’s cutting of the Lady Sparrow’s
+    tongue and decides to punish her when possible.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Demand at the sparrow’s house
+  summary: The old woman finds the bamboo grove and sparrow’s house, asks for the
+    big box, and receives it from the Lady Sparrow.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Opening of the big box
+  summary: On the way home, the old woman opens the heavy big box expecting wealth,
+    but demons, monsters, a huge snake, and a frog emerge and frighten her.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Return and moral explanation
+  summary: The old woman returns home frightened and blames the sparrow, but the old
+    man says her wickedness has met its reward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: modest gift rewarded, greedy choice punished
+  taxonomy_refs: []
+  basis: The small box chosen by the old man contains riches, while the large box
+    demanded by the old woman contains terrifying beings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:8
+  - ev:10
+  confidence: high
+  cautions: The taxonomy list supplied does not include a precise standard label for
+    this reward-and-punishment gift-box pattern.
+- id: motif:2
+  label: retribution for cruelty to a helpful animal
+  taxonomy_refs: []
+  basis: The sparrows remember that the old woman cut off the Lady Sparrow’s tongue
+    and determine to punish her; the big box later frightens her.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage frames the outcome morally, but it does not explicitly describe
+    the box contents as magically created by the sparrows.
+- id: motif:3
+  label: dangerous container opened from impatience or greed
+  taxonomy_refs: []
+  basis: The old woman opens the big box by the wayside because she cannot resist
+    seeing the expected wealth, and frightening beings emerge.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage does not call the box forbidden; the danger is tied to greed
+    and expectation rather than an explicit prohibition.
+- id: motif:4
+  label: animal household as organized moral agents
+  taxonomy_refs: []
+  basis: The Lady Sparrow has servants, family, and relations who discuss the old
+    woman’s conduct and arrange a punitive response.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: This is a passage-level pattern rather than a formal taxonomy match from
+    the supplied motif list.
+comparison_claims:
+- id: claim:1
+  claim: 'The episode functions like a reward-and-punishment gift pattern: a modest
+    or kindly recipient receives treasure, while a greedy recipient who demands more
+    receives a harmful or frightening outcome.'
+  claim_level: same_function
+  target: paired gift boxes as moral reward/punishment pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:8
+  - ev:10
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This claim identifies narrative function only; it does not assert historical
+    contact, common inheritance, or identity with any external tale type.
+- id: claim:2
+  claim: The emergence of demons and animals from a coveted container can be compared
+    at the level of narrative function to dangerous-container patterns in which opening
+    a vessel releases threatening contents.
+  claim_level: same_function
+  target: dangerous container opened with harmful contents released
+  evidence_refs:
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not mention a prohibition against opening the box,
+    so the comparison is limited to the release of frightening contents from a container.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 614-626
+  quote_or_summary: The small box is found full of gold, silver coins, and precious
+    things; the old man is overjoyed and thanks the sparrow many times.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 627-641
+  quote_or_summary: After seeing the riches, the old woman reproaches the old man
+    for not bringing the large box and says they might have had twice as much silver
+    and gold.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 642-653
+  quote_or_summary: The next morning the old woman makes the old man describe the
+    way to the sparrow’s house; he tries to stop her, but she goes because she wants
+    the big box.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 654-666
+  quote_or_summary: The sparrows remember that the old woman cut off the Lady Sparrow’s
+    tongue after she ate rice-paste by mistake; they love the old man, hate the old
+    woman, and determine to punish her if they can.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 667-675
+  quote_or_summary: The old woman finds the bamboo grove, calls for the tongue-cut
+    sparrow’s house, sees the eaves among the bamboo foliage, and knocks at the door.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 676-695
+  quote_or_summary: The Lady Sparrow greets the old woman despite surprise; the old
+    woman demands the big box, the Lady Sparrow consents, servants bring it out, and
+    the old woman takes it without thanks.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 696-707
+  quote_or_summary: The big box is very heavy, and while carrying it home the old
+    woman becomes unable to resist opening it because she expects gold, silver, and
+    jewels.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 708-718
+  quote_or_summary: When the old woman opens the box, frightful demons and monsters
+    come out, including a one-eyed demon, gaping-mouthed monsters, a huge snake, and
+    a big frog.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:9
+  type: summary
+  locator: lines 719-723
+  quote_or_summary: The old woman runs away frightened, returns home, falls to the
+    floor, and tells her husband that demons in the box nearly killed her.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:10
+  type: summary
+  locator: lines 724-726
+  quote_or_summary: When the old woman blames the sparrow, the old man stops her and
+    says her wickedness has met its reward and should be a lesson.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Passage actions, figures, and objects are explicit. Motif labels are passage-level
+    analytical candidates and require human review for alignment with formal motif
+    indexes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to the supplied list; only the explicit snake was mapped to the available symbol ref serpent.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l614-l726
+  passage_sha256=1d5c30f39368649a856822bb125586b4eab6204d2d6810ebb2fb37c82c6706a2
+

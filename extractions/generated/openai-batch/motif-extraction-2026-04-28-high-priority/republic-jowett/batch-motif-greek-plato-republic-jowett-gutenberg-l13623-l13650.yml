@@ -1,0 +1,375 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l13623-l13650
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: PERSONS OF THE DIALOGUE. / BOOK I. / BOOK II. / BOOK III.; lines 13623-13650
+  start: '13623'
+  end: '13650'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Gold and silver we will tell them that they have from God; the diviner metal
+    is within them
+  summary: 'The speaker proposes regulations for guardians: they should possess no
+    more property than necessary, have no private closed houses or stores, receive
+    fixed maintenance from citizens, eat and live communally like soldiers, and avoid
+    gold and silver. Their inner divine metal is contrasted with common precious metals,
+    which are said to cause unholy deeds. The arrangement is presented as their salvation
+    and as making them saviours of the State; if they acquire private property, they
+    will become tyrannical enemies rather than guardians. Glaucon assents.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The proposed guardians are to have no private property beyond what is absolutely
+    necessary.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The guardians are not to have a private house or store closed against anyone
+    who wants to enter.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The guardians are to receive from the citizens a fixed rate of pay sufficient
+    for yearly expenses and no more.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The guardians are to go to mess and live together like soldiers in a camp.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Gold and silver are described as already possessed by the guardians from God,
+    in the form of a diviner metal within them.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Common gold and silver are described as dross current among men and as a source
+    of many unholy deeds.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: The guardians alone among the citizens may not touch, handle, share a roof
+    with, wear, or drink from silver or gold.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The regulations are said to be the guardians' salvation and to make them saviours
+    of the State.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: If the guardians acquire homes, lands, or money of their own, they are predicted
+    to become householders and husbandmen instead of guardians, and enemies and tyrants
+    instead of allies.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Glaucon replies affirmatively to the proposed regulations.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: guardians
+  description: The proposed class whose way of life is being regulated; described
+    as trained warriors, men of temperance and courage, and potential saviours of
+    the State.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: citizens
+  description: The wider citizen body from whom the guardians receive a fixed rate
+    of pay; the guardians are distinguished from all other citizens in their prohibition
+    from gold and silver.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: the State
+  description: The political community that the guardians are to save, but that would
+    be ruined if the guardians acquire private wealth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Glaucon
+  description: Dialogue participant who answers yes to the proposed ordering of the
+    State and regulations for the guardians.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: regulated warrior-guardians
+  assigned_to:
+  - fig:1
+  basis: They are described as trained warriors of temperance and courage whose property,
+    housing, pay, mess, and contact with precious metals are regulated.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: saviours of the State
+  assigned_to:
+  - fig:1
+  basis: The passage states that this way of life will be their salvation and that
+    they will be the saviours of the State.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: providers of maintenance
+  assigned_to:
+  - fig:2
+  basis: The guardians are to receive from the citizens a fixed rate of pay sufficient
+    for yearly expenses.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: community to be saved or ruined
+  assigned_to:
+  - fig:3
+  basis: The State is said to be saved by the guardians under the regulations and
+    endangered if they acquire private property.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: assenting respondent
+  assigned_to:
+  - fig:4
+  basis: Glaucon says yes after the proposed regulations are summarized.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: inner divine metal
+  literal_form: gold and silver said to be from God and within the guardians as a
+    diviner metal
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: common gold and silver
+  literal_form: silver or gold that may be touched, handled, worn, drunk from, or
+    kept under the same roof
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: soldiers' camp
+  literal_form: communal mess and camp-like living arrangement
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: private homes, lands, and money
+  literal_form: homes, lands, or moneys of the guardians' own
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Regulated communal life of guardians
+  summary: The speaker outlines that guardians should have only necessary property,
+    open houses and stores, fixed pay, and communal camp-like meals and living.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Prohibition of precious metals
+  summary: The guardians are told that their true gold and silver are divine and within
+    them, while common gold and silver are corrupting and forbidden to them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Consequences of private acquisition
+  summary: The speaker says the regulations save the guardians and the State, while
+    private wealth would turn guardians into householders, enemies, and tyrants, bringing
+    ruin near.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Glaucon's assent
+  summary: Glaucon agrees to the proposed ordering and regulations for the guardians.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Renunciation of private wealth by protectors
+  taxonomy_refs: []
+  basis: The guardians' property is restricted to necessities, and they are forbidden
+    from acquiring private homes, lands, money, gold, or silver.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: This is a political-philosophical regulation rather than a narrative mythic
+    episode.
+- id: motif:2
+  label: Inner divine substance contrasted with corrupting external wealth
+  taxonomy_refs: []
+  basis: The guardians are said to possess divine gold and silver within them, while
+    ordinary gold and silver are described as dross and a source of unholy deeds.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage uses metal imagery explicitly, but the broader symbolic meaning
+    should be reviewed in context.
+- id: motif:3
+  label: Communal warrior discipline as civic salvation
+  taxonomy_refs: []
+  basis: The guardians live together like soldiers in a camp, and this regulated life
+    is said to be their salvation and to make them saviours of the State.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The saving function is civic and institutional; no supernatural rescue
+    event is narrated.
+- id: motif:4
+  label: Corruption of guardians into tyrants through private property
+  taxonomy_refs: []
+  basis: The passage predicts that if guardians acquire property, they will become
+    enemies and tyrants rather than allies, causing ruin to themselves and the State.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is a conditional political warning, not an enacted story sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13623-13628
+  quote_or_summary: The guardians should have no property beyond what is necessary
+    and no private house or store closed against entry.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: lines 13628-13633
+  quote_or_summary: They should receive fixed yearly maintenance from citizens and
+    'go to mess and live together like soldiers in a camp.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 13633-13636
+  quote_or_summary: "'Gold and silver we will tell them that they have from God; the
+    diviner metal is within them.'"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 13635-13639
+  quote_or_summary: The passage says the guardians do not need the commoner metal
+    current among men, which is associated with pollution and many unholy deeds, while
+    their own metal is undefiled.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13639-13642
+  quote_or_summary: The guardians alone may not touch or handle silver or gold, be
+    under the same roof with them, wear them, or drink from them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 13642-13643
+  quote_or_summary: "'This will be their salvation, and they will be the saviours
+    of the State.'"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: lines 13643-13649
+  quote_or_summary: If the guardians acquire private homes, lands, or money, they
+    will become householders and husbandmen instead of guardians, enemies and tyrants
+    instead of allies, and ruin will be near for themselves and the State.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: line 13650
+  quote_or_summary: "'Yes, said Glaucon.'"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are candidate analytical
+    summaries of political-symbolic patterns in the passage and require human review.
+    No comparison claims were added because the passage itself does not support a
+    specific external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata; taxonomy references were not assigned because the available motif and symbol lists do not directly match the passage's explicit metal imagery.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l13623-l13650
+  passage_sha256=2a4fa4cc659e49ad59802ae54225633bd6938adb09fa81e3aeb6a8a348135ac3
+

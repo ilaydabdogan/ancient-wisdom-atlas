@@ -1,0 +1,611 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l4682-l4726
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: MORPHEUS. / THE GORGONS. / GRAEAE. / SPHINX.; lines 4682-4726
+  start: '4682'
+  end: '4726'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Sphinx as an Egyptian figure of wisdom and fertility
+    transformed in Greek tradition into a malignant winged monster. In the Greek account,
+    Hera sends the Sphinx to punish Thebes; the monster occupies a rocky pass, asks
+    riddles, kills those who fail, and dies when Oedipus correctly solves her riddle
+    about the stages of human life.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Sphinx is described as an ancient Egyptian divinity personifying wisdom
+    and the fertility of nature.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Egyptian Sphinx is represented as a reclining lion with the head and bust
+    of a woman and a hood enclosing the head and falling beside the face.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the Greek version, the Sphinx becomes a malignant power whose mysteries
+    are inimical to human life.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Greek genealogy makes the Sphinx the offspring of Typhon and Echidna.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Hera sends the Sphinx to the Thebans as punishment for their offences.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Sphinx sits on a rocky eminence near Thebes, commanding a pass used by
+    the Thebans.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Sphinx poses a riddle to passers-by and tears them in pieces if they fail
+    to solve it.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The oracle of Delphi tells Creon that the Sphinx can be destroyed only when
+    one of her riddles is solved.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Creon offers the crown and the hand of his sister Jocaste to whoever can interpret
+    the Sphinx's riddle.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Oedipus answers the Sphinx's riddle by identifying the creature as man, who
+    crawls in infancy, walks on two legs in maturity, and uses a staff in old age.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: After hearing Oedipus's correct answer, the Sphinx throws herself from the
+    precipice and dies below.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: The Greek Sphinx is identified by wings and smaller dimensions than the Egyptian
+    Sphinx.
+  category: attribute
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Sphinx / Egyptian Sphinx
+  description: An ancient Egyptian divinity personifying wisdom and fertility, represented
+    as a reclining lion with female head and bust and a distinctive hood.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Greek Sphinx
+  description: A malignant monster in Greek tradition, offspring of Typhon and Echidna,
+    sent against Thebes, posing lethal riddles from a rocky pass, and recognizable
+    by wings and smaller size than the Egyptian Sphinx.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:10
+  - ev:11
+- id: fig:3
+  name_or_label: Hera
+  description: The goddess who sends the Sphinx to punish the Thebans.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Thebans
+  description: The people punished by Hera and compelled to traverse the pass guarded
+    by the Sphinx.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: King Creon
+  description: The ruler who seeks to rid the country of the Sphinx and offers reward
+    for solving her riddle.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Oracle of Delphi
+  description: The oracle consulted by Creon, which states that solving the Sphinx's
+    riddle will destroy her.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Jocaste
+  description: Creon's sister, whose hand is offered as part of the reward for solving
+    the riddle.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Oedipus
+  description: The candidate who answers the Sphinx's riddle correctly.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:9
+  name_or_label: Typhon
+  description: Named as one parent of the Greek Sphinx.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: Echidna
+  description: Named as one parent of the Greek Sphinx.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: wisdom-and-fertility divinity
+  assigned_to:
+  - fig:1
+  basis: The Egyptian Sphinx is said to personify wisdom and fertility of nature.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: composite human-animal figure
+  assigned_to:
+  - fig:1
+  basis: The Egyptian representation combines a lion body with female head and bust.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: malignant mystery-dealer
+  assigned_to:
+  - fig:2
+  basis: The Greek Sphinx is described as malignant and dealing in mysteries hostile
+    to human life.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: lethal riddle-guardian
+  assigned_to:
+  - fig:2
+  basis: She guards a pass, asks riddles, and kills those who fail.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: monster destroyed by solved riddle
+  assigned_to:
+  - fig:2
+  basis: The oracle says she will die when her riddle is solved, and she dies after
+    Oedipus answers correctly.
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: role:6
+  label: sender of punishment
+  assigned_to:
+  - fig:3
+  basis: Hera sends the monster as punishment for Theban offences.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: punished community
+  assigned_to:
+  - fig:4
+  basis: The Thebans are the community punished by the sent monster and threatened
+    at the pass.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: ruler seeking deliverance
+  assigned_to:
+  - fig:5
+  basis: Creon attempts to rid the country of the Sphinx and proclaims a reward.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:9
+  label: prophetic source of solution condition
+  assigned_to:
+  - fig:6
+  basis: The oracle identifies the means by which the Sphinx can be destroyed.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: marriage-reward figure
+  assigned_to:
+  - fig:7
+  basis: Jocaste's hand is offered to the solver of the riddle.
+  evidence_refs:
+  - ev:8
+- id: role:11
+  label: successful riddle-solver
+  assigned_to:
+  - fig:8
+  basis: Oedipus gives the correct interpretation of the riddle.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:12
+  label: genealogical parent of monster
+  assigned_to:
+  - fig:9
+  - fig:10
+  basis: Typhon and Echidna are named as the Sphinx's parents in Greek genealogy.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: lion with female head and bust
+  literal_form: Reclining lion body with the head and bust of a woman.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: hood of the Egyptian Sphinx
+  literal_form: A hood completely enveloping the head and falling down on either side
+    of the face.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wings of the Greek Sphinx
+  literal_form: Wings used to recognize the Greek Sphinx.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:4
+  label: rocky eminence and pass near Thebes
+  literal_form: A rocky eminence commanding a pass that Thebans must traverse.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: riddle of human life stages
+  literal_form: A riddle asking what creature goes on four legs in the morning, two
+    at noon, and three in the evening.
+  associated_figures:
+  - fig:2
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: staff of old age
+  literal_form: A staff used by an old man, making three supports in Oedipus's answer.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: precipice and abyss
+  literal_form: The precipice from which the Sphinx throws herself and the abyss below
+    where she perishes.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Egyptian description of the Sphinx
+  summary: The Sphinx is presented as an Egyptian divinity of wisdom and fertility
+    with a lion body, female head and bust, and hood.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Greek transformation and genealogy
+  summary: The passage contrasts the Greek Sphinx with the Egyptian one, describing
+    her as a malignant figure and the offspring of Typhon and Echidna.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Hera sends the Sphinx to Thebes
+  summary: Hera punishes the Thebans by sending the Sphinx, who occupies a rocky pass
+    and kills those unable to answer her riddles.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Oracle and public reward
+  summary: Creon consults the oracle of Delphi, learns that solving the riddle will
+    destroy the Sphinx, and offers kingship and Jocaste's hand to the solver.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Oedipus solves the riddle
+  summary: Oedipus answers that the riddle refers to man across infancy, maturity,
+    and old age.
+  figure_refs:
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:9
+- id: scene:6
+  label: Death of the Sphinx
+  summary: When Oedipus gives the correct answer, the Sphinx throws herself from the
+    precipice and dies in the abyss below.
+  figure_refs:
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: wisdom embodied as composite divine creature
+  taxonomy_refs:
+  - wisdom
+  basis: The Egyptian Sphinx is explicitly said to personify wisdom and fertility
+    and is represented in composite lion-woman form.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This motif applies to the Egyptian characterization in the passage, not
+    to the later Greek monster narrative.
+- id: motif:2
+  label: lethal riddle challenge at a threshold
+  taxonomy_refs:
+  - wisdom
+  basis: The Greek Sphinx occupies a pass, asks riddles of those who come by, and
+    kills those who cannot solve them; Oedipus survives by giving the correct answer.
+  evidence_refs:
+  - ev:6
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The available taxonomy has no dedicated riddle or threshold motif; the
+    wisdom reference is used only because the contest turns on correct interpretation.
+- id: motif:3
+  label: divine punishment through a monster
+  taxonomy_refs:
+  - divine_judgment
+  basis: Hera sends the Sphinx to Thebes as punishment for the Thebans' offences.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage uses the word punishment but does not narrate a formal trial
+    or judgment scene.
+- id: motif:4
+  label: monster self-destruction after fulfilled solution condition
+  taxonomy_refs: []
+  basis: The oracle declares that solving the Sphinx's riddle will cause her to destroy
+    herself, and she does so after Oedipus answers correctly.
+  evidence_refs:
+  - ev:7
+  - ev:10
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this pattern.
+- id: motif:5
+  label: marriage and kingship reward for successful solver
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Creon promises the crown and the hand of Jocaste to whoever solves the Sphinx's
+    riddle.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage states the promised reward but does not narrate the later
+    political consequences in detail.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself contrasts an Egyptian Sphinx, characterized as a divinity
+    of wisdom and fertility, with a Greek Sphinx, characterized as a smaller winged
+    malignant monster whose mysteries kill humans.
+  claim_level: same_motif
+  target: Egyptian Sphinx and Greek Sphinx within the passage's account
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:11
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the handbook's presentation and does not establish
+    historical contact beyond the passage's statement that the figure was transplanted
+    into Greece.
+- id: claim:2
+  claim: The Egyptian and Greek forms retain visual similarity as composite Sphinx
+    figures, but the passage distinguishes the Greek form by wings and smaller dimensions.
+  claim_level: visual_similarity
+  target: Egyptian Sphinx compared with Greek Sphinx
+  evidence_refs:
+  - ev:2
+  - ev:11
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives only a brief visual comparison and does not provide
+    iconographic examples.
+- id: claim:3
+  claim: The Greek Sphinx's riddle episode fits a wisdom-test pattern in which survival
+    or deliverance depends on correct interpretation.
+  claim_level: same_function
+  target: wisdom-test or riddle-solver motif family
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not compare the episode to other riddle traditions;
+    the functional comparison is inferred from the described role of the riddle.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4682-4687
+  quote_or_summary: The Sphinx was an ancient Egyptian divinity who personified wisdom
+    and the fertility of nature.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4684-4688
+  quote_or_summary: The Egyptian Sphinx is represented as a reclining lion with a
+    woman's head and bust and a distinctive hood around the head and face.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4690-4694
+  quote_or_summary: After being transplanted into Greece, the Sphinx is described
+    as degenerating into a malignant power whose mysteries are hostile to human life.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 4696-4697
+  quote_or_summary: The Sphinx is represented, according to Greek genealogy, as the
+    offspring of Typhon and Echidna.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:5
+  type: summary
+  locator: lines 4697-4699
+  quote_or_summary: Hera, displeased with the Thebans, sends the Sphinx as punishment
+    for their offences.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 4699-4703
+  quote_or_summary: The Sphinx sits on a rocky eminence near Thebes, controls a pass
+    used by the Thebans, asks riddles, and tears apart those who cannot solve them.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 4705-4710
+  quote_or_summary: Creon consults the oracle of Delphi and learns that solving one
+    of the Sphinx's riddles is the only way to destroy her, after which she will throw
+    herself from the rock.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 4712-4716
+  quote_or_summary: Creon publicly declares that whoever solves a riddle posed by
+    the Sphinx will receive the crown and the hand of his sister Jocaste.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 4716-4723
+  quote_or_summary: Oedipus receives the riddle about a creature moving on four legs
+    in the morning, two at noon, and three in the evening, and answers that it is
+    man in infancy, adulthood, and old age with a staff.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: lines 4724-4726
+  quote_or_summary: After hearing Oedipus's correct solution, the Sphinx flings herself
+    over the precipice and dies in the abyss below.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:11
+  type: summary
+  locator: lines 4726
+  quote_or_summary: The Greek Sphinx is recognized by having wings and by being smaller
+    than the Egyptian Sphinx.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the supplied passage. Motif assignments
+    are conservative, with taxonomy references limited to available categories that
+    are directly or functionally supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources were used; extraction is based only on the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l4682-l4726
+  passage_sha256=3931f48a1ff5416fc2e80bab5d9079343b706b7369f7ed0ea724d6d96e0cc28c
+

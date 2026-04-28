@@ -1,0 +1,496 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l3178-l3288
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE FARMER AND THE BADGER / THE ADVENTURES OF KINTARO, THE GOLDEN BOY / THE
+    STORY OF THE MAN WHO DID NOT WISH TO DIE / THE BAMBOO-CUTTER AND THE MOON-CHILD;
+    lines 3178-3288
+  start: '3178'
+  end: '3288'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A wife spends her husband’s absence working, caring for their daughter,
+    and teaching her old stories. The husband returns from the capital and gives the
+    daughter a doll and cakes, then gives his wife a boxed mirror. The wife, unfamiliar
+    with mirrors, thinks she sees someone in it. Her husband explains reflection,
+    the mirror’s importance for women, its association with the heart, and its status
+    among imperial insignia. The wife treasures it as representing her soul. Years
+    pass happily as their daughter grows to sixteen, but the mother falls gravely
+    ill and prepares to speak to her daughter from her sickbed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: During the husband’s absence, the wife spins thread, prepares to weave winter
+    clothes, directs the girl’s games, and teaches her to read old stories.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The husband returns after about a month of travel and is greeted eagerly by
+    his wife and child.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The father opens a bamboo basket and gives the girl a doll and a lacquer box
+    full of cakes as a prize for taking care of her mother and the house.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The husband gives his wife a square wooden box tied with red and white string.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Inside the box is a handled metal disk with one bright reflective side and
+    another side decorated with raised figures of pine-trees and storks.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The wife, who has never seen such an object, looks into it and says she sees
+    somebody looking at her.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The husband explains that the object is a mirror and that the wife is seeing
+    her own reflected face.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The husband says mirrors are necessary for women in the capital, are linked
+    by proverb to a woman’s soul, indicate the state of a woman’s heart, and are among
+    the Emperor’s insignia.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The wife says that if the mirror represents her soul, she will treasure it
+    and not use it carelessly.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The wife raises the mirror as high as her forehead in grateful acknowledgment,
+    shuts it in its box, and puts it away.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The reunited family spends a happy evening, and the father tells of his journey
+    and the capital.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Years pass, and the daughter grows into a beautiful girl of sixteen who helps
+    her mother and reminds her father of her mother.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The mother becomes ill, grows weaker despite the doctor’s efforts, and is
+    attended constantly by her daughter.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:14
+  text: As the daughter sits near the bed, the mother takes her hand, gazes into her
+    eyes, and begins speaking with difficulty.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: wife and mother
+  description: A rural woman from Echigo who works during her husband’s absence, receives
+    a mirror, later becomes gravely ill, and speaks to her daughter from her bed.
+  role_refs:
+  - role:1
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:9
+- id: fig:2
+  name_or_label: husband and father
+  description: A man who returns from about a month of travel to the capital, brings
+    gifts to his wife and daughter, and explains the mirror.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: daughter
+  description: A girl who greets her father, receives a doll and cakes, grows into
+    a beautiful sixteen-year-old, and stays beside her ill mother.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: doctor
+  description: A doctor who is puzzled by the mother’s worsening illness and whose
+    efforts do not save her.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: waiting household worker and caregiver
+  assigned_to:
+  - fig:1
+  basis: She spins, prepares weaving, guides the child’s games, and teaches old stories
+    while her husband is away.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: returning traveler
+  assigned_to:
+  - fig:2
+  basis: He comes home after about a month of travel and is visibly altered by exposure
+    to weather.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: dutiful child
+  assigned_to:
+  - fig:3
+  basis: Her father rewards her for taking care of her mother and the house while
+    he was away.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recipient of meaningful gift
+  assigned_to:
+  - fig:1
+  basis: She receives the mirror and interprets it as representing her soul after
+    her husband’s explanation.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: explainer of unfamiliar object
+  assigned_to:
+  - fig:2
+  basis: He explains that the metal disk is a mirror and describes its uses and meanings.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: dying mother
+  assigned_to:
+  - fig:1
+  basis: She becomes gravely ill, grows weaker, and begins to speak to her daughter
+    from bed with difficulty.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: bedside attendant
+  assigned_to:
+  - fig:3
+  basis: Day and night the girl never leaves her mother’s side during the illness.
+  evidence_refs:
+  - ev:9
+- id: role:8
+  label: ineffective healer
+  assigned_to:
+  - fig:4
+  basis: The doctor is puzzled, and despite his efforts the woman continues to weaken.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: mirror
+  literal_form: A handled metal disk with a bright reflective side and a decorated
+    side bearing raised pine-trees and storks.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: reflected face
+  literal_form: The wife’s own face seen in the mirror, first described by her as
+    somebody looking at her.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: pine-trees and storks
+  literal_form: Raised figures carved on the back of the mirror.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: red and white string
+  literal_form: String carefully tying the square wooden box that contains the mirror.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: bamboo basket of gifts
+  literal_form: A bamboo basket from which the father takes the daughter’s doll and
+    cakes and the wife’s boxed mirror.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Work during absence
+  summary: The wife consoles herself during her husband’s absence by making winter
+    clothing materials, guiding the child’s games, and teaching the child old stories
+    until the husband returns.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Family reunion after journey
+  summary: The husband returns from travel visibly sunburned, and his wife and child
+    eagerly greet him before they sit together at home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Child rewarded with gifts
+  summary: The father gives the girl a doll and a lacquer box of cakes from the capital
+    as a reward for caring for her mother and the house.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Mirror received and explained
+  summary: The husband gives his wife a boxed mirror; she is surprised by the reflected
+    face, and he explains the object’s reflective function and its cultural meanings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Happiness after reunion
+  summary: The family enjoys being together again, and the father tells them about
+    his journey and the capital.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Daughter grows and sorrow arrives
+  summary: The daughter grows to sixteen and becomes a comfort to her mother and a
+    source of pride to her father; then the mother falls ill.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+- id: scene:7
+  label: Mother’s illness and bedside speech
+  summary: The mother’s illness worsens despite medical attention, the daughter remains
+    by her side, and the mother prepares to speak to her with difficulty.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: unfamiliar mirror mistaken for another person
+  taxonomy_refs: []
+  basis: The wife, having never seen such an object, looks into the reflective disk
+    and says she sees somebody looking at her before her husband explains reflection.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives only the initial recognition scene; any later narrative
+    consequences are outside this excerpt.
+- id: motif:2
+  label: mirror as soul and heart-index
+  taxonomy_refs: []
+  basis: The husband states that a woman’s mirror is treated as her soul and as an
+    index of her heart; the wife accepts the mirror as representing her soul.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is presented as an explanation within the tale; broader ritual or
+    religious significance should not be inferred from this passage alone.
+- id: motif:3
+  label: returning traveler brings meaningful gifts
+  taxonomy_refs:
+  - return
+  - sacred_exchange
+  basis: After returning from the capital, the father gives the child gifts and gives
+    his wife a mirror that is explicitly described as precious and symbolically significant.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy references are approximate motif-family links; the passage
+    frames the gifts as familial presents rather than an explicitly sacred transaction.
+- id: motif:4
+  label: dying mother addresses daughter
+  taxonomy_refs: []
+  basis: The mother grows gravely ill, the daughter remains beside her, and the mother
+    takes her daughter’s hand and begins to speak with difficulty.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The actual content of the mother’s speech is not included in the passage,
+    so the motif’s function is incomplete here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3178-3185
+  quote_or_summary: The wife makes winter clothes, spins thread, prepares weaving,
+    directs the girl’s games, teaches old stories, and the husband returns.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 3187-3197
+  quote_or_summary: The husband returns after about a month of travel, sunburned by
+    weather; wife and child recognize and greet him eagerly.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 3199-3212
+  quote_or_summary: The father opens a bamboo basket and gives the little girl a doll
+    and a lacquer box full of cakes as a prize for caring for mother and house.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 3214-3222
+  quote_or_summary: The husband gives the wife a square wooden box tied with red and
+    white string; inside is a handled metal disk, bright on one side and decorated
+    with pine-trees and storks on the other; she sees somebody looking at her in it.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 3224-3237
+  quote_or_summary: The husband explains that the disk is a mirror showing the viewer’s
+    own form, says mirrors are necessary for women in the capital, quotes a proverb
+    comparing a woman’s mirror to a samurai’s sword, says it indexes the heart, and
+    says it is among the Emperor’s insignia.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 3239-3244
+  quote_or_summary: The wife is pleased by the precious gift, says she will treasure
+    it if it represents her soul, raises it to her forehead, shuts it in its box,
+    and puts it away.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 3246-3252
+  quote_or_summary: The wife serves the evening meal; the reunited family feels great
+    happiness, and the father tells of his journey and the capital.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 3254-3263
+  quote_or_summary: Years pass; the daughter grows into a beautiful sixteen-year-old
+    who helps her mother and reminds her father of her mother, before sorrow breaks
+    the family’s happiness when the mother falls ill.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 3265-3288
+  quote_or_summary: The mother’s illness worsens despite the doctor; father and daughter
+    grieve, the daughter stays beside her, and the mother takes her daughter’s hand
+    and begins to speak with difficulty.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif candidates
+    are descriptive and passage-local; comparison claims are omitted because the passage
+    itself does not establish an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied excerpt and metadata were used. No external tale context was added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l3178-l3288
+  passage_sha256=6548f8609777fcda395975e50206493a75b4ddb3f2803dfc4e8ab7e199d55fdd
+

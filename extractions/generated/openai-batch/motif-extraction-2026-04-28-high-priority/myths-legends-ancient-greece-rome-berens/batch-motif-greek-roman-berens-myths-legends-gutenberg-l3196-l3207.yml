@@ -1,0 +1,267 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l3196-l3207
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: SELENE-ARTEMIS. / DIANA. / HEPHAESTUS (VULCAN). / VULCAN.; lines 3196-3207
+  start: '3196'
+  end: '3207'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Roman Vulcan as a Greek importation that did not
+    become deeply rooted in Roman religious life, while retaining Greek attributes
+    as god of fire and master of metalworking. It notes his place among the twelve
+    Olympian gods represented by gilded statues in the Forum and suggests that his
+    Roman name may indicate a connection with Tubal-Cain.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Vulcan is described as a Roman importation from Greece.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Vulcan's worship is described as not deeply rooted in Roman life and as lacking
+    the devotional enthusiasm associated with rites of other deities.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In Rome, Vulcan retained Greek attributes as god of fire and master of metalworking.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Vulcan was ranked among the twelve great gods of Olympus, whose gilded statues
+    were arranged along the Forum.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says Vulcan's Roman name seems to indicate a connection with Tubal-Cain.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Vulcan
+  description: Roman deity described as an importation from Greece, retaining attributes
+    as god of fire and master of metalworking.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Tubal-Cain
+  description: Biblical figure identified in the passage as the first great metal-working
+    artificer of Biblical history.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: imported deity
+  assigned_to:
+  - fig:1
+  basis: The passage calls Roman Vulcan an importation from Greece.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: god of fire
+  assigned_to:
+  - fig:1
+  basis: The passage says Vulcan retained Greek attributes as god of fire.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: master metalworker
+  assigned_to:
+  - fig:1
+  basis: The passage describes Vulcan as an unrivalled master of working in metals.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: metal-working artificer
+  assigned_to:
+  - fig:2
+  basis: The passage identifies Tubal-Cain as the first great metal-working artificer
+    of Biblical history.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: metalworking
+  literal_form: working in metals
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: gilded statues
+  literal_form: gilded statues arranged along the Forum
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Vulcan's Roman characterization
+  summary: The passage characterizes Vulcan's Roman cult as a Greek importation that
+    remained limited in Roman religious life while preserving Greek fire and metalworking
+    attributes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Vulcan among Olympian statues in the Forum
+  summary: Vulcan is listed among the twelve Olympian gods represented by gilded statues
+    arranged in the Forum.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Suggested name connection with Tubal-Cain
+  summary: The passage suggests that Vulcan's Roman name may indicate a connection
+    with Tubal-Cain, described as a Biblical metal-working artificer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine fire and metalworking craft
+  taxonomy_refs: []
+  basis: Vulcan is identified as god of fire and unrivalled master of metalworking.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No exact available motif-family taxonomy reference directly matches divine
+    smithcraft.
+- id: motif:2
+  label: imported deity retaining attributes across cultures
+  taxonomy_refs: []
+  basis: The passage describes Vulcan as imported from Greece into Rome while retaining
+    Greek attributes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a handbook-level cultural transmission pattern rather than a narrative
+    motif.
+- id: motif:3
+  label: name-based comparison of metalworking figures
+  taxonomy_refs: []
+  basis: The passage states that Vulcan's Roman name seems to indicate a connection
+    with Tubal-Cain, both associated here with metalworking.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage presents the connection tentatively and gives no supporting
+    linguistic details beyond the asserted name association.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself proposes a possible connection between Vulcan's Roman
+    name and Tubal-Cain, with both figures associated with metalworking.
+  claim_level: linguistic_similarity
+  target: Tubal-Cain in Biblical history
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The source phrases the connection tentatively and does not provide
+    philological evidence.
+- id: claim:2
+  claim: The passage presents Vulcan as a Roman form imported from the Greek tradition
+    while retaining Greek attributes.
+  claim_level: historical_contact
+  target: Greek Hephaestus/Vulcan tradition as transmitted into Rome
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a general handbook statement and does not detail
+    the mechanism or chronology of transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3196-3200
+  quote_or_summary: Roman Vulcan is described as an importation from Greece that never
+    took firm root in Rome and whose worship lacked the devotional enthusiasm of other
+    deities' rites.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3200-3202
+  quote_or_summary: Vulcan retained Greek attributes in Rome as god of fire and unrivalled
+    master of working in metals.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3202-3204
+  quote_or_summary: Vulcan was ranked among the twelve great gods of Olympus, whose
+    gilded statues were arranged consecutively along the Forum.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3204-3207
+  quote_or_summary: The passage says Vulcan's Roman name seems to indicate a connection
+    with Tubal-Cain, described as the first great metal-working artificer of Biblical
+    history.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is straightforward for figures and attributes. Motif candidates
+    are limited because the passage is descriptive rather than narrative, and available
+    taxonomy refs do not include a divine smith or craft motif.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage and metadata; no external taxonomy IDs added beyond available symbol ref for fire.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l3196-l3207
+  passage_sha256=03304237bcb6d1557b342d16549f1f92e0f7433260932b2e53dd0cc0235d5165
+

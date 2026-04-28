@@ -1,0 +1,496 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l6510-l6645
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE QUARREL OF THE MONKEY AND THE CRAB / THE WHITE HARE AND THE CROCODILES
+    / THE STORY OF PRINCE YAMATO TAKE / MOMOTARO, OR THE STORY OF THE SON OF A PEACH;
+    lines 6510-6645
+  start: '6510'
+  end: '6645'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Momotaro recruits a monkey and then a pheasant into his company, disciplines
+    quarrels among his animal companions, leads them to the North-Eastern Sea, tests
+    their courage at the water crossing, sails with them toward the Island of Devils,
+    and sends the pheasant ahead to challenge the demons at their castle.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Momotaro gives the monkey a piece of rice-cake and the monkey joins him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dog and monkey quarrel during the march, and Momotaro separates their
+    positions in the group.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The marching arrangement includes a flag, a sword, and an iron war-fan.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A pheasant appears in a field, fights with the dog, then surrenders and asks
+    to join Momotaro’s company.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Momotaro commands the dog, monkey, and pheasant to stop quarreling and act
+    with one mind.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The three animal companions promise not to quarrel, and the pheasant receives
+    half a cake.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The party reaches the shore of the North-Eastern Sea and sees no island on
+    the horizon.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The dog, monkey, and pheasant are bewildered because they have never seen
+    the sea before and do not know how to cross to the Island of Devils.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Momotaro rebukes the animals as cowards and threatens to discharge them; they
+    cling to him and beg not to be left behind.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Momotaro and the three animals board a small ship and sail over the sea in
+    fair wind and weather.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The travelers sight land with a large castle on a precipitous shore, which
+    Momotaro identifies as the devils’ stronghold.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Momotaro orders the pheasant to fly to the castle and engage the demons in
+    battle.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Momotaro
+  description: Leader of the company who recruits animal companions, gives orders,
+    conducts the voyage, and plans the attack on the devils’ stronghold.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Monkey
+  description: Animal companion who accepts rice-cake from Momotaro, joins the company,
+    quarrels with the dog, and later crosses the sea with the group.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Dog
+  description: Animal companion already in Momotaro’s company; quarrels with the monkey,
+    fights the pheasant, and later crosses the sea with the group.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Pheasant
+  description: Beautiful bird with varied feathers and a scarlet cap; fights the dog,
+    surrenders to Momotaro, joins the company, and is sent to fly ahead to the demons’
+    castle.
+  role_refs:
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Demons or devils
+  description: Enemy beings associated with the Island of Devils and a castle stronghold;
+    they are the targets of Momotaro’s raid.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: Expedition leader and commander
+  assigned_to:
+  - fig:1
+  basis: Momotaro recruits companions, enforces harmony, rebukes and tests the animals,
+    directs the voyage, and gives the pheasant a tactical order.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:2
+  label: Animal companion and fighter
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The animals accompany Momotaro on a raid against the devils and are treated
+    as members of his company.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:3
+  label: Quarrelsome follower disciplined into unity
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The dog and monkey quarrel, the pheasant fights the dog, and Momotaro orders
+    all three animals to become friends with one mind.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: Enemy at distant stronghold
+  assigned_to:
+  - fig:5
+  basis: The demons or devils are described as the hostile beings on the island whom
+    Momotaro intends to fight.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:5
+  label: Winged advance challenger
+  assigned_to:
+  - fig:4
+  basis: Momotaro says the pheasant’s wings are an advantage and orders it to fly
+    to the castle and engage the demons.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Rice-cake reward
+  literal_form: piece of rice-cake; half a cake
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Military implements of the company
+  literal_form: flag, sword, and iron war-fan
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Sea crossing
+  literal_form: North-Eastern Sea and water between the party and the Island of Devils
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: Small ship
+  literal_form: small ship used to cross the sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Enemy island and castle
+  literal_form: Island of Devils; large castle on a precipitous shore
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+scenes:
+- id: scene:1
+  label: Monkey joins the company
+  summary: Momotaro praises the monkey’s courage, gives him part of a rice-cake, and
+    accepts him as a companion, while tension continues between the monkey and dog.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pheasant encounter and recruitment
+  summary: A striking pheasant appears, fights the dog, is admired by Momotaro for
+    its fighting spirit, surrenders, and asks to join the group.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Command for harmony
+  summary: Momotaro instructs the dog, monkey, and pheasant that an army needs harmony
+    and warns that anyone starting a quarrel will be discharged.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Arrival at the North-Eastern Sea
+  summary: The party reaches the sea, the animals are bewildered by the unfamiliar
+    water crossing, and Momotaro rebukes them to draw out their courage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Voyage toward the devils’ island
+  summary: Momotaro and the three animals sail in a small ship under fair conditions,
+    become accustomed to the water, and watch for the demons’ island.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Sight of the stronghold and advance order
+  summary: The party sights a castle on a precipitous shore, understood as the devils’
+    stronghold, and Momotaro orders the pheasant to fly ahead and engage the demons.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Hero recruits animal companions through food reward and command
+  taxonomy_refs: []
+  basis: The monkey joins after receiving a rice-cake, and the pheasant joins after
+    surrendering and later receives half a cake.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage shows recruitment and food distribution, but does not state
+    a ritual or sacred exchange.
+- id: motif:2
+  label: Quarrelsome companions unified by a leader before battle
+  taxonomy_refs: []
+  basis: Momotaro explicitly teaches that an army requires harmony, orders the three
+    animals to be friends with one mind, and threatens discharge for further quarrels.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a social and military motif within the passage, not tied here
+    to a named external taxonomy item.
+- id: motif:3
+  label: Courage test at a water threshold
+  taxonomy_refs:
+  - initiation
+  basis: At the sea, the animals are daunted; Momotaro rebukes them as cowards and
+    threatens to go alone, after which they beg to continue and gain courage.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The text does not call the event an initiation; the taxonomy link is based
+    only on the trial-like function at a boundary.
+- id: motif:4
+  label: Voyage across water to a monster stronghold
+  taxonomy_refs:
+  - departure
+  - mystical_quest
+  basis: The party boards a small ship, crosses the sea, watches for the demons’ island,
+    and reaches the castle stronghold of the devils.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage supports a martial expedition over water; broader quest terminology
+    is interpretive.
+- id: motif:5
+  label: Winged companion sent ahead as advance challenger
+  taxonomy_refs: []
+  basis: Momotaro identifies the pheasant’s wings as an advantage and orders it to
+    fly to the castle to engage the demons before the others follow.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The scene gives a tactical use of flight, not a detailed messenger episode.
+- id: motif:6
+  label: Monster-subduing expedition for the country’s welfare
+  taxonomy_refs:
+  - culture_hero
+  basis: Momotaro leads a raid on devils and thinks of killing monsters who have done
+    much harm in his country.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The excerpt frames public harm and monster-fighting, but fuller culture-hero
+    classification would require context beyond this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6510-6523
+  quote_or_summary: Momotaro gives the monkey a piece of rice-cake; the monkey joins;
+    the dog and monkey quarrel; Momotaro arranges the dog with a flag, the monkey
+    with a sword, and himself between them with an iron war-fan.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6524-6551
+  quote_or_summary: A beautiful pheasant appears, fights with the dog, is admired
+    by Momotaro for its spirit, surrenders, apologizes, and asks to follow behind
+    the dog and monkey.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 6552-6571
+  quote_or_summary: Momotaro says, “The first thing necessary in an army is harmony,”
+    orders the dog, monkey, and pheasant to be friends with one mind, and the pheasant
+    becomes a member of the suite and receives half a cake.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 6572-6584
+  quote_or_summary: After traveling through valleys and hills, the party reaches the
+    shore of the North-Eastern Sea; the animals have never seen the sea and wonder
+    how to cross to the Island of Devils.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6585-6604
+  quote_or_summary: Momotaro notices the animals are daunted, calls them cowards,
+    threatens to discharge them and go alone, and the dog, monkey, and pheasant beg
+    him to take them along.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6605-6629
+  quote_or_summary: Momotaro obtains a small ship; the four sail in fair weather,
+    the animals become accustomed to the water, they watch for the demons’ island,
+    and Momotaro longs to kill the monsters who harmed his country.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 6630-6645
+  quote_or_summary: The travelers see land with a large castle on a precipitous shore;
+    Momotaro recognizes the devils’ stronghold, thinks about the attack, and orders
+    the pheasant to fly to the castle and engage the demons.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are candidate
+    descriptions; taxonomy links are limited to the provided list and require human
+    review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons were added because the passage itself does not explicitly compare the episode to another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l6510-l6645
+  passage_sha256=6a11280a3009478e0ac63db740b7cd973cda024b2704a2106b754b351f343061
+

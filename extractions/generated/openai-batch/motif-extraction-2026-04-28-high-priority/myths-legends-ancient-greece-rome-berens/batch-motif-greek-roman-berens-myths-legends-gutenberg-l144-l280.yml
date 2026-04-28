@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l144-l280
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: 'NEW YORK: / PREFACE. / E. M. BERENS. / CONTENTS.; lines 144-280'
+  start: '144'
+  end: '280'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a table of contents for Part I of Berens's handbook. It
+    organizes mythological material into dynastic sections, Olympian, sea, minor,
+    night-related, and Roman divinities, and sections on public worship, sacrifices,
+    oracles, and Greek and Roman festivals.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The contents divide Part I into sections headed First Dynasty, Second Dynasty,
+    and Third Dynasty.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The First Dynasty section contains an entry for the origin of the world and
+    Uranus and Gaea, with Coelus and Terra in parentheses.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Second Dynasty section lists Cronus, Rhea, the division of the world,
+    and theories as to the origin of man.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Third Dynasty section lists Olympian divinities, including Zeus, Hera,
+    Pallas-Athene, Demeter, Aphrodite, Apollo, Artemis, Hephaestus, Poseidon, and
+    others, often with Roman equivalents in parentheses.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Separate contents sections list sea divinities, minor divinities, Night and
+    her children, Roman divinities, public worship, and festivals.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: obs:6
+  text: The public worship section includes entries for temples, statues, altars,
+    priests, sacrifices, oracles, soothsayers, augurs, and festivals.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Greek festivals listed include the Eleusinian Mysteries, Thesmophoria, Dionysia,
+    Panathenaea, and Daphnephoria; Roman festivals listed include Saturnalia, Cerealia,
+    and Vestalia.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Uranus and Gaea
+  description: Listed together as the subject of the First Dynasty section, with Coelus
+    and Terra as parenthetical names.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Cronus
+  description: Listed as an entry in the Second Dynasty section, with Saturn in parentheses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Rhea
+  description: Listed as an entry in the Second Dynasty section, with Ops in parentheses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Zeus
+  description: Listed among the Olympian divinities, with Jupiter in parentheses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Hera
+  description: Listed among the Olympian divinities, with Juno in parentheses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Pallas-Athene
+  description: Listed among the Olympian divinities, with Minerva in parentheses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Demeter
+  description: Listed among the Olympian divinities, with Ceres in parentheses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Poseidon
+  description: Listed among the Olympian divinities, with Neptune in parentheses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Nyx
+  description: Listed under the heading Night and her children, with Nox in parentheses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Roman divinities
+  description: A contents section lists Roman divinities such as Janus, Flora, Pomona,
+    Terminus, Consus, Genii, Manes, and Penates.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: contents subject
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  basis: The named figures or groups appear as entries or section subjects in the
+    table of contents.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Table of contents organization
+  summary: The passage organizes the handbook's mythological and ritual topics into
+    dynasties, groups of divinities, worship practices, and festivals rather than
+    narrating a mythic event.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: origin of the world
+  taxonomy_refs: []
+  basis: The contents include a First Dynasty entry titled Origin of the World.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is only a table-of-contents heading; the passage does not narrate
+    the cosmogony.
+- id: motif:2
+  label: origin of humankind
+  taxonomy_refs: []
+  basis: The Second Dynasty section lists theories as to the origin of man.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage names the topic but gives no details of the theories.
+- id: motif:3
+  label: division of the world
+  taxonomy_refs: []
+  basis: The Second Dynasty section includes an entry titled Division of the World.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not describe how the world is divided or by whom.
+- id: motif:4
+  label: sacrifice in public worship
+  taxonomy_refs:
+  - sacrifice
+  basis: The public worship section includes an entry for sacrifices.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The entry is topical and does not describe a specific sacrificial scene.
+- id: motif:5
+  label: mystery festival rites
+  taxonomy_refs:
+  - initiation
+  basis: The Greek festivals section includes the Eleusinian Mysteries.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The association with initiation is only a cautious motif classification;
+    the passage itself provides only the festival title.
+comparison_claims:
+- id: claim:1
+  claim: The contents present Greek divine figures alongside Roman equivalent names
+    in parentheses, indicating a handbook-level Greek-Roman comparison.
+  claim_level: same_function
+  target: Greek divinities and Roman parenthetical equivalents such as Uranus/Coelus,
+    Gaea/Terra, Zeus/Jupiter, Hera/Juno, and Pallas-Athene/Minerva
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage provides name pairings only; it does not explain equivalence,
+    cult function, or historical transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 144-280
+  quote_or_summary: The contents list Part I as Myths and organize material into First,
+    Second, and Third Dynasty sections.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 144-280
+  quote_or_summary: "“FIRST DYNASTY. ORIGIN OF THE WORLD-- URANUS AND GAEA (Coelus
+    and Terra)”"
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 144-280
+  quote_or_summary: The Second Dynasty entries include Cronus (Saturn), Rhea (Ops),
+    Division of the World, and Theories as to the Origin of Man.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 144-280
+  quote_or_summary: The Olympian divinities section lists Zeus (Jupiter), Hera (Juno),
+    Pallas-Athene (Minerva), Demeter (Ceres), Aphrodite (Venus), Apollo, Artemis (Diana),
+    Hephaestus (Vulcan), Poseidon (Neptune), and others.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: summary
+  locator: lines 144-280
+  quote_or_summary: The contents include sections for Sea Divinities, Minor Divinities,
+    Night and her Children, and Roman Divinities.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short summary used.
+- id: ev:6
+  type: summary
+  locator: lines 144-280
+  quote_or_summary: The public worship section lists temples, statues, altars, priests,
+    sacrifices, oracles, soothsayers, augurs, and festivals.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short summary used.
+- id: ev:7
+  type: summary
+  locator: lines 144-280
+  quote_or_summary: The festival sections list Greek festivals including the Eleusinian
+    Mysteries, Thesmophoria, Dionysia, Panathenaea, and Daphnephoria, and Roman festivals
+    including Saturnalia, Cerealia, and Vestalia.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a table of contents rather than a narrative mythic passage.
+    Extraction is reliable for headings, names, and topical organization, but motif
+    identification is limited because no events are described.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No symbols were extracted because the passage lists topics and names but does not present literal symbolic objects or images from the available symbol taxonomy.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l144-l280
+  passage_sha256=37398feb8481feb8607540483f84af0dd0ee9272ac8748450103a4d53041dc42
+

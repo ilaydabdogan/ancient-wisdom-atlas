@@ -1,0 +1,540 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l1634-l1698
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: PALLAS-ATHENE (MINERVA). / MINERVA. / THEMIS. / VESTA.; lines 1634-1698
+  start: '1634'
+  end: '1698'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Vesta’s Roman temple, altar fire, priestesses, Palladium,
+    and festival; then introduces Demeter as an earth and agriculture goddess, distinguishes
+    her from Gaea and Rhea, credits her with bringing agriculture, and describes her
+    blessings, punishments, Sicilian veneration, and iconography.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Vesta’s temple in Rome is described as containing the hearthstone of the nation
+    and standing close to the palace of Numa Pompilius.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A never-ceasing fire burned on Vesta’s altar and was tended by the Vestal
+    Virgins.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The temple of Vesta was circular and contained the Palladium of Troy, described
+    as a sacred and highly prized treasure.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Vestalia, Vesta’s great festival, was celebrated on June 9.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Demeter is identified as the daughter of Cronus and Rhea and as an earth-mother
+    associated with vegetation, agriculture, field-fruits, plenty, and productiveness.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A very old poem is summarized as depicting Gaea retiring to a cavern in the
+    bowels of the earth and sitting in the lap of her daughter.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage distinguishes Gaea as the whole earth, Rhea as productive vegetative
+    power, and Demeter as the agricultural direction and use of that productive power.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage says Demeter introduced knowledge of agriculture and thereby ended
+    a previously necessary nomadic life.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Demeter’s favour was believed to bring rich harvests and fruitful crops, while
+    her displeasure caused blight, drought, and famine.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Sicily is described as under Demeter’s special protection and as venerating
+    her because of the island’s fertility.
+  category: setting
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Demeter is represented as a tall, dignified, fully draped woman with golden
+    hair, sometimes in a chariot drawn by winged dragons, and bearing wheat-ears and
+    a lighted torch or poppies.
+  category: attribute
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Vesta
+  description: Roman divinity whose temple, altar fire, festival, and sacred treasure
+    are described.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Vestal Virgins
+  description: Priestesses who tended the never-ceasing fire on Vesta’s altar.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Demeter / Ceres
+  description: Daughter of Cronus and Rhea, called earth-mother and goddess of agriculture,
+    field-fruits, plenty, and productiveness.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+  - ev:11
+- id: fig:4
+  name_or_label: Cronus
+  description: Named as Demeter’s father.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Rhea
+  description: Named as Demeter’s mother and described as the productive power that
+    causes vegetation to spring forth.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: Gaea
+  description: Described as the whole solid earth and as an earlier earth-goddess
+    who abdicated her sway in favour of Rhea.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: Uranus
+  description: Mentioned as connected with Gaea’s lost position as a ruling divinity.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Roman hearth and temple deity
+  assigned_to:
+  - fig:1
+  basis: Vesta’s temple contains the hearthstone of the nation, and her altar bears
+    a never-ceasing fire.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Tenders of sacred fire
+  assigned_to:
+  - fig:2
+  basis: The Vestal Virgins tend the never-ceasing fire on Vesta’s altar.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Earth-mother and agriculture goddess
+  assigned_to:
+  - fig:3
+  basis: Demeter is called earth-mother and is associated with agriculture, crops,
+    plenty, and vegetation.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Divine giver of agriculture
+  assigned_to:
+  - fig:3
+  basis: The passage says Demeter introduced knowledge of agriculture and ended nomadic
+    life.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: Parents of Demeter
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Demeter is identified as the daughter of Cronus and Rhea.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: Vegetative productive power
+  assigned_to:
+  - fig:5
+  basis: Rhea is described as the productive power that causes vegetation to spring
+    forth.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: Whole-earth goddess
+  assigned_to:
+  - fig:6
+  basis: Gaea is described as representing the earth as a whole with subterranean
+    forces.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Never-ceasing altar fire
+  literal_form: Fire burning continuously on Vesta’s altar
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: National hearthstone
+  literal_form: Hearthstone of the nation within Vesta’s temple
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Circular temple
+  literal_form: Circular temple of Vesta in Rome
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Palladium of Troy
+  literal_form: Sacred and highly prized treasure kept in Vesta’s temple
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Cavern in the earth
+  literal_form: Cavern in the bowels of the earth where Gaea is described as retiring
+  associated_figures:
+  - fig:6
+  - fig:5
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: Wheat-ears
+  literal_form: Sheaf of wheat-ears held by Demeter; her golden hair is said to symbolize
+    ripened ears of corn
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:7
+  label: Lighted torch
+  literal_form: Lighted torch held by Demeter
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:11
+- id: sym:8
+  label: Poppies
+  literal_form: Bunch of poppies or poppy garland associated with Demeter’s representation
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:9
+  label: Winged dragon chariot
+  literal_form: Chariot drawn by winged dragons in representations of Demeter
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Vesta’s Roman hearth cult
+  summary: Vesta’s Roman temple is located near Numa’s palace, contains the national
+    hearthstone, and has an altar with a fire tended by Vestal Virgins.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Vesta’s temple treasure and festival
+  summary: Vesta’s circular temple contains the Palladium of Troy, and the Vestalia
+    is celebrated on June 9.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Earth-goddess succession and differentiation
+  summary: The passage explains Gaea, Rhea, and Demeter as related but distinct earth-goddesses,
+    including Gaea’s retirement to a cavern and Demeter’s later assumption of Rhea’s
+    functions.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Demeter brings agriculture
+  summary: Demeter is credited with introducing agriculture, making settled life possible
+    and ending the need for nomadic movement after pastures were exhausted.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Demeter’s agricultural favour and representation
+  summary: Demeter’s favour or displeasure affects crops and famine; Sicily is under
+    her special protection, and her iconography includes wheat, torch, poppies, and
+    a dragon-drawn chariot.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Eternal sacred fire tended by priestesses
+  taxonomy_refs: []
+  basis: A never-ceasing fire burns on Vesta’s altar and is tended by the Vestal Virgins.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage describes the ritual arrangement but does not narrate an origin
+    myth for the fire.
+- id: motif:2
+  label: Temple as national hearth
+  taxonomy_refs: []
+  basis: Vesta’s temple contains the hearthstone of the nation.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The national significance is stated briefly and not developed in a narrative
+    episode.
+- id: motif:3
+  label: Sacred treasure housed in a temple
+  taxonomy_refs: []
+  basis: The circular temple of Vesta contains the Palladium of Troy, called a sacred
+    and highly prized treasure.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No story of acquisition, loss, or theft of the Palladium is included in
+    this passage.
+- id: motif:4
+  label: Earth-mother goddess lineage and functional succession
+  taxonomy_refs:
+  - mother_goddess
+  - divine_parent_child
+  basis: Demeter is called earth-mother and daughter of Cronus and Rhea; the passage
+    links and differentiates Gaea, Rhea, and Demeter as earth-goddesses with related
+    powers.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a handbook explanation rather than a single mythic episode.
+- id: motif:5
+  label: Divine introduction of agriculture
+  taxonomy_refs:
+  - culture_hero
+  basis: Demeter is said to have introduced knowledge of agriculture, ending nomadic
+    life and enabling settled habitation.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage attributes a civilizing function to Demeter but gives no detailed
+    narrative of the gift.
+- id: motif:6
+  label: Deity’s favour and displeasure control fertility and famine
+  taxonomy_refs: []
+  basis: Demeter’s favour brings harvests and crops, while her displeasure causes
+    blight, drought, and famine.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The passage states a belief pattern without recounting a specific episode
+    of reward or punishment.
+- id: motif:7
+  label: Agricultural goddess with crop and torch emblems
+  taxonomy_refs: []
+  basis: Demeter’s representation includes golden hair likened to ripened corn, wheat-ears,
+    a lighted torch, poppies, and sometimes a winged-dragon chariot.
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: This is iconographic description; symbolic meanings beyond the stated
+    corn-hair association are not explained in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly treats Gaea, Rhea, and Demeter as distinct but functionally
+    related earth-goddesses, and says Demeter later assumes Rhea’s functions and attributes.
+  claim_level: same_function
+  target: Gaea and Rhea as earth-goddess figures in relation to Demeter
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs:
+  - ev:7
+  confidence: high
+  limitations: The comparison is internal to this passage’s explanatory framework
+    and should not be extended beyond the stated functional overlap.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1634-1642
+  quote_or_summary: Vesta’s Roman temple is said to contain the hearthstone of the
+    nation and to stand close to Numa Pompilius’s palace.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1643-1645
+  quote_or_summary: "“On her altar burned the never-ceasing fire,” tended by the Vestal
+    Virgins."
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 1646-1648
+  quote_or_summary: Vesta’s temple is circular and contains the Palladium of Troy,
+    described as a sacred, highly prized treasure.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1649-1651
+  quote_or_summary: The Vestalia, the great festival in honour of Vesta, is celebrated
+    on June 9.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1652-1660
+  quote_or_summary: Demeter, from Ge-meter, is identified as earth-mother, daughter
+    of Cronus and Rhea, and goddess of vegetation, agriculture, field-fruits, plenty,
+    and productiveness.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1661-1669
+  quote_or_summary: The passage says Gaea lost her ruling position with Uranus, yielded
+    honour to Rhea, and is described in an old poem as retiring to a cavern in the
+    earth and sitting in her daughter’s lap.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1670-1683
+  quote_or_summary: Gaea represents the whole earth and subterranean forces; Rhea
+    represents productive vegetation; Demeter directs and utilizes Rhea’s powers through
+    agriculture and later assumes Rhea’s functions.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1684-1690
+  quote_or_summary: The passage says early humans did not know sowing or tilling and
+    that Demeter’s introduction of agriculture ended the need for nomadic life.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 1691-1694
+  quote_or_summary: Demeter’s favour brings rich harvests and fruitful crops; her
+    displeasure causes blight, drought, and famine.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 1694-1698
+  quote_or_summary: Sicily is described as under Demeter’s special protection, with
+    its fertility attributed to her partiality.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 1698 and following within supplied passage
+  quote_or_summary: Demeter is represented as majestic, tall, matronly, golden-haired,
+    fully draped, sometimes with a winged-dragon chariot, wheat-ears, a torch, poppies,
+    or a hair-riband.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a handbook-style summary, so factual extraction is strong;
+    motif labels are candidate patterns rather than narrative episode classifications.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references limited to available refs explicitly supported by the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l1634-l1698
+  passage_sha256=39ac20db3016e3fc18d064a2b969e07462a9969597d12592d0a5723b06152aa1
+

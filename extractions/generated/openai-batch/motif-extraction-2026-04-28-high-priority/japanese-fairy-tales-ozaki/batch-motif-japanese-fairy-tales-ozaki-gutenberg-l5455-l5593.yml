@@ -1,0 +1,394 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l5455-l5593
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE STORY OF THE OLD MAN WHO MADE WITHERED TREES TO FLOWER / THE JELLY FISH
+    AND THE MONKEY / THE QUARREL OF THE MONKEY AND THE CRAB / THE WHITE HARE AND THE
+    CROCODILES; lines 5455-5593
+  start: '5455'
+  end: '5593'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A white hare living on Oki wants to cross the sea to Inaba. He tricks a
+    crocodile into summoning many crocodiles to form a line across the water, then
+    crosses on their backs while pretending to count them. After he mocks them, the
+    crocodiles take revenge by pulling out his fur and leaving him injured on the
+    beach, where men who look like king's sons find him crying.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is set in a time when animals could talk, and the white hare lives
+    on the island of Oki near the mainland of Inaba.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hare wants to cross the sea from Oki to Inaba and repeatedly looks across
+    the water toward the mainland.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The hare sees a crocodile near the island and decides to obtain passage by
+    trick rather than directly asking a favor.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hare flatters and plays with the crocodile, then asks whether the crocodiles
+    are more numerous than hares.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The crocodile summons many crocodiles, who arrange themselves in the water
+    as a bridge between Oki and Inaba.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The hare crosses by hopping from one crocodile's back to another while pretending
+    to count them.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After reaching Inaba, the hare mocks the crocodiles instead of thanking them.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The crocodiles become angry, catch the hare, pull out his fur, and leave him
+    on the beach.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The injured hare lies helpless, crying and bleeding, until men who look like
+    king's sons pass by and ask what is wrong.
+  category: sequence
+  evidence_refs:
+  - ev:8
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: white hare of Inaba
+  description: A little white hare living on Oki who wants to cross to Inaba, tricks
+    the crocodiles, and is later stripped of his fur.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: first crocodile
+  description: A crocodile swimming near Oki who speaks with the hare, boasts of crocodile
+    numbers, and summons other crocodiles.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: company of crocodiles
+  description: A large group of crocodiles who form a line across the sea, are tricked
+    by the hare, and then take revenge.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: men who looked like King's sons
+  description: A number of men who pass by the beach, see the hare crying, and ask
+    what is the matter.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: trickster
+  assigned_to:
+  - fig:1
+  basis: The hare intentionally uses deception to get the crocodiles to create a crossing.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: boundary-crosser
+  assigned_to:
+  - fig:1
+  basis: The hare crosses from the island of Oki to the mainland of Inaba over the
+    sea.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: deceived helpers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The crocodile and his company form a bridge, unaware that the hare is using
+    them to cross the sea.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: avengers
+  assigned_to:
+  - fig:3
+  basis: After learning of the trick and being mocked, the crocodiles punish the hare
+    by pulling out his fur.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: injured sufferer
+  assigned_to:
+  - fig:1
+  basis: After the revenge, the hare is left fur-less, bleeding, helpless, and crying
+    on the beach.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: questioning passersby
+  assigned_to:
+  - fig:4
+  basis: The men stop when they see the crying hare and ask what is wrong.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: sea crossing
+  literal_form: the sea between the island of Oki and the mainland of Inaba
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: living bridge
+  literal_form: a line of crocodiles arranged in the water as a bridge between Oki
+    and Inaba
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: stripped fur
+  literal_form: the hare's white fur pulled out by the crocodiles
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Hare longs to cross the sea
+  summary: The hare on Oki repeatedly looks across the water toward Inaba and wants
+    to find a way to cross.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hare devises a trick
+  summary: The hare sees a crocodile, decides not to ask directly for help, and begins
+    a friendly conversation that leads to a boast about crocodile numbers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Crocodile bridge across the sea
+  summary: The first crocodile summons many crocodiles, who line up across the sea;
+    the hare hops across their backs while pretending to count them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Mockery and revenge
+  summary: After reaching the mainland, the hare mocks the crocodiles, who catch him
+    and pull out his fur in revenge.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Injured hare found on the beach
+  summary: The hare lies helpless and crying on the beach until men who look like
+    king's sons pass by and ask about his condition.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: trickster obtains a sea crossing by deceiving animals
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The hare uses deception to make crocodiles form a bridge over the sea, enabling
+    him to cross from Oki to Inaba.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents a trickster boundary-crossing
+    but does not name a formal motif category.
+- id: motif:2
+  label: boast exploited by a trickster
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The hare prompts the crocodile to boast about the number of crocodiles and
+    uses that boast to induce the crocodiles to line up across the sea.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a sub-pattern within the deception episode rather than a separately
+    named motif in the passage.
+- id: motif:3
+  label: trickster punished after gloating
+  taxonomy_refs: []
+  basis: The hare reveals and mocks his deception after crossing, and the crocodiles
+    retaliate by stripping off his fur.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No supplied taxonomy family directly corresponds to punitive reversal
+    after trickery.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5455-5470
+  quote_or_summary: In the age when animals could talk, a white hare lives on Oki
+    and longs to cross the sea to the mainland of Inaba.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5471-5484
+  quote_or_summary: The hare sees a crocodile near the island and thinks that he will
+    try to get what he wants by a trick rather than by asking a favor.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5485-5514
+  quote_or_summary: The hare greets the crocodile, plays with him, and asks whether
+    the crocodiles are more numerous than the hares; the crocodile boasts that crocodiles
+    in the sea far outnumber hares.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5515-5543
+  quote_or_summary: At the hare's request, the crocodile summons many crocodiles,
+    who arrange themselves in the water to form a bridge between Oki and Inaba.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5544-5558
+  quote_or_summary: The hare asks permission to walk over the crocodiles' backs to
+    count them, then hops from back to back and crosses to Inaba.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 5559-5566
+  quote_or_summary: 'The hare jeers at the crocodiles: “Oh! you stupid crocodiles,
+    now I have done with you!”'
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 5567-5578
+  quote_or_summary: The crocodiles realize the trick, become angry, catch and surround
+    the hare, pull out his fur, and say that it serves him right.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 5579-5588
+  quote_or_summary: After the crocodiles leave, the hare is fur-less, bleeding, in
+    pain, unable to move, and crying on the beach.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 5589-5593
+  quote_or_summary: Men who look like king's sons pass by, see the hare crying, stop,
+    and ask what is the matter; the hare says crocodiles pulled out his fur.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage provides clear figures, actions, and sequence. Motif labels are
+    candidate analytical labels based only on this passage and supplied taxonomy options.
+    No comparison claims are made because the passage itself does not compare traditions
+    or texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l5455-l5593
+  passage_sha256=dc8de5c06a67c4361d9759f91890af6c5b5a1fb3b3093bbf0d24cef204cfbf0c
+

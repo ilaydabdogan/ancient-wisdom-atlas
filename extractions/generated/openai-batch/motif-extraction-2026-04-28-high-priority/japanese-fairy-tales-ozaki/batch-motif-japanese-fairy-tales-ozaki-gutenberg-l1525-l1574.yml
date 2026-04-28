@@ -1,0 +1,534 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l1525-l1574
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: MY LORD BAG OF RICE / THE TONGUE-CUT SPARROW / THE STORY OF URASHIMA TARO,
+    THE FISHER LAD / THE FARMER AND THE BADGER; lines 1525-1574
+  start: '1525'
+  end: '1574'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Kotei observes how a leaf carries a spider over water and invents boats
+    to move his army across a river. He defeats Shiyu, restores peace, and continues
+    making beneficial inventions. After a long reign, a golden-looking Dragon descends
+    from a reddened sky, bows before him, and is identified by Kotei as a messenger
+    from Heaven. Kotei mounts the Dragon and ascends; the Empress and some courtiers
+    ride with him, while others fall after clinging to the Dragon's beard. Later,
+    Kotei's bow and arrow fall to the palace courtyard and are preserved as sacred
+    relics.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kotei reasons from the sight of a leaf carrying a spider over the river and
+    invents the first boat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kotei orders more boats made until there are enough for the whole army.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Kotei takes his army across the river, attacks Shiyu's headquarters, wins,
+    and ends the war.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Kotei is described as wise and good, beloved by his subjects, and active in
+    making inventions for their benefit.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After about a hundred years of reign, the sky becomes red and a glittering
+    golden-looking Dragon approaches the earth.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Dragon bows its head before the Emperor.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Empress and courtiers are frightened and run away screaming.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Kotei says the Dragon is a messenger from Heaven and that his time here is
+    finished.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Kotei mounts the Dragon, and the Dragon begins ascending toward the sky.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The Empress and courtiers ask to come too and grasp the Dragon's beard while
+    trying to mount.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Several people fall when hairs are pulled from the Dragon's beard, while the
+    Empress and a few courtiers remain seated on the Dragon's back.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The Dragon flies so high that those left in the Palace can no longer see the
+    riders.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: A bow and arrow fall into the palace courtyard, are identified as Kotei's,
+    and are preserved as sacred relics.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Emperor Kotei
+  description: A clever, wise, and good Emperor who invents boats, defeats Shiyu,
+    restores peace, and ascends on the Dragon.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Kotei's army and men
+  description: The men for whom boats are made and the army taken across the river
+    to attack Shiyu's headquarters.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Shiyu
+  description: The opponent whose headquarters Kotei attacks before gaining victory
+    and ending the war.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Kotei's subjects
+  description: The people who love Kotei and enjoy peace under his rule.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Great Dragon
+  description: A great Dragon that descends glittering like gold, bows before Kotei,
+    and carries him and some companions upward into the heavens.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Empress
+  description: Kotei's Empress, initially frightened by the Dragon, later seated safely
+    on its back during the ascent.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:7
+  name_or_label: Courtiers and palace inmates
+  description: Palace figures who witness the Dragon, some of whom try to mount it;
+    a few ascend, others fall or remain behind.
+  role_refs:
+  - role:8
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: inventor and benefactor
+  assigned_to:
+  - fig:1
+  basis: Kotei invents the first boat and other devices said to benefit his people.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: victorious ruler
+  assigned_to:
+  - fig:1
+  basis: Kotei leads his army across the river, defeats Shiyu, and ends the war.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: military force
+  assigned_to:
+  - fig:2
+  basis: The army is transported by boats and used in the attack on Shiyu's headquarters.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: defeated opponent
+  assigned_to:
+  - fig:3
+  basis: Shiyu's headquarters are attacked and Kotei gains complete victory.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: beneficiaries of peaceful rule
+  assigned_to:
+  - fig:4
+  basis: The subjects enjoy peace and prosperity under Kotei and love him.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: heavenward rider
+  assigned_to:
+  - fig:1
+  basis: Kotei mounts the Dragon and ascends toward the sky.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: heavenly messenger and conveyance
+  assigned_to:
+  - fig:5
+  basis: Kotei calls the Dragon a messenger from Heaven, and the Dragon carries riders
+    into the heavens.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: frightened witnesses
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The Empress and courtiers run away screaming when the Dragon descends.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: would-be companions in ascent
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: They ask to come too; the Empress and a few courtiers ride on the Dragon's
+    back, while others fail to mount.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: custodians of relics
+  assigned_to:
+  - fig:7
+  basis: The courtiers take up Kotei's bow and arrow and preserve them as sacred relics.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: river crossing
+  literal_form: river crossed by boats
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: first boat
+  literal_form: boat invented after observing a leaf carry a spider
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: leaf and spider model
+  literal_form: leaf carrying a spider over the river
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: South Pointing shinansha
+  literal_form: South Pointing shinansha mentioned among Kotei's inventions
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: great Dragon
+  literal_form: great Dragon glittering like gold and bowing before Kotei
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: reddened sky and golden glitter
+  literal_form: sky suddenly red and something glittering like gold coming toward
+    the earth
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Dragon's beard
+  literal_form: beard of the Dragon grasped by people trying to mount it
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: bow and arrow relics
+  literal_form: Kotei's bow and arrow falling to earth and preserved as sacred relics
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Invention of boats and river crossing
+  summary: Kotei turns the observation of a leaf carrying a spider into the invention
+    of boats, then equips his army to cross the river.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Victory over Shiyu
+  summary: Kotei crosses the river with his army, attacks Shiyu's headquarters, gains
+    victory, and ends the war.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Peaceful inventive reign
+  summary: Kotei secures peace and prosperity, is loved by his subjects, and continues
+    making beneficial inventions.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Dragon descends from the sky
+  summary: After a long reign, a golden-looking Dragon descends from a reddened sky,
+    bows before Kotei, and frightens the Empress and courtiers.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Ascent on the Dragon
+  summary: Kotei identifies the Dragon as a messenger from Heaven, mounts it, and
+    ascends; the Empress and a few courtiers ascend with him, while others fall after
+    grasping the Dragon's beard.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Relics fall to the palace
+  summary: Kotei's bow and arrow fall into the palace courtyard and are preserved
+    by courtiers as sacred relics.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: beneficial inventor ruler
+  taxonomy_refs:
+  - culture_hero
+  basis: Kotei invents the first boat, makes other beneficial inventions, restores
+    peace, and is loved by his subjects.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents him as a ruler and inventor; broader culture-hero
+    classification should be reviewed against the larger tale.
+- id: motif:2
+  label: wisdom from observing nature
+  taxonomy_refs:
+  - wisdom
+  basis: Kotei uses the example of a leaf carrying a spider over the river to devise
+    boats for human use.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage states the incident made the clever Emperor think of the invention;
+    it does not frame this as a formal wisdom teaching.
+- id: motif:3
+  label: heavenly ascent on a dragon
+  taxonomy_refs:
+  - ascent
+  basis: A Dragon called a messenger from Heaven descends, Kotei mounts it, and it
+    carries him upward into the heavens.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage implies departure from earthly life but does not explicitly
+    describe death or an afterlife destination.
+- id: motif:4
+  label: companions attempt to follow the ascending ruler
+  taxonomy_refs:
+  - ascent
+  basis: The Empress and courtiers ask to accompany Kotei, cling to the Dragon, and
+    only some succeed in riding upward.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a local episode within the ascent scene; its recurrence as an
+    independent motif is not established by the passage alone.
+- id: motif:5
+  label: sacred relics of a departed ruler
+  taxonomy_refs: []
+  basis: Kotei's bow and arrow fall to earth after his ascent and are preserved as
+    sacred relics in the Palace.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: No available taxonomy reference directly matches relic preservation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1525-1531
+  quote_or_summary: A leaf carrying a spider over the river inspires Kotei to invent
+    the first boat; he then has enough boats made for the whole army.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1532-1535
+  quote_or_summary: Kotei takes his army across the river, attacks Shiyu's headquarters,
+    gains complete victory, and ends the war.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1536-1543
+  quote_or_summary: Kotei secures peace and prosperity, is loved by his subjects,
+    and makes inventions for their benefit, including the boat and the South Pointing
+    shinansha.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1544-1552
+  quote_or_summary: After about a hundred-year reign, the sky turns red and a golden-looking
+    great Dragon descends, bows before Kotei, and frightens the Empress and courtiers.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1553-1560
+  quote_or_summary: Kotei tells the others not to fear, calls the Dragon a messenger
+    from Heaven, says his time is finished, mounts the Dragon, and begins ascending
+    toward the sky.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1561-1570
+  quote_or_summary: The Empress and courtiers ask to come too; some cling to the Dragon's
+    beard and fall, while the Empress and a few courtiers ride upward until unseen.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1571-1574
+  quote_or_summary: A bow and arrow later fall into the palace courtyard, are recognized
+    as Kotei's, and are preserved as sacred relics.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignments use only available
+    taxonomy references and should be reviewed, especially culture_hero and wisdom
+    labels in relation to the wider tale.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this episode with another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l1525-l1574
+  passage_sha256=d28eb32cacd3a07dbc0fe64f708ee1751cc6c6317cdd718bd318471cb1624710
+

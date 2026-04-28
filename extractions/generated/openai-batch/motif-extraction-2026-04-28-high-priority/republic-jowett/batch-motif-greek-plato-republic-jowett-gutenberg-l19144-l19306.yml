@@ -1,0 +1,426 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l19144-l19306
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK IV. / BOOK V. / BOOK VI. / BOOK VII.; lines 19144-19306
+  start: '19144'
+  end: '19306'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: draw the soul from becoming to being
+  summary: A dialogue considers what knowledge can turn the soul toward being while
+    also being useful for warrior guardians. Gymnastic, music, and practical arts
+    are excluded; arithmetic and number are proposed because they are universal and
+    can provoke reflection. An example from tragedy about Palamedes and Agamemnon
+    illustrates the military value of number. The speaker then distinguishes sense-objects
+    that do not invite thought from those that do, using three fingers and qualities
+    such as great/small, hard/soft, and light/heavy to show how sense-perception can
+    perplex the soul and require inquiry.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage asks what knowledge would draw the soul from becoming to being.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The proposed knowledge should also be useful in war because the young men
+    are to be warrior athletes.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Gymnastic is described as concerned with growth and decay of the body, and
+    therefore with generation and corruption.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Music is described as training guardians through habit, harmony, and rhythm,
+    but not as giving science or leading to the desired good.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Number and calculation are identified as common to all arts, sciences, and
+    intelligences, and as something learned among the elements of education.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Palamedes is said to appear in tragedy as claiming to have invented number,
+    numbered the ships, and arranged the ranks of the army at Troy.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Agamemnon is presented in the Palamedes example as ridiculously unfit to be
+    a general if he lacked knowledge of number.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Arithmetic is described as leading naturally to reflection and as drawing
+    the soul toward being when rightly used.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Objects of sense are divided into those that do not invite thought and those
+    whose sensory presentation demands further inquiry.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: 'Three fingers are used as an illustration: as fingers, each appears simply
+    to be a finger, regardless of position, color, thickness, or thinness.'
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The qualities of greatness and smallness, hardness and softness, and lightness
+    and heaviness are said to perplex the soul when the same object is intimated as
+    having opposed qualities.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: primary speaker
+  description: The speaker who directs the inquiry and proposes arithmetic as the
+    relevant study.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Glaucon
+  description: The addressed interlocutor who responds to the speaker's questions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: young men / warrior athletes
+  description: The young men previously designated as warrior athletes whose education
+    is under discussion.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: guardians
+  description: Those trained by music through habit, harmony, and rhythm.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Palamedes
+  description: A figure in tragedy said to claim invention of number and the numbering
+    and arrangement of the Greek forces at Troy.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Agamemnon
+  description: A general portrayed in the example as unfit if he was ignorant of number.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: inquirer and proposer of arithmetic
+  assigned_to:
+  - fig:1
+  basis: The speaker frames the search for knowledge and says arithmetic appears to
+    be the study being sought.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: respondent in dialogue
+  assigned_to:
+  - fig:2
+  basis: Glaucon is addressed and answers the speaker's questions.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:9
+- id: role:3
+  label: warrior trainees
+  assigned_to:
+  - fig:3
+  basis: The young men are described as warrior athletes, so the knowledge sought
+    should be useful in war.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: educational recipients
+  assigned_to:
+  - fig:4
+  basis: The guardians are said to be trained by music through rhythm and harmony.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: inventor and military organizer in tragic example
+  assigned_to:
+  - fig:5
+  basis: Palamedes is described as declaring that he invented number, numbered ships,
+    and arranged army ranks at Troy.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: ignorant general in example
+  assigned_to:
+  - fig:6
+  basis: Agamemnon is represented as incapable of proper generalship if ignorant of
+    number.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: number and calculation
+  literal_form: distinguishing one, two, and three; number and calculation
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: arithmetic as soul-turning study
+  literal_form: arithmetic used to draw the soul toward being
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: three fingers
+  literal_form: a little finger, a second finger, and a middle finger
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: opposed sensible qualities
+  literal_form: great and small; hard and soft; light and heavy
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Search for soul-directing knowledge
+  summary: The speakers seek a kind of knowledge that can draw the soul from becoming
+    to being and also serve the education of warrior athletes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Exclusion of prior education forms
+  summary: Gymnastic and music are reviewed and excluded as the sought knowledge because
+    they are tied to bodily growth and decay or to habituating harmony and rhythm
+    rather than science.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Discovery of number as universal study
+  summary: Number and calculation are proposed as common to every art and science
+    and necessary for war.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Palamedes and Agamemnon example
+  summary: A tragic example is used in which Palamedes claims to have invented number
+    and organized the army at Troy, making Agamemnon appear unfit if ignorant of counting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Sense-perception and thought
+  summary: The speaker distinguishes sensory objects that do not invite thought from
+    those that do, using three fingers and opposed qualities to show how perception
+    can perplex the soul and require inquiry.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: ascent of the soul through knowledge
+  taxonomy_refs:
+  - ascent
+  - wisdom
+  basis: The passage repeatedly frames the desired study as one that draws the soul
+    from becoming toward being, with arithmetic proposed as a means of turning the
+    soul to reflection.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The passage is philosophical and pedagogical rather than a narrative myth
+    of physical ascent; the taxonomy fit is conceptual.
+- id: motif:2
+  label: perplexing opposites prompting higher inquiry
+  taxonomy_refs:
+  - duality
+  - wisdom
+  basis: Opposed qualities such as great/small, hard/soft, and light/heavy are presented
+    as sensory intimations that perplex the soul and require explanation by thought.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  confidence: medium
+  cautions: The motif is extracted as a pattern of philosophical symbolism; the passage
+    does not present a mythic episode.
+- id: motif:3
+  label: number as civil and military ordering knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: Number and calculation are said to be universal elements of education and
+    necessary for war, and the Palamedes example links number to counting ships and
+    arranging army ranks.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a didactic example rather than an independent mythic narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19144-19158
+  quote_or_summary: The speakers ask what knowledge would “draw the soul from becoming
+    to being” and add that it should have usefulness in war for young warrior athletes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 19160-19170
+  quote_or_summary: Gymnastic is described as presiding over growth and decay of the
+    body and as having to do with generation and corruption, so it is not the knowledge
+    sought.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 19172-19191
+  quote_or_summary: 'Music is described as the counterpart of gymnastic: it trains
+    guardians by habit, harmony, and rhythm, but does not give science or tend toward
+    the desired good.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 19193-19220
+  quote_or_summary: 'The speaker proposes a universal element of education: “number
+    and calculation,” used by all arts and sciences and also by the art of war.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 19222-19241
+  quote_or_summary: Palamedes is said to declare in tragedy that he invented number,
+    numbered the ships, and arranged the army ranks at Troy; this makes Agamemnon
+    seem unfit as a general if ignorant of number.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 19243-19263
+  quote_or_summary: Arithmetic is described as a study that leads to reflection and
+    whose true use is “to draw the soul towards being.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: lines 19265-19285
+  quote_or_summary: The speaker distinguishes sense-objects that do not invite thought
+    from those that do, saying that some sensations are adequate while others are
+    untrustworthy and demand inquiry.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 19287-19303
+  quote_or_summary: Three fingers are introduced as an illustration; each appears
+    to sight simply as a finger, regardless of position, color, thickness, or thinness,
+    and therefore does not itself invite intelligence.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 19304-19306
+  quote_or_summary: The speaker asks whether sight and touch adequately perceive great
+    and small, thick and thin, hard and soft, light and heavy; the soul is said to
+    be perplexed by the same thing being indicated through opposed qualities.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is philosophical argument rather than mythic narration. No comparison
+    claims are added beyond the passage evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to provided motif families; no provided symbol taxonomy item is directly present in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l19144-l19306
+  passage_sha256=2a5c0162875342fd8ce3e73a89bc646eab024367bc76291a50402b5ba3a0013f
+

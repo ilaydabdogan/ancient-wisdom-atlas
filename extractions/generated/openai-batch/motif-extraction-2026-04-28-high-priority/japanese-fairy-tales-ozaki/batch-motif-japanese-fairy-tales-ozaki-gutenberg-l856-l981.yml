@@ -1,0 +1,481 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l856-l981
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: JAPANESE FAIRY TALES / MY LORD BAG OF RICE / THE TONGUE-CUT SPARROW / THE
+    STORY OF URASHIMA TARO, THE FISHER LAD; lines 856-981
+  start: '856'
+  end: '981'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A tortoise thanks Urashima for saving its life and offers to guide him
+    to the undersea Palace of the Dragon King. The tortoise grows large enough to
+    carry him, dives through the sea, and brings him to a magnificent gate and palace
+    where fish attendants welcome him. A beautiful princess receives Urashima, reveals
+    that she was the tortoise he saved, and offers him life forever in the land of
+    eternal youth as her bridegroom.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The tortoise says Urashima saved its life the previous day and that it has
+    come to thank him.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The tortoise asks whether Urashima has seen Rin Gin, the Palace of the Dragon
+    King of the Sea.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The tortoise offers to take Urashima to the Sea King’s land as his guide.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When Urashima doubts that he can ride on the tortoise’s back, the tortoise
+    suddenly grows large enough for a man to sit on its shell.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The tortoise carries Urashima into the sea, dives through the water, and Urashima
+    does not become tired or wet.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A magnificent gate and the roofs of the Sea King’s palace appear at the end
+    of the undersea journey.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A fish gatekeeper and fish vassals welcome Urashima to the Sea Palace.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A beautiful princess greets Urashima at the inner palace, takes him by the
+    hand, and seats him in the place of honor.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The princess states that she was the tortoise Urashima set free.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The princess offers Urashima life forever in the land of eternal youth and
+    offers to become his bride.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Urashima Taro
+  description: A poor fisher lad from Japan who saved a tortoise, rides on its back
+    to the undersea Sea Palace, and is welcomed there.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Tortoise / Princess
+  description: A tortoise who thanks Urashima, grows large enough to carry him under
+    the sea, and is later revealed to be a beautiful princess, daughter of the undersea
+    king.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Dragon King of the Sea / Sea King
+  description: The ruler associated with Rin Gin, the undersea palace and kingdom;
+    identified by the princess as her father.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Fish gatekeeper
+  description: A fish gatekeeper who is asked to show Urashima the way through the
+    palace gate.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Fish vassals
+  description: The red bream, flounder, sole, cuttlefish, and other chief vassals
+    of the Dragon King who bow and welcome Urashima.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Attendant maidens
+  description: Maidens accompanying the princess when she comes out to welcome Urashima.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: rescuer
+  assigned_to:
+  - fig:1
+  basis: The tortoise says its life was saved through Urashima’s kindness.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: grateful rescued being
+  assigned_to:
+  - fig:2
+  basis: The tortoise thanks Urashima for saving its life.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: guide to undersea realm
+  assigned_to:
+  - fig:2
+  basis: The tortoise offers to take Urashima to the Sea King’s land and leads him
+    there.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: animal mount
+  assigned_to:
+  - fig:2
+  basis: The tortoise grows large enough for Urashima to ride on its back and carries
+    him through the sea.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: undersea ruler
+  assigned_to:
+  - fig:3
+  basis: The palace and kingdom are identified as belonging to the Dragon King or
+    Sea King.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: role:6
+  label: honored visitor
+  assigned_to:
+  - fig:1
+  basis: Urashima is announced as a visitor and welcomed by the fish vassals and princess.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: supernatural bride-offerer
+  assigned_to:
+  - fig:2
+  basis: The princess offers to be Urashima’s bride in the land of eternal youth.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: threshold attendant
+  assigned_to:
+  - fig:4
+  basis: The fish gatekeeper leads the way through the gate.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: welcoming attendants
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The fish vassals and the princess’s maidens attend the reception at the palace.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: tortoise
+  literal_form: A tortoise who speaks, is rescued, grows larger, carries Urashima,
+    and is revealed as the princess.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: sym:2
+  label: sea journey
+  literal_form: Travel down through the water to a distant undersea palace.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: palace gate
+  literal_form: A magnificent gate before the Sea King’s Palace, with a fish gatekeeper.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Rin Gin Palace
+  literal_form: The Palace of the Dragon King of the Sea at the bottom of the sea.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: land of eternal youth
+  literal_form: A place where summer never dies and sorrow never comes.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: seat of honor
+  literal_form: The upper seat in the beautiful hall where the princess seats Urashima.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Tortoise thanks Urashima in the boat
+  summary: The tortoise speaks with Urashima, thanks him for saving its life, and
+    exchanges polite conversation with him in the boat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Invitation to the Dragon King’s undersea palace
+  summary: The tortoise describes Rin Gin, the Palace of the Dragon King of the Sea,
+    and offers to guide Urashima there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Descent through the sea
+  summary: The tortoise becomes large enough to carry Urashima, leaps into the sea,
+    and carries him through the water toward the palace.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Arrival at the palace gate
+  summary: Urashima and the tortoise reach the great gate of Rin Gin Palace, where
+    a fish gatekeeper and fish vassals welcome him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Princess reveals herself and offers marriage
+  summary: The princess welcomes Urashima, reveals that she was the tortoise he saved,
+    and offers him eternal life in her realm as her bridegroom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Rescued animal returns gratitude
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Urashima’s earlier rescue of the tortoise is followed by the tortoise’s thanks
+    and the offer of a marvelous journey.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage frames the exchange politely and wondrously; it does not explicitly
+    use a technical motif label.
+- id: motif:2
+  label: Animal guide carries human to an undersea otherworld
+  taxonomy_refs:
+  - hero_descent
+  - departure
+  - mystical_quest
+  basis: The tortoise serves as guide and mount, taking Urashima down through the
+    sea to the Dragon King’s palace.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The destination is undersea rather than an underworld of the dead; descent
+    language is spatial, not necessarily funerary.
+- id: motif:3
+  label: Shapeshifted supernatural woman revealed as rescued animal
+  taxonomy_refs:
+  - shapeshifter
+  basis: The princess tells Urashima that she was the tortoise he set free.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage states identity but does not describe the physical transformation
+    from princess to tortoise or back.
+- id: motif:4
+  label: Otherworldly bride offers eternal youth
+  taxonomy_refs:
+  - divine_beloved
+  - sacred_marriage
+  basis: The princess offers to be Urashima’s bride and to let him live forever in
+    a realm of eternal youth without sorrow.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The princess is royal and supernatural in context, but the passage does
+    not explicitly call her divine.
+- id: motif:5
+  label: Hospitality to a mortal in a supernatural palace
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Urashima is welcomed by gatekeeper, fish vassals, and princess, then seated
+    in the place of honor at the undersea palace.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents courtly reception rather than an explicit ritual
+    of sacred hospitality.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 856-876
+  quote_or_summary: The tortoise tells Urashima that its life was saved through his
+    kindness and thanks him; they converse politely in the boat.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 877-898
+  quote_or_summary: The tortoise asks whether Urashima has seen Rin Gin, the Palace
+    of the Dragon King of the Sea, says it lies far away at the bottom of the sea,
+    and offers to be his guide.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 899-929
+  quote_or_summary: The tortoise tells Urashima to ride on its back, suddenly becomes
+    large enough to carry a man, leaps into the sea, and carries Urashima through
+    the water without tiring him or wetting his clothes.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 930-944
+  quote_or_summary: A magnificent gate and the sloping roofs of a palace appear; the
+    tortoise identifies them as the gate and palace of Rin Gin, the Sea King’s Palace.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 945-962
+  quote_or_summary: At the gate, the tortoise introduces Urashima Taro from Japan;
+    a fish gatekeeper leads the way, and fish vassals of the Dragon King welcome Urashima
+    to the Sea Palace.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 963-975
+  quote_or_summary: Inside the palace, a beautiful princess with attendant maidens
+    welcomes Urashima, takes him by the hand, leads him to a hall, and seats him in
+    the place of honor.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 976-981
+  quote_or_summary: The princess says Urashima set free a tortoise, adds, "I was that
+    tortoise," and offers him life forever in the land of eternal youth as her bridegroom.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source text; short excerpt included.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are candidate classifications using only available taxonomy references and should
+    be reviewed by a human. No comparison claims were made because the passage itself
+    does not provide an explicit comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the provided available references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l856-l981
+  passage_sha256=d812eed6544777e6088ed7b04860ab5a1729198f6934cf38afe0324b5620aa22
+

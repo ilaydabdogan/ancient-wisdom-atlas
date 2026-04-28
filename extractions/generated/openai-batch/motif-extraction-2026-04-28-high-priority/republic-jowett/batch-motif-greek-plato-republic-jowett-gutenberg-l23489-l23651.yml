@@ -1,0 +1,469 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l23489-l23651
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK VII. / BOOK VIII. / BOOK IX. / BOOK X.; lines 23489-23651
+  start: '23489'
+  end: '23651'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Socrates argues with Glaucon that poets such as Homer and Hesiod are imitators
+    rather than possessors of knowledge. He compares poetic imitation to painting,
+    distinguishes use, making, and imitation, and says imitation is far removed from
+    truth. He further explains that imitation addresses the part of the human mind
+    vulnerable to appearances, optical confusion, conjuring, light and shadow, and
+    effects like magic.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Socrates says that if Homer had truly been able to educate and improve mankind,
+    he would have had followers who honored and loved him.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Socrates infers that poets beginning with Homer copy images of virtue and
+    similar things but do not reach truth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The poet is compared to a painter who makes a likeness of a cobbler without
+    understanding cobbling.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Socrates says poetic words, metre, harmony, and rhythm can make ignorant hearers
+    think the poet speaks well about arts he does not understand.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'Socrates distinguishes three arts concerned with things: one uses, one makes,
+    and one imitates.'
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The user is said to have knowledge of the goodness or badness of an instrument,
+    while the maker obtains correct belief from the user.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The imitator is said to have neither knowledge nor true opinion about the
+    goodness or badness of what he imitates.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Imitation is described as play or sport and as concerned with what is thrice
+    removed from truth.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: 'Socrates gives examples of visual appearances: a body appears smaller at
+    a distance, and an object appears straight outside water but crooked in water.'
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Socrates says conjuring and deception by light and shadow exploit a weakness
+    in the human mind and affect people like magic.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Speaker who develops the argument about poets, imitation, knowledge,
+    and illusion.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+- id: fig:2
+  name_or_label: Glaucon
+  description: Addressee in the dialogue who agrees with Socrates’ argument.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:3
+  name_or_label: Homer
+  description: Poet named as an example in the discussion of whether poets educate
+    and improve mankind.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Hesiod
+  description: Poet named alongside Homer in the discussion of whether poets could
+    make mankind virtuous.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Protagoras of Abdera and Prodicus of Ceos
+  description: Teachers named as examples of people who claim to manage education
+    and attract devoted companions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: poetical individuals / tragic poets
+  description: Poets described as imitators who copy images and speak in metre, harmony,
+    and rhythm.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:7
+  name_or_label: painter / imitative artist
+  description: Figure used as an analogy for imitation, making likenesses without
+    knowledge of the thing represented.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:8
+  name_or_label: user
+  description: The person who uses an object and has knowledge of its good or bad
+    qualities in use.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:9
+  name_or_label: maker
+  description: The craftsman who makes an object and receives correct belief from
+    the user.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: philosophical questioner
+  assigned_to:
+  - fig:1
+  basis: Socrates poses questions and offers distinctions about knowledge, making,
+    and imitation.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+- id: role:2
+  label: dialogue respondent
+  assigned_to:
+  - fig:2
+  basis: Glaucon answers Socrates and agrees with the argument.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:3
+  label: poet cited as test case
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Homer and Hesiod are named in the question of whether poets could educate
+    and make people virtuous.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: professional educator example
+  assigned_to:
+  - fig:5
+  basis: Protagoras and Prodicus are cited as figures whose educational claims attract
+    companions.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: imitator
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Poets and painters are described as making images or likenesses without knowledge
+    of the thing imitated.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: role:6
+  label: knower through use
+  assigned_to:
+  - fig:8
+  basis: The user is said to know the excellence or badness of an object through use.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: maker guided by user
+  assigned_to:
+  - fig:9
+  basis: The maker is said to gain correct belief by hearing the user who knows.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: image or likeness
+  literal_form: painted likeness; copied image of virtue or craft
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: colours of music and style
+  literal_form: words, phrases, metre, harmony, rhythm, and the colours music puts
+    on poetic tales
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: bit and reins
+  literal_form: bit and reins painted by a painter, made by workers, and known by
+    the horseman who uses them
+  associated_figures:
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: flute
+  literal_form: flutes whose goodness or badness is known by the flute-player and
+    reported to the flute-maker
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: water distortion
+  literal_form: water in which the same object appears crooked rather than straight
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: light and shadow deception
+  literal_form: light and shadow used in deceptive devices that affect the mind like
+    magic
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Testing the educational power of poets
+  summary: Socrates argues that if Homer or Hesiod had truly been able to educate
+    and improve people, their contemporaries would have kept them close or followed
+    them for instruction.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Poet and painter as imitators
+  summary: Socrates compares poets to painters, saying both create attractive representations
+    without reaching truth or understanding the arts they portray.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Use, making, and imitation distinguished
+  summary: Socrates distinguishes the user, maker, and imitator through examples such
+    as reins, bits, and flutes, assigning knowledge to the user, belief to the maker,
+    and neither to the imitator.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Imitation and vulnerable perception
+  summary: Socrates says imitation is far from truth and addresses the part of the
+    human mind confused by appearances, including distance, water, colour, light,
+    shadow, conjuring, and magic-like effects.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: appearance mistaken for knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The passage repeatedly contrasts knowledge with imitation, appearance, and
+    ignorance, especially in the poet, painter, maker, and user distinctions.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a philosophical pattern rather than a narrative myth motif.
+- id: motif:2
+  label: deceptive power of illusion
+  taxonomy_refs: []
+  basis: The passage describes visual confusion and says conjuring and deception by
+    light and shadow exploit the mind and have an effect like magic.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage uses analogy and epistemological argument, not a full mythic
+    episode.
+- id: motif:3
+  label: threefold distance from truth
+  taxonomy_refs: []
+  basis: Socrates explicitly describes imitation as concerned with what is thrice
+    removed from truth.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The motif label abstracts a philosophical hierarchy from the passage and
+    should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the effect of imitation and deceptive appearances to
+    conjuring or magic-like illusion.
+  claim_level: same_function
+  target: magic-like deception by light and shadow
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the passage and does not establish historical
+    contact with any external magical or mythological tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 23489-23518
+  quote_or_summary: Socrates asks whether Homer or Hesiod would have been allowed
+    to wander as rhapsodists if they had truly been able to educate people and make
+    them virtuous; he contrasts them with teachers such as Protagoras and Prodicus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 23522-23532
+  quote_or_summary: "“all these poetical individuals, beginning with Homer, are only
+    imitators; they copy images of virtue and the like, but the truth they never reach”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: 23536-23551
+  quote_or_summary: Socrates says poets use words, phrases, metre, harmony, and rhythm
+    like colours, so ignorant hearers think they speak well about arts they do not
+    understand.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 23567-23602
+  quote_or_summary: 'The painter can paint reins and a bit, but the horseman who uses
+    them knows their right form; Socrates then identifies three arts: using, making,
+    and imitating.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 23603-23623
+  quote_or_summary: The user has experience and knowledge of an object’s good and
+    bad qualities; the maker gains correct belief by listening to the user, as with
+    a flute-player and flute-maker.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 23624-23636
+  quote_or_summary: Socrates says the imitator lacks both knowledge from use and right
+    opinion from instruction about the goodness or badness of imitations.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: 23637-23647
+  quote_or_summary: "“Imitation is only a kind of play or sport” and is “concerned
+    with that which is thrice removed from the truth.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: summary
+  locator: 23648-23651
+  quote_or_summary: 'Socrates describes optical confusion: size changes with distance,
+    objects appear straight outside water and crooked in water, concave becomes convex
+    through colour illusion, and conjuring or deception by light and shadow affects
+    the mind like magic.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong. Motif candidates are interpretive because the
+    passage is philosophical argument rather than mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy refs applied only where directly supportable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l23489-l23651
+  passage_sha256=69e5a60d398a1b7c21cbf0d3cda321b44ecbb163b4c6652c8b078d631bb9f4bb
+

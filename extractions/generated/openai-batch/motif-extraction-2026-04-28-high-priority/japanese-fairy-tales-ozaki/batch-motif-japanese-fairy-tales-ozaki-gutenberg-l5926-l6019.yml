@@ -1,0 +1,514 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l5926-l6019
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE JELLY FISH AND THE MONKEY / THE QUARREL OF THE MONKEY AND THE CRAB /
+    THE WHITE HARE AND THE CROCODILES / THE STORY OF PRINCE YAMATO TAKE; lines 5926-6019
+  start: '5926'
+  end: '6019'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Prince Yamato Take is sent by the King to subjugate rebels in the eastern
+    provinces. Before leaving, he receives a royal spear and visits Ise, where his
+    aunt, the Princess of Yamato and High Priestess, gives him the sword Murakumo
+    and a bag of flints. In Suruga, a governor falsely welcomes him and lures him
+    into a deer hunt on a grassy plain, then sets the grass on fire around him. Yamato
+    Take uses the flints to make a counter-fire and the sword to cut the grass. The
+    wind changes, he escapes unharmed, and the governor is burned by the fire he set.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: News is brought that the Ainu, described in the passage as aborigines who
+    had rebelled in the eastern provinces, are causing trouble.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Prince Yamato Take offers to lead the military expedition against the rebels.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The King reluctantly agrees to send Yamato Take because no other warrior is
+    described as so strong or brave.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The King gives Yamato Take the Eight-Arms-Length-Spear of the Holly Tree and
+    orders him to set out eastward.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The spear is compared in the passage to a regimental standard or banner given
+    by a king to soldiers departing for war.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Yamato Take visits the temples of Ise, where his aunt, the Princess of Yamato
+    and High Priestess, greets him.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The aunt gives Yamato Take a sword and a handmade bag filled with flints for
+    making fire.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The sword is identified as Murakumo, one of the three sacred treasures and
+    part of the insignia of the Imperial House of Japan.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The governor of Suruga receives Yamato Take with feigned hospitality and proposes
+    a deer hunt.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The governor leads Yamato Take to a grassy plain as part of a trap intended
+    to cause his death.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Flames and smoke appear around Yamato Take until he is surrounded by fire
+    on all sides.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Yamato Take recognizes the deer hunt as a trick and calls himself lured into
+    a trap like a wild beast.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: Yamato Take uses his aunt’s flints to set fire to nearby grass and uses Murakumo
+    to cut grass around him.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: The wind changes direction, the fire is blown away from Yamato Take, and he
+    escapes without injury.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:15
+  text: The governor is burned to death in the flames he had set to kill Yamato Take.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Prince Yamato Take
+  description: A prince and warrior, son of the King, who leads the eastern expedition
+    and survives the fire trap.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: The King
+  description: Yamato Take’s father, who loves him, reluctantly sends him to war,
+    and gives him the Eight-Arms-Length-Spear of the Holly Tree.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Princess of Yamato and High Priestess
+  description: Yamato Take’s aunt at Ise, who previously gave him a helpful robe and
+    now gives him Murakumo and a bag of flints.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Governor of Suruga
+  description: A host whose cordial welcome is feigned; he lures Yamato Take into
+    a hunt and sets a fire intended to kill him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: Ainu / Eastern Barbarians
+  description: A collective group described as rebels in the eastern provinces whom
+    Yamato Take is sent to subjugate.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:6
+  name_or_label: Yamato Take’s army
+  description: The army that marches east under Yamato Take’s command.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: warrior prince and expedition leader
+  assigned_to:
+  - fig:1
+  basis: He offers to lead the expedition, receives royal and sacred objects, marches
+    east, and survives the trap by using the gifts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:8
+- id: role:2
+  label: royal father and sender
+  assigned_to:
+  - fig:2
+  basis: The King decides an army is needed, reluctantly sends his son, and gives
+    him the spear for war.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: priestess aunt and talisman giver
+  assigned_to:
+  - fig:3
+  basis: At Ise she gives Yamato Take the sword Murakumo and a bag of flints for his
+    journey.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: treacherous host
+  assigned_to:
+  - fig:4
+  basis: The governor welcomes the prince, proposes a hunt, and secretly lays a fire
+    trap intended to kill him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: rebellious adversary group
+  assigned_to:
+  - fig:5
+  basis: The passage says they have rebelled and are the target of Yamato Take’s expedition.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: military followers
+  assigned_to:
+  - fig:6
+  basis: The army marches east under the prince’s command.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: royal spear
+  literal_form: Eight-Arms-Length-Spear of the Holly Tree
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sacred sword
+  literal_form: sword of Murakumo
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: fire-making flints
+  literal_form: bag full of flints used for making fire
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:4
+  label: encircling prairie fire
+  literal_form: flames and smoke in the high grass surrounding Yamato Take
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:5
+  label: changed wind
+  literal_form: wind changing direction and rising to a gale
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: Ise temples
+  literal_form: temples of Ise visited for worship
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Royal dispatch to the eastern provinces
+  summary: The King decides to send an army against rebels, and Yamato Take offers
+    to lead it despite the King’s reluctance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Gift of the royal spear
+  summary: The King gives Yamato Take the Eight-Arms-Length-Spear of the Holly Tree
+    before his departure for war.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ise visit and sacred gifts
+  summary: Yamato Take visits Ise, speaks with his aunt, and receives Murakumo and
+    a bag of fire-making flints from her.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: False hunt in Suruga
+  summary: The governor of Suruga entertains Yamato Take, proposes a deer hunt, and
+    leads him to a grassy plain where a trap has been prepared.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Surrounded by fire
+  summary: Fire breaks out around Yamato Take on the plain, and he recognizes that
+    the hunt was a trick.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Escape through counter-fire and sword-work
+  summary: Yamato Take uses the flints to ignite nearby grass and Murakumo to cut
+    grass, after which the wind changes and he escapes unharmed while the governor
+    dies in the flames.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: heroic departure on royal military mission
+  taxonomy_refs:
+  - departure
+  basis: Yamato Take leaves the capital at royal command to lead an army east against
+    rebels.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents a military departure rather than a full quest cycle
+    by itself.
+- id: motif:2
+  label: protective gifts given before danger
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The King gives a prized spear, and the priestess aunt gives Murakumo and
+    flints, which later allow Yamato Take to survive.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The exchange is gift-giving rather than reciprocal bargain or payment.
+- id: motif:3
+  label: sacred royal insignia as talisman
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Murakumo is identified as one of the three sacred treasures and part of the
+    Imperial House insignia, and it is given to Yamato Take as an auspicious talisman.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage notes imperial insignia and talismanic value, but does not
+    explicitly make a succession or enthronement claim.
+- id: motif:4
+  label: treacherous host lures hero into deadly trap
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The governor feigns hospitality, proposes a hunt, and uses the hunt to trap
+    Yamato Take in fire.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The governor acts by deceit, but the taxonomy label 'trickster_boundary'
+    is only an approximate fit because he is an enemy rather than a trickster protagonist.
+- id: motif:5
+  label: fire ordeal survived by resourceful hero
+  taxonomy_refs: []
+  basis: Yamato Take is surrounded by fire, uses the flints and sword to defend himself,
+    and escapes unharmed.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No explicit taxonomy family for a fire ordeal is supplied beyond the symbol
+    reference for fire.
+- id: motif:6
+  label: plotter destroyed by his own destructive device
+  taxonomy_refs: []
+  basis: The governor is burned to death in the flames he had set to kill Yamato Take.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage does not explicitly frame this as divine punishment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5926-5945
+  quote_or_summary: News arrives of rebellion in the eastern provinces; Yamato Take
+    offers to lead the army, and the King reluctantly agrees because of the prince’s
+    exceptional bravery and strength.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 5946-5957
+  quote_or_summary: The King gives Yamato Take the Eight-Arms-Length-Spear of the
+    Holly Tree, compared to a royal standard or banner, and the prince departs east
+    with his army.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5958-5965
+  quote_or_summary: Yamato Take visits the temples of Ise, where his aunt, the Princess
+    of Yamato and High Priestess, greets him; the passage recalls that her earlier
+    robe helped him defeat western brigands.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 5966-5974
+  quote_or_summary: The aunt gives him a sword and a handmade bag of flints; the sword
+    is Murakumo, one of the three sacred treasures and part of the Imperial House
+    insignia, and she tells him to use it in his greatest need.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 5975-5984
+  quote_or_summary: Yamato Take marches through Owari to Suruga, where the governor
+    feigns warm hospitality and proposes a deer hunt.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 5985-6001
+  quote_or_summary: The governor leads Yamato Take to a high-grass plain as a trap;
+    fire breaks out around him on all sides, and the prince realizes the hunt was
+    a trick intended to lure him like a wild beast.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 6002-6012
+  quote_or_summary: Remembering his aunt’s gifts, Yamato Take opens the flint-bag
+    to set nearby grass on fire and uses Murakumo to cut grass at his sides, choosing
+    to fight for his life.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 6013-6019
+  quote_or_summary: The wind changes direction and blows the fire away from Yamato
+    Take, who escapes unharmed; the rising gale overtakes the governor, who burns
+    in the flames he had set.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports figures, objects, scenes, and several motif
+    candidates. Taxonomy mapping is cautious where supplied categories do not exactly
+    match fire ordeal or poetic justice motifs. No passage-internal comparison claims
+    were supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Terms such as 'Eastern Barbarians' are treated as passage language, not analytical endorsement.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l5926-l6019
+  passage_sha256=e6824d90ee0833b1db349257ec14f66877bcbb9ecb084fc52fdb80ea049c2370
+

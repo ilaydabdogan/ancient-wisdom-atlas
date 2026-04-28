@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l5915-l5938
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: SILVANUS. / TERMINUS. / CONSUS. / LIBITINA.; lines 5915-5938
+  start: '5915'
+  end: '5938'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Consus as the Roman god of secret counsel who prompted
+    spontaneous successful ideas, with a covered altar in the Circus Maximus revealed
+    for the Consualia. It then describes Libitina as goddess of funerals, identified
+    with Venus because love was thought to extend to death; her Roman temple held
+    funeral equipment, a death register, and received a coin upon each death by order
+    of Servius Tullius.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Consus is described as the god of secret counsel.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Romans believed that spontaneous ideas in an individual's mind were prompted
+    by Consus, especially plans that ended satisfactorily.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An altar to Consus stood in the Circus Maximus and was kept covered except
+    during the Consualia on 18 August.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Libitina is described as the goddess who presided over funerals.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Libitina was identified with Venus, with the stated possible reason that love
+    was considered to extend even to death.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Libitina's temple in Rome, erected by Servius Tullius, contained funeral requisites
+    available to buy or hire.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A register of deaths in Rome was kept in Libitina's temple, and a coin was
+    paid there on each person's death by command of Servius Tullius.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Consus
+  description: Roman god of secret counsel who was believed to prompt spontaneous
+    ideas and successful plans.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Libitina
+  description: Goddess presiding over funerals, identified in the passage with Venus.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Venus
+  description: Deity with whom Libitina was identified in the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Servius Tullius
+  description: Roman ruler credited with erecting Libitina's temple and commanding
+    a coin payment upon each death.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: god of secret counsel
+  assigned_to:
+  - fig:1
+  basis: Consus is explicitly named as god of secret counsel.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine prompter of successful plans
+  assigned_to:
+  - fig:1
+  basis: The passage states that Romans believed Consus prompted spontaneous ideas,
+    especially plans that resulted satisfactorily.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: goddess of funerals
+  assigned_to:
+  - fig:2
+  basis: Libitina is explicitly described as presiding over funerals.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: love-death identified deity
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage states that Libitina was identified with Venus, possibly because
+    love was thought to extend to death.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: founder and regulator of funerary temple practice
+  assigned_to:
+  - fig:4
+  basis: Servius Tullius is credited with erecting the temple and commanding the payment
+    on each death.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: covered altar
+  literal_form: An altar to Consus in the Circus Maximus kept always covered except
+    during the Consualia.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: festival uncovering
+  literal_form: The Consualia on 18 August, the only time when Consus's altar was
+    not covered.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: funerary temple storehouse
+  literal_form: Libitina's temple containing funeral requisites that could be bought
+    or hired.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: death register
+  literal_form: A register of all deaths in Rome kept in Libitina's temple.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: coin paid at death
+  literal_form: A piece of money paid on the death of each person by command of Servius
+    Tullius.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Consus and hidden counsel cult
+  summary: Consus is presented as the divine source of secret counsel and spontaneous
+    successful plans; his covered altar in the Circus Maximus is uncovered during
+    the Consualia.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Libitina's funerary temple administration
+  summary: Libitina presides over funerals and is identified with Venus; her Roman
+    temple contains funeral equipment, records deaths, and receives a coin on each
+    death under Servius Tullius's command.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine prompting of secret counsel
+  taxonomy_refs: []
+  basis: Consus is the god of secret counsel and is believed to prompt spontaneous
+    ideas, especially successful plans.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives a divine function rather than a narrative episode.
+- id: motif:2
+  label: concealed sacred altar revealed during festival
+  taxonomy_refs: []
+  basis: The altar to Consus is kept covered except during his festival, the Consualia.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the ritual meaning of the covering.
+- id: motif:3
+  label: funerary deity as administrator of death rites
+  taxonomy_refs: []
+  basis: Libitina presides over funerals, and her temple stores funeral requisites
+    and records deaths.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is cultic and administrative, not a mythic narrative.
+- id: motif:4
+  label: love extending into the realm of death
+  taxonomy_refs: []
+  basis: Libitina is identified with Venus, with the suggested reason that love was
+    thought to extend even to death.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The stated explanation is explicitly marked as possible, so the interpretation
+    should remain cautious.
+- id: motif:5
+  label: coin payment accompanying death registration
+  taxonomy_refs: []
+  basis: A piece of money is paid upon each person's death in connection with the
+    temple register of mortality.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage describes a civic-religious practice and does not identify
+    the coin as an afterlife payment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5915-5917
+  quote_or_summary: '"Consus was the god of secret counsel."'
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 5919-5923
+  quote_or_summary: Romans believed Consus prompted spontaneous ideas in an individual's
+    mind, especially plans that ended satisfactorily.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 5925-5928
+  quote_or_summary: An altar to Consus in the Circus Maximus was kept covered except
+    during the Consualia on 18 August.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 5930-5934
+  quote_or_summary: Libitina presided over funerals and was identified with Venus,
+    possibly because love was thought to extend to the realms of death.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 5936-5938
+  quote_or_summary: Libitina's temple in Rome, erected by Servius Tullius, contained
+    funeral requisites, kept a death register, and received a coin on each death by
+    Servius's command.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif labels are descriptive
+    because the passage contains cultic functions and practices rather than extended
+    narrative motifs. No comparison claims were added because the passage does not
+    itself support an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy references were applied because none clearly match the literal passage without over-interpretation.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l5915-l5938
+  passage_sha256=a9198b74144bf112fb9d8c9d92325769c7a539d7cf913535668579f04650678f
+

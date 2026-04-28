@@ -1,0 +1,441 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l6448-l6480
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: ELEUSINIAN MYSTERIES. / THESMOPHORIA. / DIONYSIA. / PANATHENAEA.; lines 6448-6480
+  start: '6448'
+  end: '6480'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Panathenaea in Athens as a festival honoring
+    Athene-Polias, with Lesser and Greater forms. The Greater Panathenaea includes
+    a specially woven gold-embroidered Peplus showing Athene’s victory over the Giants,
+    a procession with a ship carrying the garment, public participation with olive
+    branches, deposition of the Peplus on the goddess’s statue, recitations, contests,
+    dances, civic honors, and prizes of oil associated with Athene’s sacred olive-tree.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Panathenaea is described as a festival celebrated in Athens in honor of
+    Athene-Polias, guardian of the state.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Two festivals are distinguished: the Lesser Panathenaea held annually and
+    the Greater Panathenaea celebrated every fourth year over several days.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: For the Greater Panathenaea, Athenian maidens wove a gold-embroidered garment
+    called the Peplus.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Peplus represented Athene’s victory over the Giants.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Peplus was suspended from the mast of a ship outside the city and moved
+    in the procession by invisible machinery.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The population took part in the procession carrying olive branches.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The procession went to the temple of Athene-Polias, where the Peplus was deposited
+    on the goddess’s statue.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Homeric poems were recited aloud, poets presented works, and musical, athletic,
+    equestrian, wrestling, and armored dance contests occurred.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Men who had served their country well received a gold crown, and their names
+    were publicly announced by a herald.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Victors in races and athletic games received a vase of oil said to come from
+    Athene’s sacred olive-tree.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Athene-Polias
+  description: The goddess honored by the Panathenaea and described as guardian of
+    the state; her statue receives the Peplus.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Athenian maidens
+  description: The maidens who specially weave the Peplus for the Greater Panathenaea.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Athene
+  description: The goddess shown on the Peplus as victorious over the Giants.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Giants
+  description: The opponents over whom Athene’s victory is represented on the Peplus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Whole population
+  description: The people who take part in the procession while bearing olive branches.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Men who had deserved well of their country
+  description: Men publicly honored at the festival with a crown of gold.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Herald
+  description: The public announcer of the name of the honored person.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Victors in races and athletic games
+  description: Competitors who receive vases of oil as prizes.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: guardian deity of the state
+  assigned_to:
+  - fig:1
+  basis: The passage calls Athene-Polias the guardian of the state.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of ritual garment
+  assigned_to:
+  - fig:1
+  basis: The Peplus is deposited on the statue of Athene-Polias.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: ritual weavers
+  assigned_to:
+  - fig:2
+  basis: Athenian maidens specially weave the Peplus.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: victorious goddess in depicted myth
+  assigned_to:
+  - fig:3
+  basis: The Peplus shows Athene’s victory over the Giants.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: defeated opponents in depicted myth
+  assigned_to:
+  - fig:4
+  basis: The Giants are the defeated opponents in the image on the Peplus.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: procession participants
+  assigned_to:
+  - fig:5
+  basis: The whole population takes part in the procession carrying olive branches.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: publicly honored citizens
+  assigned_to:
+  - fig:6
+  basis: Men deserving well of their country receive a gold crown at the festival.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: public announcer
+  assigned_to:
+  - fig:7
+  basis: A herald announces the distinguished person’s name publicly.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: prize recipients
+  assigned_to:
+  - fig:8
+  basis: Victors receive vases of oil as prizes.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Peplus
+  literal_form: Gold-embroidered garment specially woven for the Greater Panathenaea
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: ship with mast
+  literal_form: Ship standing outside the city with the Peplus suspended on its mast
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: olive branches
+  literal_form: Olive branches carried by the population during the procession
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: statue of Athene-Polias
+  literal_form: Statue of the goddess in the temple on which the Peplus is deposited
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: gold crown
+  literal_form: Crown of gold presented to men who had served their country well
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: vase of oil
+  literal_form: Prize vase of oil awarded to victors in races and athletic games
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: sacred olive-tree of Athene
+  literal_form: Sacred olive-tree from which the prize oil was supposed to have been
+    extracted
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Festival framework
+  summary: The Panathenaea is presented as an Athenian festival honoring Athene-Polias,
+    with annual Lesser and quadrennial Greater forms.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Preparation of the Peplus
+  summary: Athenian maidens weave a gold-embroidered Peplus showing Athene’s victory
+    over the Giants.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Procession and deposition
+  summary: The Peplus is displayed on a ship’s mast in a public procession; the population
+    carries olive branches, and the garment is deposited on Athene-Polias’s statue
+    in her temple.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:4
+  label: Public performances and contests
+  summary: The festival includes recitation of Homer, presentation of poetic works,
+    musical contests, races, wrestling, and armored dances by boys.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Civic honors and prizes
+  summary: Deserving men are crowned with gold and named by a herald; athletic victors
+    receive vases of oil linked to Athene’s sacred olive-tree.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Processional offering to a guardian deity
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage describes a public procession carrying a specially woven garment
+    to the temple and depositing it on the statue of Athene-Polias, guardian of the
+    state.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage describes civic ritual practice rather than a narrative episode;
+    the taxonomy link is functional and should be reviewed.
+- id: motif:2
+  label: Divine victory over Giants represented in ritual art
+  taxonomy_refs: []
+  basis: The Peplus bears an image of Athene’s victory over the Giants and is central
+    to the festival procession.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The victory is mentioned only as an embroidered representation, not narrated
+    in the passage.
+- id: motif:3
+  label: Sacred tree-derived prize
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The prize oil is said to derive from the fruit of Athene’s sacred olive-tree.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Only the sacred tree association is stated; no axis mundi or cosmological
+    function is described in the passage.
+- id: motif:4
+  label: Public crowning for civic merit
+  taxonomy_refs: []
+  basis: Men who had served their country well are presented with a gold crown and
+    publicly named by a herald.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a civic honor motif within a festival context, not a mythic narrative
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6448-6455
+  quote_or_summary: The Panathenaea is described as an Athenian festival in honor
+    of Athene-Polias, guardian of the state; the Lesser is annual and the Greater
+    is every fourth year over several days.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6456-6464
+  quote_or_summary: For the Greater Panathenaea, Athenian maidens weave a gold-embroidered
+    Peplus representing Athene’s victory over the Giants; it is suspended from a ship’s
+    mast and moved in the procession by invisible machinery.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6464-6469
+  quote_or_summary: The population carries olive branches in the procession, which
+    goes with music and rejoicing to the temple of Athene-Polias, where the Peplus
+    is deposited on the goddess’s statue.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6470-6474
+  quote_or_summary: Homer’s poems are recited; poets introduce works; musical contests,
+    foot and horse races, wrestling, and armored dances by boys are held.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6476-6478
+  quote_or_summary: Men who had served their country well receive a gold crown, and
+    a herald publicly announces the honoree’s name.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6479-6480
+  quote_or_summary: Victors in races and athletic games receive as a prize a vase
+    of oil said to come from Athene’s sacred olive-tree.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive and public-domain. Literal ritual features are
+    clear; motif taxonomy assignments are cautious because the passage is a festival
+    description rather than a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a cross-text or cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l6448-l6480
+  passage_sha256=d4b7d1c7851dd723bf86826f06896f59fb9d7819ba9ca564371118ee7b00f7ff
+

@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l4548-l4560
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: ERINYES, EUMENIDES (FURIAE, DIRAE). / MOIRAE OR FATES (PARCAE). / NEMESIS.
+    / NYX (NOX).; lines 4548-4560
+  start: '4548'
+  end: '4560'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: darkness always precedes light
+  summary: The passage describes Nyx as daughter of Chaos and personification of Night,
+    mother of mysterious phenomena including death, sleep, and dreams. United with
+    Erebus, she bears Aether and Hemera, illustrating that darkness precedes light.
+    She dwells in a palace in the dark lower world and is represented as a veiled
+    woman in dark robes, seated in a chariot drawn by two black horses and accompanied
+    by stars.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Nyx is identified as daughter of Chaos and personification of Night.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nyx is considered the mother of mysterious and inexplicable things, including
+    death, sleep, and dreams.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Nyx becomes united to Erebus, and their children are Aether and Hemera.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage explains this parentage as a poetic simile indicating that darkness
+    precedes light.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Nyx inhabits a palace in the dark regions of the lower world.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Nyx is represented as a beautiful woman seated in a chariot drawn by two black
+    horses.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Nyx wears dark robes and a long veil.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Stars accompany Nyx and follow in her train.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Nyx / Nox
+  description: Daughter of Chaos, personification of Night, mother of mysterious and
+    inexplicable things, united with Erebus, dwelling in a palace in the lower world,
+    represented as a veiled woman in a chariot.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Chaos
+  description: Named as the parent of Nyx.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Erebus
+  description: United with Nyx; named as co-parent of Aether and Hemera.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Aether
+  description: Child of Nyx and Erebus; glossed as Air.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Hemera
+  description: Child of Nyx and Erebus; glossed as Daylight.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: personification of Night
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls Nyx the personification of Night.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mother of mysterious phenomena
+  assigned_to:
+  - fig:1
+  basis: The passage says Nyx was considered mother of mysterious and inexplicable
+    things such as death, sleep, and dreams.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: lower-world dweller
+  assigned_to:
+  - fig:1
+  basis: The passage says Nyx inhabited a palace in the dark regions of the lower
+    world.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: parent of Nyx
+  assigned_to:
+  - fig:2
+  basis: Chaos is named as Nyx's parent.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: consort or union partner of Nyx
+  assigned_to:
+  - fig:3
+  basis: The passage says Nyx became united to Erebus.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: children of Nyx and Erebus
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Aether and Hemera are named as the children of Nyx and Erebus.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: night
+  literal_form: Nyx as personification of Night
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: darkness before light
+  literal_form: Poetic explanation that darkness always precedes light
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: lower-world palace
+  literal_form: Palace in the dark regions of the lower world
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: chariot with black horses
+  literal_form: Chariot drawn by two black horses
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: dark robes and veil
+  literal_form: Dark robes and a long veil
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: stars in train
+  literal_form: Stars accompanying and following Nyx
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Genealogy of Nyx and light-bearing children
+  summary: Nyx, daughter of Chaos and personification of Night, is united with Erebus
+    and has Aether and Hemera; the passage interprets this as darkness preceding light.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Iconography and dwelling of Nyx
+  summary: Nyx dwells in a palace in the dark lower world and is depicted as a beautiful
+    veiled woman in dark robes, seated in a chariot drawn by black horses, with stars
+    following her.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: primordial night born from chaos
+  taxonomy_refs:
+  - chaos
+  basis: Nyx is described as daughter of Chaos and personification of Night.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a handbook-style genealogy rather than a narrative cosmogony.
+- id: motif:2
+  label: darkness preceding light
+  taxonomy_refs:
+  - duality
+  basis: Nyx and Erebus produce Aether and Hemera, and the passage explicitly explains
+    this as meaning darkness always precedes light.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The duality is stated as a poetic simile, not developed as a full mythic
+    conflict.
+- id: motif:3
+  label: night deity in lower-world palace
+  taxonomy_refs: []
+  basis: Nyx is said to inhabit a palace in the dark regions of the lower world.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No available taxonomy reference directly matches the lower-world dwelling
+    motif.
+- id: motif:4
+  label: night procession with stars
+  taxonomy_refs: []
+  basis: Nyx is represented in a chariot drawn by black horses, accompanied by stars
+    following in her train.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is iconographic description rather than a narrated action sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4548-4551
+  quote_or_summary: Nyx, daughter of Chaos and personification of Night, is considered
+    mother of mysterious and inexplicable things such as death, sleep, and dreams.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: quote
+  locator: lines 4552-4554
+  quote_or_summary: Nyx is united to Erebus; their children are Aether and Hemera,
+    indicating that "darkness always precedes light."
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 4556-4557
+  quote_or_summary: Nyx inhabits a palace in the dark regions of the lower world.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 4557-4560
+  quote_or_summary: Nyx is represented as a beautiful woman in a chariot drawn by
+    two black horses, clothed in dark robes with a long veil, and accompanied by stars
+    following in her train.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is explicit about genealogy and iconography. Motif assignment
+    is limited by the handbook format and the restricted available taxonomy. No comparison
+    claims are made because the passage does not itself compare Nyx to another tradition
+    or motif family beyond the stated poetic simile.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata; taxonomy references included only where directly supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l4548-l4560
+  passage_sha256=c7b4c26a7e3dc9ec99f8146f0eada4d4e91707d3658211cb3e3601f0178ce51f
+

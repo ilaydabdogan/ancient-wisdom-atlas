@@ -1,0 +1,346 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l6161-l6180
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: PUBLIC WORSHIP OF THE ANCIENT GREEKS AND ROMANS. / TEMPLES. / STATUES. /
+    ALTARS.; lines 6161-6180
+  start: '6161'
+  end: '6180'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Greek temple altars: their placement, circular stone
+    form, inscriptions, sacred asylum function, horn adornment, additional locations
+    outside temples, and the absence of altars for gods of the lower world, for whom
+    trenches received sacrificial blood.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Greek temple altar stood in the centre of the building and in front of the
+    statue of the presiding deity.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The altar was generally circular and made of stone.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The name or distinguishing symbol of the divinity to whom the altar was dedicated
+    was customarily engraved on it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If a malefactor fled to the altar, his life was safe from pursuers.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Forcing a person from this asylum was considered a major sacrilege.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The most ancient altars were adorned with horns.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Horns were formerly emblems of power and dignity in the account.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Altars were also raised in groves, on highways, and in city market-places.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The gods of the lower world had no altars.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Ditches or trenches were dug to receive the blood of sacrifices offered to
+    the gods of the lower world.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: presiding deity
+  description: The deity whose statue stood behind the temple altar and to whom the
+    altar could be dedicated.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: malefactor seeking asylum
+  description: A wrongdoer who flees to the altar and is protected from pursuers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: pursuers
+  description: Those from whom the malefactor is safe after fleeing to the altar.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: gods of the lower world
+  description: Deities who had no altars and received sacrifices through ditches or
+    trenches for blood.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: recipient deity of dedication
+  assigned_to:
+  - fig:1
+  basis: The altar bears the name or symbol of the divinity to whom it is dedicated.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: protected asylum-seeker
+  assigned_to:
+  - fig:2
+  basis: The malefactor’s life is safe when he flees to the altar.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: blocked pursuers
+  assigned_to:
+  - fig:3
+  basis: The pursuers cannot take the malefactor from the altar without sacrilege.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: chthonic sacrifice recipients
+  assigned_to:
+  - fig:4
+  basis: The gods of the lower world receive sacrificial blood through ditches or
+    trenches rather than altars.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: altar
+  literal_form: Circular stone structure in a Greek temple, placed before the deity
+    statue, inscribed with the deity's name or symbol, and treated as sacred asylum.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: horns
+  literal_form: Horn adornments on the most ancient altars, described as emblems of
+    power and dignity.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: grove altar location
+  literal_form: Groves where altars were raised outside public worship places.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: highway altar location
+  literal_form: Highways where altars were raised outside public worship places.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: market-place altar location
+  literal_form: City market-places where altars were raised outside public worship
+    places.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: ditch or trench for sacrificial blood
+  literal_form: Ditch or trench dug to receive the blood of sacrifices offered to
+    lower-world gods.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Temple altar and dedication
+  summary: A circular stone altar stands centrally in a Greek temple before the statue
+    of the presiding deity and is engraved with the deity's name or symbol.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Asylum at the altar
+  summary: A malefactor who flees to the altar is protected from pursuers, and removal
+    from the altar is sacrilege.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Ancient horn-adorned altars
+  summary: The oldest altars are described as adorned with horns, which are explained
+    as emblems of power and dignity.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Altars outside temples
+  summary: Altars are raised not only in public worship places but also in groves,
+    on highways, and in city market-places.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Lower-world sacrifice without altars
+  summary: The gods of the lower world have no altars; instead, ditches or trenches
+    are dug to receive sacrificial blood offered to them.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sacred asylum at altar
+  taxonomy_refs: []
+  basis: The altar functions as a protected asylum for a fugitive, and removing him
+    is sacrilege.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy list does not include a specific asylum motif.
+- id: motif:2
+  label: sacrificial offering site
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage describes altars as dedicated cult structures and contrasts them
+    with trenches for receiving sacrificial blood offered to lower-world gods.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The passage focuses on altar forms and locations rather than narrating
+    a full sacrificial act.
+- id: motif:3
+  label: chthonic blood trench instead of altar
+  taxonomy_refs:
+  - sacrifice
+  basis: Lower-world gods have no altars; ditches or trenches are dug to receive the
+    blood of sacrifices offered to them.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a ritual-pattern observation rather than a mythic narrative episode.
+- id: motif:4
+  label: horns as emblems of power and dignity
+  taxonomy_refs: []
+  basis: Ancient altars are adorned with horns, which are explained as emblems of
+    power and dignity.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No matching symbol taxonomy reference is supplied for horns.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6161-6165
+  quote_or_summary: The altar in a Greek temple stood in the centre, in front of the
+    presiding deity's statue, and was generally circular and made of stone.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 6165-6167
+  quote_or_summary: The altar was customarily engraved with the name or distinguishing
+    symbol of the divinity to whom it was dedicated.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 6167-6170
+  quote_or_summary: The altar was so sacred that a malefactor fleeing to it was safe
+    from pursuers, and forcing him from this asylum was considered a great sacrilege.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 6171-6174
+  quote_or_summary: The most ancient altars were adorned with horns, described as
+    former emblems of power and dignity connected with flocks and herds as wealth.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: summary
+  locator: lines 6176-6177
+  quote_or_summary: Altars were also raised in groves, on highways, and in city market-places.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short summary used.
+- id: ev:6
+  type: summary
+  locator: lines 6179-6180
+  quote_or_summary: The gods of the lower world had no altars; ditches or trenches
+    were dug to receive sacrificial blood offered to them.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive and supports ritual-symbolic extraction, especially
+    altar asylum and sacrifice-related patterns. No passage-supported comparative
+    claims are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only provided passage and metadata; no external comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l6161-l6180
+  passage_sha256=0c7855426b17f8285863d63355ff2491a12e4300dbb85745980b3617230d5b1f
+

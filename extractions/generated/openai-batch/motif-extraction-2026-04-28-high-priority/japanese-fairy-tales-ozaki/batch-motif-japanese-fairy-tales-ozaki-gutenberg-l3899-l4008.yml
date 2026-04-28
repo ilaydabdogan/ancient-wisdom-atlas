@@ -1,0 +1,473 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l3899-l4008
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE BAMBOO-CUTTER AND THE MOON-CHILD / THE GOBLIN OF ADACHIGAHARA / THE SAGACIOUS
+    MONKEY AND THE BOAR / THE HAPPY HUNTER AND THE SKILLFUL FISHER; lines 3899-4008
+  start: '3899'
+  end: '4008'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Hohodemi, called the Happy Hunter of the Mountains,
+    and his elder brother, the Skillful Fisher of the Sea. The brothers exchange occupations,
+    but the hunter fails at fishing, loses his brother’s prized hook, and cannot satisfy
+    his brother with replacement hooks made from his sword.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Japan is said to be governed by Hohodemi, the fourth Mikoto in descent from
+    Amaterasu, the Sun Goddess.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hohodemi is described as handsome, strong, brave, and famous as the greatest
+    hunter in the land.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hohodemi is called Yama-sachi-hiko, translated as the Happy Hunter of the
+    Mountains.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Hohodemi’s elder brother is a highly skilled fisher called Umi-sachi-hiko,
+    translated as the Skillful Fisher of the Sea.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The younger brother proposes that the brothers exchange occupations, with
+    the fisher hunting in the mountains and the hunter fishing in the sea.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The elder brother agrees to take the bow and arrow and go hunting.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The brothers begin trying each other’s occupation, although the passage says
+    each lacks skill in the other’s work.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Happy Hunter takes his brother’s fishing hook and rod to the seashore
+    and fishes clumsily from the rocks.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After a day without catching fish, the Happy Hunter discovers that he has
+    lost the hook.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Skillful Fisher returns from an unsuccessful hunt in a bad temper and
+    questions his brother on the shore.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The Skillful Fisher says he will not return the bow and arrow until his own
+    hook is found and returned.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The Happy Hunter breaks his beloved sword into pieces and makes five hundred
+    hooks as replacements.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The Skillful Fisher rejects the replacement hooks and later says even a million
+    hooks would not be useful unless his original hook is returned.
+  category: speech
+  evidence_refs:
+  - ev:8
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Hohodemi / Yama-sachi-hiko / Happy Hunter of the Mountains
+  description: Ruler of Japan, fourth Mikoto in descent from Amaterasu, and a famous
+    hunter who loses his brother’s fishing hook.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Umi-sachi-hiko / Skillful Fisher of the Sea
+  description: The elder brother of Hohodemi, a skillful fisher who lends his fishing
+    equipment, tries hunting, and demands the return of his original hook.
+  role_refs:
+  - role:5
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: Amaterasu, the Sun Goddess
+  description: Named as the illustrious ancestress from whom Hohodemi descends.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: ruler
+  assigned_to:
+  - fig:1
+  basis: The passage says Japan was governed by Hohodemi.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine descendant
+  assigned_to:
+  - fig:1
+  basis: Hohodemi is described as fourth Mikoto in descent from Amaterasu, the Sun
+    Goddess.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: younger brother
+  assigned_to:
+  - fig:1
+  basis: The Skillful Fisher is identified as Hohodemi’s elder brother.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: hunter
+  assigned_to:
+  - fig:1
+  basis: He is named the Happy Hunter of the Mountains and is famous for hunting.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: elder brother
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the Skillful Fisher as Hohodemi’s elder brother.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: fisher
+  assigned_to:
+  - fig:2
+  basis: He is named the Skillful Fisher of the Sea and surpasses rivals in fishing.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: wronged owner
+  assigned_to:
+  - fig:2
+  basis: His only and much-prized fishing hook is lost, and he refuses substitutes.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: role:8
+  label: divine ancestress
+  assigned_to:
+  - fig:3
+  basis: Amaterasu is named as the Sun Goddess and Hohodemi’s ancestress.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: mountains and valleys used as the hunter’s sphere
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: sea water
+  literal_form: sea and seashore where fishing occurs
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: fishing hook
+  literal_form: the Skillful Fisher’s only, much-prized hook that is lost
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+- id: sym:4
+  label: bow and arrow
+  literal_form: the Happy Hunter’s hunting gear lent to his brother and withheld after
+    the hook is lost
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: sym:5
+  label: sword
+  literal_form: the Happy Hunter’s beloved sword broken into pieces to make replacement
+    hooks
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: replacement hooks
+  literal_form: five hundred hooks, then another five hundred hooks, offered in place
+    of the lost hook
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Introduction of the two brothers and their domains
+  summary: Hohodemi is introduced as a ruler descended from Amaterasu and as the Happy
+    Hunter of the Mountains, while his elder brother is introduced as the Skillful
+    Fisher of the Sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Exchange of occupations
+  summary: The Happy Hunter proposes that each brother try the other’s occupation;
+    the Skillful Fisher agrees to take the bow and arrow and hunt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Failed fishing and lost hook
+  summary: The Happy Hunter fishes clumsily at the seashore, catches nothing, and
+    discovers at day’s end that the hook is lost.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Angry demand for the original hook
+  summary: The Skillful Fisher returns from an unsuccessful hunt, learns the hook
+    is lost, and refuses to return the bow and arrow until the original hook is restored.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Rejected replacement hooks
+  summary: The Happy Hunter makes hundreds of hooks from his sword and offers them
+    as replacements, but the Skillful Fisher rejects them and demands his own hook.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: brothers with paired domains and occupations
+  taxonomy_refs:
+  - sibling_pair
+  - duality
+  basis: 'The passage sets up two brothers with contrasted spheres: mountains and
+    hunting for the younger brother, sea and fishing for the elder brother.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents contrasting brothers, but the broader narrative outcome
+    is not included in this excerpt.
+- id: motif:2
+  label: divine descent supporting rulership
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Hohodemi’s rule over Japan is linked to descent from Amaterasu, the Sun Goddess.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt states descent and rule but does not elaborate a formal legitimacy
+    doctrine.
+- id: motif:3
+  label: failed exchange of roles or tools
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The brothers exchange occupations and tools; the borrowed hook is lost, and
+    replacement objects are refused.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The exchange is explicit, but the passage does not call the objects sacred;
+    the taxonomy match is functional rather than stated.
+- id: motif:4
+  label: irreplaceable lost object
+  taxonomy_refs: []
+  basis: The Skillful Fisher refuses hundreds of replacement hooks and demands the
+    return of the original hook.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3899-3906
+  quote_or_summary: Hohodemi governs Japan, is fourth Mikoto in descent from Amaterasu,
+    and is described as handsome, strong, brave, and the greatest hunter, called the
+    Happy Hunter of the Mountains.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3908-3913
+  quote_or_summary: Hohodemi’s elder brother is a surpassingly skillful fisher called
+    the Skillful Fisher of the Sea, and the brothers pursue their respective occupations
+    happily.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3915-3927
+  quote_or_summary: 'The Happy Hunter proposes that the brothers change occupations:
+    the elder brother should hunt in the mountains while he fishes in the sea.'
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3929-3941
+  quote_or_summary: The Skillful Fisher agrees to take the bow and arrow and hunt;
+    the brothers try each other’s occupation, though the narrator says each lacks
+    the other’s skill.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3943-3953
+  quote_or_summary: The Happy Hunter takes the fishing hook and rod to the seashore,
+    sits on the rocks, baits the hook, casts clumsily, and catches nothing.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3955-3964
+  quote_or_summary: After fishing all day without success, the Happy Hunter draws
+    up the line and finds he has lost the hook; he worries because it is his brother’s
+    only valued hook.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3964-3991
+  quote_or_summary: The Skillful Fisher returns from failed hunting in a bad temper,
+    learns of the lost hook, rebukes his brother, and says he will not return the
+    bow and arrow until his own hook is found.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 3993-4002
+  quote_or_summary: The Happy Hunter searches unsuccessfully, then breaks his beloved
+    sword into pieces, makes five hundred hooks, and offers them to his brother, who
+    refuses.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 4004-4008
+  quote_or_summary: The Happy Hunter makes another five hundred hooks, but the Skillful
+    Fisher says even a million hooks are useless unless the original hook is returned.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based only on the provided excerpt. Motif candidates
+    are limited to patterns visible within the excerpt and supplied taxonomy references;
+    no broader comparative claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims added because the passage excerpt itself does not provide an explicit comparison to another text, tradition, or motif family beyond candidate motif classification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l3899-l4008
+  passage_sha256=a1a1a3c7e46a3dd025f60db7752c035bad6bf2990c1d45eea49826d493b4187c
+

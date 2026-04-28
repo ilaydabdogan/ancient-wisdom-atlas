@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l3548-l3566
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: GLAUCUS. / THETIS. / LEUCOTHEA. / THE SIRENS.; lines 3548-3566
+  start: '3548'
+  end: '3566'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage recounts Ino's transformation into the sea-divinity Leucothea
+    after leaping into the sea with her son, and describes the Sirens as hybrid sea-nymphs
+    whose songs lure mariners to destruction.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Leucothea was originally a mortal named Ino, daughter of Cadmus, king of Thebes.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ino married Athamas, king of Orchomenus.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Athamas pursued Ino and her son to the sea-shore.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Seeing no hope of escape, Ino threw herself with her child into the sea.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Nereides received Ino and her child kindly.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Ino and her child became sea-divinities named Leucothea and Palaemon.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Sirens are described as sea-nymphs with the upper body of a maiden and
+    the lower body of a sea-bird, with wings attached to their shoulders.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Sirens had wonderful voices and sweet songs that lured mariners to destruction.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Sirens are presented as apparent personifications of rocks and unseen
+    dangers on the southwest coast of Italy.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Leucothea / Ino
+  description: A mortal named Ino, daughter of Cadmus and wife of Athamas, who becomes
+    the sea-divinity Leucothea.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Palaemon / Ino's child
+  description: Ino's son or child, thrown into the sea with her and transformed into
+    the sea-divinity Palaemon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Athamas
+  description: King of Orchomenus and husband of Ino, who pursues her and her son
+    to the sea-shore.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Nereides
+  description: Sea beings who kindly receive Ino and her child after they enter the
+    sea.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: The Sirens
+  description: Sea-nymphs with maiden upper bodies, sea-bird lower bodies, wings on
+    their shoulders, and voices that lure mariners to destruction.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Mariners
+  description: Seafarers lured to destruction by the Sirens' sweet songs.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: mortal transformed into sea-divinity
+  assigned_to:
+  - fig:1
+  basis: Ino is said to have been originally mortal and later to have become the sea-divinity
+    Leucothea.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: fugitive entering the sea
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Ino and her child are pursued to the sea-shore and leap into the deep.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: pursuer
+  assigned_to:
+  - fig:3
+  basis: Athamas pursues Ino and her son to the sea-shore.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: receiving sea beings
+  assigned_to:
+  - fig:4
+  basis: The Nereides kindly receive Ino and her child.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: destructive singing hybrid beings
+  assigned_to:
+  - fig:5
+  basis: The Sirens are hybrid sea-nymphs whose songs lure mariners to destruction.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: victims of supernatural song
+  assigned_to:
+  - fig:6
+  basis: Mariners are lured to destruction by the Sirens' songs.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sea
+  literal_form: the sea / the deep
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: sea-bird hybrid body
+  literal_form: upper body of a maiden and lower body of a sea-bird, with wings
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: sweet destructive song
+  literal_form: wonderful voices and sweet songs
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: rocks and unseen dangers
+  literal_form: rocks and unseen dangers on the southwest coast of Italy
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Ino and child pursued to the sea
+  summary: Athamas pursues Ino and her son to the sea-shore; with no hope of escape,
+    she throws herself with the child into the sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Reception and transformation by the Nereides
+  summary: The Nereides receive Ino and her child kindly, and the two become sea-divinities
+    named Leucothea and Palaemon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Sirens lure mariners
+  summary: The Sirens, described as hybrid sea-nymphs and apparent personifications
+    of coastal dangers, use their sweet songs to lure mariners to destruction.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: mortal transformed into sea-divinity after entering the sea
+  taxonomy_refs: []
+  basis: Ino and her child leap into the sea, are received by the Nereides, and become
+    Leucothea and Palaemon.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives the transformation but does not elaborate a ritual or
+    doctrinal meaning.
+- id: motif:2
+  label: flight ending in leap into water
+  taxonomy_refs:
+  - departure
+  basis: Ino and her son are pursued to the sea-shore and enter the deep when escape
+    appears impossible.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy link is broad; the passage emphasizes pursuit and escape
+    rather than a formal departure cycle.
+- id: motif:3
+  label: dangerous hybrid singers lure seafarers to death
+  taxonomy_refs: []
+  basis: The Sirens are hybrid sea-nymphs with beautiful voices whose songs lure mariners
+    to destruction.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No specific encounter narrative is included in this excerpt.
+- id: motif:4
+  label: personified maritime hazards
+  taxonomy_refs: []
+  basis: The Sirens are said to appear as personifications of rocks and unseen dangers
+    on the southwest coast of Italy.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is the handbook author's explanatory framing, not necessarily a narrative
+    action within the myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3548-3552
+  quote_or_summary: Leucothea was originally the mortal Ino, daughter of Cadmus of
+    Thebes, and wife of Athamas, king of Orchomenus.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3552-3556
+  quote_or_summary: Athamas pursues Ino and her son to the sea-shore; seeing no escape,
+    she throws herself with the child into the deep.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3556-3558
+  quote_or_summary: The Nereides receive them kindly, and they become sea-divinities
+    named Leucothea and Palaemon.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3562-3565
+  quote_or_summary: The Sirens are presented as personifications of rocks and unseen
+    dangers on the southwest coast of Italy, and described as sea-nymphs with maiden
+    upper bodies, sea-bird lower bodies, and wings.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3565-3566
+  quote_or_summary: The Sirens have wonderful voices, and their sweet songs lure mariners
+    to destruction.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    and mostly not tied to supplied taxonomy except where a broad water or departure
+    reference is supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the excerpt itself does not support a specific cross-textual comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l3548-l3566
+  passage_sha256=230f3cc6d1cbd0741ea3046067c44c8c90b699e6efffbda2a08d734405c033e4
+

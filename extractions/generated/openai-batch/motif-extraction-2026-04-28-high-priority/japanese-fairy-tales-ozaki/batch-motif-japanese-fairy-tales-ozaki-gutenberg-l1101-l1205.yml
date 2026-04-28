@@ -1,0 +1,563 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l1101-l1205
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: JAPANESE FAIRY TALES / MY LORD BAG OF RICE / THE TONGUE-CUT SPARROW / THE
+    STORY OF URASHIMA TARO, THE FISHER LAD; lines 1101-1205
+  start: '1101'
+  end: '1205'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Urashima returns by tortoise from the Sea King’s realm to his home shore.
+    He finds the place changed and learns from a villager that Urashima Taro is known
+    as someone who lived three hundred years earlier. Realizing that his few days
+    in the Sea King’s palace were hundreds of years at home, he tries to return to
+    his wife beyond the sea. Unable to find the way, he opens the tamate-bako despite
+    the Princess’s warning. A purple cloud rises from the box, and Urashima suddenly
+    ages and dies on the beach. The narrator closes with a moral against disobedience.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A tortoise carries Urashima back into the bay and to the shore from which
+    he set out, then returns to the Sea King’s realm.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Urashima sees the same shore and hills but people with unfamiliar faces, and
+    they stare at him.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Urashima goes to the site of his old home, calls for his father, and finds
+    a strange man there instead.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The man tells Urashima that a man named Urashima Taro lived in the village
+    three hundred years ago and could not still be alive.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Urashima insists he is alive, not a spirit, and stamps his feet to show the
+    man.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The man says the story of Urashima Taro is written in the village chronicles.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Urashima understands that the few days he spent in the Sea King’s palace were
+    hundreds of years in his home village, and that his parents and acquaintances
+    have died.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Urashima decides to return to his wife beyond the sea but cannot find the
+    way.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: Urashima remembers the Princess’s instruction never to open the box because
+    it contained something precious.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Urashima opens the tamate-bako after untying its red silk cord and lifting
+    the lid.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: A small purple cloud rises from the box in three soft wisps, briefly covers
+    Urashima’s face, and floats away over the sea.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Urashima changes from a strong young man into a very old man and dies on the
+    beach.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The narrator states that Urashima’s disobedience prevents his return to the
+    Sea King’s realm or the Princess.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:14
+  text: The narrator closes by telling children not to disobey those who are wiser.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Urashima Taro
+  description: A fisherman who returns from the Sea King’s realm, finds his home changed,
+    opens the Princess’s box, ages suddenly, and dies.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: tortoise
+  description: The tortoise carries Urashima back to his home shore and then rides
+    away to the Sea King’s realm.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: strange man at Urashima’s former home
+  description: A man living or appearing at the site of Urashima’s old home who tells
+    Urashima that the known Urashima Taro lived three hundred years earlier.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Princess
+  description: Urashima’s wife beyond the sea; she had given him the tamate-bako and
+    warned him not to open it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:5
+  name_or_label: Urashima’s parents
+  description: Urashima’s parents are sought by him after his return, but he later
+    realizes they have died during the centuries that passed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:6
+  name_or_label: Sea King
+  description: The Sea King is referenced through his realm and palace beyond the
+    sea.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:9
+- id: fig:7
+  name_or_label: village people
+  description: People on the shore and in the village have unfamiliar faces to Urashima
+    and look at him in turn.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: returned fisherman and disobedient opener of the box
+  assigned_to:
+  - fig:1
+  basis: Urashima returns to shore, cannot reenter the sea realm, opens the forbidden
+    box, and dies after aging.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:2
+  label: animal conveyer between realms
+  assigned_to:
+  - fig:2
+  basis: The tortoise transports Urashima from the Sea King’s realm back to his shore.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: local witness to elapsed time
+  assigned_to:
+  - fig:3
+  basis: The man identifies Urashima Taro as a figure from three hundred years earlier
+    and cites village chronicles.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: beloved beyond the sea and giver of a forbidden box
+  assigned_to:
+  - fig:4
+  basis: The Princess is Urashima’s wife beyond the sea and had instructed him never
+    to open the box she gave him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: lost family of the returned traveler
+  assigned_to:
+  - fig:5
+  basis: Urashima seeks his parents after returning and later realizes they died during
+    the centuries that passed.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:6
+  label: eponymous ruler of the sea realm
+  assigned_to:
+  - fig:6
+  basis: The passage names the Sea King’s realm and palace as the place from which
+    Urashima has returned.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:7
+  label: changed community after long absence
+  assigned_to:
+  - fig:7
+  basis: The people Urashima sees have different faces from those he knew and are
+    part of the village changed by time.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: sea and shore boundary
+  literal_form: bay, shore, beach, and sea between Urashima’s village and the Sea
+    King’s realm
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+- id: sym:2
+  label: tamate-bako
+  literal_form: the box given by the Princess, said to contain a precious thing and
+    not to be opened
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: red silk cord
+  literal_form: red silk cord tied around the precious box
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: purple cloud from the box
+  literal_form: a beautiful little purple cloud in three soft wisps rising from the
+    opened box
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: feet as proof of life
+  literal_form: Urashima’s feet stamped on the ground to show he is not a ghost
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: village chronicles
+  literal_form: written village record of Urashima Taro from three hundred years earlier
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Return to the home shore
+  summary: The tortoise brings Urashima from the Sea King’s realm to the familiar
+    bay and shore, then leaves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Unfamiliar village and former home
+  summary: Urashima finds the shore and hills unchanged but the people and house unfamiliar,
+    and he meets a strange man at his old home.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Three hundred years revealed
+  summary: The man says Urashima Taro lived three hundred years ago and is recorded
+    in the village chronicles; Urashima insists he is alive and not a spirit.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Realization of time displacement
+  summary: Urashima realizes that his short stay in the Sea King’s palace corresponds
+    to hundreds of years at home and that his family and acquaintances are gone.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Decision to open the forbidden box
+  summary: Unable to find the way back to the Princess, Urashima reasons that the
+    box may help him and opens it despite the Princess’s command.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Cloud, aging, and death
+  summary: A purple cloud rises from the opened box and drifts away; Urashima rapidly
+    becomes old and dies on the beach.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:7
+  label: Narrated moral
+  summary: The narrator states that disobedience caused Urashima’s loss and tells
+    children not to disobey the wiser.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: return from otherworld to an altered home
+  taxonomy_refs:
+  - return
+  basis: Urashima returns from the Sea King’s realm to his home shore but finds unfamiliar
+    people, a changed house, and evidence that three hundred years have passed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage gives only the return episode, not the full departure or stay
+    in the other realm.
+- id: motif:2
+  label: different passage of time in an otherworld
+  taxonomy_refs: []
+  basis: The passage states that a few days in the Sea King’s palace were hundreds
+    of years in Urashima’s village.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No matching taxonomy reference is supplied for time dilation; left unclassified.
+- id: motif:3
+  label: forbidden box opened despite warning
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The Princess warned Urashima never to open the tamate-bako; he opens it in
+    hope of help, releasing a cloud and bringing sudden aging and death.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The prohibited act is opening a box rather than explicitly seeking knowledge,
+    though the action reveals or releases a hidden consequence.
+- id: motif:4
+  label: beloved beyond the sea made unreachable by disobedience
+  taxonomy_refs:
+  - divine_beloved
+  basis: Urashima seeks to return to his wife, the Princess beyond the sea, but after
+    opening the box the narrator says he can never return to her or the Sea King’s
+    realm.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: medium
+  cautions: The passage calls her a Princess and wife in a sea realm, but does not
+    explicitly call her divine.
+- id: motif:5
+  label: conditional gift from otherworldly beloved
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Princess gives Urashima a precious box under a condition that he must
+    not open it; breaking the condition results in loss.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  confidence: medium
+  cautions: The passage does not describe the original giving scene, only recalls
+    the gift and command.
+- id: motif:6
+  label: instant aging after release from a sealed object
+  taxonomy_refs: []
+  basis: After Urashima opens the box and the purple cloud escapes, he changes at
+    once from youthful appearance to extreme old age and dies.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No supplied taxonomy reference directly names instant aging or life-span
+    release.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1101-1104
+  quote_or_summary: The tortoise brings Urashima into the familiar bay and to the
+    shore from which he left, then returns to the Sea King’s realm.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: 1105-1122
+  quote_or_summary: Urashima sees the same shore and hills but unfamiliar people;
+    he goes to the place of his old home, calls for his father, and meets a strange
+    man.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: quote
+  locator: 1123-1141
+  quote_or_summary: "“It is true that once upon a time a man called Urashima Taro
+    did live in this village, but that is a story three hundred years old.”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: 1142-1160
+  quote_or_summary: The man suggests Urashima might be a spirit; Urashima denies it,
+    stamps his feet to prove he is living, and the man says the three-hundred-year-old
+    story is in the village chronicles.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: 1161-1173
+  quote_or_summary: Urashima realizes that the few days in the Sea King’s palace were
+    hundreds of years at home; his parents and former acquaintances have died, and
+    he resolves to return to his wife beyond the sea.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: 1174-1185
+  quote_or_summary: On the beach, Urashima cannot find the way back and remembers
+    the tamate-bako, which the Princess told him never to open because it contained
+    a precious thing; he decides to open it for help.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:7
+  type: summary
+  locator: 1186-1196
+  quote_or_summary: Urashima breaks his promise, unties the red silk cord, opens the
+    box, and a beautiful little purple cloud rises in three wisps, briefly covers
+    his face, and floats away over the sea.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:8
+  type: summary
+  locator: 1197-1200
+  quote_or_summary: Urashima, formerly like a strong handsome youth of twenty-four,
+    suddenly becomes very old, with bent back, white hair, and wrinkled face, and
+    falls dead on the beach.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:9
+  type: summary
+  locator: 1201-1205
+  quote_or_summary: The narrator says Urashima’s disobedience prevents his return
+    to the Sea King’s realm or the Princess, and tells children not to disobey those
+    who are wiser.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The narrative sequence and main objects are explicit in the passage. Motif
+    taxonomy assignments are cautious where supplied taxonomy terms only partly match
+    the episode. No comparison claims were made because the passage itself does not
+    support a comparison to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata; no external tale-type or motif-index identifiers added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l1101-l1205
+  passage_sha256=7a802f73d1b6ff5ccb1ff082b276594af1c836d37e5b68105351a50f48de6e3b
+

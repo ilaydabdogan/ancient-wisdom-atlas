@@ -1,0 +1,548 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l1834-l1943
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE TONGUE-CUT SPARROW / THE STORY OF URASHIMA TARO, THE FISHER LAD / THE
+    FARMER AND THE BADGER / THE ADVENTURES OF KINTARO, THE GOLDEN BOY; lines 1834-1943
+  start: '1834'
+  end: '1943'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A disguised general recognizes Kintaro’s extraordinary strength, reveals
+    his mission to recruit strong boys for Lord Minamoto-no-Raiko, and takes Kintaro
+    from his mountain home to the Capital. Kintaro becomes Raiko’s vassal, later leads
+    the Four Braves, kills a cannibal monster, becomes a celebrated hero, and provides
+    a home for his mother.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The disguised woodcutter says he saw Kintaro pull up a large tree to make
+    a bridge across a torrent and predicts he will become the strongest man in Japan.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kintaro’s mother says she hid him in an unknown part of the country because
+    his great infant strength caused him to hurt people who came near him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The supposed woodcutter reveals that he is Sadamitsu, a general and vassal
+    of Lord Minamoto-no-Raiko, and says he has been searching for unusually strong
+    boys by using a disguise.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Sadamitsu offers to take Kintaro and present him to Lord Raiko as a candidate
+    for service.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Kintaro’s mother entrusts him to Sadamitsu, and Kintaro rejoices that he will
+    go with the general and one day become a samurai.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Kintaro leaves for the Capital, while his mother hides her grief and Kintaro
+    promises to remember her and care for her when he becomes a knight.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The bear, deer, monkey, and hare, described as animals Kintaro had tamed to
+    serve him, accompany him to the foot of the mountain and watch him depart from
+    a tree.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Lord Minamoto-no-Raiko hears Sadamitsu’s account, is pleased, and makes Kintaro
+    one of his vassals.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: After Kintaro grows up, Raiko makes him Chief of the Four Braves, and he is
+    described as the strongest of them all.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Kintaro is ordered to rescue people from a cannibal monster, kills it in its
+    den, and carries its head back to his master.
+  category: action
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:11
+  text: Kintaro becomes the greatest hero of his country and later builds a comfortable
+    home for his mother in the Capital.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Kintaro
+  description: A very strong child from the wild mountains who is taken to the Capital,
+    becomes Lord Raiko’s vassal, later leads the Four Braves, kills a cannibal monster,
+    and becomes a great hero.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: Kintaro’s mother / Yama-uba
+  description: Kintaro’s mother, who hid him because of his strength, entrusts him
+    to Sadamitsu, grieves at their parting, and later lives with him in the Capital.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:10
+- id: fig:3
+  name_or_label: Sadamitsu
+  description: A great general of Japan, vassal of Lord Minamoto-no-Raiko, who disguises
+    himself as a woodcutter while searching for strong boys and takes Kintaro to his
+    lord.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:4
+  name_or_label: Lord Minamoto-no-Raiko
+  description: A powerful lord who sends Sadamitsu to find strong boys, receives Kintaro,
+    makes him a vassal, and later orders him to confront the monster.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: The animals
+  description: The bear, deer, monkey, and hare that Kintaro had tamed to serve him;
+    they come to see him off when he leaves the mountain.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Cannibal monster
+  description: A monster living not far from the city whose presence frightens people
+    and whom Kintaro kills in its den.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:7
+  name_or_label: The Four Braves
+  description: A small band in Lord Raiko’s army, chosen from the bravest and strongest
+    soldiers; Kintaro becomes their chief.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: prodigious strong child
+  assigned_to:
+  - fig:1
+  basis: Kintaro is described as a child of exceptional strength who uproots a tree
+    and is called a prodigy.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: mother and guardian
+  assigned_to:
+  - fig:2
+  basis: She explains her decision to hide Kintaro, entrusts him to Sadamitsu, and
+    is later cared for by him.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:10
+- id: role:3
+  label: disguised recruiter and military mediator
+  assigned_to:
+  - fig:3
+  basis: Sadamitsu reveals he only pretended to be a woodcutter in order to find strong
+    boys for Lord Raiko’s army.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: lord and patron
+  assigned_to:
+  - fig:4
+  basis: Raiko commissions the search, accepts Kintaro as a vassal, and commands him
+    to rescue people from the monster.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: role:5
+  label: animal attendants
+  assigned_to:
+  - fig:5
+  basis: The animals are said to have been tamed to serve Kintaro and attend him to
+    the foot of the mountain.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: monstrous adversary
+  assigned_to:
+  - fig:6
+  basis: The monster frightens people and is slain by Kintaro.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:7
+  label: hero and rescuer
+  assigned_to:
+  - fig:1
+  basis: Kintaro is sent to rescue people from the monster, kills it, and is later
+    called the greatest hero of his country.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:8
+  label: elite warrior band
+  assigned_to:
+  - fig:7
+  basis: The Four Braves are described as selected from the bravest and strongest
+    soldiers in Raiko’s army.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: wild mountains
+  literal_form: mountains / foot of the mountain
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: tree
+  literal_form: large tree used as a bridge; tree climbed by animals to watch Kintaro
+    leave
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:3
+  label: river and torrent
+  literal_form: banks of the river and torrent crossed by a tree bridge
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: samurai swords
+  literal_form: sword / two swords worn by a knight
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+- id: sym:5
+  label: monster’s severed head
+  literal_form: great head cut off and carried back in triumph
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Recognition of Kintaro’s strength
+  summary: The disguised woodcutter explains that he saw Kintaro uproot a tree to
+    bridge a torrent and has verified his strength.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Revelation of Sadamitsu’s identity and mission
+  summary: Sadamitsu tells Kintaro’s mother that he is not a woodcutter but a general
+    seeking strong boys for Lord Raiko’s service, and offers to take Kintaro to the
+    Capital.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Departure from the mountain
+  summary: Kintaro leaves with Sadamitsu; his mother hides her grief, he promises
+    to care for her, and the animals see him off from the foot of the mountain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Admission into Lord Raiko’s service
+  summary: Sadamitsu brings Kintaro to Lord Raiko, who hears his story and makes him
+    a vassal.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Elevation among the Four Braves
+  summary: Kintaro grows up, is made Chief of the Four Braves, and is described as
+    the strongest of them.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Slaying of the cannibal monster
+  summary: Raiko orders Kintaro to rescue people from a cannibal monster; Kintaro
+    goes to the monster’s den, kills it, and brings back its head.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:7
+  label: Heroic honor and care for the mother
+  summary: Kintaro becomes a renowned hero, gains power, honor, and wealth, and builds
+    a comfortable home for his mother in the Capital.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: extraordinarily strong child discovered in the wilderness
+  taxonomy_refs:
+  - miraculous_child
+  basis: Kintaro is repeatedly described as a child of unusual strength; his strength
+    as an infant caused his mother to hide him, and Sadamitsu calls him a prodigy
+    after seeing him uproot a tree.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage emphasizes extraordinary strength rather than birth circumstances.
+- id: motif:2
+  label: departure from mountain home to enter heroic service
+  taxonomy_refs:
+  - departure
+  basis: Kintaro leaves his mother and animal companions in the mountains to travel
+    with Sadamitsu to the Capital and enter Lord Raiko’s service.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage gives the departure and arrival but not an extended journey
+    sequence.
+- id: motif:3
+  label: initiation into warrior status through patronage
+  taxonomy_refs:
+  - initiation
+  basis: Kintaro is presented to a powerful lord, made a vassal, later becomes Chief
+    of the Four Braves, and tests his sword against a monster.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage does not describe a formal rite; the initiation reading is
+    based on progressive admission and elevation into warrior service.
+- id: motif:4
+  label: hero defeats a man-eating monster
+  taxonomy_refs:
+  - culture_hero
+  basis: Kintaro is ordered to rescue frightened people from a cannibal monster, kills
+    it in its den, and is afterward described as the greatest hero of his country.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage presents a heroic rescue but does not frame Kintaro as founding
+    an institution or creating a cultural practice.
+- id: motif:5
+  label: filial promise fulfilled after heroic success
+  taxonomy_refs: []
+  basis: Before leaving, Kintaro promises to build his mother a home and care for
+    her; after becoming honored and wealthy, he keeps the promise.
+  evidence_refs:
+  - ev:5
+  - ev:10
+  confidence: high
+  cautions: No available taxonomy reference closely matches this filial-reward pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1834-1842
+  quote_or_summary: The disguised woodcutter praises Kintaro’s strength, says he saw
+    him pull up a large tree to bridge a torrent, and predicts he will become the
+    strongest man in Japan.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1844-1855
+  quote_or_summary: Kintaro’s mother says she hid him because his great strength as
+    an infant caused him to hurt those nearby; she wishes he could become a knight
+    wearing two swords but lacks an influential friend at the Capital.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1857-1870
+  quote_or_summary: The woodcutter reveals that he is Sadamitsu, a general and vassal
+    of Lord Minamoto-no-Raiko, and that he disguised himself while searching for boys
+    of remarkable strength to train as soldiers.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1872-1883
+  quote_or_summary: Kintaro’s mother rejoices at the chance for him to become a samurai,
+    entrusts him to Sadamitsu, and Kintaro exclaims with joy that he will go with
+    the general.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1885-1894
+  quote_or_summary: Sadamitsu decides to leave for the Capital with Kintaro; Yama-uba
+    is sad but hides her grief, and Kintaro promises to remember and care for her
+    when he becomes a knight.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1896-1906
+  quote_or_summary: Kintaro’s tamed animals—the bear, deer, monkey, and hare—come
+    to see him off, follow him to the foot of the mountain, and climb a tree to watch
+    him disappear from sight.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1908-1915
+  quote_or_summary: Sadamitsu brings Kintaro to Lord Minamoto-no-Raiko, tells his
+    story, and Raiko makes Kintaro one of his vassals.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1917-1924
+  quote_or_summary: Raiko’s army includes the elite Four Braves; after Kintaro grows
+    up, Raiko makes him their chief. News then arrives of a cannibal monster, and
+    Raiko orders Kintaro to rescue the people.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 1926-1928
+  quote_or_summary: Kintaro surprises the monster in its den, cuts off its great head,
+    and carries it back in triumph to his master.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 1930-1933
+  quote_or_summary: Kintaro becomes the greatest hero of his country, gains power,
+    honor, and wealth, and builds a comfortable home for his mother in the Capital.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels use available
+    taxonomy where directly supported; no comparison claims are made because the passage
+    itself does not explicitly support external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The supplied line-range label lists several story titles, but the passage text provided here contains the closing portion of the Kintaro narrative and the next heading only.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l1834-l1943
+  passage_sha256=3b0a5223a60854a9f641c703ae690c18e7a7dfb524629911a81da4214e1103d3
+

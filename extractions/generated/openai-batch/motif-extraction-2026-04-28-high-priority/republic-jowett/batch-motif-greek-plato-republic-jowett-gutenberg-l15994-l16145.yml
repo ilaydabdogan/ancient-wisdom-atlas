@@ -1,0 +1,475 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l15994-l16145
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK II. / BOOK III. / BOOK IV. / BOOK V.; lines 15994-16145
+  start: '15994'
+  end: '16145'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes rules for marriage and offspring among the guardians,
+    including prohibited kin relations, communal attribution of parenthood by birth
+    timing, and oracle-sanctioned exceptions. It then argues that the best State is
+    unified by shared pleasures and pains, compares this unity to the body feeling
+    pain in one part, and describes reciprocal names and roles between rulers, people,
+    and guardians.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Certain marriages are prohibited between direct ascendants and descendants,
+    and measures are ordered to prevent or not maintain offspring from unauthorized
+    unions.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Children born in specified months after a hymeneal are to be called sons or
+    daughters by the bridegroom, with reciprocal names of father, grandchildren, grandparents,
+    brothers, and sisters assigned by timing of conception.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Marriage between persons called brothers and sisters is generally forbidden,
+    but may be allowed if favored by lot and sanctioned by the Pythian oracle.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The guardians are described as having wives and families in common.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The argument identifies discord, distraction, and plurality where unity should
+    reign as the greatest evil, and the bond of unity as the greatest good.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Unity in the State is defined as a community of pleasures and pains, with
+    citizens glad or grieved on the same occasions.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A well-ordered State is compared to an individual body in which an injured
+    finger causes the whole frame to feel and sympathize with the affected part.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: In the described State, rulers are called saviours and helpers, the people
+    are called maintainers and foster-fathers, and guardians call one another fellow-guardians.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Guardians are said not to regard other guardians as strangers, but as kin
+    such as brother, sister, father, mother, son, or daughter.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: guardians
+  description: The class whose wives and families are to be held in common and who
+    are to regard one another through kinship terms.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: fig:2
+  name_or_label: bridegroom
+  description: A man from the hymeneal date who assigns filial names to children born
+    in the seventh and tenth month afterward.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: children born after the hymeneal
+  description: Male and female children assigned the names sons and daughters by the
+    bridegroom, with further reciprocal kinship names.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Pythian oracle
+  description: The oracle whose sanction can permit a brother-sister marriage when
+    the lot also favors it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: legislator
+  description: The lawmaker whose chief aim in organizing a State is considered in
+    relation to the greatest good and greatest evil.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: rulers
+  description: The governing group in the State, called saviours and helpers by the
+    people.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: people
+  description: The subjects or citizens, called maintainers and foster-fathers by
+    the rulers.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: citizens
+  description: Members of the State who are to share pleasures and pains and rejoice
+    or sorrow together.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: communal kin group
+  assigned_to:
+  - fig:1
+  basis: The guardians are to have wives and families in common and identify one another
+    as kin.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:2
+  label: assigned father
+  assigned_to:
+  - fig:2
+  basis: The bridegroom calls children born within the specified period his sons and
+    daughters and is called father by them.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: assigned offspring
+  assigned_to:
+  - fig:3
+  basis: Children receive kinship identities according to birth timing after the hymeneal.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: fellow-guardians
+  assigned_to:
+  - fig:1
+  basis: In the described State, rulers or guardians call one another fellow-guardians.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: marriage-sanctioning authority
+  assigned_to:
+  - fig:4
+  basis: A brother-sister marriage may be allowed if the lot favors it and the Pythian
+    oracle sanctions it.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: organizer of the State
+  assigned_to:
+  - fig:5
+  basis: The passage asks what the legislator should chiefly aim at in making laws
+    and organizing a State.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: saviours and helpers
+  assigned_to:
+  - fig:6
+  basis: The people call the rulers saviours and helpers in the described State.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: maintainers and foster-fathers
+  assigned_to:
+  - fig:7
+  basis: The rulers call the people maintainers and foster-fathers.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: participants in common feeling
+  assigned_to:
+  - fig:8
+  basis: Citizens are described as sharing occasions of joy and sorrow in a unified
+    State.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: hymeneal dating point
+  literal_form: the day of the hymeneal
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: lot
+  literal_form: the lot that may favor a marriage
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Pythian oracle sanction
+  literal_form: sanction of the Pythian oracle
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: body and injured finger
+  literal_form: the body, a hurt finger, and the whole frame sympathizing with the
+    affected part
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: mine and not mine
+  literal_form: the terms ‘mine’ and ‘not mine,’ ‘his’ and ‘not his’
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Marriage and offspring regulation
+  summary: The passage sets limits on marriages within the guardian arrangement, prohibits
+    certain kin relations, and gives instructions concerning offspring from unauthorized
+    unions.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Kinship naming after the hymeneal
+  summary: After a hymeneal, children born within specified months are named as sons
+    and daughters, and reciprocal names of father, grandparent, sibling, and descendant
+    are assigned.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Oracle-sanctioned exception
+  summary: Brother-sister marriage is generally prohibited, but the law allows it
+    if the lot favors them and the Pythian oracle gives sanction.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Argument for unity of the State
+  summary: The speakers ask about the greatest good and evil in a State and identify
+    common pleasures and pains as the basis of political unity.
+  figure_refs:
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: State compared to a single body
+  summary: The best-ordered State is compared to a body in which pain in one part
+    is felt by the whole organism.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Reciprocal civic names
+  summary: The passage contrasts names used in other States with the described State,
+    where rulers, people, and guardians use names of help, nurture, and shared guardianship.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Communal family and assigned kinship
+  taxonomy_refs: []
+  basis: The guardians have wives and families in common, and kinship terms are assigned
+    by the timing of birth after communal unions.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:8
+  confidence: high
+  cautions: This is a philosophical-political arrangement rather than a mythic family
+    episode.
+- id: motif:2
+  label: Oracle-sanctioned marriage exception
+  taxonomy_refs: []
+  basis: A prohibited brother-sister marriage may become lawful if favored by lot
+    and sanctioned by the Pythian oracle.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage mentions the oracle as a legal sanctioning authority but does
+    not narrate an oracle consultation.
+- id: motif:3
+  label: Unity through shared joy and sorrow
+  taxonomy_refs: []
+  basis: The best State is defined by common pleasures and pains, with all citizens
+    glad or grieved over the same events.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an ethical-political motif rather than a narrative action sequence.
+- id: motif:4
+  label: Body as model for collective order
+  taxonomy_refs: []
+  basis: The State is analogized to an individual body whose whole frame feels pain
+    in an injured part.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The motif is explicitly analogical within the argument.
+- id: motif:5
+  label: Kinship replaces estrangement among guardians
+  taxonomy_refs: []
+  basis: No guardian is to regard another guardian as a stranger; each is recognized
+    through familial categories.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This overlaps with the communal family motif but emphasizes social perception
+    and naming.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the well-ordered State to an individual body
+    in which an injury to one part is felt by the whole, supporting a body-politic
+    or organic-unity pattern within the argument.
+  claim_level: same_function
+  target: body-politic or organic collective unity pattern
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal philosophical analogy in the passage; it does not
+    by itself establish historical contact or shared mythic inheritance with other
+    traditions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15994-16003
+  quote_or_summary: Marriages with direct ascendants or descendants are prohibited,
+    and orders are given to prevent embryos from unauthorized unions from seeing the
+    light or being maintained if born.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 16008-16020
+  quote_or_summary: From the hymeneal date, the bridegroom calls male and female children
+    born in the seventh and tenth month his sons and daughters, and reciprocal kinship
+    terms are assigned across generations and siblings.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 16020-16024
+  quote_or_summary: "“if the lot favours them, and they receive the sanction of the
+    Pythian oracle, the law will allow them.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: 16028-16031
+  quote_or_summary: "“the guardians of our State are to have their wives and families
+    in common.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 16036-16062
+  quote_or_summary: The speakers ask after the greatest good and evil in a State,
+    identify discord and plurality as evil, unity as good, and define unity through
+    a community of pleasures and pains and common use of ‘mine’ and ‘not mine.’
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 16064-16082
+  quote_or_summary: The best-ordered State is said to approach the condition of an
+    individual body, where a hurt finger causes the whole frame to feel the hurt and
+    sympathize with the affected part.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 16091-16128
+  quote_or_summary: The State has rulers and subjects called citizens; rulers are
+    called saviours and helpers, the people maintainers and foster-fathers, and guardians
+    call one another fellow-guardians rather than slaves or mere fellow-rulers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 16130-16145
+  quote_or_summary: A guardian will not think or speak of another guardian as a stranger,
+    but will regard each as brother, sister, father, mother, son, daughter, child,
+    or parent of those so connected.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal content is clear in the supplied passage. Motif labels are descriptive
+    and not tied to external taxonomy except where no supported taxonomy reference
+    was available. The comparison claim is limited to the passage’s explicit body-State
+    analogy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Available taxonomy refs were not applied where they would over-interpret the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l15994-l16145
+  passage_sha256=cdb3c0ff00e4922642d6e02670a34e3e18f0a6cb5bd140342a9d5f02c226954e
+

@@ -1,0 +1,440 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l4941-l5079
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE SAGACIOUS MONKEY AND THE BOAR / THE HAPPY HUNTER AND THE SKILLFUL FISHER
+    / THE STORY OF THE OLD MAN WHO MADE WITHERED TREES TO FLOWER / THE JELLY FISH
+    AND THE MONKEY; lines 4941-5079
+  start: '4941'
+  end: '5079'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The Dragon King's chief steward instructs the jelly fish to befriend and
+    lure a monkey from Monkey Island to the Dragon King's Palace by praising its wonders.
+    The jelly fish travels to the island, flatters the monkey, describes the sea palace
+    and coral garden, and offers to carry the monkey across the water. Midway, the
+    jelly fish asks whether the monkey has his liver and then reveals that the Dragon
+    Queen is ill and that a live monkey's liver is needed to cure her. The monkey
+    is frightened but conceals his fear and begins thinking of a way to escape.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The chief steward tells the jelly fish to approach Monkey Island, become friendly
+    with a monkey, and invite him to see the Dragon King's Palace.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The jelly fish questions how he can bring the monkey because monkeys do not
+    swim, and the steward tells him to carry the monkey on his back.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The jelly fish swims to Monkey Island and sees a live monkey in a pine-tree.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that in ancient days the jelly fish had four legs and a
+    hard shell like a tortoise.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The jelly fish identifies himself as kurage, a servant of the Dragon King.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The jelly fish praises the Dragon King's Palace, its garden, coral trees,
+    and jewel-like fruits; the monkey becomes increasingly interested and descends
+    the tree.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The monkey says he cannot swim, and the jelly fish offers to carry him on
+    his back across the water.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The jelly fish carries the monkey over the waves toward the Dragon King's
+    Palace.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Half-way across, the jelly fish asks whether the monkey has his liver with
+    him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The jelly fish reveals that the Dragon Queen is ill, the doctor prescribed
+    the liver of a live monkey, and the Dragon King sent him to find one.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The monkey is horrified and angry but hides his fear and begins planning an
+    escape.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: chief steward
+  description: A wily steward serving the Dragon King who instructs the jelly fish
+    how to lure a monkey.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: jelly fish / kurage
+  description: A servant of the Dragon King; in the passage's ancient setting he has
+    four legs and a hard shell like a tortoise, and he carries the monkey over the
+    sea.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: monkey
+  description: A live monkey found in a pine-tree on Monkey Island; he is lured by
+    descriptions of the sea palace and later learns his liver is wanted.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Dragon King
+  description: The ruler whose palace is described and who sent the jelly fish to
+    find a live monkey for the Dragon Queen's cure.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Dragon Queen
+  description: The ill queen whose cure is said to require the liver of a live monkey.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: doctor
+  description: The doctor who is said to have declared that only the liver of a live
+    monkey would cure the Dragon Queen.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: deceptive planner
+  assigned_to:
+  - fig:1
+  basis: The steward gives the plan for befriending and enticing a monkey to the palace.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: reluctant envoy
+  assigned_to:
+  - fig:2
+  basis: The jelly fish questions the mission and then agrees to do his best for the
+    Dragon King.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: carrier across water
+  assigned_to:
+  - fig:2
+  basis: The jelly fish offers to carry the monkey and travels through the waves with
+    the monkey on his back.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: intended victim
+  assigned_to:
+  - fig:3
+  basis: The jelly fish reveals that the monkey's liver is wanted to cure the Dragon
+    Queen.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: clever animal seeking escape
+  assigned_to:
+  - fig:3
+  basis: The monkey hides his fear and thinks of a way to escape.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: royal sender
+  assigned_to:
+  - fig:4
+  basis: The jelly fish says the Dragon King sent him to find a live monkey.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: ill royal patient
+  assigned_to:
+  - fig:5
+  basis: The Dragon Queen is described as ill and needing a cure.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: prescriber of cure
+  assigned_to:
+  - fig:6
+  basis: The doctor is said to prescribe a live monkey's liver as the cure.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water crossing
+  literal_form: sea water between Monkey Island and the Dragon King's Palace
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: pine-tree
+  literal_form: a big pine-tree with drooping branches on Monkey Island
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: coral garden trees
+  literal_form: curious trees of white, pink and red coral with jewel-like fruits
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: liver
+  literal_form: the liver of a live monkey wanted as medicine for the Dragon Queen
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Dragon King's Palace
+  literal_form: the sea palace described as beautiful and grand
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Steward gives the mission
+  summary: The chief steward instructs the jelly fish to befriend a monkey, excite
+    his curiosity about the Dragon King's Palace, and carry him there on his back.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Jelly fish reaches Monkey Island
+  summary: The jelly fish swims to Monkey Island and finds a monkey sitting in a pine-tree.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Enticement through palace description
+  summary: The jelly fish presents himself as a servant of the Dragon King and praises
+    the sea palace, coral trees, and jewel-like fruits until the monkey becomes interested.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Carrying the monkey across the sea
+  summary: The monkey accepts the journey despite being unable to swim, and the jelly
+    fish carries him across the water toward the palace.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Revelation of the liver plot
+  summary: Midway across, the jelly fish asks about the monkey's liver and reveals
+    that the Dragon Queen's cure requires the liver of a live monkey.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Monkey conceals fear and plans
+  summary: The monkey is horrified by the plan but hides his fear and begins thinking
+    of an escape.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: animal lured across a boundary by deceptive invitation
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The steward directs the jelly fish to lure the monkey from his island to
+    the sea palace by praising its wonders, and the jelly fish carries him over the
+    sea.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage segment contains the deception and boundary crossing, but
+    not the full outcome of the episode.
+- id: motif:2
+  label: clever animal threatened with death plans escape
+  taxonomy_refs:
+  - wisdom
+  basis: After learning that his liver is wanted, the monkey hides his fear and starts
+    thinking of a way to escape.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The actual escape strategy is only beginning in this passage and is not
+    completed within the supplied lines.
+- id: motif:3
+  label: healing requires a victim's organ
+  taxonomy_refs:
+  - sacrifice
+  basis: The doctor is said to require the liver of a live monkey to cure the Dragon
+    Queen.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage frames the organ-taking as a cure, not as a formal ritual
+    sacrifice; taxonomy fit is approximate.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4941-4966
+  quote_or_summary: The chief steward tells the jelly fish to befriend a monkey, praise
+    the Dragon King's Palace and sea wonders, and carry the monkey on his back because
+    monkeys do not swim.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4967-4986
+  quote_or_summary: The jelly fish swims to Monkey Island, sees a monkey in a big
+    pine-tree, and the passage notes that ancient jelly fish had four legs and a hard
+    shell like a tortoise.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4987-5018
+  quote_or_summary: The jelly fish introduces himself as kurage, servant of the Dragon
+    King, and describes the palace, sea garden, coral trees, and jewel-like fruits
+    until the monkey descends the tree while listening.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5019-5042
+  quote_or_summary: The jelly fish invites the monkey to visit the palace, offers
+    to carry him because he cannot swim, and skims through the waves with the monkey
+    on his back.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5043-5064
+  quote_or_summary: Half-way across, the jelly fish asks whether the monkey has his
+    liver, then explains that the Dragon Queen is ill and that a doctor said only
+    a live monkey's liver would cure her.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5065-5079
+  quote_or_summary: The monkey is horrified and angry at the trick, trembles with
+    fear, but conceals it and begins thinking of an escape before speaking cheerfully
+    to the jelly fish.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are candidate
+    classifications from the available taxonomy and require human review, especially
+    where the passage segment ends before the escape is completed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself make an explicit comparison to another text, tradition, or motif family beyond candidate taxonomy classification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l4941-l5079
+  passage_sha256=14330a14dae689feddaac437f23ed3b5220077c663f329ae527369d5f65ef5db
+

@@ -1,0 +1,501 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l22137-l22315
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK VI. / BOOK VII. / BOOK VIII. / BOOK IX.; lines 22137-22315
+  start: '22137'
+  end: '22315'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"the parallel of the individual and the State"'
+  summary: 'Socrates and his interlocutor compare the tyrannical city and the tyrannical
+    man. They argue that tyranny produces enslavement, poverty, fear, lamentation,
+    and misery in both city and soul. Socrates then offers an illustration: a slave-owner
+    transported by a god into a wilderness without civic protection would fear being
+    killed by his slaves.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speakers state that the tyrannical man is like the tyrannical State, and
+    that other types of men correspond to other types of states.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The kingly city and the tyrannical city are described as opposite extremes,
+    with the kingly city called best and the tyrannical city worst.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A proper judge of the tyrant is described as someone who can see through human
+    nature and is not dazzled by outward pomp.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The tyrannical city is described as enslaved, with only a few freemen or masters
+    and the people generally degraded and enslaved.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The tyrannical soul is described as having its best elements enslaved and
+    its worst and maddest part ruling.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The soul under tyranny is said to be goaded by a gadfly and full of trouble
+    and remorse.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Both the tyrannical city and the tyrannical soul are described as poor, insatiable,
+    fearful, and full of lamentation, sorrow, groaning, and pain.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Socrates says the most miserable person is one with a tyrannical nature who
+    becomes a public tyrant rather than remaining private.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Socrates gives an illustration involving a rich slave-owner, his family, property,
+    and slaves being carried by a god into a wilderness without free helpers.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The transported slave-owner is expected to fear that he, his wife, and his
+    children will be killed by his slaves.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Socrates / primary speaker
+  description: The speaker who conducts the argument, requests judgment, and offers
+    the illustration of the slave-owner in the wilderness.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Interlocutor
+  description: The respondent who agrees with Socrates' conclusions about tyranny,
+    enslavement, and fear.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:10
+- id: fig:3
+  name_or_label: Tyrannical man
+  description: A man whose soul is likened to the tyrannical State and described as
+    enslaved, poor, insatiable, fearful, and miserable.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Tyrannical State / city under a tyrant
+  description: A city described as enslaved, poor, fearful, sorrowful, and the most
+    miserable form of government.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:5
+  name_or_label: Judge of the tyrant
+  description: A proposed evaluator who can enter into and see through human nature
+    and has known the tyrant in daily life, family relations, and public danger.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Slave-owner in the illustration
+  description: A rich individual owning about fifty slaves, imagined as transported
+    with family and property into a wilderness.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:7
+  name_or_label: Slaves in the illustration
+  description: The servants of the slave-owner, feared as possible killers when no
+    free citizens are present to protect the master.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:8
+  name_or_label: God in the illustration
+  description: A divine agent imagined as carrying the slave-owner, his family, property,
+    and slaves into the wilderness.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: philosophical examiner
+  assigned_to:
+  - fig:1
+  basis: The speaker asks questions and guides the evaluation of tyranny and happiness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: role:2
+  label: provider of illustrative analogy
+  assigned_to:
+  - fig:1
+  basis: The speaker explicitly offers an illustration to clarify the tyrant's condition.
+  evidence_refs:
+  - ev:9
+- id: role:3
+  label: assenting respondent
+  assigned_to:
+  - fig:2
+  basis: The interlocutor repeatedly agrees with the speaker's claims.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:10
+- id: role:4
+  label: enslaved inner tyrant
+  assigned_to:
+  - fig:3
+  basis: The tyrannical man's soul is described as enslaved, ruled by its worst part,
+    and full of misery.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: enslaved polity
+  assigned_to:
+  - fig:4
+  basis: The city under tyranny is described as completely enslaved and miserable.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:6
+  label: clear-sighted judge
+  assigned_to:
+  - fig:5
+  basis: The judge must see through human nature and not be misled by the tyrant's
+    outward appearance.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: isolated master
+  assigned_to:
+  - fig:6
+  basis: The slave-owner is imagined removed from civic protection into the wilderness.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:8
+  label: feared dependents
+  assigned_to:
+  - fig:7
+  basis: The master fears that the slaves may kill him and his family once outside
+    the protection of the city.
+  evidence_refs:
+  - ev:10
+- id: role:9
+  label: divine transporter in illustration
+  assigned_to:
+  - fig:8
+  basis: A god is imagined as carrying the household into the wilderness.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: enslaved city
+  literal_form: city under a tyrant
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: enslaved soul
+  literal_form: soul under a tyrant
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: gadfly
+  literal_form: gadfly goading the soul
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: tragedy attire
+  literal_form: the tyrant's tragedy attire
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: wilderness without civic protection
+  literal_form: wilderness where there are no freemen to help
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Comparison of city and soul
+  summary: The speakers affirm that forms of government correspond to forms of human
+    character, and compare the kingly city with the tyrannical city as best and worst
+    extremes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Requirements for judging the tyrant
+  summary: Socrates says the tyrant must be judged by someone who sees beyond outward
+    pomp and knows the tyrant in private life, family relations, and danger.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Tyranny as enslavement and misery
+  summary: The city under a tyrant and the tyrannical soul are both described as enslaved,
+    poor, fearful, and full of pain and lamentation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Slave-owner in the wilderness
+  summary: Socrates imagines a slave-owner transported by a god into a wilderness
+    without free protectors, where he fears death at the hands of his slaves.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Macrocosm and microcosm of political order and soul
+  taxonomy_refs:
+  - duality
+  basis: The passage repeatedly states a parallel between State and individual, treating
+    the condition of the city and the condition of the soul as corresponding forms.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy term 'duality' is broad; the passage presents a
+    philosophical analogy rather than a mythic dualism.
+- id: motif:2
+  label: Clear-sighted judgment behind outward appearance
+  taxonomy_refs:
+  - wisdom
+  basis: The passage calls for a judge who sees through human nature and is not dazzled
+    by the tyrant's outward pomp or theatrical appearance.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an epistemic and ethical motif in philosophical dialogue, not
+    a narrative quest for wisdom.
+- id: motif:3
+  label: Tyranny as inner enslavement
+  taxonomy_refs: []
+  basis: The tyrannical soul is described as enslaved, ruled by its worst part, goaded,
+    remorseful, poor, and fearful.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No narrower provided taxonomy reference directly matches this motif.
+- id: motif:4
+  label: Isolated master fearing revolt of dependents
+  taxonomy_refs: []
+  basis: The illustration imagines a slave-owner removed from civic protection into
+    the wilderness, where he fears being killed by his slaves.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The scene is explicitly an illustration within the argument, not an independent
+    mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage explicitly compares the tyrannical State and the tyrannical
+    individual as corresponding structures: the city''s enslavement and misery are
+    mirrored in the soul''s enslavement and misery.'
+  claim_level: same_function
+  target: Tyrannical State and tyrannical soul within the same passage
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an intrapassage philosophical analogy, not evidence of historical
+    contact or shared mythic inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 22137-22315; opening comparison of men and states
+  quote_or_summary: The speakers agree that the tyrannical man resembles the tyrannical
+    State, the democratic man resembles the democratic State, and so on.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: 22137-22315; comparison of kingly and tyrannical cities
+  quote_or_summary: 'The kingly city and the tyrannical city are called opposite extremes:
+    one best, the other worst; tyranny is called wretchedest and kingly rule happiest.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: 22137-22315; proposed judge of the tyrant
+  quote_or_summary: A proper judge must see through human nature, not be dazzled by
+    the tyrant's pomp, and know him in daily life, family relations, and public danger,
+    where he is stripped of tragedy attire.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: 22137-22315; city under tyranny
+  quote_or_summary: The city governed by a tyrant is described as completely enslaved;
+    only a few are free or masters, while the people generally and the best of them
+    are degraded and enslaved.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: 22137-22315; soul likened to the tyrannical State
+  quote_or_summary: The tyrannical man's soul is said to be full of meanness and vulgarity,
+    with the best elements enslaved and a small ruling part that is the worst and
+    maddest.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: quote
+  locator: 22137-22315; soul under tyranny
+  quote_or_summary: '"there is a gadfly which goads her, and she is full of trouble
+    and remorse"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; short quote.
+- id: ev:7
+  type: summary
+  locator: 22137-22315; poverty, fear, and lamentation
+  quote_or_summary: The tyrannical city and tyrannical soul are described as poor,
+    insatiable, fearful, and marked by lamentation, sorrow, groaning, pain, passions,
+    and desires.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: 22137-22315; public tyrant as most miserable
+  quote_or_summary: Socrates says that the most miserable person is one with a tyrannical
+    nature who is additionally unfortunate enough to become a public tyrant.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: 22137-22315; beginning of illustration
+  quote_or_summary: Socrates asks the interlocutor to imagine a rich owner of about
+    fifty slaves, with family, property, and slaves, carried by a god into a wilderness
+    where no freemen can help him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:10
+  type: summary
+  locator: 22137-22315; fear in the wilderness
+  quote_or_summary: The interlocutor agrees that the transported master would be in
+    extreme fear that he, his wife, and his children might be killed by his slaves.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is argumentative and philosophical. Literal parallels and images
+    are clear, but mapping them to broad motif taxonomy should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage and metadata. No external comparisons or unprovided taxonomy IDs were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l22137-l22315
+  passage_sha256=a76ee2f136483a5a25955562414d678f732b45cc6e517111c20d90492537fdb5
+

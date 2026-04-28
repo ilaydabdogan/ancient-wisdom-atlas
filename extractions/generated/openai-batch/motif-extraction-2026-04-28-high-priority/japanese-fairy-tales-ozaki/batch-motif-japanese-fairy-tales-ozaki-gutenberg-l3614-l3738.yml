@@ -1,0 +1,398 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l3614-l3738
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE ADVENTURES OF KINTARO, THE GOLDEN BOY / THE STORY OF THE MAN WHO DID
+    NOT WISH TO DIE / THE BAMBOO-CUTTER AND THE MOON-CHILD / THE GOBLIN OF ADACHIGAHARA;
+    lines 3614-3738
+  start: '3614'
+  end: '3738'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: On the haunted plain of Adachigahara, travelers are said to disappear after
+    being lured to the cottage of a cannibal goblin who takes the form of an old woman.
+    A lost Buddhist pilgrim arrives at sunset, finds the old woman's dilapidated cottage,
+    asks for lodging, and is admitted. After giving him warmth and supper, the old
+    woman leaves to gather wood and forbids him to go near or look into the inner
+    room. Left alone in the dim hut, the priest becomes fearful and increasingly curious
+    about the forbidden room.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Adachigahara is described as a large plain in Mutsu Province said to be haunted
+    by a cannibal goblin in the form of an old woman.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Travelers are reported to have disappeared, with local stories saying they
+    were lured to the goblin's cottage and devoured.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A Buddhist pilgrim priest arrives on the plain at sunset after losing his
+    way.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The priest is tired, hungry, and seeking night lodging in late autumn cold.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The priest sees a clump of trees and a single ray of light, then reaches a
+    dilapidated cottage where an old woman is spinning by an old lantern.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The priest asks the old woman for shelter for the night.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The old woman first says she cannot accommodate him, then allows him to stay,
+    makes a fire, and prepares supper.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: When the firewood runs out, the old woman says she will gather wood and instructs
+    the priest to stay and take care of the house.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The old woman forbids the priest to go near or look into the inner room while
+    she is away.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Left alone with the fire out and only a dim lantern, the priest feels fear
+    and curiosity about the forbidden room.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The priest begins to move toward the back room, returns once because of his
+    promise, and then becomes increasingly determined to learn its secret.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: cannibal goblin in old-woman form
+  description: A being said to haunt Adachigahara, take the form of an old woman,
+    live on human flesh, and be linked to a cottage where travelers disappear.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Buddhist pilgrim priest
+  description: A belated traveler in priestly robes, walking from shrine to shrine,
+    lost, tired, hungry, and seeking lodging.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: missing travelers
+  description: Travelers who are said to have disappeared and never been heard from
+    again after entering the haunted area.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: cannibal antagonist
+  assigned_to:
+  - fig:1
+  basis: The goblin is described as living on human flesh and as connected with the
+    disappearance and devouring of travelers.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: host who sets a prohibition
+  assigned_to:
+  - fig:1
+  basis: The old woman admits the priest, gives him warmth and supper, then forbids
+    him to approach or look into the inner room.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: lost pilgrim guest
+  assigned_to:
+  - fig:2
+  basis: The priest is a Buddhist pilgrim who loses his way and asks to spend the
+    night under the old woman's roof.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: curious transgressor in progress
+  assigned_to:
+  - fig:2
+  basis: After promising not to look, the priest is drawn by fear and curiosity toward
+    the forbidden back room.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: reported victims
+  assigned_to:
+  - fig:3
+  basis: The travelers are said to have disappeared and to have been devoured at the
+    goblin's cottage.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: haunted plain
+  literal_form: Adachigahara plain
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: goblin's cottage
+  literal_form: miserable, tumble-down cottage with broken bamboo fence, old thatched
+    roof, and paper screens full of holes
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: fire for warmth
+  literal_form: fire lit with sticks of wood in the hut
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: forbidden inner room
+  literal_form: inner or back room that the priest is told not to approach or look
+    into
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: old-woman disguise
+  literal_form: cannibal goblin taking the form of an old woman
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Reputation of the haunted plain
+  summary: The plain of Adachigahara is introduced as a place haunted by a cannibal
+    goblin in old-woman form, with local stories of vanished travelers lured to a
+    cottage and eaten.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lost pilgrim reaches the cottage
+  summary: At sunset a tired Buddhist pilgrim loses his way, sees a light through
+    trees, and comes to a dilapidated cottage where an old woman is spinning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Hospitality in the hut
+  summary: The priest asks for lodging; the old woman reluctantly lets him enter,
+    lights a fire, and cooks rice for him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Prohibition concerning the inner room
+  summary: After the firewood runs out, the old woman leaves to gather wood and expressly
+    tells the priest not to go near or look into the inner room.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Fear and curiosity while alone
+  summary: With the fire out and only a dim lantern, the priest becomes fearful and
+    curious, approaches the back room, returns once, and then feels compelled to discover
+    the secret.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: goblin or monster in human disguise
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage states that the cannibal goblin takes the form of an old woman.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives the disguise directly, but this excerpt does not yet
+    show an on-stage transformation.
+- id: motif:2
+  label: forbidden room and curiosity
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The old woman forbids the priest to go near or look into the inner room,
+    and his fear and curiosity draw him toward it.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The contents of the forbidden room are not revealed within the supplied
+    excerpt.
+- id: motif:3
+  label: dangerous hospitality at a monster's dwelling
+  taxonomy_refs: []
+  basis: Stories say travelers are lured to the goblin's cottage and devoured; the
+    priest is then admitted as a guest by the old woman in the same haunted area.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The priest's fate and the host's immediate intention are not shown in
+    this excerpt.
+- id: motif:4
+  label: lost traveler enters haunted place at nightfall
+  taxonomy_refs:
+  - departure
+  basis: The priest loses his way on the haunted plain at sunset and seeks shelter
+    at the cottage.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage emphasizes getting lost and
+    seeking lodging more than a formal departure quest.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3614-3738, opening description of Adachigahara
+  quote_or_summary: Adachigahara is said to be haunted by a cannibal goblin who takes
+    the form of an old woman; many travelers have disappeared, with stories saying
+    they were lured to the goblin's cottage and devoured.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3614-3738, priest's arrival
+  quote_or_summary: At sunset a Buddhist pilgrim priest, walking from shrine to shrine,
+    comes to the plain after losing his way; he is tired, hungry, and seeking lodging
+    in late autumn cold.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3614-3738, discovery of cottage
+  quote_or_summary: The priest sees a clump of trees and a single ray of light, reaches
+    a miserable cottage with broken fence and worn screens, and sees an old woman
+    spinning by an old lantern.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3614-3738, request for lodging and welcome
+  quote_or_summary: The priest asks the old woman to let him spend the night; she
+    first refuses for lack of accommodation but then lets him in, lights a fire, and
+    cooks rice for supper.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3614-3738, old woman's departure for wood
+  quote_or_summary: After the wood gives out, the old woman says she will gather more
+    and tells the priest to stay in place, take care of the house, and not go near
+    or look into the inner room.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3614-3738, priest alone in the hut
+  quote_or_summary: With the fire out and only a dim lantern, the priest becomes afraid
+    and curious about the forbidden back room; he starts toward it, returns once because
+    of his promise, and then feels he must discover the secret.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited to the supplied excerpt, which ends before the contents
+    of the forbidden room or the priest's outcome are revealed. No external comparison
+    claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l3614-l3738
+  passage_sha256=4a3d097095c5a8a98b1ede8f1e4a01f25e09f313da219db58300109afcc12fb9
+

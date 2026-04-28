@@ -1,0 +1,573 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l5159-l5187
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: JUVENTAS. / GANYMEDES. / THE MUSES. / PEGASUS.; lines 5159-5187
+  start: '5159'
+  end: '5187'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Pegasus as a winged horse who sprang from Medusa
+    after Perseus killed her, flew to Olympus, served Zeus by carrying thunder and
+    lightning, and carried Bellerophon against the Chimaera at Athene's command. It
+    then presents later associations of Pegasus with the Muses, poetic inspiration,
+    and the creation of the Hippocrene fountain on Mount Helicon when he stamped the
+    ground at Poseidon's direction.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pegasus is described as a beautiful winged horse who sprang from Medusa's
+    body when Perseus slew her.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pegasus flew to the top of Mount Olympus and was received by the immortals.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Zeus assigned Pegasus a place in his palace and employed him to carry thunder
+    and lightning.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Pegasus allowed only gods to mount him, except Bellerophon, whom he carried
+    aloft at Athene's command to slay the Chimaera with arrows.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Later poets represent Pegasus as being at the service of the Muses.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states that Pegasus would appear to represent poetical inspiration
+    that develops man's higher nature and makes the mind soar heavenwards.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The only ancient mention of Pegasus in connection with the Muses is given
+    as the story that he produced the fountain Hippocrene with his hoofs.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: During the contest with the Pierides, the Muses sang and played on Mount Helicon
+    with such power that heaven and earth stood still and the mountain raised itself
+    toward the gods.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Poseidon sent Pegasus to stop the mountain from moving without his permission.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Pegasus stamped the summit ground with his hoofs, and the waters of Hippocrene
+    gushed out.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Hippocrene is described as a sacred fount from which the Muses drank draughts
+    of inspiration.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Pegasus
+  description: A beautiful winged horse who sprang from Medusa's body, flew to Olympus,
+    served Zeus, carried Bellerophon, and produced Hippocrene with his hoofs.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Medusa
+  description: The body from which Pegasus sprang when she was slain by Perseus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Perseus
+  description: Hero, son of Zeus and Danae, who slew Medusa.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Zeus
+  description: Deity who assigned Pegasus a place in his palace and employed him to
+    carry thunder and lightning; also named as father of Perseus.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: Danae
+  description: Named as mother of Perseus.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Bellerophon
+  description: The exceptional non-god whom Pegasus carried aloft to slay the Chimaera.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Athene
+  description: Deity at whose command Pegasus carried Bellerophon aloft.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Chimaera
+  description: The being slain by Bellerophon with arrows while he was carried by
+    Pegasus.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Muses
+  description: Divine singers and players associated by later poets with Pegasus;
+    they drank inspiration from Hippocrene.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:10
+  name_or_label: Pierides
+  description: Contestants against the Muses.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:7
+- id: fig:11
+  name_or_label: Poseidon
+  description: Deity who sent Pegasus to stop Mount Helicon from moving without permission.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: winged horse
+  assigned_to:
+  - fig:1
+  basis: Pegasus is explicitly described as a beautiful winged horse.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine servant and bearer of thunder and lightning
+  assigned_to:
+  - fig:1
+  basis: Zeus employed Pegasus to carry thunder and lightning.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: exceptional mount for a hero
+  assigned_to:
+  - fig:1
+  basis: Pegasus permitted Bellerophon to mount him and carried him aloft at Athene's
+    command.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: producer of sacred fountain
+  assigned_to:
+  - fig:1
+  basis: Pegasus produced Hippocrene by stamping the ground with his hoofs.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:5
+  label: later emblem of poetical inspiration
+  assigned_to:
+  - fig:1
+  basis: The passage says later poets place Pegasus at the service of the Muses and
+    that he appears to represent poetical inspiration.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: slain source body
+  assigned_to:
+  - fig:2
+  basis: Pegasus sprang from Medusa's body when she was slain.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: heroic slayer
+  assigned_to:
+  - fig:3
+  basis: Perseus is named as the hero who slew Medusa.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: divine authority over Pegasus or heroic action
+  assigned_to:
+  - fig:4
+  - fig:7
+  - fig:11
+  basis: Zeus employed Pegasus; Athene commanded Pegasus to carry Bellerophon; Poseidon
+    sent Pegasus to check the mountain.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+- id: role:9
+  label: hero carried aloft to slay a monster
+  assigned_to:
+  - fig:6
+  basis: Bellerophon was carried aloft by Pegasus to slay the Chimaera with arrows.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: monster slain by hero
+  assigned_to:
+  - fig:8
+  basis: The Chimaera is the target Bellerophon slays with arrows.
+  evidence_refs:
+  - ev:4
+- id: role:11
+  label: inspirational singers associated with sacred fount
+  assigned_to:
+  - fig:9
+  basis: The Muses sang and played powerfully and later drank inspiration from Hippocrene.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:12
+  label: contest opponents
+  assigned_to:
+  - fig:10
+  basis: The Pierides are named as contestants against the Muses.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: winged horse
+  literal_form: Pegasus as a beautiful winged horse
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: divine mountain
+  literal_form: Mount Olympus, the place to which Pegasus flies and where he is received
+    by the immortals
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: thunder and lightning
+  literal_form: Thunder and lightning carried by Pegasus for Zeus
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: aloft flight
+  literal_form: Pegasus carrying Bellerophon aloft
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: poetic inspiration
+  literal_form: Pegasus as representing poetical inspiration and the mind soaring
+    heavenwards
+  associated_figures:
+  - fig:1
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Mount Helicon
+  literal_form: Mountain summit where the Muses sang and which rose toward the abode
+    of the celestial gods
+  associated_figures:
+  - fig:9
+  - fig:10
+  - fig:11
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: Hippocrene
+  literal_form: Waters of the sacred fount that gushed out after Pegasus stamped the
+    ground
+  associated_figures:
+  - fig:1
+  - fig:9
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:8
+  label: hoof-stamp
+  literal_form: Pegasus stamping the summit ground with his hoofs
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Birth from Medusa and ascent to Olympus
+  summary: Pegasus springs from Medusa after Perseus kills her, spreads his wings,
+    and flies to Mount Olympus, where the immortals receive him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Pegasus in divine and heroic service
+  summary: Zeus gives Pegasus a place in his palace and uses him to carry thunder
+    and lightning; Pegasus also carries Bellerophon aloft at Athene's command so that
+    Bellerophon can slay the Chimaera.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Pegasus and the Muses
+  summary: The passage reports that later poets associate Pegasus with the Muses and
+    interpret him as connected with poetical inspiration; it also notes the ancient
+    story of Hippocrene.
+  figure_refs:
+  - fig:1
+  - fig:9
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Hippocrene created on Mount Helicon
+  summary: During the Muses' contest with the Pierides, their song causes heaven and
+    earth to stand still and Mount Helicon to rise. Poseidon sends Pegasus, who stamps
+    the summit and releases the waters of Hippocrene, later used by the Muses as a
+    source of inspiration.
+  figure_refs:
+  - fig:1
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Miraculous emergence from a slain body
+  taxonomy_refs: []
+  basis: Pegasus springs from Medusa's body at the moment she is slain by Perseus.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not frame this as birth, rebirth, or transformation beyond
+    the literal emergence.
+- id: motif:2
+  label: Ascent to a divine mountain
+  taxonomy_refs:
+  - ascent
+  basis: Pegasus spreads his wings and immediately flies to the top of Mount Olympus,
+    where the immortals receive him.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents this as Pegasus's movement to Olympus, not as a human
+    initiation or salvation ascent.
+- id: motif:3
+  label: Divine animal bearing a god's storm weapons
+  taxonomy_refs: []
+  basis: Zeus assigns Pegasus a place in his palace and employs him to carry thunder
+    and lightning.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader storm-god taxonomy reference is supplied in the available list.
+- id: motif:4
+  label: Hero carried aloft by exceptional mount to slay monster
+  taxonomy_refs:
+  - ascent
+  basis: At Athene's command, Pegasus carries Bellerophon aloft so that he can slay
+    the Chimaera with arrows.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The ascent element is literal, but the passage gives only a brief handbook
+    summary of the monster-slaying episode.
+- id: motif:5
+  label: Sacred fountain created by hoof-strike
+  taxonomy_refs: []
+  basis: Pegasus stamps the ground with his hoofs on Mount Helicon, causing the waters
+    of Hippocrene to gush out as a sacred fount.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The available motif-family list has no exact fountain-creation motif.
+- id: motif:6
+  label: Poetic inspiration mediated by divine beings and sacred water
+  taxonomy_refs: []
+  basis: Pegasus is associated with the Muses, represented as poetical inspiration,
+    and connected to Hippocrene, from which the Muses drink draughts of inspiration.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: This interpretation is stated by the passage, but it is specifically tied
+    to later poetic representation and the Hippocrene story.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, Pegasus is compared functionally to a vehicle or emblem
+    of poetical inspiration associated with the Muses and the Hippocrene fountain.
+  claim_level: same_function
+  target: Muses/Hippocrene inspiration pattern
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal handbook interpretation and not evidence by itself
+    for historical contact or a wider cross-cultural comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5159-5162
+  quote_or_summary: Pegasus is a beautiful winged horse who sprang from Medusa's body
+    when she was slain by Perseus, son of Zeus and Danae.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 5162-5164
+  quote_or_summary: Pegasus spread his wings, flew to the top of Mount Olympus, and
+    was received with delight by the immortals.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 5164-5165
+  quote_or_summary: Zeus assigned Pegasus a place in his palace and employed him to
+    carry thunder and lightning.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 5165-5168
+  quote_or_summary: Pegasus let only gods mount him except Bellerophon, whom he carried
+    aloft at Athene's command so Bellerophon could slay the Chimaera with arrows.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 5170-5174
+  quote_or_summary: Later poets represent Pegasus as serving the Muses; the passage
+    says he appears to represent poetical inspiration, developing man's higher nature
+    and making the mind soar heavenwards.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: lines 5174-5177
+  quote_or_summary: The passage says the only ancient mention of Pegasus with the
+    Muses is the story that he produced the fountain Hippocrene with his hoofs.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+- id: ev:7
+  type: summary
+  locator: lines 5179-5183
+  quote_or_summary: During the Muses' contest with the Pierides, their music and song
+    on Mount Helicon make heaven and earth stand still and cause the mountain to rise
+    joyfully toward the celestial gods.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+- id: ev:8
+  type: summary
+  locator: lines 5183-5187
+  quote_or_summary: Poseidon sends Pegasus to stop the mountain; Pegasus reaches the
+    summit, stamps the ground with his hoofs, and Hippocrene's waters gush out as
+    a sacred fount from which the Muses drink inspiration.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based only on the supplied passage. Motif labels are candidate
+    descriptions; exact taxonomy matches are limited by the available reference list.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or comparisons were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l5159-l5187
+  passage_sha256=d87f53979a29201f89e2f8e3fbcb5c11f8af2a7859e1e68123d55f1124883bf8
+

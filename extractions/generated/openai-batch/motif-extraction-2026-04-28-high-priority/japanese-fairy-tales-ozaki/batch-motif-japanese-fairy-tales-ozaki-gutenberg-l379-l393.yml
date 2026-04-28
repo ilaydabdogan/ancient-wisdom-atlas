@@ -1,0 +1,226 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l379-l393
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: COMPILED BY / PREFACE / JAPANESE FAIRY TALES / MY LORD BAG OF RICE; lines
+    379-393
+  start: '379'
+  end: '393'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A bag of rice remains inexhaustible despite daily use; a roll of silk remains
+    undiminished despite repeated cutting; a cooking pot prepares desired food without
+    fire. Because Hidesato no longer needs to spend money on rice, silk, or fuel,
+    he becomes wealthy and is known as My Lord Bag of Rice.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The bag of rice does not decrease despite repeated daily use for the knight
+    and his family.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The roll of silk does not grow shorter despite long pieces being cut from
+    it for new clothing.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The cooking pot cooks whatever is wanted without firing.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Hidesato becomes rich and prosperous because he does not need to spend money
+    on rice, silk, or firing.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Hidesato becomes known as My Lord Bag of Rice.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Hidesato
+  description: The warrior or knight whose fortune includes the inexhaustible rice,
+    silk, and cooking pot; he becomes known as My Lord Bag of Rice.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Hidesato's family
+  description: The knight's whole family eats from the rice supplied by the bag.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: beneficiary of inexhaustible goods
+  assigned_to:
+  - fig:1
+  basis: Hidesato benefits from rice, silk, and cooking without ongoing expense and
+    becomes prosperous.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: household beneficiaries
+  assigned_to:
+  - fig:2
+  basis: The family receives meals from the rice bag that never diminishes.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: inexhaustible rice bag
+  literal_form: single bag of rice
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: inexhaustible roll of silk
+  literal_form: roll of silk
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: self-cooking pot
+  literal_form: cooking pot
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Marvelous household goods provide endless supply
+  summary: The rice bag, silk roll, and cooking pot each provide practical household
+    benefits without being used up or requiring fuel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Prosperity and naming of Hidesato
+  summary: Hidesato's lack of expenses for rice, silk, and firing leads to wealth
+    and the title My Lord Bag of Rice.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: inexhaustible food supply
+  taxonomy_refs: []
+  basis: The rice bag remains full despite daily use for the knight and his family.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not explain the origin of the object in this line range.
+- id: motif:2
+  label: inexhaustible material supply
+  taxonomy_refs: []
+  basis: The roll of silk remains undiminished despite repeated cutting for clothing.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No broader taxonomy reference is assigned from the supplied list.
+- id: motif:3
+  label: magical cooking vessel requiring no fuel
+  taxonomy_refs: []
+  basis: The cooking pot prepares desired food without firing.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage describes function but not origin or ritual context.
+- id: motif:4
+  label: prosperity from marvelous household objects
+  taxonomy_refs: []
+  basis: Hidesato becomes rich because the marvelous goods remove the need to pay
+    for staples and fuel.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage supports prosperity as an outcome, but not a complete quest
+    or reward structure by itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 379-381
+  quote_or_summary: The rice bag remains inexhaustible despite daily use for meals
+    for the knight and his family.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 383-385
+  quote_or_summary: The roll of silk never grows shorter even when long pieces are
+    repeatedly cut to make the warrior New Year court clothing.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 387-389
+  quote_or_summary: The cooking pot prepares whatever is wanted without firing.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 391-393
+  quote_or_summary: Hidesato's fortune becomes famous; without expenses for rice,
+    silk, or firing, he becomes rich and is called My Lord Bag of Rice.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage clearly describes magical inexhaustible objects and resulting
+    prosperity. No explicit comparative claim is made in the passage, so comparison_claims
+    is left empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no taxonomy references assigned because the available taxonomy list lacks a direct inexhaustible-provision category.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l379-l393
+  passage_sha256=c20d0c06ad07835f1e564d859c7409d729f3117ff394b169a4689b9797c13fd9
+

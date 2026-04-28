@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l3469-l3487
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: OCEANUS. / NEREUS. / PROTEUS. / GLAUCUS.; lines 3469-3487
+  start: '3469'
+  end: '3487'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Glaucus becomes a sea-divinity after observing fish revive or return to
+    the water when they nibble grass, tasting the grass himself, and plunging into
+    the deep. As a sea-divinity he has prophetic power, travels yearly around islands
+    and coasts with marine monsters, foretells evils feared by fishermen, and is depicted
+    on the billows with marine growths and lamenting his immortality.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Glaucus is described as becoming a sea-divinity after tasting grass that fish
+    had nibbled before leaping back into the water.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After tasting the grass, Glaucus is said to have obeyed an irresistible impulse
+    and thrown himself into the deep.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Glaucus is described as having prophetic power like most sea-divinities.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Each year Glaucus visits islands and coasts with a train of marine monsters
+    and foretells evils.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Fishermen dread Glaucus's approach and use prayer and fasting to avert the
+    misfortunes he prophesies.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Glaucus is represented floating on the billows, covered with mussels, sea-weed,
+    and shells, with a full beard and long flowing hair.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Glaucus is represented as bitterly bewailing his immortality.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Glaucus
+  description: A figure who becomes a sea-divinity, gains prophetic power, visits
+    coasts and islands, and is represented with marine coverings while lamenting immortality.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: fish
+  description: Fish caught by Glaucus that nibble grass on the bank and then leap
+    back into the water.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: marine monsters
+  description: A train of marine monsters accompanying Glaucus on his yearly visits
+    to islands and coasts.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: fishermen
+  description: People who dread Glaucus's approach and attempt through prayer and
+    fasting to avert the misfortunes he foretells.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: transformed sea-divinity
+  assigned_to:
+  - fig:1
+  basis: Glaucus becomes a sea-god after tasting grass and plunging into the deep.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: prophetic sea-being
+  assigned_to:
+  - fig:1
+  basis: The passage states that Glaucus was gifted with prophetic power and foretold
+    evils.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: immortal lamenter
+  assigned_to:
+  - fig:1
+  basis: The passage says Glaucus bitterly bewails his immortality.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: demonstrators of grass's effect
+  assigned_to:
+  - fig:2
+  basis: The fish nibble the grass and then leap back into the water, prompting Glaucus
+    to taste it.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: marine retinue
+  assigned_to:
+  - fig:3
+  basis: The marine monsters form a train accompanying Glaucus.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: fearful recipients of prophecy
+  assigned_to:
+  - fig:4
+  basis: Fishermen dread Glaucus and try to avert the misfortunes he prophesies.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: transformative grass
+  literal_form: grass blades on the bank, tasted by fish and then by Glaucus
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: water or deep sea
+  literal_form: the water and the deep into which Glaucus leaps
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: marine coverings
+  literal_form: mussels, sea-weed, and shells covering Glaucus's body
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: billows
+  literal_form: billows on which Glaucus is represented floating
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Angling and discovery of the grass
+  summary: While angling, Glaucus sees caught fish nibble grass on the bank and leap
+    back into the water; he tastes the grass himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Plunge into the deep and transformation
+  summary: After tasting the grass, Glaucus is compelled to throw himself into the
+    deep and becomes a sea-god.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Prophetic coastal visitation
+  summary: Glaucus yearly visits islands and coasts with marine monsters, foretells
+    evils, and is feared by fishermen who pray and fast to avert misfortune.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Iconic representation of Glaucus
+  summary: Glaucus is represented floating on billows, covered with marine matter,
+    bearded and long-haired, and lamenting his immortality.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: human transformed into sea-divinity after tasting a potent natural substance
+  taxonomy_refs:
+  - shapeshifter
+  basis: Glaucus tastes grass, is driven into the deep, and becomes a sea-god.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage describes a one-time transformation into a sea-divinity, not
+    repeated voluntary shapeshifting.
+- id: motif:2
+  label: prophetic sea-being whose approach brings dread
+  taxonomy_refs: []
+  basis: Glaucus has prophetic power, travels with marine monsters, foretells evils,
+    and is dreaded by fishermen.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not connect this prophecy to a broader named motif family.
+- id: motif:3
+  label: immortality experienced as lamentation
+  taxonomy_refs: []
+  basis: Glaucus is represented as bitterly bewailing his immortality.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives only a brief representational detail and does not narrate
+    the cause of his sorrow beyond immortality.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3469-3476
+  quote_or_summary: While angling, Glaucus sees caught fish nibble grass on the bank
+    and leap back into the water; curious, he tastes the grass.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3476-3478
+  quote_or_summary: After tasting the grass, Glaucus obeys an irresistible impulse,
+    plunges into the deep, and becomes a sea-god.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3480-3483
+  quote_or_summary: Glaucus has prophetic power and each year visits islands and coasts
+    with marine monsters, foretelling evils.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3483-3485
+  quote_or_summary: Fishermen dread Glaucus's approach and try through prayer and
+    fasting to avert the misfortunes he prophesies.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3485-3487
+  quote_or_summary: Glaucus is represented floating on billows, covered with mussels,
+    sea-weed, and shells, with beard and long hair, and bewailing immortality.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is concise and supports the literal extraction clearly. Motif
+    taxonomy alignment is limited because the available motif families do not include
+    a precise apotheosis or metamorphosis category apart from the broader shapeshifter
+    family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison with another text, tradition, or motif family beyond the local extraction categories.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l3469-l3487
+  passage_sha256=bf248d14bb1c4baee70c5220889e3db5e133e487dc3ae0320c28bff196d40a58
+

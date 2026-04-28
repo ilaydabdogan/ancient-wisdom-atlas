@@ -1,0 +1,366 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l1556-l1567
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: HERA (JUNO). / JUNO. / PALLAS-ATHENE (MINERVA). / MINERVA.; lines 1556-1567
+  start: '1556'
+  end: '1567'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“presides over learning and all useful arts”"
+  summary: The passage identifies Roman Minerva with Greek Pallas-Athene, describes
+    Minerva as presiding over learning, useful arts, and feminine textile accomplishments,
+    notes her care for schools and schoolboys' festival gifts to masters during the
+    Greater Quinquatria, and states that Jupiter, Juno, and Minerva were the three
+    divinities worshipped in the Capitol, with the Ludi Maximi held in their joint
+    honor.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Roman Minerva is identified with Greek Pallas-Athene.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Minerva presides over learning and useful arts.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Minerva is patroness of sewing, spinning, weaving, and other feminine accomplishments.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Schools are under Minerva's especial care.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Schoolboys have holidays during Minerva's festivals, the Greater Quinquatria.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: During the Greater Quinquatria schoolboys bring a gift to their master called
+    the Minerval.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Jupiter, Juno, and Minerva are named as the only three divinities worshipped
+    in the Capitol.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Ludi Maximi, or great games, are held in joint honor of Jupiter, Juno,
+    and Minerva.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Minerva
+  description: Roman divinity identified with Pallas-Athene; presides over learning,
+    useful arts, textile accomplishments, schools, and is one of three Capitol divinities.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Pallas-Athene
+  description: Greek divinity with whom Roman Minerva is identified.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Schoolboys
+  description: Pupils who have holidays during Minerva's festivals and bring a Minerval
+    gift to their master.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Master
+  description: Teacher who receives the gift called the Minerval from schoolboys during
+    Minerva's festivals.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Jupiter
+  description: One of the three divinities worshipped in the Capitol and honored by
+    the Ludi Maximi.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Juno
+  description: One of the three divinities worshipped in the Capitol and honored by
+    the Ludi Maximi.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Roman counterpart of Greek Pallas-Athene
+  assigned_to:
+  - fig:1
+  basis: The passage states that Roman Minerva was identified with Greek Pallas-Athene.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Patron of learning and useful arts
+  assigned_to:
+  - fig:1
+  basis: The passage states that Minerva presides over learning and useful arts.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Patroness of textile accomplishments
+  assigned_to:
+  - fig:1
+  basis: The passage names sewing, spinning, and weaving among accomplishments under
+    Minerva's patronage.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Capitol divinity jointly honored by games
+  assigned_to:
+  - fig:1
+  - fig:5
+  - fig:6
+  basis: The passage lists Jupiter, Juno, and Minerva as Capitol divinities and says
+    the Ludi Maximi were held in their joint honor.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Greek divine counterpart
+  assigned_to:
+  - fig:2
+  basis: Pallas-Athene is named as the Greek divinity identified with Minerva.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: Festival gift-givers
+  assigned_to:
+  - fig:3
+  basis: Schoolboys bring a gift to their master during Minerva's festivals.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: Recipient of Minerval gift
+  assigned_to:
+  - fig:4
+  basis: The master receives the gift called the Minerval from schoolboys.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Minerval gift
+  literal_form: Gift brought by schoolboys to their master during Minerva's festivals.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Greater Quinquatria
+  literal_form: Minerva's festivals during which schoolboys have holidays and bring
+    the Minerval.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Capitol
+  literal_form: Place where Jupiter, Juno, and Minerva are worshipped as the only
+    three divinities named in the passage.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Ludi Maximi
+  literal_form: Great games held in joint honor of Jupiter, Juno, and Minerva.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Three Capitol divinities
+  literal_form: The group of Jupiter, Juno, and Minerva worshipped in the Capitol.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Identification and divine patronage of Minerva
+  summary: Roman Minerva is identified with Greek Pallas-Athene and described as presiding
+    over learning, useful arts, and textile accomplishments.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: School festival observance
+  summary: Schools are under Minerva's care; schoolboys receive holidays during the
+    Greater Quinquatria and bring a Minerval gift to their master.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Capitol worship and great games
+  summary: Jupiter, Juno, and Minerva are the three divinities worshipped in the Capitol,
+    and the Ludi Maximi are held in their joint honor.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Divine patronage of wisdom, learning, and useful arts
+  taxonomy_refs:
+  - wisdom
+  basis: Minerva is explicitly said to preside over learning and useful arts, with
+    schools under her especial care.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is a handbook description rather than a narrative episode.
+- id: motif:2
+  label: Goddess as patroness of textile crafts
+  taxonomy_refs: []
+  basis: Minerva is described as patroness of sewing, spinning, weaving, and related
+    feminine accomplishments.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy reference directly names textile craft patronage.
+- id: motif:3
+  label: Festival gift exchange connected with divine patronage of schools
+  taxonomy_refs:
+  - sacred_exchange
+  basis: During Minerva's festivals, schoolboys bring a named gift, the Minerval,
+    to their master.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The gift is to a human master rather than directly to the deity, so the
+    sacred-exchange classification is indirect.
+- id: motif:4
+  label: Triadic Capitol worship
+  taxonomy_refs: []
+  basis: The passage emphasizes three divinities, Jupiter, Juno, and Minerva, worshipped
+    in the Capitol and jointly honored by games.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives cultic information but does not narrate a mythic triad
+    episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Roman Minerva as corresponding to Greek Pallas-Athene.
+  claim_level: same_function
+  target: Greek Pallas-Athene / Roman Minerva identification
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the passage's explicit identification and functional
+    similarity; it does not establish historical origin or full equivalence across
+    all traditions.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1556-1558
+  quote_or_summary: "“The Minerva of the Romans was identified with the Pallas-Athene
+    of the Greeks.”"
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:2
+  type: summary
+  locator: lines 1558-1560
+  quote_or_summary: Minerva, like Pallas-Athene, presides over learning and useful
+    arts and is patroness of sewing, spinning, weaving, and similar accomplishments.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1561-1564
+  quote_or_summary: Schools are under Minerva's care; schoolboys have holidays during
+    her Greater Quinquatria festivals and bring their master a gift called the Minerval.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1565-1567
+  quote_or_summary: Jupiter, Juno, and Minerva are the only three divinities worshipped
+    in the Capitol, and the Ludi Maximi are held in their joint honor.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignments are partly handbook/cultic
+    rather than narrative and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no external taxonomy IDs or additional comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l1556-l1567
+  passage_sha256=39859d488f18c11aea698a25aa6857fa615f66c7cd4d616174ccb9c7b24b883c
+

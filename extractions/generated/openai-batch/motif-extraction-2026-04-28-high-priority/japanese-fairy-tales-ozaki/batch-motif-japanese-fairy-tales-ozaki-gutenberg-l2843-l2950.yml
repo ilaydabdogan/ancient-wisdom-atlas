@@ -1,0 +1,694 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l2843-l2950
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE FARMER AND THE BADGER / THE ADVENTURES OF KINTARO, THE GOLDEN BOY / THE
+    STORY OF THE MAN WHO DID NOT WISH TO DIE / THE BAMBOO-CUTTER AND THE MOON-CHILD;
+    lines 2843-2950
+  start: '2843'
+  end: '2950'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A sequence from the Bamboo-Cutter tale describes further failed suitors
+    of Princess Moonlight: the Third Knight obtains a supposed fire-rat skin that
+    burns when tested; the Fourth Knight sends servants after a dragon jewel, later
+    goes to sea himself, encounters a storm, and abandons the quest; the Fifth Knight
+    fails to find a swallow''s shell. The Emperor then seeks Princess Moonlight, sees
+    her radiance, asks her to come to court, and she begins to fade into a shadow
+    when threatened with removal, resuming form only after he promises to leave her
+    free.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Third Knight procures a supposed fire-rat skin through a friend in China
+    and sends it boxed to Princess Moonlight.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Princess Moonlight tests the skin by throwing it into fire; it burns at once,
+    proving the Third Knight has not fulfilled his word.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Fourth Knight orders servants to seek a dragon bearing a five-color-radiating
+    jewel in Japan and China.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Fourth Knight's servants do not intend to obey the order and instead take
+    a holiday.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After a year, the Fourth Knight hires a ship and compels the captain and sailors
+    to sail in search of the dragon.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A long storm at sea causes the Fourth Knight to give up the dragon hunt; he
+    is blown ashore and becomes ill.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Fourth Knight decides not to go near Princess Moonlight's house again
+    and praises the returned servants rather than punishing them.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The Fifth Knight also fails because he cannot find the swallow's shell.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The Emperor hears of Princess Moonlight's beauty and sends a Court lady to
+    investigate her.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Princess Moonlight refuses to see the Court lady and says that, if forced
+    to go to the Palace, she will vanish from the earth.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The Emperor comes to the bamboo-cutter's house during a planned hunting excursion
+    and enters the room where Princess Moonlight is sitting with attendant maidens.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The Emperor sees Princess Moonlight as exceptionally beautiful, more lovely
+    than a human being, and shining with soft radiance.
+  category: attribute
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: When the Emperor proposes taking Princess Moonlight to court, she says she
+    will turn into a shadow if forced, and her figure begins to fade from sight.
+  category: sequence
+  evidence_refs:
+  - ev:13
+- id: obs:14
+  text: Princess Moonlight resumes her former shape after the Emperor promises to
+    leave her free.
+  category: sequence
+  evidence_refs:
+  - ev:14
+figures:
+- id: fig:1
+  name_or_label: Third Knight
+  description: A suitor who obtains and sends Princess Moonlight a supposed fire-rat
+    skin, which fails the fire test.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Friend in China
+  description: The Third Knight's friend who acquires the fire-rat skin after being
+    promised money.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Princess Moonlight
+  description: The princess who tests the suitors' objects, refuses imperial summons,
+    is described as radiantly beautiful, and fades when threatened with forced removal.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:10
+  - ev:12
+  - ev:13
+  - ev:14
+- id: fig:4
+  name_or_label: Bamboo-cutter
+  description: The old man or father figure who carries the Third Knight's box to
+    the Princess and is involved in communicating with the Emperor about the plan
+    to visit.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:11
+- id: fig:5
+  name_or_label: Fourth Knight
+  description: A suitor who commands others to seek the dragon jewel, later sails
+    to seek it himself, abandons the quest after a storm, and renounces visiting the
+    Princess again.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Fourth Knight's servants and retainers
+  description: Servants ordered to find the dragon jewel who instead avoid the task
+    and take a holiday.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:7
+  name_or_label: Captain and sailors
+  description: Seafarers who initially refuse the dragon search as absurd but are
+    compelled by the Fourth Knight to put out to sea.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Governor of the place
+  description: A local governor who hears of the Fourth Knight's plight and invites
+    him to his house.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Fifth Knight
+  description: A suitor who fails to find the swallow's shell.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: Emperor
+  description: The ruler who hears of Princess Moonlight's beauty, sends a Court lady,
+    visits her himself, falls in love, and asks her to come to court.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+  - ev:11
+  - ev:12
+  - ev:13
+  - ev:14
+- id: fig:11
+  name_or_label: Court lady
+  description: An imperial messenger sent to see whether Princess Moonlight is as
+    beautiful as report says.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:12
+  name_or_label: Attendant maidens
+  description: Maidens present with Princess Moonlight when the Emperor enters the
+    house.
+  role_refs: []
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: quest-testing princess
+  assigned_to:
+  - fig:3
+  basis: She tests the alleged fire-rat skin and judges the suitor's failure.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: failed suitor
+  assigned_to:
+  - fig:1
+  - fig:5
+  - fig:9
+  basis: Each named knight fails to fulfill the required acquisition quest associated
+    with Princess Moonlight.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: role:3
+  label: imperial suitor or pursuer
+  assigned_to:
+  - fig:10
+  basis: The Emperor seeks to see Princess Moonlight, falls in love, and asks or attempts
+    to take her to court.
+  evidence_refs:
+  - ev:9
+  - ev:12
+  - ev:13
+- id: role:4
+  label: disobedient quest agents
+  assigned_to:
+  - fig:6
+  basis: The servants are ordered to search for the dragon jewel but intentionally
+    avoid the task.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: messenger or assisting intermediary
+  assigned_to:
+  - fig:2
+  - fig:7
+  - fig:8
+  - fig:11
+  basis: These figures assist, convey, host, or are sent in relation to the suitors'
+    and Emperor's actions.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+  - ev:9
+- id: role:6
+  label: household intermediary
+  assigned_to:
+  - fig:4
+  basis: The bamboo-cutter carries the suitor's box to the Princess and mediates consent
+    for the Emperor's plan.
+  evidence_refs:
+  - ev:2
+  - ev:11
+- id: role:7
+  label: radiant evasive beloved
+  assigned_to:
+  - fig:3
+  basis: She is described as radiantly beautiful, refuses summons, and fades when
+    coercion is threatened.
+  evidence_refs:
+  - ev:10
+  - ev:12
+  - ev:13
+  - ev:14
+symbols:
+- id: sym:1
+  label: fire-rat skin
+  literal_form: A skin said to come from a fire-rat and to be unharmed by fire.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: fire test
+  literal_form: Princess Moonlight throws the skin into fire to determine whether
+    it is real.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: five-color-radiating dragon jewel
+  literal_form: A jewel borne on a dragon's head and described as radiating five colors.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: dragon
+  literal_form: A dragon associated with the five-color-radiating jewel.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: sea storm
+  literal_form: A great storm encountered during the sea search for the dragon.
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: swallow's shell
+  literal_form: The object the Fifth Knight cannot find.
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: soft radiance
+  literal_form: Princess Moonlight shines in her own soft radiance.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+- id: sym:8
+  label: shadow transformation or fading
+  literal_form: Princess Moonlight says she will turn into a shadow, and her figure
+    fades from sight.
+  associated_figures:
+  - fig:3
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:13
+  - ev:14
+- id: sym:9
+  label: bamboo-cutter's cottage
+  literal_form: The house or cottage where Princess Moonlight is hidden from court
+    and visited by the Emperor.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+  - ev:13
+scenes:
+- id: scene:1
+  label: Third Knight's fire-rat skin trial
+  summary: The Third Knight sends a supposed fire-rat skin to Princess Moonlight;
+    she tests it in fire, where it burns, so he fails.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Fourth Knight's delegated dragon-jewel quest
+  summary: The Fourth Knight commands servants to search Japan and China for the dragon's
+    five-color-radiating jewel, but they avoid the task.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Fourth Knight's sea search and abandonment
+  summary: After waiting a year, the Fourth Knight forces a sea search for the dragon,
+    meets a storm, is blown ashore, becomes ill, and abandons the Princess's quest.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Fifth Knight's failed shell quest
+  summary: The Fifth Knight fails because he cannot find the swallow's shell.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Imperial summons refused
+  summary: The Emperor sends a Court lady to verify Princess Moonlight's beauty, but
+    the Princess refuses to be seen and warns that she will vanish if forced to go
+    to the Palace.
+  figure_refs:
+  - fig:3
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: scene:6
+  label: Emperor visits and Princess fades
+  summary: The Emperor visits the bamboo-cutter's house, sees Princess Moonlight's
+    radiance, asks to take her to court, and she begins fading into a shadow until
+    he promises to leave her free.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:10
+  - fig:12
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+  - ev:14
+candidate_motifs:
+- id: motif:1
+  label: impossible quests for a desired bride
+  taxonomy_refs:
+  - mystical_quest
+  basis: 'Multiple suitors are associated with rare or supernatural objects: fire-rat
+    skin, dragon jewel, and swallow''s shell; the objects are not successfully obtained
+    or verified.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage shows the failures but does not include the original setting
+    of all quest conditions.
+- id: motif:2
+  label: testing the supernatural object by ordeal of fire
+  taxonomy_refs: []
+  basis: The Princess tests the alleged fire-rat skin by placing it in fire, where
+    it burns and reveals the suitor's failure.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No broader taxonomy reference is assigned beyond the literal fire symbol.
+- id: motif:3
+  label: radiant nonhuman or superhuman beloved sought by ruler
+  taxonomy_refs:
+  - divine_beloved
+  basis: The Emperor falls in love with Princess Moonlight after seeing that she is
+    more lovely than a human being and shines with soft radiance.
+  evidence_refs:
+  - ev:12
+  - ev:13
+  confidence: medium
+  cautions: The passage implies superhuman qualities through radiance and beauty,
+    but does not explicitly identify her origin in this excerpt.
+- id: motif:4
+  label: vanishing or shadow transformation to resist coercion
+  taxonomy_refs:
+  - shapeshifter
+  basis: Princess Moonlight warns that forced removal to the Palace will make her
+    vanish or become a shadow, and she begins to fade until the Emperor promises freedom.
+  evidence_refs:
+  - ev:10
+  - ev:13
+  - ev:14
+  confidence: medium
+  cautions: The passage describes fading and resuming form; whether this is shapeshifting,
+    disappearance, or another supernatural condition is not fully explained here.
+- id: motif:5
+  label: failed delegated quest
+  taxonomy_refs:
+  - mystical_quest
+  basis: The Fourth Knight delegates the dragon-jewel search to servants who intentionally
+    avoid it, and his later personal attempt also fails after a storm.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a subpattern within the larger quest sequence rather than an independent
+    mythic type.
+comparison_claims:
+- id: claim:1
+  claim: The suitors' searches for fire-rat skin, dragon jewel, and swallow's shell
+    share the function of an impossible or near-impossible acquisition quest attached
+    to winning access to Princess Moonlight.
+  claim_level: same_function
+  target: mystical_quest motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt gives only part of the full tale and does not include the
+    initial assignment of every object in the sequence.
+- id: claim:2
+  claim: Princess Moonlight's fading into a shadow when threatened with compulsory
+    removal has the same narrative function as supernatural evasion or transformation
+    motifs, preventing forced possession by a powerful suitor.
+  claim_level: same_function
+  target: shapeshifter or supernatural-vanishing pattern
+  evidence_refs:
+  - ev:10
+  - ev:13
+  - ev:14
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not explain the mechanism or origin of the fading,
+    so the comparison should remain functional rather than typological or historical.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2843-2852
+  quote_or_summary: The Third Knight writes to a friend in China for the fire-rat's
+    skin, pays him, receives it, boxes it, and sends it to the Princess.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 2853-2862
+  quote_or_summary: Princess Moonlight says she must test the skin in fire; "The skin
+    crackled and burnt up at once," so the Third Knight fails.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 2863-2868
+  quote_or_summary: The Fourth Knight orders servants to seek, in Japan and China,
+    the dragon bearing a five-color-radiating jewel on its head.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 2869-2873
+  quote_or_summary: The Fourth Knight's retainers and servants leave in different
+    directions but intend not to obey and instead take a holiday.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 2878-2885
+  quote_or_summary: After a year of waiting, the Fourth Knight takes two men, hires
+    a ship, and compels the captain and sailors to sail in search of the dragon.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 2886-2893
+  quote_or_summary: A great storm lasts so long that the Fourth Knight decides to
+    give up the dragon hunt; the ship is blown ashore and he falls ill with a swollen
+    face.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 2894-2907
+  quote_or_summary: A governor invites the Fourth Knight in; the Knight blames the
+    Princess for his hardships, praises his returned servants, and says he will never
+    go near her house again.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:8
+  type: quote
+  locator: lines 2908-2909
+  quote_or_summary: '"Like all the rest, the Fifth Knight failed in his quest—he could
+    not find the swallow’s shell."'
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:9
+  type: summary
+  locator: lines 2910-2913
+  quote_or_summary: The Emperor hears of Princess Moonlight's beauty and sends a Court
+    lady to see whether the reports are true.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:10
+  type: summary
+  locator: lines 2914-2920
+  quote_or_summary: Princess Moonlight refuses to see the Court lady and says that
+    if forced to obey the Emperor's order to go to the Palace, she will vanish from
+    the earth.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:11
+  type: summary
+  locator: lines 2921-2931
+  quote_or_summary: The Emperor arranges a hunting excursion near the bamboo-cutter's
+    house, then enters and goes to the room where the Princess sits with attendant
+    maidens.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:12
+  type: quote
+  locator: lines 2932-2936
+  quote_or_summary: She is "more lovely than any human being" and "shone in her own
+    soft radiance."
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:13
+  type: summary
+  locator: lines 2937-2948
+  quote_or_summary: The Emperor falls in love and wants to bring her to court; she
+    says she will turn into a shadow if forced, and her figure fades from sight.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:14
+  type: summary
+  locator: lines 2949-2950
+  quote_or_summary: The Emperor promises to leave her free if she resumes her former
+    shape, and she does so.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary prepared for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for events and figures in the passage. Motif
+    labeling is cautious because the excerpt contains only part of the full Bamboo-Cutter
+    narrative and does not include all prior quest assignments or Princess Moonlight's
+    full origin.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to provided motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l2843-l2950
+  passage_sha256=81d4b378da46395fcf03456d04a43280bcc7eb7184d42b1323355d324cf97648
+

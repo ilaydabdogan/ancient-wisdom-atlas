@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.norse-myths-of-norsemen-guerber-gutenberg-l3968-l3988
+source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+passage_locator:
+  label: 'CHAPTER III: FRIGGA / CHAPTER IV: THOR / CHAPTER V: TYR / CHAPTER VI: BRAGI;
+    lines 3968-3988'
+  start: '3968'
+  end: '3988'
+  translation: 'Myths of the Norsemen: From the Eddas and Sagas'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Bragi as god of poetry, eloquence, and song, explains
+    a ritual toast called the Bragaful in ship-shaped cups with a hammer sign and
+    vows of valor, and notes Bragi’s artistic depiction as an elderly white-haired
+    man with a golden harp.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Bragi is identified as god of poetry, eloquence, and song.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Poetry and poets or scalds could be designated by names derived from Bragi.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Bragi’s health was drunk at solemn or festive occasions, especially funeral
+    feasts and Yuletide celebrations.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Bragaful toast was served in cups shaped like a ship.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A sacred sign of the hammer was made over the Bragaful before the vow-making.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The new ruler or head of the family pledged himself to a deed of valor to
+    be executed within the year.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Guests followed by making similar vows and declarations.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Bragi is represented in art as an elderly man with long white hair and beard,
+    holding a golden harp.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Bragi
+  description: God of poetry, eloquence, and song; honored in ritual toasts; represented
+    as an elderly man with long white hair and beard holding a golden harp.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: scalds
+  description: Poets of either sex designated as Braga-men or Braga-women.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: new ruler or head of the family
+  description: Person who first pledged a deed of valor during the Bragaful ritual.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: guests
+  description: Participants who made similar vows and declarations after the new ruler
+    or family head.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: poetry deity
+  assigned_to:
+  - fig:1
+  basis: Bragi is explicitly called god of poetry, eloquence, and song.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: honored recipient of ritual toast
+  assigned_to:
+  - fig:1
+  basis: Bragi’s health was drunk on solemn and festive occasions.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: poet named after deity
+  assigned_to:
+  - fig:2
+  basis: Scalds of either sex were designated as Braga-men or Braga-women.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: vow-maker
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The family head or ruler and then the guests pledged deeds or made vows during
+    the toast.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: harp-bearing divine figure in art
+  assigned_to:
+  - fig:1
+  basis: Bragi is described in art as holding a golden harp.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Bragaful
+  literal_form: ritual toast in cups shaped like a ship
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: hammer sign
+  literal_form: sacred sign of the hammer made over the toast
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: golden harp
+  literal_form: golden harp held by Bragi in artistic representation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: ship-shaped cups
+  literal_form: cups shaped like a ship used to serve the Bragaful
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Bragi honored as patron of poetry
+  summary: Bragi is described as god of poetry, eloquence, and song, and his name
+    is applied to poetry and scalds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bragaful toast and vows
+  summary: At the Bragaful, a hammer sign is made over ship-shaped cups; the new ruler
+    or family head pledges a deed of valor, and guests make similar vows.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Artistic representation of Bragi
+  summary: Bragi is depicted as an elderly white-haired and white-bearded man holding
+    a golden harp.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine patron of poetry and song
+  taxonomy_refs:
+  - wisdom
+  basis: Bragi is explicitly named as god of poetry, eloquence, and song, and his
+    name is attached to poets and poetry.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The available taxonomy has no direct poetry or music category; the reference
+    to wisdom is approximate because eloquence and poetic art are culturally associated
+    forms of knowledge.
+- id: motif:2
+  label: ritual toast with sacred sign and binding vow
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Bragaful involves a sacred hammer sign over a toast and a public pledge
+    to perform a deed of valor within the year.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage describes a vow ritual, but does not explicitly frame it as
+    an exchange with a deity.
+- id: motif:3
+  label: public heroic vow before future deed
+  taxonomy_refs: []
+  basis: The ruler or family head vows to perform a deed of valor, and guests follow
+    by declaring what they will do.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No external comparison is supplied in the passage.
+- id: motif:4
+  label: divine musician with magical instrument
+  taxonomy_refs: []
+  basis: Bragi is represented holding a golden harp from which his fingers draw magical
+    strains.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives an artistic attribute rather than a narrative episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the custom of boastful vow-making at the Bragaful
+    seems to connect Bragi’s name with the English verb "to brag."
+  claim_level: linguistic_similarity
+  target: English verb "to brag"
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is presented by the source as a seeming connection and is not
+    independently supported within the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3968-3973
+  quote_or_summary: Bragi is called god of poetry, eloquence, and song; poetry and
+    scalds are named after him; his health is drunk at solemn and festive occasions,
+    especially funeral feasts and Yuletide.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: 3974-3978
+  quote_or_summary: The Bragaful toast is served in ship-shaped cups, and the sacred
+    sign of the hammer is made over it.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: 3978-3985
+  quote_or_summary: The new ruler or family head vows to perform a deed of valor within
+    the year; guests then make similar vows, and the source connects the custom with
+    the verb "to brag."
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: 3987-3988
+  quote_or_summary: In art, Bragi appears as an elderly man with long white hair and
+    beard holding a golden harp that produces magical strains.
+  source_text_path: texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is straightforward. Motif taxonomy assignments are cautious
+    because the available taxonomy lacks direct categories for poetry, harp, or vow-boasting.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used; no external Norse sources or etymological claims were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:norse-myths-of-norsemen-guerber-gutenberg__l3968-l3988
+  passage_sha256=24954c9ae7d772c2f6fe65a5f3b5a5adf013c80bf8e8f80ef622cea411a7d81b
+

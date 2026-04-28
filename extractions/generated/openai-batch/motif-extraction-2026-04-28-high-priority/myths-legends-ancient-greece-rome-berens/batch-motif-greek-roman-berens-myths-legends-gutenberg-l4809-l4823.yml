@@ -1,0 +1,332 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l4809-l4823
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: TYCHE (FORTUNA). / FORTUNA. / ANANKE (NECESSITAS). / MOMUS.; lines 4809-4823
+  start: '4809'
+  end: '4823'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Momus, son of Nyx, as the god of raillery and ridicule.
+    He habitually criticizes gods and men, finding defects in Prometheus's first man
+    and in a house built by Athene, but finding no fault in Aphrodite. It adds that
+    ancient representations of Momus are unknown, while modern art depicts him as
+    a king's jester with a fool's cap and bells.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Momus is identified as the son of Nyx.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Momus is described as the god of raillery and ridicule.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Momus delights in criticizing the actions of gods and men with bitter sarcasm
+    and finding defects in things.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Momus judges Prometheus's first man incomplete because the breast has no aperture
+    through which inner thoughts may be read.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Momus faults a house built by Athene because it lacks means of locomotion
+    and cannot be moved away from an unhealthy locality.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Momus is unable to find any fault with Aphrodite's perfect form.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that ancient representations of Momus are unknown.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Modern art depicts Momus like a king's jester, with a fool's cap and bells.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Momus
+  description: Son of Nyx and god of raillery and ridicule, characterized by sarcastic
+    criticism and fault-finding.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Nyx
+  description: Named as the mother of Momus.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Prometheus
+  description: Creator of the first man whose work Momus criticizes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: First man
+  description: Prometheus's created human, judged incomplete by Momus because his
+    breast lacks an aperture for reading thoughts.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Athene
+  description: Builder of a house that Momus faults for lacking locomotion.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Aphrodite
+  description: Figure whose perfect form prevents Momus from finding any fault.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine critic
+  assigned_to:
+  - fig:1
+  basis: Momus criticizes gods and men with bitter sarcasm and finds defects in things.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: son of Nyx
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Momus as the son of Nyx.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: divine parent
+  assigned_to:
+  - fig:2
+  basis: Nyx is named as the parent of Momus.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: creator of first man
+  assigned_to:
+  - fig:3
+  basis: The passage says Prometheus created the first man.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: criticized creation
+  assigned_to:
+  - fig:4
+  basis: Momus considers the first man incomplete because his breast lacks an aperture
+    for reading thoughts.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: builder of criticized house
+  assigned_to:
+  - fig:5
+  basis: A house built by Athene is faulted by Momus for lacking locomotion.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: faultless beauty
+  assigned_to:
+  - fig:6
+  basis: Momus can find no fault with Aphrodite's perfect form.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: breast aperture
+  literal_form: An aperture in the breast through which inner thoughts might be read.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: movable house
+  literal_form: A house with means of locomotion, imagined by Momus as desirable so
+    it could be removed from an unhealthy locality.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: fool's cap and bells
+  literal_form: Modern artistic attributes of Momus when depicted like a king's jester.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Momus as universal fault-finder
+  summary: Momus is introduced as a son of Nyx and as a god whose activity is sarcastic
+    criticism of gods, men, and things.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Critique of the first man
+  summary: After Prometheus creates the first man, Momus calls the work incomplete
+    because the breast lacks an opening through which thoughts can be read.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Critique of Athene's house
+  summary: Momus faults a house built by Athene because it has no means of locomotion
+    and therefore cannot be moved from an unhealthy location.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Aphrodite beyond criticism
+  summary: Momus is unable to find any defect in Aphrodite's perfect form.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Modern representation of Momus
+  summary: The passage states that ancient representations are unknown and that modern
+    art depicts Momus as a king's jester with a fool's cap and bells.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine fault-finder
+  taxonomy_refs: []
+  basis: Momus is defined by sarcastic criticism and by discovering defects in divine
+    and human actions and creations.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents this as an attribute and anecdotal pattern rather
+    than a full narrative cycle.
+- id: motif:2
+  label: unreadable inner thoughts as a flaw in human creation
+  taxonomy_refs: []
+  basis: Momus criticizes the first man because there is no aperture in the breast
+    through which inner thoughts might be read.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a specific satirical critique within the passage, not necessarily
+    a broader motif without additional evidence.
+- id: motif:3
+  label: faultless beauty defying criticism
+  taxonomy_refs: []
+  basis: Aphrodite alone defeats Momus's criticism because he can find no fault with
+    her perfect form.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only a brief statement and does not develop a larger
+    narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4809-4813
+  quote_or_summary: Momus, son of Nyx, is described as god of raillery and ridicule
+    who criticizes gods and men with bitter sarcasm and finds defects in things.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4813-4816
+  quote_or_summary: When Prometheus creates the first man, Momus considers the work
+    incomplete because the breast lacks an aperture for reading inner thoughts.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4816-4819
+  quote_or_summary: Momus faults a house built by Athene because it lacks locomotion
+    and cannot be removed from an unhealthy locality.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4819-4821
+  quote_or_summary: Aphrodite alone defies Momus's criticism because he can find no
+    fault with her perfect form.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4822-4823
+  quote_or_summary: Ancient representation of Momus is unknown; modern art depicts
+    him like a king's jester with a fool's cap and bells.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is a handbook-style description with brief anecdotes and no explicit
+    comparative claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a cautious cross-textual or cross-traditional comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l4809-l4823
+  passage_sha256=24effe95f4a073aba871bf9533462b0b074582beed752f644be82e8c912348d1
+

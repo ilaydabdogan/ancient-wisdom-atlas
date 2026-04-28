@@ -1,0 +1,422 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l6236-l6369
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE QUARREL OF THE MONKEY AND THE CRAB / THE WHITE HARE AND THE CROCODILES
+    / THE STORY OF PRINCE YAMATO TAKE / MOMOTARO, OR THE STORY OF THE SON OF A PEACH;
+    lines 6236-6369
+  start: '6236'
+  end: '6369'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An elderly peasant couple work separately, the man cutting grass and the
+    woman washing clothes by a river. A large peach floats downstream; the woman recites
+    an old charm-verse, and the peach comes within reach. She brings it home. When
+    her husband prepares to cut it, the peach splits open by itself and a child emerges.
+    The child says he is not a demon or fairy, but has been sent by Heaven in answer
+    to the couple’s longing for a child. They adopt and name him Momotaro, Son of
+    a Peach. He grows into a strong, handsome, courageous, and wise boy, and later
+    expresses gratitude to his foster-father.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An old man and old woman are described as peasants who work for their daily
+    rice.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old man goes to the hills to cut grass while the old woman goes to the
+    river to wash clothes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A large peach floats down the stream while the old woman is washing clothes.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The old woman recites an old charm-verse while clapping her hands, and the
+    peach comes near the bank.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The old woman takes the peach home in her hand.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The old man prepares to cut the peach with a kitchen knife, but the peach
+    splits in two by itself.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A beautiful little child steps out of the split peach and speaks to the old
+    couple.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The child says he is not a demon or fairy and says Heaven sent him to be the
+    son of the couple’s old age.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The old couple name the child Momotaro, or Son of a Peach, because he came
+    out of a peach.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: By age fifteen, Momotaro is taller and stronger than boys his age, handsome,
+    courageous, and wise.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Momotaro addresses his foster-father and thanks him for his goodness.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: old man
+  description: An elderly peasant husband who cuts grass and later becomes Momotaro’s
+    foster-father.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: old woman
+  description: An elderly peasant wife who washes clothes by the river, retrieves
+    the peach, and becomes Momotaro’s foster-mother.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Momotaro
+  description: A beautiful little child who emerges from a peach, says Heaven sent
+    him, is named Son of a Peach, and grows into a strong, courageous, wise boy.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Heaven
+  description: The agency said by the child to have compassion on the old couple and
+    to have sent him to them.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: elderly peasant husband
+  assigned_to:
+  - fig:1
+  basis: The passage describes the old man as a peasant who cuts grass for farmers.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: elderly peasant wife and finder of the peach
+  assigned_to:
+  - fig:2
+  basis: The old woman washes clothes at the river and sees the great peach floating
+    downstream.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: miraculously appearing child
+  assigned_to:
+  - fig:3
+  basis: The child steps out of a peach that splits open by itself.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: foster-parent
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The couple take up the child, name him, and are later addressed as father
+    and mother/foster-father in the passage.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:5
+  label: heroic youth
+  assigned_to:
+  - fig:3
+  basis: At fifteen, Momotaro is described as stronger than other boys, courageous,
+    wise, and what the couple thought a hero ought to be.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: supernatural sender
+  assigned_to:
+  - fig:4
+  basis: The child says Heaven has heard the couple’s cry and sent him to be their
+    son.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: river water
+  literal_form: river, stream, and water where the old woman washes and where the
+    peach floats
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: great peach
+  literal_form: large peach floating down the stream and later splitting open
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: old charm-verse
+  literal_form: spoken charm-verse recited while clapping to draw the peach closer
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: self-splitting fruit
+  literal_form: peach splitting in two of itself before a child emerges
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Old couple at daily work
+  summary: The elderly peasant husband goes to the hills to cut grass while his wife
+    goes to the river to wash clothes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Peach drawn from the river
+  summary: A large peach floats downstream. The old woman recites a charm-verse and
+    the peach moves close enough for her to take it home.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Child emerges from the peach
+  summary: At home, the old man prepares to cut the peach, but it splits open by itself
+    and a child steps out, speaking to the couple.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Heaven-sent son adopted and named
+  summary: The child tells the couple that Heaven heard their longing for a child
+    and sent him to be their son; they rejoice and name him Momotaro, Son of a Peach.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Heroic growth and filial gratitude
+  summary: Momotaro grows to fifteen, becoming strong, handsome, courageous, and wise,
+    and he thanks his foster-father for his kindness.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: miraculous child from a peach
+  taxonomy_refs:
+  - miraculous_child
+  basis: A child emerges from a peach that splits open by itself and explains his
+    arrival as Heaven-sent.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy has no specific peach-birth or fruit-born-child
+    entry; the broader miraculous_child family is used.
+- id: motif:2
+  label: heaven-sent answer to childless elders
+  taxonomy_refs:
+  - sacred_birth
+  basis: The child says Heaven has compassion on the old couple, has heard their lament
+    at having no child, and sent him to be their son.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage frames the child as sent by Heaven, but it does not describe
+    pregnancy or a conventional birth.
+- id: motif:3
+  label: charm speech alters movement of floating object
+  taxonomy_refs: []
+  basis: The old woman recites an old charm-verse, after which the floating peach
+    comes nearer to her bank.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No available taxonomy reference directly matches this charm-action pattern.
+- id: motif:4
+  label: heroic youth marked by extraordinary qualities
+  taxonomy_refs:
+  - culture_hero
+  basis: Momotaro grows stronger than other boys and is described as courageous, wise,
+    and hero-like.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This passage shows heroic qualities but does not yet describe public deeds
+    or culture-hero actions.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6236-6251
+  quote_or_summary: An old peasant couple work for their living; the man goes to the
+    hills to cut grass and the woman goes to the river to wash clothes.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: 6267-6273
+  quote_or_summary: While washing clothes, the old woman sees a great peach floating
+    downstream, larger than any peach she has seen before.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: 6281-6294
+  quote_or_summary: The old woman remembers an old charm-verse, claps time to the
+    peach’s movement, sings about distant and near water, and the peach comes closer
+    until it stops before her.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: 6294-6298
+  quote_or_summary: The old woman takes up the peach, puts the clothes back in her
+    bamboo basket, and hurries home with the peach.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: 6331-6338
+  quote_or_summary: The old man places the peach on a board to cut it; the peach splits
+    in two by itself, a voice tells him to wait, and a beautiful little child steps
+    out.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: quote
+  locator: 6340-6346
+  quote_or_summary: "“Don’t be afraid. I am no demon or fairy... Heaven has had compassion
+    on you... Your cry has been heard and I am sent to be the son of your old age!”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:7
+  type: summary
+  locator: 6348-6354
+  quote_or_summary: The couple rejoice because they had long lamented having no child;
+    they hold the child and name him Momotaro, Son of a Peach, because he came out
+    of a peach.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:8
+  type: summary
+  locator: 6356-6361
+  quote_or_summary: At fifteen, Momotaro is taller and stronger than other boys, handsome,
+    courageous, wise, and viewed by the old couple as hero-like.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+- id: ev:9
+  type: summary
+  locator: 6363-6369
+  quote_or_summary: Momotaro solemnly addresses his foster-father and says they have
+    become father and son by strange chance, thanking him for his goodness.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif candidates are broad
+    because the available taxonomy does not include a specific fruit-born-child or
+    peach-child category. No comparison claims were added because the passage itself
+    does not make an explicit comparison to another corpus or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The passage is from the opening of the Momotaro tale and covers the discovery of the peach, Momotaro’s emergence, adoption, naming, and early heroic qualities.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l6236-l6369
+  passage_sha256=feb9561bdd43739f5a8b4b2e8c9442029a17d58ba6000fc778e454184fe83399
+

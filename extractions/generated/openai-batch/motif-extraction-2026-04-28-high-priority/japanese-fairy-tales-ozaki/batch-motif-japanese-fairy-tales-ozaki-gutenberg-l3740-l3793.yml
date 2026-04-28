@@ -1,0 +1,417 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l3740-l3793
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE ADVENTURES OF KINTARO, THE GOLDEN BOY / THE STORY OF THE MAN WHO DID
+    NOT WISH TO DIE / THE BAMBOO-CUTTER AND THE MOON-CHILD / THE GOBLIN OF ADACHIGAHARA;
+    lines 3740-3793
+  start: '3740'
+  end: '3793'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A man secretly opens a forbidden room and finds human bones and blood.
+    Realizing the old woman may be a cannibal goblin, he flees into the night while
+    praying to Buddha. The old woman pursues him, revealing a demonic aspect and carrying
+    a blood-stained knife. At dawn the goblin vanishes, and the priest gives thanks
+    for Buddha’s protection before leaving the haunted plain.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The man decides to look into a forbidden spot while the woman is away.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Inside the room he sees dead men’s bones, human blood on the walls and floor,
+    skulls, arm bones, and leg bones.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man reacts with physical fear and horror, falling backward and trembling.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: He says he may have come to a den and wonders whether the kind old woman is
+    really a cannibal goblin.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: He takes his hat and staff and runs out of the house into the night.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A pursuing voice tells him to stop and asks why he looked into the forbidden
+    room.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: While fleeing, the priest repeats a prayer to Buddha.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The pursuing old hag has hair flying in the wind, her face changes with rage
+    into a demon, and she carries a large blood-stained knife.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: When dawn breaks and night’s darkness ends, the goblin vanishes and the priest
+    is safe.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The priest identifies the being as the Goblin of Adachigahara, whose story
+    he had heard before but not believed.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The priest attributes his escape to Buddha’s protection, takes out his rosary,
+    prays in thanksgiving as the sun rises, and leaves the haunted plain.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the man / the priest
+  description: A traveler who opens the forbidden room, flees the goblin, prays to
+    Buddha, and survives until dawn.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: old woman / old hag / Goblin of Adachigahara
+  description: A seemingly kind old woman whom the priest concludes is a cannibal
+    goblin; she pursues him, appears demonic, and vanishes at dawn.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Buddha
+  description: Invoked by the fleeing priest and credited by him with protection after
+    his escape.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: forbidden-room transgressor
+  assigned_to:
+  - fig:1
+  basis: He knowingly looks into the forbidden spot while the woman is away.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fleeing survivor
+  assigned_to:
+  - fig:1
+  basis: He runs from the house, continues fleeing while praying, and is safe after
+    dawn.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:3
+  label: cannibal goblin
+  assigned_to:
+  - fig:2
+  basis: The priest associates the old woman with the bones and blood and later identifies
+    her as the Goblin of Adachigahara.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:4
+  label: demonic pursuer
+  assigned_to:
+  - fig:2
+  basis: She pursues the priest, demands that he stop, her face changes into a demon,
+    and she carries a blood-stained knife.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: invoked divine protector
+  assigned_to:
+  - fig:3
+  basis: The priest prays to Buddha during flight and later credits Buddha’s protection
+    for his escape.
+  evidence_refs:
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: forbidden room
+  literal_form: A forbidden room or spot hidden behind a sliding door.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: human remains and blood
+  literal_form: Skulls, arm bones, leg bones, and human blood covering the room.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: blood-stained knife
+  literal_form: A large knife stained with blood, carried by the pursuing hag.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: prayer to Buddha
+  literal_form: The repeated prayer “Namu Amida Butsu.”
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: rosary
+  literal_form: The priest’s rosary, taken out when he gives thanks after his escape.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: dawn and rising sun
+  literal_form: Dawn breaking, darkness ending, and the sun rising as the goblin vanishes
+    and the priest prays.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: haunted plain
+  literal_form: The plain associated with the Goblin of Adachigahara, which the priest
+    leaves behind.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Opening the forbidden room
+  summary: The man knowingly approaches the forbidden spot, opens the sliding door,
+    and sees human remains and blood inside.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Recognition and flight
+  summary: Horrified by the room, the man wonders whether the old woman is a cannibal
+    goblin, takes his hat and staff, and flees into the night.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Night pursuit and prayer
+  summary: The old woman pursues the priest, commands him to stop, and appears as
+    a demonic hag with a blood-stained knife while he repeats a prayer to Buddha.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Dawn escape and thanksgiving
+  summary: At dawn the goblin vanishes. The priest identifies her as the Goblin of
+    Adachigahara, thanks Buddha with his rosary as the sun rises, and leaves the haunted
+    plain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Forbidden room reveals deadly secret
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The man knowingly violates the prohibition by opening the forbidden room
+    and discovers blood and human remains that reveal the old woman’s danger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives the discovery and flight, but the specific origin or
+    full terms of the prohibition are outside this excerpt.
+- id: motif:2
+  label: Demonic pursuer in old-woman guise
+  taxonomy_refs:
+  - shapeshifter
+  basis: The old woman is suspected and then identified as a cannibal goblin; during
+    pursuit her face changes with rage into a demon.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The text describes a face changing and a revealed true character, but
+    does not describe a full bodily transformation.
+- id: motif:3
+  label: Escape through prayer and dawn
+  taxonomy_refs: []
+  basis: The priest prays to Buddha while fleeing; at dawn the goblin vanishes, and
+    the priest attributes his escape to Buddha’s protection.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The causal role of prayer is given through the priest’s interpretation
+    rather than an explicit narrated intervention.
+- id: motif:4
+  label: Cannibal monster’s hidden lair
+  taxonomy_refs: []
+  basis: The forbidden room contains human bones and blood, and the priest fears the
+    old woman will eat him as a cannibal goblin.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage implies prior victims from the remains but does not narrate
+    the goblin killing them.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself links the encountered being to an already known story
+    of the Goblin of Adachigahara that the priest had heard before.
+  claim_level: same_motif
+  target: Goblin of Adachigahara story tradition mentioned within the passage
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt only states that the priest had heard the story; it does
+    not provide external versions for comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3740-3747
+  quote_or_summary: The man tells himself the woman will not know if he looks, rises,
+    creeps to the forbidden spot, opens the sliding door, and looks in.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 3747-3757
+  quote_or_summary: The room is full of dead men’s bones, human blood covers the walls
+    and floor, skulls and limb bones are piled up, and the man is overcome with horror.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 3758-3764
+  quote_or_summary: The man cries out in horror, asks Buddha for help, and wonders
+    whether the kind old woman is really a cannibal goblin who will eat him.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 3765-3775
+  quote_or_summary: He snatches up his hat and staff and runs into the night; a voice
+    follows him, demanding that he stop and asking why he looked into the forbidden
+    room.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: quote
+  locator: lines 3776-3781
+  quote_or_summary: 'With all his heart he repeated the prayer to Buddha: “Namu Amida
+    Butsu, Namu Amida Butsu.”'
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 3782-3786
+  quote_or_summary: The old hag rushes after him with hair flying, her face changing
+    into a demon, and a large blood-stained knife in her hand.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 3787-3793
+  quote_or_summary: At dawn the goblin vanishes. The priest recognizes the Goblin
+    of Adachigahara, credits Buddha’s protection, prays with his rosary as the sun
+    rises, and leaves the haunted plain.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are candidate classifications based only on available taxonomy references and
+    passage evidence; some labels, especially shapeshifter, require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or unprovided story variants were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l3740-l3793
+  passage_sha256=fa9de54f4f86f7d1228e700d1d7fa411661ccd2efd39c78fabad759e1a197026
+

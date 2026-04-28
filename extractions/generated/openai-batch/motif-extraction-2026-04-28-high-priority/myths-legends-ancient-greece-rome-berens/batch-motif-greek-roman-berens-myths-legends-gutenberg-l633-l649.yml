@@ -1,0 +1,370 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l633-l649
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: URANUS AND GAEA. (COELUS AND TERRA.) / SECOND DYNASTY. / CRONUS (SATURN).
+    / SATURN.; lines 633-649
+  start: '633'
+  end: '649'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Roman identification of Cronus with Saturn, Saturn's
+    refuge with Janus after defeat and banishment by Zeus, the peaceful and prosperous
+    joint reign called the Golden Age, Saturn's usual attributes of sickle and wheat-sheaf,
+    and his temple at the foot of the Capitoline Hill containing the public treasury
+    and state laws.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Romans identified Cronus with their agricultural divinity Saturn because
+    they regarded the gods' attributes as similar.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After defeat in the Titanomachia and banishment from his dominions by Zeus,
+    Saturn/Cronus took refuge with Janus, king of Italy.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Janus received the exiled deity kindly and shared his throne with him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The united reign of Janus and Saturn was peaceful, happy, and prosperous,
+    and was called the Golden Age.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Saturn is usually represented with a sickle in one hand and a wheat-sheaf
+    in the other.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A temple to Saturn stood at the foot of the Capitoline Hill and contained
+    the public treasury and the laws of the state.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Romans
+  description: A collective group said to identify their deities with Greek gods of
+    similar attributes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Cronus / Saturn
+  description: Cronus is declared identical with Saturn, an old Roman agricultural
+    divinity; after defeat and banishment he takes refuge with Janus and later shares
+    a peaceful reign.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Zeus
+  description: The deity who banishes Saturn/Cronus from his dominions after his defeat
+    in the Titanomachia.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Janus
+  description: King of Italy who receives the exiled Saturn/Cronus kindly and shares
+    his throne with him.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: identifying community
+  assigned_to:
+  - fig:1
+  basis: The passage says the Romans identified their deities with Greek gods of similar
+    attributes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: identified deity
+  assigned_to:
+  - fig:2
+  basis: Cronus is declared identical with Saturn.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: agricultural divinity
+  assigned_to:
+  - fig:2
+  basis: Saturn is described as an old Roman agricultural divinity and represented
+    with agricultural objects.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: exiled deity and co-ruler
+  assigned_to:
+  - fig:2
+  basis: After defeat and banishment, Saturn/Cronus takes refuge with Janus and shares
+    his throne.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: banishing victor
+  assigned_to:
+  - fig:3
+  basis: Zeus is named as the one who banishes Saturn/Cronus after defeat in the Titanomachia.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: host king
+  assigned_to:
+  - fig:4
+  basis: Janus, king of Italy, receives the exiled deity with kindness.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: co-ruler
+  assigned_to:
+  - fig:4
+  basis: Janus shares his throne with Saturn/Cronus, and their united reign is described.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: sickle
+  literal_form: Sickle borne by Saturn in one hand.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: wheat-sheaf
+  literal_form: Wheat-sheaf borne by Saturn in the other hand.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: shared throne
+  literal_form: Throne shared by Janus with Saturn/Cronus.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Golden Age
+  literal_form: Name given to the peaceful, happy, prosperous united reign of Janus
+    and Saturn.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: temple at the Capitoline Hill
+  literal_form: Temple of Saturn at the foot of the Capitoline Hill containing the
+    public treasury and state laws.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Roman identification of Cronus and Saturn
+  summary: The Romans identify Cronus with Saturn because of perceived similarity
+    in divine attributes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Exile and refuge with Janus
+  summary: After defeat in the Titanomachia and banishment by Zeus, Saturn/Cronus
+    seeks refuge with Janus, who receives him kindly and shares power with him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Golden Age reign
+  summary: The joint rule of Janus and Saturn is described as peaceful, happy, prosperous,
+    and called the Golden Age.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Representation and cult site of Saturn
+  summary: Saturn is represented with a sickle and wheat-sheaf, and a temple at the
+    foot of the Capitoline Hill holds public treasury and state laws.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Exiled deity received by a host king
+  taxonomy_refs: []
+  basis: Saturn/Cronus, after defeat and banishment, takes refuge with Janus, who
+    receives him kindly.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives the sequence but does not elaborate a broader mythic
+    pattern beyond this episode.
+- id: motif:2
+  label: Shared reign as age of peace and prosperity
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Janus shares his throne with Saturn/Cronus, and their united reign is marked
+    by peace, happiness, prosperity, and the name Golden Age.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage presents shared rule
+    and prosperity but does not explicitly discuss legitimation ideology.
+- id: motif:3
+  label: Agricultural deity with harvest attributes
+  taxonomy_refs: []
+  basis: Saturn is described as an agricultural divinity and represented with a sickle
+    and wheat-sheaf.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly corresponds to an agricultural-god
+    attribute pattern.
+- id: motif:4
+  label: Temple as repository of civic wealth and law
+  taxonomy_refs: []
+  basis: Saturn's temple contains the public treasury and the laws of the state.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage states the civic function of the temple but does not explain
+    its ritual or symbolic meaning.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents a Roman identification of the Greek Cronus
+    with the Roman Saturn based on similar attributes.
+  claim_level: same_function
+  target: Greek Cronus and Roman Saturn
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the handbook's report of Roman identification
+    and does not independently establish historical origin or full equivalence of
+    all myths.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 633-638
+  quote_or_summary: The Romans, following a custom of identifying their deities with
+    Greek gods of similar attributes, declared Cronus identical with their old agricultural
+    divinity Saturn.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 638-641
+  quote_or_summary: After defeat in the Titanomachia and banishment from his dominions
+    by Zeus, Saturn/Cronus took refuge with Janus, king of Italy.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 641-643
+  quote_or_summary: Janus received the exiled deity kindly and shared his throne with
+    him.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 643-646
+  quote_or_summary: Their united reign was peaceful, happy, and prosperous, and was
+    called the Golden Age.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 647-648
+  quote_or_summary: Saturn is usually represented bearing a sickle and a wheat-sheaf.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: line 649
+  quote_or_summary: A temple of Saturn at the foot of the Capitoline Hill contained
+    the public treasury and the laws of the state.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are descriptive and mostly
+    not tied to supplied taxonomy except for an approximate royal_legitimacy reference.
+    The comparison claim is directly supported by the passage's statement of Roman
+    identification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No unsupported external comparisons or taxonomy IDs were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l633-l649
+  passage_sha256=9afdfa9bd6d937969b34d7863410fc5e89d7b12172b3d289b42abef838a379cd
+

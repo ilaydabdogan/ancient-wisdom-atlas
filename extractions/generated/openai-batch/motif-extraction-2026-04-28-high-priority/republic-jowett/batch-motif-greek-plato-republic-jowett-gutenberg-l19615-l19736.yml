@@ -1,0 +1,450 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l19615-l19736
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK IV. / BOOK V. / BOOK VI. / BOOK VII.; lines 19615-19736
+  start: '19615'
+  end: '19736'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Socrates and Glaucon discuss how astronomy and harmony should be studied.
+    Socrates argues that visible heavens and heard sounds should be treated as patterns
+    or prompts for reasoning, not as the objects of true knowledge. He distinguishes
+    sensory investigation from knowledge of being, number, figure, proportion, and
+    the beautiful and good.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says that knowledge of being and the unseen can make the soul
+    look upwards, while sensory particulars do not constitute science.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The starry heaven is described as visible, beautiful, and inferior to true
+    motions apprehended by reason and intelligence rather than sight.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The spangled heavens are to be used as a pattern for higher knowledge, like
+    crafted figures or pictures made by Daedalus or another artist.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker says that in astronomy, as in geometry, one should employ problems
+    and let the heavens alone.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker compares astronomy for the eyes with harmony for the ears and
+    says the two are sister sciences, citing the Pythagoreans.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Teachers of harmony are criticized for comparing heard sounds and consonances
+    without reaching the higher object of knowledge.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Some investigators are described as placing their ears close to strings and
+    disputing about intervals and sounds.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The Pythagoreans are said to investigate numbers of heard harmonies but not
+    to reach problems concerning natural harmonies of number.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The study is called useful if pursued with a view to the beautiful and good,
+    and useless if pursued otherwise.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Primary speaker who explains the proper study of astronomy and harmony.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Glaucon
+  description: Interlocutor who acknowledges, asks questions, and agrees with the
+    argument.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:3
+  name_or_label: Pythagoreans
+  description: A group cited in connection with astronomy and harmony; they are said
+    to call the two sister sciences and to investigate heard harmonies by number.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: Daedalus
+  description: Named as an example of a great artist whose crafted figures or pictures
+    may be beautiful but do not contain true mathematical proportions themselves.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Creator of heaven and things in heaven
+  description: Mentioned as the one who framed heaven and heavenly things in the most
+    perfect manner.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:10
+- id: fig:6
+  name_or_label: Teachers of harmony
+  description: Teachers who compare heard sounds and consonances and are criticized
+    for vain labor.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Investigators of strings
+  description: People who put their ears near strings, dispute about notes and intervals,
+    and set their ears before understanding.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: philosophical instructor
+  assigned_to:
+  - fig:1
+  basis: The speaker instructs the interlocutor on how astronomy and harmony should
+    be studied for higher knowledge.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:9
+- id: role:2
+  label: questioning interlocutor
+  assigned_to:
+  - fig:2
+  basis: The interlocutor asks how astronomy can be learned more conducively to knowledge
+    and agrees with the replies.
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: role:3
+  label: authority on sister sciences
+  assigned_to:
+  - fig:3
+  basis: The Pythagoreans are cited as saying that astronomy and harmony are sister
+    sciences.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: exemplary craftsman
+  assigned_to:
+  - fig:4
+  basis: Daedalus is named as an example of a great artist whose beautiful works can
+    be viewed but not taken as mathematical truth itself.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: cosmic framer
+  assigned_to:
+  - fig:5
+  basis: The passage says heaven and the things in heaven are framed by their Creator
+    in the most perfect manner.
+  evidence_refs:
+  - ev:10
+- id: role:6
+  label: sensory investigator
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Harmony teachers and string investigators are described as relying on heard
+    sounds and ears rather than understanding.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: starry heaven
+  literal_form: visible starry heaven / spangled heavens
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: upward-looking soul
+  literal_form: soul looking upwards
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: eyes and ears
+  literal_form: eyes looking at stars and ears hearing harmonious motions
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: strings of an instrument
+  literal_form: strings, pegs, and plectrum of an instrument
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:11
+- id: sym:5
+  label: true number and figure
+  literal_form: true number, true figure, true equal, true double, and natural harmonies
+    of number
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+scenes:
+- id: scene:1
+  label: Astronomy redirected from sight to reason
+  summary: Socrates argues that visible heavens are beautiful but inferior to true
+    motions, numbers, figures, and proportions apprehended by reason, so astronomy
+    should use problems rather than direct sensory observation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:10
+- id: scene:2
+  label: Harmony redirected from hearing to understanding
+  summary: Socrates compares harmony with astronomy as a sister science, criticizes
+    reliance on heard sounds and strings, and says inquiry should reach natural harmonies
+    of number and the beautiful and good.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: ascent from sensory appearance to intelligible knowledge
+  taxonomy_refs:
+  - ascent
+  - wisdom
+  basis: The passage contrasts looking down toward sensory particulars with the soul
+    looking upward toward being, the unseen, reason, intelligence, true number, and
+    the beautiful and good.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:9
+  confidence: high
+  cautions: The passage is philosophical rather than narrative myth; the ascent is
+    conceptual and pedagogical.
+- id: motif:2
+  label: visible cosmos as pattern for higher order
+  taxonomy_refs:
+  - wisdom
+  basis: The starry heavens are described as beautiful visible patterns that should
+    prompt higher reasoning rather than be treated as final truth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: No explicit mythic journey or ritual pattern is narrated.
+- id: motif:3
+  label: harmony of number beyond heard sound
+  taxonomy_refs:
+  - wisdom
+  basis: The passage criticizes sensory study of musical sounds and directs inquiry
+    toward natural harmonies of number and the beautiful and good.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is an epistemological motif rather than a mythic episode.
+- id: motif:4
+  label: duality of sight and hearing as parallel disciplines
+  taxonomy_refs:
+  - duality
+  - wisdom
+  basis: Astronomy and harmony are compared as sister sciences, one related to eyes
+    and stars, the other to ears and harmonious motions.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The duality is analogical and educational, not a paired-person or cosmic-twin
+    narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself links astronomy and harmony as sister sciences, with sight
+    and hearing serving parallel roles in the pursuit of higher knowledge.
+  claim_level: same_function
+  target: astronomy and harmony as parallel disciplines in Pythagorean-style inquiry
+  evidence_refs:
+  - ev:5
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the internal comparison made in the passage;
+    it does not establish broader historical contact beyond the passage’s mention
+    of the Pythagoreans.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19615-19631
+  quote_or_summary: Knowledge of being and the unseen makes the soul look upward;
+    sensory particulars, whether found in the heavens, ground, water, or land, are
+    not science.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: 19639-19647
+  quote_or_summary: The visible starry heaven is beautiful but inferior to true motions,
+    true number, and true figure, which are apprehended by reason and intelligence,
+    not sight.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: 19651-19660
+  quote_or_summary: The spangled heavens should be used as a pattern for higher knowledge,
+    like finely wrought figures or pictures by Daedalus or another great artist, not
+    as the place to find true mathematical proportions.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: 19676-19681
+  quote_or_summary: In astronomy, as in geometry, one should employ problems and leave
+    the visible heavens alone in order to make reason useful.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: 19695-19706
+  quote_or_summary: The second science is related to ears as the first is to eyes;
+    eyes look at stars, ears hear harmonious motions, and these are called sister
+    sciences by the Pythagoreans.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: 19713-19720
+  quote_or_summary: Teachers of harmony compare sounds and consonances that are only
+    heard, and their labor is said to be vain, like that of astronomers who fall short
+    of the higher object.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: 19721-19731
+  quote_or_summary: Some people put their ears beside strings, dispute about intermediate
+    notes and intervals, and set their ears before their understanding.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: 19731-19736
+  quote_or_summary: The Pythagoreans investigate numbers of heard harmonies but do
+    not reach problems or natural harmonies of number, nor why some numbers are harmonious
+    and others not.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: '19736'
+  quote_or_summary: The inquiry is useful if sought with a view to the beautiful and
+    good, but useless if pursued otherwise.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:10
+  type: summary
+  locator: 19662-19675
+  quote_or_summary: A true astronomer would think heaven and heavenly things framed
+    by their Creator in the most perfect manner, while denying that visible material
+    proportions are eternal and exact.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+- id: ev:11
+  type: summary
+  locator: 19731-19734
+  quote_or_summary: The speaker describes people who tease and torture strings, rack
+    them on instrument pegs, and mentions blows of the plectrum as part of a metaphor
+    about musical investigation.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is philosophical and pedagogical rather than mythic narrative;
+    motif extraction is therefore limited to symbolic and conceptual patterns explicitly
+    present in the text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only provided passage and metadata were used. No external taxonomy identifiers beyond supplied motif family refs were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l19615-l19736
+  passage_sha256=a3fd92a294bab0e52a59dfdf68dd33162bbed6158bd04c73cb8d1cce21d861db
+

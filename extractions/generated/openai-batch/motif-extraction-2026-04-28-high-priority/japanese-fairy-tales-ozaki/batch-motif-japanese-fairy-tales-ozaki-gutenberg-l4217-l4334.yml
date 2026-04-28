@@ -1,0 +1,520 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l4217-l4334
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE BAMBOO-CUTTER AND THE MOON-CHILD / THE GOBLIN OF ADACHIGAHARA / THE SAGACIOUS
+    MONKEY AND THE BOAR / THE HAPPY HUNTER AND THE SKILLFUL FISHER; lines 4217-4334
+  start: '4217'
+  end: '4334'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Ryn Jin, the Dragon King of the Sea, welcomes the Happy Hunter into the
+    Sea Palace, honors him with a feast and entertainment, and then summons the sea
+    creatures to investigate the lost fishing hook. The cuttlefish suspects the red
+    bream, who is brought before the king and confesses that the hook is stuck in
+    his throat after he snapped at the bait.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ryn Jin dresses in ceremonial robes and goes out to welcome the Happy Hunter
+    at the entrance of the Sea Palace.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Sea King and his wife bow to the ground and thank the visitor for coming.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Happy Hunter is placed in the uppermost seat in the guest room.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Ryn Jin identifies himself as the Dragon King of the Sea.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: A retinue of fishes in ceremonial garments serves trays of sea delicacies
+    at a feast.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Ryn Jin's daughters play the koto, sing, and dance during the feast.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The Happy Hunter asks Ryn Jin to inquire among his subjects about his brother's
+    lost fishing hook.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Ryn Jin summons many sea creatures, including octopus, cuttlefish, bonito,
+    eel, jellyfish, shrimp, plaice, and others.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Ryn Jin states that the visitor is Hohodemi, the fourth Augustness, grandson
+    of Amaterasu, and also called the Happy Hunter of the Mountains.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The cuttlefish says the red bream may be the one who has the hook because
+    he has been unable to eat and seems to have a bad throat.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The red bream is brought before the Sea King looking frightened, ill, pale,
+    and in pain.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The red bream admits that the hook is in his throat and says he snapped at
+    the bait without intending theft.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The cuttlefish offers to pull the hook from the red bream's throat in the
+    presence of the Mikoto.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ryn Jin
+  description: The Dragon King of the Sea and ruler of the sea creatures, who hosts
+    and questions on behalf of the Happy Hunter.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: The Happy Hunter / Hohodemi / the Mikoto
+  description: The honored visitor, identified as the august grandson of Amaterasu
+    and seeker of his brother's lost fishing hook.
+  role_refs:
+  - role:2
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Princess Tayotama
+  description: A princess who reaches the entrance with the Happy Hunter at the beginning
+    of the passage.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Ryn Jin's wife
+  description: The Sea King's wife, who bows with him to welcome the Happy Hunter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Ryn Jin's daughters / the two princesses
+  description: The Sea King's daughters, who perform music, song, and dance during
+    the feast.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Fishes-in-waiting and sea creatures
+  description: A retinue and assembled subjects of fishes and sea creatures serving
+    at the feast and later summoned before the king.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:7
+  name_or_label: The cuttlefish
+  description: A sea creature who identifies the red bream as likely holder of the
+    hook and offers to remove it.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:8
+  name_or_label: The TAI / red bream
+  description: A fish who is ill because the lost hook is stuck in his throat.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:9
+  name_or_label: Amaterasu
+  description: Named as the divine ancestor of Hohodemi, who is described as her august
+    grandson.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Sea king and host
+  assigned_to:
+  - fig:1
+  basis: Ryn Jin identifies himself as Dragon King of the Sea and receives the Happy
+    Hunter as an honored guest.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Honored visitor and seeker of lost object
+  assigned_to:
+  - fig:2
+  basis: The Happy Hunter is seated in the highest place and asks for help recovering
+    his brother's fishing hook.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: Welcoming consort
+  assigned_to:
+  - fig:4
+  basis: The Sea King's wife bows with him and thanks the visitor for coming.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Ceremonial attendants and entertainers
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Fish serve sea delicacies, while the daughters play music, sing, and dance.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Ruler and judge of sea subjects
+  assigned_to:
+  - fig:1
+  basis: Ryn Jin summons the sea creatures and questions them about the missing hook.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Summoned sea subjects
+  assigned_to:
+  - fig:6
+  basis: The sea creatures assemble before Ryn Jin after his command.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: Informer and remover of obstruction
+  assigned_to:
+  - fig:7
+  basis: The cuttlefish names the red bream as suspect and offers to pull out the
+    hook.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:8
+  label: Divine lineage figure
+  assigned_to:
+  - fig:2
+  - fig:9
+  basis: Hohodemi is described as the august grandson of Amaterasu.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: Unintentional holder of the lost hook
+  assigned_to:
+  - fig:8
+  basis: The red bream says the hook is stuck in his throat after he snapped at the
+    bait.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Sea Palace and sea realm
+  literal_form: The Sea Palace, Ryn Gu, and the Kingdom at the bottom of the sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: Lost fishing hook
+  literal_form: The Happy Hunter's brother's fishing hook, lost in the sea and found
+    in the red bream's throat
+  associated_figures:
+  - fig:2
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:3
+  label: Ceremonial hospitality
+  literal_form: Ceremonial robes, bows, uppermost seat, feast, music, song, and dance
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: Fish court assembly
+  literal_form: Sea creatures arranged before the Dragon King to answer an inquiry
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Hook in the throat
+  literal_form: The red bream's throat obstruction causing illness, inability to eat,
+    and pain
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Reception at the Sea Palace
+  summary: Ryn Jin and his wife welcome the Happy Hunter, bow to him, identify themselves,
+    and place him in the honored seat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Feast and entertainment
+  summary: Fish attendants serve sea delicacies while Ryn Jin's daughters perform
+    music, singing, and dancing for the guest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Request for inquiry about the hook
+  summary: The Happy Hunter remembers his purpose and asks the Sea King to question
+    all his subjects about the missing fishing hook.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Assembly of sea creatures
+  summary: Ryn Jin summons his subjects, identifies the visitor's divine lineage,
+    and demands information about the hook.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Cuttlefish accusation
+  summary: The cuttlefish argues that the red bream may have the hook because he has
+    not come to the summons and has a bad throat.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Red bream confession and proposed removal
+  summary: The red bream is brought in ill, admits the hook is stuck in his throat,
+    says he snapped at the bait unintentionally, and the cuttlefish offers to pull
+    the hook out.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Quest to recover a lost object in an otherworldly sea realm
+  taxonomy_refs:
+  - mystical_quest
+  basis: The Happy Hunter comes to the Sea King's realm to recover his brother's lost
+    fishing hook and asks the ruler to question all sea subjects.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage excerpt covers the search and discovery phase, not the full
+    quest outcome beyond the proposed removal.
+- id: motif:2
+  label: Descent to a watery otherworld court
+  taxonomy_refs:
+  - hero_descent
+  basis: Ryn Jin says the visitor has come to the kingdom at the bottom of the sea,
+    where an organized nonhuman court receives him.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The excerpt states the location at the bottom of the sea but does not
+    narrate the descent itself within this passage.
+- id: motif:3
+  label: Divine-descended hero honored by an otherworldly ruler
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The Sea King identifies the visitor as the august grandson of Amaterasu and
+    treats him as an honored guest.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The relationship is grandchild lineage rather than a direct parent-child
+    scene in this excerpt.
+- id: motif:4
+  label: Animal court investigation identifies the holder of a lost object
+  taxonomy_refs: []
+  basis: Sea creatures assemble before their king; the cuttlefish infers the red bream's
+    involvement, and the hook is found in the red bream's throat.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this animal-court investigation
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4217-4239
+  quote_or_summary: Ryn Jin welcomes the Happy Hunter at the Sea Palace, seats him
+    in the guest room's uppermost seat, and identifies himself as the Dragon King
+    of the Sea.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 4240-4256
+  quote_or_summary: A ceremonial retinue of fishes serves a sea feast, and the Sea
+    King's daughters play the koto, sing, and dance.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 4256-4264
+  quote_or_summary: The Happy Hunter asks Ryn Jin to inquire whether any sea subject
+    has seen his brother's fishing hook, which he lost while fishing.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: 4265-4283
+  quote_or_summary: Ryn Jin summons many sea creatures and tells them that the visitor
+    is Hohodemi, the august grandson of Amaterasu, who has come to the bottom of the
+    sea seeking the stolen or missing hook.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: 4284-4300
+  quote_or_summary: The cuttlefish says the TAI may be the thief because he has not
+    been able to eat, appears to have a bad throat, and did not answer the summons.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: 4301-4312
+  quote_or_summary: The cuttlefish brings the TAI before the king; the TAI looks frightened,
+    ill, pale-faced, and in pain.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: 4313-4328
+  quote_or_summary: The TAI admits that the hook is still in his throat and explains
+    that he snapped at the bait without intending to steal it.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:8
+  type: summary
+  locator: 4329-4334
+  quote_or_summary: The cuttlefish offers to pull the hook from the TAI's throat,
+    and the TAI begs him to hurry so the hook can be returned to the Mikoto.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage gives clear literal information about figures, actions, and the
+    lost hook episode. Motif assignments are limited to the supplied taxonomy and
+    should be reviewed, especially divine_parent_child for a grandchild lineage and
+    hero_descent for a descent implied by setting rather than narrated here.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this episode with another text, tradition, or named motif family beyond the extractable pattern labels.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l4217-l4334
+  passage_sha256=7b047cddbd24c765c24bf1b2f381840fba6ecf93275d142c2f19abb99260b521
+

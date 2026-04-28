@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l5585-l5598
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: NAPAEAE AND OREADES. / THE WINDS. / PAN (FAUNUS). / FAUNUS.; lines 5585-5598
+  start: '5585'
+  end: '5598'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Faunus as an old Italian divinity identified with
+    Pan, associated with shepherds, fertility, warding off wolves, prophecy, woods
+    and fields, frightening travelers in solitary places, bad dreams, and stealthy
+    nocturnal entry into houses. Fauna is named as his wife and participant in his
+    functions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Faunus is described as an old Italian divinity of the Romans.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Faunus is called the god of shepherds and is identified with the Greek Pan.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Faunus is frequently called Inuus, glossed as the fertilizer, and Lupercus,
+    glossed as the one who wards off wolves.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Faunus possesses the gift of prophecy.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Faunus is the presiding spirit of the woods and fields.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Faunus can alarm travellers in solitary places.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Bad dreams and evil apparitions are attributed to Faunus.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Faunus is believed to enter houses stealthily at night to cause bad dreams
+    and evil apparitions.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Fauna is the wife of Faunus and participates in his functions.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Faunus
+  description: An old Italian divinity of the Romans, god of shepherds, identified
+    with the Greek Pan, associated with fertility, wolf-averting protection, prophecy,
+    woods and fields, alarming travellers, bad dreams, evil apparitions, and stealthy
+    nocturnal house-entry.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Pan
+  description: Greek divinity with whom Faunus is identified and whose similar representation
+    and faculties Faunus shares.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Fauna
+  description: Wife of Faunus who participates in his functions.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: shepherd deity
+  assigned_to:
+  - fig:1
+  basis: Faunus is described as the god of shepherds.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fertilizer
+  assigned_to:
+  - fig:1
+  basis: Faunus is called Inuus, glossed as the fertilizer.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: wolf-averter
+  assigned_to:
+  - fig:1
+  basis: Faunus is called Lupercus, glossed as the one who wards off wolves.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: prophetic woodland and field spirit
+  assigned_to:
+  - fig:1
+  basis: Faunus possesses prophecy and presides over woods and fields.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: nocturnal frightener
+  assigned_to:
+  - fig:1
+  basis: Faunus alarms travellers in solitary places and is associated with bad dreams,
+    evil apparitions, and stealthy night entry into houses.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: Greek prototype
+  assigned_to:
+  - fig:2
+  basis: The passage says Faunus is identified with Pan and shares faculties with
+    his Greek prototype.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:7
+  label: participating wife
+  assigned_to:
+  - fig:3
+  basis: Fauna is described as wife of Faunus and as participating in his functions.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: woods and fields
+  literal_form: woods and fields
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: wolves
+  literal_form: wolves
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: night house-entry
+  literal_form: houses at night
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Identification of Faunus with Pan
+  summary: The passage identifies Faunus, an old Italian Roman divinity and god of
+    shepherds, with the Greek Pan and says he was represented similarly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Functions and powers of Faunus
+  summary: Faunus is described under the names Inuus and Lupercus, with powers and
+    functions involving fertility, warding off wolves, prophecy, presiding over woods
+    and fields, alarming travellers, and causing bad dreams and evil apparitions through
+    stealthy night entry.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Fauna shares Faunus's functions
+  summary: Fauna is named as the wife of Faunus and as participating in his functions.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: rustic deity as protector and fertility power
+  taxonomy_refs: []
+  basis: Faunus is god of shepherds, called the fertilizer, and called the one who
+    wards off wolves.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is a handbook description rather than a narrative episode.
+- id: motif:2
+  label: wild-place spirit who frightens solitary travellers
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Faunus is presiding spirit of woods and fields and shares the faculty of
+    alarming travellers in solitary places.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage does not explicitly
+    describe boundary crossing or trickery.
+- id: motif:3
+  label: nocturnal spirit causing dreams and apparitions
+  taxonomy_refs: []
+  basis: Bad dreams and evil apparitions are attributed to Faunus, who is believed
+    to enter houses stealthily at night for this purpose.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage summarizes a belief and does not provide a specific story.
+- id: motif:4
+  label: divine consort sharing functions
+  taxonomy_refs:
+  - sacred_marriage
+  basis: Fauna is the wife of Faunus and participates in his functions.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage states marital relation and shared functions but gives no
+    marriage myth or ritual context.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Faunus with the Greek Pan by identification,
+    similar representation, and shared faculties.
+  claim_level: same_function
+  target: Greek Pan
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives a handbook identification and does not analyze historical
+    development or distinguish Roman and Greek cult contexts.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5585-5589
+  quote_or_summary: Faunus is described as an old Italian Roman divinity, god of shepherds,
+    identified with the Greek Pan and represented similarly.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5590-5591
+  quote_or_summary: Faunus is frequently called Inuus, the fertilizer, and Lupercus,
+    the one who wards off wolves.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5591-5594
+  quote_or_summary: Like Pan, Faunus possesses prophecy, presides over woods and fields,
+    and can alarm travellers in solitary places.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5594-5597
+  quote_or_summary: Bad dreams and evil apparitions are attributed to Faunus, and
+    he is believed to enter houses stealthily at night for this purpose.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5598
+  quote_or_summary: Fauna is described as the wife of Faunus and as participating
+    in his functions.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive and explicit about figures and functions. Motif
+    candidates are partly interpretive because no extended narrative is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata; taxonomy references included only where cautiously supportable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l5585-l5598
+  passage_sha256=f3b3473a42a41d56c196f5cfe4db860e6e09e4067bc88c2c3fa163f91b298bd5
+

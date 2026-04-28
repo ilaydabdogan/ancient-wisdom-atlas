@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l3735-l3744
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: ARES (MARS). / MARS. / NIKE (VICTORIA). / VICTORIA.; lines 3735-3744
+  start: '3735'
+  end: '3744'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that Nike, called Victoria by the Romans, was highly
+    honored in Rome because of Roman love of conquest. It describes sanctuaries to
+    Victoria, especially on the Capitol, and a custom in which successful generals
+    erected statues of the goddess to commemorate victories. It singles out Augustus'
+    statue after Actium and notes a festival for Nike on April 12.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Nike was honored by the Romans under the name Victoria.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage links Roman honor for Victoria with Roman love of conquest.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Several sanctuaries in Rome were dedicated to Victoria, with the principal
+    sanctuary on the Capitol.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Generals customarily erected statues of the goddess after military success
+    to commemorate victories.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Augustus raised a particularly magnificent statue after the battle of Actium.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A festival in honor of Nike was celebrated on April 12.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Nike / Victoria
+  description: Goddess honored by Romans as Victoria and by festival as Nike.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Romans
+  description: People among whom Victoria was highly honored and whose love of conquest
+    is described as all-absorbing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Generals
+  description: Military leaders who, after success, erected statues of the goddess
+    in commemoration of victories.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Augustus
+  description: Ruler who raised a magnificent statue after the battle of Actium.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: victory goddess
+  assigned_to:
+  - fig:1
+  basis: The goddess is honored under the Roman name Victoria, and statues of her
+    commemorate victories.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: honoring community
+  assigned_to:
+  - fig:2
+  basis: The passage states that the Romans highly honored Victoria.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: victorious dedicators
+  assigned_to:
+  - fig:3
+  basis: Generals erected statues after success attended their arms.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: imperial dedicator
+  assigned_to:
+  - fig:4
+  basis: Augustus raised a magnificent statue after Actium.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sanctuary of Victoria
+  literal_form: sanctuaries in Rome dedicated to Victoria, especially the principal
+    sanctuary on the Capitol
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: commemorative statue of the goddess
+  literal_form: statues of Victoria erected after military success
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: festival date
+  literal_form: festival in honor of Nike on the 12th of April
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Capitol
+  literal_form: the Capitol as site of the principal sanctuary
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Roman cult of Victoria
+  summary: Nike is honored by the Romans as Victoria, with sanctuaries in Rome and
+    a principal sanctuary on the Capitol.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Statues after victory
+  summary: After military success, generals erect statues of the goddess to commemorate
+    victories; Augustus raises a magnificent statue after Actium.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Festival of Nike
+  summary: A festival in honor of Nike is celebrated on April 12.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: victory goddess honored by victorious warriors
+  taxonomy_refs: []
+  basis: The passage describes Victoria/Nike as honored by Romans and commemorated
+    through statues erected by generals after military success.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a local cultic and commemorative pattern rather than a listed
+    taxonomy motif family.
+- id: motif:2
+  label: military victory commemorated by divine statue
+  taxonomy_refs: []
+  basis: Generals erect statues of the goddess after victories, and Augustus raises
+    a notable statue after Actium.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives handbook summary rather than a narrative myth episode.
+- id: motif:3
+  label: annual festival honoring a victory deity
+  taxonomy_refs: []
+  basis: The passage notes a festival in honor of Nike on April 12.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: No ritual details are provided beyond the date and dedication.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Greek Nike and Roman Victoria as corresponding names
+    for the same victory goddess honored in Roman cult.
+  claim_level: same_function
+  target: Greek Nike and Roman Victoria
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports name and function correspondence only; it does
+    not provide detailed comparative theology or iconography.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3735-3738
+  quote_or_summary: Under the name Victoria, Nike was highly honored by the Romans,
+    whose love of conquest is described as all-absorbing.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3738-3740
+  quote_or_summary: Several sanctuaries in Rome were dedicated to Victoria, with the
+    principal sanctuary on the Capitol.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3740-3742
+  quote_or_summary: It was customary for generals, after military success, to erect
+    statues of the goddess in commemoration of their victories.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3742-3743
+  quote_or_summary: The most magnificent of the statues was raised by Augustus after
+    the battle of Actium.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: line 3744
+  quote_or_summary: A festival in honor of Nike was celebrated on April 12.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is straightforward and descriptive. Motif labels are candidate-level
+    because the passage is a handbook cult summary rather than a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy motif family or symbol reference was directly applicable to the victory-cult material in this passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l3735-l3744
+  passage_sha256=1ceb73e4d3bf5aa4282f7b082caccc098a28391488baf2c15f992353471a83fb
+

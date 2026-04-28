@@ -1,0 +1,541 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l17662-l17790
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: BOOK III. / BOOK IV. / BOOK V. / BOOK VI.; lines 17662-17790
+  start: '17662'
+  end: '17790'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Socrates argues with Adeimantus that gifted natures become especially harmful
+    when badly educated, compares the philosopher to a plant requiring proper nurture,
+    describes public opinion as an overwhelming force in assemblies and courts, and
+    compares sophists who teach popular opinion to handlers of a powerful beast. He
+    concludes that the multitude cannot be philosophical because it cannot recognize
+    absolute forms, and asks how the true philosopher can remain preserved in his
+    calling.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Socrates says the most gifted minds become pre-eminently bad when ill-educated,
+    while weaker natures are less capable of very great good or evil.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The philosopher is compared to a plant that grows into virtue with proper
+    nurture but becomes a harmful weed if planted in alien soil, unless preserved
+    by divine power.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Socrates identifies the public as a powerful educator of young and old, men
+    and women alike.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Public gatherings are described as producing uproar, praise, blame, shouting,
+    clapping, and echoes that intensify approval or disapproval.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Popular opinion is described through water imagery as an overwhelming flood
+    or stream that can carry away a young man.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The public can apply penalties such as attainder, confiscation, or death when
+    verbal persuasion fails.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Mercenary sophists are said to teach the opinions of the many rather than
+    independent wisdom.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A hypothetical man studies a mighty beast’s temper, desires, cries, and reactions,
+    then calls this knowledge wisdom and teaches it as an art.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The beast-handler calls good what delights the beast and evil what the beast
+    dislikes.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The world is said not to believe in absolute beauty or absolute kinds, and
+    therefore cannot be a philosopher.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Philosophers are said to fall under the censure of the world and of those
+    who seek to please the mob.
+  category: relationship
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The true philosopher is associated with quickness, memory, courage, and magnificence.
+  category: attribute
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Speaker who develops the argument about education, public opinion,
+    sophists, and the philosopher.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:10
+- id: fig:2
+  name_or_label: Adeimantus
+  description: Interlocutor addressed by Socrates and assenting to several points.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:3
+  name_or_label: the philosopher
+  description: A gifted nature compared to a plant that needs proper nurture and may
+    need divine preservation; later described as facing the censure of the world.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:11
+  - ev:12
+- id: fig:4
+  name_or_label: the public / the world / the many
+  description: Collective figure described as educating people through public approval
+    and disapproval, enforcing penalties, and being unable to become philosophical.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:10
+- id: fig:5
+  name_or_label: mercenary sophists / private teachers
+  description: Individuals said to teach the opinions of the many and to call this
+    wisdom.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: young man
+  description: A young person whose heart leaps amid public praise and blame and who
+    may be carried away by popular opinion.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: mighty strong beast
+  description: A hypothetical powerful beast whose temper, desires, cries, and likes
+    or dislikes are studied by its handler.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:8
+  name_or_label: beast-handler
+  description: A hypothetical man who studies and manages the beast, names its preferences
+    good or evil, and teaches this as wisdom.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: argument-giver
+  assigned_to:
+  - fig:1
+  basis: Socrates poses the questions and supplies the analogies about education,
+    the plant, the public, and the beast.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: role:2
+  label: assenting interlocutor
+  assigned_to:
+  - fig:2
+  basis: Adeimantus replies that Socrates is right and assents to the claims.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: endangered wisdom-seeker
+  assigned_to:
+  - fig:3
+  basis: The philosopher has gifts but may be corrupted by bad education or censured
+    by the world.
+  evidence_refs:
+  - ev:2
+  - ev:11
+  - ev:12
+- id: role:4
+  label: collective educator
+  assigned_to:
+  - fig:4
+  basis: The public is described as educating and fashioning people through assembly
+    judgments and collective opinion.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: coercive multitude
+  assigned_to:
+  - fig:4
+  basis: The public can enforce its views through penalties including attainder, confiscation,
+    or death.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: teacher of popular opinion
+  assigned_to:
+  - fig:5
+  basis: Sophists are said to teach nothing but the opinion of the many.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: vulnerable learner
+  assigned_to:
+  - fig:6
+  basis: The young man is described as moved by the crowd and carried away by the
+    stream of popular opinion.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: powerful object of management
+  assigned_to:
+  - fig:7
+  basis: The mighty beast is fed, handled, soothed, infuriated, and judged according
+    to its likes and dislikes.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:9
+  label: manager mistaken for wise teacher
+  assigned_to:
+  - fig:8
+  basis: The handler learns the beast’s reactions and calls this system wisdom, though
+    Socrates denies that it explains good, evil, justice, or nobility.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: plant in proper or alien soil
+  literal_form: plant, nurture, soil, weed
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: overwhelming flood of opinion
+  literal_form: flood and stream
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: mighty beast
+  literal_form: mighty strong beast
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:4
+  label: absolute beauty
+  literal_form: absolute beauty rather than many beautiful things
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:5
+  label: divine preservation
+  literal_form: preserved by some divine power
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Gifted nature endangered by bad education
+  summary: Socrates and Adeimantus discuss how gifted minds can become extremely bad
+    when ruined by education, and Socrates compares the philosopher to a plant needing
+    proper nurture.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The crowd as educator
+  summary: Socrates describes assemblies, courts, theatres, camps, and other public
+    resorts where the crowd praises and blames with uproar, shaping young people through
+    opinion and coercion.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Sophist as beast-handler
+  summary: Socrates compares teachers of popular opinion to a man who studies a powerful
+    beast’s desires and calls the management of those desires wisdom.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: The multitude and the philosopher
+  summary: Socrates says the world cannot accept absolute beauty or absolute kinds,
+    cannot be philosophical, and will censure philosophers.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: Corruption of gifted nature through bad education
+  taxonomy_refs: []
+  basis: The passage states that the greatest natural gifts can become the greatest
+    evils when education ruins them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a philosophical-educational pattern rather than a narrative mythic
+    episode.
+- id: motif:2
+  label: Wise seeker preserved against hostile society
+  taxonomy_refs:
+  - wisdom
+  basis: The philosopher has gifts but is threatened by public opinion, social censure,
+    and bad education, and may be preserved only by divine power.
+  evidence_refs:
+  - ev:2
+  - ev:11
+  - ev:12
+  confidence: medium
+  cautions: The passage frames the philosopher conceptually, not as an individual
+    hero in a plot.
+- id: motif:3
+  label: Overwhelming collective opinion as flood or stream
+  taxonomy_refs: []
+  basis: Public opinion is described as a flood or stream that can carry away a young
+    man despite private training.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The water imagery is metaphorical within philosophical argument.
+- id: motif:4
+  label: False wisdom as management of a powerful beast
+  taxonomy_refs:
+  - wisdom
+  basis: The sophist’s knowledge of popular opinion is compared to a handler’s knowledge
+    of a beast’s moods, wrongly named wisdom.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is an explicit analogy, not an independent mythic tale.
+- id: motif:5
+  label: Multitude unable to perceive the absolute
+  taxonomy_refs:
+  - wisdom
+  basis: The world is said to recognize many beautiful things but not absolute beauty
+    or absolute kinds, and therefore cannot be philosophical.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: This is a doctrinal philosophical motif rather than a symbolic narrative
+    event.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares teachers of popular opinion to a handler
+    who studies and manages a mighty beast; the two figures share the function of
+    responding to and exploiting collective appetite rather than possessing true wisdom.
+  claim_level: same_function
+  target: internal analogy of sophist or crowd-pleaser as beast-handler
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This comparison is internal to the passage and does not establish historical
+    contact or a broader cross-cultural motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17662-17668
+  quote_or_summary: Socrates asks whether gifted minds become especially bad when
+    ill-educated and whether great crimes arise from a full nature ruined by education;
+    Adeimantus agrees.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: quote
+  locator: 17670-17676
+  quote_or_summary: The philosopher is "like a plant" that with proper nurture grows
+    into virtue, but in alien soil becomes a noxious weed unless preserved by divine
+    power.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 17676-17682
+  quote_or_summary: Socrates says the public are the greatest sophists, educating
+    young and old, men and women, and fashioning them after their own hearts.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: 17686-17694
+  quote_or_summary: At assemblies, courts, theatres, camps, and other resorts, people
+    produce uproar, praise, blame, shouting, clapping, and echoing sound.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: quote
+  locator: 17694-17699
+  quote_or_summary: Socrates asks whether a young man can stand against the "overwhelming
+    flood of popular opinion" or will be "carried away by the stream."
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: 17704-17710
+  quote_or_summary: Socrates names attainder, confiscation, and death as the force
+    used by the public when words are powerless; Adeimantus agrees.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:7
+  type: summary
+  locator: 17724-17729
+  quote_or_summary: Socrates says mercenary sophists teach nothing but the opinion
+    of the many, specifically the opinions of assemblies, and call this wisdom.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:8
+  type: summary
+  locator: 17729-17738
+  quote_or_summary: Socrates compares such a teacher to a man who studies a mighty
+    beast’s temper, desires, handling, dangerous times, cries, and reactions, then
+    teaches this as an art.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:9
+  type: summary
+  locator: 17738-17747
+  quote_or_summary: The beast-handler calls honorable, dishonorable, good, evil, just,
+    and unjust whatever accords with the beast’s tastes, without knowing their true
+    nature or differences.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:10
+  type: summary
+  locator: 17762-17770
+  quote_or_summary: Socrates asks whether the world can believe in absolute beauty
+    rather than many beautiful things, or absolutes rather than many instances; Adeimantus
+    says it cannot, and Socrates concludes the world cannot be a philosopher.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:11
+  type: summary
+  locator: 17772-17779
+  quote_or_summary: Socrates says philosophers must fall under the censure of the
+    world and of individuals who consort with the mob and seek to please them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:12
+  type: summary
+  locator: 17780-17790
+  quote_or_summary: Socrates asks how the philosopher can be preserved in his calling,
+    recalling the philosopher’s gifts of quickness, memory, courage, and magnificence.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is philosophical and argumentative, with explicit analogies rather
+    than mythic narrative. Motif labels are therefore treated as candidate conceptual
+    patterns requiring review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to provided refs where directly supportable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l17662-l17790
+  passage_sha256=a1efcb00c9feb4e62c4cb43ae0266fed826c1b6b86ad6bf64c336bcd82dcaab3
+

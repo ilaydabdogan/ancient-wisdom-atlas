@@ -1,0 +1,397 @@
+---
+record_id: batch.motif.greek-roman-berens-myths-legends-gutenberg-l5189-l5203
+source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+passage_locator:
+  label: GANYMEDES. / THE MUSES. / PEGASUS. / THE HESPERIDES.; lines 5189-5203
+  start: '5189'
+  end: '5203'
+  translation: Myths and Legends of Ancient Greece and Rome
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Hesperides as daughters of Atlas living on a
+    far-western island. Hera appoints them to guard a tree with golden apples given
+    by Gaea at Hera’s marriage to Zeus. After they taste the fruit entrusted to them,
+    they lose the office, and the dragon Ladon becomes the watchful guardian of the
+    treasure. Their names are Aegle, Arethusa, and Hesperia.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Hesperides are identified as daughters of Atlas.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Hesperides dwell on an island in the far west.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hera appointed the Hesperides to guard a tree bearing golden apples.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The golden-apple tree had been presented to Hera by Gaea on the occasion of
+    Hera’s marriage with Zeus.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Hesperides tasted the golden fruit entrusted to their care.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Hesperides were deprived of their office after tasting the fruit.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The office of guardian was delegated to the dragon Ladon.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Ladon is described as a terrible dragon and ever-watchful sentinel of the
+    treasures.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The named Hesperides are Aegle, Arethusa, and Hesperia.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Hesperides
+  description: Daughters of Atlas who dwell on a far-western island and were appointed
+    to guard the golden-apple tree.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Atlas
+  description: Father of the Hesperides.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Hera
+  description: Recipient of the golden-apple tree and the one who appointed the Hesperides
+    as guardians.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Gaea
+  description: Giver of the golden-apple tree to Hera at Hera’s marriage with Zeus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Zeus
+  description: Hera’s marriage partner on the occasion when the golden-apple tree
+    was presented to Hera.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Ladon
+  description: Terrible dragon who becomes the ever-watchful sentinel of the golden-apple
+    treasures.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Aegle
+  description: One of the named Hesperides.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Arethusa
+  description: One of the named Hesperides.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Hesperia
+  description: One of the named Hesperides.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: daughters of Atlas
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the Hesperides as daughters of Atlas.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: displaced guardians
+  assigned_to:
+  - fig:1
+  basis: They are appointed to guard the tree but lose the office after tasting the
+    fruit.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: father
+  assigned_to:
+  - fig:2
+  basis: Atlas is named as the father of the Hesperides.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: appointer of guardians
+  assigned_to:
+  - fig:3
+  basis: Hera appoints the Hesperides to guard the tree.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: recipient of marriage gift
+  assigned_to:
+  - fig:3
+  basis: The golden-apple tree is presented to Hera by Gaea at Hera’s marriage with
+    Zeus.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: giver of golden-apple tree
+  assigned_to:
+  - fig:4
+  basis: Gaea presents the tree to Hera.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: marriage partner
+  assigned_to:
+  - fig:5
+  basis: Zeus is named as Hera’s spouse on the occasion of the gift.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: dragon guardian
+  assigned_to:
+  - fig:6
+  basis: Ladon receives the guardian office and is called an ever-watchful sentinel.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: far-western island
+  literal_form: island in the far west
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: golden-apple tree
+  literal_form: tree bearing golden apples
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: golden apples
+  literal_form: golden fruit / golden apples
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: dragon guardian
+  literal_form: terrible dragon Ladon
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: marriage gift
+  literal_form: tree presented to Hera by Gaea on the occasion of Hera’s marriage
+    with Zeus
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Hesperides in the far west
+  summary: The Hesperides, daughters of Atlas, live on a far-western island.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Appointment to guard the golden-apple tree
+  summary: Hera appoints the Hesperides to guard the tree bearing golden apples, a
+    gift from Gaea at Hera’s marriage to Zeus.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Loss of guardianship and replacement by Ladon
+  summary: After the Hesperides taste the golden fruit entrusted to them, they lose
+    their office, and the dragon Ladon becomes the watchful sentinel of the treasure.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Names of the Hesperides
+  summary: The Hesperides are named as Aegle, Arethusa, and Hesperia.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: guarded sacred tree with precious fruit
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The passage centers on a tree bearing golden apples that is placed under
+    appointed guardianship and then guarded by a dragon.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents the tree and guardians literally but does not explicitly
+    describe the tree as an axis or world center.
+- id: motif:2
+  label: forbidden or entrusted fruit tasted by guardians
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The Hesperides taste the golden fruit that had been entrusted to their care
+    and are deprived of their office.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The text frames the fruit as entrusted and tempting, but it does not explicitly
+    call it forbidden knowledge.
+- id: motif:3
+  label: serpent or dragon guarding treasure
+  taxonomy_refs:
+  - serpent
+  basis: The terrible dragon Ladon becomes the ever-watchful sentinel of the golden-apple
+    treasures.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy includes serpent as a symbol rather than a specific
+    motif family.
+- id: motif:4
+  label: sacred marriage gift
+  taxonomy_refs:
+  - sacred_marriage
+  - sacred_exchange
+  basis: The golden-apple tree is presented by Gaea to Hera on the occasion of Hera’s
+    marriage with Zeus.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage mentions the marriage occasion and gift, but does not elaborate
+    ritual or exchange functions.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5189-5192
+  quote_or_summary: The Hesperides are described as daughters of Atlas dwelling on
+    an island in the far west.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5194-5196
+  quote_or_summary: Hera appoints the Hesperides as guardians of a tree bearing golden
+    apples, which Gaea had presented to Hera at Hera’s marriage with Zeus.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5198-5201
+  quote_or_summary: Because the Hesperides taste the golden fruit entrusted to their
+    care, they are deprived of their office, and the terrible dragon Ladon becomes
+    the ever-watchful sentinel of the treasures.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: line 5203
+  quote_or_summary: The passage names the Hesperides as Aegle, Arethusa, and Hesperia.
+  source_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the provided passage. Motif labels are candidates
+    and require review, especially where taxonomy categories are broader than the
+    passage’s explicit wording. No comparison claims were added because the passage
+    does not itself support cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-roman-berens-myths-legends-gutenberg__l5189-l5203
+  passage_sha256=d9b11d5ff6d21c40fd80de63c9a1236508fee779c4c5e926000cd08c15d6f24e
+

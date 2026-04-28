@@ -1,0 +1,598 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l6128-l6233
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE JELLY FISH AND THE MONKEY / THE QUARREL OF THE MONKEY AND THE CRAB /
+    THE WHITE HARE AND THE CROCODILES / THE STORY OF PRINCE YAMATO TAKE; lines 6128-6233
+  start: '6128'
+  end: '6233'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Princess Ototachibana leaps into the sea, after which the storm ceases
+    and Yamato Take reaches shore safely. Yamato Take remembers her sacrifice, later
+    encounters reports of a devouring mountain monster in Omi, goes to Ibuki Mountain,
+    kills a serpent with his hands, suffers poisoning, recovers in hot mineral springs,
+    and returns to Ise where thanks are given to Amaterasu for his preservation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ototachibana leaps into the sea; the waves carry her away, the storm stops,
+    and the sea becomes calm.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the gods of the sea are appeased after Ototachibana’s
+    leap.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Yamato Take reaches the opposite shore safely and later conquers the Eastern
+    Barbarians, identified in the passage as the Ainu.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Yamato Take attributes his safe landing to his wife’s faithful self-sacrifice
+    and continues to remember her.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At the Usui Toge pass, Yamato Take looks toward the distant sea and cries
+    out for his wife; the passage links this cry to the place-name Azuma.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In Omi, people are afraid because a mountain monster is said to raid villages
+    and devour people.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Yamato Take declares that he will go out and kill the monster.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: On Ibuki Mountain, a serpent appears in the path and Yamato Take kills it
+    by strangling it with his bare arms.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: After the serpent is killed, darkness and rain come over the mountain, and
+    Yamato Take later suffers burning pains in his feet, which he identifies as poisoning
+    from the serpent.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Yamato Take is carried to hot mineral springs, bathes daily, and recovers
+    his strength.
+  category: action
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: obs:11
+  text: Yamato Take returns to the temples of Ise, where his aunt the priestess welcomes
+    him and gives thanks to Amaterasu for his preservation.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Princess Ototachibana
+  description: Yamato Take’s wife, who leaps into the sea and is remembered for unselfishness
+    and heroic death.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Prince Yamato Take
+  description: A prince and warrior who survives the sea crossing, conquers enemies,
+    mourns his wife, kills a serpent, recovers, and returns to Ise.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:10
+  - ev:11
+- id: fig:3
+  name_or_label: gods of the sea
+  description: Divine beings described as appeased after Ototachibana enters the sea.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Eastern Barbarians / Ainu
+  description: A people whom Yamato Take is said to conquer after reaching the opposite
+    shore.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: people of Omi
+  description: Villagers living in fear because a mountain monster raids villages
+    and devours people.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: monster serpent
+  description: A serpent encountered on Ibuki Mountain, identified by Yamato Take
+    as the monster and killed by him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:7
+  name_or_label: aunt, priestess of the Ise shrine
+  description: Yamato Take’s aunt, a priestess who had blessed him before the expedition
+    and welcomes him back.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:11
+- id: fig:8
+  name_or_label: Sun Goddess Amaterasu
+  description: An ancestress to whom thanks are returned for Yamato Take’s preservation.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: self-sacrificing wife
+  assigned_to:
+  - fig:1
+  basis: She willingly gives her life in the sea, and the passage says Yamato Take
+    ascribes his safe landing to her faithfulness.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: warrior prince
+  assigned_to:
+  - fig:2
+  basis: The passage emphasizes his prowess in war, conquest of enemies, and strength
+    in battle.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: monster-slayer
+  assigned_to:
+  - fig:2
+  basis: He goes to Ibuki Mountain to kill the monster and kills the serpent with
+    his hands.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:4
+  label: appeased sea deities
+  assigned_to:
+  - fig:3
+  basis: The storm ceases and the passage states that the gods of the sea are appeased.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: conquered enemies
+  assigned_to:
+  - fig:4
+  basis: Yamato Take succeeds in conquering the Eastern Barbarians, identified as
+    the Ainu.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: endangered community
+  assigned_to:
+  - fig:5
+  basis: The people of Omi mourn and fear the monster’s attacks on villages.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: devouring mountain monster
+  assigned_to:
+  - fig:6
+  basis: The mountain monster is said to devour villagers, and the serpent appears
+    where the monster is believed to live.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:8
+  label: shrine priestess and ritual welcomer
+  assigned_to:
+  - fig:7
+  basis: She is named as priestess of the shrine, welcomes Yamato Take back, and participates
+    in thanksgiving.
+  evidence_refs:
+  - ev:11
+- id: role:9
+  label: protective ancestral goddess
+  assigned_to:
+  - fig:8
+  basis: The passage calls Amaterasu their ancestress and says Yamato Take’s preservation
+    is ascribed to her protection.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: sea and storm
+  literal_form: boisterous sea, waves, storm, and later calm water
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: distant sea of remembrance
+  literal_form: the distant sea seen from Usui Toge, where Ototachibana had given
+    her life
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: mountain pass and mountain
+  literal_form: Usui Toge and Ibuki Mountain
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:4
+  label: serpent
+  literal_form: monster serpent blocking the path on Ibuki Mountain
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: hot mineral springs
+  literal_form: hot mineral waters rising from the earth and heated by volcanic fires
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  - fire
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: sym:6
+  label: Azuma place-name
+  literal_form: district name commemorating Yamato Take’s cry for his wife
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Ise temples and shrine
+  literal_form: temples of Ise and shrine served by Yamato Take’s aunt
+  associated_figures:
+  - fig:2
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Ototachibana enters the sea and the storm ends
+  summary: Ototachibana leaps into the sea, the waves carry her from sight, the storm
+    ceases, and the sea gods are described as appeased.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Safe landing, conquest, and remembrance
+  summary: Yamato Take lands safely, conquers the Eastern Barbarians, credits his
+    wife’s sacrifice, and later cries out toward the sea from Usui Toge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Omi fears the mountain monster
+  summary: In Omi, Yamato Take learns that a mountain monster raids villages and devours
+    people, and he declares his intention to kill it.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Serpent killed on Ibuki Mountain
+  summary: Yamato Take climbs Ibuki Mountain, encounters a serpent blocking the path,
+    kills it with his bare hands, and then experiences darkness, rain, and poisoning.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Healing waters and return to Ise
+  summary: Yamato Take is taken to hot mineral springs, recovers through bathing,
+    and returns to Ise, where his aunt gives thanks to Amaterasu.
+  figure_refs:
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: self-sacrifice appeases dangerous sea
+  taxonomy_refs:
+  - sacrifice
+  basis: Ototachibana gives herself to the sea, after which the storm ceases and the
+    sea gods are appeased.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage presents the event as effective divine appeasement, but does
+    not elaborate a formal ritual system.
+- id: motif:2
+  label: hero’s safe passage through another’s sacrifice
+  taxonomy_refs:
+  - sacrifice
+  - departure
+  basis: Yamato Take reaches the opposite shore safely and later attributes this to
+    his wife’s willing sacrifice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is a later English retelling and compresses causality into
+    narrative summary.
+- id: motif:3
+  label: hero mourns sacrificed beloved and place-name preserves memory
+  taxonomy_refs: []
+  basis: Yamato Take cries out for his wife from Usui Toge, and the passage says Azuma
+    commemorates his words and her death.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The place-name explanation is given by the retelling; no linguistic comparison
+    is supplied in the passage.
+- id: motif:4
+  label: warrior hero protects community by confronting a devouring monster
+  taxonomy_refs:
+  - culture_hero
+  basis: The people of Omi fear a monster that devours villagers, and Yamato Take
+    vows to kill it.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage frames the act as royal protection and heroic combat rather
+    than explicitly as a culture-founding deed.
+- id: motif:5
+  label: serpent-slaying on a mountain path
+  taxonomy_refs:
+  - serpent
+  basis: A serpent appears on Ibuki Mountain, blocks Yamato Take’s path, and is killed
+    by him with his bare hands.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The serpent is called a monster by implication in Yamato Take’s speech,
+    but the passage does not describe its origin.
+- id: motif:6
+  label: poisoning by slain serpent followed by healing waters
+  taxonomy_refs:
+  - serpent
+  basis: After killing the serpent, Yamato Take suffers burning pains identified as
+    poison and recovers by bathing in hot mineral springs.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage states poisoning and recovery but gives little detail about
+    the mechanism of the serpent’s poison.
+- id: motif:7
+  label: return to sacred shrine and thanksgiving to ancestral goddess
+  taxonomy_refs:
+  - return
+  - divine_parent_child
+  basis: After recovery, Yamato Take returns to Ise, is welcomed by his aunt the priestess,
+    and thanks are offered to the ancestral Sun Goddess Amaterasu for his preservation.
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: The familial-divine relationship is described as ancestry, not direct
+    parent-child interaction.
+comparison_claims:
+- id: claim:1
+  claim: The Ibuki episode can be cautiously compared to a serpent-slaying monster-combat
+    pattern, because a heroic warrior confronts and kills a serpent associated with
+    danger to a community.
+  claim_level: same_motif
+  target: serpent-slaying / monster-combat motif family
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  counter_evidence_refs:
+  - ev:9
+  confidence: medium
+  limitations: The passage does not provide an external parallel or a detailed mythic
+    genealogy for the serpent; the hero is also harmed by poison after the victory.
+- id: claim:2
+  claim: The sea episode can be cautiously compared to a sacrificial appeasement pattern,
+    because a person enters the sea and the storm stops while the sea gods are said
+    to be appeased.
+  claim_level: same_function
+  target: sacrifice that calms waters or appeases sea deities
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage narrates a single act of self-sacrifice and does not present
+    a repeated ritual rule or broader comparative evidence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6128-6134
+  quote_or_summary: Ototachibana leaps into the sea, disappears in the waves, the
+    storm ceases, the sea becomes calm, and the sea gods are said to be appeased.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6135-6138
+  quote_or_summary: Yamato Take reaches the opposite shore safely and later conquers
+    the Eastern Barbarians, identified as the Ainu.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6139-6145
+  quote_or_summary: Yamato Take ascribes his safe landing to his wife’s faithful sacrifice
+    and remembers her goodness and love.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6146-6157
+  quote_or_summary: At Usui Toge, Yamato Take looks over the land toward the distant
+    sea, cries out for his wife, and the passage says Azuma commemorates his words
+    and her death.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6158-6162
+  quote_or_summary: Yamato Take has fulfilled his father’s orders, subdued rebels,
+    rid the land of robbers and enemies, and is renowned for strength in battle and
+    wisdom in council.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6163-6174
+  quote_or_summary: In Omi, villagers mourn and fear a mountain monster that raids
+    villages and devours people, keeping men and women from ordinary work.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 6175-6184
+  quote_or_summary: Yamato Take says it is strange that a wicked monster near the
+    capital terrorizes the king’s subjects, and he declares that he will kill it at
+    once.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 6185-6194
+  quote_or_summary: Yamato Take goes to Ibuki Mountain, meets a serpent blocking the
+    path, decides he needs no sword, and strangles it with his bare arms.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 6195-6205
+  quote_or_summary: After the serpent dies, darkness and rain come over the mountain;
+    Yamato Take later feels ill with burning pains in his feet and knows the serpent
+    poisoned him. He is carried to hot mineral springs heated by volcanic fires.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 6206-6212
+  quote_or_summary: Yamato Take bathes daily in the hot waters, gradually regains
+    strength, loses the pains, and recovers fully.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 6213-6233
+  quote_or_summary: Yamato Take returns to the temples of Ise; his aunt, the shrine
+    priestess, welcomes him, hears his account, praises him, and gives thanks to the
+    ancestral Sun Goddess Amaterasu for his preservation.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear about main actions and figures. Motif labels are candidate
+    analytic groupings based only on the supplied text and available taxonomy references;
+    comparison claims are limited to broad motif/function patterns explicitly supported
+    by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. No external Japanese source traditions or alternate versions were consulted.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l6128-l6233
+  passage_sha256=7a96f547dce7e35d7aa891ed3c6a9b298fe04b31b6f4c4155b9237c7558a5da0
+

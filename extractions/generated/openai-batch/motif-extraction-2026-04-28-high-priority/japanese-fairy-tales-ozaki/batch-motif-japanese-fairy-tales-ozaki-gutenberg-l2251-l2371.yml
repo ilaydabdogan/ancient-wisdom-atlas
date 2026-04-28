@@ -1,0 +1,588 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l2251-l2371
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE STORY OF URASHIMA TARO, THE FISHER LAD / THE FARMER AND THE BADGER /
+    THE ADVENTURES OF KINTARO, THE GOLDEN BOY / THE STORY OF THE MAN WHO DID NOT WISH
+    TO DIE; lines 2251-2371
+  start: '2251'
+  end: '2371'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Sentaro, fearing death and sickness, seeks a way to live for centuries.
+    He recalls stories of long-lived rulers and of the Chinese king Shin-no-Shiko,
+    who sent Jofuku across the sea to Horaizan for the Elixir of Life. Sentaro searches
+    mountains for hermits, then prays at Jofuku's shrine for seven days. Jofuku appears,
+    rebukes Sentaro's selfish and idle nature, describes the austerities and powers
+    of hermits, and sends him instead to the deathless country of Perpetual Life on
+    a paper crane that grows large enough to carry him over mountains and out to sea.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sentaro inherited a small fortune, lived carelessly, and was about thirty-two
+    years old when the events begin.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sentaro becomes distressed by thoughts of sickness and death and wishes to
+    live five or six hundred years free from sickness.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage recounts stories of exceptionally long-lived figures, including
+    emperors and a Princess of Yamato.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Chinese king Shin-no-Shiko is described as powerful and splendid but miserable
+    because he knows he must die.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Shin-no-Shiko orders Jofuku to seek the Elixir of Life from hermits in Horaizan
+    across the seas.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Jofuku does not return, and Mount Fuji is said to be the fabled Horaizan and
+    home of hermits with the elixir's secret.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Sentaro leaves home, searches mountainous regions and high peaks for hermits,
+    and finds none.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A hunter says he does not know where the hermits live and mentions a notorious
+    robber with two hundred followers.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Sentaro prays for seven days at Jofuku's shrine, asking to be shown the way
+    to a hermit who can give him what he seeks.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: At midnight on the seventh day, the inner shrine opens and Jofuku appears
+    in a luminous cloud.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Jofuku says Sentaro's desire is selfish and describes hermits as living on
+    fruit, berries, and pine bark while cutting themselves off from the world.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Jofuku says disciplined hermits can become light enough to ride a crane or
+    carp and walk on water without wet feet.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: Jofuku says Sentaro is idle and unfit for hermit life but will be sent to
+    the country of Perpetual Life where death never comes.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:14
+  text: Jofuku gives Sentaro a little paper crane; it grows large enough to carry
+    him, rises into the air, and flies over mountains toward the sea.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Sentaro
+  description: A man whose surname means “Millionaire,” living on inherited wealth
+    and fearing sickness and death.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: Shin-no-Shiko
+  description: A powerful Chinese king who seeks the Elixir of Life because he fears
+    death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Jofuku
+  description: An old courtier sent to Horaizan for the elixir, later worshiped as
+    patron god of the hermits, who appears to Sentaro at his shrine.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: Hermits of Horaizan / high peaks
+  description: Hermits said to possess the secret of the Elixir of Life and to live
+    on Mount Fuji and other very high peaks.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:5
+  name_or_label: Hunter
+  description: A hunter met by Sentaro in an unknown region who cannot identify the
+    hermits' dwelling place.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Paper crane
+  description: A little crane made of paper that grows large enough for Sentaro to
+    ride and carries him into the air.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: seeker of freedom from death
+  assigned_to:
+  - fig:1
+  basis: Sentaro fears death and sickness, searches for hermits, prays to Jofuku,
+    and accepts transport to the country of Perpetual Life.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+  - ev:9
+  - ev:10
+- id: role:2
+  label: precedent seeker of the Elixir of Life
+  assigned_to:
+  - fig:2
+  basis: Shin-no-Shiko fears death and orders Jofuku to obtain the elixir from Horaizan.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: messenger to the deathless hermits
+  assigned_to:
+  - fig:3
+  basis: Jofuku is sent across the sea to Horaizan to bring back a phial of the magic
+    elixir.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: patron god and supernatural guide
+  assigned_to:
+  - fig:3
+  basis: Jofuku is worshiped as patron god of the hermits and appears in a luminous
+    cloud to redirect Sentaro's quest.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:9
+  - ev:10
+- id: role:5
+  label: possessors of immortality secret
+  assigned_to:
+  - fig:4
+  basis: The hermits are said to possess the secret of the elixir and to inhabit Mount
+    Fuji and high peaks.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: failed informant
+  assigned_to:
+  - fig:5
+  basis: The hunter says he cannot tell Sentaro where such hermits live.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: magical conveyance
+  assigned_to:
+  - fig:6
+  basis: The paper crane grows and carries Sentaro through the air over mountains
+    and toward the sea.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: Elixir of Life / water of perpetual life
+  literal_form: A wonderful draught, phial of magic elixir, or water of perpetual
+    life that enables one to live forever.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: Mount Fuji and high peaks
+  literal_form: Mount Fuji, the fabled Horaizan, and other very high peaks where hermits
+    are said to live.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Horaizan
+  literal_form: A faraway country across the seas, later identified in the tale with
+    Mount Fuji, where hermits possess the Elixir of Life.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Jofuku's shrine
+  literal_form: The shrine where Sentaro prays for seven days and where Jofuku appears
+    at midnight.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: luminous cloud
+  literal_form: A luminous cloud in which Jofuku appears when the shrine door opens.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: paper crane
+  literal_form: A little crane made of paper that becomes large enough to ride and
+    flies away.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:7
+  label: water-walking
+  literal_form: The ability of a hermit to walk on water without wetting the feet.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Sentaro fears mortality
+  summary: Sentaro, an idle man living on inherited wealth, becomes distressed by
+    the thought of sickness and death and wishes for centuries of life.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Precedent of Shin-no-Shiko and Jofuku
+  summary: The tale recounts Shin-no-Shiko's fear of death and his command that Jofuku
+    sail to Horaizan to obtain the Elixir of Life from hermits.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Sentaro's mountain search
+  summary: Sentaro decides to seek hermits and the water of perpetual life, leaves
+    home, searches high mountain regions, and fails to find a hermit.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Prayer and apparition at Jofuku's shrine
+  summary: Sentaro prays for seven days at Jofuku's shrine; at midnight on the seventh
+    day Jofuku appears in a luminous cloud.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Jofuku's rebuke and description of hermits
+  summary: Jofuku calls Sentaro's desire selfish, explains the austerities required
+    of hermits, and describes their extraordinary abilities.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Departure by paper crane
+  summary: Jofuku sends Sentaro to the deathless country of Perpetual Life by giving
+    him a paper crane that enlarges and carries him into the air over mountains toward
+    the sea.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Quest for immortality through an elixir
+  taxonomy_refs:
+  - mystical_quest
+  basis: Both Shin-no-Shiko and Sentaro seek the Elixir of Life or water of perpetual
+    life in order to escape death.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage presents the quest but does not yet show whether Sentaro obtains
+    immortality.
+- id: motif:2
+  label: Deathless beings on a sacred or remote mountain
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: Horaizan is described as across the seas and later identified with Mount
+    Fuji, a mountain home of hermits who know the elixir's secret.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage identifies a mythic mountain abode, but does not explicitly
+    call it a world center or cosmic axis.
+- id: motif:3
+  label: Supernatural guide evaluates the seeker
+  taxonomy_refs:
+  - divine_judgment
+  - initiation
+  basis: Jofuku appears in a luminous cloud, judges Sentaro's desire selfish, and
+    explains why he is unfit for hermit discipline.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The evaluation redirects Sentaro but is not framed as a formal trial or
+    full initiation in this passage.
+- id: motif:4
+  label: Departure to a deathless realm by magical conveyance
+  taxonomy_refs:
+  - departure
+  - ascent
+  basis: Jofuku sends Sentaro to the country of Perpetual Life on a paper crane that
+    grows, rises into the air, and flies over mountains and out to sea.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: Only the departure is included in this passage; the arrival and outcome
+    lie outside the provided range.
+- id: motif:5
+  label: Austerity as path to supernatural lightness
+  taxonomy_refs:
+  - initiation
+  basis: Jofuku says hermits follow strict rules, cut themselves off from the world,
+    become free from earthly desire, and gain abilities such as riding a crane or
+    carp and walking on water.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: These practices are described by Jofuku rather than enacted by Sentaro
+    in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Sentaro's desire to avoid death with the
+    earlier story of Shin-no-Shiko seeking the Elixir of Life through Jofuku and the
+    hermits of Horaizan.
+  claim_level: same_motif
+  target: Shin-no-Shiko and Jofuku elixir quest within the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison supplied by the passage; it does not
+    establish historical details beyond the retold narrative.
+- id: claim:2
+  claim: Jofuku's voyage across the sea to Horaizan and Sentaro's flight over mountains
+    toward the sea have the same broad function of sending a seeker beyond ordinary
+    geography toward a place associated with deathlessness.
+  claim_level: same_function
+  target: Journeys to Horaizan and to the country of Perpetual Life
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The destinations are not described as identical in the provided passage,
+    and Sentaro's destination is introduced as a different country of Perpetual Life.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2251-2265
+  quote_or_summary: Sentaro lives on inherited wealth, becomes distressed by thoughts
+    of death and sickness, and wishes to live five or six hundred years free from
+    sickness.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 2266-2283
+  quote_or_summary: Sentaro recalls stories of long-lived rulers and of Shin-no-Shiko,
+    a powerful Chinese king who remains miserable because he must die.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 2284-2297
+  quote_or_summary: Shin-no-Shiko asks his court for the Elixir of Life; Jofuku says
+    hermits in Horaizan possess it, and the king sends him by junk with treasures
+    to obtain it.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 2298-2302
+  quote_or_summary: Jofuku never returns; Mount Fuji is said to be the fabled Horaizan
+    and home of hermits with the elixir's secret, and Jofuku is worshiped as their
+    patron god.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 2303-2311
+  quote_or_summary: Sentaro decides to find hermits and the water of perpetual life,
+    leaves his home, and searches the highest mountain peaks without finding a hermit.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 2312-2324
+  quote_or_summary: In an unknown region Sentaro meets a hunter, who cannot tell where
+    the hermits live and instead mentions a notorious robber; Sentaro decides to go
+    to Jofuku's shrine.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 2325-2332
+  quote_or_summary: Sentaro prays at Jofuku's shrine for seven days; at midnight on
+    the seventh day the inner shrine opens and Jofuku appears in a luminous cloud.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:8
+  type: summary
+  locator: lines 2333-2357
+  quote_or_summary: Jofuku calls Sentaro's wish selfish and describes hermit life
+    as austere, world-renouncing, desire-free, and eventually able to ride a crane
+    or carp and walk on water.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:9
+  type: summary
+  locator: lines 2358-2364
+  quote_or_summary: Jofuku says Sentaro is idle and unsuited to hermit life, but will
+    be helped by being sent to the country of Perpetual Life, where people live forever.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:10
+  type: summary
+  locator: lines 2365-2371
+  quote_or_summary: Jofuku gives Sentaro a paper crane; Sentaro sits on it, it grows
+    large enough to ride, spreads its wings, rises, and flies over mountains toward
+    the sea.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction relies only on the supplied passage. Motif labels are candidate-level
+    and should be reviewed, especially the use of cosmic_mountain and initiation taxonomy
+    refs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All observations, figures, roles, symbols, scenes, motifs, and comparison claims cite evidence from the provided passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l2251-l2371
+  passage_sha256=2422cff919acc91aa895ce4554d02e9153f4958b0b4fc0f2413f16fe5222e896
+

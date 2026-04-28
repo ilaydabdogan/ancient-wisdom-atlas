@@ -1,0 +1,514 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l5705-l5811
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE JELLY FISH AND THE MONKEY / THE QUARREL OF THE MONKEY AND THE CRAB /
+    THE WHITE HARE AND THE CROCODILES / THE STORY OF PRINCE YAMATO TAKE; lines 5705-5811
+  start: '5705'
+  end: '5811'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces the three sacred treasures of the Japanese Empire,
+    especially the sword later called Kusanagi/Kasanagi, linked to imperial strength
+    and Amaterasu. It then begins the story of Prince Yamato, son of Emperor Keiko,
+    who is sent as a young warrior to subdue rebel brothers in Kyushu. Yamato prays
+    at Ise, receives a robe from his aunt Princess Yamato, reaches difficult mountain
+    country near the enemy, chooses stratagem over open battle, and disguises himself
+    as a woman with help from his wife Ototachibana before going alone to the enemy
+    camp with a hidden dagger.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The imperial insignia are described as three sacred treasures: the Mirror
+    of Yata, the Jewel of Yasakami, and the Sword of Murakumo.'
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sword of Murakumo is later called Kusanagi-no-Tsurugugi or the grass-cleaving
+    sword, and is described as a symbol of strength and a talisman of invincibility
+    for the Emperor.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The sword is said to have been kept at the shrines of Ise, dedicated to Amaterasu,
+    from whom the Japanese emperors are said to be descended.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Prince Yamato is introduced as the second son of Emperor Keiko and as a youth
+    of remarkable strength, wisdom, and courage.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The realm is troubled by outlaws led by two brothers, Kumaso and Takeru, who
+    rebel against the king and defy authority.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: King Keiko orders the sixteen-year-old Prince Yamato to subdue the brigands
+    and, if possible, rid the land of them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Before leaving, Yamato prays at the shrine of Ise and receives from his aunt
+    Princess Yamato a robe given as a keepsake and good-luck aid for the adventure.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: On the way to the enemy headquarters, Yamato finds the land wild and rough,
+    with high mountains, deep valleys, huge trees, and boulders blocking the army's
+    progress.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Yamato decides that open battle in the impassable country is unwise and chooses
+    to use stratagem to come upon the enemies unawares.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: With his wife Ototachibana's help, Yamato puts on the robe, lets down his
+    hair, adds a comb and jewels, and verifies in a mirror that the disguise appears
+    complete.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Yamato sets out alone for the enemy camp disguised as a woman, with a sharp
+    dagger hidden in the folds of his silk gown.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Prince Yamato
+  description: Second son of Emperor Keiko; a sixteen-year-old prince described as
+    strong, wise, courageous, and fearless; sent to subdue the rebel chiefs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Emperor or King Keiko
+  description: Twelfth in descent from Jimmu; father of Prince Yamato; orders Yamato
+    to subdue the brigands.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Amaterasu
+  description: The great and beautiful Sun Goddess worshipped at Ise, from whom the
+    Japanese emperors are said to be descended.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Princess Yamato
+  description: Prince Yamato's aunt, associated with Ise; welcomes him, congratulates
+    him, gives him a gorgeous robe, and blesses his mission.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Princess Ototachibana
+  description: Prince Yamato's wife; accompanies him and helps him dress in women's
+    attire for the stratagem.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Kumaso
+  description: One of the two brother chiefs of the outlaw rebels troubling the realm.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Takeru
+  description: One of the two brother chiefs of the outlaw rebels troubling the realm.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Jimmu
+  description: Named as founder of the Japanese dynasty and ancestor in the royal
+    line before Emperor Keiko.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: royal youthful hero and mission-bearer
+  assigned_to:
+  - fig:1
+  basis: Yamato is a royal son who has just reached manhood and is ordered to undertake
+    a dangerous expedition against rebels.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: commissioning ruler and father
+  assigned_to:
+  - fig:2
+  basis: Keiko is Yamato's father and commands him to subdue the brigands.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: divine ancestress
+  assigned_to:
+  - fig:3
+  basis: Amaterasu is the Sun Goddess from whom the emperors are said to be descended,
+    and Yamato seeks her protection at Ise.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: protective ritual kinswoman and gift-giver
+  assigned_to:
+  - fig:4
+  basis: Princess Yamato receives Yamato at Ise, gives him a robe as a keepsake and
+    aid, and blesses his undertaking.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: companion and disguise-helper
+  assigned_to:
+  - fig:5
+  basis: Ototachibana accompanies Yamato and helps him assume the female disguise.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: rebel adversary chiefs
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Kumaso and Takeru are named as brother chiefs of outlaws rebelling against
+    the king.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: dynastic founder ancestor
+  assigned_to:
+  - fig:8
+  basis: Jimmu is identified as founder of the Japanese dynasty and ancestor in Keiko's
+    descent line.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: three sacred imperial treasures
+  literal_form: Mirror of Yata, Jewel of Yasakami, and Sword of Murakumo
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: imperial sword of strength and invincibility
+  literal_form: Sword of Murakumo, later Kusanagi-no-Tsurugugi / grass-cleaving sword
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Ise shrine of divine protection
+  literal_form: Shrine of Ise dedicated to Amaterasu
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: protective robe and disguise garment
+  literal_form: Gorgeous robe given by Princess Yamato and later worn by Yamato as
+    part of a woman's disguise
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:5
+  label: feminine disguise ornaments
+  literal_form: Loosened hair, comb, strings of jewels, and mirror used in Yamato's
+    disguise
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: hidden dagger
+  literal_form: Sharp dagger hidden in the folds of Yamato's silk gown
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: impassable mountain country
+  literal_form: High steep mountains, dark deep valleys, huge trees, and boulders
+    blocking the road
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Sacred regalia and origin frame for the sword's name
+  summary: The passage presents the three sacred imperial treasures and emphasizes
+    the sword as the most honored treasure, linked to imperial strength, invincibility,
+    Ise, and Amaterasu.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Yamato's lineage and commission against rebel brothers
+  summary: Yamato is introduced as Keiko's second son, gifted with strength, wisdom,
+    and courage; Keiko orders him to subdue the outlaw brothers Kumaso and Takeru.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Prayer at Ise and gift from Princess Yamato
+  summary: Before the expedition, Yamato seeks Amaterasu's protection at Ise, takes
+    leave of his aunt, and receives a robe intended to help and bring good luck.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Blocked approach and decision to use stratagem
+  summary: The army reaches rough terrain near the enemy headquarters, where mountains,
+    valleys, trees, and boulders prevent easy progress; Yamato decides to halt the
+    army and use surprise instead of open battle.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Disguise and solitary approach to the enemy camp
+  summary: Ototachibana helps Yamato dress as a woman using the robe, comb, jewels,
+    and mirror; Yamato then goes alone toward the enemy camp with a dagger hidden
+    in his gown.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: sacred imperial regalia legitimating royal power
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage connects the three sacred treasures, especially the sword, with
+    the Emperor, Ise, Amaterasu, and imperial descent.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage frames the regalia as imperial symbols but does not narrate
+    their acquisition in this excerpt.
+- id: motif:2
+  label: young royal hero commissioned to restore order
+  taxonomy_refs:
+  - initiation
+  - departure
+  basis: Yamato has just reached manhood at sixteen and is sent by his father to subdue
+    rebels, beginning a dangerous expedition.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: Only the opening phase of the expedition is present in this line range.
+- id: motif:3
+  label: protective gift received before a perilous quest
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Princess Yamato gives Yamato a robe as a keepsake, good-luck object, and
+    aid for his adventure before he departs.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage calls the gift useful and lucky, but does not explicitly state
+    supernatural power in the robe.
+- id: motif:4
+  label: cross-dressed disguise used as battle stratagem
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Yamato avoids direct combat, disguises himself as a woman with his wife's
+    help, and approaches the enemy camp alone with a hidden dagger.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is disguise and tactical deception, not literal shapeshifting.
+- id: motif:5
+  label: impassable wilderness obstacle before enemy territory
+  taxonomy_refs: []
+  basis: The enemy country is described as wild and rough, with mountains, valleys,
+    trees, and boulders blocking the army and forcing a change of tactics.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage presents the terrain as a practical obstacle; symbolic meaning
+    is not stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5705-5716
+  quote_or_summary: 'The imperial insignia consist of three sacred treasures: the
+    Mirror of Yata, the Jewel of Yasakami, and the Sword of Murakumo; the sword is
+    later called Kusanagi and treated as a symbol of strength and talisman of invincibility
+    for the Emperor.'
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 5717-5722
+  quote_or_summary: The sword was kept at Ise shrines dedicated to Amaterasu, the
+    Sun Goddess from whom the emperors are said to descend; the story is said to explain
+    the sword's change of name to grass-clearing.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5723-5732
+  quote_or_summary: Prince Yamato is born as second son of Emperor Keiko, descendant
+    of Jimmu; from childhood he shows remarkable strength, wisdom, and courage.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 5733-5746
+  quote_or_summary: The realm is troubled by outlaw brothers Kumaso and Takeru; Keiko
+    orders sixteen-year-old Yamato to subdue them, and Yamato receives the command
+    joyfully and without fear.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 5747-5763
+  quote_or_summary: Before leaving, Yamato prepares with followers, prays at Ise,
+    takes leave of his aunt Princess Yamato, and receives from her a gorgeous robe
+    as a keepsake and good-luck aid.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 5764-5772
+  quote_or_summary: Yamato leads his troops toward Kyushu and the rebel headquarters;
+    the country is wild and rough, with high mountains, deep valleys, huge trees,
+    and boulders blocking the road.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 5773-5783
+  quote_or_summary: Yamato judges open battle in the impassable country unwise, decides
+    to use stratagem and surprise, and orders his army to halt.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 5784-5806
+  quote_or_summary: Ototachibana helps Yamato put on the robe, let down his hair,
+    add her comb and jewels, and inspect the result in a mirror; the disguise appears
+    to make him look like a beautiful lady.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: 5807-5811
+  quote_or_summary: '"Thus completely disguised, he set out for the enemy’s camp alone."
+    A sharp dagger is hidden in the folds of his silk gown.'
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are candidate classifications based only on the excerpt. No comparison claims
+    were added because the passage itself does not explicitly compare this episode
+    to another corpus or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All observations and motif candidates are limited to the provided passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l5705-l5811
+  passage_sha256=1366c03f5184544cd2f71ef9edbf70c081de909b289be16c151e7176f22fe959
+

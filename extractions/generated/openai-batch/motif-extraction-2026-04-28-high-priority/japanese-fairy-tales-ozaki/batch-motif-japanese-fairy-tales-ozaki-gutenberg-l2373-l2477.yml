@@ -1,0 +1,466 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l2373-l2477
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE STORY OF URASHIMA TARO, THE FISHER LAD / THE FARMER AND THE BADGER /
+    THE ADVENTURES OF KINTARO, THE GOLDEN BOY / THE STORY OF THE MAN WHO DID NOT WISH
+    TO DIE; lines 2373-2477
+  start: '2373'
+  end: '2477'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Sentaro is carried by a paper crane to the country of Perpetual Life. He
+    settles there and learns that no one dies or becomes sick, but the inhabitants
+    long for death because they believe it leads to Paradise. Poisons and deadly foods
+    have no harmful effect there. After three hundred years Sentaro becomes weary,
+    prays to Jofuku, and the paper crane carries him back toward Japan despite his
+    later regret.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sentaro travels for several days through the air on a paper bird and reaches
+    an island.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After Sentaro dismounts, the crane folds up by itself and enters his pocket.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sentaro explores the country and town, finds them strange but prosperous,
+    and takes lodgings at a hotel.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hotel proprietor helps Sentaro arrange his residence in the country of
+    Perpetual Life.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The islanders have no memory of anyone dying there, and sickness is unknown.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Priests from India and China had told the islanders of Paradise, whose gates
+    could only be reached by dying.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The islanders long for death because they are tired of their very long lives
+    and desire Paradise.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Substances considered poisonous elsewhere are eaten or bought eagerly in the
+    country of Perpetual Life but do not kill anyone there.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Sentaro initially delights in the country of Perpetual Life and wishes to
+    live for thousands of years.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: After three hundred years, Sentaro becomes tired of life in the country and
+    longs for his own land and home.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Sentaro prays to Jofuku, the paper crane emerges from his pocket, grows large,
+    and carries him across the sea toward Japan.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: While being carried away, Sentaro looks back, regrets what he has left, and
+    cannot stop the crane.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Sentaro
+  description: A man who travels to the country of Perpetual Life, settles there,
+    later tires of it, and prays to return to his native land.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: paper crane
+  description: A paper bird that carries Sentaro through the air, folds into his pocket,
+    later grows large again, and carries him toward Japan.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:3
+  name_or_label: islanders of the country of Perpetual Life
+  description: Inhabitants among whom death and sickness are unknown, and who long
+    for death as a way to reach Paradise.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: hotel proprietor
+  description: A kind proprietor who promises to arrange Sentaro’s sojourn with the
+    city governor and finds him a house.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: priests from India and China
+  description: Priests who had told the islanders of Paradise, a beautiful country
+    reached by dying.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: merchants from other countries
+  description: Merchants whose arrivals prompt rich people in the country of Perpetual
+    Life to buy poisons.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Jofuku
+  description: A saint whom Sentaro remembers as having helped him before and to whom
+    he prays for return to his own land.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: resident seeker of perpetual life
+  assigned_to:
+  - fig:1
+  basis: Sentaro comes to live in the country of Perpetual Life because he had wished
+    to escape death.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: magical aerial conveyance
+  assigned_to:
+  - fig:2
+  basis: The paper crane flies thousands of miles, folds into Sentaro’s pocket, and
+    later carries him toward Japan.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:3
+  label: deathless inhabitants desiring death
+  assigned_to:
+  - fig:3
+  basis: The islanders do not die or sicken but long for death as desirable.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: local host and facilitator
+  assigned_to:
+  - fig:4
+  basis: The proprietor helps arrange Sentaro’s residence and finds him a house.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: transmitters of Paradise teaching
+  assigned_to:
+  - fig:5
+  basis: Priests from India and China tell the islanders about Paradise, reached through
+    dying.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: suppliers of desired poisons
+  assigned_to:
+  - fig:6
+  basis: Rich people rush to merchants from other countries to buy poisons.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: weary return-seeker
+  assigned_to:
+  - fig:1
+  basis: After three hundred years Sentaro tires of life in the country and prays
+    to return home.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:8
+  label: invoked helper
+  assigned_to:
+  - fig:7
+  basis: Sentaro prays to Jofuku to bring him back to his own land.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: paper crane
+  literal_form: folded paper crane that becomes large enough to carry Sentaro through
+    the air
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:2
+  label: country of Perpetual Life
+  literal_form: island country where no one dies and sickness is unknown
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: sea crossing
+  literal_form: sea or ocean crossed by the crane between the island and Japan
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: poisons as desired food
+  literal_form: poisons, poisonous globe-fish, and sauces made of Spanish flies eaten
+    or bought in hope of death
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Paradise
+  literal_form: beautiful country of happiness, bliss, and contentment whose gates
+    are reached by dying
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: flight to the island
+  summary: Sentaro rides the paper crane through the air for several days until they
+    reach an island, where the crane folds into his pocket.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: settlement in the country of Perpetual Life
+  summary: Sentaro explores the strange prosperous country and, with help from the
+    hotel proprietor, becomes a resident.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: customs of the deathless islanders
+  summary: Sentaro learns that the islanders never die or fall ill, long for death
+    and Paradise, and consume poisons that have no deadly effect.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: weariness and return toward Japan
+  summary: After three hundred years Sentaro tires of life in the country, prays to
+    Jofuku, and is carried back across the sea by the paper crane, though he regrets
+    leaving.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: quest for perpetual life becomes weariness of immortality
+  taxonomy_refs:
+  - mystical_quest
+  basis: Sentaro seeks refuge in a land without death, but after centuries finds endless
+    life monotonous and wishes to return home.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage emphasizes ironic reversal more than a formally named quest;
+    the taxonomy match is broad.
+- id: motif:2
+  label: magical departure to a distant otherworldly land
+  taxonomy_refs:
+  - departure
+  basis: Sentaro is carried thousands of miles by a paper crane to the country of
+    Perpetual Life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The destination is an island country rather than explicitly a divine realm.
+- id: motif:3
+  label: return by the same magical conveyance
+  taxonomy_refs:
+  - return
+  basis: After praying to Jofuku, the paper crane reappears and carries Sentaro back
+    toward Japan.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage ends during the return journey and does not show arrival in
+    Japan.
+- id: motif:4
+  label: inverted values in a deathless land
+  taxonomy_refs:
+  - duality
+  basis: Sentaro values escape from death, while the deathless islanders value death
+    and consume poisons as desirable goods.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The duality is ethical and social rather than a paired cosmological opposition.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the islanders’ belief in Paradise as a teaching transmitted
+    by priests from India and China.
+  claim_level: historical_contact
+  target: India and China religious teaching about Paradise as reported inside the
+    tale
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal narrative claim in an English retelling and does
+    not establish independent historical transmission details.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2373-2387
+  quote_or_summary: Sentaro becomes accustomed to a swift flight on a paper bird;
+    after several days they reach an island, and the crane folds itself into his pocket.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2388-2405
+  quote_or_summary: Sentaro explores the strange prosperous country, takes hotel lodgings,
+    and receives help from the proprietor to become a resident in the country of Perpetual
+    Life.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2406-2416
+  quote_or_summary: No one within the islanders’ memory has died there, sickness is
+    unknown, and priests from India and China had told them of Paradise, reachable
+    only by dying.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2417-2431
+  quote_or_summary: Unlike Sentaro, the islanders long for death as desirable because
+    they are tired of long life and desire the happy land called Paradise.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2432-2455
+  quote_or_summary: Foods poisonous elsewhere are treated as desirable; rich people
+    buy poisons hoping to die, but poisons have no harmful effect, and poisonous globe-fish
+    and Spanish-fly sauces are sold as food.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2456-2470
+  quote_or_summary: Sentaro at first delights in life without death, but after business
+    troubles and three hundred years of monotony he grows tired and longs for his
+    homeland.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 2471-2477
+  quote_or_summary: Sentaro prays to Jofuku; the paper crane emerges undamaged, grows
+    large, and carries him across the sea toward Japan while he looks back with regret
+    and cannot stop it.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage. Motif labels are broad
+    and require human review against the Atlas taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy IDs were added beyond the supplied available motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l2373-l2477
+  passage_sha256=6222121de78768929c84fc2cf95bf3f5e56f77832cdb10bf3764f4d49429b051
+

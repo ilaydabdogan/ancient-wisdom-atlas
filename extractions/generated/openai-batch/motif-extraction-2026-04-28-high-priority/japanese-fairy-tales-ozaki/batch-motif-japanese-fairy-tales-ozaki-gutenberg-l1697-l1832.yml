@@ -1,0 +1,508 @@
+---
+record_id: batch.motif.japanese-fairy-tales-ozaki-gutenberg-l1697-l1832
+source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+passage_locator:
+  label: THE TONGUE-CUT SPARROW / THE STORY OF URASHIMA TARO, THE FISHER LAD / THE
+    FARMER AND THE BADGER / THE ADVENTURES OF KINTARO, THE GOLDEN BOY; lines 1697-1832
+  start: '1697'
+  end: '1832'
+  translation: Japanese Fairy Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Kintaro presides over animal wrestling among the monkey, hare, deer, and
+    bear. On the way home he uproots a large tree to make a bridge across a river
+    for the animals. A woodcutter sees the feat, follows him to his mother's cottage,
+    and challenges him to a test of strength; their arm-wrestling ends in a draw.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The monkey defeats the hare in a wrestling match by pulling the hare's ear
+    and catching one of his legs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kintaro gives the victorious monkey a rice-dumpling.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The deer and hare wrestle while the bear acts as umpire.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Kintaro leads the bear, deer, monkey, and hare away from the wrestling place
+    toward home.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Kintaro and the four animals reach a river in a valley where there is no bridge.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Kintaro uproots a large tree at the water's edge and makes it fall across
+    the stream as a bridge.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The four animals cross the tree bridge after Kintaro and remark on his strength.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A woodcutter standing on a rock observes Kintaro uproot the tree and follows
+    him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Kintaro returns to a cottage in the pine woods where his mother is waiting.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Kintaro tells his mother that he took his four animal friends into the hills
+    for wrestling and says that he himself is strongest.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The woodcutter enters the cottage and asks to test strength with Kintaro.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Kintaro and the woodcutter grasp right hands and test their arm strength until
+    the woodcutter declares a draw.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Kintaro
+  description: A boy living in the forest who leads animal companions, rewards the
+    wrestling victor, uproots a tree to make a bridge, returns to his mother, and
+    tests strength with the woodcutter.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: monkey
+  description: One of Kintaro's four animal friends; described as cunning and victorious
+    over the hare in a wrestling match.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: hare
+  description: One of Kintaro's four animal friends; wrestles with the monkey and
+    the deer.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: deer
+  description: One of Kintaro's four animal friends; wrestles with the hare.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: bear
+  description: One of Kintaro's four animal friends; comes forward as umpire and is
+    later named by Kintaro as next strongest after himself.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:6
+  name_or_label: woodcutter
+  description: An old man dressed as a woodcutter who observes Kintaro's strength,
+    follows him to the cottage, enters, and tests arm strength with him.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: Kintaro's mother / Yama-uba
+  description: Kintaro's mother, waiting in the cottage in the pine woods; she questions
+    him about the day's wrestling.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: extraordinarily strong child
+  assigned_to:
+  - fig:1
+  basis: Kintaro uproots a large tree to form a bridge, and the watching woodcutter
+    says he is no ordinary child.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: leader of animal companions
+  assigned_to:
+  - fig:1
+  basis: Kintaro organizes the wrestling, leads the animals home, and refers to them
+    as his four friends.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:3
+  label: animal companion
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Kintaro calls the bear, deer, monkey, and hare his four friends, and they
+    follow him from the wrestling place.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: cunning wrestler
+  assigned_to:
+  - fig:2
+  basis: The monkey is described as cunning and uses the hare's ear and leg to win
+    the wrestling match.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: animal wrestler
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The hare wrestles with the monkey and then with the deer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: umpire
+  assigned_to:
+  - fig:5
+  basis: The bear comes forward as umpire during the match between the deer and the
+    hare.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: hidden observer
+  assigned_to:
+  - fig:6
+  basis: The woodcutter watches Kintaro and the animals from a rock overlooking the
+    stream and follows without Kintaro knowing.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: strength challenger
+  assigned_to:
+  - fig:6
+  basis: The woodcutter enters the cottage and proposes a test of arm strength with
+    Kintaro.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:9
+  label: mother at forest cottage
+  assigned_to:
+  - fig:7
+  basis: Kintaro returns to his mother in the cottage, and she questions him about
+    where he has been.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: tree bridge
+  literal_form: A large tree uprooted by Kintaro and laid across a river as a bridge.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: river crossing
+  literal_form: A river flowing through a valley with no bridge until Kintaro makes
+    one.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: rice-dumpling reward
+  literal_form: A rice-dumpling given by Kintaro to the victorious monkey.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: right-hand strength test
+  literal_form: Kintaro and the woodcutter grasp right hands and try to bend one another's
+    arm.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: pine-woods cottage
+  literal_form: A small cottage in the heart of the pine woods where Kintaro's mother
+    waits.
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Animal wrestling under Kintaro's supervision
+  summary: The monkey defeats the hare and receives a rice-dumpling from Kintaro;
+    the deer and hare then wrestle with the bear as umpire.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Tree made into a bridge across the river
+  summary: Kintaro and the animals come to an unbridged river; Kintaro uproots a large
+    tree so they can cross.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Woodcutter witnesses Kintaro's strength
+  summary: A woodcutter watches Kintaro uproot the tree, judges him no ordinary child,
+    and follows him after the crossing.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Return to the forest cottage
+  summary: Kintaro returns to his mother, describes the animal wrestling in the hills,
+    and states that he is the strongest among the group.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Arm-strength contest with the woodcutter
+  summary: The woodcutter enters the cottage and challenges Kintaro; their right-hand
+    strength contest ends as a draw.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: extraordinarily strong child
+  taxonomy_refs:
+  - miraculous_child
+  basis: Kintaro is a boy whose strength allows him to uproot a large tree and impress
+    a watching adult as not ordinary.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage shows extraordinary strength but does not describe Kintaro's
+    birth or divine origin.
+- id: motif:2
+  label: child leader with animal companions
+  taxonomy_refs: []
+  basis: Kintaro leads four animal friends, organizes their wrestling, and guides
+    them home.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this animal-companion pattern.
+- id: motif:3
+  label: river crossing by improvised natural bridge
+  taxonomy_refs: []
+  basis: At an unbridged river, Kintaro uproots a tree and lays it across the stream
+    so the group can cross.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The motif is local to this episode; no broader comparative claim is made
+    from the passage alone.
+- id: motif:4
+  label: test of strength with mysterious stranger
+  taxonomy_refs:
+  - initiation
+  basis: A woodcutter who has secretly observed Kintaro enters the cottage and challenges
+    him to a right-hand strength contest that ends in a draw.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: low
+  cautions: The passage presents a contest, but it does not explicitly frame the event
+    as an initiation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1697-1707
+  quote_or_summary: The monkey uses cunning tactics against the hare, wins their wrestling
+    match, and receives a rice-dumpling from Kintaro.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1709-1720
+  quote_or_summary: The deer asks the hare for another round; the bear acts as umpire,
+    and the animals continue wrestling for amusement.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1722-1728
+  quote_or_summary: Kintaro ends the day's wrestling and leads the animals away, with
+    the animals following him.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1729-1755
+  quote_or_summary: At a river with no bridge, Kintaro uproots a large tree at the
+    water's edge, makes it fall across the stream, crosses first, and the four animals
+    follow while praising his strength.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1756-1772
+  quote_or_summary: A woodcutter standing on a rock sees Kintaro uproot the tree,
+    thinks he is no ordinary child, and follows the party after they cross.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1773-1810
+  quote_or_summary: Kintaro returns to his mother's cottage in the pine woods, tells
+    her about taking the bear, deer, monkey, and hare into the hills for wrestling,
+    and says he is strongest, with the bear next.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1811-1824
+  quote_or_summary: A voice outside asks to join the next wrestling match; the old
+    woodcutter enters the cottage, surprising Kintaro and Yama-uba, and proposes a
+    test of strength.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1825-1832
+  quote_or_summary: Kintaro and the woodcutter grasp right hands and try to bend each
+    other's arm; after a long contest the woodcutter declares it a draw.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based only on the supplied passage. Motif labels are conservative;
+    taxonomy references are used only where the passage gives direct support.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison to another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:japanese-fairy-tales-ozaki-gutenberg__l1697-l1832
+  passage_sha256=d26aae5628c1ad3e0297cb49a80b1751e54f0092c893f09140b51ec01d674cb9
+
