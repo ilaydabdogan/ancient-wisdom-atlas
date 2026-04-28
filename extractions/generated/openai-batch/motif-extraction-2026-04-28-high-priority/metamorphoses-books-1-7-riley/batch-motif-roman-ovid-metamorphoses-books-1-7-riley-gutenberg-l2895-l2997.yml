@@ -1,0 +1,528 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l2895-l2997
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / BOOK THE SECOND.; lines 2895-2997
+  start: '2895'
+  end: '2997'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“Save it from the flames, if aught still survives, and provide for the preservation
+    of the universe.”"
+  summary: A cosmic fire dries seas, exposes mountains, kills or drives marine beings
+    into hiding, heats the air beyond Neptune’s endurance, and causes Earth to rise,
+    scorched and parched, to plead with the sovereign of the gods to save the universe
+    from collapse into ancient chaos.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The ground bursts open, and light penetrates into Tartarus, startling the
+    Infernal King and his spouse.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Ocean contracts, former sea becomes parched sand, and mountains once covered
+    by the sea emerge.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Fishes sink, dolphins do not rise as usual, and sea calves float lifeless
+    on their backs.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Nereus, Doris, and their daughters are said to lie hidden in heated caverns.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Neptune three times attempts to thrust his arms out of the water, but cannot
+    endure the scorching heat of the air.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Earth, surrounded by drying waters and springs, raises her face and hands,
+    trembles, sinks lower, and speaks with a parched voice.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Earth asks the sovereign of the gods why his lightnings linger if she deserves
+    to perish by fire.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Earth describes her scorched hair, ash-covered eyes and features, and her
+    agricultural service to cattle, humankind, and the gods.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Earth asks why the waves, the god’s brother, and the seas allotted to him
+    should suffer and recede.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Earth warns that the poles are smoking, the heavenly palace may fall, and
+    Atlas can scarcely bear the glowing heavens.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Earth warns that if sea, earth, and heaven perish, all will be thrown into
+    ancient chaos, and she asks that the universe be preserved.
+  category: speech
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: After speaking, Earth can no longer endure the vapor and withdraws her face
+    into herself and the caverns near the shades below.
+  category: sequence
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Earth
+  description: A personified Earth, scorched, parched, fertile, and able to speak;
+    she rises from amid drying waters and pleads for preservation of the universe.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:11
+  - ev:12
+- id: fig:2
+  name_or_label: Sovereign of the Gods
+  description: The deity addressed by Earth as sovereign of the gods, associated in
+    her speech with lightnings and a heavenly palace.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: fig:3
+  name_or_label: Infernal King
+  description: A ruler in Tartarus startled when light enters through cracks in the
+    ground.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Spouse of the Infernal King
+  description: The spouse of the Infernal King, also startled by light entering Tartarus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Neptune
+  description: A divine figure in the water who three times attempts to raise his
+    arms but cannot endure the scorching air.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: fig:6
+  name_or_label: Nereus
+  description: A marine figure said to hide in heated caverns during the cosmic burning.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Doris
+  description: A marine figure said to hide in heated caverns during the cosmic burning.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Daughters of Nereus and Doris
+  description: Marine daughters said to hide with Nereus and Doris in heated caverns.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Atlas
+  description: A figure struggling to bear the glowing heavens on his shoulders.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:10
+- id: fig:10
+  name_or_label: Marine animals
+  description: Fishes, dolphins, and sea calves affected by the heated and diminishing
+    waters.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: personified suffering Earth
+  assigned_to:
+  - fig:1
+  basis: Earth appears as a speaking, bodily figure with face, neck, hands, hair,
+    eyes, and a parched voice.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:2
+  label: supplicant for cosmic preservation
+  assigned_to:
+  - fig:1
+  basis: Earth pleads that the universe be saved from flames and ancient chaos.
+  evidence_refs:
+  - ev:11
+- id: role:3
+  label: addressed divine ruler
+  assigned_to:
+  - fig:2
+  basis: Earth addresses him as sovereign of the gods and asks about his lightnings
+    and heavenly palace.
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: role:4
+  label: underworld witnesses
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Light enters Tartarus and startles the Infernal King and his spouse.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: marine god unable to emerge
+  assigned_to:
+  - fig:5
+  basis: Neptune repeatedly attempts to extend his arms from the water but cannot
+    endure the scorching air.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: marine divinities in hiding
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: Nereus, Doris, and their daughters are said to lie hidden in heated caverns.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: bearer of the heavens under strain
+  assigned_to:
+  - fig:9
+  basis: Atlas struggles and can hardly bear the glowing heavens on his shoulders.
+  evidence_refs:
+  - ev:10
+- id: role:8
+  label: victims of heated waters
+  assigned_to:
+  - fig:10
+  basis: Sea animals sink, cease to rise, or float lifeless in the water.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: world-destroying fire
+  literal_form: fire, scorching heat, flames, smoking poles, glowing heavens
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:9
+  - fig:10
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:10
+  - ev:11
+- id: sym:2
+  label: receding and drying waters
+  literal_form: contracted Ocean, parched former sea, dried springs, receding seas
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:10
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:9
+- id: sym:3
+  label: heated caverns
+  literal_form: heated caverns and caverns near the shades below
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:4
+  - ev:12
+- id: sym:4
+  label: emerging mountains
+  literal_form: mountains formerly covered by the deep sea
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: ancient chaos
+  literal_form: confused state of ancient chaos
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:6
+  label: Atlas bearing glowing heavens
+  literal_form: Atlas struggling with the glowing heavens on his shoulders
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Cosmic burning exposes underworld and dries the sea
+  summary: The earth cracks open, light reaches Tartarus, the Ocean contracts, former
+    sea becomes sand, and submerged mountains emerge.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Marine beings suffer from heat
+  summary: Sea animals die or change behavior, marine divinities hide in heated caverns,
+    and Neptune cannot endure the air above the water.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:10
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Earth rises and pleads
+  summary: Earth rises scorched and parched from drying waters, speaks to the sovereign
+    of the gods, recounts her service and suffering, and asks why the fire continues.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: Warning of universal collapse
+  summary: Earth warns that the poles smoke, heaven may fall, Atlas struggles, and
+    sea, earth, and heaven may return to ancient chaos unless saved from flames.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: scene:5
+  label: Earth withdraws below
+  summary: Earth can no longer endure the vapor and withdraws her face into herself
+    and toward caverns near the shades below.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: cosmic conflagration threatening the universe
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: The passage describes flames, scorching heat, smoking poles, glowing heavens,
+    and a plea to save the universe from fire.
+  evidence_refs:
+  - ev:5
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The passage excerpt describes the effects and plea, not the origin or
+    resolution of the fire.
+- id: motif:2
+  label: return to primordial chaos threatened by cosmic collapse
+  taxonomy_refs:
+  - chaos
+  basis: Earth explicitly warns that if sea, earth, and heaven perish, all will be
+    thrown into the confused state of ancient chaos.
+  evidence_refs:
+  - ev:11
+  confidence: high
+  cautions: The passage presents chaos as a threatened outcome, not an accomplished
+    event.
+- id: motif:3
+  label: divine appeal for preservation of the cosmos
+  taxonomy_refs: []
+  basis: Personified Earth addresses the sovereign of the gods and asks him to save
+    what remains and preserve the universe.
+  evidence_refs:
+  - ev:7
+  - ev:11
+  confidence: medium
+  cautions: No supplied taxonomy reference directly names this supplication pattern.
+- id: motif:4
+  label: world-bearing figure strained by cosmic disaster
+  taxonomy_refs: []
+  basis: Atlas is said to struggle and scarcely bear the glowing heavens on his shoulders
+    during the crisis.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The passage gives only a brief mention of Atlas within the wider conflagration.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2895-2897
+  quote_or_summary: The ground bursts open; light enters Tartarus and startles the
+    Infernal King and his spouse.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 2897-2902
+  quote_or_summary: The Ocean contracts, former sea becomes parched sand, and mountains
+    once covered by sea emerge among the Cyclades.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 2902-2905
+  quote_or_summary: Fishes sink, dolphins do not rise into the air, and sea calves
+    float lifeless on their backs.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 2905-2907
+  quote_or_summary: Nereus, Doris, and their daughters are said to hide in heated
+    caverns.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 2907-2910
+  quote_or_summary: Neptune three times tries to raise his arms from the water, but
+    cannot endure the scorching heat of the air.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: lines 2910-2918
+  quote_or_summary: Earth, amid drying waters and hidden springs, raises her face
+    and hands, trembles, sinks somewhat, and speaks with a parched voice.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: quote
+  locator: lines 2918-2923
+  quote_or_summary: "“O sovereign of the Gods... why do thy lightnings linger? Let
+    me... perish by thy flames”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:8
+  type: summary
+  locator: lines 2923-2933
+  quote_or_summary: Earth says vapor oppresses her speech, points to scorched hair
+    and ashes on her face, and recalls supplying leaves, corn, and frankincense.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:9
+  type: summary
+  locator: lines 2933-2939
+  quote_or_summary: Earth asks why the waves, the god’s brother, and his allotted
+    seas deserve to decrease and recede from the sky.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:10
+  type: summary
+  locator: lines 2939-2945
+  quote_or_summary: 'Earth urges regard for the skies: both poles smoke, the heavenly
+    palace may fall, and Atlas can hardly bear the glowing heavens.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:11
+  type: quote
+  locator: lines 2945-2949
+  quote_or_summary: "“If the sea, if the earth perishes, if the palace of heaven,
+    we are thrown into the confused state of ancient chaos. Save it from the flames...”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:12
+  type: summary
+  locator: lines 2951-2953
+  quote_or_summary: Earth cannot endure the vapor any longer and withdraws her face
+    into herself and the caverns near the shades below.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are limited
+    to patterns directly expressed in the excerpt; no comparison claims were added
+    because the passage itself does not establish an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Footnote material following the passage was not used except where it was part of the supplied line range; extraction focuses on the narrative passage itself.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l2895-l2997
+  passage_sha256=7656ac8795744c4942bb1c0c39079ef73a202dbef5c2f610396621a3baeea511
+

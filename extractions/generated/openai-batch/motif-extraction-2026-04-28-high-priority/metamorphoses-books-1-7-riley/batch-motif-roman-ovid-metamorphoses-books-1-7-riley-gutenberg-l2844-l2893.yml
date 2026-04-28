@@ -1,0 +1,356 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l2844-l2893
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / BOOK THE SECOND.; lines 2844-2893
+  start: '2844'
+  end: '2893'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: As Phaëton’s uncontrolled solar chariot passes too near the earth, clouds
+    smoke, elevated regions and mountains catch fire, cities and nations burn, and
+    many rivers, springs, lakes, and lands are dried, scorched, or set aflame. Phaëton
+    is surrounded by heat, smoke, ashes, and darkness and is carried along by the
+    winged horses. The passage also gives etiological notes for the dark hue of the
+    Æthiopians, the dryness of Libya, and the hidden head of the Nile.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Moon notices that her brother’s horses run lower than her own.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Clouds are scorched and emit smoke.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Elevated regions, trees, grass, corn, cities, nations, woods, and mountains
+    are burned or dried by flames.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: Many named mountains, including Athos, Taurus, Ætna, Parnassus, Olympus, the
+    Alps, and the Apennines, burn.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Phaëton sees the world on fire on every side and cannot endure the heat.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Phaëton’s chariot catches fire, and he is surrounded by ashes, embers, smoke,
+    and darkness.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The winged steeds carry Phaëton along while he does not know where he is going.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage says the Æthiopians acquired their black hue at this time.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Libya is made dry when its moisture is carried off by heat.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Nymphs lament springs and lakes with dishevelled hair.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: Many rivers smoke, burn, boil, melt their gold, dry up, or lose their streams.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:12
+  text: The Nile flees to remote parts of the earth, hides his head, and leaves seven
+    mouths empty of stream.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Moon
+  description: A celestial figure who wonders that her brother’s horses run lower
+    than her own.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Phaëton
+  description: The chariot rider who sees the world burning, cannot endure the heat,
+    and is carried away by the winged steeds.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Winged steeds
+  description: The horses that carry Phaëton onward while he is lost in smoke and
+    darkness.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Nymphs
+  description: Female figures who lament the springs and lakes with dishevelled hair.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Nile
+  description: A personified river that flees, hides his head, and leaves seven mouths
+    empty.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: celestial observer
+  assigned_to:
+  - fig:1
+  basis: The Moon is described as wondering at the lower path of her brother’s horses.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: overwhelmed chariot rider
+  assigned_to:
+  - fig:2
+  basis: Phaëton sees the world burning, suffers heat and smoke, and loses his way.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: runaway conveyers
+  assigned_to:
+  - fig:3
+  basis: The winged steeds carry Phaëton along at their pleasure.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: lamenters of waters
+  assigned_to:
+  - fig:4
+  basis: The Nymphs lament the damaged springs and lakes.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: fleeing river
+  assigned_to:
+  - fig:5
+  basis: The Nile flees, hides his head, and leaves its mouths empty.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Flames, scorching heat, embers, and burning regions
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: mountains on fire
+  literal_form: Named mountains burning, including Athos, Taurus, Ætna, Parnassus,
+    Olympus, the Alps, and the Apennines
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: drying and burning waters
+  literal_form: Springs, lakes, and rivers that smoke, burn, boil, flee, or dry up
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: solar chariot in danger
+  literal_form: Phaëton’s chariot, itself catching fire amid heat, ashes, embers,
+    smoke, and darkness
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Earth and mountains burn
+  summary: The passage describes scorched clouds, dried regions, burned vegetation,
+    destroyed cities and nations, and many named mountains catching fire.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Phaëton lost in smoke and heat
+  summary: Phaëton sees the world burning, feels furnace-like heat, discovers his
+    chariot is on fire, and is carried onward by the winged steeds while surrounded
+    by smoke and darkness.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Lands and waters are altered by heat
+  summary: The passage attributes the dark hue of the Æthiopians and the dryness of
+    Libya to the heat, while Nymphs lament waters and many rivers smoke, boil, burn,
+    or dry up.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: world-consuming fire
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: The passage repeatedly describes the world, cities, nations, forests, mountains,
+    lands, and waters being burned, scorched, boiled, or dried by excessive celestial
+    heat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is an episode within Phaëton’s myth and does not by itself
+    describe the final destruction of the entire cosmos.
+- id: motif:2
+  label: waters dried by cosmic heat
+  taxonomy_refs: []
+  basis: Springs, lakes, rivers, and the Nile are described as lamented, smoking,
+    burning, boiling, fleeing, or becoming empty channels.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No specific available taxonomy reference exactly matches this water-drying
+    pattern.
+- id: motif:3
+  label: runaway celestial vehicle causing disaster
+  taxonomy_refs: []
+  basis: Phaëton’s chariot catches fire and he is carried by winged steeds while unable
+    to control his direction amid worldwide burning.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The wider narrative context may clarify the vehicle and its cause, but
+    this extraction uses only the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2844-2852
+  quote_or_summary: The Moon observes her brother’s horses running lower; scorched
+    clouds smoke; elevated regions split into chasms, lose moisture, and vegetation
+    burns; cities and nations perish in flames.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2852-2869
+  quote_or_summary: Woods and mountains burn; a long catalogue of named mountains
+    and regions, including Athos, Taurus, Ætna, Parnassus, Olympus, the Alps, and
+    the Apennines, is described as on fire.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2870-2879
+  quote_or_summary: Phaëton sees the world burning on all sides, breathes scorching
+    air, perceives his chariot on fire, is covered by ashes, embers, smoke, and darkness,
+    and is carried by winged steeds.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2879-2886
+  quote_or_summary: The passage attributes the black hue of the Æthiopians to this
+    event, says Libya is dried by heat, and describes Nymphs lamenting springs and
+    lakes.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2886-2891
+  quote_or_summary: Named rivers and waters, including Tanais, Peneus, Euphrates,
+    Orontes, Ganges, and others, smoke, burn, or are in flames; Alpheus boils and
+    Tagus’s gold melts.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 2891-2893
+  quote_or_summary: The Nile flees and hides his head, leaving seven mouths empty;
+    other rivers, including Hebrus, Strymon, Rhine, Rhone, Po, and Tiber, are dried
+    by the same fate.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage directly supports extraction of fire, mountain, and water imagery
+    and the world-burning motif. No passage-internal comparison to another corpus
+    is present, so comparison claims are omitted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction limited to the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l2844-l2893
+  passage_sha256=6ffc05c35b870e4602291412767d4d9ddf7e2e0df80fdff58caf843e8fd439b7
+

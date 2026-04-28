@@ -1,0 +1,384 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l694-l783
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: INTRODUCTION. / THE METAMORPHOSES. / BOOK THE FIRST. / EXPLANATION.; lines
+    694-783
+  start: '694'
+  end: '783'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes the formation of Man after other beings and cosmic
+    arrangements. It presents two alternatives: Man was either framed by the Artificer
+    from divine elements, or Earth retained heavenly atoms that, mixed with stream
+    water, were fashioned by the son of Iapetus into the image of the ruling Gods.
+    Man is distinguished from other animals by an upright face directed toward the
+    heavens and stars. The accompanying notes explain details of the cosmogonic passage,
+    including a possible higher creator deity, underground rivers, divine command,
+    and the division of heavenly and earthly zones.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An animated being more holy than earlier creatures and fitted to receive higher
+    faculties is said to be still wanting.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Man is formed after this lack is identified.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One stated possibility is that the Artificer of all things framed Man from
+    divine elements.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A second stated possibility is that the newly made Earth retained atoms of
+    kindred heaven, which were tempered with stream water.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The son of Iapetus is said to have fashioned this material after the image
+    of the Gods who rule over all things.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Other animals bend their looks downward toward the Earth, while Man is given
+    an upright countenance to look toward the heavens and stars.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The translator's note suggests that the unnamed creator god may imply a mightier
+    divinity than the commonly accounted deities.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A translator's note compares the sublime force of divine command in Ovid with
+    the wording of Genesis about light.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The notes describe rivers that disappear underground and later reappear, and
+    explain astronomical zones of the heavens and Earth.
+  category: setting
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Man
+  description: The newly formed animated being, more holy than earlier creatures,
+    able to receive higher faculties, rule over the rest, and look upward to the heavens.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Artificer of all things
+  description: A possible creator of Man from divine elements, described as the original
+    of the world in its improved state.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Earth
+  description: Newly made and lately divided from the lofty ether, possibly retaining
+    heavenly atoms.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: son of Iapetus
+  description: The figure who, in the second creation alternative, fashions the mixed
+    earthly, heavenly, and watery material into the image of the Gods.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Gods who rule over all things
+  description: Divine rulers whose image serves as the model for Man in the second
+    creation alternative.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: other animals
+  description: Animals contrasted with Man because they bend their looks downward
+    upon the Earth.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: newly formed upright human
+  assigned_to:
+  - fig:1
+  basis: Man is formed and given an erect face to behold the heavens and stars.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: possible divine creator
+  assigned_to:
+  - fig:2
+  basis: The passage states that Man may have been framed by the Artificer of all
+    things from divine elements.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: material source
+  assigned_to:
+  - fig:3
+  basis: Earth is described as retaining atoms of kindred heaven that are mixed with
+    stream water.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: fashioner of human form
+  assigned_to:
+  - fig:4
+  basis: The son of Iapetus fashions the mixed material after the image of the Gods.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: divine model
+  assigned_to:
+  - fig:5
+  basis: The Gods' image is the pattern after which Man is fashioned.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: downward-looking contrast group
+  assigned_to:
+  - fig:6
+  basis: Other animals are contrasted with Man by their downward gaze toward the Earth.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: water used in human formation
+  literal_form: waters of the stream
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: heavenly atoms retained in earth
+  literal_form: atoms of kindred heaven in newly made Earth
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: upright gaze to heaven and stars
+  literal_form: countenance raised to behold the heavens and stars
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: divine image
+  literal_form: image of the Gods
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Formation of Man
+  summary: After the world has other living beings, Man is formed either by the Artificer
+    from divine elements or from newly made Earth mixed with heavenly atoms and stream
+    water, fashioned by the son of Iapetus after the image of the Gods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Human posture distinguished from animals
+  summary: Man receives an upright face directed toward the heavens and stars, while
+    other animals look downward toward the Earth.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Translator's cosmogonic notes
+  summary: The notes explain possible implications of the unnamed creator deity, compare
+    divine command in Ovid with Genesis, and provide geographic and astronomical explanations.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Human formed from earth, water, and heavenly material
+  taxonomy_refs: []
+  basis: The passage presents a creation alternative in which newly made Earth retains
+    heavenly atoms that are mixed with stream water and fashioned into Man.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents this as one of two alternatives, not as the sole
+    account.
+- id: motif:2
+  label: Human made in divine image
+  taxonomy_refs: []
+  basis: The son of Iapetus fashions Man after the image of the Gods who rule over
+    all things.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The text states an image relation but does not elaborate its theological
+    meaning.
+- id: motif:3
+  label: Upright human oriented toward heaven
+  taxonomy_refs:
+  - ascent
+  basis: Man is distinguished from animals by receiving a face able to look upward
+    to the heavens and stars.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy link to ascent is only thematic; the passage describes posture
+    and gaze rather than a journey upward.
+- id: motif:4
+  label: Higher or unnamed creator beyond common deities
+  taxonomy_refs: []
+  basis: The translator's note says the poet may intimate that the creator of the
+    world was a mightier divinity than the commonly accounted deities.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is an explanatory note's interpretation of Ovid's wording, not a
+    direct narrative action in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The translator's note explicitly compares the force of Ovid's divine command
+    with the biblical wording in Genesis, 'Let there be light, and there was light.'
+  claim_level: same_function
+  target: Genesis creation command, Genesis 1:3
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supplied by the translator's note and concerns rhetorical
+    force of command rather than a full shared narrative sequence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 694-699
+  quote_or_summary: A holier animated being capable of higher faculties and rule is
+    lacking; Man is formed, possibly framed by the Artificer of all things from divine
+    elements.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 699-703
+  quote_or_summary: The newly made Earth, lately divided from ether, may have retained
+    heavenly atoms; mixed with stream water, these are fashioned by the son of Iapetus
+    after the image of the ruling Gods.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 703-706
+  quote_or_summary: Other animals look downward to Earth; Man is given an erect countenance
+    to look upward to the heavens and stars, and rude earth assumes the previously
+    unknown form of Man.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 708-712
+  quote_or_summary: Footnote 11 says the poet may intend the world-creating god to
+    be a mightier divinity than those commonly counted as deities.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 726-734
+  quote_or_summary: Footnote 13 says the verb of command is sublime and compares it
+    with Moses' words in Genesis 1:3, 'Let there be light, and there was light.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short quotation from public domain biblical wording
+    as included in source note.
+- id: ev:6
+  type: summary
+  locator: lines 714-724
+  quote_or_summary: Footnote 12 explains that Ovid refers to rivers that disappear
+    underground and later emerge, listing examples such as Arethusa, Lycus, Erasinus,
+    Alpheus, Arcas, and the Rhone.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 736-783
+  quote_or_summary: Footnotes 14-16 explain right and left as northern and southern
+    parts of the globe and describe astronomical zones, the ecliptic, torrid zone,
+    and frigid zones.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main creation-of-Man scene is explicit. Motif taxonomy links are limited
+    because the available motif families do not contain a precise human-creation-from-earth
+    category. The comparison claim is based only on the translator's note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. The 'son of Iapetus' is not expanded to a proper name because the passage itself does not supply it.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l694-l783
+  passage_sha256=5729ef259426bc72d496821b0593a3e482fd2235c8a7fa1ed5af7dbf8d1d80b7
+

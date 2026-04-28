@@ -1,0 +1,498 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l785-l869
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: INTRODUCTION. / THE METAMORPHOSES. / BOOK THE FIRST. / EXPLANATION.; lines
+    785-869
+  start: '785'
+  end: '869'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage consists of explanatory footnotes on Ovid’s creation account:
+    the temperate zones and seasons, the winds and their assigned quarters, divine
+    and animal habitations, and the creation of man with dominion. The notes also
+    compare Ovid’s account of human dominion and the formation of man to Genesis.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The temperate zones are described as lying between torrid and frigid zones,
+    with seasonal changes produced by the sun’s movement between tropics.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The winds are identified as brothers and, according to Hesiod, sons of Astreus
+    and Aurora.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: God is described as subjecting the winds to laws and assigning each a quarter
+    in order to prevent havoc in creation.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Eurus is identified as the east wind, associated with the eastern quarter
+    and Aurora.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Zephyrus or the Zephyrs are associated with the western region where the sun
+    sets.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Boreas is associated with the northern regions, Scythia, and violent whirlwinds.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The South Wind is described as rainy because it brings clouds and rain from
+    the Mediterranean sea toward France and Italy.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The heavens are explained as the habitation of the Gods and the stars.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The waters are described as inhabited by fishes.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Man is described as able to rule over the rest of living creation.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The formation of man from divine elements is described as the Creator’s last
+    work and as serving the purpose of dominion over other animated works.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: God / Creator
+  description: A divine creator figure who subjects the winds to laws, assigns their
+    quarters, and is linked by the note to the formation of man.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:10
+- id: fig:2
+  name_or_label: The winds
+  description: A group described as brothers and as sons of Astreus and Aurora; their
+    blasts are assigned to particular quarters.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Astreus
+  description: Named as the father of the winds in the note’s reference to Hesiod.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Aurora
+  description: Named as mother of the winds and associated with the east or morning.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Eurus
+  description: The east wind.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Zephyrus / Zephyrs
+  description: The west wind or west winds, associated with the region where the sun
+    sets.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Boreas
+  description: A north wind associated with Scythia, the northern region, and whirlwinds.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: South Wind
+  description: A rainy wind associated with clouds and rain from the Mediterranean.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Gods and stars
+  description: Beings or heavenly bodies described as inhabiting the heavens.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: Fishes
+  description: Animals described as inhabiting the waters.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:11
+  name_or_label: Man
+  description: The human being formed from divine elements and described as ruling
+    over the rest of creation.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: cosmic lawgiver and creator
+  assigned_to:
+  - fig:1
+  basis: The note says God made laws for the winds and the Creator formed man as a
+    last work.
+  evidence_refs:
+  - ev:3
+  - ev:10
+- id: role:2
+  label: sibling group
+  assigned_to:
+  - fig:2
+  basis: The winds are explicitly called brothers.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: directional wind power
+  assigned_to:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: The winds are assigned quarters and individual winds are linked with east,
+    west, north, or south.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: parents of the winds
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The note states that the winds were sons of Astreus and Aurora.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: eastern morning figure
+  assigned_to:
+  - fig:4
+  basis: Aurora or morning is connected with the eastern quarter.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: assigned inhabitants
+  assigned_to:
+  - fig:9
+  - fig:10
+  basis: The heavens are assigned to Gods and stars, and the waters to fishes.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: ruler over living creation
+  assigned_to:
+  - fig:11
+  basis: The note says man could rule over the rest and have dominion over animated
+    creation.
+  evidence_refs:
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: temperate zones
+  literal_form: middle regions between torrid and frigid zones
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sun’s seasonal path
+  literal_form: sun moving between tropics, producing summer, winter, spring, and
+    autumn
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: four directional winds
+  literal_form: east, west, north, and south winds assigned to quarters
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: heavens
+  literal_form: habitation of the Gods and stars
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: waters inhabited by fishes
+  literal_form: waters or sea as the dwelling of fishes
+  associated_figures:
+  - fig:10
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: divine elements
+  literal_form: substance from which man is framed
+  associated_figures:
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Cosmic zones and seasons explained
+  summary: The temperate zones are explained as middle regions whose seasons arise
+    from the changing angle and distance of the sun.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Winds assigned to quarters
+  summary: The winds are treated as related beings whose destructive force is restrained
+    when God assigns them laws and directions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Habitations of beings in creation
+  summary: The heavens are associated with Gods and stars, the waters with fishes,
+    and man is described as formed last to rule over other living creatures.
+  figure_refs:
+  - fig:1
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: cosmic ordering by division and assignment
+  taxonomy_refs: []
+  basis: The passage describes zones, wind quarters, heavenly and watery habitations,
+    and human dominion as ordered placements within creation.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: This motif label is inferred from explanatory notes rather than from a
+    continuous narrative episode.
+- id: motif:2
+  label: divine restraint of destructive winds
+  taxonomy_refs: []
+  basis: God assigns laws and quarters to the winds to prevent havoc in creation.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is a commentary footnote summarizing Ovid’s point, not the
+    poetic passage itself.
+- id: motif:3
+  label: human creation followed by dominion over animals
+  taxonomy_refs: []
+  basis: The notes state that man was formed from divine elements as the Creator’s
+    last work so that he might have dominion over other animated works.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The comparison to Genesis is explicit in the notes, but the motif extraction
+    should distinguish Ovid’s passage from the commentator’s comparative claim.
+- id: motif:4
+  label: winds as divine or mythic offspring
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The winds are identified as brothers and as sons of Astreus and Aurora.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage names parentage but does not narrate a birth episode.
+comparison_claims:
+- id: claim:1
+  claim: The commentator states that Ovid’s phrase about man ruling over the rest
+    strongly recalls Genesis 1:28 on dominion over fish, birds, and living things.
+  claim_level: same_function
+  target: Genesis 1:28 dominion over living creatures
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is a commentator’s comparison in a footnote, not a direct
+    statement by Ovid.
+- id: claim:2
+  claim: The commentator argues that Ovid’s creation of man as the Creator’s last
+    work, for dominion over other animated beings, parallels the Book of Genesis and
+    may reflect a tradition copied from the Books of Moses.
+  claim_level: historical_contact
+  target: Book of Genesis / Books of Moses creation account
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage gives an assertion of possible dependence but provides
+    no independent historical evidence within this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 785-797
+  quote_or_summary: The temperate zones lie between torrid and frigid zones; the sun’s
+    relation to the tropics produces summer, winter, spring, and autumn.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain.
+- id: ev:2
+  type: summary
+  locator: lines 799-802
+  quote_or_summary: The winds are called brothers and identified, from Hesiod, as
+    sons of Astreus and Aurora.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain.
+- id: ev:3
+  type: summary
+  locator: lines 804-817
+  quote_or_summary: God prevents the winds from making havoc by subjecting them to
+    laws and assigning quarters; Eurus is the east wind, and Aurora is associated
+    with the east.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain.
+- id: ev:4
+  type: summary
+  locator: lines 829-832
+  quote_or_summary: The western region, where the sun sets, is assigned to Zephyrus
+    or the west winds.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain.
+- id: ev:5
+  type: summary
+  locator: lines 834-844
+  quote_or_summary: Boreas is identified with the north wind and northern regions,
+    and its name is associated with eddies or whirlwinds.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain.
+- id: ev:6
+  type: summary
+  locator: lines 846-849
+  quote_or_summary: The South Wind is called rainy because it brings clouds and rain
+    from the Mediterranean sea.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain.
+- id: ev:7
+  type: summary
+  locator: lines 851-858
+  quote_or_summary: The heavens are explained as the habitation of the Gods and stars.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain.
+- id: ev:8
+  type: quote
+  locator: lines 860-862
+  quote_or_summary: "“Inhabited by the smooth fishes.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain.
+- id: ev:9
+  type: summary
+  locator: lines 864-867
+  quote_or_summary: The note says the statement that man could rule over the rest
+    brings to mind Genesis 1:28 and its language of dominion over sea, air, and earth
+    creatures.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain.
+- id: ev:10
+  type: summary
+  locator: lines 868-869
+  quote_or_summary: The note says Ovid and Genesis both present the formation of man
+    as the Creator’s last work, for dominion over other animated creation.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly explanatory footnotes rather than the poetic narrative
+    itself. Motifs were extracted only where the notes explicitly describe recurring
+    mythic or cosmological patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources were used beyond the provided passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l785-l869
+  passage_sha256=b91ca1e6a51f6c5da13e9c5b833acb04cff03203a72433958b2a5f3bbc21cc59
+

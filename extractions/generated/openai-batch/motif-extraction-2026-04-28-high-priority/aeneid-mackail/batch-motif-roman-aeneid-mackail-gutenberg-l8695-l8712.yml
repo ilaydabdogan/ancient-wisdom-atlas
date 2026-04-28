@@ -1,0 +1,191 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l8695-l8712
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: THE END. / NOTES / BOOK FIRST / BOOK SECOND; lines 8695-8712
+  start: '8695'
+  end: '8712'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A notes section for Book Second gives brief philological and textual comments
+    on selected lines, including glosses on cavalry, manuscript omission, the meaning
+    of moenia, the color term caerulum, and the divine nimbus as bright light around
+    gods' heads.
+  language: English with Latin lemmata
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as notes for Book Second.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note on line 30 says the phrase should be referred to horsemen and cites
+    Servius and Aeneid vii.716.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note on line 76 says the line is omitted with the best manuscripts.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A note on line 234 glosses moenia as including the city's other roofs or buildings,
+    and says city is often the nearest English equivalent in Virgil.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A note on line 381 glosses caerulum as green with black and compares its use
+    to the color of the sea after a storm.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A note on line 616 explains nimbus effulgens as a bright light encircling
+    the heads of gods, and says it is also customary in painting.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Servius
+  description: A cited commentator or source for several notes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Virgil
+  description: The poet whose usage is discussed in the note on moenia.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: gods
+  description: Divine beings whose heads are described as encircled by a bright nimbus.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: cited commentator
+  assigned_to:
+  - fig:1
+  basis: The notes cite Servius as an authority for glosses.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: poet whose diction is discussed
+  assigned_to:
+  - fig:2
+  basis: The note states that a word generally has a certain sense in Virgil.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: divine beings marked by nimbus
+  assigned_to:
+  - fig:3
+  basis: The note defines the nimbus as bright light encircling the heads of gods.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: divine nimbus
+  literal_form: bright light encircling the heads of gods
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: sea after a storm
+  literal_form: the color of the sea after a storm, used as a comparison for caerulum
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: divine radiance around the head
+  taxonomy_refs: []
+  basis: The note defines nimbus effulgens as a bright light encircling divine heads
+    and adds that this is also how it is customarily painted.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is an editorial or commentary note rather than a narrative episode;
+    no supplied taxonomy family exactly matches the motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '8695'
+  quote_or_summary: BOOK SECOND
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 8697-8698
+  quote_or_summary: The note on l. 30 says Classibus hic locus should be referred
+    to horsemen, citing Servius and vii.716.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; summarized for evidence.
+- id: ev:3
+  type: quote
+  locator: '8700'
+  quote_or_summary: l. 76--Omitted with the best MSS.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: 8702-8705
+  quote_or_summary: The note on l. 234 glosses moenia as city-related buildings or
+    city, citing Servius and Virgilian usage.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; summarized for evidence.
+- id: ev:5
+  type: summary
+  locator: 8707-8709
+  quote_or_summary: The note on l. 381 glosses caerulum as green with black and compares
+    it to the sea after a storm.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; summarized for evidence.
+- id: ev:6
+  type: summary
+  locator: 8711-8712
+  quote_or_summary: The note on l. 616 defines nimbus effulgens as bright light encircling
+    gods' heads and customary in painting.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a notes section, so extraction is limited to commentary statements
+    and iconographic description rather than narrative events.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison beyond its own commentary and citations.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l8695-l8712
+  passage_sha256=f4c425b334f811bc22b2d14f43c0738c61551dfe73b7051aa89c7803f825150d
+

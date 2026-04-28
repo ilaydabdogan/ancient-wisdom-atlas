@@ -1,0 +1,639 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l3174-l3264
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / BOOK THE SECOND. / EXPLANATION.; lines 3174-3264
+  start: '3174'
+  end: '3264'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives explanatory interpretations of the Phaëton myth, then
+    narrates Jupiter striking Phaëton with lightning to prevent universal destruction,
+    Phaëton’s fall into the Eridanus, his burial by Naiads, and the mourning of his
+    father, mother, and sisters. A heading states that Phaëton’s sisters are transformed
+    into poplars and their tears become amber.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The explanatory note presents Phaëton’s adventure as, if read morally, the
+    rashness of a young man who follows inclination rather than wisdom and prudence.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The explanatory note reports variant parentage and genealogy for Phaëton,
+    including Phœbus and Clymene, Rhoda, and a descent from Cecrops through Cephalus
+    and Tithonus.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The explanatory note says the story was probably based on excessive heat and
+    reports several proposed parallels or foundations, including flames from heaven,
+    biblical events, Elijah’s fiery chariot, Osiris, Thammuz, and the zodiacal Scorpion.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Jupiter acts to save the universe from being consumed and strikes Phaëton
+    with thunder and lightning.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: The lightning deprives Phaëton of life and his place in the chariot, while
+    also restraining the flames.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The horses break away, and parts of the chariot, including reins, axle-tree,
+    spokes, wheels, and fragments, are scattered.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Phaëton falls headlong through the air with his hair burning and is received
+    by the river Eridanus.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The Hesperian Naiads place Phaëton’s smoking body in a tomb and inscribe an
+    epitaph identifying him as the driver of his father’s chariot.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: Phaëton’s father hides his face in bitter sorrow, and the passage says that
+    one day passed without the sun, while flames provided light.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:10
+  text: Clymene searches the earth for Phaëton’s remains, finds his buried bones on
+    a foreign bank, and weeps over the name on the tomb.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:11
+  text: The daughters of the Sun mourn Phaëton, beat their breasts, call him day and
+    night, and lie scattered about the tomb.
+  category: action
+  evidence_refs:
+  - ev:12
+- id: obs:12
+  text: The heading states that Phaëton’s sisters are changed into poplars and that
+    their tears become amber.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Phaëton
+  description: The charioteer of his father’s chariot; struck by Jupiter, killed,
+    hurled into the Eridanus, buried, and mourned.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:9
+  - ev:12
+- id: fig:2
+  name_or_label: Jupiter
+  description: The omnipotent father who intervenes from a high eminence and hurls
+    thunder and lightning at Phaëton.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Phœbus / the Sun / Phaëton’s father
+  description: Named in the explanation as Phaëton’s father in some accounts; in the
+    narrative, he grieves and hides his face after Phaëton’s death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:10
+- id: fig:4
+  name_or_label: Clymene
+  description: Named as Phaëton’s mother in some accounts; searches for his remains
+    and mourns at his tomb.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:11
+- id: fig:5
+  name_or_label: Daughters of the Sun / Heliades / sisters of Phaëton
+  description: Phaëton’s sisters who mourn him; the heading says they are changed
+    into poplars and their tears become amber.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:12
+- id: fig:6
+  name_or_label: Hesperian Naiads
+  description: Naiads who commit Phaëton’s smoking body to a tomb and inscribe his
+    epitaph.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: Horses of the chariot
+  description: Horses that are affrighted and break away from the yoke and torn harness
+    after Phaëton is struck.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Eridanus
+  description: The river that receives Phaëton after his fall and bathes his foaming
+    face.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: fallen charioteer
+  assigned_to:
+  - fig:1
+  basis: Phaëton drives his father’s chariot, is struck, and falls headlong into Eridanus.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:9
+- id: role:2
+  label: divine intervener and destroyer
+  assigned_to:
+  - fig:2
+  basis: Jupiter hurls lightning to save the universe from ruin and kills Phaëton.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: grieving divine father
+  assigned_to:
+  - fig:3
+  basis: Phaëton’s father is identified with Phœbus or the Sun and hides his face
+    in sorrow after the death.
+  evidence_refs:
+  - ev:2
+  - ev:10
+- id: role:4
+  label: mourner
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Clymene and the daughters of the Sun weep and mourn for Phaëton at or around
+    his tomb.
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: role:5
+  label: dead son
+  assigned_to:
+  - fig:1
+  basis: Phaëton is deprived of life, buried, and mourned by family members.
+  evidence_refs:
+  - ev:5
+  - ev:9
+  - ev:11
+  - ev:12
+- id: role:6
+  label: transformed mourners
+  assigned_to:
+  - fig:5
+  basis: The heading states that Phaëton’s sisters are changed into poplars and their
+    tears become amber.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: burial attendants
+  assigned_to:
+  - fig:6
+  basis: The Naiads commit Phaëton’s body to the tomb and inscribe the stone.
+  evidence_refs:
+  - ev:9
+- id: role:8
+  label: runaway chariot animals
+  assigned_to:
+  - fig:7
+  basis: The horses are affrighted, shake off the yoke, and disengage from the torn
+    harness.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: receiving river
+  assigned_to:
+  - fig:8
+  basis: Eridanus receives Phaëton after his fall and bathes his face.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: destructive fire
+  literal_form: flames, lightning, burning hair, and fiery disaster
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:10
+- id: sym:2
+  label: solar chariot
+  literal_form: father’s chariot with horses, yoke, reins, axle-tree, spokes, and
+    wheels
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:9
+- id: sym:3
+  label: river receiving the fallen body
+  literal_form: Eridanus river
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: tomb and inscribed stone
+  literal_form: tomb, marble, and epitaph for Phaëton
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:11
+  - ev:12
+- id: sym:5
+  label: poplar transformation
+  literal_form: sisters changed into poplars
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: amber tears
+  literal_form: tears becoming amber distilling from trees
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: Scorpion sign
+  literal_form: The Scorpion, a zodiacal sign seen by Phaëton according to the explanation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Explanatory interpretations of Phaëton
+  summary: The explanation describes moral, genealogical, naturalistic, biblical,
+    Egyptian, and astronomical interpretations or proposed foundations for the Phaëton
+    story.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Jupiter strikes the charioteer
+  summary: To prevent universal ruin, Jupiter ascends to his thunder-station and strikes
+    Phaëton with lightning, killing him and checking the flames.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Chariot wreck and fall into Eridanus
+  summary: The horses break free and the chariot is scattered; Phaëton falls through
+    the air like a falling star and lands in Eridanus.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Burial and epitaph
+  summary: The Hesperian Naiads bury Phaëton’s smoking body and inscribe a stone marking
+    him as the driver of his father’s chariot who failed in a great attempt.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:9
+- id: scene:5
+  label: Family mourning
+  summary: Phaëton’s father hides his face, Clymene searches for and weeps over the
+    tomb, and the daughters of the Sun mourn and call for Phaëton around the tomb.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+- id: scene:6
+  label: Announced metamorphosis of the sisters
+  summary: The heading states that Phaëton’s sisters become poplars and that their
+    tears become amber.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: world endangered by cosmic fire
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: The fable summary and narrative state that Jupiter acts because otherwise
+    all things or the universe will perish or be consumed, and the passage repeatedly
+    describes flames and fire.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:10
+  confidence: high
+  cautions: The passage is a translation and includes explanatory prose; the core
+    narrative still clearly presents a world-threatening fire.
+- id: motif:2
+  label: divine punishment or intervention by thunderbolt
+  taxonomy_refs:
+  - divine_judgment
+  basis: Jupiter, described as the omnipotent father, hurls thunder and lightning
+    at Phaëton to stop the disaster, killing him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The intervention is framed as rescue of the universe rather than solely
+    moral punishment.
+- id: motif:3
+  label: failed management of divine or solar vehicle
+  taxonomy_refs: []
+  basis: Phaëton is identified as driver of his father’s chariot; he is struck from
+    it, the horses bolt, the chariot breaks apart, and his epitaph says he did not
+    manage it but failed in a great attempt.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: No supplied taxonomy family directly names this vehicle-control motif.
+- id: motif:4
+  label: fall from the sky into water
+  taxonomy_refs: []
+  basis: Phaëton is hurled headlong through the air like a falling star and received
+    by the river Eridanus.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The available taxonomy has water as a symbol but no exact fall-into-river
+    motif family.
+- id: motif:5
+  label: mourning relatives transformed into trees with precious tears
+  taxonomy_refs:
+  - shapeshifter
+  basis: The heading says Phaëton’s sisters are changed into poplars and their tears
+    become amber; the narrative portion in the passage shows them mourning at the
+    tomb.
+  evidence_refs:
+  - ev:8
+  - ev:12
+  confidence: medium
+  cautions: Within the supplied range, the transformation is stated in the fable heading
+    rather than narrated in detail.
+- id: motif:6
+  label: divine parent and dead child
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Phaëton is connected with Phœbus or the Sun as father; after Phaëton’s death,
+    the father hides his face in bitter sorrow.
+  evidence_refs:
+  - ev:2
+  - ev:10
+  confidence: medium
+  cautions: The passage reports variant parentage and uses explanatory prose as well
+    as narrative.
+comparison_claims:
+- id: claim:1
+  claim: The explanation reports that the Phaëton story may have been founded on traditions
+    of extraordinary heat or heavenly fire, including flames from heaven, the burning
+    of the cities of the plain, or the sun standing still at Joshua’s command.
+  claim_level: historical_contact
+  target: Biblical or ancient Near Eastern fire and solar-event traditions as proposed
+    in the explanatory note
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is presented as speculative explanation in the passage, not as
+    demonstrated historical dependence.
+- id: claim:2
+  claim: The explanation reports St. Chrysostom’s suggestion that the story is based
+    on an imperfect version of Elijah’s ascent in a chariot of fire, partly supported
+    by a resemblance between Elias and Helios.
+  claim_level: linguistic_similarity
+  target: Elijah/Elias ascent in a chariot of fire and Helios solar chariot tradition
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The claim rests on a reported suggestion and a name resemblance; the
+    passage does not establish transmission or equivalence.
+- id: claim:3
+  claim: The explanation reports Vossius’s view that Phœbus’s grief for Phaëton resembles
+    or is another version of Egyptian mourning for Osiris.
+  claim_level: same_motif
+  target: Osiris death and mourning tradition as described by Vossius in the explanation
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is a secondary interpretive comparison within the explanation,
+    not evidence from the myth narrative alone.
+- id: claim:4
+  claim: The explanation reports Vossius’s view that the tears or lamentations of
+    the Heliades are identical with women’s lamentations for Thammuz.
+  claim_level: same_function
+  target: Lamentations for Thammuz compared with mourning of the Heliades
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage gives the comparison as an asserted identification by Vossius;
+    it supplies no independent corroborating evidence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3174-3181
+  quote_or_summary: The explanation says that, as moral allegory, Phaëton’s adventure
+    represents rash youth following inclination rather than wisdom and prudence.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 3181-3190
+  quote_or_summary: The explanation reports variants naming Phœbus and Clymene or
+    Rhoda as parents, and gives a genealogy through Cecrops, Cephalus, and Tithonus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 3190-3220
+  quote_or_summary: The explanation connects the story with excessive heat, flames
+    from heaven, biblical events involving burning cities and Joshua, Elijah’s fiery
+    chariot, Osiris, Thammuz, and the Scorpion sign.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary supplied.
+- id: ev:4
+  type: summary
+  locator: FABLE II. [II.305-324] heading and opening
+  quote_or_summary: The fable summary says Jupiter hurls thunder at Phaëton to save
+    the universe from being consumed; the narrative says all things will perish unless
+    he assists.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary supplied.
+- id: ev:5
+  type: summary
+  locator: FABLE II. [II.305-324], Jupiter’s thunderbolt
+  quote_or_summary: Jupiter mounts to the high place of thunder, has no clouds or
+    showers, and darts lightning against the charioteer, depriving him of life and
+    seat and restraining the flames.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary supplied.
+- id: ev:6
+  type: summary
+  locator: FABLE II. [II.305-324], chariot wreck
+  quote_or_summary: The horses are frightened, break from the yoke and harness, and
+    the reins, axle-tree, spokes, wheels, and chariot fragments are scattered.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary supplied.
+- id: ev:7
+  type: summary
+  locator: FABLE II. [II.305-324], Phaëton’s fall
+  quote_or_summary: Phaëton, with hair consumed by flames, falls headlong through
+    the air like a falling star and is received by the river Eridanus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary supplied.
+- id: ev:8
+  type: summary
+  locator: FABLE III. [II.325-366] heading
+  quote_or_summary: The heading states that Phaëton’s sisters are changed into poplars
+    and that their tears become amber distilling from those trees.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary supplied.
+- id: ev:9
+  type: summary
+  locator: FABLE III. [II.325-366], burial and epitaph
+  quote_or_summary: The Hesperian Naiads bury Phaëton’s smoking body and inscribe
+    a stone saying he drove his father’s chariot and miscarried in a great attempt.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary supplied.
+- id: ev:10
+  type: summary
+  locator: FABLE III. [II.325-366], father’s grief
+  quote_or_summary: Phaëton’s father hides his sorrowful face; the passage says one
+    day passed without the sun, while the flames gave light.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary supplied.
+- id: ev:11
+  type: summary
+  locator: FABLE III. [II.325-366], Clymene’s search
+  quote_or_summary: Clymene, grieving, travels the earth, finds Phaëton’s buried bones
+    on a foreign bank, lies on the spot, and bathes the name on the marble with tears.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary supplied.
+- id: ev:12
+  type: summary
+  locator: FABLE III. [II.325-366], sisters’ mourning
+  quote_or_summary: The daughters of the Sun mourn Phaëton, give tears, beat their
+    breasts, call him day and night, and lie scattered about the tomb.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The central narrative actions are explicit. Some motif candidates depend
+    on fable headings or explanatory commentary. Comparison claims are reported speculative
+    interpretations within the passage and should be reviewed carefully.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied public-domain passage and metadata. Literal narrative observations are separated from motif and comparison interpretations.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l3174-l3264
+  passage_sha256=a0c6be714d84867c2f40e51a94fd75af0f42fdfbde5c6d875d1434b0908b0d8a
+

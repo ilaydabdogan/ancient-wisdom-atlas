@@ -1,0 +1,450 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l4687-l4786
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / BOOK THE THIRD. / EXPLANATION. / EXPLANATION.; lines 4687-4786
+  start: '4687'
+  end: '4786'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Actaeon, in stag form, is pursued over difficult terrain by his own hunting
+    dogs. Unable to speak his identity, he is wounded, surrounded, and torn apart
+    while his human companions unknowingly call for him and urge the pack on. The
+    passage states that Diana's rage is not satisfied until Actaeon dies from many
+    wounds. Editorial footnotes add genealogical and comparative comments, including
+    a note on water sprinkling before transformation and a reported Lucianic variant
+    about Diana releasing the dogs after Actaeon saw her naked.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A pack pursues its prey over rocks, cliffs, crags, steep paths, and places
+    without a road.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Actaeon flees along routes where he had often pursued prey before.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Actaeon wishes to cry out that he is Actaeon and the dogs' master, but words
+    fail him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Named dogs wound Actaeon on the back and shoulder before the rest of the pack
+    arrives.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The dogs fasten their teeth into Actaeon's body, leaving no room for more
+    wounds.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Actaeon groans with a sound described as neither properly human nor properly
+    stag-like.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Actaeon bends his knees, looks suppliant, and turns silent looks as though
+    they were arms.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Actaeon's companions do not recognize him, urge on the dogs, and call out
+    Actaeon's name as if he were absent.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Actaeon turns his head when he hears his name.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The dogs tear their master apart while he is under the form of an imaginary
+    stag.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The passage says Diana's rage is not satiated until Actaeon's life ends by
+    many wounds.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: An editorial footnote describes ceremonial sprinkling before transformation
+    by offended goddesses and compares it with an episode from the Arabian Nights.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: An editorial footnote reports that Lucian has Juno say Diana let loose Actaeon's
+    dogs after he saw Diana naked.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Actaeon
+  description: The master of the dogs, in stag form, fleeing and then killed by his
+    own pack.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Actaeon's dog pack
+  description: The hunting pack described as Actaeon's own servants; named dogs include
+    Melanchaetes, Theridamas, and Oresitrophus.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Actaeon's companions
+  description: Human companions who do not recognize Actaeon and urge on the dogs
+    while calling his name.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Diana
+  description: The quiver-bearing goddess whose rage is said to be satisfied only
+    when Actaeon dies; a footnote reports a Lucianic statement that she released the
+    dogs after Actaeon saw her naked.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:8
+roles:
+- id: role:1
+  label: transformed hunted master
+  assigned_to:
+  - fig:1
+  basis: Actaeon flees his own servants, cannot identify himself in speech, and is
+    torn apart under stag form.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: attacking former servants
+  assigned_to:
+  - fig:2
+  basis: The dogs are called Actaeon's own servants and then wound, bite, and tear
+    apart their master.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:3
+  label: ignorant companions
+  assigned_to:
+  - fig:3
+  basis: The companions urge on the pack and call Actaeon's name as though he were
+    absent.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: divine punisher
+  assigned_to:
+  - fig:4
+  basis: The passage attributes the completed death to the unsatisfied rage of quiver-bearing
+    Diana.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: stag form
+  literal_form: Actaeon is described as being under the form of an imaginary stag.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: dog pack
+  literal_form: A pack of hunting dogs, including named dogs, bites and tears its
+    master.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: rocky mountain terrain
+  literal_form: Rocks, cliffs, crags, steep paths, a hill, and well-known mountains
+    frame the chase and attack.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: failed human speech
+  literal_form: Actaeon wishes to announce his identity, but words are wanting; he
+    can only groan.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: ceremonial water sprinkling
+  literal_form: An editorial footnote refers to ceremonial sprinkling before transformation.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Flight over difficult terrain
+  summary: Actaeon flees before the pack across rocky, steep, roadless ground that
+    he had previously used while hunting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Failed self-identification
+  summary: Actaeon wants to tell the dogs that he is their master, but he cannot form
+    the words and hears only barking.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The pack wounds and surrounds Actaeon
+  summary: Named dogs begin the attack, the rest of the pack arrives, and the dogs
+    bite Actaeon's body while he groans and kneels in supplication.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Companions call for the absent Actaeon
+  summary: Actaeon's companions, unaware of his stag form, call his name and urge
+    the dogs on, while Actaeon reacts to hearing his name.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Death under stag form and Diana's satiation
+  summary: The dogs tear their master apart in stag form, and the passage states that
+    Diana's rage is not satisfied until his life ends by many wounds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Editorial comparison of sprinkling and transformation
+  summary: A footnote comments on ceremonial sprinkling as a visible material agency
+    before transformation and compares classical offended goddesses with Arabian Nights
+    enchantresses.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Hunter becomes hunted by his own hounds
+  taxonomy_refs:
+  - shapeshifter
+  basis: Actaeon, who had often pursued along the same routes, flees from his own
+    servants and is torn apart by his own dogs while under stag form.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage excerpt presupposes the earlier transformation rather than
+    narrating it in full.
+- id: motif:2
+  label: Divine punishment completed through animal attack
+  taxonomy_refs:
+  - divine_judgment
+  basis: The narrative connects Actaeon's many-wound death with the rage of quiver-bearing
+    Diana being satisfied.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The immediate cause of Diana's anger is supplied only indirectly in the
+    included footnote, not in the main narrative excerpt.
+- id: motif:3
+  label: Loss of speech prevents recognition after transformation
+  taxonomy_refs:
+  - shapeshifter
+  basis: Actaeon wishes to identify himself as master, but cannot speak; his companions
+    call his name without recognizing him.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage describes the failed communication but does not explicitly
+    analyze it as a recognition motif.
+- id: motif:4
+  label: Water sprinkling as agency of transformation
+  taxonomy_refs:
+  - shapeshifter
+  basis: The editorial footnote states that ceremonial sprinkling before transformation
+    is present in the classical mythological material and compares it to another supernatural
+    transformation episode.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This motif is drawn from an editorial note rather than the narrative lines
+    of Actaeon's death.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note presents ceremonial sprinkling as serving a similar functional
+    role in classical transformation stories and in an Arabian Nights episode involving
+    Beder under Queen Labè.
+  claim_level: same_function
+  target: 'Arabian Nights’ Entertainments: Beder and Queen Labè transformation episode'
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made by the translator-editor in a footnote; it does
+    not establish historical contact or a shared source.
+- id: claim:2
+  claim: The footnote reports a nearby literary variant in Lucian in which Diana lets
+    loose Actaeon's dogs after he sees her naked.
+  claim_level: same_motif
+  target: Lucianic version of Actaeon and Diana
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides only a brief reported statement of Lucian's version,
+    not the full text or context.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4687-4692
+  quote_or_summary: The pack pursues over rocks, cliffs, crags, steep paths, and roadless
+    ground, while Actaeon flees along routes where he had often pursued prey.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 4692-4696
+  quote_or_summary: "“I am Actæon, recognize your own master.” Words are wanting to
+    his wishes; the air resounds with their barking."
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 4696-4702
+  quote_or_summary: Melanchaetes wounds Actaeon's back, Theridamas follows, Oresitrophus
+    fastens on his shoulder, and the rest of the pack arrives and bites his body.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4702-4706
+  quote_or_summary: Actaeon groans with a sound unlike a man and unlike a stag, fills
+    the mountains with moans, bends his knees, and looks suppliant.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4707-4714
+  quote_or_summary: The companions unknowingly urge on the pack, look for Actaeon,
+    call his name as if he were absent, and Actaeon turns his head at the name.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4714-4718
+  quote_or_summary: The dogs gather around, bury their jaws in Actaeon's body, tear
+    their master apart under stag form, and Diana's rage is said not to be satisfied
+    until his death by many wounds.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: footnote 25, lines 4775-4784
+  quote_or_summary: The note discusses ceremonial sprinkling before transformation
+    by offended goddesses and compares it with enchantresses in the Arabian Nights,
+    specifically Beder under Queen Labè.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: footnote 26, lines 4785-4786
+  quote_or_summary: The note reports that Lucian has Juno say Diana let loose Actaeon's
+    dogs because he had seen Diana naked.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main Actaeon death scene is explicit. Some transformation-related motifs
+    rely on the passage's reference to stag form and on editorial footnotes rather
+    than on a full narrated transformation within this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to provided motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l4687-l4786
+  passage_sha256=071bf92f2b50ee0e5c81bdc637fa5d9bf2bc80f9cec42ea92796fb0ec6a5cd34
+

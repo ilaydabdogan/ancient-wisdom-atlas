@@ -1,0 +1,509 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l947-l1039
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: BOOK THE FIRST. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 947-1039
+  start: '947'
+  end: '1039'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The translator''s explanation connects the Golden Age with traditions
+    about first parents, Edenic abundance, and later loss of spontaneous fertility.
+    The fable then narrates a decline from Silver to Brass to Iron Ages: Jupiter rules
+    after Saturn is sent to Tartarus, seasons replace perpetual spring, humans build
+    shelters and begin agriculture, warfare and crime increase, land is divided, metals
+    are mined, War appears, kinship and guest-host ties decay, and Astraea leaves
+    the blood-soaked earth.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The explanation says the first parents lived in peaceful innocence, had abundant
+    food without tillage, and commanded submissive animals before the fall; afterward
+    the ground required labor.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The explanation says poets styled the happier days of the first parents as
+    the Golden Age and that Latin writers placed such events in Italy under Saturn
+    and Janus.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After Saturn is driven into Tartarus, Jupiter rules the world and the Silver
+    Age succeeds the Golden Age.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Jupiter shortens the former spring and divides the year into winter, summer,
+    autumn, and spring.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Humans first enter houses, described as caverns, thick shrubs, and twigs fastened
+    with bark.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Seeds of Ceres are first buried in furrows, and oxen groan under the yoke
+    of the ploughshare.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Age of Brass is fiercer and more prone to warfare than earlier ages, but
+    is described as still free from impiety.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: In the Iron Age, crime breaks out; modesty, truth, and honor depart, and fraud,
+    deceit, treachery, violence, and greed appear.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Sailors spread sails, and trees formerly standing on high mountains are made
+    into ships that move through unknown waves.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Land that had been common like sunlight and breezes is marked out with boundaries
+    by a measurer.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: Humans descend into the entrails of the Earth and dig up hidden riches, including
+    iron and gold, which are called incentives to vice.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: War appears with blood-stained hands and clattering arms, fighting by means
+    of iron and gold.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: Guest-host, in-law, sibling, spouse, stepmother-child, and father-son relations
+    are described as unsafe or hostile in the Iron Age.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:14
+  text: Piety lies vanquished, and Astraea is the last heavenly deity to abandon the
+    Earth, which is drenched in slaughter.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: first parents
+  description: The explanation describes them as living for a time in peaceful innocence
+    with abundant food and submissive animals before the fall.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Saturn
+  description: A divine figure said to have been driven into the shady realms of Tartarus;
+    Latin writers are also said to place Golden Age events under his reign.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Janus
+  description: Named in the explanation as a ruler under whom Latin writers placed
+    events associated with the Golden Age.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Jupiter
+  description: The world comes under his sway after Saturn's removal, and he alters
+    the structure of the year.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: men / humankind
+  description: Human beings pass through changing ages, build shelters, cultivate
+    fields, sail, divide land, mine the Earth, commit crimes, and damage social bonds.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: War
+  description: Personified War comes forth, fights by means of iron and gold, and
+    brandishes clattering arms in blood-stained hands.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Astraea
+  description: A heavenly deity and virgin who is the last to abandon the slaughter-drenched
+    Earth; the footnote identifies her as the Goddess of Justice.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: Earth
+  description: The Earth is described as hiding riches in its entrails and as being
+    drenched in slaughter when Astraea departs.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: primordial innocent parents
+  assigned_to:
+  - fig:1
+  basis: The explanation states that the first parents lived in peaceful innocence
+    before the fall.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: displaced former ruler
+  assigned_to:
+  - fig:2
+  basis: Saturn is described as driven into Tartarus before Jupiter rules.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Golden Age-associated ruler
+  assigned_to:
+  - fig:3
+  basis: The explanation says Latin writers placed Golden Age-related events under
+    Janus as well as Saturn.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: divine ruler and seasonal organizer
+  assigned_to:
+  - fig:4
+  basis: Jupiter rules the world and divides the year into four periods.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: declining human community
+  assigned_to:
+  - fig:5
+  basis: Humans are described moving from shelter-making and agriculture into navigation,
+    property division, mining, violence, and social betrayal.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: personified conflict
+  assigned_to:
+  - fig:6
+  basis: War is personified as coming forth and brandishing arms.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: departing justice deity
+  assigned_to:
+  - fig:7
+  basis: Astraea is the last heavenly deity to leave Earth, and the footnote identifies
+    her as Justice.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: concealer of subterranean riches
+  assigned_to:
+  - fig:8
+  basis: The Earth is said to have hidden riches in its entrails and removed them
+    to Stygian shades.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: cavern shelter
+  literal_form: caverns used as the first houses
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: mountain trees made into ships
+  literal_form: trees from lofty mountains transformed into ships crossing unknown
+    waves
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  - mountain
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: divided land boundary
+  literal_form: lengthened boundary marking formerly common ground
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: hidden metals and riches
+  literal_form: iron and gold dug from the entrails of the Earth
+  associated_figures:
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Stygian depths
+  literal_form: Stygian shades understood in the footnote as deep caverns toward the
+    earth's center
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: blood-stained arms of War
+  literal_form: clattering arms brandished in blood-stained hands
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Astraea's departure
+  literal_form: the virgin Astraea abandoning the slaughter-drenched Earth
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: explanation of Golden Age and first parents
+  summary: The explanatory note presents the Golden Age as a poetic version of traditions
+    about first parents, Edenic abundance, the fall, and later labor, with Latin writers
+    placing such events in Italy under Saturn and Janus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Silver Age under Jupiter
+  summary: After Saturn is sent to Tartarus, Jupiter rules, the Silver Age begins,
+    the year is divided into seasons, humans first use shelters, and agriculture begins
+    with furrows and yoked oxen.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Brass and Iron Age degeneration
+  summary: The Brass Age is warlike but not impious; the Iron Age brings crime, the
+    flight of virtues, navigation, division of common land, and greed.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: metals, War, social betrayal, and Astraea's exit
+  summary: Humans mine hidden riches from the Earth; iron, gold, and War emerge; social
+    relations become hostile; piety is defeated; and Astraea leaves the bloodied Earth.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: primordial innocence followed by loss of effortless abundance
+  taxonomy_refs: []
+  basis: The explanation describes peaceful first parents with spontaneous food and
+    submissive animals, followed by unfruitful ground requiring labor after the fall.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is stated in the translator's explanation rather than in the verse
+    narrative itself.
+- id: motif:2
+  label: decline through successive metallic ages
+  taxonomy_refs: []
+  basis: The passage moves from Silver to Brass to Iron Ages, with each stage marked
+    by reduced virtue and increased violence or crime.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family exactly names the metallic-age decline pattern.
+- id: motif:3
+  label: divine institution of the seasonal cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Jupiter shortens the former spring and divides the year into winter, summer,
+    autumn, and spring.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage frames the change as part of age-decline rather than as a
+    full seasonal myth by itself.
+- id: motif:4
+  label: hidden subterranean wealth unleashes vice and war
+  taxonomy_refs: []
+  basis: Humans dig hidden riches from the Earth; iron and gold emerge as destructive
+    forces, and War follows using both.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The available taxonomy does not include a direct mining/metals-corruption
+    motif family.
+- id: motif:5
+  label: departure of justice from a corrupted world
+  taxonomy_refs:
+  - departure
+  basis: Astraea, identified as Justice in the note, is the last heavenly deity to
+    abandon the Earth after piety is defeated and the Earth is drenched in slaughter.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is broad; the specific figure is Astraea/Justice
+    departing.
+comparison_claims:
+- id: claim:1
+  claim: The explanatory note explicitly compares the poetic Golden Age tradition
+    with Biblical traditions of Edenic first parents, post-fall labor, and histories
+    of Adam and Noah.
+  claim_level: same_motif
+  target: Biblical Eden / histories of Adam and Noah
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made by the translator's explanatory apparatus, not
+    by Ovid's narrative lines themselves; it reflects the note's interpretive framing.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 947-960
+  quote_or_summary: The explanation says heathen poets likely learned from tradition
+    about first parents in peaceful innocence, Edenic abundance, animal submission,
+    the fall, and later labor; it says poets styled those happier days the Golden
+    Age and Latin writers placed related events in Italy under Saturn and Janus, while
+    Scripture relates them in the histories of Adam and Noah.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 962-973
+  quote_or_summary: The fable heading summarizes a decline from Silver Age to Brazen
+    Age to Iron Age, with decreasing justice and virtue and increasing wickedness.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 975-986
+  quote_or_summary: Saturn is driven to Tartarus; Jupiter rules; the Silver Age follows;
+    Jupiter divides the year into four seasons; heat and ice appear; humans first
+    use caverns, shrubs, and bark-fastened twigs as houses; seeds are planted and
+    oxen are yoked.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 988-997
+  quote_or_summary: The Brass Age is fiercer and warlike but not impious; the Iron
+    Age brings crime, the flight of modesty, truth, and honor, the rise of fraud and
+    violence, sails and ships made from mountain trees, and measured boundaries on
+    formerly common land.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 999-1010
+  quote_or_summary: Humans dig into the Earth for hidden riches; destructive iron
+    and more destructive gold appear; War comes forth with blood-stained hands; rapine
+    and betrayals enter social and kin relations; piety is vanquished and Astraea
+    abandons the slaughter-drenched Earth.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1018-1039
+  quote_or_summary: The footnotes explain Stygian shades as deep caverns toward the
+    earth's center, note gold as a sinew of war, explain the inquiry into a father's
+    years as inheritance-related divination, and identify Astraea as the Goddess of
+    Justice who becomes the constellation Virgo.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main narrative elements are explicit. Some motif labels are necessarily
+    broad because the supplied taxonomy lacks exact entries for metallic-age decline
+    and mining-corruption patterns. The comparison claim derives from the translator's
+    explanation, not directly from Ovid's verse.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata; all evidence is summarized from the public-domain passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l947-l1039
+  passage_sha256=52e9c68e235839b0f580358cd6cd6d694e1a05a476cf491934894c4de1b435b6
+

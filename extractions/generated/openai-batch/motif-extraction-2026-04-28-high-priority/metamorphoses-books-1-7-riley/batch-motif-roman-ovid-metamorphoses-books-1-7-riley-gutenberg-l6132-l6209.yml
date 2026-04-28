@@ -1,0 +1,411 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l6132-l6209
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / BOOK THE FOURTH.; lines 6132-6209
+  start: '6132'
+  end: '6209'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Explanatory notes identify Dercetis or Derceto as a goddess represented
+    partly as a woman and partly as a fish, associated with Semiramis and a transformation
+    into a fish after throwing herself into a lake. Other notes identify Palestine,
+    a Naiad who changed youths into fishes and was herself changed into a fish by
+    the Sun, Babylonian walls, the tomb of Ninus, Roman water-pipes, proverbial pallor,
+    sea surface imagery, an ivory sword sheath, and the explanation for the mulberry’s
+    dark color.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Lucian is cited as saying that a Phoenician statue of Dercetis or Derceto
+    was woman-shaped above the middle and fish-shaped below.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A statue of Derceto at Hieropolis is described as representing her wholly
+    as a woman.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The temple at Hieropolis was thought by some to have been built by Semiramis
+    and consecrated to her mother Derceto.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Derceto is said to have been the mother of Semiramis through an illicit amour.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Derceto is said to have thrown herself into a lake near Ascalon in despair
+    and to have been changed into a fish.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A Naiad is described as changing youths who fell into her hands into fishes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Naiad is described as being changed into a fish by the Sun as a consequence
+    of her cruelty.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Babylon is described through notes on its great walls and brick construction
+    with bitumen.
+  category: setting
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: The tomb of Ninus is described as large, citadel-like, and at a distance from
+    Babylon.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: A note explains that the dark purple hue of the mulberry is accounted for
+    by the event in the surrounding narrative.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Dercetis / Derceto / Atergatis
+  description: A goddess named Dercetis or Derceto, also called Atergatis, represented
+    in one statue as part woman and part fish and in another as wholly woman; said
+    to be mother of Semiramis and to have been changed into a fish.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Semiramis
+  description: A figure said to be the daughter of Derceto and, according to some,
+    builder of the Hieropolis temple consecrated to her mother.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Naiad
+  description: A nymph associated with the Island of the Sun who changed youths into
+    fishes and was herself changed into a fish.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: The Sun
+  description: The agent said to have changed the cruel Naiad into a fish.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Ninus
+  description: The first king of Babylon whose sepulchre is described in the note.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: goddess
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls Derceto a goddess.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: mother
+  assigned_to:
+  - fig:1
+  basis: Derceto is said to be the mother of Semiramis.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: transformed figure
+  assigned_to:
+  - fig:1
+  basis: Derceto is said to have been changed into a fish after throwing herself into
+    a lake.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: temple builder and daughter
+  assigned_to:
+  - fig:2
+  basis: Some held that Semiramis built the Hieropolis temple and consecrated it to
+    her mother Derceto.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: transforming nymph
+  assigned_to:
+  - fig:3
+  basis: The Naiad changed youths into fishes.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: punished transformed figure
+  assigned_to:
+  - fig:3
+  basis: The Naiad was herself changed into a fish by the Sun because of cruelty.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: agent of transformation
+  assigned_to:
+  - fig:4
+  basis: The Sun is said to have changed the Naiad into a fish.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: dead king associated with tomb
+  assigned_to:
+  - fig:5
+  basis: Ninus is identified as the first king of Babylon, and his sepulchre is described.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: fish-form transformation
+  literal_form: fish body or changed into a fish
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: lake near Ascalon
+  literal_form: lake
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Babylonian walls
+  literal_form: walls of brick dried in the sun and cemented with bitumen
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: tomb of Ninus
+  literal_form: sepulchre or tomb
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: dark mulberry
+  literal_form: deep purple hue of the mulberry
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Derceto’s fish transformation
+  summary: Derceto, said to be mother of Semiramis, throws herself into a lake near
+    Ascalon in despair and is changed into a fish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Naiad transforms youths and is transformed
+  summary: A Naiad habitually changes youths into fishes, and the Sun changes her
+    into a fish because of her cruelty.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Monumental Babylon and Ninus’s tomb
+  summary: The notes describe Babylon’s large walls, Semiramis’s brick construction,
+    and the large citadel-like sepulchre of Ninus outside Babylon.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: human or divine figure changed into fish
+  taxonomy_refs:
+  - shapeshifter
+  basis: Derceto is said to have been changed into a fish, and the Naiad is also said
+    to have been changed into a fish.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is explanatory note material rather than the main narrative
+    text.
+- id: motif:2
+  label: punitive transformation for cruelty
+  taxonomy_refs:
+  - divine_judgment
+  - shapeshifter
+  basis: The Naiad changes youths into fishes and is herself changed into a fish by
+    the Sun as a consequence of her cruelty.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The wording says 'as a reward for her cruelty,' but the context implies
+    consequence or punishment; this interpretation should be reviewed.
+- id: motif:3
+  label: divine mother and famous child
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Derceto is described as a goddess and as the mother of Semiramis.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives genealogical explanation but little narrative detail
+    about the parent-child relationship.
+- id: motif:4
+  label: color-origin explanation for mulberry
+  taxonomy_refs: []
+  basis: The note states that the surrounding event accounts for the deep purple hue
+    of the mulberry, formerly said to have been white.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The causal event itself is only referred to indirectly in this passage
+    range.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage contrasts two representations of Derceto: one Phoenician statue
+    with woman-and-fish form and one Hieropolis statue showing her wholly as a woman.'
+  claim_level: visual_similarity
+  target: Derceto iconography in Phoenicia and Hieropolis
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a comparison of representations reported in the note, not an
+    independent claim about historical development or contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6132-6140
+  quote_or_summary: 'Lucian is cited on Dercetis/Derceto: a Phoenician statue is woman
+    above and fish below, while the Hieropolis statue represents her wholly as a woman.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 6140-6144
+  quote_or_summary: Some thought the Hieropolis temple was built by Semiramis and
+    consecrated to her own mother, Derceto; Atergatis is named as another name of
+    the goddess.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 6144-6148
+  quote_or_summary: Derceto is said to have been mother of Semiramis by an illicit
+    amour and, in despair, to have thrown herself into a lake near Ascalon, where
+    she was changed into a fish.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 6153-6159
+  quote_or_summary: A Naiad of the Island of the Sun is described as changing youths
+    into fishes; as a consequence of her cruelty, she was herself changed into a fish
+    by the Sun.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 6164-6167
+  quote_or_summary: Ancient Babylon is described as magnificent, with walls said to
+    be very large in compass, thickness, and height.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 6169-6172
+  quote_or_summary: The walls are said to have been built by Semiramis of sun-dried
+    bricks cemented with bitumen.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 6174-6182
+  quote_or_summary: According to Diodorus Siculus, the sepulchre of Ninus, first king
+    of Babylon, was vast, citadel-like, and at a distance from Babylon.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 6207-6209
+  quote_or_summary: The note says the event mentioned accounts for the deep purple
+    hue of the mulberry, which was previously said to have been white.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage consists of explanatory footnotes rather than continuous mythic
+    narrative. Transformation-related motifs are explicit; other motif candidates
+    are more contextual and require review against the surrounding main text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to supplied motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l6132-l6209
+  passage_sha256=4dd2eb0e506c8b3dbd322beb7b741e1097eb7447416b3585b144fbc0a06bae6d
+

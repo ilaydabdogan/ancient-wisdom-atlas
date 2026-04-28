@@ -1,0 +1,379 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l5603-l5617
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK SEVENTH / THE LANDING IN LATIUM, AND THE ROLL OF THE ARMIES OF ITALY
+    / BOOK EIGHTH / THE EMBASSAGE TO EVANDER; lines 5603-5617
+  start: '5603'
+  end: '5617'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes scenes represented on the shield of Vulcan: civic
+    shrines, temples, altars, slain steers, a seated figure at Phoebus''s threshold
+    reviewing gifts, conquered peoples and rivers, and finally the shield-bearer admiring
+    and lifting the shield, described as his mother''s gift and as bearing the destined
+    glories of his descendants.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Three hundred stately shrines are described as standing around the city, and
+    the streets are loud with gladness, games, and shouting.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Temples contain bands of matrons and altars, and slain steers lie before the
+    altars.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A seated figure is positioned on the snowy threshold of Phoebus, reviews the
+    gifts of the nations, and arranges them on the doors.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Conquered tribes move in a long line, differing in language, dress, and armour.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Mulciber is said to have designed several peoples and places, including the
+    Nomad race, Africans, Leleges, Carians, Gelonians, Morini, Dahae, Euphrates, Rhine,
+    and Araxes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: River imagery includes Euphrates with smoother waves, the horned Rhine, and
+    Araxes chafing under a bridge.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The shield-bearer admires these things on the shield of Vulcan, described
+    as his mother's gift.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The shield-bearer lifts the shield on his shoulder; the shield's images are
+    described as the destined glories of his children.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed seated figure at Phoebus's threshold
+  description: A figure seated on the snowy threshold of Phoebus, reviewing gifts
+    of the nations and arranging them on the doors.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Mulciber
+  description: Named as the one who designed images of peoples and regions on the
+    shield.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Vulcan
+  description: Named in connection with the shield that the shield-bearer admires.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: unnamed shield-bearer
+  description: A figure who admires the images on the shield and lifts it on his shoulder.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: mother of the shield-bearer
+  description: Identified only as the mother whose gift the shield is.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: conquered tribes and nations
+  description: Groups moving in long line, diverse in language, dress, and armour,
+    including named peoples represented in the passage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:7
+  name_or_label: river figures or river images
+  description: Euphrates, Rhine, and Araxes are represented with distinctive movement
+    or attributes.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: temple-seated receiver of gifts
+  assigned_to:
+  - fig:1
+  basis: The figure sits at Phoebus's threshold, reviews gifts of nations, and arranges
+    them on doors.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: designer of shield imagery
+  assigned_to:
+  - fig:2
+  basis: Mulciber is said to have designed the peoples and places shown.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: named source or owner of the shield
+  assigned_to:
+  - fig:3
+  basis: The shield is called the shield of Vulcan.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: admirer and bearer of the shield
+  assigned_to:
+  - fig:4
+  basis: The figure admires the shield and lifts it on his shoulder.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: maternal gift-giver
+  assigned_to:
+  - fig:5
+  basis: The shield is described as the shield-bearer's mother's gift.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: conquered or displayed peoples
+  assigned_to:
+  - fig:6
+  basis: The tribes move in a long line and are called conquered.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: represented river powers or places
+  assigned_to:
+  - fig:7
+  basis: The rivers are described with action or attributes within the shield imagery.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: shield bearing future glory
+  literal_form: the shield of Vulcan with portraiture of unknown history and destined
+    glories of the shield-bearer's children
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: shrines, temples, and altars
+  literal_form: three hundred shrines, temples with matrons, and altars
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: slain steers before altars
+  literal_form: slain steers lying before the altars
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: gifts of the nations
+  literal_form: gifts reviewed and arranged on haughty doors
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: conquered procession
+  literal_form: conquered tribes moving in long line with differing tongues, dress,
+    and armour
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:6
+  label: rivers and waves
+  literal_form: Euphrates with smoother waves, the horned Rhine, and Araxes chafing
+    under a bridge
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: civic celebration with temples and sacrifice
+  summary: The shield imagery presents a city filled with shrines, loud public celebration,
+    temples with matrons, altars, and slain steers.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: temple threshold and tribute of nations
+  summary: A seated figure at Phoebus's threshold reviews gifts of nations and arranges
+    them, while conquered peoples appear in procession.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: named peoples and rivers in shield design
+  summary: Mulciber's design includes various peoples and river images, including
+    Euphrates, Rhine, and Araxes.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: shield-bearer receives and lifts the destined images
+  summary: The shield-bearer admires the shield of Vulcan, described as his mother's
+    gift, and lifts the shield bearing the destined glories of his children.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sacrifice within civic sacred celebration
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage describes temples, altars, matrons, and slain steers during public
+    gladness and games.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage reports a represented scene on a shield rather than a directly
+    narrated ritual action.
+- id: motif:2
+  label: parental gift of a powerful shield
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The shield is described as the shield-bearer's mother's gift and is associated
+    with Vulcan.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt identifies the giver only as the mother and does not name
+    her or explicitly describe the act of giving.
+- id: motif:3
+  label: future or dynastic glory carried on a shield
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The shield's portraiture is described as unknown history and as the destined
+    glories of the shield-bearer's children, which he lifts on his shoulder.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly state a political doctrine; the dynastic
+    reading rests on the wording about descendants and destined glory.
+- id: motif:4
+  label: tribute or gifts of nations at a sacred threshold
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The seated figure at Phoebus's threshold reviews the gifts of the nations
+    and arranges them on the doors.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not state whether the gifts are offerings, tribute, or
+    trophies.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5603-5606
+  quote_or_summary: Three hundred shrines stand around the city; streets are loud
+    with gladness, games, and shouting; temples contain matrons, altars, and slain
+    steers.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 5606-5610
+  quote_or_summary: A figure sits on the snowy threshold of Phoebus, reviews gifts
+    of the nations, arranges them on doors, and conquered tribes move in a long line.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 5610-5615
+  quote_or_summary: Mulciber's design includes named peoples and regions, with Euphrates,
+    the horned Rhine, and Araxes described among them.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: 5616-5617
+  quote_or_summary: '"These things he admires on the shield of Vulcan, his mother''s
+    gift"; he lifts the shield bearing "the destined glories of his children."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward from the passage. Motif candidates
+    involving lineage, gift, and sacred exchange require review because the excerpt
+    is a shield-description and leaves some figures unnamed. No comparison claims
+    were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. The familiar identification of unnamed figures outside the excerpt was not asserted.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l5603-l5617
+  passage_sha256=7c8da379af89f57afad7d4ec1e3e02d301391ed96bd6306267341fa37f304de2
+

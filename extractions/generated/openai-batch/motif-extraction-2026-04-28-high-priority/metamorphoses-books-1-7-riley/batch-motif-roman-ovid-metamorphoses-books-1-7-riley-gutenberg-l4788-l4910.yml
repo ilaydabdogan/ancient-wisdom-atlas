@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l4788-l4910
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / BOOK THE THIRD. / EXPLANATION. / EXPLANATION.; lines 4788-4910
+  start: '4788'
+  end: '4910'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A series of translator's footnotes explains the names, etymologies, and
+    textual witnesses for Actaeon's dogs. The notes state that Actaeon's pack was
+    said to include fifty dogs, that Ovid names thirty-six, and that related lists
+    were preserved or transmitted by Greek poets, Apollodorus, Hyginus, and Aeschylus.
+    Many dog names are explained through Greek words denoting color, speed, hunting,
+    barking, wilderness, animals, geography, or physical traits.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes state that Actaeon's pack was said to have consisted of fifty dogs.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The notes state that Ovid names thirty-six of Actaeon's dogs.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The notes compare Ovid's dog names with names preserved by Greek poets, Apollodorus,
+    Hyginus, and Aeschylus.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Many dog names are glossed as traits or actions, including tracing, eating,
+    seeing, hunting, running, barking, snatching, killing, and subduing.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Some dog names are glossed through colors or bodily traits, including black
+    foot, spot, strong, white, soot, black coat, thick hair, black hair, and wild
+    tooth.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The notes state that Crete, Arcadia, and Laconia produced especially valuable
+    hounds.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Several names are explained through places or landscape terms, including mountain,
+    wood, forest, a river, Laconia, and Dicte in Crete.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The notes connect some names with tempest, whirlwind, wolf, and possibly jackal-like
+    animals.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Actaeon
+  description: Named as the owner or associated figure of the pack of dogs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Actaeon's pack of dogs
+  description: A pack said to include fifty dogs; Ovid is said to name thirty-six
+    of them in this passage's notes.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: associated owner of the pack
+  assigned_to:
+  - fig:1
+  basis: The pack is described as Actaeon's pack.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: named hunting hounds
+  assigned_to:
+  - fig:2
+  basis: The footnotes explain numerous dog names, many derived from hunting, chasing,
+    barking, and other hound-related traits.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: catalogued animal collective
+  assigned_to:
+  - fig:2
+  basis: The notes discuss the number of dogs and compare preserved lists of their
+    names in multiple ancient authors.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: catalogued hound pack
+  literal_form: Actaeon's named dogs as a collective list
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: mountain
+  literal_form: Greek mountain terms in the names Oribasus and Oresitrophus, and the
+    Cretan mountain Dicte
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: storm or whirlwind names
+  literal_form: Dog names glossed as Tempest, Storm, or related to a whirlwind
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: wolf-like animal name
+  literal_form: Dog names or notes connected with wolf and possibly jackal-like animals
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Translator's explanatory catalogue of Actaeon's dogs
+  summary: The footnotes identify Actaeon's dog pack, discuss ancient textual witnesses
+    for the list of names, and explain many names through Greek etymologies, traits,
+    animals, and places.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: catalogue of named hunting hounds
+  taxonomy_refs: []
+  basis: The passage centers on a named pack associated with Actaeon, gives totals
+    for the pack and Ovid's named dogs, and explains the names through hunting and
+    animal attributes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is extracted from explanatory footnotes rather than from the narrative
+    action itself.
+- id: motif:2
+  label: animal names encoding traits and functions
+  taxonomy_refs: []
+  basis: The notes repeatedly gloss dog names as physical traits, colors, speeds,
+    sounds, hunting actions, predatory actions, and landscape associations.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The pattern is lexical and catalogic; the passage does not itself narrate
+    symbolic interpretation.
+- id: motif:3
+  label: geographically marked hounds
+  taxonomy_refs: []
+  basis: The notes identify valuable hound-producing regions and connect some dog
+    names with Laconia, Crete, Dicte, a river, mountains, woods, and forests.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The geographic associations are etymological or explanatory and not presented
+    as a developed narrative motif in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Ovid's list of Actaeon's dogs with Hyginus'
+    lists, stating that Hyginus' first list contains many similar names in nearly
+    the same order while the second list differs.
+  claim_level: linguistic_similarity
+  target: Hyginus' two lists of Actaeon's dogs
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the translator's note; the passage does not
+    provide the full Hyginus lists for direct verification.
+- id: claim:2
+  claim: The passage presents Ovid's dog-name catalogue as part of a broader ancient
+    textual tradition also involving Greek poets, Apollodorus, Hyginus, and Aeschylus.
+  claim_level: same_motif
+  target: Ancient textual catalogues of Actaeon's dogs
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage indicates shared lists and names but does not establish
+    precise dependence, chronology, or historical contact beyond the stated textual
+    witnesses.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4788-4799, Footnote 27
+  quote_or_summary: '"The pack of Actæon is said to have consisted of fifty dogs."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 4788-4806, Footnote 27
+  quote_or_summary: The note says the dog names were preserved by several Greek poets,
+    copied by Apollodorus, partly lost or corrupt, listed twice by Hyginus, named
+    four times by Aeschylus, and named thirty-six times by Ovid.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4788-4910, Footnotes 27-60
+  quote_or_summary: The footnotes gloss many dog names from Greek terms for actions
+    and traits such as tracing, eating, sight, ranging, killing, storm-like speed,
+    hunting, catching, barking, strength, whiteness, soot, snatching, blackness, hair,
+    greed, wild tooth, and subduing beasts.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 4803-4805, Footnote 27
+  quote_or_summary: '"Crete, Arcadia, and Laconia produced the most valuable hounds."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 4825-4910, Footnotes 31, 37, 38, 41, 48, 55, 60
+  quote_or_summary: 'The notes connect certain names with landscape or place terms:
+    Oribasus and Oresitrophus with mountain, Hylæus with wood, Nape with forest, Ladon
+    with a river, Lacon with Laconia, and Dicte with a Cretan mountain.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4832-4880, Footnotes 33, 49, 50, 51
+  quote_or_summary: The notes gloss Lælaps as Tempest or whirlwind-like, Aëllo as
+    Storm, Thoüs as Swift with a note on a wolf-like or possibly jackal-like animal,
+    and Lycisca as Wolf.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily translator's footnotes and lexical commentary, so
+    literal extraction is strong, while motif interpretation is limited and marked
+    cautiously.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No narrative transformation or Actaeon death scene is extracted because this line range contains explanatory footnotes rather than the surrounding narrative.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l4788-l4910
+  passage_sha256=6c58306eead6483011b7d96faa08a9fc3f58b4472dbe43542f47240222e61764
+

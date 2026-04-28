@@ -1,0 +1,560 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l4261-l4331
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / BOOK THE THIRD.; lines 4261-4331
+  start: '4261'
+  end: '4331'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Jupiter has carried Europa away and left his bull shape. Agenor orders
+    Cadmus to find his sister or remain in exile. Cadmus consults Apollo's oracle
+    at Delphi, which tells him to follow an unyoked heifer and found a city where
+    she lies down. Cadmus follows the heifer, gives thanks when she rests, prepares
+    a sacrifice to Jupiter, and sends servants for water. The water source is in an
+    untouched grove with a cavern inhabited by a dragon sacred to Mars.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jupiter carried Europa away while using the shape of a deceiving bull, then
+    laid that shape aside.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Agenor commands Cadmus to search for Europa and imposes exile as the punishment
+    if he does not find her.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Cadmus consults the oracle of Phoebus about the land where he must dwell.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The oracle tells Cadmus to follow an unyoked heifer and build a city where
+    she lies down on the grass.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Cadmus sees a keeperless heifer with no mark of servitude and follows her
+    slowly.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The heifer stands, lows, looks back, and lies down on the grass.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Cadmus thanks the gods or oracle, kisses the foreign land, and salutes the
+    unknown mountains and fields.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Cadmus intends to sacrifice to Jupiter and sends servants to fetch water for
+    the libation from running springs.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: An ancient grove, not yet cut by an axe, contains a cavern covered with twigs
+    and osiers and supplied with much water.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: A dragon sacred to Mars is hidden in the cavern.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The dragon is described as crested and golden, with fiery eyes, a body swollen
+    with poison, three tongues, and teeth in three rows.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Jupiter
+  description: The god who carried away Europa in the shape of a bull and later revealed
+    himself.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Europa
+  description: The daughter or female relative who has been carried away and whom
+    Cadmus is ordered to seek.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Agenor
+  description: Europa's father and Cadmus's father, who orders Cadmus to search for
+    her.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Cadmus
+  description: The son of Agenor who searches for Europa, consults the oracle, follows
+    the heifer, and prepares a sacrifice.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Phoebus
+  description: The divine oracle-giver whose oracle instructs Cadmus about the heifer
+    and the city.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Heifer
+  description: An unyoked, keeperless cow with no mark of servitude that guides Cadmus
+    and lies down at the city site.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Servants of Cadmus
+  description: Servants ordered by Cadmus to fetch water for a libation.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Dragon sacred to Mars
+  description: A dragon hidden in the watery cavern, sacred to Mars, with fiery eyes,
+    poison, three tongues, and triple rows of teeth.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Mars
+  description: The god to whom the dragon is sacred.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: divine abductor in bull form
+  assigned_to:
+  - fig:1
+  basis: Jupiter carries Europa away after taking the form of a deceiving bull.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: carried-away sister or daughter
+  assigned_to:
+  - fig:2
+  basis: Europa is the person whom Agenor says Cadmus must seek after her ravishment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: commanding father
+  assigned_to:
+  - fig:3
+  basis: Agenor commands Cadmus to seek Europa and threatens exile if he fails.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: exiled seeker
+  assigned_to:
+  - fig:4
+  basis: Cadmus wanders as an exile while searching for Europa under his father's
+    command.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: city founder directed by oracle
+  assigned_to:
+  - fig:4
+  basis: The oracle tells Cadmus where to build a city, and Cadmus follows the indicated
+    heifer to the site.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: oracle-giving deity
+  assigned_to:
+  - fig:5
+  basis: Phoebus's oracle gives Cadmus instructions about the heifer and the city.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: animal guide to settlement site
+  assigned_to:
+  - fig:6
+  basis: The heifer is to guide Cadmus and marks the city site by lying down.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:8
+  label: ritual assistants
+  assigned_to:
+  - fig:7
+  basis: The servants are commanded to fetch water for a libation.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: sacred guardian or threat at water source
+  assigned_to:
+  - fig:8
+  basis: The dragon is hidden in the cavern that contains water and is sacred to Mars;
+    the footnote reports traditions in which Mars set it to watch the spot and stream.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:10
+  label: deity associated with dragon
+  assigned_to:
+  - fig:9
+  basis: The dragon is explicitly described as sacred to Mars, with notes on traditions
+    connecting it to Mars.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: bull shape
+  literal_form: Jupiter's deceiving bull form
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: oracle
+  literal_form: Oracle of Phoebus at Delphi
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: heifer
+  literal_form: Unyoked heifer that guides Cadmus and lies down
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: city site
+  literal_form: Grass where the heifer lies down, to be made the Boeotian city
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: water
+  literal_form: Running springs and water-abounding cavern
+  associated_figures:
+  - fig:4
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: cave
+  literal_form: Cavern in the untouched grove
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: serpent or dragon
+  literal_form: Dragon sacred to Mars
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:8
+  label: unknown mountains and fields
+  literal_form: Mountains and fields saluted by Cadmus
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Europa carried away and Cadmus commanded to search
+  summary: Jupiter carries Europa away in bull form, and Agenor orders Cadmus to find
+    her or suffer exile.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Oracle directs Cadmus to the heifer
+  summary: Cadmus asks Phoebus where he should dwell, and the oracle instructs him
+    to follow an unyoked heifer and build where she lies down.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Heifer marks the Boeotian site
+  summary: Cadmus follows the unservile heifer until she lies down; he thanks the
+    divine guidance and greets the new land.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Ritual water and hidden dragon
+  summary: Cadmus prepares a sacrifice to Jupiter and sends servants to get water;
+    the nearby untouched grove and cavern contain abundant water and a dragon sacred
+    to Mars.
+  figure_refs:
+  - fig:4
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: abduction by god in animal form
+  taxonomy_refs:
+  - stolen_beloved
+  - shapeshifter
+  basis: Europa has been carried away by Jupiter, who had taken the shape of a deceiving
+    bull.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage summarizes Europa's abduction only briefly and does not narrate
+    the full abduction scene.
+- id: motif:2
+  label: exile search for a lost female relative
+  taxonomy_refs:
+  - departure
+  basis: Agenor orders Cadmus to search for Europa and makes exile the consequence
+    of failure; Cadmus wanders in search of her.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The search is redirected by the oracle rather than completed in this passage.
+- id: motif:3
+  label: oracle-guided foundation of a city
+  taxonomy_refs:
+  - culture_hero
+  basis: Phoebus tells Cadmus to follow a heifer and build a city where she lies down;
+    Cadmus follows the instruction.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage gives a foundation directive
+    but not the completed city-building.
+- id: motif:4
+  label: animal guide marks sacred settlement site
+  taxonomy_refs: []
+  basis: An unyoked heifer guides Cadmus and identifies the place for the city by
+    lying down.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No specific supplied taxonomy family exactly names animal-guided foundation.
+- id: motif:5
+  label: serpent guardian at water source
+  taxonomy_refs:
+  - serpent
+  basis: A dragon sacred to Mars is hidden in a water-filled cavern in an untouched
+    grove; the note says it watched the spot and neighboring stream in another ancient
+    account.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The main narrative in this line range describes the dragon but does not
+    yet show direct combat or obstruction.
+comparison_claims:
+- id: claim:1
+  claim: The note reports a nearby ancient variant in which the same dragon associated
+    with Mars watches the spot and neighboring stream.
+  claim_level: same_motif
+  target: Euripides' account of Mars' dragon watching the spot and stream
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives this as a translator's footnote rather than as part
+    of Ovid's narrated action in the excerpt.
+- id: claim:2
+  claim: The note cautiously associates the dragon with wider ancient stories of enormous
+    serpents.
+  claim_level: visual_similarity
+  target: ancient accounts of enormous serpents, including Pliny's serpent at the
+    river Bagrada
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison concerns size and serpent imagery only; it does not
+    establish shared narrative function or historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4261-4275
+  quote_or_summary: Jupiter has carried Europa away, laid aside the deceiving bull
+    shape, revealed himself, and reached the Dictaean land.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4275-4280
+  quote_or_summary: Agenor, Europa's father, commands Cadmus to seek his ravished
+    sister and adds exile as punishment if he fails; Cadmus wanders as an exile.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4280-4286
+  quote_or_summary: Cadmus consults the oracle of Phoebus; the oracle says an unyoked
+    heifer will meet him in lonely fields and that he should build a Boeotian city
+    where she lies down.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4288-4292
+  quote_or_summary: After leaving the Castalian cave, Cadmus sees a keeperless heifer
+    with no mark of servitude and follows her while honoring Phoebus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4292-4299
+  quote_or_summary: After passing rivers and fields, the cow stops, raises her horned
+    head, lows, looks back to her followers, and lies down on the grass; Cadmus thanks
+    the guidance and greets the strange land, mountains, and fields.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4299-4301
+  quote_or_summary: Cadmus prepares to sacrifice to Jupiter and orders servants to
+    fetch water for the libation from running springs.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4301-4309
+  quote_or_summary: An ancient grove untouched by an axe contains a low-arched cavern
+    covered with growth and abundant water; inside is a dragon sacred to Mars, crested,
+    golden, fiery-eyed, poison-filled, three-tongued, and triple-toothed.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: footnote 4, lines 4324-4328
+  quote_or_summary: The note says Euripides reports that Mars set the dragon to watch
+    the spot and neighboring stream; other writers call it a son of Mars named Dercyllus,
+    with a Fury named Tilphosa as mother.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: footnote 4, lines 4328-4331
+  quote_or_summary: The note says ancient history contains stories of enormous serpents
+    and mentions Pliny's account of a large serpent at the river Bagrada in Africa.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Main narrative extraction is direct. Motif mapping is cautious where supplied
+    taxonomy terms are broader than the passage-level pattern. Comparison claims rely
+    on translator footnotes within the provided passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only provided passage text and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l4261-l4331
+  passage_sha256=e0c7b6227ccd91b2b996e2808bc1e11d89f0738839841569b8693307258108f4
+

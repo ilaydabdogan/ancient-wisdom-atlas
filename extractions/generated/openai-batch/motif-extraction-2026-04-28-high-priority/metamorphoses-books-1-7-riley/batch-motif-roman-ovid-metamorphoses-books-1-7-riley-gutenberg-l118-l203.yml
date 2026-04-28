@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l118-l203
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: The Metamorphoses of Ovid, Books I-VII / LITERALLY TRANSLATED WITH NOTES
+    AND EXPLANATIONS / INTRODUCTION.; lines 118-203
+  start: '118'
+  end: '203'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The introduction surveys earlier English translations of Ovid’s Metamorphoses,
+    criticizes several for lack of literalness, inelegant style, limited scope, or
+    inadequate notes, and explains that the present edition adds explanations drawn
+    from ancient authors and later scholarship.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that Ovid’s Metamorphoses had frequently been translated
+    into English, including two complete prose translations and five verse translations
+    listed in Bohn’s catalogue.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Joseph Davidson’s prose version is described as claiming nearness to the original
+    and school/private use, but the passage judges it not literal and not elegant.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: John Clarke’s translation is described as more literal and as having reached
+    a seventh edition by 1779, but the passage criticizes its style, language, and
+    lack of explanation.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists colloquial or comic English renderings used in Clarke’s
+    version for various Latin words and phrases.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A 1656 volume by John Bulloker is described as translating only the first
+    567 lines of the first book in a fanciful and pedantic manner.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage mentions a literal interlinear translation of the first book published
+    in 1839 and a Hamiltonian-system selection from the first six books.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage states that explanatory material has been added to elucidate fabulous
+    narratives and allusions, drawing from ancient historians, philosophers, mythologists,
+    and Abbé Banier’s work.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ovid
+  description: Named as the author whose Metamorphoses is the subject of the translations
+    and explanations discussed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:2
+  name_or_label: Joseph Davidson
+  description: Publisher or translator of a prose version of the Metamorphoses from
+    about the middle of the previous century.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: John Clarke
+  description: Translator of a more literal version of the Metamorphoses, first published
+    about 1735 and later reaching a seventh edition.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: John Bulloker
+  description: Named as the publisher or translator of a 1656 volume titled Ovid’s
+    Metamorphosis.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: James Hamilton
+  description: Author of the Hamiltonian system and associated with a selection from
+    the Metamorphoses using literal and interlineal translation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Abbé Banier
+  description: Described as a learned scholar whose edition of Ovid and Explanations
+    of the Fables of Antiquity collected illustrations from ancient authors.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Ancient authors cited as explanatory sources
+  description: Herodotus, Apollodorus, Pausanias, Dio Cassius, Dionysius of Halicarnassus,
+    Strabo, Hyginus, Nonnus, and others are named as sources for explanations.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: source author
+  assigned_to:
+  - fig:1
+  basis: The passage discusses translations and explanations of Ovid’s Metamorphoses.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: English translator of Ovid
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage identifies Davidson, Clarke, and Bulloker with English translations
+    or translated volumes of the Metamorphoses.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: interlinear translation system author
+  assigned_to:
+  - fig:5
+  basis: The passage associates James Hamilton with the Hamiltonian system and an
+    interlineal translation selection.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: compiler of mythological explanations
+  assigned_to:
+  - fig:6
+  basis: The passage describes Banier as collecting information from ancient authors
+    to illuminate mythology and history.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: ancient explanatory source
+  assigned_to:
+  - fig:7
+  basis: The passage names ancient historians, philosophers, and mythologists as sources
+    for explanatory notes.
+  evidence_refs:
+  - ev:7
+symbols: []
+scenes:
+- id: scene:1
+  label: Survey and criticism of English translations
+  summary: The introduction reviews earlier English prose, verse, and interlinear
+    translations of the Metamorphoses, judging their literalness, style, scope, and
+    usefulness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:2
+  label: Statement of explanatory sources
+  summary: The introduction states that explanations have been added for fabulous
+    narratives and allusions, chiefly from ancient authors and Banier’s scholarship.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 118-122
+  quote_or_summary: The Metamorphoses is said to have been frequently translated into
+    English; Bohn’s catalogue lists two complete prose translations and five verse
+    translations.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 123-138
+  quote_or_summary: Davidson’s prose version is described as professing closeness
+    to the original and school use, but the introduction judges it not literal and
+    only sparsely helpful in annotation.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 139-154
+  quote_or_summary: Clarke’s translation is described as very literal, first published
+    about 1735, with a seventh edition in 1779, but criticized for inelegance, dated
+    conversational language, and lack of explanation.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 155-178
+  quote_or_summary: The passage gives numerous examples of Clarke’s colloquial renderings,
+    including Latin terms translated as phrases such as “the old blade,” “the peepers,”
+    and “to tip him a kiss.”
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; brief quotation fragments used from public domain
+    text.
+- id: ev:5
+  type: summary
+  locator: lines 180-188
+  quote_or_summary: A 1656 volume by John Bulloker is described as titled Ovid’s Metamorphosis
+    and as translating no more than the first 567 lines of the first Book.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 189-193
+  quote_or_summary: The passage mentions an 1839 literal interlinear translation of
+    the first Book and a Hamiltonian-system selection from the first six books.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 195-203
+  quote_or_summary: The passage says explanations were added to elucidate fabulous
+    narratives and allusions, chiefly from Herodotus, Apollodorus, Pausanias, Dio
+    Cassius, Dionysius of Halicarnassus, Strabo, Hyginus, Nonnus, and others, as well
+    as Banier’s edition and Explanations of the Fables of Antiquity.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: This is introductory translation history rather than a mythic narrative passage;
+    no supported motif, symbol, or comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No mythology motif extraction beyond bibliographic and explanatory context is supported by the supplied passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l118-l203
+  passage_sha256=cbdf0011170bb0c79a1fea2ffda52340d30029578ce3d90c2432e4d489949dee
+

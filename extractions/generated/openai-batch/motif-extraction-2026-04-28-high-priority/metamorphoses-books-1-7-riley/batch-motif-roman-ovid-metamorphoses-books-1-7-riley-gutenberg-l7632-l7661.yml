@@ -1,0 +1,454 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l7632-l7661
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 7632-7661
+  start: '7632'
+  end: '7661'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage offers rationalizing explanations for mythic episodes involving
+    Medusa, Pegasus, Chrysaor, coral, Andromeda, Perseus, Phineus, and a monster or
+    pirate. It suggests that Pegasus and Chrysaor may have been ships, coral may have
+    become common after the Gorgons' defeat made navigation safer, Andromeda's exposure
+    may reflect a forced betrothal to a piratical prince, and the monster may represent
+    either Phineus or a ship.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that some conjectured Pegasus and Chrysaor, described as
+    two horses produced from Medusa's blood, were really two ships in a harbor.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage suggests the ships may have had a winged horse figure on the prow,
+    giving rise to the fable.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage suggests coral from Medusa's blood may reflect coral fishing becoming
+    more common after the defeat of the Gorgons made navigation safer.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says Andromeda's exposure may be based on her parents contracting
+    her against her will to a fierce piratical prince.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says the betrothal condition was that the prince would leave Cepheus'
+    realms free and undisturbed.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says Perseus killed the pirate after learning of the situation.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage says Phineus' inactivity through fear of Perseus was fabled as
+    his transformation into stone.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage records alternative suggestions that the monster was either Phineus
+    or the name of the ship intended to carry away Andromeda.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Medusa
+  description: A princess who was slain by Perseus; Pegasus and Chrysaor are described
+    as produced from her blood, and coral is also linked to her blood.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Pegasus
+  description: One of two horses said to have been produced from Medusa's blood; conjectured
+    here to have been a ship.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Chrysaor
+  description: Brother of Pegasus and one of two horses said to have been produced
+    from Medusa's blood; conjectured here to have been a ship.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Perseus
+  description: The slayer of Medusa; said to have seized the ships and later to have
+    slain the pirate connected with Andromeda.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: Gorgons
+  description: A group whose defeat is linked by the passage to safer navigation and
+    increased coral fishing.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Andromeda
+  description: A woman whose exposure is interpreted as a forced betrothal arranged
+    by her parents against her will.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Cepheus
+  description: Andromeda's father, whose realms were to be left free and undisturbed
+    as a condition of the betrothal.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Piratical prince or pirate
+  description: A fierce prince who infested adjacent seas and to whom Andromeda was
+    allegedly contracted; Perseus is said to have slain him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Phineus
+  description: Andromeda's uncle; said to have remained inactive through dread of
+    Perseus and to have been fabled as changed into stone; alternatively identified
+    by some writers as the enemy or monster.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:10
+  name_or_label: Monster
+  description: A form under which some writers say Phineus was represented, while
+    others identify it with the name of the ship meant to carry away Andromeda.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: slain source of blood-born marvels
+  assigned_to:
+  - fig:1
+  basis: Medusa is described as slain by Perseus, with Pegasus, Chrysaor, and coral
+    linked to her blood.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: blood-born horses rationalized as ships
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage says Pegasus and Chrysaor were said to be horses from Medusa's
+    blood but conjectured to be ships.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: slayer and rescuer
+  assigned_to:
+  - fig:4
+  basis: Perseus is said to have slain Medusa and later slain the pirate connected
+    with Andromeda.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: defeated dangerous group
+  assigned_to:
+  - fig:5
+  basis: The defeat of the Gorgons is linked to safer navigation.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: unwilling betrothed woman
+  assigned_to:
+  - fig:6
+  basis: Andromeda is said to have been contracted by her parents against her will.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: father whose realm is protected by bargain
+  assigned_to:
+  - fig:7
+  basis: Cepheus is named as Andromeda's father, and the bargain concerns freeing
+    his realms from disturbance.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: piratical enemy
+  assigned_to:
+  - fig:8
+  basis: The prince is described as fierce and piratical, infesting adjacent seas,
+    and is slain by Perseus.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: inactive rival or alternative monster figure
+  assigned_to:
+  - fig:9
+  basis: Phineus is said to be inactive through dread of Perseus and also identified
+    by some writers as the enemy represented as a monster.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:9
+  label: enemy or abduction vessel representation
+  assigned_to:
+  - fig:10
+  basis: The monster is interpreted either as Phineus or as the name of the ship meant
+    to carry away Andromeda.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: winged horse prow image
+  literal_form: Figure of a winged horse on a ship's prow
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: blood producing beings or coral
+  literal_form: Blood of Medusa producing Pegasus, Chrysaor, and coral in the fable
+    as discussed by the passage
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: ships as mythic horses
+  literal_form: Two ships identified with Pegasus and Chrysaor
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: coral from blood
+  literal_form: Coral said to come from Medusa's blood
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: stone transformation
+  literal_form: Phineus fabled as changed into stone
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: monster as enemy or ship
+  literal_form: Monster interpreted as Phineus or as the name of a ship
+  associated_figures:
+  - fig:6
+  - fig:8
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Medusa aftermath rationalized as ships and safer navigation
+  summary: After Medusa is slain by Perseus, the passage says Pegasus and Chrysaor
+    may have been ships seized by him, and coral from Medusa's blood may reflect increased
+    coral fishing after the Gorgons' defeat made navigation safer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Andromeda exposure rationalized as forced pirate betrothal
+  summary: Andromeda's exposure is interpreted as a forced betrothal to a piratical
+    prince in exchange for safety for Cepheus' realm, followed by Perseus killing
+    the pirate.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Phineus and the monster rationalized
+  summary: Phineus' inactivity is explained as fear of Perseus and as the basis for
+    the fable that he became stone; the monster is alternatively interpreted as Phineus
+    or as a ship's name.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: marvels generated from slain being's blood
+  taxonomy_refs: []
+  basis: The passage discusses Pegasus, Chrysaor, and coral as said to arise from
+    Medusa's blood.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is explanatory and rationalizing, not a direct narration of
+    the mythic event.
+- id: motif:2
+  label: mythic creature rationalized as ship
+  taxonomy_refs: []
+  basis: Pegasus and Chrysaor are conjectured to be ships, and a monster is alternatively
+    explained as the name of a ship.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: This is a commentator's proposed explanation of a fable rather than a
+    motif in the narrative itself.
+- id: motif:3
+  label: woman exposed or surrendered to dangerous suitor or monster
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Andromeda's exposure is interpreted as an unwilling betrothal to a piratical
+    prince, while another explanation refers to a monster or ship intended to carry
+    her away.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is approximate because the passage frames the episode
+    as betrothal and rescue rather than directly as abduction.
+- id: motif:4
+  label: hero rescues threatened woman by killing enemy
+  taxonomy_refs: []
+  basis: Perseus, after learning of Andromeda's situation, is said to have slain the
+    pirate.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives the rationalized version; it does not narrate the full
+    rescue episode.
+- id: motif:5
+  label: petrification as explanation of defeated rival's inactivity
+  taxonomy_refs: []
+  basis: Phineus' inactivity through dread of Perseus is said to have been fabled
+    as transformation into stone.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage explains the petrification motif euhemeristically rather than
+    presenting it as an event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7634-7642
+  quote_or_summary: Some conjectured that Pegasus and Chrysaor, described as horses
+    produced from Medusa's blood, were actually two ships in the harbor, perhaps with
+    a winged horse figure on the prow, seized by Perseus after he slew Medusa.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7642-7647
+  quote_or_summary: The passage suggests that coral from Medusa's blood may derive
+    from coral fishing becoming more common after the Gorgons' defeat made navigation
+    safer.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7648-7656
+  quote_or_summary: Andromeda's exposure is explained as a forced betrothal by her
+    parents to a fierce piratical prince, conditioned on leaving Cepheus' realms undisturbed;
+    Perseus then slew the pirate.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7656-7658
+  quote_or_summary: Phineus is said to have remained inactive through fear of Perseus,
+    which was fabled as his transformation into stone.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7659-7661
+  quote_or_summary: Some writers identify Phineus, Andromeda's uncle, as the enemy
+    represented as a monster; others suggest the monster was the name of the ship
+    intended to carry Andromeda away.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a commentary offering conjectural explanations of mythic material,
+    so motifs are extracted from both the reported fables and the explicit rationalizations
+    with cautions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage supports rationalizations of the local myth but does not itself establish broader comparative relationships.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l7632-l7661
+  passage_sha256=d3a04affb4e8d3c52b0accd30f7ed2128c192759dac0c7aa99a80240ab182706
+

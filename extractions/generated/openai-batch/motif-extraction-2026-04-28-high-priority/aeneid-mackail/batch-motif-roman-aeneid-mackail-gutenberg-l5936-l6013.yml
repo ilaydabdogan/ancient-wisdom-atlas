@@ -1,0 +1,598 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l5936-l6013
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK EIGHTH / THE EMBASSAGE TO EVANDER / BOOK NINTH / THE SIEGE OF THE TROJAN
+    CAMP; lines 5936-6013
+  start: '5936'
+  end: '6013'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A Latin cavalry guard led by Volscens discovers Nisus and Euryalus at night
+    when Euryalus' helmet glitters. Euryalus is lost and captured in a tangled forest.
+    Nisus prays to the Latonian goddess and kills two pursuers with spears, but Volscens
+    kills Euryalus. Nisus reveals himself, attacks Volscens, kills him, and dies over
+    Euryalus. The narrator commemorates the pair, and the Rutulians mourn their slain
+    leaders and recover their spoils.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A cavalry advance guard led by Volscens approaches the camp wall at night
+    and sees two figures turning away on a left-hand path.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A forgotten helmet glittering in the night light betrays Euryalus' presence.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The pursuers bar crossroads and exits with sentinels.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The forest is described as tangled, dark, choked with briars, and crossed
+    by a broken track.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Euryalus, burdened by shadowy boughs and spoil, loses the path; Nisus gets
+    clear, then returns to search for him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The squadron seizes Euryalus while he struggles.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Nisus looks up to the moon and prays to the Latonian goddess, guardian of
+    woodlands, asking aid and guidance for his javelin.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Nisus cites gifts that his father and he have offered at the goddess's altars,
+    dome, and holy roof.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Nisus throws spears from concealment and kills Sulmo and Tagus.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Volscens cannot see who threw the weapons and turns his vengeance on Euryalus.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Nisus reveals himself, claims all guilt, and says Euryalus only loved his
+    friend too well.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Volscens' sword pierces Euryalus, who dies.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Euryalus' death is compared to a cut flower and to poppies bowed down by rain.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: Nisus rushes into the enemy, focuses on Volscens, kills him, and then dies
+    over Euryalus' body.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:15
+  text: The narrator calls Nisus and Euryalus a happy pair and states that poetry
+    will preserve their memory while Rome endures.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:16
+  text: The victorious Rutulians carry Volscens' body back weeping, find other dead
+    leaders, and recognize recovered spoils.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Nisus
+  description: One of the two fleeing Trojans; he escapes the forest, returns for
+    Euryalus, prays for aid, kills Sulmo, Tagus, and Volscens, and dies over Euryalus.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Euryalus
+  description: Nisus' companion; his glittering helmet betrays him, he becomes lost
+    and captured, and he is killed by Volscens.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Volscens
+  description: Leader of the cavalry guard; he challenges the two fugitives, threatens
+    vengeance, kills Euryalus, and is slain by Nisus.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+  - ev:10
+- id: fig:4
+  name_or_label: Latonian goddess
+  description: A goddess addressed by Nisus as glory of the stars and guardian of
+    the woodlands.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Sulmo
+  description: A pursuer struck through shield and heart by Nisus' spear.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Tagus
+  description: A pursuer struck through the temples by Nisus' spear.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Rutulians
+  description: Enemy forces who pursue the pair, surround exits, kill Nisus, mourn
+    Volscens, and recover spoils.
+  role_refs:
+  - role:6
+  - role:10
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:10
+- id: fig:8
+  name_or_label: House of Aeneas / Rome
+  description: The enduring political house and sovereignty named by the narrator
+    as the temporal frame for the pair's memory.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: rescuer-companion
+  assigned_to:
+  - fig:1
+  basis: Nisus returns to search for Euryalus and tries to save him from the squadron.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:2
+  label: praying warrior
+  assigned_to:
+  - fig:1
+  basis: Nisus prays to the Latonian goddess for aid and asks her to guide his javelin.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: avenging dying fighter
+  assigned_to:
+  - fig:1
+  basis: Nisus kills Volscens after Euryalus is killed and then dies over his friend.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: captured companion
+  assigned_to:
+  - fig:2
+  basis: Euryalus loses the way and is seized by the pursuers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: beloved friend
+  assigned_to:
+  - fig:2
+  basis: Nisus says Euryalus acted because he loved his hapless friend too well.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: pursuer-enemy
+  assigned_to:
+  - fig:3
+  - fig:7
+  basis: Volscens and the Rutulian cavalry challenge, pursue, encircle, and attack
+    the fleeing pair.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:8
+- id: role:7
+  label: killer of Euryalus
+  assigned_to:
+  - fig:3
+  basis: Volscens drives his sword through Euryalus.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: invoked divine helper
+  assigned_to:
+  - fig:4
+  basis: Nisus invokes the goddess for present aid and guidance of his javelin.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: slain pursuer
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Sulmo and Tagus are killed by Nisus' spears.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: mourning victors
+  assigned_to:
+  - fig:7
+  basis: The victorious Rutulians carry Volscens to camp weeping and gather around
+    the dead and wounded.
+  evidence_refs:
+  - ev:10
+- id: role:11
+  label: future guarantor of memory
+  assigned_to:
+  - fig:8
+  basis: The narrator links the pair's memory to the endurance of Aeneas' house and
+    Roman sovereignty.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: glittering helmet
+  literal_form: Euryalus' forgotten helmet shining in the night
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tangled night forest
+  literal_form: dark ilex, briars, thickets, shadowy boughs, broken track
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: moon and stars
+  literal_form: the moon on high and the stars invoked by Nisus
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: javelin or spear
+  literal_form: Nisus' hurled steel weapons guided through the night
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: cut flower and rain-heavy poppies
+  literal_form: similes for Euryalus' collapsing body
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: blood and wounded ground
+  literal_form: blood from slain bodies and fresh slaughter on the ground
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:10
+- id: sym:7
+  label: Capitoline stone
+  literal_form: the Capitoline's steadfast stone named in the narrator's memorial
+    claim
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Night discovery by cavalry
+  summary: Volscens' advance guard sees Nisus and Euryalus near the camp wall when
+    Euryalus' helmet glitters in the darkness, and the two flee without answering.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lost companion in the forest
+  summary: The pursuers close the roads and outlets. In the tangled forest, Euryalus
+    loses the way while Nisus gets clear, then turns back in distress to seek him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Prayer and hidden spear-cast
+  summary: Nisus, unable to endure Euryalus' capture, prays to the Latonian goddess
+    by past offerings and asks her to guide his javelin; he then kills Sulmo and Tagus
+    from the darkness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Confession and death of Euryalus
+  summary: Volscens, unable to find the hidden attacker, attacks Euryalus. Nisus cries
+    out, claims responsibility, and appeals to heaven and the stars, but Euryalus
+    is killed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Nisus' final attack and death
+  summary: Nisus rushes into the enemy, presses toward Volscens, kills him, and dies
+    over Euryalus' lifeless body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Poetic commemoration and Rutulian mourning
+  summary: The narrator promises lasting memory to the pair as long as Aeneas' house
+    and Rome endure. The Rutulians return with Volscens' body, mourn their dead, and
+    recognize recovered spoils.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:7
+  - sym:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: companion rescue ending in mutual death
+  taxonomy_refs:
+  - sacrifice
+  basis: Nisus abandons escape to return for Euryalus, exposes himself to save him,
+    kills the enemy responsible, and dies over his friend.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents heroic self-endangerment
+    and death for a companion rather than a formal ritual sacrifice.
+- id: motif:2
+  label: sacred exchange for martial aid
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Nisus invokes gifts previously offered by his father and himself to the goddess
+    and requests immediate divine assistance in guiding his javelin.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The text records a prayer based on prior offerings, but it does not explicitly
+    state that the goddess grants the request.
+- id: motif:3
+  label: betraying object in night escape
+  taxonomy_refs: []
+  basis: Euryalus' forgotten glittering helmet reveals the fugitives to the cavalry
+    in the darkness.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this pattern.
+- id: motif:4
+  label: labyrinthine forest misdirection
+  taxonomy_refs:
+  - labyrinth_initiation
+  basis: The forest is tangled with briars and broken tracks; Euryalus is impeded
+    by branches and spoil, loses the path, and is captured.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage depicts a confusing woodland rather than an explicit labyrinth
+    or initiation ordeal.
+- id: motif:5
+  label: poetic immortality of heroic pair
+  taxonomy_refs: []
+  basis: The narrator states that if his verse has power, no length of days will erase
+    the pair from memory while Aeneas' house and Rome endure.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: This is a literary commemoration motif; no supplied taxonomy reference
+    directly matches it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5936-5948
+  quote_or_summary: Volscens' cavalry approaches the wall, sees the two turning away,
+    and Euryalus' forgotten helmet glitters in the night and betrays him.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: 5949-5964
+  quote_or_summary: The horsemen block roads and outlets; the forest is tangled with
+    dark ilex and briars; Euryalus is hampered by boughs and spoil and misses the
+    path while Nisus escapes and then looks back for him.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: 5965-5973
+  quote_or_summary: Nisus hears the pursuers and sees that the squadron has rushed
+    upon Euryalus and seized him while he struggles.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: 5974-5985
+  quote_or_summary: Nisus weighs rescue or glorious death, raises his spear, looks
+    to the moon, and prays to the Latonian goddess, invoking past gifts at her shrines
+    and asking her to guide his javelin.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: 5986-5996
+  quote_or_summary: Nisus' spear strikes Sulmo through shield and heart; then another
+    spear passes through Tagus' temples and lodges in his brain.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: 5997-6007
+  quote_or_summary: Volscens cannot locate the spear-thrower and threatens Euryalus;
+    Nisus cries out that he is responsible, appeals to heaven and the stars, and says
+    Euryalus loved his hapless friend too well.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: 6008-6013
+  quote_or_summary: The sword pierces Euryalus; he collapses in death, compared to
+    a lustrous flower cut by the plough or poppies bent by a random shower.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: 6013-6021
+  quote_or_summary: Nisus rushes into the enemy, presses toward Volscens, kills him
+    with his sword, is stabbed through, and throws himself above his lifeless friend
+    to die.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: quote
+  locator: 6023-6027
+  quote_or_summary: "“Happy pair! if my verse is aught of avail, no length of days
+    shall ever blot you from the memory of time...”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; short excerpt.
+- id: ev:10
+  type: summary
+  locator: 6029-6037
+  quote_or_summary: The Rutulians carry dead Volscens back to camp weeping; they find
+    Rhamnes, Serranus, Numa, and other princes dead, gather around corpses and wounded
+    men, and recognize the recovered spoils including Messapus' shining helmet.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal sequence and figures are clear. Motif labels are cautious, with taxonomy
+    matches limited to broad available categories. No comparison claims were added
+    because the passage itself does not explicitly compare this episode to another
+    mythic tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Line locator in the supplied label says 5936-6013, while the supplied passage text continues through the aftermath and Rutulian mourning; evidence locators follow the supplied line-range style approximately within the provided passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l5936-l6013
+  passage_sha256=30f4aec698d5ddb5d31d535b0de52cc7564233c59d197dc43a5741d17a969eb4
+

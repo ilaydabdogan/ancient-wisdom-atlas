@@ -1,0 +1,408 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l5137-l5218
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 5137-5218
+  start: '5137'
+  end: '5218'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Her voice and her bones alone are left.
+  summary: The passage recounts Echo’s punishment by Juno, her inability to initiate
+    speech, her love for Narcissus, Narcissus’s rejection of her, and Echo’s wasting
+    away until only her voice remains and her bones become stones.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Narcissus is described as the son of Cephisus, around fifteen years old, appearing
+    both boy and young man.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Many youths and damsels court Narcissus, but his prideful beauty leaves him
+    unmoved by them.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Echo is described as a noisy Nymph who once had a body and whose speech is
+    limited to repeating the last words she hears.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Juno restricts Echo’s tongue because Echo deliberately delayed her with stories
+    while mountain Nymphs escaped from Jupiter’s embraces.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Echo sees Narcissus in the forest while he is driving stags into nets, falls
+    in love with him, and follows him stealthily.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Echo wants to address Narcissus but cannot begin speech; she can only wait
+    for his words and return them.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When Narcissus calls out in the forest, Echo answers by repeating parts of
+    his own words.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Echo rushes from the woods to embrace Narcissus, but he flees and rejects
+    her touch.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: After the rejection, Echo hides in the woods, covers her blushing face with
+    leaves, and lives in lonely caves.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Echo’s body wastes away until only voice and bones remain; her bones are said
+    to take the form of stones.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Narcissus
+  description: Son of Cephisus, a beautiful youth courted by many, encountered in
+    the forest while hunting stags and later rejecting Echo.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Echo
+  description: A noisy Nymph punished with restricted speech, who loves Narcissus,
+    repeats his words, is rejected, hides away, and remains as voice after her body
+    wastes away.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Juno
+  description: Daughter of Saturn and wife of Jupiter, who punishes Echo by limiting
+    her use of speech.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Jupiter
+  description: Juno’s husband, whose embraces with mountain Nymphs Echo helped conceal
+    by delaying Juno.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Mountain Nymphs
+  description: Nymphs in the mountains who escape while Echo delays Juno with long
+    stories.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: beautiful rejecting youth
+  assigned_to:
+  - fig:1
+  basis: Narcissus is courted by many and later refuses Echo’s attempted embrace.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: rejected lover
+  assigned_to:
+  - fig:2
+  basis: Echo falls in love with Narcissus, follows him, tries to embrace him, and
+    is rejected.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: punished repeating speaker
+  assigned_to:
+  - fig:2
+  basis: Echo’s speech is restricted so that she can only return the final words she
+    hears.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: divine punisher
+  assigned_to:
+  - fig:3
+  basis: Juno declares and enacts the restriction on Echo’s tongue and voice.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: concealed lovers or escapees
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Echo delays Juno until the Nymphs escape from Jupiter’s embraces.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: repeating voice
+  literal_form: Echo’s voice repeating the last words she hears and remaining alive
+    after her body wastes away.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: lonely caves
+  literal_form: Caves where Echo lives after Narcissus rejects her.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: flame of love
+  literal_form: Echo’s growing love compared to sulphur on torches catching flame.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: stones from bones
+  literal_form: Echo’s bones receiving the form of stones.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: mountains
+  literal_form: Mountains where the Nymphs are concealed and where Echo is later heard
+    but not seen.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:6
+scenes:
+- id: scene:1
+  label: Juno punishes Echo’s speech
+  summary: Echo delays Juno with stories while the mountain Nymphs escape; Juno responds
+    by limiting Echo to a short use of voice and the repetition of others’ words.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Echo sees and follows Narcissus
+  summary: Echo sees Narcissus hunting in the forest, falls in love, follows him,
+    and burns with increasing desire while unable to speak first.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Call and response in the forest
+  summary: Separated from his attendants, Narcissus calls out; Echo repeats his words,
+    creating a misleading exchange of voices.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Attempted embrace and rejection
+  summary: Echo runs from the woods to embrace Narcissus, but he flees and says he
+    would die before allowing her enjoyment of him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Echo’s retreat and wasting away
+  summary: After being rejected, Echo hides in woods and caves; her body wastes away,
+    her bones become stones, and only her voice remains heard in the mountains.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine punishment through loss or alteration of speech
+  taxonomy_refs:
+  - divine_judgment
+  basis: Juno punishes Echo for deceiving her by restricting Echo’s tongue and voice.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents the punishment directly; the broader taxonomy label
+    is general.
+- id: motif:2
+  label: unrequited pursuit and rejection
+  taxonomy_refs: []
+  basis: Echo loves Narcissus, follows him, tries to embrace him, and is rejected
+    by him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family precisely names this love-and-rejection pattern.
+- id: motif:3
+  label: transformation into voice and stone
+  taxonomy_refs:
+  - shapeshifter
+  basis: Echo’s body wastes away, her voice remains, and her bones are said to become
+    stones.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference is approximate because Echo’s change is passive
+    metamorphosis, not voluntary shapeshifting.
+- id: motif:4
+  label: etiology of echoing sound
+  taxonomy_refs: []
+  basis: The passage explains why Echo is heard but not seen and why her voice repeats
+    what it hears.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level etiological reading based on the narrative’s explanation
+    of Echo’s present condition.
+- id: motif:5
+  label: deceptive speech delaying divine detection
+  taxonomy_refs: []
+  basis: Echo intentionally detains Juno with long stories so that the Nymphs can
+    escape.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage reports the deception, but does not elaborate it as an independent
+    trickster cycle.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5137-5143
+  quote_or_summary: Narcissus, son of Cephisus, is about fifteen and is courted by
+    many youths and damsels, but his proud beauty leaves him unmoved.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain Project Gutenberg text; Riley translation.
+- id: ev:2
+  type: summary
+  locator: lines 5144-5157
+  quote_or_summary: Echo, formerly a bodily Nymph, can only repeat others’ final words
+    because Juno punished her for delaying the goddess while Jupiter’s mountain Nymphs
+    escaped.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain Project Gutenberg text; Riley translation.
+- id: ev:3
+  type: summary
+  locator: lines 5157-5168
+  quote_or_summary: Echo sees Narcissus wandering and hunting in pathless forests,
+    falls in love, follows him stealthily, and is compared to sulphur on torches catching
+    flame; she cannot speak first but can return his words.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain Project Gutenberg text; Riley translation.
+- id: ev:4
+  type: summary
+  locator: lines 5169-5184
+  quote_or_summary: Narcissus calls out while separated from his attendants; Echo
+    repeats his words, rushes from the woods to embrace him, and he flees, rejecting
+    her.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain Project Gutenberg text; Riley translation.
+- id: ev:5
+  type: summary
+  locator: lines 5184-5191
+  quote_or_summary: Rejected, Echo hides in the woods, covers her face with green
+    leaves, lives in lonely caves, and wastes away until voice and bones alone are
+    left.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain Project Gutenberg text; Riley translation.
+- id: ev:6
+  type: summary
+  locator: lines 5192-5196
+  quote_or_summary: Echo’s voice continues; her bones are said to become stones, and
+    she is heard but not seen in the woods and mountains.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain Project Gutenberg text; Riley translation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the supplied passage. Motif taxonomy mapping
+    is cautious, especially for passive metamorphosis under the available shapeshifter
+    family. No comparison claims were added because the passage itself does not establish
+    a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used; footnotes were not used as evidence except insofar as they are part of the supplied passage context.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l5137-l5218
+  passage_sha256=05b84b9974d995161a645baa7d64b35d72494ea74348e1ab34bc9a6b5c5daae3
+

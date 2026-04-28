@@ -1,0 +1,470 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l1042-l1088
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 1042-1088
+  start: '1042'
+  end: '1088'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains Ovid's account of declining ages from Golden to Iron,
+    notes a common allusion to Eden, describes inconsistencies in Golden Age stories
+    involving Saturn, Jupiter, Uranus, and the Giants, and narrates the Giants' assault
+    on heaven by piling mountains until Jupiter strikes them down and Earth forms
+    a violent human generation from their blood.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that in the Golden Age a perpetual spring reigned on earth
+    and that division into seasons was not known until the Silver Age.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the Silver Age was followed by the Brazen Age and
+    then by the continuing Iron Age.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage explains this sequence as a gradual degeneration of humankind
+    from primeval innocence into wickedness and impiety.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that Saturn expelled his father and seized his throne.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that Jupiter treated Saturn as Saturn had treated Uranus.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Giants attempted to gain sovereignty over heaven by piling mountains together
+    up to the stars.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: obs:7
+  text: Jupiter hurled lightning, broke through Olympus, and struck Ossa away from
+    Pelion.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Giants' bodies lay crushed under the structure they had built.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Earth was drenched with the blood of her sons, gave life to the warm gore,
+    and shaped it into the form of men.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:10
+  text: The generation formed from the blood is described as despising the gods, greedy
+    for slaughter, full of violence, and visibly blood-derived.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Saturn
+  description: A figure said to have expelled his father and seized his throne.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Uranus
+  description: Saturn's father, named as the one whom Saturn expelled in the explanatory
+    passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Jupiter
+  description: The son of Saturn; also called the omnipotent Father who hurls lightning
+    against the Giants and disrupts the piled mountains.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Giants
+  description: Figures who aspire to sovereignty of heaven, pile mountains toward
+    the stars, and are crushed beneath their own structure.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Earth
+  description: A figure described as being drenched with the blood of her sons, giving
+    life to the warm gore, and shaping it into men.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: blood-born generation of men
+  description: A generation shaped by Earth from the Giants' blood, described as violent,
+    slaughter-greedy, and contemptuous of the gods.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: throne-seizing son
+  assigned_to:
+  - fig:1
+  basis: Saturn is said to have expelled his father and seized his throne.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: displaced father
+  assigned_to:
+  - fig:2
+  basis: Uranus is identified as the father against whom Saturn acted.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: son who repeats paternal overthrow
+  assigned_to:
+  - fig:3
+  basis: Jupiter is said to have treated Saturn as Saturn treated Uranus.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: divine punisher of heaven-assailants
+  assigned_to:
+  - fig:3
+  basis: Jupiter hurls lightning and breaks the Giants' piled mountain structure.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: assailants of heaven
+  assigned_to:
+  - fig:4
+  basis: The Giants aspire to sovereignty of heaven and pile mountains to reach the
+    stars.
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: role:6
+  label: animator of blood into human form
+  assigned_to:
+  - fig:5
+  basis: Earth gives life to the Giants' warm gore and shapes it into men.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: violent blood-derived race
+  assigned_to:
+  - fig:6
+  basis: The new generation is described as despising the gods, greedy for slaughter,
+    and derived from blood.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: perpetual spring
+  literal_form: A spring season said to reign continually during the Golden Age.
+  associated_figures: []
+  taxonomy_refs:
+  - seasonal_cycle
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: succession of ages
+  literal_form: Golden, Silver, Brazen, and Iron ages in sequence.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: piled mountains
+  literal_form: Mountains heaped together by the Giants up to the stars; Olympus,
+    Ossa, and Pelion are named.
+  associated_figures:
+  - fig:4
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  - cosmic_mountain
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:9
+- id: sym:4
+  label: lightning
+  literal_form: Jupiter's lightnings hurled against the Giants' mountain structure.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: blood or warm gore
+  literal_form: The Giants' blood, with which Earth is drenched and from which she
+    forms men.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Declining ages of humanity
+  summary: The explanatory passage presents a movement from the Golden Age's perpetual
+    spring through Silver and Brazen ages to the present Iron Age, interpreted as
+    degeneration from primeval innocence to wickedness.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Divine succession conflicts
+  summary: The explanatory passage notes violent or wrongful acts within the supposed
+    Golden Age, including Saturn expelling his father, Jupiter treating Saturn similarly,
+    and Jupiter warring against the Giants.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Giants' assault on heaven
+  summary: The Giants aspire to rule heaven and pile mountains together to reach the
+    stars.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: scene:4
+  label: Jupiter strikes down the Giants
+  summary: Jupiter hurls lightning, breaks through Olympus, dislodges Ossa from Pelion,
+    and leaves the Giants crushed beneath their own structure.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Earth forms a violent race from blood
+  summary: Earth, drenched with the Giants' blood, gives life to the gore and shapes
+    it into men who despise the gods and are violent.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: primeval age followed by degeneration
+  taxonomy_refs: []
+  basis: The passage describes Golden, Silver, Brazen, and Iron Ages and explicitly
+    interprets them as humanity's gradual degeneration from primeval innocence into
+    wickedness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The explanation is interpretive commentary rather than the mythic narration
+    itself.
+- id: motif:2
+  label: heaven-storming giants using mountains
+  taxonomy_refs:
+  - ascent
+  - cosmic_mountain
+  basis: The Giants attempt to master heaven by heaping mountains toward the stars.
+  evidence_refs:
+  - ev:4
+  - ev:9
+  confidence: high
+  cautions: The available taxonomy has no specific giant-war category; ascent and
+    cosmic mountain are approximate motif-family placements.
+- id: motif:3
+  label: divine judgment by lightning against rebels
+  taxonomy_refs:
+  - divine_judgment
+  basis: Jupiter responds to the Giants' attempted seizure of heaven by hurling lightning
+    and destroying their mountain structure.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The text narrates punitive divine action but does not explicitly use the
+    term judgment.
+- id: motif:4
+  label: new human race formed from blood of slain beings
+  taxonomy_refs:
+  - sacred_birth
+  basis: Earth animates the warm gore of the Giants and shapes it into men who retain
+    violent qualities associated with their bloody origin.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy reference is approximate because the passage describes blood-formation
+    rather than a conventional birth.
+- id: motif:5
+  label: earth as life-giving mother of a violent generation
+  taxonomy_refs:
+  - mother_goddess
+  basis: Earth is described as giving life to the blood of her sons and shaping it
+    into men.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage personifies Earth maternally, but the broader cultic or goddess
+    context is not supplied here.
+comparison_claims:
+- id: claim:1
+  claim: The explanatory passage explicitly states that the Golden Age's perpetual
+    spring and innocence allude to Eden, supporting a cautious functional comparison
+    with a primeval paradise tradition.
+  claim_level: same_function
+  target: Eden / primeval paradise tradition
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This comparison comes from the translator/commentator's explanation,
+    not from Ovid's narrated fable itself; no further textual parallels are provided
+    in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1044-1047
+  quote_or_summary: The passage says the Golden Age had perpetual spring on earth
+    and that seasons were unknown until the Silver Age; it also says this is an allusion
+    to Eden found among heathen poets.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: 1048-1053
+  quote_or_summary: The Silver Age is followed by the Brazen and then the Iron Age;
+    the explanation interprets this as humanity's degeneration from primeval innocence
+    into wickedness and impiety.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 1055-1064
+  quote_or_summary: 'The explanation notes inconsistencies in ancient writers: wars
+    and crimes occur in Saturn''s Golden Age; Saturn expels his father and seizes
+    the throne; Jupiter treats Saturn similarly and fights the Giants.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: 1068-1072
+  quote_or_summary: The fable heading summarizes that the Giants try to become masters
+    of heaven by heaping mountains for their assault, and Jupiter buries them beneath
+    the mountains.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: 1074-1080
+  quote_or_summary: The Giants aspire to heaven's sovereignty and pile mountains toward
+    the stars; the omnipotent Father hurls lightning, breaks through Olympus, and
+    strikes Ossa away from Pelion.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: 1081-1083
+  quote_or_summary: The Giants' bodies lie crushed beneath their own structure, and
+    Earth is drenched with the abundant blood of her sons.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: 1083-1085
+  quote_or_summary: Earth gives life to the warm gore so that a memorial of the ruthless
+    race may survive, shaping it into the form of men.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: 1085-1088
+  quote_or_summary: The blood-born generation is described as despising the gods above,
+    greedy for ruthless slaughter, full of violence, and visibly derived from blood.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:9
+  type: summary
+  locator: Footnote 36
+  quote_or_summary: The footnote identifies Olympus, Pelion, and Ossa as mountains
+    and states that the Giants were said to have heaped them on one another to scale
+    heaven.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is well supported by the supplied passage. Motif-family
+    taxonomy assignments are cautious where the available taxonomy lacks exact categories
+    for giant war or blood-born humanity.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All comparison content is limited to the passage's own explicit Eden comment; no external parallels have been added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l1042-l1088
+  passage_sha256=dda641359d6d71f3e033b55b81e9ea70c1376e738c7b015f59492faaa8f27b08
+

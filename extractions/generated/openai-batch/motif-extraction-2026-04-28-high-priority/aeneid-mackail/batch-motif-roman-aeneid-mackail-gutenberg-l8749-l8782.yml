@@ -1,0 +1,187 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l8749-l8782
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK FOURTH / BOOK FIFTH / BOOK SIXTH / BOOK EIGHTH; lines 8749-8782
+  start: '8749'
+  end: '8782'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: _Arma rogo._ ... _Genetrix nato te filia Nerei._
+  summary: The passage is a set of textual and commentary notes on several books of
+    the Aeneid. It records omitted lines and manuscript variants, and includes a note
+    on Book Eight line 383 explaining the punctuation of a request for arms and clarifying
+    that a mother asks the daughter of Nereus on behalf of her son.
+  language: English and Latin
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Servius note describes Book Four as being concerned with plans and subtleties
+    and says its style is almost comic because it treats love.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several lines in Books Four, Five, Six, and Eight are marked as omitted or
+    as having manuscript variants.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Book Eight note quotes the phrase 'Arma rogo' and a phrase identifying
+    a mother, a son, and the daughter of Nereus.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The commentary says the punctuation should leave unstated for whom the arms
+    are being requested, allowing it to be understood.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The commentary glosses the phrase as meaning that the daughter of Nereus is
+    accustomed to grant this service to mothers.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Mother
+  description: A mother associated with the phrase 'Genetrix' and with requesting
+    arms for her son.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Son
+  description: The son referred to by 'nato' in the quoted phrase and commentary.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Daughter of Nereus
+  description: A female figure identified as 'filia Nerei' who is addressed in the
+    request.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: mother
+  assigned_to:
+  - fig:1
+  basis: The phrase 'Genetrix' and the commentary's reference to mothers identify
+    the figure as a mother.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: son
+  assigned_to:
+  - fig:2
+  basis: The phrase 'nato' identifies a son as the beneficiary of the request.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: requester of arms
+  assigned_to:
+  - fig:1
+  basis: The commentary explains a request for arms made on behalf of the son.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: addressee of request
+  assigned_to:
+  - fig:3
+  basis: The daughter of Nereus is addressed in the quoted line and described as granting
+    such service to mothers.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: arms
+  literal_form: Arma
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Commentary on request for arms
+  summary: A note on Book Eight line 383 explains that the words 'I ask arms' should
+    be punctuated so that the intended beneficiary is not directly stated, and interprets
+    the following words as a mother addressing the daughter of Nereus for the sake
+    of her son.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: divine parent asking aid for a child
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The note identifies a mother requesting arms for her son from the daughter
+    of Nereus.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The excerpt is a commentary note rather than a full narrative scene, and
+    it does not name the mother, son, or daughter of Nereus.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8749-8753
+  quote_or_summary: 'Servius note: Book Four is ''in consiliis et subtilitatibus''
+    and has an almost comic style because it treats love.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 8755-8769
+  quote_or_summary: Textual notes mark lines as omitted in Books Four, Five, Six,
+    and Eight and record manuscript variants for Book Six line 806.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 8771-8782
+  quote_or_summary: 'Book Eight line 383 note: ''_Arma rogo. Genetrix nato te filia
+    Nerei_''; commentary explains the punctuation and glosses it as a mother seeking
+    service for her son from the daughter of Nereus.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is mostly textual apparatus and commentary, so motif extraction
+    is limited to the brief reported request for arms involving a mother, son, and
+    daughter of Nereus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l8749-l8782
+  passage_sha256=c4fb0da755c6ca92dc57132644983b55c56d50378483a79f19001c1114796e0c
+

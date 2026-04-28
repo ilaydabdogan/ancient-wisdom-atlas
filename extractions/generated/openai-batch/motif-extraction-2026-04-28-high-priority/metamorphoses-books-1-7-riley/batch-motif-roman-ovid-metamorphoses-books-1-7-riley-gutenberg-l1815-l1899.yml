@@ -1,0 +1,554 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l1815-l1899
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 1815-1899
+  start: '1815'
+  end: '1899'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage first explains the Python episode philosophically and historically,
+    then begins the story of Apollo and Daphne: Apollo boasts over Cupid after killing
+    Python; Cupid retaliates with two arrows, causing Apollo to desire Daphne and
+    Daphne to reject love; Daphne prefers hunting and virginity, while Apollo pursues
+    her desirefully as she flees.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A philosophical explanation says the sun’s heat dissipated harmful exhalations
+    from receding flood waters, causing reptiles produced from flood-slime to disappear.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A historical explanation says Python may have represented a robber near Parnassus
+    who hindered travelers going to sacrifice, and that Apollo or a priest/prince
+    associated with Apollo destroyed him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The destruction of Python is said to have led to the institution of the Pythian
+    games near Delphi.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that Apollo fell in love with Daphne, daughter of the river
+    Peneus, and that she fled from him and was changed into a laurel after imploring
+    her father’s help.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Apollo mocks Cupid’s bow and claims martial bow-use as his own proper glory
+    after having killed Python.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Cupid replies that his bow will shoot Apollo, then takes two arrows, one that
+    excites desire and one that repels it.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Cupid shoots Daphne with the leaden repelling arrow and Apollo with the golden
+    desire-causing arrow.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Daphne avoids lovers, enjoys woods and hunting, and asks Peneus to allow her
+    perpetual virginity, citing Diana as a precedent.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Apollo burns with desire for Daphne, praises her appearance, and she flees
+    swiftly rather than stopping at his words.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Python
+  description: A serpent described as pestilential and recently slain by Apollo; in
+    the explanation, possibly a natural reptile phenomenon or a robber near Parnassus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Apollo / Phœbus / Delian God
+  description: A god proud of having subdued Python, who mocks Cupid, is struck by
+    Cupid’s arrow, and falls in love with Daphne.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: Cupid / son of Venus
+  description: A winged divine archer who retaliates against Apollo’s taunt by using
+    arrows that cause and repel desire.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Daphne
+  description: Daughter of Peneus, a nymph who rejects lovers, prefers woods and hunting,
+    is struck by Cupid’s repelling arrow, flees Apollo, and is summarized as changed
+    into a laurel.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: Peneus
+  description: A river and father of Daphne, who asks her for a son-in-law and grandchildren
+    and is invoked in the summary as the father whose aid she seeks.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: fig:6
+  name_or_label: Diana / virgin Phœbe
+  description: A virgin goddess used as a model or parallel for Daphne’s desired perpetual
+    virginity and hunting life.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Themis
+  description: A goddess said in the explanation to have delivered oracles at Delphi
+    before Apollo’s worship there.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:10
+- id: fig:8
+  name_or_label: Earth
+  description: A divine or primordial figure said to have delivered oracles before
+    Themis.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: serpent adversary
+  assigned_to:
+  - fig:1
+  basis: Python is described as a serpent slain by Apollo and, in the historical explanation,
+    as a harmful figure obstructing travelers.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: serpent-slayer
+  assigned_to:
+  - fig:2
+  basis: Apollo says he recently slew Python with many arrows.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: divine pursuer and lover
+  assigned_to:
+  - fig:2
+  basis: After Cupid wounds him, Apollo falls in love with Daphne, desires an alliance
+    with her, and pursues her as she flees.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:4
+  label: retaliating love-archer
+  assigned_to:
+  - fig:3
+  basis: Cupid answers Apollo’s insult by shooting Apollo and Daphne with arrows that
+    create opposed erotic effects.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: fleeing beloved
+  assigned_to:
+  - fig:4
+  basis: Daphne is loved by Apollo but flees from him and from even the name of a
+    lover.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:9
+- id: role:6
+  label: virgin huntress figure
+  assigned_to:
+  - fig:4
+  basis: Daphne rejects suitors, traverses solitary woods, delights in hunting spoils,
+    and asks for perpetual virginity.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: river father
+  assigned_to:
+  - fig:5
+  basis: Peneus is named as Daphne’s river father and speaks to her about marriage
+    and descendants.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:8
+  label: model of virginity
+  assigned_to:
+  - fig:6
+  basis: Daphne cites Diana as having been granted perpetual virginity and is described
+    as rivaling virgin Phœbe.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: oracle-giver
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The explanation says Themis delivered oracles at Delphi after Earth had previously
+    done so.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: serpent Python
+  literal_form: serpent
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: receding flood waters
+  literal_form: waters left by the flood
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Parnassus
+  literal_form: shady heights of Parnassus / neighborhood of Parnassus
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: opposed arrows of desire
+  literal_form: two arrows, one gold and sharp, one blunt with lead
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: torch and flame imagery
+  literal_form: Cupid’s torch, nuptial torch, and Apollo burning with passion
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+- id: sym:6
+  label: woods and hunting recesses
+  literal_form: solitary woods and spoils of wild beasts
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: laurel transformation
+  literal_form: laurel
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Explanations of Python
+  summary: 'The explanation offers naturalistic and historical readings of Python:
+    a post-flood reptile or exhalation phenomenon, or a robber near Parnassus destroyed
+    by Apollo or an Apollo-associated figure, leading to the Pythian games.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Apollo taunts Cupid
+  summary: Apollo, proud of killing Python, rebukes Cupid for bearing arms and contrasts
+    his own arrow-wounds against beasts and enemies with Cupid’s torch-born flames.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Cupid’s two arrows
+  summary: Cupid claims superiority over Apollo’s glory, flies to Parnassus, selects
+    two arrows with opposite effects, and wounds Daphne and Apollo.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Daphne rejects marriage
+  summary: Daphne flees lovers, prefers woods and hunting, rejects marriage, and asks
+    her father Peneus for perpetual virginity like Diana’s.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Apollo desires and Daphne flees
+  summary: Apollo’s desire for Daphne is described through fire imagery; he admires
+    her features, while she flees swiftly and does not stop when called.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:9
+- id: scene:6
+  label: Summary of Daphne’s metamorphosis
+  summary: The fable summary states that Daphne, pursued by Apollo, implores her father
+    and is changed into a laurel.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: serpent adversary overcome by divine archer
+  taxonomy_refs:
+  - serpent
+  basis: Python is a serpent slain by Apollo with arrows; the explanation also treats
+    the serpent as a harmful robber-like figure near Parnassus.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage includes explanatory rationalizations rather than only the
+    mythic narrative.
+- id: motif:2
+  label: post-flood generation and disappearance of reptiles
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The explanation links reptiles to slime left by the flood and to receding
+    waters whose exhalations are dispersed by the sun.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an explanatory gloss, not a full flood narrative in the selected
+    passage.
+- id: motif:3
+  label: divine erotic pursuit of a resistant beloved
+  taxonomy_refs:
+  - divine_beloved
+  basis: Apollo falls in love with Daphne after Cupid’s arrow, while Daphne rejects
+    love and flees from him.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The passage segment ends before the full pursuit dialogue and transformation
+    are narrated in detail.
+- id: motif:4
+  label: divine retaliation through love magic
+  taxonomy_refs: []
+  basis: Cupid retaliates for Apollo’s mockery by using two arrows to produce desire
+    in Apollo and aversion in Daphne.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy family directly names love-magic retaliation.
+- id: motif:5
+  label: virgin huntress rejecting marriage
+  taxonomy_refs: []
+  basis: Daphne rejects suitors, lives in the woods, enjoys hunting, and asks her
+    father to grant perpetual virginity like Diana’s.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is a character pattern rather than a supplied motif-family label.
+- id: motif:6
+  label: metamorphosis into laurel
+  taxonomy_refs:
+  - shapeshifter
+  basis: The fable summary states that Daphne is changed into a laurel after appealing
+    to her father.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The transformation is mentioned only in the introductory summary within
+    this selected passage; the detailed metamorphosis lies beyond the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1815-1821
+  quote_or_summary: The explanation interprets Python philosophically as the sun’s
+    heat dispersing harmful exhalations from receding flood waters, causing reptiles
+    born from flood-slime to disappear.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1823-1831
+  quote_or_summary: The explanation says Python may have represented a robber near
+    Parnassus who molested sacrificial travelers, and that Apollo or an Apollo-associated
+    priest or prince destroyed him and liberated the region.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1831-1835
+  quote_or_summary: The explanation says this event gave rise to the Pythian games
+    near Delphi, including contests, singing, dancing, and instrumental music.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1842-1846
+  quote_or_summary: The fable summary states that Apollo loves Daphne, daughter of
+    the river Peneus; she flees him, asks her father for aid, and is changed into
+    a laurel.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1849-1861
+  quote_or_summary: Apollo, proud after subduing Python, mocks Cupid’s use of the
+    bow and contrasts his own arrows against beasts, enemies, and Python with Cupid’s
+    torch-born flames.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1863-1871
+  quote_or_summary: 'Cupid replies that his bow will shoot Apollo, flies to the shady
+    heights of Parnassus, and draws two arrows: a golden sharp one that causes love
+    and a blunt leaden one that repels it.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1871-1875
+  quote_or_summary: Cupid fixes the leaden repelling arrow in Daphne and pierces Apollo
+    with the desire-causing arrow; immediately Apollo loves and Daphne flees even
+    the name of a lover.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1875-1888
+  quote_or_summary: Daphne delights in woods and hunting, rejects suitors and marriage,
+    and asks Peneus to allow her perpetual virginity, as Diana had been granted.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 1890-1899
+  quote_or_summary: Apollo desires Daphne, is compared to stubble and hedges set on
+    fire, admires her features, and Daphne flees more swiftly than the light wind
+    without stopping at his words.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 1836-1839
+  quote_or_summary: The explanation says Apollo’s worship was not known at Delphi
+    in Deucalion’s time; Themis then delivered oracles there, and Earth had done so
+    before Themis.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction uses only the selected passage. Motif candidates are strongest
+    for serpent-slaying, Cupid’s opposed arrows, and divine pursuit; the laurel metamorphosis
+    is only summarized in this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific cross-textual comparison beyond internal explanatory interpretations.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l1815-l1899
+  passage_sha256=167137dde2e7a3e35a7aaac634744144eed57ab4d7332b7ebaaf43de2f699489
+

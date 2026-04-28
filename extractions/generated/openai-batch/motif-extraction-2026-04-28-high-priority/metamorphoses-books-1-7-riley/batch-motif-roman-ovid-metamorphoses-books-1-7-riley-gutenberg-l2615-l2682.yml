@@ -1,0 +1,527 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l2615-l2682
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / BOOK THE SECOND.; lines 2615-2682
+  start: '2615'
+  end: '2682'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: The palace of the Sun was raised high, on stately columns...
+  summary: The passage first reports a variant in which Hierax wakes Argus after Mercury
+    has lulled him to sleep, and Mercury kills Argus and transforms Hierax into a
+    spar-hawk. It then opens Book II with Phaethon, challenged over his parentage,
+    going to Apollo's high palace. The palace displays cosmic artwork of sea, earth,
+    heaven, and zodiac signs. Phaethon approaches the radiant Sun, sees personified
+    times and seasons around him, asks for proof that he is Apollo's son, and Apollo
+    embraces him and swears by the unseen lake of the gods to grant any gift.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Mercury lulls Argus to sleep; Hierax wakes Argus; Mercury kills Argus with
+    a stone and turns Hierax into a spar-hawk.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Phaethon goes to Apollo's palace after being insulted by Epaphus and seeks
+    a token that Apollo is his father.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Apollo swears by the river or lake Styx to refuse Phaethon nothing, and Phaethon
+    asks to guide Apollo's chariot for one day.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: obs:4
+  text: The synopsis states that Phaethon is unsuccessful, the horses run away, and
+    the world is in danger of being consumed.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The palace of the Sun is high, bright with gold and carbuncle, covered with
+    ivory and silver doors.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The palace doors contain carved images of the sea around the earth, the earth,
+    the heavens, sea deities, lands, cities, rivers, nymphs, country deities, and
+    twelve zodiac signs.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Phaethon arrives at the house of his doubted parent by an ascending path and
+    stands at a distance because he cannot bear the radiance nearer.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Phoebus is seated on an emerald throne in a purple garment, with Days, Months,
+    Years, Ages, Hours, and personified Spring, Summer, Autumn, and Winter arranged
+    around him.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Phaethon addresses Phoebus as universal light and father, asks for a token
+    proving his descent, and asks that uncertainty be removed from his mind.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Apollo removes the rays around his head, commands Phaethon to come nearer,
+    embraces him, affirms Clymene's account, and promises any gift.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mercury
+  description: A god who lulls Argus, kills him with a stone, and transforms Hierax
+    into a spar-hawk in the explanatory variant.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Argus
+  description: A figure lulled to sleep by Mercury, awakened by Hierax, and killed
+    by Mercury.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Hierax
+  description: A youth who wakes Argus and is transformed by Mercury into a spar-hawk.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Phaethon / son of Clymene
+  description: A young man who seeks proof that Apollo is his father and asks for
+    a token of divine parentage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Epaphus
+  description: The figure whose insult prompts Phaethon to go to Apollo's palace.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Apollo / Phoebus / the Sun
+  description: The radiant divine figure seated in the palace of the Sun, addressed
+    by Phaethon as father, who embraces him and promises any gift.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Clymene
+  description: Phaethon's mother, whose account of Phaethon's origin is questioned
+    and then affirmed by Apollo.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Mulciber
+  description: The divine craftsman credited with carving the cosmic scenes on the
+    palace doors.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Sea deities on the palace doors
+  description: Triton, Proteus, Aegeon, Doris, and Doris's daughters appear among
+    the carved marine figures.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: Personified time and seasons
+  description: Days, Months, Years, Ages, Hours, Spring, Summer, Autumn, and Winter
+    are arranged around Phoebus.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine slayer and transformer
+  assigned_to:
+  - fig:1
+  basis: Mercury kills Argus and turns Hierax into a spar-hawk.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sleeping watchman-victim
+  assigned_to:
+  - fig:2
+  basis: Argus is lulled to sleep, awakened, and then killed.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: intervening youth transformed into bird
+  assigned_to:
+  - fig:3
+  basis: Hierax wakes Argus and is transformed into a spar-hawk.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: identity-seeking divine child
+  assigned_to:
+  - fig:4
+  basis: Phaethon seeks proof that Apollo is his father.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:5
+  label: provoker by insult
+  assigned_to:
+  - fig:5
+  basis: Epaphus's insult leads Phaethon to seek Apollo.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: radiant divine father
+  assigned_to:
+  - fig:6
+  basis: Phoebus is radiant, is addressed as father, and affirms Phaethon's origin.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: oath-bound giver of a gift
+  assigned_to:
+  - fig:6
+  basis: Apollo swears by Styx and promises Phaethon any gift.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:8
+  label: mother whose testimony is tested
+  assigned_to:
+  - fig:7
+  basis: Phaethon asks whether Clymene has concealed an error, and Apollo says she
+    told the true origin.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: divine artisan
+  assigned_to:
+  - fig:8
+  basis: Mulciber carved the palace-door images.
+  evidence_refs:
+  - ev:3
+- id: role:10
+  label: cosmic attendants
+  assigned_to:
+  - fig:10
+  basis: Time units and seasons are arranged around Phoebus in his palace.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: spar-hawk transformation
+  literal_form: Hierax changed into a spar-hawk
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: solar palace
+  literal_form: high palace of the Sun with gold, carbuncle, ivory, and silver doors
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: cosmic carved doors
+  literal_form: doors carved with sea, earth, heavens, deities, cities, rivers, and
+    zodiac signs
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: ascending path
+  literal_form: path by which Phaethon reaches the high house of his parent
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: solar radiance and rays
+  literal_form: Phoebus's refulgence and rays around his head
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: solar chariot
+  literal_form: Apollo's chariot, which Phaethon asks to guide for one day
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: Styx oath water
+  literal_form: the river or unseen lake by which the gods swear
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:8
+  label: cycle of time and seasons
+  literal_form: Days, Months, Years, Ages, Hours, Spring, Summer, Autumn, and Winter
+    around Phoebus
+  associated_figures:
+  - fig:6
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hierax wakes Argus and is transformed
+  summary: In the explanatory variant, Mercury has put Argus to sleep; Hierax wakes
+    Argus; Mercury kills Argus with a stone and changes Hierax into a spar-hawk.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Phaethon's parentage challenge and dangerous request summarized
+  summary: Phaethon, insulted by Epaphus, goes to Apollo for proof of sonship; Apollo
+    swears by Styx to grant a request; Phaethon asks to drive the chariot, leading
+    to danger for the world.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Cosmic architecture of the Sun's palace
+  summary: 'The palace of the Sun is described as elevated and radiant, with doors
+    displaying a crafted image of the ordered cosmos: sea, earth, heaven, deities,
+    and zodiac signs.'
+  figure_refs:
+  - fig:6
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Phaethon enters the radiant audience hall
+  summary: Phaethon ascends to his doubted father's house, approaches Phoebus, and
+    sees the radiant god enthroned among personified times and seasons.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:10
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:8
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Proof of divine fatherhood and oath of gift
+  summary: Phaethon asks Phoebus for a sign proving his descent; Phoebus removes his
+    rays, embraces him, affirms Clymene's statement, and promises any gift by the
+    lake of the gods.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine child seeks recognition from divine parent
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Phaethon seeks proof that Apollo is his father, and Apollo affirms his origin
+    and embraces him.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage gives only the opening recognition scene, not the full aftermath
+    except in summary.
+- id: motif:2
+  label: ascent to radiant divine palace
+  taxonomy_refs:
+  - ascent
+  basis: Phaethon reaches the high palace of the Sun by an ascending path and enters
+    the house of his doubted parent.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The ascent is spatial and narrative; no explicit ritual or spiritual initiation
+    is stated.
+- id: motif:3
+  label: oath-bound divine boon with dangerous consequences
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Apollo swears by Styx to grant any request, and the summary states that Phaethon's
+    request to drive the chariot leads to runaway horses and danger to the world.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy ref is approximate because the passage presents an oath and
+    gift rather than an explicit reciprocal exchange.
+- id: motif:4
+  label: world threatened by consuming fire
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: The synopsis states that Phaethon's failed attempt to guide the chariot puts
+    the world in danger of being consumed.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This line range contains the fable synopsis rather than the full narrated
+    burning episode.
+- id: motif:5
+  label: human transformed into bird after intervention
+  taxonomy_refs:
+  - shapeshifter
+  basis: Hierax wakes Argus and is turned by Mercury into a spar-hawk.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The transformation is imposed by Mercury; the figure is not described
+    as voluntarily changing shape.
+- id: motif:6
+  label: cosmic palace as image of ordered world
+  taxonomy_refs:
+  - world_center
+  basis: The Sun's palace is high and contains crafted representations of sea, earth,
+    heaven, and zodiac signs arranged around the solar deity.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly call the palace a world center; the motif
+    is inferred from its cosmic imagery and solar setting.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2615-2621
+  quote_or_summary: Some mythologists say that after Mercury lulled Argus to sleep,
+    Hierax woke him; Mercury killed Argus with a stone and turned Hierax into a spar-hawk.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 2625-2633
+  quote_or_summary: The fable summary says Phaethon, insulted by Epaphus, seeks proof
+    from Apollo; Apollo swears by Styx to grant any request; Phaethon asks to guide
+    the chariot, fails, and endangers the world with consumption.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 2635-2653
+  quote_or_summary: The Sun's palace is high and radiant, with precious materials
+    and doors carved by Mulciber showing sea, earth, heaven, marine deities, lands,
+    rivers, nymphs, country deities, and twelve zodiac signs.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 2655-2668
+  quote_or_summary: The son of Clymene arrives by an ascending path, stands back from
+    the refulgence, and sees Phoebus on an emerald throne surrounded by Days, Months,
+    Years, Ages, Hours, and the four seasons.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 2670-2682
+  quote_or_summary: Phoebus asks why Phaethon has come; Phaethon asks for a token
+    proving his descent; Phoebus removes his rays, embraces him, affirms Clymene's
+    truthfulness, and promises any gift by the unseen lake of the gods.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates involving parent-child
+    recognition, ascent, and world-destroying fire are strongly supported; world-center
+    and sacred-exchange mappings are more interpretive. No comparison claims were
+    added because the passage does not itself develop a cross-text comparison beyond
+    noting an unnamed mythological variant.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy refs are limited to the provided available lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l2615-l2682
+  passage_sha256=c3a7a0302744b4bc8b4bcc170b9c56d897b92693705020c83a1dae6bfc7931a8
+

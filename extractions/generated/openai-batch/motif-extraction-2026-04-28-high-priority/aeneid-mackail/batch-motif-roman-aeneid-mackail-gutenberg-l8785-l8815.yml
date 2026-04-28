@@ -1,0 +1,176 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l8785-l8815
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK FIFTH / BOOK SIXTH / BOOK EIGHTH / BOOK NINTH; lines 8785-8815
+  start: '8785'
+  end: '8815'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes for Book Ninth list omitted lines, present Latin text for
+    two passages, and discuss textual readings and interpretations of phrasing, especially
+    whether a term in a quoted line about Sulmo should mean back or shield.
+  language: English with Latin quotations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes state that Book Ninth lines 29, 122, and 529 are omitted in manuscript
+    witnesses described by the editor.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: For line 281, the passage gives a Latin reading and says the editor adopts
+    it with hesitation, while noting that manuscript authority favors another reading.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: For line 412, the quoted Latin describes an impact associated with Sulmo in
+    which something reaches the back or shield area, breaks, and split wood passes
+    through the chest region.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The commentary discusses occurrences and possible meanings of the phrase translated
+    or interpreted as involving the back, backward motion, or a shield.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The commentary mentions uncertainty in another passage about whether a phrase
+    referred to a boar or to Mezentius.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Sulmo
+  description: Named figure in the Latin line quoted for Book Ninth line 412.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Mezentius
+  description: Named figure mentioned in editorial comparison about uncertainty in
+    another passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: boar
+  description: Animal mentioned in editorial comparison as a possible referent in
+    another passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: wounded named figure
+  assigned_to:
+  - fig:1
+  basis: The quoted line for 412 describes an impact involving Sulmo and split wood
+    passing through the chest region.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: possible referent in editorial comparison
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The note says uncertainty about line order makes it possible that a phrase
+    was meant to refer to the boar rather than to Mezentius.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: split wood
+  literal_form: fisso ... ligno / split wood
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Editorial note on Sulmo line
+  summary: The passage quotes a Latin line involving Sulmo and a broken piece of wood
+    passing through the chest region, then discusses whether the relevant wording
+    means back or shield.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Textual notes on omissions and variant reading
+  summary: The passage records omitted lines and comments on a chosen Latin reading
+    for line 281 against another manuscript-supported reading.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8785-8815; Book Ninth notes on ll. 29, 122, 529
+  quote_or_summary: The notes state that l. 29 and l. 122 are omitted with the best
+    manuscripts, and l. 529 is omitted with most manuscripts.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 8785-8815; Book Ninth note on l. 281
+  quote_or_summary: The note gives a Latin reading for l. 281 and says the editor
+    adopts it with hesitation as least objectionable, while manuscript authority favors
+    a different reading.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 8785-8815; Book Ninth note on l. 412
+  quote_or_summary: "“Et venit adversi in tergum Sulmonis ibique / Frangitur, et fisso
+    transit praecordia ligno.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 8785-8815; commentary following Book Ninth l. 412
+  quote_or_summary: The commentary says the phrase in tergum occurs elsewhere with
+    meanings related to the back or backward motion, and argues that the word could
+    also mean shield; it also mentions uncertainty over whether another phrase referred
+    to a boar or to Mezentius.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is primarily editorial commentary rather than mythic narrative.
+    Literal figures and objects are extracted only where explicitly mentioned; no
+    motif or comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy motif family is directly supported by this passage. The literal object 'split wood' is recorded without assigning a taxonomy symbol.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l8785-l8815
+  passage_sha256=4ed37eb465cde1a230a62c1853763aba74243cd2382f0b32e5fc3d3a33332306
+

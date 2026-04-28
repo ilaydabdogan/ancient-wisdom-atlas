@@ -1,0 +1,381 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l5762-l5793
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 5762-5793
+  start: '5762'
+  end: '5793'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial footnotes identify Epopeus as a rowing timekeeper, compare a
+    group involved in a dreadful murder to later buccaneer crews, identify Naxos and
+    Cithaeron, describe Bacchic transformations of a ship in Hyginus and a Homeric
+    hymn, and explain an appeal to Autonoë concerning the fate of Actaeon.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Epopeus is explained as the keeper of time for rowers.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A group associated with a dreadful murder is described as made of lawless
+    materials comparable to later buccaneer crews.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Naxos is identified as a famous island of the Cyclades.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Hyginus is cited as saying that Bacchus changed oars into thyrsi, sails into
+    grape clusters, and rigging into ivy branches.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A Homeric hymn on the same subject is said to describe a ship flowing with
+    wine, vines on the sails, ivy around the mast, and benches wreathed with chaplets.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Cithaeron is identified as a mountain of Boeotia famous for orgies of Bacchus.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Ino and Autonoë are identified as two sisters.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: An appeal is described in which Autonoë, mother of Actaeon, is asked to remember
+    her son's fate and show mercy, but does not do so.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Epopeus
+  description: Named as the keeper of time for the rowers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: rowers
+  description: Rowers whose time was kept by Epopeus.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: lawless crew
+  description: A group associated with a dreadful murder and compared to later buccaneer
+    crews.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Bacchus
+  description: Deity associated with transformations of ship parts and with orgies
+    on Cithaeron.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Ino
+  description: Named as one of two sisters.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Autonoë
+  description: Named as one of two sisters and as the mother of Actaeon; an appeal
+    for mercy is addressed to her.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: Actaeon
+  description: Autonoë's son, remembered for a sad fate.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: rowing timekeeper
+  assigned_to:
+  - fig:1
+  basis: The note defines Epopeus as keeper of time for the rowers.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: rowers
+  assigned_to:
+  - fig:2
+  basis: The note mentions rowers whose time is kept.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: lawless group
+  assigned_to:
+  - fig:3
+  basis: The note describes them as made of lawless materials.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divine transformer and Bacchic cult figure
+  assigned_to:
+  - fig:4
+  basis: Bacchus is said to change ship parts and to be associated with orgies on
+    Cithaeron.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: sister
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Ino and Autonoë are identified as two sisters.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: mother appealed to for mercy
+  assigned_to:
+  - fig:6
+  basis: Autonoë is identified as Actaeon's mother and the addressee of an appeal
+    for mercy.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: son with a sad fate
+  assigned_to:
+  - fig:7
+  basis: Actaeon is described as Autonoë's son with a sad fate.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: ship equipment transformed into Bacchic vegetation
+  literal_form: oars, sails, and rigging changed into thyrsi, grape clusters, and
+    ivy branches
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: wine-filled ship
+  literal_form: ship flowing with wine
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: vines and ivy on ship
+  literal_form: vines on the sails and ivy around the mast
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Bacchic mountain
+  literal_form: Cithaeron, a mountain of Boeotia famous for orgies of Bacchus
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: island setting
+  literal_form: Naxos, an island of the Cyclades
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Bacchic transformation of ship parts
+  summary: In cited parallel accounts, Bacchus transforms parts of a ship into Bacchic
+    plant or ritual forms, and the ship is described with wine, vines, ivy, and chaplets.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Appeal to Autonoë
+  summary: A speaker appeals to Autonoë, mother of Actaeon, to remember her son's
+    fate and show mercy; the note says the appeal is ineffective.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+- id: scene:3
+  label: Bacchic Cithaeron
+  summary: Cithaeron is identified as a Boeotian mountain famous for orgies of Bacchus.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine transformation of ship into Bacchic abundance
+  taxonomy_refs:
+  - shapeshifter
+  basis: The note reports that Bacchus changes ship equipment into thyrsi, grapes,
+    and ivy, while a Homeric hymn describes the ship as filled with wine and vegetation.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy has no exact object-transformation or Bacchic epiphany
+    category; 'shapeshifter' is only an approximate fit because objects, not Bacchus
+    himself, are transformed.
+- id: motif:2
+  label: sacred mountain associated with ecstatic rites
+  taxonomy_refs: []
+  basis: Cithaeron is identified as a mountain famous for orgies of Bacchus.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives only an editorial identification, not a full narrative
+    episode.
+- id: motif:3
+  label: failed plea for mercy through memory of kin's fate
+  taxonomy_refs: []
+  basis: The note describes an appeal to Autonoë to remember Actaeon's fate and show
+    mercy, but says the appeal is in vain.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage summarizes the appeal without giving the surrounding narrative
+    or speaker identity.
+comparison_claims:
+- id: claim:1
+  claim: The Bacchic ship-transformation episode is explicitly paralleled with accounts
+    attributed to Hyginus and to a Homeric hymn on the same subject.
+  claim_level: same_motif
+  target: Hyginus and a Homeric hymn account of Bacchus on the ship
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage is an editorial footnote and does not quote the full parallel
+    texts; it only summarizes selected details.
+- id: claim:2
+  claim: The note compares the lawless group in the passage to later buccaneer crews
+    such as those of Morgan and Captain Kydd.
+  claim_level: same_function
+  target: later buccaneer crews of Morgan and Captain Kydd
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial analogy across periods rather than evidence of
+    mythic historical contact or shared tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5762-5763
+  quote_or_summary: Footnote 91 explains Epopeus as the keeper of time for the rowers.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5765-5768
+  quote_or_summary: Footnote 92 says the group involved in a dreadful murder seems
+    composed of lawless materials like later buccaneer crews of Morgan and Captain
+    Kydd.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5770-5771
+  quote_or_summary: Footnote 93 identifies Naxos as a famous island of the Cyclades.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5773-5776
+  quote_or_summary: Footnote 94 says Hyginus reports that Bacchus changed oars into
+    thyrsi, sails into grape clusters, and rigging into ivy branches.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5776-5779
+  quote_or_summary: Footnote 94 says a Homeric hymn describes the ship with wine flowing,
+    vines on the sails, ivy around the mast, and benches wreathed with chaplets.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5784-5785
+  quote_or_summary: Footnote 96 identifies Cithaeron as a Boeotian mountain famous
+    for orgies of Bacchus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5787-5788
+  quote_or_summary: Footnote 97 identifies the two sisters as Ino and Autonoë.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 5790-5793
+  quote_or_summary: Footnote 98 explains that Autonoë, mother of Actaeon, is appealed
+    to in memory of her son's sad fate and asked for mercy, but the appeal fails.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly editorial annotation, so literal identifications are
+    clear but motif extraction is limited and should be reviewed against the surrounding
+    Ovidian narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied footnote passage and metadata were used; no surrounding narrative was assumed.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l5762-l5793
+  passage_sha256=5095b24cabf8cfae55fdfaa48649b034663ce4860bec8a31e02908bf585372b5
+

@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l8519-l8528
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: BOOK THE FIFTH. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 8519-8528
+  start: '8519'
+  end: '8528'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Two explanatory footnotes identify the drink given by an old woman to Ceres
+    as κυκεών or Roman cinnus, describe its ingredients and one-draught consumption,
+    and note a variant in which the boy mentioned at verse 451 is the old woman's
+    son.
+  language: English with Greek terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Orpheus is cited as calling the drink given by the old woman to Ceres κυκεών
+    in his Hymn.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Arnobius is cited as saying the drink was a mixed liquor called cinnus by
+    the Romans.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The drink is described as made of parched pearled barley, honey, and wine,
+    with flowers and various herbs floating in it.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Antoninus Liberalis is cited as saying that Ceres drank the drink at one draught.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Nicander is cited as saying that the boy was the son of the old woman.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The footnote comments that, if the boy was the old woman's son, the Goddess
+    made a poor return for the old woman's hospitality.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ceres
+  description: Goddess who receives and drinks the old woman's beverage.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: old woman
+  description: Woman who gives a drink to Ceres and is described as offering hospitality.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Orpheus
+  description: Cited authority whose Hymn names the drink κυκεών.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Arnobius
+  description: Cited authority describing the drink as a Roman mixed liquor called
+    cinnus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Antoninus Liberalis
+  description: Cited authority for Ceres drinking the beverage at one draught.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Nicander
+  description: Cited authority for the boy being the old woman's son.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: boy
+  description: Boy identified in Nicander's account as the son of the old woman.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine recipient of hospitality
+  assigned_to:
+  - fig:1
+  basis: Ceres receives the drink given by the old woman, and the note frames the
+    old woman's act as hospitality.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: drink consumer
+  assigned_to:
+  - fig:1
+  basis: Antoninus Liberalis is cited as saying Ceres drank the beverage at one draught.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: host and drink-giver
+  assigned_to:
+  - fig:2
+  basis: The old woman gives Ceres the drink, and the passage calls her action hospitality.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: cited textual authority
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The footnotes attribute details to Orpheus, Arnobius, Antoninus Liberalis,
+    and Nicander.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:5
+  label: possible son of the host
+  assigned_to:
+  - fig:7
+  basis: Nicander is cited for the boy being the son of the old woman.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ritual mixed drink
+  literal_form: κυκεών / cinnus made from barley, honey, wine, flowers, and herbs
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Ceres receives and drinks the old woman's beverage
+  summary: The footnote explains that an old woman gives Ceres a mixed drink, named
+    κυκεών by Orpheus and cinnus by Arnobius, and that Ceres drinks it in one draught
+    according to Antoninus Liberalis.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Variant relationship of the boy to the host
+  summary: A second footnote reports Nicander's version that the boy was the old woman's
+    son and comments on the goddess's poor return for the woman's hospitality.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine guest receives hospitality
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The old woman gives Ceres a drink, and the footnote explicitly characterizes
+    the old woman's action as hospitality toward the Goddess.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The supplied passage is a footnote and does not include the surrounding
+    narrative action that explains the goddess's response.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8519-8523
+  quote_or_summary: Orpheus, in his Hymn, calls the drink given by the old woman to
+    Ceres κυκεών; Arnobius says it was a mixed liquor called by the Romans 'cinnus.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; short excerpt used for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 8522-8524
+  quote_or_summary: The drink is described as made of parched pearled barley, honey,
+    and wine, with flowers and various herbs floating in it.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 8524-8525
+  quote_or_summary: Antoninus Liberalis says that Ceres drank it off 'at one draught.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; short excerpt used for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 8527-8528
+  quote_or_summary: According to Nicander, the boy was the son of the old woman; the
+    note adds that, if so, the Goddess made a poor return for her hospitality.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is limited to two explanatory footnotes; motif identification
+    is cautious because the surrounding narrative is not included in the supplied
+    passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage provides source attributions and variants, not an explicit comparative motif claim.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l8519-l8528
+  passage_sha256=31dce81b85c08c57ea6075ef0cf4b4b367d1c6507bee7af8aa4341f0901db401
+

@@ -1,0 +1,618 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l2225-l2297
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 2225-2297
+  start: '2225'
+  end: '2297'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage first gives a rationalizing explanation linking the story of
+    Io with Egyptian Isis traditions and Greek accounts of Io, Epaphus, Apis/Osiris,
+    Argus, and the Bosphorus. The narrative then recounts Juno detecting Jupiter's
+    concealment, Jupiter transforming Io into a heifer, Juno requesting the heifer
+    as a gift, and Juno placing Io under the watch of hundred-eyed Argus. Io is confined,
+    fed rough food, tied by the neck, and frightened by her own bovine voice.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The explanatory note states that Greek mythology was often embellished with
+    narratives of Phoenician or Egyptian origin, and that Io's story probably came
+    from Egypt.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The explanatory note identifies Isis as an Egyptian divinity whose worship
+    spread into foreign countries through colonies.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The explanatory note reports Greek authors saying that Io was the daughter
+    of Inachus, that Jupiter carried her away to Crete, and that she bore Epaphus.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The explanatory note reports that Juno, jealous after discovering the intrigue,
+    put Io under the care of Argus.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The explanatory note reports a version in which Jupiter slew Argus and placed
+    Io on a vessel with a cow figure at its head.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The fable summary states that Jupiter changed Io into a cow to conceal her
+    from Juno's jealousy.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Juno notices unusual clouds causing an appearance of night during bright day,
+    looks for Jupiter, descends to earth, and orders the mists to withdraw.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Jupiter changes the daughter of Inachus into a sleek heifer and falsely says
+    the animal was produced from the earth.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Juno asks Jupiter to give her the cow; Jupiter yields the transformed Io to
+    Juno.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Argus has a head encircled with a hundred eyes, with some resting while the
+    rest keep watch.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Argus watches Io continually, lets her feed by day, shuts her up after sunset,
+    and ties a cord around her neck.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Io eats arbute leaves and bitter herbs, lies on the ground, drinks muddy streams,
+    cannot stretch out arms, and makes lowing sounds when trying to complain.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Io, daughter of Inachus
+  description: A figure identified as daughter of Inachus and mistress of Jupiter,
+    transformed into a cow or heifer and later guarded by Argus.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Jupiter
+  description: A god who carries Io away in the explanatory account, transforms her
+    into a cow or heifer to conceal her, falsely explains her origin, gives her to
+    Juno, and is said in the summary to send Mercury against Argus.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:10
+- id: fig:3
+  name_or_label: Juno / daughter of Saturn
+  description: Jupiter's wife, described as jealous and suspicious, who detects the
+    concealment, asks for the heifer as a gift, and gives Io to Argus for guarding.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Argus, son of Aristor
+  description: A hundred-eyed watcher appointed by Juno to guard Io.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Mercury
+  description: A god whom the fable summary says Jupiter sends to cast Argus into
+    deep sleep and kill him.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:10
+- id: fig:6
+  name_or_label: Isis
+  description: An Egyptian divinity whose worship is linked in the explanatory note
+    with the Greek figure Io.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Epaphus
+  description: A son of Io by Jupiter who, according to the explanatory note, went
+    to reign in Egypt.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Apis / Osiris / Serapis
+  description: A figure whom Io is said to have married; after death he was numbered
+    among Egyptian deities as Serapis.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: transformed woman
+  assigned_to:
+  - fig:1
+  basis: Io is changed into a cow or heifer in both the summary and narrative.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: divine beloved or mistress
+  assigned_to:
+  - fig:1
+  basis: The passage calls Io Jupiter's mistress and describes Jupiter's love as a
+    reason not to give her up.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: guarded captive
+  assigned_to:
+  - fig:1
+  basis: Io is put under Argus's watch, shut up, tied by the neck, and unable to communicate
+    normally.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:4
+  label: divine transformer
+  assigned_to:
+  - fig:2
+  basis: Jupiter changes Io's features into a sleek heifer to conceal her.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: deceptive concealer
+  assigned_to:
+  - fig:2
+  basis: Jupiter uses clouds or mists and falsely asserts that the cow came from the
+    earth.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: jealous spouse
+  assigned_to:
+  - fig:3
+  basis: Juno is described as jealous and suspicious of Jupiter's intrigues.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: possessor of the transformed rival
+  assigned_to:
+  - fig:3
+  basis: Juno asks for the cow as a gift and gives her to Argus to be kept.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:8
+  label: vigilant guard
+  assigned_to:
+  - fig:4
+  basis: Argus has a hundred eyes and watches Io continually.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:9
+  label: sent agent against the guard
+  assigned_to:
+  - fig:5
+  basis: The fable summary says Jupiter sends Mercury to put Argus to sleep and kill
+    him.
+  evidence_refs:
+  - ev:10
+- id: role:10
+  label: Egyptian divine counterpart in commentary
+  assigned_to:
+  - fig:6
+  basis: The explanatory note links Isis and Io through the spread of Egyptian worship
+    into Greece.
+  evidence_refs:
+  - ev:1
+- id: role:11
+  label: son who reigns in Egypt
+  assigned_to:
+  - fig:7
+  basis: The explanatory note says Epaphus, son of Jupiter and Io, went to reign in
+    Egypt.
+  evidence_refs:
+  - ev:2
+- id: role:12
+  label: deified Egyptian spouse
+  assigned_to:
+  - fig:8
+  basis: The explanatory note says Io married Apis or Osiris, later numbered among
+    Egyptian deities as Serapis.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: cow or heifer form
+  literal_form: Io's transformed bovine body, described as a cow or sleek heifer.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: hundred eyes
+  literal_form: Argus's head encircled with a hundred eyes, with only some sleeping
+    while the rest watch.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: cow-headed vessel
+  literal_form: A vessel with the figure of a cow at its head in the explanatory account.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: concealing mists and clouds
+  literal_form: Clouds and mists that make an appearance of night under bright day
+    and are ordered to withdraw by Juno.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: cord around the neck
+  literal_form: A cord tied around Io's neck after sunset.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: arbute tree leaves
+  literal_form: Leaves of the arbute tree eaten by Io while in bovine form.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: muddy streams
+  literal_form: Muddy streams from which Io drinks.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Explanatory linkage of Io with Egyptian tradition
+  summary: The commentary presents Io's story as probably Egyptian in origin, links
+    Io with Isis, and reports Greek accounts connecting Io, Epaphus, Apis or Osiris,
+    and Egypt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Juno detects concealment
+  summary: Juno notices unnatural cloud-darkness, searches for Jupiter, descends from
+    heaven, and orders the mists to withdraw.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Io transformed and explained as earth-born
+  summary: Jupiter, having anticipated Juno's arrival, transforms Io into a heifer
+    and falsely claims the cow was produced from the earth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Juno obtains Io as a gift
+  summary: Juno asks Jupiter for the cow; Jupiter hesitates between shame and love
+    but gives the transformed Io to Juno.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Argus guards the transformed Io
+  summary: Juno gives Io to Argus, whose hundred eyes keep watch. He lets Io feed
+    by day and shuts her up at night.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Io's suffering in animal form
+  summary: Io eats leaves and bitter herbs, lies on the ground, drinks muddy water,
+    lacks arms to supplicate Argus, and is frightened by her own lowing voice.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:9
+- id: scene:7
+  label: Announced mission of Mercury
+  summary: The fable summary states that Jupiter sends Mercury to put Argus into deep
+    sleep and kill him, though this action is only summarized within the supplied
+    passage.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: woman transformed into animal to conceal divine affair
+  taxonomy_refs:
+  - shapeshifter
+  - divine_beloved
+  basis: Io, Jupiter's mistress, is changed by Jupiter into a cow or heifer to hide
+    her from Juno.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy term 'shapeshifter' is applied to a forced transformation
+    by another figure, not voluntary shape-changing.
+- id: motif:2
+  label: jealous divine spouse guards rival
+  taxonomy_refs:
+  - stolen_beloved
+  - divine_beloved
+  basis: Juno, jealous of Jupiter's intrigue, obtains the transformed Io and places
+    her under Argus's guard to prevent theft or recovery.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage frames Io as Jupiter's mistress and Juno's rival, but the
+    exact emotional and legal status of Io is mediated by the translation and commentary.
+- id: motif:3
+  label: many-eyed vigilant guardian
+  taxonomy_refs: []
+  basis: Argus is described as having a hundred eyes, with only two resting at a time
+    while the others remain on duty, enabling constant watch over Io.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No provided taxonomy family directly names this motif.
+- id: motif:4
+  label: deceptive divine concealment by clouds and false origin story
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Jupiter conceals events with mists or clouds, transforms Io, and falsely
+    says the cow was produced from the earth.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The 'trickster_boundary' taxonomy reference is approximate; the passage
+    presents deception by Jupiter rather than a designated trickster figure.
+- id: motif:5
+  label: loss of human voice after animal transformation
+  taxonomy_refs:
+  - shapeshifter
+  basis: Io tries to complain but can only low, and she is frightened by her own voice.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: This is a sub-motif within the transformation episode rather than a separately
+    named taxonomy item.
+comparison_claims:
+- id: claim:1
+  claim: The explanatory note itself presents Io's story as probably derived from
+    Egyptian tradition and linked to Isis worship, with Greek authors connecting Io's
+    descendants and spouse to Egypt.
+  claim_level: historical_contact
+  target: Egyptian Isis tradition and Greek Io tradition
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This claim is based on the translator's explanatory commentary within
+    the passage, not on the narrative voice of Ovid alone; no external verification
+    is supplied here.
+- id: claim:2
+  claim: The explanatory note offers a rationalizing explanation for Io's cow transformation
+    by linking it to a vessel with a cow figure at its head.
+  claim_level: same_motif
+  target: Io's bovine transformation motif and cow-headed vessel explanation
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports this as an explanatory tradition; it does not prove
+    the historical origin of the transformation motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2225-2234
+  quote_or_summary: The commentary says Greek mythology often used Phoenician or Egyptian
+    narratives; Io's story probably came from Egypt; Isis was an Egyptian divinity
+    whose worship spread abroad and was later identified with Io in Greece.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2236-2254
+  quote_or_summary: The commentary reports Greek authors saying Io was daughter of
+    Inachus, carried by Jupiter to Crete, mother of Epaphus, associated with Egypt,
+    married to Apis or Osiris, guarded by Argus through Juno's jealousy, and placed
+    by Jupiter on a vessel bearing a cow figure; it also links Bosphorus to Io's passage
+    as a cow.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2256-2261
+  quote_or_summary: The fable summary says Jupiter changed Io into a cow to conceal
+    her from Juno, then had to give her to Juno, who committed her to Argus's charge.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2263-2274
+  quote_or_summary: Juno sees unusual clouds making day look like night, suspects
+    Jupiter because of past intrigues, descends from heaven, and commands the mists
+    to withdraw.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2274-2281
+  quote_or_summary: Jupiter, foreseeing Juno's approach, changes the daughter of Inachus
+    into a sleek heifer; Juno asks about the cow, and Jupiter falsely says it was
+    produced from the earth.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 2281-2289
+  quote_or_summary: Juno asks for the cow as a gift; Jupiter is torn between love
+    and shame but gives her up, since refusing such a gift would increase suspicion.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 2290-2294
+  quote_or_summary: Juno remains afraid Jupiter will steal Io and gives her to Argus,
+    son of Aristor; Argus has a hundred eyes, with some resting while the rest watch.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 2294-2297
+  quote_or_summary: Argus always keeps Io before his eyes, lets her feed by day, shuts
+    her up after sunset, and ties a cord around her neck.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: '2297'
+  quote_or_summary: Io feeds on arbute leaves and bitter herbs, lies on the ground,
+    drinks muddy streams, cannot stretch out arms to Argus, and produces lowing sounds
+    when trying to complain.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 2259-2261
+  quote_or_summary: The fable summary says Jupiter sends Mercury to cast Argus into
+    deep sleep and take his life.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage. Motif labels use the available
+    taxonomy where directly or approximately supported. Comparison claims are limited
+    to the passage's own explanatory commentary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All evidence is summarized from the public-domain supplied passage; no external sources were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l2225-l2297
+  passage_sha256=c1360929efe1c52df304d223e2ea7daebf565294df8c0371ccc5026bf4d31196
+

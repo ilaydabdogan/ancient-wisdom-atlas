@@ -1,0 +1,577 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l5796-l5867
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 5796-5867
+  start: '5796'
+  end: '5867'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives explanatory notes on different figures named Bacchus,
+    identifies the most ancient Bacchus with Egyptian Osiris according to some ancient
+    authorities, explains the thigh-birth story through a Greek word with two meanings,
+    describes Bacchic festivals and rites, and rationalizes the stories of Pentheus
+    and the transformed mariners.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage reports ancient accounts naming several deities called Bacchus,
+    with differing parentage and attributes.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Herodotus and Plutarch identify the oldest Bacchus as born
+    in Egypt and originally called Osiris.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the worship of this divinity passed from Egypt to Greece
+    and was altered there, with Orpheus credited by Diodorus Siculus as introducing
+    innovations.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage explains the story of Bacchus being enclosed in Jupiter's thigh
+    as possibly arising from a Greek word meaning either thigh or hollow of a mountain.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Bacchus is described as applying himself to vine cultivation and teaching
+    profitable and necessary arts, leading to divine honors and spreading worship.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At the Trieterica, Bacchantes carried the god's figure in a chariot drawn
+    by two tigers or panthers, wore vine leaves, held thyrsi, ran frantically, and
+    made music and cries.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Pentheus is described as opposing abuses in the mysteries of Bacchus and going
+    to Mount Cithaeron to chastise Bacchantes, who then tore him in pieces in madness.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A variant says Pentheus climbed into a tree to look at secret orgies, was
+    discovered by the Bacchantes, and was put to death.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The mariners' transformation story is explained as possibly arising from Etrurian
+    merchants whose ship had a dolphin or porpoise-like figure at the prow and who
+    were shipwrecked near Naxos.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Bacchus
+  description: A deity name assigned to multiple figures; also identified in one view
+    with Egyptian Osiris and associated with vine cultivation, arts, festivals, and
+    mysteries.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Osiris
+  description: Named as the original Egyptian identity of the most ancient Bacchus
+    in the opinion attributed to Herodotus and Plutarch.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Jupiter
+  description: Named in several Bacchus genealogies and in the account of Bacchus
+    being shut in his thigh.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Orpheus
+  description: Credited with introducing the worship from Egypt to Greece and making
+    innovations, and with dedicating Osiris mysteries to Bacchus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Bacchantes
+  description: Female worshippers who celebrate Bacchic rites, carry the god's figure,
+    and in the Pentheus account tear him in pieces.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Pentheus
+  description: Son of Echion and Agave, successor to Cadmus' kingdom; described as
+    opposing Bacchic abuses, or in a variant as spying on secret rites, and killed
+    by Bacchantes.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Agave
+  description: Mother of Pentheus and daughter of Cadmus, included among the worshippers
+    who tear Pentheus in pieces.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Etrurian merchants / mariners
+  description: Merchants from the coast of Etruria whose ship, according to Bochart's
+    explanation, had a dolphin or porpoise-like prow and was shipwrecked near Naxos.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: named divinity
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Bacchus is repeatedly called a deity or divinity, and Osiris is identified
+    with the earliest Bacchus.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: culture-bringing teacher
+  assigned_to:
+  - fig:1
+  basis: Bacchus is said to cultivate the vine and teach profitable and necessary
+    arts.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: recipient of festival worship
+  assigned_to:
+  - fig:1
+  basis: The Trieterica carries the god's figure and calls him by several names.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: divine parent or gestational bearer
+  assigned_to:
+  - fig:3
+  basis: Jupiter is named as Bacchus' father in several accounts and as enclosing
+    Bacchus in his thigh in one explanation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: ritual transmitter and innovator
+  assigned_to:
+  - fig:4
+  basis: Orpheus is credited with introducing and altering the worship in Greece.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: ecstatic ritual celebrants
+  assigned_to:
+  - fig:5
+  basis: The Bacchantes run frantically around the chariot, carry thyrsi, make music,
+    and shout invocations.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: violent worshippers
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: The worshippers, including Pentheus' mother, tear Pentheus in pieces in their
+    madness.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: king opposing Bacchic abuses
+  assigned_to:
+  - fig:6
+  basis: Pentheus succeeds his grandfather in the kingdom and opposes abuses in Bacchic
+    mysteries.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: punished observer of secret rites
+  assigned_to:
+  - fig:6
+  basis: A variant says Pentheus climbs a tree to view secret ceremonies and is killed
+    for his curiosity.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: impious or negligent mariners in rationalizing account
+  assigned_to:
+  - fig:8
+  basis: The merchants are said perhaps to have neglected or despised Bacchic mysteries,
+    leading to a report that the god destroyed them.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: mountain hollow / Mount Nysa
+  literal_form: The Greek word μηρὸς is said to mean either thigh or hollow of a mountain;
+    the Egyptian version places Bacchus' nursing on Mount Nysa in Arabia.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: vine leaves and vine cultivation
+  literal_form: Bacchus cultivates the vine; Bacchantes are crowned with vine leaves
+    during the festival.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: thyrsus
+  literal_form: Bacchantes hold thyrsi in their hands during the Trieterica.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: chariot drawn by tigers or panthers
+  literal_form: The figure of the god is carried in a chariot drawn by two tigers
+    or panthers.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: tambourines and brazen instruments
+  literal_form: The air is filled with the noise of tambourines and brazen instruments.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: tree used for secret observation
+  literal_form: Pentheus climbs into a tree to overlook secret orgy ceremonies in
+    Pausanias' variant.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: dolphin or porpoise prow
+  literal_form: The Etrurian merchants' vessel is said to have had the figure of a
+    dolphin, or a fish called tursio, at the prow.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: Naxos sacred to Bacchus
+  literal_form: The merchants are said probably to have been shipwrecked near the
+    Isle of Naxos, which was sacred to Bacchus.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Multiple Bacchus genealogies
+  summary: Ancient authorities are summarized as giving several different Bacchus
+    figures, parents, attributes, and cultic associations.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Egyptian origin and Greek alteration of worship
+  summary: The oldest Bacchus is identified with Egyptian Osiris, and his worship
+    is said to pass to Greece, where Orpheus introduces innovations and dedicates
+    Osiris' mysteries to Bacchus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Wordplay explanation of thigh-birth
+  summary: The account of Bacchus carried in Jupiter's thigh is explained as a misunderstanding
+    of a Greek word that may also mean the hollow of a mountain, connected with nursing
+    on Mount Nysa.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:4
+  label: Trieterica festival
+  summary: Bacchantes carry the god's figure in an animal-drawn chariot, wear vine
+    leaves, hold thyrsi, run frantically, make music, and call out names of Bacchus.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:5
+  label: Death of Pentheus
+  summary: Pentheus opposes or spies upon Bacchic rites and is killed by Bacchantes;
+    one version includes his mother among the attackers, and another places him in
+    a tree watching secret ceremonies.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:6
+  label: Rationalized mariners story
+  summary: The story of transformed mariners is explained as possibly based on Etrurian
+    merchants with a dolphin-like ship prow, a shipwreck near Naxos, and a report
+    of divine punishment for impiety.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Syncretic identification of Bacchus with Osiris
+  taxonomy_refs: []
+  basis: The passage states that the earliest Bacchus was, in one opinion, born in
+    Egypt and originally called Osiris, and that his worship passed from Egypt to
+    Greece.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an explanatory claim reported in the passage, not direct evidence
+    of cult history.
+- id: motif:2
+  label: Divine child gestated or hidden in a god's body
+  taxonomy_refs:
+  - sacred_birth
+  - divine_parent_child
+  basis: The passage reports that Jupiter was said to have shut Bacchus in his thigh
+    to complete gestation after Semele delivered him in the seventh month.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The same passage rationalizes the story as wordplay involving mountain
+    terminology.
+- id: motif:3
+  label: Culture hero teaches vine cultivation and arts
+  taxonomy_refs:
+  - culture_hero
+  basis: Bacchus is said to cultivate the vine and teach profitable and necessary
+    arts, after which he is honored as a divinity.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage frames this as a rationalizing explanation of divine honors.
+- id: motif:4
+  label: Ecstatic procession around a divine image
+  taxonomy_refs:
+  - initiation
+  basis: The Trieterica involves Bacchantes carrying the god's figure, using ritual
+    objects and music, and shouting divine names in a frantic manner.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference to initiation is broad; the passage explicitly
+    mentions mysteries and festival rites but not a specific initiation sequence.
+- id: motif:5
+  label: Punishment for violating or opposing secret rites
+  taxonomy_refs:
+  - divine_judgment
+  - forbidden_knowledge
+  basis: Pentheus is killed after opposing Bacchic rites or, in a variant, after climbing
+    a tree to view secret ceremonies.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage attributes the killing to Bacchantes' madness or punishment
+    of curiosity, rather than directly to a stated divine sentence.
+- id: motif:6
+  label: Impious mariners destroyed by a god
+  taxonomy_refs:
+  - divine_judgment
+  basis: The mariners' story is explained as a report that Bacchus destroyed merchants
+    who may have neglected or despised his mysteries.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage presents this as a speculative rationalization of a transformation
+    story, not the full narrative itself.
+- id: motif:7
+  label: Transformation of mariners
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage refers to the story of the transformation of the mariners and
+    connects it to a dolphin or porpoise figure on a ship's prow.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The actual transformation details are not included in this passage; only
+    the explanatory note mentions it.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents Bacchus and Osiris as connected figures,
+    with the oldest Bacchus identified as Egyptian Osiris and the worship later transferred
+    to Greece.
+  claim_level: historical_contact
+  target: Egyptian Osiris worship and Greek Bacchic worship
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is reported from ancient authorities within a later explanatory
+    note and should not be treated as independently verified history.
+- id: claim:2
+  claim: The passage explains the thigh-birth of Bacchus as linguistically related
+    to an alternative meaning of a Greek word for the hollow of a mountain.
+  claim_level: linguistic_similarity
+  target: Bacchus in Jupiter's thigh and Bacchus nursed on Mount Nysa
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The etymological explanation is presented as probable within the passage,
+    not demonstrated.
+- id: claim:3
+  claim: The passage proposes a visual basis for the mariners' transformation story
+    in a ship's dolphin or porpoise-shaped prow.
+  claim_level: visual_similarity
+  target: Transformed mariners and Etrurian merchant vessel with dolphin or porpoise
+    prow
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage itself calls the basis slender and speculative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5798-5807
+  quote_or_summary: 'Cicero and other authors are summarized as naming multiple deities
+    called Bacchus, while Diodorus Siculus names three: Indian, horned son of Jupiter
+    and Ceres, and Theban son of Jupiter and Semele.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 5809-5828
+  quote_or_summary: Herodotus and Plutarch are said to identify the oldest Bacchus
+    as Egyptian Osiris; his worship passed to Greece and was altered by Orpheus; the
+    thigh-birth story is explained through μηρὸς meaning either thigh or hollow of
+    a mountain, linked to Mount Nysa.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5830-5847
+  quote_or_summary: Bacchus cultivates the vine, teaches useful arts, receives divine
+    honors, and is worshipped at the Trieterica, where Bacchantes carry his image
+    in a chariot drawn by tigers or panthers, wear vine leaves, hold thyrsi, make
+    music, and shout his names.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 5849-5858
+  quote_or_summary: Pentheus, son of Echion and Agave and successor to Cadmus' kingdom,
+    opposes Bacchic abuses and goes to Mount Cithaeron to chastise Bacchantes, who
+    tear him in pieces; his mother and aunt are among the worshippers.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 5858-5862
+  quote_or_summary: Pausanias' variant says Pentheus was a wicked prince who climbed
+    into a tree to view secret orgies and was discovered and killed by Bacchantes
+    for his curiosity.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 5862-5867
+  quote_or_summary: Bochart explains the mariners' transformation story as based on
+    Etrurian merchants whose vessel had a dolphin or porpoise-like prow, who were
+    probably shipwrecked near Bacchus-sacred Naxos, and whose destruction was reported
+    as punishment for impiety.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an explanatory commentary with explicit rationalizing and
+    comparative claims. Motif assignments are cautious where the underlying mythic
+    scene is only alluded to rather than narrated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All claims are limited to the provided passage and metadata; no external mythographic details have been added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l5796-l5867
+  passage_sha256=7dc681ef1cd41c1fc29600a32ee3b7c38fdf50fb4da2c427a8d1a603efaf25f5
+

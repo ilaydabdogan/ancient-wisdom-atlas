@@ -1,0 +1,402 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l4106-l4133
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK FIFTH / THE GAMES OF THE FLEET / BOOK SIXTH / THE VISION OF THE UNDER
+    WORLD; lines 4106-4133
+  start: '4106'
+  end: '4133'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Anchises explains a cosmology in which a spirit and soul sustain the world,
+    living beings derive from fiery and divine seeds, embodied life is burdened by
+    bodily taint, and souls after death undergo punishments or purifications before
+    Elysium, Lethe, and renewed desire for bodily return. He then leads his son and
+    the Sibyl to a hillock to view the assembled ranks.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A spirit is said to sustain heaven, earth, waters, moon, and sun inwardly,
+    and a soul spread through them sways and mingles with the whole frame.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The generation of humans, animals, birds, and ocean-bred forms is said to
+    arise from these seeds, which have fiery force and divine birth unless clogged
+    by bodily taint.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Embodied beings are described as fearing, desiring, sorrowing, and rejoicing,
+    unable to pierce the air while enclosed in the darkness of a prison-house.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the last ray of life is gone, bodily woes and plagues do not wholly
+    leave the dead, because ingrained evils remain.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'Souls are schooled in punishment: some are hung to winds, some have guilt
+    washed beneath the deep, and some have it burned away in fire.'
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After punishment, ghosts are sent to Elysium, with a few possessing happy
+    fields until time removes ingrained soilure and leaves pure spiritual flame.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When a thousand-year cycle is complete, a God summons the souls to the river
+    Lethe so they may regain forgetfulness, return to the upper earth, and desire
+    bodily return.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Anchises stops speaking and leads his son and the Sibyl through the assembled
+    murmuring throng to a hillock to scan the ranks and faces.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Anchises
+  description: Speaker who explains the fate of souls and then leads his son and the
+    Sibyl to a hillock.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Anchises' son
+  description: The son led by Anchises among the assembled throng.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: the Sibyl
+  description: Figure led along with Anchises' son among the assembled throng.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: a God
+  description: Unnamed divine figure who summons souls to the river of Lethe after
+    the thousand-year cycle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: ghosts or souls
+  description: The dead who undergo punishment, are sent to Elysium, and are later
+    summoned to Lethe.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: world-sustaining spirit and soul
+  description: A spirit and soul said to sustain and mingle through heaven, earth,
+    waters, moon, and sun.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: speaker of cosmological teaching
+  assigned_to:
+  - fig:1
+  basis: Anchises gives an extended explanation and then ceases speaking.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: guide through the throng
+  assigned_to:
+  - fig:1
+  basis: Anchises leads his son and the Sibyl amid the assembled throng and mounts
+    a hillock.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: guided observer
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Anchises leads his son and the Sibyl to a vantage point for viewing the ranks.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: summoner to Lethe
+  assigned_to:
+  - fig:4
+  basis: A God summons the souls to the river of Lethe after a thousand-year cycle.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: dead undergoing purification and return
+  assigned_to:
+  - fig:5
+  basis: Ghosts suffer punishments, go to Elysium, and are later summoned to Lethe
+    before bodily return.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: animating cosmic principle
+  assigned_to:
+  - fig:6
+  basis: A spirit and soul are said to sustain and mingle through the cosmic frame.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire and pure spiritual flame
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: water
+  literal_form: liquid fields, dreary deep, river of Lethe
+  associated_figures:
+  - fig:5
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: river of Lethe
+  literal_form: river of Lethe associated with forgetfulness before return to upper
+    earth and body
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: thousand-year wheel
+  literal_form: wheel of a thousand years
+  associated_figures:
+  - fig:5
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: prison-house of embodiment
+  literal_form: blind darkness of their prison-house
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: hillock vantage point
+  literal_form: hillock from which Anchises scans the ranks and faces
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Anchises explains the world soul and origin of life
+  summary: Anchises describes a spirit and soul sustaining the cosmos and giving rise
+    to living beings with fiery and divine seeds affected by bodily taint.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Post-mortem punishment and purification
+  summary: The dead retain ingrained evils after life and undergo punishments or cleansing
+    by winds, water, and fire.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Elysium, Lethe, and bodily return
+  summary: Ghosts pass to Elysium, and after a thousand-year cycle a God summons them
+    to Lethe so they may forget and desire return to bodies.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Guided viewing of the assembled ranks
+  summary: Anchises leads his son and the Sibyl among the murmuring throng and mounts
+    a hillock to view the ranks and faces.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: journey through the afterlife with mapped regions and processes
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage describes post-mortem punishments, Elysium, Lethe, and return
+    toward embodiment, and ends with guided viewing of assembled souls.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage segment is explanatory and observational; the broader descent
+    narrative is implied by the locator and immediate context but only this excerpt
+    is used.
+- id: motif:2
+  label: heroic descent accompanied by instruction in the underworld
+  taxonomy_refs:
+  - hero_descent
+  basis: Anchises instructs his son and leads him with the Sibyl among the dead to
+    view their ranks.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This excerpt names the son and the Sibyl but does not independently narrate
+    the full descent route.
+- id: motif:3
+  label: purification after death through punishment and elemental cleansing
+  taxonomy_refs:
+  - divine_judgment
+  basis: Souls pay forfeits for lifelong ill and are cleansed by winds, water, or
+    fire before reaching Elysium.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage emphasizes punishment and cleansing; explicit formal judgment
+    by a judge is not described in this excerpt.
+- id: motif:4
+  label: cyclical return from death to embodied life
+  taxonomy_refs:
+  - death_rebirth
+  - return
+  basis: After a thousand-year cycle, souls are summoned to Lethe to forget and begin
+    desiring return into the body.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage describes renewed embodiment but not a specific individual
+    rebirth episode.
+- id: motif:5
+  label: cosmic animating soul or spirit
+  taxonomy_refs:
+  - wisdom
+  basis: Anchises teaches that a spirit and soul sustain and mingle through the cosmic
+    frame and underlie the generation of living beings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy does not provide a more specific world-soul category; the
+    wisdom reference is used for the teaching context rather than a precise symbol.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4106-4112
+  quote_or_summary: A spirit sustains heaven, earth, waters, moon, and sun; a soul
+    mingles in the cosmic frame, and from it arise humans, beasts, birds, and oceanic
+    forms.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4112-4118
+  quote_or_summary: Life-seeds have fiery force and divine birth but are clogged by
+    bodily taint; embodied beings experience emotions and are barred within a dark
+    prison-house.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4118-4125
+  quote_or_summary: After death, ingrained evils remain; souls are schooled in punishment,
+    with some stretched to winds, some washed under the deep, and some burned in fire.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4125-4131
+  quote_or_summary: Ghosts go to Elysium until time removes pollution; after the thousand-year
+    wheel, a God summons them to Lethe so they forget and desire return to the body.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4132-4133
+  quote_or_summary: Anchises ceases speaking, leads his son and the Sibyl among the
+    murmuring throng, and mounts a hillock to scan the ranks and faces.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports afterlife cosmology, purification, Lethe, and
+    guided viewing. Some motif taxonomy assignments are approximate because the available
+    taxonomy lacks exact categories for world-soul and reincarnation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All claims are based only on the supplied passage and metadata; comparison claims are omitted.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l4106-l4133
+  passage_sha256=9f130eed79e52a8b98f3fe469c641d99458577a1e299a477379dae420d375401
+

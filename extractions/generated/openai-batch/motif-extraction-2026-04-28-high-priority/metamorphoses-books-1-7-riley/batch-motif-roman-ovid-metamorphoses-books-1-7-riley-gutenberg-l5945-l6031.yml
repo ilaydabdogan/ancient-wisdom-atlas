@@ -1,0 +1,547 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l5945-l6031
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / BOOK THE FOURTH.; lines 5945-6031
+  start: '5945'
+  end: '6031'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Pyramus and Thisbe, neighboring Babylonian lovers forbidden to marry by
+    their fathers, communicate through a crack in a shared wall and arrange to meet
+    at night by Ninus' tomb under a white-fruited mulberry tree near a spring. Thisbe
+    arrives first, flees a bloody-mouthed lioness into a cave, and drops her veil.
+    The lioness tears the veil with its blood-stained mouth. Pyramus later finds the
+    tracks and bloody veil, assumes Thisbe has been killed, and stabs himself beneath
+    the mulberry tree. His blood darkens the tree's fruit to purple. Thisbe returns,
+    finds the altered tree and the dying or dead Pyramus, mourns him, embraces the
+    body, and calls to him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pyramus and Thisbe live in adjoining houses in the walled city associated
+    with Semiramis.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Their fathers forbid them to unite in marriage, although the two remain mutually
+    in love.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The lovers communicate by nods, signs, and through a small chink in the shared
+    wall between their houses.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The wall is addressed as an obstacle to their bodies but also as the means
+    by which their words pass between them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The lovers plan to deceive their keepers, leave the city at night, and meet
+    at Ninus' tomb under a mulberry tree beside a cold spring.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Thisbe arrives first, sits under the appointed tree, sees a lioness with bloodied
+    jaws, flees to a dark cave, and leaves her veil behind.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The lioness drinks at the spring and tears the abandoned veil with its blood-stained
+    mouth.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Pyramus arrives later, sees wild-beast tracks and the blood-stained veil,
+    and concludes that Thisbe has died.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Pyramus takes the veil to the appointed tree, kisses it, speaks of giving
+    his blood, and stabs himself with his sword.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Pyramus' blood spurts out and stains the mulberry tree, changing its fruit
+    from white to a dark purple hue.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Thisbe returns, notices the tree's altered appearance, finds Pyramus on the
+    bloody ground, embraces him, mingles her tears with his blood, kisses him, and
+    calls his name.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Pyramus
+  description: A beautiful youth and lover of Thisbe who lives in an adjoining house,
+    arranges the secret meeting, misreads the blood-stained veil as evidence of Thisbe's
+    death, and stabs himself.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Thisbe
+  description: A maiden preferred before the damsels of the East, lover of Pyramus,
+    first to reach the meeting place, who flees the lioness and later returns to find
+    Pyramus.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:11
+- id: fig:3
+  name_or_label: Fathers of Pyramus and Thisbe
+  description: The fathers who forbid the lovers' marriage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Keepers and attendants
+  description: Household watchers whom the lovers plan to deceive; Thisbe succeeds
+    in deceiving her attendants when she leaves at night.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Lioness
+  description: A lioness with foaming, blood-besmeared jaws from the recent slaughter
+    of oxen, who comes to drink at the spring and tears Thisbe's veil.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: forbidden lovers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: They love one another and would marry, but their fathers forbid it.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: parental forbidders
+  assigned_to:
+  - fig:3
+  basis: The fathers prevent the marriage of Pyramus and Thisbe.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: deceived guardians
+  assigned_to:
+  - fig:4
+  basis: The lovers plan to deceive their keepers, and Thisbe deceives her attendants
+    while leaving at night.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: first-arriving beloved
+  assigned_to:
+  - fig:2
+  basis: Thisbe reaches the appointed tomb and tree before Pyramus.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: mistaken self-killer
+  assigned_to:
+  - fig:1
+  basis: Pyramus interprets the bloody veil as evidence of Thisbe's death and stabs
+    himself.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:6
+  label: dangerous animal causing misrecognition
+  assigned_to:
+  - fig:5
+  basis: The lioness frightens Thisbe away and stains or tears her veil, creating
+    the evidence Pyramus misreads.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: shared wall and chink
+  literal_form: party-wall with a small chink between adjoining houses
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: smothered fire of love
+  literal_form: fire image used for the lovers' restrained affection
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Ninus' tomb
+  literal_form: tomb chosen as the secret meeting place
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: white mulberry tree turned purple
+  literal_form: lofty mulberry tree with snow-white fruit later darkened by Pyramus'
+    blood
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+  - ev:10
+  - ev:11
+- id: sym:5
+  label: cold spring
+  literal_form: spring near the tomb and tree where the lioness comes to drink
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: dark cave
+  literal_form: cave where Thisbe hides from the lioness
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: blood-stained veil
+  literal_form: Thisbe's veil, dropped in flight and torn by the bloody-mouthed lioness
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:8
+  label: sword
+  literal_form: sword with which Pyramus is girt and with which he stabs himself
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:9
+  label: blood
+  literal_form: Pyramus' blood that spurts from his wound and stains the fruit and
+    root of the tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+scenes:
+- id: scene:1
+  label: Lovers separated by a wall
+  summary: Pyramus and Thisbe live next to one another, are forbidden to marry, and
+    use a small chink in the shared wall to exchange words.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Secret night meeting arranged
+  summary: The lovers decide to evade their watchers, leave the city, and meet under
+    a mulberry tree by Ninus' tomb and a spring.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Thisbe flees the lioness
+  summary: Thisbe arrives at the meeting place, sees a bloodied lioness, flees into
+    a cave, and loses her veil, which the lioness later tears.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Pyramus misreads the veil and dies
+  summary: Pyramus arrives later, finds tracks and the bloody veil, believes Thisbe
+    has been killed, and stabs himself beneath the agreed tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Blood changes the mulberries and Thisbe discovers Pyramus
+  summary: Pyramus' blood darkens the mulberries; Thisbe returns, notices the altered
+    tree, finds Pyramus, mourns him, and calls to him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:9
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: forbidden lovers separated by family and architecture
+  taxonomy_refs: []
+  basis: The lovers are barred from marriage by their fathers and can only communicate
+    through a crack in the wall between their houses.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family directly names this lover-separation pattern.
+- id: motif:2
+  label: secret nocturnal rendezvous outside the city
+  taxonomy_refs:
+  - departure
+  basis: The lovers arrange to deceive their keepers, leave their homes and the city
+    at night, and meet at a tomb under a tree.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The departure is local and romantic rather than a full heroic departure
+    cycle.
+- id: motif:3
+  label: blood-stained token falsely indicating death
+  taxonomy_refs: []
+  basis: Pyramus finds Thisbe's veil bloodied by the lioness and interprets it as
+    proof that she has been killed.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage does not present the veil as magical; it is a misleading physical
+    token.
+- id: motif:4
+  label: lover's self-killing after mistaken report or sign of beloved's death
+  taxonomy_refs: []
+  basis: Believing Thisbe dead, Pyramus speaks of guilt, kisses her veil, and stabs
+    himself.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: Only Pyramus' death is included in the provided passage; Thisbe's later
+    action beyond calling to him is outside this excerpt.
+- id: motif:5
+  label: blood etiologically changes a tree's fruit color
+  taxonomy_refs: []
+  basis: Pyramus' blood stains the mulberry tree and changes its hanging fruit from
+    white to purple.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The available taxonomy includes 'tree' as a symbol but no specific etiological-transformation
+    motif family.
+- id: motif:6
+  label: wild beast unintentionally causes tragic misrecognition
+  taxonomy_refs: []
+  basis: The lioness frightens Thisbe away and tears the veil with bloody jaws, creating
+    evidence that Pyramus misreads.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The lioness does not directly attack either lover in the provided passage.
+comparison_claims:
+- id: claim:1
+  claim: The episode functions as an etiological transformation account explaining
+    the purple color of mulberries through the blood of a dying lover.
+  claim_level: same_function
+  target: etiological natural-color-change pattern
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports the etiological function internally, but no external
+    parallel text is provided for a historical or genealogical comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5945-5950
+  quote_or_summary: Pyramus and Thisbe are introduced as exceptionally beautiful youths
+    living in adjoining houses in Semiramis' brick-walled city.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 5950-5957
+  quote_or_summary: '"They would have united themselves, too, by the tie of marriage,
+    but their fathers forbade it"; their affection remains mutually inflamed.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 5957-5965
+  quote_or_summary: The lovers communicate by nods and signs and discover a small
+    chink in the party-wall, using it as a passage for their voices.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5965-5975
+  quote_or_summary: Standing on opposite sides of the wall, they address it as an
+    envious barrier, wish it would allow bodily union or kisses, and acknowledge that
+    it permits their words to pass.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5977-5989
+  quote_or_summary: The lovers decide to deceive their keepers, leave home and the
+    city at night, and meet by Ninus' tomb under a snow-white-fruited mulberry near
+    a cold spring.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5989-5999
+  quote_or_summary: Thisbe goes out in darkness, deceives her attendants, reaches
+    the tomb, sits under the appointed tree, sees a bloodied lioness by moonlight,
+    flees to a dark cave, and drops her veil.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5999-6004
+  quote_or_summary: After drinking from the spring, the lioness returns toward the
+    woods and tears the abandoned thin covering with its blood-stained mouth.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 6005-6013
+  quote_or_summary: Pyramus arrives later, sees wild-beast tracks and Thisbe's blood-dyed
+    veil, grows pale, blames himself, and assumes one night will ruin two lovers.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 6013-6022
+  quote_or_summary: Pyramus takes the veil to the agreed tree, weeps over and kisses
+    it, says it should receive his blood, and plunges his sword into his body.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: quote
+  locator: lines 6022-6028
+  quote_or_summary: '"The fruit of the tree, by the sprinkling of the blood, are changed
+    to a dark tint" and the root tints the hanging mulberries purple.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:11
+  type: summary
+  locator: lines 6028-6031
+  quote_or_summary: Thisbe returns, seeks Pyramus, notices the altered tree, sees
+    his body on bloody ground, embraces him, mingles tears with his blood, kisses
+    his cold face, and calls to him.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is narrative and explicit about figures, actions, objects, and
+    the color-change etiology. Motif-family taxonomy matches are limited because several
+    central patterns are not represented in the supplied taxonomy list.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. No claims of historical contact or common inheritance are made.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l5945-l6031
+  passage_sha256=63a9750b42fcc4e0a4f2cb1bc051d00003dc195f05b904c7c0c09a70aaaf96fe
+

@@ -1,0 +1,517 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l7577-l7629
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 7577-7629
+  start: '7577'
+  end: '7629'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Editorial footnotes explain details in the Perseus episode: sacred and
+    augural birds, winged ankle gear, a theft involving a shared eye, Minerva''s reflecting
+    shield, Medusa''s death, the birth of Pegasus and Chrysaor from Medusa''s blood,
+    and the pursuit of Perseus by Medusa''s sisters. The notes also compare Ovid''s
+    wording with Lucian''s version and with marvelous travelers'' tales such as those
+    associated with Herodotus.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The eagle is identified as the bird sacred to Jove, and larger birds used
+    for auguries from flight are called 'præpetes.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Talaria are described as ankle-wings or shoes with wings, usually worn by
+    Mercury.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A pair or group with only one eye between them would both be blind while the
+    eye was passing from one hand to another.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Perseus is said to have effected a theft while the shared eye was being handed
+    over.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A reflecting shield is said to have been received by Perseus from Minerva
+    and to have enabled him to see without being seen.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In Lucian's account, Minerva holds the reflecting shield before Perseus so
+    that he can see Medusa's reflected image.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In the Lucian account summarized by the note, Perseus seizes Medusa by the
+    hair, fixes his eye on the reflected image in the shield, cuts off her head, and
+    flies away with the aid of wings.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Pegasus and Chrysaor are described as two winged horses sprung from Medusa's
+    blood when she was slain by Perseus.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Sthenyo and Euryale, sisters of Medusa, pursue Perseus and are described as
+    having wings and iron claws on their hands.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The note says Ovid's wording makes a sly hit at marvelous travelers' tales
+    and mentions Herodotus as a source where such marvels may be found.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Jove / Jupiter
+  description: Deity to whom the eagle is sacred.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Eagle
+  description: Bird sacred to Jove; associated with augury from flight among larger
+    birds.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Mercury
+  description: Deity usually supposed to wear talaria.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Perseus
+  description: Hero who effects a theft, receives or uses a reflecting shield, cuts
+    off Medusa's head in the cited Lucian account, and flees with wings.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Shared-eye holders
+  description: Unspecified beings who have only one eye between them and are blind
+    while it passes from one hand to another.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Minerva
+  description: Deity said to have given Perseus a reflecting shield; in Lucian's account
+    she holds it before him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Medusa
+  description: Figure whose reflected image is viewed in the shield and whose head
+    is cut off by Perseus in the cited account; her blood gives rise to Pegasus and
+    Chrysaor.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: Pegasus
+  description: One of two winged horses sprung from Medusa's blood when she was slain
+    by Perseus.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Chrysaor
+  description: One of two winged horses sprung from Medusa's blood when she was slain
+    by Perseus.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Sthenyo
+  description: Sister of Medusa who pursues Perseus; described as winged and having
+    iron claws.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:11
+  name_or_label: Euryale
+  description: Sister of Medusa who pursues Perseus; described as winged and having
+    iron claws.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: deity with sacred bird
+  assigned_to:
+  - fig:1
+  basis: The eagle is described as sacred to Jove.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sacred and augural bird
+  assigned_to:
+  - fig:2
+  basis: The eagle is identified as Jove's sacred bird and connected with augural
+    flight.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: usual wearer of winged ankle gear
+  assigned_to:
+  - fig:3
+  basis: Talaria are said to be usually worn by Mercury.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: thief, shield-user, and Medusa-slayer
+  assigned_to:
+  - fig:4
+  basis: The notes describe Perseus effecting a theft, using a reflecting shield,
+    cutting off Medusa's head in Lucian's account, and fleeing by wings.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: holders of a shared eye
+  assigned_to:
+  - fig:5
+  basis: The note says they had only one eye between them and would be blind while
+    it was passed from hand to hand.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: divine giver or holder of reflecting shield
+  assigned_to:
+  - fig:6
+  basis: The shield is said to have come from Minerva; Lucian says Minerva held it
+    before Perseus.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: slain figure viewed by reflection
+  assigned_to:
+  - fig:7
+  basis: The note describes Perseus viewing Medusa's reflected image and cutting off
+    her head.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: blood-born winged horse
+  assigned_to:
+  - fig:8
+  - fig:9
+  basis: Pegasus and Chrysaor are said to have sprung from Medusa's blood and to be
+    winged horses.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: pursuing winged sister with iron claws
+  assigned_to:
+  - fig:10
+  - fig:11
+  basis: Sthenyo and Euryale are named as Medusa's sisters who pursue Perseus and
+    have wings and iron claws.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: eagle of Jove
+  literal_form: eagle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: winged ankle gear
+  literal_form: talaria, described as ankle-wings or winged shoes
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: shared eye
+  literal_form: one eye possessed between multiple beings
+  associated_figures:
+  - fig:5
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: reflecting shield
+  literal_form: brass or reflecting shield
+  associated_figures:
+  - fig:4
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: blood of Medusa
+  literal_form: blood from Medusa after she is slain
+  associated_figures:
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: iron claws
+  literal_form: claws of iron on the hands of Medusa's sisters
+  associated_figures:
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: wings
+  literal_form: wings used by Perseus and possessed by Medusa's sisters
+  associated_figures:
+  - fig:4
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Augural bird explanation
+  summary: The note identifies the eagle as sacred to Jove and explains a category
+    of larger augural birds known by their flight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Theft during shared-eye transfer
+  summary: The note explains that beings with only one eye between them would be blind
+    while passing it from hand to hand, allowing Perseus to perform the theft.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Medusa seen by reflection
+  summary: The note explains that Perseus uses a reflecting shield associated with
+    Minerva to see without being seen; Lucian's version has Minerva holding the shield
+    while Perseus views Medusa's image, seizes her hair, cuts off her head, and flies
+    away.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Winged horses from Medusa's blood
+  summary: Pegasus and Chrysaor are described as winged horses that spring from Medusa's
+    blood when she is slain by Perseus.
+  figure_refs:
+  - fig:4
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Pursuit by Medusa's sisters
+  summary: Sthenyo and Euryale pursue Perseus and are described as winged and iron-clawed;
+    the note adds that Ovid's phrasing comments on marvelous travelers' tales.
+  figure_refs:
+  - fig:4
+  - fig:7
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Theft made possible by a shared vulnerable object
+  taxonomy_refs:
+  - sacred_theft
+  basis: The note explicitly refers to Perseus effecting a theft while beings with
+    one eye between them are blind during its transfer.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The footnote does not characterize the eye as sacred; the taxonomy reference
+    is a broad fit based on the theft of an extraordinary object.
+- id: motif:2
+  label: Monster-slaying through indirect sight
+  taxonomy_refs: []
+  basis: The reflecting shield enables Perseus to see without being seen; Lucian's
+    account has him watch Medusa's reflection while cutting off her head.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference directly names this visual-strategy motif.
+- id: motif:3
+  label: Birth from the blood of a slain figure
+  taxonomy_refs:
+  - sacred_birth
+  - miraculous_child
+  basis: Pegasus and Chrysaor are described as winged horses springing from Medusa's
+    blood after Perseus slays her.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage calls them winged horses, not children, and does not frame
+    the birth in ritual or theological terms.
+- id: motif:4
+  label: Pursuit by winged monstrous kin after a slaying
+  taxonomy_refs: []
+  basis: Sthenyo and Euryale, sisters of Medusa, pursue Perseus after Medusa's death
+    and are described as winged and iron-clawed.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage is a footnote explaining dangers in Perseus' flight rather
+    than a full narrative scene.
+comparison_claims:
+- id: claim:1
+  claim: The footnote presents Lucian's version as a comparable account of the same
+    Perseus-and-Medusa episode, especially the reflected-image shield strategy and
+    the beheading.
+  claim_level: same_motif
+  target: Lucian's account of Perseus viewing Medusa by reflection and cutting off
+    her head
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The cited passage summarizes Lucian rather than quoting him, and it
+    appears in editorial annotation rather than Ovid's narrative text.
+- id: claim:2
+  claim: The note cautiously links Ovid's phrasing about 'not false' dangers to the
+    literary pattern of marvelous travelers' tales, with Herodotus named as an example.
+  claim_level: same_function
+  target: marvelous travelers' tales, including those associated with Herodotus
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial interpretation of Ovid's wording, not an explicit
+    mythic parallel in the narrative itself.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7581-7585, Footnote 84
+  quote_or_summary: The eagle is the bird sacred to Jove; large birds giving auguries
+    by flight were called 'præpetes.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7590-7594, Footnote 86
+  quote_or_summary: Talaria are ankle-wings or winged shoes and are usually supposed
+    to be worn by Mercury.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7598-7602, Footnote 88
+  quote_or_summary: Because the beings had only one eye between them, both would be
+    blind while it passed from one hand to another, making Perseus' theft easy.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7604-7615, Footnote 89
+  quote_or_summary: The reflecting shield came from Minerva and let Perseus see without
+    being seen; Lucian says Minerva held it while Perseus saw Medusa's reflection,
+    seized her hair, cut off her head, and flew away by wings.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7617-7620, Footnote 90
+  quote_or_summary: Pegasus and Chrysaor are two winged horses said to have sprung
+    from Medusa's blood when she was slain by Perseus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 7621-7628, Footnote 91
+  quote_or_summary: Perseus' dangers include pursuit by Sthenyo and Euryale, Medusa's
+    winged sisters with iron claws; the note says Ovid alludes to marvelous travelers'
+    tales and mentions Herodotus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage consists of editorial footnotes rather than continuous mythic
+    narration. Extraction is limited to details explicitly supplied in those notes,
+    including some cross-references to Lucian and Herodotus made by the editor.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No figures or motifs were added beyond the supplied footnote text. Some entities, such as the beings with one shared eye, are left descriptively labeled because the provided passage does not name them.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l7577-l7629
+  passage_sha256=b6dfd8202a2d18cdd537db44cb930c31fe84c3fadbd587007244f8456ec780d8
+

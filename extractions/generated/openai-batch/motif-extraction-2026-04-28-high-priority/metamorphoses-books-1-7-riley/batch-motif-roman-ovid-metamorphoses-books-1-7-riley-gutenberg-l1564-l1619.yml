@@ -1,0 +1,504 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l1564-l1619
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 1564-1619
+  start: '1564'
+  end: '1619'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Translator/editorial footnotes explain Themis as an earlier Delphic oracle
+    figure, describe Triton and his shell trumpet, explain Neptune’s command calming
+    the sea, clarify the kinship of Deucalion and Pyrrha through the sons of Iapetus,
+    and refer to Prometheus forming humans from clay and animating them with fire
+    stolen from heaven.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Themis is described as preceding Apollo in giving oracular responses at Delphi.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Themis is described as the daughter of Cœlus and Terra and as instructing
+    humans to ask the gods for what was lawful and right.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Murex is identified as the shell-fish from which Tyrian purple was obtained,
+    with the note suggesting Triton’s shoulders may be tinted with its color or studded
+    with its shells.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Triton is described as a minor sea god, specifically the chief Triton, son
+    of Neptune and Amphitrite.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Triton is described as preceding Neptune and proclaiming Neptune’s arrival
+    by the sound of his shell.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Triton is represented with a human-like upper body and lower parts ending
+    in a fish tail.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The buccina or conch shell is described as a horn or trumpet made from a shell
+    and used for signals, funerals, and festive entertainments.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The phrase for sounding the retreat is explained as a military signal to cease
+    fighting and resume marching.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Neptune’s commands are described as producing an instantaneous ordering effect
+    upon his dominions, the sea.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Deucalion and Pyrrha are explained as sharing a common origin through Prometheus
+    and Epimetheus, sons of Iapetus.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Prometheus is said to have formed humans from clay and animated them with
+    fire stolen from heaven.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Themis
+  description: A figure said to have preceded Apollo in giving oracular responses
+    at Delphi; daughter of Cœlus and Terra.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Apollo
+  description: A figure whose Delphic oracular role is said to have been preceded
+    by Themis.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Cœlus
+  description: Named as the father of Themis.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Terra
+  description: Named as the mother of Themis.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Triton
+  description: Chief Triton, a minor sea god, son of Neptune and Amphitrite, herald
+    of Neptune’s course, represented with human upper body and fish tail.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Neptune
+  description: Sea deity whose course Triton precedes and whose commands reduce the
+    sea to order.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:7
+  name_or_label: Amphitrite
+  description: Named as the mother of Triton.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Prometheus
+  description: Father of Deucalion; son of Iapetus; said to have formed humans from
+    clay and animated them with fire stolen from heaven.
+  role_refs:
+  - role:4
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:9
+  name_or_label: Epimetheus
+  description: Father of Pyrrha and son of Iapetus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: Deucalion
+  description: Son of Prometheus; described as related to Pyrrha through a common
+    origin.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:7
+- id: fig:11
+  name_or_label: Pyrrha
+  description: Daughter of Epimetheus; described as related to Deucalion through a
+    common origin.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:7
+- id: fig:12
+  name_or_label: Iapetus
+  description: Named as father of Prometheus and Epimetheus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: oracular predecessor
+  assigned_to:
+  - fig:1
+  basis: Themis is said to have preceded Apollo in giving oracular responses at Delphi.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: teacher of lawful supplication
+  assigned_to:
+  - fig:1
+  basis: The note says Themis first instructed humans to ask the gods for what was
+    lawful and right.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Delphic oracle successor
+  assigned_to:
+  - fig:2
+  basis: Apollo is named in relation to Themis preceding him at Delphi.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: genealogical parent or ancestor
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:12
+  basis: The footnotes identify these figures through parent-child relations.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: role:5
+  label: sea-god herald
+  assigned_to:
+  - fig:5
+  basis: Triton is described as preceding Neptune and announcing his arrival by the
+    sound of his shell.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: hybrid sea figure
+  assigned_to:
+  - fig:5
+  basis: Triton is represented with human upper body and fish-tail lower parts.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: sea ruler
+  assigned_to:
+  - fig:6
+  basis: Neptune’s dominions are identified with the sea, which his commands order.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: commanding deity
+  assigned_to:
+  - fig:6
+  basis: The note refers to the instantaneous effect produced by Neptune’s commands.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: human-forming creator
+  assigned_to:
+  - fig:8
+  basis: Prometheus is said to have formed men of clay.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: heavenly-fire thief
+  assigned_to:
+  - fig:8
+  basis: Prometheus is said to have animated humans with fire stolen from heaven.
+  evidence_refs:
+  - ev:8
+- id: role:11
+  label: kin through common origin
+  assigned_to:
+  - fig:10
+  - fig:11
+  basis: Deucalion and Pyrrha are described as having a common origin through Prometheus
+    and Epimetheus.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: murex shell
+  literal_form: Shell-fish associated with Tyrian purple and possibly with Triton’s
+    coloring or shoulder covering.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: conch trumpet
+  literal_form: Buccina or conch shell used as a horn or trumpet and associated with
+    Triton’s proclamation of Neptune’s arrival.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: sea water
+  literal_form: The sea, described as Neptune’s dominion brought into order by command.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: clay
+  literal_form: Material from which Prometheus is said to have formed humans.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: stolen heavenly fire
+  literal_form: Fire stolen from heaven and used by Prometheus to animate humans.
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Themis and Delphic oracles
+  summary: The note presents Themis as an earlier Delphic oracle figure before Apollo
+    and as a teacher of lawful requests to the gods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Triton as herald with shell trumpet
+  summary: The notes describe Triton as a sea god who precedes Neptune and announces
+    him by sounding a shell trumpet, with hybrid human-fish form.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Neptune orders the sea
+  summary: The note explains that Neptune’s commands have an immediate effect in reducing
+    the sea, his dominion, to order.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Common origin of Deucalion and Pyrrha
+  summary: The note explains that Deucalion and Pyrrha are called kin because their
+    fathers, Prometheus and Epimetheus, are both sons of Iapetus.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  - fig:12
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Prometheus forms and animates humans
+  summary: Prometheus is said to have formed humans from clay and animated them with
+    fire stolen from heaven.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divine parent-child genealogy
+  taxonomy_refs:
+  - divine_parent_child
+  basis: 'The footnotes repeatedly define figures by divine parent-child relations:
+    Themis from Cœlus and Terra, Triton from Neptune and Amphitrite, and Prometheus
+    and Epimetheus from Iapetus.'
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: The passage is explanatory footnote material rather than the main narrative
+    scene.
+- id: motif:2
+  label: sacred theft of heavenly fire
+  taxonomy_refs:
+  - sacred_theft
+  basis: Prometheus is explicitly said to have animated humans with fire stolen from
+    heaven.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The statement is brief and allusive, not a full narration of the theft.
+- id: motif:3
+  label: culture hero forming humans
+  taxonomy_refs:
+  - culture_hero
+  basis: Prometheus is said to have formed humans from clay and animated them with
+    stolen heavenly fire.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The available taxonomy does not include a specific anthropogony motif;
+    assigning culture_hero depends on Prometheus’s creative and animating act in the
+    note.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1564-1571; Footnote 57, Ver. 321
+  quote_or_summary: Themis is said to have preceded Apollo in giving oracular responses
+    at Delphi; she is daughter of Cœlus and Terra and first taught humans to ask the
+    gods for what was lawful and right.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1573-1581; Footnote 58, Ver. 332
+  quote_or_summary: Murex is identified as the shell-fish that produced Tyrian purple;
+    the note discusses whether Triton’s shoulders were purple-tinted or studded with
+    murex shells.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1583-1591; Footnote 59, Ver. 333
+  quote_or_summary: Triton is described as chief among Tritons, son of Neptune and
+    Amphitrite, preceding Neptune and announcing his arrival by shell; his form is
+    human above and fish-tailed below.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1593-1607; Footnote 60, Ver. 335
+  quote_or_summary: The buccina or conch shell is explained as a shell horn or trumpet,
+    sometimes curved or straight, used to proclaim watches, at funerals, and at festive
+    entertainments; Tritons with buccinae are noted on the temple of Saturn.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1609-1612; Footnote 61, Ver. 340
+  quote_or_summary: The Latin phrase for sounding the retreat is explained as a signal
+    for soldiers to stop fighting and resume marching.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1614-1619; Footnote 62, Ver. 343
+  quote_or_summary: The note praises lines depicting the instantaneous effect of Neptune’s
+    commands in reducing his dominions to order.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: Footnote 63, Ver. 352
+  quote_or_summary: Prometheus is identified as father of Deucalion and Epimetheus
+    as father of Pyrrha; Prometheus and Epimetheus are sons of Iapetus, explaining
+    Deucalion and Pyrrha’s common origin.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: Footnote 64, Ver. 363
+  quote_or_summary: The note says Prometheus formed humans from clay and animated
+    them with fire stolen from heaven.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage consists of editorial footnotes, not the continuous mythic narrative.
+    Several motifs are alluded to briefly and require review against the surrounding
+    main text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison beyond internal explanatory references and available taxonomy labels.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l1564-l1619
+  passage_sha256=918a428095b647705a64715c9ba1ce9b8f1831c516bb82d183a2604a50b9b182
+

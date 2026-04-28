@@ -1,0 +1,512 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l1224-l1310
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 1224-1310
+  start: '1224'
+  end: '1310'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The explanatory note compares Ovid's deluge tradition with Genesis and
+    identifies Deucalion with the role attributed to Noah. The fable then recounts
+    Lycaon, king of Arcadia, testing Jupiter by plotting murder and serving the flesh
+    of a hostage; Jupiter destroys Lycaon's house and Lycaon flees, losing speech
+    and becoming a wolf while retaining signs of his former violent character. Jupiter
+    concludes that the wickedness is not limited to one household and declares that
+    all men should suffer deserved vengeance.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The explanation states that Ovid's tradition closely adheres to Scripture
+    concerning divine punishment of the earth by deluge for human wickedness.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The explanation states that one just man remained amid universal corruption
+    and that this merit is attributed to Deucalion, corresponding to Noah.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fable summary says Lycaon orders the body of a hostage to be prepared
+    and served at a feast to test whether his guest is Jupiter.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Jupiter enters the inhospitable abode of the Arcadian tyrant at twilight and
+    signals that a god has arrived.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The people begin to worship, while Lycaon derides their prayers and says he
+    will test whether the visitor is a god or a mortal.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Lycaon prepares to kill Jupiter during sleep and also cuts the throat of a
+    Molossian hostage, boiling some limbs and roasting others.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After the flesh is placed on the table, Jupiter uses avenging flames to overthrow
+    Lycaon's house upon its household gods.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Lycaon flees into the countryside, howls, cannot speak, and is transformed
+    into a wolf while retaining traces of his former appearance and ferocity.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Jupiter says one house has fallen, but wickedness reigns wherever the earth
+    extends, and he declares that all men should quickly feel deserved vengeance.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The route to Lycaon's realm includes Arcadian places and mountains named Mænalus,
+    Lycæus, and Cyllene.
+  category: setting
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Jupiter
+  description: The god who enters Lycaon's palace, is tested by Lycaon, destroys the
+    house with flames, transforms Lycaon into a wolf, and declares wider vengeance.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Lycaon
+  description: King of Arcadia and an inhospitable tyrant who tests Jupiter by plotting
+    murder and serving a slain hostage, then is transformed into a wolf.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Molossian hostage
+  description: A hostage whose throat Lycaon cuts and whose limbs are boiled and roasted.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Arcadian people
+  description: People who begin paying adorations after Jupiter gives a signal that
+    a god has arrived.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: household Gods of Lycaon
+  description: Household gods upon whom Lycaon's house is overthrown; the footnote
+    says this punishment is for taking Lycaon under their protection.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: fig:6
+  name_or_label: Deucalion
+  description: Named in the explanation as the figure to whom tradition attributes
+    the merit belonging to Noah amid universal corruption.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Noah
+  description: Named in the explanation as the scriptural figure whose merit is attributed
+    to Deucalion in the tradition described.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine judge
+  assigned_to:
+  - fig:1
+  basis: Jupiter punishes Lycaon with destruction and transformation and declares
+    deserved vengeance on mankind.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:2
+  label: divine visitor
+  assigned_to:
+  - fig:1
+  basis: Jupiter comes to Lycaon's abode, gives a sign that a god has arrived, and
+    is tested by Lycaon.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: impious tyrant
+  assigned_to:
+  - fig:2
+  basis: Lycaon is called an Arcadian tyrant, derides worship, plots murder, and prepares
+    human flesh for a feast.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: transformed offender
+  assigned_to:
+  - fig:2
+  basis: After punishment, Lycaon loses speech and becomes a wolf while retaining
+    signs of his old ferocity.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: slain hostage
+  assigned_to:
+  - fig:3
+  basis: The hostage is killed by Lycaon and his body is prepared as food.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: worshiping witnesses
+  assigned_to:
+  - fig:4
+  basis: The people begin adoring when Jupiter signals that a god has come.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: penalized household protectors
+  assigned_to:
+  - fig:5
+  basis: The house falls upon the household gods; the footnote explains they are punished
+    for protecting Lycaon.
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: role:8
+  label: just survivor figure
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The explanation speaks of one just man amid universal corruption and links
+    Deucalion with Noah.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: deluge
+  literal_form: punishing flood over the earth
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: wolf transformation
+  literal_form: human king becoming a wolf
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: avenging flames
+  literal_form: flames that overthrow Lycaon's house
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: cannibal feast test
+  literal_form: human flesh boiled, roasted, and placed on the table
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Arcadian mountains
+  literal_form: Mænalus, Lycæus, and Cyllene
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Explanatory comparison of flood traditions
+  summary: The explanatory note compares Ovid's divine punishment by deluge with Genesis
+    and links Deucalion with Noah as the just figure preserved amid corruption.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Divine arrival in Arcadia
+  summary: Jupiter reaches Lycaon's inhospitable dwelling at twilight, gives a sign
+    that a god has come, and the people worship while Lycaon mocks them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: scene:3
+  label: Lycaon's test by murder and feast
+  summary: Lycaon plans to kill Jupiter in sleep and kills a hostage, preparing the
+    victim's limbs by boiling and roasting before placing them on the table.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Destruction of the house and transformation
+  summary: Jupiter destroys Lycaon's house with avenging flames, and Lycaon flees
+    into the countryside where he becomes a wolf.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:10
+- id: scene:5
+  label: Declaration of universal vengeance
+  summary: Jupiter states that Lycaon's house was not the only guilty house and that
+    wickedness covers the earth, so all men should suffer deserved vengeance.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divine punishment for universal human wickedness
+  taxonomy_refs:
+  - divine_judgment
+  basis: The explanation describes divine punishment by deluge for mankind's wickedness,
+    and Jupiter declares broader vengeance because wickedness reigns across the earth.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: high
+  cautions: The deluge comparison is supplied by the translator's explanatory note,
+    while the Lycaon episode supplies the immediate narrative judgment.
+- id: motif:2
+  label: flood punishment with just survivor figure
+  taxonomy_refs:
+  - flood_and_renewal
+  - survivor_pair
+  basis: The explanatory note discusses a deluge sent for universal corruption and
+    a just figure, Deucalion, whose role is compared to Noah.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This line range mentions the flood tradition in explanation rather than
+    narrating Deucalion's survival in detail; survivor-pair status is only implicit
+    from the broader named motif, not developed here.
+- id: motif:3
+  label: offender transformed into animal matching character
+  taxonomy_refs:
+  - shapeshifter
+  basis: Lycaon is changed into a wolf while retaining his violence, bright eyes,
+    hoariness, and ferocity.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage presents a punitive transformation rather than voluntary shapeshifting.
+- id: motif:4
+  label: inhospitable host tests a god with murder and human flesh
+  taxonomy_refs: []
+  basis: Lycaon mocks worship, tests whether Jupiter is divine, plans to kill him,
+    and serves the flesh of a slain hostage.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly names the divine-visitor hospitality-test
+    pattern.
+- id: motif:5
+  label: slain victim prepared as feast
+  taxonomy_refs:
+  - sacrifice
+  basis: A hostage is killed and his limbs are boiled and roasted for service at a
+    table.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage describes murder and food preparation, not an explicit ritual
+    sacrifice.
+comparison_claims:
+- id: claim:1
+  claim: The explanatory note explicitly compares Ovid's tradition of divine deliberation
+    and punishment by deluge with Genesis 6's account of divine destruction for human
+    wickedness.
+  claim_level: same_motif
+  target: Genesis 6 flood punishment tradition
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is the translator's comparison, not evidence within the mythic
+    speech itself; it does not establish historical contact.
+- id: claim:2
+  claim: 'The explanatory note assigns Deucalion the same functional position that
+    it says belongs to Noah: the just man amid universal corruption.'
+  claim_level: same_function
+  target: Noah as just survivor in Genesis flood tradition
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The line range does not narrate Deucalion's survival or renewal in
+    detail; it reports an explanatory equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1224-1239
+  quote_or_summary: The explanation says Ovid follows a prevailing tradition closely
+    resembling Scripture concerning divine determination to punish the earth by a
+    deluge because human wickedness was great.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1241-1243
+  quote_or_summary: The explanation says tradition preserved that amid universal corruption
+    at least one just man remained, and attributes to Deucalion the merit belonging
+    to Noah.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1245-1249
+  quote_or_summary: The fable heading summarizes that Lycaon, king of Arcadia, tests
+    whether Jupiter has come by ordering a hostage's body to be served at a feast,
+    and the god changes him into a wolf.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1251-1258
+  quote_or_summary: Jupiter enters the inhospitable abode of the Arcadian tyrant at
+    twilight, signals that a god has come, the people worship, and Lycaon derides
+    them and proposes a test to determine whether the visitor is god or mortal.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1259-1264
+  quote_or_summary: Lycaon plans to kill Jupiter in sleep, cuts the throat of a Molossian
+    hostage, and prepares the quivering limbs by boiling and roasting before setting
+    them on the table.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 1264-1266
+  quote_or_summary: '"I, with avenging flames, overthrew the house upon the household
+    Gods"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 1266-1274
+  quote_or_summary: Lycaon flees, howls, cannot speak, turns his desire for slaughter
+    against sheep, becomes a wolf, and retains hoariness, violent features, bright
+    eyes, and ferocity.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 1276-1280
+  quote_or_summary: Jupiter says one house has fallen but not only one house deserves
+    to perish; savage Erinnys reigns wherever earth extends, and all men should feel
+    deserved vengeance.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 1251-1253 and footnote 44
+  quote_or_summary: The route names Mænalus, Lycæus, and Cyllene; the footnote identifies
+    Cyllene and Lycæus as Arcadian mountains associated respectively with Mercury
+    and Pan.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:10
+  type: summary
+  locator: footnote 46
+  quote_or_summary: The footnote explains that punishment was awarded to Lycaon's
+    Penates or household gods for taking such a miscreant under their protection.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary based on supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The Lycaon narrative is explicit and supports high-confidence extraction.
+    Flood and Genesis/Noah comparisons are explicit in the explanatory material, but
+    some renewal/survivor-pair implications are only lightly represented within this
+    line range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage text and metadata; taxonomy references are limited to supplied lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l1224-l1310
+  passage_sha256=f5c59751c0c9881f5c822f62d331f99d7c246d2dfde07f949d01b3f3244a5eb8
+

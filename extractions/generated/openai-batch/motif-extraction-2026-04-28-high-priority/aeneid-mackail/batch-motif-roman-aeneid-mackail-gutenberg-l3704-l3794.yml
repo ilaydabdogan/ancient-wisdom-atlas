@@ -1,0 +1,534 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l3704-l3794
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK FIFTH / THE GAMES OF THE FLEET / BOOK SIXTH / THE VISION OF THE UNDER
+    WORLD; lines 3704-3794
+  start: '3704'
+  end: '3794'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: They went darkling through the dusk beneath the solitary night, through the
+    empty dwellings and bodiless realm of Dis
+  summary: Aeneas and his guide move through the dark entrance-region of the underworld,
+    encounter personified terrors, phantom monsters, the river and ferryman of the
+    dead, and learn that unburied souls must wait before crossing. Aeneas recognizes
+    several dead companions, including Palinurus, who explains his death and asks
+    for burial or passage.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The travelers pass through darkness in the bodiless realm of Dis.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The entry of hell contains personified conditions and forces including Grief,
+    Cares, Sicknesses, Eld, Fear, Hunger, Want, Death, Travail, Sleep, War, Furies,
+    and Discord.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A high shadowy elm stands midway, and idle Dreams are said to cluster beneath
+    its leaves.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Monstrous beings or phantom shapes appear at the gates, including Centaurs,
+    Scyllas, Briareus, the Lernaean beast, Chimaera, Gorgons, Harpies, and a triform
+    shade.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Aeneas draws his sword in terror against the approaching forms, but his companion
+    warns him that they are insubstantial phantoms.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A road leads to Tartarus and to the waters of Acheron, Cocytus, and the Stygian
+    marsh.
+  category: setting
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: obs:7
+  text: Charon guards and works the river passage, using a pole and sails on a steel-blue
+    galley carrying the dead.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Many dead people gather on the bank, pleading and stretching their hands toward
+    the farther shore.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The priestess explains that unburied souls cannot cross until their dust has
+    found rest and must wander near the shore for a hundred years.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Aeneas sees Leucaspis and Orontes among the mournful unhonoured dead.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Aeneas recognizes Palinurus in the shade and asks what god sank him in the
+    sea.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Palinurus says no god drowned him; he fell while steering, survived days in
+    the sea, reached Italy, was killed by armed local people, and now asks Aeneas
+    for burial or transport across the waves.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Aeneas
+  description: Anchises' son, addressed as seed of Anchises and progeny of gods; he
+    travels through the underworld, questions what he sees, and recognizes the dead.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: Priestess / wise fellow-passenger
+  description: A female guide accompanying Aeneas who explains that the apparent bodies
+    are phantoms and later interprets the souls at the riverbank.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Charon
+  description: The dread ferryman who guards the streams and operates a steel-blue
+    galley carrying the dead.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Crowd of dead souls
+  description: Matrons, men, heroes, boys, unwedded girls, and children gather at
+    the riverbank seeking passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Unburied dead
+  description: Souls without burial who are not permitted to cross and must wander
+    near the shore.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Leucaspis and Orontes
+  description: Captains of the Lycian squadron, unhonoured dead from a ship overwhelmed
+    at sea.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Palinurus
+  description: A steersman who fell from the stern during a sea passage, reached shore,
+    was killed, and asks Aeneas for burial or passage.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:8
+  name_or_label: Monstrous gate-forms
+  description: A collective group of diverse creatures and phantoms at the gates,
+    including Centaurs, Scyllas, Briareus, the Lernaean beast, Chimaera, Gorgons,
+    Harpies, and a triform shade.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: underworld traveler and questioner
+  assigned_to:
+  - fig:1
+  basis: Aeneas moves through the underworld, draws his sword, asks about the souls
+    at the river, and speaks to Palinurus.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:9
+- id: role:2
+  label: guide and interpreter
+  assigned_to:
+  - fig:2
+  basis: The companion warns Aeneas about phantoms and explains the rules governing
+    burial and crossing.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:3
+  label: ferryman of the dead
+  assigned_to:
+  - fig:3
+  basis: Charon is named as ferryman and is described guarding the streams and transporting
+    some souls.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:4
+  label: souls seeking passage
+  assigned_to:
+  - fig:4
+  basis: The dead crowd the bank, plead for first passage, and stretch hands to the
+    farther shore.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: unburied wanderer
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The priestess identifies the helpless crowd as unsepultured, and Aeneas sees
+    named dead companions in this condition.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+- id: role:6
+  label: dead petitioner
+  assigned_to:
+  - fig:7
+  basis: Palinurus beseeches Aeneas to rescue him by burial or by carrying him across
+    the waters.
+  evidence_refs:
+  - ev:10
+- id: role:7
+  label: phantom gate obstacle
+  assigned_to:
+  - fig:8
+  basis: The monstrous forms appear at the gates and provoke Aeneas to draw his sword,
+    though they are said to be insubstantial.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: underworld waters
+  literal_form: Acheron's wave, Cocytus, Stygian marsh, pools, streams, and river
+    crossing
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:10
+- id: sym:2
+  label: ferry vessel
+  literal_form: steel-blue galley carrying the dead
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: shadowy elm of dreams
+  literal_form: high elm with Dreams clustering under every leaf
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: serpent locks of Discord
+  literal_form: mad Discord with bloodstained fillets and serpent locks
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: phantom body
+  literal_form: thin unessential lives in the hollow mask of body
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: flame imagery
+  literal_form: Charon's eyes aflame and Chimaera armed with flame
+  associated_figures:
+  - fig:3
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dark passage into the realm of Dis
+  summary: Aeneas and his companion move through the dark, empty realm and approach
+    the entry of hell, where personified terrors dwell.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Elm and phantom monsters at the gates
+  summary: The travelers encounter a shadowy elm of Dreams and many monstrous gate-forms;
+    Aeneas attempts to defend himself until his guide explains their phantom nature.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Charon and the crowded bank
+  summary: At the waters leading to Tartarus and Cocytus, Charon ferries some of the
+    dead while others crowd the bank and plead for passage.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Rule of burial before crossing
+  summary: The priestess tells Aeneas that those without burial cannot cross the hoarse
+    streams and must wander for a hundred years before gaining entrance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Recognition of drowned companions and Palinurus
+  summary: Aeneas sees Leucaspis and Orontes among the unhonoured dead and speaks
+    with Palinurus, who recounts his fall, survival, killing, and request for burial
+    or passage.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: mapped journey through the underworld
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: 'The passage lays out a sequence of underworld locations: the doorway of
+    hell, the elm of Dreams, monstrous gates, Tartarus, Acheron, Cocytus, the Stygian
+    marsh, and the ferry crossing.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage is only one segment of the larger underworld journey.
+- id: motif:2
+  label: living hero descends among the dead
+  taxonomy_refs:
+  - hero_descent
+  basis: Aeneas, still active and questioning, travels through the realm of Dis, encounters
+    the dead, and speaks with Palinurus.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The wider narrative context of the descent is outside the provided passage.
+- id: motif:3
+  label: ferryman and barrier-water of the dead
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Charon controls passage over the underworld waters and admits some souls
+    while refusing others.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is extracted as a passage-level pattern rather than a claim about
+    origins or parallels.
+- id: motif:4
+  label: unburied dead delayed from afterlife passage
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The priestess states that souls without burial cannot cross and must wander
+    by the shore for a hundred years; Palinurus asks for earth over his body or transport
+    across the waves.
+  evidence_refs:
+  - ev:7
+  - ev:10
+  confidence: high
+  cautions: The rule is reported within the underworld episode and may have broader
+    ritual implications not established by this passage alone.
+- id: motif:5
+  label: phantom guardians at the underworld threshold
+  taxonomy_refs:
+  - hero_descent
+  basis: Monstrous forms at the gates frighten Aeneas, but the guide identifies them
+    as insubstantial phantoms.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage calls them phantoms rather than explicit guardians; their
+    obstructive role is implied by placement and Aeneas' reaction.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3704-3708 / [268-303]
+  quote_or_summary: "“They went darkling through the dusk beneath the solitary night,
+    through the empty dwellings and bodiless realm of Dis.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 3708-3716 / [268-303]
+  quote_or_summary: At the doorway and jaws of hell dwell Grief, Cares, Sicknesses,
+    Eld, Fear, Hunger, Want, Death, Travail, Sleep, War, Furies, and Discord with
+    serpent locks.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 3717-3725 / [268-303]
+  quote_or_summary: A shadowy elm holds clustered Dreams, and many monstrous creatures
+    keep covert at the gates, including Centaurs, Scyllas, Briareus, the Lernaean
+    beast, Chimaera, Gorgons, Harpies, and a triform shade.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 3725-3731 / [268-303]
+  quote_or_summary: Aeneas draws his sword against the approaching forms, but his
+    wise companion reminds him they are thin, unessential lives in a hollow mask of
+    body.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 3732-3742 / [304-336]
+  quote_or_summary: A road leads to Tartarus and Acheron's wave; Charon, dread ferryman,
+    guards the streams and works a steel-blue galley loaded with the dead.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 3742-3756 / [304-336]
+  quote_or_summary: A multitude of dead people crowd the bank, pleading for passage
+    and stretching hands toward the farther shore, while Charon admits some and drives
+    others back.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 3757-3770 / [304-336]
+  quote_or_summary: The priestess explains that the pools of Cocytus and Stygian marsh
+    are before them; the unsepultured cannot cross until buried and must wander for
+    a hundred years.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 3771-3777 / [304-336]
+  quote_or_summary: Aeneas pities the cruel lot of the mournful unhonoured dead and
+    sees Leucaspis and Orontes, Lycian captains overwhelmed at sea.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 3778-3787 / [337-369]
+  quote_or_summary: Palinurus passes by; Aeneas recognizes him in the shade and asks
+    what god took him from the Trojans and sank him in the sea.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 3788-3794 and continuation within supplied passage / [337-403]
+  quote_or_summary: 'Palinurus says no god drowned him: he fell while steering, lost
+    the tiller, drifted three nights, reached Italy, was killed on shore, and asks
+    Aeneas to cover him with earth or carry him across the waters.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Comparison claims are left
+    empty because the passage supports motif identification but not a specific external
+    comparison or historical relationship.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Line labels include both supplied stable line range and bracketed passage divisions present in the excerpt.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l3704-l3794
+  passage_sha256=2c9cce2a45a2a204ebf9645670512245161fcfc8cf214ec36f8f57b3ea9df0b6
+

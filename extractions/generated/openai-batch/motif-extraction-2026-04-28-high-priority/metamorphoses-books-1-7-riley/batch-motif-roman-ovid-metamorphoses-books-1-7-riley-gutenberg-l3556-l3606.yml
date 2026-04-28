@@ -1,0 +1,466 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l3556-l3606
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / BOOK THE SECOND. / EXPLANATION. / EXPLANATION.; lines 3556-3606
+  start: '3556'
+  end: '3606'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Sea gods grant a request. The daughter of Saturn travels through the liquid
+    air in a chariot drawn by newly tinted peacocks. The narrator recalls a raven
+    formerly white but changed to black because of its chattering tongue. Coronis
+    of Larissa is described as beautiful and pleasing to the Delphian god while chaste;
+    the bird of Phoebus discovers her infidelity and flies to report it, while a crow
+    follows and warns that the errand is fruitless.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The gods of the sea grant a request to a female figure referred to as the
+    daughter of Saturn.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The daughter of Saturn enters the liquid air in a graceful chariot with variegated
+    peacocks.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The peacocks are described as recently tinted after the killing of Argus.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A garrulous raven is said to have been transformed suddenly into a black-winged
+    bird, though it had previously been white.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The raven formerly had a silver hue and snow-white feathers comparable to
+    spotless doves, watchful geese, and a swan.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The raven’s tongue and chattering are given as the cause of its disgrace and
+    reversal from white to black.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Coronis of Larissa is described as the most beautiful woman in Hæmonia.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Coronis pleased the Delphian god while she remained chaste or free from remark.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The bird of Phoebus discovers Coronis’s infidelity and flies to disclose the
+    hidden offence to his master.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: A prattling crow follows the bird of Phoebus, asks about the journey, and
+    warns him not to despise the presages of her voice.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Gods of the sea
+  description: Divine beings who grant the request at the opening of the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Daughter of Saturn
+  description: Female divine figure who enters the liquid air in a chariot with variegated
+    peacocks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Peacocks
+  description: Variegated birds drawing or accompanying the daughter of Saturn’s chariot,
+    described as recently tinted after Argus was killed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Argus
+  description: Figure whose killing is connected with the recent tinting of the peacocks.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Garrulous raven
+  description: Bird formerly white or silver-hued, transformed into black wings because
+    of its chattering tongue.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Coronis
+  description: Larissæan woman described as exceptionally beautiful and as pleasing
+    the Delphian god while chaste.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Delphian God / Phoebus
+  description: Divine figure pleased by Coronis and master of the bird that discovers
+    her infidelity.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: Bird of Phoebus
+  description: Bird who discovers Coronis’s infidelity and flies to tell his master.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Prattling crow
+  description: Crow who follows the bird of Phoebus and warns him that his errand
+    is fruitless.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: request-granting sea gods
+  assigned_to:
+  - fig:1
+  basis: They grant the request at the beginning of the passage.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine chariot rider
+  assigned_to:
+  - fig:2
+  basis: She enters the liquid air in a chariot with peacocks.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: newly tinted chariot birds
+  assigned_to:
+  - fig:3
+  basis: The peacocks are variegated and described as lately tinted.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: slain figure linked to bird coloration
+  assigned_to:
+  - fig:4
+  basis: The peacocks’ tinting is linked to the killing of Argus.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: transformed bird
+  assigned_to:
+  - fig:5
+  basis: The raven is said to have changed from white to black wings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: disgraced talker
+  assigned_to:
+  - fig:5
+  basis: Its tongue and chattering are identified as the cause of its disgrace.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: beautiful Larissæan woman
+  assigned_to:
+  - fig:6
+  basis: Coronis is described as unsurpassed in beauty in Hæmonia.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: beloved of a god while chaste
+  assigned_to:
+  - fig:6
+  basis: She pleased the Delphian god while she remained chaste or unremarked upon.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: divine lover and master
+  assigned_to:
+  - fig:7
+  basis: The Delphian god is pleased by Coronis and is master of the informing bird.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:10
+  label: informer bird
+  assigned_to:
+  - fig:8
+  basis: The bird discovers Coronis’s infidelity and flies to disclose it to his master.
+  evidence_refs:
+  - ev:6
+- id: role:11
+  label: warning crow
+  assigned_to:
+  - fig:9
+  basis: The crow follows and warns that the errand is fruitless.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: graceful chariot
+  literal_form: Chariot traveling through the liquid air with variegated peacocks.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: variegated peacocks
+  literal_form: Peacocks described as recently tinted after Argus was killed.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: black wings
+  literal_form: Black wings of the raven after transformation.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: white feathers
+  literal_form: The raven’s former silver hue and snow-white feathers.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: chattering tongue
+  literal_form: The raven’s tongue, named as the cause of disgrace.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: hidden offence
+  literal_form: Coronis’s infidelity discovered by the bird of Phoebus.
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: presaging voice
+  literal_form: The crow’s voice, whose presages she tells the other bird not to despise.
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Sea gods grant request and divine chariot flight
+  summary: The gods of the sea grant a request, and the daughter of Saturn enters
+    the liquid air in her chariot with variegated peacocks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Raven changed from white to black
+  summary: The narrator describes a formerly white, silver-hued raven whose chattering
+    tongue caused its disgrace and transformation into black wings.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Coronis discovered and reported
+  summary: Coronis, beloved by the Delphian god while chaste, is discovered in infidelity
+    by the bird of Phoebus, who flies to report the hidden offence to his master.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Crow warns the informer
+  summary: A prattling crow follows the bird of Phoebus, asks about his errand, and
+    warns him that the journey is fruitless and that her presaging voice should not
+    be despised.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: bird transformed through speech-related fault
+  taxonomy_refs:
+  - shapeshifter
+  basis: The raven is said to have been transformed from white to black, and its chattering
+    tongue is named as the cause of its disgrace.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives the transformation and cause but not the full narrative
+    circumstances in this excerpt.
+- id: motif:2
+  label: divine beloved whose infidelity is discovered
+  taxonomy_refs:
+  - divine_beloved
+  basis: Coronis pleases the Delphian god while chaste, and the bird of Phoebus discovers
+    her infidelity.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The excerpt does not include the consequences for Coronis or the full
+    divine relationship.
+- id: motif:3
+  label: animal informer carrying hidden knowledge to a divine master
+  taxonomy_refs: []
+  basis: The bird of Phoebus discovers a hidden offence and flies to disclose it to
+    his master.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: No specific taxonomy reference is available for this animal-informer pattern.
+- id: motif:4
+  label: warning voice ignored or at risk of being ignored
+  taxonomy_refs:
+  - wisdom
+  basis: The crow warns the bird of Phoebus that his errand is fruitless and tells
+    him not to despise the presages of her voice.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage records the warning but not whether it is heeded in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3556-3562
+  quote_or_summary: Sea gods grant a request; the daughter of Saturn enters the liquid
+    air in a graceful chariot with variegated peacocks, described as lately tinted
+    after Argus was killed.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3562-3564
+  quote_or_summary: The raven is addressed as garrulous and said to have been suddenly
+    transformed into a black-winged bird, though formerly white.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3564-3568
+  quote_or_summary: The raven was formerly silver-hued, with snow-white feathers,
+    and is compared with spotless doves, watchful geese, and a swan.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 3568-3570
+  quote_or_summary: "“His tongue was the cause of his disgrace; his chattering tongue
+    being the cause” that white became the reverse of white."
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; short excerpt quoted.
+- id: ev:5
+  type: summary
+  locator: lines 3572-3574
+  quote_or_summary: Coronis of Larissa is described as most beautiful in Hæmonia and
+    as pleasing the Delphian god while chaste or not the object of remark.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3574-3577
+  quote_or_summary: The bird of Phoebus discovers Coronis’s infidelity and flies to
+    his master to disclose the hidden offence.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3577-3580
+  quote_or_summary: A prattling crow follows, asks the reason for the journey, and
+    says the errand is fruitless, warning him not to despise her voice’s presages.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are conservative;
+    several full narrative consequences lie outside the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Footnotes in the supplied passage were used only to clarify locators and wording where directly relevant; no external identifications beyond the passage were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l3556-l3606
+  passage_sha256=8628174e28a3a7cb2f15e404f0dc8874377678560fe9b94dac71cd8a7aeb8a46
+

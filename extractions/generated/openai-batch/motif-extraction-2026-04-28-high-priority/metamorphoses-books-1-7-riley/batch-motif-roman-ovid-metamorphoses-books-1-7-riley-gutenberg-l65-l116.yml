@@ -1,0 +1,165 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l65-l116
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: The Metamorphoses of Ovid, Books I-VII / LITERALLY TRANSLATED WITH NOTES
+    AND EXPLANATIONS / INTRODUCTION.; lines 65-116
+  start: '65'
+  end: '116'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: The Metamorphoses of Ovid are a compendium of the Mythological narratives
+    of ancient Greece and Rome
+  summary: The passage is front matter and introduction for an English translation
+    of Ovid's Metamorphoses, Books I-VII. It identifies the translator and introduction
+    author, describes the work as a compendium of Greek and Roman mythological narratives,
+    and explains the translator's use of notes, explanations, and consulted editions.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as The Metamorphoses of Ovid, Volume I, Books
+    I-VII.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the volume is literally translated with notes and
+    explanations by Henry T. Riley, M.A.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the volume includes an introduction by Edward Brooks,
+    Jr.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The introduction describes the Metamorphoses as a compendium of mythological
+    narratives of ancient Greece and Rome.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The introduction says the translation is accompanied by notes and explanations
+    intended to clarify obscure matter and traditions of heathen mythology.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that the translation generally follows the Delphin edition
+    and that the texts of Burmann and Gierig were consulted.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ovid
+  description: Named as the authorial figure associated with The Metamorphoses and
+    described as one of the greatest poets of ancient Rome.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Henry T. Riley, M.A.
+  description: Named as the literal translator of the volume with notes and explanations.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Edward Brooks, Jr.
+  description: Named as the author of the introduction.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: Roman poet and attributed author
+  assigned_to:
+  - fig:1
+  basis: The passage names the work as The Metamorphoses of Ovid and refers to Ovid
+    as one of the greatest poets of ancient Rome.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: translator and annotator
+  assigned_to:
+  - fig:2
+  basis: The title page states that the work is literally translated with notes and
+    explanations by Henry T. Riley.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: introduction author
+  assigned_to:
+  - fig:3
+  basis: The title page states that the volume has an introduction by Edward Brooks,
+    Jr.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 65-84
+  quote_or_summary: Title and front matter identify The Metamorphoses of Ovid, Vol.
+    I--Books I-VII, literally translated with notes and explanations by Henry T. Riley,
+    M.A., with an introduction by Edward Brooks, Jr.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: lines 91-99
+  quote_or_summary: The introduction states that the Metamorphoses are “a compendium
+    of the Mythological narratives of ancient Greece and Rome” and calls the work
+    the masterpiece of one of ancient Rome's greatest poets.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 101-109
+  quote_or_summary: The introduction says the translation includes notes and explanations
+    to make obscure material more intelligible and to illuminate the origin and meaning
+    of some traditions of heathen mythology.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 111-116
+  quote_or_summary: The introduction states that the Delphin edition is generally
+    adopted, with occasional noted deviations, and that the texts of Burmann and Gierig
+    were consulted; punctuation was chosen at the translator's discretion.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: This line range is introductory/front-matter prose rather than a mythic narrative
+    passage. No passage-level symbols, scenes, motifs, or comparison claims are directly
+    supported beyond the general statement that the work compiles Greek and Roman
+    mythological narratives.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the passage does not narrate a specific mythic episode or describe concrete symbolic objects.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l65-l116
+  passage_sha256=e9e6989cc1e878f16026695ef86fbede651510b60ca79634976ff369c0a75d40
+

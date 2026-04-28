@@ -1,0 +1,460 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l4013-l4051
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 4013-4051
+  start: '4013'
+  end: '4051'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of explanatory footnotes on Balearic sling-users,
+    ancient sling materials and projectiles, translation notes on a mantle and winged
+    feet, and a note on Vulcan falling to Lemnos, practicing blacksmithing there,
+    and the birth of Ericthonius with Minerva's aid.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Baleares are identified as Majorca, Minorca, and Iviza in the Mediterranean
+    near Spain.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The natives of the Balearic islands are described as famous for skill with
+    the sling.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Balearic mothers are said to have made their children obtain food by striking
+    it from a tree with a sling.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Acarnanians and Achæans of Agium, Patræ, and Dymæ are described as very expert
+    in the use of the sling.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Achæan sling is described as made of three leather thongs, while Balearic
+    slings are described as made of rushes.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Lead sling projectiles called glandes are described as shaped between acorns
+    and almonds and cast in moulds.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Some sling projectiles are described as bearing a thunderbolt device or the
+    inscription meaning 'take this.'
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage reports an ancient idea that a sling stone became red hot in flight
+    because of the swiftness of its motion.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A translation note describes a figure arranging a mantle so its border and
+    gold appear.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: A translation note describes wings shining upon a figure's feet.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Vulcan is described as having been cast from heaven for deformity and as having
+    fallen on Lemnos.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Vulcan is described as practicing the craft of a blacksmith on Lemnos.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The passage states that the birth of Ericthonius by the aid of Minerva is
+    referred to.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: natives of the Balearic islands
+  description: Islanders of Majorca, Minorca, and Iviza, described as famous for skill
+    with the sling.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Balearic mothers
+  description: Mothers said to have required children to strike food from a tree with
+    a sling.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Acarnanians and Achæans of Agium, Patræ, and Dymæ
+  description: Greek groups described as very expert in the use of the sling.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: unnamed mantle-wearing and winged-footed figure
+  description: A figure referred to in translation notes as arranging a mantle and
+    having wings on his feet.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Vulcan
+  description: God said to inhabit Lemnos after being precipitated from heaven for
+    deformity, where he practiced blacksmithing.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Minerva
+  description: Goddess whose aid is mentioned in connection with the birth of Ericthonius.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Ericthonius
+  description: Figure whose birth by the aid of Minerva is referenced.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: expert sling-users
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage describes both the Balearic natives and named Greek groups as
+    skilled or expert with slings.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: childhood trainers through food test
+  assigned_to:
+  - fig:2
+  basis: The mothers are said to have required children to obtain food by striking
+    it from a tree with a sling.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: adorned winged figure in translation note
+  assigned_to:
+  - fig:4
+  basis: The notes refer to his mantle and wings at his feet without naming him in
+    the provided passage.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: fallen god
+  assigned_to:
+  - fig:5
+  basis: Vulcan is described as having been precipitated from heaven for deformity
+    and falling on Lemnos.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: divine blacksmith
+  assigned_to:
+  - fig:5
+  basis: Vulcan is described as practicing the craft of a blacksmith on Lemnos.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: divine helper in birth
+  assigned_to:
+  - fig:6
+  basis: Minerva's aid is mentioned in connection with the birth of Ericthonius.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: child whose birth is referenced
+  assigned_to:
+  - fig:7
+  basis: The passage refers to the birth of Ericthonius.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: sling
+  literal_form: sling used as a weapon and training implement
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: tree
+  literal_form: tree from which children struck food with a sling
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: lead sling projectile
+  literal_form: lead plummets called glandes, shaped between acorns and almonds
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: thunderbolt mark
+  literal_form: device of a thunderbolt on some sling projectiles
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: red-hot sling stone
+  literal_form: stone believed to become red hot during rapid sling flight
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: mantle with gold border
+  literal_form: mantle arranged so its border and gold appear
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: winged feet
+  literal_form: wings shining upon feet
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: Lemnos
+  literal_form: island where Vulcan fell and worked as a blacksmith
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Balearic sling skill explained
+  summary: The note identifies the Balearic islands and explains the islanders' reputation
+    for sling skill through a childhood food-striking practice imposed by mothers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ancient sling materials and projectiles
+  summary: The note compares sling materials and describes lead projectiles, including
+    their shapes, markings, inscriptions, and the belief that sling stones could become
+    red hot in flight.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Adornment and winged feet glossed
+  summary: Two translation notes describe a figure adjusting a gold-bordered mantle
+    and having wings at his feet.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Vulcan on Lemnos and Ericthonius referenced
+  summary: The note explains that Vulcan was cast from heaven for deformity, fell
+    on Lemnos, worked there as a blacksmith, and is connected to a reference to Ericthonius's
+    birth with Minerva's aid.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: skill gained through enforced childhood food test
+  taxonomy_refs: []
+  basis: Balearic children are said to have developed sling skill because their mothers
+    required them to obtain food by striking it from a tree with a sling.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an explanatory ethnographic anecdote in a footnote, not a full
+    mythic episode in the provided passage.
+- id: motif:2
+  label: fallen divine craftsman on an island
+  taxonomy_refs:
+  - departure
+  basis: Vulcan is described as expelled from heaven for deformity, falling on Lemnos,
+    and practicing blacksmithing there.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The footnote summarizes a mythological background rather than narrating
+    the episode in detail.
+- id: motif:3
+  label: birth aided by a goddess
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage states that Ericthonius's birth by the aid of Minerva is referred
+    to.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The birth episode is only mentioned briefly, without details in the provided
+    passage.
+- id: motif:4
+  label: weapon transformed by speed into heat
+  taxonomy_refs:
+  - fire
+  basis: The passage reports an ancient idea that a sling stone became red hot during
+    flight because of its swift motion.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: This is a reported ancient belief about a weapon projectile, not clearly
+    a narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4013-4018
+  quote_or_summary: The footnote identifies the Baleares as Majorca, Minorca, and
+    Iviza near Spain and says their natives were famous for sling use.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4027-4031
+  quote_or_summary: Balearic mothers are said to have trained children by requiring
+    them to obtain food by striking it from a tree with a sling.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4020-4032
+  quote_or_summary: The passage says Acarnanians and Achæans of Agium, Patræ, and
+    Dymæ were expert slingers; Achæan slings used three leather thongs, while Balearic
+    slings were made of rushes.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4033-4040
+  quote_or_summary: The footnote describes lead sling projectiles called glandes,
+    cast in moulds, shaped between acorns and almonds, sometimes marked with a thunderbolt
+    or an inscription meaning 'take this.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4040-4042
+  quote_or_summary: The passage reports the ancient idea that sling stones became
+    red hot in flight because of their speed.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4044-4047
+  quote_or_summary: A translation note says a figure places or adjusts his mantle
+    so that it hangs agreeably and its gold border appears.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4049-4050
+  quote_or_summary: A translation note renders a phrase as wings shining upon a figure's
+    feet.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 4052-4057
+  quote_or_summary: The note says Vulcan, cast from heaven for deformity, fell on
+    Lemnos, worked there as a blacksmith, and that Ericthonius's birth by Minerva's
+    aid is referenced.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is primarily explanatory footnotes and translation glosses. Several
+    extracted items are historical or editorial rather than narrative mythic material.
+    The locator label ends at 4051, but the supplied passage text includes the Vulcan
+    footnote after that line; extraction uses only the supplied passage text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself support a mythological comparison beyond editorial historical notes about sling use and brief mythological references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l4013-l4051
+  passage_sha256=698c628c7150d795bd7d28fd4f644a1fccbd6d28519a85d30877f915005b6308
+

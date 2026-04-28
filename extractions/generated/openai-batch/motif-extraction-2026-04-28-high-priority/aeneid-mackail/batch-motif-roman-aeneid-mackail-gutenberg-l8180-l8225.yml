@@ -1,0 +1,565 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l8180-l8225
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK ELEVENTH / THE COUNCIL OF THE LATINS, AND THE LIFE AND DEATH OF CAMILLA
+    / BOOK TWELFTH / THE SLAYING OF TURNUS; lines 8180-8225
+  start: '8180'
+  end: '8225'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: As Turnus kills across the plains, Aeneas is carried wounded into camp.
+    Iapix, a healer once favored by Apollo, cannot remove the arrow or cure the wound
+    by ordinary art. Venus secretly brings dittamy from Cretan Ida, mixes it with
+    river-water, ambrosia, and balm, and Iapix unknowingly washes the wound with it.
+    Aeneas is healed, rearmed, and instructs Ascanius to learn valor and remember
+    the example of his father and Hector.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Turnus is described as dealing death over the plains while Aeneas is carried
+    into the camp wounded and bloodied.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Aeneas tries to have the broken dart removed from his wound so that he may
+    return to battle.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Iapix is identified as son of Iasus and as especially beloved of Phoebus/Apollo.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Apollo once offered Iapix arts and gifts including augury, the lyre, and swift
+    arrows, but Iapix chose knowledge of herbs and healing practice to prolong a dying
+    parent's fate.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Iapix repeatedly attempts to treat Aeneas with healing hands, herbs, pincers,
+    and efforts to draw out the arrow-head, but the attempts fail.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: As the attempted treatment fails, dust, cavalry, falling shafts, and cries
+    of battle approach the camp.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Venus, moved by her son's pain, takes a stalk of dittamy from Cretan Ida and
+    carries it down in a dim halo.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Venus steeps the plant with secret healing in river-water and adds life-giving
+    ambrosial juice and scented balm.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Iapix unknowingly washes the wound with the prepared water, after which the
+    pain departs, blood stops, the arrow falls out, and Aeneas' strength returns.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Iapix tells the others to arm Aeneas quickly and states that the cure did
+    not come from human art or his own hand, but from a higher god.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Aeneas puts on greaves, takes up his spear, receives shield and corslet, embraces
+    and kisses Ascanius through the helmet, and addresses him.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Aeneas tells Ascanius to learn valor and toil from him, and later to remember
+    the pattern of his kindred, including father Aeneas and uncle Hector.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Aeneas
+  description: A wounded warrior brought into camp, healed, rearmed, and returned
+    toward battle; father of Ascanius/Iülus.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Turnus
+  description: The opposing warrior described as dealing death over the plains.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Mnestheus
+  description: One of those who set Aeneas down in camp.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Achates
+  description: Called faithful Achates; one of those who set Aeneas down in camp.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Ascanius / Iülus
+  description: Present beside Aeneas; later embraced and instructed by Aeneas as a
+    boy and son.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:6
+  name_or_label: Iapix son of Iasus
+  description: Aged healer beloved of Phoebus, skilled in herbs and healing; attempts
+    to treat Aeneas and recognizes the cure as divine.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Phoebus / Apollo
+  description: God who once offered Iapix augury, lyre, and arrows; his herbs are
+    used by Iapix, though Apollo gives no counsel during the failed treatment.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:8
+  name_or_label: Venus
+  description: Mother of Aeneas; secretly prepares a healing mixture with dittamy,
+    river-water, ambrosia, and balm.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:9
+  name_or_label: Hector
+  description: Named by Aeneas as Ascanius' uncle and part of the remembered kindred
+    pattern.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: wounded warrior restored to battle
+  assigned_to:
+  - fig:1
+  basis: Aeneas is wounded by a dart, healed, rearmed, and sent back to higher deeds.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: human healer
+  assigned_to:
+  - fig:6
+  basis: Iapix practices herbs and healing, attempts the cure, washes the wound, and
+    identifies the cure as beyond his art.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: divine mother and hidden helper
+  assigned_to:
+  - fig:8
+  basis: Venus is moved by her son's pain and secretly provides the healing mixture.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: son and recipient of instruction
+  assigned_to:
+  - fig:5
+  basis: Ascanius is embraced by Aeneas and told to learn valor, toil, and ancestral
+    example.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: companions carrying the wounded hero
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Mnestheus, Achates, and Ascanius are named beside Aeneas as he is set down
+    in camp.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: ancestral exemplar
+  assigned_to:
+  - fig:1
+  - fig:9
+  basis: Aeneas tells Ascanius to remember father Aeneas and uncle Hector as the pattern
+    of kindred.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: enemy warrior causing battlefield crisis
+  assigned_to:
+  - fig:2
+  basis: Turnus is killing across the plains while Aeneas is incapacitated and battle
+    nears the camp.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:8
+  label: divine patron of arts
+  assigned_to:
+  - fig:7
+  basis: Apollo once offered Iapix augury, lyre, and swift arrows, and is associated
+    with potent herbs, though he gives no counsel in this moment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: broken dart or arrow-head
+  literal_form: The dart lodged in Aeneas' wound, with the reed broken and the steel
+    hidden in the wound.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: spear
+  literal_form: Aeneas leans on a long or vast spear and later brandishes his spear
+    after being healed.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:3
+  label: healing herbs and dittamy
+  literal_form: Iapix uses potent herbs; Venus plucks dittamy with downy leaves and
+    bright-tressed flowers from Cretan Ida.
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: river-water healing mixture
+  literal_form: River-water mixed with secret healing, ambrosial juice, and scented
+    balm, used to wash Aeneas' wound.
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Cretan Ida
+  literal_form: The mountain place from which Venus plucks the dittamy.
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: armor of return to battle
+  literal_form: Golden greaves, shield, corslet, helmet, and armed embrace as Aeneas
+    prepares to fight again.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: ancestral pattern
+  literal_form: 'Aeneas'' spoken pattern of kindred: father Aeneas and uncle Hector
+    remembered by Ascanius.'
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Wounded Aeneas brought into camp
+  summary: While Turnus ravages the plains, Mnestheus, Achates, and Ascanius bring
+    bloodied Aeneas into camp, where he tries to have the dart removed so he can return
+    to battle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Iapix's failed medical treatment
+  summary: Iapix, a healer favored by Apollo, attempts to remove the arrow-head and
+    treat the wound with herbs and tools, but battle draws nearer and the treatment
+    does not work.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Venus' hidden healing intervention
+  summary: Venus secretly prepares dittamy in river-water with ambrosia and balm;
+    Iapix unknowingly applies it, and Aeneas' pain, blood loss, lodged arrow, and
+    weakness are removed.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Recognition of divine aid and return to arms
+  summary: Iapix declares that no human art saved Aeneas, urges arms to be brought,
+    and Aeneas re-equips himself for battle.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Aeneas instructs Ascanius
+  summary: Before returning to battle, Aeneas embraces and kisses Ascanius through
+    the helmet and tells him to learn valor and toil from him and later remember his
+    father and Hector.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:9
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divine mother secretly heals wounded son
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Venus is explicitly Aeneas' mother, is moved by his pain, and secretly provides
+    the healing substance that restores him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents healing aid, not a broader birth or childhood narrative.
+- id: motif:2
+  label: divine intervention surpassing human healing art
+  taxonomy_refs: []
+  basis: Iapix's ordinary treatment fails; after Venus' hidden mixture is applied,
+    Iapix says the cure is not from human resource or his hand but from a higher god.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not name the higher god in Iapix's speech, though the
+    narrative has just shown Venus acting.
+- id: motif:3
+  label: hero restored from wound and returned to battle
+  taxonomy_refs: []
+  basis: Aeneas is incapacitated by an embedded dart, healed suddenly, rearmed, and
+    sent back toward battle and higher deeds.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a battlefield restoration rather than a death-and-resurrection
+    episode.
+- id: motif:4
+  label: heroic values transmitted from father to son
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Aeneas instructs Ascanius to learn valor and toil from him and to remember
+    the pattern of his kindred, including Aeneas and Hector.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage emphasizes lineage and example, but does not explicitly mention
+    kingship or formal succession.
+- id: motif:5
+  label: chosen healing knowledge over prestigious divine arts
+  taxonomy_refs:
+  - wisdom
+  basis: Iapix rejects or does not choose Apollo's augury, lyre, and arrows, instead
+    choosing knowledge of herbs and healing to prolong a dying parent's fate.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the passage describes practical
+    healing knowledge rather than a wisdom quest.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a functional comparison to a divine-parent aid pattern,
+    because a divine mother secretly intervenes to heal and restore her son.
+  claim_level: same_function
+  target: divine_parent_child motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a passage-level functional comparison only; it does not establish
+    historical contact or a full shared narrative structure.
+- id: claim:2
+  claim: The passage supports a functional comparison to heroic restoration patterns
+    in which a wounded hero is supernaturally healed and returned to combat.
+  claim_level: same_function
+  target: wounded hero restored to battle pattern
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not depict death, descent, or resurrection, so comparison
+    should remain limited to restoration after wounding.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8180-8188
+  quote_or_summary: Turnus is killing over the plains while Mnestheus, Achates, and
+    Ascanius set bloodied Aeneas down in camp; Aeneas leans on his spear and demands
+    the dart be cut out so he can return to battle.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 8188-8196
+  quote_or_summary: Iapix son of Iasus, beloved of Phoebus, had once been offered
+    Apollo's arts and gifts but chose herbs and healing practice to prolong a dying
+    parent's fate.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 8196-8207
+  quote_or_summary: Iapix works with healing hand, herbs, and pincers, but fails to
+    draw out the arrow-head; Apollo gives no counsel, and the battle's dust, cavalry,
+    shafts, and cries approach the camp.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 8207-8214
+  quote_or_summary: Venus, moved by her son's pain, plucks dittamy from Cretan Ida,
+    carries it in a dim halo, steeps it in river-water, and adds ambrosial juice and
+    scented balm.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 8214-8219
+  quote_or_summary: Iapix unknowingly washes Aeneas' wound with the prepared water;
+    pain leaves, blood is stanched, the arrow falls out without force, and strength
+    returns.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 8219-8223
+  quote_or_summary: Iapix calls for Aeneas to be armed and says the cure is not by
+    human resource, schooling, or his hand, but that a higher god is at work and sends
+    Aeneas back to higher deeds.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 8223-8225 and continuation within provided passage
+  quote_or_summary: Aeneas clasps on golden greaves, takes up spear, receives shield
+    and corslet, embraces Ascanius in arms, kisses him through the helmet, and tells
+    him to learn valor and toil and remember father Aeneas and uncle Hector.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    cautious and passage-level; taxonomy references are limited to the provided list
+    and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or unsupported comparisons used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l8180-l8225
+  passage_sha256=e14566bbde8218458c972e072ff7ff3865fb913326bcb5077255065eee34affe
+

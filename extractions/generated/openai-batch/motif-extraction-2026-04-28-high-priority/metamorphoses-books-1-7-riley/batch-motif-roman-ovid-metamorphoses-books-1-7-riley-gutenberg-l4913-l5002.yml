@@ -1,0 +1,558 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l4913-l5002
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: BOOK THE THIRD. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 4913-5002
+  start: '4913'
+  end: '5002'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage first explains variants of the Diana and Actaeon story, including
+    interpretations of Actaeon''s death by his dogs and traditions that he was punished
+    for seeing Diana bathing or offending her sacrifice. It then introduces Juno''s
+    revenge against Semele: Juno, angry that Semele is pregnant by Jupiter, disguises
+    herself as Semele''s old nurse Beroe and advises Semele to demand that Jupiter
+    appear to her in the same majesty with which he approaches Juno. Jupiter grants
+    Semele an unspecified favor and swears by the Stygian stream.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The explanatory note reports multiple ancient accounts of Diana and Actaeon,
+    including versions in which Actaeon saw Diana bathing, offended a sacrifice, or
+    made improper overtures to Semele.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:2
+  text: The explanatory note reports interpretations in which Actaeon's dogs devoured
+    him, either because they became mad or because his hunting expenses ruined him
+    metaphorically.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Juno rejoices at calamity in Agenor's family and transfers her hatred from
+    a Tyrian mistress to that woman's kin.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: Juno is angry that Semele is pregnant by Jupiter.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: Juno vows that Semele will descend to the Stygian waves through Jupiter's
+    own action.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Juno rises from her throne, approaches Semele's threshold hidden in a fiery-colored
+    cloud, and disguises herself as an old woman.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Juno specifically assumes the identity and voice of Beroe, the Epidaurian
+    nurse of Semele.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: In disguise, Juno tells Semele to ask her lover for proof that he is truly
+    Jupiter, namely that he come to her in the form and majesty in which Juno receives
+    him.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Semele asks Jupiter for an unnamed favor, and Jupiter promises not to deny
+    her, swearing by the Stygian stream.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Diana
+  description: A goddess discussed in the explanation as chaste, associated with the
+    Moon, with the chase, and with the punishment of Actaeon in several accounts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Actaeon
+  description: A young man whose misfortune or offense toward Diana is discussed;
+    in several accounts he is killed or devoured by his dogs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Actaeon's dogs
+  description: Dogs said in some explanations to have devoured Actaeon or to have
+    died of grief after losing their master.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Juno
+  description: The wife, sister, and queen of Jupiter; she is angry at Semele's pregnancy
+    and disguises herself as Beroe to deceive Semele.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Semele
+  description: The daughter of Cadmus, pregnant by Jupiter; she is deceived by Juno
+    in the form of Beroe and asks Jupiter for an unnamed favor.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Jupiter
+  description: The god whose relationship with Semele angers Juno; he grants Semele
+    a favor and swears by the Stygian stream.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: Beroe
+  description: The Epidaurian nurse of Semele, whose appearance and identity Juno
+    counterfeits.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Cadmus
+  description: Named as Semele's father through the phrase 'daughter of Cadmus.'
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: punishing goddess
+  assigned_to:
+  - fig:1
+  basis: The explanation discusses Diana's punishment of Actaeon and traditions in
+    which punishment by the goddess is deemed retribution.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: victim or offender in variant accounts
+  assigned_to:
+  - fig:2
+  basis: The explanation presents Actaeon as innocent in one reading, curious in another,
+    and culpable in others.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: agents of death or mourners
+  assigned_to:
+  - fig:3
+  basis: The dogs are said either to have devoured Actaeon or to have died of grief
+    after his death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: jealous divine wife
+  assigned_to:
+  - fig:4
+  basis: Juno identifies herself as Jupiter's sister and wife and speaks of injury
+    to her bed and Semele's pregnancy.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: deceptive disguiser
+  assigned_to:
+  - fig:4
+  basis: Juno counterfeits an old woman and becomes Beroe in order to tutor Semele.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: deceived pregnant beloved
+  assigned_to:
+  - fig:5
+  basis: Semele is pregnant by Jupiter, is called unsuspecting, receives Juno's counsel,
+    and asks Jupiter for a favor.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: role:7
+  label: divine lover and oath-giver
+  assigned_to:
+  - fig:6
+  basis: Jupiter is Semele's lover, is asked to prove his identity, and grants a favor
+    by the Stygian stream.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:8
+  label: borrowed identity
+  assigned_to:
+  - fig:7
+  basis: Juno becomes Beroe, Semele's nurse, while deceiving Semele.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: named parent
+  assigned_to:
+  - fig:8
+  basis: Semele is identified as the daughter of Cadmus.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: bathing goddess
+  literal_form: Diana bathing
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: hunting dogs
+  literal_form: Actaeon's dogs
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Stygian waters
+  literal_form: Stygian waves or Stygian stream
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:4
+  label: fiery cloud
+  literal_form: cloud of fiery hue
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: royal sceptre
+  literal_form: sparkling sceptre in Juno's right hand
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: old-woman disguise
+  literal_form: gray hair, wrinkled skin, bent limbs, palsied step, and old woman's
+    voice
+  associated_figures:
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: divine ensigns
+  literal_form: Jupiter's ensigns of royalty and majestic form
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Explanatory variants of Diana and Actaeon
+  summary: The passage summarizes traditions and rationalizing explanations concerning
+    Diana, Actaeon, his sight of Diana bathing, alleged offenses, and death by dogs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Juno's anger at Semele
+  summary: Juno rejoices at Agenor's family calamity, grieves over Semele's pregnancy
+    by Jupiter, and resolves to destroy Semele.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Juno assumes Beroe's form
+  summary: Juno leaves her throne, approaches Semele in a fiery cloud, takes on the
+    appearance and voice of an old woman, and becomes Beroe, Semele's nurse.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Counsel to demand divine manifestation
+  summary: The disguised Juno leads Semele to doubt whether her lover is really Jupiter
+    and advises her to require him to appear with the majesty and royal ensigns he
+    uses with Juno.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Jupiter's oath to Semele
+  summary: Semele requests a favor without naming it, and Jupiter swears by the Stygian
+    stream that he will not deny her choice.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divine punishment for seeing or offending a goddess
+  taxonomy_refs:
+  - divine_judgment
+  basis: The explanation describes accounts where Actaeon is punished for seeing Diana
+    bathing, showing contempt to Diana, eating from her sacrifice, or making improper
+    overtures.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is an explanatory note summarizing multiple traditions and
+    interpretations, not a single narrative sequence.
+- id: motif:2
+  label: death by one's own hunting dogs
+  taxonomy_refs: []
+  basis: The explanation reports that Actaeon's dogs devoured him in some interpretations
+    and that Apollodorus preserved names of dogs who later died of grief.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents this as reported tradition and rationalizing explanation
+    rather than directly narrating the metamorphosis episode.
+- id: motif:3
+  label: deity in deceptive borrowed form
+  taxonomy_refs:
+  - shapeshifter
+  basis: Juno counterfeits an old woman and becomes Beroe, Semele's nurse, in order
+    to influence Semele.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The transformation is a disguise or impersonation, not necessarily a permanent
+    change of being.
+- id: motif:4
+  label: fatal or dangerous request for divine manifestation
+  taxonomy_refs:
+  - divine_beloved
+  basis: Juno persuades Semele to ask Jupiter to appear in the greatness and form
+    in which he is received by Juno, and Jupiter swears to grant her unnamed request.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The fatal result is foreshadowed in Juno's vow and the fable heading but
+    is not completed within the provided passage.
+- id: motif:5
+  label: binding oath by underworld waters
+  taxonomy_refs:
+  - water
+  basis: Jupiter makes his promise by invoking the majesty of the Stygian stream,
+    described as the dread and god of the gods.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy reference is symbolic rather than a specific motif-family
+    match.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Ovid's Actaeon material with Pausanias's
+    account, saying Pausanias tells the story in much the same terms but adds Actaeon's
+    curiosity after seeing Diana bathing.
+  claim_level: same_motif
+  target: Pausanias's account of Diana and Actaeon in the Attica
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Only the comparison reported by the translator's explanation is available;
+    the external text is not provided here.
+- id: claim:2
+  claim: The passage reports an alternative tradition in Diodorus Siculus and Euripides
+    where Actaeon's punishment follows contempt toward Diana and attempted consumption
+    of her sacrifice.
+  claim_level: same_motif
+  target: Diodorus Siculus and Euripides traditions of Actaeon's offense against Diana
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the translator's summary and does not establish
+    direct dependence among the accounts.
+- id: claim:3
+  claim: The passage reports Apollodorus's version in which Actaeon, raised by Chiron,
+    is killed on Mount Cithaeron for seeing Diana bathing, with another ancient authority
+    giving improper overtures to Semele as the cause.
+  claim_level: same_motif
+  target: Apollodorus and another ancient authority on Actaeon's punishment
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives a brief secondary summary of these variants and does
+    not quote the compared sources.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4913-4931
+  quote_or_summary: The explanation criticizes the fable's portrayal of Diana as cruelly
+    revenging herself on an innocent young man and lists several goddesses named Diana,
+    including Britomartis, associated with the chase.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4931-4942
+  quote_or_summary: The explanation says Pausanias tells a similar Actaeon story with
+    Actaeon's curiosity after seeing Diana bathing, and mentions explanations that
+    his dogs became mad and devoured him or that his hunting expenses led to a report
+    that he was devoured by dogs.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4942-4951
+  quote_or_summary: The explanation reports Diodorus Siculus and Euripides as saying
+    Actaeon showed contempt to Diana and approached her sacrifice, while Apollodorus
+    says he was raised by Chiron and killed on Mount Cithaeron for seeing Diana bathing;
+    another authority says he was punished for improper overtures to Semele, and Apollodorus
+    says his dogs died of grief.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4953-4968
+  quote_or_summary: The fable heading summarizes Juno's revenge through Beroe's form,
+    and the narrative says Juno rejoices at calamity in Agenor's family and grieves
+    that Semele is pregnant by Jupiter.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 4969-4982
+  quote_or_summary: Juno says Semele is pregnant and bears evidence of Jupiter's crime,
+    then vows that Semele will 'descend to the Stygian waves' by her own Jupiter.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 4983-4990
+  quote_or_summary: Juno rises from her throne, approaches Semele's threshold hidden
+    in a fiery cloud, adopts the features and voice of an old woman, and becomes Beroe,
+    the Epidaurian nurse of Semele.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4990-4999
+  quote_or_summary: In Beroe's form, Juno voices doubt that Semele's lover is truly
+    Jupiter and advises Semele to seek a pledge by asking him to come in the same
+    majesty and form in which Juno receives him, with his royal ensigns.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 4999-5002
+  quote_or_summary: Semele requests an unnamed favor; Jupiter replies, 'Make thy choice,
+    thou shalt suffer no denial,' and invokes the Stygian stream as witness.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif candidates are strongest
+    for Juno's disguise and the Actaeon variants; the Semele outcome is only foreshadowed
+    in this passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources were used; comparison claims are limited to comparisons explicitly stated in the passage's explanatory material.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l4913-l5002
+  passage_sha256=acf2421f84c4374da705fa99ba7f05bd3e14d9967b792d475587a310a32aac2a
+

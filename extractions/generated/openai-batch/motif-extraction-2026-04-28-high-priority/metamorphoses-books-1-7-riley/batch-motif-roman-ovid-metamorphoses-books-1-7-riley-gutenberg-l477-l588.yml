@@ -1,0 +1,436 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l477-l588
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: BOOK VII. / INTRODUCTION. / THE METAMORPHOSES. / BOOK THE FIRST.; lines 477-588
+  start: '477'
+  end: '588'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens the Metamorphoses by announcing a poem about forms changed
+    into new bodies and invoking the gods who caused those changes. It then describes
+    primordial Chaos as an undifferentiated mass in which sea, earth, heaven, air,
+    heat, cold, moist, dry, heavy, and weightless things were mingled and in conflict.
+    God or Nature ends this disorder by separating earth, heavens, waters, and air,
+    assigning the fiery upper heaven to the highest place, air below it, earth lower
+    by weight, and encircling waters around the solid globe. Notes explain several
+    names and include a comparison between the phrase describing Chaos and Genesis
+    1:2.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker states a design to tell of forms changed into new bodies and asks
+    the gods to favor the attempt.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrative begins from the beginning of the world and is projected to continue
+    to the speaker's own times.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At first, sea, earth, and heaven are described as the only face of nature
+    and are named Chaos.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Chaos is described as a rude, undigested, inert mass of discordant atoms heaped
+    together in one spot.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Before ordering, the Sun and Moon do not yet give light or show their regular
+    forms.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Land, sea, and air are not yet distinct in their present forms; earth lacks
+    firmness, sea is unnavigable, and air lacks light.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Opposed qualities such as cold and hot, moist and dry, soft and hard, and
+    heavy and weightless strive within the same body.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: God and bounteous Nature end the discord by separating earth from heavens,
+    waters from earth, and clear heavens from gross atmosphere.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The separated elements are recombined in harmonious unison, each in its proper
+    place.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The fiery, weightless element of the vaulted heaven takes the highest region;
+    air is next; earth is pressed by gravity; waters sink lowest and surround the
+    solid globe.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: speaker of the poem
+  description: The first-person voice announcing the design to narrate transformations
+    from the beginning of the world to his own times.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Gods
+  description: Divine beings invoked by the speaker as those who changed forms into
+    new bodies and whose favor is requested.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: God and bounteous Nature
+  description: The ordering agency that ends the discord of Chaos by separating and
+    arranging the elements.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Sun
+  description: A luminary said not yet to give light to the world during the state
+    of Chaos.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:5
+  name_or_label: Moon
+  description: A luminary said not yet to recover her horns anew by increasing during
+    the state of Chaos.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: fig:6
+  name_or_label: Amphitrite
+  description: Named in the passage in connection with the ocean; the note says she
+    is the goddess of the ocean and that her name is used for the ocean itself.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:10
+roles:
+- id: role:1
+  label: poetic narrator
+  assigned_to:
+  - fig:1
+  basis: The figure speaks in the first person about the intended narrative and asks
+    for divine favor.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: invoked changers of forms
+  assigned_to:
+  - fig:2
+  basis: The speaker addresses the gods as the ones who changed forms into new bodies
+    and asks them to favor the work.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: cosmic orderer
+  assigned_to:
+  - fig:3
+  basis: God and Nature end discord by separating and assigning the elements to proper
+    places.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:4
+  label: absent primordial luminary
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The Sun and Moon are mentioned as not yet functioning in the primordial state.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: oceanic personification or name
+  assigned_to:
+  - fig:6
+  basis: The note identifies Amphitrite as goddess of the ocean and states that her
+    name is used to signify the ocean itself.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: Chaos
+  literal_form: Primordial undigested mass containing mingled sea, earth, heaven,
+    air, and opposed qualities.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - chaos
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: water
+  literal_form: The waters separated from earth and later sinking to the lowermost
+    place around the solid globe.
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:10
+- id: sym:3
+  label: fire of the vaulted heaven
+  literal_form: The fiery, weightless element of the vaulted heaven that selects the
+    highest region.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+  - ev:11
+- id: sym:4
+  label: solid globe
+  literal_form: The earth pressed together by its own gravity and surrounded by encircling
+    waters.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Proem and invocation
+  summary: The speaker announces a poem about changed forms and invokes the gods who
+    brought about those changes to support the narrative from the beginning of the
+    world to his own times.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Primordial Chaos
+  summary: The first state of the universe is described as Chaos, an undifferentiated
+    and inert mass in which elements and contrary qualities are mingled and in conflict,
+    with no functioning Sun or Moon and no stable earth, sea, or air.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Separation and ordering of the elements
+  summary: God and Nature end the confusion by separating heaven, earth, waters, and
+    atmosphere, then arranging the fiery heaven, air, earth, and encircling waters
+    in ordered positions.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: primordial chaos before cosmic order
+  taxonomy_refs:
+  - chaos
+  basis: The passage explicitly names the first undifferentiated condition Chaos and
+    describes discordant elements and qualities mingled before ordering.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is a translated poetic account with explanatory notes; the
+    extraction uses only this passage.
+- id: motif:2
+  label: cosmic ordering by separation of elements
+  taxonomy_refs:
+  - chaos
+  basis: The ordering agency ends Chaos by separating earth, heavens, waters, and
+    atmosphere and assigning elements to their proper places.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No more specific supplied taxonomy reference is available for elemental
+    separation or cosmogonic ordering.
+- id: motif:3
+  label: forms changed into new bodies
+  taxonomy_refs:
+  - shapeshifter
+  basis: The proem announces the poem's subject as forms changed into new bodies and
+    attributes the changes to the gods.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a programmatic statement rather than a specific transformation
+    episode; the supplied taxonomy label 'shapeshifter' only partially matches externally
+    caused metamorphosis.
+comparison_claims:
+- id: claim:1
+  claim: The translator's note states that the phrase describing Chaos as a rude and
+    undigested mass is very similar to the wording of Genesis 1:2 about the earth
+    being without form and void.
+  claim_level: linguistic_similarity
+  target: Genesis 1:2 as cited in the note
+  evidence_refs:
+  - ev:12
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made by the translator's note, not by Ovid's narrative
+    voice; the passage provides only a brief wording similarity and no evidence for
+    historical contact or shared source.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 477-588; Argument [I.1-4]
+  quote_or_summary: The speaker announces the design to speak of forms changed into
+    new bodies, invokes the gods who changed them, and asks for a narrative from the
+    world's beginning to his own times.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 477-588; Fable I [I.5-31], opening of Chaos description
+  quote_or_summary: At first, sea, earth, and all-covering heaven are the only face
+    of nature, named Chaos, a rude and undigested inert mass of discordant atoms heaped
+    together.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 477-588; Fable I [I.5-31], primordial absence of ordered features
+  quote_or_summary: No Sun yet lights the world, the Moon does not yet renew her horns,
+    earth is not yet balanced in air, and land, sea, and air are not distinct in present
+    form.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 477-588; Fable I [I.5-31], conflict of qualities
+  quote_or_summary: Within the same body, cold strives with hot, moist with dry, soft
+    with hard, and heavy things with weightless things.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 477-588; Fable I [I.5-31], end of discord
+  quote_or_summary: God and bounteous Nature put an end to the discord by separating
+    earth from heavens, waters from earth, and clear heavens from gross atmosphere,
+    then combining the disjoined elements in harmonious unison.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: lines 477-588; Fable I [I.5-31], ordered places of elements
+  quote_or_summary: The fiery, weightless vaulted heaven takes the highest region;
+    air comes next; earth draws ponderous atoms and is pressed by gravity; waters
+    sink lowest and surround the solid globe.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary provided.
+- id: ev:7
+  type: summary
+  locator: lines 477-588; Footnote 8
+  quote_or_summary: The note explains Nature here as the invisible agency of the Deity
+    in reducing Chaos into order, treating 'God' and 'Nature' as explanatory equivalents
+    in this context.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary provided.
+- id: ev:8
+  type: summary
+  locator: lines 477-588; Footnote 5
+  quote_or_summary: The note explains the Sun's name Titan by reference to Hyperion
+    and associated astronomical observation and seasonal knowledge.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary provided.
+- id: ev:9
+  type: summary
+  locator: lines 477-588; Footnote 6
+  quote_or_summary: The note explains that the Moon is called Phoebe from a Greek
+    word meaning shining and as sister of Phoebus, Apollo, or the Sun.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary provided.
+- id: ev:10
+  type: summary
+  locator: lines 477-588; Footnote 7
+  quote_or_summary: The note identifies Amphitrite as daughter of Oceanus and Doris,
+    wife of Neptune, goddess of the ocean, and says her name is used here to signify
+    the ocean itself.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary provided.
+- id: ev:11
+  type: summary
+  locator: lines 477-588; Footnote 9
+  quote_or_summary: The note explains the vaulted heaven as the firmament or upper
+    air, supposed to be of the purest fire and source of all flame.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary provided.
+- id: ev:12
+  type: summary
+  locator: lines 477-588; Footnote 4
+  quote_or_summary: The note says the description of Chaos as a rude and undigested
+    mass is very similar to the Scriptural phrase in Genesis 1:2, 'without form and
+    void.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary includes a brief public-domain quotation
+    from the cited note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Core cosmogonic observations are explicit. The metamorphosis motif is programmatic
+    rather than episode-specific. The comparison claim is limited to the translator's
+    note and should not be read as evidence of contact.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references are limited to the supplied available references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l477-l588
+  passage_sha256=7479366f62269833dcfb60e2c30d2f11d931a893870479e8a41b5a5586ab2c9b
+

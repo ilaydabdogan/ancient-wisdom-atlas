@@ -1,0 +1,498 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l4421-l4519
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / BOOK THE THIRD. / EXPLANATION.; lines 4421-4519
+  start: '4421'
+  end: '4519'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“Why, son of Agenor, art thou thus contemplating the dragon slain by thee?
+    Even thou thyself shalt be seen in the form of a dragon.”"
+  summary: After Cadmus has slain a dragon, an unexplained voice foretells his own
+    future dragon-form. Pallas descends and instructs him to sow the dragon’s teeth
+    in ploughed earth. Armed men grow from the furrows, fight one another as newly
+    born brothers, and only five survive. Echion, following Tritonia’s advice, lays
+    down arms and makes peace. These survivors assist Cadmus in founding the city
+    ordered by Apollo’s oracle.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Cadmus surveys the slain dragon, described as his vanquished enemy.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An unexplained voice addresses Cadmus as son of Agenor and foretells that
+    he will be seen in the form of a dragon.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: obs:3
+  text: Pallas descends through the air and instructs Cadmus to sow the dragon’s teeth
+    in turned earth as seeds of a future people.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Cadmus opens a furrow with a plough and scatters the teeth on the ground as
+    ordered.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The turf moves, and armed human figures emerge gradually from the furrows
+    with spear-points, helmets, shoulders, breasts, arms, weapons, and shields.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: One earth-born man warns Cadmus not to take up arms or engage in civil war.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The earth-born brothers fight one another and die by mutual wounds soon after
+    receiving life.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Only five of the newly sprung youths remain alive; Echion is one of them.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Echion lays down his arms and exchanges assurances of brotherly concord.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Cadmus has the surviving earth-born men as associates when he builds the city
+    ordered by the oracle of Phoebus.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Cadmus
+  description: The son of Agenor, called the conqueror, hero, and Sidonian stranger;
+    he slays the dragon, sows its teeth, and builds the city ordered by Phoebus’ oracle.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: Slain dragon
+  description: Cadmus’ vanquished enemy; its teeth are sown in the earth, and Cadmus
+    is foretold to take dragon form.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: fig:3
+  name_or_label: Unexplained voice
+  description: A voice of unclear origin that speaks to Cadmus after the dragon is
+    slain.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Pallas / Tritonia
+  description: The favorer of the hero who descends through the air, instructs Cadmus
+    to sow the dragon’s teeth, and later advises Echion to lay down arms.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:5
+  name_or_label: Earth-born armed men
+  description: A crop of armed men, described as brothers newly sprung from the earth
+    after the dragon’s teeth are sown.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Echion
+  description: One of the five surviving earth-born men who lays down his arms and
+    exchanges assurance of brotherly concord.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Phoebus
+  description: Associated with the oracle that ordered the city Cadmus builds.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: dragon-slayer
+  assigned_to:
+  - fig:1
+  basis: Cadmus is addressed while contemplating the dragon slain by him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: city-builder under oracle
+  assigned_to:
+  - fig:1
+  basis: The Sidonian stranger builds the city ordered by the oracle of Phoebus.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: vanquished serpent enemy and source of seed-teeth
+  assigned_to:
+  - fig:2
+  basis: The dragon is slain by Cadmus, and its teeth are sown as seeds of a future
+    people.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: prophetic announcer
+  assigned_to:
+  - fig:3
+  basis: The voice foretells Cadmus’ future dragon form.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: divine helper and instructor
+  assigned_to:
+  - fig:4
+  basis: Pallas favors the hero, descends from the air, and directs the sowing of
+    the dragon’s teeth; Tritonia advises Echion to disarm.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:6
+  label: earth-born warrior brothers
+  assigned_to:
+  - fig:5
+  basis: The passage describes armed men growing from the earth and later calls them
+    newly sprung brothers.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:7
+  label: surviving peace-maker among earth-born men
+  assigned_to:
+  - fig:6
+  basis: Echion remains among the five survivors, throws down his arms, and enters
+    brotherly concord.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: oracular authority
+  assigned_to:
+  - fig:7
+  basis: The city is said to have been ordered by the oracle of Phoebus.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: dragon / serpent
+  literal_form: The slain dragon, with a footnote identifying Cadmus’ later transformation
+    into a serpent.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: sym:2
+  label: dragon’s teeth
+  literal_form: Teeth of the dragon sown under the turned earth as seeds of a future
+    people.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: furrowed earth
+  literal_form: The earth opened by Cadmus’ plough, from which armed men grow.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: armed crop of men
+  literal_form: A crop of men armed with shields, spears, helmets, and weapons emerging
+    from the ground.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: blood-stained mother
+  literal_form: The earth or mother beaten by the throbbing breasts of the dying youths.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: laid-down arms
+  literal_form: Echion throws his arms upon the ground before exchanging brotherly
+    concord.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: oracle-ordered city
+  literal_form: The city built by Cadmus according to the oracle of Phoebus.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Prophecy over the slain dragon
+  summary: Cadmus surveys the defeated dragon, and an unexplained voice foretells
+    that he too will be seen in dragon form.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: scene:2
+  label: Divine instruction to sow the teeth
+  summary: Pallas descends, favors Cadmus, and commands him to sow the dragon’s teeth
+    in the turned earth as the seed of a future people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Armed men grow from the furrows
+  summary: The turf moves, and a sequence of spear-points, helmeted heads, bodies,
+    arms, weapons, and shields appears as armed men grow from the ground.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Civil war among the earth-born brothers
+  summary: An earth-born man warns Cadmus against civil war, but the newly born brothers
+    attack and kill one another, leaving only five alive.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Concord and city founding
+  summary: Echion, advised by Tritonia, lays down arms and exchanges brotherly concord;
+    the surviving men become Cadmus’ associates when he builds the oracle-ordered
+    city.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: serpent adversary slain by hero
+  taxonomy_refs:
+  - serpent
+  basis: Cadmus is described as the conqueror of a slain dragon, his vanquished enemy.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage begins after the combat itself and focuses on its aftermath.
+- id: motif:2
+  label: future transformation into serpent form
+  taxonomy_refs:
+  - shapeshifter
+  - serpent
+  basis: The voice foretells that Cadmus will be seen in dragon form; the footnote
+    says he was later transformed into a serpent, a fate shared by Hermione.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: medium
+  cautions: The transformation event is not narrated in the main passage, only foretold
+    and explained in a note.
+- id: motif:3
+  label: people born from monster teeth sown in earth
+  taxonomy_refs:
+  - miraculous_child
+  basis: Pallas orders the dragon’s teeth to be sown as seeds of a future people,
+    and armed men grow from the furrows.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy label is approximate; the passage describes a miraculous
+    generation of adult warriors rather than children.
+- id: motif:4
+  label: newly born brothers destroy one another
+  taxonomy_refs:
+  - sibling_pair
+  basis: The earth-born men are called brothers and fight each other by mutual wounds
+    until only five remain.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is a group of brothers, not a pair; the available taxonomy reference
+    is only a partial fit.
+- id: motif:5
+  label: oracle-guided city foundation with divine assistance
+  taxonomy_refs:
+  - culture_hero
+  basis: Cadmus builds the city ordered by Phoebus’ oracle, with associates produced
+    after Pallas’ instruction.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: medium
+  cautions: The passage gives only a brief statement of the city foundation, not a
+    full culture-hero narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4421-4428
+  quote_or_summary: A voice asks why the son of Agenor contemplates the dragon he
+    has slain and says he himself will be seen in the form of a dragon.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; concise quotation/summary used.
+- id: ev:2
+  type: summary
+  locator: lines 4430-4435
+  quote_or_summary: Pallas descends through the air, favors Cadmus, and orders him
+    to sow the dragon’s teeth in turned earth as seeds of a future people.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4435-4438
+  quote_or_summary: Cadmus obeys, opens a furrow with a plough, and scatters the teeth
+    on the ground as ordered.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4438-4447
+  quote_or_summary: The turf moves; spear-points, helmeted heads, shoulders, breasts,
+    arms, weapons, and shields emerge, forming a crop of armed men.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4453-4456
+  quote_or_summary: When Cadmus prepares to take arms, one earth-born man tells him
+    not to take up arms or engage in civil war.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4456-4465
+  quote_or_summary: The earth-born brothers attack one another; the troop becomes
+    maddened and falls by mutual wounds, soon after receiving life.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4465-4474
+  quote_or_summary: Only five remain, including Echion; advised by Tritonia, he lays
+    down arms and makes brotherly concord. These survivors assist Cadmus when he builds
+    the city ordered by Phoebus’ oracle.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: note
+  locator: footnote 10
+  quote_or_summary: The note explains that Cadmus later retired to Illyria and was
+    transformed into a serpent, a fate shared by Hermione.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: note
+  locator: footnote 13
+  quote_or_summary: The note names the other earth-born survivors according to Apollodorus
+    and mentions an alternative addition of Creon as a sixth.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main narrative actions and figures are explicit. Some motif taxonomy
+    assignments are approximate because the available taxonomy does not include exact
+    labels for armed men born from dragon teeth or fratricidal autochthons. No comparison
+    claims were added because the passage does not itself develop a comparative argument.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Footnotes were used only where they directly explain figures or events in the supplied passage. Footnote 13 was retained as evidence but not used to add extra figures beyond Echion because the main passage names only Echion among the survivors.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l4421-l4519
+  passage_sha256=16ff9c1ee06247ac3625f48aa2b7262f802a4d7a3782ba9d461c03bb3a4da6b0
+

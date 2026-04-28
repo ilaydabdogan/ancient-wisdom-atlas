@@ -1,0 +1,202 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l8654-l8692
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: THE SLAYING OF TURNUS / THE END. / NOTES / BOOK FIRST; lines 8654-8692
+  start: '8654'
+  end: '8692'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is the close of the text followed by notes on Book First. The
+    notes discuss Latin word meanings, textual variants, manuscript authority, an
+    interpretation of swans rising and hovering, a Shakespeare parallel for a line
+    about an unstirred spirit, and a distinction between terms for ceiling decoration.
+  language: English with Latin quotations and lemmas
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage marks the end of the main text and begins a section of notes for
+    Book First.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note on line 123 explains that the Latin word translated from inimica can
+    mean pernicious as well as hostile.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note on line 396 reports Henry's explanation that swans are rising and hovering
+    over the place where they had settled.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A note on line 396 states that a parallelism between lines 396 and 400 is
+    inverted.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Several notes report preferred or variant readings based on manuscript authority
+    or internal grounds.
+  category: other
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: obs:6
+  text: A note on line 722 glosses a phrase about a long-since-unstirred spirit and
+    quotes a line from Shakespeare's Sonnet XXX about renewed weeping over cancelled
+    woe.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: A note on line 726 distinguishes terms for ceiling features derived from words
+    meaning chain or network and sunk work.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: swans
+  description: Birds described in the note as rising and hovering over the place where
+    they had settled.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Henry
+  description: A commentator whose explanation of the swans in line 396 is reported
+    as probably correct.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Servius
+  description: A commentator cited in notes on lines 123, 636, and 726.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: Professor Nettleship
+  description: A scholar cited for pointing out a distinction between two terms for
+    ceiling features.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: cited commentator or scholar
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage cites these named persons as authorities or commentators on textual
+    interpretation and word usage.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+symbols: []
+scenes:
+- id: scene:1
+  label: Swans rising and hovering
+  summary: The note describes swans rising and hovering over the place where they
+    had settled, as an explanation of the action in Book First line 396.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8654-8658
+  quote_or_summary: The passage ends the main text and opens the notes for Book First.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 8659-8661
+  quote_or_summary: The note on line 123 explains that inimica can mean pernicious
+    as well as hostile, citing Servius.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 8663-8671
+  quote_or_summary: The note on line 396 reports Henry's interpretation of swans rising
+    and hovering above their settled place and discusses an inverted parallelism with
+    line 400.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: '8673'
+  quote_or_summary: The note on line 427 records a reading supported by the balance
+    of manuscript authority.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: '8675'
+  quote_or_summary: The note on line 550 records Arvaque after two manuscripts and
+    armaque according to Conington.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 8677-8681
+  quote_or_summary: The note on line 636 discusses a preferred reading adopted on
+    internal grounds despite little manuscript authority.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 8683-8686
+  quote_or_summary: The note on line 722 gives the phrase 'The long-since-unstirred
+    spirit' and cites Shakespeare's Sonnet XXX as a parallel expression of renewed
+    grief.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 8688-8692
+  quote_or_summary: 'The note on line 726 cites Servius and Professor Nettleship on
+    distinct words for ceiling features: one from a term for chain or network and
+    another from a term for sunk work.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is primarily editorial notes rather than mythic narrative. No
+    candidate mythic motifs or supported comparative mythology claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Available taxonomy references were not applied because the passage does not provide sufficient motif or symbol evidence.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l8654-l8692
+  passage_sha256=667b3d9a3284b4acc6e7926524d99ee0ac2c161b703ab09baacedea4db520c51
+

@@ -1,0 +1,481 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l4608-l4685
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / BOOK THE THIRD. / EXPLANATION. / EXPLANATION.; lines 4608-4685
+  start: '4608'
+  end: '4685'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A hunting leader ends the day's sport near noon. In the sacred valley and
+    natural grotto of Diana, the goddess bathes with her nymph attendants. The grandson
+    of Cadmus wanders into the grove and sees her without garments. Diana throws water
+    on him, declares he may tell it if he can, and transforms him into a stag while
+    leaving his understanding intact. His own dogs then discover him and begin pursuit.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage begins on a mountain stained with the blood of wild beasts at
+    midday, after a hunt.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Hyantian youth tells his companions to stop hunting for the day and remove
+    the nets.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The valley Gargaphie is described as sacred to Diana and contains a grove,
+    a natural grotto, and a limpid fountain.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Diana is accustomed to bathe her virgin limbs in clear water at this place
+    after hunting.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Diana's nymph attendants receive her hunting gear, mantle, and sandals and
+    pour water from urns.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The grandson of Cadmus enters the grove and grotto while wandering through
+    an unknown wood with uncertain steps.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The naked nymphs shriek, beat their breasts, and gather around Diana to cover
+    her with their bodies.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Diana throws water over the man's face and sprinkles his hair with an avenging
+    stream.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Diana says he may tell that he saw her without garments if he can tell it.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Diana gives him stag horns, lengthens his neck, sharpens his ears, changes
+    hands into feet and arms into long legs, and covers his body with spotted hair.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: After the change, fear is added, he flees, sees his horns in the stream, cannot
+    speak, groans, weeps, and retains his former understanding.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: His dogs see him and begin to pursue, with many dogs named in sequence.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Hyantian youth / grandson of Cadmus / Autonoëian hero
+  description: A hunting leader who later wanders into Diana's grove, is transformed
+    into a stag, and is discovered by his dogs.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Diana
+  description: The goddess of the woods, bathing in the sacred grove, who punishes
+    the man who sees her without garments.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Nymph attendants of Diana
+  description: Female attendants who handle Diana's gear and clothing, fetch and pour
+    water, and cover her when a man enters.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Crocale, daughter of Ismenus
+  description: A nymph who gathers Diana's scattered hair into a knot while her own
+    hair is loose.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Nephele, Hyale, Rhanis, Psecas, and Phyale
+  description: Nymphs who fetch water and pour it from large urns.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Hunting dogs
+  description: The dogs belonging to the hunt; Melampus and Ichnobates first give
+    the signal, and many others rush on in pursuit.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: hunt leader
+  assigned_to:
+  - fig:1
+  basis: He addresses the partakers of his toils, orders the men to cease, and refers
+    to their nets and spears wet with the blood of wild beasts.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: offended bathing goddess and transformer
+  assigned_to:
+  - fig:2
+  basis: Diana is seen bathing without garments, throws avenging water, speaks a threat,
+    and transforms the man into a stag.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:3
+  label: attendants of the goddess
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The nymphs hold Diana's weapons and clothing, remove sandals, arrange hair,
+    fetch and pour water, and attempt to cover her.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: transformed victim
+  assigned_to:
+  - fig:1
+  basis: The man is changed into a stag-like body, loses speech, and retains human
+    understanding.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: pursuing hounds
+  assigned_to:
+  - fig:6
+  basis: The dogs see the transformed man and rush on after Melampus and Ichnobates
+    give the signal.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: mountain of the hunt
+  literal_form: A mountain stained with the blood of wild beasts
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sacred grotto in grove
+  literal_form: A natural grotto in the grove of Gargaphie, sacred to Diana
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: clear fountain and bathing water
+  literal_form: A limpid fountain and clear stream used for Diana's bathing and later
+    thrown on the man
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: hunting gear
+  literal_form: Nets, spears, javelin, quiver, and unstrung bow
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:5
+  label: stag transformation features
+  literal_form: Horns, lengthened neck, sharpened ears, feet, long legs, and spotted
+    coat of hair
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: loss of human voice
+  literal_form: The transformed man attempts to speak but only groans
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: End of the hunt at midday
+  summary: The hunting leader and his companions stop after a successful hunt and
+    are told to resume the next morning.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Diana's sacred bathing place
+  summary: The passage describes Gargaphie, its sacred grove, natural grotto, fountain,
+    and Diana's custom of bathing there after hunting.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Attendants prepare Diana for bathing
+  summary: The nymphs take Diana's weapons and clothing, remove her sandals, arrange
+    her hair, and pour water.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: The man enters the grotto
+  summary: The grandson of Cadmus wanders into the unknown grove and enters the spring-filled
+    grotto where Diana and the nymphs are present.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Diana's avenging water and curse-like speech
+  summary: The nymphs try to cover Diana; Diana throws water on the man's face and
+    declares that he may tell what he saw if he can.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Transformation into a stag
+  summary: Diana changes the man's body into that of a stag, adds fear, and leaves
+    him unable to speak though still mentally aware.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:3
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Dogs discover the transformed hunter
+  summary: While the transformed man hesitates over whether to return home or hide,
+    his dogs see him and begin the chase.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divine punishment for seeing a goddess unveiled
+  taxonomy_refs:
+  - divine_judgment
+  - forbidden_knowledge
+  basis: The man sees Diana without garments; Diana responds with avenging water,
+    a statement about whether he can tell what he saw, and a bodily punishment.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The sight is accidental in the passage, so the 'forbidden_knowledge' reference
+    should be read as a forbidden sight rather than deliberate transgression.
+- id: motif:2
+  label: human transformed into an animal
+  taxonomy_refs:
+  - shapeshifter
+  basis: Diana gives the man stag horns and animal limbs, covers him with spotted
+    hair, and he becomes unable to use a human voice while retaining understanding.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The transformation is imposed by a deity rather than a voluntary shapeshift.
+- id: motif:3
+  label: hunter becomes hunted
+  taxonomy_refs: []
+  basis: A hunting leader is changed into a stag-like creature, and his own hunting
+    dogs see and pursue him.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a descriptive motif label not drawn from the supplied taxonomy
+    list.
+- id: motif:4
+  label: loss of speech after divine encounter
+  taxonomy_refs: []
+  basis: After Diana's declaration, the transformed man attempts to speak but no voice
+    follows; only a groan remains.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage presents this as part of the animal transformation rather
+    than as a separate independent motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4608-4621
+  quote_or_summary: At midday on a blood-stained hunting mountain, the Hyantian youth
+    tells his companions that the nets and spears are wet with blood, that the day
+    has had enough sport, and that they should cease and remove the nets.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4621-4630
+  quote_or_summary: Gargaphie is a valley sacred to Diana, containing a grove, a natural
+    grotto with a stone arch, and a limpid fountain where Diana customarily bathes
+    after hunting.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4631-4640
+  quote_or_summary: After entering, Diana gives her javelin, quiver, and unstrung
+    bow to a nymph; other nymphs take her mantle and sandals; Crocale ties her hair;
+    Nephele, Hyale, Rhanis, Psecas, and Phyale fetch and pour water from urns.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4640-4644
+  quote_or_summary: While Diana bathes, the grandson of Cadmus postpones the rest
+    of his sport, wanders through the unknown wood with uncertain steps, and is directed
+    by fate into the grove.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4645-4652
+  quote_or_summary: When he enters the spring-dripping grotto, the naked nymphs see
+    a man, beat their breasts, shriek through the woods, and gather around Diana to
+    cover her.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 4652-4660
+  quote_or_summary: 'Diana takes up water, throws it over the man''s face, sprinkles
+    his hair with the avenging stream, and says: “Now thou mayst tell, if tell thou
+    canst, how that I was seen by thee without my garments.”'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; brief quotation from public domain translation.
+- id: ev:7
+  type: summary
+  locator: 4660-4673
+  quote_or_summary: Diana places stag horns on his head, lengthens his neck, sharpens
+    his ears, changes hands and arms into feet and long legs, covers him with spotted
+    hair, and adds fear. He flees, sees his horns in the stream, cannot speak, groans,
+    weeps with a stag's face, and retains his former understanding.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 4673-4685
+  quote_or_summary: As he hesitates between returning home and hiding in the woods,
+    the dogs see him; Melampus and Ichnobates give the first signal, and many named
+    dogs rush after him.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main narrative sequence and motifs are explicit. Some motif labels, especially
+    forbidden sight/knowledge and loss of speech, require reviewer confirmation for
+    taxonomy use.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this episode to another tradition or motif family.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l4608-l4685
+  passage_sha256=874160617489728560de91224e5975f00e7d24562e8bd863bd13b68b03eb8c4b
+

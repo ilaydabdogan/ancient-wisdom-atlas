@@ -6,12 +6,12 @@
 
 - Generated on: 2026-04-28
 - Canonical texts checked: 58
-- Texts with extraction records: 49
-- Texts without extraction records: 9
-- Texts needing full extraction: 43
-- Texts needing review or normalization: 49
-- Extraction records counted: 1714
-- Candidate motifs counted: 7380
+- Texts with extraction records: 51
+- Texts without extraction records: 7
+- Texts needing full extraction: 41
+- Texts needing review or normalization: 51
+- Extraction records counted: 1914
+- Candidate motifs counted: 8396
 
 ## Status Logic
 
@@ -28,8 +28,6 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | Status | Records | Target | Motifs | Tradition | Text |
 | --- | ---: | ---: | ---: | --- | --- |
 | `no_extractions` | 0 | 11 | 0 | persian | [The Persian Literature, Volume 2, The Gulistan](../texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md) |
-| `no_extractions` | 0 | 25 | 0 | roman | [The Aeneid of Virgil](../texts/public-domain/roman/project-gutenberg/aeneid-mackail.md) |
-| `no_extractions` | 0 | 31 | 0 | roman | [The Metamorphoses of Ovid, Books I-VII](../texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md) |
 | `no_extractions` | 0 | 35 | 0 | roman | [The Metamorphoses of Ovid, Books VIII-XV](../texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md) |
 | `no_extractions` | 0 | 9 | 0 | sufi | [Poems from the Divan of Hafiz](../texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md) |
 | `no_extractions` | 0 | 5 | 0 | sufi | [The Persian Mystics: Jalálu'd-dín Rúmí](../texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md) |
@@ -66,6 +64,8 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 167 | 167 | 895 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md) |
 | `dense_draft` | 157 | 157 | 749 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md) |
 | `dense_draft` | 132 | 132 | 703 | greek | [The Odyssey](../texts/public-domain/greek/project-gutenberg/odyssey-butler.md) |
+| `dense_draft` | 123 | 123 | 629 | roman | [The Metamorphoses of Ovid, Books I-VII](../texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md) |
+| `dense_draft` | 77 | 77 | 387 | roman | [The Aeneid of Virgil](../texts/public-domain/roman/project-gutenberg/aeneid-mackail.md) |
 | `dense_draft` | 72 | 72 | 330 | japanese | [Japanese Fairy Tales](../texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md) |
 | `dense_draft` | 43 | 43 | 197 | greek | [Phaedrus](../texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md) |
 | `dense_draft` | 41 | 41 | 257 | norse | [Myths of the Norsemen: From the Eddas and Sagas](../texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md) |
@@ -100,8 +100,8 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `developing` | 2 | 0 | 7 | hindu | [The Song Celestial; Or, Bhagavad-Gita](../texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md) |
 | `developing` | 2 | 0 | 5 | hindu | [The Upanishads](../texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md) |
 | `thin` | 2 | 0 | 4 | indigenous_australian | [Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies](../texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md) |
-| `thin` | 2 | 0 | 8 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) |
 | `thin` | 2 | 0 | 6 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-rodwell.md) |
+| `thin` | 2 | 0 | 8 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) |
 | `thin` | 2 | 0 | 6 | islamicate_folklore | [The Arabian Nights Entertainments](../texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md) |
 | `developing` | 2 | 0 | 8 | maya_quiche | [The Popol Vuh](../texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md) |
 | `thin` | 1 | 0 | 2 | sufi | [Mystics and Saints of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md) |
@@ -142,8 +142,6 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | Priority | Status | Records | Target | Needs Review | Tradition | Text |
 | --- | --- | ---: | ---: | ---: | --- | --- |
 | high | `no extractions` | 0 | 11 | 0 | persian | [The Persian Literature, Volume 2, The Gulistan](../texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md) |
-| high | `no extractions` | 0 | 25 | 0 | roman | [The Aeneid of Virgil](../texts/public-domain/roman/project-gutenberg/aeneid-mackail.md) |
-| high | `no extractions` | 0 | 31 | 0 | roman | [The Metamorphoses of Ovid, Books I-VII](../texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md) |
 | high | `no extractions` | 0 | 35 | 0 | roman | [The Metamorphoses of Ovid, Books VIII-XV](../texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md) |
 | high | `no extractions` | 0 | 9 | 0 | sufi | [Poems from the Divan of Hafiz](../texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md) |
 | high | `no extractions` | 0 | 5 | 0 | sufi | [The Persian Mystics: Jalálu'd-dín Rúmí](../texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md) |
@@ -199,3 +197,5 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | medium | `dense draft` | 198 | 27 | 198 | greek_roman | [Myths and Legends of Ancient Greece and Rome](../texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md) |
 | medium | `dense draft` | 72 | 18 | 72 | japanese | [Japanese Fairy Tales](../texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md) |
 | medium | `dense draft` | 41 | 26 | 41 | norse | [Myths of the Norsemen: From the Eddas and Sagas](../texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md) |
+| medium | `dense draft` | 77 | 25 | 77 | roman | [The Aeneid of Virgil](../texts/public-domain/roman/project-gutenberg/aeneid-mackail.md) |
+| medium | `dense draft` | 123 | 31 | 123 | roman | [The Metamorphoses of Ovid, Books I-VII](../texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md) |

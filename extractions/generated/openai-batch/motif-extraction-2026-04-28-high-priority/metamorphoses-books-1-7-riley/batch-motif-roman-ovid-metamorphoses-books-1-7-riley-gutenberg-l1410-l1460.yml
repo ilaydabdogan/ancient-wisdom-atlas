@@ -1,0 +1,396 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l1410-l1460
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 1410-1460
+  start: '1410'
+  end: '1460'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The flood has submerged groves, cities, houses, hills, and mountains. Sea
+    creatures enter wooded places, land animals are swept away or disoriented, birds
+    fail to find land, and many living beings die by water or starvation. The accompanying
+    notes compare elements of the Deucalion flood with Genesis flood imagery and mention
+    a doctrine of world-ending fire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Nereids are described as wondering at groves, cities, and houses under
+    water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dolphins enter the woods and strike against high branches and tossed oaks.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A wolf swims among sheep, and waves carry lions, tigers, a boar, and a stag.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A wandering bird searches for land until its wings fail and it falls into
+    the sea.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The sea overwhelms hills, and waves beat against mountain heights.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Most beings are carried off by water; those spared by water are overcome by
+    hunger because food is scarce.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A footnote says the mention of Iris, goddess of the rainbow, in the flood
+    of Deucalion recalls the bow in the cloud after Noah’s flood.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A footnote says Ovid’s language about the mouths of fountains is not unlike
+    Genesis language about the fountains of the great deep being broken up.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A footnote reports Sibylline, Senecan, and Stoic ideas that the world would
+    perish by fire or universal conflagration.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Nereids
+  description: Sea nymphs who wonder at submerged groves, cities, and houses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Dolphins
+  description: Sea animals entering the woods and striking branches and oaks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Land animals swept by the flood
+  description: Wolf, sheep, lions, tigers, boar, and stag moved or overwhelmed by
+    water.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Wandering bird
+  description: A bird searching for land until its wings fail and it falls into the
+    sea.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Iris
+  description: Named in a footnote as goddess of the rainbow in connection with the
+    flood of Deucalion.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Sibyls, Seneca, and Stoic philosophers
+  description: Authorities or traditions cited in a footnote for the doctrine of universal
+    destruction by fire.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: submerged-world observer
+  assigned_to:
+  - fig:1
+  basis: The Nereids wonder at human and wooded places now under water.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: creatures displaced or overcome by flood
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Marine and land creatures move through flooded terrain or are swept into
+    the sea.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: rainbow-associated divine figure
+  assigned_to:
+  - fig:5
+  basis: The footnote identifies Iris as goddess of the rainbow and links her mention
+    to the Deucalion flood.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: authorities on world conflagration doctrine
+  assigned_to:
+  - fig:6
+  basis: The footnote cites these figures or traditions as witnesses to a doctrine
+    that the world should perish by fire.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: flood water
+  literal_form: water, sea, waves
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: submerged mountains and hills
+  literal_form: hills and mountain heights overwhelmed by the sea
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: rainbow sign
+  literal_form: Iris, goddess of the rainbow; bow set in the cloud
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: world-ending fire
+  literal_form: fire, conflagration of the universe
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: opened fountains of the deep
+  literal_form: mouths of fountains; fountains of the great deep
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Flood submerges the inhabited and natural world
+  summary: Groves, cities, houses, hills, and mountains are under water; sea creatures
+    move through woods, land animals are swept away, a bird falls into the sea, and
+    survivors face starvation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Translator’s comparative flood notes
+  summary: Footnotes connect Iris and fountain imagery in the Deucalion flood with
+    rainbow and deep-fountain imagery from Genesis.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Translator’s note on universal conflagration
+  summary: A footnote cites Sibylline, Senecan, and Stoic testimony for a belief that
+    the world will perish by fire.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: catastrophic world flood
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage describes sea and waves overwhelming land, animals, settlements,
+    hills, and mountains.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This excerpt emphasizes destruction and displacement; renewal is not present
+    within the supplied lines.
+- id: motif:2
+  label: rainbow or Iris associated with flood aftermath
+  taxonomy_refs:
+  - covenant
+  basis: A footnote explicitly connects Iris, goddess of the rainbow, in the flood
+    of Deucalion with the bow set in the cloud as a covenant token after Noah’s flood.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The covenant framing belongs to the translator’s comparison with Genesis,
+    not to the quoted Ovidian narrative in this line range.
+- id: motif:3
+  label: fountains of the deep in flood language
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: A footnote compares Ovid’s language about fountains with Genesis language
+    about the fountains of the great deep.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The evidence is a translator’s linguistic comparison, not an explicit
+    narrative statement in the excerpted main text.
+- id: motif:4
+  label: universal destruction by fire
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: A footnote reports Sibylline, Senecan, and Stoic doctrines that the universe
+    or world should perish by fire.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This motif appears in an explanatory note attached to an earlier line,
+    not in the flood scene itself.
+comparison_claims:
+- id: claim:1
+  claim: The translator’s note explicitly compares the mention of Iris in the Deucalion
+    flood to the rainbow covenant sign after Noah’s flood.
+  claim_level: same_motif
+  target: 'Genesis flood tradition: bow in the cloud as covenant after Noah’s flood'
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is made by the translator’s note; the supplied main
+    narrative excerpt does not itself state a covenant.
+- id: claim:2
+  claim: The translator’s note identifies a verbal or imagistic resemblance between
+    Ovid’s fountain imagery and Genesis 7:11’s fountains of the great deep.
+  claim_level: linguistic_similarity
+  target: 'Genesis 7:11: fountains of the great deep'
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to resemblance noted in translation and commentary;
+    it does not establish historical dependence.
+- id: claim:3
+  claim: The translator’s note connects the idea of the world perishing by fire with
+    Sibylline, Senecan, and Stoic traditions of universal conflagration.
+  claim_level: same_motif
+  target: Sibylline, Senecan, and Stoic world-conflagration traditions
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note reports a doctrinal parallel and is not part of the immediate
+    flood narrative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1410-1413
+  quote_or_summary: Nereids wonder at submerged groves, cities, and houses; dolphins
+    enter woods and strike branches and oaks.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 1413-1416
+  quote_or_summary: Wolf, sheep, lions, tigers, boar, and stag are described in floodwaters
+    or carried by waves.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 1416-1420
+  quote_or_summary: A bird searches for land, falls into the sea, and the sea overwhelms
+    hills while waves strike mountain heights.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 1420-1422
+  quote_or_summary: Most beings are carried off by water; those spared by water are
+    overcome by lack of food.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: Footnote 51, lines 1440-1444
+  quote_or_summary: The note says Iris, goddess of the rainbow, in the flood of Deucalion
+    recalls the bow in the cloud as covenant token after Noah’s flood.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: Footnote 52, lines 1446-1449
+  quote_or_summary: The note compares Ovid’s expressions about the mouths of fountains
+    with Genesis language about the fountains of the great deep.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: Footnote 49, lines 1429-1436
+  quote_or_summary: The note reports Sibylline, Senecan, and Stoic teachings that
+    the world or universe would perish by fire or conflagration.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Main flood-scene extraction is direct. Several motif and comparison entries
+    rely on translator footnotes rather than the immediate Ovidian narrative, so they
+    require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. Renewal, judgment, and historical contact are not inferred beyond what the supplied lines and footnotes state.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l1410-l1460
+  passage_sha256=36d515a2c9a82055d098c66a6b015a41d6efb20135b190c9939e27e6129196bb
+

@@ -1,0 +1,453 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l7410-l7461
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK TENTH / THE BATTLE ON THE BEACH / BOOK ELEVENTH / THE COUNCIL OF THE
+    LATINS, AND THE LIFE AND DEATH OF CAMILLA; lines 7410-7461
+  start: '7410'
+  end: '7461'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In a Latin council during war, Turnus rebukes Drances for eloquent but
+    fearful speech, defends his own valor by citing Trojan and allied losses, weighs
+    peace only if all hope is gone, names remaining Italian allies including Camilla,
+    and offers to meet Aeneas alone, consecrating his life to Latinus and the public
+    cause.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker accuses Drances of speaking fluently when war calls for action
+    and contrasts speech in the senate with danger outside the walls.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says enemies surround the walls and asks whether the Latins will
+    go to meet them.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker rejects being called conquered and cites Ilian blood in the Tiber,
+    Evander's house and people laid low, and Arcadians stripped of armour.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker says that if no hope remains in Latin arms, they should plead
+    for peace and stretch forth unarmed hands.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker praises the man who would rather fall in death than see such shame.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The speaker names Messapus, Tolumnius, and Camilla the Volscian as remaining
+    allies or leaders; Camilla leads cavalry and brass-clad squadrons.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The speaker offers to meet Aeneas in combat if Aeneas demands him alone and
+    consecrates his life to Latinus and the audience.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The speaker frames the conflict as possibly involving wrath of heaven, while
+    saying Drances should not appease it with his life or win the renown of valor
+    instead.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Turnus
+  description: The speaker who rebukes Drances, defends his valor, argues about war
+    and peace, and offers to meet Aeneas alone.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:2
+  name_or_label: Drances
+  description: The figure addressed and accused of rhetorical fluency, fear, and calumny.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:3
+  name_or_label: Latinus
+  description: Addressed as lord and father; Turnus consecrates his life to him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Aeneas
+  description: The opponent said to call for Turnus alone in combat.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Camilla the Volscian
+  description: An allied leader present with cavalry and brass-clad squadrons.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Messapus and Tolumnius
+  description: Named as allies who will help the Latin side.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Teucrians, Dardanians, Trojans, and Ilians
+  description: The enemy group described as surrounding the walls and suffering losses
+    in battle.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+roles:
+- id: role:1
+  label: war-council speaker
+  assigned_to:
+  - fig:1
+  basis: Turnus speaks at length in response to Drances and addresses Latinus and
+    the council.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: self-declared warrior defender
+  assigned_to:
+  - fig:1
+  basis: He rejects charges of fear, cites past kills, and offers single combat.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:3
+  label: rhetorical opponent
+  assigned_to:
+  - fig:2
+  basis: Drances is accused of abundant speech, fear, and calumny.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:4
+  label: ruler and father addressed
+  assigned_to:
+  - fig:3
+  basis: The speaker turns to his lord and later names father Latinus as recipient
+    of his consecrated life.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: potential sacrificial champion
+  assigned_to:
+  - fig:1
+  basis: Turnus says he consecrates his life and will meet Aeneas alone if required.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:6
+  label: single-combat challenger
+  assigned_to:
+  - fig:4
+  basis: The passage says Aeneas calls on Turnus alone.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: female cavalry leader
+  assigned_to:
+  - fig:5
+  basis: Camilla is named as leading cavalry and splendid squadrons.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: remaining military allies
+  assigned_to:
+  - fig:6
+  basis: Messapus and Tolumnius are named as allies who will help.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: besieging enemy force
+  assigned_to:
+  - fig:7
+  basis: The Teucrian or Trojan side is described as surrounding the walls and being
+    the opponent in war.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: defensive walls and trenches
+  literal_form: mounded walls and trenches around the Latin position
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: blood-swollen river
+  literal_form: Tiber swollen with Ilian blood
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: unarmed hands
+  literal_form: hands stretched forth without weapons in a plea for peace
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: trumpet sound
+  literal_form: the trumpet sound before battle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: consecrated life
+  literal_form: Turnus consecrating his life to Latinus and the public cause
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Turnus rebukes Drances in council
+  summary: Turnus contrasts Drances' fluent senate speech with the need for action
+    while the enemy is near the walls.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Turnus defends his battle record
+  summary: Turnus denies defeat and cites enemy bloodshed and defeated allies of Aeneas
+    as evidence of his valor.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: War or peace weighed before the Latins
+  summary: Turnus says peace with unarmed hands would be appropriate only if all hope
+    and resources had vanished, and he urges against fear before battle.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Remaining allies are named
+  summary: Turnus argues that aid remains, naming Messapus, Tolumnius, and Camilla
+    with her cavalry.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Turnus offers single combat with Aeneas
+  summary: Turnus says he will meet Aeneas even if Aeneas had Achilles-like arms,
+    and consecrates his life to Latinus and the cause.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: war-council contest between eloquence and action
+  taxonomy_refs: []
+  basis: The passage sets Drances' fluent speech against Turnus' demand for martial
+    action outside the walls.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a local rhetorical pattern in the passage, not tied to a supplied
+    taxonomy family.
+- id: motif:2
+  label: supplication for peace with unarmed hands
+  taxonomy_refs: []
+  basis: Turnus says that if no hope remains, the Latins should plead for peace and
+    stretch forth unarmed hands.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents this as a hypothetical strategy rather than an enacted
+    ritual.
+- id: motif:3
+  label: champion offers life in single combat
+  taxonomy_refs:
+  - sacrifice
+  basis: Turnus offers to meet Aeneas alone and says he consecrates his life to Latinus
+    and the public cause.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The wording supports self-dedication, but no death or completed sacrificial
+    rite occurs in this passage.
+- id: motif:4
+  label: life offered to appease divine wrath
+  taxonomy_refs:
+  - divine_judgment
+  - sacrifice
+  basis: Turnus refers to possible wrath of heaven and contrasts who might appease
+    it with a life.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The speaker qualifies the divine wrath with uncertainty, so the motif
+    is only weakly supported.
+- id: motif:5
+  label: female warrior leading cavalry
+  taxonomy_refs: []
+  basis: Camilla the Volscian is named as leading cavalry and splendid squadrons.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage names the role but does not narrate Camilla's deeds here.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly measures Turnus' proposed combat against a Greek heroic
+    benchmark by imagining Aeneas as outmatching Achilles and wearing arms forged
+    by Vulcan.
+  claim_level: same_function
+  target: Achilles-like heroic single-combat and divine-forged armament pattern
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is rhetorical within the speech; it does not prove direct
+    equivalence of Turnus and Achilles or a full shared narrative structure.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7410-7418
+  quote_or_summary: Turnus addresses Drances, saying his speech is copious and fluent
+    when war calls for action, and contrasts safe rhetoric in the senate with danger
+    outside the walls.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 7418-7423
+  quote_or_summary: Turnus says the foe is not far to seek and surrounds the walls,
+    then challenges whether the Latins will go to meet them.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 7423-7434
+  quote_or_summary: Turnus denies being conquered, citing the Tiber swollen with Ilian
+    blood, Evander's people laid low, Arcadians stripped, and many enemies sent down
+    to hell.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:4
+  type: quote
+  locator: 7441-7446
+  quote_or_summary: '"let us plead for peace and stretch forth unarmed hands"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; short quotation from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 7446-7454
+  quote_or_summary: Turnus says the man who would rather fall dead than see such shame
+    is blessed, and asks why fear seizes them before the trumpet sounds.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 7454-7461
+  quote_or_summary: Turnus names Messapus, Tolumnius, and Camilla the Volscian as
+    allies; Camilla leads a train of cavalry and brass-clad squadrons.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 7461-7470
+  quote_or_summary: Turnus says that if Aeneas claims him alone for combat, he will
+    meet him even if Aeneas surpasses Achilles and wears Vulcan-forged arms; he consecrates
+    his life to Latinus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 7470-7474
+  quote_or_summary: Turnus says Aeneas calls on him alone and asks that Drances not
+    instead appease the possible wrath of heaven with his life or win valor's renown.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a clear council speech with explicit figures and actions.
+    Motif identifications involving sacrifice or divine judgment are cautious because
+    they are stated rhetorically and partly hypothetically.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Some evidence locators extend by internal passage flow beyond the requested line labels because the supplied excerpt includes embedded bracketed pagination; human review should normalize exact markdown line mapping.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l7410-l7461
+  passage_sha256=de0428de935120c5a1382cdd197ac558f56038e6cefa674682aee65d4c1e36a3
+

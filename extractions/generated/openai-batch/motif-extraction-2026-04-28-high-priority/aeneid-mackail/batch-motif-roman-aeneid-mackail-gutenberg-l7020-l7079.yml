@@ -1,0 +1,514 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l7020-l7079
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK NINTH / THE SIEGE OF THE TROJAN CAMP / BOOK TENTH / THE BATTLE ON THE
+    BEACH; lines 7020-7079
+  start: '7020'
+  end: '7079'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Mezentius, wounded beside the Tiber, learns that his son Lausus has died.
+    He laments, arms himself, speaks to his horse Rhoebus, challenges Aeneas, fights
+    him, is thrown when Aeneas kills the horse, and before dying asks for burial and
+    union with his son in the tomb.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A wounded father rests by the Tiber river, using water on his wound and leaning
+    against a tree-trunk.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The father repeatedly asks for Lausus and sends people to call him back.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Lausus is carried lifeless on his armour by weeping comrades.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The father soils his gray hair with dust, raises his hands, and clings to
+    the dead body.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The father laments that his son received the hostile stroke in his place and
+    that he lives by his son's death.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The father orders his horse Rhoebus to be brought despite his wound.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The father tells Rhoebus that the horse will either bring back Aeneas' head
+    and spoils or die with him.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The father calls Aeneas three times and Aeneas moves to meet him with a spear.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The mounted father rides in circles around Aeneas and hurls multiple weapons,
+    which are stopped by Aeneas' shield.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Aeneas throws his spear at the war-horse, causing it to rear, throw its rider,
+    and fall.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The fallen warrior asks Aeneas to allow his body burial and to grant him and
+    his son union in the tomb.
+  category: speech
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The warrior receives the sword in his throat, and his lifeblood spreads over
+    his armour.
+  category: action
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Mezentius
+  description: A wounded father of Lausus, also called the Tyrrhenian, who fights
+    Aeneas and dies after asking for burial with his son.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:11
+  - ev:12
+- id: fig:2
+  name_or_label: Lausus
+  description: Mezentius' son, carried lifeless on his armour after being wounded
+    to death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:11
+- id: fig:3
+  name_or_label: Aeneas
+  description: The Trojan hero challenged by Mezentius; he meets Mezentius in combat,
+    strikes the horse Rhoebus, and stands over Mezentius before his death.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:8
+  - ev:10
+  - ev:11
+- id: fig:4
+  name_or_label: Rhoebus
+  description: Mezentius' horse, addressed as his long-time companion in war and struck
+    by Aeneas in battle.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: fig:5
+  name_or_label: weeping comrades
+  description: Comrades who carry the lifeless Lausus on his armour.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Trojans and Latins
+  description: Groups whose cries rise when Rhoebus falls and Mezentius is thrown.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: wounded father
+  assigned_to:
+  - fig:1
+  basis: He is called the father of Lausus and is wounded while resting near the Tiber.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: grieving survivor
+  assigned_to:
+  - fig:1
+  basis: He laments living by his son's death and clings to the dead body.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: fallen combatant requesting burial
+  assigned_to:
+  - fig:1
+  basis: After being thrown and defeated, he asks Aeneas for sepulture and union with
+    his son in the tomb.
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: role:4
+  label: dead son
+  assigned_to:
+  - fig:2
+  basis: Lausus is carried lifeless and is described by his father as having received
+    the hostile stroke in his place.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: opposing warrior
+  assigned_to:
+  - fig:3
+  basis: Aeneas answers Mezentius' challenge and moves to meet him in combat.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: victor granting implied decision over burial
+  assigned_to:
+  - fig:3
+  basis: The defeated Mezentius asks Aeneas, as the victorious enemy, to allow burial.
+  evidence_refs:
+  - ev:11
+- id: role:7
+  label: war-horse companion
+  assigned_to:
+  - fig:4
+  basis: Rhoebus is addressed as the horse that had carried Mezentius victoriously
+    out of war and is expected either to avenge Lausus or die with him.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: bearers of the dead
+  assigned_to:
+  - fig:5
+  basis: They carry the lifeless Lausus on his armour.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: battle witnesses
+  assigned_to:
+  - fig:6
+  basis: Their cries rise when Aeneas strikes the horse and Mezentius is thrown.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: water at the wound
+  literal_form: water from the Tiber used to stanch a wound
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tree-trunk support
+  literal_form: tree-trunk against which the wounded father rests
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: dust on gray hair
+  literal_form: dust placed on gray hair during grief
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: armour as bier and bloodied object
+  literal_form: Lausus is borne on armour; Mezentius' lifeblood later spreads over
+    armour
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:12
+- id: sym:5
+  label: war-horse
+  literal_form: Rhoebus, Mezentius' horse
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: sym:6
+  label: golden shield-boss
+  literal_form: boss of gold on which Mezentius' weapons are stayed
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: shared tomb
+  literal_form: requested burial together of father and son
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Wounded father beside the Tiber
+  summary: Mezentius rests by the Tiber with his wound, near his helmet and armour,
+    while chosen men stand around him and he asks for Lausus.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Lament over Lausus
+  summary: Lausus is brought lifeless on his armour; Mezentius mourns over him, blames
+    himself, and laments that his son died in his place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Return to battle with Rhoebus
+  summary: Mezentius has his horse brought, addresses Rhoebus as a longtime companion,
+    and rides to seek Aeneas despite his wound.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Mounted duel and fall
+  summary: Mezentius circles Aeneas and throws weapons, but Aeneas' shield stops them;
+    Aeneas then strikes Rhoebus, and the horse throws Mezentius as it falls.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: scene:5
+  label: Final request and death
+  summary: After falling, Mezentius rejects taunts, asks that his body be buried and
+    that he and Lausus be united in the tomb, then dies by the sword.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: father lives by son's sacrificial death
+  taxonomy_refs:
+  - sacrifice
+  - divine_parent_child
+  basis: Mezentius explicitly says that Lausus received the hostile stroke in his
+    place and that he, the father, is saved by his son's wounds and lives by his death.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage presents filial death in battle rather than a formal ritual
+    sacrifice; taxonomy alignment is interpretive and needs review.
+- id: motif:2
+  label: grieving parent returns to battle seeking death or vengeance
+  taxonomy_refs: []
+  basis: After lamenting Lausus, Mezentius orders his horse brought, says he will
+    avenge Lausus or die, and challenges Aeneas.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No supplied taxonomy family directly names this martial grief pattern.
+- id: motif:3
+  label: warrior and war-horse bound in shared fate
+  taxonomy_refs: []
+  basis: Mezentius tells Rhoebus that the horse will either bring back Aeneas' spoils
+    or die with him, and Aeneas' killing of the horse precipitates Mezentius' fall.
+  evidence_refs:
+  - ev:7
+  - ev:10
+  confidence: high
+  cautions: This is a local narrative pattern rather than a supplied taxonomy category.
+- id: motif:4
+  label: defeated enemy requests burial
+  taxonomy_refs: []
+  basis: The vanquished Mezentius asks Aeneas to allow his body sepulture and to grant
+    burial with his son.
+  evidence_refs:
+  - ev:11
+  confidence: high
+  cautions: The passage does not state Aeneas' response within the provided range.
+- id: motif:5
+  label: union of father and son in the tomb
+  taxonomy_refs:
+  - annihilation_union
+  basis: Mezentius asks that he and Lausus be granted union in the tomb.
+  evidence_refs:
+  - ev:11
+  confidence: low
+  cautions: The taxonomy reference is tentative; the passage concerns burial union
+    after death, not necessarily the broader motif family implied by the taxonomy
+    label.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7020-7024
+  quote_or_summary: The wounded father is by the Tiber, stanches his wound with water,
+    rests against a tree-trunk, with helmet and armour nearby and chosen men around
+    him.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: 7024-7026
+  quote_or_summary: He repeatedly asks for Lausus and sends people to call him back
+    with a parent's commands.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: 7026-7028
+  quote_or_summary: Lausus is carried lifeless on his armour by weeping comrades,
+    mighty and wounded to death.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: 7028-7030
+  quote_or_summary: The father recognizes the lamentation, soils his gray hairs with
+    dust, raises both hands, and clings to the dead.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: quote
+  locator: 7030-7034
+  quote_or_summary: "“Am I, thy father, saved by these wounds of thine, and living
+    by thy death?”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; short excerpt.
+- id: ev:6
+  type: summary
+  locator: 7038-7042
+  quote_or_summary: Though his deep wound cripples him, Mezentius raises himself and
+    orders his horse to be brought.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: 7042-7048
+  quote_or_summary: Mezentius addresses Rhoebus, saying the horse will either bring
+    back Aeneas' gory head and spoils to avenge Lausus, or die with him.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: 7048-7054
+  quote_or_summary: Mezentius rides in with shame, madness, and grief in his heart,
+    calls Aeneas three times, and Aeneas moves to meet him with a spear.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: 7054-7061
+  quote_or_summary: Mezentius says he comes to his death, hurls multiple weapons while
+    circling Aeneas, and the weapons are stopped by the golden boss of Aeneas' shield.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:10
+  type: summary
+  locator: 7061-7068
+  quote_or_summary: Aeneas throws his spear at the war-horse between the temples;
+    the horse rears, throws its rider, and falls as Trojans and Latins cry out.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:11
+  type: quote
+  locator: 7069-7077
+  quote_or_summary: "“allow my body sepulture... grant me and my son union in the
+    tomb.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; short excerpt.
+- id: ev:12
+  type: summary
+  locator: 7077-7079
+  quote_or_summary: Mezentius takes the sword in his throat without wavering, and
+    his lifeblood spreads over his armour.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is explicit about the sequence of grief, renewed combat, defeat,
+    request for burial, and death. Motif taxonomy mapping is more tentative where
+    supplied categories do not directly match martial epic patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no comparison claims added because the passage itself does not support external comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l7020-l7079
+  passage_sha256=f12d80471ce6964e4a5fa2e675cac8cec95bb34087edc378f8107e7a180ba04a
+

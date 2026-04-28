@@ -1,0 +1,469 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l2389-l2453
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 2389-2453
+  start: '2389'
+  end: '2453'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Syrinx, arrested in her flight by the waves of the river Ladon, invokes the
+    aid of her sisters, the Naiads, who change her into reeds.
+  summary: 'The passage first gives a general note that mythological fables may preserve
+    altered traces of history. It then recounts Pan''s pursuit of the Naiad Syrinx
+    in Arcadia: Syrinx, devoted to Diana-like virginity, flees Pan until stopped by
+    the river Ladon, prays to the Naiads, is changed into reeds, and the reeds'' wind-made
+    sound leads Pan to bind them with wax into a seven-piped instrument named after
+    her.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The explanatory note states that myths and fables are often based on true
+    history altered by tradition and poetic embellishment.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Syrinx is described as a famous Naiad among the Hamadryads of Nonacris in
+    Arcadia.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Syrinx is said to have escaped pursuing Satyrs and other gods more than once.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Syrinx devotes herself to the Ortygian Goddess and to virginity, dressing
+    in a manner like Diana.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Pan sees Syrinx returning from Lycæus with his head crowned with pine leaves
+    and addresses her.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Syrinx rejects Pan's suit and flees through pathless places.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: At the river Ladon, the waters stop Syrinx's flight.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Syrinx prays to her watery sisters, the Naiads, to change her.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Pan grasps marsh reeds instead of Syrinx's body after her transformation.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Wind moving through the reeds produces a murmuring sound like one complaining.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Pan binds unequal reeds together with wax into an instrument that retains
+    Syrinx's name.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The fable summary specifies the instrument as having seven pipes.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Syrinx
+  description: A Naiad famous among the Hamadryads of Nonacris; she flees Pan, prays
+    to the Naiads, and is changed into reeds.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Pan
+  description: A god who falls in love with Syrinx, pursues her, grasps reeds in place
+    of her body, and makes them into a named pipe instrument.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Naiads / watery sisters
+  description: Syrinx's sisters, invoked by her at the river Ladon, who change her
+    into reeds according to the fable summary.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: Ortygian Goddess / Diana
+  description: The goddess to whom Syrinx devotes herself; Syrinx dresses in a manner
+    that could make her seem Diana's daughter.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Satyrs and unnamed gods
+  description: Pursuers from whom Syrinx had escaped on earlier occasions.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: fleeing nymph
+  assigned_to:
+  - fig:1
+  basis: Syrinx flees Pan after slighting his suit and had previously escaped other
+    pursuers.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: divine pursuer
+  assigned_to:
+  - fig:2
+  basis: Pan falls in love with Syrinx, pursues her, and attempts to catch her.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:3
+  label: transforming helpers
+  assigned_to:
+  - fig:3
+  basis: The Naiads are invoked by Syrinx and are described in the summary as changing
+    her into reeds.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:4
+  label: transformed figure
+  assigned_to:
+  - fig:1
+  basis: Syrinx is changed so that Pan seizes reeds instead of her body.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:5
+  label: instrument maker and namer
+  assigned_to:
+  - fig:2
+  basis: Pan is charmed by the reeds' sound and binds unequal reeds with wax into
+    an instrument retaining Syrinx's name.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: model of chastity and hunting identity
+  assigned_to:
+  - fig:4
+  basis: Syrinx devotes herself to the Ortygian Goddess, preserves virginity, and
+    dresses after Diana's fashion.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: earlier pursuers
+  assigned_to:
+  - fig:5
+  basis: The passage says Syrinx had escaped Satyrs and gods who pursued her.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: river boundary
+  literal_form: river Ladon / waters stopping Syrinx's course
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: sym:2
+  label: reeds
+  literal_form: marsh reeds replacing Syrinx's body and sounding in the wind
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: sym:3
+  label: seven-piped instrument
+  literal_form: unequal reeds cemented with wax into an instrument of seven pipes
+    named for Syrinx
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: mountain landscape
+  literal_form: cold mountains of Arcadia; Nonacris; Lycæus
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:9
+- id: sym:5
+  label: pine crown
+  literal_form: Pan's head crowned with sharp pine leaves
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Mythological explanation as altered history
+  summary: The explanatory prose presents a view that myths may derive from historical
+    events altered by time, tradition, and poetic embellishment.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Syrinx's identity and prior escapes
+  summary: Syrinx is introduced as an Arcadian Naiad devoted to Diana-like virginity
+    who has escaped Satyrs and other gods.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Pan's pursuit to the Ladon
+  summary: Pan sees Syrinx near Lycæus, addresses her, and after she rejects him she
+    flees until the river Ladon blocks her course.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Transformation into reeds
+  summary: Syrinx asks the Naiads to change her; Pan, thinking he has caught her,
+    grasps marsh reeds instead of her body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: scene:5
+  label: Origin of Syrinx's pipe
+  summary: Wind in the reeds makes a plaintive murmuring sound; Pan preserves this
+    mode of converse by binding reeds with wax into a seven-piped instrument named
+    after Syrinx.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Metamorphosis into reeds to escape pursuit
+  taxonomy_refs:
+  - shapeshifter
+  basis: Syrinx asks the Naiads to change her when Pan pursues her, and Pan then grasps
+    reeds instead of her body.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The available taxonomy label 'shapeshifter' is broader than the passage's
+    externally aided transformation.
+- id: motif:2
+  label: God pursues a resistant nymph
+  taxonomy_refs:
+  - divine_beloved
+  basis: Pan falls in love with Syrinx, she rejects his suit, and he pursues her until
+    her transformation.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The passage presents desire and pursuit but does not describe a fulfilled
+    union.
+- id: motif:3
+  label: Origin of a named musical instrument from a transformed body
+  taxonomy_refs: []
+  basis: The reeds replacing Syrinx's body produce sound, and Pan binds them into
+    an instrument that retains her name.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches an etiological instrument-origin
+    motif.
+- id: motif:4
+  label: Water boundary enabling transformation
+  taxonomy_refs:
+  - water
+  basis: Syrinx's flight is stopped by the river Ladon, where she invokes the Naiads
+    and is changed into reeds.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: This is a symbol-supported motif candidate rather than a supplied motif-family
+    taxonomy item.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself frames mythological fables as stories that may preserve
+    altered historical material, but it does not compare the Syrinx episode to a specific
+    external tradition.
+  claim_level: same_function
+  target: mythological fables as altered historical narratives
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is a general interpretive statement in the passage, not a direct
+    cross-cultural or intertextual comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2389-2402
+  quote_or_summary: The explanatory note says myths or fables are frequently based
+    on true history corrupted by tradition and further altered by poetic love of the
+    marvellous.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: 2406-2413
+  quote_or_summary: Syrinx is introduced as a famous Naiad in the cold mountains of
+    Arcadia among the Hamadryads of Nonacris, and as one who had escaped pursuing
+    Satyrs and other gods.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: 2413-2420
+  quote_or_summary: Syrinx devotes herself to the Ortygian Goddess and to virginity,
+    dresses like Diana, and could be mistaken for Latona's daughter except for the
+    material of her bow.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 2420-2423
+  quote_or_summary: Pan sees Syrinx returning from the hill of Lycæus, with his head
+    crowned in sharp pine leaves, and speaks to her.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: 2423-2429
+  quote_or_summary: Syrinx rejects Pan's suit, flees through pathless places, reaches
+    the sandy river Ladon, is stopped by the waters, and prays to her watery sisters
+    to change her.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: 2429-2434
+  quote_or_summary: Pan thinks he has caught Syrinx but seizes marsh reeds instead
+    of her body; while he sighs, wind in the reeds makes a murmuring sound like one
+    complaining.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: 2434-2439
+  quote_or_summary: Pan, pleased by the sound, says this mode of converse with Syrinx
+    will remain with him, and reeds stuck together with wax retain the damsel's name.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: quote
+  locator: 2404-2409
+  quote_or_summary: '"Pan unites them into an instrument with seven pipes, which bears
+    the name of the Nymph."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short quote used.
+- id: ev:9
+  type: summary
+  locator: 2441-2453
+  quote_or_summary: Footnotes identify Nonacris as a mountain and city of Arcadia,
+    Diana's Ortygian epithet from Delos, and Ladon as an Arcadian river whose banks
+    had many reeds.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The narrative sequence and figures are explicit. Motif mapping is somewhat
+    cautious because the available taxonomy has only broad labels for metamorphosis
+    and divine pursuit, and the passage contains little direct comparative material.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or unsupported comparisons were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l2389-l2453
+  passage_sha256=f7010ba4e5cebe497e490f3085a77b91e4bbc4fdc9399fd4ea0b72d1ed7dc719
+

@@ -1,0 +1,535 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l1992-l2095
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 1992-2095
+  start: '1992'
+  end: '2095'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of explanatory footnotes on Ovid’s Apollo and Daphne
+    episode and related Roman customs. It explains bridal and funeral torch customs,
+    Apollo’s oracular sites and association with healing herbs, Apollo’s youthfulness
+    as a solar/fire deity, the chase of Daphne by Apollo compared to a greyhound pursuing
+    a hare, an English literary imitation involving Pan and Lodona, and the laurel’s
+    use in music, triumph, and Augustan civic symbolism.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A bridal procession could include five torches carried before the bride on
+    her way to her husband’s house.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Among Romans, the nuptial torch was lighted at the bride’s parental hearth
+    and carried by a boy whose parents were alive.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The torch was also used at funerals to light the pyre and because funerals
+    were often nocturnal ceremonies.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Apollo is associated with Claros, Tenedos, and Patara, including temples,
+    oracles, sacred groves, and seasonal oracular responses.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note connects early medicine with knowledge of herbs and simples and says
+    Apollo or the Sun could be allegorically called the discoverer of the healing
+    art.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Apollo is described as a youthful god who was represented as never growing
+    old; the note links this with Apollo as the Sun and with fire that never grows
+    old.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Apollo’s pursuit of Daphne is compared to a greyhound pursuing a hare, emphasizing
+    the god’s eagerness and the nymph’s anxiety in flight.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The note quotes or paraphrases a literary imitation in which Pan pursues the
+    nymph Lodona, who is transformed into a river.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Players of Apollo’s cithara were crowned with laurel in scenic representations.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:10
+  text: The laurel is described as a Roman emblem of victory, used on fasces, weapons,
+    triumphal wreaths, and branches held by generals.
+  category: object
+  evidence_refs:
+  - ev:11
+- id: obs:11
+  text: A civic crown of oak leaves was placed before Augustus Caesar’s Palatine gate,
+    with laurel branches on either side.
+  category: object
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Apollo
+  description: Youthful god, identified in the note with the Sun and fire, associated
+    with oracles, healing herbs, the cithara, and pursuit of Daphne.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:10
+- id: fig:2
+  name_or_label: Daphne
+  description: Fleeing damsel, nymph, or virgin pursued by Apollo in the explained
+    passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Bride
+  description: Bride in the Roman bridal procession before whom torches are carried.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Torch-bearing boy
+  description: Boy whose parents were alive and who bore the nuptial torch before
+    the bride.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Pan
+  description: God who pursues Lodona in the literary imitation cited by the note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Lodona
+  description: Nymph pursued by Pan and transformed into a river in the cited imitation.
+  role_refs:
+  - role:5
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Augustus Caesar
+  description: Roman ruler whose Palatine gate is connected with an oak civic crown
+    and laurel branches in the explanatory note.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:12
+roles:
+- id: role:1
+  label: pursuing deity
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: Apollo pursues Daphne; Pan pursues Lodona in the cited imitation.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:2
+  label: oracular deity
+  assigned_to:
+  - fig:1
+  basis: Claros, Tenedos, and Patara are described in connection with Apollo’s temples
+    and oracular responses.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: healing-art discoverer
+  assigned_to:
+  - fig:1
+  basis: The note says Apollo or the Sun was allegorically considered the discoverer
+    of healing art through herbs and simples.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: youthful solar deity
+  assigned_to:
+  - fig:1
+  basis: The note says Apollo was always represented as a youth and connects this
+    with the Sun and fire.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: fleeing nymph
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: Daphne flees Apollo; Lodona flees Pan in the cited imitation.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: bride in procession
+  assigned_to:
+  - fig:3
+  basis: The note describes torches carried before a bride on the way to her husband’s
+    house.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: ritual torch bearer
+  assigned_to:
+  - fig:4
+  basis: The note says the nuptial torch was borne by a boy whose parents were alive.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: transformed nymph
+  assigned_to:
+  - fig:6
+  basis: The note says Lodona is pursued by Pan and transformed into a river.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: honored Roman ruler
+  assigned_to:
+  - fig:7
+  basis: The note links Augustus Caesar’s residence with a civic crown and laurel
+    branches.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: nuptial and funeral torch
+  literal_form: torch
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: herbs and simples
+  literal_form: medicinal herbs and simples
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: sun-fire youthfulness
+  literal_form: Sun and fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: greyhound and hare chase image
+  literal_form: greyhound pursuing a hare
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: laurel crown and branch
+  literal_form: laurel wreath, laurel branch, laurel-wreathed fasces and weapons
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: sym:6
+  label: oak civic crown
+  literal_form: oak leaves placed as a civic crown
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:12
+- id: sym:7
+  label: river transformation
+  literal_form: nymph transformed into a river
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Torch customs for marriage and funeral
+  summary: The note explains that torches accompany a bride in procession and also
+    serve in funeral rites for lighting the pyre.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Apollo as oracular, healing, and youthful solar god
+  summary: The notes connect Apollo with oracular places, herbal medicine, and perpetual
+    youth explained through the Sun and fire.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Apollo’s chase of Daphne
+  summary: The note describes the pursuit of Daphne by Apollo through the simile of
+    a greyhound chasing a hare, contrasting divine eagerness with the nymph’s anxious
+    flight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Pan and Lodona in literary imitation
+  summary: The explanatory note cites Pope’s imitation, in which Pan pursues Lodona
+    and she is transformed into a river.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Laurel and civic honor
+  summary: The notes describe laurel crowns for Apollo’s cithara players, laurel as
+    an emblem of Roman victory, and laurel branches beside the civic oak crown at
+    Augustus’s gate.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: Ritual fire marking marriage and death
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The same torch object is described in nuptial procession and funeral rites,
+    marking two major life-cycle transitions.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an antiquarian explanatory note rather than a mythic narrative;
+    the funeral use is not a sacred-marriage motif.
+- id: motif:2
+  label: Divine pursuit of a fleeing nymph
+  taxonomy_refs:
+  - divine_beloved
+  basis: Apollo’s pursuit of Daphne is described in terms of his eagerness and her
+    anxious flight; the cited imitation repeats the pattern with Pan and Lodona.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The excerpt is mainly commentary and simile; it does not include the full
+    narrative outcome for Daphne.
+- id: motif:3
+  label: Solar deity as source of healing knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The note says Apollo or the Sun could be allegorically called the discoverer
+    of healing art because vegetation and medicinal herbs are nourished by solar heat.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is an allegorical explanation supplied by the translator/commentator,
+    not a narrated mythic event in the excerpt.
+- id: motif:4
+  label: Transformation of pursued nymph into water
+  taxonomy_refs:
+  - shapeshifter
+  basis: The cited imitation describes Lodona pursued by Pan and transformed into
+    a river.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This transformation appears in a quoted later imitation, not in the Ovidian
+    passage directly presented here.
+- id: motif:5
+  label: Laurel as emblem of divine art and victory
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Laurel crowns are associated with Apollo’s cithara players and with Roman
+    triumphal practice, including generals and Augustan civic display.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+  confidence: medium
+  cautions: The political meaning is drawn from Roman ritual explanation; the taxonomy
+    match is approximate.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly states that Pope’s Windsor Forest imitates Ovid’s chase
+    scene by presenting a nymph, Lodona, pursued by Pan and transformed into a river.
+  claim_level: same_motif
+  target: 'Pope, Windsor Forest: Pan pursuing Lodona, with Lodona transformed into
+    a river'
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim relies on the translator’s explanatory note and quoted reception
+    material; the full compared text is not supplied in this passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Footnote 76, Ver. 483
+  quote_or_summary: The note describes bridal torches, Roman lighting of the nuptial
+    torch at the bride’s parental hearth, a boy torch-bearer whose parents are alive,
+    and funeral torches used to light the pyre.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: Footnote 77, Ver. 514
+  quote_or_summary: The note comments on a translation of Apollo’s statement that
+    he is not rudely watching herds or flocks.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: Footnote 78, Ver. 516
+  quote_or_summary: The note explains Claros, Tenedos, and Patara as places associated
+    with Apollo, including temples, oracles, sacred grove or mountain, and seasonal
+    responses at Patara.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: Footnote 79, Ver. 522
+  quote_or_summary: The note says early medical art concerned medicinal herbs and
+    simples, and that Apollo or the Sun could be allegorically named discoverer of
+    healing art because solar heat nourishes vegetation.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: Footnote 81, Ver. 531
+  quote_or_summary: The note says Apollo was represented as always youthful and never
+    old, with a scholium explaining this because Apollo is the Sun and the Sun is
+    fire, which never grows old.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: Footnote 82, Ver. 533
+  quote_or_summary: The note describes the comparison of Apollo’s pursuit of Daphne
+    to a greyhound chasing a hare, highlighting the god’s eagerness and the nymph’s
+    anxiety to escape.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: Footnote 82, Ver. 533, quotation from Pope
+  quote_or_summary: The note says Pope imitated the passage in Windsor Forest by describing
+    the nymph Lodona pursued by Pan and transformed into a river.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: Footnote 83, Ver. 539
+  quote_or_summary: The note comments on translating the Latin phrase referring to
+    the god and the virgin.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: Footnote 84, Ver. 552
+  quote_or_summary: The note comments on a phrase rendered as the remaining elegance
+    or neatness in her.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: Footnote 85, Ver. 559
+  quote_or_summary: The note says players of Apollo’s cithara were crowned with laurel
+    in scenic representations.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: Footnote 86, Ver. 560
+  quote_or_summary: The note describes laurel as an emblem of victory among Romans,
+    used on fasces, soldiers’ weapons, and by triumphing Roman generals as wreath
+    and branch.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: Footnote 87, Ver. 562
+  quote_or_summary: The note says a civic crown of oak leaves was placed before the
+    Palatine gate where Augustus Caesar lived, with laurel branches on either side.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is commentary rather than continuous mythic narration, so motif
+    candidates are extracted from explanatory references and cited literary comparison.
+    All records require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources used. Taxonomy references are limited to the provided lists; approximate matches are marked with cautions.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l1992-l2095
+  passage_sha256=4ceef8632e593eac608e690b5a6101d56c13a14cd103be4923e4eb48f6f8f4fa
+

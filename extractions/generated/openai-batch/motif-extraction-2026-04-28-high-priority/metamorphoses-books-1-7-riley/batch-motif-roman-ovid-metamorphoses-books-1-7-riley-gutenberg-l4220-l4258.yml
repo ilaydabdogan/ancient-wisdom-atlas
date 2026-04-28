@@ -1,0 +1,403 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l4220-l4258
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 4220-4258
+  start: '4220'
+  end: '4258'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The explanatory note discusses Europa’s abduction by a euhemerized Jupiter
+    Asterius, proposing that he carried her off by ship and that later bull imagery
+    arose from a bull-shaped figurehead, a general named Taurus, or a Phoenician word
+    meaning either ship or bull. It adds that Europa was honored as a divinity after
+    death and commemorated by a festival.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says there were thought to be several persons named Zeus or Jupiter,
+    making individual adventures difficult to assign.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Vossius assigns the Europa episode to Jupiter Asterius, who is said to have
+    reigned about 1400 B.C.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Diodorus Siculus is cited as saying that Asterius was the son of Teutamus
+    and the first king of Crete after settling there with Pelasgians.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note concludes that Jupiter Asterius, hearing of Europa’s beauty, fitted
+    out a ship to carry her off by force.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Herodotus is cited for the claim that carrying off persons by force was common
+    in those ages when they could not be obtained by fair means.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The ship used by Asterius is said probably to have had a bull-shaped figurehead.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says the bull figurehead may have led narrators to say that Jupiter
+    hid himself in the shape of a bull to carry off Europa.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Palæphatus and Tzetzes are cited as suggesting that the story came from Asterius’s
+    general, named Taurus, which is Greek for bull.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Bochart is cited as suggesting that a Phoenician word meaning either ship
+    or bull caused Greek readers to understand the term as bull.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Europa was honored as a divinity after death, and a festival called Hellotia
+    was instituted in her memory.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Zeus or Jupiter
+  description: A divine or royal name said to have belonged to several persons in
+    ancient mythology.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Jupiter Asterius
+  description: The figure to whom the note assigns the Europa episode; described as
+    a ruler of Crete who heard of Europa’s beauty and fitted out a ship to carry her
+    off.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Europa
+  description: Daughter of Agenor, King of Tyre; described as beautiful, carried off
+    by force, later honored as a divinity, and commemorated by a festival.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:4
+  name_or_label: Agenor
+  description: King of Tyre and father of Europa.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Taurus
+  description: The general of Asterius whose name is said to be the Greek name for
+    a bull.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Teutamus
+  description: Father of Asterius, according to the cited report of Diodorus Siculus.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Composite divine name
+  assigned_to:
+  - fig:1
+  basis: The note says several persons bore the name Zeus or Jupiter.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Euhemerized ruler
+  assigned_to:
+  - fig:2
+  basis: Asterius is treated as a historical king associated with Crete.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: Abductor by force
+  assigned_to:
+  - fig:2
+  basis: He is said to have fitted out a ship to carry Europa off by force.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Abducted woman
+  assigned_to:
+  - fig:3
+  basis: Europa is the person carried off by force in the explanatory reconstruction.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Posthumously honored divinity
+  assigned_to:
+  - fig:3
+  basis: The note says Europa was honored as a divinity after death and commemorated
+    by a festival.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: Royal father
+  assigned_to:
+  - fig:4
+  basis: Agenor is identified as King of Tyre and Europa’s father.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: Eponymic explanation for bull element
+  assigned_to:
+  - fig:5
+  basis: The name Taurus is offered as a source for the bull story.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: Father of Asterius
+  assigned_to:
+  - fig:6
+  basis: Diodorus Siculus is cited as saying Asterius was the son of Teutamus.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Ship
+  literal_form: A ship fitted out by Jupiter Asterius to carry Europa away.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: Bull-shaped figurehead
+  literal_form: A ship figurehead in the form of a bull.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Bull form of Jupiter
+  literal_form: The reported narrative element that Jupiter concealed himself under
+    the shape of a bull.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Name Taurus
+  literal_form: A personal name meaning bull in Greek.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Ambiguous Phoenician word for ship or bull
+  literal_form: The word ‘Alpha’ or ‘Ilpha,’ said to mean either ship or bull in Phoenician.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: Hellotia festival
+  literal_form: A festival instituted in Europa’s memory after her death.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Assignment of Europa episode to Jupiter Asterius
+  summary: The note distinguishes multiple figures named Zeus or Jupiter and assigns
+    the Europa episode to Jupiter Asterius.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Asterius prepares to abduct Europa
+  summary: Asterius hears of Europa’s beauty and fits out a ship to carry her away
+    by force from her father’s realm.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Bull explanations for the myth
+  summary: 'The note gives several explanations for the bull element: a bull-shaped
+    ship figurehead, the name of a general called Taurus, and an ambiguous Phoenician
+    word meaning ship or bull.'
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Europa’s posthumous honor
+  summary: Europa is said to have been honored as a divinity after death and remembered
+    through the festival Hellotia.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Abduction of a desired woman by force
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The passage says Asterius heard of Europa’s beauty and fitted out a ship
+    to carry her off by force.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is an explanatory note, not the narrative episode itself;
+    it frames the event euhemeristically.
+- id: motif:2
+  label: Divine or royal figure in animal disguise
+  taxonomy_refs:
+  - shapeshifter
+  basis: The note reports that narrators said Jupiter concealed himself under the
+    shape of a bull to carry off Europa.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents this as a later explanation arising from a ship’s
+    bull figurehead, not as a literal claim of the note.
+- id: motif:3
+  label: Posthumous divinization and commemorative festival
+  taxonomy_refs: []
+  basis: Europa is described as honored as a divinity after her death, with a festival
+    instituted in her memory.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: No available taxonomy reference directly matches this pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4220-4230
+  quote_or_summary: The note says there were several persons named Zeus or Jupiter
+    and cites Vossius assigning different adventures, including the present fable,
+    to different Jupiters; the present one is Jupiter Asterius.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4230-4236
+  quote_or_summary: Diodorus Siculus is cited for Asterius as son of Teutamus, connected
+    by marriage to Creteus’s daughter, settling with Pelasgians in Crete and becoming
+    its first king.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 4236-4244
+  quote_or_summary: "“Jupiter Asterius, having heard of the beauty of Europa, the
+    daughter of Agenor, King of Tyre, fitted out a ship, for the purpose of carrying
+    her off by force.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 4246-4251
+  quote_or_summary: The ship is said probably to have had a bull-shaped figurehead,
+    giving rise to the story that Jupiter concealed himself in the shape of a bull
+    to carry off Europa.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4251-4254
+  quote_or_summary: Palæphatus and Tzetzes suggest that the bull story arose from
+    the name of Asterius’s general, Taurus, which is also Greek for bull.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4254-4258
+  quote_or_summary: Bochart suggests that the Phoenician word ‘Alpha’ or ‘Ilpha’ meant
+    either ship or bull, and that Greek readers mistakenly took it in the latter sense.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 4258-4258
+  quote_or_summary: "“Europa was honored as a Divinity after her death, and a festival
+    was instituted in her memory.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an explanatory/commentarial section rather than a primary
+    narrative scene; motifs are based on the events and explanations explicitly stated
+    in the note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself make a comparative claim beyond internal explanations for the bull element and citations to ancient or scholarly authorities.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l4220-l4258
+  passage_sha256=287730e1b0353f6c22d10dddb504767e752147ce00feb0957af246ce0579af88
+

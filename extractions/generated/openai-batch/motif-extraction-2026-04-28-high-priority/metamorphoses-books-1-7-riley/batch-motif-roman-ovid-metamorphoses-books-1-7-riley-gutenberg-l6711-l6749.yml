@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l6711-l6749
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 6711-6749
+  start: '6711'
+  end: '6749'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage consists of explanatory footnotes on Ovidian lines: a comparison
+    of a nymph''s shining eyes to sunlight reflected or concentrated by a mirror or
+    burning-glass; antiquarian details about ancient mirrors; a note on the polypus
+    and its grasping feelers; a genealogical note identifying Hermaphroditus as a
+    descendant of Atlas through Maia and Mercury; and a translation note on the union
+    of two bodies.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A footnote explains that the nymph's eyes are compared to rays of the sun
+    in a clear sky when a looking-glass is placed against them.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note suggests that the word translated as mirror may in this context mean
+    a burning-glass because the nymph's eyes are described as burning.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage describes ancient mirrors as commonly made of metal, including
+    tin and copper composition or silver, and mentions obsidian, emeralds, glass plates
+    backed with metal, and mirrors from Brundisium.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says Venus was supposed often to use the mirror, while Minerva
+    repudiated its use.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A footnote describes the polypus as a fish that entangles prey with many feet
+    or feelers.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hermaphroditus is identified as the great-grandson of Atlas through Maia,
+    Mercury, and Hermaphroditus.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A translation note states that the bodies of two are mixed together and united.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the Nymph
+  description: A nymph whose eyes are described as sparkling, shining, or burning
+    in a comparison involving sunlight and a mirror.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Venus
+  description: A goddess said in the note to have often used the mirror.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Minerva
+  description: A goddess said in the note to have repudiated the use of the mirror.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: polypus
+  description: A fish described as entangling prey with many feet or feelers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Hermaphroditus
+  description: The great-grandson of Atlas, descended through Maia and Mercury.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Atlas
+  description: Ancestor of Hermaphroditus and father of Maia.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Maia
+  description: Daughter of Atlas and mother of Mercury.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Mercury
+  description: Son of Maia and father of Hermaphroditus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: shining-eyed figure
+  assigned_to:
+  - fig:1
+  basis: The nymph's eyes are described as sparkling, shining, and burning in the
+    explanatory note.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mirror-using goddess
+  assigned_to:
+  - fig:2
+  basis: The note says Venus was supposed often to use the mirror.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: mirror-rejecting goddess
+  assigned_to:
+  - fig:3
+  basis: The note says Minerva repudiated the use of the mirror.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: entangling creature
+  assigned_to:
+  - fig:4
+  basis: The polypus is described as entangling its prey with feet or feelers.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: descendant of Atlas
+  assigned_to:
+  - fig:5
+  basis: The note identifies Hermaphroditus as the great-grandson of Atlas.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: genealogical ancestor or parent
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: Atlas, Maia, and Mercury are named in the genealogy leading to Hermaphroditus.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: mirror or burning-glass
+  literal_form: speculum, looking-glass, or possible burning-glass
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: sun rays and reflected fire
+  literal_form: rays of the sun in a clear sky, with contracted fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: entangling feelers
+  literal_form: many feet or feelers of the polypus
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: united bodies
+  literal_form: two bodies mixed together and united
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Shining eyes compared to sun and mirror
+  summary: The nymph's eyes are explained as shining like rays of the sun reflected
+    or concentrated by a looking-glass or burning-glass.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ancient mirror usage and materials
+  summary: 'The note lists ancient mirror materials and mentions contrasting divine
+    associations: Venus using the mirror and Minerva rejecting it.'
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Polypus entangles prey
+  summary: The polypus is described as using its many feet or feelers to entangle
+    prey.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Genealogy of Hermaphroditus
+  summary: Hermaphroditus is situated in a lineage from Atlas through Maia and Mercury.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Union of two bodies
+  summary: A translation note says that the bodies of two figures are mixed together
+    and united.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: bodily union of two figures
+  taxonomy_refs:
+  - annihilation_union
+  basis: The note explicitly describes two bodies being mixed together and united.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage is a translation footnote and does not provide the full narrative
+    context or identify both figures in the union.
+- id: motif:2
+  label: genealogical descent from a divine or mythic ancestor
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Hermaphroditus is defined through descent from Atlas, Maia, and Mercury.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives only a brief genealogical explanation, not a full parent-child
+    narrative.
+- id: motif:3
+  label: entangling many-limbed creature
+  taxonomy_refs: []
+  basis: The polypus is described as entangling prey with many feet or feelers.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The note is zoological and lexical rather than a developed mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6711-6720
+  quote_or_summary: The nymph's eyes are said to sparkle and shine like sun rays in
+    a clear sky when a looking-glass is placed against them; the note considers whether
+    the object may be a burning-glass because the eyes are described as burning.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6720-6738
+  quote_or_summary: The footnote describes ancient mirrors made from metal, obsidian,
+    emeralds, and glass plates backed with metal; it mentions Sidon and Brundisium
+    and details mirror shapes and use by slaves during toilet duties.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6738-6740
+  quote_or_summary: The note says Venus was supposed often to use the mirror, but
+    Minerva rejected its use.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6741-6746
+  quote_or_summary: The polypus is described as a fish that entangles prey, mostly
+    shellfish, with many feet or feelers; Ovid and Pliny use terms for lashes, arms,
+    hair, or tendrils.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6747-6749
+  quote_or_summary: 'Hermaphroditus is explained as the great-grandson of Atlas: Atlas
+    fathered Maia, Maia was the mother of Mercury, and Mercury begot Hermaphroditus.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6749
+  quote_or_summary: A translation note renders the Latin as stating that the bodies
+    of both are mixed together and united.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is composed of footnotes rather than a continuous mythic narrative.
+    Literal extraction is straightforward, but motif assignment is limited by lack
+    of full episode context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added because the passage itself does not support cross-textual comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l6711-l6749
+  passage_sha256=e9815a971c090b47970b2b3503bf12fda563fe492bd80f3cbe751f754526ce2a
+

@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l5004-l5027
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: BOOK THE THIRD. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 5004-5027
+  start: '5004'
+  end: '5027'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Semele, described as overjoyed at what is her misfortune, asks her divine
+    lover to appear to her as he appears to the daughter of Saturn in Venus' bonds.
+    The god tries too late to stop her speech, grieves because the wish and oath cannot
+    be undone, ascends to the skies, and gathers clouds, showers, winds, lightning,
+    thunder, and the inevitable thunderbolt. The passage also includes editorial footnotes
+    on a Latin verb form, Beroë, and Epidaurus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Semele is described as overjoyed at what is called her misfortune and as about
+    to perish through the complaisance of her lover.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Semele asks the god to present himself to her as the daughter of Saturn is
+    accustomed to embrace him when honoring the ties of Venus.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The god wishes to shut Semele's mouth, but her words have already escaped.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The god groans because Semele's wish and his oath cannot now be undone.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The god mounts the lofty skies and draws attendant clouds with his nod.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The god adds showers, lightning mixed with winds, thunder, and the inevitable
+    thunderbolt.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Semele
+  description: A woman who speaks to her divine lover and is described as about to
+    perish by his complaisance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: The God / Semele's lover
+  description: A god addressed by Semele, bound by an oath, grieving, and able to
+    summon clouds, storms, thunder, and the thunderbolt.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Daughter of Saturn
+  description: A divine female figure invoked by Semele as the model for how the god
+    should present himself when embraced.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: requesting beloved
+  assigned_to:
+  - fig:1
+  basis: Semele asks her lover to appear in the same manner as he appears to the daughter
+    of Saturn.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: divine lover bound by oath
+  assigned_to:
+  - fig:2
+  basis: The god is Semele's lover, cannot undo his oath, and proceeds to summon celestial
+    storm forces.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: divine comparand for the requested appearance
+  assigned_to:
+  - fig:3
+  basis: Semele names the daughter of Saturn as the model for the god's appearance.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: lofty skies
+  literal_form: The lofty skies mounted by the god.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: storm and thunderbolt
+  literal_form: Clouds, showers, lightning mixed with winds, thunder, and the inevitable
+    thunderbolt.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: ties of Venus
+  literal_form: The phrase used by Semele for the embrace between the god and the
+    daughter of Saturn.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Semele's request
+  summary: Semele asks the god to appear to her as he appears to the daughter of Saturn
+    in the ties of Venus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Irrevocable speech and oath
+  summary: The god tries too late to stop Semele's words and grieves because neither
+    her wish nor his oath can be undone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Summoning the storm-bearing epiphany
+  summary: The god ascends to the skies and gathers clouds, rain, wind, lightning,
+    thunder, and the thunderbolt.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: mortal beloved requests dangerous divine manifestation
+  taxonomy_refs:
+  - divine_beloved
+  - annihilation_union
+  basis: Semele, the god's beloved, asks him to appear as he does to the daughter
+    of Saturn; the narration states she is about to perish through her lover's compliance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives the request, oath, and preparation, but does not itself
+    narrate the actual death or full manifestation.
+- id: motif:2
+  label: irrevocable oath compels destructive compliance
+  taxonomy_refs: []
+  basis: The god grieves because Semele's wish and his oath cannot be undone, and
+    he begins to assemble thunderous forces.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: No available taxonomy reference exactly names the oath-compulsion pattern.
+- id: motif:3
+  label: divine storm apparatus accompanying epiphany
+  taxonomy_refs: []
+  basis: The god ascends to the skies and gathers clouds, showers, winds, lightning,
+    thunder, and the thunderbolt.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a literal pattern in the passage, but its broader comparative
+    function is not stated here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5004-5006
+  quote_or_summary: Semele is described as overjoyed at what is her misfortune and
+    as about to perish by the complaisance of her lover.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 5006-5008
+  quote_or_summary: "“Present thyself to me, just such as the daughter of Saturn is
+    wont to embrace thee, when ye honor the ties of Venus.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 5008-5011
+  quote_or_summary: The god tries to stop Semele's words, but they have escaped; he
+    groans because her wish and his oath cannot be undone.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5011-5014
+  quote_or_summary: In sadness the god mounts the skies, draws clouds with his nod,
+    and adds showers, lightning with winds, thunder, and the inevitable thunderbolt.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Main narrative figures and actions are clear. Motif labels are cautious because
+    the excerpt ends before the destructive result is explicitly narrated. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Editorial footnotes in the supplied passage were noted in the canonical summary but not used for motif extraction because they are not part of the narrative action extracted here.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l5004-l5027
+  passage_sha256=c56ec3fd688bbac8975d39631ff06cd235dedb23ad54c5f3a16683e317fee54d
+

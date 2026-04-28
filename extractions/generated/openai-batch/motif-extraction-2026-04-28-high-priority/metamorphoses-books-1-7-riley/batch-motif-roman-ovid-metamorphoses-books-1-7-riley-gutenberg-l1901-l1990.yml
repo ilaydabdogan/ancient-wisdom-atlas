@@ -1,0 +1,469 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l1901-l1990
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 1901-1990
+  start: '1901'
+  end: '1990'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A god pursues the daughter of Peneus while declaring his identity, powers,
+    and love. She flees, asks her river-father and Earth to destroy or change the
+    form that has caused her danger, and is transformed into a laurel tree. The god
+    then claims the laurel as his tree and assigns it lasting associations with his
+    hair, lyre, quiver, triumphal processions, and Augustus' doorway. The laurel responds
+    by nodding with its new boughs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The pursuing speaker identifies himself as served by Delphian land, Claros,
+    Tenedos, and the Pataræan palace, and says Jupiter is his sire.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says his arrow is unerring but that another more unerring arrow
+    has wounded his heart.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says he discovered the healing art and knows the properties of
+    simples, but love cannot be cured by herbs.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The daughter of Peneus flees with timid step, and the god follows faster under
+    the impulse of love.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The pursuit is compared to predator-prey flights including lamb from wolf,
+    deer from lion, dove from eagle, and greyhound after hare.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:6
+  text: When exhausted, the fleeing woman looks at the waters of Peneus and asks her
+    father for aid if rivers have divine power.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: She asks Earth either to open and swallow her or to change and destroy the
+    form by which she has pleased too much.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: After her prayer, torpor seizes her limbs; bark covers her breast, hair becomes
+    leaves, arms become branches, feet become roots, and foliage covers her features.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Phœbus touches the stock and perceives a breast still throbbing beneath the
+    new bark.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The god embraces and kisses the branches as though they were limbs, but the
+    wood shrinks from his kisses.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The god declares that, since she cannot be his wife, she will be his tree.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The god says the laurel will belong to his hair, lyre, and quiver and will
+    be present at Latian triumphs and at Augustus' gate-posts.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: After the speech, the laurel nods assent with new-made boughs and seems to
+    shake its top like a head.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Phœbus / Pæan / youthful god
+  description: A divine pursuer who identifies himself as son of Jupiter, as a prophetic
+    and musical deity, as discoverer of healing art, and as wounded by love.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: daughter of Peneus / Nymph / virgin
+  description: A fleeing daughter of Peneus whose beauty is described during flight
+    and who is transformed into a laurel tree after praying for aid.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Peneus
+  description: Named as the father of the fleeing woman and associated with waters
+    to which she looks when asking for aid.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Jupiter
+  description: Named by the pursuing god as his sire.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Earth
+  description: Invoked by the fleeing woman to swallow her or change the form that
+    has caused her injury.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: divine pursuer and speaker
+  assigned_to:
+  - fig:1
+  basis: He follows the fleeing woman, speaks at length, and later claims the laurel
+    as his tree.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: fleeing maiden
+  assigned_to:
+  - fig:2
+  basis: She flees the god with fear and asks for aid when exhausted.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: river father invoked for aid
+  assigned_to:
+  - fig:3
+  basis: The woman addresses her father while looking at the waters of Peneus and
+    invokes the divine power of rivers.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: healer unable to heal love
+  assigned_to:
+  - fig:1
+  basis: He claims the healing art and the properties of simples are subject to him,
+    but says love is not cured by herbs.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: transformed laurel
+  assigned_to:
+  - fig:2
+  basis: Her body changes into bark, leaves, branches, roots, and a leafy canopy,
+    and she is thereafter addressed as laurel.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: divine father
+  assigned_to:
+  - fig:4
+  basis: The pursuing god says Jupiter is his sire.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: invoked earth power
+  assigned_to:
+  - fig:5
+  basis: The fleeing woman asks Earth to swallow her or change her form.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: laurel tree
+  literal_form: Tree formed from the transformed daughter of Peneus, with bark, leaves,
+    branches, roots, and boughs.
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: waters of Peneus
+  literal_form: River waters addressed when the fleeing woman asks her father for
+    aid.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: unerring arrow and heart-wound
+  literal_form: The speaker's own unerring arrow and a more unerring arrow that has
+    wounded his heart.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: bark, leaves, branches, roots
+  literal_form: 'The bodily forms of transformation: bark over breast, hair as leaves,
+    arms as branches, feet as roots.'
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: laurel ornaments and civic emblems
+  literal_form: Laurel assigned to the god's hair, lyre, quiver, Latian triumphs,
+    and Augustus' gate-posts.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Divine self-identification during pursuit
+  summary: The god urges the nymph to stop, compares her flight to animals fleeing
+    enemies, declares he is not a rustic pursuer, and lists his divine status, prophetic
+    power, music, archery, and healing arts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Flight and chase
+  summary: The daughter of Peneus continues to flee; her movement increases her beauty,
+    and the god follows faster, compared to a greyhound pursuing a hare.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Prayer for aid and change
+  summary: Exhausted by flight, the woman looks to Peneus' waters and asks her father
+    and Earth to aid her by swallowing or changing the form that has caused her danger.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Transformation into laurel
+  summary: Her limbs become torpid and her body turns into a tree, while the god touches,
+    embraces, and kisses the wood, which still shrinks from him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Consecration of the laurel
+  summary: The god says that because she cannot be his wife, she will be his tree,
+    and assigns the laurel to his personal emblems, triumphs, and Augustus' doorway;
+    the laurel nods assent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine pursuit of a fleeing beloved
+  taxonomy_refs:
+  - divine_beloved
+  basis: A god follows the daughter of Peneus out of love while she flees in fear
+    and asks for aid.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents pursuit and desire, but not a completed marriage
+    or union.
+- id: motif:2
+  label: escape through bodily transformation into a tree
+  taxonomy_refs:
+  - shapeshifter
+  basis: The fleeing woman prays for her dangerous form to be changed and is transformed
+    into bark, leaves, branches, roots, and a laurel canopy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy label 'shapeshifter' is only approximate because
+    the change is prayed-for and externally effected rather than voluntary shape-changing.
+- id: motif:3
+  label: sacred or divine tree as personal emblem
+  taxonomy_refs: []
+  basis: After the transformation, the god declares the laurel to be his tree and
+    attaches it to his hair, lyre, quiver, and enduring foliage.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No exact available motif-family reference for divine tree-emblem consecration
+    is supplied.
+- id: motif:4
+  label: river father and earth invoked for rescue
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The daughter of Peneus appeals to her father through his waters and invokes
+    Earth to swallow or transform her.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage records the appeal and transformation but does not explicitly
+    state which invoked power performs the change.
+- id: motif:5
+  label: unhealable wound of love
+  taxonomy_refs: []
+  basis: The divine healer says he can heal others with herbs but cannot cure his
+    own love-wound.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this pattern.
+- id: motif:6
+  label: laurel as triumphal and imperial guardian emblem
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The god says the laurel will appear in Latian triumphs and stand at Augustus'
+    gate-posts protecting the central oak.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The royal-legitimacy taxonomy fit is partial; the passage links the laurel
+    to civic and Augustan honor but does not narrate a king's accession.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly frames the pursuit through predator-prey analogies,
+    comparing the fleeing woman and pursuing god to lamb and wolf, deer and lion,
+    dove and eagle, and hare and greyhound.
+  claim_level: visual_similarity
+  target: predator-prey pursuit pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison made by the passage, not evidence of
+    historical contact or a broader external tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1901-1923
+  quote_or_summary: The god asks the nymph to stay, compares her flight to prey fleeing
+    predators, identifies his divine status and powers, and says love has wounded
+    him beyond his healing arts.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1924-1945
+  quote_or_summary: The daughter of Peneus flees; wind and motion heighten her beauty;
+    the god stops speaking and pursues quickly, with the chase compared to a greyhound
+    and hare.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1946-1954
+  quote_or_summary: 'She looks to the waters of Peneus and prays: “Give me, my father,
+    thy aid,” then asks Earth to swallow or change the form by which she has pleased
+    too much.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; brief quotation from public domain translation.
+- id: ev:4
+  type: summary
+  locator: lines 1955-1963
+  quote_or_summary: Her limbs are seized by torpor; breast becomes bark, hair leaves,
+    arms branches, feet roots, and foliage covers her features; Phœbus touches and
+    kisses the wood, which shrinks from him.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1964-1981
+  quote_or_summary: The god says that since she cannot be his wife, she will be his
+    tree, and assigns laurel to his hair, lyre, quiver, triumphal processions, the
+    Capitol, and Augustus' gate-posts.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1982-1983
+  quote_or_summary: Pæan ends his speech; the laurel nods assent with new-made boughs
+    and seems to shake its top like a head.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is direct from the supplied passage. Motif taxonomy
+    assignments are cautious where the available labels only partially match the passage,
+    especially shapeshifter and royal_legitimacy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Figure name Daphne is not used because it does not appear in the provided passage text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l1901-l1990
+  passage_sha256=14699e92cac3539227c2743bac7eb59a21ce373bc43b29f6aa0a13231416ebee
+

@@ -1,0 +1,529 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l8101-l8206
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / BOOK THE FIFTH. / EXPLANATION.; lines 8101-8206
+  start: '8101'
+  end: '8206'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Athena hears speaking birds in the boughs. Urania explains that the birds
+    are nine magpies, formerly the daughters of Pierus and Evippe, who challenged
+    the Muses to a song contest. Nymphs judged the contest. The first challenger sang
+    of Typhoeus terrifying the gods, who fled to Egypt and concealed themselves in
+    animal forms. Athena asks Urania to repeat the Muses' song, and Calliope begins
+    with her lyre.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A voice comes from lofty boughs after wings resound in the air, and the daughter
+    of Jupiter looks up, thinking a human has spoken.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speakers are birds identified as magpies that imitate everything; they
+    are nine in number and lament their fate.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Urania says the nine beings increased the number of birds after being overcome
+    in a dispute.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Pierus is named as their father, Evippe as their mother, and Evippe is said
+    to have invoked Lucina nine times while in labor.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The sisters challenge the Thespian Goddesses to a contest of voice and skill,
+    proposing that the defeated side withdraw from specified springs or plains.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Nymphs are chosen to judge the contest; they swear by rivers and sit on seats
+    of natural rock.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The first challenger sings of the wars of the gods, gives undue honor to Giants,
+    and says Typhoeus terrified the inhabitants of Heaven.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: In the challenger's song, the gods flee to Egypt near the Nile and conceal
+    themselves under assumed animal shapes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Pallas asks Urania to repeat the Muses' song and sits under the grove's shade;
+    Calliope rises, gathers her hair with ivy, tunes the chords, and sings.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pallas / daughter of Jupiter
+  description: A goddess who hears the speaking birds, asks about them, and then asks
+    Urania to repeat the Muses' song.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Urania / Muse
+  description: The Muse who explains the origin of the magpies and begins recounting
+    the contest.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Nine daughters of Pierus / magpies
+  description: Nine sisters, later identified as magpies, who challenged the Muses
+    and lament their fate as birds.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Pierus
+  description: A man rich in the lands of Pella and named as father of the nine sisters.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Evippe
+  description: The Pæonian mother of the nine sisters, said to have invoked Lucina
+    nine times in labor.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Lucina
+  description: A powerful birth-associated figure invoked by Evippe during her nine
+    labors.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Thespian Goddesses / Muses of Aonia
+  description: The goddesses challenged by the nine sisters to a contest of voice
+    and skill.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:8
+  name_or_label: Nymphs
+  description: Chosen judges of the contest, sworn by rivers and seated on natural
+    rock.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Typhoeus
+  description: A being from the lowest realms of the earth who, in the challenger's
+    song, terrifies the inhabitants of Heaven.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: Gods above / great Divinities
+  description: The heavenly gods who, in the challenger's song, flee from Typhoeus
+    and conceal themselves in assumed animal forms in Egypt.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+- id: fig:11
+  name_or_label: Calliope
+  description: One of the Muses, chosen to manage the contest; she rises, binds her
+    hair with ivy, tunes the chords, and sings.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine listener and requester
+  assigned_to:
+  - fig:1
+  basis: She hears the voices, asks their source, and asks Urania to repeat the song.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: explaining narrator
+  assigned_to:
+  - fig:2
+  basis: Urania explains the identity and prior contest of the magpies.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: transformed speaking birds
+  assigned_to:
+  - fig:3
+  basis: They are identified as nine magpies that imitate speech and lament their
+    fate.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: poetic challengers
+  assigned_to:
+  - fig:3
+  basis: The sisters challenge the Muses to contend in voice and skill.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: parents of the nine sisters
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Pierus is said to have begotten them, and Evippe is named as their mother.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: invoked birth deity
+  assigned_to:
+  - fig:6
+  basis: Evippe invokes Lucina nine times while in labor.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: Muse contestants and performers
+  assigned_to:
+  - fig:7
+  - fig:11
+  basis: The Muses are challenged, and Calliope is selected to perform their song.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:8
+  label: contest judges
+  assigned_to:
+  - fig:8
+  basis: The Nymphs are chosen to decide the contest.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: earth-born terror of heaven in song
+  assigned_to:
+  - fig:9
+  basis: The challenger's song says Typhoeus came from the lowest realms of earth
+    and terrified Heaven's inhabitants.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: fleeing and disguised gods in song
+  assigned_to:
+  - fig:10
+  basis: The challenger's song says the gods fled to Egypt and hid under assumed shapes.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: speaking magpies
+  literal_form: Nine magpies perched on boughs, imitating speech and lamenting their
+    fate.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: number nine
+  literal_form: Nine birds, nine sisters, and nine invocations of Lucina during labor.
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: contest springs
+  literal_form: The spring formed by the steed of Medusa and the Hyantean Aganippe,
+    named as places the Muses might withdraw from if defeated.
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: rivers and Nile
+  literal_form: Rivers sworn by the Nymph judges and the Nile divided into seven mouths
+    in the challenger's song.
+  associated_figures:
+  - fig:8
+  - fig:10
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: assumed animal forms
+  literal_form: Horned flock-leader, crow, he-goat, cat, snow-white cow, fish, and
+    ibis wings named as forms or disguises of gods.
+  associated_figures:
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: lyre and sounding chords
+  literal_form: A lyre and chords used in the contest performance.
+  associated_figures:
+  - fig:3
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: boughs and grove shade
+  literal_form: Lofty boughs where the magpies perch and the pleasant shade of the
+    grove where Pallas sits.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:8
+  label: natural rock seats
+  literal_form: Seats made out of natural rock for the Nymph judges.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Speaking birds in the boughs
+  summary: After a Muse speaks, wings and a voice are heard from lofty boughs; Pallas
+    looks up and the speakers are revealed as nine magpies.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Urania explains the Pierides
+  summary: Urania says the magpies were once nine daughters of Pierus and Evippe who
+    became birds after being overcome in a dispute.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Challenge and contest judging
+  summary: The nine sisters challenge the Muses to a contest, name the stakes, and
+    have Nymphs decide while seated on rock seats after swearing by rivers.
+  figure_refs:
+  - fig:3
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:8
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Challenger's song of Typhoeus and disguises
+  summary: The first challenger sings of divine wars, Typhoeus terrifying Heaven,
+    the gods fleeing to Egypt, and the gods hiding in animal forms.
+  figure_refs:
+  - fig:3
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Pallas asks to hear the Muses' song
+  summary: Pallas asks Urania to repeat the song in order, sits in the grove's shade,
+    and Calliope rises to tune the chords and sing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:11
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Human challengers transformed into birds after losing a contest
+  taxonomy_refs:
+  - shapeshifter
+  basis: Urania says the nine challengers became birds after being overcome in a dispute,
+    and they now appear as magpies.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage states the result of transformation but does not narrate the
+    exact act or agent of transformation in this excerpt.
+- id: motif:2
+  label: Contest of song between mortals and goddesses
+  taxonomy_refs: []
+  basis: The nine sisters challenge the Thespian Goddesses to compete in voice and
+    skill, with Nymphs as judges and territorial stakes.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference directly names poetic contests.
+- id: motif:3
+  label: Gods assume animal forms to escape a threatening monster
+  taxonomy_refs:
+  - shapeshifter
+  basis: The challenger's song says Typhoeus terrifies the gods, who flee to Egypt
+    and conceal themselves under animal shapes.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This motif is embedded inside a song performed by a contest challenger
+    rather than narrated as the frame action.
+- id: motif:4
+  label: Earth-born monster threatens heavenly gods
+  taxonomy_refs:
+  - chaos
+  basis: Typhoeus is described as sent from the lowest realms of earth and as terrifying
+    the inhabitants of Heaven after wars involving gods and Giants.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents this within a partisan contest song that dishonors
+    the gods, so the framing may mark the account as improper or distorted.
+- id: motif:5
+  label: Sacred waters as contest stake and oath medium
+  taxonomy_refs: []
+  basis: The challengers propose withdrawal from sacred springs as a wager, and the
+    judging Nymphs swear by rivers.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives literal water sites and oath use, but does not explicitly
+    interpret them as sacred beyond their divine associations.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself connects Jupiter's assumed horned flock-leader form with
+    the horned representation of Libyan Ammon.
+  claim_level: visual_similarity
+  target: Libyan Ammon horned iconography
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal etiological or visual association within the challenger's
+    song; the passage does not independently verify historical cult development.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8101-8107
+  quote_or_summary: '"They were birds; and magpies that imitate everything, lamenting
+    their fate, they stood perched on the boughs, nine in number."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; short excerpt used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 8107-8113
+  quote_or_summary: Urania says these beings had recently been overcome in a dispute
+    and increased the number of birds; Pierus begot them, Evippe was their mother,
+    and Evippe invoked Lucina nine times in labor.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summarized for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 8113-8125
+  quote_or_summary: The nine sisters challenge the Thespian Goddesses to a contest
+    of voice and skill, set withdrawal from springs or plains as the wager, and choose
+    Nymphs as judges who swear by rivers and sit on natural rock seats.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summarized for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 8125-8138
+  quote_or_summary: The first challenger sings of divine wars, honors the Giants,
+    says Typhoeus terrified Heaven and drove the gods to Egypt by the seven-mouthed
+    Nile, and lists gods concealed as animal forms including a horned flock-leader,
+    crow, he-goat, cat, cow, fish, and ibis.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summarized for extraction evidence.
+- id: ev:5
+  type: summary
+  locator: lines 8140-8148
+  quote_or_summary: Pallas asks Urania to repeat the Muses' song in order, sits under
+    the grove's shade, and Calliope rises with ivy-bound hair, tunes the sounding
+    chords, and sings.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summarized for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage. Motif labels involving
+    shapeshifting and chaos are supported by the listed taxonomy but need human review
+    because some material is embedded in a character's contest song rather than frame
+    narration.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Footnotes included in the supplied passage were not used except where the main passage itself supported extraction; unrelated footnotes about earlier Perseus material were excluded.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l8101-l8206
+  passage_sha256=9a694fb2b2abe18ba374498cde3c28ae961095e08b3dd9f8918602c998fc8c80
+

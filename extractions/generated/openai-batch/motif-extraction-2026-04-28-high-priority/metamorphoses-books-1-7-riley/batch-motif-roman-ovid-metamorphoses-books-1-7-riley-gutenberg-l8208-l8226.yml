@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l8208-l8226
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / BOOK THE FIFTH. / EXPLANATION.; lines 8208-8226
+  start: '8208'
+  end: '8226'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of explanatory footnotes identifying Thessalian Achaia,
+    the fountain Aganippe sacred to the Muses, a story in which Venus became a fish
+    to escape the Giants, the Egyptian ibis and its association with serpents, and
+    the naming of the Muses as Aonides from Aonia in Boeotia.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Achaia is identified as Hæmonian or Thessalian Achaia, distinct from other
+    parts of Thessaly named Phthiotis and Pelasgiotis.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Aganippe is identified as a fountain in Bœotia near Helicon and sacred to
+    the Muses.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The footnote says Venus was transformed into a fish to escape the fury of
+    the Giants, with the fuller story located in the second book of the Fasti.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The ibis is described as an Egyptian bird resembling a crane or stork, said
+    to have unclean habits and to subsist upon serpents.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Muses obtained the name Aonides from Aonia, a mountainous district of
+    Bœotia.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Venus
+  description: A goddess said in the footnote to have been transformed into a fish
+    to escape the Giants.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Giants
+  description: Figures whose fury Venus escapes by transformation into a fish.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Muses
+  description: Divine figures associated with the fountain Aganippe and named Aonides
+    from Aonia.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Ibis
+  description: An Egyptian bird resembling a crane or stork, said to subsist upon
+    serpents.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: escaping transformed deity
+  assigned_to:
+  - fig:1
+  basis: Venus is said to be transformed into a fish in order to escape the Giants.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: threatening pursuers
+  assigned_to:
+  - fig:2
+  basis: The Giants are named as the source of the fury from which Venus escapes.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: sacred recipients or associated deities
+  assigned_to:
+  - fig:3
+  basis: Aganippe is described as sacred to the Muses, and the Muses are linked with
+    Aonia through the name Aonides.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: sacred fountain
+  literal_form: Aganippe, a fountain in Bœotia near Helicon sacred to the Muses
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fish form
+  literal_form: Venus transformed into a fish
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: serpents as prey of ibis
+  literal_form: serpents eaten by the ibis
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: mountainous district
+  literal_form: Aonia, a mountainous district of Bœotia
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Geographical identifications
+  summary: The notes identify Achaia as a Thessalian region and Aonia as a mountainous
+    district of Bœotia connected with the Muses' name Aonides.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: scene:2
+  label: Sacred fountain gloss
+  summary: Aganippe is presented as a Bœotian fountain near Helicon sacred to the
+    Muses.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Venus transformed for escape
+  summary: A footnote references a story in which Venus becomes a fish to escape the
+    Giants.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Ibis and serpents
+  summary: The ibis is described as an Egyptian bird resembling a crane or stork and
+    said to live on serpents.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine transformation into animal form for escape
+  taxonomy_refs:
+  - shapeshifter
+  basis: The footnote states that Venus was transformed into a fish to escape the
+    fury of the Giants.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage only summarizes a story said to be told elsewhere; it does
+    not narrate the transformation in detail.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8208-8211; Footnote 35
+  quote_or_summary: Achaia is identified as Hæmonian or Thessalian Achaia, distinct
+    from Phthiotis and Pelasgiotis.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 8212-8215; Footnote 36
+  quote_or_summary: Aganippe is described as a fountain in Bœotia near Helicon, sacred
+    to the Muses, and called Hyantean from an ancient local name.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 8216-8218; Footnote 37
+  quote_or_summary: The story of Venus transformed into a fish to escape the Giants
+    is said to be told in the second book of the Fasti.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 8219-8223; Footnote 38
+  quote_or_summary: The ibis is described as an Egyptian bird like a crane or stork,
+    associated with unclean habits and subsisting on serpents.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: lines 8224-8226; Footnote 39
+  quote_or_summary: The Muses are said to obtain the name Aonides from Aonia, a mountainous
+    district of Bœotia.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is explanatory footnote material rather than a narrative passage.
+    Literal identifications are clear; motif extraction is limited to the brief reference
+    to Venus's transformation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself support a cross-text or cross-tradition comparison beyond citing another Ovidian work as the fuller source for one story.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l8208-l8226
+  passage_sha256=b36c80bd9f944db3880f2d0a264b1bd63f4891f7f5248dc395b1628e67a9729e
+

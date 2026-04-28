@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l8715-l8746
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: NOTES / BOOK FIRST / BOOK SECOND / BOOK THIRD; lines 8715-8746
+  start: '8715'
+  end: '8746'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Line-specific editorial notes for Book Third discuss manuscript readings,
+    interpretations of a phrase about the moon pouring through windows, a cited Lucretius
+    parallel said to be imitated by Virgil, a difficult passage involving Helenus'
+    commands concerning Scylla and Charybdis, and a textual variant at line 708.
+  language: English with Latin excerpts
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage consists of notes on Book Third, including manuscript or edition
+    variants for lines 127 and 708.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: obs:2
+  text: The note on line 152 discusses the phrase in which Luna pours herself through
+    windows and reports alternative interpretations mentioned by Servius.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note cites a passage of Lucretius and states that Virgil imitated it in
+    the line under discussion.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note on line 684 quotes Latin naming Helenus, Scylla, and Charybdis, and
+    discusses how to construe cursus and viam in the passage.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The quoted line 684 passage presents Scylla and Charybdis as two alternatives
+    or hazards associated with a narrow distinction of death.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Virgil
+  description: Author whose text is being annotated and whose line is said to imitate
+    a Lucretius passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Servius
+  description: Commentator cited for interpretations and for an explanation of cursus
+    teneant.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Lucretius
+  description: Author of the cited passage at ii.114 used as a parallel for Virgil's
+    wording.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Helenus
+  description: Named in the quoted Latin as the source associated with commands or
+    warnings.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Scylla
+  description: Named in the quoted Latin as one of the paired dangers in the difficult
+    passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Charybdis
+  description: Named in the quoted Latin as one of the paired dangers in the difficult
+    passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: commented author
+  assigned_to:
+  - fig:1
+  basis: The note identifies the passage as one Virgil imitated from Lucretius.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: cited commentator
+  assigned_to:
+  - fig:2
+  basis: Servius is cited for interpretations of insertas and for the explanation
+    of cursus teneant.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: source of cited literary parallel
+  assigned_to:
+  - fig:3
+  basis: A passage of Lucretius is quoted as the model imitated by Virgil.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: source of commands or warnings
+  assigned_to:
+  - fig:4
+  basis: The Latin quotation refers to iussa monent Heleni in relation to Scylla and
+    Charybdis.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: paired named hazards
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Scylla and Charybdis are named together in a passage describing dangerous
+    alternative courses.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: moonlight through windows
+  literal_form: Luna pouring herself through windows; rays through dark houses in
+    the Lucretius parallel
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: paired sea hazards
+  literal_form: Scylla and Charybdis as named dangers along a course or way
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Philological note on moon and windows
+  summary: The note explains and evaluates interpretations of a Latin phrase about
+    Luna and windows, then cites a Lucretius passage about rays entering houses as
+    a parallel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Commentary on passage between Scylla and Charybdis
+  summary: The note quotes Helenus' warning involving Scylla and Charybdis and discusses
+    the grammatical construction of course and way in a dangerous passage.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: dangerous navigation between paired hazards
+  taxonomy_refs: []
+  basis: The quoted line 684 passage names Scylla and Charybdis together and describes
+    a course or way where the distinction of death is slight.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is an editorial note rather than the full narrative scene;
+    the motif is inferred only from the quoted and explained wording.
+- id: motif:2
+  label: light entering an enclosed house
+  taxonomy_refs: []
+  basis: The note discusses Luna pouring through windows and cites Lucretius' rays
+    entering through dark parts of houses.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: This is primarily a philological and literary parallel, not clearly a
+    mythic motif in the provided passage.
+comparison_claims:
+- id: claim:1
+  claim: The note states that Virgil imitated a Lucretius passage at ii.114 in the
+    line concerning light entering through windows or houses.
+  claim_level: linguistic_similarity
+  target: Lucretius, ii.114, as cited in the note
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the note's assertion and cited excerpt; the
+    full Lucretius and Virgil contexts are not provided here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8717-8718
+  quote_or_summary: The note on line 127 records the reading freta concita terris
+    with the best manuscripts and contrasts consita in Conington.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source metadata; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 8720-8727
+  quote_or_summary: The note on line 152 discusses qua se Plena per insertas fundebat
+    Luna fenestras, rejects one explanation as violent, and reports Servius' two other
+    interpretations, with clatratas adopted in translation.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source metadata; concise summary with short Latin excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 8729-8735
+  quote_or_summary: The note says that in a Lucretius passage at ii.114, which Virgil
+    imitated, rays are described as pouring through dark parts of houses; it suggests
+    clatris may be the lost word.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source metadata; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 8737-8744
+  quote_or_summary: The note quotes Contra iussa monent Heleni, Scyllam atque Charybdim
+    ... and explains a difficult construction involving cursus, teneant, viam, and
+    the named hazards.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source metadata; concise summary with short Latin excerpt.
+- id: ev:5
+  type: summary
+  locator: line 8746
+  quote_or_summary: The note on line 708 records tempestatibus actis with Rom. and
+    Pal., contrasted with actus in Conington after Med.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source metadata; concise summary.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is primarily editorial commentary with brief Latin citations,
+    so extraction of narrative motifs is limited. The literary comparison to Lucretius
+    is explicit in the note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references are limited to the provided water symbol where supported by Scylla and Charybdis as sea hazards.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l8715-l8746
+  passage_sha256=78969a0f1eb7935e3ca7d226475c63ac4c99b728c65cb0c23da050bb3ac1aaba
+

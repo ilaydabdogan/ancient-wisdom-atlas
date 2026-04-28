@@ -1,0 +1,148 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l590-l601
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: BOOK VII. / INTRODUCTION. / THE METAMORPHOSES. / BOOK THE FIRST.; lines 590-601
+  start: '590'
+  end: '601'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A footnote explains that Ovid's phrase for the waters' lowermost place
+    should not be read as an absolute philosophical claim. It says the waters are
+    lowest relative to the earth's surface where people tread, not relative to the
+    terrestrial globe as the supposed center of the system, and notes that raised
+    land leaves water to settle in channels.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The footnote discusses the meaning of the phrase translated as “the lowermost
+    place.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says that interpreting the term as strictly last or lowest would
+    conflict with Hesiod's account of world formation and with Ovid's own words.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note states that waters are lowest only in relation to the earth where
+    people walk, not in relation to the terrestrial globe as the supposed center of
+    the system.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note describes elevated parts of the earth's surface leaving water to
+    subside in channels.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: water
+  literal_form: waters
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Explanatory note on the place of waters
+  summary: The passage explains how to understand the described position of waters
+    in relation to the earth's surface and channels, while distinguishing this from
+    an absolute cosmological lowest place.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: cosmic ordering of water and earth
+  taxonomy_refs:
+  - chaos
+  basis: The note concerns the formation or arrangement of the world, specifically
+    the positional relation of waters, earth, and channels; the available taxonomy
+    has no more specific earth-water ordering motif, so this is a cautious association
+    with cosmic ordering from chaos.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The passage is an editor's explanatory footnote rather than a narrative
+    episode, and it does not itself narrate chaos or world formation in detail.
+comparison_claims:
+- id: claim:1
+  claim: The note states that Ovid's account closely follows Hesiod's account of the
+    formation of the world.
+  claim_level: same_function
+  target: Hesiodic account of world formation
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage only reports a general relationship to Hesiod and does
+    not quote or analyze the Hesiodic account.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 590-591
+  quote_or_summary: The footnote is keyed to the phrase 'The lowermost place' and
+    to verse 31.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 591-595
+  quote_or_summary: The note says that reading the term as strictly last or lowest
+    would contradict Hesiod's world-formation account, which Ovid closely follows,
+    and Ovid's own wording.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 596-599
+  quote_or_summary: The note explains that waters occupy the lowest place only relative
+    to the earth where people tread, not relative to the terrestrial globe as the
+    supposed center of the system.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 599-601
+  quote_or_summary: The earth's external surface rises in some places, leaving water
+    to subside in channels.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is an editorial footnote about cosmological terminology and geography,
+    so literal extraction is straightforward but motif assignment is tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No narrative figures are present in the supplied passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l590-l601
+  passage_sha256=478904fc73a81db744c41cf6b4742c89914e1f3fa7681d593c9520e37976dd56
+

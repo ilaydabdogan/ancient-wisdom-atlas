@@ -1,0 +1,366 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l8912-l8988
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 8912-8988
+  start: '8912'
+  end: '8988'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“I was changed into a stream.”"
+  summary: Arethusa narrates how Alpheus pursued her from his river. She fled across
+    Arcadian and Elean places, prayed to Dictynna for aid, was hidden by a cloud,
+    then transformed into a stream. Alpheus recognized her waters and changed back
+    into his own waters to mingle with her. The Delian Goddess opened the ground,
+    and Arethusa passed through dark caverns to Ortygia and emerged into the upper
+    air.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Alpheus speaks to Arethusa from his waves and asks where she is hastening.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Arethusa flees without her clothes because her garments are on the opposite
+    bank.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Alpheus pursues Arethusa and is described as becoming inflamed by her nakedness.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The chase passes through named places and varied terrain, including fields,
+    tree-covered mountains, rocks, crags, and pathless places.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Arethusa prays to Dictynna for aid, identifying herself as the goddess’s armor-bearer.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The goddess covers Arethusa with a dense cloud, and Alpheus searches around
+    it while calling her name.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Arethusa’s body produces cold perspiration and blue-colored drops; where she
+    steps, water gathers, and drops trickle from her hair.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Arethusa is changed into a stream.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Alpheus lays aside his assumed mortal shape and becomes his own waters in
+    order to mingle with Arethusa.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The Delian Goddess cleaves the ground, and Arethusa is carried through dark
+    caverns to Ortygia, where she reaches the upper air.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Arethusa
+  description: Narrating figure who flees Alpheus, calls upon Dictynna, is hidden
+    by a cloud, changes into a stream, and is carried through caverns to Ortygia.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Alpheus
+  description: River figure who speaks from his waves, pursues Arethusa, searches
+    for her, and changes from an assumed mortal shape into his own waters.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Dictynna / the Delian Goddess
+  description: Goddess invoked by Arethusa; she hides Arethusa with a dense cloud
+    and later cleaves the ground.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: pursued narrator
+  assigned_to:
+  - fig:1
+  basis: Arethusa narrates her flight from Alpheus and describes her fear, exhaustion,
+    and transformation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: pursuer
+  assigned_to:
+  - fig:2
+  basis: Alpheus pursues Arethusa, searches the cloud where she is hidden, and calls
+    her name.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: divine rescuer
+  assigned_to:
+  - fig:3
+  basis: The goddess responds to Arethusa’s prayer by concealing her and then opening
+    the ground for her passage.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: transformed water-being
+  assigned_to:
+  - fig:1
+  basis: Arethusa is changed into a stream.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: river with assumed mortal form
+  assigned_to:
+  - fig:2
+  basis: Alpheus is said to have assumed a mortal shape and then to lay it aside,
+    becoming his own waters.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: water
+  literal_form: river, stream, waves, drops, lake, waters
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: concealing cloud
+  literal_form: dense cloud thrown over Arethusa
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: dark caverns
+  literal_form: dark caverns beneath the cleft ground
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: pathless terrain
+  literal_form: fields, tree-covered mountains, rocks, crags, and places with no path
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: upper air
+  literal_form: Ortygia introducing Arethusa to the upper air
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Pursuit across land
+  summary: Alpheus addresses Arethusa from his waters and pursues her as she flees
+    unclothed across named places and rough terrain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Prayer and concealment
+  summary: Arethusa asks Dictynna for aid; the goddess covers her with a dense cloud
+    while Alpheus searches and calls for her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Metamorphosis into water
+  summary: Arethusa begins to shed drops and is changed into a stream; Alpheus recognizes
+    the waters and becomes his own waters to mingle with her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Subterranean passage to Ortygia
+  summary: The Delian Goddess opens the ground, and Arethusa passes through dark caverns
+    to Ortygia, where she reaches the upper air.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Transformation into a stream
+  taxonomy_refs:
+  - shapeshifter
+  basis: Arethusa is physically changed into a stream, and Alpheus changes from an
+    assumed mortal shape into his own waters.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The available taxonomy term is broad; the passage specifically concerns
+    watery metamorphosis rather than general shapeshifting.
+- id: motif:2
+  label: Divine rescue of a pursued figure
+  taxonomy_refs: []
+  basis: Arethusa, pursued by Alpheus, prays to Dictynna, who conceals her with a
+    cloud and later opens the ground for her escape route.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: No more specific provided taxonomy reference directly matches this rescue
+    pattern.
+- id: motif:3
+  label: Pursuer seeking union through waters
+  taxonomy_refs:
+  - annihilation_union
+  basis: After Arethusa becomes a stream, Alpheus recognizes her waters and becomes
+    his own waters so that he might mingle with her.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is tentative; the passage states attempted mingling
+    but does not describe annihilation explicitly.
+- id: motif:4
+  label: Passage through dark caverns to emergence
+  taxonomy_refs: []
+  basis: After the ground is cleft, Arethusa sinks and is carried through dark caverns
+    to Ortygia, which introduces her to the upper air.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives a subterranean route and emergence, but it is not framed
+    as an afterlife or initiatory descent.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8912-8925
+  quote_or_summary: Alpheus speaks from his waves, asks where Arethusa is hastening,
+    and pursues her as she flees unclothed from the riverbank.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 8926-8940
+  quote_or_summary: Arethusa compares the chase to birds of prey and prey animals,
+    names places along her route, and describes running over fields, wooded mountains,
+    rocks, crags, and pathless ground while hearing Alpheus behind her.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 8941-8959
+  quote_or_summary: Arethusa prays to Dictynna for aid; the goddess covers her with
+    a dense cloud; Alpheus searches around the cloud and twice calls for Arethusa.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 8960-8972
+  quote_or_summary: Besieged within the cloud, Arethusa sweats cold and blue drops,
+    water forms wherever she moves, drops trickle from her hair, and she is changed
+    into a stream; Alpheus recognizes the waters and changes from mortal shape into
+    his own waters to mingle with her.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 8973-8977
+  quote_or_summary: The Delian Goddess cleaves the ground; Arethusa sinks and is carried
+    through dark caverns to Ortygia, where she reaches the upper air.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: note
+  locator: lines 8979-8988
+  quote_or_summary: Translator footnotes identify Orchomenus and Psophis as Arcadian
+    places and explain the Ortygia note through Diana’s surname and Delos.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal sequence and figures are explicit in the passage. Motif taxonomy
+    assignments are partly broad because the available taxonomy does not include a
+    precise watery metamorphosis or divine-concealment category. No external comparison
+    claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l8912-l8988
+  passage_sha256=4e39727f5fdea226ef90b9dd62e88d72ad714ff356c9b92212bfa940777c8236
+

@@ -1,0 +1,266 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l2205-l2222
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 2205-2222
+  start: '2205'
+  end: '2222'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage consists of explanatory footnotes identifying rivers and places:
+    Æas/Aous as a stream through Epirus and Thessaly; Inachus as a river of Argolis
+    rising in nearby mountains; and Lerna as a swampy Argive place associated by poets
+    with the seven-headed Hydra slain by Hercules, with a rationalizing explanation
+    that Hercules may have overseen drainage of pestilential vapors.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pliny the Elder is cited as calling the river Æas by the name Aous.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Aous is described as a small clear stream running through Epirus and Thessaly
+    into the Ionian Sea.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Inachus is described as a river of Argolis, also known as the Naio.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Inachus is said to rise either in Lycæus or Artemisium, mountains of Arcadia,
+    with a note that Stephens thought Lycæus was a mountain of Argolis.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Lerna is described as a swampy place in Argive territory.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Poets are said to locate the haunt of the seven-headed Hydra at Lerna.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Hydra is described as a dragon with seven heads.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Hercules is said to have slain the Hydra.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The note offers a rationalizing explanation that pestilential vapors at Lerna
+    may have been removed by drainage under Hercules' superintendence.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Some commentators are said to suppose that Lerna was a flowing stream rather
+    than a swampy place.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Pliny the Elder
+  description: Cited authority who calls the river Æas by the name Aous.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Stephens
+  description: Commentator cited for the view that Lycæus was a mountain of Argolis.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Hydra
+  description: A dragon with seven heads said by poets to have haunted Lerna.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Hercules
+  description: Named as the slayer of the Hydra and, in a rationalizing explanation,
+    as supervising drainage of Lerna.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: cited ancient authority
+  assigned_to:
+  - fig:1
+  basis: The footnote attributes the name Aous for the river Æas to Pliny the Elder.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: cited commentator
+  assigned_to:
+  - fig:2
+  basis: The footnote attributes an opinion about Lycæus to Stephens.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: multi-headed dragon at Lerna
+  assigned_to:
+  - fig:3
+  basis: The Hydra is described as a seven-headed dragon whose haunt poets placed
+    at Lerna.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: dragon-slayer and rationalized drainage overseer
+  assigned_to:
+  - fig:4
+  basis: Hercules is said to have slain the Hydra, and the note suggests a possible
+    historical basis in drainage supervised by him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: dragon / serpent-like monster
+  literal_form: the dragon with seven heads called Hydra
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: water landscape
+  literal_form: rivers, stream, swampy spot, and flowing stream
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: mountains
+  literal_form: Lycæus and Artemisium, mountains associated with the source of Inachus
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Geographical identifications of rivers and mountains
+  summary: The footnotes identify the Aous and Inachus rivers, their regions, outlets,
+    and possible mountain sources.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Lerna, Hydra, and Hercules
+  summary: Lerna is identified as a swampy Argive place associated by poets with the
+    seven-headed Hydra, which Hercules slew; the note also gives a rationalized drainage
+    explanation.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: multi-headed dragon or serpent monster
+  taxonomy_refs:
+  - serpent
+  basis: The passage describes the Hydra as a seven-headed dragon haunting Lerna.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is an explanatory footnote, not the narrative episode itself.
+- id: motif:2
+  label: hero slays monstrous dragon
+  taxonomy_refs:
+  - culture_hero
+  basis: Hercules is identified as the one who slew the Hydra; the note also rationalizes
+    the deed as removal of pestilential conditions by drainage.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The culture-hero framing is inferred from Hercules' monster-slaying and
+    drainage role; the passage does not explicitly call him a culture hero.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2205-2208; Footnote 96
+  quote_or_summary: Pliny the Elder is cited for calling Æas the Aous, a small limpid
+    stream through Epirus and Thessaly into the Ionian Sea.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2210-2214; Footnote 97
+  quote_or_summary: Inachus is identified as a river of Argolis, now Naio, with possible
+    sources in Lycæus or Artemisium; Stephens' view on Lycæus is noted.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2216-2219; Footnote 98
+  quote_or_summary: Lerna is described as a swampy Argive place where poets placed
+    the haunt of the seven-headed Hydra slain by Hercules.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2219-2222; Footnote 98
+  quote_or_summary: The note suggests that the story may have arisen from drainage
+    of pestilential vapors at Lerna under Hercules, while some commentators instead
+    regard Lerna as a flowing stream.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Geographical and mythological details are explicit in the footnotes. Motif
+    assignment is limited because the passage is explanatory rather than narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself make a comparative claim beyond identifying poetic tradition and commentator interpretations.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l2205-l2222
+  passage_sha256=3e1b0777f39e7c89e6ffce8a06e6fac4060f52a0fe8e5f5384664cec3a87226f
+

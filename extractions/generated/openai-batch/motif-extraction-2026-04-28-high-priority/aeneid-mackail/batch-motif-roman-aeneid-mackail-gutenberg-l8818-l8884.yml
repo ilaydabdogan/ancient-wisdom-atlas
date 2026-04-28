@@ -1,0 +1,158 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l8818-l8884
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK EIGHTH / BOOK NINTH / BOOK TENTH / BOOK TWELFTH; lines 8818-8884
+  start: '8818'
+  end: '8884'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of editorial and textual notes for Books Tenth and
+    Twelfth, a printer notice, lists of inconsistent hyphenation and spelling retained
+    from the original, and a short list of corrections made to the text.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note for Book Tenth says line 278 is omitted with the best manuscripts.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note for Book Tenth line 754 discusses a Latin reading, manuscript authority,
+    and a hendiadys comparison with other Virgilian passages.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Notes for Book Twelfth discuss a perceived gap in sense at line 218, variant
+    readings at line 520, omitted lines 612-613, and an interpretation of a phrase
+    at line 751.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage identifies R. & R. Clark of Edinburgh as the printer.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage lists words appearing with and without hyphens and states that
+    spelling has been left as in the original.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage lists words spelled in multiple ways and states that spelling
+    has been left as in the original.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage lists corrections made to the text and notes details about an
+    oe ligature and ellipses.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ribbeck
+  description: A named editor or scholar cited in a note on Book Twelfth line 218.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: R. & R. Clark
+  description: The printer named in the printer notice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: cited textual authority
+  assigned_to:
+  - fig:1
+  basis: The note says the translator follows Ribbeck in believing there is a gap
+    in the sense at Book Twelfth line 218.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: printer
+  assigned_to:
+  - fig:2
+  basis: The passage states that the book was printed by R. & R. Clark in Edinburgh.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8818-8826
+  quote_or_summary: Book Tenth notes mention omission of line 278 with the best manuscripts
+    and discuss the Latin reading at line 754, including manuscript authority and
+    hendiadys.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 8828-8843
+  quote_or_summary: Book Twelfth notes discuss line 218 with Ribbeck's view of a gap
+    in sense, a variant at line 520, omitted lines 612-613, and an interpretation
+    of line 751.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: quote
+  locator: line 8845
+  quote_or_summary: Printed by R. & R. CLARK, Edinburgh.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 8849-8859
+  quote_or_summary: A list records words appearing with and without hyphens, including
+    blood-stained/bloodstained, hill-tops/hilltops, and water-ways/waterways.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 8861-8868
+  quote_or_summary: A list records words spelled in multiple ways, including aery/aëry,
+    horned/hornèd, Nereids/Nereïd, and Pergama/Pergamea.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 8870-8884
+  quote_or_summary: A correction list notes changes concerning Nymphs, Creüsa, Rumour,
+    and Rhoetean, followed by notes on Phoebus with an oe ligature and ellipses matching
+    the original.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: This range is editorial end matter rather than a mythological narrative passage;
+    no motif, symbol, scene, or comparison claim is directly supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy motif family or symbol was applied because the passage does not narrate mythic action or present symbolic imagery in context.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l8818-l8884
+  passage_sha256=7881b73e19e5cdf1d74646cb5c919684e625a228d863cd6dd2dcd8068ac7bbe6
+

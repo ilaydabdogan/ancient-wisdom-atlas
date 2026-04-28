@@ -1,0 +1,423 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l5286-l5376
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 5286-5376
+  start: '5286'
+  end: '5376'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A youth remains by a stream, refusing food and rest while gazing at a reflected
+    image. He addresses the woods and the image, realizes that the beloved form is
+    himself, and wastes away from grief and self-directed desire. Echo repeats his
+    cries and farewell. After his death, nymphs mourn him and prepare funeral rites,
+    but his body is gone and a yellow flower with white leaves is found in its place.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Food and repose cannot draw the youth away from the place where he lies on
+    shaded grass and gazes at an image.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The image is described as fallacious, and the youth is said to be undone by
+    his own sight.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The youth addresses the surrounding woods and says he is fatally in love.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: He says the object of desire is separated from him only by a little water,
+    not by sea, distance, mountains, or a closed city.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The reflected figure appears to return his gestures, smiles, tears, nods,
+    and silent mouth movements.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The youth recognizes that the beloved figure is himself and says he burns
+    with love of himself.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: His tears disturb the water and deface the reflected form, prompting him to
+    beg it not to leave.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: While grieving, he tears his garment and beats his breast, which becomes reddened
+    where struck.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: He wastes away by degrees, compared to wax near fire and morning frost under
+    the sun.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Echo grieves and repeats the youth’s cries and farewell sounds.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:11
+  text: The youth lays his head on the grass and dies; after being received into the
+    infernal abodes, he continues to look at himself in Stygian waters.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: His Naiad sisters and the Dryads lament him; funeral preparations are made,
+    but the body is not found.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: In place of the body, a yellow flower with white leaves around its middle
+    is found.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the unhappy youth / speaker
+  description: A beautiful youth who lies by the water, gazes at his own reflected
+    image, recognizes himself as the beloved, wastes away, and dies.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: fallacious image in the water
+  description: A reflected form in the stream that appears to imitate the youth’s
+    gestures, smiles, tears, and nods; later recognized by him as himself.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Echo
+  description: A figure who had formerly loved the youth and now grieves, repeating
+    his cries, sounds, and farewell.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Naiad sisters
+  description: The youth’s Naiad sisters lament him and lay their cut hair over their
+    brother.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Dryads
+  description: Wood nymphs who lament the youth after his death.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: self-gazing lover
+  assigned_to:
+  - fig:1
+  basis: The youth gazes at the reflected image, recognizes it as himself, and says
+    he burns with love of himself.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: dying youth
+  assigned_to:
+  - fig:1
+  basis: He wastes away, lays his head on the grass, and dies.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: mistaken beloved / reflected self
+  assigned_to:
+  - fig:2
+  basis: The image appears to respond to the youth’s gestures and is later identified
+    by him as himself.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: echoing mourner
+  assigned_to:
+  - fig:3
+  basis: Echo repeats his cries, the sound of blows, and his farewell while grieving.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: mourning nymphs
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The Naiads and Dryads lament the youth after his death.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: separating and reflecting water
+  literal_form: limpid stream, little water, moving stream, Stygian waters
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: desire as fire
+  literal_form: burning with love, hidden flame, wax with fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: replacement flower
+  literal_form: yellow flower with white leaves encompassing it in the middle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: reflected image
+  literal_form: fallacious image in water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Gazing at the inaccessible image
+  summary: The youth refuses food and rest, lies on grass, gazes at the reflected
+    form, and complains that only a little water separates him from the beloved figure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Recognition of self-love
+  summary: The youth realizes that the beloved figure is himself and states that he
+    both causes and endures the flames of his own love.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Grief, fading, and Echo’s response
+  summary: His tears disturb the water, he beats his breast, and he wastes away while
+    Echo repeats his cries and sounds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Death, lament, and flower in place of body
+  summary: The youth dies on the grass, continues looking at himself in Stygian waters,
+    and is mourned by Echo, Naiads, and Dryads; funeral rites are prepared, but his
+    body is gone and a flower is found.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: fatal self-love through reflected image
+  taxonomy_refs: []
+  basis: The youth becomes fixed on a reflected image, recognizes it as himself, and
+    dies after wasting away from that desire.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage does not give an external taxonomy label for this motif.
+- id: motif:2
+  label: unattainable beloved separated by a slight boundary
+  taxonomy_refs: []
+  basis: The youth says no major barrier separates him from the beloved image, only
+    a little water that prevents touch.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The beloved is not an independent person but the speaker’s reflection.
+- id: motif:3
+  label: wasting death from love as hidden flame
+  taxonomy_refs: []
+  basis: The youth describes himself as burning with love, and the narration says
+    he wastes away like wax near fire or frost under sun.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The flame is figurative in the passage, not a literal burning event.
+- id: motif:4
+  label: body replaced by flower after death
+  taxonomy_refs:
+  - death_rebirth
+  basis: After funeral preparations, the body is missing and a yellow flower with
+    white leaves is found in its place.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy lacks a precise metamorphosis-into-flower category;
+    death_rebirth is an approximate fit.
+- id: motif:5
+  label: afterlife continuation of earthly fixation
+  taxonomy_refs: []
+  basis: After death and reception into the infernal abodes, the youth still looks
+    at himself in Stygian waters.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage mentions the afterlife behavior but does not narrate an extended
+    journey or map.
+- id: motif:6
+  label: echoed lament and farewell
+  taxonomy_refs: []
+  basis: Echo repeats the youth’s cries, the sound of his blows, and his final farewell.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level pattern rather than a taxonomy-linked motif here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5286-5290
+  quote_or_summary: Food and rest cannot draw the youth away; he lies on shaded grass
+    and gazes at a fallacious image until he is undone by his own sight.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 5291-5319
+  quote_or_summary: He addresses the woods, says he is fatally in love, describes
+    the little water separating him from the image, and notes that the figure appears
+    to return his gestures, smiles, tears, nods, and silent words.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: quote
+  locator: lines 5320-5332
+  quote_or_summary: "“In thee ’tis I, I {now} perceive... I burn with the love of
+    myself, and both raise the flames and endure them.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 5333-5352
+  quote_or_summary: He returns to the reflection, tears disturb the water and deface
+    the form, he calls for it to stay, tears his garment, beats his breast, and begins
+    to waste away like wax by fire or morning frost in sun.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: lines 5353-5358
+  quote_or_summary: Echo sees his decline, grieves despite anger, repeats his cry
+    of “Alas,” and returns the sound when he strikes his arms.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: lines 5359-5368
+  quote_or_summary: He says farewell to the beloved youth in vain, Echo repeats farewell,
+    he lays his head on the grass and dies; even in the infernal abodes he looks at
+    himself in Stygian waters.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: lines 5368-5376
+  quote_or_summary: The Naiad sisters, Dryads, and Echo lament him; funeral pile,
+    torches, and bier are prepared, but the body is nowhere found, and a yellow flower
+    with white leaves is found instead.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main narrative sequence is explicit. Taxonomy mapping is limited because
+    the available motif list lacks a precise category for reflection-based self-love
+    or plant metamorphosis.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used; comparison claims were left empty because the passage itself does not support an explicit cross-text comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l5286-l5376
+  passage_sha256=e447549343194236b74d12500d937ae42fecf07127b17df63ca1502b681c10dc
+

@@ -1,0 +1,589 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l8718-l8819
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 8718-8819
+  start: '8718'
+  end: '8819'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Ceres wishes to bring back her daughter, but the Fates prevent it because
+    Proserpine has eaten seven pomegranate grains. Ascalaphus, who witnessed this,
+    reports it and is transformed into an owl. The daughters of Acheloüs, companions
+    of Proserpine, are described as receiving wings and bird feet while retaining
+    maiden faces and human voices after searching for her over the world.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ceres is resolved to fetch away her daughter, but the Fates do not permit
+    it because the daughter has broken her fast.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The damsel plucks a pomegranate from a bending tree and chews seven grains
+    from its rind.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ascalaphus alone sees the eating of the pomegranate grains and prevents her
+    return by revealing it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Orphne, a Nymph of Avernus, is said to have borne Ascalaphus to Acheron within
+    dusky caves.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Queen of Erebus changes the informer into an accursed bird with beak,
+    feathers, great eyes, tawny wings, bent nails, and sluggish arms.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The transformed Ascalaphus becomes a lazy owl and an omen of approaching woe
+    to mortals.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The daughters of Acheloüs have feathers and bird feet while retaining maiden
+    faces.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The daughters of Acheloüs were among Proserpine’s companions when she gathered
+    spring flowers.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: After seeking Proserpine in vain throughout the world, the daughters of Acheloüs
+    wish for wings so that they can hover over the waves.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The gods are propitious to the daughters of Acheloüs; feathers grow on their
+    limbs, while their virgin countenances and human voices remain.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ceres
+  description: A goddess resolved to fetch away her daughter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Proserpine / the damsel / Queen of Erebus
+  description: Ceres’ daughter, who eats seven pomegranate grains and later grieves
+    over the informer’s revelation.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: the Fates
+  description: Powers that do not permit Ceres to fetch away her daughter after the
+    fast is broken.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Ascalaphus
+  description: The sole witness to the pomegranate eating; he reveals it and is transformed
+    into an owl.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Orphne
+  description: A Nymph of Avernus said to have borne Ascalaphus.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Acheron
+  description: Named in connection with Orphne bearing Ascalaphus within dusky caves;
+    a footnote identifies Ascalaphus as son of Acheron.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:12
+- id: fig:7
+  name_or_label: daughters of Acheloüs
+  description: Proserpine’s former companions, transformed with feathers and bird
+    feet while keeping maiden faces and human voices.
+  role_refs:
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:8
+  name_or_label: the gods
+  description: Powers described as propitious to the daughters of Acheloüs when they
+    wish for wings.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: mother seeking daughter’s return
+  assigned_to:
+  - fig:1
+  basis: Ceres is resolved to fetch away her daughter.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: daughter whose return is blocked
+  assigned_to:
+  - fig:2
+  basis: Her broken fast causes the Fates not to permit her removal.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: underworld queen who punishes informer
+  assigned_to:
+  - fig:2
+  basis: The Queen of Erebus grieves and changes the informer into a bird.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: determinants of permitted return
+  assigned_to:
+  - fig:3
+  basis: The Fates do not permit Ceres to fetch her daughter away.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: witness and informer
+  assigned_to:
+  - fig:4
+  basis: Ascalaphus alone sees the act and prevents return by his discovery.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: punished transformed figure
+  assigned_to:
+  - fig:4
+  basis: He is changed into an accursed bird and owl.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: mother of Ascalaphus
+  assigned_to:
+  - fig:5
+  basis: Orphne is said to have borne him.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: father or associated chthonic figure
+  assigned_to:
+  - fig:6
+  basis: The passage links Ascalaphus with Acheron, and the footnote identifies him
+    as Acheron’s son.
+  evidence_refs:
+  - ev:4
+  - ev:12
+- id: role:9
+  label: companions of Proserpine
+  assigned_to:
+  - fig:7
+  basis: They were among her companions while she gathered spring flowers.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: searchers transformed into bird-maidens
+  assigned_to:
+  - fig:7
+  basis: They seek her throughout the world, wish for wings, and receive bird features
+    while retaining human faces and voices.
+  evidence_refs:
+  - ev:8
+- id: role:11
+  label: grantors of transformation
+  assigned_to:
+  - fig:8
+  basis: The gods are propitious when the daughters of Acheloüs desire wings.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: pomegranate
+  literal_form: Pomegranate plucked from a bending tree and eaten as seven grains.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: seven grains
+  literal_form: Seven pomegranate grains chewed by Proserpine.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bending tree
+  literal_form: Tree from which the pomegranate is plucked.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: dusky caves
+  literal_form: Caves associated with Acheron and the birth or bearing of Ascalaphus.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: waters of Phlegethon
+  literal_form: Waters sprinkled on the informer’s head during transformation.
+  associated_figures:
+  - fig:4
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: owl
+  literal_form: Obscene bird, lazy owl, and dire omen to mortals.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: wings and feathers
+  literal_form: Bird feathers, feet, and wings given to the daughters of Acheloüs.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:8
+  label: waves
+  literal_form: Waters over which the daughters of Acheloüs wish to hover.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:9
+  label: spring flowers
+  literal_form: Flowers gathered by Proserpine when the daughters of Acheloüs were
+    among her companions.
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Broken fast prevents return
+  summary: Ceres intends to retrieve her daughter, but the Fates forbid it because
+    Proserpine has eaten seven pomegranate grains.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Informer punished as owl
+  summary: Ascalaphus reveals Proserpine’s eating and is transformed by the Queen
+    of Erebus into an owl that is an omen of woe.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Daughters of Acheloüs become bird-maidens
+  summary: After searching for Proserpine in vain, the daughters of Acheloüs wish
+    to fly over the waters; the gods grant feathers and bird feet while preserving
+    their maiden faces and human voices.
+  figure_refs:
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Eating underworld food prevents full return
+  taxonomy_refs:
+  - afterlife_journey_map
+  - return
+  basis: Proserpine’s return is blocked because she has broken her fast by eating
+    seven pomegranate grains.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not lay out a full afterlife journey map; it gives a
+    specific return-prevention rule.
+- id: motif:2
+  label: Divine parent seeks abducted or detained daughter
+  taxonomy_refs:
+  - divine_parent_child
+  - stolen_beloved
+  basis: Ceres seeks to fetch her daughter away; nearby footnote language describes
+    Proserpine as kidnapped or carried away.
+  evidence_refs:
+  - ev:1
+  - ev:10
+  confidence: medium
+  cautions: The abduction itself is not narrated in this excerpt and is supported
+    mainly by adjacent explanatory notes.
+- id: motif:3
+  label: Informer punished by metamorphosis
+  taxonomy_refs:
+  - divine_judgment
+  - shapeshifter
+  basis: Ascalaphus reveals what he saw and is punished by being transformed into
+    an owl.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage frames the punishment as possibly merited because of discovery
+    and talkativeness, but does not provide a formal trial scene.
+- id: motif:4
+  label: Human-bird hybrid transformation preserving voice
+  taxonomy_refs:
+  - shapeshifter
+  basis: The daughters of Acheloüs receive feathers, bird feet, and wings while retaining
+    maiden faces and human voices.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage does not name them as Sirens within the provided excerpt.
+- id: motif:5
+  label: Search over the world for lost companion
+  taxonomy_refs:
+  - departure
+  basis: The daughters of Acheloüs seek Proserpine in vain throughout the whole world
+    and desire wings to continue over the waters.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy fit is approximate; the passage describes a search rather
+    than a conventional heroic departure.
+comparison_claims:
+- id: claim:1
+  claim: The excerpt’s account of information about Proserpine’s fate is part of a
+    variant cluster in which different figures disclose what happened to her.
+  claim_level: same_function
+  target: Ovid, Fasti Book 4; Homeric account; Apollodorus account of Hermione informants
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is based on the translator’s footnote rather than a
+    full presentation of the compared passages.
+- id: claim:2
+  claim: The pomegranate-grain episode appears in a variant form in Ovid’s Fasti,
+    where the number of grains is three rather than seven.
+  claim_level: same_motif
+  target: Ovid, Fasti Book 4 pomegranate-grain variant
+  evidence_refs:
+  - ev:2
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Only the difference in grain count is reported in the footnote; no
+    broader Fasti context is supplied here.
+- id: claim:3
+  claim: Ascalaphus’ punishment for revealing Proserpine’s eating has an Apollodorus
+    variant in which Ceres places a rock on him, Hercules liberates him, and he is
+    then changed into an owl.
+  claim_level: same_motif
+  target: Apollodorus variant of Ascalaphus’ punishment
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:12
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the footnote summary and does not quote
+    Apollodorus directly.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8718-8721
+  quote_or_summary: Ceres is resolved to fetch away her daughter, but the Fates do
+    not allow it because the damsel has broken her fast.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8721-8724
+  quote_or_summary: While walking in a cultivated garden, the damsel plucks a pomegranate
+    from a bending tree and chews seven grains from its rind.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8724-8729
+  quote_or_summary: Ascalaphus alone sees the act and, by revealing it, cruelly prevents
+    her return.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8725-8728
+  quote_or_summary: Orphne, a Nymph of Avernus, is said to have borne Ascalaphus to
+    Acheron within dusky caves.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8729-8735
+  quote_or_summary: The Queen of Erebus grieves and changes the informer’s head, sprinkled
+    with the waters of Phlegethon, into beak, feathers, and great eyes; his body receives
+    tawny wings and bent nails.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 8735-8737
+  quote_or_summary: "“He becomes an obscene bird, the foreboder of approaching woe,
+    a lazy owl, a direful omen to mortals.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 8739-8745
+  quote_or_summary: The daughters of Acheloüs are described as having feathers and
+    bird feet but maiden faces, and as having been Proserpine’s companions while she
+    gathered spring flowers.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 8745-8753
+  quote_or_summary: After seeking Proserpine throughout the world, the daughters of
+    Acheloüs wish to hover over the waves; the gods grant them wings and feathers
+    while preserving their human faces, voices, and tongues.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: footnote 66
+  quote_or_summary: The note says this passage gives seven grains, while Ovid’s Fasti
+    gives only three grains.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: footnotes 60-61
+  quote_or_summary: The notes connect the loosened girdle with violence committed
+    on Proserpine and gloss the Latin as meaning she had been carried away or kidnapped.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: footnote 63
+  quote_or_summary: The note says Ovid elsewhere makes the Sun inform Ceres, following
+    Homer, while Apollodorus has the people of Hermione inform Ceres.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: footnote 67
+  quote_or_summary: 'The note identifies Ascalaphus as son of Acheron by Orphne or
+    Gorgyra and summarizes Apollodorus’ variant punishment: a rock placed on him,
+    liberation by Hercules, and transformation into an owl.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: footnote 65
+  quote_or_summary: The note says participants in the rites of Ceres were especially
+    careful not to taste the pomegranate because of this episode.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for the pomegranate, blocked return, and metamorphosis
+    scenes. Some motif taxonomy assignments are approximate because the passage is
+    an excerpt and several broader narrative contexts appear only in footnotes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text, metadata, and available taxonomy references. The daughters of Acheloüs are not labeled as Sirens because that name is not present in the excerpt.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l8718-l8819
+  passage_sha256=017a460194c3aaaab371d939d158fefeea8533c3220e826c2d60cded654aa283
+

@@ -1,0 +1,409 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l1193-l1221
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 1193-1221
+  start: '1193'
+  end: '1221'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Four footnotes explain: Jupiter''s confirming nod as a motif derived from
+    Homer and paralleled in Virgil; Nereus as an ancient sea deity and son of Oceanus
+    and Tethys; classes of nymphs associated with trees, mountains, groves, valleys,
+    sea, rivers, and fountains; and an uncertain political allusion to conspiracies
+    against Julius Caesar or Augustus.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jupiter confirms his decrees by an awful nod, described as shaking his locks.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says the image of Jupiter's nod is taken from Homer and also appears
+    in Virgil's Aeneid.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Nereus is identified as an ancient sea deity and as the son of Oceanus and
+    Tethys.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Terrestrial nymphs include Dryads and Hamadryads, who haunt woods and whose
+    existence depends on particular trees.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Other nymph groups are located in mountains, groves, valleys, the sea, rivers,
+    and fountains.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The editor states uncertainty about whether an 'impious band' refers to conspiracies
+    against Julius Caesar or against Augustus.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Jupiter
+  description: A god whose nod confirms decrees in the cited explanatory note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Homer
+  description: Named as the source from whom the idea of Jupiter's nod is taken.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Virgil
+  description: Named as using the same idea in the Aeneid.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Nereus
+  description: An ancient deity of the sea, son of Oceanus and Tethys.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Oceanus
+  description: Named as father of Nereus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Tethys
+  description: Named as mother of Nereus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Dryads and Hamadryads
+  description: Terrestrial nymphs who haunt woods and are linked to particular trees.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Oreades
+  description: Nymphs who frequent mountains.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Napeae
+  description: Nymphs who live in groves and valleys.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: Nereids, Oceanitides, and Naiads
+  description: Nymphs associated respectively with Nereus, Oceanus, and fountains;
+    the note also mentions nymphs of the sea and rivers.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:3
+- id: fig:11
+  name_or_label: Brutus, Cassius, Julius Caesar, and Augustus
+  description: Historical figures named in an editorial discussion of a possible allusion
+    to conspiracy.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: decree-confirming deity
+  assigned_to:
+  - fig:1
+  basis: The note says Jupiter's nod is the sanction by which he confirms decrees.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: source of poetic image
+  assigned_to:
+  - fig:2
+  basis: The note says the idea is taken from Homer.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: parallel user of poetic image
+  assigned_to:
+  - fig:3
+  basis: The note says Virgil has the same idea in the Aeneid.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: sea deity
+  assigned_to:
+  - fig:4
+  basis: Nereus is identified as one of the most ancient deities of the sea.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: divine child
+  assigned_to:
+  - fig:4
+  basis: Nereus is said to be the son of Oceanus and Tethys.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: divine parent
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Oceanus and Tethys are named as parents of Nereus.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: tree-linked nymphs
+  assigned_to:
+  - fig:7
+  basis: Dryads and Hamadryads haunt woods and depend on particular trees.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: mountain nymphs
+  assigned_to:
+  - fig:8
+  basis: Oreades are described as nymphs who frequent mountains.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: grove and valley nymphs
+  assigned_to:
+  - fig:9
+  basis: Napeae are described as living in groves and valleys.
+  evidence_refs:
+  - ev:3
+- id: role:10
+  label: water-associated nymphs
+  assigned_to:
+  - fig:10
+  basis: The note lists nymphs of sea, rivers, and fountains, including Nereids, Oceanitides,
+    and Naiads.
+  evidence_refs:
+  - ev:3
+- id: role:11
+  label: figures in possible political allusion
+  assigned_to:
+  - fig:11
+  basis: The note discusses possible references to conspiracies involving these figures.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Jupiter's awful nod
+  literal_form: A nod of Jupiter that confirms decrees and shakes Olympus in the Virgilian
+    parallel.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tree-bound life
+  literal_form: Particular trees on which the existence of Dryads and Hamadryads depends.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: mountain dwelling
+  literal_form: Mountains frequented by the Oreades.
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: waters of sea, rivers, and fountains
+  literal_form: Sea, rivers, and fountains associated with several nymph classes and
+    with Nereus.
+  associated_figures:
+  - fig:4
+  - fig:10
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Editorial explanation of Jupiter's nod
+  summary: The note explains Jupiter's nod as a sanction for decrees and relates it
+    to Homer, Phidias, and Virgil.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Genealogy of Nereus
+  summary: Nereus is identified as an ancient sea deity and son of Oceanus and Tethys.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Classification of nymphs by habitat
+  summary: The note lists nymph groups by association with woods, trees, mountains,
+    groves, valleys, sea, rivers, and fountains.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Uncertain allusion to conspiracy
+  summary: The note considers whether an 'impious band' alludes to conspiracies against
+    Julius Caesar or Augustus.
+  figure_refs:
+  - fig:11
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine nod confirming decree
+  taxonomy_refs:
+  - divine_judgment
+  basis: Jupiter's nod is described as the sanction by which he confirms decrees.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an explanatory footnote, not the narrative scene itself;
+    the taxonomy fit is approximate.
+- id: motif:2
+  label: divine parent-child genealogy
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Nereus is identified as son of Oceanus and Tethys.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives only a brief genealogical note.
+- id: motif:3
+  label: life of spirit bound to tree
+  taxonomy_refs: []
+  basis: Dryads and Hamadryads are said to haunt woods, and their existence depends
+    on the life of particular trees.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No available motif-family taxonomy entry directly matches tree-bound nymph
+    life.
+- id: motif:4
+  label: nature spirits classified by habitat
+  taxonomy_refs: []
+  basis: The note organizes nymphs by woods, trees, mountains, groves, valleys, sea,
+    rivers, and fountains.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is classificatory mythological information rather than a narrative
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The image of Jupiter's awful nod is explicitly compared by the note to Homer
+    and to Virgil's Aeneid as the same or related poetic idea.
+  claim_level: same_motif
+  target: Homeric depiction of Jupiter/Zeus's nod and Virgil, Aeneid book x
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage reports the editor's comparison but does not provide the
+    full Homeric or Virgilian contexts.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1193-1200, Footnote 40
+  quote_or_summary: Footnote 40 explains Jupiter's awful nod as confirming decrees,
+    says the idea is taken from Homer, mentions Phidias's statue, and notes a Virgilian
+    parallel in Aeneid book x.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 1202-1204, Footnote 41
+  quote_or_summary: Footnote 41 identifies Nereus as an ancient deity of the sea and
+    as son of Oceanus and Tethys.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 1206-1215, Footnote 42
+  quote_or_summary: 'Footnote 42 describes types of nymphs: Dryads and Hamadryads
+    in woods and tied to trees; Oreades in mountains; Napeae in groves and valleys;
+    and nymphs of sea, rivers, and fountains including Nereids, Oceanitides, and Naiads.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 1217-1221, Footnote 43
+  quote_or_summary: Footnote 43 says it is doubtful whether the phrase 'impious band'
+    refers to conspiracies against Julius Caesar or against Augustus, and notes that
+    Augustus survived the latter conspiracy.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on explicit footnote content. Motif assignment is partly
+    limited because the passage is editorial explanation rather than primary narrative
+    action.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only supplied passage text and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l1193-l1221
+  passage_sha256=e5c252a1fb4efc85791200f01795970fc4e6cc8ba4da48a7e0ff901b98b25e7f
+

@@ -1,0 +1,584 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l1622-l1709
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 1622-1709
+  start: '1622'
+  end: '1709'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A prose explanation identifies Jupiter, Neptune, and Pluto as deified brother-kings
+    with divided sovereignties, including Neptune’s power over the sea. The following
+    fable recounts Deucalion and Pyrrha seeking Themis’ oracle after the loss of humankind,
+    interpreting her command to cast the bones of their great mother as an instruction
+    to throw stones from the earth behind them, and thereby renewing the human race
+    as stones transform into men and women.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jupiter, Neptune, and Pluto are described as three brothers who may originally
+    have been kings of separate kingdoms and later deified while retaining sovereignty.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The world is described as divided between Jupiter, Neptune, and Pluto, with
+    the sea assigned to Neptune.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Deucalion and Pyrrha resolve to pray to heavenly deities and seek relief through
+    sacred oracles.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Deucalion and Pyrrha go together to the waters of Cephisus and then to the
+    temple of Themis.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Before approaching the temple, they sprinkle water on their clothes and heads.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: obs:6
+  text: At the temple steps, both fall prostrate, kiss the cold pavement, and pray
+    to Themis for aid in repairing the loss of their race.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Themis gives an oracle commanding them to leave the temple, cover their heads,
+    loosen their garments, and throw behind their backs the bones of their great mother.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Pyrrha initially refuses the command because she fears offending her mother’s
+    shades by casting her bones.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Deucalion interprets the great mother as the earth and the bones as stones
+    in the body of the earth.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Deucalion and Pyrrha veil their heads, ungird their garments, and cast stones
+    behind them as ordered.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The stones lose hardness, soften, grow larger, and assume a new human-like
+    form.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Stones thrown by the man become men, and stones thrown by the woman renew
+    the female race.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: The narrator explains human hardiness and endurance as evidence of origin
+    from stones.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Jupiter
+  description: One of three deified brother-rulers whose sovereignty is retained after
+    deification.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Neptune
+  description: One of three deified brother-rulers; the sea falls to his share, and
+    he is associated with raising and calming the seas.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Pluto
+  description: One of three deified brother-rulers whose sovereignty is retained after
+    deification.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Deucalion
+  description: A male survivor who consults Themis’ oracle with Pyrrha and throws
+    stones that become men; identified as son of Prometheus.
+  role_refs:
+  - role:3
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:5
+  name_or_label: Pyrrha
+  description: A female survivor who consults Themis’ oracle with Deucalion and throws
+    stones that renew the female race; identified as daughter of Epimetheus and descended
+    from Titan.
+  role_refs:
+  - role:3
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:10
+- id: fig:6
+  name_or_label: Themis
+  description: Sacred goddess whose temple and oracle Deucalion and Pyrrha consult;
+    she gives the command that leads to the renewal of humanity.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Deities of Heaven / Gods above
+  description: Divine powers to whom Deucalion and Pyrrha pray and whose interposition
+    enables the stones to take human shape.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: fig:8
+  name_or_label: Prometheus
+  description: Named as father of Deucalion in the phrase 'the son of Prometheus.'
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Epimetheus
+  description: Named as father of Pyrrha in the phrase 'the daughter of Epimetheus.'
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: deified sovereign brother
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The prose explanation describes Jupiter, Neptune, and Pluto as three brothers,
+    formerly kings, later deified while retaining sovereignty.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sea sovereign
+  assigned_to:
+  - fig:2
+  basis: The sea falls to Neptune’s share, and he raises and calms the seas.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: supplicant survivor
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Deucalion and Pyrrha seek divine aid and pray for the repair of their race
+    after its loss.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: oracle-giving goddess
+  assigned_to:
+  - fig:6
+  basis: Themis is addressed for instructions and gives the response that directs
+    the ritual action.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: ritual performer
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: They cover their heads, loosen their garments, and cast stones behind them
+    as commanded.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: male renewer of men
+  assigned_to:
+  - fig:4
+  basis: Stones thrown by the hands of the man take the shape of a man.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: female renewer of women
+  assigned_to:
+  - fig:5
+  basis: The female race is renewed by the throwing of the woman.
+  evidence_refs:
+  - ev:9
+- id: role:8
+  label: divine agents of transformation
+  assigned_to:
+  - fig:7
+  basis: The stones take human shape by the interposition of the Gods above.
+  evidence_refs:
+  - ev:9
+- id: role:9
+  label: named divine or mythic parent
+  assigned_to:
+  - fig:8
+  - fig:9
+  basis: Prometheus and Epimetheus are named only through Deucalion’s and Pyrrha’s
+    parentage.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sea
+  literal_form: The empire of the sea assigned to Neptune, whose occupations include
+    raising and calming the seas.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Cephisus waters
+  literal_form: River waters used by Deucalion and Pyrrha before approaching Themis’
+    temple.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: sym:3
+  label: fireless altars
+  literal_form: Altars at Themis’ temple are described as standing without fires.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: bones of the great mother
+  literal_form: The oracle’s phrase for what Deucalion and Pyrrha must throw behind
+    their backs.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: earth as great mother
+  literal_form: Deucalion interprets the great mother as the earth.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: stones of the earth
+  literal_form: Stones interpreted as the earth’s bones and cast behind the survivors;
+    they transform into human bodies.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:7
+  label: covered heads and loosened garments
+  literal_form: Ritual actions commanded by Themis and performed before casting stones.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:10
+- id: sym:8
+  label: rough statues or marble figures
+  literal_form: The forming stones are compared to marble only partly worked into
+    human shape.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Divided sovereignties of the deified brothers
+  summary: The explanatory passage presents Jupiter, Neptune, and Pluto as deified
+    brother-kings whose realms are divided, with Neptune ruling the sea and controlling
+    its motion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Supplication at Cephisus and Themis’ temple
+  summary: Deucalion and Pyrrha go to the waters of Cephisus, perform water-sprinkling,
+    approach Themis’ moss-covered temple and fireless altars, prostrate themselves,
+    and ask how the human race can be restored.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:9
+- id: scene:3
+  label: Themis’ obscure oracle and its interpretation
+  summary: Themis commands the pair to cover their heads, loosen their garments, and
+    throw behind them the bones of their great mother. Pyrrha is afraid of sacrilege,
+    but Deucalion interprets the command as referring to stones from the earth.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Casting stones and renewal of humanity
+  summary: Deucalion and Pyrrha follow the oracle’s instructions, cast stones behind
+    them, and the stones soften, enlarge, and take human forms; men arise from Deucalion’s
+    stones and women from Pyrrha’s.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Renewal of humanity after destruction
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The fable introduction says Deucalion and Pyrrha re-people the earth, and
+    their prayer asks how the loss of their race may be repaired after ruined fortunes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:9
+  confidence: high
+  cautions: The passage excerpt presupposes the prior destruction rather than narrating
+    the flood itself in detail.
+- id: motif:2
+  label: Survivor pair restoring the human race
+  taxonomy_refs:
+  - survivor_pair
+  basis: A man and a woman act together after the loss of the race, and humanity is
+    renewed through stones thrown separately by the man and the woman.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The passage does not here recount how the pair survived, only their role
+    in re-peopling the earth.
+- id: motif:3
+  label: Obscure divine oracle requiring interpretation
+  taxonomy_refs:
+  - wisdom
+  basis: Themis’ command is described as obscure; Deucalion reasons that the great
+    mother is the earth and her bones are stones.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage emphasizes interpretation
+    of an oracle rather than wisdom as an independent figure or object.
+- id: motif:4
+  label: Ritual obedience produces transformation
+  taxonomy_refs:
+  - shapeshifter
+  basis: After the pair perform the commanded ritual acts and cast stones, the stones
+    change form and become humans.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The transformation is of objects into humans, not a voluntary shapeshifter
+    figure.
+- id: motif:5
+  label: Divine wrath and appeasement through prayer
+  taxonomy_refs:
+  - divine_judgment
+  basis: The prayer asks whether divine wrath may be averted and seeks aid from Themis
+    after the ruin of the race.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage mentions divine wrath and ruin but does not narrate the judgment
+    event in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1622-1629
+  quote_or_summary: The explanation describes Jupiter, Neptune, and Pluto as possibly
+    three brother-kings later deified, with the world divided among them and the sea
+    assigned to Neptune, who raises and calms the seas.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1631-1642
+  quote_or_summary: The fable introduction states that Deucalion and Pyrrha re-people
+    the earth by casting stones behind them as prescribed by Themis; they resolve
+    to pray to the deities and go to the waters of Cephisus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1642-1652
+  quote_or_summary: After sprinkling water on their clothes and heads, Deucalion and
+    Pyrrha go to Themis’ temple, whose roof is moss-covered and altars fireless; they
+    fall prostrate, kiss the pavement, and ask Themis how the loss of their race can
+    be repaired.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 1652-1656
+  quote_or_summary: 'Themis responds: “Depart from my temple, and cover your heads,
+    and loosen the garments girt around you, and throw behind your backs the bones
+    of your great mother.”'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 1656-1663
+  quote_or_summary: Pyrrha breaks the silence, refuses the command, asks pardon, and
+    fears offending her mother’s shades by casting her bones; the pair reconsider
+    the obscure oracle.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1663-1672
+  quote_or_summary: 'Deucalion, called son of Prometheus, tells Pyrrha, daughter of
+    Epimetheus, that the oracle advises no sacrilege: the earth is the great mother,
+    and stones in the earth are the bones to throw behind them.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1675-1677
+  quote_or_summary: They go down, veil their heads, ungird their garments, and cast
+    stones behind their footsteps as ordered.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1677-1687
+  quote_or_summary: The stones begin to lose hardness and stiffness, soften, take
+    new form, grow larger, and appear as imperfect human shapes like rough marble
+    statues.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 1687-1697
+  quote_or_summary: The moist and earthy parts become bodily substance, solid parts
+    become bones, and by divine interposition stones thrown by the man become men
+    while those thrown by the woman renew the female race; the narrator says humans
+    are hardy from this origin.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: footnotes 65-69, lines 1699-1709
+  quote_or_summary: The notes identify the Cephisus near Delphi, explain sprinkling
+    or washing before temple entry, explain covering the head in worship, identify
+    Pyrrha’s Titan ancestry, and note Ovid’s pun on veins in bodies and stone.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on the supplied public-domain passage. Motif candidates
+    using broad taxonomy labels are plausible but should be reviewed, especially 'shapeshifter'
+    and 'wisdom'.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons were added because the passage itself does not explicitly compare this episode with another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l1622-l1709
+  passage_sha256=a7949a3e27e9c9dc00ae6c884875d6e69a48208ed013b0c8c1e632facd630bae
+

@@ -1,0 +1,492 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l3887-l3949
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK FIFTH / THE GAMES OF THE FLEET / BOOK SIXTH / THE VISION OF THE UNDER
+    WORLD; lines 3887-3949
+  start: '3887'
+  end: '3949'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Aeneas continues through the underworld, reaches the region of warriors,
+    is recognized by Trojan dead and feared by Greek dead, meets the mutilated shade
+    of Deiphobus, hears Deiphobus recount betrayal during Troy’s fall, and is then
+    urged by the Sibyl onward at the fork where one road leads to Elysium and the
+    other to punishment in hell.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The traveler enters fields where renowned warriors dwell apart after death.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Trojan or Dardanian souls gather around the traveler, walk beside him, and
+    ask why he has come.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Greek princes and Agamemnon’s armies react fearfully when they see the armed
+    traveler in the gloom.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Deiphobus appears with face, hands, ears, temples, and nostrils mutilated.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Aeneas says he made an empty tomb for Deiphobus on the Rhoetean shore, called
+    three times on his ghost, and marked the place with name and armour.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Deiphobus attributes his death and wounds to fate and to the murderous guilt
+    of the Laconian woman.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Deiphobus recalls the fated horse descending on Troy’s towers with armed infantry
+    inside it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Laconian woman leads a feigned procession of Phrygian women, raises a
+    large flame, and calls the Greeks from the fortress height.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Deiphobus says he was asleep in his bridal chamber when arms were removed
+    from his dwelling and the sword was taken from beneath his head.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: Menelaus is called into the house, the gateway is opened, and attackers burst
+    into the chamber with the Aeolid counsellor of crime.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:11
+  text: Deiphobus asks why Aeneas has come alive to the sad, sunless dwellings and
+    disordered land.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: The Sibyl warns Aeneas that time is being spent in weeping and identifies
+    a fork in the road.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: The right-hand road runs under Dis’ city toward Elysium, while the left-hand
+    road punishes the wicked and sends them to unrelenting hell.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:14
+  text: Deiphobus says he will return to his place and into darkness, then turns away.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Aeneas
+  description: Living, armed traveler through the underworld; addressed by the Sibyl
+    and by Deiphobus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Sibyl
+  description: Priestess companion who warns Aeneas and directs him at the divided
+    road.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Deiphobus son of Priam
+  description: Mutilated shade of a Trojan royal warrior who speaks with Aeneas.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Dardanian fallen warriors
+  description: Dead Trojans including Glaucus, Medon, Thersilochus, Antenor’s three
+    children, Polyphoetes, and Idaeus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Greek princes and Agamemnon’s armies
+  description: Dead Greek warriors who flee or cry faintly at the sight of armed Aeneas.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Laconian woman
+  description: Woman blamed by Deiphobus for betrayal; she raises a flame, removes
+    arms, summons Menelaus, and opens the gateway.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Menelaus
+  description: Called into the house during the betrayal recounted by Deiphobus.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Aeolid counsellor of crime
+  description: Accompanies the attackers who burst into Deiphobus’ chamber.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: living underworld traveler
+  assigned_to:
+  - fig:1
+  basis: Aeneas is described as armed and alive while present in the underworld dwellings.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: underworld guide and priestess
+  assigned_to:
+  - fig:2
+  basis: The Sibyl directs Aeneas at the fork and gives warning about time and route.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: mutilated dead speaker
+  assigned_to:
+  - fig:3
+  basis: Deiphobus appears as a wounded shade and narrates the circumstances of his
+    death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: friendly dead compatriots
+  assigned_to:
+  - fig:4
+  basis: The Dardanian souls throng around Aeneas, pace beside him, and ask why he
+    came.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: fearful former enemies
+  assigned_to:
+  - fig:5
+  basis: The Greek dead flee or cry faintly when they see Aeneas armed in the gloom.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: betrayer within the house
+  assigned_to:
+  - fig:6
+  basis: Deiphobus says she removed arms, took his sword, called Menelaus, and opened
+    the gateway.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: attackers entering the chamber
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Menelaus and the Aeolid are named in connection with the group that bursts
+    into Deiphobus’ chamber.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sunless underworld dwellings
+  literal_form: sad sunless dwellings and disordered land
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: divided road
+  literal_form: road that disparts into a right-hand path and a left-hand path
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Elysium
+  literal_form: right-hand route under Dis’ city leading to Elysium
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: unrelenting hell
+  literal_form: leftward route that punishes the wicked and sends them to hell
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: fated horse
+  literal_form: horse bearing armed infantry as the burden of its womb
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: signal flame
+  literal_form: mighty flame raised among the Phrygian women
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: empty tomb
+  literal_form: empty tomb on the Rhoetean shore marked by name and armour
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:8
+  label: removed sword
+  literal_form: faithful sword slipped out from beneath Deiphobus’ head
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Fields of the war dead
+  summary: Aeneas passes among renowned dead warriors; Trojan souls gather around
+    him, while Greek enemies flee or cry out in fear.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Meeting with Deiphobus
+  summary: Aeneas recognizes Deiphobus despite his mutilation and explains that he
+    had made an empty tomb and called on Deiphobus’ ghost.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Deiphobus recounts betrayal at Troy
+  summary: Deiphobus describes the Trojan horse, the Laconian woman’s signal flame
+    and removal of weapons, and the entry of Menelaus and the Aeolid into his chamber.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Fork of the underworld road
+  summary: The Sibyl stops the conversation, points out the divided road, and distinguishes
+    the path to Elysium from the path of punishment; Deiphobus returns to darkness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: living hero’s journey through the underworld
+  taxonomy_refs:
+  - hero_descent
+  - afterlife_journey_map
+  basis: Aeneas is alive in the sunless underworld, meets dead warriors, and is guided
+    by the Sibyl along mapped routes.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is an excerpt from a larger descent sequence; this record
+    covers only the local episodes provided.
+- id: motif:2
+  label: mapped afterlife with divergent blessed and punitive destinations
+  taxonomy_refs:
+  - afterlife_journey_map
+  - divine_judgment
+  basis: The Sibyl identifies a right-hand path to Elysium and a left-hand path that
+    punishes the wicked and sends them to hell.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The mechanism of judgment is not described in this passage, only the destinations
+    and punitive function.
+- id: motif:3
+  label: betrayal of a sleeping warrior by removal of weapons
+  taxonomy_refs: []
+  basis: Deiphobus says he was asleep in the bridal chamber when the Laconian woman
+    removed the household arms, took the sword from beneath his head, summoned Menelaus,
+    and opened the gateway.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this episode.
+- id: motif:4
+  label: concealed warriors inside a fated horse
+  taxonomy_refs: []
+  basis: Deiphobus recalls the horse descending on Troy’s towers while bearing armed
+    infantry inside it.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage mentions the episode retrospectively rather than narrating
+    the full stratagem.
+- id: motif:5
+  label: empty tomb and ritual address to absent dead
+  taxonomy_refs: []
+  basis: Aeneas says he raised an empty tomb, called three times on Deiphobus’ ghost,
+    and marked the place with name and armour despite not finding the body.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The ritual details are brief and embedded in dialogue.
+comparison_claims:
+- id: claim:1
+  claim: 'At a descriptive level, the passage matches an afterlife journey-map pattern:
+    a living traveler encounters categorized dead and receives route information distinguishing
+    blessed and punitive regions.'
+  claim_level: same_motif
+  target: afterlife_journey_map motif family
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a motif-family classification only; it does not claim historical
+    contact or dependence beyond the Roman epic passage.
+- id: claim:2
+  claim: The passage supports a hero-descent reading in which Aeneas remains alive
+    while entering the underworld and being guided onward by a priestess figure.
+  claim_level: same_motif
+  target: hero_descent motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The wider descent context lies outside this excerpt, so the claim is
+    limited to the evidence supplied here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3887-3900
+  quote_or_summary: Aeneas reaches fields of the renowned in war; Trojan dead gather
+    around him, while Greek leaders and Agamemnon’s armies flee or cry faintly when
+    they see him armed in the gloom.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 3901-3917
+  quote_or_summary: Aeneas sees the mutilated Deiphobus, recognizes him, and says
+    he raised an empty tomb on the Rhoetean shore, called three times on his ghost,
+    and marked the place with name and armour.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 3918-3938
+  quote_or_summary: Deiphobus blames fate and the Laconian woman, recalls the horse
+    carrying armed infantry into Troy, her feigned procession and flame, his sleep
+    in the bridal chamber, the removal of arms and sword, and the entry of Menelaus
+    and the Aeolid.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 3938-3943
+  quote_or_summary: Deiphobus asks what chance, divine prompting, or ocean wandering
+    has brought Aeneas alive to the sad sunless dwellings and disordered land.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 3944-3949
+  quote_or_summary: The Sibyl warns that time is passing, points to the forked road,
+    identifies the right-hand path to Elysium and the left-hand path to punishment
+    in hell, after which Deiphobus returns to darkness.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is based only on the supplied passage. Motif labels use
+    the provided taxonomy where directly supported; non-taxonomy motifs are descriptive
+    and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No figures, taxonomy references, or external comparisons were added beyond what is supported by the supplied passage and available taxonomy list.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l3887-l3949
+  passage_sha256=2f5e411f4a57b448c1fc1df1b689355786dee18f3f9022498fe2b0bec1057ad0
+

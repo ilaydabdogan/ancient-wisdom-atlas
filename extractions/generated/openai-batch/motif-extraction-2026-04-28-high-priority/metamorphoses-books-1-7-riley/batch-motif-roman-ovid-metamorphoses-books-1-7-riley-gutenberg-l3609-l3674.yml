@@ -1,0 +1,815 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l3609-l3674
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: BOOK THE SECOND. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 3609-3674
+  start: '3609'
+  end: '3674'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage first gives explanatory notes on Calisto, Lycaon, Jupiter,
+    the Bear constellation, Juno, Tethys, and Arcas. It then narrates a transformed
+    crow''s account: Minerva enclosed motherless Ericthonius in a basket and forbade
+    Cecrops''s daughters to look inside; Aglauros opened it and saw a child with a
+    dragon. The crow reported this and was displaced from Minerva''s favor. The crow
+    also recounts her own origin as a royal virgin pursued by the Ocean god and rescued
+    through transformation into a black-feathered bird.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The explanatory note says Lycaon had a daughter, Calisto, who delighted in
+    the chase, and that Jupiter fell in love with her; this is given as the ground
+    for her being called a favorite of Diana.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The explanatory note links the story of Calisto becoming the Bear constellation
+    with Lycaon's attention to that constellation and explains Juno's request to Tethys
+    by the Arctic stars never setting.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The explanatory note says Arcas, son of Calisto, may have been the origin
+    of the Lesser Bear constellation.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fable summary states that a virgin favorite of Apollo, sharing the name
+    Coronis, is changed into a crow because of a story she tells Minerva about Ericthonius's
+    basket.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Pallas enclosed Ericthonius, described as born without a mother, in a basket
+    of Actaean twigs and gave it to three virgins descended from Cecrops with an injunction
+    not to inquire into her secrets.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator says she was hidden in light foliage and watched from a thick
+    elm as the daughters guarded the basket.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Pandrosos and Herse kept the charge faithfully, while Aglauros called them
+    cowards, untied the knots, and revealed a child with a dragon beside him.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The narrator told the Goddess what had happened and says she was then banished
+    from Minerva's protection and placed after the bird of night.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The narrator says she was a royal virgin, daughter of Coroneus, whose beauty
+    caused the Ocean god to desire her; after failed entreaties he prepared to use
+    violence and followed her.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The narrator fled over yielding sand, invoked gods and men, was aided by a
+    virgin, grew black feathers, lost human arms and breast, rose from the ground,
+    and became Minerva's companion.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The narrator says Nyctimene, made a bird for a horrid crime, later succeeded
+    her in honor.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Calisto
+  description: Lycaon's daughter, said to delight in the chase, loved by Jupiter,
+    favored by Diana, and associated with the Bear constellation.
+  role_refs:
+  - role:2
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Lycaon
+  description: Father of Calisto; the explanation says he may have been the first
+    known to notice the Bear constellation particularly.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Jupiter, second of that name
+  description: King of Arcadia who fell in love with Calisto in the explanatory account
+    attributed to Cicero.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Diana
+  description: Goddess whose favor toward Calisto is explained by the story of Jupiter's
+    love for Calisto.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Juno
+  description: Requests that Tethys not receive the new Bear constellation into the
+    Ocean, in the explanatory account.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Tethys
+  description: Recipient of Juno's request not to receive the new constellation into
+    the Ocean.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Arcas
+  description: Son of Calisto, whose youthful death is proposed as a possible origin
+    for the Lesser Bear constellation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Coronis / crow narrator
+  description: A royal virgin, daughter of Coroneus, favorite of Apollo, transformed
+    into a crow; she narrates the basket episode and her own transformation.
+  role_refs:
+  - role:2
+  - role:9
+  - role:10
+  - role:11
+  - role:12
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:9
+  name_or_label: Apollo
+  description: The fable summary calls the virgin who becomes a crow a favorite of
+    Apollo.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: Minerva / Pallas
+  description: Goddess who encloses Ericthonius in a basket, gives it to Cecrops's
+    daughters, forbids inquiry, and later has the transformed narrator as a companion.
+  role_refs:
+  - role:13
+  - role:14
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:9
+- id: fig:11
+  name_or_label: Ericthonius
+  description: An offspring born without a mother, enclosed by Pallas in a basket;
+    later seen inside with a dragon extended by him.
+  role_refs:
+  - role:15
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:12
+  name_or_label: Cecrops
+  description: Described in a footnote as two-shaped because of Egyptian birth and
+    Greek settlement; father or ancestor of the three virgins entrusted with the basket.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:11
+- id: fig:13
+  name_or_label: Pandrosos
+  description: One of the three virgins born of Cecrops; she observes the charge without
+    treachery.
+  role_refs:
+  - role:16
+  - role:17
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:14
+  name_or_label: Herse
+  description: One of the three virgins born of Cecrops; she observes the charge without
+    treachery.
+  role_refs:
+  - role:16
+  - role:17
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:15
+  name_or_label: Aglauros
+  description: One of the three virgins born of Cecrops; she opens the basket by untying
+    its knots.
+  role_refs:
+  - role:16
+  - role:18
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:16
+  name_or_label: God of the Ocean
+  description: A deity who sees the narrator on the seashore, becomes inflamed, entreats
+    her, prepares to use violence, and follows her.
+  role_refs:
+  - role:3
+  - role:19
+  evidence_refs:
+  - ev:8
+- id: fig:17
+  name_or_label: Coroneus
+  description: A famous man in Phocis and father of the crow narrator.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:8
+- id: fig:18
+  name_or_label: Nyctimene
+  description: A figure made a bird for a horrid crime, who the narrator says succeeded
+    her in honor.
+  role_refs:
+  - role:4
+  - role:20
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: parent or ancestor
+  assigned_to:
+  - fig:2
+  - fig:12
+  - fig:17
+  basis: Lycaon is named as Calisto's father, Cecrops as progenitor of the three virgins,
+    and Coroneus as the narrator's father.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+- id: role:2
+  label: royal or notable maiden
+  assigned_to:
+  - fig:1
+  - fig:8
+  basis: Calisto is Lycaon's daughter; the narrator says she was a virgin of royal
+    birth.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:3
+  label: divine lover or pursuer
+  assigned_to:
+  - fig:3
+  - fig:16
+  basis: Jupiter is said to have fallen in love with Calisto; the Ocean god desires
+    and follows the narrator.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:4
+  label: figure associated with transformation into a celestial or bird form
+  assigned_to:
+  - fig:1
+  - fig:7
+  - fig:18
+  basis: Calisto and Arcas are linked with Bear constellations, and Nyctimene is said
+    to have been made a bird.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:10
+- id: role:5
+  label: divine patron or favorite relationship
+  assigned_to:
+  - fig:1
+  - fig:4
+  - fig:8
+  - fig:9
+  basis: Calisto is called favored by Diana; the crow narrator is called a favorite
+    of Apollo.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:6
+  label: astronomical observer in explanatory tradition
+  assigned_to:
+  - fig:2
+  basis: The explanation says Lycaon may have been the first known to take particular
+    notice of the Bear constellation.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: divine requester concerning the constellation
+  assigned_to:
+  - fig:5
+  basis: Juno requests that Tethys not receive the new Bear constellation into the
+    Ocean.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: divine recipient of request
+  assigned_to:
+  - fig:6
+  basis: Tethys is asked not to receive the constellation into the Ocean.
+  evidence_refs:
+  - ev:1
+- id: role:9
+  label: hidden watcher
+  assigned_to:
+  - fig:8
+  basis: The narrator hides in foliage and watches from a thick elm.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: reporter to goddess
+  assigned_to:
+  - fig:8
+  basis: The narrator says she told the Goddess what was done.
+  evidence_refs:
+  - ev:7
+- id: role:11
+  label: punished faithful informant
+  assigned_to:
+  - fig:8
+  basis: The narrator says her fidelity was her ruin and that she was banished from
+    Minerva's protection after reporting the opened basket.
+  evidence_refs:
+  - ev:7
+- id: role:12
+  label: rescued transformed virgin
+  assigned_to:
+  - fig:8
+  basis: The narrator says a virgin helped her while she fled the Ocean god, and she
+    became feathered and airborne.
+  evidence_refs:
+  - ev:9
+- id: role:13
+  label: keeper of divine secret
+  assigned_to:
+  - fig:10
+  basis: Pallas encloses Ericthonius and instructs the virgins not to inquire into
+    her secrets.
+  evidence_refs:
+  - ev:4
+- id: role:14
+  label: divine mistress of bird companion
+  assigned_to:
+  - fig:10
+  basis: The transformed narrator says she was assigned as a faultless companion to
+    Minerva.
+  evidence_refs:
+  - ev:9
+- id: role:15
+  label: motherless enclosed child
+  assigned_to:
+  - fig:11
+  basis: Ericthonius is called an offspring born without a mother and placed in a
+    basket.
+  evidence_refs:
+  - ev:4
+- id: role:16
+  label: entrusted guardian of basket
+  assigned_to:
+  - fig:13
+  - fig:14
+  - fig:15
+  basis: Pallas gives the basket to the three virgins descended from Cecrops to keep.
+  evidence_refs:
+  - ev:4
+- id: role:17
+  label: obedient guardian
+  assigned_to:
+  - fig:13
+  - fig:14
+  basis: Pandrosos and Herse observe their charge without treachery.
+  evidence_refs:
+  - ev:6
+- id: role:18
+  label: transgressing opener
+  assigned_to:
+  - fig:15
+  basis: Aglauros calls her sisters cowards and unties the knots of the basket.
+  evidence_refs:
+  - ev:6
+- id: role:19
+  label: threatening pursuer
+  assigned_to:
+  - fig:16
+  basis: After failed entreaties, the Ocean god prepares to use violence and follows
+    the narrator.
+  evidence_refs:
+  - ev:8
+- id: role:20
+  label: replacement in honor
+  assigned_to:
+  - fig:18
+  basis: The narrator says Nyctimene succeeded her in her honor.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: Bear constellation
+  literal_form: The Constellation of the Bear, into which Calisto is said to have
+    been received in Heaven.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Lesser Bear constellation
+  literal_form: The Constellation of the Lesser Bear, possibly linked with Arcas.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sealed basket
+  literal_form: A basket made of Actaean twigs, containing Ericthonius and given under
+    a prohibition against inquiry.
+  associated_figures:
+  - fig:10
+  - fig:11
+  - fig:13
+  - fig:14
+  - fig:15
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: basket knots
+  literal_form: Knots untied by Aglauros to open the basket.
+  associated_figures:
+  - fig:15
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: child with dragon
+  literal_form: A child seen inside the basket with a dragon extended beside him.
+  associated_figures:
+  - fig:11
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: elm hiding place
+  literal_form: A thick elm with light foliage from which the narrator watches.
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: black feathers
+  literal_form: Black light feathers that grow from the narrator's arms during transformation.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: seashore and yielding sand
+  literal_form: The sea-shore and yielding sand where the Ocean god sees and pursues
+    the narrator.
+  associated_figures:
+  - fig:8
+  - fig:16
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:9
+  label: bird of night
+  literal_form: The bird of the night, after which the narrator says she was placed.
+  associated_figures:
+  - fig:8
+  - fig:18
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: sym:10
+  label: uplift through air
+  literal_form: The narrator is lifted from the ground and carried through the air
+    after transformation.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Explanatory account of Calisto and the Bear
+  summary: The explanation connects Calisto, Lycaon, Jupiter, Diana, Juno, Tethys,
+    and Arcas with stories about the Bear and Lesser Bear constellations and with
+    the Arctic stars not setting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Minerva entrusts the secret basket
+  summary: Pallas places motherless Ericthonius in a basket, entrusts it to Cecrops's
+    three daughters, and instructs them not to look into the secret.
+  figure_refs:
+  - fig:10
+  - fig:11
+  - fig:12
+  - fig:13
+  - fig:14
+  - fig:15
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Aglauros opens the basket
+  summary: The hidden narrator watches from an elm as Pandrosos and Herse obey, but
+    Aglauros unties the basket and the sisters see the child with a dragon.
+  figure_refs:
+  - fig:8
+  - fig:11
+  - fig:13
+  - fig:14
+  - fig:15
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Report and loss of Minerva's favor
+  summary: The narrator reports the opened basket to the Goddess and says that her
+    fidelity results in banishment from Minerva's protection and demotion after the
+    bird of night.
+  figure_refs:
+  - fig:8
+  - fig:10
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Pursuit by the Ocean god and bird transformation
+  summary: The royal virgin narrator is pursued by the Ocean god on the shore, calls
+    for aid, receives help from a virgin, becomes black-feathered, rises into the
+    air, and is assigned to Minerva.
+  figure_refs:
+  - fig:8
+  - fig:10
+  - fig:16
+  - fig:17
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:10
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Nyctimene succeeds in honor
+  summary: The narrator contrasts her own fate with Nyctimene, who was made a bird
+    for a horrid crime and succeeded her in honor.
+  figure_refs:
+  - fig:8
+  - fig:18
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Catasterism into Bear constellations
+  taxonomy_refs:
+  - ascent
+  basis: Calisto is said to be received into Heaven as the Bear constellation, and
+    Arcas is proposed as an origin of the Lesser Bear.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is an explanatory note rather than the full narrative of transformation;
+    the available taxonomy has no specific catasterism category.
+- id: motif:2
+  label: Forbidden inspection of a sealed divine container
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: Pallas gives the basket with an injunction not to inquire into her secrets,
+    and Aglauros opens it despite the charge.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage reports the prohibition and violation, but does not narrate
+    any immediate punishment for Aglauros in this excerpt.
+- id: motif:3
+  label: Motherless child hidden in basket
+  taxonomy_refs:
+  - miraculous_child
+  - sacred_birth
+  basis: Ericthonius is explicitly described as born without a mother and enclosed
+    in a basket by Pallas.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives only a compressed description of Ericthonius's origin
+    and concealment.
+- id: motif:4
+  label: Child accompanied by dragon
+  taxonomy_refs:
+  - serpent
+  basis: When the basket is opened, the viewers see a child with a dragon extended
+    beside him.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy term is serpent; the passage's literal term is dragon.
+- id: motif:5
+  label: Faithful informant punished by divine displacement
+  taxonomy_refs:
+  - divine_judgment
+  basis: The narrator reports the breach to the Goddess but says her fidelity was
+    her ruin and that she was banished from Minerva's protection.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The moral framing is from the narrator's complaint; the passage does not
+    give Minerva's direct speech.
+- id: motif:6
+  label: Virgin pursued by god and rescued through transformation
+  taxonomy_refs:
+  - shapeshifter
+  - divine_beloved
+  basis: The Ocean god desires and pursues the narrator; after she calls for aid,
+    a virgin helps her and she becomes a black-feathered bird.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage describes transformation into a bird but does not explicitly
+    name the assisting virgin in this excerpt.
+- id: motif:7
+  label: Bird transformation after crime or misfortune
+  taxonomy_refs:
+  - shapeshifter
+  - divine_judgment
+  basis: The narrator is changed into a crow after the basket story, and Nyctimene
+    is said to have been made a bird for a horrid crime.
+  evidence_refs:
+  - ev:3
+  - ev:10
+  confidence: medium
+  cautions: Nyctimene's crime is not described in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3609-3622
+  quote_or_summary: Cicero is cited for Lycaon's daughter Calisto, Jupiter's love,
+    her favor with Diana, her reception into Heaven as the Bear constellation, and
+    Juno's request to Tethys explained by Arctic stars never setting.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text supplied; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3624-3626
+  quote_or_summary: Arcas, son of Calisto, may have been the origin of the Lesser
+    Bear constellation after dying young.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text supplied; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3628-3632
+  quote_or_summary: The fable summary says a virgin favorite of Apollo, with the same
+    name as Coronis, is changed into a crow because of a story told to Minerva about
+    Ericthonius's basket.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text supplied; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3636-3642
+  quote_or_summary: Pallas encloses Ericthonius, born without a mother, in a basket
+    of Actaean twigs, gives it to the three virgins descended from Cecrops, and forbids
+    them to inquire into her secrets.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text supplied; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3642-3644
+  quote_or_summary: The narrator says she hid among light foliage and watched from
+    a thick elm.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text supplied; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3644-3648
+  quote_or_summary: Pandrosos and Herse keep the charge faithfully; Aglauros opens
+    the knots, and inside they see a child with a dragon extended beside him.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text supplied; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3648-3655
+  quote_or_summary: The narrator reports the act to the Goddess and says she is banished
+    from Minerva's protection and placed after the bird of night; she warns birds
+    against dangerous chattering.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text supplied; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 3655-3664
+  quote_or_summary: The narrator identifies herself as a royal virgin, daughter of
+    Coroneus, and says the Ocean god saw her on the shore, desired her, entreated
+    her, prepared violence, and followed her.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text supplied; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 3664-3672
+  quote_or_summary: The narrator flees over yielding sand, calls on gods and men,
+    is aided by a virgin, grows black feathers, loses human hands and breast, rises
+    from the ground, and becomes Minerva's faultless companion.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text supplied; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 3672-3674
+  quote_or_summary: The narrator says Nyctimene, made a bird for a horrid crime, has
+    succeeded her in honor.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text supplied; summarized.
+- id: ev:11
+  type: summary
+  locator: footnote 71
+  quote_or_summary: The footnote explains Cecrops as two-shaped because he was born
+    in Egypt and settled in Greece, belonging to both Egyptians and Greeks.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text supplied; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels use available
+    taxonomy where directly or reasonably supported; no cross-tradition comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All observations and motif candidates are grounded in the supplied passage and metadata; comparison_claims left empty because the passage does not itself support a specific comparative claim beyond internal explanatory references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l3609-l3674
+  passage_sha256=26033d0cbf348cead6f5691eec161d4dff9c39c195230ae718ba2b6f20ca510a
+

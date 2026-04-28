@@ -1,0 +1,553 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l6074-l6148
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK EIGHTH / THE EMBASSAGE TO EVANDER / BOOK NINTH / THE SIEGE OF THE TROJAN
+    CAMP; lines 6074-6148
+  start: '6074'
+  end: '6148'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: During the siege of the Trojan camp, Turnus and the Italians attack a defensive
+    tower. Fire brings the tower down, Helenor rushes into certain death, Lycus is
+    seized while trying to escape, and many warriors are killed. Ascanius then makes
+    his first wartime shot, killing the Numanian Remulus after Remulus boasts of his
+    people's hard upbringing and taunts the Trojans as effeminate followers of Idaean
+    cult music.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A large tower with gangways stands at a point of vantage, attacked by Italians
+    and defended by Trojans with stones and darts.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Turnus throws a blazing torch; wind-swollen flame catches the planking and
+    the tower collapses under the crowd inside.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Trojans within the falling tower are pierced by their own weapons or impaled
+    on wooden splinters.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Helenor, lightly armed and encircled by Latin ranks, rushes toward the thickest
+    weapons and dies among the enemy.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Lycus flees along the walls and tries to grasp the coping and the hands of
+    comrades, but Turnus seizes him and tears him away with part of the wall.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The attackers fill trenches with earth and throw glowing brands on roofs;
+    several named warriors kill or are killed in rapid succession.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The son of Arcens is described as splendidly armed and nurtured in a grove
+    near the streams of Symaethus; Mezentius kills him with a sling bullet.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Ascanius, previously accustomed to shooting animals in the hunt, first aims
+    a flying shaft in war and kills Remulus.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Remulus boasts that his people harden newborn children in icy streams, train
+    boys in hunting, and train men for poverty, agriculture, and war.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Remulus taunts the Trojans as wearers of bright embroidered clothing, sleeved
+    tunics, and turbans, and tells them to go to Dindymus with flutes and drums rather
+    than bear arms.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Italians / Latins
+  description: The attacking forces storming the Trojan tower and camp.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Trojans / Phrygians
+  description: The defending forces in the tower and camp, later addressed mockingly
+    by Remulus as Phrygians.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:3
+  name_or_label: Turnus
+  description: Leader in the attack who throws the torch, pursues Lycus, and kills
+    several warriors.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Helenor
+  description: A lightly armed young warrior, secretly born to a slave woman and sent
+    to Troy, who rushes to death among the enemy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Lycus
+  description: A swift fugitive from the tower who tries to reach comrades on the
+    wall but is seized by Turnus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Ascanius
+  description: A Trojan youth who makes his first wartime shot and kills Remulus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Remulus / the Numanian
+  description: A warrior recently allied by marriage to Turnus' younger sister, who
+    boasts before his ranks and is killed by Ascanius.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: Mezentius
+  description: A warrior who kills the son of Arcens with a sling bullet.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Son of Arcens
+  description: A beautiful boy, splendidly armed and wearing an embroidered scarf,
+    sent by his father Arcens and killed by Mezentius.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: Mother of Ida
+  description: A divine or cultic maternal figure mentioned by Remulus in connection
+    with Dindymus, drums, and Berecyntian boxwood.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: attacking force
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The Italians storm the tower, and Turnus leads the attack.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: defending force
+  assigned_to:
+  - fig:2
+  basis: The Trojans defend the tower with stones and darts through loopholes.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: assault leader and killer
+  assigned_to:
+  - fig:3
+  basis: Turnus throws the torch, pursues Lycus, and is named among those killing
+    multiple warriors.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: warrior choosing death in encirclement
+  assigned_to:
+  - fig:4
+  basis: Helenor, surrounded by Latin ranks, rushes where weapons are thickest.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: fleeing survivor seized at the wall
+  assigned_to:
+  - fig:5
+  basis: Lycus tries to climb to comrades but Turnus tears him away.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: first-time wartime archer
+  assigned_to:
+  - fig:6
+  basis: Ascanius is said to have first aimed his flying shaft in war, after formerly
+    using it in the chase.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: boaster and taunter
+  assigned_to:
+  - fig:7
+  basis: Remulus advances before his ranks and delivers a speech mocking the Trojans
+    before being killed.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:8
+  label: slinger
+  assigned_to:
+  - fig:8
+  basis: Mezentius whirls a sling and pierces the son of Arcens with a molten bullet.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: slain splendid youth
+  assigned_to:
+  - fig:9
+  basis: The son of Arcens is richly described before Mezentius kills him.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: cultic maternal figure mentioned in taunt
+  assigned_to:
+  - fig:10
+  basis: Remulus refers to the music and instruments of the mother of Ida while insulting
+    the Trojans.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: fire as siege weapon
+  literal_form: blazing torch, flame, glowing brands
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: tower and wall
+  literal_form: lofty tower, loopholes, wall coping, roofs, trenches
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: weapons and iron
+  literal_form: stones, darts, sword, shield, spears, javelin, arrow, sling bullet,
+    helmet, iron
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: mountain and height
+  literal_form: fragment of mountain rock; heights of Dindymus
+  associated_figures:
+  - fig:2
+  - fig:7
+  - fig:10
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:5
+  label: hardening water
+  literal_form: streams and bitter icy water used for newborn children
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: cult music instruments
+  literal_form: double-mouthed flute, drums, Berecyntian boxwood
+  associated_figures:
+  - fig:7
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: sacred grove and altar
+  literal_form: grove of Our Lady near the streams of Symaethus; Palicus' altar
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Burning and collapse of the tower
+  summary: The Italians assault a Trojan tower. Turnus throws a torch; wind-driven
+    fire catches the structure, the occupants crowd away from it, and the tower collapses,
+    wounding and killing those inside.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fates of Helenor and Lycus
+  summary: Helenor, encircled, charges into certain death, while Lycus attempts to
+    escape by the wall and is seized by Turnus.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Close combat at the camp
+  summary: The attackers continue the siege by filling trenches and throwing firebrands;
+    several warriors are killed, including the son of Arcens, who is struck by Mezentius'
+    sling bullet.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Ascanius kills Remulus after the taunt
+  summary: Remulus boasts of the hard life and martial training of his people and
+    mocks Trojan dress and cultic associations. Ascanius, making his first wartime
+    shot, kills him.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:7
+  - fig:10
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: siege tower destroyed by fire
+  taxonomy_refs: []
+  basis: The assault centers on a fortified tower, and Turnus' torch causes the structure
+    to burn and collapse.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a local battlefield motif, not a cosmic or world-destroying fire
+    pattern.
+- id: motif:2
+  label: warrior rushes into certain death when surrounded
+  taxonomy_refs: []
+  basis: Helenor, surrounded by enemy ranks, deliberately rushes where weapons are
+    thickest.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage frames the act through an animal simile, but no broader ritual
+    or resurrection pattern is present.
+- id: motif:3
+  label: first act of warfare after hunting practice
+  taxonomy_refs:
+  - initiation
+  basis: Ascanius is explicitly described as formerly using the bow against beasts
+    and now first aiming a shaft in war, killing Remulus.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The text does not explicitly call this a rite; the initiation reading
+    is functional and should be reviewed.
+- id: motif:4
+  label: martial hardening of children in water
+  taxonomy_refs:
+  - initiation
+  basis: Remulus claims his people carry newborn children to streams and harden them
+    in icy water as part of a life of hunting, toil, and war.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This occurs in an enemy's boastful speech and may be rhetorical rather
+    than a neutral ethnographic description.
+- id: motif:5
+  label: ethnic taunt opposing martial masculinity to luxurious cultic softness
+  taxonomy_refs: []
+  basis: Remulus contrasts his people's iron, toil, and plunder with Trojan embroidered
+    clothing, dance, turbans, flutes, drums, and the mother of Ida.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The motif is a rhetorical insult in battle speech; it should not be treated
+    as a factual description of the Trojans.
+comparison_claims:
+- id: claim:1
+  claim: Ascanius' first wartime shot has the same functional shape as an initiation
+    pattern, moving from the hunt to combat and producing a first kill.
+  claim_level: same_function
+  target: initiation motif family
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not describe a formal rite or social recognition ceremony.
+- id: claim:2
+  claim: The claimed hardening of newborns in icy streams functions like a martial
+    initiation or toughness-training pattern centered on water exposure.
+  claim_level: same_function
+  target: initiation motif family with water symbol
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:7
+  confidence: low
+  limitations: The description is embedded in Remulus' polemical self-praise and ethnic
+    taunt, so it may be exaggerated rhetoric.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6074-6090
+  quote_or_summary: A vantage tower is stormed by Italians and defended by Trojans;
+    Turnus throws a blazing torch, the wind drives the fire into the planking, and
+    the tower collapses on its occupants.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain; Project Gutenberg Mackail translation, full text allowed.
+- id: ev:2
+  type: summary
+  locator: 6091-6110
+  quote_or_summary: Helenor, surrounded by Latin ranks, rushes toward the densest
+    weapons; Lycus tries to escape by the wall, but Turnus seizes him and tears him
+    away with part of the wall.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain; Project Gutenberg Mackail translation, full text allowed.
+- id: ev:3
+  type: summary
+  locator: 6111-6123
+  quote_or_summary: The besiegers fill trenches and throw brands on roofs; a sequence
+    of named combatants kill or are killed with rocks, javelins, arrows, and other
+    weapons.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain; Project Gutenberg Mackail translation, full text allowed.
+- id: ev:4
+  type: summary
+  locator: 6124-6133
+  quote_or_summary: The son of Arcens appears in bright arms and embroidered blue
+    scarf, associated with a grove near Symaethus and Palicus' altar; Mezentius kills
+    him with a sling bullet between the temples.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain; Project Gutenberg Mackail translation, full text allowed.
+- id: ev:5
+  type: summary
+  locator: 6134-6139
+  quote_or_summary: Ascanius, previously accustomed to frightening beasts in the chase,
+    first aims his shaft in war and strikes down the Numanian Remulus, newly allied
+    by marriage to Turnus' sister.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain; Project Gutenberg Mackail translation, full text allowed.
+- id: ev:6
+  type: summary
+  locator: 6140-6145
+  quote_or_summary: Remulus boasts that his people harden newborn children in bitter
+    icy water, train boys in hunting, endure toil and poverty, work the soil, wage
+    war, wear iron, and live by plunder.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain; Project Gutenberg Mackail translation, full text allowed.
+- id: ev:7
+  type: summary
+  locator: 6146-6148
+  quote_or_summary: Remulus mocks the Trojans for embroidered saffron and purple clothing,
+    dance, sleeved tunics, and turbans, and tells them to go to Dindymus with flute,
+    drums, and the mother of Ida rather than bear arms.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain; Project Gutenberg Mackail translation, full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main battlefield actions and speeches are explicit. Motif labels involving
+    initiation are interpretive and should be reviewed, especially because Remulus'
+    speech is polemical.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used; no external identifications or unstated comparisons were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l6074-l6148
+  passage_sha256=107d62328a4cc646c41ec8a4f30c835cce66c5f2643f80497d2284b2342365c1
+

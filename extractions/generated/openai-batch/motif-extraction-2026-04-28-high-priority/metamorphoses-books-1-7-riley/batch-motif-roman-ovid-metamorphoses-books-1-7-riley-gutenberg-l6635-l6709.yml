@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l6635-l6709
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 6635-6709
+  start: '6635'
+  end: '6709'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"they are no more two, and their form is twofold"'
+  summary: Salmacis pretends to leave, hides, watches the youth Hermaphroditus enter
+    the water, then enters the stream and clings to him against his resistance. She
+    prays that they never be separated; the gods unite their bodies into a single
+    twofold form. Hermaphroditus asks his parents that any man entering the stream
+    become half male, and the parents alter the fountain accordingly.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Salmacis tells the stranger she gives up the spot, then hides in shrubs and
+    watches him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The youth enters the water, tests it with his feet, removes his garments,
+    and swims in the clear stream.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Salmacis is described as burning with desire for the youth's naked beauty.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Salmacis throws aside her garments, plunges into the water, seizes the resisting
+    youth, kisses and touches him against his will, and clings to him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Her clinging is compared to a serpent holding fast to a bird, ivy winding
+    around tree trunks, and a polypus holding its enemy under water.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Salmacis prays that no time separate him from her or her from him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The deities answer the prayer by uniting the two mingled bodies into one human
+    shape.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The resulting form is described as neither woman nor boy, and as both.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Hermaphroditus asks his father and mother that any man entering the streams
+    leave half a man and become effeminate in the waters.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Both parents assent and taint the fountain with drugs of ambiguous quality.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Salmacis
+  description: A Naiad or Nymph who desires Hermaphroditus, enters the water, seizes
+    him, clings to him, and prays that they not be separated.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Hermaphroditus
+  description: The youth called the descendant of Atlas and later the two-shaped son;
+    he resists Salmacis, is united with her into one form, and petitions his parents
+    about the stream.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: propitious Deities
+  description: Deities who answer Salmacis' prayer by uniting the mingled bodies.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: father and mother of Hermaphroditus
+  description: The parents addressed by Hermaphroditus, who assent and alter the fountain.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: desiring pursuer
+  assigned_to:
+  - fig:1
+  basis: Salmacis burns with desire, enters the water, seizes the resisting youth,
+    and clings to him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: petitioner for inseparable union
+  assigned_to:
+  - fig:1
+  basis: Salmacis asks the gods to let no time separate the two.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: resisting youth
+  assigned_to:
+  - fig:2
+  basis: The youth is repeatedly described as resisting and desiring to escape Salmacis.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: transformed two-shaped son
+  assigned_to:
+  - fig:2
+  basis: After the union, he is described as no longer fully male and as the two-shaped
+    son.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: divine responders
+  assigned_to:
+  - fig:3
+  basis: The deities are said to find Salmacis' prayers propitious and unite the bodies.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: parental grantors
+  assigned_to:
+  - fig:4
+  basis: Both parents are moved, assent to their son's words, and alter the fountain.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: transforming water
+  literal_form: limpid waters, stream, fountain
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: serpent image of constricting embrace
+  literal_form: a serpent held by a royal bird that holds fast the bird's head and
+    feet and enfolds its wings with its tail
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: entwined plant image
+  literal_form: ivy winding along tall tree trunks and branches joining beneath a
+    common bark
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: ambiguous drugs in the fountain
+  literal_form: drugs of ambiguous quality used to taint the fountain
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Salmacis watches Hermaphroditus enter the stream
+  summary: Salmacis pretends to leave, hides in shrubs, and watches the youth test
+    and enter the waters; she is described as intensely desiring him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Salmacis seizes and clings to the resisting youth
+  summary: Salmacis enters the water, grasps the youth against his will, and clings
+    to him while the narration compares the embrace to a serpent, ivy, and a polypus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Prayer and bodily union
+  summary: Salmacis prays that she and the youth never be separated; the deities answer
+    by making the two bodies one twofold form.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Hermaphroditus' petition about the fountain
+  summary: Hermaphroditus asks his parents that men entering the stream become half
+    male; the parents assent and alter the fountain with ambiguous drugs.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: inseparable bodily union of two persons into one form
+  taxonomy_refs:
+  - annihilation_union
+  basis: Salmacis prays for permanent inseparability, and the two bodies are united
+    into one twofold human shape.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The taxonomy label is applied to the described union; the passage does
+    not use the abstract term.
+- id: motif:2
+  label: transformation through entering enchanted water
+  taxonomy_refs:
+  - shapeshifter
+  basis: Hermaphroditus says the waters made him half male and asks that future men
+    entering the stream be similarly changed; his parents taint the fountain.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The transformation is caused by water and divine alteration, not by voluntary
+    shape-shifting.
+- id: motif:3
+  label: divine granting of a transformative petition
+  taxonomy_refs: []
+  basis: The deities grant Salmacis' prayer for union, and Hermaphroditus' parents
+    grant his request concerning the stream.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No more specific supplied taxonomy reference is directly named for this
+    pattern.
+- id: motif:4
+  label: clinging or binding embrace figured through serpent and plant imagery
+  taxonomy_refs:
+  - serpent
+  basis: The resisting embrace is described through images of a serpent enfolding
+    a bird and ivy winding around tree trunks.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The serpent and ivy are similes, not literal beings or objects in the
+    action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6635-6656
+  quote_or_summary: Salmacis claims to yield the place, hides in shrubs, watches the
+    youth enter the pleasant waters, and is inflamed by his naked beauty.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6657-6680
+  quote_or_summary: Salmacis enters the water, seizes the resisting youth, kisses
+    and touches him against his will, and clings to him; the passage compares the
+    clinging to a serpent, ivy on trees, and a polypus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 6681-6691
+  quote_or_summary: Salmacis prays that no time separate them; the prayer is answered,
+    their bodies are united, and "they are no more two, and their form is twofold."
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 6692-6700
+  quote_or_summary: Hermaphroditus says the waters made him half male and asks his
+    father and mother that any man entering them leave half a man; both parents assent
+    and taint the fountain with ambiguous drugs.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main figures, actions, and water-transformation pattern are explicit.
+    Motif-family mapping is cautious where the supplied taxonomy does not exactly
+    name Ovidian metamorphosis or coerced union.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Footnotes within the supplied line range were not used because they do not directly describe the Salmacis and Hermaphroditus episode in this passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l6635-l6709
+  passage_sha256=c31747575c6677453f0501d28298b6408eeba76ddf549d5b2971e40771992ed5
+

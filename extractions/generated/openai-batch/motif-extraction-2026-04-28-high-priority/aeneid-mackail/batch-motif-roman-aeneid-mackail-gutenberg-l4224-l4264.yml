@@ -1,0 +1,408 @@
+---
+record_id: batch.motif.roman-aeneid-mackail-gutenberg-l4224-l4264
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+passage_locator:
+  label: BOOK FIFTH / THE GAMES OF THE FLEET / BOOK SIXTH / THE VISION OF THE UNDER
+    WORLD; lines 4224-4264
+  start: '4224'
+  end: '4264'
+  translation: The Aeneid of Virgil
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In the underworld vision, Aeneas asks Anchises about a beautiful armed
+    youth overshadowed by darkness. Anchises weeps and identifies the figure as Marcellus,
+    a destined but short-lived glory of Rome, then offers funerary flowers. Anchises
+    guides Aeneas through the vaporous plains, explains future wars and peoples, and
+    sends Aeneas and the Sibyl out through the ivory gate of Sleep; Aeneas returns
+    to his ships and reaches Caieta's haven.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Aeneas sees an armed youth of notable beauty and downcast expression walking
+    near another figure in the visionary procession.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Aeneas asks Anchises who the youth is and notes the dark Night or melancholy
+    shade around his head.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Anchises weeps and says the youth will be shown to earth by fate but will
+    not be allowed to remain long.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Anchises names the youth as Marcellus and calls for lilies and bright blossoms
+    to be strewn as gifts for his descendant's soul.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Anchises leads Aeneas through the broad vaporous plains, shows him the region,
+    and instructs him about coming war, peoples, and tasks.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: 'Two portals of Sleep are described: one of horn for real shadows and one
+    of polished ivory for false visions from the ghostly world.'
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Anchises sends Aeneas and the Sibyl out by the ivory gate, after which Aeneas
+    returns to his ships and reaches Caieta's haven.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Aeneas
+  description: Son of Anchises who asks about the armed youth, is guided through the
+    underworld region, and returns to the ships.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Anchises
+  description: Aeneas' father, who explains the sorrowful destiny of Marcellus, guides
+    Aeneas, instructs him, and dismisses him and the Sibyl through the ivory gate.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Marcellus
+  description: A beautiful armed youth, associated with Rome, great promise, martial
+    prowess, early death, and funerary blossoms.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Sibyl
+  description: Companion of Aeneas whom Anchises dismisses together with Aeneas by
+    the ivory gate.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Tiber
+  description: River addressed by Anchises as flowing by the new-made grave and witnessing
+    the funeral train.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: Aeneas asks Anchises to identify the youth in the vision.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: underworld visitor returning to ships
+  assigned_to:
+  - fig:1
+  basis: Aeneas is led through the ghostly region and later pursues his way back to
+    the ships.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: father-guide
+  assigned_to:
+  - fig:2
+  basis: Anchises is addressed as father and leads Aeneas through the region while
+    explaining what he sees.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: prophetic instructor
+  assigned_to:
+  - fig:2
+  basis: Anchises tells Aeneas of coming war, peoples, and ways tasks may be turned
+    aside or borne.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: doomed descendant
+  assigned_to:
+  - fig:3
+  basis: Anchises calls Marcellus his descendant's soul and says fate will show him
+    to earth but not allow him to stay.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: promised warrior
+  assigned_to:
+  - fig:3
+  basis: The youth is described as glittering in arms, invincible in war, and unmatched
+    by other boys of Ilian race or fosterlings of Romulus.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:7
+  label: companion at exit
+  assigned_to:
+  - fig:4
+  basis: The Sibyl is dismissed with Aeneas by the ivory gate.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: dark Night around the head
+  literal_form: dark Night or melancholy shade fluttering round the youth's head
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: funerary flowers
+  literal_form: lilies and bright blossoms strewn as gifts for the descendant's soul
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: vaporous plains
+  literal_form: broad vaporous plains of the ghostly region
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: twin portals of Sleep
+  literal_form: one portal of horn and one portal of polished ivory
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: ivory gate of false visions
+  literal_form: shining white portal of polished ivory through which false visions
+    issue upward
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: ships and haven
+  literal_form: ships, anchor, beach, and Caieta's haven
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Aeneas sees the shadowed youth
+  summary: Aeneas observes a beautiful armed youth with downcast eyes and a dark shade
+    around his head, then asks Anchises who he is.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Anchises laments Marcellus
+  summary: Anchises weeps, explains the youth's brief destined appearance on earth,
+    praises his Roman promise and martial qualities, names him Marcellus, and calls
+    for flowers for his soul.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Instruction in the underworld plains
+  summary: Anchises guides Aeneas through the vaporous plains, kindles his spirit
+    with future glories, and instructs him about coming wars and peoples.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Exit through the ivory gate
+  summary: The two portals of Sleep are described, and Anchises dismisses Aeneas and
+    the Sibyl through the ivory gate before Aeneas returns to the ships and reaches
+    Caieta's haven.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: hero visits the underworld and returns
+  taxonomy_refs:
+  - hero_descent
+  - afterlife_journey_map
+  - return
+  basis: Aeneas is guided through a ghostly underworld region, receives instruction
+    there, is dismissed through a gate, and returns to his ships.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This passage covers only the final part of the underworld visit rather
+    than the whole descent.
+- id: motif:2
+  label: prophetic revelation of future descendants
+  taxonomy_refs:
+  - wisdom
+  - royal_legitimacy
+  basis: Anchises shows Aeneas future Roman glory and the doomed descendant Marcellus,
+    linking Aeneas' lineage to Rome's destiny.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage emphasizes lament and instruction more than a formal royal
+    legitimation ritual.
+- id: motif:3
+  label: doomed youth of great promise
+  taxonomy_refs:
+  - death_rebirth
+  basis: Marcellus is depicted as exceptionally beautiful, martial, and hopeful for
+    Rome, yet destined only briefly for life and mourned with funeral gifts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy has no exact doomed-youth category; death_rebirth
+    is only approximate because no rebirth is described.
+- id: motif:4
+  label: true and false gates of dream or vision
+  taxonomy_refs:
+  - duality
+  basis: 'The passage contrasts twin portals of Sleep: horn for real shadows and ivory
+    for false visions, with the travelers exiting through the ivory gate.'
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is broad; the specific gate-of-dreams motif is
+    not listed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4224-4232
+  quote_or_summary: Aeneas sees a beautiful armed youth with little cheer and downcast
+    eyes, asks Anchises who he is, and notes dark Night fluttering round his head.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: 4233-4245
+  quote_or_summary: Anchises weeps, says the youth is a great sorrow for his people,
+    will only be shown to earth briefly by fate, and will be mourned by Rome near
+    the Tiber.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: 4245-4254
+  quote_or_summary: Anchises praises the youth's virtue and martial prowess, says
+    he will be Marcellus if he can break fate, and asks for lilies and blossoms as
+    gifts for his descendant's soul.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: 4255-4260
+  quote_or_summary: Anchises and Aeneas wander through the broad vaporous plains;
+    Anchises shows the whole scene, kindles Aeneas' spirit with coming glories, and
+    instructs him about future wars, peoples, and tasks.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: 4261-4263
+  quote_or_summary: 'Twin portals of Sleep are described: horn gives outlet to real
+    shadows, while polished ivory sends false visions upward from the ghostly world.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: 4263-4264
+  quote_or_summary: Anchises dismisses Aeneas and the Sibyl through the ivory gate;
+    Aeneas returns to his ships, goes to Caieta's haven, casts anchor, and grounds
+    the sterns on the beach.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-mackail.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Passage-level figures, symbols, and scenes are explicit. Some motif taxonomy
+    mappings are approximate because the supplied list lacks exact categories for
+    Marcellus' early death and the gates of dreams.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this material to another tradition or motif family beyond its own imagery and narrative pattern.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-aeneid-mackail-gutenberg__l4224-l4264
+  passage_sha256=fb26e42c3233b2e800a5b47757b1d0cb0d8d1239f070750e0d92586cf99182d9
+

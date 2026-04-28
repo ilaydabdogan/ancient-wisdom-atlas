@@ -1,0 +1,439 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l2999-l3129
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / BOOK THE SECOND.; lines 2999-3129
+  start: '2999'
+  end: '3129'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Annotative footnotes identify mountains, fountains, and rivers named in
+    the surrounding poem and give mythic associations: sacred mountains, births of
+    Apollo and Diana, deaths or dismemberments linked with Hercules, Orpheus, and
+    Pentheus, fires associated with Phaethon, and transformations of Dirce and Amymone
+    into fountains.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Several mountains are identified by location and by mythic or cult association,
+    including Œta, Ida, Helicon, Hæmus, Ætna, Eryx, Cynthus, Dindyma, and Cithæron.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: obs:2
+  text: The note on Ætna states that flames caused by the fall of Phaëton added to
+    the mountain’s own volcanic flames and redoubled them.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage reports an ancient explanation that heat from fire altered the
+    appearance of African or Indian peoples.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Orpheus is said to have been torn in pieces by Maenads on Hæmus, and Pentheus
+    is said to have been torn to pieces by Maenads near Cithæron.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: Dirce and Amymone are described as figures who were transformed into fountains.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: The Xanthus river is described as destined to see flames a second time in
+    the conflagration of Troy.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: Multiple rivers and springs are identified by geography, including Tanais,
+    Caïcus, Ismenus, Erymanthus, Xanthus, Lycormas, Mæander, Melas, Eurotas, Orontes,
+    Thermodon, Ganges, and Phasis.
+  category: setting
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Phaëton
+  description: Named as the figure whose fall caused flames affecting Ætna.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Hercules
+  description: Associated with death on one ridge of Œta.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Orpheus
+  description: Son of Œagrus and Calliope; said to have been torn in pieces by the
+    Maenads on Hæmus.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Maenads
+  description: Bacchanalian women said to have torn Orpheus and Pentheus to pieces.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Pentheus
+  description: Said to have been torn to pieces by the Maenads near Cithæron for slighting
+    Bacchus’ worship.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Bacchus
+  description: His orgies were celebrated at Cithæron, and Pentheus is said to have
+    slighted his worship.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Apollo and Diana
+  description: Said to have been born on Cynthus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Cybele
+  description: Described as the mother of the Gods; Dindyma is said to be sacred to
+    her.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Dirce
+  description: Wife of Lycus, king of Thebes; said to have been transformed into a
+    Bœotian fountain.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Amymone
+  description: Daughter of Lycus, king of the Argives; said to have been transformed
+    into a fountain near Lerna.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: falling figure associated with destructive fire
+  assigned_to:
+  - fig:1
+  basis: The note attributes flames affecting Ætna to Phaëton’s fall.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: hero associated with mountain death
+  assigned_to:
+  - fig:2
+  basis: Œta is described as famed for Hercules’ death on one of its ridges.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: victim of dismemberment
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: Orpheus and Pentheus are both said to have been torn in pieces by Maenads.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: agents of dismemberment
+  assigned_to:
+  - fig:4
+  basis: The Maenads are named as the women who tore Orpheus and Pentheus to pieces.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: deity whose worship is associated with Cithæron
+  assigned_to:
+  - fig:6
+  basis: Cithæron is described as famous for Bacchus’ orgies, and Pentheus is said
+    to have slighted his worship.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: divine twins or pair born on a mountain
+  assigned_to:
+  - fig:7
+  basis: Cynthus is described as the mountain on which Apollo and Diana were said
+    to have been born.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: mother goddess associated with sacred mountain
+  assigned_to:
+  - fig:8
+  basis: Dindyma is described as sacred to Cybele, the mother of the Gods.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: figure transformed into fountain
+  assigned_to:
+  - fig:9
+  - fig:10
+  basis: Dirce and Amymone are each said to have been transformed into fountains.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: Named mountains including Œta, Ida, Helicon, Hæmus, Ætna, Eryx, Cynthus,
+    Dindyma, and Cithæron
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: fire
+  literal_form: Flames associated with Phaëton’s fall, Ætna, heat affecting peoples,
+    and the later conflagration of Troy
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: sym:3
+  label: water source
+  literal_form: Fountains, springs, and rivers, including Dirce, Amymone, Pyrene,
+    Xanthus, Mæander, Eurotas, Ganges, and Phasis
+  associated_figures:
+  - fig:9
+  - fig:10
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Mountains with mythic associations
+  summary: The notes identify named mountains and connect them with sacred status,
+    divine birth, death, cult activity, or volcanic fire.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Phaëton’s fire affecting geography and peoples
+  summary: Phaëton’s fall is linked to intensified flames on Ætna, while a related
+    note reports ancient explanations of darkened peoples through proximity to fire
+    or solar heat.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Transformation into fountains
+  summary: Dirce and Amymone are each described as having been transformed into fountains
+    associated with Bœotia and Argos near Lerna.
+  figure_refs:
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Rivers with mythic and geographic notes
+  summary: The notes identify numerous rivers, including Xanthus, which is said to
+    be destined to behold flames again in Troy’s conflagration.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: destructive fire spreading across landscape
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: The passage links Phaëton’s fall with flames that intensify Ætna’s volcanic
+    fire and separately mentions the future conflagration of Troy.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: medium
+  cautions: The excerpt is a set of footnotes, not the full narrative of Phaëton’s
+    catastrophe; the world-scale scope is only indirectly represented here.
+- id: motif:2
+  label: metamorphosis into water source
+  taxonomy_refs:
+  - shapeshifter
+  basis: Dirce and Amymone are each said to have been transformed into fountains.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The transformations are reported briefly in explanatory notes, with no
+    narrative details or agency stated.
+- id: motif:3
+  label: sacred or deity-associated mountain
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: Several mountains are described as sacred to or associated with deities and
+    cults, including Helicon with the Muses, Eryx with Venus, Cynthus with Apollo
+    and Diana, Dindyma with Cybele, and Cithæron with Bacchus.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: The passage supports sacred mountain associations, but does not explicitly
+    present these mountains as cosmic axes or world centers.
+- id: motif:4
+  label: mother goddess
+  taxonomy_refs:
+  - mother_goddess
+  basis: Cybele is explicitly described as the mother of the Gods, and Dindyma is
+    said to be sacred to her.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The note is brief and gives no narrative episode involving Cybele.
+- id: motif:5
+  label: ritual punishment through dismemberment
+  taxonomy_refs: []
+  basis: Orpheus and Pentheus are both said to have been torn to pieces by Maenads;
+    Pentheus’ death is linked to slighting Bacchus’ worship.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage supplies only footnote summaries and not the full ritual or
+    narrative context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2999-3017; footnotes 13-16
+  quote_or_summary: Œta is described as a mountain chain famed for Hercules’ death;
+    Ida is associated with springs; Helicon is sacred to the Muses; Hæmus is linked
+    to Orpheus’ dismemberment.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3018-3020; footnote 17
+  quote_or_summary: Ætna is identified as Sicily’s volcanic mountain, and the flames
+    caused by Phaëton’s fall are said to have redoubled its own flames.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3046-3054; footnote 28
+  quote_or_summary: A note reports the ancient view that the blackness of African
+    peoples, and in Hyginus’ account Indians, was caused by heat or proximity to fire.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3021-3038; footnotes 18-23
+  quote_or_summary: Eryx is associated with a temple of Venus; Cynthus with the births
+    of Apollo and Diana; Dindyma with Cybele, mother of the Gods; other mountains
+    are geographically identified.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3012-3017 and 3039-3043; footnotes 16 and 24
+  quote_or_summary: Orpheus is said to have been torn apart by Maenads on Hæmus; Cithæron
+    is famous for Bacchus’ orgies, and Pentheus is said to have been torn apart by
+    Maenads for slighting Bacchus’ worship.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3060-3070; footnotes 30-32
+  quote_or_summary: Dirce is described as transformed into a Bœotian fountain; Amymone
+    as transformed into a fountain near Lerna; Ephyre/Corinth is associated with the
+    bright spring Pyrene sacred to the Muses.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3071-3097; footnotes 33-41
+  quote_or_summary: Several rivers are identified geographically; Xanthus is noted
+    as destined to see flames a second time in Troy’s conflagration; Mæander is noted
+    for its many windings; Melas for dark waters.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 3098-3129; footnotes 42-45
+  quote_or_summary: Orontes, Thermodon, Ganges, and Phasis are identified as rivers,
+    with Thermodon associated with the Amazons.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage consists of explanatory footnotes rather than a continuous myth
+    narrative; motifs are therefore extracted from brief mythic associations and should
+    be checked against the surrounding Ovidian text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself develop an explicit cross-textual comparison beyond brief references to named mythic traditions and figures.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l2999-l3129
+  passage_sha256=53bf25f4e726a105a87bbc5d6a48c1c52c2c17bb0f37cb74cdab5a17bb2ef14d
+

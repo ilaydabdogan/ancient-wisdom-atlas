@@ -1,0 +1,557 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l1712-l1812
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 1712-1812
+  start: '1712'
+  end: '1812'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The explanatory note describes Deucalion’s flood, refuge on Mount Parnassus,
+    the tradition of stone-born descendants, later worship, and genealogy. The following
+    fable describes the Earth, warmed after the deluge, generating animals and monsters,
+    including the serpent Python, whom Apollo kills with arrows before founding the
+    Pythian games.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A great rainfall overflows Thessaly after the river Peneus is stopped, and
+    Deucalion with some subjects flees to Mount Parnassus until the waters abate.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage explains the poet’s stones as the children of those preserved,
+    with a proposed wordplay involving terms for stone, child, or people.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Deucalion is said to build a temple to Jupiter at Athens and institute sacrifices
+    in Jupiter’s honor.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After death, Deucalion receives the honor of a temple and is worshipped as
+    a divinity.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Earth, warmed by the sun after moisture and mud, produces animals and
+    monsters.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The passage compares this generation to Nile mud after the river returns to
+    its channel and the sun heats the oozy fields.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: obs:7
+  text: Python is described as an enormous unheard-of serpent, a terror to the new
+    race of men, and so large that he occupies a vast part of a mountain.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Apollo, the bow-bearing god, kills Python with many arrows as venom oozes
+    through black wounds.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Apollo institutes sacred games called Pythia from the name of the conquered
+    serpent.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Victors in boxing, running, or chariot-racing receive crowns of beechen leaves
+    before the laurel exists as Apollo’s usual garland.
+  category: object
+  evidence_refs:
+  - ev:6
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Deucalion
+  description: King of Thessaly who survives the flood by fleeing to Mount Parnassus,
+    later builds a temple to Jupiter, and is worshipped as a divinity after death.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Deucalion’s preserved subjects
+  description: Some subjects who flee with Deucalion to Mount Parnassus and remain
+    until the waters abate.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Pyrrha
+  description: Wife of Deucalion and daughter of Epimetheus, mentioned in the genealogical
+    note.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Earth
+  description: Personified Earth brings forth animals, former shapes, and new monsters
+    after mud and moisture are heated by the sun.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Python
+  description: An enormous unheard-of serpent produced by Earth after the deluge;
+    he terrifies the new race of men and is killed by Apollo.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Apollo / Phoebus
+  description: The bow-bearing god who kills Python with arrows and institutes the
+    Pythian games as a memorial.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:7
+  name_or_label: Jupiter
+  description: Deity for whom Deucalion builds a temple and institutes sacrifices.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: new race of men
+  description: The people whom Python terrifies after the late deluge.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: flood survivor and king
+  assigned_to:
+  - fig:1
+  basis: Deucalion is named king of Thessaly and flees the inundation to Mount Parnassus.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: preserved flood survivors
+  assigned_to:
+  - fig:2
+  basis: Some of Deucalion’s subjects flee with him and remain until the waters abate.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: generative earth mother figure
+  assigned_to:
+  - fig:4
+  basis: Earth produces animals and monsters as heated mud and moisture generate life,
+    described by comparison to a womb.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: monstrous serpent adversary
+  assigned_to:
+  - fig:5
+  basis: Python is an enormous serpent, source of terror, and the being Apollo destroys.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: recipient of posthumous cult
+  assigned_to:
+  - fig:1
+  basis: After death, Deucalion receives a temple and is worshipped as a divinity.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: genealogical spouse
+  assigned_to:
+  - fig:3
+  basis: Pyrrha is identified as Deucalion’s wife and daughter of Epimetheus.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: divine archer
+  assigned_to:
+  - fig:6
+  basis: Apollo bears the bow and kills Python with arrows.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: founder of commemorative games
+  assigned_to:
+  - fig:6
+  basis: Apollo institutes sacred games called Pythia to preserve the fame of Python’s
+    defeat.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: temple and sacrifice recipient
+  assigned_to:
+  - fig:7
+  basis: Deucalion builds a temple to Jupiter and institutes sacrifices in his honor.
+  evidence_refs:
+  - ev:2
+- id: role:10
+  label: threatened post-deluge humanity
+  assigned_to:
+  - fig:8
+  basis: Python is said to be a terror to the new race of men.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: flood waters
+  literal_form: overflowing waters from rainfall and the stopped river Peneus
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Mount Parnassus refuge
+  literal_form: Mount Parnassus
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: stones as descendants
+  literal_form: stones identified with the children of those preserved
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: heated mud and moisture
+  literal_form: mud, wet fens, moisture, and sun-warmed soil
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Python serpent
+  literal_form: enormous serpent Python
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: arrows and bow
+  literal_form: Apollo’s bow and many arrows
+  associated_figures:
+  - fig:6
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: beechen victory crown
+  literal_form: crown of beechen leaves awarded to victors
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+scenes:
+- id: scene:1
+  label: Deucalion’s flood refuge
+  summary: After the Peneus is stopped and rainfall overflows Thessaly, Deucalion
+    and some subjects flee to Mount Parnassus until the waters recede.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Stones and descendants explanation
+  summary: The note explains the poet’s stones as the children of the preserved survivors,
+    citing possible meanings of words for stone, child, or people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: Deucalion’s later cultic acts
+  summary: Deucalion is said to go to Athens, build a temple to Jupiter, institute
+    sacrifices, and later receive worship as a divinity himself.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:4
+  label: Earth generates life after the deluge
+  summary: The Earth, covered with mud after the flood and heated by the sun, produces
+    many creatures, restoring former shapes and producing new monsters.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Python terrifies post-deluge humanity
+  summary: Earth produces the enormous serpent Python, who terrifies the new race
+    of men and occupies a large part of a mountain.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Apollo kills Python and founds the Pythian games
+  summary: Apollo kills Python with arrows, then establishes sacred Pythian games
+    as a memorial of the deed, with victors receiving beechen crowns.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: flood survival and renewal
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: A flood covers Thessaly, Deucalion and some subjects survive on a mountain,
+    and the preserved survivors are connected with later descendants.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is an explanatory prose note rather than the full poetic narration
+    of Deucalion and Pyrrha’s renewal of humanity.
+- id: motif:2
+  label: stone-born or stone-named descendants
+  taxonomy_refs: []
+  basis: The explanation identifies the poet’s stones with children of those preserved
+    and discusses words meaning stone, child, or people.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents this as an etymological explanation of a fable, not
+    as a fully narrated birth scene.
+- id: motif:3
+  label: post-flood generation from mud and heat
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: After the deluge, mud and moisture heated by the sun generate animals, former
+    forms, and new monsters.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The generation is naturalistic and personified, and the passage frames
+    it through physical causes as well as mythic language.
+- id: motif:4
+  label: monstrous serpent threatening humanity
+  taxonomy_refs:
+  - serpent
+  basis: Python is an enormous serpent, a source of terror to the new race of men.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not describe Python’s actions beyond his terrifying presence.
+- id: motif:5
+  label: divine serpent-slaying with ritual commemoration
+  taxonomy_refs:
+  - serpent
+  basis: Apollo kills Python with arrows and institutes the Pythian games from the
+    serpent’s name to preserve the fame of the deed.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy has serpent but no specific dragon-slayer or games-foundation
+    motif category.
+- id: motif:6
+  label: institution of sacred games after a divine victory
+  taxonomy_refs: []
+  basis: Apollo creates sacred contests called Pythia after conquering Python, with
+    athletic winners receiving crowns.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: Footnote material notes variant traditions about the games’ institution,
+    limiting attribution certainty within later commentary.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly uses Nile inundation and fertile mud as a functional
+    analogy for post-flood generation by heated moisture and soil.
+  claim_level: same_function
+  target: Nile flood fertility as an analogy for post-deluge generation
+  evidence_refs:
+  - ev:4
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal explanatory analogy in the passage, not evidence
+    of historical contact or common inheritance.
+- id: claim:2
+  claim: The explanation cautiously links the stone-descendant motif to linguistic
+    similarity among words glossed as stone, child, or people.
+  claim_level: linguistic_similarity
+  target: wordplay connecting stones, children, and people
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports this as a probable foundation for the fable; the
+    claim should not be treated as proven etymology without external review.
+- id: claim:3
+  claim: 'The serpent Python episode shares the broad function of a serpent-adversary
+    motif: a threatening serpent is overcome by a divine figure.'
+  claim_level: same_motif
+  target: serpent-adversary / divine serpent-slaying pattern
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports only the broad motif pattern and does not itself
+    compare Python with other serpent-slaying traditions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1712-1723
+  quote_or_summary: The note says the Peneus was stopped, rain overflowed Thessaly,
+    and Deucalion with some subjects fled to Mount Parnassus until the waters abated;
+    it also explains the poet’s stones as children of the preserved and cites possible
+    word meanings for stone, child, or people.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1724-1734
+  quote_or_summary: The note says Deucalion later repaired to Athens, built a temple
+    to Jupiter, instituted sacrifices, was the son of Prometheus, was married to Pyrrha,
+    and after death was worshipped as a divinity.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: Fable XI heading, lines 1735-1740
+  quote_or_summary: The fable heading states that the sun-warmed Earth produces many
+    monsters, including Python, whom Apollo kills with arrows, after which Apollo
+    establishes the Pythian games and takes the surname Pythius.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1741-1757
+  quote_or_summary: Earth brings forth animals after moisture is heated by the sun;
+    the passage compares this to the Nile leaving oozy fields, where heated mud yields
+    animals in various stages of formation.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1758-1768
+  quote_or_summary: Moisture and heat are said to generate all things; after the deluge,
+    the mud-covered Earth produces many species and the enormous serpent Python, a
+    terror to the new race of men and so large as to occupy much of a mountain.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1769-1778
+  quote_or_summary: The bow-bearing god kills Python with a thousand arrows, venom
+    oozing from black wounds, and institutes sacred games called Pythia; victors receive
+    crowns of beechen leaves before the laurel exists.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: Footnote 70, lines 1779-1788
+  quote_or_summary: The footnote explains the Nile’s seven mouths, annual inundations,
+    and the fertility caused when receding waters leave enriching mud on the land.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: Footnotes 71-72, lines 1789-1812
+  quote_or_summary: The notes discuss variant attributions for instituting the Pythian
+    games, describe their contests and location, and state that the original prize
+    was a crown of beechen leaves, later replaced by a laurel chaplet and palm branch.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about flood survival, post-deluge generation, Python,
+    and Apollo’s institution of games. Motif classification is limited by the passage’s
+    mixture of poetic narrative, explanatory commentary, and footnotes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All claims are based only on the supplied passage and metadata; taxonomy references are limited to supplied available refs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l1712-l1812
+  passage_sha256=7bfc07adc39b8590dfc4fdf78295232652f96ada62910c10b3faf9fba0f21cc8
+

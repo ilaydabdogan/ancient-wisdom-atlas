@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l3131-l3171
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / BOOK THE SECOND.; lines 3131-3171
+  start: '3131'
+  end: '3171'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives explanatory footnotes on river names, regions, islands,
+    the earth as mother of all things, Atlas as a mountain said to support the heavens,
+    and a translation note referring to a return to old chaos.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Danube is identified as bearing the name Ister in part of its course toward
+    the sea.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Alpheus is identified as a river of Arcadia in the Peloponnesus.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Tagus is described as a Spanish river said to carry golden sand from the
+    mountains, with the poet feigning that the sun's heat melts it into the current.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Mæonia is identified with Lydia, and the Caÿster is described as a Lydian
+    river famous for swans.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Hebrus and Strymon are identified as rivers of Thrace, and Ismarus as a Thracian
+    mountain famous for vines.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Hesperia is explained as a western country-name applied to Spain, Gaul, and
+    Italy, and several western rivers are named.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Cyclades are described as islands in the Aegean Sea surrounding Delos
+    in a circle.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The earth is described as all-productive and compared with Greek and Virgilian
+    expressions meaning mother or producer of all things.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Atlas is described as a mountain of Mauritania said, because of its height,
+    to support the heavens.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: A translation note renders a Latin phrase as being jumbled into the old chaos
+    again.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Earth
+  description: The earth is called all-productive and associated with expressions
+    meaning mother of all things.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:8
+- id: fig:2
+  name_or_label: Atlas
+  description: A mountain of Mauritania said to support the heavens because of its
+    height.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:9
+- id: fig:3
+  name_or_label: Delos
+  description: An island surrounded by the Cyclades as though with a circle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Tagus
+  description: A river of Spain said to bring golden sand down from mountains; the
+    poet feigns the sand is melted by the sun's heat and carried in the current.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: all-productive earth
+  assigned_to:
+  - fig:1
+  basis: The footnote explains the earth's all-productive face and compares it to
+    names meaning mother or producer of all things.
+  evidence_refs:
+  - ev:8
+- id: role:2
+  label: heaven-supporting mountain
+  assigned_to:
+  - fig:2
+  basis: Atlas is identified as a mountain said to support the heavens because of
+    its height.
+  evidence_refs:
+  - ev:9
+- id: role:3
+  label: central island within a circular cluster
+  assigned_to:
+  - fig:3
+  basis: The Cyclades are said to surround Delos as though with a circle.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: river water
+  literal_form: Named rivers including Ister/Danube, Alpheus, Tagus, Caÿster, Hebrus,
+    Strymon, Rhine, Rhone, Padus/Po, and Tiber
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: mountain
+  literal_form: Mountains including Ismarus, mountains supplying Tagus's golden sand,
+    and Atlas
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:9
+- id: sym:3
+  label: all-producing earth
+  literal_form: Earth as all-productive face and mother of all things
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: circular island cluster
+  literal_form: Cyclades surrounding Delos as though with a circle
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: old chaos
+  literal_form: old chaos
+  associated_figures: []
+  taxonomy_refs:
+  - chaos
+  evidence_refs:
+  - ev:10
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: cosmic mountain supporting the heavens
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: Atlas is described as a mountain whose height led to the claim that it supported
+    the heavens.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The passage is an explanatory footnote, not the full narrative scene.
+- id: motif:2
+  label: return to old chaos
+  taxonomy_refs:
+  - chaos
+  basis: A translation note renders a Latin phrase as being jumbled into the old chaos
+    again.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: This evidence comes from a translation note and lacks the full surrounding
+    narrative in the supplied passage.
+- id: motif:3
+  label: earth as universal mother
+  taxonomy_refs:
+  - mother_goddess
+  basis: The earth is glossed as all-productive and compared with expressions meaning
+    mother or producer of all things.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The footnote supports a maternal-earth epithet, but does not itself narrate
+    a goddess action.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the earth's all-productive description with
+    Greek and Virgilian expressions for the earth as mother or producer of all things.
+  claim_level: linguistic_similarity
+  target: Greek παμμήτωρ and Virgilian omniparens epithets for earth
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is lexical and explanatory; it does not establish a
+    shared narrative episode.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3131-3133
+  quote_or_summary: Footnote 46 explains Ister as a name of the Danube in part of
+    its course toward the sea.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3135-3136
+  quote_or_summary: Footnote 47 identifies Alpheus as a river of Arcadia in the Peloponnesus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3138-3142
+  quote_or_summary: Footnote 48 identifies Tagus as a Spanish river said to carry
+    golden sand from mountains, poetically melted by the sun's heat into the current.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3144-3146
+  quote_or_summary: Footnote 49 identifies Mæonia with Lydia and names the Caÿster
+    as a Lydian river famous for swans.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3148-3151
+  quote_or_summary: Footnote 50 identifies Hebrus and Strymon as Thracian rivers and
+    Ismarus as a Thracian mountain famous for vines.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3153-3156
+  quote_or_summary: Footnote 51 explains Hesperia as a western country-name and lists
+    Rhine, Rhone, Padus/Po, and Tiber among western rivers.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3158-3160
+  quote_or_summary: Footnote 52 describes the Cyclades as Aegean islands surrounding
+    Delos as though with a circle.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 3162-3165
+  quote_or_summary: Footnote 53 says the earth was similarly called by the Greeks
+    'mother of all things' and by Virgil 'omniparens.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized with brief terms retained.
+- id: ev:9
+  type: summary
+  locator: lines 3167-3169
+  quote_or_summary: Footnote 54 identifies Atlas as a mountain of Mauritania said,
+    because of its height, to support the heavens.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: quote
+  locator: line 3171
+  quote_or_summary: 'Clarke translates the phrase as: ''We are then jumbled into the
+    old chaos again.'''
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is primarily editorial footnotes. Geographical identifications
+    are straightforward, while motif extraction is limited to explicit mythic or cosmological
+    phrases in the notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No narrative scene was extracted because the supplied passage is explanatory annotation rather than continuous mythic action.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l3131-l3171
+  passage_sha256=2b775c1550a960a5e8924ab072691a0bbe8f92f89ff5574227b4020effc81d81
+
