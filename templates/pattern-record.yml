@@ -1,0 +1,131 @@
+record_id:
+title:
+summary:
+  short:
+  scope_note:
+
+# Use the weakest mode that fits the evidence:
+# structural | thematic | historical_contact | common_inheritance | independent_emergence | archetypal
+comparison_mode: structural
+
+cultures:
+  - id:
+    label:
+    taxonomy_ref:
+    notes:
+
+traditions:
+  - id:
+    label:
+    taxonomy_ref:
+    notes:
+
+eras:
+  - id:
+    label:
+    date_range:
+    certainty: uncertain
+    notes:
+
+regions: []
+
+motifs:
+  - id: motif:1
+    label:
+    taxonomy_refs: []
+    role_in_pattern:
+    confidence: uncertain
+    notes:
+
+occurrences:
+  - id: occ:1
+    label:
+    source_text_path:
+    extraction_record_path:
+    tradition_refs: []
+    culture_refs: []
+    era_refs: []
+    locator:
+    form_summary:
+    evidence_refs:
+      - ev:1
+    confidence: uncertain
+
+shared_features:
+  - id: feature:1
+    label:
+    description:
+    feature_type:
+    evidence_refs:
+      - ev:1
+    confidence: uncertain
+
+differences:
+  - id: diff:1
+    label:
+    description:
+    feature_type:
+    evidence_refs:
+      - ev:1
+    confidence: uncertain
+
+evidence:
+  - id: ev:1
+    type: summary
+    locator:
+    quote_or_summary:
+    source_text_path:
+    work_id:
+    tradition_refs: []
+    culture_refs: []
+    era_refs: []
+    rights_note:
+
+# Interpretive material belongs here, not in evidence or neutral occurrence summaries.
+interpretive_lenses:
+  - id: lens:1
+    lens: structural
+    interpretation:
+    evidence_refs:
+      - ev:1
+    confidence: uncertain
+    cautions:
+
+caution_notes:
+  - id: caution:1
+    note:
+    evidence_refs: []
+
+open_questions:
+  - id: question:1
+    question:
+    needed_evidence:
+    status: open
+
+confidence:
+  pattern_grouping: uncertain
+  historical_link: uncertain
+  source_quality: uncertain
+  interpretation: uncertain
+  notes:
+
+rights:
+  summary_status: unknown
+  training_use: unknown
+  citation_policy:
+  notes:
+
+provenance:
+  created_by:
+  created_at:
+  updated_at:
+  source_basis: []
+  method_notes:
+
+reviewer_status:
+  status: draft
+  reviewer:
+  reviewed_at:
+  notes:
+
+notes:

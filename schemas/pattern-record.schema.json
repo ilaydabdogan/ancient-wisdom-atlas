@@ -1,0 +1,553 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/ancient-wisdom-atlas/pattern-record.schema.json",
+  "title": "Ancient Wisdom Atlas Structured Pattern Record",
+  "description": "A machine-readable pattern-level record for evidence-linked, conservative comparison across cultures, traditions, and eras.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "record_id",
+    "title",
+    "summary",
+    "comparison_mode",
+    "cultures",
+    "traditions",
+    "eras",
+    "motifs",
+    "evidence",
+    "interpretive_lenses",
+    "caution_notes",
+    "open_questions",
+    "rights",
+    "provenance",
+    "reviewer_status"
+  ],
+  "properties": {
+    "record_id": {
+      "type": "string",
+      "description": "Stable pattern record identifier."
+    },
+    "title": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["short", "scope_note"],
+      "properties": {
+        "short": {
+          "type": "string",
+          "description": "One or two careful sentences summarizing the pattern."
+        },
+        "scope_note": {
+          "type": "string",
+          "description": "Boundary statement for what this record includes and excludes."
+        }
+      }
+    },
+    "comparison_mode": {
+      "$ref": "#/$defs/comparison_mode"
+    },
+    "cultures": {
+      "type": "array",
+      "description": "Culture or community labels represented by this pattern record. Prefer specific labels when known.",
+      "items": {
+        "$ref": "#/$defs/context_label"
+      },
+      "uniqueItems": true
+    },
+    "traditions": {
+      "type": "array",
+      "description": "Tradition identifiers or labels, preferably aligned with taxonomy/traditions.yml.",
+      "items": {
+        "$ref": "#/$defs/context_label"
+      },
+      "uniqueItems": true
+    },
+    "eras": {
+      "type": "array",
+      "description": "Date ranges or era labels represented by this record.",
+      "items": {
+        "$ref": "#/$defs/era"
+      }
+    },
+    "regions": {
+      "type": "array",
+      "description": "Optional geographic labels useful for future filtering.",
+      "items": {
+        "$ref": "#/$defs/context_label"
+      },
+      "uniqueItems": true
+    },
+    "motifs": {
+      "type": "array",
+      "description": "Motifs used by the pattern. These can link to taxonomy/motifs.yml or external motif indexes.",
+      "items": {
+        "$ref": "#/$defs/motif"
+      },
+      "minItems": 1
+    },
+    "occurrences": {
+      "type": "array",
+      "description": "Optional normalized appearances of the pattern in source passages, artifacts, rituals, or extraction records.",
+      "items": {
+        "$ref": "#/$defs/occurrence"
+      }
+    },
+    "shared_features": {
+      "type": "array",
+      "description": "Evidence-linked features that support grouping the occurrences in this record.",
+      "items": {
+        "$ref": "#/$defs/feature"
+      }
+    },
+    "differences": {
+      "type": "array",
+      "description": "Evidence-linked distinctions that prevent over-identification.",
+      "items": {
+        "$ref": "#/$defs/feature"
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "description": "Reusable evidence units. Use quotes only when rights allow; otherwise summarize or cite.",
+      "items": {
+        "$ref": "#/$defs/evidence"
+      },
+      "minItems": 1
+    },
+    "interpretive_lenses": {
+      "type": "array",
+      "description": "Explicitly marked interpretations. Keep these separate from evidence and summary fields.",
+      "items": {
+        "$ref": "#/$defs/interpretive_lens"
+      }
+    },
+    "caution_notes": {
+      "type": "array",
+      "description": "Anti-flattening notes, limits, counterexamples, and warnings against stronger claims.",
+      "items": {
+        "$ref": "#/$defs/caution_note"
+      }
+    },
+    "open_questions": {
+      "type": "array",
+      "description": "Research questions, missing sources, dating problems, or possible disconfirming evidence.",
+      "items": {
+        "$ref": "#/$defs/open_question"
+      }
+    },
+    "confidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "pattern_grouping": {
+          "$ref": "#/$defs/confidence_level"
+        },
+        "historical_link": {
+          "$ref": "#/$defs/historical_confidence"
+        },
+        "source_quality": {
+          "$ref": "#/$defs/source_quality"
+        },
+        "interpretation": {
+          "$ref": "#/$defs/confidence_level"
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "rights": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["summary_status", "training_use", "citation_policy"],
+      "properties": {
+        "summary_status": {
+          "type": "string",
+          "enum": ["public_domain", "mixed", "citation_only", "unknown"]
+        },
+        "training_use": {
+          "type": "string",
+          "enum": ["allowed", "conditional", "blocked", "unknown"]
+        },
+        "citation_policy": {
+          "type": "string",
+          "description": "How this record may quote, summarize, or cite its sources."
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["created_by", "created_at", "source_basis"],
+      "properties": {
+        "created_by": {
+          "type": "string"
+        },
+        "created_at": {
+          "type": "string",
+          "format": "date"
+        },
+        "updated_at": {
+          "type": "string",
+          "format": "date"
+        },
+        "source_basis": {
+          "type": "array",
+          "description": "Repository paths, source records, extraction records, comparison pages, or notes used to build this pattern record.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "method_notes": {
+          "type": "string"
+        }
+      }
+    },
+    "reviewer_status": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status"],
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": ["draft", "needs_review", "reviewed", "revision_requested", "rejected"]
+        },
+        "reviewer": {
+          "type": "string"
+        },
+        "reviewed_at": {
+          "type": "string",
+          "format": "date"
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "$defs": {
+    "id_ref": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9][A-Za-z0-9_.:-]*$"
+    },
+    "confidence_level": {
+      "type": "string",
+      "enum": ["low", "medium", "high", "uncertain"]
+    },
+    "historical_confidence": {
+      "type": "string",
+      "enum": ["none", "speculative", "plausible", "strong", "uncertain"]
+    },
+    "source_quality": {
+      "type": "string",
+      "enum": ["weak", "mixed", "strong", "uncertain"]
+    },
+    "comparison_mode": {
+      "type": "string",
+      "enum": [
+        "structural",
+        "thematic",
+        "historical_contact",
+        "common_inheritance",
+        "independent_emergence",
+        "archetypal"
+      ]
+    },
+    "evidence_ref_list": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/id_ref"
+      },
+      "uniqueItems": true
+    },
+    "context_label": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "label"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/id_ref"
+        },
+        "label": {
+          "type": "string"
+        },
+        "taxonomy_ref": {
+          "type": "string"
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "era": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "label"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/id_ref"
+        },
+        "label": {
+          "type": "string"
+        },
+        "date_range": {
+          "type": "string"
+        },
+        "certainty": {
+          "$ref": "#/$defs/confidence_level"
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "motif": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "label"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/id_ref"
+        },
+        "label": {
+          "type": "string"
+        },
+        "taxonomy_refs": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        },
+        "role_in_pattern": {
+          "type": "string"
+        },
+        "confidence": {
+          "$ref": "#/$defs/confidence_level"
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "occurrence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "label", "tradition_refs", "evidence_refs"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/id_ref"
+        },
+        "label": {
+          "type": "string"
+        },
+        "source_text_path": {
+          "type": "string"
+        },
+        "extraction_record_path": {
+          "type": "string"
+        },
+        "tradition_refs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/id_ref"
+          },
+          "uniqueItems": true
+        },
+        "culture_refs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/id_ref"
+          },
+          "uniqueItems": true
+        },
+        "era_refs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/id_ref"
+          },
+          "uniqueItems": true
+        },
+        "locator": {
+          "type": "string"
+        },
+        "form_summary": {
+          "type": "string",
+          "description": "Neutral description of how the pattern appears in this occurrence."
+        },
+        "evidence_refs": {
+          "$ref": "#/$defs/evidence_ref_list"
+        },
+        "confidence": {
+          "$ref": "#/$defs/confidence_level"
+        }
+      }
+    },
+    "feature": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "label", "description", "evidence_refs"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/id_ref"
+        },
+        "label": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "feature_type": {
+          "type": "string",
+          "enum": ["image", "scene", "role", "function", "sequence", "ritual", "theology", "language", "other"]
+        },
+        "evidence_refs": {
+          "$ref": "#/$defs/evidence_ref_list"
+        },
+        "confidence": {
+          "$ref": "#/$defs/confidence_level"
+        }
+      }
+    },
+    "evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "type", "locator", "quote_or_summary"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/id_ref"
+        },
+        "type": {
+          "type": "string",
+          "enum": ["quote", "summary", "citation", "extraction_ref", "translator_note", "secondary_note"]
+        },
+        "locator": {
+          "type": "string",
+          "description": "Specific source location, record path, page, line, section, or catalog reference."
+        },
+        "quote_or_summary": {
+          "type": "string",
+          "description": "Exact quote when allowed, otherwise a neutral summary or citation note."
+        },
+        "source_text_path": {
+          "type": "string"
+        },
+        "work_id": {
+          "type": "string"
+        },
+        "tradition_refs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/id_ref"
+          },
+          "uniqueItems": true
+        },
+        "culture_refs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/id_ref"
+          },
+          "uniqueItems": true
+        },
+        "era_refs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/id_ref"
+          },
+          "uniqueItems": true
+        },
+        "rights_note": {
+          "type": "string"
+        }
+      }
+    },
+    "interpretive_lens": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "lens", "interpretation", "evidence_refs", "confidence"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/id_ref"
+        },
+        "lens": {
+          "type": "string",
+          "enum": [
+            "structural",
+            "thematic",
+            "historical",
+            "ritual",
+            "philological",
+            "iconographic",
+            "psychological_archetypal",
+            "comparative_mythology",
+            "folklore",
+            "anthropological",
+            "network_analysis"
+          ]
+        },
+        "interpretation": {
+          "type": "string",
+          "description": "Clearly marked interpretation. Do not present this as literal source evidence."
+        },
+        "evidence_refs": {
+          "$ref": "#/$defs/evidence_ref_list"
+        },
+        "confidence": {
+          "$ref": "#/$defs/confidence_level"
+        },
+        "cautions": {
+          "type": "string"
+        }
+      }
+    },
+    "caution_note": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "note"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/id_ref"
+        },
+        "note": {
+          "type": "string"
+        },
+        "evidence_refs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/id_ref"
+          },
+          "uniqueItems": true
+        }
+      }
+    },
+    "open_question": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "question"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/id_ref"
+        },
+        "question": {
+          "type": "string"
+        },
+        "needed_evidence": {
+          "type": "string"
+        },
+        "status": {
+          "type": "string",
+          "enum": ["open", "in_progress", "answered", "not_pursuing"]
+        }
+      }
+    }
+  }
+}

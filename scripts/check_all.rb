@@ -15,6 +15,8 @@ checks = [
   "scripts/check_taxonomy_refs.rb",
   "scripts/check_first_500_corpus.rb",
   "scripts/build_first500_progress.rb",
+  "scripts/build_extraction_coverage.rb",
+  "scripts/check_extraction_records.rb",
   "scripts/build_similarity_index.rb",
   "scripts/check_structured_files.rb",
   "scripts/check_clean_markdown.rb",

@@ -104,7 +104,7 @@ Expected project URL after Pages is enabled: `https://ilaydabdogan.github.io/anc
 
 ## Batch Processing
 
-Use [docs/batch-api-workflow.md](docs/batch-api-workflow.md) for the OpenAI Batch API workflows that segment clean canonical Markdown, prepare sharded JSONL requests, upload and track Batch jobs, download results, stage machine-generated extraction drafts for human review, and generate embeddings for passages or extraction records.
+Use [docs/batch-api-workflow.md](docs/batch-api-workflow.md) for the OpenAI Batch API workflows that segment clean canonical Markdown, prepare sharded JSONL requests, upload and track Batch jobs, download results, stage machine-generated extraction drafts, run extraction review/normalization passes, and optionally generate embeddings later.
 
 ## Scale-Up Workflow
 
@@ -113,6 +113,8 @@ Use [docs/batch-api-workflow.md](docs/batch-api-workflow.md) for the OpenAI Batc
 - [docs/conversion-tooling.md](docs/conversion-tooling.md): how to create reviewed Markdown drafts from raw plain text
 - [docs/auto-ingestion.md](docs/auto-ingestion.md): how to grow the corpus from the queue-based fetch/convert/promote pipeline
 - [docs/extraction-protocol.md](docs/extraction-protocol.md): how AI/humans should extract symbols, motifs, scenes, and comparison claims
+- [docs/extraction-coverage.md](docs/extraction-coverage.md): generated audit of which canonical texts need dense motif extraction next
+- [docs/structured-pattern-records.md](docs/structured-pattern-records.md): machine-readable pattern records for Pattern Explorer-ready comparisons
 - [docs/ci.md](docs/ci.md): what GitHub Actions checks on every push
 
 ## First Corpus Data

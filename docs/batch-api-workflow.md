@@ -18,7 +18,15 @@ The first production pipeline is passage-level motif, symbol, and pattern extrac
 
 All run state lives under `data/batches/<run_id>/`.
 
-The second pipeline is embeddings generation for either:
+The second production lane is extraction review and motif normalization:
+
+1. Build an extraction coverage index to decide which texts still need dense extraction.
+2. Prepare Batch requests over generated or seed extraction YAML records.
+3. Ask the model to review motif usefulness, map labels to canonical taxonomy refs, flag over-specific labels, and classify comparison claims by mode.
+4. Ingest review results under `data/reviews/extraction-quality/<run_id>/`.
+5. Use those review records before promoting drafts or rebuilding pattern-facing indexes.
+
+Embeddings are a later discovery lane for either:
 
 - segmented canonical-text passages, using `passages.jsonl` from the segmenter
 - existing extraction YAML records under `extractions/`
@@ -48,7 +56,8 @@ Reference docs:
 Set the API key in your shell. Do not create or commit a real `.env`.
 
 ```sh
-export OPENAI_API_KEY="..."
+# Set OPENAI_API_KEY in your shell session; never write the real value to a repo file.
+export OPENAI_API_KEY
 ```
 
 You can override the default extraction model:
@@ -226,7 +235,38 @@ ruby scripts/batch_nightly_run.rb --mode watch --run-id motif-extraction-YYYY-MM
 
 ## Full Corpus Run
 
-For a larger run, omit `--limit` and tune shard sizes:
+Before launching a large extraction run, build the coverage index:
+
+```sh
+ruby scripts/build_extraction_coverage.rb
+```
+
+This writes:
+
+- `data/indexes/extraction-coverage.yml`
+- `docs/extraction-coverage.md`
+
+For a targeted high-priority run, select only texts with no/thin/developing extraction coverage:
+
+```sh
+ruby scripts/batch_segment_passages.rb \
+  --run-id motif-extraction-YYYY-MM-DD-high-priority \
+  --coverage data/indexes/extraction-coverage.yml \
+  --coverage-priority high \
+  --max-chars 6000 \
+  --min-chars 500 \
+  --force
+
+ruby scripts/batch_prepare_motif_requests.rb \
+  --run-id motif-extraction-YYYY-MM-DD-high-priority \
+  --model "$OPENAI_BATCH_MODEL" \
+  --max-output-tokens 12000 \
+  --max-requests-per-shard 500 \
+  --max-bytes-per-shard 188743680 \
+  --force
+```
+
+For a larger all-corpus run, omit `--limit` and tune shard sizes:
 
 ```sh
 ruby scripts/batch_segment_passages.rb \
@@ -244,7 +284,49 @@ ruby scripts/batch_prepare_motif_requests.rb \
 
 Then upload, create, poll, download, and ingest with the same commands shown above.
 
-To prepare embeddings for the same segmented passages:
+## Extraction Review And Normalization
+
+After generated extraction YAML exists, prepare a review batch:
+
+```sh
+ruby scripts/batch_prepare_extraction_review_requests.rb \
+  --run-id extraction-review-YYYY-MM-DD \
+  --coverage data/indexes/extraction-coverage.yml \
+  --reviewer-status needs_review \
+  --model "$OPENAI_BATCH_MODEL" \
+  --max-output-tokens 8000 \
+  --max-requests-per-shard 500 \
+  --force
+```
+
+Use the same generic upload/create/status/download scripts:
+
+```sh
+ruby scripts/batch_upload_inputs.rb --run-id extraction-review-YYYY-MM-DD
+ruby scripts/batch_create_jobs.rb --run-id extraction-review-YYYY-MM-DD
+ruby scripts/batch_status.rb --run-id extraction-review-YYYY-MM-DD
+ruby scripts/batch_download_results.rb --run-id extraction-review-YYYY-MM-DD
+```
+
+Then ingest review outputs:
+
+```sh
+ruby scripts/batch_ingest_extraction_review_results.rb --run-id extraction-review-YYYY-MM-DD
+```
+
+The review importer writes:
+
+- `data/reviews/extraction-quality/<run_id>/reviews.jsonl`
+- `data/reviews/extraction-quality/<run_id>/records/*.yml`
+- `data/reviews/extraction-quality/<run_id>/manifest.yml`
+
+Treat these as advisory review records. They do not automatically rewrite extraction YAML or taxonomy files; promotion should remain deliberate.
+
+## Embeddings
+
+Embeddings are useful for later unexpected-discovery workflows, but they are not required before dense extraction and motif normalization.
+
+To prepare embeddings for segmented passages:
 
 ```sh
 ruby scripts/batch_prepare_embedding_requests.rb \
@@ -279,6 +361,7 @@ The pipeline is designed for reruns:
 - Ingest writes `data/batches/<run_id>/ingested-results.jsonl` and skips already materialized records when content is unchanged.
 - Re-running motif request preparation skips previously ingested `custom_id`s unless `--include-ingested` is passed.
 - New motif runs can skip records already ingested by a prior run with `--skip-ingested-from-run-id PRIOR_RUN_ID`; use this for retry passes after queue failures, schema changes, or `max_output_tokens` truncation.
+- Extraction review ingestion merges by `review_id` into `data/reviews/extraction-quality/<run_id>/reviews.jsonl` and records per-item ingest status under `data/batches/<run_id>/extraction-review-ingested-results.jsonl`.
 - Embedding ingestion merges by `custom_id` into `data/embeddings/<run_id>/embeddings.jsonl` and records per-item ingest status under `data/batches/<run_id>/embedding-ingested-results.jsonl`.
 
 Use the same `run_id` to resume an interrupted workflow. Use a new `run_id` for a new scientific pass, model change, prompt change, or corpus-wide rerun.
