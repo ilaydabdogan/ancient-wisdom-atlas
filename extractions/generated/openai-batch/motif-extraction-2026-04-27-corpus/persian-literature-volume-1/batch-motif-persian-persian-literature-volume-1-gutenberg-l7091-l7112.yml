@@ -1,0 +1,299 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l7091-l7112
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: THE SEVEN LABORS OF RUSTEM / INVASION OF IRN BY AFRSIYB / THE RETURN OF KAI-KS
+    / STORY OF SOHRB; lines 7091-7112
+  start: '7091'
+  end: '7112'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: 'A mother is overwhelmed by grief for Sohrab: she nearly collapses, is
+    surrounded by mourning matrons, and then clings to and kisses Sohrab’s horse and
+    battle equipment (mail, robes, reins, weapons), lamenting day and night. Eventually,
+    worn out by anguish, she dies and is described as joining her child in Heaven.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A woman is choked by strong emotion and appears close to death until “fluttering
+    life returned,” while matrons gather around her mourning.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: She recognizes and kisses the hoofs of a favored steed and wets them with
+    tears.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: She repeatedly kisses Sohrab’s mail and embraces his martial robes, holding
+    them to her breast “like an infant.”
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Reins and trappings, club, spear, sword, and shield associated with the “Stripling”
+    are brought, and she embraces them in remembrance.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: She beats her face, clings to the items, and persists in grief day after day
+    and night after night, refusing relief.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At last, worn out by earthly anguish, the mother’s spirit is said to join
+    her child in Heaven.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Grieving mother
+  description: A mother who mourns intensely, embraces Sohrab’s horse and equipment,
+    and eventually dies.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Sohrab (the child/stripling)
+  description: The mother’s child, identified by name; his battle gear is present;
+    he is in Heaven by the end of the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Trembling matrons (attendants)
+  description: Matrons who hasten around the woman and mourn with piercing cries.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Favourite steed
+  description: A favored horse that the mother kisses and bathes with tears.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: mourning mother
+  assigned_to:
+  - fig:1
+  basis: She grieves for her “darling boy,” clings to his possessions, and mourns
+    continuously until death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: deceased child/warrior
+  assigned_to:
+  - fig:2
+  basis: His mail and weapons are presented as relics of his fighting, and the mother’s
+    spirit is said to join him in Heaven.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: mourning attendants
+  assigned_to:
+  - fig:3
+  basis: They gather around her and mourn with piercing cries.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: hero’s steed (mourning object)
+  assigned_to:
+  - fig:4
+  basis: The mother gazes on the favorite steed, kisses its hoofs, and weeps over
+    it.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Hero’s steed as focus of mourning
+  literal_form: The favourite steed; its hoofs kissed and bathed with tears
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Sohrab’s mail (armor) as mourned object
+  literal_form: "“the mail Sohrb in battle wore,” kissed repeatedly"
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Sohrab’s martial robes held like an infant
+  literal_form: "“His martial robes”… held to the breast “like an infant”"
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Weapons and trappings as relics of the stripling’s fight
+  literal_form: Reins and trappings; club; spear; sword; shield
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Heaven as destination of the mother’s spirit
+  literal_form: "“joined her child in Heaven”"
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Collapse and attended mourning
+  summary: A mother is overwhelmed by emotion, appears near death, and is surrounded
+    by matrons whose cries accompany her return to consciousness.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mourning through contact with horse and battle gear
+  summary: The mother fixates on the favorite steed and Sohrab’s armor, clothing,
+    trappings, and weapons, kissing and embracing them and lamenting continually.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Death from grief and reunion in Heaven
+  summary: After prolonged grief, the mother dies, described as her spirit joining
+    her child in Heaven.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Mother dies from grief and is reunited with dead child in Heaven
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage states that after sustained mourning, “the mother's spirit joined
+    her child in Heaven.”
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The text emphasizes death and afterlife reunion but does not describe
+    rebirth or return to life; taxonomy match is approximate.
+- id: motif:2
+  label: Mourning expressed through embracing and kissing the deceased warrior’s horse
+    and equipment
+  taxonomy_refs: []
+  basis: The mother kisses the steed’s hoofs, kisses Sohrab’s mail, and embraces his
+    robes and weapons as memorial objects.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Prolonged mourning without relief leading to physical collapse/death
+  taxonomy_refs: []
+  basis: She mourns day and night “disdaining all relief,” and is eventually “worn
+    out” and dies.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7091-7096
+  quote_or_summary: The woman is choked by emotion and seems near death; matrons gather
+    around her mourning with piercing cries until she revives.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 7097-7103
+  quote_or_summary: She sees the favorite steed, kisses its hoofs with tears, and
+    repeatedly kisses Sohrab’s mail; she embraces his martial robes and holds them
+    to her breast like an infant.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 7104-7110
+  quote_or_summary: Reins, trappings, club, spear, sword, and shield are brought;
+    she embraces them, beats her face, clings to them in a trance, and mourns day
+    and night without relief.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 7111-7112
+  quote_or_summary: Worn out by earthly anguish, the mother dies; her spirit is said
+    to join her child in Heaven.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal elements and sequence are clear; mapping to a provided motif family
+    (death_rebirth) is approximate and flagged.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  No explicit cross-tradition comparison occurs within this passage; comparisons were omitted per guidelines.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l7091-l7112
+  passage_sha256=4bd03c13d42b1c63643a76dc6ae6e74640eaa261fa2ddfe4391eae4e7dde5f4e
+

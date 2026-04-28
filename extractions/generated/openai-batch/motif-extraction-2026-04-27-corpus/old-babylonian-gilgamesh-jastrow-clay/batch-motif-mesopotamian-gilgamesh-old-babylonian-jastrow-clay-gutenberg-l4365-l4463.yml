@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l4365-l4463
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: COMMENTARY ON THE PENNSYLVANIA TABLET. / YALE TABLET. / TRANSLITERATION.
+    / TRANSLATION.; lines 4365-4463
+  start: '4365'
+  end: '4463'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: A technical philological commentary proposing corrected sign readings and
+    word divisions for multiple lines/columns of the tablet, repeatedly criticizing
+    Langdon’s readings and translations, noting physical damage (erasure/scratching)
+    on the tablet, citing parallels in the Assyrian version (Tablet IV) for restorations,
+    and discussing issues of missing-line estimates and colophon/edge statements (including
+    a note about “240 lines”).
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The commentator proposes numerous corrected readings (sign values, word separations,
+    and restorations) for specified lines and columns (e.g., Columns 4–6), often stating
+    what a sign “clearly” is or is “not certain.”
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Langdon’s readings, notes, and translations are repeatedly criticized as incorrect;
+    the commentator claims many misreadings/mistransliterations and states that about
+    half of the preserved lines were mistranslated by Langdon.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:3
+  text: 'The tablet is described as physically damaged in places: one sign is said
+    to be written over an erasure, and the tablet is said to be scratched at a point
+    affecting legibility.'
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Some conjectural restorations are explicitly based on parallels in the Assyrian
+    version of the epic (Tablet IV), with line references given.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The commentator states that Langdon’s indications of missing-line counts and
+    missing space within lines are misleading/inaccurate and criticizes the drawing
+    of lines implying completeness where the tablet is not complete.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The commentator notes that Langdon omitted copying an edge statement interpreted
+    as “240 lines,” and also criticizes a mistranslation in the colophon regarding
+    the word rendered as “written.”
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Dr. Langdon
+  description: A previous editor/translator whose readings, notes, and translations
+    are criticized and corrected throughout the commentary.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Assyrian version (Tablet IV)
+  description: A parallel textual version cited for specific line parallels used to
+    support restorations of the Old Babylonian text.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Pennsylvania/Yale tablet (the tablet under discussion)
+  description: The clay tablet text being edited; its columns/lines are discussed
+    and its surface is noted as having erasures/scratches affecting signs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: prior editor/translator being corrected
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly contrasts proposed readings with “Langdon’s” readings/notes
+    and labels many of them wrong/misleading.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: parallel-text witness for restoration
+  assigned_to:
+  - fig:2
+  basis: Restorations are said to be supplied “on the basis of the Assyrian version,”
+    with Tablet IV citations.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: manuscript/artifact under philological examination
+  assigned_to:
+  - fig:3
+  basis: The commentary discusses columns/lines and notes physical damage (erasure/scratching)
+    and edge/colophon statements of the tablet.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: clay tablet with columns/lines
+  literal_form: A tablet text organized in columns (e.g., Column 4–6) with numbered
+    lines and cuneiform signs subject to reading/restoration.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: erasure and scratching on the tablet
+  literal_form: An erasure overwritten by a sign and a place where someone scratched
+    the tablet, affecting sign certainty.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: edge statement and colophon (including “240 lines”)
+  literal_form: An edge notation interpreted as “240 lines” and a colophon term discussed
+    for correct translation.
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: lexical gloss “Mi = salmu (‘image’)”
+  literal_form: A note identifying a sign/value as “Mi = salmu,” glossed as “image.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Philological emendation and critique of prior edition
+  summary: The commentator lists corrected readings and restorations for multiple
+    lines/columns, notes tablet damage affecting signs, cites the Assyrian version
+    as a basis for some restorations, and argues that Langdon’s line counts, copies,
+    and translations contain numerous errors (including omission of an edge statement
+    and mistakes in the colophon).
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: Specific restorations/readings in this Old Babylonian tablet passage are
+    aligned with (and partly reconstructed from) parallel lines in the Assyrian version
+    of the epic (Tablet IV), implying a close textual correspondence at those points.
+  claim_level: linguistic_similarity
+  target: Assyrian version of the Gilgamesh epic, Tablet IV (line references cited
+    in the commentary)
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a philological cross-version alignment rather than a mythic-motif
+    comparison; the passage offers no narrative content here to evaluate thematic
+    similarity beyond textual parallelism.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4365-4463
+  quote_or_summary: Technical commentary proposing many corrected readings (sign values,
+    divisions, and restorations) across several columns/lines; includes notes such
+    as identifying signs, separating words, and a lexical gloss (“Mi = salmu, ‘image’”),
+    while repeatedly disputing Langdon’s readings/notes.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: 4365-4463
+  quote_or_summary: 'Mentions physical damage/uncertainty on the tablet: a sign apparently
+    written over an erasure and a place where someone scratched the tablet, affecting
+    legibility of signs.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: 4365-4463
+  quote_or_summary: Criticizes Langdon’s handling of missing lines and space indications
+    as misleading/inaccurate; notes Langdon omitted copying an edge statement interpreted
+    as “240 lines,” and criticizes a colophon mistranslation; claims extensive misreadings/mistransliterations
+    and many mistranslations.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: 4365-4463
+  quote_or_summary: States that certain restored readings are supplied on the basis
+    of the Assyrian version (Tablet IV), giving specific tablet/line references as
+    parallels for restorations.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is mainly editorial/philological commentary with minimal mythic/narrative
+    content; thus no motif candidates are asserted. A limited cross-version textual
+    comparison is explicitly present via cited Assyrian parallels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  No narrative scenes or mythic motifs are directly present; the content concerns textual criticism, sign readings, and manuscript condition.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l4365-l4463
+  passage_sha256=a45423d279ad3d5ec488fa868eb6b8b03615291fa0c37f77aa0ce9fe6c29dadf
+

@@ -1,0 +1,222 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l23008-l23324
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: INTRODUCTORY NOTE / NOTES / PRONOUNCING INDEX OF PROPER NAMES / PRONOUNCING
+    INDEX; lines 23008-23324
+  start: '23008'
+  end: '23324'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: A pronouncing index listing proper names and brief identifications (e.g.,
+    god, dwarf, giant, river, hall, home), including multiple epithets for Othin and
+    entries for places and mythic objects such as Valhall and Yggdrasil, with many
+    cross-references to poem/page numbers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage consists of pronouncing-index entries: proper names followed
+    by short identifications (e.g., "a river," "a dwarf," "a giant," "Othin," "Thor,"
+    "Othins hall").'
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ygg-dras-il is identified as "the world-ash."
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Val-hall is identified as "Othins hall."
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Urth is identified as "a Norn."
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Multiple alternate names/epithets are listed for Othin (e.g., Val-fath-er,
+    Ygg, Veg-tam, Thund, Thuth, Uth).
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Many rivers are listed by name (e.g., Svol, Sylg, Thol, Thyn, Vin, Vond, Ylg,
+    and others).
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Othin
+  description: Listed as a god under multiple names/epithets (e.g., Val-father, Ygg,
+    Vegtam, Thund, Thuth, Uth).
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:3
+- id: fig:2
+  name_or_label: Thor
+  description: Listed as a god, with additional Thor-names (e.g., Ving-thor, Ving-nir)
+    and a home (Thrth-heim).
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: Urth
+  description: Identified as a Norn.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Ymir
+  description: Identified as a giant.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: god (named Othin; holder associated with Valhall)
+  assigned_to:
+  - fig:1
+  basis: Othin is repeatedly named; Val-hall is given as "Othins hall."
+  evidence_refs:
+  - ev:5
+  - ev:3
+- id: role:2
+  label: god (Thor)
+  assigned_to:
+  - fig:2
+  basis: Entry states "Thor, a god" and lists Thor-related names and a home.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: Norn
+  assigned_to:
+  - fig:3
+  basis: Entry states "Urth, a Norn."
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: giant
+  assigned_to:
+  - fig:4
+  basis: Entry states "Ym-ir, a giant."
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: World-ash (Yggdrasil)
+  literal_form: Ygg-dras-il, identified as "the world-ash"
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Rivers (named waterways)
+  literal_form: A list of rivers by proper name (e.g., Svol, Sylg, Thol, Thyn, Vin,
+    Vond, Ylg, etc.).
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: World tree / sacred axis (Yggdrasil as world-ash)
+  taxonomy_refs:
+  - sacred_tree_axis
+  - world_center
+  basis: The index explicitly identifies Yggdrasil as "the world-ash," a world-tree
+    object-name in the corpus.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This passage is an index entry rather than a narrative description; motif
+    assignment is based only on the object identification.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 23008-23324
+  quote_or_summary: Pronouncing index entries listing proper names with brief identifications
+    (e.g., god, dwarf, giant, river, hall, home) and many cross-references.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain text; summarized.
+- id: ev:2
+  type: quote
+  locator: 23008-23324
+  quote_or_summary: '"Ygg-dras-il, the world-ash"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain text; short quote.
+- id: ev:3
+  type: quote
+  locator: 23008-23324
+  quote_or_summary: '"Val-hall, Othins hall"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain text; short quote.
+- id: ev:4
+  type: quote
+  locator: 23008-23324
+  quote_or_summary: '"Urth, a Norn"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain text; short quote.
+- id: ev:5
+  type: summary
+  locator: 23008-23324
+  quote_or_summary: Multiple entries list Othin under different names/epithets (e.g.,
+    Val-father, Ygg, Vegtam, Thund, Thuth, Uth, and others).
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain text; summarized.
+- id: ev:6
+  type: summary
+  locator: 23008-23324
+  quote_or_summary: Multiple entries identify many named rivers (e.g., Svol, Sylg,
+    Thol, Thyn, Vin, Vond, Ylg, etc.).
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain text; summarized.
+- id: ev:7
+  type: summary
+  locator: 23008-23324
+  quote_or_summary: Entries include "Thr, a god" (Thor) plus related Thor-names (e.g.,
+    Ving-thor, Ving-nir) and places such as "Thrth-heim, Thors home."
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain text; summarized.
+- id: ev:8
+  type: quote
+  locator: 23008-23324
+  quote_or_summary: '"Ym-ir, a giant"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain text; short quote.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is straightforward because the passage is an index; motif inference
+    is limited to explicit identifications like "world-ash." No comparisons are stated
+    in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  Kept figures/symbols limited to a few salient entries to avoid turning the full index into an exhaustive entity list.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l23008-l23324
+  passage_sha256=d1d8ba737655f624d2d8dab331031810e58b612e8efecf75f9ba039985dc1ab2
+

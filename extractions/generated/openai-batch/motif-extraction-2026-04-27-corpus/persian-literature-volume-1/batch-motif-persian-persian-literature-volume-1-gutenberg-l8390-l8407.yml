@@ -1,0 +1,295 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l8390-l8407
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: INVASION OF IRN BY AFRSIYB / THE RETURN OF KAI-KS / STORY OF SOHRB / THE
+    STORY OF SAIWUSH; lines 8390-8407
+  start: '8390'
+  end: '8407'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: Kai-khosru’s success in an expedition against an enchanted castle is said
+    to secure the king’s favor over Frburz. It is announced to the realm’s elites
+    that Kai-khosru will succeed to the throne, and he is crowned with great pomp.
+    As ruler he behaves kindly toward all ranks, visits his grandfather regularly
+    to learn the kingdom’s affairs, and is portrayed as spreading justice, uprooting
+    oppression, and bringing cultivation and verdure so that the land and people prosper.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kai-khosru’s expedition against an enchanted castle is presented as more successful
+    (in result) than that of Frburz, and this establishes Kai-khosru in the king’s
+    estimation.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: It is announced to princes, nobles, and warriors that Kai-khosru will succeed
+    to the throne and be crowned on a fortunate day.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A coronation occurs shortly afterward with great pomp and splendor.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Khosru behaves with kindness and benevolence toward people of all ranks, gaining
+    general affection.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Khosru visits his grandfather Ks daily and familiarizes himself with the affairs
+    of the kingdom he is destined to govern.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Khosru is described as spreading justice, rooting out oppression, and bringing
+    cultivation so that deserts, woods, wilds, plains, and Persian hearts are portrayed
+    as flourishing and glad.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Kai-khosru (Khosru)
+  description: A prince whose successful expedition leads to his designation as successor
+    and whose coronation and just, benevolent conduct are praised.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Frburz
+  description: A comparator whose expedition’s result is contrasted with Kai-khosru’s.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the king (unnamed)
+  description: The ruler whose estimation and announcement establish Kai-khosru as
+    successor.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Ks (grandfather of Kai-khosru)
+  description: Kai-khosru’s grandfather whom he visits daily to learn affairs of the
+    kingdom.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: princes, nobles, and warriors of the land
+  description: Elites to whom the succession is announced.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: designated successor to the throne
+  assigned_to:
+  - fig:1
+  basis: It is announced that Kai-khosru should succeed to the throne and be crowned.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: just and benevolent ruler
+  assigned_to:
+  - fig:1
+  basis: He is said to show kindness and benevolence to all ranks and to spread justice
+    and root out oppression.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: rival/comparator claimant
+  assigned_to:
+  - fig:2
+  basis: Frburz’s expedition result is explicitly compared with Kai-khosru’s and found
+    less establishing.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: sovereign conferring legitimacy
+  assigned_to:
+  - fig:3
+  basis: The king’s estimation and the realm-wide announcement establish Kai-khosru
+    as successor.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: grandfather and senior figure consulted
+  assigned_to:
+  - fig:4
+  basis: Kai-khosru visits his grandfather daily to learn the kingdom’s affairs.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: witnesses/recipients of royal announcement
+  assigned_to:
+  - fig:5
+  basis: The announcement of succession is made to princes, nobles, and warriors.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: enchanted castle
+  literal_form: An 'enchanted castle' targeted in Kai-khosru’s expedition.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: throne and coronation
+  literal_form: Succession to the throne and a coronation with crown/pomp on a fortunate
+    day.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: justice rooting out oppression
+  literal_form: Justice described as spreading with equal hand and uprooting oppression
+    from the land.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: cultivation and verdure
+  literal_form: Deserts, woods, wilds, and plains depicted as smiling with cultivation
+    and being verdure-clad.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Success establishes succession
+  summary: Kai-khosru’s expeditionary success, contrasted with Frburz’s, leads to
+    a public announcement that he will succeed to the throne and be crowned.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Coronation and exemplary kingship
+  summary: Kai-khosru is crowned with pomp; he treats all ranks kindly, consults his
+    grandfather to learn governance, and is portrayed as spreading justice that brings
+    prosperity to the land and people.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Legitimate succession established by merit and public coronation
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage links Kai-khosru’s demonstrated success to a formal announcement
+    of succession and a coronation with pomp, establishing him as rightful ruler.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The king is unnamed here; legitimacy is framed through court approval
+    and ceremony rather than explicit divine sanction.
+- id: motif:2
+  label: Wise governance through learning and just administration
+  taxonomy_refs:
+  - wisdom
+  basis: Kai-khosru is described as learning the kingdom’s affairs through daily visits
+    to his grandfather and as ruling with justice and benevolence.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage praises character and outcomes but does not depict a specific
+    act of counsel or a discrete 'wisdom test' episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8390-8395
+  quote_or_summary: Kai-khosru’s expedition against an enchanted castle is compared
+    favorably to Frburz’s; it establishes him in the king’s estimation, and it is
+    announced to princes/nobles/warriors that he will succeed to the throne and be
+    crowned on a fortunate day.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain; full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 8395-8397
+  quote_or_summary: The coronation takes place shortly afterward with great pomp and
+    splendor.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain; full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 8397-8401
+  quote_or_summary: Khosru behaves with kindness and benevolence toward all ranks,
+    gains affection, visits his grandfather Ks daily, and familiarizes himself with
+    the kingdom’s affairs.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain; full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 8402-8407
+  quote_or_summary: 'Verse praise: he spreads justice, roots out oppression; deserts/woods/wilds
+    and plains flourish with cultivation and verdure; Persian hearts are glad.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain; full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: 'Motif candidates are limited to what is explicit: succession/coronation
+    and praised just rule; no explicit cross-tradition comparison appears in the passage.'
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  Name spellings follow the passage (e.g., 'Ks', 'Frburz'); identification with other epic names is not inferred.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l8390-l8407
+  passage_sha256=023cd0e188495de1d33b8eaf034e048058f55b340583e6315b6d7b6588123bcf
+

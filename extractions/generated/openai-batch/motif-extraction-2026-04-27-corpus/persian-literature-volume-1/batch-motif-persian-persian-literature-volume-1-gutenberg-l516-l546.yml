@@ -1,0 +1,168 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l516-l546
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: THE RUBIYT / THE DIVAN / THE SHH NMEH / FIRDUSI; lines 516-546
+  start: '516'
+  end: '546'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: An editorial prefatory note introduces sections of the volume and states
+    that, in translating the Shāh Nāmeh, the printer’s system for rendering Oriental
+    words (attributed to Sir William Jones) is followed, with examples of how Latin
+    letters and accents represent Persian vowel sounds and diphthongs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage lists works/sections included: The Rubāʿiyāt (Omar Khayyām),
+    The Divan (including a fragment by Hāfiz), and the Shāh Nāmeh by Firdusi.'
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Shāh Nāmeh is identified with the author name FIRDUSI and the parenthetical
+    name “Abul Kasim Mansur,” and it is noted as translated into English by James
+    Atkinson.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the printing/transliteration system of Sir William
+    Jones for Oriental words has been kept in view in the work.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: It specifies how certain Latin letters and accents represent vowel sounds
+    (e.g., short and broad “a,” accented “i,” “u,” and “o”) and describes the diphthongs
+    “ai” and “au/ou” with English/German pronunciation examples.
+  category: other
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Firdusi (Abul Kasim Mansur)
+  description: Named as the author of the Shāh Nāmeh, with the parenthetical personal
+    name “Abul Kasim Mansur.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: James Atkinson
+  description: Identified as the English translator of the Shāh Nāmeh.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Sir William Jones
+  description: Cited as the source of a system for printing/transliterating Oriental
+    words used as a guide in the work.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Omar Khayyam
+  description: Named in association with The Rubāʿiyāt section of the volume.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Hafiz
+  description: Named in association with a fragment included under The Divan section.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: author (Shāh Nāmeh)
+  assigned_to:
+  - fig:1
+  basis: The passage presents “THE SHH NMEH … by … FIRDUSI (Abul Kasim Mansur).”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: translator (into English)
+  assigned_to:
+  - fig:2
+  basis: The passage includes the note “Translated into English by James Atkinson.”
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: reference authority for transliteration/printing system
+  assigned_to:
+  - fig:3
+  basis: The passage states that Sir William Jones’s system for printing Oriental
+    words has been kept in view.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: author associated with The Rubāʿiyāt section
+  assigned_to:
+  - fig:4
+  basis: The passage lists “Omar Khayym” under “THE RUBIYT.”
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: author associated with a fragment in The Divan section
+  assigned_to:
+  - fig:5
+  basis: The passage lists “Fragment by Hfiz” under “THE DIVAN.”
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Prefatory note on contents and transliteration system
+  summary: A prefatory/editorial segment identifies included sections and states that
+    a specific transliteration/printing scheme for Oriental words is used, explaining
+    vowel and diphthong values with pronunciation examples.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 516-546
+  quote_or_summary: Lists volume sections (Rubāʿiyāt/Omar Khayyām; Divan including
+    a fragment by Hāfiz; Shāh Nāmeh by Firdusi with the name Abul Kasim Mansur; translated
+    by James Atkinson) and explains that Sir William Jones’s system for printing Oriental
+    words is followed, detailing how letters/accents represent vowel sounds and how
+    diphthongs are pronounced.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: This passage is editorial/transliteration guidance rather than narrative
+    content; no mythic motifs or symbolic elements are directly present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  No comparative mythology motifs extracted because the passage contains bibliographic headings and transliteration notes only.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l516-l546
+  passage_sha256=331a9d0feeff0d4735f24f6cdec58b52154aacdbbe1bf3a9bf623ea208a6a665
+

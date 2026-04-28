@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l22700-l23006
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: INTRODUCTORY NOTE / NOTES / PRONOUNCING INDEX OF PROPER NAMES / PRONOUNCING
+    INDEX; lines 22700-23006
+  start: '22700'
+  end: '23006'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: This passage is a pronouncing index of proper names from the Poetic Edda,
+    listing names (persons, gods, places, objects) with brief identifications (e.g.,
+    river, mountain, serpent, ship) and cross-references to other locations in the
+    book.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage consists of index-style entries giving proper names and brief
+    identifications (e.g., 'a river', 'a mountain', 'a sword', 'a ship', 'a serpent',
+    'a goddess', 'a giant'), often followed by numeric cross-references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Multiple entries identify named rivers (e.g., Rn; Rin-nand-i; Sk-in; Slth;
+    Strond; Sth).
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Multiple entries identify named mountains/hills (e.g., Roth-uls-fjoll; Sn-fjoll;
+    Sl-fjoll; Svar-in as a hill).
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One entry identifies 'Svaf-nir' as a serpent.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One entry identifies 'Skth-blath-nir' as a ship.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Some entries explicitly specify family or marital relationships (e.g., Rind
+    as mother of Vali; Rn as wife of gir; Sigyn as wife of Loki; Skirnir as Freyr's
+    servant; Roskva as sister of Thjalfi).
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Rig / Heimdall (?)
+  description: Listed as 'Rg, Heimdall (?)'.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Rind
+  description: Listed as 'mother of Vali'.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Vali
+  description: Referenced as the child of Rind ('mother of Vali').
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Rn (Rán)
+  description: Listed as 'wife of gir'.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: gir (Ægir)
+  description: Referenced as spouse of Rn ('wife of gir').
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Sigyn
+  description: Listed as 'wife of Loki'.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Loki
+  description: Referenced as spouse of Sigyn ('wife of Loki').
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Skirnir
+  description: Listed as 'Freyrs servant'.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Freyr
+  description: Referenced in 'Freyrs servant' (Skirnir).
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Svafnir (serpent)
+  description: Listed as 'a serpent'.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: identified with Heimdall (uncertain)
+  assigned_to:
+  - fig:1
+  basis: Index entry reads 'Rg, Heimdall (?)'.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mother
+  assigned_to:
+  - fig:2
+  basis: Index entry identifies Rind as 'mother of Vali'.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: child (of named mother)
+  assigned_to:
+  - fig:3
+  basis: Vali is referenced via the entry 'Rind, mother of Vali'.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: wife
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: Entries specify 'Rn, wife of gir' and 'Sig-yn, wife of Loki'.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: husband/spouse
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: gir and Loki are referenced as the spouses of Rn and Sigyn respectively.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: servant
+  assigned_to:
+  - fig:8
+  basis: Index entry identifies Skirnir as 'Freyrs servant'.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: master/served deity
+  assigned_to:
+  - fig:9
+  basis: Freyr is referenced by possessive in 'Freyrs servant'.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: serpent being
+  assigned_to:
+  - fig:10
+  basis: Index entry identifies 'Svaf-nir' as 'a serpent'.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Rivers (water)
+  literal_form: Named rivers listed in the index (e.g., Rn; Rin-nand-i; Sk-in; Slth;
+    Strond; Sth).
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Mountains/hills
+  literal_form: Named mountains/hills listed in the index (e.g., Roth-uls-fjoll; Sn-fjoll;
+    Sl-fjoll; Svar-in as a hill).
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Serpent
+  literal_form: Svaf-nir identified as 'a serpent'.
+  associated_figures:
+  - fig:10
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Pronouncing index of proper names
+  summary: A compiled list of proper names with brief identifications and references
+    (including rivers, mountains, a serpent, and a ship).
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: Serpent being named in the tradition
+  taxonomy_refs:
+  - serpent
+  basis: The index explicitly includes 'Svaf-nir, a serpent'.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: This is an index entry without narrative context; it only indicates the
+    presence of a serpent figure name, not a serpent-related episode.
+- id: motif:2
+  label: Named parent-child relationship (mother of a named figure)
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The index lists 'Rind, mother of Vali'.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The entry records a kinship identification only; it does not describe
+    a mythic parent-child episode, and the divinity/status of the figures is not specified
+    within this passage.
+- id: motif:3
+  label: Sibling relationship identification
+  taxonomy_refs:
+  - sibling_pair
+  basis: The index lists 'Rosk-va, sister of Thjalfi'.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: This is a relationship label in an index, not a narrated sibling-pair
+    motif in action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22700-23006
+  quote_or_summary: Index-style list of proper names from the Poetic Edda with brief
+    identifications and numeric cross-references (e.g., persons, gods, places, objects).
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation (Project Gutenberg/Bellows).
+- id: ev:2
+  type: summary
+  locator: lines 22700-23006
+  quote_or_summary: Entries identify several named rivers, including Rn, Rin-nand-i,
+    Sk-in, Slth, Strond, and Sth.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation (Project Gutenberg/Bellows).
+- id: ev:3
+  type: summary
+  locator: lines 22700-23006
+  quote_or_summary: Entries identify several mountains/hills, including Roth-uls-fjoll
+    (mountain), Sn-fjoll (mountain), Sl-fjoll (mountain), and Svar-in (hill).
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation (Project Gutenberg/Bellows).
+- id: ev:4
+  type: summary
+  locator: lines 22700-23006
+  quote_or_summary: The index includes the entry 'Svaf-nir, a serpent'.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation (Project Gutenberg/Bellows).
+- id: ev:5
+  type: summary
+  locator: lines 22700-23006
+  quote_or_summary: The index includes the entry 'Skth-blath-nir, a ship'.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation (Project Gutenberg/Bellows).
+- id: ev:6
+  type: summary
+  locator: lines 22700-23006
+  quote_or_summary: 'The index specifies relationships/roles in brief entries, including:
+    ''Rind, mother of Vali''; ''Rn, wife of gir''; ''Sig-yn, wife of Loki''; ''Skirn-ir,
+    Freyrs servant''; and ''Rosk-va, sister of Thjalfi''.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation (Project Gutenberg/Bellows).
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is an index rather than a narrative episode; extraction of motifs
+    is limited to explicit identifications (e.g., serpent, kinship labels) without
+    story context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  Kept to explicit identifications present in the pronouncing index; avoided expanding beyond what is stated in this passage.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l22700-l23006
+  passage_sha256=9da5c0ffd34554e5ccd53a122aa3223c66e4a78ed8fbce4a340d8c3b6d6a6364
+

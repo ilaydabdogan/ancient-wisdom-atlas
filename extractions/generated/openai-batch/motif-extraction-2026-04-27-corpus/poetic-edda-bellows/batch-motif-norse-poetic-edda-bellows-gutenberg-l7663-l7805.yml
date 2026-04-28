@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l7663-l7805
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: NOTES / ALVISSMOL / THE BALLAD OF ALVIS / INTRODUCTORY NOTE; lines 7663-7805
+  start: '7663'
+  end: '7805'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: Thor questions the dwarf Alvis about what various beings in different worlds
+    call natural phenomena and substances (wind, calm, sea, fire, wood, night, seed,
+    ale). Alvis answers with different names for each across groups (men, gods, giants,
+    elves, dwarfs, Wanes, hell). Thor then remarks on Alvis’s great wisdom but says
+    he must betray him with treacherous wiles, declaring that daylight has caught
+    the dwarf as the sun shines in the hall.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Thor repeatedly commands Alvis to answer what different worlds call various
+    things (wind, calm, sea, fire, wood, night, seed, ale).
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Alvis provides multiple names for each item, assigning different terms to
+    different groups (e.g., men, gods, Wanes, giants, elves, dwarfs, inhabitants of
+    hell).
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Thor states he has never seen more "wealth of wisdom" in a single breast.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Thor says that with "treacherous wiles" he must betray Alvis, and declares
+    that day has caught the dwarf; the sun is shining in the hall.
+  category: speech
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Alvis
+  description: A dwarf who answers Thor’s questions and is told that day has caught
+    him.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Thor
+  description: Questions Alvis, acknowledges his wisdom, and says he will betray him
+    with treacherous wiles as daylight arrives.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Men
+  description: One of the groups whose naming terms for things are given.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Gods
+  description: One of the groups whose naming terms for things are given.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Wanes (Vanir)
+  description: A world/group whose naming terms are given for several items.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Giants
+  description: One of the groups whose naming terms for things are given.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Elves
+  description: One of the groups whose naming terms for things are given.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:8
+  name_or_label: Dwarfs
+  description: A group whose naming terms are given; Alvis is addressed as a dwarf.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:9
+  name_or_label: Dwellers in hell / hell
+  description: A realm/group referenced in some naming terms (e.g., “in hell …”).
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:10
+  name_or_label: Suttung's sons
+  description: A group referenced as having a name for the drink (“Feast-Draught”).
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:2
+  basis: Thor repeatedly asks what various things are called in each and every world.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: respondent / answerer
+  assigned_to:
+  - fig:1
+  basis: Alvis answers each question with lists of names used by different beings.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: bearer of extensive knowledge
+  assigned_to:
+  - fig:1
+  basis: Thor remarks on Alvis’s unusually great “wealth of wisdom.”
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: deceiver / betrayer
+  assigned_to:
+  - fig:2
+  basis: Thor says he must betray Alvis with “treacherous wiles” and announces that
+    daylight has caught him.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Wind
+  literal_form: wind (with variant names across groups/worlds)
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Calm / stillness
+  literal_form: calm that quiet lies (with variant names across groups/worlds)
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Sea
+  literal_form: sea whereon men sail (with variant names across groups/worlds)
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Fire
+  literal_form: fire that flames for men (with variant names across groups/worlds)
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: Wood
+  literal_form: wood that grows for mankind (with variant names across groups/worlds)
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: Night
+  literal_form: night, called “the daughter of Nor” (with variant names across groups/worlds)
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:7
+  label: Seed / grain
+  literal_form: seed sown by men (grain/corn, etc., with variant names across groups/worlds)
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:8
+  label: Ale / mead
+  literal_form: ale quaffed by men (beer/mead/etc., with variant names across groups/worlds)
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:9
+  label: Daylight / sun in the hall
+  literal_form: day catching the dwarf; sun shining in the hall
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Cosmological naming dialogue (kennings across worlds)
+  summary: Thor questions Alvis about what various beings in different worlds call
+    wind, calm, sea, fire, wood, night, seed, and ale; Alvis answers with multiple
+    names for each item.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Thor’s betrayal by delay; daylight arrives
+  summary: Thor praises Alvis’s wisdom but declares he must betray him with treacherous
+    wiles; he states that day has caught the dwarf as the sun shines in the hall.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Wisdom displayed as encyclopedic knowledge of names across realms
+  taxonomy_refs:
+  - wisdom
+  basis: Alvis answers a sustained series of questions with specialized names used
+    by different beings, and Thor calls this a great “wealth of wisdom.”
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents knowledge primarily as naming/terminology; broader
+    interpretive claims about wisdom traditions are not explicit.
+- id: motif:2
+  label: Deceptive delay/trick used against a knowledgeable other; daylight ‘catches’
+    the dwarf
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Thor explicitly says he must betray Alvis with “treacherous wiles” and announces
+    that day has caught him when the sun shines in the hall.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The excerpt does not explicitly state the consequence (e.g., what happens
+    to the dwarf) beyond being ‘caught’ by day.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: stanzas 20-34 (within lines 7663-7805)
+  quote_or_summary: Thor asks Alvis what different worlds/groups call wind, calm,
+    sea, fire, wood, night, seed, and ale; Alvis responds each time with multiple
+    names attributed to men, gods, Wanes, giants, elves, dwarfs, and/or beings in
+    hell (and Suttung’s sons for a drink-name).
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation (Project Gutenberg).
+- id: ev:2
+  type: summary
+  locator: stanza 35 (within lines 7663-7805)
+  quote_or_summary: Thor remarks that he has never seen more “wealth of wisdom” in
+    one breast, but says he must betray Alvis with treacherous wiles; he declares
+    that day has caught the dwarf and notes that the sun shines in the hall.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation (Project Gutenberg).
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal content and dialogue structure are clear; motif classification for
+    the betrayal/daylight element is tentative because the passage stops short of
+    stating the outcome explicitly.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  No cross-tradition comparison is made in this excerpt; it is an internal cosmological naming dialogue followed by Thor’s stated deception as daylight arrives.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l7663-l7805
+  passage_sha256=6113beb10c4c6e21a60160a940c090ef3cae89558666e37d741c2d4ff5ca8880
+

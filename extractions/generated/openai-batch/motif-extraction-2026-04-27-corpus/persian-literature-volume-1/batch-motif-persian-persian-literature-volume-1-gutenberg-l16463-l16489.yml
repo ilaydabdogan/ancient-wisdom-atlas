@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l16463-l16489
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: LXXXVI / LXXXVII / LXXXVIII / CXXIX; lines 16463-16489
+  start: '16463'
+  end: '16489'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: A first-person speaker (named as Hfiz) laments that endurance, intellect,
+    and peace have left him because he is captivated by a beautiful but unfeeling
+    ‘idol’ or ‘image.’ He describes the beloved’s appearance (lunar face, Turk-like
+    tunic) and his own inner passion using metaphors of fire and boiling. He reflects
+    that pain accompanies sweetness (rose with thorns, honey with sting), that the
+    body may decay while love remains, and concludes that only the beloved’s sweet
+    lips can serve as medicine for his suffering.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says endurance, intellect, and peace have flown from his bosom,
+    lured by an idol’s silver ear-lobes and heart of stone.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The speaker describes an ‘image’ with piercing looks and ‘peris’ beauty, slender
+    shape, lunar face, and a Turk-like tunic.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The speaker says a fierce glow is lit within him and likens himself to a culinary
+    pot tossed in ebullition.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: The speaker says his nature would be free from pain if, like the tunic, he
+    could press the wearer to his heart.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker claims that sweetness and beauty come with accompanying pain,
+    likening it to a rose with thorns and honey with sting.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The speaker states that the mortal body may rot in the mould, but his soul’s
+    love will not grow cold.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The speaker says his heart and faith were once unharmed but were charmed by
+    the beloved’s shoulders and breast.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The speaker (addressed as Hfiz) says a medicine for his woe must be sipped,
+    and that it is ‘that lip so sweet.’
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hfiz (speaker/poet)
+  description: A first-person speaker named in the closing address as ‘Hfiz,’ describing
+    his love-sickness and longing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:2
+  name_or_label: Beloved described as an ‘idol’ / ‘image’
+  description: A captivating beloved characterized as an idol/image with silver ear-lobes,
+    a heart of stone, piercing looks, ‘peris’ beauty, a lunar face, and a Turk-like
+    tunic.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+roles:
+- id: role:1
+  label: Lover / love-sufferer
+  assigned_to:
+  - fig:1
+  basis: The speaker reports losing peace and enduring inner burning/boiling, and
+    seeks medicine for his woe.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: role:2
+  label: Beloved object of desire
+  assigned_to:
+  - fig:2
+  basis: The beloved is described as the cause of the speaker’s loss of peace and
+    as physically alluring.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:3
+  label: Healer (source of the ‘medicine’)
+  assigned_to:
+  - fig:2
+  basis: The speaker states that the medicine for his woe is the beloved’s sweet lip.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Idol/image with silver ear-lobes and heart of stone
+  literal_form: An ‘idol’/‘image’ whose ear-lobes are ‘silver’ and whose heart is
+    ‘stone.’
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Turk-like tunic
+  literal_form: A Turk-like tunic worn by the beloved; the speaker wishes to press
+    the wearer to his heart like a garment.
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Inner fire/glow
+  literal_form: A ‘fierce glow’ lit within the speaker in amorous frenzy.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Boiling culinary pot
+  literal_form: The speaker likens himself to a culinary pot in ebullition.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Rose and thorns
+  literal_form: A rose that is not apart from thorns, used to illustrate that pain
+    accompanies beauty.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Honey and sting
+  literal_form: Honey that is not void of sting, used to illustrate that sweetness
+    accompanies pain.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Rotting mortal framework / mould
+  literal_form: The mortal form’s framework rotting within the mould, contrasted with
+    enduring love in the soul.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: Medicine as the beloved’s sweet lips
+  literal_form: A medicine to be sipped, identified as the beloved’s ‘lip so sweet.’
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Love-sickness lament and imagined cure
+  summary: Hfiz describes being captivated by a beautiful but emotionally hard beloved;
+    he depicts his own burning/boiling passion, reflects that sweetness brings pain,
+    asserts that love outlasts bodily decay, and concludes that only the beloved’s
+    sweet lips can cure his woe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Love as an affliction cured only by the beloved
+  taxonomy_refs: []
+  basis: The speaker frames his suffering as needing ‘medicine’ and identifies the
+    cure as the beloved’s sweet lips.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: Presented as poetic metaphor within a lyric; not necessarily a medical
+    or ritual motif.
+- id: motif:2
+  label: Enduring love beyond bodily decay
+  taxonomy_refs: []
+  basis: The speaker contrasts the mortal body rotting in mould with a love in the
+    soul that never grows cold.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: A general theme of steadfast love/inner permanence rather than a specific
+    narrative pattern.
+- id: motif:3
+  label: Beauty paired with pain (sweetness with sting)
+  taxonomy_refs: []
+  basis: The speaker states that roses come with thorns and honey with sting, as an
+    analogy for love’s hardship.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: Agnostic about any broader mythic structure; primarily an ethical/experiential
+    aphorism.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16463-16489
+  quote_or_summary: 'Overall: Hfiz laments being captivated by an idol-like beloved;
+    uses metaphors of burning/boiling passion; reflects on pain accompanying sweetness;
+    asserts love persists beyond bodily decay; says only the beloved’s sweet lips
+    are medicine for his woe.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 16463-16466
+  quote_or_summary: Endurance, intellect, and peace have flown from the speaker, lured
+    by an idol’s silver ear-lobes and heart of stone.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 16467-16470
+  quote_or_summary: The beloved ‘image’ is described as brisk with piercing looks,
+    ‘peris’ beauty, slender shape, a lunar face, and a Turk-like tunic.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 16471-16476
+  quote_or_summary: A fierce glow is lit within the speaker; he compares himself to
+    a culinary pot in ebullition and says he would be free from pain if he could press
+    the wearer to his heart like a tunic/shirt.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 16477-16480
+  quote_or_summary: The speaker says he no longer grieves at harshness, since a rose
+    is not without thorns and honey is not without sting.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 16481-16486
+  quote_or_summary: The speaker says the mortal form may rot in mould, but love in
+    his soul will not grow cold; he adds his heart and faith were unharmed until charmed
+    by the beloved’s shoulders and breast.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 16487-16489
+  quote_or_summary: The closing address to Hfiz states that the medicine for his woe
+    must be sipped and is none other than the beloved’s sweet lip.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal elements are clear; motif candidates are thematic/lyric rather than
+    narrative and are therefore offered cautiously without taxonomy family assignment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  No cross-tradition comparison is made in the passage; therefore comparison_claims left empty.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l16463-l16489
+  passage_sha256=51c602bd5fdb33d04f149af0b198640147b913a482998fa745fbb2c72607e6e1
+

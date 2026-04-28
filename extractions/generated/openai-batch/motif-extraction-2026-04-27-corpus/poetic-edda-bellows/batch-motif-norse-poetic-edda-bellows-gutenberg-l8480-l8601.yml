@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l8480-l8601
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: RIGSTHULA / THE SONG OF RIG / INTRODUCTORY NOTE / NOTES; lines 8480-8601
+  start: '8480'
+  end: '8601'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes discuss the likely date and limited mythological knowledge
+    of the prose annotator who identified Rig as Heimdall; the notes argue this identification
+    is weak and that Rig better fits Othin. The notes also comment on manuscript gaps
+    and stanza arrangement, explain names and name-meanings (e.g., Ai/Edda, Thrll),
+    mention a pre-Christian custom of sprinkling water on children, note an association
+    of dark hair with foreignness and slavery, and point to Celtic linguistic influence
+    in certain words (e.g., Rig from Old Irish for “king,” and a term for “cart”).
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The prose annotator identifies Rig as Heimdall but provides little information
+    beyond what is in the poem; the annotator is suggested to have written around
+    1300 or later and is not credited with considerable mythological knowledge.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The notes state there is little support for identifying Rig with Heimdall
+    beyond vague passages in other poems, while elements in Rigsthula (e.g., “aged
+    and wise” and references to runes) are said to fit Othin well; the notes conclude
+    Rig is probably Othin rather than Heimdall.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The notes explain “Rig” is almost certainly based on the Old Irish word for
+    king (ri/rig).
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Editors are said to assume gaps/lacunae and rearrangements in the manuscript;
+    multiple specific stanza-line issues and conjectural reconstructions are described.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A custom of sprinkling water on children is noted as pre-Christian and referenced
+    as antedating Christianity.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Dark hair (“Black”) is described as a mark of a foreigner among blond Scandinavians,
+    hence of a slave, in the note’s explanation of Thrll (Thrall/Slave).
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A term glossed as “cart” (kartr) is described as a clear sign of Celtic influence.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Prose annotator (of the introductory note)
+  description: A later annotator (c. 1300 or later) who identifies Rig as Heimdall
+    and uses the phrase “old stories.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Rig
+  description: Figure in Rigsthula; identified by the annotator as Heimdall, but argued
+    in the notes to fit Othin better; name linked to Old Irish word for “king.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Heimdall
+  description: Named as the watchman of the gods; proposed identity for Rig in the
+    annotator’s note; elsewhere said to have “sons” and to be called the “kinsman
+    of men.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Othin
+  description: Proposed in the notes as the more probable identity for Rig, based
+    on internal features of Rigsthula (aged and wise; runes).
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Volva (seeress)
+  description: In Voluspo 1, she asks for hearing from Heimdall’s sons, both high
+    and low (as cited in the notes).
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: annotator/commentator
+  assigned_to:
+  - fig:1
+  basis: Described as writer of the prose note, offering an identification (Rig =
+    Heimdall) and minimal additional information.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: named figure whose identity is debated in notes
+  assigned_to:
+  - fig:2
+  basis: The notes discuss whether Rig is Heimdall or Othin and provide linguistic
+    etymology for the name.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: watchman of the gods (as characterized in notes)
+  assigned_to:
+  - fig:3
+  basis: Heimdall is explicitly described as “the watchman of the gods” in the notes.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: proposed better-fitting identity for Rig (per notes)
+  assigned_to:
+  - fig:4
+  basis: The notes state that internal features of Rigsthula fit Othin exceedingly
+    well and that Rig is probably Othin.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: seeress requesting hearing
+  assigned_to:
+  - fig:5
+  basis: The notes summarize Voluspo 1 where the Volva asks for hearing from Heimdall’s
+    sons.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Sprinkling water on children
+  literal_form: Water used in a child-sprinkling custom noted as pre-Christian.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: Runes (as a referenced feature of Rigsthula)
+  literal_form: References to runes (noted as appearing in stanzas 36, 44, 46).
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: "“Rig” as ‘king’ (linguistic sign)"
+  literal_form: Name explained as based on Old Irish ri/rig meaning ‘king.’
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Annotator’s identification and its evaluation
+  summary: The notes describe the prose annotator’s identification of Rig as Heimdall,
+    question the annotator’s mythological knowledge, and argue the identification
+    is likely incorrect.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Child-sprinkling custom mentioned in notes
+  summary: The notes mention a pre-Christian custom of sprinkling water on children,
+    in connection with discussion of a damaged manuscript passage.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Social marking in explanatory note (dark hair and slavery)
+  summary: The notes explain that dark hair was viewed as a mark of foreignness among
+    Scandinavians and thus associated with slave status (in the context of Thrll/Thrall).
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Linguistic/Celtic influence noted
+  summary: The notes connect the name Rig to Old Irish for ‘king’ and treat a word
+    for ‘cart’ as evidence of Celtic influence.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divine figure associated with humankind (kinsman/ancestor language)
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The notes cite other poems where Heimdall has “sons” and is called the “kinsman
+    of men,” and discuss Rig’s identification with Heimdall/Othin in that context.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: This passage is editorial commentary citing other poems rather than narrating
+    the motif directly in Rigsthula’s story.
+- id: motif:2
+  label: Ritual sprinkling of water on children (pre-Christian)
+  taxonomy_refs:
+  - initiation
+  basis: The notes explicitly mention an old custom of sprinkling water on children,
+    predating Christianity.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The note frames this as a custom; the passage does not describe a full
+    ritual sequence or its meaning beyond antiquity.
+- id: motif:3
+  label: Kingly title/name linked to legitimacy via etymology ('Rig' = king)
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The notes state the name Rig is based on Old Irish for “king.”
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: This is a linguistic/etymological argument; no narrative of legitimation
+    is presented in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The notes propose a linguistic connection between the name ‘Rig’ and the
+    Old Irish word for ‘king’ (ri/rig).
+  claim_level: linguistic_similarity
+  target: Old Irish (Celtic) lexical influence on the name ‘Rig’
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: A single etymological assertion in commentary; no additional philological
+    evidence is provided here.
+- id: claim:2
+  claim: The notes treat the word for ‘cart’ (kartr) as a sign of Celtic influence
+    on the poem’s vocabulary.
+  claim_level: linguistic_similarity
+  target: Celtic influence on Rigsthula vocabulary (term kartr)
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage asserts influence but does not demonstrate it with comparative
+    forms or broader context.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8480-8500
+  quote_or_summary: Notes describe the prose annotator’s phrase “old stories,” his
+    identification of Rig as Heimdall, the probable late date of the note (c. 1300
+    or later), and skepticism about the annotator’s mythological knowledge.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation/notes; summarized.
+- id: ev:2
+  type: summary
+  locator: 8500-8525
+  quote_or_summary: Notes argue there is little to favor Rig = Heimdall beyond vague
+    passages (Voluspo, Grimnismol, Hyndluljoth), while features in Rigsthula (aged
+    and wise; references to runes) fit Othin; concludes Rig is probably Othin, not
+    Heimdall.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation/notes; summarized.
+- id: ev:3
+  type: summary
+  locator: 8525-8530
+  quote_or_summary: Notes state “Rig” is almost certainly based on Old Irish ri/rig
+    meaning “king.”
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation/notes; summarized.
+- id: ev:4
+  type: summary
+  locator: 8530-8580
+  quote_or_summary: 'Notes list multiple manuscript/editorial issues: assumed gaps,
+    rearranged lines, uncertain stanza divisions, conjectural reconstructions, and
+    explanations of various names and epithets.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation/notes; summarized.
+- id: ev:5
+  type: summary
+  locator: 8560-8568
+  quote_or_summary: Notes mention a custom of sprinkling water on children that long
+    predates Christianity, with a cross-reference to Hovamol.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation/notes; summarized.
+- id: ev:6
+  type: summary
+  locator: 8568-8575
+  quote_or_summary: Notes explain ‘Black’ (dark hair) as a mark of a foreigner among
+    blond Scandinavians and thus associated with a slave; ‘Thrll’ glossed as Thrall/Slave.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation/notes; summarized.
+- id: ev:7
+  type: summary
+  locator: 8585-8595
+  quote_or_summary: Notes gloss ‘Cart’ (kartr) and call it a clear sign of Celtic
+    influence noted in the introduction.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation/notes; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: Passage is editorial commentary/philological notes rather than a narrative
+    episode; motif extraction is therefore tentative and limited to what is explicitly
+    mentioned.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  This record covers Bellows’s NOTES section, including claims about Rig’s identification, manuscript lacunae, and etymological/Celtic influence remarks; it does not summarize the poem’s narrative beyond what the notes explicitly state.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l8480-l8601
+  passage_sha256=48ccf651fa399b4369a49ba327f10d69af866db1965f86571591ae02f31294ed
+

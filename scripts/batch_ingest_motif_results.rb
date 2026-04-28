@@ -193,8 +193,30 @@ request_index.fetch("shards", []).each do |shard|
       next
     end
 
+    body = response["body"] || {}
+    if body["status"] == "incomplete" || body["incomplete_details"]
+      failed += 1
+      ingest_records = AtlasBatch.append_unique(
+        ingest_records,
+        {
+          "custom_id" => custom_id,
+          "status" => "failed",
+          "error" => {
+            "type" => "incomplete_response",
+            "response_status" => body["status"],
+            "incomplete_details" => body["incomplete_details"],
+            "max_output_tokens" => body["max_output_tokens"],
+            "model" => body["model"]
+          },
+          "updated_at" => AtlasBatch.utc_now
+        },
+        "custom_id"
+      )
+      next
+    end
+
     begin
-      text = response_text(response.fetch("body"))
+      text = response_text(body)
       raise "empty response text" if text.to_s.strip.empty?
       parsed = parse_json_text(text)
       normalized = normalize_record(parsed, mapping, manifest, model)

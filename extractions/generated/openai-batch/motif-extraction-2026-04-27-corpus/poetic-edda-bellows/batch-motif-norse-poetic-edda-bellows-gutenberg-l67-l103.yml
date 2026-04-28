@@ -1,0 +1,155 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l67-l103
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: The Poetic Edda / TWO VOLUMES IN ONE; lines 67-103
+  start: '67'
+  end: '103'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: Front matter identifying the work (The Poetic Edda), translator (Henry
+    Adams Bellows), publication information (New York/London, 1923), the Scandinavian
+    Classics series (volumes XXI and XXII), a series mission statement by The American-Scandinavian
+    Foundation, and a dedication to George Lyman Kittredge.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The text presents the title 'The Poetic Edda' and notes it is translated from
+    Icelandic by Henry Adams Bellows.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The front matter lists publication and institutional information, including
+    The American-Scandinavian Foundation and Oxford University Press (Humphrey Milford,
+    London), with the date 1923.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A series statement says Scandinavian Classics are published to promote familiarity
+    with northern literary monuments and thereby help Americans understand Scandinavians
+    and stimulate sympathetic cooperation.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: There is a dedication to George Lyman Kittredge and a note that the series
+    includes volumes XXI and XXII.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Henry Adams Bellows
+  description: Named as the translator of the work from Icelandic.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: The American-Scandinavian Foundation
+  description: Named as publisher of the Scandinavian Classics series and associated
+    with the stated publication purpose.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: George Lyman Kittredge
+  description: Named in the dedication.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: translator
+  assigned_to:
+  - fig:1
+  basis: Bellows is identified as the translator from Icelandic.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: publisher / series sponsor
+  assigned_to:
+  - fig:2
+  basis: The foundation is named as the publisher of the series and provides the series
+    rationale.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: dedicatee
+  assigned_to:
+  - fig:3
+  basis: The front matter includes a dedication 'To George Lyman Kittredge'.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Title-page and series statement
+  summary: The front matter identifies the work and translator, provides publication
+    details, states the purpose of the Scandinavian Classics series, and includes
+    a dedication.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 67-103
+  quote_or_summary: Front-matter/title-page material naming the work (The Poetic Edda),
+    the translator (Henry Adams Bellows), and publication information including New
+    York, The American-Scandinavian Foundation, London (Humphrey Milford), Oxford
+    University Press, and the date 1923.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 67-103
+  quote_or_summary: 'Series statement: the Scandinavian Classics are published to
+    increase familiarity with northern literary monuments to help Americans better
+    understand Scandinavians and stimulate sympathetic cooperation.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 67-103
+  quote_or_summary: Dedication 'To George Lyman Kittredge' and identification of the
+    series as 'Scandinavian Classics' volumes XXI and XXII.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: This excerpt is bibliographic/series front matter and contains no mythic
+    narrative elements; therefore no symbols or motifs are extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  No comparative mythology motifs or traditional symbols are present in the provided passage.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l67-l103
+  passage_sha256=eb5f6c96fee0fc3b4f760d35dd66d0d36e92a9a799aa208eaa4858e63390ff1e
+

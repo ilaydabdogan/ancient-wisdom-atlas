@@ -1,0 +1,405 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l13144-l13177
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: GUSHTSP, AND THE FAITH OF ZERDUSHT / THE HEFT-KHAN OF ISFENDIYR / CAPTURE
+    OF THE BRAZEN FORTRESS / THE DEATH OF ISFENDIYR; lines 13144-13177
+  start: '13144'
+  end: '13177'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: Isfendiyr’s bier arrives at Gushtsp’s palace, prompting mourning and public
+    anger toward Gushtsp. The women lament that Isfendiyr’s death was caused not by
+    human hands (Rustem or Zl) but by the Smrgh. Rustem fulfills an agreement by training
+    Bahman in warrior skills, then writes to Gushtsp asserting he is blameless and
+    that Isfendiyr rejected peace offers. Gushtsp consults Bashtan, accepts Rustem’s
+    account, absolves him, summons Bahman, and appoints him heir to the throne.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A bier arrives in Persia at Gushtsp’s palace, and there is widespread public
+    and domestic mourning; Gushtsp removes the covering and weeps.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mother and sisters lament that the death was not the work of human hands
+    (not Rustem, nor Zl) but of the Smrgh; they also lament Isfendiyr died before
+    old age and before seeing his children mature.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The people curse and imprecate Gushtsp for cruel and unnatural conduct, and
+    he confines himself to the palace until after Isfendiyr’s interment.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Rustem trains Bahman in manly exercises and weapons use (bow, javelin, sword,
+    buckler) and warrior accomplishments.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Rustem writes to Gushtsp claiming he was unblamable in the conflict that ended
+    in Isfendiyr’s death; he states he offered gifts/wealth and was ready to return
+    with Isfendiyr to Iran, but his overtures were rejected; he attributes the death
+    to relentless fate and reports Bahman’s education completed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Gushtsp reads the letter, refers to Bashtan who confirms Rustem’s declarations,
+    and Gushtsp acquits Rustem of guilt while ascribing the event to overruling destiny.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Gushtsp sends for Bahman; upon Bahman’s arrival from Sistan, Gushtsp is pleased
+    and appoints him to succeed to the throne; a verse compares Bahman’s appearance
+    to Isfendiyr and asks him to remain with Gushtsp.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Gushtsp (king)
+  description: King at whose palace Isfendiyr’s bier arrives; mourns, is cursed by
+    the people, consults Bashtan, absolves Rustem, and appoints Bahman as successor.
+  role_refs:
+  - role:1
+  - role:6
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Isfendiyr
+  description: Deceased son whose bier is brought to the palace; mourned as taken
+    at the start of his glory.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Rustem
+  description: Warrior who states he is blameless in the conflict ending in Isfendiyr’s
+    death; trains Bahman and reports completion of Bahman’s education to Gushtsp.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Bahman
+  description: Person trained by Rustem in warrior skills; summoned by Gushtsp and
+    appointed successor to the throne; described as resembling Isfendiyr.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Mother and sisters of Isfendiyr
+  description: Women who lament Isfendiyr’s death and attribute it to the Smrgh rather
+    than to human hands.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: The people
+  description: Public who curse Gushtsp for cruel and unnatural conduct.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Bashtan
+  description: Person consulted by Gushtsp who confirms Rustem’s declarations.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Smrgh
+  description: Agent named by the women as responsible for Isfendiyr’s death (not
+    human hands).
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:1
+- id: fig:9
+  name_or_label: Zl
+  description: Named as not responsible for Isfendiyr’s death.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: mourning king/father
+  assigned_to:
+  - fig:1
+  basis: Gushtsp uncovers the bier and weeps bitterly.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dead prince/son whose body is borne on a bier
+  assigned_to:
+  - fig:2
+  basis: Isfendiyr’s bier arrives and he is mourned as dead.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: combatant held blameless by himself and later acquitted
+  assigned_to:
+  - fig:3
+  basis: Rustem claims he is unblamable; Gushtsp acquits him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: trainer/educator in warrior arts
+  assigned_to:
+  - fig:3
+  basis: Rustem instructs Bahman in weapons and warrior skills.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: young warrior in training
+  assigned_to:
+  - fig:4
+  basis: Bahman is instructed in manly exercises and weapons use.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: ruler criticized by subjects
+  assigned_to:
+  - fig:1
+  basis: People curse Gushtsp for cruel and unnatural conduct; he hides in palace.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: appointed heir/successor
+  assigned_to:
+  - fig:4
+  basis: Gushtsp appoints Bahman to succeed to the throne.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: king who consults an adviser/witness
+  assigned_to:
+  - fig:1
+  basis: Gushtsp refers to Bashtan who confirms Rustem’s declarations.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: female mourners (mother and sisters)
+  assigned_to:
+  - fig:5
+  basis: They exclaim lamentations over the death and its cause.
+  evidence_refs:
+  - ev:1
+- id: role:10
+  label: public accusers/cursers
+  assigned_to:
+  - fig:6
+  basis: Curses and imprecations are poured upon Gushtsp by the people.
+  evidence_refs:
+  - ev:1
+- id: role:11
+  label: confirming witness/adviser
+  assigned_to:
+  - fig:7
+  basis: Bashtan confirms Rustem’s declarations to Gushtsp.
+  evidence_refs:
+  - ev:3
+- id: role:12
+  label: non-human cause/agent blamed for death
+  assigned_to:
+  - fig:8
+  basis: Women say the death is the work of the Smrgh, not human hands.
+  evidence_refs:
+  - ev:1
+- id: role:13
+  label: named as not responsible for death
+  assigned_to:
+  - fig:9
+  basis: Women state it is not the work of Zl.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: bier (funeral conveyance)
+  literal_form: The bier carrying Isfendiyr, with a covering that Gushtsp removes.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: palace (royal residence)
+  literal_form: The palace of Gushtsp where the bier arrives and where Gushtsp later
+    confines himself.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: letter/message of justification
+  literal_form: Rustem’s written letter to Gushtsp asserting blamelessness and reporting
+    Bahman’s training.
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: throne/succession
+  literal_form: Appointment to succeed to the throne.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Arrival of the bier and mourning at the palace
+  summary: Isfendiyr’s bier arrives at Gushtsp’s palace; Gushtsp mourns; the mother
+    and sisters lament and attribute the death to the Smrgh; the people curse Gushtsp
+    and he remains confined until after the burial.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rustem educates Bahman and reports to Gushtsp
+  summary: Rustem trains Bahman in warrior arts and sends a letter to Gushtsp claiming
+    blamelessness, describing rejected peace overtures, attributing the outcome to
+    fate, and stating Bahman’s education is complete.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Consultation, absolution, and royal appointment
+  summary: Gushtsp consults Bashtan, accepts Rustem’s declarations and acquits him,
+    then summons Bahman and appoints him successor, praising his resemblance to Isfendiyr.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:3
+  - fig:4
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Royal succession established after the death of an heir
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: After Isfendiyr’s death, Gushtsp summons Bahman and appoints him to succeed
+    to the throne.
+  evidence_refs:
+  - ev:3
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Initiation/education of a young successor in warrior skills
+  taxonomy_refs:
+  - initiation
+  basis: Rustem instructs Bahman in weapons use and warrior accomplishments before
+    Bahman is brought to court.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage depicts training and competence-building but does not describe
+    a formal ritual initiation.
+- id: motif:3
+  label: Death attributed to non-human agency and to fate/destiny
+  taxonomy_refs: []
+  basis: The women attribute the death to the Smrgh rather than human hands, and Rustem/Gushtsp
+    frame the outcome as destiny/relentless fate.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage reports attributions (lament and justification) rather than
+    narrating the supernatural act itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13144-13155
+  quote_or_summary: Isfendiyr’s bier arrives at Gushtsp’s palace; Gushtsp weeps; the
+    mother and sisters lament and say the death was not by Rustem or Zl but by the
+    Smrgh; the public curses Gushtsp, who stays confined until after the interment.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13156-13166
+  quote_or_summary: Rustem fulfills his engagement by training Bahman in warrior arts;
+    he writes to Gushtsp asserting blamelessness, reporting he offered gifts and a
+    return to Iran but was rejected, attributing the death to fate, and stating Bahman’s
+    education is complete.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13167-13177
+  quote_or_summary: Gushtsp consults Bashtan who confirms Rustem’s declarations; Gushtsp
+    acquits Rustem and attributes the event to destiny; he summons Bahman and appoints
+    him successor, praising his resemblance to Isfendiyr in verse.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Narrative actions and appointments are explicit; motif labels (initiation/fate)
+    involve mild abstraction from reported statements.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  Passage emphasizes mourning, attribution of death to supernatural agency, public condemnation of the king, the training of the next-in-line, and formal succession.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l13144-l13177
+  passage_sha256=c13109f35c910c38fa264a6ab385e4d4fed2e96399525903838b04e0ae0bed04
+

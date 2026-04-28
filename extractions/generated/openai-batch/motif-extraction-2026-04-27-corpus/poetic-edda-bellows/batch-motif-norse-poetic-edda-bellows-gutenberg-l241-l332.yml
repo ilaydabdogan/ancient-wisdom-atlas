@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l241-l332
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: THIS VOLUME IS ENDOWED IN PART BY CHARLES S. PETERSON OF CHICAGO / ACKNOWLEDGEMENT
+    / GENERAL INTRODUCTION / WHAT IS THE POETIC EDDA?; lines 241-332
+  start: '241'
+  end: '332'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: An introductory discussion of the Poetic Edda’s uncertain origins, its
+    relationship to Snorri Sturluson’s Prose Edda, early modern scholarly debates
+    over attribution (including Sæmundr the Wise), the 1643 discovery of the Codex
+    Regius manuscript and later additions from other manuscripts, and competing proposals
+    for the meaning of the word “Edda.”
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the poems called the Edda have a “mysterious” history
+    and that it is not known who composed them, when/where they were composed, who
+    collected them, or what the word “Edda” definitively means.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A prose work preserved in 13th–early 14th century manuscripts is described
+    as a poet’s handbook containing mythological stories, explanation of figures/tropes
+    of Norse poetic diction, and a treatise on metrics; it is commonly known as Snorri
+    Sturluson’s Edda (the Prose/Younger Edda).
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage reports an Icelandic tradition that persisted in ascribing an
+    Edda (or similar work) to Sæmundr the Wise, and describes how Arngrímur Jónsson
+    argued in the early 17th century that Snorri must be responsible for the work
+    in question.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that in 1643 Bishop Brynjólfur Sveinsson discovered a manuscript
+    (written as early as 1300) containing 29 poems, some sharing lines/stanzas used
+    by Snorri, and that this find was labeled as Sæmundr’s Edda and became known as
+    the Elder/Poetic Edda.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage identifies the Codex Regius (R2365) in the Royal Library in Copenhagen
+    as the basis for published editions, and notes other manuscripts and later additions,
+    giving totals such as 34 poems in many editions and describing specific supplementary
+    manuscripts/poems.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage presents multiple scholarly guesses about the meaning of “Edda,”
+    including an early idea linking it to “Poetics,” and Jacob Grimm’s proposal connecting
+    it to a word in Rigsthula meaning (conjecturally) “great-grandmother,” with the
+    comment that “Tales of a Grandmother” is inappropriate.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Unnamed composers/collectors of the Eddic poems (unknown)
+  description: The passage emphasizes that the composers and collectors of the poems
+    are not known.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Snorri Sturluson
+  description: Named as the composer of the Prose/Younger Edda; death given as 1241;
+    his work quotes poems used as sources.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Arthur G. Brodeur
+  description: Named as translator of Snorri’s Edda into English (publication noted
+    as 1916).
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Sæmundr the Wise (Sæmund)
+  description: Named as an earlier figure to whom Icelandic tradition ascribed an
+    Edda or similar work; dates given (1056–1133).
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Arngrímur Jónsson
+  description: Named as the early 17th-century scholar who argued that Snorri was
+    responsible for the prose Edda in question.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Brynjólfur Sveinsson, Bishop of Skálholt
+  description: Named as the discoverer (1643) of a manuscript containing 29 poems;
+    he labeled it as the long-sought Edda of Sæmundr.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Jacob Grimm
+  description: Named as proposing an etymology for “Edda” based on a word in the poem
+    Rigsthula.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: composer (unknown)
+  assigned_to:
+  - fig:1
+  basis: The passage states it is not known who composed the poems.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: collector/compiler (unknown)
+  assigned_to:
+  - fig:1
+  basis: The passage states it is not known who collected the poems or when.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: author/composer of the Prose (Younger) Edda
+  assigned_to:
+  - fig:2
+  basis: The passage describes the prose handbook and notes the manuscript headword
+    attributing it to Snorri.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: user of earlier poems as sources (quoter)
+  assigned_to:
+  - fig:2
+  basis: The passage notes that mythological stories in Snorri’s book quote poems
+    that were his chief sources of information.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: translator (into English)
+  assigned_to:
+  - fig:3
+  basis: The passage states Snorri’s Edda was made available in English in a translation
+    by Arthur G. Brodeur (1916).
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: traditional attributed author/compiler (per Icelandic tradition)
+  assigned_to:
+  - fig:4
+  basis: The passage states Icelandic tradition persisted in ascribing an Edda (or
+    similar work) to Sæmundr the Wise.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: scholarly arguer/attribution critic
+  assigned_to:
+  - fig:5
+  basis: The passage says Arngrímur Jónsson proved to scholars’ satisfaction that
+    Snorri was responsible for the work in question.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: discoverer and labeler of manuscript
+  assigned_to:
+  - fig:6
+  basis: The passage describes the 1643 discovery of a manuscript by Bishop Brynjólfur
+    and his labeling it as Sæmundr’s Edda.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: etymology proposer
+  assigned_to:
+  - fig:7
+  basis: The passage states Jacob Grimm identified “Edda” with a word in Rigsthula
+    (conjecturally meaning great-grandmother).
+  evidence_refs:
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Uncertain origins and meaning of the Poetic Edda
+  summary: The narrator emphasizes uncertainty about the poems’ authorship, collection,
+    and even the meaning of the term “Edda.”
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Description and attribution of the Prose (Younger) Edda
+  summary: A prose handbook for poets preserved in medieval manuscripts is described
+    and attributed to Snorri Sturluson; a modern English translation is mentioned.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: 'Early modern attribution dispute: Snorri vs. Sæmundr'
+  summary: Icelandic tradition attributing an Edda to Sæmundr is contrasted with Arngrímur
+    Jónsson’s early 17th-century argument that Snorri authored the prose Edda; the
+    idea arises that Sæmundr might have compiled a verse Edda that Snorri used.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: 1643 discovery of Codex Regius and naming of the Poetic Edda
+  summary: Bishop Brynjólfur Sveinsson discovers a manuscript containing 29 poems
+    (some overlapping Snorri’s citations) and labels it as Sæmundr’s Edda; it becomes
+    known as the Elder/Poetic Edda.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Manuscript basis and later additions to the Eddic corpus
+  summary: Codex Regius in Copenhagen is identified as the base manuscript for editions,
+    with additional poems from other manuscripts bringing many editions to 34 poems;
+    some works are discussed as included or excluded.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Debates over the meaning of “Edda”
+  summary: Various proposed meanings of the word “Edda” are reviewed, including “Poetics”
+    and Grimm’s “great-grandmother” hypothesis based on Rigsthula, with criticism
+    of applicability.
+  figure_refs:
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Epithet and theme of wisdom associated with a named figure (‘Sæmundr the
+    Wise’) and scholarly knowledge-seeking
+  taxonomy_refs:
+  - wisdom
+  basis: The passage names “Sæmund the Wise” and narrates extended scholarly inquiry
+    into authorship, sources, and meaning of “Edda.”
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  confidence: low
+  cautions: This is a historiographical/introduction passage rather than a mythic
+    narrative; ‘wisdom’ here is primarily an epithet and a theme of scholarship, not
+    a plotted myth motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 241-332 (opening paragraphs of 'WHAT IS THE POETIC EDDA?')
+  quote_or_summary: 'States that the poems’ origins are mysterious: unknown composers,
+    dates/places of composition, collectors, and uncertain meaning of the term “Edda.”'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 241-332 (paragraph describing the prose handbook in medieval manuscripts)
+  quote_or_summary: Describes a prose poet’s handbook (mythological stories, poetic
+    diction/tropes, metrics) commonly known as Snorri Sturluson’s Edda (Prose/Younger
+    Edda); mentions attribution note in Uppsalabok and Brodeur’s English translation
+    (1916).
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 241-332 (paragraphs on Sæmundr attribution and Arngrímur Jónsson)
+  quote_or_summary: Reports Icelandic tradition attributing an Edda to Sæmundr the
+    Wise; says Arngrímur Jónsson argued Snorri was responsible for the prose Edda;
+    suggests Sæmundr might have compiled a verse Edda used as a source by Snorri.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 241-332 (paragraph on 1643 discovery)
+  quote_or_summary: States that in 1643 Bishop Brynjólfur Sveinsson discovered a manuscript
+    (written as early as 1300) with 29 poems, some matching lines cited by Snorri;
+    he labeled it as Sæmundr’s Edda, later called the Elder/Poetic Edda.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 241-332 (paragraphs on Codex Regius and other manuscripts/poems)
+  quote_or_summary: Identifies the Codex Regius (R2365) in the Royal Library in Copenhagen
+    as the basis for editions; describes other manuscripts (e.g., AM748) and additions
+    from various sources; notes many editions total 34 poems and mentions some editorial
+    inclusion/exclusion decisions.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 241-332 (closing paragraphs on the meaning of 'Edda')
+  quote_or_summary: Reviews proposed meanings of “Edda,” including a link to “Poetics”
+    and Jacob Grimm’s identification with a word in Rigsthula conjecturally meaning
+    “great-grandmother,” while criticizing the fit of such meanings to the prose/verse
+    works.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is primarily historiographical (manuscripts, attribution, etymology)
+    rather than myth-narrative; thus few mythic motifs/symbols are directly present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  No direct mythic symbols from the provided symbol taxonomy (tree, serpent, water, etc.) appear in this passage; content focuses on textual history and scholarly debates.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l241-l332
+  passage_sha256=e79843be77fd771a472ae2bbbccfa3bb40012bc28e9fc8b30df34a77c8ae0c55
+

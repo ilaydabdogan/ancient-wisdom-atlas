@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l5019-l5036
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: KAI-KS / THE SEVEN LABORS OF RUSTEM / INVASION OF IRN BY AFRSIYB / THE RETURN
+    OF KAI-KS; lines 5019-5036
+  start: '5019'
+  end: '5036'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: After a victory, Rustem and his companions secure immense booty and withdraw
+    to previously mentioned sporting-grounds. Rustem sends Kai-ks a letter reporting
+    the victory. The party rests there for two weeks, enjoying hunting, then returns
+    home to pay respects to the Persian king. The passage closes with a reflective,
+    didactic meditation on the alternation of conquest and defeat, the frailty of
+    worldly hopes, and the passage of time.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The booty taken includes horses, treasure, armor, pavilions, and tents, and
+    is described as immense.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After securing the booty, Rustem and his companions fall back to sporting-grounds
+    previously mentioned.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Rustem informs Kai-ks by letter that a victory has been gained.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The party remains two weeks resting from war and enjoying hunting.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The party returns home to pay their respects to the Persian king.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A poetic reflection states that conquest and defeat vary human scenes, that
+    hopes are deceived in a frail dwelling, that certainty and safety are only dreams,
+    and that time sweeps over all things.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Rustem
+  description: A leader of the party who reports the victory by letter and returns
+    home with companions.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Rustem's companions
+  description: A group accompanying Rustem in withdrawing to the sporting-grounds,
+    resting, hunting, and returning home.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Kai-ks
+  description: Recipient of Rustem's letter reporting the victory.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the Persian king
+  description: The king to whom the party returns home to pay respects.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: victorious commander
+  assigned_to:
+  - fig:1
+  basis: Rustem is associated with securing booty after victory and reporting the
+    victory to Kai-ks.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: messenger (letter-writer)
+  assigned_to:
+  - fig:1
+  basis: Rustem informs Kai-ks by letter of the victory.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: companions-in-arms
+  assigned_to:
+  - fig:2
+  basis: Companions accompany Rustem in withdrawal, rest, hunting, and return home.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: victory-recipient/overlord (informed by letter)
+  assigned_to:
+  - fig:3
+  basis: Kai-ks is informed of the victory by Rustem's letter.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: king receiving homage
+  assigned_to:
+  - fig:4
+  basis: The party returns home to pay respects to the Persian king.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Booty secured after victory
+  summary: Immense booty (horses, treasure, armor, pavilions, tents) is secured after
+    a victory.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Withdrawal to sporting-grounds and report by letter
+  summary: Rustem and his companions withdraw to the sporting-grounds; Rustem sends
+    Kai-ks a letter reporting the victory.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rest and hunting interlude
+  summary: The party stays two weeks, resting from war and hunting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Return home and homage to king; moral reflection
+  summary: The party returns home to pay respects to the Persian king, followed by
+    a poetic meditation on the instability of worldly fortune and the sweep of time.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Hero returns home after victory and reports to rulers
+  taxonomy_refs:
+  - return
+  - royal_legitimacy
+  basis: Rustem reports victory by letter to Kai-ks and the party returns home to
+    pay respects to the Persian king.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage presents a practical post-battle sequence; it does not explicitly
+    frame the return as a ritual of legitimation beyond paying respects.
+- id: motif:2
+  label: Didactic reflection on impermanence of fortune and the sweep of time
+  taxonomy_refs:
+  - wisdom
+  basis: The closing verses explicitly reflect on alternating conquest/defeat, deceived
+    hope, and time sweeping over all things.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is general moralizing verse; linking it to a broader 'wisdom' motif
+    family is interpretive rather than a specific narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5019-5021
+  quote_or_summary: The booty in horses, treasure, armor, pavilions, and tents is
+    immense; after it is secured, the party withdraws.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5021-5024
+  quote_or_summary: Rustem and companions fall back to the sporting-grounds; from
+    there Rustem informs Kai-ks by letter of the victory gained.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5024-5026
+  quote_or_summary: They remain two weeks resting from war and enjoying hunting.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5026-5027
+  quote_or_summary: The party returns home to pay their respects to the Persian king.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain text; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 5028-5036
+  quote_or_summary: "“Thus conquest and defeat, / Vary the lights and shades of human
+    scenes… / Time sweeps o'er all things; why then should the wise / Mourn o'er events…”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain text; short quote.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Narrative events are explicit; motif-family mapping is moderate because the
+    passage is largely logistical plus a general moral reflection.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  No explicit mythic symbols from the provided symbol list appear in this passage (e.g., water, fire, mountain).
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l5019-l5036
+  passage_sha256=c18cb73cb873abaaabc56a816091369d5cf5fe2879783a3c8d780d744dfe8f8e
+

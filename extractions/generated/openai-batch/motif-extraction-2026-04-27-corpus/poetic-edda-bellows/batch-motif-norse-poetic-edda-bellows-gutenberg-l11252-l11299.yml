@@ -1,0 +1,396 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l11252-l11299
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: HELGAKVITHA HJORVARTHSSONAR / THE LAY OF HELGI THE SON OF HJORVARTH / INTRODUCTORY
+    NOTE / OF HJORVARTH AND SIGRLIN; lines 11252-11299
+  start: '11252'
+  end: '11299'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: In a sequence of speeches, Helgi (son of Hjorvarth) is reported to have
+    fallen at Frekastein. Mortally wounded, Helgi bids farewell to Svava and asks
+    her not to weep and to prepare to share a bed and love with the younger hero Hethin.
+    Svava replies that she vowed she would not embrace an unfamed man if Helgi died.
+    Hethin asks Svava for a kiss and declares he will not return to certain places
+    until he has taken vengeance for Helgi. A closing note states that Helgi and Svava
+    were born again.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker asks what happened to Helgi, Hjorvarth's son, and says harm has
+    come; if the sea struck him or a sword cut him, the speaker will bring ill to
+    all his foes.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sigar states that Helgi fell in the morning at Frekastein; he calls him the
+    noblest king beneath the sun, and says Alf has the joy of victory.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Helgi greets Svava, says this is their last meeting in life, reports his wounds
+    bleeding, and says the sword has come close to his heart.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Helgi tells Svava not to weep, to prepare the bed for Hethin, and to yield
+    her love to the young hero.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: 'Svava says she had a vow at home: when Helgi sought her with rings, she would
+    not, of her will, fold in her arms an unfamed man if the warrior died.'
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Hethin asks Svava to kiss him and says he will not come back to Rogheim or
+    Rothulsfjoll until he has vengeance for the son of Hjorvarth, the noblest king
+    beneath the sun.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A concluding statement says that Helgi and Svava were born again.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Helgi (son of Hjorvarth)
+  description: A king/hero reported to have fallen at Frekastein; mortally wounded
+    and speaking farewell to Svava.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Hjorvarth
+  description: Identified as Helgi's father (Helgi is called Hjorvarth's son).
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:3
+  name_or_label: Svava
+  description: Addressed by Helgi as a bride; speaks of a prior vow and is asked to
+    transfer affection to Hethin.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Sigar
+  description: Speaks the report of Helgi's fall at Frekastein and mentions Alf's
+    victory.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Alf
+  description: Said to have the joy of victory after Helgi's fall.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Hethin
+  description: Called a young hero; asked to be given Svava's love; vows vengeance
+    and says he will not return to named places until it is achieved.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: mortally wounded hero/king
+  assigned_to:
+  - fig:1
+  basis: Helgi is said to have fallen and speaks of bleeding wounds and a sword near
+    his heart.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: dying speaker bidding farewell
+  assigned_to:
+  - fig:1
+  basis: Helgi says this is the last meeting in life and gives instructions to Svava.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: father of hero
+  assigned_to:
+  - fig:2
+  basis: Helgi is identified as 'Hjorvarth's son.'
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:4
+  label: bride/beloved of the dying hero
+  assigned_to:
+  - fig:3
+  basis: Helgi addresses Svava as 'bride' and speaks to her at their last meeting;
+    she recounts Helgi seeking her with rings.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: messenger/reporter of the hero's fall
+  assigned_to:
+  - fig:4
+  basis: Sigar reports when and where Helgi fell and comments on victory.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: victor in battle
+  assigned_to:
+  - fig:5
+  basis: Alf is said to have the joy of victory.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: successor suitor designated by the dying hero
+  assigned_to:
+  - fig:6
+  basis: Helgi instructs Svava to prepare a bed for Hethin and yield love to him.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: avenger
+  assigned_to:
+  - fig:6
+  basis: Hethin declares he will not return until he has vengeance for Helgi (son
+    of Hjorvarth).
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Sword close to the heart
+  literal_form: A sword described as having come close to Helgi's heart (implying
+    a mortal wound).
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Rings (courtship/marriage gifts)
+  literal_form: Rings used when Helgi sought Svava.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Frekastein (battle site)
+  literal_form: The place where Helgi fell in the morning.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Rothulsfjoll (named mountain/place)
+  literal_form: A named place Hethin says he will not return to.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Report of Helgi's fall and victory outcome
+  summary: Sigar reports that Helgi fell at Frekastein in the morning and states that
+    Alf has the joy of victory.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Helgi's farewell to Svava and description of mortal wound
+  summary: Helgi greets Svava, says this is their last meeting in life, and describes
+    his bleeding wounds and the sword near his heart.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Dying request to transfer Svava to Hethin
+  summary: Helgi tells Svava not to weep and asks her to prepare a bed for Hethin
+    and yield her love to him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Svava's vow and refusal condition
+  summary: 'Svava recalls a vow made at home when Helgi sought her with rings: if
+    Helgi died, she would not embrace an unfamed man of her own will.'
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Hethin's farewell and vengeance vow
+  summary: Hethin asks Svava for a kiss and declares he will not return to Rogheim
+    or Rothulsfjoll until he has taken vengeance for Helgi.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Rebirth note
+  summary: A concluding note states that Helgi and Svava were born again.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Hero's death and being 'born again' (rebirth of hero and beloved)
+  taxonomy_refs:
+  - death_rebirth
+  - dying_and_returning
+  - resurrection
+  - return
+  basis: The passage reports Helgi's fatal wounding/fall and then explicitly states
+    that Helgi and Svava were born again.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: The passage asserts rebirth without detailing the manner, time, or circumstances.
+- id: motif:2
+  label: Dying hero arranges successor relationship for his bride
+  taxonomy_refs: []
+  basis: Helgi instructs Svava to prepare a bed for Hethin and to yield her love to
+    him, as Helgi is dying.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a narrative pattern in the passage but is not mapped to a provided
+    taxonomy family.
+- id: motif:3
+  label: Vow of vengeance for a fallen king/hero
+  taxonomy_refs: []
+  basis: Hethin declares he will not return until he has vengeance for Helgi, identified
+    as the noblest king beneath the sun.
+  evidence_refs:
+  - ev:6
+  - ev:2
+  confidence: medium
+  cautions: The target and scope of vengeance are not specified beyond 'for the son
+    of Hjorvarth.'
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: st. 38
+  quote_or_summary: A speaker asks what happened to Helgi, Hjorvarth's son, and says
+    that if sea or sword harmed him the speaker will bring ill to his foes.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: st. 39 (Sigar)
+  quote_or_summary: Sigar reports Helgi fell in the morning at Frekastein; calls him
+    the noblest king beneath the sun; says Alf has the joy of victory.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: st. 40 (Helgi)
+  quote_or_summary: Helgi greets Svava, says this is their last meeting in life, and
+    describes his bleeding wounds and a sword near his heart.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: st. 41 (Helgi)
+  quote_or_summary: Helgi tells Svava not to weep; asks her to prepare a bed for Hethin
+    and yield her love to the young hero.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: st. 42 (Svava)
+  quote_or_summary: 'Svava recalls a vow: when Helgi sought her with rings, she vowed
+    that if he died she would not embrace an unfamed man of her own will.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: st. 43 (Hethin)
+  quote_or_summary: Hethin asks Svava for a kiss and says he will not return to Rogheim
+    or Rothulsfjoll until he has vengeance for the son of Hjorvarth, called the noblest
+    king beneath the sun.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: prose note after st. 43
+  quote_or_summary: The text states that Helgi and Svava were born again.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The rebirth statement is explicit; other motifs (successor arrangement, vengeance
+    vow) are clear as narrative patterns but not tied to a controlled motif family
+    in the provided taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  No cross-tradition comparisons appear within the passage itself; comparison_claims intentionally left empty.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l11252-l11299
+  passage_sha256=51ed685270ee81a0d8afb02f0487af9ac581de84f4380c5b9cd75a13f6bb3796
+

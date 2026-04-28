@@ -2,7 +2,7 @@
 batch_request_index_version: '1'
 run_id: passage-embeddings-2026-04-27-corpus-sharded
 created_at: '2026-04-28T05:17:47Z'
-updated_at: '2026-04-28T05:20:10Z'
+updated_at: '2026-04-28T05:42:35Z'
 pipeline: embeddings
 endpoint: "/v1/embeddings"
 model: text-embedding-3-large
@@ -19,7 +19,7 @@ shards:
   sha256: 9bf2db04e4b4c131b66e611db814697088d8ad3b7d364a1eb16d52bb4ec74249
   endpoint: "/v1/embeddings"
   model: text-embedding-3-large
-  status: in_progress
+  status: completed
   input_file_id: file-T2pvY1zqFGqUGvmr1XPCKg
   input_file:
     object: file
@@ -41,26 +41,26 @@ shards:
     errors: 
     input_file_id: file-T2pvY1zqFGqUGvmr1XPCKg
     completion_window: 24h
-    status: in_progress
-    output_file_id: 
+    status: completed
+    output_file_id: file-LAXZ9UAuDhCmxCeNN67U3J
     error_file_id: 
     created_at: 1777353578
     in_progress_at: 1777353581
     expires_at: 1777439978
-    finalizing_at: 
-    completed_at: 
+    finalizing_at: 1777353754
+    completed_at: 1777353869
     failed_at: 
     expired_at: 
     cancelling_at: 
     cancelled_at: 
     request_counts:
       total: 1000
-      completed: 0
+      completed: 1000
       failed: 0
     usage:
-      input_tokens: 0
+      input_tokens: 1208911
       output_tokens: 0
-      total_tokens: 0
+      total_tokens: 1208911
       input_tokens_details:
         cached_tokens: 0
       output_tokens_details:
@@ -71,9 +71,11 @@ shards:
       shard_id: shard-0001
       pipeline: embeddings
   batch_created_at: '2026-04-28T05:19:38Z'
-  output_file_id: 
+  output_file_id: file-LAXZ9UAuDhCmxCeNN67U3J
   error_file_id: 
-  last_checked_at: '2026-04-28T05:20:09Z'
+  last_checked_at: '2026-04-28T05:42:34Z'
+  output_path: data/batches/passage-embeddings-2026-04-27-corpus-sharded/results/shard-0001.output.jsonl
+  output_sha256: 51f5d32f22fb0b684163d9d371b601dd2d1073adebf57a69a477352a66ff9903
 - shard_id: shard-0002
   path: data/batches/passage-embeddings-2026-04-27-corpus-sharded/requests/shard-0002.jsonl
   request_count: 1000
@@ -82,7 +84,7 @@ shards:
   sha256: e770d6750906eb14a197d0e7c57d2cc5db3a7a8088b3b7055774a684db2228b6
   endpoint: "/v1/embeddings"
   model: text-embedding-3-large
-  status: in_progress
+  status: completed
   input_file_id: file-YHpPqjZ8Tuv4REG7QbR68o
   input_file:
     object: file
@@ -104,26 +106,26 @@ shards:
     errors: 
     input_file_id: file-YHpPqjZ8Tuv4REG7QbR68o
     completion_window: 24h
-    status: in_progress
-    output_file_id: 
+    status: completed
+    output_file_id: file-99N5AUCaoJZ1h1ZY1sstKQ
     error_file_id: 
     created_at: 1777353593
     in_progress_at: 1777353594
     expires_at: 1777439993
-    finalizing_at: 
-    completed_at: 
+    finalizing_at: 1777353842
+    completed_at: 1777354009
     failed_at: 
     expired_at: 
     cancelling_at: 
     cancelled_at: 
     request_counts:
       total: 1000
-      completed: 0
+      completed: 1000
       failed: 0
     usage:
-      input_tokens: 0
+      input_tokens: 1270390
       output_tokens: 0
-      total_tokens: 0
+      total_tokens: 1270390
       input_tokens_details:
         cached_tokens: 0
       output_tokens_details:
@@ -134,9 +136,11 @@ shards:
       shard_id: shard-0002
       pipeline: embeddings
   batch_created_at: '2026-04-28T05:19:53Z'
-  output_file_id: 
+  output_file_id: file-99N5AUCaoJZ1h1ZY1sstKQ
   error_file_id: 
-  last_checked_at: '2026-04-28T05:20:10Z'
+  last_checked_at: '2026-04-28T05:42:34Z'
+  output_path: data/batches/passage-embeddings-2026-04-27-corpus-sharded/results/shard-0002.output.jsonl
+  output_sha256: c40304cbdfd80b7be03852b295ca816aadceeaf4b4bf96f1be20d804553797cc
 - shard_id: shard-0003
   path: data/batches/passage-embeddings-2026-04-27-corpus-sharded/requests/shard-0003.jsonl
   request_count: 1000
@@ -145,7 +149,63 @@ shards:
   sha256: 24b75504255e05c03ce4ff1d4ce9caac2e157ae0d100a49eb720da6bad2110a5
   endpoint: "/v1/embeddings"
   model: text-embedding-3-large
-  status: prepared
+  status: completed
+  input_file_id: file-CH9A5xwtHhzecjCL5w7o2X
+  input_file:
+    object: file
+    id: file-CH9A5xwtHhzecjCL5w7o2X
+    purpose: batch
+    filename: shard-0003.jsonl
+    bytes: 5058641
+    created_at: 1777353952
+    expires_at: 1779945952
+    status: processed
+    status_details: 
+  uploaded_at: '2026-04-28T05:25:53Z'
+  batch_id: batch_69f044e1b9d48190a205123149cb2f0e
+  batch:
+    id: batch_69f044e1b9d48190a205123149cb2f0e
+    object: batch
+    endpoint: "/v1/embeddings"
+    model: text-embedding-3-large
+    errors: 
+    input_file_id: file-CH9A5xwtHhzecjCL5w7o2X
+    completion_window: 24h
+    status: completed
+    output_file_id: file-9nwWLvEGjPYAZEN82z9wh1
+    error_file_id: 
+    created_at: 1777353953
+    in_progress_at: 1777353956
+    expires_at: 1777440353
+    finalizing_at: 1777354069
+    completed_at: 1777354186
+    failed_at: 
+    expired_at: 
+    cancelling_at: 
+    cancelled_at: 
+    request_counts:
+      total: 1000
+      completed: 1000
+      failed: 0
+    usage:
+      input_tokens: 1211106
+      output_tokens: 0
+      total_tokens: 1211106
+      input_tokens_details:
+        cached_tokens: 0
+      output_tokens_details:
+        reasoning_tokens: 0
+    metadata:
+      repo: ancient-wisdom-atlas
+      run_id: passage-embeddings-2026-04-27-corpus-sharded
+      shard_id: shard-0003
+      pipeline: embeddings
+  batch_created_at: '2026-04-28T05:25:53Z'
+  output_file_id: file-9nwWLvEGjPYAZEN82z9wh1
+  error_file_id: 
+  last_checked_at: '2026-04-28T05:42:34Z'
+  output_path: data/batches/passage-embeddings-2026-04-27-corpus-sharded/results/shard-0003.output.jsonl
+  output_sha256: 9cde8675f6d61a50d53f31a39cad67efbae1416b59ad625898a0c704cbc84e7c
 - shard_id: shard-0004
   path: data/batches/passage-embeddings-2026-04-27-corpus-sharded/requests/shard-0004.jsonl
   request_count: 386
@@ -154,5 +214,61 @@ shards:
   sha256: 55091e2306a01a1d190091aa88ee7a78dad97f78ced9f7ad952a02a432345825
   endpoint: "/v1/embeddings"
   model: text-embedding-3-large
-  status: prepared
+  status: completed
+  input_file_id: file-Jt2ZSYuz3oy4yzabArQhZk
+  input_file:
+    object: file
+    id: file-Jt2ZSYuz3oy4yzabArQhZk
+    purpose: batch
+    filename: shard-0004.jsonl
+    bytes: 1898318
+    created_at: 1777354038
+    expires_at: 1779946038
+    status: processed
+    status_details: 
+  uploaded_at: '2026-04-28T05:27:18Z'
+  batch_id: batch_69f045369d80819091bcc159faa62370
+  batch:
+    id: batch_69f045369d80819091bcc159faa62370
+    object: batch
+    endpoint: "/v1/embeddings"
+    model: text-embedding-3-large
+    errors: 
+    input_file_id: file-Jt2ZSYuz3oy4yzabArQhZk
+    completion_window: 24h
+    status: completed
+    output_file_id: file-JVxBUCaibbwCQrY7q6JeMP
+    error_file_id: 
+    created_at: 1777354038
+    in_progress_at: 1777354039
+    expires_at: 1777440438
+    finalizing_at: 1777354133
+    completed_at: 1777354155
+    failed_at: 
+    expired_at: 
+    cancelling_at: 
+    cancelled_at: 
+    request_counts:
+      total: 386
+      completed: 386
+      failed: 0
+    usage:
+      input_tokens: 470769
+      output_tokens: 0
+      total_tokens: 470769
+      input_tokens_details:
+        cached_tokens: 0
+      output_tokens_details:
+        reasoning_tokens: 0
+    metadata:
+      repo: ancient-wisdom-atlas
+      run_id: passage-embeddings-2026-04-27-corpus-sharded
+      shard_id: shard-0004
+      pipeline: embeddings
+  batch_created_at: '2026-04-28T05:27:18Z'
+  output_file_id: file-JVxBUCaibbwCQrY7q6JeMP
+  error_file_id: 
+  last_checked_at: '2026-04-28T05:42:35Z'
+  output_path: data/batches/passage-embeddings-2026-04-27-corpus-sharded/results/shard-0004.output.jsonl
+  output_sha256: 65a18c7cb82ca4fb10ad3c585fc0708f2b0459d6c90de248a3338efff0ea94e8
 

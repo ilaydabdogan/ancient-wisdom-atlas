@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l4391-l4441
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: GRIMNISMOL / THE BALLAD OF GRIMNIR / INTRODUCTORY NOTE / NOTES; lines 4391-4441
+  start: '4391'
+  end: '4441'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes discuss the unstable oral-transmission condition of certain
+    stanzas and provide glosses for many of Othin’s/Odin’s by-names, emphasizing that
+    he often appeared in disguise and therefore had many names. The notes mention
+    Snorri’s tripartite question-and-answer framing (Har, Jafnhar, Thrithi) and suggest
+    possible early Christian influence on this form. Further notes identify “the maids”
+    as the three Norns and remark that the poem returns to action with Othin addressing
+    the frightened Geirrth; several names and episodes are said to be otherwise unknown
+    or uncertain.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes state that lines and stanzas in this catalogue-like section could
+    change freely during oral transmission, and that many names are not mentioned
+    elsewhere and have uncertain significance.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The notes state that Othin appeared in disguise in many episodes, so the number
+    of his names was almost limitless; several by-names are glossed (e.g., Grim/Grimnir,
+    Gangleri, Fjolnir, Valfather, etc.).
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: The notes describe Snorri’s Edda as using a question-and-answer format with
+    speakers named Har, Jafnhar, and Thrithi, and state that the significance of this
+    tripartite form of Othin is debated; the note suggests it may reflect a muddled
+    influence of early Christianity.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The notes state that little or nothing is known of certain named episodes
+    and figures (e.g., Asmund, Othin’s appearance as Jalk, an occasion involving a
+    sledge as Kjalar), and that Sokkmimir is presumably Mithvitnir’s son.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The notes state that the poem returns to direct action with Othin addressing
+    the terrified Geirrth, and mention an editorially supplied line found in some
+    manuscripts.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The notes gloss “Ygg” as Othin and identify “the maids” as the three Norns.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Othin (Odin)
+  description: A god who appears in disguise and is associated with many by-names;
+    later notes gloss “Ygg” as Othin and describe him addressing Geirrth.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Snorri (as cited editor/author)
+  description: Cited as quoting certain stanzas/names and presenting stories in a
+    question-and-answer format with speakers Har, Jafnhar, and Thrithi.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Geirrth (Geirröðr)
+  description: Described as terrified when Othin addresses him as the poem returns
+    to direct action.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: The three Norns
+  description: Identified as “the maids.”
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Har, Jafnhar, Thrithi
+  description: Named as speakers in Snorri’s question-and-answer framing; characterized
+    as a tripartite form connected with Othin in the note.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Sokkmimir
+  description: Said to be presumably the son of Mithvitnir.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Mithvitnir
+  description: Mentioned as presumably the father of Sokkmimir.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Asmund
+  description: Mentioned as a figure about whom nothing is known in this note.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Disguised god / bearer of many names
+  assigned_to:
+  - fig:1
+  basis: The notes explicitly connect Othin’s repeated disguises with an almost limitless
+    number of names and provide a catalogue of by-names.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Speaker addressing a frightened opponent
+  assigned_to:
+  - fig:1
+  basis: The notes state the poem returns to direct action with Othin addressing the
+    terrified Geirrth.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: Compiler/quoting authority (cited)
+  assigned_to:
+  - fig:2
+  basis: The notes describe Snorri as quoting stanzas/names and using a specific dialogic
+    framing in his Edda.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: Frightened addressee
+  assigned_to:
+  - fig:3
+  basis: Geirrth is described as terrified as Othin addresses him.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: Fate-maids (Norns)
+  assigned_to:
+  - fig:4
+  basis: The notes identify “the maids” as the three Norns.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: Tripartite dialog speakers (Har/Jafnhar/Thrithi)
+  assigned_to:
+  - fig:5
+  basis: The note describes Snorri’s speakers Har, Jafnhar, and Thrithi and discusses
+    what this tripartite form signifies.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Editorial note on catalogue stanzas and Othin’s many by-names
+  summary: The notes describe the instability of catalogue-like stanzas in oral transmission
+    and explain that Othin’s frequent disguises correlate with an extensive list of
+    by-names, many of uncertain meaning.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Tripartite dialog form in Snorri and possible Christian influence (editorial
+    claim)
+  summary: The notes describe Snorri’s question-and-answer setup with Har, Jafnhar,
+    and Thrithi, state that the tripartite form’s meaning is debated, and suggest
+    it may reflect influence from early Christianity.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: 'Return to action: Othin speaks to Geirrth'
+  summary: The notes state the poem returns to direct action with Othin addressing
+    the terrified Geirrth, mentioning an editor-supplied line from some manuscripts.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Identification of ‘the maids’ as the three Norns
+  summary: The notes gloss Ygg as Othin and identify the maids as the three Norns.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: God appears in disguise under many names
+  taxonomy_refs:
+  - shapeshifter
+  basis: The notes explicitly state that Othin often appeared in disguise and thus
+    had almost limitless names; multiple by-names are catalogued and glossed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This passage is editorial commentary explaining names rather than narrating
+    a specific disguise episode.
+- id: motif:2
+  label: God characterized as wise (wide of wisdom) through by-name glosses
+  taxonomy_refs:
+  - wisdom
+  basis: 'Among the listed by-names are glosses such as “Fjolsvith: Wide of Wisdom,”
+    presenting wisdom as an attributed quality of Othin via naming.'
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The evidence is a gloss within a name-catalogue note, not a narrative
+    demonstration of wisdom.
+comparison_claims:
+- id: claim:1
+  claim: The notes suggest that the tripartite form (Har, Jafnhar, Thrithi) in Snorri’s
+    dialog framing may show a ‘somewhat muddled influence of early Christianity.’
+  claim_level: historical_contact
+  target: Early Christianity (as an influence on tripartite speaker/deity framing)
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is an editorial hypothesis in the notes, not a demonstrated historical
+    linkage within the passage; no specific Christian doctrine is explicitly named
+    beyond ‘early Christianity.’
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4391-4410
+  quote_or_summary: Notes on the uncertain condition of catalogue stanzas in oral
+    transmission; many names are unattested elsewhere and their significance uncertain;
+    Othin’s frequent disguises are said to necessitate an almost limitless number
+    of names.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 4403-4413
+  quote_or_summary: Glosses several by-names (e.g., Grim, Gangleri, Herjan, etc.)
+    and describes Snorri’s question-and-answer framing with Har, Jafnhar, and Thrithi;
+    the note says the tripartite form’s meaning is debated and suggests possible early
+    Christian influence.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 4414-4430
+  quote_or_summary: 'Additional glosses of Othin’s by-names, including ‘Fjolsvith:
+    Wide of Wisdom,’ and other descriptive epithets (e.g., many-shaped, swift in deceit,
+    long-bearded).'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 4431-4438
+  quote_or_summary: Notes that nothing is known of certain figures/episodes (e.g.,
+    Asmund; Othin as Jalk; a sledge journey as Kjalar); mentions Sokkmimir as presumably
+    Mithvitnir’s son; remarks on Snorri’s quotation/omissions of names.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 4439-4441 (stanza note 51)
+  quote_or_summary: States that the poem returns to direct action with Othin addressing
+    the terrified Geirrth; mentions an editor-supplied line from some manuscripts.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: within notes labeled 53-54 in lines 4439-4441 range
+  quote_or_summary: Glosses ‘Ygg’ as Othin and identifies ‘the maids’ as the three
+    Norns; additional name glosses follow.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Passage is editorial commentary and name-glosses rather than continuous narrative;
+    motifs are inferred from explicit statements about disguise and attributed epithets.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  No eligible provided-taxonomy symbols (tree/fire/water/etc.) are clearly present in this passage; hats/hoods/wands/sledge are mentioned but not in the allowed symbol list.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l4391-l4441
+  passage_sha256=05d8568aa308c74861e2b3e08dea190f4c7481ac60ca6b4b02f1973758528f39
+

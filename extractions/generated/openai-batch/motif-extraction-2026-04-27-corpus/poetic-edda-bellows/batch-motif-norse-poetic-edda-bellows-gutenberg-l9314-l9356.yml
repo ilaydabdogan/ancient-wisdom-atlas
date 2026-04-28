@@ -1,0 +1,322 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l9314-l9356
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: NOTES / SVIPDAGSMOL / THE BALLAD OF SVIPDAG / INTRODUCTORY NOTE; lines 9314-9356
+  start: '9314'
+  end: '9356'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: An editorial introductory note describing the manuscript history and likely
+    late composition of the poems grouped as Svipdagsmál, mentions the love story
+    of Svipdag and Mengloth, identifies Groa as Svipdag’s mother (elsewhere described
+    as a wise woman who aids Thor with charms), and remarks that the core story element
+    of a hero winning a bride surrounded by flames resembles parts of the Sigurðr–Brynhildr
+    tradition; it also notes later popularity in Scandinavian ballads.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The poems (Grógaldr and Fjölsvinnsmál) survive only in paper manuscripts,
+    none earlier than the seventeenth century, and are described as likely of relatively
+    late origin.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note states that the love story of Svipdag and Mengloth is not referred
+    to elsewhere in the Poetic Edda and is not mentioned by Snorri.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Groa is said to appear here as Svipdag’s mother; Snorri is said to describe
+    her as a wise woman, wife of Orvandil, who helps Thor with magic charms.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note identifies an essential story element as a hero winning a bride who
+    is ringed about by flames.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The note says this ‘bride ringed about by flames’ element is strongly suggestive
+    of parts of the Sigurth–Brynhild traditions.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note says the story later became popular throughout the North and was
+    adapted into many Danish, Swedish, and Norwegian ballads that aid reconstruction
+    of the narrative outline.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Svipdag
+  description: A hero in a love story with Mengloth; Groa appears as his mother.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Mengloth
+  description: Svipdag’s beloved in the love story mentioned in the note.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Groa
+  description: Presented as Svipdag’s mother; described (via Snorri) as a wise woman
+    who helps Thor with magic charms; wife of Orvandil.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Snorri
+  description: Cited as a source who speaks of Groa and notes not mentioning the Svipdag–Mengloth
+    love story.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Orvandil
+  description: Named as Groa’s husband (per Snorri).
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Thor
+  description: Said to be helped by Groa with magic charms (per Snorri).
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Sigurth
+  description: Part of the Sigurth–Brynhild traditions referenced as suggestive parallels.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Brynhild
+  description: Part of the Sigurth–Brynhild traditions referenced as suggestive parallels.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: hero
+  assigned_to:
+  - fig:1
+  basis: The note calls the story element ‘the heros winning of a bride’.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: child (son)
+  assigned_to:
+  - fig:1
+  basis: Groa is said to appear as Svipdag’s mother.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: beloved/bride
+  assigned_to:
+  - fig:2
+  basis: The note refers to the love story of Svipdag and Mengloth and to a bride
+    in the core story element.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: mother
+  assigned_to:
+  - fig:3
+  basis: Groa ‘appears as Svipdags mother’.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: wise woman / spell-worker
+  assigned_to:
+  - fig:3
+  basis: Snorri is said to speak of Groa as a wise woman who helps Thor with magic
+    charms.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: external authority/source cited
+  assigned_to:
+  - fig:4
+  basis: The note references what Snorri does or does not mention about the story
+    and about Groa.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: husband of Groa
+  assigned_to:
+  - fig:5
+  basis: Groa is said (via Snorri) to be the wife of Orvandil.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: recipient of magical aid
+  assigned_to:
+  - fig:6
+  basis: Groa is said to help Thor with magic charms.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: figure in compared tradition (Sigurth–Brynhild)
+  assigned_to:
+  - fig:7
+  basis: The note references the Sigurth–Brynhild traditions as a suggestive parallel.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: figure in compared tradition (Sigurth–Brynhild)
+  assigned_to:
+  - fig:8
+  basis: The note references the Sigurth–Brynhild traditions as a suggestive parallel.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ring of flames
+  literal_form: A bride ‘ringed about by flames’.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Editorial description of poem origins and narrative outline
+  summary: An editor discusses the manuscript transmission and likely late origin
+    of Svipdagsmál, comments on the absence of external references, and summarizes
+    key narrative elements and later ballad reception.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Hero wins a bride surrounded by flames
+  taxonomy_refs: []
+  basis: The note identifies ‘the heros winning of a bride ringed about by flames’
+    as the essence of the story.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: Presented in an editorial summary rather than narrated in the excerpted
+    passage.
+- id: motif:2
+  label: Wise mother figure uses magic charms to aid a god
+  taxonomy_refs:
+  - wisdom
+  basis: Groa is described (via Snorri) as a wise woman who helps Thor with magic
+    charms; she appears as Svipdag’s mother in this poem cycle.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The magical-aid detail is reported secondhand (‘spoken of by Snorri’)
+    and not depicted directly in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The ‘hero winning a bride ringed about by flames’ in the Svipdag–Mengloth
+    story is described as suggestive of elements in the Sigurth–Brynhild tradition.
+  claim_level: same_function
+  target: Sigurth–Brynhild traditions (as referenced in the note)
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editor’s comparative remark (‘suggestive’) without detailed
+    argumentation in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9314-9326
+  quote_or_summary: States that Grógaldr and Fjölsvinnsmál are found only in paper
+    manuscripts, none earlier than the 17th century, and argues for a relatively late
+    origin based on style and other considerations.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: 9327-9332
+  quote_or_summary: Says the love story of Svipdag and Mengloth is not referred to
+    elsewhere in the Poetic Edda and is not mentioned by Snorri.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: 9332-9336
+  quote_or_summary: Says Groa appears here as Svipdag’s mother; Snorri describes her
+    as a wise woman, wife of Orvandil, who helps Thor with magic charms.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: 9336-9343
+  quote_or_summary: Says the essence of the story is the hero’s winning of a bride
+    ringed about by flames, and that this is strongly suggestive of parts of the Sigurth–Brynhild
+    traditions.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: 9344-9356
+  quote_or_summary: Says the Svipdag–Mengloth story became popular in later years
+    throughout the North and inspired many Scandinavian ballads that help reconstruct
+    the narrative outline.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Passage is an editorial introductory note summarizing motifs and offering
+    a brief comparison; it contains limited direct narrative detail.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  No direct quotation used; motifs and comparison are taken from the note’s explicit summary and comparative remark.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l9314-l9356
+  passage_sha256=4477ea049b0907f9ef9b6ec77abe71757ad76b345e27a8275ff31bab9bd2e02e
+

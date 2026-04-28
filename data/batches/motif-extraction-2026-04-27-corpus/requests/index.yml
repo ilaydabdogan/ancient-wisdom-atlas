@@ -2,7 +2,7 @@
 batch_request_index_version: '1'
 run_id: motif-extraction-2026-04-27-corpus
 created_at: '2026-04-28T05:10:38Z'
-updated_at: '2026-04-28T05:20:09Z'
+updated_at: '2026-04-28T05:42:36Z'
 endpoint: "/v1/responses"
 model: gpt-5.2
 prompt_path: templates/batch-motif-extraction-prompt.md
@@ -79,7 +79,7 @@ shards:
   batch_created_at: '2026-04-28T05:16:27Z'
   output_file_id: 
   error_file_id: 
-  last_checked_at: '2026-04-28T05:20:09Z'
+  last_checked_at: '2026-04-28T05:42:36Z'
 - shard_id: shard-0002
   path: data/batches/motif-extraction-2026-04-27-corpus/requests/shard-0002.jsonl
   request_count: 1000
@@ -149,7 +149,7 @@ shards:
   batch_created_at: '2026-04-28T05:16:28Z'
   output_file_id: 
   error_file_id: 
-  last_checked_at: '2026-04-28T05:20:09Z'
+  last_checked_at: '2026-04-28T05:42:36Z'
 - shard_id: shard-0003
   path: data/batches/motif-extraction-2026-04-27-corpus/requests/shard-0003.jsonl
   request_count: 1000
@@ -219,7 +219,7 @@ shards:
   batch_created_at: '2026-04-28T05:16:29Z'
   output_file_id: 
   error_file_id: 
-  last_checked_at: '2026-04-28T05:20:09Z'
+  last_checked_at: '2026-04-28T05:42:36Z'
 - shard_id: shard-0004
   path: data/batches/motif-extraction-2026-04-27-corpus/requests/shard-0004.jsonl
   request_count: 386
@@ -227,7 +227,7 @@ shards:
   sha256: df8416d7050a013bd86f2d30bc8a2aa5a53fa5c57f39e6677c951d5c06a6b410
   endpoint: "/v1/responses"
   model: gpt-5.2
-  status: in_progress
+  status: completed
   input_file_id: file-S65UvLAQzzSwjSLAwuzWng
   input_file:
     object: file
@@ -249,37 +249,39 @@ shards:
     errors: 
     input_file_id: file-S65UvLAQzzSwjSLAwuzWng
     completion_window: 24h
-    status: in_progress
-    output_file_id: 
+    status: completed
+    output_file_id: file-EoRgBhPft9ETodiSDJNTWm
     error_file_id: 
     created_at: 1777353389
     in_progress_at: 1777353390
     expires_at: 1777439789
-    finalizing_at: 
-    completed_at: 
+    finalizing_at: 1777354553
+    completed_at: 1777354614
     failed_at: 
     expired_at: 
     cancelling_at: 
     cancelled_at: 
     request_counts:
       total: 386
-      completed: 11
+      completed: 386
       failed: 0
     usage:
-      input_tokens: 0
-      output_tokens: 0
-      total_tokens: 0
+      input_tokens: 1347286
+      output_tokens: 1506702
+      total_tokens: 2853988
       input_tokens_details:
-        cached_tokens: 0
+        cached_tokens: 514560
       output_tokens_details:
-        reasoning_tokens: 0
+        reasoning_tokens: 320507
     metadata:
       repo: ancient-wisdom-atlas
       run_id: motif-extraction-2026-04-27-corpus
       shard_id: shard-0004
       pipeline: motif_extraction
   batch_created_at: '2026-04-28T05:16:29Z'
-  output_file_id: 
+  output_file_id: file-EoRgBhPft9ETodiSDJNTWm
   error_file_id: 
-  last_checked_at: '2026-04-28T05:20:09Z'
+  last_checked_at: '2026-04-28T05:42:36Z'
+  output_path: data/batches/motif-extraction-2026-04-27-corpus/results/shard-0004.output.jsonl
+  output_sha256: '0304048c87a867d1135100b5a964b01f0c963a8ba0cdefbcfbcd8fe923aa45a9'
 

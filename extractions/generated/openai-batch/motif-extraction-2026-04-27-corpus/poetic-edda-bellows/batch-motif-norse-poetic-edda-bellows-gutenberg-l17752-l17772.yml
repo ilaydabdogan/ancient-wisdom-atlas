@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l17752-l17772
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: INTRODUCTORY NOTE / GUTHRUNARKVITHA II, EN FORNA / THE SECOND, OR OLD, LAY
+    OF GUTHRUN / INTRODUCTORY NOTE; lines 17752-17772
+  start: '17752'
+  end: '17772'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: An unnamed first-person speaker recounts a dream in which they loose hungry,
+    howling hounds, see them as food for eagles, and are compelled to eat the hounds'
+    bodies. Guthrun then speaks of an imminent sacrifice in which beasts will have
+    their heads cut off and will die before dawn, after which people will have them.
+    Atli speaks of sinking onto his bed, not seeking sleep, weary with woe.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A first-person speaker says they dreamed they loosed hounds from their hand.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the dream, the hounds howl loudly from hunger and pain.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In the dream, the hounds' flesh is described as food for eagles.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: In the dream, the speaker says they must eat the hounds' bodies.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Guthrun says people will soon speak of sacrifice and cut off the heads of
+    beasts.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Guthrun says the beasts will die before day has dawned, a few nights hence,
+    and that the folk will have them.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Atli says he sank on his bed, did not seek slumber, and remembers being weary
+    with woe.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Unnamed first-person dreamer ("I")
+  description: A first-person speaker recounting a dream about loosing hounds and
+    being compelled to eat their bodies.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Guthrun
+  description: Speaker who describes an impending sacrifice involving beheading beasts
+    and their death before dawn.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Atli
+  description: Speaker who describes sinking on his bed and not seeking sleep, weary
+    with woe.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: dreamer / dream-narrator
+  assigned_to:
+  - fig:1
+  basis: The first-person speaker explicitly says they dreamed and recounts dream
+    events.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: interpreter / forecaster of sacrifice
+  assigned_to:
+  - fig:2
+  basis: Guthrun speaks of an imminent sacrifice and specific actions (beheading beasts)
+    and timing.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: sleepless sufferer
+  assigned_to:
+  - fig:3
+  basis: Atli states he did not seek slumber and was weary with woe.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: hounds loosed from the hand (dream image)
+  literal_form: Hounds being loosed from the speaker's hand; howling in hunger and
+    pain.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: eagles feeding on flesh (dream image)
+  literal_form: The hounds' flesh described as eagles' food.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: compelled eating of bodies (dream image)
+  literal_form: The speaker says they must eat the hounds' bodies.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: sacrifice and beheading of beasts
+  literal_form: Sacrifice spoken of; heads of beasts hewn off; beasts die before dawn;
+    folk have them.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: bed without sleep
+  literal_form: Atli sinks on his bed and does not seek slumber, weary with woe.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Dream of hounds and compelled eating
+  summary: A first-person speaker recounts a dream of loosing hungry, howling hounds,
+    seeing their flesh as eagles' food, and being compelled to eat the hounds' bodies.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Guthrun foretells sacrifice of beasts
+  summary: Guthrun says people will soon speak of sacrifice; beasts will have their
+    heads cut off, die before dawn in a few nights, and then the folk will have them.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Atli lies down without sleep
+  summary: Atli describes sinking on his bed, not seeking sleep, and being weary with
+    woe.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Sacrifice involving beheading of beasts and imminent death
+  taxonomy_refs:
+  - sacrifice
+  basis: Guthrun explicitly mentions sacrifice and the cutting off of beasts' heads,
+    followed by their death before dawn.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not specify the ritual context beyond the stated acts
+    and timing.
+- id: motif:2
+  label: Dream imagery of animals foreshadowing or associated with violent consumption
+  taxonomy_refs: []
+  basis: A dream is recounted in which hounds are loosed, are described in terms of
+    predation (eagles' food), and the dreamer is compelled to eat their bodies.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not explicitly link the dream images to the later-sacrifice
+    prediction; the connection may be implicit but is not stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 17752-17758 (stanza 43)
+  quote_or_summary: "“Hounds I dreamed from my hand I loosed… Their flesh methought
+    was eagles food, And their bodies now I needs must eat.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation (Project Gutenberg).
+- id: ev:2
+  type: quote
+  locator: lines 17760-17767 (stanza 44, Guthrun spake)
+  quote_or_summary: "“Men shall soon of sacrifice speak, And off the heads of beasts
+    shall hew; Die they shall ere day has dawned… and the folk shall have them.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation (Project Gutenberg).
+- id: ev:3
+  type: quote
+  locator: lines 17769-17772 (stanza 45, Atli spake)
+  quote_or_summary: "“On my bed I sank, nor slumber sought, Weary with woe, full well
+    I remember.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation (Project Gutenberg).
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The sacrifice content is explicit; the identity of the dreamer in stanza
+    43 is not named within this excerpt, and the link between dream and sacrifice
+    is not explicitly stated in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  No cross-tradition comparison claims are made because the passage itself does not draw comparisons beyond its internal dream-and-sacrifice framing.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l17752-l17772
+  passage_sha256=ec7fbc8985848521e0069ab6d58abc682be5d8ba185dd52a6d1f903304c45361
+

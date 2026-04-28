@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l16308-l16324
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: XXIII / XLIII / LXIII / LXXVII; lines 16308-16324
+  start: '16308'
+  end: '16324'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: A speaker addresses the heart, warning that the path of Love involves deceit
+    and risk and that those who move too swiftly will fall. Pride is compared to a
+    shining bubble whose rule soon collapses and is absorbed into wine. The heart
+    is urged not to display airs of grace in old age, remembering that such youthful
+    ways pass. A final image contrasts a ‘black book’ of black locks closing with
+    an ‘album’ that remains, though many daily extracts will pass away.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker addresses the heart and describes the path of Love as involving
+    deceit and great risk, where one who goes swiftly will fall on the way.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pride is described through the image of a bubble shining, whose ‘cap of rule’
+    will soon fall, and the bubble will be ‘merged in wine.’
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker tells the heart that when it has grown aged, it should no longer
+    show airs of grace, because such ways will go when youth is over.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that the ‘black book of black locks’ may be closed while
+    an ‘album’ remains, though many extracts will go day by day.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Speaker (poetic voice)
+  description: An unnamed speaker who directly addresses the heart and offers warnings
+    and reminders.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Heart (addressee)
+  description: The ‘heart’ is directly addressed and admonished about love, pride,
+    and aging.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Swift traveler (generic person)
+  description: A generic ‘he’ who goes at a swift rate and is said to fall upon the
+    way.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: Admonisher / counselor
+  assigned_to:
+  - fig:1
+  basis: The speaker gives warnings and advice to the heart about risk, pride, and
+    aging.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: Addressee (the one advised)
+  assigned_to:
+  - fig:2
+  basis: The heart is directly addressed (‘O heart’) and instructed.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: Example figure (one who falls by haste)
+  assigned_to:
+  - fig:3
+  basis: A generic ‘he’ is described as falling upon the way when going swiftly.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Path of Love
+  literal_form: The ‘path of Love’ described as involving deceit and risk where one
+    may fall.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Bubble of pride
+  literal_form: A shining bubble inflated by the wind of pride, whose ‘cap of rule’
+    falls.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Wine (merging / dissolution)
+  literal_form: The bubble is said to be ‘merged in wine.’
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Black book of black locks
+  literal_form: A ‘black book’ associated with ‘black locks’ that is said to be closed.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Album that remains
+  literal_form: An ‘album’ that is said to stay, though extracts go day by day.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Warning about love’s dangers and haste
+  summary: The speaker warns the heart that the path of Love contains deceit and risk,
+    and that a swift goer will fall along the way.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Image of pride’s collapse
+  summary: Pride is pictured as a bubble that shines briefly but soon loses its ‘rule’
+    and is absorbed into wine.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Reminder of aging and the end of youthful airs
+  summary: The heart is told not to show airs of grace in old age, remembering that
+    such youthful ways pass away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Contrast of closing locks and enduring album amid daily loss
+  summary: A ‘black book’ of black locks is said to close, while an album remains,
+    even as many extracts disappear day by day.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Perilous path of love requiring caution
+  taxonomy_refs: []
+  basis: Love is explicitly framed as a path marked by deceit and risk, with falling
+    as a consequence of rushing.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Presented as moral-poetic counsel rather than narrative plot.
+- id: motif:2
+  label: Pride as brief rule followed by downfall/dissolution
+  taxonomy_refs: []
+  basis: Pride is depicted as a shining bubble whose ‘cap of rule’ falls and which
+    is merged in wine.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Metaphorical image; no specific agent of judgment is stated.
+- id: motif:3
+  label: Wisdom counsel on aging and the passing of youthful graces
+  taxonomy_refs:
+  - wisdom
+  basis: The heart is instructed to abandon youthful airs in old age because such
+    ways pass when youth is over.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: A didactic statement rather than a mythic episode.
+- id: motif:4
+  label: Endurance of a record contrasted with daily transience
+  taxonomy_refs: []
+  basis: The album ‘stays’ while many extracts go day by day, alongside the closing
+    of the ‘black book of black locks.’
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The referents of ‘black book/locks,’ ‘album,’ and ‘extracts’ are unclear
+    without broader context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16308-16311
+  quote_or_summary: The speaker addresses the heart, saying that on the path of Love
+    deceit and risk are great, and that one who goes swiftly will fall upon the way.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 16312-16315
+  quote_or_summary: Pride is compared to a bubble inflated by wind; its shining ‘head’
+    is temporary, its ‘cap of rule’ falls, and it is ‘merged in wine.’
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 16316-16319
+  quote_or_summary: The heart is told that when it has grown aged it should no longer
+    show airs of grace, remembering that such ways pass when youth is over.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 16320-16324
+  quote_or_summary: The passage states that the ‘black book of black locks’ may be
+    closed, while the album remains, though many extracts go day by day.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal elements are clear; some metaphors (‘black book/locks,’ ‘album,’
+    ‘extracts’) are difficult to interpret precisely without surrounding poems or
+    commentary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  No explicit cross-tradition comparison is made in the passage; comparisons intentionally omitted.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l16308-l16324
+  passage_sha256=55e76b8b0082782c50c9269d5a7438662c55b0bc99b8a021dc0a790996522cab
+

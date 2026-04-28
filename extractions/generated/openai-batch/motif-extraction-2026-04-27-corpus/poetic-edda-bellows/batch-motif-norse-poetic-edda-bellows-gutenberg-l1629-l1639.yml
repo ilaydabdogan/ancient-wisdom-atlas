@@ -1,0 +1,209 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l1629-l1639
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: VOLUSPO / THE WISE-WOMANS PROPHECY / INTRODUCTORY NOTE / NOTES; lines 1629-1639
+  start: '1629'
+  end: '1639'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: 'An editorial note discussing stanza 66: it may be an interpolation; some
+    suggest a dragon’s final rising and destruction marking the end of evil, but manuscript
+    gender indicates the final half-line refers instead to the Volva, who sinks into
+    the earth. The note identifies Nithhogg as the dragon at Yggdrasil’s roots and
+    mentions Nithafjoll (“the Dark Crags”).'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note states stanza 66 may have been interpolated because it fits badly
+    with surrounding stanzas.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A suggested reading is that a dragon makes a last attempt to rise and is destroyed,
+    marking the end of evil in the world.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note says the manuscripts’ gender indicates the final half-line refers
+    to the Volva herself, who sinks into the earth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Nithhogg is identified as a dragon located at the roots of Yggdrasil.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Nithafjoll (“the Dark Crags”) is mentioned as a place-name and noted as nowhere
+    else mentioned.
+  category: setting
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Nithhogg
+  description: A dragon at the roots of Yggdrasil.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the Volva (wise-woman/seeress)
+  description: Referred to as the subject of the final half-line; she sinks into the
+    earth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: prophetic speaker / seeress
+  assigned_to:
+  - fig:2
+  basis: The note treats the Volva as the figure referred to at the conclusion of
+    the prophecy/poem.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dragon at the world-tree’s roots
+  assigned_to:
+  - fig:1
+  basis: Nithhogg is explicitly identified as the dragon at the roots of Yggdrasil.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: serpent/dragon (Nithhogg)
+  literal_form: A dragon named Nithhogg.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: world-tree (Yggdrasil)
+  literal_form: Yggdrasil, referenced via its roots.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Dark Crags (Nithafjoll)
+  literal_form: A place called Nithafjoll, glossed as “the Dark Crags.”
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Proposed end-of-evil event (editorial suggestion)
+  summary: The note reports a suggestion that the dragon rises one last time and is
+    destroyed, which would mark the end of evil in the world.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: 'Conclusion of the prophecy: the Volva sinks into the earth (manuscript-based
+    reading)'
+  summary: The note states that manuscript grammar indicates the concluding half-line
+    refers to the Volva, who sinks into the earth as a conclusion to the prophecy.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: Dragon/serpent associated with cosmic order (Nithhogg at Yggdrasil’s roots)
+  taxonomy_refs:
+  - serpent
+  - sacred_tree_axis
+  basis: Nithhogg is described as a dragon at the roots of Yggdrasil, linking dragon
+    imagery with the world-tree’s root-region.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The note is explanatory and does not narrate the full mythic episode in
+    these lines.
+- id: motif:2
+  label: Descent into the earth at the conclusion of a prophecy
+  taxonomy_refs:
+  - descent
+  basis: The note reports that the concluding half-line refers to the Volva, who sinks
+    into the earth as a conclusion to the prophecy/poem.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an editorial note; details of the original stanza are not
+    quoted here.
+- id: motif:3
+  label: Destruction of a dragon marking the end of evil (reported interpretation)
+  taxonomy_refs:
+  - divine_judgment
+  basis: The note reports an interpretive suggestion that a dragon’s destruction marks
+    the end of evil in the world.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: Explicitly presented as a suggestion; the note also emphasizes that manuscript
+    grammar points away from the dragon in the final half-line.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1629-1639
+  quote_or_summary: 'Editorial note: stanza 66 may be interpolated; some suggest a
+    dragon rises and is destroyed, ending evil; but manuscript gender indicates the
+    final half-line refers to the Volva, who sinks into the earth as a conclusion
+    to the prophecy/poem.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1629-1639
+  quote_or_summary: The note identifies Nithhogg as the dragon at the roots of Yggdrasil
+    (with cross-reference to earlier stanza and note).
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1629-1639
+  quote_or_summary: The note mentions Nithafjoll (“the Dark Crags”) and states it
+    is nowhere else mentioned.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Passage is an editorial note rather than narrative verse; motifs based on
+    explicit identifications (Nithhogg/Yggdrasil) and reported interpretations (dragon
+    destruction; Volva sinking into earth).
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  No direct stanza text is included in this line range; extraction is constrained to the note’s statements and reported interpretations.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l1629-l1639
+  passage_sha256=86ed46ca249417afb7cac0107ebaefebc46e24e8af6ea74a16ab4643f085b53b
+

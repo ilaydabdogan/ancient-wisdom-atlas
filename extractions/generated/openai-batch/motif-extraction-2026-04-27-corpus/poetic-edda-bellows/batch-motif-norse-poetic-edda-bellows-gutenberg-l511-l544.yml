@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l511-l544
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: WHAT IS THE POETIC EDDA? / THE ORIGIN OF THE EDDIC POEMS / THE EDDA AND OLD
+    NORSE LITERATURE / PRESERVATION OF THE EDDIC POEMS; lines 511-544
+  start: '511'
+  end: '544'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: A discussion of how the Eddic poems were preserved and transmitted. The
+    passage states that many poems reached the modern reader in damaged form due to
+    oral transmission (interpolations, omissions, and changes), possible patchwork
+    compilation by the Codex Regius compiler, and unreliable copying in the principal
+    codices. It describes the difficulty of establishing a satisfactory text and explains
+    the translator/editor’s reliance on multiple editions, extensive emendation, and
+    textual notes (especially on transpositions and suspected interpolations).
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Many poems are said to have reached the present in poor condition after a
+    long period of oral transmission, involving interpolations, omissions, and changes;
+    some are described as a patchwork of little-related fragments.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A twelfth-century compiler connected with the Codex Regius is said to have
+    contributed to the patchwork by compiling and adding narrative prose notes; in
+    the pre-literacy period it was easy to lose stanzas from context and to interpolate
+    them elsewhere.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Some poems are said to appear virtually complete and unified in their current
+    form.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Establishing a satisfactory text is described as extremely difficult; the
+    translator states use of Hildebrand (1876) revised by Gering (1904), and extensive
+    consultation of other editions and commentaries.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The principal codices are described as unreliable due to copyists’ accuracy
+    issues; editions may differ substantially in readings; guesswork is described
+    as playing a large role, leading the translator to include many textual notes,
+    especially on transpositions and passages suspected as interpolations.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Poems of the Poetic Edda
+  description: A body of poems said to have been altered and fragmented through oral
+    transmission; some appear complete and unified.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Twelfth-century compiler of Codex Regius
+  description: A compiler credited with contributing to patchwork compilation and
+    adding narrative prose notes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Copyists of the principal codices
+  description: Copyists whose accuracy is described as unreliable, limiting reliance
+    on manuscript accuracy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Translator/editor (first-person narrator)
+  description: The narrator describes the editorial basis for the translation, extensive
+    emendation across editions, and inclusion of textual notes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Editors/scholars cited (Karl Hildebrand, Hugo Gering, Finnur Jonsson,
+    Neckel, Sijmons, Detter and Heinzel)
+  description: Named editors whose editions and revisions are used or consulted for
+    establishing the text.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: transmitted works subject to alteration
+  assigned_to:
+  - fig:1
+  basis: The poems are described as altered by oral transmission and sometimes fragmentary;
+    some remain unified.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: compiler who contributes to patchwork text
+  assigned_to:
+  - fig:2
+  basis: The compiler is described as responsible in part for patchwork compilation
+    and adding prose notes.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: unreliable manuscript copyists
+  assigned_to:
+  - fig:3
+  basis: The passage states that no great reliance can be placed on copyists’ accuracy
+    in the principal codices.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: textual editor/translator documenting emendations
+  assigned_to:
+  - fig:4
+  basis: The narrator explains the editorial base text, consultation of other editions,
+    and extensive textual notes showing emendations, transpositions, and interpolations.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: source editors for variant readings
+  assigned_to:
+  - fig:5
+  basis: Multiple editions and named editors are said to be used due to differing
+    readings and extensive emendation.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Oral transmission and compilation affecting poem integrity
+  summary: The passage describes oral transmission causing alterations and fragmentary
+    assemblage, with additional patchwork and prose notes attributed to a medieval
+    compiler; stanzas can be lost from context and interpolated elsewhere.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Modern textual reconstruction and annotation
+  summary: The narrator describes the difficulty of establishing the text, reliance
+    on multiple scholarly editions, and the practice of extensive emendation and detailed
+    notes to document transpositions and suspected interpolations amid unreliable
+    manuscript copying.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Oral transmission producing interpolated and fragmentary poetic tradition
+  taxonomy_refs: []
+  basis: The passage explicitly attributes interpolations, omissions, changes, and
+    fragmentary patchwork form to long oral transmission and subsequent compilation
+    practices.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a meta-tradition/preservation theme rather than a narrative/mythic
+    motif within an Eddic poem.
+- id: motif:2
+  label: Textual reconstruction through emendation and documentation of variants
+  taxonomy_refs: []
+  basis: The narrator emphasizes difficulties of establishing the text, divergent
+    editions, unreliable copying, and the need for emendation and extensive textual
+    notes.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: Scholarly/editorial practice motif; not a mythic episode or symbol.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 511-520
+  quote_or_summary: States that most Eddic poems reached us in poor shape due to oral
+    transmission (interpolations, omissions, changes), with some now a patchwork of
+    fragments; notes that some poems appear virtually complete and unified.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 520-527
+  quote_or_summary: Attributes some patchwork to a diligent twelfth-century Codex
+    Regius compiler (possibly Smund or another), who supplemented with narrative prose
+    notes; explains that before written records it was easy to lose stanzas from context
+    and interpolate them elsewhere.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 528-535
+  quote_or_summary: Describes the great difficulty of establishing a satisfactory
+    text; states reliance on the Hildebrand text (1876) revised by Gering (1904) and
+    extensive use of other editions and commentaries (including Finnur Jonsson, Neckel,
+    Sijmons, Detter and Heinzel).
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 535-544
+  quote_or_summary: States that the principal codices’ condition makes copyists unreliable;
+    editions can differ fundamentally; guesswork plays a large part; narrator includes
+    extensive textual notes to show the state of the original and significant emendations,
+    especially transpositions and suspected interpolations.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Passage is editorial commentary on textual preservation; no mythic narrative
+    symbols or cross-tradition comparisons are made in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  No narrative myth content; extracted themes relate to oral transmission, compilation, and textual criticism of the Eddic corpus.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l511-l544
+  passage_sha256=c87b09f497d08d874dcc8197dacbda560fcbbd13fbd577fe2977057c69f467cf
+

@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l14793-l14809
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: SIKANDER / FIRDUSI'S INVOCATION / FIRDUSI'S SATIRE ON MAHMUD / THE RUBIYT
+    OF OMAR KHAYYM; lines 14793-14809
+  start: '14793'
+  end: '14809'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: 'A narrator describes a sublime natural setting as suitable for poetry,
+    then offers literary criticism: the poet is not among the greatest because he
+    tells no story and does not publicly express his heart or unleash imaginative
+    flight. The narrator notes that crowds prefer emphatic warrant and resent cool,
+    lofty intelligence. Nevertheless, the poet is said to belong among a limited number
+    of thinkers (compared to Lucretius and Epicurus) who probe mysteries, reject absurdity
+    and arrogant authority, remain tolerant due to awareness of fallibility, and possess
+    broad faith and benevolence beyond doctrine and creed.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator describes a 'primeval forest' and a 'pouring canyon' as a sublime
+    setting worthy of poetic lines, with 'dewless, crystalline air' and 'solemn music.'
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The narrator asserts that the poet cannot be counted among the greatest writers
+    and gives reasons: he has told no story, has not ''unpacked his heart in public,''
+    and has not released the reins of a ''winged horse'' of imagination.'
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator claims that the crowd's approval is not for the 'cool, collected
+    observer' and that many resent an 'air of lofty intelligence' and a 'pale and
+    subtle smile.'
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The narrator groups the poet with a limited number (like Lucretius and Epicurus)
+    characterized by looking deeply into mysteries, refusing credence to the absurd,
+    refusing allegiance to arrogant authority, being tolerant of opinions due to awareness
+    of fallibility, and holding faith and benevolence not bound by doctrine or creed.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Narrator/critic
+  description: A speaker who describes a setting and evaluates 'our poet' and the
+    crowd's taste.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: The poet (unnamed; referred to as 'our poet')
+  description: A poet evaluated as not among the greatest, yet placed among a limited
+    group of deep observers of mysteries.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: The crowd / the many
+  description: A collective whose approval favors emphatic warrant and resents lofty
+    intelligence.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Browning
+  description: Named as the singer of a quoted line about the crowd requiring emphatic
+    warrant.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Lucretius
+  description: Named as a point of comparison for a limited number who look deep into
+    mysteries and reject absurdity and arrogant authority.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Epicurus
+  description: Named as a point of comparison for a limited number who look deep into
+    mysteries and reject absurdity and arrogant authority.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Narrator/critic
+  assigned_to:
+  - fig:1
+  basis: The speaker describes the setting and delivers evaluative judgments about
+    the poet and public taste.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: Poet being evaluated
+  assigned_to:
+  - fig:2
+  basis: Referred to as 'our poet' and assessed for lacking story, confession, and
+    imaginative flight.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Deep observer of mysteries
+  assigned_to:
+  - fig:2
+  basis: Placed among a limited number who look deep into mysteries, reject absurdity
+    and arrogant authority, and remain tolerant.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Public audience/judges
+  assigned_to:
+  - fig:3
+  basis: The 'crowd' and 'many' are described as granting suffrages and resenting
+    lofty intelligence.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Quoted poet/authority
+  assigned_to:
+  - fig:4
+  basis: Identified as the singer of the quoted line about the crowd requiring emphatic
+    warrant.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Exemplars of philosophical inquiry (comparative figures)
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Lucretius and Epicurus are named as members of the limited number who look
+    into mysteries and reject absurdity/authority.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Winged horse (as image of imagination)
+  literal_form: '"the winged horse" whose reins could be thrown loose to let imagination
+    carry the poet where it wishes'
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Primeval forest and pouring canyon (sublime natural setting)
+  literal_form: primeval forest; pouring canyon; dewless, crystalline air; solemn
+    music
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Sublime setting described as worthy of poetry
+  summary: The narrator describes a primeval forest and pouring canyon with crystalline
+    air and solemn music, calling it worthy of the lines.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Evaluation of the poet versus crowd taste
+  summary: The narrator argues the poet is not among the greatest because he tells
+    no story and does not publicly reveal his heart or unleash imagination; the narrator
+    adds that crowds prefer emphatic warrant and resent lofty intelligence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Placement among tolerant truth-seekers
+  summary: The narrator places the poet among a limited group (like Lucretius and
+    Epicurus) who probe mysteries, reject absurdity and arrogant authority, and maintain
+    tolerance and broad faith beyond doctrine and creed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Wise skeptic rejects absurdity and arrogant authority; tolerance grounded
+    in awareness of fallibility
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly describes a limited number who 'look deep into the
+    tangled mysteries of things,' 'refuse credence to the absurd,' refuse allegiance
+    to 'arrogant authority,' and are tolerant due to awareness of fallibility.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is philosophical/literary characterization rather than a narrated
+    mythic episode; motif tagging treats it as a thematic statement.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14793-14795
+  quote_or_summary: '"sublime setting of primeval forest and pouring canyon"; "dewless,
+    crystalline air"; "more solemn music".'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: lines 14795-14798
+  quote_or_summary: '"our poet can never be numbered among the great writers"; "He
+    has told no story"; "never unpacked his heart in public"; "thrown the reins on
+    the neck of the winged horse" of imagination.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 14798-14803
+  quote_or_summary: '"Ah! the crowd must have emphatic warrant"; "Its suffrages are
+    not for the cool, collected observer"; "The many cannot but resent that air of
+    lofty intelligence" and a "pale and subtle smile."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 14803-14809
+  quote_or_summary: Poet placed with "Lucretius and Epicurus" who "look deep into
+    the tangled mysteries of things; refuse credence to the absurd, and allegiance
+    to arrogant authority"; tolerant of opinions; faith and benevolence beyond doctrine/creed.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Passage is primarily literary/philosophical commentary with limited concrete
+    narrative action; motif identification is therefore thematic rather than plot-based.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  No explicit mythic beings or ritual actions appear; the 'winged horse' functions as a metaphor for imagination rather than a narrative creature.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l14793-l14809
+  passage_sha256=e3d2eb9ce95386fc482795386f9e6e936443d1a3401d99f53154b65bb06dd42b
+

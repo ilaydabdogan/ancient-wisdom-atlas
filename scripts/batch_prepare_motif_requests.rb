@@ -15,6 +15,7 @@ options = {
   max_requests_per_shard: 1_000,
   max_bytes_per_shard: 180 * 1024 * 1024,
   include_ingested: false,
+  skip_ingested_from_run_id: nil,
   force: false
 }
 
@@ -31,6 +32,7 @@ OptionParser.new do |parser|
   parser.on("--max-requests-per-shard N", Integer, "Shard request count limit") { |value| options[:max_requests_per_shard] = value }
   parser.on("--max-bytes-per-shard N", Integer, "Shard byte limit") { |value| options[:max_bytes_per_shard] = value }
   parser.on("--include-ingested", "Do not skip custom_ids already ingested for this run") { options[:include_ingested] = true }
+  parser.on("--skip-ingested-from-run-id RUN_ID", "Skip custom_ids ingested by another motif run") { |value| options[:skip_ingested_from_run_id] = value }
   parser.on("--force", "Replace changed generated files") { options[:force] = true }
 end.parse!
 
@@ -360,7 +362,8 @@ prompt_path = AtlasBatch.project_path(options[:prompt_path])
 AtlasBatch.die("Prompt template not found: #{AtlasBatch.relative_path(prompt_path)}", 66) unless File.file?(prompt_path)
 
 passages = AtlasBatch.read_jsonl(passages_path)
-done = options[:include_ingested] ? [] : ingested_custom_ids(run_id)
+skip_source_run_id = options[:skip_ingested_from_run_id] || run_id
+done = options[:include_ingested] ? [] : ingested_custom_ids(skip_source_run_id)
 done_lookup = done.to_h { |custom_id| [custom_id, true] }
 prompt = File.read(prompt_path)
 taxonomy_context = load_taxonomy_context
@@ -426,6 +429,7 @@ request_index = {
   "prompt_path" => AtlasBatch.relative_path(prompt_path),
   "passages_path" => AtlasBatch.relative_path(passages_path),
   "request_map_path" => AtlasBatch.relative_path(request_map_path),
+  "skip_ingested_from_run_id" => skip_source_run_id,
   "skipped_ingested_count" => done.length,
   "shards" => shard_entries
 }
@@ -440,10 +444,11 @@ manifest["config"]["motif_request_generation"] = {
   "prompt_path" => AtlasBatch.relative_path(prompt_path),
   "max_output_tokens" => options.fetch(:max_output_tokens),
   "temperature" => options[:temperature],
-  "reasoning_effort" => options[:reasoning_effort],
-  "max_requests_per_shard" => options[:max_requests_per_shard],
-  "max_bytes_per_shard" => options[:max_bytes_per_shard]
-}
+    "reasoning_effort" => options[:reasoning_effort],
+    "max_requests_per_shard" => options[:max_requests_per_shard],
+    "max_bytes_per_shard" => options[:max_bytes_per_shard],
+    "skip_ingested_from_run_id" => skip_source_run_id
+  }
 manifest["artifacts"]["requests_index_path"] = AtlasBatch.relative_path(index_path)
 manifest["artifacts"]["request_map_path"] = AtlasBatch.relative_path(request_map_path)
 manifest["counts"] ||= {}

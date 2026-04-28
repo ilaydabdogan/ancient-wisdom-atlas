@@ -229,9 +229,22 @@ The pipeline is designed for reruns:
 - Download scripts skip files already present unless `--force` is used.
 - Ingest writes `data/batches/<run_id>/ingested-results.jsonl` and skips already materialized records when content is unchanged.
 - Re-running motif request preparation skips previously ingested `custom_id`s unless `--include-ingested` is passed.
+- New motif runs can skip records already ingested by a prior run with `--skip-ingested-from-run-id PRIOR_RUN_ID`; use this for retry passes after queue failures, schema changes, or `max_output_tokens` truncation.
 - Embedding ingestion merges by `custom_id` into `data/embeddings/<run_id>/embeddings.jsonl` and records per-item ingest status under `data/batches/<run_id>/embedding-ingested-results.jsonl`.
 
 Use the same `run_id` to resume an interrupted workflow. Use a new `run_id` for a new scientific pass, model change, prompt change, or corpus-wide rerun.
+
+Example motif retry after incomplete JSON from an earlier run:
+
+```sh
+ruby scripts/batch_prepare_motif_requests.rb \
+  --run-id motif-extraction-YYYY-MM-DD-retry-12000 \
+  --passages data/batches/motif-extraction-YYYY-MM-DD/passages.jsonl \
+  --skip-ingested-from-run-id motif-extraction-YYYY-MM-DD \
+  --max-output-tokens 12000 \
+  --reasoning-effort medium \
+  --max-requests-per-shard 100
+```
 
 ## Review Discipline
 

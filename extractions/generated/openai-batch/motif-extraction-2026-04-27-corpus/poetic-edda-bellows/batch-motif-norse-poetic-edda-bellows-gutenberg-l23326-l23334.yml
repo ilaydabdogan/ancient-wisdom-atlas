@@ -1,0 +1,208 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l23326-l23334
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: INTRODUCTORY NOTE / NOTES / PRONOUNCING INDEX OF PROPER NAMES / PRONOUNCING
+    INDEX; lines 23326-23334
+  start: '23326'
+  end: '23334'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: A pronouncing index entry listing several proper names (Ynglings; Yng-vi
+    in multiple identifications; Ys-ja) with brief identifiers (e.g., dwarf; son;
+    daughter; descendants) and internal page/poem reference numbers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index-style list of names with reference numbers rather
+    than a narrative passage.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: "“Yng-lings” are identified as descendants of Yng."
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A figure named “Yng-vi” is identified as a dwarf.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A figure named “Yng-vi” is identified as the son of Hring.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: "“Ys-ja” is identified as the daughter of Thrll."
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Yng-lings
+  description: Descendants of Yng (group designation).
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Yng
+  description: Eponym named as ancestor of the Yng-lings; also listed as “Yng-vi,
+    Yng”.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Yng-vi (dwarf)
+  description: Yng-vi identified as a dwarf.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Yng-vi (son of Hring)
+  description: Yng-vi identified as son of Hring.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Hring
+  description: Named as the father of Yng-vi (in one index entry).
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Ys-ja
+  description: Named as the daughter of Thrll.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Thrll
+  description: Named as the parent of Ys-ja.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: descendants (group)
+  assigned_to:
+  - fig:1
+  basis: Yng-lings are labeled “descendants of Yng.”
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: ancestor (eponym)
+  assigned_to:
+  - fig:2
+  basis: Yng is named as the one from whom the Yng-lings descend.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: dwarf
+  assigned_to:
+  - fig:3
+  basis: 'Index entry: “Yng-vi, a dwarf.”'
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: son
+  assigned_to:
+  - fig:4
+  basis: 'Index entry: “Yng-vi, son of Hring.”'
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: father
+  assigned_to:
+  - fig:5
+  basis: Hring is specified as the father of Yng-vi in one entry.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: daughter
+  assigned_to:
+  - fig:6
+  basis: 'Index entry: “Ys-ja, daughter of Thrll.”'
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: parent
+  assigned_to:
+  - fig:7
+  basis: Thrll is specified as the parent of Ys-ja.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23326-23334
+  quote_or_summary: Pronouncing index entries listing proper names with brief identifiers
+    and reference numbers.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain.
+- id: ev:2
+  type: quote
+  locator: line 23326
+  quote_or_summary: "“Yng-lings, descendants of Yng, 221, 223, 307.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain.
+- id: ev:3
+  type: quote
+  locator: line 23328
+  quote_or_summary: "“Yng-vi, a dwarf, 8.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain.
+- id: ev:4
+  type: quote
+  locator: line 23330
+  quote_or_summary: "“Yng-vi, son of Hring, 306.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain.
+- id: ev:5
+  type: quote
+  locator: line 23334
+  quote_or_summary: "“Ys-ja, daughter of Thrll, 207.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain.
+- id: ev:6
+  type: quote
+  locator: line 23332
+  quote_or_summary: "“Yng-vi, Yng, 221, 307, 308, 364, 365.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: This passage is an index entry (names and kinship/identifiers) with no narrative
+    action; therefore no motifs/symbols/scenes are proposed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  Multiple distinct referents for “Yng-vi” are kept as separate figure entries because the index explicitly differentiates them (dwarf vs. son of Hring vs. “Yng-vi, Yng”).
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l23326-l23334
+  passage_sha256=330bd9957296067f11289d33d9d4bb86cd66ab0523b680c3aca0342f66a5ece6
+

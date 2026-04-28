@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l1099-l1112
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: LAYS OF THE GODS / VOLUSPO / THE WISE-WOMANS PROPHECY / INTRODUCTORY NOTE;
+    lines 1099-1112
+  start: '1099'
+  end: '1112'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: The speaker describes a radiant hall roofed with gold on Gimle where righteous
+    rulers will dwell in everlasting happiness. A mighty lord comes from above to
+    rule all lands. Then a dark dragon, Nithhogg, flies up from below from Nithafjoll,
+    bearing human bodies on his wings; the speaker ends by saying she must sink.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hall is seen that is 'more fair than the sun' and is roofed with gold, standing
+    on Gimle.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The righteous rulers will dwell in this hall and will have happiness forever.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A mighty lord comes from on high, holds all power, and rules all lands.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'A dark dragon comes forth from below: Nithhogg, flying from Nithafjoll.'
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Nithhogg bears the bodies of men on his wings; he is called a bright serpent.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'The speaker states: ''but now must I sink.'''
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Speaker (the seer/wise-woman)
+  description: First-person narrator who reports visions and ends by saying she must
+    sink.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: The hall on Gimle
+  description: A hall more fair than the sun, roofed with gold, standing on Gimle.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Righteous rulers
+  description: They will dwell in the hall and have happiness forever.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Mighty lord from on high
+  description: A powerful lord who comes from above to hold all power and rule all
+    lands.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Nithhogg (dragon/serpent)
+  description: A dark dragon/bright serpent who flies from Nithafjoll and carries
+    human bodies on his wings.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Bodies of men
+  description: Human bodies carried on the dragon's wings.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Nithafjoll
+  description: The place from which Nithhogg is said to fly; presented as a named
+    location.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Blessed inhabitants (righteous rulers)
+  assigned_to:
+  - fig:3
+  basis: They 'shall ... dwell' in the hall on Gimle and have 'happiness ever.'
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Supreme ruler (mighty lord)
+  assigned_to:
+  - fig:4
+  basis: He 'comes on high,' is said to hold 'all power,' and rules 'all lands.'
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Underworld/descending monster (dragon/serpent bearer of corpses)
+  assigned_to:
+  - fig:5
+  basis: The dragon comes 'from below' and carries 'the bodies of men' on his wings.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Visionary narrator
+  assigned_to:
+  - fig:1
+  basis: The passage is reported in first person and ends with the narrator's statement
+    that she must sink.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Eschatological dwelling place (radiant hall)
+  assigned_to:
+  - fig:2
+  basis: A radiant gold-roofed hall where righteous rulers dwell in everlasting happiness.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Gold-roofed radiant hall
+  literal_form: A hall 'more fair than the sun' and 'roofed with gold' on Gimle.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Gimle (named site of the hall)
+  literal_form: Gimle, where the gold-roofed hall stands.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Serpent/dragon (Nithhogg)
+  literal_form: Nithhogg, a dark dragon and bright serpent.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Nithafjoll (named place of origin for the dragon)
+  literal_form: Nithafjoll, from which Nithhogg flies.
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Bodies borne on wings
+  literal_form: The bodies of men carried on the dragon's wings.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Vision of the radiant hall on Gimle
+  summary: The speaker sees a gold-roofed hall on Gimle where righteous rulers will
+    dwell in everlasting happiness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arrival of the mighty lord from above
+  summary: A mighty lord comes from on high, holding all power and ruling all lands.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Nithhogg rises from below bearing corpses; narrator ends
+  summary: A dark dragon/bright serpent, Nithhogg, flies up from below from Nithafjoll
+    carrying human bodies on his wings; the narrator concludes by saying she must
+    sink.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Blessed hall reserved for the righteous after cosmic events
+  taxonomy_refs:
+  - divine_judgment
+  basis: A radiant hall on Gimle is described as the dwelling of 'the righteous rulers'
+    with happiness forever, implying a post-judgment or eschatological reward setting.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not explicitly narrate a judgment event here; the 'righteous'
+    status and eternal happiness suggest (but do not detail) judgment/reward.
+- id: motif:2
+  label: Supreme ruler descends/appears from above to rule all lands
+  taxonomy_refs: []
+  basis: A 'mighty lord' comes 'on high' and is said to hold all power and rule all
+    lands.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The identity and narrative context of the lord are not provided in the
+    excerpt (ellipsis in the stanza).
+- id: motif:3
+  label: Underworld dragon/serpent rises bearing the dead
+  taxonomy_refs:
+  - serpent
+  basis: Nithhogg, a dragon/serpent, comes from below and carries the bodies of men
+    on his wings.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1099-1104 (stanza 64)
+  quote_or_summary: The speaker sees a hall more fair than the sun, roofed with gold,
+    standing on Gimle; the righteous rulers will dwell there and have happiness forever.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation (Project Gutenberg/Bellows).
+- id: ev:2
+  type: summary
+  locator: lines 1105-1110 (stanza 65)
+  quote_or_summary: A mighty lord comes from on high to hold all power and rule all
+    lands (with ellipses in the text).
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation (Project Gutenberg/Bellows).
+- id: ev:3
+  type: summary
+  locator: lines 1111-1112 (stanza 66)
+  quote_or_summary: From below the dark dragon Nithhogg flies from Nithafjoll; he
+    bears the bodies of men on his wings, called a bright serpent; the speaker says
+    she must sink.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation (Project Gutenberg/Bellows).
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal elements are clear; motif family assignments are cautious where the
+    passage implies (but does not narrate) judgment/reward.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  No explicit cross-tradition comparisons appear in the excerpt; ellipses in stanza 65 limit contextual interpretation.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l1099-l1112
+  passage_sha256=e23a0a47dc09e678eae3e89877fc26ce6e3f0ad324fe1bc459c95949b3df7eb4
+

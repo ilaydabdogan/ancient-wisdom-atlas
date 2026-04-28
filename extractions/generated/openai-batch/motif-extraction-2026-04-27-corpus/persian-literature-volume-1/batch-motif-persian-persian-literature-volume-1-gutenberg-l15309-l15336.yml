@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l15309-l15336
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: THE RUBIYT OF OMAR KHAYYM / THE RUBIYT / THE DIVAN / BY HFIZ; lines 15309-15336
+  start: '15309'
+  end: '15336'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-27-corpus; human
+    review required.
+canonical_text:
+  quote: ''
+  summary: Two stanzas address the cyclical rising of the moon and imagine a future
+    time when the moon will look for the speakers in the same garden, but one will
+    be absent. The speaker addresses a cupbearer and asks that, when passing among
+    guests, the cupbearer reach the spot where the speaker once made someone/something
+    and turn down an empty glass. An editorial note explains that many odes (ghazals)
+    appear disunified; each couplet is likened to a pearl, and the whole ode to a
+    string of pearls, with rhyme linking couplets more than sense, allowing couplets
+    to be rearranged in manuscripts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The moon is described as rising again and again and waxing and waning repeatedly
+    in the future.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The moon is said to rise and look for the speakers through the same garden,
+    and to look for one person in vain.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A figure addressed as "Sáki" (cupbearer) is imagined passing among guests
+    described as 'star-scattered on the grass'.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker instructs the Sáki to reach a particular spot 'where I made One'
+    and to turn down an empty glass.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: An editorial note states that many odes have an apparent lack of unity; each
+    couplet is compared to a single pearl and the ghazal to a string of pearls.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note states that rhyme, not necessarily sense, links couplets; couplets
+    may be reordered without harming effect, and manuscripts vary in number and order
+    of odes/couplets.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Speaker ("I")
+  description: A first-person speaker who reflects on future absence and gives an
+    instruction about an empty glass at a particular spot.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: 'Addressee: Sáki (cupbearer)'
+  description: Addressed directly and asked to carry out a 'joyous errand' and turn
+    down an empty glass at a certain spot.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: The Moon
+  description: A rising moon that repeatedly waxes and wanes and is imagined to look
+    for the speakers again in the garden.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Guests
+  description: Guests among whom the Sáki passes; they are described in relation to
+    being 'star-scatter'd on the grass'.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Orientals (as referenced in note)
+  description: Referenced as making a comparison between couplets and pearls, and
+    the ghazal and a string of pearls.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: speaker/poetic voice
+  assigned_to:
+  - fig:1
+  basis: First-person statements and instructions are given by "I".
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: cupbearer/addressee
+  assigned_to:
+  - fig:2
+  basis: The speaker addresses "Sáki" and instructs him to act with an empty glass.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: celestial marker of recurring time
+  assigned_to:
+  - fig:3
+  basis: The moon is described as repeatedly waxing/waning and rising again to look
+    for the speakers.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: gathering participants (guests)
+  assigned_to:
+  - fig:4
+  basis: Guests are present in the imagined scene through which the Sáki passes.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: commentators on poetic form
+  assigned_to:
+  - fig:5
+  basis: They are said to compare couplets to pearls and ghazals to strings of pearls.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Waxing and waning moon
+  literal_form: Rising moon; waxing and waning
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Garden (revisited place)
+  literal_form: '"this same Garden"'
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Empty glass
+  literal_form: An empty glass that is turned down
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Pearls and string (ghazal structure)
+  literal_form: Each couplet as a pearl; the whole ghazal as a string of pearls
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Moon’s return and future absence in the garden
+  summary: The rising moon is imagined to return repeatedly, waxing and waning, and
+    to look for the speakers again in the same garden, but to seek one in vain.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Instruction to the cupbearer to invert an empty glass at a spot
+  summary: The speaker addresses the Sáki, imagines him moving among guests, and asks
+    him to reach a particular spot associated with the speaker and to turn down an
+    empty glass.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Editorial explanation of ghazal cohesion via rhyme (pearls on a string)
+  summary: A note explains that ghazals may appear disunified; couplets are likened
+    to pearls on a string, connected by rhyme more than sense, and manuscript ordering
+    varies.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Cyclical celestial time contrasted with human absence
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The moon’s repeated waxing/waning and rising is set against a future moment
+    when it looks for someone 'in vain' in the same garden.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage uses the moon’s cycle explicitly, but does not explicitly
+    frame the human absence as death; interpretation should be reviewed.
+- id: motif:2
+  label: Departure/absence anticipated in a familiar place
+  taxonomy_refs:
+  - departure
+  basis: The moon is imagined to look for the speakers again in the same garden and
+    to seek one in vain, implying a forthcoming absence.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The text suggests absence but does not narrate an actual departure event
+    or cause.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15309-15313
+  quote_or_summary: The moon is addressed as rising again; it will wax and wane often
+    in the future and rise to look for the speakers through the same garden, looking
+    for one in vain.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 15314-15318
+  quote_or_summary: 'The speaker addresses the Sáki (cupbearer): when he passes among
+    guests ''star-scattered on the grass'' and reaches the spot ''where I made One,''
+    he should turn down an empty glass.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 15325-15336
+  quote_or_summary: 'Editorial note: many odes lack apparent unity; each couplet is
+    like a pearl and the ghazal a string of pearls; rhyme rather than sense links
+    couplets, so order can vary across manuscripts.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal elements are clear; motif mapping is tentative because the passage
+    is lyrical and elliptical.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.2
+extracted_at: '2026-04-27'
+notes: |-
+  The passage includes both verse and an editorial note; both were treated as separate scenes with distinct symbols.
+  batch_run_id=motif-extraction-2026-04-27-corpus
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l15309-l15336
+  passage_sha256=1f08b6d193a58f874c0b2bd5ec2e89a2b123d5fd9490ff345a2e75760d644cf3
+
