@@ -874,7 +874,7 @@ items:
   manifest_path: manifests/project-gutenberg/7518-more-jataka-tales-babbitt.yml
   extraction_dir: extractions/buddhist/project-gutenberg/more-jataka-tales-babbitt
 - id: buddhist.old_india_tales.rouse_gutenberg
-  status: queued
+  status: ingested
   priority: medium
   source: project_gutenberg
   source_id: '36039'
@@ -923,6 +923,15 @@ items:
   - trickster
   why_it_matters: Adds another Jataka-derived comparison layer for animal wisdom,
     clever rescue, community, and moral consequence patterns.
+  raw_path: imports/raw/project-gutenberg/36039-giant-crab-old-india-tales-rouse.txt
+  pipeline:
+    raw_fetched_on: '2026-04-28'
+    converted_on: '2026-04-28'
+    promoted_on: '2026-04-28'
+  converted_path: imports/converted/project-gutenberg/36039-giant-crab-old-india-tales-rouse.md
+  canonical_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  manifest_path: manifests/project-gutenberg/36039-giant-crab-old-india-tales-rouse.yml
+  extraction_dir: extractions/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse
 - id: comparative.golden_bough.volume_1_frazer_gutenberg
   status: queued
   priority: medium

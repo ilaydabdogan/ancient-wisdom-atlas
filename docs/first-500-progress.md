@@ -46,7 +46,7 @@ This is source-level coverage. Long works still need unit-level Markdown splitti
 | ingested | ainu.folk_tales.chamberlain_gutenberg | Aino Folk-Tales |
 | ingested | buddhist.jataka_tales.babbitt_gutenberg | Jataka tales |
 | ingested | buddhist.more_jataka_tales.babbitt_gutenberg | More Jataka Tales |
-| queued | buddhist.old_india_tales.rouse_gutenberg | The Giant Crab, and Other Tales from Old India |
+| ingested | buddhist.old_india_tales.rouse_gutenberg | The Giant Crab, and Other Tales from Old India |
 | queued | comparative.golden_bough.volume_1_frazer_gutenberg | The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2) |
 | queued | comparative.golden_bough.volume_2_frazer_gutenberg | The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) |
 | queued | greek.aesop.fables_vernon_jones_gutenberg | Aesop's Fables; a new translation |
