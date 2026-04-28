@@ -237,6 +237,19 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: seed_records_added
+- id: greek.odyssey.butler_gutenberg
+  title: The Odyssey
+  tradition_cluster: greek
+  source_id: source.project_gutenberg.1727
+  canonical_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  manifest_path: manifests/project-gutenberg/1727-odyssey-butler.yml
+  extraction_dir: extractions/greek/project-gutenberg/odyssey-butler
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: hindu.bhagavad_gita.song_celestial_gutenberg
   title: The Song Celestial; Or, Bhagavad-Gita
   tradition_cluster: hindu

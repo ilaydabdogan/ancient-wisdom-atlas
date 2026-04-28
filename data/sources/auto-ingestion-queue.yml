@@ -384,7 +384,7 @@ items:
   manifest_path: manifests/project-gutenberg/13060-gulistan-sadi-ross.yml
   extraction_dir: extractions/persian/project-gutenberg/gulistan-sadi-ross
 - id: greek.odyssey.butler_gutenberg
-  status: queued
+  status: ingested
   priority: high
   source: project_gutenberg
   source_id: '1727'
@@ -437,6 +437,15 @@ items:
   - Athena
   why_it_matters: Adds the major Greek homecoming epic for voyage, underworld descent,
     disguise, temptation, recognition, and return motifs.
+  raw_path: imports/raw/project-gutenberg/1727-odyssey-butler.txt
+  pipeline:
+    raw_fetched_on: '2026-04-27'
+    converted_on: '2026-04-27'
+    promoted_on: '2026-04-27'
+  converted_path: imports/converted/project-gutenberg/1727-odyssey-butler.md
+  canonical_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  manifest_path: manifests/project-gutenberg/1727-odyssey-butler.yml
+  extraction_dir: extractions/greek/project-gutenberg/odyssey-butler
 - id: roman.aeneid.mackail_gutenberg
   status: queued
   priority: high
