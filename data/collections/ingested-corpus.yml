@@ -1,7 +1,7 @@
 ---
 collection_id: ingested_corpus
 title: Ingested Corpus Registry
-updated_on: '2026-04-27'
+updated_on: '2026-04-28'
 items:
 - id: biblical.deuteronomy.web_classic
   title: Deuteronomy
@@ -414,6 +414,19 @@ items:
   canonical_text_path: texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md
   manifest_path: manifests/project-gutenberg/13060-gulistan-sadi-ross.yml
   extraction_dir: extractions/persian/project-gutenberg/gulistan-sadi-ross
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: roman.ovid.metamorphoses_books_1_7_riley_gutenberg
+  title: The Metamorphoses of Ovid, Books I-VII
+  tradition_cluster: classical_roman
+  source_id: source.project_gutenberg.21765
+  canonical_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  manifest_path: manifests/project-gutenberg/21765-metamorphoses-books-1-7-riley.yml
+  extraction_dir: extractions/roman/project-gutenberg/metamorphoses-books-1-7-riley
   rights:
     status: public_domain
     full_text: allowed

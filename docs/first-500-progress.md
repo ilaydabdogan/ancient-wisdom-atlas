@@ -8,9 +8,9 @@ This is source-level coverage. Long works still need unit-level Markdown splitti
 
 | State | Units |
 | --- | ---: |
-| source_ingested | 206 |
+| source_ingested | 213 |
 | source_ingested_review | 56 |
-| source_queued | 37 |
+| source_queued | 30 |
 | source_candidate | 0 |
 | unmapped | 201 |
 
@@ -22,7 +22,7 @@ This is source-level coverage. Long works still need unit-level Markdown splitti
 | Ancient Near East | 25 | 0 | 0 | 0 | 0 | 25 |
 | Biblical and Second Temple | 70 | 5 | 0 | 0 | 0 | 65 |
 | China and Japan | 50 | 47 | 0 | 0 | 0 | 3 |
-| Greek and Roman Mediterranean | 80 | 48 | 0 | 27 | 0 | 5 |
+| Greek and Roman Mediterranean | 80 | 55 | 0 | 20 | 0 | 5 |
 | Islamic and Persianate | 45 | 9 | 30 | 0 | 0 | 6 |
 | Mesoamerican, African, and Oceanic | 40 | 5 | 0 | 0 | 0 | 35 |
 | Northern and Western Europe | 45 | 41 | 0 | 0 | 0 | 4 |
@@ -33,7 +33,6 @@ This is source-level coverage. Long works still need unit-level Markdown splitti
 
 | Source | Queued Units | Action |
 | --- | ---: | --- |
-| The Metamorphoses of Ovid, Books I-VII | 7 | ingest_then_split_into_book_files |
 | The Metamorphoses of Ovid, Books VIII-XV | 8 | ingest_then_split_into_book_files |
 | The Aeneid of Virgil | 12 | ingest_then_split_into_book_files |
 | Buddhist birth stories; or, Jataka tales, Volume 1 | 10 | ingest_then_match_named_jataka_tales |

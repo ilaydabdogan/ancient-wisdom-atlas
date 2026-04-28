@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-04-28'
+updated_date: '2026-04-28'
+artifacts:
+- id: artifact.gutenberg_21765
+  work_id: roman.ovid.metamorphoses_books_1_7_riley_gutenberg
+  title: The Metamorphoses of Ovid, Books I-VII
+  source_url: https://www.gutenberg.org/ebooks/21765
+  fetch_date: '2026-04-28'
+  raw:
+    path: imports/raw/project-gutenberg/21765-metamorphoses-books-1-7-riley.txt
+    checksum:
+      algorithm: sha256
+      value: dfbe45f79760428abadc0c1983a89e40d4101a716388a3dcea0cd0cbf9f9e228
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/21765-metamorphoses-books-1-7-riley.md
+    checksum:
+      algorithm: sha256
+      value: a6965c1be4c5b2c8e655e22513702562736ef0ee4731824ec6556ab90e42ee37
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+    checksum:
+      algorithm: sha256
+      value: da62b56b6e83cb792456fd7831cd023319a5462cdaaf36aa69e3464b60304dae
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids roman.ovid.metamorphoses_books_1_7_riley_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-04-28'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

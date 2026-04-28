@@ -4,9 +4,9 @@ generated_on: '2026-04-28'
 source_map_path: data/collections/first-500-source-map.yml
 first500_total_units: 500
 state_counts:
-  source_ingested: 206
+  source_ingested: 213
   source_ingested_review: 56
-  source_queued: 37
+  source_queued: 30
   source_candidate: 0
   unmapped: 201
 by_culture_area:
@@ -33,9 +33,9 @@ by_culture_area:
     unmapped: 65
   Greek and Roman Mediterranean:
     total: 80
-    source_ingested: 48
+    source_ingested: 55
     source_ingested_review: 0
-    source_queued: 27
+    source_queued: 20
     source_candidate: 0
     unmapped: 5
   South Asia:
@@ -208,7 +208,7 @@ mapped_sources:
   next_action: split_into_book_files
 - source_work_id: roman.ovid.metamorphoses_books_1_7_riley_gutenberg
   source_title: The Metamorphoses of Ovid, Books I-VII
-  state: source_queued
+  state: source_ingested
   coverage_mode: complete_source_covers_planned_units
   coverage_confidence: high
   first500_unit_count: 7
@@ -581,21 +581,6 @@ mapped_sources:
   - first500.481
   next_action: split_into_preamble_and_parts
 next_first500_queue:
-- source_work_id: roman.ovid.metamorphoses_books_1_7_riley_gutenberg
-  source_title: The Metamorphoses of Ovid, Books I-VII
-  state: source_queued
-  coverage_mode: complete_source_covers_planned_units
-  coverage_confidence: high
-  first500_unit_count: 7
-  first500_units:
-  - first500.169
-  - first500.170
-  - first500.171
-  - first500.172
-  - first500.173
-  - first500.174
-  - first500.175
-  next_action: ingest_then_split_into_book_files
 - source_work_id: roman.ovid.metamorphoses_books_8_15_riley_gutenberg
   source_title: The Metamorphoses of Ovid, Books VIII-XV
   state: source_queued

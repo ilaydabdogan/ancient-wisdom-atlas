@@ -447,7 +447,7 @@ items:
   manifest_path: manifests/project-gutenberg/45159-persian-mystics-rumi-davis.yml
   extraction_dir: extractions/sufi/project-gutenberg/persian-mystics-rumi-davis
 - id: roman.ovid.metamorphoses_books_1_7_riley_gutenberg
-  status: queued
+  status: ingested
   priority: high
   source: project_gutenberg
   source_id: '21765'
@@ -499,6 +499,15 @@ items:
   - Narcissus
   why_it_matters: Adds the first half of a transformation encyclopedia for creation,
     divine pursuit, metamorphosis, flood, and boundary-crossing motifs.
+  raw_path: imports/raw/project-gutenberg/21765-metamorphoses-books-1-7-riley.txt
+  pipeline:
+    raw_fetched_on: '2026-04-28'
+    converted_on: '2026-04-28'
+    promoted_on: '2026-04-28'
+  converted_path: imports/converted/project-gutenberg/21765-metamorphoses-books-1-7-riley.md
+  canonical_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  manifest_path: manifests/project-gutenberg/21765-metamorphoses-books-1-7-riley.yml
+  extraction_dir: extractions/roman/project-gutenberg/metamorphoses-books-1-7-riley
 - id: roman.ovid.metamorphoses_books_8_15_riley_gutenberg
   status: queued
   priority: high
