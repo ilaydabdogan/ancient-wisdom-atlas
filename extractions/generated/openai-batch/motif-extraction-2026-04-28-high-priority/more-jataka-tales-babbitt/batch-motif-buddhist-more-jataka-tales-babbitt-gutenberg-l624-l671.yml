@@ -1,0 +1,345 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l624-l671
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: THE STUPID MONKEYS / THE CUNNING WOLF / THE PENNY-WISE MONKEY / THE RED-BUD
+    TREE; lines 624-671
+  start: '624'
+  end: '671'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Four young princes each visit the same Red-Bud Tree at different times
+    of the year and report different appearances: bare, red-budded, green-leaved,
+    and pod-covered. The king explains that all saw the same tree at different times.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Four young princes hear about a wonderful tree called the Red-Bud Tree and
+    each wants to be first to see it.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The eldest prince visits the tree early in spring and sees it black and bare,
+    without leaves or buds.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The second son visits later in spring and sees the tree covered with red buds.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The third son visits later and sees the tree covered with green leaves.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The youngest prince visits still later and sees the tree covered with little
+    bean-pods.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The princes disagree about what the tree looks like based on their separate
+    visits.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The king tells them they have all seen the same tree at different times of
+    the year.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: four young princes
+  description: Four sons who each go to see the Red-Bud Tree at different times.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: eldest prince
+  description: The prince who sees the tree early in spring when it is black and bare.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: second son
+  description: The prince who sees the tree later in spring when it has red buds.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: third son
+  description: The prince who sees the tree when it is covered with green leaves.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: youngest prince
+  description: The prince who sees the tree when it is covered with little bean-pods.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: king
+  description: The father who hears the princes' disagreement and explains that each
+    saw the same tree at a different time of the year.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: driver of the king's chariot
+  description: The driver who takes the eldest and second princes to the woods where
+    the tree grows.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: partial observer
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Each prince sees the same tree at one seasonal stage and reports that stage
+    as the tree's appearance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: explaining authority
+  assigned_to:
+  - fig:6
+  basis: The king resolves the disagreement by explaining that all four saw the same
+    tree at different times of the year.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: guide to the tree
+  assigned_to:
+  - fig:7
+  basis: The driver takes princes to the woods where the Red-Bud Tree grows.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Red-Bud Tree
+  literal_form: tree
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: seasonal transformations of the tree
+  literal_form: bare tree, red buds, green leaves, little bean-pods
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Princes seek the Red-Bud Tree
+  summary: Four young princes hear of the Red-Bud Tree and each wishes to see it first.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Four visits at different times
+  summary: 'The princes visit the same tree at different points in the year and see
+    different forms: bare, red-budded, green-leaved, and pod-covered.'
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Dispute and explanation
+  summary: The princes argue about the tree's appearance, and the king explains that
+    all saw the same tree at different times of the year.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: partial perspectives on one reality
+  taxonomy_refs:
+  - wisdom
+  basis: Each prince reports a different appearance of the same tree from a single
+    visit, and the king explains the difference as a matter of timing.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents a moral lesson through
+    perception and explanation rather than an explicitly named wisdom motif.
+- id: motif:2
+  label: seasonal transformation of a tree
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: 'The same tree is observed in successive seasonal states: bare, budding,
+    leafed, and bearing pods.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage treats the seasonal cycle as the basis for a teaching tale;
+    no ritual or cosmological seasonal cycle is stated.
+- id: motif:3
+  label: instructive resolution by a king
+  taxonomy_refs:
+  - wisdom
+  basis: The king listens to the princes' conflicting claims and resolves them with
+    an explanation.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The king's role is explanatory, but the passage gives only a brief closing
+    statement and no extended teaching discourse.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 624-629
+  quote_or_summary: Four young princes hear of a wonderful Red-Bud Tree and each wishes
+    to be the first to see it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 629-634
+  quote_or_summary: The eldest prince is taken deep into the woods early in spring;
+    the tree has no leaves or buds and appears black and bare like a dead tree.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 635-637
+  quote_or_summary: The next son visits later in spring and sees the tree covered
+    with red buds.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 638-641
+  quote_or_summary: The third son later sees the tree covered with green leaves and
+    sees no reason for the name Red-Bud Tree.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 642-644
+  quote_or_summary: The youngest prince later visits and sees the tree covered with
+    little bean-pods.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 645-666
+  quote_or_summary: 'The princes report conflicting descriptions of the tree: dead-looking
+    and bare, red-budded, green-leaved, or covered in bean-pods.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 667-671
+  quote_or_summary: '"My sons, you have all four seen the same tree, but each of you
+    saw it at a different time of the year."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal sequence and figures are explicit. Motif labels are candidate
+    abstractions based on the passage's structure and available taxonomy, with no
+    external comparisons asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no comparison claims added because the passage itself does not support a specific cross-text comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l624-l671
+  passage_sha256=a152bb2ae830e52131b9eb6d45470114fe64c2ddd742f7326a2266439be4bcd2
+

@@ -1,0 +1,439 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l413-l505
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE GIANT CRAB / THE HYPOCRITICAL CAT / THE CROCODILE AND THE MONKEY / THE
+    AXE, THE DRUM, THE BOWL, AND THE DIAMOND; lines 413-505
+  start: '413'
+  end: '505'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A poor young man seeking his fortune is shipwrecked and cast alone onto
+    a small island. A flying wild pig lands there with a magnificent diamond. The
+    man takes the diamond and discovers that wishing while holding it can move him
+    through space. The pig is revealed as a wicked magician in pig shape whose power
+    lies in the diamond. From a tree, the man provokes the pig until its tusks stick
+    in the trunk, then kills it. He uses the diamond and sunlight to roast the pig,
+    eats it, and finally wishes himself through the air to the nearest land.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A poor young man leaves home by ship to seek his fortune.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A storm drives the ship off course and the ship is wrecked on a reef at night.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Everyone aboard is drowned except the poor young man, who is washed ashore.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The young man finds himself on a small island with fruit trees, coconuts,
+    bananas, springs of water, and no birds or land animals.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A large wild pig without wings flies through the air and lands on the island.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A magnificent diamond lies beside the sleeping pig and is described as blazing
+    and sparkling in the sun.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The young man takes the diamond and, after thinking of being in a tree, finds
+    himself in the treetop.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The young man tests the diamond by wishing himself down and then up into the
+    tree again.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The pig is said to be a great magician who flies about in the shape of a pig.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The pig’s power is said to lie in the diamond, and without it he is only like
+    any other pig.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The young man drops nuts from the tree onto the pig, and the pig angrily charges
+    the tree, sticking its tusks in the trunk.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The young man comes down and kills the trapped pig with a stone.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The young man uses the diamond to reflect sunlight over the pig until it is
+    roasted, then cuts and eats the pork.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: Holding the diamond, the young man wishes to fly to the nearest land and is
+    carried through the air over the sea to a sandy beach.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: poor young man
+  description: A poor young man who goes out to seek his fortune, survives a shipwreck,
+    takes the magic diamond, defeats the pig-magician, and flies away from the island.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: flying wild pig / great magician
+  description: A large wild pig that flies without wings; the passage states that
+    he is really a great magician in pig shape, wicked, and dependent on the diamond
+    for power.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: fortune seeker
+  assigned_to:
+  - fig:1
+  basis: The young man goes out into the world to seek his fortune.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: shipwreck survivor
+  assigned_to:
+  - fig:1
+  basis: All aboard are drowned except him, and he is washed ashore on the island.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: holder and user of magic diamond
+  assigned_to:
+  - fig:1
+  basis: He takes the diamond, discovers its power to move him by wishing, and later
+    uses it to fly away.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+- id: role:4
+  label: shapeshifting magician
+  assigned_to:
+  - fig:2
+  basis: The pig is identified as a great magician who flies about in the shape of
+    a pig.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: antagonistic former owner of power object
+  assigned_to:
+  - fig:2
+  basis: The pig becomes furious when the diamond is gone because all his power lies
+    in it.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: magic diamond
+  literal_form: A magnificent diamond that blazes in the sun, grants movement according
+    to wishes, contains the pig-magician’s power, reflects sunlight strongly enough
+    to roast the pig, and carries the man through the air.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: small island
+  literal_form: A small isolated island with trees, fruit, flowers, coconuts, bananas,
+    and springs, but no birds or land animals.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ocean and shipwreck waters
+  literal_form: The ocean crossing, storm waves, reef, and surrounding sea that isolate
+    the survivor and are later crossed by flight.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: sym:4
+  label: tree refuge and trap
+  literal_form: A tree into which the young man is transported by the diamond; he
+    shelters there from the pig, drops nuts, and the pig’s tusks become stuck in the
+    trunk.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: flying pig shape
+  literal_form: The pig form used by the magician, including flight through the air
+    and animal tusks that become trapped in the tree.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Departure and shipwreck
+  summary: The poor young man sails across the ocean seeking fortune; a storm wrecks
+    the ship on a reef, and only he survives.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Isolation on the island
+  summary: The young man wakes on a small island and lives on available fruits, roots,
+    coconuts, and water.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Discovery and testing of the diamond
+  summary: A wingless flying pig lands and sleeps; the young man takes the diamond
+    beside it and discovers that wishes made with it can move him up and down from
+    a tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Defeat of the pig-magician
+  summary: The pig is revealed as a magician whose power is in the diamond. From the
+    tree the young man provokes him until his tusks stick in the trunk, then kills
+    him with a stone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Use of the diamond for food and escape
+  summary: The young man uses the diamond to roast the pig with sunlight, eats the
+    meat, and then uses the diamond to fly over the sea to the nearest land.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: lone shipwreck survivor on an isolated island
+  taxonomy_refs:
+  - departure
+  basis: The young man leaves to seek fortune, is caught in a storm, survives when
+    all others drown, and is cast onto a small isolated island.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage emphasizes shipwreck and
+    isolation more than a formal departure cycle.
+- id: motif:2
+  label: magical power object taken from a dangerous being
+  taxonomy_refs:
+  - sacred_theft
+  basis: The young man takes the diamond from beside the sleeping pig-magician, and
+    the passage states that the pig’s power lies in that diamond.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The diamond is magical and powerful, but the passage does not call it
+    sacred; the theft label should be reviewed.
+- id: motif:3
+  label: shapeshifting magician in animal form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The wingless flying pig is explicitly identified as a great magician who
+    uses the shape of a pig.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: ''
+- id: motif:4
+  label: clever weak figure defeats stronger magical antagonist
+  taxonomy_refs:
+  - trickster_boundary
+  - wisdom
+  basis: The young man uses the diamond, tree position, and dropped nuts to provoke
+    and trap the pig-magician before killing him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents practical cleverness, but does not explicitly identify
+    the young man as a trickster or sage.
+- id: motif:5
+  label: magical flight by wish-granting object
+  taxonomy_refs: []
+  basis: Holding the diamond, the young man wishes to fly to the nearest land and
+    is carried through the air over the sea.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: No available taxonomy reference directly names magical flight by talisman.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 413-428
+  quote_or_summary: A poor young man seeking his fortune boards a ship; after a year
+    and a day a storm drives it off course, it wrecks on a reef, and all drown except
+    him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 429-439
+  quote_or_summary: The survivor is washed ashore on a small island with fruit trees,
+    flowers, bananas, coconuts, and springs of water, but no birds or land animals.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 440-460
+  quote_or_summary: A wingless flying wild pig lands and sleeps; a magnificent diamond
+    lies beside it. The man takes the diamond and, after thinking of being in a tree,
+    finds himself in the treetop.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 461-467
+  quote_or_summary: The man tests whether the diamond caused the miracle by wishing
+    himself down and then back up into the tree, confirming that it is magical.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 468-481
+  quote_or_summary: The pig wakes after the man drops a nut on its nose; it is explained
+    that the pig is really a wicked great magician in pig shape, and that all his
+    power lies in the diamond.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 482-491
+  quote_or_summary: The pig rages below the tree; the man drops more nuts; the pig
+    charges and sticks its tusks in the trunk, after which the man descends and kills
+    it with a stone.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 492-499
+  quote_or_summary: The man holds the diamond so sunlight reflects through it and
+    roasts the pig; he cuts the pork with a shell and eats it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 500-505
+  quote_or_summary: The man reasons that since the pig flew there, he can fly away;
+    holding the diamond, he wishes to fly to the nearest land and is carried over
+    the sea to a sandy beach.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Some motif
+    taxonomy assignments are broad and should be reviewed by a human.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison to another named text, tradition, or motif family beyond candidate taxonomy mapping.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l413-l505
+  passage_sha256=ae2c6e8bb18da9e7036737eb9c8e924dd16be6e7e1f579ed0d68b7a81fa30c4c
+

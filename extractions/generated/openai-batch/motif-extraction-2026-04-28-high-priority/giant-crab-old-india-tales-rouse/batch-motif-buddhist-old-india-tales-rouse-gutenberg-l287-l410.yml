@@ -1,0 +1,368 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l287-l410
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: CONTENTS / THE GIANT CRAB / THE HYPOCRITICAL CAT / THE CROCODILE AND THE
+    MONKEY; lines 287-410
+  start: '287'
+  end: '410'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A crocodile’s wife desires a monkey’s heart. The crocodile lures the monkey
+    onto his back by promising fruit across the river, then reveals that he intends
+    to drown him and take his heart. The monkey deceives the crocodile by claiming
+    that monkeys keep their hearts in trees. Once carried to the far bank, the monkey
+    climbs into a fig-tree, mocks the crocodile’s foolishness, and eats the fruit
+    safely.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is set at a deep, wide river where a crocodile lives and a monkey
+    lives on the bank among trees.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The crocodile’s wife cries and says she wants the monkey’s heart to eat.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The crocodile invites the monkey to ride on his back across the river to reach
+    fruit trees on the opposite bank.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: While carrying the monkey, the crocodile sinks lower in the water and reveals
+    that his wife wants the monkey’s heart.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The monkey says that monkeys do not carry their hearts inside their bodies
+    and claims the hearts are in a tree on the bank.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: The crocodile carries the monkey to the bank; the monkey climbs the fig-tree,
+    refuses to give a heart, and stays safe there.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Monkey
+  description: A monkey living on the riverbank, eating nuts and wild fruit; later
+    described as clever and able to deceive the crocodile.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Mr. Crocodile
+  description: A large crocodile living in the river, described as dangerous, fond
+    of his wife, and foolish enough to believe the monkey’s claim about the heart.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Mrs. Crocodile
+  description: The crocodile’s wife, who cries from hunger and asks for the monkey’s
+    heart to eat.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: targeted victim who escapes
+  assigned_to:
+  - fig:1
+  basis: The monkey is targeted for his heart but escapes into the fig-tree.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:2
+  label: deceptive carrier across water
+  assigned_to:
+  - fig:2
+  basis: The crocodile offers to carry the monkey across the river while intending
+    to take his heart.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: clever deceiver
+  assigned_to:
+  - fig:1
+  basis: The monkey fabricates the claim that his heart is kept in a tree, inducing
+    the crocodile to bring him to safety.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: foolish predator
+  assigned_to:
+  - fig:2
+  basis: The crocodile is fooled by the monkey’s false statement and later returns
+    feeling foolish.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: desiring instigator
+  assigned_to:
+  - fig:3
+  basis: Mrs. Crocodile’s desire for the monkey’s heart causes the crocodile to pursue
+    the monkey.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: river crossing
+  literal_form: deep and wide river
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: fig-tree refuge and food source
+  literal_form: fig-tree on the further bank
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: desired heart
+  literal_form: the monkey’s heart, requested as food
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: fruit lure
+  literal_form: fruit trees on the opposite bank
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Riverbank setting
+  summary: A crocodile lives in a deep, wide river, while a monkey lives on the bank
+    among trees whose fruit has become scarce.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Wife requests the monkey’s heart
+  summary: Mrs. Crocodile cries and tells her husband she wants the monkey’s heart
+    to eat; the crocodile considers a plan.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Invitation to cross the river
+  summary: The crocodile tells the monkey about abundant fruit across the river and
+    offers to carry him there on his back.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Betrayal in the water
+  summary: As the crocodile sinks, he reveals that he is not helping the monkey but
+    taking him because his wife wants the monkey’s heart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: False external heart
+  summary: The monkey claims that monkeys keep their hearts in a tree, causing the
+    crocodile to carry him to the bank.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Escape into the fig-tree
+  summary: The monkey climbs into the fig-tree, eats figs, tells the crocodile that
+    no creature keeps its heart in a tree, and remains safe while the crocodile returns
+    foolishly to his wife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Clever weak animal outwits dangerous predator
+  taxonomy_refs:
+  - wisdom
+  basis: The monkey survives by using a quick verbal trick against the physically
+    stronger crocodile.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents practical cleverness
+    rather than formal instruction or doctrine.
+- id: motif:2
+  label: Deceptive river crossing as trap
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The crocodile turns a promised crossing over water into a predatory trap,
+    but the boundary-crossing is reversed to the monkey’s advantage.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The crocodile begins as the deceiver, while the monkey’s counter-deception
+    resolves the episode; the available taxonomy label is approximate.
+- id: motif:3
+  label: False external heart deception
+  taxonomy_refs: []
+  basis: The monkey falsely claims that his heart is stored outside his body in a
+    tree, inducing the crocodile to bring him to safety.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy reference directly corresponds to this motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 287-303
+  quote_or_summary: The story opens with a deep, wide river inhabited by a dangerous
+    crocodile who lies in mud and snaps up small animals.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 304-307
+  quote_or_summary: A monkey lives on the riverbank, climbs trees, and eats nuts and
+    wild fruit, though little fruit remains nearby.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 308-327
+  quote_or_summary: Mrs. Crocodile cries from hunger and says she wants the monkey’s
+    heart; Mr. Crocodile promises to see what he can do and thinks of a plan.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 328-358
+  quote_or_summary: Mr. Crocodile calls to the monkey, describes abundant fruit on
+    the far side of the river, and offers to carry him across on his back.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 359-374
+  quote_or_summary: During the crossing, the crocodile sinks and tells the monkey
+    that his wife wants the monkey’s heart to eat.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 375-393
+  quote_or_summary: The monkey replies that monkeys do not carry hearts inside them
+    and points to round things in a tree, claiming they are monkey hearts; the crocodile
+    believes him and takes him across.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 394-410
+  quote_or_summary: The monkey leaps off, climbs the fig-tree, eats figs, mocks the
+    crocodile for thinking a creature keeps its heart in a tree, and the crocodile
+    returns to his wife feeling foolish.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative sequence, figures, and objects are explicit. Motif labels are
+    candidate abstractions from the passage and should be reviewed against the Atlas
+    taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison to another named text, tradition, or motif family beyond the supplied taxonomy candidates.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l287-l410
+  passage_sha256=48cfb50ce1b9ee68d4123d9bed5d3052e062e5bf56ea6ceba60c9faa09a96f6c
+

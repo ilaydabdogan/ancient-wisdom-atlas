@@ -1,0 +1,452 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l8124-l8182
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: MACAULAY. / CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING
+    THE GOD.; lines 8124-8182
+  start: '8124'
+  end: '8182'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer lists European harvest customs in which the last sheaf or the person
+    associated with it is called the Old Man, Harvest-man, or Oats-man and is wrapped
+    in corn, straw, or stalks, decorated, carried, danced with, rolled, drenched,
+    or led through the village. He then states that these rites express the idea of
+    the corn spirit being driven from the last cut or threshed grain, wintering in
+    the barn, and returning to the fields at sowing. He compares this with a Central
+    Provinces Indian custom in which the last standing patch of corn is torn up, made
+    into a sheaf, tied to bamboo, carried home, and fastened up to avert the evil-eye.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In villages near Stettin, the woman who places the last sheaf on the wagon
+    is called the Old Man, swathed in corn-stalks, decorated with flowers and a straw
+    helmet, and carries a harvest-crown to the squire.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At Blankenfelde, the woman who binds the last sheaf is tied into the sheaf
+    with only her head free, wears a rye-stalk cap with ribbons and flowers, is called
+    the Harvest-man, dances before the last wagon, receives a present, and is released.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Several cited European customs wrap the person associated with the last ears,
+    last sheaf, or threshing stroke in corn, oats, straw, or pease-straw and carry,
+    dance around, roll, or lead that person through the field, farmyard, threshing-floor,
+    or village.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:4
+  text: In Transylvania and at Dingelstedt, a person encased in corn-stalks or the
+    last sheaf is drenched or soused with water after being brought home or into the
+    village.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: In Thüringen, a sausage is placed in the last sheaf at threshing, thrown with
+    the sheaf onto the threshing-floor, eaten by the threshers, and followed by a
+    man being encased in pease-straw and led through the village.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Frazer states that in these cases the corn spirit, called the Old Man of vegetation,
+    is thought to be driven out of the last cut or threshed corn, to live in the barn
+    during winter, and to return to the fields at sowing-time.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: In the Central Provinces of India, a small remaining patch of corn is left
+    standing near the end of reaping; the reapers then rush at it, tear it up, cast
+    it into the air, and shout victory to named figures.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The Indian last-corn sheaf is tied to bamboo, put in the last harvest cart,
+    carried home in triumph, and fastened to a threshing-floor tree or cattle-shed
+    to avert the evil-eye.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Person wrapped in last sheaf or crop-stalks
+  description: A woman, man, reaper, farmer, or other person associated with the last
+    sheaf, last ears, or last threshing stroke and enclosed in corn, rye, oats, straw,
+    pease-straw, or stalks.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Old Man / Harvest-man / Oats-man
+  description: Ritual names applied to the person associated with the last sheaf,
+    last ears, or last threshing stroke in the described customs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Corn spirit / Old Man of vegetation
+  description: 'Frazer’s stated interpretive figure: the spirit of the corn, identified
+    with the Old Man of vegetation, driven from the last cut or threshed corn and
+    later returning to the fields.'
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Central Provinces reapers
+  description: Reapers who tear up the last standing patch of corn, cast it into the
+    air, and carry the sheaf home in triumph.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Omkár Maháráj, Jhámájí, Rámjí Dás, etc.
+  description: Names shouted in victory by the reapers in the Central Provinces harvest
+    custom, according to their respective possessions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: last-sheaf ritual representative
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The person associated with the last sheaf, last ears, or last threshing stroke
+    is named, wrapped in grain or straw, carried, danced with, rolled, drenched, or
+    led through the community.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: corn or vegetation animating force
+  assigned_to:
+  - fig:3
+  basis: The passage states that the spirit of the corn is driven from the last cut
+    or threshed corn, winters in the barn, and resumes activity among sprouting corn.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: harvest actors
+  assigned_to:
+  - fig:4
+  basis: 'The reapers perform the last-corn actions: tearing up the remaining patch,
+    shouting, making a sheaf, and carrying it home.'
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:4
+  label: invoked harvest names
+  assigned_to:
+  - fig:5
+  basis: The reapers shout victory to these named figures during the last-corn act.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: last sheaf or last corn
+  literal_form: last sheaf, last ears, last standing patch of corn, or last threshing
+    sheaf
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: grain-stalk covering
+  literal_form: corn-stalks, rye-stalks, ears of oats, straw, pease-straw, or crop
+    envelope around a person
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: harvest crown and floral adornment
+  literal_form: harvest-crown, flowers, ribbons, straw helmet, rye-stalk cap, crown
+    made from last ears
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: water drenching
+  literal_form: sousing or drenching with water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: sausage in last sheaf
+  literal_form: Barrenwurst or Banzenwurst stuck in the last sheaf and eaten by the
+    threshers
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: bamboo support and storage place
+  literal_form: last-corn sheaf tied to bamboo and fastened to a tree or cattle-shed
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: evil-eye protection
+  literal_form: last-corn sheaf whose services are said to avert the evil-eye
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: European last-sheaf embodiment rites
+  summary: Across the listed European harvest and threshing customs, the last-sheaf
+    person is given names such as Old Man, Harvest-man, or Oats-man, wrapped in grain
+    or straw, decorated, carried, danced around, rolled, drenched, or led through
+    the village.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Frazer’s corn-spirit explanation
+  summary: Frazer interprets the rites as expressing the movement of the corn spirit
+    out of the last cut or threshed grain into the barn for winter, then back to the
+    fields at sowing-time.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:3
+  label: Central Provinces last-corn rite
+  summary: Indian reapers leave a final patch standing, tear it up with victory cries,
+    make it into a sheaf tied to bamboo, carry it home, and fasten it to a tree or
+    cattle-shed for protection against the evil-eye.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: last sheaf embodied as harvest figure
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage repeatedly describes a person linked to the last sheaf, last
+    ears, or last threshing stroke being named as an Old Man or similar harvest figure
+    and wrapped in grain or straw.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage reports harvest customs rather
+    than a single myth narrative.
+- id: motif:2
+  label: corn spirit winters in barn and returns at sowing
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Frazer explicitly states that the corn spirit is driven from the last cut
+    or threshed corn, lives in the barn during winter, and returns to the fields at
+    sowing-time.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is Frazer’s comparative interpretation of the customs, not a verbatim
+    statement from the ritual participants.
+- id: motif:3
+  label: last-corn sheaf as protective object
+  taxonomy_refs: []
+  basis: In the Central Provinces example, the last-corn sheaf is tied to bamboo,
+    carried home, and fastened at the threshing-floor, tree, or cattle-shed because
+    its services are essential in averting the evil-eye.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No supplied taxonomy family directly matches apotropaic protection or
+    evil-eye averting.
+- id: motif:4
+  label: water dousing of encased harvest figure
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage reports that encased harvest figures in Transylvania and Dingelstedt
+    are soused or drenched with water after being brought home or to the farmyard.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explain the meaning of the water action in these
+    examples.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents the Central Provinces Indian last-corn rite as
+    sharing similar ideas with the European last-sheaf customs, especially the ceremonial
+    treatment of the final corn and its continued efficacy after harvest.
+  claim_level: same_function
+  target: European last-sheaf and last-threshing customs compared with Central Provinces
+    Indian last-corn rite
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states resemblance of ideas but does not demonstrate historical
+    contact, common inheritance, or identical ritual details.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8124-8136
+  quote_or_summary: In villages around Stettin, the woman who places the last sheaf
+    on the wagon is called the Old Man, wrapped in corn-stalks, decorated with flowers
+    and straw headgear, and carries the harvest-crown to the squire.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: 8136-8144
+  quote_or_summary: At Blankenfelde, the woman who binds the last rye sheaf is tied
+    into it with only her head free, crowned with rye-stalks, called the Harvest-man,
+    dances before the last wagon, receives a present, and is released.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: 8144-8152
+  quote_or_summary: At Gommern, Neuhausen, and Brie, the person or farmer associated
+    with the last ears, last sheaf, or first sheaf is wrapped in corn or oats, carried,
+    and danced around or otherwise ceremonially handled.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: 8152-8162
+  quote_or_summary: At Udvarhely, Dingelstedt, Nördlingen, and parts of Oberpfalz,
+    a person linked to harvest or threshing is encased in corn-stalks or straw, crowned,
+    brought home or carried, rolled, drenched, or transferred to a neighbor.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: 8162-8166
+  quote_or_summary: In Thüringen, a sausage is stuck in the last sheaf, thrown with
+    it on the threshing-floor, eaten by the threshers, and then a man encased in pease-straw
+    is led through the village.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: quote
+  locator: 8167-8172
+  quote_or_summary: "“the spirit of the corn—the Old Man of vegetation—is driven out
+    of the corn last cut or last threshed, and lives in the barn during the winter”;
+    at sowing-time it returns to the fields."
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: 8173-8179
+  quote_or_summary: 'Frazer says similar ideas attach to the last corn in India: in
+    the Central Provinces a final patch is left, then reapers rush at it, tear it
+    up, cast it into the air, and shout victory to Omkár Maháráj, Jhámájí, Rámjí Dás,
+    and others.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text.
+- id: ev:8
+  type: summary
+  locator: 8179-8182
+  quote_or_summary: The Indian last-corn sheaf is tied to bamboo, placed in the last
+    harvest cart, carried home in triumph, and fastened at the threshing-floor to
+    a tree or cattle-shed to avert the evil-eye.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The actions and objects are clearly reported. Motif labels are cautious because
+    the passage is comparative scholarship and includes Frazer’s interpretation alongside
+    reported customs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No claim of historical contact is made.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l8124-l8182
+  passage_sha256=707ff36ab9fe7071c98a7c522edfeb938c96e3431b16f2c26c704c91e825770f
+

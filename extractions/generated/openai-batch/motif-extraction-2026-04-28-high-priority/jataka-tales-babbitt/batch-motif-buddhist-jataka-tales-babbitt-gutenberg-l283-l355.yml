@@ -1,0 +1,400 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l283-l355
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: PUBLISHER'S NOTE / THE MONKEY AND THE CROCODILE / PART I / PART II; lines
+    283-355
+  start: '283'
+  end: '355'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A monkey relocates to another tree along the river. A crocodile finds him
+    and waits on a rock that the monkey uses as a stepping place to reach an island
+    of fruit trees. The monkey detects the trap by addressing the rock; the crocodile
+    answers for it. The monkey then tricks the crocodile into opening his mouth and
+    shutting his eyes, jumps onto the crocodile's head, and escapes to the bank and
+    his tree.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The monkey moves away from a previous tree in order to get away from the crocodile
+    and live in peace.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The crocodile finds the monkey farther down the river, living in another tree.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An island covered with fruit-trees stands in the middle of the river, and
+    a large rock rises from the water halfway between the river bank and the island.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The monkey can cross by jumping from the river bank to the rock and then to
+    the island.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The crocodile watches the monkey's crossing and plans to catch him on his
+    way home at night.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The crocodile lies still on the rock toward night.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The monkey notices that the rock appears unusually high and concludes that
+    the crocodile is lying on it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The monkey calls to the rock three times and asks why it does not answer him
+    that night.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The crocodile thinks the rock must answer the monkey at night and answers
+    in place of the rock.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The crocodile tells the monkey that he is waiting to eat him.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The monkey tells the crocodile to open his mouth wide so the monkey can jump
+    into it.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The monkey knows that crocodiles shut their eyes when they open their mouths
+    wide.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The monkey jumps onto the crocodile's head rather than into his mouth and
+    then springs to the bank and into his tree.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: The crocodile says the monkey has great cunning and no fear, and says he will
+    leave the monkey alone after this.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:15
+  text: The monkey thanks the crocodile but says he will remain watchful.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Monkey
+  description: A monkey living in trees near the river; he crosses by jumping via
+    a rock to a fruit-tree island and escapes the crocodile by a trick.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Crocodile
+  description: A crocodile who finds the monkey, waits on the crossing rock, intends
+    to eat him, and is tricked into opening his mouth and shutting his eyes.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: intended prey
+  assigned_to:
+  - fig:1
+  basis: The crocodile waits for the monkey and says he is going to eat him.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: predator waiting in ambush
+  assigned_to:
+  - fig:2
+  basis: The crocodile watches the monkey's route, lies on the rock, and announces
+    his intention to eat the monkey.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:3
+  label: cunning escape figure
+  assigned_to:
+  - fig:1
+  basis: The monkey identifies the crocodile's disguise, exploits the crocodile's
+    closed eyes, and escapes by jumping on his head.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:4
+  label: deceived antagonist
+  assigned_to:
+  - fig:2
+  basis: The crocodile answers for the rock and is tricked into opening his mouth,
+    allowing the monkey to escape.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: The monkey's tree and the fruit-trees on the island.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: sym:2
+  label: water
+  literal_form: The river water around the island and rock.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: rock
+  literal_form: A large rock rising out of the water halfway between the bank and
+    the island; the crocodile lies on it.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: open mouth and shut eyes
+  literal_form: The crocodile's open mouth and closed eyes when the monkey is invited
+    to jump.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Monkey relocates downriver
+  summary: The monkey leaves his former tree to avoid the crocodile, but the crocodile
+    finds him living in another tree far down the river.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Island crossing and crocodile's ambush plan
+  summary: The monkey uses a rock as a stepping place to reach an island of fruit-trees.
+    The crocodile observes this and waits on the rock at night to catch him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Monkey exposes the false rock
+  summary: The monkey notices the rock looks higher than usual and tests it by calling
+    to it. The crocodile answers, revealing himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Escape over the crocodile
+  summary: The crocodile says he will eat the monkey. The monkey asks him to open
+    his mouth, then jumps onto his head and escapes to the bank and into his tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Crocodile concedes cunning
+  summary: The crocodile acknowledges the monkey's cunning and fearlessness and says
+    he will leave him alone; the monkey says he will still watch for him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Clever animal escapes a predator's ambush
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The monkey detects the crocodile's ambush at a river crossing, deceives the
+    predator, and crosses to safety by using the crocodile's body.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The supplied taxonomy label is broad; the passage specifically presents
+    animal cunning at a crossing rather than an explicitly named trickster figure.
+- id: motif:2
+  label: Practical knowledge defeats danger
+  taxonomy_refs:
+  - wisdom
+  basis: The monkey survives because he recognizes the changed rock, tests it with
+    speech, and uses knowledge of crocodile behavior to escape.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is a passage-level motif candidate based on actions and stated cunning,
+    not a doctrinal interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 283-289
+  quote_or_summary: The monkey moves away to avoid the crocodile and live in peace;
+    the crocodile finds him far down the river in another tree.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 291-296
+  quote_or_summary: A fruit-tree island lies in the river; a large rock rises from
+    the water halfway between the bank and the island, and the monkey can jump via
+    the rock to reach the island.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 297-305
+  quote_or_summary: The crocodile watches the monkey cross, plans to catch him returning
+    at night, swims about watching him, and later lies still on the rock.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 307-319
+  quote_or_summary: At night the monkey stops, notices the rock seems too high, infers
+    the crocodile is on it, and calls repeatedly to the rock.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 321-326
+  quote_or_summary: The crocodile thinks the rock answers the monkey at night and
+    answers in place of the rock.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 328-334
+  quote_or_summary: The monkey identifies the crocodile; the crocodile says he is
+    waiting to eat him; the monkey says there is no other way home and asks the crocodile
+    to open his mouth wide.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 336-339
+  quote_or_summary: The monkey knows crocodiles shut their eyes when they open their
+    mouths wide; the crocodile lies with mouth open and eyes shut.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 341-344
+  quote_or_summary: The monkey does not jump into the crocodile's mouth; he lands
+    on the crocodile's head, springs to the bank, and goes up into his tree.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 346-351
+  quote_or_summary: The crocodile says the monkey has great cunning and no fear and
+    will be left alone; the monkey thanks him but says he will remain watchful.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif taxonomy assignments
+    are cautious because available taxonomy categories are broad. No comparison claims
+    are made because the passage itself does not support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or unprovided Jataka context were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l283-l355
+  passage_sha256=67494d921541be6a3b1e3763eebdc63122e6c8b10256772834f2ce4ed679ba6c
+

@@ -1,0 +1,606 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l6465-l6519
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: MACAULAY. / CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING
+    THE GOD.; lines 6465-6519
+  start: '6465'
+  end: '6519'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Like Adonis, he appears to have been a god of vegetation, and his death and
+    resurrection were annually mourned and rejoiced over at a festival in spring.
+  summary: Frazer compares Sicilian Easter sprouting-grain customs with gardens of
+    Adonis, then introduces Attis as a Phrygian vegetation god whose death and resurrection
+    were ritually marked in spring. The passage summarizes Attis legends involving
+    Cybele, death by boar or self-mutilation under a pine-tree, transformation into
+    a pine-tree, and spring festival rites involving a cut pine, blood offering, mourning,
+    burial of an effigy, joy for resurrection, and a ritual bath of Cybele’s image
+    and sacred objects.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: At Easter, Sicilian women sow wheat, lentils, and canary-seed in plates kept
+    in darkness and watered every two days.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The resulting stalks are tied with red ribbons and placed on church sepulchres
+    containing effigies of the dead Christ on Good Friday.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that gardens of Adonis were placed on the grave of the
+    dead Adonis.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Attis is described as a Phrygian counterpart to Adonis and as a vegetation
+    god whose death and resurrection were annually mourned and rejoiced over at a
+    spring festival.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Attis is said to have been a fair youth beloved by Cybele.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: 'Two accounts of Attis’s death are given: death by a boar, and self-mutilation
+    under a pine-tree followed by death from blood loss.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After death, Attis is said to have been changed into a pine-tree.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: At the spring equinox a pine-tree was cut in the woods, brought into Cybele’s
+    sanctuary, treated as a divinity, decorated with woollen bands and violets, and
+    fitted with an effigy of a young man.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The third festival day was called the Day of Blood, when the high priest drew
+    blood from his arms and presented it as an offering.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Mourning for Attis may have taken place over an effigy that was afterwards
+    solemnly buried.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The fourth festival day was the Festival of Joy, when Attis’s resurrection
+    was probably celebrated.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The Roman festival ended with a procession to the brook Almo, where Cybele’s
+    cart, image, and other sacred objects were bathed; afterward the cart and oxen
+    were strewn with spring flowers.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Adonis
+  description: A dead god whose gardens were placed on his grave; compared with Attis.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Sicilian women
+  description: Women who sow and tend seeds in plates at Easter and place the sprouting
+    plants on church sepulchres.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: dead Christ effigy
+  description: Effigy of the dead Christ placed in church sepulchres on Good Friday.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Attis
+  description: A fair youth, beloved by Cybele, described as a Phrygian vegetation
+    god associated with death, resurrection, and transformation into a pine-tree.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Cybele
+  description: The great Phrygian goddess who loved Attis; her sanctuary receives
+    the ritual pine-tree and her cart and image are bathed at the brook Almo.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:9
+- id: fig:6
+  name_or_label: people of Pessinus
+  description: People associated with a local story of Attis’s self-mutilation and
+    with abstention from eating swine.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: high priest
+  description: Priest who draws blood from his arms and presents it as an offering
+    on the Day of Blood.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: young man effigy
+  description: Effigy attached to the middle of the cut pine-tree and possibly mourned
+    and buried in the festival sequence.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: dying and returning vegetation god
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage describes Adonis as dead and associated with planted gardens,
+    and Attis as a vegetation god whose death and resurrection were ritually marked
+    in spring.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: ritual preparers
+  assigned_to:
+  - fig:2
+  basis: They sow, water, bind, and place sprouting seeds for the Easter custom.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: dead sacred figure represented by effigy
+  assigned_to:
+  - fig:3
+  basis: The passage mentions effigies of the dead Christ made up in church sepulchres
+    on Good Friday.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: beloved youth
+  assigned_to:
+  - fig:4
+  basis: Attis is said to have been a fair youth beloved by Cybele.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: great goddess and cult recipient
+  assigned_to:
+  - fig:5
+  basis: Cybele is called the great Phrygian goddess, has a sanctuary, and her image
+    and sacred objects are ritually bathed.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:9
+- id: role:6
+  label: local cult community
+  assigned_to:
+  - fig:6
+  basis: The people of Pessinus are linked to a local Attis story and to swine abstention.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: blood-offering officiant
+  assigned_to:
+  - fig:7
+  basis: The high priest draws his own blood and presents it as an offering.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: ritual effigy
+  assigned_to:
+  - fig:8
+  basis: A young man’s effigy is attached to the ritual pine and may be mourned and
+    buried.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: sprouting grain plates
+  literal_form: Plates of wheat, lentils, and canary-seed grown in darkness, watered,
+    tied with red ribbons, and placed on sepulchres.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: grave or sepulchre
+  literal_form: Church sepulchres with dead Christ effigies and the grave of dead
+    Adonis.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: pine-tree
+  literal_form: Tree under which Attis dies, into which he is changed, and which is
+    cut, brought to Cybele’s sanctuary, adorned, and treated as a divinity.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:8
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: boar
+  literal_form: Animal said in one account to have killed Attis, as in the Adonis
+    comparison.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: blood offering
+  literal_form: Blood drawn from the high priest’s arms on the Day of Blood and presented
+    as an offering.
+  associated_figures:
+  - fig:7
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: violets and anemones from blood
+  literal_form: Violets said to have sprung from Attis’s blood, compared with anemones
+    from Adonis’s blood.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: ritual bath water
+  literal_form: The brook Almo where the cart, image, and sacred objects of the goddess
+    are bathed.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: spring flowers
+  literal_form: Fresh spring flowers strewn on the returning cart and oxen after the
+    ritual bath.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Sicilian Easter sprouting plates on sepulchres
+  summary: Women grow seeds in plates, bind the stalks with red ribbons, and place
+    the plates on Good Friday sepulchres with effigies of the dead Christ.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Comparison with gardens of Adonis
+  summary: Frazer states that the Sicilian custom resembles placing gardens of Adonis
+    on Adonis’s grave and is probably a continuation of Adonis worship under another
+    name.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Attis legends of death and transformation
+  summary: Attis is presented as a fair youth loved by Cybele, with death accounts
+    involving a boar or self-mutilation beneath a pine-tree, followed by transformation
+    into a pine-tree.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Spring equinox pine rite
+  summary: A pine-tree is cut, brought to Cybele’s sanctuary, treated as divine, decorated
+    with bands and violets, and supplied with a young man’s effigy.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Day of Blood and mourning
+  summary: On the Day of Blood, the high priest offers blood from his arms, and mourning
+    for Attis may occur over an effigy that is later buried.
+  figure_refs:
+  - fig:4
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Joy, resurrection, and ritual bathing
+  summary: The festival moves to the Festival of Joy, probably celebrating Attis’s
+    resurrection, and later concludes with a procession to bathe Cybele’s cart, image,
+    and sacred objects in the brook Almo.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: sprouting vegetation placed with the dead
+  taxonomy_refs:
+  - death_rebirth
+  - seasonal_cycle
+  basis: Seeds are rapidly sprouted and placed on sepulchres or graves associated
+    with dead sacred figures.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents this through Frazer’s comparative interpretation;
+    the literal Sicilian custom and Adonis custom are distinct contexts.
+- id: motif:2
+  label: dying and resurrecting vegetation deity
+  taxonomy_refs:
+  - dying_and_returning
+  - resurrection
+  - seasonal_cycle
+  basis: Attis is explicitly described as a vegetation god whose death and resurrection
+    are ritually mourned and rejoiced over at a spring festival.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: The passage says the resurrection was probably celebrated, indicating
+    some uncertainty about the ritual details.
+- id: motif:3
+  label: tree embodiment of the dead god
+  taxonomy_refs:
+  - sacred_tree_axis
+  - death_rebirth
+  basis: Attis dies under a pine-tree, is changed into a pine-tree, and a cut pine
+    is treated as a divinity with a young man’s effigy attached.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The available passage does not fully explain the ritual theology of the
+    tree.
+- id: motif:4
+  label: blood offering in mourning rite
+  taxonomy_refs:
+  - sacrifice
+  basis: On the Day of Blood, the high priest draws blood from his arms and presents
+    it as an offering in the festival sequence connected with Attis’s death.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explicitly identify the blood act as a sacrifice
+    to a named recipient beyond calling it an offering.
+- id: motif:5
+  label: ritual bathing of goddess image and sacred objects
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The festival closes with procession to water, bathing of Cybele’s cart, image,
+    and sacred objects, and return adorned with spring flowers.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage describes the rite but does not assign a specific mythic meaning
+    to the bath.
+comparison_claims:
+- id: claim:1
+  claim: Frazer presents the Sicilian Easter sprouting-grain custom as probably a
+    continuation, under another name, of Adonis worship.
+  claim_level: historical_contact
+  target: Adonis worship and Sicilian Easter sepulchre custom
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is explicitly marked as probable, not certain, and reflects
+    Frazer’s comparative interpretation rather than proof provided in this passage.
+- id: claim:2
+  claim: The passage compares Attis and Adonis as closely similar vegetation gods
+    whose deaths and resurrections were marked in spring, noting that ancient writers
+    sometimes identified them.
+  claim_level: same_motif
+  target: Attis and Adonis
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives a broad comparison but does not quote the ancient
+    identifications or detail all supporting sources.
+- id: claim:3
+  claim: The passage compares floral growth from Attis’s blood with floral growth
+    from Adonis’s blood.
+  claim_level: same_function
+  target: Violets from Attis’s blood and anemones from Adonis’s blood
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to a specific image of flowers springing
+    from divine blood.
+- id: claim:4
+  claim: The passage compares one account of Attis’s death by boar with Adonis’s death
+    by boar.
+  claim_level: same_motif
+  target: Boar-killed Attis and boar-killed Adonis
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage also records an alternate Attis death account by self-mutilation,
+    so the boar motif is not the only Attis tradition presented.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6467-6475
+  quote_or_summary: At Easter, Sicilian women sow wheat, lentils, and canary-seed
+    in plates kept dark and watered; the shoots are tied with red ribbons and placed
+    on Good Friday sepulchres with effigies of the dead Christ.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 6475-6479
+  quote_or_summary: The passage compares these plates to gardens of Adonis placed
+    on the grave of the dead Adonis and says the whole custom is probably a continuation
+    of Adonis worship under another name.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: quote
+  locator: lines 6481-6487
+  quote_or_summary: "“Like Adonis, he appears to have been a god of vegetation, and
+    his death and resurrection were annually mourned and rejoiced over at a festival
+    in spring.” The passage adds that their legends and rites were so similar that
+    ancients sometimes identified them."
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 6487-6497
+  quote_or_summary: Attis is called a fair youth beloved by Cybele. One account says
+    he was killed by a boar like Adonis; another says he mutilated himself under a
+    pine-tree and died from loss of blood, a local Pessinus story.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 6497-6502
+  quote_or_summary: The passage says the people of Pessinus abstained from swine and
+    that after death Attis was changed into a pine-tree.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 6502-6510
+  quote_or_summary: At the spring equinox a pine-tree was cut, brought into Cybele’s
+    sanctuary, treated as divine, adorned with woollen bands and violets, and fitted
+    with a young man’s effigy; violets were said to spring from Attis’s blood as anemones
+    from Adonis’s blood.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 6510-6515
+  quote_or_summary: After a second-day trumpet ceremony, the third day was the Day
+    of Blood, when the high priest drew blood from his arms and offered it; mourning
+    for Attis may have occurred over an effigy later buried.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:8
+  type: summary
+  locator: lines 6515-6517
+  quote_or_summary: The fourth day was the Festival of Joy, at which Attis’s resurrection
+    was probably celebrated, following closely after the celebration of his death.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:9
+  type: summary
+  locator: lines 6517-6519
+  quote_or_summary: The Roman festival closed with procession to the brook Almo, where
+    Cybele’s cart, image, and sacred objects were bathed; on return, the cart and
+    oxen were strewn with fresh spring flowers.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage itself is comparative scholarship and states several comparisons
+    explicitly. Motif labels are constrained to evidence in the passage, but some
+    ritual meanings are presented by Frazer as probable rather than certain.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references are limited to supplied available taxonomy entries.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l6465-l6519
+  passage_sha256=f5a2fd6dca8454b90fcb35117c89460b94a56281d931403a94bb8a561417b574
+

@@ -1,0 +1,429 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l1130-l1199
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE MOUSE AND THE FARMER / THE TALKATIVE TORTOISE / THE MONKEYS AND THE GARDENER
+    / THE GOBLIN AND THE SNEEZE; lines 1130-1199
+  start: '1130'
+  end: '1199'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A goblin haunts an empty house outside a city gate and may eat anyone who
+    sneezes there unless a blessing formula and reciprocal reply are spoken. A father
+    and son, locked out of the city at sunset, stay in the house. The goblin raises
+    dust to make the father sneeze, but the son blesses him and the father replies
+    in time, frustrating the goblin. The son then admonishes the goblin and persuades
+    him to stop eating men, become vegetarian, and follow the travelers as an errand-boy.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A powerful goblin haunts an empty little house outside the gates of a city
+    and perches on a large black roof beam.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The goblin has permission to eat any man who sneezes inside the house, except
+    when blessing and reciprocal blessing formulas are spoken.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A father and son reach the city gates at sunset and are denied entry because
+    the gates are shut for the night.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The porter directs the father and son to an empty house outside the gates,
+    saying it is reputed to be haunted.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The travelers rest in the house, cook a meal on a fire of sticks, and prepare
+    to sleep.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The goblin raises a cloud of fine dust after waiting for one of the travelers
+    to sneeze.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The father sneezes, and the son, seeing the goblin and guessing the danger,
+    blesses his father and wishes him long life.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The goblin attempts to clutch the father, but the father replies with a reciprocal
+    blessing just before the claw reaches him.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The son speaks to the goblin, tells him that eating men is cruel, and persuades
+    him to become vegetarian and serve as an errand-boy.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Goblin
+  description: A powerful goblin haunting the empty house, able to eat sneeze-bound
+    victims, later persuaded to become vegetarian and follow the travelers.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: King of the Goblins
+  description: The ruler whom the goblin served for twelve years and who granted the
+    goblin permission to eat certain sneezers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Father
+  description: A traveler denied entry to the city at sunset; he sneezes in the haunted
+    house and is saved by his son's blessing and his own reciprocal reply.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Son
+  description: A sharp lad traveling with his father; he notices the goblin, blesses
+    his father, and later persuades the goblin to change his conduct.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: Porter
+  description: The city gatekeeper who refuses to open the gate after sunset and points
+    the travelers toward the empty haunted house.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Supernatural eater bound by a condition
+  assigned_to:
+  - fig:1
+  basis: The goblin may devour men who sneeze in the house unless the specified blessing
+    exchange occurs.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Authority granting predatory privilege
+  assigned_to:
+  - fig:2
+  basis: The King of the Goblins rewards the goblin by permitting him to eat certain
+    sneezers.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Imperiled traveler
+  assigned_to:
+  - fig:3
+  basis: The father sleeps in the haunted house, sneezes, and nearly has the goblin's
+    claw at his throat.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:4
+  label: Clever rescuer
+  assigned_to:
+  - fig:4
+  basis: The son sees the goblin, guesses the danger, and speaks the saving blessing.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: Moral instructor and converted follower
+  assigned_to:
+  - fig:4
+  - fig:1
+  basis: The son teaches the goblin the cruelty of eating men, and the goblin is persuaded
+    to become vegetarian and serve him.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: Gatekeeper enforcing closure
+  assigned_to:
+  - fig:5
+  basis: The porter refuses to open the city gate after sunset despite the travelers'
+    request.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Haunted house outside the gate
+  literal_form: An empty house outside the city gates, among trees, said to be haunted
+    by a goblin.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Black roof beam perch
+  literal_form: A big black beam across the roof where the goblin perches.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Sneeze as danger trigger
+  literal_form: A sneeze inside the goblin's house makes a man liable to be eaten
+    unless protected by formulaic speech.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: Blessing formula
+  literal_form: The spoken formulas “God bless you,” “May you live a hundred years,”
+    and the reciprocal “The same to you.”
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: Dust cloud
+  literal_form: A cloud of fine dust raised by the goblin to provoke a sneeze.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Goblin claw
+  literal_form: A great claw stretched toward the father's throat.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: Cooking fire
+  literal_form: A fire of sticks used by the travelers to cook a meal in the house.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Goblin's rule in the haunted house
+  summary: The goblin haunts an empty house outside the city and is allowed to eat
+    men who sneeze there, unless blessing formulas are exchanged.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Travelers shut out at sunset
+  summary: A father and son arrive at the city gates after sunset; the porter refuses
+    entry and directs them to the haunted empty house.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Provoked sneeze and verbal rescue
+  summary: Inside the house, the goblin raises dust to make the father sneeze; the
+    son blesses him, and the father answers in time to avoid being seized.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Goblin's conversion
+  summary: The son admonishes the goblin for eating men and persuades him to become
+    vegetarian and serve as an errand-boy.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Protective formula after a sneeze averts a supernatural predator
+  taxonomy_refs: []
+  basis: The goblin may eat a man who sneezes, but the blessing and reciprocal reply
+    free the sneezer and speaker from danger.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage explains the rule within this tale; broader ritual or historical
+    significance is not established by the passage alone.
+- id: motif:2
+  label: Clever child saves parent by timely speech
+  taxonomy_refs:
+  - wisdom
+  basis: The son sees the goblin, understands the danger, and speaks the formula that
+    prevents his father from being eaten.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy reference 'wisdom' is broad; the passage supports
+    cleverness and timely recognition rather than a formal wisdom contest.
+- id: motif:3
+  label: Man-eating supernatural being converted by moral instruction
+  taxonomy_refs:
+  - wisdom
+  basis: The son explains the cruelty of eating men and persuades the goblin to become
+    vegetarian and serve him.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage states the conversion directly but gives only a brief account
+    of the instruction.
+- id: motif:4
+  label: Monster exploits a loophole or condition to obtain prey
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The goblin is bound by a specific sneeze condition and raises dust to create
+    the condition for eating the travelers.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage supports trickery and
+    a rule-bound threshold situation, but does not explicitly frame the goblin as
+    a trickster.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1130-1137
+  quote_or_summary: A powerful goblin haunts an empty house outside the city gates
+    and perches on a big black roof beam.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1137-1146
+  quote_or_summary: After serving the King of the Goblins, the goblin is permitted
+    to eat any man who sneezes in the house, unless another person says a blessing
+    and the sneezer replies reciprocally.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1148-1166
+  quote_or_summary: A father and son reach the city gates at sunset; the porter refuses
+    to open them and points them to an empty house outside the gates, said to be haunted.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1167-1176
+  quote_or_summary: The travelers rest, cook on a fire of sticks, and prepare to sleep;
+    the hungry goblin waits, then raises fine dust until the father sneezes.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 1178-1182
+  quote_or_summary: The son sees the goblin, guesses the truth, and says, “God bless
+    you, father! ... may you live a hundred years!”
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: 1184-1191
+  quote_or_summary: The goblin stretches a claw toward the father, but the father
+    says thanks and returns the blessing just in time; the goblin is baffled and retreats
+    to his perch.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 1193-1199
+  quote_or_summary: The son talks to the goblin, shows him the cruelty of eating men,
+    and persuades him to become vegetarian, follow him, and serve as an errand-boy.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage gives clear narrative actions and figures. Motif labels are candidate
+    descriptions derived from the passage; taxonomy links are broad and should be
+    reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not make or support a specific cross-textual comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l1130-l1199
+  passage_sha256=87b9d37fefc86df2e2848c8cadb9af0d6adb7895270fe5954470dd175fad12de
+

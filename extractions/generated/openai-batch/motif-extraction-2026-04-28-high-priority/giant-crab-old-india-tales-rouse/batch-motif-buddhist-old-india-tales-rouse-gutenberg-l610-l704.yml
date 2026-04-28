@@ -1,0 +1,624 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l610-l704
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE GIANT CRAB / THE HYPOCRITICAL CAT / THE CROCODILE AND THE MONKEY / THE
+    AXE, THE DRUM, THE BOWL, AND THE DIAMOND; lines 610-704
+  start: '610'
+  end: '704'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A young man travels through a forest with magical objects, encounters a
+    giant with a drum, exchanges his wishing-bowl for the drum, kills the blood-drinking
+    giant with a magical axe, recovers the bowl and drum, then defeats a cruel king
+    by routing soldiers, flooding an army with water from the bowl, beheading the
+    king with the axe, summoning warriors with the drum, and becoming king.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The young man eats from a wishing-bowl before continuing through the forest.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A loud drum-like noise frightens wild animals, which flee across a forest
+    glade.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A big black giant sits in front of a hut with a drum.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The giant says that one side of the drum makes hearers run away and the other
+    side summons an armed army from the ground.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The young man trades the wishing-bowl to the giant for the drum.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The giant wishes for and begins drinking a bowlful of blood.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The young man commands his axe to strike, and it cuts the giant's head in
+    two.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Inside the hut are dried bodies of travellers tied to the wall; the passage
+    says the giant caught travellers and sucked their blood.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The young man retrieves the bowl and drum, checks that his axe and diamond
+    are safe, and wishes himself to the gate of the nearest city.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: A cruel king sends soldiers and then larger forces to capture the stranger
+    outside the city gates.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The young man beats the drum and the king's first soldiers and regiment flee.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The young man overturns the wishing-bowl, and water floods the plain and drowns
+    the army except for the king.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: The axe flies through the air, cuts off the king's head, and returns to the
+    young man.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:14
+  text: The young man beats the other side of the drum; warriors spring from holes
+    in the earth, and he enters the city and becomes king.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: young man
+  description: A travelling young man who possesses and uses a wishing-bowl, axe,
+    drum, and diamond.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:9
+  - ev:10
+  - ev:11
+- id: fig:2
+  name_or_label: big black giant
+  description: A giant seated before a forest hut with a drum; later shown to be a
+    killer of travellers who drinks blood.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: wild animals
+  description: A frightened herd including elephants, lions, tigers, wolves, and other
+    wild animals fleeing the drum noise.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: dead travellers
+  description: Bodies of travellers tied to the uprights of the giant's hut, dry and
+    shrivelled.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: cruel king
+  description: The king of the city, described as robbing and murdering subjects and
+    showing no mercy to strangers.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: fig:6
+  name_or_label: king's soldiers and army
+  description: Military forces sent by the king to capture the stranger; some flee
+    from the drum and the full army is drowned by the flood.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:7
+  name_or_label: city people
+  description: People inside the city who cheer when they see the cruel king beheaded.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:10
+- id: fig:8
+  name_or_label: summoned warriors
+  description: Fully armed warriors who sprout from holes in the earth after the young
+    man beats the other side of the drum.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: traveller
+  assigned_to:
+  - fig:1
+  basis: He walks through the forest and is later described as a stranger outside
+    the city gates.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:2
+  label: holder and user of magical objects
+  assigned_to:
+  - fig:1
+  basis: He uses the wishing-bowl, axe, and drum, and checks that the diamond is safe.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:9
+  - ev:10
+  - ev:11
+- id: role:3
+  label: victorious new king
+  assigned_to:
+  - fig:1
+  basis: After defeating the cruel king and summoning an army, he enters the city
+    and becomes king.
+  evidence_refs:
+  - ev:11
+- id: role:4
+  label: blood-drinking giant antagonist
+  assigned_to:
+  - fig:2
+  basis: The giant wants the wishing-bowl, wishes for blood, and is said to have sucked
+    travellers' blood.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: frightened fleeing animals
+  assigned_to:
+  - fig:3
+  basis: The animals flee in terror from the drum noise.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: victims of the giant
+  assigned_to:
+  - fig:4
+  basis: The passage identifies the dried bodies as travellers caught and drained
+    by the giant.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: cruel ruler antagonist
+  assigned_to:
+  - fig:5
+  basis: The king is described as robbing and murdering subjects and seeking to seize
+    the stranger.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: royal military force
+  assigned_to:
+  - fig:6
+  basis: The king sends soldiers, a regiment, and then the whole army against the
+    young man.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:9
+  label: approving city populace
+  assigned_to:
+  - fig:7
+  basis: The people cheer when the cruel king is beheaded.
+  evidence_refs:
+  - ev:10
+- id: role:10
+  label: magically summoned army
+  assigned_to:
+  - fig:8
+  basis: Warriors fully armed spring from the earth when the drum is beaten on its
+    other side.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: wishing-bowl
+  literal_form: A bowl that gives desired food and later pours out a torrent of water
+    when tipped over.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:9
+- id: sym:2
+  label: two-sided drum
+  literal_form: A drum whose one side makes hearers flee and whose other side summons
+    an army from the ground.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  - ev:11
+- id: sym:3
+  label: commanded axe
+  literal_form: An axe that responds to the young man's command for heads, cuts off
+    heads, flies through the air, and returns.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:10
+- id: sym:4
+  label: diamond
+  literal_form: A diamond carried by the young man and checked for safety along with
+    the axe.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: water flood
+  literal_form: A roaring torrent of water released from the wishing-bowl that floods
+    the plain and drowns the army.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: blood in the bowl
+  literal_form: A bowlful of blood wished for and drunk by the giant.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: earth-born warriors
+  literal_form: Fully armed warriors sprouting from holes in the trembling earth.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Approach through forest and flight of animals
+  summary: The young man hears a drum-like din in the forest and sees many wild animals
+    flee in terror across a glade.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Meeting the giant and learning the drum's power
+  summary: The young man reaches a hut where a giant with a drum offers food; the
+    giant learns of the wishing-bowl and explains the drum's two powers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Exchange, blood, and killing of the giant
+  summary: The young man trades the bowl for the drum; when the giant uses the bowl
+    for blood, the young man orders the axe to kill him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Discovery of the giant's victims and departure
+  summary: The young man finds dried travellers in the giant's hut, recovers his objects,
+    and wishes himself to a city gate.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Conflict with the cruel king
+  summary: A cruel king sends armed forces to seize the stranger; the young man uses
+    the drum to make early forces flee.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Flood, beheading, and new kingship
+  summary: The young man releases flood water from the bowl to drown the army, sends
+    the axe to behead the king, summons warriors with the drum, and enters the city
+    as king while the people cheer.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: magical objects used in successive trials
+  taxonomy_refs: []
+  basis: 'The young man repeatedly uses magical objects: a bowl for food and water,
+    a drum for flight and army-summoning, and an axe for beheading enemies.'
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: No specific provided taxonomy family directly names magical objects.
+- id: motif:2
+  label: exchange of magical objects
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The young man gives the wishing-bowl to the giant in exchange for the drum,
+    then recovers both after killing the giant.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy label 'sacred_exchange' is broader than the literal
+    exchange in the passage; the passage does not call the objects sacred.
+- id: motif:3
+  label: blood-drinking giant slain by magical weapon
+  taxonomy_refs: []
+  basis: The giant drinks blood, is revealed to have drained travellers, and is killed
+    by the commanded axe.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents the giant as blood-drinking but does not classify
+    him beyond 'giant'.
+- id: motif:4
+  label: overthrow of cruel king and replacement by victorious outsider
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The cruel king attacks the stranger, is killed by the axe, the people cheer,
+    and the young man enters the city and becomes king.
+  evidence_refs:
+  - ev:8
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The passage shows popular approval and succession, but does not describe
+    formal coronation or divine authorization.
+- id: motif:5
+  label: destructive water released from a vessel
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The wishing-bowl releases a torrent that floods the plain, destroys the king's
+    army, and precedes the young man's rule.
+  evidence_refs:
+  - ev:9
+  - ev:11
+  confidence: low
+  cautions: This is a local battle flood, not a world flood; 'renewal' is limited
+    to political replacement.
+- id: motif:6
+  label: army summoned from the earth
+  taxonomy_refs: []
+  basis: When the young man beats the other side of the drum, the earth trembles and
+    fully armed warriors sprout from holes in the ground.
+  evidence_refs:
+  - ev:11
+  confidence: high
+  cautions: No matching provided taxonomy reference is available.
+- id: motif:7
+  label: resourceful traveller survives hostile beings
+  taxonomy_refs:
+  - wisdom
+  basis: The young man avoids the giant's food, uses his own bowl, exploits the exchange,
+    and uses his magical objects to defeat the giant and king.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The passage emphasizes action and magical objects more than explicit instruction
+    about wisdom.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 610-704, forest approach
+  quote_or_summary: The young man eats from his wishing-bowl, walks through the forest,
+    hears a loud drum-like noise, and sees frightened elephants, lions, tigers, wolves,
+    and other animals flee across a glade.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 610-704, giant's hut
+  quote_or_summary: After the noise stops, the young man reaches another glade where
+    a hut stands and a big black giant sits in front of it with a drum.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 610-704, drum explanation
+  quote_or_summary: The giant explains that beating one side of the drum makes everyone
+    who hears it run away, while beating the other side causes a splendid army of
+    soldiers and horses to spring from the ground to defend the holder.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 610-704, exchange with giant
+  quote_or_summary: The young man tells the giant about the wishing-bowl that gives
+    any desired food, and the giant trades his drum for the bowl.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 610-704, death of giant
+  quote_or_summary: The giant wishes aloud for a bowlful of blood and begins drinking;
+    the young man commands the axe with 'Heads,' and the axe splits the giant's head
+    in two.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation included from public domain text.
+- id: ev:6
+  type: summary
+  locator: lines 610-704, inside the hut
+  quote_or_summary: Inside the giant's hut are dried bodies of travellers tied to
+    the wall; the passage says the giant caught travellers and sucked their blood
+    until they were dry.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 610-704, departure from hut
+  quote_or_summary: The young man picks up the bowl and drum, checks that the axe
+    and diamond are safe, and wishes himself to the gate of the nearest city.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 610-704, cruel king sends forces
+  quote_or_summary: The city king is described as cruel, robbing and murdering subjects
+    and showing no mercy to strangers; he sends soldiers, then a regiment, then all
+    his army to capture the young man, while the drum makes the first forces flee.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 610-704, flood from bowl
+  quote_or_summary: The young man tips over the wishing-bowl, releasing a roaring
+    torrent of water that floods the plain and drowns every soldier in the army except
+    the king, who escapes to the city wall.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 610-704, king beheaded
+  quote_or_summary: The young man commands the axe to take the king's head; it flies
+    like a boomerang, slices off the king's head, returns, and the people inside the
+    city cheer.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 610-704, summoned army and accession
+  quote_or_summary: The young man beats the other side of the drum; the earth trembles,
+    holes appear, fully armed warriors sprout from them, and he marches into the city,
+    becomes king, and lives happily.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based entirely on the supplied passage. Motif taxonomy
+    mappings are cautious because the available taxonomy does not include precise
+    labels for magical object cycles, ogre-slaying, or earth-born armies.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison with another text, tradition, or named motif family beyond candidate motif classification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l610-l704
+  passage_sha256=bdbba9d92b16b68d7a05f5c4f3f54fc9f4417e0d4f20fe933168d19d30e4686b
+

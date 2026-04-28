@@ -1,0 +1,488 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l4464-l4506
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER I. THE KING OF THE WOOD. / MACAULAY. / CHAPTER II. THE PERILS OF
+    THE SOUL. / HEINE.; lines 4464-4506
+  start: '4464'
+  end: '4506'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer proposes that the Flamen Dialis was forbidden to walk under a trellised
+    vine because grape juice could be viewed as the vine's blood and soul, and wine
+    as a spirit that intoxicates or inspires. He supports the interpretation with
+    examples attributed to Plutarch about Egyptian kings treating wine as the blood
+    of enemies of the gods, and to Sahagun about Aztec pulque as the presence of a
+    wine-god possessing the drunk person.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Flamen Dialis was not allowed to walk under a trellised vine.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Plants are described as being considered animate beings that bleed when cut,
+    with red plant juice regarded as plant blood.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The juice of the grape is described as naturally conceived as the blood of
+    the vine and as the soul, or containing the soul, of the vine.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that abnormal mental states such as intoxication or madness
+    are, in the described view, caused by the entrance of a spirit into a person.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Wine is described as considered a spirit or as containing a spirit because
+    it is red plant juice and because it intoxicates or inspires.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Frazer argues that if the Flamen Dialis walked under a trellised vine, the
+    spirit of the vine embodied in grape clusters would be over his head and might
+    touch it.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says Plutarch reported that Egyptian kings formerly neither drank
+    wine nor offered it in libations because they held it to be the blood of beings
+    who had fought against the gods.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage says the Egyptian explanation of intoxication was that the drunken
+    man was filled with the blood of the enemies of the gods.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Aztecs are described as regarding pulque as bad because of wild deeds
+    done under its influence.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The wild deeds of a drunken person are described as acts of the wine-god by
+    whom the person was possessed and inspired.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The passage reports that insulting a tipsy man could be punished as disrespect
+    to the wine-god incarnate in his votary.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Flamen Dialis
+  description: A tabooed priestly figure described as forbidden to walk under a trellised
+    vine.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Vine
+  description: A plant whose grape juice is described as blood, soul, or containing
+    soul, and whose spirit is embodied in grape clusters.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Egyptian kings
+  description: Kings reported by Plutarch as formerly avoiding drinking wine and offering
+    it in libations.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Beings who fought against the gods
+  description: Beings whose blood wine was held to be, and from whose rotting bodies
+    the vine was said to have sprung.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Gods
+  description: Divine figures against whom the beings associated with wine were said
+    to have fought.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Drunken man or tipsy man
+  description: A person described as filled with hostile blood in the Egyptian example
+    and as possessed or inspired by the wine-god in the Aztec example.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Aztecs / Indians
+  description: People described as holding that deeds done under pulque were acts
+    of the wine-god, and as possibly using intoxication to commit crimes with impunity.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Wine-god
+  description: A deity described as possessing and inspiring a drunken person and
+    as incarnate in his votary.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: tabooed person
+  assigned_to:
+  - fig:1
+  basis: The Flamen Dialis is described as a person in a state of permanent taboo.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: prohibited walker under vine
+  assigned_to:
+  - fig:1
+  basis: He was not allowed to walk under a trellised vine.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: animate plant containing blood, soul, or spirit
+  assigned_to:
+  - fig:2
+  basis: The vine's grape juice is described as blood and soul, and the clusters as
+    embodying the vine's spirit.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: ritual avoiders of wine
+  assigned_to:
+  - fig:3
+  basis: They neither drank wine nor offered it in libations in the reported account.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: source of wine-blood
+  assigned_to:
+  - fig:4
+  basis: Wine is reported as held to be their blood, and the vine to have sprung from
+    their bodies.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: opposed divine beings
+  assigned_to:
+  - fig:5
+  basis: The beings associated with wine are said to have fought against the gods.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: possessed or inspired intoxicated person
+  assigned_to:
+  - fig:6
+  basis: The drunken person is described as filled with blood or possessed and inspired
+    by the wine-god.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: community explaining intoxicated acts as divine possession
+  assigned_to:
+  - fig:7
+  basis: The passage attributes to the Aztecs the belief that wild deeds under pulque
+    were acts of the possessing wine-god.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: possessing wine deity
+  assigned_to:
+  - fig:8
+  basis: The wine-god is described as possessing and inspiring the tipsy man and as
+    incarnate in him.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: trellised vine
+  literal_form: trellised vine
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: grape juice as blood and soul
+  literal_form: juice of the grape
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wine as spirit-bearing drink
+  literal_form: wine
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: blood
+  literal_form: blood
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:5
+  label: grape clusters overhead
+  literal_form: clusters of grapes over the head
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: pulque
+  literal_form: pulque, or the wine of the country
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Flamen Dialis and the trellised vine prohibition
+  summary: The passage explains the prohibition on the Flamen Dialis walking under
+    a trellised vine by treating grape clusters as an embodied vine-spirit that might
+    come dangerously over his head.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Egyptian royal avoidance of wine
+  summary: Plutarch is cited for an account in which Egyptian kings avoided wine because
+    it was held to be the blood of beings who fought the gods, and intoxication was
+    explained as being filled with that blood.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Aztec pulque and possession by the wine-god
+  summary: The passage says the Aztecs explained wild deeds done under pulque as acts
+    of the wine-god possessing and inspiring the intoxicated person.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: plant juice as blood and soul of the plant
+  taxonomy_refs: []
+  basis: The passage states that plants may be considered animate beings that bleed,
+    and that grape juice is conceived as the vine's blood and soul.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is Frazer's comparative interpretation rather than a single narrated
+    myth.
+- id: motif:2
+  label: intoxication as spirit possession or inspiration
+  taxonomy_refs: []
+  basis: The passage states that abnormal mental states such as intoxication are explained
+    as the entrance of a spirit, and gives wine and pulque examples.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage generalizes across traditions through later comparative scholarship.
+- id: motif:3
+  label: danger of a sacred or spirit-bearing substance over a tabooed head
+  taxonomy_refs: []
+  basis: Frazer argues that the Flamen Dialis avoided passing under vine clusters
+    because the vine-spirit embodied in grapes might touch his head, dangerous for
+    one under permanent taboo.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents this as a proposed explanation, not as a directly
+    quoted ancient rule rationale.
+- id: motif:4
+  label: wine as blood of divine enemies
+  taxonomy_refs: []
+  basis: In the Plutarch example, wine is held to be the blood of beings who fought
+    against the gods, and intoxication is explained as being filled with that blood.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The account is reported through Frazer's summary of Plutarch.
+- id: motif:5
+  label: deity incarnate in the intoxicated votary
+  taxonomy_refs: []
+  basis: In the Aztec example, the tipsy person is treated as possessed by the wine-god,
+    and insulting him is disrespect toward the god incarnate in the votary.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The account is reported through Frazer's summary of Sahagun.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Egyptian and Aztec explanations of intoxication as cases
+    in which alcoholic drink introduces a non-human power into the drinker.
+  claim_level: same_function
+  target: Egyptian wine-blood explanation and Aztec pulque wine-god possession
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: 'The compared examples differ in form: one involves hostile blood associated
+    with enemies of the gods, while the other involves possession by a wine-god.'
+- id: claim:2
+  claim: The passage uses the Egyptian and Aztec examples to support Frazer's proposed
+    explanation of the Flamen Dialis vine taboo as involving wine, blood, spirit,
+    and danger to a tabooed person.
+  claim_level: same_function
+  target: Flamen Dialis trellised-vine prohibition, Egyptian royal wine avoidance,
+    and Aztec pulque possession
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Flamen Dialis explanation is explicitly hypothetical and depends
+    on Frazer's comparative reasoning.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4464-4465
+  quote_or_summary: The Flamen Dialis was not allowed to walk under a trellised vine.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4465-4473
+  quote_or_summary: Plants are described as animate beings that bleed when cut; grape
+    juice is treated as the vine's blood and as the vine's soul or containing its
+    soul.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4473-4482
+  quote_or_summary: Intoxication and madness are described as caused by a spirit entering
+    a person; wine is treated as a spirit or spirit-containing because it is red juice
+    and because it intoxicates or inspires.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4482-4490
+  quote_or_summary: Frazer says the vine-spirit embodied in grape clusters would be
+    over the Flamen Dialis's head and might touch it, which would be dangerous for
+    a person in permanent taboo.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4494-4501
+  quote_or_summary: Plutarch is cited for Egyptian kings avoiding wine because it
+    was held to be the blood of beings who fought the gods; intoxication was explained
+    as being filled with that blood.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4501-4506
+  quote_or_summary: The Aztecs are described as treating pulque as dangerous because
+    wild deeds under its influence were acts of the wine-god possessing and inspiring
+    the drinker; insulting a tipsy man could be punished as disrespect to the wine-god
+    incarnate in him.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4506
+  quote_or_summary: Frazer concludes that intoxication or inspiration produced by
+    wine appears parallel to other inspiration in the described comparative view.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a comparative scholarly argument rather than a primary mythic
+    narrative. Motifs are extracted as patterns explicitly discussed in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy motif-family IDs were assigned because the available refs do not directly match the passage's central patterns of wine-blood, plant soul, tabooed head, and intoxication as possession.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l4464-l4506
+  passage_sha256=dc7ce5d9a9338f16d241838fddf88ffd771403dd7850eebb2284a6794a08ab86
+

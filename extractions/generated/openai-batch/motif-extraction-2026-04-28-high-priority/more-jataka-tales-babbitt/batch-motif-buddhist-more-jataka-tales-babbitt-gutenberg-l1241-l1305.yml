@@ -1,0 +1,560 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l1241-l1305
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: THE BRAVE LITTLE BOWMAN / THE FOOLHARDY WOLF / THE STOLEN PLOW / THE LION
+    IN BAD COMPANY; lines 1241-1305
+  start: '1241'
+  end: '1305'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A young Lion befriends a Wolf despite parental warnings. Encouraged by
+    the Wolf, the Lion begins killing the king’s ponies. After repeated losses, the
+    king stations a skilled archer, who shoots the Lion; the Wolf abandons him and
+    returns to the woods, and the Lion dies.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A young Lion encounters a Wolf who asks to live in the Lion's den and offers
+    to work for him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The young Lion had been warned by his father and mother not to make friends
+    with any Wolf.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Wolf calls the Lion "Great Lion," and the Lion concludes that this Wolf
+    is not like other wolves.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Lion's father objects to the Wolf staying in the den, but the young Lion
+    disregards him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Wolf suggests taking horse-meat, identifying small ponies on the river
+    bank.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The young Lion catches a small pony while the ponies are bathing and carries
+    it back to the den.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Lion's father warns that the ponies belong to the king and that lions
+    who eat the king's ponies do not live long.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The young Lion continues catching and killing pony after pony.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The king first orders a tank built inside the town and then orders the ponies
+    kept in stables, but the Lion continues killing them.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The king calls a highly skilled archer and orders him to wait in a tower on
+    the wall to shoot the Lion.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The Wolf remains outside the wall while the Lion enters, kills a pony, and
+    is shot by the archer.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: After the Lion says he has been shot, the Wolf decides to return to his old
+    home in the woods.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:13
+  text: The Lion falls down dead.
+  category: action
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: young Lion
+  description: A young Lion who brings the Wolf to his den, kills the king's ponies,
+    is shot by the archer, and dies.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:10
+  - ev:12
+- id: fig:2
+  name_or_label: Wolf
+  description: A Wolf who asks to live with the Lion, flatters him, suggests taking
+    horse-meat, waits outside the wall, and leaves after the Lion is shot.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:10
+  - ev:11
+- id: fig:3
+  name_or_label: Lion's father
+  description: An old Lion who warns his son against the Wolf's presence and against
+    eating the king's ponies.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: Lion's mother
+  description: The young Lion's mother, named as one of the parents who warned him
+    not to make friends with wolves.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: king
+  description: The ruler whose ponies are killed and who orders protective measures
+    and then summons an archer.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: archer
+  description: A skilled archer called by the king, stationed in a tower, who shoots
+    the Lion.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:7
+  name_or_label: ponies
+  description: Small ponies belonging to the king; they are killed by the Lion at
+    the river, tank, and stables.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:10
+roles:
+- id: role:1
+  label: disobedient young predator
+  assigned_to:
+  - fig:1
+  basis: The young Lion ignores parental and paternal warnings and continues killing
+    the king's ponies.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:2
+  label: victim of royal punishment
+  assigned_to:
+  - fig:1
+  basis: The king's archer shoots the Lion after repeated pony killings, and the Lion
+    dies.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:12
+- id: role:3
+  label: flattering companion
+  assigned_to:
+  - fig:2
+  basis: The Wolf calls the Lion "Great Lion" and is accepted despite warnings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: abandoning associate
+  assigned_to:
+  - fig:2
+  basis: The Wolf waits outside the wall and leaves for the woods after the Lion is
+    shot.
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: role:5
+  label: parental adviser
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The parents warn the young Lion not to befriend wolves; the father also warns
+    against taking the king's ponies.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:6
+  label: owner and ruler seeking protection of property
+  assigned_to:
+  - fig:5
+  basis: The king owns the ponies and orders measures to protect them, then commands
+    the archer to shoot the Lion.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: role:7
+  label: royal archer
+  assigned_to:
+  - fig:6
+  basis: The archer is summoned by the king, waits in the tower, and shoots the Lion.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:8
+  label: royal prey animals
+  assigned_to:
+  - fig:7
+  basis: The ponies belong to the king and are repeatedly killed by the Lion.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: den
+  literal_form: Lion's den
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: river bank
+  literal_form: river bank where ponies bathe
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: town tank
+  literal_form: tank inside the town
+  associated_figures:
+  - fig:5
+  - fig:7
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: wall and tower
+  literal_form: town wall and tower where the archer waits
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: sym:5
+  label: arrow
+  literal_form: arrow shot by the archer
+  associated_figures:
+  - fig:6
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:6
+  label: king's ponies
+  literal_form: ponies belonging to the king
+  associated_figures:
+  - fig:5
+  - fig:7
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Wolf accepted into the Lion's den
+  summary: The Wolf asks to live with the young Lion; despite parental warnings, the
+    Lion accepts him and brings him to the den.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Pony hunting begins
+  summary: The Wolf suggests horse-meat, and the young Lion catches a pony bathing
+    at the river bank.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Warnings and repeated killings
+  summary: The father warns that the ponies belong to the king, but the young Lion
+    keeps killing them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Royal countermeasures fail
+  summary: The king has the ponies moved from river to town tank and then to stables,
+    but the Lion continues to kill them.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Archer shoots the Lion
+  summary: The king stations a skilled archer in a tower; the Wolf waits outside while
+    the Lion enters, kills a pony, and is shot.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: scene:6
+  label: Wolf abandons the dying Lion
+  summary: After the Lion says he has been shot, the Wolf leaves for the woods, and
+    the Lion dies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: Ignoring wise parental counsel leads to destruction
+  taxonomy_refs:
+  - wisdom
+  basis: The young Lion is warned by his parents and later by his father, but he disregards
+    the warnings and dies after continuing the dangerous behavior.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:12
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents practical counsel
+    rather than an abstract wisdom teaching.
+- id: motif:2
+  label: Bad company leads a stronger figure into danger
+  taxonomy_refs: []
+  basis: The Wolf flatters the Lion, encourages him to take horse-meat, and the Lion's
+    ensuing actions bring about his death.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:10
+  - ev:12
+  confidence: high
+  cautions: The passage does not explicitly state a moral beyond the narrative title
+    and events.
+- id: motif:3
+  label: False companion abandons ally in crisis
+  taxonomy_refs: []
+  basis: The Wolf waits outside the wall and leaves for his old home after the Lion
+    is shot.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The Wolf's abandonment is explicit, but the passage gives only his practical
+    reasoning, not a stated ethical judgment.
+- id: motif:4
+  label: Royal property violation punished by a king's agent
+  taxonomy_refs: []
+  basis: The Lion repeatedly kills ponies belonging to the king; the king summons
+    an archer who shoots him.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:12
+  confidence: medium
+  cautions: This is an extracted narrative pattern rather than a supplied taxonomy
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1241-1247
+  quote_or_summary: A young Lion meets a Wolf, who cannot escape and asks to live
+    in the Lion's den while working for him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1248-1254
+  quote_or_summary: The young Lion had been told by his father and mother not to make
+    friends with wolves, but accepts this Wolf after the Wolf calls him "Great Lion."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; brief quote included from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 1255-1259
+  quote_or_summary: The Lion's father dislikes having the Wolf there, but the young
+    Lion thinks he knows better, so the Wolf remains in the den.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1260-1266
+  quote_or_summary: The Wolf says they have not eaten horse-meat and points out small
+    ponies on the river bank.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1267-1270
+  quote_or_summary: The young Lion and Wolf go to the river bank while ponies are
+    bathing; the Lion catches a small pony and carries it to the den.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1271-1276
+  quote_or_summary: The father warns that the ponies belong to the king, who has many
+    skilled archers, and tells his son not to take another pony.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1277-1279
+  quote_or_summary: The young Lion likes horse-meat and catches and kills pony after
+    pony.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1280-1288
+  quote_or_summary: The king hears of the killings and orders a tank built inside
+    the town, then orders the ponies kept in stables; the Lion still kills them.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 1289-1295
+  quote_or_summary: The king calls an archer who shoots like lightning and tells him
+    to wait in a tower on the wall to shoot the Lion.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 1296-1301
+  quote_or_summary: The Lion and Wolf come to the wall; the Wolf waits outside, the
+    Lion springs over, kills a pony, and the archer shoots an arrow.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 1302-1304
+  quote_or_summary: The Lion says he is shot; the Wolf decides the Lion will soon
+    die and returns to his old home in the woods.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: line 1305
+  quote_or_summary: The Lion falls down dead.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Narrative events are explicit. Motif labels are inferred from the passage's
+    repeated warnings, title, and outcome; no passage-internal comparative claims
+    are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l1241-l1305
+  passage_sha256=0ac9c0b19f46e2c436b5070ca54722e7501a43aa5435476028bab2f7978746e9
+

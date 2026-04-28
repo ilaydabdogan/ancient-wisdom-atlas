@@ -1,0 +1,406 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l6801-l6874
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: MACAULAY. / CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING
+    THE GOD.; lines 6801-6874
+  start: '6801'
+  end: '6874'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer reviews and challenges the interpretation of Osiris as a sun-god.
+    He cites ancient and modern authorities who identify Osiris with the sun or Ra,
+    notes an eye as a symbol of Osiris in one argument, and explains Egyptian religion
+    as a confederacy of local cults gradually amalgamated through political centralisation
+    and philosophical reflection.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that Osiris has sometimes been interpreted as the sun-god,
+    but Frazer judges the evidence for that identification to be slight and doubtful.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Diodorus is reported as saying that early Egyptians supposed two primeval
+    gods, the sun and moon, and named the sun Osiris and the moon Isis.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Macrobius is described as identifying many gods with the sun, including Mercury,
+    Mars, Janus, Saturn, Jupiter, Nemesis, Pan, and Osiris.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Macrobius argues that Osiris must be the sun because an eye was one of Osiris's
+    symbols; Frazer accepts the premise about the eye but questions the conclusion.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Lepsius is described as saying that Osiris was sometimes conceived as Ra in
+    late sources, including the name Osiris-Ra in the Book of the Dead and the title
+    of Isis as royal consort of Ra.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Ra is stated to be both the physical sun and the sun-god.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Ancient Egyptian religion is described as a confederacy of local cults affected
+    by political centralisation and philosophical reflection.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage contrasts a conservative tendency preserving local cults with
+    a progressive tendency merging them into a national religion.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Religious unification is described as being achieved by declaring various
+    local gods to be different names or manifestations of the same god.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Osiris
+  description: Egyptian deity whose identification with the sun or sun-god is discussed
+    and disputed in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Isis
+  description: Egyptian deity identified with the moon in the Diodorus passage and
+    described by Lepsius as sometimes called the royal consort of Ra.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Ra
+  description: Egyptian deity stated to be both the physical sun and the sun-god;
+    Osiris is described as sometimes conceived as Ra in late sources.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: the sun
+  description: Celestial body described by Diodorus as one of two primeval gods and
+    named Osiris in that report.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:5
+  name_or_label: the moon
+  description: Celestial body described by Diodorus as one of two primeval gods and
+    named Isis in that report.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: local Egyptian gods
+  description: Various local deities whose cults are described as being preserved
+    locally or later identified as names or manifestations of one god.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:7
+  name_or_label: Egyptian kings
+  description: Rulers described as natural champions of religious unity because their
+    power rose with political and ecclesiastical consolidation.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: disputed solar deity identification
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly discusses claims that Osiris is the sun or sun-god
+    and gives Frazer's objections to those claims.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: lunar identification in cited tradition
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: Diodorus's report names the moon Isis, and Lepsius's account links Isis to
+    Ra as royal consort.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: solar figure or sun-god
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Ra is explicitly stated to be the physical sun and the sun-god; Diodorus's
+    report treats the sun as a primeval god.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:4
+  label: local deities subject to amalgamation
+  assigned_to:
+  - fig:6
+  basis: The passage describes local gods whose distinctions were reduced by declaring
+    them manifestations of the same god.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:5
+  label: agent of religious unification
+  assigned_to:
+  - fig:7
+  basis: Kings are described as champions of religious unity because consolidation
+    increased their power and glory.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: eye of Osiris
+  literal_form: eye
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: sun
+  literal_form: sun
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: moon
+  literal_form: moon
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Osiris-Ra compound name
+  literal_form: compound divine name Osiris-Ra
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dispute over Osiris as sun-god
+  summary: Frazer presents the claim that Osiris is the sun-god and argues that the
+    ancient and modern evidence is weak or late.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: scene:2
+  label: Diodorus's sun and moon identification
+  summary: Diodorus's account is cited as saying that early Egyptians recognized the
+    sun and moon as two eternal primeval gods, naming them Osiris and Isis.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Macrobius's solar reduction and the eye symbol
+  summary: Macrobius is described as broadly reducing many gods to the sun and as
+    using the eye symbol of Osiris to argue that Osiris is the sun.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Amalgamation of Egyptian local cults
+  summary: The passage describes Egyptian religion as local cults pulled between preservation
+    of local distinctions and unification through central power and interpretation.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: disputed solar identification of a deity
+  taxonomy_refs: []
+  basis: Multiple cited authorities identify or associate Osiris with the sun, Ra,
+    or the sun-god, but the passage emphasizes that this identification is contested.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a scholarly interpretive pattern in Frazer's argument, not a narrated
+    mythic episode; the passage itself disputes the reliability of the solar identification.
+- id: motif:2
+  label: divine syncretism through shared names or manifestations
+  taxonomy_refs: []
+  basis: The passage describes religious unification as discovering similarities among
+    local gods and declaring them different names or manifestations of the same god.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The motif is expressed as Frazer's historical explanation of Egyptian
+    religion, not as a primary mythic narrative.
+- id: motif:3
+  label: divine eye as symbolic attribute
+  taxonomy_refs: []
+  basis: The passage reports that an eye was one of Osiris's symbols and that Macrobius
+    used it in an argument identifying Osiris with the sun.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only the symbol and the argument are reported; the passage does not describe
+    a mythic action involving the eye.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6801-6806
+  quote_or_summary: Frazer says Osiris has sometimes been interpreted as the sun-god,
+    but the evidence for identifying him with the sun is minute and dubious or worthless.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 6813-6818
+  quote_or_summary: 'Diodorus is quoted: Egyptians supposed two gods, the sun and
+    moon, "of whom they named the sun Osiris and the moon Isis."'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 6825-6831
+  quote_or_summary: Frazer says Macrobius identified many gods with the sun, including
+    Mercury, Mars, Janus, Saturn, Jupiter, Nemesis, Pan, and Osiris.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6833-6837
+  quote_or_summary: Macrobius argues Osiris must be the sun because an eye was one
+    of his symbols; Frazer states the premise is correct but the conclusion unclear.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6841-6848
+  quote_or_summary: Lepsius is said to rely on Diodorus and to add that late sources
+    sometimes conceived Osiris as Ra, naming Osiris-Ra in the Book of the Dead and
+    calling Isis the royal consort of Ra.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 6848-6849
+  quote_or_summary: '"Ra was both the physical sun and the sun-god."'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: summary
+  locator: lines 6852-6858
+  quote_or_summary: Ancient Egyptian religion is described as a confederacy of local
+    cults influenced by political centralisation and philosophical reflection.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 6858-6870
+  quote_or_summary: The passage contrasts conservative preservation of local cults
+    and clergy interests with progressive religious unity supported by kings and a
+    cultured minority.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 6870-6874
+  quote_or_summary: Religious unification was effected by finding similarities among
+    local gods, then declaring them "different names or manifestations of the same
+    god."
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a secondary scholarly discussion rather than a primary mythic
+    narrative. Extracted motifs are interpretive and historical patterns explicitly
+    discussed in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy references were assigned because the available motif and symbol lists do not include solar deity identification, eye symbolism, or divine syncretism.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l6801-l6874
+  passage_sha256=06a3057acfc94e2b60dfe519b53496deb4e8ca806f472d9cd64aab4dcee78ce7
+

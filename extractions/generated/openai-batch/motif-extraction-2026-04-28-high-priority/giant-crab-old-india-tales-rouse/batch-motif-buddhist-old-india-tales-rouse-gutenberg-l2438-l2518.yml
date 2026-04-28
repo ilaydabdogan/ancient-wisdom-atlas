@@ -1,0 +1,356 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l2438-l2518
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE JACKAL WOULD A-WOOING GO / THE LION AND THE BOAR / THE GOBLIN CITY /
+    LACKNOSE; lines 2438-2518
+  start: '2438'
+  end: '2518'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A noseless gardener refuses two boys who try to obtain flowers by flattering
+    him with false verses about his nose growing back, but rewards a third boy who
+    speaks honestly.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The gardener has no nose and owns a garden full of beautiful flowers.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Three boys want a bunch of flowers from the garden.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The first boy tries to flatter the gardener by saying his nose will grow like
+    hair and whiskers, then asks for a posy.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The gardener rejects the first boy because he knows his nose will not grow
+    back and finds the mention rude.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The second boy says the gardener's nose may sprout like seeds and asks for
+    a posy.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The gardener sees through the second boy's trick, becomes angrier, and sends
+    him away.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The third boy approaches modestly and states that cut noses do not grow again
+    while asking honestly for a posy.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The gardener is pleased by the third boy's straightforward honesty and gives
+    him a beautiful bunch of flowers.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Lacknose, the gardener
+  description: A gardener with no nose who owns a garden of flowers.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Three little boys
+  description: Three boys who want a bunch of flowers from the gardener's garden.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: First boy
+  description: A boy who tries to obtain flowers by a flattering verse about the gardener's
+    nose growing back like hair and whiskers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Second boy
+  description: A boy who tries to obtain flowers by a flattering verse about the gardener's
+    nose sprouting like seeds.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Third boy
+  description: An honest boy who asks directly and truthfully for flowers.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: gardener and flower owner
+  assigned_to:
+  - fig:1
+  basis: He owns and tends a garden full of flowers.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: judge of requests
+  assigned_to:
+  - fig:1
+  basis: He refuses the first two boys and rewards the third based on how they ask.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+- id: role:3
+  label: flower seekers
+  assigned_to:
+  - fig:2
+  basis: The boys want a bunch of flowers from the garden.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: unsuccessful flatterer
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Each uses a flattering but false verse about the gardener's nose and is refused.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: honest successful petitioner
+  assigned_to:
+  - fig:5
+  basis: He asks honestly and receives flowers.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: flower garden
+  literal_form: A garden full of roses, pinks, lilies, violets, and other flowers.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: posy or bunch of flowers
+  literal_form: A small bunch of flowers requested by the boys and granted to the
+    third boy.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+- id: sym:3
+  label: missing nose
+  literal_form: The gardener has no nose; the boys' verses mention whether it could
+    grow back.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: scissors
+  literal_form: The gardener's scissors used to cut the bunch of flowers for the third
+    boy.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: The garden and the desire for flowers
+  summary: A noseless gardener has a beautiful flower garden, and three boys decide
+    they want a bunch of flowers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Two flattering requests fail
+  summary: The first and second boys make flattering verses about the gardener's nose
+    growing back; the gardener rejects both attempts.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Honest request rewarded
+  summary: The third boy speaks plainly about the gardener's nose and asks honestly,
+    and the gardener gives him a beautiful bunch of flowers.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: honest speech rewarded
+  taxonomy_refs:
+  - wisdom
+  basis: The third boy's truthful and straightforward request succeeds where false
+    flattery fails.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents a moral example
+    rather than an explicit wisdom teaching label.
+- id: motif:2
+  label: deceptive flattery exposed and rejected
+  taxonomy_refs: []
+  basis: The gardener recognizes the first two boys' attempts as rude or tricking
+    speech and refuses them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No narrower supplied taxonomy reference directly matches this motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2438-2443
+  quote_or_summary: A gardener named Lacknose has no nose and a garden full of beautiful
+    flowers, including roses, pinks, lilies, and violets.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 2445-2446
+  quote_or_summary: Three little boys want a bunch of flowers but do not know how
+    to get it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 2447-2459
+  quote_or_summary: The first boy greets the gardener and recites a verse saying the
+    gardener's nose will grow like hair and whiskers, then asks for a posy.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 2461-2466
+  quote_or_summary: The gardener knows his nose will not grow again, thinks the boy
+    rude, becomes angry, and tells him to get his posy somewhere else.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 2468-2480
+  quote_or_summary: The second boy enters, greets the gardener, and recites a verse
+    comparing the hoped-for nose growth to seeds sprouting, then asks for a posy.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 2482-2489
+  quote_or_summary: The gardener sees through the trick, becomes angrier, threatens
+    to come after the boy with a stick, and tells him to learn manners before asking
+    for flowers.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 2491-2508
+  quote_or_summary: The third boy, described as honest, approaches modestly and recites
+    that cut noses do not grow again, then asks honestly for a posy.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 2510-2518
+  quote_or_summary: The gardener is pleased by the boy's straightforward honesty,
+    cuts a beautiful bunch of flowers with scissors, gives it to him, and the boy
+    thanks him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal events are explicit in the passage. Motif labels are straightforward
+    but not named by the passage; comparison claims are omitted because no comparative
+    link is stated in the provided text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided Lacknose passage was used; no external parallels or taxonomy IDs beyond the supplied broad motif family were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l2438-l2518
+  passage_sha256=e36adb7ac6eaebb10ccb9574c7a2bbb7f0567c8389aa79ca2d6ec5fa1d78f2d9
+

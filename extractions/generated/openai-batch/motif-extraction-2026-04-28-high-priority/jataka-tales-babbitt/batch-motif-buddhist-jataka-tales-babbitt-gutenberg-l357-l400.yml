@@ -1,0 +1,410 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l357-l400
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: THE MONKEY AND THE CROCODILE / PART I / PART II / HOW THE TURTLE SAVED HIS
+    OWN LIFE; lines 357-400
+  start: '357'
+  end: '400'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“those people do not know how safe I am in the water!”"
+  summary: A king has a lake made for his sons. The boys mistake a turtle for a demon,
+    and the king orders it killed. After several killing methods are proposed, an
+    old man suggests throwing it into the lake where the water runs into the river.
+    The turtle pretends this would be especially dreadful, so the king orders it done;
+    the turtle escapes safely down the river to its old home.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A king has a lake made in the courtyard for young princes to play in with
+    boats and rafts.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fishes are put into the lake, and a turtle is present along with them.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The boys have never seen a turtle and identify it as a demon.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The king orders the supposed demon caught and brought to the palace, and later
+    orders the turtle killed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: People propose killing the turtle by pounding it to powder or baking it in
+    hot coals.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: An old man who has always been afraid of water proposes throwing the turtle
+    into the lake where it flows over rocks into the river.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The turtle speaks against the old man’s proposal and calls being thrown into
+    the lake a cruel thing.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The king orders the turtle thrown into the lake.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The turtle laughs to himself, slides down the river to his old home, and says
+    the people do not know he is safe in the water.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: king
+  description: A king with young sons, who has a lake made and orders the turtle killed.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: young princes / boys
+  description: The king’s sons who play in the lake, see the turtle, fear it, and
+    call it a demon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: turtle
+  description: A turtle found with the fishes in the lake; it is mistaken for a demon,
+    threatened with death, and escapes by being thrown into the water.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: king’s men
+  description: Men ordered to catch the turtle, bring it to the palace, and throw
+    it into the lake.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:5
+  name_or_label: old man afraid of the water
+  description: An old man who has always been afraid of water and proposes throwing
+    the turtle into the lake outflow.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: fishes
+  description: Fishes placed in the courtyard lake along with which the turtle is
+    found.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: ruler
+  assigned_to:
+  - fig:1
+  basis: The figure is identified as a king and gives orders.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: role:2
+  label: protective father
+  assigned_to:
+  - fig:1
+  basis: The king is very fond of his sons and orders the turtle killed after they
+    are frightened.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: frightened children
+  assigned_to:
+  - fig:2
+  basis: The boys fear the turtle and cry that a demon is on the lake bank.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: threatened animal
+  assigned_to:
+  - fig:3
+  basis: The turtle is captured and ordered killed.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: self-rescuing speaker
+  assigned_to:
+  - fig:3
+  basis: The turtle’s speech leads to its being thrown into water, where it is safe
+    and escapes.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:6
+  label: royal agents
+  assigned_to:
+  - fig:4
+  basis: The men carry out the king’s orders regarding the turtle.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:7
+  label: fearful adviser
+  assigned_to:
+  - fig:5
+  basis: The old man is described as afraid of water and advises throwing the turtle
+    into the lake outflow.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: lake and river water
+  literal_form: courtyard lake, lake outflow, river
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+- id: sym:2
+  label: hot coals
+  literal_form: hot coals proposed for baking the turtle
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: mistaken demon
+  literal_form: the turtle described by the boys as a demon
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Lake made for the princes
+  summary: The king has a courtyard lake made for his sons, and fishes are added to
+    it; a turtle is also present.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Turtle mistaken for a demon
+  summary: The boys see the turtle, fear it because they have never seen one, and
+    report a demon to their father.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Death sentence and proposals
+  summary: The king orders the turtle killed, and bystanders propose several methods,
+    including pounding and hot coals.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Old man’s water proposal
+  summary: An old man afraid of water proposes throwing the turtle into the lake outflow,
+    believing this will kill it.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Turtle’s feigned protest and escape
+  summary: The turtle objects to the water proposal as if it were dreadful; the king
+    orders it thrown into the lake, and the turtle escapes down the river to its old
+    home.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: escape through deceptive protest
+  taxonomy_refs:
+  - wisdom
+  basis: The turtle saves itself by pretending that the one proposed action that will
+    save it is especially cruel, causing the king to order that action.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents practical cunning
+    rather than explicit doctrinal wisdom.
+- id: motif:2
+  label: danger inverted into safety
+  taxonomy_refs: []
+  basis: Being thrown into water is proposed as a fatal punishment, but for the turtle
+    it becomes a route of escape.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: This is a passage-level pattern without a supplied specific taxonomy ID.
+- id: motif:3
+  label: animal mistaken for a demon
+  taxonomy_refs: []
+  basis: The boys, unfamiliar with turtles, call the turtle a demon and prompt the
+    king’s punitive response.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this motif.
+- id: motif:4
+  label: trickster-like survival by speech
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The turtle’s speech manipulates the boundary between apparent danger and
+    actual safety, resulting in its escape into water.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The turtle is not explicitly labeled a trickster in the passage; the taxonomy
+    reference is interpretive and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 357-366
+  quote_or_summary: A king has a courtyard lake made for young princes to play in;
+    fishes are added, and a turtle is present with them.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 367-371
+  quote_or_summary: The boys had never seen a turtle and were afraid, thinking it
+    was a demon; they report, “There is a demon on the bank of the lake.”
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short quote from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 372-378
+  quote_or_summary: The king orders the supposed demon caught and brought to the palace;
+    because he is fond of his sons, he orders the turtle killed.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 379-383
+  quote_or_summary: People ask how to kill the turtle and propose pounding it to powder
+    or baking it in hot coals.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 384-386
+  quote_or_summary: An old man who has always feared water says to throw the turtle
+    into the lake where it flows over rocks into the river, claiming this will surely
+    kill it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 387-392
+  quote_or_summary: The turtle asks what it has done to deserve such a dreadful thing
+    and says, “to throw me into the lake! Don’t speak of such a cruel thing!”
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short quote from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 393-395
+  quote_or_summary: After hearing the turtle, the king tells his men to take it at
+    once and throw it into the lake.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: quote
+  locator: lines 396-399
+  quote_or_summary: The turtle laughs as it slides down the river to its old home
+    and says, “those people do not know how safe I am in the water!”
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short quote from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif taxonomy assignments are cautious
+    because the supplied taxonomy contains only broad categories for this animal trickery
+    episode. No comparison claims were made because the passage itself does not support
+    a comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No external Jataka parallels or tale-type comparisons were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l357-l400
+  passage_sha256=59a96fd5ddded5603fb95a5edf7429403ff141c824f2b5d4549704b0ef960961
+

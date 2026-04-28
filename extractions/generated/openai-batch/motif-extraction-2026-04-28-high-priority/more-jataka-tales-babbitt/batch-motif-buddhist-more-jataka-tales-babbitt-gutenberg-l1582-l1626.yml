@@ -1,0 +1,409 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l1582-l1626
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: XVIII / THE WISE GOAT AND THE WOLF / PRINCE WICKED AND THE GRATEFUL ANIMALS
+    / BEAUTY AND BROWNIE; lines 1582-1626
+  start: '1582'
+  end: '1626'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Two deer, Beauty and Brownie, are warned by their father to take their
+    herds to the high hills while crops ripen, traveling only at night and avoiding
+    villages because hunters trap and kill deer. Beauty follows the instructions and
+    preserves his herd; Brownie disregards them, travels by day near villages, and
+    loses most of his herd to hunters before returning to the forest.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Beauty and Brownie are two deer living with their parents and large deer herds
+    in a forest.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Their father says deer are in danger when corn ripens because men set traps
+    in the fields.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The father instructs Beauty and Brownie to lead their herds to the high hills
+    until the crops are cut.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The father instructs them to travel at night and avoid villages where hunters
+    live.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Beauty travels at night, avoids villages, and brings his herd safely to the
+    high hills without losing any deer.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Brownie forgets the father’s instructions, travels by day, and leads his herd
+    past villages.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Hunters see Brownie’s herd and kill many deer.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: After the crops are cut, the deer return to the forest; Beauty brings all
+    his herd back, while Brownie again travels by day past villages and returns with
+    only a few deer left.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Beauty
+  description: A deer who leads his herd according to his father’s instructions and
+    loses none of them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Brownie
+  description: A deer who forgets his father’s instructions, travels by day near villages,
+    and loses most of his herd.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Father deer
+  description: The father of Beauty and Brownie, who warns them about traps and hunters
+    and gives travel instructions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Mother deer and old deer
+  description: The mother and some older deer remain in the forest while the younger
+    deer and herds go away.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Beauty’s herd
+  description: The herd led by Beauty, brought safely to the hills and back to the
+    forest.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: Brownie’s herd
+  description: The herd led by Brownie, many of whom are killed by hunters during
+    travel.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: Hunters / men
+  description: People who set traps in fields and kill many deer when Brownie leads
+    his herd past villages.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: warning elder
+  assigned_to:
+  - fig:3
+  basis: The father identifies the seasonal danger and gives specific protective instructions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: obedient prudent leader
+  assigned_to:
+  - fig:1
+  basis: Beauty follows the instructions about night travel and avoiding villages,
+    preserving his herd.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: negligent or foolish leader
+  assigned_to:
+  - fig:2
+  basis: Brownie forgets the instructions, travels by day near villages, and loses
+    many deer.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: human threat
+  assigned_to:
+  - fig:7
+  basis: Men set traps in fields, and hunters kill many deer when they see Brownie’s
+    herd.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: dependent herd
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Each deer leads a herd whose safety depends on the leader’s conduct.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: forest home
+  literal_form: forest
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:2
+  label: fields with ripening corn and traps
+  literal_form: corn fields and traps
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: high hills as place of safety and food
+  literal_form: high hills
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: night travel as safe conduct
+  literal_form: travel by night
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: villages as hunter danger
+  literal_form: villages where hunters live
+  associated_figures:
+  - fig:2
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Father warns and instructs the two deer
+  summary: The father tells Beauty and Brownie that ripening corn brings danger from
+    traps, and instructs them to take their herds to the high hills, travel by night,
+    and avoid villages.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Beauty preserves his herd
+  summary: Beauty travels at night, avoids villages, reaches the high hills safely,
+    and loses no deer.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Brownie loses many deer
+  summary: Brownie travels by day, leads his herd past villages, and hunters repeatedly
+    see and kill many of the deer.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Return after the crops are cut
+  summary: After the crops are cut, Beauty returns with all his herd, while Brownie
+    again travels by day past villages and returns with only a few deer left.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: wise obedience to elder counsel preserves the group
+  taxonomy_refs:
+  - wisdom
+  basis: The narrative contrasts Beauty, who follows his father’s counsel and saves
+    his herd, with Brownie, who forgets the counsel and loses most of his herd.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage presents the contrast in an animal-fable form; broader doctrinal
+    interpretation is not stated in this excerpt.
+- id: motif:2
+  label: seasonal departure and safe return
+  taxonomy_refs:
+  - departure
+  - return
+  basis: The deer are instructed to leave the forest for the high hills during the
+    crop season and return after the crops are cut.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The departure and return are practical movements for safety and food,
+    not explicitly a heroic quest or ritual cycle in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1582-1586
+  quote_or_summary: Beauty and Brownie are two deer living with their father, mother,
+    and great herds in a forest.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 1586-1595
+  quote_or_summary: The father says deer are in danger when corn ripens because men
+    set traps in the fields and many deer are caught each year.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 1596-1606
+  quote_or_summary: The father says he, the mother, and older deer will stay in the
+    forest, while Beauty and Brownie must lead their herds to the high hills until
+    the crops are cut.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 1607-1611
+  quote_or_summary: The father tells them to travel by night so hunters will not see
+    them, and not to take the herd near villages where hunters live.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 1612-1615
+  quote_or_summary: Beauty travels at night, avoids villages, brings his herd safely
+    to the high hills, and loses no deer.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 1616-1621
+  quote_or_summary: Brownie forgets the father’s words, travels in the daytime, leads
+    his herd past villages, and hunters kill many deer from his herd.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 1622-1626
+  quote_or_summary: When crops are cut, the deer return; Beauty brings all his herd
+    back, while Brownie again travels by day past villages and reaches the forest
+    with only a few deer left.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal sequence and role contrast are explicit. Motif labels are limited
+    to the supplied taxonomy and remain passage-level candidates.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison beyond its internal fable pattern.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l1582-l1626
+  passage_sha256=cf8a53fbebca8e23b2d512e501065005ef70cac9196dac529d8dc2b1badabb02
+

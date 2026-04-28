@@ -1,0 +1,553 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l7594-l7681
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: MACAULAY. / CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING
+    THE GOD.; lines 7594-7681
+  start: '7594'
+  end: '7681'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer compares European harvest customs with spring customs, arguing that
+    tree-spirits and corn-spirits are represented both by plant objects and by human
+    representatives. He describes last-sheaf rites, fertility uses of grain and straw,
+    Mother/Maiden/Old Woman naming, parallels with Mexican maize customs, and criteria
+    by which such rites are classed as primitive, magical, and spirit-oriented rather
+    than priestly, temple-based, or propitiatory.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the harvest customs are analogous to spring customs
+    previously reviewed.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The tree-spirit is said to be represented by both a tree and a person, while
+    the corn-spirit is represented by both the last sheaf and the person who cuts,
+    binds, or threshes it.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The equivalence between the person and the sheaf is shown by shared naming,
+    wrapping the person in the sheaf, and rules assigning the Mother sheaf to an oldest
+    married woman and the Maiden sheaf to a youngest girl.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage says Mexican human beings used in maize-growth rites varied with
+    the age of the maize and were probably representatives of the corn-spirit rather
+    than offerings to it.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Grain from the last sheaf is scattered among young corn in spring, and straw
+    from the last sheaf is given to cattle at Christmas to make them thrive.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A Mother-sheaf made like a pregnant woman is delivered to the farmer’s wife,
+    and beliefs are reported that the woman who binds the last sheaf will have a child
+    next year or that the person who gets it will marry next year.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: 'Frazer lists marks of primitive religion: no special priestly class, no special
+    temple places, recognition of spirits rather than gods, and rites that are magical
+    rather than propitiatory.'
+  category: attribute
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: European peasant spring and harvest rites are described as performable by
+    varied persons and in places such as woods, meadows, brooksides, barns, harvest
+    fields, and cottage floors.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Examples of magical harvest rites include throwing the Corn-mother into the
+    river for rain and dew, making the Old Woman heavy for a heavy crop, strewing
+    grain from the last sheaf among young crops, and giving the last sheaf to cattle.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: tree-spirit
+  description: A spirit represented in spring customs both by a tree and by a person.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: corn-spirit
+  description: A spirit represented in harvest customs both by the last sheaf and
+    by the person who cuts, binds, or threshes it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: person who cuts, binds, or threshes the last sheaf
+  description: A human figure treated as equivalent to the last sheaf in harvest customs.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: oldest married woman
+  description: The person required in some places to cut the sheaf when it is called
+    the Mother.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: youngest girl
+  description: The person required in some places to cut the sheaf when it is called
+    the Maiden.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: farmer’s wife
+  description: Recipient of the Mother-sheaf made into the likeness of a pregnant
+    woman.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: cattle
+  description: Animals fed straw from the last sheaf at Christmas with the intention
+    of making them thrive.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Mexican human beings in maize-growth custom
+  description: Human beings whose age varied with the age of the maize and who are
+    described as probably representatives of the corn-spirit.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: European peasantry
+  description: Performers of spring and harvest customs described as not restricted
+    to priests, temples, or churches.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: Corn-mother, Old Woman, and Maiden
+  description: General names for harvest supernatural beings or forms, contrasted
+    with proper divine names such as Ceres, Proserpine, and Bacchus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: generic vegetation or crop spirit
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:10
+  basis: The passage describes tree-spirit and corn-spirit representations and later
+    states that names such as Barley-mother, Old Woman, and Maiden are general spirit
+    names rather than proper divine names.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:2
+  label: human representative of crop-spirit
+  assigned_to:
+  - fig:3
+  - fig:8
+  basis: The person associated with the last sheaf and the Mexican humans in maize
+    rites are described as probably representatives of the corn-spirit.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: ritual performer
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:9
+  basis: The passage identifies persons who cut, bind, or thresh the sheaf and says
+    European peasant rites may be performed by many non-specialist persons.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:4
+  label: recipient of fertility influence
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The farmer’s wife receives a pregnant Mother-sheaf, and cattle receive straw
+    from the last sheaf to make them thrive.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: comparative maize-rite example
+  assigned_to:
+  - fig:8
+  basis: The Mexican custom is explicitly compared with the European custom through
+    age correspondence between human representatives and maize.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: Tree used as a representation of the tree-spirit.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: last sheaf
+  literal_form: The final sheaf of the harvest, treated as a representation of the
+    corn-spirit.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: grain from the last sheaf
+  literal_form: Grain taken from the last sheaf and scattered among young corn in
+    spring.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:4
+  label: straw from the last sheaf
+  literal_form: Straw from the last sheaf given to cattle at Christmas to make them
+    thrive.
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Mother-sheaf as pregnant woman
+  literal_form: A Mother-sheaf made into the likeness of a pregnant woman.
+  associated_figures:
+  - fig:2
+  - fig:6
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: river, rain, and dew
+  literal_form: The Corn-mother is thrown into the river in order to secure rain and
+    dew for crops.
+  associated_figures:
+  - fig:10
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: heavy Old Woman
+  literal_form: The Old Woman is made heavy in order to obtain a heavy crop next year.
+  associated_figures:
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Plant and human representation of vegetation spirits
+  summary: Frazer states that spring customs represent the tree-spirit by tree and
+    person, and harvest customs represent the corn-spirit by the last sheaf and the
+    person who cuts, binds, or threshes it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Age and name rules for sheaf representatives
+  summary: The equivalence between sheaf and person is marked by shared names, wrapping
+    in the sheaf, and rules assigning Mother and Maiden sheaves to age-appropriate
+    women or girls.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: Fertility uses of the last sheaf
+  summary: Grain and straw from the last sheaf are used for young corn and cattle;
+    the Mother-sheaf is shaped like a pregnant woman and delivered to the farmer’s
+    wife; binding or receiving the last sheaf is associated with future childbirth
+    or marriage.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Criteria of primitive magical religion
+  summary: Frazer defines the customs as lacking priests and temples, recognizing
+    spirits rather than individualized gods, and using magical ceremonies believed
+    to influence nature directly by sympathy or resemblance.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: European peasant application of magical harvest rites
+  summary: The passage applies these criteria to European peasant customs, noting
+    non-specialist performers, non-temple settings, generic spirit names, and examples
+    such as throwing the Corn-mother into the river and strewing grain from the last
+    sheaf.
+  figure_refs:
+  - fig:9
+  - fig:10
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: vegetation spirit embodied in plant object and human representative
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage describes the tree-spirit as represented by tree and person and
+    the corn-spirit as represented by last sheaf and human harvester.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage frames the rites as seasonal
+    spring and harvest customs rather than using a named motif taxonomy.
+- id: motif:2
+  label: last sheaf as container of fertility influence
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The last sheaf is treated as containing the corn-spirit, and its grain or
+    straw is applied to young crops, cattle, women, childbirth, and marriage expectations.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The fertility effects are reported as beliefs or customs, not as narrative
+    events.
+- id: motif:3
+  label: sympathetic magical rite to secure rain, crop abundance, and animal thriving
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage states that rites are magical rather than propitiatory and gives
+    examples involving river immersion for rain and dew, making the Old Woman heavy
+    for a heavy crop, and using last-sheaf materials for crops and cattle.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: This is an analytical pattern in Frazer’s comparative description rather
+    than a single mythic episode.
+- id: motif:4
+  label: generic crop-mother or maiden spirit without individualized myth
+  taxonomy_refs: []
+  basis: Names such as Barley-mother, Old Woman, and Maiden are described as general
+    names for spirit classes, without proper names or individual histories.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: No available taxonomy reference directly matches generic spirit-class
+    naming.
+- id: motif:5
+  label: human representative associated with crop age in maize rite
+  taxonomy_refs:
+  - sacrifice
+  - seasonal_cycle
+  basis: Frazer compares European customs with Mexican maize rites in which human
+    beings used to promote maize growth varied with the maize’s age and were probably
+    representatives of the corn-spirit.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage mentions human victims but immediately qualifies them as probably
+    representatives rather than offerings to the corn-spirit; the sacrifice taxonomy
+    reference is therefore uncertain.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares European harvest customs with spring customs
+    as analogous expressions of the same pattern of plant-spirit representation.
+  claim_level: same_function
+  target: spring customs involving the tree-spirit
+  evidence_refs:
+  - ev:1
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is Frazer’s analytical claim and is limited to the features
+    described in this passage.
+- id: claim:2
+  claim: The passage compares European corn-spirit representation with Mexican maize-growth
+    customs through the age correspondence between crop and human representative.
+  claim_level: same_function
+  target: Mexican maize-growth custom involving human beings whose age varied with
+    the maize
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only a brief comparison is provided; the Mexican practice is not described
+    in detail in this passage.
+- id: claim:3
+  claim: The passage classifies European peasant spring and harvest rites as examples
+    of a broader primitive magical-religious pattern marked by no priests, no temples,
+    generic spirits, and sympathetic rites.
+  claim_level: same_function
+  target: primitive magical religion pattern as defined by Frazer
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a typological classification by the author, not direct evidence
+    of historical continuity or contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7594-7605
+  quote_or_summary: 'Harvest customs are described as analogous to spring customs:
+    tree-spirit is represented by tree and person; corn-spirit by last sheaf and the
+    person who cuts, binds, or threshes it; equivalence is marked by names, wrapping,
+    and Mother/Maiden cutting rules.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7605-7612
+  quote_or_summary: The passage compares Mexican maize rites with European customs,
+    saying human beings varied with the age of the maize and were probably representatives
+    of the corn-spirit rather than victims offered to it.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7612-7624
+  quote_or_summary: The corn-spirit’s fertilizing influence is shown by scattering
+    grain from the last sheaf among young corn, giving last-sheaf straw to cattle,
+    delivering a pregnant Mother-sheaf to the farmer’s wife, and beliefs about childbirth
+    or marriage after binding or receiving the last sheaf.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7625-7631
+  quote_or_summary: Frazer says the spring and harvest customs are based on the same
+    ancient modes of thought and form parts of the same primitive heathendom.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7632-7658
+  quote_or_summary: 'Marks of primitive religion are listed: no priests, no temples,
+    and spirits rather than gods; spirits have general names and generic attributes,
+    unlike individualized gods such as Ceres, Proserpine, and Bacchus.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 7659-7665
+  quote_or_summary: The rites are described as magical rather than propitiatory, acting
+    through physical sympathy or resemblance between rite and intended effect rather
+    than sacrifice, prayer, or praise.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 7666-7676
+  quote_or_summary: European peasant customs are said to be performed by non-specialists
+    of varied status, sex, and age, and in non-temple locations such as woods, meadows,
+    brooksides, barns, harvest fields, and cottage floors.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 7676-7681
+  quote_or_summary: Generic names such as Barley-mother, Old Woman, and Maiden are
+    contrasted with proper divine names; examples of magical harvest rites include
+    throwing the Corn-mother into the river for rain and dew, making the Old Woman
+    heavy for a heavy crop, strewing last-sheaf grain among young crops, and giving
+    the last sheaf to cattle.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit and analytical, making literal extraction strong.
+    Motif mapping is partly broad because the available taxonomy does not include
+    several precise harvest-spirit or sympathetic-magic labels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. Long quotations avoided; evidence is summarized from the public-domain passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l7594-l7681
+  passage_sha256=68c562765b3e2aa1f43fc36b42a5cb8d7a56dc606e12f859f58d99f2ba8e841c
+

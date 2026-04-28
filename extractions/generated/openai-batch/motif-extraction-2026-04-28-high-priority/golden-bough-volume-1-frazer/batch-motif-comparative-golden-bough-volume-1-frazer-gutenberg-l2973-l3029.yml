@@ -1,0 +1,466 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l2973-l3029
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER I. THE KING OF THE WOOD. / MACAULAY. / CHAPTER II. THE PERILS OF
+    THE SOUL. / HEINE.; lines 2973-3029
+  start: '2973'
+  end: '3029'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“until at the moment that he ascends the throne he is lost in the ocean
+    of rites and taboos.”"
+  summary: Frazer compares taboos and detailed ritual restrictions attached to sacred
+    kings and priests in Loango, Egypt, Rome, and Nemi, then argues that such burdensome
+    observances could weaken or split royal and priestly authority.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says that more powerful kings of Loango are bound by more taboos
+    regulating actions such as walking, standing, eating, drinking, sleeping, and
+    waking.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The heir to the Loango throne is described as subject to restraints from infancy,
+    with abstinences and ceremonies increasing until accession.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The kings of Egypt are described as worshipped as gods and as having their
+    daily life regulated in detail by fixed rules.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage lists actions and contacts forbidden to the Flamen Dialis, including
+    riding or touching a horse, seeing an armed army, wearing an unbroken ring, having
+    knots on garments, and touching or naming certain animals or foods.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Flamen Dialis is associated with rules concerning sacred fire, the burial
+    of cut hair and nails under a lucky tree, avoidance of dead bodies, and the treatment
+    of bonds brought into his house.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Flaminica is described as observing nearly the same rules as the Flamen
+    Dialis and additional rules concerning stairs, combing her hair, shoe leather,
+    thunder, and expiatory sacrifice.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage states that burdensome observances could lead men to refuse office,
+    become reclusive and ineffective, or contribute to separation between spiritual
+    and temporal power.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Kings of Loango
+  description: Supernaturally endowed kings whose power is linked with an increasing
+    number of taboos regulating daily acts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Heir to the throne of Loango
+  description: A royal heir subject to restraints from infancy and to increasing abstinences
+    and ceremonies before accession.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Kings of Egypt
+  description: Kings worshipped as gods and governed by precise rules for official
+    duties and daily life.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Flamen Dialis
+  description: Roman priest whose life is governed by many taboos and ritual restrictions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Virbius at Nemi
+  description: A deity or cult figure whose worship at Nemi is said to have been conducted
+    by a Flamen.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: King of the Wood
+  description: A figure who may possibly have been the Flamen conducting the worship
+    of Virbius at Nemi, according to the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Flaminica
+  description: The wife of the Flamen Dialis, required to observe nearly the same
+    rules and additional restrictions.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Old royal house
+  description: A royal line described as retaining purely religious functions when
+    civil government passes to others.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Younger and more vigorous race
+  description: A group described as receiving civil government when spiritual and
+    temporal powers separate.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: taboo-bound sacred ruler
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Both Loango and Egyptian kings are described as powerful or divine rulers
+    whose daily conduct is regulated by taboos or fixed rules.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: initiated royal heir under increasing restraints
+  assigned_to:
+  - fig:2
+  basis: The Loango heir is subject to restraints from infancy and increasing observances
+    before accession.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: divinized king
+  assigned_to:
+  - fig:3
+  basis: The Egyptian kings are described as worshipped as gods.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: taboo-bound priest
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: The Flamen Dialis is the principal example of priestly taboos, and the King
+    of the Wood is said possibly to have been such a Flamen.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: ritually restricted priestly wife
+  assigned_to:
+  - fig:7
+  basis: The Flaminica observes nearly the same rules as the Flamen and additional
+    rules of her own.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: religious remnant of kingship
+  assigned_to:
+  - fig:8
+  basis: The old royal house retains purely religious functions after civil government
+    passes away from it.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: holder of civil power without old sacred office
+  assigned_to:
+  - fig:9
+  basis: Civil government passes into the hands of a younger and more vigorous race
+    while the old royal house keeps religious functions.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sacred fire retained in priestly house
+  literal_form: sacred fire
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: lucky tree for buried cuttings
+  literal_form: tree under which the Flamen's cut hair and nails are buried
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: bronze knife used for hair cutting
+  literal_form: bronze knife
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: bonds removed in the priestly house
+  literal_form: cords or bonds drawn up through a roof hole and let down into the
+    street
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: expiatory sacrifice after thunder
+  literal_form: sacrifice offered by the Flaminica after hearing thunder
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Increasing taboos of Loango kingship
+  summary: The Loango king and heir are described as subject to taboos and observances
+    that increase with royal power and culminate at accession.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Regulated daily life of Egyptian kings
+  summary: Egyptian kings are presented as divine rulers whose duties, movements,
+    diet, sleep, bathing, judgment, and domestic acts are fixed by rule.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Priestly taboos of the Flamen Dialis
+  summary: The Flamen Dialis is described as forbidden or required in relation to
+    horses, army sight, rings, knots, sacred fire, certain foods and animals, a vine,
+    bed feet, hair cutting, dead bodies, holy-day work, uncovered exposure, and bonds
+    brought into his house.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Rules of the Flaminica
+  summary: The Flaminica is described as subject to parallel and additional ritual
+    restrictions, including a required expiatory sacrifice if she hears thunder.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Political effect of burdensome observance
+  summary: The passage says that heavy ritual restrictions can cause refusal of office,
+    reclusive weakness, loss of practical sovereignty, or separation between religious
+    and civil power.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: taboo-bound sacred ruler
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage compares Loango and Egyptian kings whose royal or divine status
+    is accompanied by detailed restraints governing daily behavior.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The available taxonomy has no exact taboo-kingship category; royal_legitimacy
+    is an approximate broader reference.
+- id: motif:2
+  label: ritual restriction of priestly office
+  taxonomy_refs: []
+  basis: The Flamen Dialis and Flaminica are presented through detailed lists of forbidden
+    actions, contacts, and required ritual responses.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a ritual pattern rather than a narrative myth motif.
+- id: motif:3
+  label: sacred fire guarded by ritual restriction
+  taxonomy_refs: []
+  basis: The Flamen Dialis may not allow any fire except sacred fire to be taken out
+    of his house.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states the rule but does not elaborate a mythic narrative
+    around the fire.
+- id: motif:4
+  label: burdensome sacred office causing political separation
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Frazer states that excessive ritual obligations can weaken officeholders
+    and lead to separation of spiritual and temporal powers.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is Frazer's comparative interpretation of social-political effects,
+    not an emic myth episode.
+- id: motif:5
+  label: expiatory sacrifice after taboo breach or ominous event
+  taxonomy_refs:
+  - sacrifice
+  basis: The Flaminica becomes tabooed if she hears thunder until she offers an expiatory
+    sacrifice.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives a single ritual rule; it does not narrate the sacrifice
+    in detail.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly treats Loango kings, Egyptian kings, and the Roman
+    Flamen Dialis as comparable examples of royal or priestly offices governed by
+    extensive taboos.
+  claim_level: same_function
+  target: taboo-bound sacred kings and priests across Loango, Egypt, Rome, and Nemi
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is Frazer's scholarly framing and does not by itself
+    establish historical contact or common inheritance.
+- id: claim:2
+  claim: The passage cautiously links the cult of Virbius at Nemi and the King of
+    the Wood to the Roman Flamen model by suggesting that the Nemi officiant may have
+    resembled the Flamen Dialis.
+  claim_level: same_function
+  target: Nemi worship of Virbius and Roman Flamen Dialis ritual office
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage uses tentative language, saying the Flamen at Nemi may
+    possibly have been the King of the Wood and may have resembled the Roman Flamen.
+- id: claim:3
+  claim: The passage proposes a functional pattern in which ritual burdens attached
+    to sacred office can reduce effective governance and separate religious from civil
+    authority.
+  claim_level: same_function
+  target: separation of spiritual and temporal power after burdensome observance
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a generalized causal interpretation in the comparative argument,
+    not a direct claim about a single named tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2973-2982
+  quote_or_summary: Loango kings are described as supernaturally endowed; greater
+    royal power entails more taboos regulating all actions, and the heir undergoes
+    increasing restraints until accession.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 2982-2998
+  quote_or_summary: Egyptian kings are described as worshipped as gods, with fixed
+    rules governing official duties, daily routines, diet, wine, walking, bathing,
+    sleep, judgment, and domestic acts.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 2998-3004
+  quote_or_summary: Frazer introduces the Flamen Dialis as an example of priestly
+    taboos and notes its relevance because worship of Virbius at Nemi was conducted
+    by a Flamen, possibly the King of the Wood.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 3004-3020
+  quote_or_summary: The Flamen Dialis is subject to numerous restrictions involving
+    horses, armies, rings, knots, sacred fire, food, animals, vines, bed feet, hair
+    and nails, dead bodies, holy-day work, uncovered air, and bonds brought into his
+    house.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 3020-3029
+  quote_or_summary: The Flaminica observes nearly the same rules as the Flamen and
+    additional rules involving stairs, hair combing, shoe leather, thunder, and expiatory
+    sacrifice.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: lines 3030-3041
+  quote_or_summary: Burdensome royal or priestly observances are said to cause refusal
+    of office, reclusive weakness, loss of practical sovereignty, or separation between
+    religious and civil power.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage explicitly lists figures
+    and restrictions. Motif taxonomy mapping is less exact because available categories
+    do not include a specific taboo-bound sacred office motif.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Line locator supplied as 2973-3029, but the final paragraph on effects appears within the provided passage text beyond that nominal range; evidence locators preserve the supplied line context approximately.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l2973-l3029
+  passage_sha256=fc6f3a82083085722219df08ef9dcf85a6247fb9d76d1749cbc0614312e71854
+

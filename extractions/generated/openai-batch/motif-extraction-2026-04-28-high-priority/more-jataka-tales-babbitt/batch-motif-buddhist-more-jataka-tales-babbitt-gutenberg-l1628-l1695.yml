@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l1628-l1695
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: THE WISE GOAT AND THE WOLF / PRINCE WICKED AND THE GRATEFUL ANIMALS / BEAUTY
+    AND BROWNIE / THE ELEPHANT AND THE DOG; lines 1628-1695
+  start: '1628'
+  end: '1695'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A dog regularly enters the king's elephant stable for leftover food. The
+    elephant and dog become close companions, sharing food, sleeping together, and
+    playing. A farmer buys the dog from the elephant-keeper and takes him away. The
+    elephant becomes sad and refuses to eat or bathe. The king's chief servant determines
+    that the elephant is lonely for the dog. The king orders word sent through the
+    country asking the buyer to release the dog in exchange for repayment. The farmer
+    releases the dog, who returns to the stable. The elephant rejoices, lifts the
+    dog with his trunk, and afterward the two live together for the rest of their
+    lives.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A dog used to enter the stable where the king's elephant lived to get leftover
+    food.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The elephant and the dog became close friends, shared food, slept beside one
+    another, and played together.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A farmer bought the dog from the elephant-keeper and took the dog away to
+    the country.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After the dog was taken away, the elephant missed him and refused to eat or
+    bathe for three days.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The chief servant found no bodily illness in the elephant and identified sadness
+    from loss of a playmate as the cause.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The king ordered a countrywide message asking the buyer to release the dog
+    and promising repayment of the purchase price.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The farmer released the dog, and the dog ran back to the elephant's stable.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The elephant rejoiced at the dog's return, lifted him with his trunk, and
+    later ate after watching the dog eat.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The elephant and the dog lived together for the rest of their lives.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: king's Elephant
+  description: An elephant living in the king's stable who becomes friends with a
+    dog and refuses food and bathing after the dog is taken away.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Dog
+  description: A dog who first enters the elephant's stable for leftover food, becomes
+    the elephant's friend, is sold to a farmer, and returns when released.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:3
+  name_or_label: Elephant-keeper
+  description: The keeper of the elephant who sells the dog to a farmer for money
+    and later reports that the dog had eaten, slept, and played with the elephant.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: farmer
+  description: A farmer who buys the dog, takes him away to the country, and later
+    releases him after hearing the king's message.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:5
+  name_or_label: king
+  description: The king who sends his chief servant to investigate the elephant and
+    then orders a message asking for the dog's release with repayment.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: chief servant
+  description: The king's chief servant who examines the elephant, finds no bodily
+    illness, and reports that the elephant is lonely without the dog.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: grieving animal companion
+  assigned_to:
+  - fig:1
+  basis: The elephant misses the dog and refuses food and bathing after the dog is
+    taken away.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: absent companion who returns
+  assigned_to:
+  - fig:2
+  basis: The dog is taken away by a farmer, then released and runs back to the elephant's
+    stable.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:3
+  label: bonded animal friend
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The elephant and dog share food, sleep together, play, and are unhappy when
+    apart.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: seller of companion animal
+  assigned_to:
+  - fig:3
+  basis: The elephant-keeper accepts payment and lets the farmer take the dog away.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: buyer who releases the dog
+  assigned_to:
+  - fig:4
+  basis: The farmer buys the dog and later turns him loose after hearing the king's
+    message.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:6
+  label: royal restorer of companionship
+  assigned_to:
+  - fig:5
+  basis: The king orders word sent asking the buyer to release the dog and offers
+    repayment.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: diagnostician of loneliness
+  assigned_to:
+  - fig:6
+  basis: The chief servant determines that the elephant is not bodily sick but lonely
+    without the dog.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Friendship in the elephant stable
+  summary: A dog comes to the king's elephant stable for leftovers, and the dog and
+    elephant become close companions who share food, sleep together, and play.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dog sold and taken away
+  summary: A farmer buys the dog from the elephant-keeper and takes him away to the
+    country.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Elephant's refusal and diagnosis
+  summary: The elephant refuses to eat or bathe after the dog's departure; the king
+    sends the chief servant, who concludes that loneliness, not bodily illness, is
+    the cause.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Royal order and reunion
+  summary: The king orders word sent through the country asking the buyer to release
+    the dog with repayment; the farmer releases the dog, who returns, and the elephant
+    joyfully receives him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Companions remain together
+  summary: After the dog's return, the elephant waits for the dog to eat before eating
+    himself, and the two live together for the rest of their lives.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: loyal friendship between animals
+  taxonomy_refs: []
+  basis: The passage centers on an elephant and a dog who share food, sleep together,
+    play, suffer separation, and are reunited.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This motif label is descriptive and not tied to a supplied taxonomy reference.
+- id: motif:2
+  label: illness or refusal caused by separation from companion
+  taxonomy_refs: []
+  basis: The elephant's refusal to eat or bathe is explained as loneliness after the
+    dog's removal rather than bodily sickness.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents sadness and loneliness, not a supernatural cause
+    or formal ritual cure.
+- id: motif:3
+  label: authority restores separated companions
+  taxonomy_refs: []
+  basis: The king intervenes by sending word through the country and offering repayment
+    so that the dog can be released and return to the elephant.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The action is practical royal administration, not explicitly framed as
+    divine judgment or royal legitimacy.
+- id: motif:4
+  label: wisdom in diagnosing emotional suffering
+  taxonomy_refs:
+  - wisdom
+  basis: The chief servant observes that the elephant has no bodily ailment and correctly
+    identifies the loss of the dog as the cause of sadness.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The supplied taxonomy includes wisdom; the passage supports practical
+    discernment, but the story does not explicitly call the servant wise.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1628-1633
+  quote_or_summary: A dog regularly goes into the stable where the king's elephant
+    lives, initially to eat food left after the elephant's meal.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 1634-1643
+  quote_or_summary: 'The elephant and dog become great friends: the elephant shares
+    food, they sleep together, the elephant plays by swinging the dog with his trunk,
+    and neither is happy unless the other is near.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 1644-1654
+  quote_or_summary: A farmer asks to buy the dog; the elephant-keeper, wanting money
+    and not caring for the dog, accepts a fair price, and the farmer takes the dog
+    to the country.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 1655-1663
+  quote_or_summary: The elephant misses the dog, does not care to eat without him,
+    refuses to bathe, and for three days will neither eat nor bathe.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 1664-1680
+  quote_or_summary: The king sends his chief servant to investigate; the servant finds
+    nothing wrong with the elephant's body, asks if he has lost a playmate, and later
+    reports that the elephant is lonely without the dog.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: lines 1681-1688
+  quote_or_summary: The king says he will send word all over the country asking the
+    man who bought the dog to turn him loose, and will repay the purchase price.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: summary
+  locator: lines 1689-1691
+  quote_or_summary: The farmer hears the king's message, releases the dog, and the
+    dog runs back quickly to the elephant's stable.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:8
+  type: summary
+  locator: lines 1691-1694
+  quote_or_summary: The elephant is glad to see the dog, lifts him with his trunk
+    onto his head and down again; when food is brought, the elephant watches the dog
+    eat before eating himself.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:9
+  type: summary
+  locator: line 1695
+  quote_or_summary: The elephant and the dog live together for the rest of their lives.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are descriptive,
+    with only the practical-diagnosis motif mapped cautiously to the supplied wisdom
+    taxonomy. No comparison claims were made because the passage itself does not support
+    external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The provided passage_text contains only 'THE ELEPHANT AND THE DOG' despite the broader passage label mentioning other tale titles.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l1628-l1695
+  passage_sha256=6b99ba8a8ea668630b4e73125a4c39d99a875ab71dda113c236a4b33cb4a688a
+

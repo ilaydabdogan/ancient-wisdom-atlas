@@ -18,6 +18,8 @@ checks = [
   "scripts/build_extraction_coverage.rb",
   "scripts/check_extraction_records.rb",
   "scripts/build_similarity_index.rb",
+  "scripts/audit_normalization_gaps.rb",
+  "scripts/build_canonical_motif_frequency.rb",
   "scripts/check_structured_files.rb",
   "scripts/check_clean_markdown.rb",
   "scripts/export_jsonl.rb",

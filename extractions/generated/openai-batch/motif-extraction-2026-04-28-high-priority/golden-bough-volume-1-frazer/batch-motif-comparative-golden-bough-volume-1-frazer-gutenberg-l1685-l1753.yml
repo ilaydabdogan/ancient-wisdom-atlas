@@ -1,0 +1,553 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l1685-l1753
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: PREFACE. / J. G. FRAZER. / CHAPTER I. THE KING OF THE WOOD. / MACAULAY.;
+    lines 1685-1753
+  start: '1685'
+  end: '1753'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer surveys beliefs and rites in which trees are treated as animated
+    by or inhabited by spirits or gods. The passage describes tree-spirits being asked
+    or induced to leave a tree before felling, offerings or replacement plants placed
+    on stumps, sacred trees and groves left uncut because spirits dwell in them, and
+    sacrifices or expiations made when trees are cut or damaged.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage distinguishes two views: a spirit may be incorporated in a tree
+    as its body, or a tree may be the spirit''s abode from which it can depart.'
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pelew Islanders are described as conjuring a tree-spirit to leave a tree and
+    settle elsewhere when the tree is being felled.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Pádams of Assam are described as cutting down trees to compel wood spirits
+    to return a lost child, who is then found in a fork of a tree.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Several groups are described as worshipping, petitioning, or avoiding trees
+    before felling or clearing woods, so that spirits will not be offended or left
+    without lodging.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In Sumatra, after a tree is felled, a young tree is planted on the stump and
+    betel and small coins are placed there.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In Chedooba and among German woodmen, a sprig or a cross is placed or made
+    on a stump when a tree falls, with the stated purpose of sustaining or rehousing
+    the tree-spirit.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Sacred trees and groves are described as not being felled because gods, divinities,
+    mighty spirits, or other spirits inhabit them.
+  category: relationship
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:8
+  text: In some examples, injury to sacred groves, trees, branches, birds, or beasts
+    is said to bring bodily harm, sickness, or death.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:9
+  text: Goat's blood, a pig sacrifice, and expiatory rites are described in connection
+    with cutting, damaging, or accidental fall of trees in sacred groves.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Tree-spirit
+  description: A spirit associated with a tree, sometimes treated as incorporated
+    in the tree and sometimes as lodging in it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Wood spirits or sylvan deities
+  description: Spirits or gods of the woods who may lodge in trees, steal a child,
+    be offended by felling, or abandon a place when trees are cut.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: fig:3
+  name_or_label: Human tree-cutters and woodmen
+  description: People who fell trees, clear woods, plant replacement trees, place
+    offerings, or make marks and sacrifices connected with tree-felling.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+- id: fig:4
+  name_or_label: Gods or divinities inhabiting high trees
+  description: Gods described as inhabiting high trees, including oaks, and giving
+    audible answers to inquirers.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Lost child
+  description: A child believed by the Pádams of Assam to have been stolen by spirits
+    of the wood and later found in a fork of a tree.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Tree or grove inhabitant
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  basis: Spirits, sylvan gods, and divinities are repeatedly described as inhabiting,
+    animating, or lodging in trees and groves.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:2
+  label: Ritual appeaser or relocator
+  assigned_to:
+  - fig:3
+  basis: Tree-cutters petition spirits, provide replacement homes, place offerings,
+    or perform rites before or during tree-felling.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+- id: role:3
+  label: Punishing or retaliatory spirit
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Spirits are said to resent injury, take vengeance, cause bodily deformity,
+    sickness, or death after sacred trees or groves are harmed.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:4
+  label: Transgressor or potential offender
+  assigned_to:
+  - fig:3
+  basis: Humans who cut, injure, or clear trees risk offending spirits or violating
+    sacred groves.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: role:5
+  label: Stolen child
+  assigned_to:
+  - fig:5
+  basis: The child is described as stolen by spirits of the wood and recovered after
+    trees are cut.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Tree
+  literal_form: Tree, forest-tree, high tree, oak, sacred tree
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: Sacred grove
+  literal_form: Sacred grove or inviolable grove
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+- id: sym:3
+  label: Stump as spirit support or new dwelling site
+  literal_form: Stump of the felled tree
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Replacement plant
+  literal_form: Young tree or green sprig placed on the stump
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Offerings to tree-spirit
+  literal_form: Cocoa-nut, incense, red pigment, betel, small coins, goat's blood,
+    pig sacrifice
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+- id: sym:6
+  label: Cross on stump
+  literal_form: Cross made on the stump while the tree is falling
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Fork of a tree
+  literal_form: Fork of a tree where the lost child is found
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Tree-spirit asked to relocate before felling
+  summary: A tree-spirit is treated as able to leave an injured or felled tree and
+    settle in another place.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lost child recovered through pressure on wood spirits
+  summary: The Pádams cut down trees because they believe wood spirits have stolen
+    a child; fearing loss of tree-lodgings, the spirits return the child, who is found
+    in a tree fork.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Felling rites and spirit relocation
+  summary: Before or during felling, trees may be worshipped, replacement trees or
+    sprigs placed on stumps, offerings made, or a cross marked so that the tree-spirit
+    may be placated or continue to live.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Sacred trees and groves protected by indwelling spirits
+  summary: Trees and groves are left standing or not injured because spirits, gods,
+    or divinities are believed to inhabit them and may punish injury.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Sacrifice or expiation for cutting or damaging trees
+  summary: Blood, animal sacrifice, or expiatory rites are offered before cutting
+    trees or after damage occurs in a sacred grove.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Sacred tree inhabited or animated by spirit
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The passage repeatedly describes trees as bodies or dwellings of spirits,
+    gods, or divinities and treats some trees as sacred because of that presence.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage supports sacred-tree belief, but it does not explicitly present
+    the tree as a cosmic axis or world center.
+- id: motif:2
+  label: Ritual relocation of a tree-spirit before or after felling
+  taxonomy_refs: []
+  basis: Tree-felling is accompanied by conjuration, worship, planting a young tree,
+    placing a sprig, or marking a stump to induce or enable the spirit to depart or
+    continue living.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an extracted passage-level motif without a specific supplied taxonomy
+    family.
+- id: motif:3
+  label: Appeasement or compensation offering to a disturbed spirit
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Betel and coins are placed on the stump as compensation for the tree-spirit's
+    disturbance; other rites include presenting a cocoa-nut, incense, pigment, blood,
+    or animal sacrifice.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+  confidence: medium
+  cautions: The exchange is ritual and compensatory, but the passage does not frame
+    it as a formal covenant or reciprocal contract.
+- id: motif:4
+  label: Punishment for injuring sacred trees or groves
+  taxonomy_refs:
+  - divine_judgment
+  basis: Spirits are said to resent injury, make hands or feet crooked, and cause
+    sickness or death when sacred groves or trees are harmed.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The punitive agents are local spirits or deities; the passage does not
+    present a formal judgment scene.
+- id: motif:5
+  label: Sacrifice before cutting or after accidental damage to sacred trees
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage describes sprinkling goat's blood before cutting a tree, sacrificing
+    a pig before thinning a grove, and making expiation after damage in a sacred grove.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The passage interprets these rites as appeasing wood-spirits, but individual
+    local ritual meanings may vary.
+- id: motif:6
+  label: Child taken by wood spirits and recovered in a tree
+  taxonomy_refs: []
+  basis: The Pádams believe a lost child has been stolen by wood spirits; after trees
+    are cut to pressure the spirits, the child is found in a fork of a tree.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives this as a brief ethnographic example and does not develop
+    a broader narrative pattern.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares multiple cultures as sharing a pattern in which
+    trees are treated as spirit-bodies or spirit-dwellings and tree-felling requires
+    negotiation, relocation, appeasement, or avoidance.
+  claim_level: same_motif
+  target: Cross-cultural tree-spirit dwelling and felling-rite pattern within Frazer's
+    comparative examples
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is Frazer's synthesis across cited examples; the passage
+    does not provide the original-language sources or full local contexts.
+- id: claim:2
+  claim: The examples of planting a young tree, placing a sprig, or marking a stump
+    function similarly as ways to provide continued habitation or support for the
+    tree-spirit after felling.
+  claim_level: same_function
+  target: Replacement-home or stump-support rites for displaced tree-spirits
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The described actions are similar in function as presented by Frazer,
+    but the passage does not establish historical connection among the practices.
+- id: claim:3
+  claim: The examples of taboos and punishments around sacred groves recur as a pattern
+    of inviolable wooded places protected by indwelling spirits.
+  claim_level: same_function
+  target: Sacred grove inviolability and supernatural punishment pattern
+  evidence_refs:
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports functional similarity only; it does not demonstrate
+    shared origin or direct influence among the traditions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1685-1691
+  quote_or_summary: Frazer states that spirits may be viewed as incorporated in trees,
+    or, in another view, as dwelling in trees and able to leave them; Pelew Islanders
+    conjure the tree-spirit to leave a tree being felled and settle on another.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1691-1697
+  quote_or_summary: The Pádams of Assam believe a lost child has been stolen by wood
+    spirits; they cut down trees until the spirits, fearing loss of lodging, return
+    the child, who is found in a tree fork.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1697-1711
+  quote_or_summary: The Katodis worship a same-kind tree with offerings before felling
+    another; a Galeleze must not cut the last tree until its spirit leaves; Mundaris
+    preserve sacred groves; Miris avoid unnecessary tree cutting to avoid offending
+    wood spirits.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1712-1718
+  quote_or_summary: In Sumatra, a young tree is planted on a felled tree's stump,
+    with betel and small coins, to offer the tree-spirit a new home and compensate
+    it for disturbance.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1718-1724
+  quote_or_summary: In Chedooba, a green sprig is placed on the stump as soon as a
+    large tree falls; German woodmen make a cross on the stump while the tree is falling
+    so that the tree-spirit may live on the stump.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1725-1736
+  quote_or_summary: Frazer states that sacred trees may be conceived as bodies or
+    dwellings of spirits; old Prussians believed gods inhabited high trees such as
+    oaks, and the great oak at Romove was the god's special dwelling-place.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 1736-1743
+  quote_or_summary: Battas refused to cut certain trees because mighty spirits dwelled
+    there; Curka Coles believed spirits in treetops would be disturbed and take vengeance;
+    Samogitians believed injury to certain groves or their animals would cause crooked
+    hands or feet.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 1744-1749
+  quote_or_summary: Frazer says sacred inviolable groves are generally assumed to
+    be inhabited or animated by sylvan deities; in Livonia a tree-feller or branch-breaker
+    in a sacred grove would die within the year, and a Russian who hewed a Wotjak
+    sacred-grove tree fell sick and died next day.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 1749-1753
+  quote_or_summary: Frazer interprets sacrifices at tree-cutting as appeasement of
+    wood-spirits; examples include sprinkling goat's blood in Gilgit, a Roman farmer
+    sacrificing a pig before thinning a grove, and Arval Brothers making expiation
+    after damage in a sacred grove.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about tree-spirit dwelling, relocation, taboo, punishment,
+    and sacrifice patterns. Taxonomy mapping is more cautious where supplied families
+    are broader than the passage's literal content.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage and metadata; comparison claims are limited to Frazer's own cross-cultural comparative framing in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l1685-l1753
+  passage_sha256=dd32ebe85c98932cf5ad47c286aea3e1e7f5969e7f6285d0a07e99d79608d9c3
+

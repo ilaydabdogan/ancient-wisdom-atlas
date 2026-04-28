@@ -1,0 +1,506 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l1202-l1311
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE TALKATIVE TORTOISE / THE MONKEYS AND THE GARDENER / THE GOBLIN AND THE
+    SNEEZE / THE GRATEFUL BEASTS AND THE UNGRATEFUL PRINCE; lines 1202-1311
+  start: '1202'
+  end: '1311'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A cruel prince is thrown into a flooded river by his servants and survives
+    on an uprooted tree with a snake, a rat, and a parrot. A hermit rescues all four
+    and cares first for the animals. The animals promise repayment, while the prince
+    feigns gratitude and later, as king, falsely accuses and orders the hermit punished.
+    When the hermit states the proverb about the danger of saving a drowning man and
+    tells the story, the servants stop beating him and punish the king instead.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The prince is described as cruel, disagreeable, and habitually abusive toward
+    others.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: During a storm at the river, the servants throw the prince into the strong
+    current and later report that a flood carried him away.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The prince climbs onto an uprooted tree and floats down the river.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A snake and a rat, each described as a former rich man reborn near buried
+    money, climb onto the same floating tree.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A young parrot, beaten down by heavy rain, falls onto the same tree with the
+    prince, snake, and rat.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A hermit living by the riverside catches the tree, pulls it ashore, brings
+    the four into his hut, and dries and warms them by the fire.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The hermit attends first to the parrot, then the rat, then the snake, and
+    last to the prince.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The snake and rat thank the hermit and offer him access to their treasures;
+    the parrot offers to obtain rice for him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The prince pretends gratitude while inwardly planning to torment the hermit
+    if he gains power over him.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The hermit later tests the promises and visits the city where the prince has
+    become king.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The king falsely claims the hermit tried to rob him and orders him flogged
+    and impaled.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: After the hermit repeats a proverb and tells the whole story, the servants
+    stop beating him and punish the king instead.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Wicked Prince / Wicked King
+  description: A cruel royal son who is rescued from the flood by the hermit, later
+    becomes king, and falsely accuses the hermit.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Hermit
+  description: A riverside hermit living in a hut who rescues the prince and three
+    animals from the flood and later tests their promises.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Snake
+  description: A snake said to have been a rich man reborn near a buried hoard; after
+    rescue, he offers treasure to the hermit.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Rat
+  description: A rat said to have been a man reborn near buried money; after rescue,
+    he offers the same kind of help as the snake.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Parrot
+  description: A young parrot knocked down by heavy rain; after rescue, she offers
+    to obtain rice for the hermit.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:6
+  name_or_label: Prince's servants
+  description: Servants who throw the prince into the river, later hear the hermit's
+    story, stop beating him, and punish the king.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:8
+roles:
+- id: role:1
+  label: cruel royal antagonist
+  assigned_to:
+  - fig:1
+  basis: The prince is described as cruel and abusive, and later orders violence against
+    the hermit.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: rescuer and caretaker
+  assigned_to:
+  - fig:2
+  basis: The hermit pulls the tree ashore and warms and dries the four flood victims.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: grateful rescued beast
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The snake, rat, and parrot each thank the hermit or offer him aid after rescue.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: treasure guardian from prior human birth
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The snake and rat are described as former men reborn near buried wealth.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: ungrateful rescued human
+  assigned_to:
+  - fig:1
+  basis: The prince feigns gratitude, plots harm, and later orders the hermit punished.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: tester of promises
+  assigned_to:
+  - fig:2
+  basis: The hermit decides to put the rescued figures' promises to the test.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: food provider
+  assigned_to:
+  - fig:5
+  basis: The parrot offers to get the hermit as much rice as he wants.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: agents of reversal
+  assigned_to:
+  - fig:6
+  basis: The servants first endanger the prince and later reverse the punishment by
+    stopping the beating of the hermit and punishing the king.
+  evidence_refs:
+  - ev:2
+  - ev:8
+symbols:
+- id: sym:1
+  label: flood water
+  literal_form: river flood and strong current
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: uprooted tree as floating refuge
+  literal_form: tree torn up by the roots, floating down the river
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: warming fire
+  literal_form: fire in the hermit's hut used to warm the rescued beings
+  associated_figures:
+  - fig:2
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: snake
+  literal_form: snake living near buried treasure on the river bank
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: buried hoard
+  literal_form: vast treasure or money buried by former human owners
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Cruel prince at the river
+  summary: The abusive prince goes to bathe in the river during a storm, and his servants
+    throw him into the current and report him carried away by a flood.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Shared refuge on the uprooted tree
+  summary: The prince survives on an uprooted tree; a snake, a rat, and a rain-beaten
+    parrot also take refuge on it as it floats downstream.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hermit's rescue and unequal order of care
+  summary: The hermit catches the tree, brings the four into his hut, and warms them
+    by the fire, caring for the animals before the prince.
+  figure_refs:
+  - fig:2
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Promises after rescue
+  summary: The snake, rat, and parrot offer future aid to the hermit, while the prince
+    outwardly invites the hermit but inwardly plans revenge.
+  figure_refs:
+  - fig:2
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Test, false accusation, and reversal
+  summary: The hermit visits the prince, now king; the king falsely accuses him and
+    orders him punished, but after the hermit explains the proverb and story, the
+    servants punish the king instead.
+  figure_refs:
+  - fig:2
+  - fig:1
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: grateful beasts and ungrateful rescued human
+  taxonomy_refs: []
+  basis: The rescued animals promise aid to their rescuer, while the rescued prince
+    feigns gratitude and later tries to have the hermit killed.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The label follows the passage title and events; no specific supplied taxonomy
+    family exactly matches it.
+- id: motif:2
+  label: rebirth as animals bound to hoarded wealth
+  taxonomy_refs:
+  - death_rebirth
+  basis: The snake and rat are each described as former men reborn as animals near
+    buried wealth because of attachment to riches.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a moralized rebirth account but does not elaborate a
+    full doctrinal frame beyond this statement.
+- id: motif:3
+  label: flood-borne shared refuge
+  taxonomy_refs: []
+  basis: A flood carries the prince, snake, rat, and parrot together on an uprooted
+    tree until the hermit rescues them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: Although the passage uses flood imagery, it is a local river flood rather
+    than a world-renewing flood, so the supplied 'flood_and_renewal' family is not
+    assigned.
+- id: motif:4
+  label: test of gratitude and promises
+  taxonomy_refs:
+  - wisdom
+  basis: The hermit knows that people may promise what they do not mean and visits
+    to test the promises, revealing the king's ingratitude.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The wisdom classification is broad; the passage emphasizes practical moral
+    discernment rather than esoteric or divine wisdom.
+- id: motif:5
+  label: false accusation reversed onto accuser
+  taxonomy_refs: []
+  basis: The king falsely accuses the hermit and orders him punished; after the truth
+    is told, the servants punish the king instead.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage does not present this reversal as divine judgment; it is carried
+    out by human servants.
+comparison_claims:
+- id: claim:1
+  claim: 'The narrative functions as an exemplum for the proverb stated by the hermit:
+    saving a drowning man may bring misfortune when the rescued person is ungrateful.'
+  claim_level: same_function
+  target: proverbial warning about saving a drowning man
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal functional comparison supported by the passage's
+    explicit proverb, not a claim of historical contact with another text or tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1202-1209
+  quote_or_summary: The prince is introduced as cruel and disagreeable, delighting
+    in hurting people and earning the name Wicked Prince.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1211-1233
+  quote_or_summary: At the river during a dark storm, the prince abuses his servants;
+    they throw him into the strong current and later tell the king a flood carried
+    him away.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1235-1255
+  quote_or_summary: The prince floats on an uprooted tree; a snake and rat, both former
+    men reborn near buried wealth, climb onto it, and a rain-beaten parrot drops onto
+    it too.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1257-1268
+  quote_or_summary: A riverside hermit catches the tree, pulls it ashore, brings the
+    four into his hut, and dries and warms them by the fire, caring for the parrot,
+    rat, snake, and then the prince.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1270-1281
+  quote_or_summary: The snake and rat thank the hermit and offer treasure; the parrot
+    says she has no silver or gold but can provide rice if he calls her.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1283-1287
+  quote_or_summary: The prince hates the hermit for leaving him until last, pretends
+    gratitude, invites a visit, and inwardly anticipates tormenting him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1289-1298
+  quote_or_summary: The hermit decides to test the promises and visits the city; the
+    prince, now king, calls him a robber and orders him flogged and impaled.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1300-1311
+  quote_or_summary: While being beaten, the hermit repeats that the proverb is true,
+    explains 'It's unlucky to save a drowning man,' tells the whole story, and the
+    servants punish the Wicked King instead.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage clearly supports the literal extraction and main grateful/ungrateful
+    motif. Broader taxonomy assignments are limited to supplied references and are
+    therefore conservative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were assigned only where directly supported by passage details.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l1202-l1311
+  passage_sha256=d937fec0e67813151c43c64e297072e05952caf712cff94a75d229ab1bee200f
+

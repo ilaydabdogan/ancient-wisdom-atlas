@@ -1,0 +1,561 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l4345-l4378
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER I. THE KING OF THE WOOD. / MACAULAY. / CHAPTER II. THE PERILS OF
+    THE SOUL. / HEINE.; lines 4345-4378
+  start: '4345'
+  end: '4378'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer compares prohibitions on touching or eating raw flesh and blood.
+    He links these taboos to beliefs that blood contains an animal's soul or life,
+    and gives examples from Roman priestly law, the Pelew Islands, Esthonians, North
+    American Indian groups, Jewish hunters, Romans, Arabs, and Papuan tribes of New
+    Guinea.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Flamen Dialis is described as forbidden to touch or even name raw flesh.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the Pelew Islands, after a raid in which a head has been carried off, the
+    slain man's relations are tabooed and must follow observances to escape the ghost's
+    wrath.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The tabooed relations are shut in the house, avoid raw flesh, and chew betel
+    over which an exorcist has uttered an incantation.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After the observances, the ghost of the slaughtered man is said to go to the
+    enemy's country in pursuit of the murderer.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that the taboo is probably based on a belief that the animal's
+    soul or spirit is in the blood.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says tabooed persons are regarded as in a perilous state and should
+    be isolated from contact with spirits.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Some Esthonians avoid tasting blood because they believe it contains the animal's
+    soul, which would enter the eater's body.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Some North American Indian tribes abstain from eating animal blood because
+    it contains the life and spirit of the beast.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: These North American Indians pull new-killed venison through smoke and flame
+    to consume the blood, life, or animal spirits, and this is described as both sacrificial
+    and blood-removing.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Many Slave, Hare, and Dogrib Indians scruple to taste game blood, and some
+    hunters collect blood in the animal's paunch and bury it in snow.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Jewish hunters pour out the blood of killed game and cover it with dust, avoiding
+    the blood because the animal's soul or life is believed to be in or identical
+    with the blood.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The passage says the same belief is held by Romans, Arabs, and some Papuan
+    tribes of New Guinea.
+  category: relationship
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Flamen Dialis
+  description: Roman priest described as forbidden to touch or name raw flesh.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Relations of the slain man in the Pelew Islands
+  description: Kin of a slain man who are tabooed after a raid and must observe restrictions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Ghost of the slaughtered man
+  description: The slain man's ghost, whose wrath threatens the relations and who
+    later pursues the murderer.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Exorcist
+  description: Person who utters an incantation over betel chewed by the tabooed relations.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Esthonians who avoid blood
+  description: People who will not taste blood because they believe it contains an
+    animal's soul.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: North American Indian tribes avoiding blood
+  description: Groups described as abstaining from eating animal blood because it
+    contains the beast's life and spirit.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:7
+  name_or_label: Slave, Hare, and Dogrib Indians
+  description: Groups described as scrupling to taste game blood; some hunters bury
+    collected blood in snow.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:10
+- id: fig:8
+  name_or_label: Jewish hunters
+  description: Hunters who pour out game blood and cover it with dust because life
+    or soul is believed to be in the blood.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:11
+- id: fig:9
+  name_or_label: Romans, Arabs, and some Papuan tribes of New Guinea
+  description: Groups named as sharing the belief that animal life or soul is in the
+    blood.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:12
+roles:
+- id: role:1
+  label: priest under raw-flesh prohibition
+  assigned_to:
+  - fig:1
+  basis: The passage says the Flamen Dialis was forbidden to touch or name raw flesh.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: tabooed endangered kin
+  assigned_to:
+  - fig:2
+  basis: The relations of the slain man are tabooed, shut in the house, and treated
+    as vulnerable to the ghost's wrath.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:3
+  label: wrathful pursuing ghost
+  assigned_to:
+  - fig:3
+  basis: The ghost threatens the relations and later pursues the murderer into enemy
+    country.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: ritual incantation specialist
+  assigned_to:
+  - fig:4
+  basis: The exorcist utters an incantation over the betel used in the observance.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: blood-avoiding group
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: These figures are described as avoiding blood or holding the belief that
+    life or soul is in the blood.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+  - ev:11
+  - ev:12
+- id: role:6
+  label: blood-disposing hunter
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Hunters are described as burying blood in snow or pouring it out and covering
+    it with dust.
+  evidence_refs:
+  - ev:10
+  - ev:11
+symbols:
+- id: sym:1
+  label: raw flesh or raw meat
+  literal_form: raw flesh; raw meat
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: blood as life or soul bearer
+  literal_form: animal blood; game blood; venison blood
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:10
+  - ev:11
+  - ev:12
+- id: sym:3
+  label: house confinement
+  literal_form: house in which the tabooed relations are shut up
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: incanted betel
+  literal_form: betel chewed after an exorcist's incantation
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: fire consuming blood
+  literal_form: smoke and flame of the fire
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: buried or covered blood
+  literal_form: blood buried in snow; blood covered with dust
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+scenes:
+- id: scene:1
+  label: Pelew post-raid taboo observance
+  summary: After a slain man's head is carried off, his relations are tabooed, confined,
+    made to avoid raw flesh, and given incanted betel to chew so that they may escape
+    the ghost's wrath.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Ghost pursues the murderer
+  summary: After the observances, the ghost of the slaughtered man goes to the enemy's
+    country in pursuit of the murderer.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Blood avoidance explained by soul belief
+  summary: The passage explains prohibitions on raw meat and blood by reference to
+    a belief that the animal's soul, spirit, life, or animal spirits are in the blood.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:11
+  - ev:12
+- id: scene:4
+  label: Fire treatment of venison
+  summary: Some North American Indians pull new-killed venison through smoke and flame
+    as a sacrifice and to consume the blood, life, or animal spirits of the beast.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:9
+- id: scene:5
+  label: Burying or covering game blood
+  summary: Slave, Hare, and Dogrib hunters collect game blood and bury it in snow,
+    while Jewish hunters pour out game blood and cover it with dust.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Blood contains the animal's life or soul
+  taxonomy_refs: []
+  basis: Multiple examples are organized around the belief that blood contains, or
+    is identical with, the animal's life, spirit, or soul.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: This motif label is inferred from Frazer's comparative explanation, not
+    supplied as a named traditional motif in the passage.
+- id: motif:2
+  label: Avoidance of raw flesh or blood to prevent spirit contact
+  taxonomy_refs: []
+  basis: The passage connects raw flesh and blood prohibitions with the need to isolate
+    tabooed persons from spirits and avoid ingestion of animal soul or life.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage gives scholarly interpretation rather than a single narrative
+    episode.
+- id: motif:3
+  label: Ritual disposal or removal of blood from game
+  taxonomy_refs:
+  - sacrifice
+  basis: Examples include venison passed through smoke and flame as a sacrifice, blood
+    buried in snow, and blood poured out and covered with dust.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: Only the North American venison example is explicitly called sacrificial;
+    the burial and covering examples are disposal practices rather than explicitly
+    sacrifices.
+- id: motif:4
+  label: Tabooed kin threatened by the slain person's ghost
+  taxonomy_refs: []
+  basis: In the Pelew example, the slain man's relations are tabooed and observe restrictions
+    to escape the wrath of his ghost.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is one ethnographic example within the passage rather than a repeated
+    cross-cultural pattern in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage explicitly compares several cultures by presenting blood avoidance
+    as serving the same function: preventing contact with, or ingestion of, life,
+    spirit, or soul in blood.'
+  claim_level: same_function
+  target: Cross-cultural blood-avoidance practices among Esthonians, North American
+    Indian groups, Jewish hunters, Romans, Arabs, and Papuan tribes of New Guinea
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:10
+  - ev:11
+  - ev:12
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not demonstrate historical contact or common inheritance
+    among the groups; it presents a functional comparison.
+- id: claim:2
+  claim: The fire treatment of venison and the burial or covering of blood are comparable
+    as ritualized ways of disposing of blood believed to contain life or spirit.
+  claim_level: same_function
+  target: Fire consumption, snow burial, and dust covering of game blood
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage explicitly calls the fire treatment sacrificial, but does
+    not use the same description for snow burial or dust covering.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4345-4346
+  quote_or_summary: The Flamen Dialis is said to be forbidden to touch or name raw
+    flesh.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4346-4350
+  quote_or_summary: In the Pelew Islands, after a head is carried off in a raid, the
+    slain man's relations are tabooed and must observe rules to escape his ghost's
+    wrath.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4350-4352
+  quote_or_summary: The tabooed relations are confined in the house, touch no raw
+    flesh, and chew betel over which an exorcist has spoken an incantation.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4352-4354
+  quote_or_summary: After this rite, the ghost of the slaughtered man goes to the
+    enemy's country in pursuit of his murderer.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4354-4356
+  quote_or_summary: Frazer states that the taboo is probably based on the belief that
+    the soul or spirit of the animal is in the blood.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4356-4363
+  quote_or_summary: Tabooed persons are described as in a perilous state and needing
+    isolation from spirits; this explains a prohibition on touching raw meat.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4363-4366
+  quote_or_summary: Some Esthonians will not taste blood because they believe it contains
+    the animal's soul, which would enter the person who tasted it.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 4366-4369
+  quote_or_summary: Some North American Indian tribes strictly abstain from eating
+    animal blood because it contains the life and spirit of the beast.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 4369-4373
+  quote_or_summary: These Indians pull new-killed venison through smoke and flame
+    as a sacrifice and to consume the blood, life, or animal spirits of the beast.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 4373-4375
+  quote_or_summary: Many Slave, Hare, and Dogrib Indians avoid tasting game blood;
+    hunters collect blood in the animal's paunch and bury it in snow.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 4375-4377
+  quote_or_summary: Jewish hunters pour out killed game's blood and cover it with
+    dust, avoiding blood because the soul or life of the animal is in or is the blood.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 4377-4378
+  quote_or_summary: Frazer says the same belief was held by Romans, Arabs, and some
+    Papuan tribes of New Guinea.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an explicit comparative scholarly discussion, so extraction
+    of patterns is strong. Motif taxonomy alignment is limited because the available
+    taxonomy does not include a direct blood-soul or taboo category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references are limited to the supplied lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l4345-l4378
+  passage_sha256=d61d7a341974908e34af03b53982fdef943feeb50d2df417c7f1543cb3c7a106
+

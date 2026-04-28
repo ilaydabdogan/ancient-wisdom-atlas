@@ -1,0 +1,457 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l1044-l1127
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE DISHONEST FRIEND / THE MOUSE AND THE FARMER / THE TALKATIVE TORTOISE
+    / THE MONKEYS AND THE GARDENER; lines 1044-1127
+  start: '1044'
+  end: '1127'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“You ought to have known better than to put monkeys in charge of a garden”"
+  summary: A gardener leaves his park to attend a fair and entrusts the watering to
+    monkeys. The Monkey chief, fearing the water will not be enough, tells the monkeys
+    to measure roots so each plant receives an appropriate amount. The monkeys pull
+    up the plants, water them according to root length, and replace them. When the
+    gardener returns, the garden is ruined. The master faults the gardener more than
+    the monkeys and dismisses him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The setting is a beautiful park with trees, shrubs, flower beds, and fruit-trees
+    cared for by a gardener.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The gardener wants to attend a fair in the city but worries about the garden
+    being left unattended.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Troops of monkeys live in the park trees, and the gardener has previously
+    allowed them to eat nuts and apples.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The gardener asks the monkeys to water the garden while he is away, and they
+    agree.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The gardener gives watering-pots to the monkeys and leaves for the fair.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The monkeys hold a council around the Monkey chief.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Monkey chief says they must avoid harming anything and must not waste
+    water.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The water source is described as a well that is small at the top, very deep,
+    and supplied with running water at the bottom.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The monkeys think the small round opening means the well cannot hold much
+    water.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The Monkey chief proposes measuring root length to decide how much water each
+    plant should receive.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The monkeys pull up plants and bushes, measure the roots, water according
+    to root length, and put the plants back.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: When the gardener returns, many plants are drooping, dead, or dying while
+    monkeys continue pulling up others.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: The gardener laments that the garden is ruined.
+  category: speech
+  evidence_refs:
+  - ev:11
+- id: obs:14
+  text: The Monkey chief is surprised and says he thought the root-measuring method
+    was clever.
+  category: speech
+  evidence_refs:
+  - ev:12
+- id: obs:15
+  text: The master says the monkeys acted according to their nature, but the gardener
+    should have known better; he dismisses the gardener and hires another.
+  category: sequence
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: gardener
+  description: The caretaker of the park and garden who leaves for a fair and entrusts
+    the watering to monkeys.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:13
+- id: fig:2
+  name_or_label: monkeys
+  description: Troops of monkeys living in the park trees who agree to water the garden
+    and then uproot plants to measure roots.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: Monkey chief
+  description: The leader of the monkeys who convenes the council and proposes measuring
+    roots to ration water.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:12
+- id: fig:4
+  name_or_label: master
+  description: The gardener’s master, who arrives after the damage, judges the gardener
+    at fault, dismisses him, and gets another gardener.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:13
+roles:
+- id: role:1
+  label: garden caretaker
+  assigned_to:
+  - fig:1
+  basis: The gardener prunes, digs, waters, and is responsible for the park and garden.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: entrusted but destructive helpers
+  assigned_to:
+  - fig:2
+  basis: The monkeys accept charge of watering but damage the garden by pulling up
+    plants.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:9
+  - ev:10
+- id: role:3
+  label: mistaken animal leader
+  assigned_to:
+  - fig:3
+  basis: The Monkey chief leads the council and recommends the root-measuring method
+    that leads to damage.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:12
+- id: role:4
+  label: unwise delegator
+  assigned_to:
+  - fig:1
+  basis: The master says the gardener should have known better than to put monkeys
+    in charge of a garden.
+  evidence_refs:
+  - ev:13
+- id: role:5
+  label: corrective master
+  assigned_to:
+  - fig:4
+  basis: The master identifies the gardener as more at fault and replaces him.
+  evidence_refs:
+  - ev:13
+symbols:
+- id: sym:1
+  label: garden plants
+  literal_form: trees, shrubs, flowers, fruit-trees, bushes, and plants in the park
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:9
+  - ev:10
+- id: sym:2
+  label: well water
+  literal_form: water from a well that is small at the top, very deep, and running
+    at the bottom
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:3
+  label: roots
+  literal_form: plant roots measured after the plants are pulled up
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:4
+  label: watering-pots
+  literal_form: watering-pots handed over by the gardener to the monkeys
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Gardener entrusts the garden to monkeys
+  summary: The gardener wants to go to the fair, calls the monkeys, asks them to water
+    the garden, gives them watering-pots, and leaves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Monkey council about water
+  summary: The monkeys sit in council around their chief, who warns them not to harm
+    the garden or waste water and suggests measuring roots.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:3
+  label: Plants uprooted and watered by root length
+  summary: The monkeys pull up each plant, measure its roots, water according to root
+    length, and replace it.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:9
+- id: scene:4
+  label: Garden ruined and gardener judged
+  summary: The gardener returns to find the plants drooping, dead, or dying. He laments
+    the ruin, the Monkey chief explains his reasoning, and the master blames and dismisses
+    the gardener.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: Foolish helpers ruin the task entrusted to them
+  taxonomy_refs:
+  - wisdom
+  basis: The monkeys are entrusted with watering the garden but damage it through
+    an imprudent method.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents a moral tale rather
+    than a technical mythic motif.
+- id: motif:2
+  label: Mistaken cleverness produces harm
+  taxonomy_refs:
+  - wisdom
+  basis: The Monkey chief believes measuring roots is clever, but the method ruins
+    the garden.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:12
+  confidence: high
+  cautions: This is inferred from the narrative outcome and explicit rebuke, not labeled
+    as a motif in the passage.
+- id: motif:3
+  label: Greater blame falls on the one who delegates unwisely
+  taxonomy_refs:
+  - wisdom
+  basis: The master says the monkeys act according to their nature and that the gardener
+    is the greater fool for putting them in charge.
+  evidence_refs:
+  - ev:13
+  confidence: high
+  cautions: This candidate captures the explicit moral judgment of the episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1044-1050
+  quote_or_summary: The park is full of trees, shrubs, flowers, and fruit-trees; a
+    gardener prunes, digs, and waters it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1052-1057
+  quote_or_summary: A fair is to be held in the city; the gardener wants to go but
+    worries about the garden if his master comes.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1059-1068
+  quote_or_summary: The park contains monkeys in the trees; the gardener has been
+    kind to them and thinks they should return the favor.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 1074-1079
+  quote_or_summary: The gardener asks, “Will you water my garden while I am away?”
+    and the monkeys cry, “Oh yes, yes, yes!”
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 1081-1083
+  quote_or_summary: The gardener hands his watering-pots to the monkeys, dresses for
+    the holiday, and goes to the fair.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 1085-1092
+  quote_or_summary: The monkeys sit in a ring around the Monkey chief; he says they
+    have charge of the garden and must not hurt anything or waste water.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 1094-1099
+  quote_or_summary: The well is small at the top but very deep, with running water
+    at the bottom; the monkeys wrongly think the small opening means little water.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: 1101-1104
+  quote_or_summary: The Monkey chief says each plant should get just enough water
+    and proposes “to see how long the roots are.”
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:9
+  type: summary
+  locator: 1106-1111
+  quote_or_summary: Each monkey takes a watering-pot; they pull up plants, measure
+    roots, water more for long roots and less for short roots, then put the plants
+    back.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 1113-1117
+  quote_or_summary: The gardener returns after a day or two and finds many plants
+    drooping, dead, or dying while monkeys are still pulling up the rest.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: quote
+  locator: 1119-1120
+  quote_or_summary: The gardener cries, “My garden is ruined, my garden is ruined!”
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:12
+  type: summary
+  locator: 1122-1124
+  quote_or_summary: The Chief Monkey is surprised and says he thought he had been
+    clever to give water according to root size.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: quote
+  locator: 1124-1127
+  quote_or_summary: The master says the gardener “ought to have known better than
+    to put monkeys in charge of a garden” and sends him away.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative actions and moral judgment are explicit. Motif labels are candidate
+    abstractions from the passage and should be reviewed by a human. No comparison
+    claims were made because the supplied passage does not itself support a specific
+    cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. The passage label includes several tale titles, but the supplied passage text covers only “THE MONKEYS AND THE GARDENER.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l1044-l1127
+  passage_sha256=f32e1d9c299d04d24ca683419ae8b5c7198d391da3172bb12cf8849324251815
+

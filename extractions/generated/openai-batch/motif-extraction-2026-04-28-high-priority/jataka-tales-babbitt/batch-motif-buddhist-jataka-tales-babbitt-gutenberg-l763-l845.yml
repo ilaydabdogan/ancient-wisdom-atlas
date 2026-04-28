@@ -1,0 +1,475 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l763-l845
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: THE OX WHO WON THE FORFEIT / THE SANDY ROAD / THE QUARREL OF THE QUAILS /
+    THE MEASURE OF RICE; lines 763-845
+  start: '763'
+  end: '845'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A dishonest king dismisses an honest court valuer and appoints a foolish
+    miserly peasant as valuer. The new valuer prices five hundred horses at one measure
+    of rice. The horse-dealer consults the honest former valuer, who advises him to
+    ask publicly what that measure of rice is worth. After receiving a present, the
+    foolish valuer tells the king that the measure of rice is worth the whole city.
+    The ministers laugh, the king is ashamed, and the foolish valuer is driven out.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The king is described as dishonest and as dissatisfied with an honest and
+    just Valuer.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king appoints a stupid, miserly peasant as Valuer and sends away the honest
+    Valuer.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The new Valuer sets prices without knowing the value of the goods.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A horse-dealer brings five hundred horses to the king's court.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The new Valuer declares the five hundred horses to be worth one measure of
+    rice, and the king orders the exchange on that basis.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The horse-dealer consults the honest former Valuer after losing the horses
+    for a measure of rice.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The honest former Valuer advises the horse-dealer to give the new Valuer a
+    present and ask him publicly to value the measure of rice.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: After taking the present, the new Valuer agrees to tell the king what a measure
+    of rice is worth.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: In front of the king and ministers, the new Valuer repeats that five hundred
+    horses are worth a measure of rice.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The new Valuer then says that the measure of rice is worth the king's whole
+    city.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The ministers laugh and call the Valuer foolish.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: The king is ashamed and drives out the foolish Valuer.
+  category: action
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: dishonest king
+  description: A king who wants a less honest Valuer so that he might gain more riches.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: honest former Valuer
+  description: The original court Valuer, described as honest and just; he later advises
+    the horse-dealer.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: foolish peasant Valuer
+  description: A stupid, miserly peasant appointed as Valuer; he sets arbitrary prices
+    and later values a measure of rice as the whole city.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:9
+- id: fig:4
+  name_or_label: horse-dealer
+  description: A dealer who brings five hundred horses to the king's court and seeks
+    advice after they are priced at a measure of rice.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:5
+  name_or_label: ministers
+  description: The king's ministers are present when the foolish Valuer publicly gives
+    the absurd valuation, and they laugh.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:10
+roles:
+- id: role:1
+  label: corrupt ruler
+  assigned_to:
+  - fig:1
+  basis: The king dislikes the honest Valuer because honesty prevents him from gaining
+    more riches.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: honest official
+  assigned_to:
+  - fig:2
+  basis: The original Valuer is explicitly described as honest and just.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: wise adviser
+  assigned_to:
+  - fig:2
+  basis: He gives the horse-dealer a plan that exposes the foolish Valuer before the
+    court.
+  evidence_refs:
+  - ev:6
+  - ev:9
+  - ev:10
+- id: role:4
+  label: unfit official
+  assigned_to:
+  - fig:3
+  basis: He does not know values, says anything he chooses, and is publicly mocked
+    as foolish.
+  evidence_refs:
+  - ev:3
+  - ev:10
+- id: role:5
+  label: bribe-taking official
+  assigned_to:
+  - fig:3
+  basis: He accepts the horse-dealer's present and agrees to say what is wanted before
+    the king.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: wronged merchant
+  assigned_to:
+  - fig:4
+  basis: His five hundred horses are taken into the palace stables for only a measure
+    of rice.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: public witnesses
+  assigned_to:
+  - fig:5
+  basis: They are present when the Valuer gives his answer and respond with laughter.
+  evidence_refs:
+  - ev:8
+  - ev:10
+symbols:
+- id: sym:1
+  label: measure of rice
+  literal_form: A measure of rice used as the supposed value of five hundred horses,
+    then valued as the whole city.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: sym:2
+  label: five hundred horses
+  literal_form: Five hundred horses brought by the horse-dealer to the king's court.
+  associated_figures:
+  - fig:4
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: whole city
+  literal_form: The king's whole city, named by the foolish Valuer as the value of
+    one measure of rice.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:4
+  label: present to the Valuer
+  literal_form: A fine present given by the horse-dealer to the new Valuer before
+    the public valuation.
+  associated_figures:
+  - fig:4
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Replacement of the honest Valuer
+  summary: The king removes the honest Valuer and appoints a foolish peasant because
+    he hopes to gain more riches through a different official.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Undervaluation of the horses
+  summary: The horse-dealer brings five hundred horses, and the new Valuer prices
+    them at one measure of rice; the king has the horses put in the palace stables.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Advice from the former Valuer
+  summary: The horse-dealer tells the former Valuer what happened, and the former
+    Valuer advises him to induce the new Valuer to state publicly what the measure
+    of rice is worth.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Public exposure before the court
+  summary: Before the king and ministers, the foolish Valuer says five hundred horses
+    are worth a measure of rice and that the measure of rice is worth the whole city.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Laughter and expulsion
+  summary: The ministers laugh at the foolish valuation, the king becomes ashamed,
+    and the foolish Valuer is driven out.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: wise counsel exposes foolish judgment
+  taxonomy_refs:
+  - wisdom
+  basis: The honest former Valuer devises a public test that reveals the absurdity
+    of the foolish Valuer's pricing.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage presents a practical wisdom episode rather than an explicitly
+    supernatural or ritual wisdom motif.
+- id: motif:2
+  label: corrupt appointment leads to public humiliation
+  taxonomy_refs: []
+  basis: The king replaces an honest official with an unfit one for gain, and the
+    resulting absurd public valuation brings shame and expulsion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: This is a narrative pattern inferred from the tale sequence, not a supplied
+    taxonomy family.
+- id: motif:3
+  label: absurd valuation as moral exposure
+  taxonomy_refs: []
+  basis: The equivalence between five hundred horses, a measure of rice, and the whole
+    city exposes the Valuer's incompetence and the king's poor choice.
+  evidence_refs:
+  - ev:4
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The symbolic function of the valuations is interpretive; the literal passage
+    only reports the valuations and reactions.
+comparison_claims:
+- id: claim:1
+  claim: The tale can be cautiously compared to a wisdom-tale pattern in which a clever
+    question or public test reveals folly in authority.
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not itself compare this tale to other traditions or
+    give a taxonomy label; the comparison is functional and limited to the available
+    motif family 'wisdom'.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 765-775
+  quote_or_summary: The king has an honest and just Valuer but dislikes him because
+    his honesty prevents the king from gaining more riches.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 777-782
+  quote_or_summary: The king sees a stupid, miserly peasant, appoints him Valuer,
+    and sends the honest Valuer away from the palace.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 784-787
+  quote_or_summary: The peasant Valuer begins setting prices on animals, gold, and
+    jewels, but does not know their value and says whatever he chooses.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 789-793
+  quote_or_summary: A horse-dealer brings five hundred horses; the Valuer says they
+    are worth a mere measure of rice, and the king orders that payment and the stabling
+    of the horses.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 795-799
+  quote_or_summary: The horse-dealer goes to the honest former Valuer, tells him what
+    happened, and asks what he should do.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 801-807
+  quote_or_summary: The former Valuer advises the horse-dealer to give the Valuer
+    a fine present and ask him to state before the king what a measure of rice is
+    worth.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 809-815
+  quote_or_summary: The horse-dealer gives the Valuer a fine present; the Valuer says
+    he can go before the king and value the measure of rice.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 817-824
+  quote_or_summary: The horse-dealer and Valuer go before the king and ministers;
+    the horse-dealer asks the king to ask the Valuer the value of the measure of rice.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 826-834
+  quote_or_summary: The Valuer says five hundred horses are worth a measure of rice
+    and then says the measure of rice is worth the king's whole city.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 836-839
+  quote_or_summary: The ministers clap their hands, laugh, call the Valuer foolish,
+    and say the city had been thought beyond price but he equates it with a measure
+    of rice.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 841-844
+  quote_or_summary: The king is ashamed and drives out the foolish Valuer, who says
+    he tried to please the king by setting a low price on the horses.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal episode is clear. Motif labeling is limited to practical wisdom
+    and public exposure patterns supported by the passage; no supernatural or cosmological
+    motifs are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available symbol taxonomy refs apply directly to the literal objects in this passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l763-l845
+  passage_sha256=608cf0a157df35ccec2485aba6217a719e988aea9bfd5f150b2e1277b0999b8f
+

@@ -1,0 +1,558 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l7351-l7432
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: MACAULAY. / CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING
+    THE GOD.; lines 7351-7432
+  start: '7351'
+  end: '7432'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer surveys European harvest customs in which the last sheaf or remaining
+    corn is personified as a Grandmother, Old Woman, Old Man, Carlin, Maiden, Witch,
+    or related figure; is dressed, enlarged, carried home, kept, drenched, or cut
+    by ritualized actions; and is linked to marriage omens, identification with the
+    reaper or binder, the corn-spirit, and a sympathetic charm for next year’s crop.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The last sheaf is sometimes called the Grandmother, Granny, Old Woman, Old
+    Man, Old Rye-woman, Old Barley-woman, Old Wheat-woman, Carlin, Maiden, Witch,
+    or Carley, depending on place and circumstance.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: obs:2
+  text: Several customs dress or shape the last sheaf in human form with items such
+    as flowers, ribbons, an apron, jacket, hat, head, arms, legs, or clothes.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: obs:3
+  text: The person who cuts, binds, or gets the last sheaf may be said to have, get,
+    keep, or be the Old Woman, Old Rye-woman, or similar figure.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: obs:4
+  text: The passage reports marriage omens attached to getting or binding the last
+    sheaf, including marriage within the year or marriage to an old spouse, widower,
+    or old woman.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: obs:5
+  text: In some examples the last sheaf is brought home on the last wagon, sometimes
+    with the named person beside it, and in one West Prussian case both the sheaf
+    and woman are drenched with water.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: obs:6
+  text: The passage states that Mannhardt identified the similarly named person and
+    sheaf as a duplicate representation of the corn-spirit caught in the last sheaf.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Some customs tie or wrap the person who cut or bound the last sheaf into the
+    sheaf itself.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The last sheaf called the Old Woman is often made unusually large, heavy,
+    or weighted with a stone; the passage says this is intended in at least one case
+    to secure a good crop next year.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: In County Antrim, the last standing corn was plaited, reapers were blindfolded,
+    and they threw sickles at it; the person who cut it took it home and placed it
+    over his door.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Last sheaf / last corn figure
+  description: The final sheaf or remaining corn of the harvest, repeatedly given
+    human or kinship names and sometimes shaped or dressed as a person.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Binder, cutter, or getter of the last sheaf
+  description: The person who binds, cuts, or obtains the last sheaf and is said to
+    get, keep, or be the Old Woman or corresponding harvest figure.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Reapers and harvesters
+  description: The harvest workers who cut, bind, throw sickles, jeer, call out, drink,
+    huzza, and carry the harvest figure home.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Corn-spirit
+  description: The being which the passage, following Mannhardt, says is caught in
+    the last sheaf and represented by both the sheaf and a human being.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Laggard harvest worker
+  description: A man or woman who lags behind in binding corn and whose name may be
+    given to a dressed last-sheaf figure, such as “the old Michael” or “the idle Trine.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Personified harvest figure
+  assigned_to:
+  - fig:1
+  basis: The last sheaf is named as a Grandmother, Old Woman, Old Man, Old Rye-woman,
+    Old Wheat-woman, Carlin, Maiden, Witch, or Carley and may be dressed or shaped
+    as human.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:2
+  label: Recipient or bearer of the last-sheaf condition
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The cutter, binder, getter, or laggard is described as having, keeping, or
+    being the Old Woman or related figure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:3
+  label: Human-sheaf counterpart
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says the person and last sheaf may share the same name, sit together
+    on the last wagon, or be physically bound together.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: Ritual harvest performers
+  assigned_to:
+  - fig:3
+  basis: The reapers collectively perform actions around the last sheaf, including
+    contests, mockery, carrying home, throwing sickles, and celebration.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:5
+  label: Spirit represented in the last sheaf
+  assigned_to:
+  - fig:4
+  basis: The passage explicitly states that the corn-spirit is represented by the
+    last sheaf and by a human being.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Last sheaf
+  literal_form: Final sheaf or remaining stalks of corn, rye, wheat, or barley at
+    harvest.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: Grandmother / Old Woman name
+  literal_form: Kinship or age-based names applied to the last sheaf and sometimes
+    to the person who binds or cuts it.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: Human clothing and adornment on sheaf
+  literal_form: Flowers, ribbons, apron, jacket, hat, and clothes placed on the last
+    sheaf or wheat figure.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: Last wagon
+  literal_form: The final harvest wagon on which the sheaf figure and sometimes the
+    named person are brought home.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:5
+  label: Water drenching
+  literal_form: Water poured on or used to drench the last sheaf and the woman who
+    binds it.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Sickles thrown at last corn
+  literal_form: Sickles thrown by reapers, sometimes blindfolded, at the final standing
+    or plaited corn.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:7
+  label: Large or weighted sheaf
+  literal_form: A last sheaf made twice as long and thick, tied from many sheaves,
+    or weighted with a stone.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: Door placement
+  literal_form: The cut bunch of last corn placed over the door by the person who
+    cut it.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Grandmother or Granny last sheaf
+  summary: In East Prussia, Magdeburg, Silesia, and Belfast-area examples, the last
+    sheaf is called Grandmother or Granny, dressed or shaped, contested, and connected
+    with marriage omens.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Old Woman sheaf and named harvest worker
+  summary: German and West Prussian examples describe the last sheaf as the Old Woman
+    or Old Man, assign it to the cutter, binder, or laggard, dress it, carry it home
+    on the last wagon, and in one case drench it and the woman binder with water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Person wrapped in the last sheaf
+  summary: The passage describes customs in which the person who cuts or binds the
+    last sheaf is tied or wrapped into it, which Frazer interprets as representing
+    the corn-spirit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Heavy Old Woman as crop charm
+  summary: The last sheaf called the Old Woman is made exceptionally large, thick,
+    heavy, or stone-weighted, and the passage identifies the enlargement as a sympathetic
+    charm for a large, heavy crop in the next year.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Danish Old Rye-woman and Old Wheat-woman
+  summary: In Denmark the last sheaf is larger than the others, is called the Old
+    Rye-woman, Old Barley-woman, or Old Wheat-woman, may be formed in human shape
+    and clothed, and is carried home with celebrating harvesters.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Scottish and Antrim last-corn figures
+  summary: Scottish examples name the female figure made from the last corn as Carlin,
+    Maiden, or Witch according to timing, while the Antrim custom plaits the last
+    stalks, has blindfolded reapers throw sickles, and places the resulting bunch
+    over a door.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Personified last sheaf as aged female or kin figure
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The final sheaf is repeatedly named Grandmother, Granny, Old Woman, Old Rye-woman,
+    Old Barley-woman, Old Wheat-woman, Carlin, or related terms and is often shaped
+    or dressed as a woman.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is a comparative scholarly synthesis, not a single primary
+    ritual account.
+- id: motif:2
+  label: Last harvester identified with the harvest figure
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The person who cuts, binds, or gets the last sheaf may be called by the same
+    name as the sheaf, sit beside it on the last wagon, or be tied into the sheaf.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The identification is partly reported as Mannhardt’s and Frazer’s interpretation
+    of the customs.
+- id: motif:3
+  label: Corn-spirit caught and represented in the last sheaf
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage explicitly states that the person and sheaf represent the corn-spirit
+    caught in the last sheaf, with duplicate representation by human being and sheaf.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an interpretive claim by the cited scholar and author rather than
+    a quoted statement from ritual participants.
+- id: motif:4
+  label: Enlarged last sheaf as sympathetic crop charm
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The Old Woman sheaf is made unusually large or heavy, and the passage says
+    this is done as a charm by sympathetic magic to secure a large and heavy crop
+    the following year.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The explicit intention is reported for at least one locality and then
+    generalized by the author.
+- id: motif:5
+  label: Ritual contest or ordeal to cut the last corn
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The Belfast and Antrim examples describe reapers throwing sickles at the
+    last standing or plaited corn, with the successful cutter receiving or keeping
+    it.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The passage gives brief descriptions and does not state the participants’
+    own explanation of the sickle-throwing.
+- id: motif:6
+  label: Timing changes the identity and luck of the last-corn figure
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: In Scotland the last corn figure is called Carlin if cut after Hallowmas,
+    Maiden if cut before Hallowmas, and Witch if cut after sunset, the last being
+    associated with bad luck.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This motif is supported by a single summarized regional example in the
+    passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents German, Danish, Scottish, Irish, and related harvest
+    practices as variants of a recurring European last-sheaf pattern in which the
+    final grain is personified and transferred to, or identified with, a particular
+    harvester.
+  claim_level: same_motif
+  target: European last-sheaf / Old Woman harvest customs
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim follows the author’s comparative arrangement; the passage
+    does not establish historical contact or common origin among the local customs.
+- id: claim:2
+  claim: The passage explicitly compares the function of a person wrapped in corn
+    as a corn-spirit representative with a person wrapped in branches or leaves as
+    a tree-spirit representative.
+  claim_level: same_function
+  target: Tree-spirit representation by a person wrapped in branches or leaves
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is functional and analogical within Frazer’s framework;
+    it does not demonstrate a shared ritual origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7351-7363
+  quote_or_summary: The last sheaf is called Grandmother or Granny in several places;
+    it may be adorned, shaped as human, contested by servants, connected with marriage
+    omens, or cut by reapers throwing sickles.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 7365-7389
+  quote_or_summary: The last sheaf is often called Old Woman or Old Man, dressed as
+    a woman or in human attire, assigned to the cutter, binder, holder, or laggard,
+    carried on the last wagon, mocked, and in one case drenched with water together
+    with the woman binder.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 7391-7404
+  quote_or_summary: The passage states that Mannhardt saw the same-named person and
+    last sheaf as identified, representing the corn-spirit caught in the last sheaf;
+    it also describes tying or wrapping the cutter or binder into the last sheaf and
+    compares this to branch- or leaf-wrapped tree-spirit figures.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 7406-7417
+  quote_or_summary: The Old Woman sheaf is often made large, thick, heavy, or stone-weighted;
+    at Itzgrund it is made large to secure a good crop next year, which the passage
+    describes as sympathetic magic.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 7419-7425
+  quote_or_summary: In Denmark the last sheaf is larger and called Old Rye-woman,
+    Old Barley-woman, or Old Wheat-woman; no one likes binding it because of marriage
+    omens, and it may be shaped as a clothed human figure and carried home on the
+    last wagon with celebrating harvesters.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 7427-7432
+  quote_or_summary: In Scotland the last-corn female figure may be called Carlin,
+    Maiden, or Witch according to timing and luck; in County Antrim the last stalks
+    are plaited, blindfolded reapers throw sickles, and the successful cutter places
+    the bunch over his door.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is well supported by the passage. Motif and comparison
+    fields include Frazer’s and Mannhardt’s interpretive framing and therefore require
+    human review before being treated as participant-level belief.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to available refs directly supportable from harvest-season context and explicit water imagery.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l7351-l7432
+  passage_sha256=f271123ddeba18761f2cea5f68847df9b30941bc5b74c2ea7df360693afb0f16
+

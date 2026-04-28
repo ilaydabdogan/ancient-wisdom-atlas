@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l994-l1041
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE WISE PARROT AND THE FOOLISH PARROT / THE DISHONEST FRIEND / THE MOUSE
+    AND THE FARMER / THE TALKATIVE TORTOISE; lines 994-1041
+  start: '994'
+  end: '1041'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: The talkative Tortoise lay dead, with his shell cracked in two.
+  summary: A talkative tortoise living in a pond is offered transport by two geese
+    to their mountain home. The geese carry him on a stick, warning him not to speak.
+    When boys mock the sight, the tortoise opens his mouth to answer, loses his hold,
+    falls onto stones, and dies.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A tortoise lives in a pond and talks continually, annoying the fish there.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two young geese are friends of the tortoise and invite him to come to their
+    mountain home.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The tortoise says he cannot fly, and the geese offer to carry him if he keeps
+    his mouth shut.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The geese carry a stout stick between them, and the tortoise grips the middle
+    with his teeth.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Boys see the geese carrying the tortoise on a stick and call attention to
+    it.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The tortoise becomes angry, opens his mouth to reply, loses the stick, falls
+    onto stones, and dies with his shell cracked.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Tortoise
+  description: A worthy but excessively talkative tortoise who lives in a pond and
+    later falls when he opens his mouth during flight.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Pair of young Geese
+  description: Two geese who are friends of the tortoise and try to carry him to their
+    mountain home by means of a stick.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Fish
+  description: Fish in the pond who are tired of the tortoise's continual chatter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Boys
+  description: Boys who look up, see the geese carrying the tortoise, and make a remark
+    that provokes the tortoise.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: talkative warned traveler
+  assigned_to:
+  - fig:1
+  basis: The tortoise is repeatedly described as talkative and is warned not to speak
+    while being carried.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: helpful carriers
+  assigned_to:
+  - fig:2
+  basis: The geese invite the tortoise to their home and carry him on a stick.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: annoyed pond inhabitants
+  assigned_to:
+  - fig:3
+  basis: The fish object to the tortoise's chatter in the pond.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: mocking observers
+  assigned_to:
+  - fig:4
+  basis: The boys are amused by the sight and call out about the geese carrying the
+    tortoise.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: pond
+  literal_form: pond where the tortoise lives
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mountain home
+  literal_form: beautiful home away in the mountains
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: carrying stick
+  literal_form: stout stick held by the geese and gripped by the tortoise
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: opened mouth
+  literal_form: the tortoise opens his mouth to answer and releases the stick
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: stones
+  literal_form: stones onto which the tortoise falls
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Talkative life in the pond
+  summary: The tortoise lives in a pond and talks so much that the fish complain.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Geese propose escape to the mountains
+  summary: The two geese invite the tortoise to their mountain home and explain that
+    they can carry him if he does not speak.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Flight by stick
+  summary: The geese hold the ends of a stick while the tortoise grips the middle
+    with his teeth and is carried through the air.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Provocation and fatal fall
+  summary: Boys remark on the strange sight; the tortoise angrily opens his mouth
+    to answer, releases the stick, falls, and dies.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: talkative animal destroyed by failure to keep silent
+  taxonomy_refs:
+  - wisdom
+  basis: The tortoise is warned not to speak while being carried, but anger at the
+    boys' remark causes him to open his mouth, fall, and die.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents a practical moral
+    about restraint rather than an explicit doctrinal explanation.
+- id: motif:2
+  label: animal carried through the air by companions using a stick
+  taxonomy_refs: []
+  basis: Two geese hold a stout stick by its ends while the tortoise grips the middle
+    and is carried in flight.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a narrative device in the passage; no available taxonomy family
+    directly names it.
+- id: motif:3
+  label: mockery provokes fatal self-betrayal
+  taxonomy_refs:
+  - wisdom
+  basis: The boys' amused comment provokes the tortoise to answer despite the danger,
+    causing him to lose his hold and fall.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not state the moral explicitly in this excerpt; the motif
+    is inferred from the action sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 994-1002
+  quote_or_summary: The tortoise lives in a pond, is described as worthy but excessively
+    talkative, and the fish are tired of his chatter.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short summary.
+- id: ev:2
+  type: summary
+  locator: 1003-1010
+  quote_or_summary: Two young geese, friends of the tortoise, invite him to their
+    beautiful mountain home where he may talk without being worried.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short summary.
+- id: ev:3
+  type: quote
+  locator: 1011-1018
+  quote_or_summary: The geese say they will carry him, "if you can only keep your
+    mouth shut for a little while."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:4
+  type: summary
+  locator: 1019-1027
+  quote_or_summary: The geese take the two ends of a stout stick in their bills; the
+    tortoise grips the middle with his teeth, and they fly toward their home after
+    warning him not to talk.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short summary.
+- id: ev:5
+  type: quote
+  locator: 1028-1033
+  quote_or_summary: A boy cries, "two Geese carrying a Tortoise on a stick!"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:6
+  type: summary
+  locator: 1034-1039
+  quote_or_summary: The tortoise becomes angry, forgets the danger, opens his mouth
+    to answer, loses the stick, drops, and falls with a crash on stones.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short summary.
+- id: ev:7
+  type: quote
+  locator: 1040-1041
+  quote_or_summary: '"The talkative Tortoise lay dead, with his shell cracked in two."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; brief quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence and figures are clear. Motif labels involving wisdom or
+    restraint are interpretive and require review; no passage-supported external comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata; available taxonomy references were applied only where directly supportable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l994-l1041
+  passage_sha256=18d222986e0afccdc79e5fecacc73e5ac66ce627ae7d4a5932afe587458828e4
+

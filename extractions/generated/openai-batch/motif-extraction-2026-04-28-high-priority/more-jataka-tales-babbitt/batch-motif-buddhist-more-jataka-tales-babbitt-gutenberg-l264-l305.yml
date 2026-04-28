@@ -1,0 +1,421 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l264-l305
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: XX BEAUTY AND BROWNIE / XXI THE ELEPHANT AND THE DOG / THE GIRL MONKEY AND
+    THE STRING OF PEARLS / THE THREE FISHES; lines 264-305
+  start: '264'
+  end: '305'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Three named fishes leave a remote river country for waters near a town.
+    Very-Thoughtful warns that fishermen and nets make the place dangerous, but the
+    other two delay returning. When Thoughtful and Thoughtless enter a fisherman's
+    net, Very-Thoughtful imitates escaping fish on both sides of the net, causing
+    the fisherman to loosen it. The trapped fishes escape, thank him for saving their
+    lives, and all three return to their old home, where they live safely.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Three fishes named Thoughtful, Very-Thoughtful, and Thoughtless live in a
+    far-away river.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fishes leave a wild country without men and move downriver to live near
+    a town.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Very-Thoughtful warns the other fishes that fishermen catch fish there with
+    nets and lines and urges them to return to the wild country.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The other two fishes delay leaving because they are described as lazy and
+    greedy.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Thoughtful and Thoughtless swim ahead, fail to see the fisherman's net, and
+    rush into it.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Very-Thoughtful says he must save the two trapped fishes.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Very-Thoughtful splashes first in front of the net and then behind it, like
+    fish that had broken through and gone upriver and downriver.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The fisherman believes the fishes have broken through the net and pulls the
+    net in by one corner, allowing the two fishes to escape.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The rescued fishes thank Very-Thoughtful and agree to return to the wild country.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: All three fishes return to their old home and live safely there.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Very-Thoughtful
+  description: One of the three fishes; he warns of danger, notices the others trapped,
+    and acts to save them.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Thoughtful
+  description: One of the three fishes; he delays returning and is trapped in the
+    fisherman's net before escaping.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Thoughtless
+  description: One of the three fishes; he delays returning and is trapped in the
+    fisherman's net before escaping.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Fisherman
+  description: A human with a net who believes the splashing means the fish have broken
+    through and pulls in the net by one corner.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:7
+roles:
+- id: role:1
+  label: danger-warner
+  assigned_to:
+  - fig:1
+  basis: Very-Thoughtful explicitly warns that fishermen, nets, and lines make the
+    town waters dangerous.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: clever rescuer
+  assigned_to:
+  - fig:1
+  basis: Very-Thoughtful creates misleading splashing around the net, causing the
+    fisherman to release the trapped fishes.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:3
+  label: trapped companions
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Thoughtful and Thoughtless swim into the fisherman's net and are released
+    through Very-Thoughtful's action.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: role:4
+  label: human catcher
+  assigned_to:
+  - fig:4
+  basis: The passage describes fishermen catching fish with nets and the fisherman
+    drawing in the net.
+  evidence_refs:
+  - ev:2
+  - ev:7
+symbols:
+- id: sym:1
+  label: river water
+  literal_form: far-away river; water near a town; splashing water
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: fisherman's net
+  literal_form: net used to catch fish
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: wild country
+  literal_form: wild country where no men lived; old home
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+  - ev:9
+- id: sym:4
+  label: town waters
+  literal_form: river near a town where fishermen come
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Leaving the wild river country
+  summary: The three fishes leave a remote, manless wild country and move downriver
+    to live near a town.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Warning ignored
+  summary: Very-Thoughtful warns that fishermen use nets and lines near the town and
+    advises returning, but the other two fishes keep delaying.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Net entrapment
+  summary: Thoughtful and Thoughtless swim ahead of Very-Thoughtful and enter the
+    fisherman's net without seeing it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Rescue by misleading splashing
+  summary: Very-Thoughtful splashes on both sides of the net as if fish have broken
+    through; the fisherman misreads the splashing and loosens the net, freeing the
+    trapped fishes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Return to safety
+  summary: The rescued fishes thank Very-Thoughtful, agree to go back, and all three
+    return to their old home where they live safely.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: prudent warning against danger
+  taxonomy_refs:
+  - wisdom
+  basis: Very-Thoughtful recognizes danger from fishermen and urges a return to safer
+    waters before the danger occurs.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage frames practical foresight
+    rather than doctrinal wisdom.
+- id: motif:2
+  label: clever rescue of trapped companions
+  taxonomy_refs:
+  - wisdom
+  basis: Very-Thoughtful devises an action that deceives the fisherman and frees the
+    two fishes from the net.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The rescue involves deception, but the passage does not explicitly identify
+    a trickster figure.
+- id: motif:3
+  label: return from dangerous place to safe home
+  taxonomy_refs:
+  - return
+  basis: After the trap and rescue, all three fishes go back to their old home and
+    live safely.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The return is a simple narrative outcome, not necessarily a ritual or
+    heroic return.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 264-272
+  quote_or_summary: Three fishes named Thoughtful, Very-Thoughtful, and Thoughtless
+    live in a far-away river, then leave the wild country where no men live and move
+    downriver near a town.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 273-277
+  quote_or_summary: Very-Thoughtful says there is danger because fishermen come to
+    catch fish with nets and lines, and urges the others to go back to the wild country.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; short passage summarized with minimal quotation.
+- id: ev:3
+  type: summary
+  locator: lines 278-280
+  quote_or_summary: The other two fishes are described as lazy and greedy and keep
+    putting off their departure.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 281-284
+  quote_or_summary: Thoughtful and Thoughtless swim ahead of Very-Thoughtful, do not
+    see the fisherman's net, and rush into it; Very-Thoughtful sees this happen.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: line 285
+  quote_or_summary: "“I must save them,” said Very-Thoughtful."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 287-291
+  quote_or_summary: Very-Thoughtful swims around the net and splashes first in front
+    and then behind it, imitating fish that have broken through and gone upriver and
+    downriver.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 292-296
+  quote_or_summary: The fisherman thinks the fish have broken through the net, one
+    going upriver and one downriver, so he pulls in the net by one corner and lets
+    the two fishes out.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 298-300
+  quote_or_summary: The rescued fishes say that Very-Thoughtful saved their lives
+    and that they are now willing to go back to the wild country.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized with brief quotation context.
+- id: ev:9
+  type: summary
+  locator: lines 302-303
+  quote_or_summary: All three fishes return to their old home and live safely ever
+    after.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based directly on the supplied passage. Motif labels are
+    descriptive and limited to broad available taxonomy references. No comparison
+    claims are made because the passage itself does not provide comparative evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  JSON extraction uses only the provided passage and metadata; no external Jataka parallels or tale-type comparisons are asserted.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l264-l305
+  passage_sha256=787f517ffa1fc974e2e6be9526310f7ad96dff091f888248eb756f518e53ac9f
+

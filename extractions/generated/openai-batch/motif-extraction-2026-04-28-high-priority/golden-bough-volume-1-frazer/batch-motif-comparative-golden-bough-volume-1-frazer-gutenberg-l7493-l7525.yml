@@ -1,0 +1,444 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l7493-l7525
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: MACAULAY. / CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING
+    THE GOD.; lines 7493-7525
+  start: '7493'
+  end: '7525'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer describes threshing-floor customs in which the corn-spirit is believed
+    to occupy the last sheaf or a human representative. The last sheaf is called Mother-corn,
+    Old Woman, or Corn-woman; a last thresher, stranger woman, or farmer’s wife may
+    be wrapped in straw or corn, carried through the village, placed on a dunghill
+    or at a neighbor’s barn, or ritually imitated as threshed and winnowed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says some customs previously associated with the harvest field
+    are also practiced on the threshing-floor.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The corn-spirit is described as fleeing before reapers, taking refuge in the
+    barn, and appearing in the last sheaf threshed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The last corn to be threshed is called Mother-corn or the Old Woman.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In several reported customs, the person who gives the last stroke with the
+    flail is called Old Woman or Baba and is wrapped or tied in straw or corn.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: In Lithuania, the last sheaf may be left unthreshed, fashioned into female
+    shape, and carried to a neighbor’s barn.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In Sweden, a stranger woman on the threshing-floor may be adorned with a flail,
+    corn-stalks, and a crown of ears while threshers call her the Corn-woman.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: In Vendée, the farmer’s wife and the last sheaf are tied in a sheet, carried
+    to a threshing machine, and the woman is then tossed in the sheet in imitation
+    of winnowing.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: corn-spirit
+  description: A spirit of the corn said to flee before reapers, take refuge in the
+    barn, and appear in the last sheaf threshed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mother-corn / Old Woman
+  description: Name given to the last corn to be threshed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: last-stroke thresher
+  description: The person or man who gives the last stroke with the flail and may
+    be called Old Woman or Baba, wrapped in straw or corn, and carried or wheeled
+    through the village.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: female-shaped last sheaf
+  description: The last sheaf in a Lithuanian custom, not threshed but fashioned into
+    female shape and carried to a neighbor’s barn.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: stranger woman on the threshing-floor
+  description: A stranger woman treated as Corn-woman by being encircled with a flail,
+    wound with corn-stalks, and crowned with ears of corn.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: farmer’s wife
+  description: In Vendée, the farmer’s wife is tied up in a sheet along with the last
+    sheaf and ritually handled in imitation of threshing and winnowing.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: fleeing corn-spirit
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly describes the spirit fleeing, taking refuge, appearing
+    in the last sheaf, and possibly perishing or fleeing again.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: personified last corn
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The last corn or last sheaf is named Mother-corn or Old Woman and, in one
+    case, fashioned into female shape.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: human bearer of the Old Woman designation
+  assigned_to:
+  - fig:3
+  basis: The last-stroke thresher is called Old Woman or Baba and is wrapped in straw
+    or corn.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: human representative of the corn-spirit
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The passage says the stranger woman is taken to be the expelled corn-spirit
+    and that the farmer’s wife represents the corn-spirit.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: last sheaf
+  literal_form: The final sheaf of corn threshed, or in one case left unthreshed and
+    shaped as a female figure.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: flail
+  literal_form: Threshing implement used for the last stroke and placed around a stranger
+    woman’s body in a Swedish custom.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: straw or corn wrapping
+  literal_form: Straw or corn used to wrap, tie, or attach to a person associated
+    with the last threshing.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: crown of ears
+  literal_form: A crown of ears placed on the head of a stranger woman called the
+    Corn-woman.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: sheet and litter
+  literal_form: A sheet and litter used to bind and carry the farmer’s wife with the
+    last sheaf in the Vendée custom.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: threshing and winnowing imitation
+  literal_form: The farmer’s wife is shoved under the threshing machine and tossed
+    in a sheet in imitation of winnowing.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: corn-spirit in the last sheaf on the threshing-floor
+  summary: The corn-spirit is described as moving from cut corn to the barn and appearing
+    in the last sheaf, where it may perish under the flail or flee to unthreshed corn
+    elsewhere.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: last-stroke thresher carried through the village
+  summary: The person who gives the last flail stroke is called Old Woman or Baba,
+    wrapped or tied in straw or corn, and carried, carted, or wheeled through the
+    village, sometimes to a dunghill or another farm.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: female-shaped sheaf transferred to a neighbor
+  summary: In Lithuania, the last sheaf is not threshed; it is shaped as a female
+    figure and carried to a neighbor who has not finished threshing.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: stranger woman called Corn-woman
+  summary: In parts of Sweden, a stranger woman appearing on the threshing-floor is
+    adorned with threshing and corn objects and proclaimed Corn-woman by the threshers.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: farmer’s wife ritually threshed and winnowed
+  summary: In Vendée, the farmer’s wife and last sheaf are tied together in a sheet,
+    carried to the threshing machine, separated, and the woman is tossed in the sheet
+    as an imitation of winnowing.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: corn-spirit embodied in the last sheaf
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage repeatedly connects the last sheaf or last corn of threshing
+    with the corn-spirit or with names such as Mother-corn, Old Woman, and Corn-woman.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy has no exact corn-spirit or harvest-spirit category;
+    seasonal_cycle is a broad fit based on harvest and threshing context.
+- id: motif:2
+  label: human representative identified with the grain spirit
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The last-stroke thresher, stranger woman, and farmer’s wife are each treated
+    as or said to represent the corn-spirit or Old Woman figure associated with the
+    last corn.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage reports customs through Frazer’s comparative interpretation;
+    individual local meanings may require source review.
+- id: motif:3
+  label: ritual striking or mock processing of a grain-spirit representative
+  taxonomy_refs:
+  - sacrifice
+  - seasonal_cycle
+  basis: The corn-spirit may perish under blows of the flail, and the farmer’s wife
+    is handled in a graphic imitation of threshing and winnowing.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The passage describes mock or symbolic handling rather than an explicit
+    literal killing of a human participant; sacrifice is therefore only a broad candidate.
+- id: motif:4
+  label: transfer of the grain-spirit to unthreshed grain or a neighbor’s farm
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The corn-spirit may flee to still-unthreshed corn of a neighboring farm,
+    and the last sheaf or the straw-wrapped thresher may be taken to a neighbor who
+    has not finished threshing.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage gives several parallel customs, but not all explicitly state
+    that the transfer is understood locally as movement of the spirit.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents Bavarian, Thüringen, Polish, Lithuanian, Swedish,
+    and Vendée threshing customs as variants of a shared pattern in which the last
+    sheaf or a human participant is identified with a female corn-spirit figure.
+  claim_level: same_motif
+  target: European threshing-floor customs involving Mother-corn, Old Woman, Baba,
+    or Corn-woman figures
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim follows Frazer’s comparative framing and does not independently
+    verify historical relation or local interpretation.
+- id: claim:2
+  claim: Across the examples, the last sheaf and associated human figures serve a
+    similar function as carriers or representatives of the corn-spirit at the end
+    of threshing.
+  claim_level: same_function
+  target: last-sheaf and human-representative roles in the reported threshing customs
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The functional similarity is explicit in the passage, but it does not
+    establish common inheritance or direct contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7493-7499
+  quote_or_summary: The customs are practiced on the threshing-floor; the corn-spirit
+    flees before reapers, takes refuge in the barn, appears in the last sheaf, and
+    may perish under the flail or flee to a neighboring farm’s unthreshed corn.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 7499-7505
+  quote_or_summary: The last corn threshed is called Mother-corn or Old Woman; sometimes
+    the last person to strike with the flail is called Old Woman, wrapped in straw
+    or given straw on the back, and carted through the village with laughter.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 7505-7512
+  quote_or_summary: In parts of Bavaria and Thüringen the last thresher is said to
+    have the Old Woman or Old Corn-woman, tied in straw, carried or carted around,
+    and left on a dunghill or taken to a neighbor’s threshing-floor; in Poland he
+    is called Baba, wrapped in corn, and wheeled through the village.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 7512-7515
+  quote_or_summary: In Lithuania, the last sheaf may be left unthreshed, fashioned
+    into female shape, and carried to a neighbor’s barn if that neighbor has not finished
+    threshing.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 7515-7521
+  quote_or_summary: In parts of Sweden, a stranger woman on the threshing-floor is
+    fitted with a flail, corn-stalks, and a crown of ears while threshers call her
+    Corn-woman; the passage says she is taken to be the corn-spirit expelled by the
+    flails.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 7521-7525
+  quote_or_summary: 'In Vendée, the farmer’s wife represents the corn-spirit: she
+    and the last sheaf are tied in a sheet, carried to the threshing machine, the
+    sheaf is threshed separately, and the woman is tossed in the sheet in imitation
+    of winnowing.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage explicitly names figures,
+    actions, and Frazer’s identifications. Motif and comparison labels are broader
+    and should be reviewed against the project taxonomy and Frazer’s source citations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not include corn, sheaf, straw, flail, ears, threshing-floor, or winnowing.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l7493-l7525
+  passage_sha256=27531c84f66617a7754aabb3317a08748c322f1fab3f69c7d760211c98261daf
+

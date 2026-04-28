@@ -1,0 +1,332 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l2108-l2152
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE GREAT YELLOW KING AND HIS PORTER / THE QUAIL AND THE FALCON / PRIDE MUST
+    HAVE A FALL / THE BOLD BEGGAR; lines 2108-2152
+  start: '2108'
+  end: '2152'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A lavish king publicly eats expensive meals. A hungry man gains access
+    by shouting that he has news, feigns collapse, is fed from the king's own dish,
+    and then reveals that his news is simply that he was hungry before and is not
+    hungry now. The king laughs, warns him not to repeat the trick, and lets him go.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The king is described as fond of good eating and drinking and as spending
+    large sums on single dishes.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king eats in a public tent outside his door, seated on a golden throne
+    under a white silk umbrella while people watch.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A man who has watched the king eat wants to taste the king's choice food.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The man runs toward the crowd shouting that he has news, and the crowd lets
+    him approach because news-bringers receive attention.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The man falls before the king as if faint with hunger.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The king orders that the man be given food, and the man is fed from the king's
+    own dish and given wine.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When asked for his news, the man says that an hour earlier he was hungry and
+    now he is not.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The people are shocked, but the king laughs, lets the man go free, and advises
+    him not to try the trick again.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The narrator states that the man went away happy in the success of his trick.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: King Dainty
+  description: A king known for lavish eating and drinking who publicly eats expensive
+    meals.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: the bold beggar / hungry man
+  description: A man who wants to taste the king's food and gains a meal by claiming
+    to bring news.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the crowd / people watching
+  description: People who watch the king eat and make way for the man when he shouts
+    that he has news.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: lavish public eater
+  assigned_to:
+  - fig:1
+  basis: The king spends extravagantly on dishes and eats before spectators in a prepared
+    tent.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: merciful royal host
+  assigned_to:
+  - fig:1
+  basis: The king has the apparently faint man fed, laughs at the revelation, and
+    releases him with a warning.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: hungry petitioner
+  assigned_to:
+  - fig:2
+  basis: The man seeks a taste of the king's food and appears faint with hunger.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: trickster beggar
+  assigned_to:
+  - fig:2
+  basis: The man uses a claim of news to gain access and later leaves happy in the
+    success of his trick.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:5
+  label: public spectators
+  assigned_to:
+  - fig:3
+  basis: The people gather to watch the king eat and react to the man's behavior.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: golden throne
+  literal_form: golden throne
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: white silk umbrella
+  literal_form: white silk umbrella
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: king's own dish
+  literal_form: dish from which the king feeds the man
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: news cry
+  literal_form: shouted word "News!"
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Public royal meal
+  summary: King Dainty eats costly food outside his door in a tent, seated on royal
+    furnishings while spectators watch.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Approach by false news
+  summary: The hungry man runs toward the crowd crying out that he has news; the crowd
+    allows him through, and he falls before the king as if faint.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Feeding from the king's dish
+  summary: The king pities the man and has him fed from his own dish with wine until
+    the man finishes a large meal.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Revealed news and release
+  summary: The man states that his news is his change from hunger to satisfaction;
+    the crowd is shocked, but the king laughs and releases him with a warning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Trickster gains food by deceptive access
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The man crosses from spectator to recipient of the royal meal by crying out
+    that he has news, feigning distress, and then revealing the practical result of
+    his ruse.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents the act as a successful trick but does not describe
+    supernatural trickster traits.
+- id: motif:2
+  label: Bold beggar rewarded and warned
+  taxonomy_refs: []
+  basis: The king feeds the man and, after hearing the impertinent explanation, laughs,
+    allows him to go free, and warns him not to repeat it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a narrative pattern within the tale rather than a mapped taxonomy
+    motif.
+- id: motif:3
+  label: Comic truth after deceptive announcement
+  taxonomy_refs:
+  - wisdom
+  basis: 'The promised news turns out to be a literal truth: the man was hungry before
+    the meal and is no longer hungry afterward.'
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The connection to the broad wisdom family is tentative; the passage emphasizes
+    wit and boldness more than formal instruction.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2108-2119
+  quote_or_summary: King Dainty is lavishly fond of eating and drinking, spends heavily
+    on food, and eats publicly in a tent on a golden throne under a white silk umbrella.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2120-2132
+  quote_or_summary: A man who wants a taste of the king's food runs toward the watching
+    crowd shouting 'News!', gains access, and falls before the king as if faint with
+    hunger.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; brief quoted word included.
+- id: ev:3
+  type: summary
+  locator: lines 2133-2139
+  quote_or_summary: The king says to give the man food; the attendants seat him, and
+    the king feeds him from his own dish and gives him wine until he has eaten a large
+    meal.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 2140-2145
+  quote_or_summary: When the king asks for the news, the man replies that an hour
+    ago he was hungry and now he is not.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized rather than directly quoted.
+- id: ev:5
+  type: summary
+  locator: lines 2146-2152
+  quote_or_summary: The people are shocked; the king laughs, calls him bold, lets
+    him go free with a warning, and the man leaves happy in the success of his trick.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal sequence is clear. Motif labeling is cautious because the passage
+    is a short comic tale and available taxonomy categories are broad. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l2108-l2152
+  passage_sha256=40eb59b57131ca868ceaf9aa665b15734e18e083ff9d6faa3241922a41125899
+

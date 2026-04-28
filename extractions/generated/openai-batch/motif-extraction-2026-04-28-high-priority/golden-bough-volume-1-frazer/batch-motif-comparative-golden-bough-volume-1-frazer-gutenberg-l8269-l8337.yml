@@ -1,0 +1,522 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l8269-l8337
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: MACAULAY. / CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING
+    THE GOD.; lines 8269-8337
+  start: '8269'
+  end: '8337'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer describes European harvest and threshing customs in which a master,
+    stranger, or passer-by entering a field or threshing-floor is surrounded, symbolically
+    threatened with scythes or flails, bound with corn, straw, or bands, and required
+    to pay a forfeit or provide drink. He interprets strangers in these customs as
+    embodiments of the corn-spirit and compares the harvest-field treatment to the
+    figure of Lityerses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Modern reapers are said to lay hold of a passing stranger and tie him up in
+    a sheaf, in a way compared to Lityerses.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In Mecklenburg, when a master, mistress, or stranger enters or passes the
+    field on the first day of reaping, mowers face the person and sharpen their scythes
+    in unison.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In Mecklenburg, the woman who leads the mowers ties a band around the visitor's
+    left arm, and the visitor must pay a forfeit to ransom himself.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Near Ratzeburg, harvesters stop work, march toward a master or person of mark,
+    form a line, display scythes, make speeches, whet scythes loudly, and bind the
+    person with corn-ears or a silken band.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In parts of Pomerania, a passer-by is stopped by a corn-rope, encircled by
+    reapers, and addressed with words saying that the gentleman must be mowed.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: At Ramin, a stranger encircled by reapers is threatened in verse with a sword-like
+    implement unless he provides beer and brandy.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In the district of Lüneburg, when someone enters the harvest-field, harvesters
+    may mow swaths while yelling and then ask for drink-money.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: On threshing-floors, strangers are described as treated as embodiments of
+    the corn-spirit.
+  category: attribute
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:9
+  text: At Wiedingharde in Schleswig, a stranger who agrees to learn the flail-dance
+    has the arms of a threshing-flail put around his neck and pressed tightly enough
+    that he is nearly choked.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: In some parishes of Wermland, a stranger entering a threshing-floor has a
+    flail put around the neck and a straw rope around the body.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: A stranger woman entering the threshing-floor is fitted with a flail and a
+    wreath of corn-stalks and is called the Corn-woman or Corn-maiden.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Lityerses
+  description: A comparative figure invoked as one who lays hold of a passing stranger
+    and ties him up in a sheaf; the passage notes that modern reapers do not complete
+    the parallel by cutting off the head.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: modern reapers / harvesters / mowers / threshers
+  description: Agricultural workers who surround, bind, threaten, or demand payment
+    from visitors in harvest-field and threshing-floor customs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: passing stranger / visitor / passer-by
+  description: A person entering or passing the harvest-field or threshing-floor who
+    is bound, encircled, threatened, or treated as an embodiment of the corn-spirit.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: master, mistress, or person of mark
+  description: A socially marked visitor to the harvest-field who may be confronted,
+    bound, and required to pay a forfeit.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: woman who leads the mowers / women binders
+  description: Female harvest workers who tie a band, corn-ears, or a silken band
+    around the visitor and may deliver an address.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: stranger woman on the threshing-floor
+  description: A woman entering the threshing-floor who is given a flail and corn-stalk
+    wreath and identified as Corn-woman or Corn-maiden.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: comparative precedent
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly compares modern reapers' treatment of strangers to
+    Lityerses.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ritual agricultural actors
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: Reapers, mowers, harvesters, threshers, and women binders carry out the actions
+    of surrounding, whetting, binding, and threatening visitors.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:3
+  label: captured or ransomed outsider
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:6
+  basis: Visitors, strangers, or masters entering the agricultural space are stopped,
+    bound, threatened, or required to provide payment or drink.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:4
+  label: embodiment of the corn-spirit
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: The passage states that strangers on the threshing-floor are regarded as
+    embodiments of the corn-spirit, and a stranger woman is called Corn-woman or Corn-maiden.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: binder and speaker
+  assigned_to:
+  - fig:5
+  basis: Women binders tie the visitor and one delivers a rhyming address.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: scythe
+  literal_form: scythes sharpened, whetted, clashed, displayed, and treated as mowing
+    implements
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: corn binding
+  literal_form: sheaf, corn-ears, corn-rope, straw rope, and wreath of corn-stalks
+    used to bind, stop, or mark a visitor
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: band used for ransom-binding
+  literal_form: band around the left arm or silken band tied around the visitor
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: flail
+  literal_form: threshing-flail put around the neck or body of a stranger
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: beer and brandy ransom
+  literal_form: beer, brandy, drink-money, or forfeit demanded to end the joke or
+    release the visitor
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: Corn-woman / Corn-maiden
+  literal_form: names called out for a stranger woman marked with flail and corn-stalk
+    wreath
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Harvest-field seizure and ransom compared with Lityerses
+  summary: Frazer introduces the customs by saying that modern reapers, like Lityerses,
+    seize a passing stranger and bind him as a sheaf, though without actual beheading.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mecklenburg first-day reaping custom
+  summary: Mowers face a visitor, sharpen scythes in unison, and the woman leading
+    them ties a band around the visitor's left arm, requiring a forfeit.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ratzeburg harvesters' procession and binding
+  summary: Harvesters march toward a marked visitor, arrange themselves with scythes,
+    hear a speech, whet scythes loudly, and women bind the visitor with corn-ears
+    or silk.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Pomeranian and Ramin encirclement with mowing threat
+  summary: A passer-by is blocked with a corn-rope, encircled by reapers, and addressed
+    with verses that describe mowing or striking unless drink is provided.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Lüneburg mowing demonstration
+  summary: Harvesters ask a visitor if he will engage a good fellow, then mow swaths
+    while yelling and ask for drink-money.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Threshing-floor flail treatment of strangers
+  summary: On the threshing-floor, strangers are treated as corn-spirit embodiments;
+    one custom puts a flail around a stranger's neck and nearly chokes him, while
+    another binds a stranger with flail and straw rope.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:7
+  label: Stranger woman identified as Corn-woman or Corn-maiden
+  summary: A stranger woman on the threshing-floor is marked with a flail and corn-stalk
+    wreath and is named Corn-woman or Corn-maiden.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: symbolic killing or mowing of a stranger in harvest ritual
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage repeatedly describes strangers being bound, encircled, threatened
+    with scythes or flails, and addressed as if they might be mowed, struck, or choked,
+    while also noting an uncompleted parallel to beheading.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage describes mock or symbolic actions and ransom demands rather
+    than an actual killing in the reported modern customs.
+- id: motif:2
+  label: outsider as embodiment of the corn-spirit
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage states that strangers on the threshing-floor are regarded as
+    embodiments of the corn-spirit and describes a stranger woman being called Corn-woman
+    or Corn-maiden.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The explicit corn-spirit interpretation is stated for the threshing-floor
+    examples; extension to all harvest-field examples depends on Frazer's framing
+    within the passage.
+- id: motif:3
+  label: ritual ransom of a bound agricultural visitor
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Visitors are bound or blocked and must pay a forfeit, provide beer and brandy,
+    or give drink-money to end the proceedings.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents this as a custom or joke-like performance; the sacred
+    status of the exchange is interpretive and should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares modern reapers' seizure and binding of a
+    passing stranger with the Lityerses pattern, while noting that the modern custom
+    does not include actual beheading.
+  claim_level: same_function
+  target: Lityerses harvest-stranger binding pattern
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is internal to Frazer's analysis; the passage provides
+    only a brief reference to Lityerses and does not recount the full Lityerses narrative.
+- id: claim:2
+  claim: The threshing-floor customs are presented as treating strangers as embodiments
+    of the corn-spirit, matching a broader pattern of identifying a human outsider
+    with the crop spirit during agricultural work.
+  claim_level: same_motif
+  target: human embodiment of the corn-spirit in harvest or threshing custom
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the examples in the passage and to Frazer's
+    stated interpretation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8269-8273
+  quote_or_summary: Frazer says modern reapers, like Lityerses, seize a passing stranger
+    and tie him in a sheaf; they do not behead him, but their language and gestures
+    suggest such a desire.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8273-8281
+  quote_or_summary: In Mecklenburg, mowers face a master, mistress, or stranger entering
+    or passing the field, sharpen scythes together, and the female leader ties a band
+    around the visitor's left arm so that he must ransom himself by a forfeit.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8281-8292
+  quote_or_summary: Near Ratzeburg, harvesters march toward a master or person of
+    mark, form a line with scythes, hear a speech, whet scythes loudly, and two women
+    bind the visitor with corn-ears or a silken band and deliver an address.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8292-8319
+  quote_or_summary: In Pomerania and at Ramin, a passer-by or stranger is blocked
+    with a corn-rope, encircled by reapers, surrounded by sharpened scythes, and addressed
+    with verses about being mowed or struck unless drink is provided.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8320-8325
+  quote_or_summary: In Lüneburg, a person entering the harvest-field is asked about
+    hiring a good fellow; if he agrees, the harvesters mow swaths while yelling and
+    then ask for drink-money.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8326-8332
+  quote_or_summary: Frazer states that strangers on the threshing-floor are regarded
+    as embodiments of the corn-spirit; at Wiedingharde, a stranger may have the arms
+    of a threshing-flail put around his neck and pressed until he is nearly choked.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8332-8337
+  quote_or_summary: In Wermland, a stranger on the threshing-floor has a flail put
+    around the neck and a straw rope around the body; a stranger woman may be given
+    a flail and corn-stalk wreath and called Corn-woman or Corn-maiden.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because customs and Frazer's interpretations
+    are explicit. Motif taxonomy assignments require human review, especially where
+    mock ransom customs are mapped to sacrifice or sacred exchange.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not include scythe, corn, flail, rope, band, or beer/brandy.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l8269-l8337
+  passage_sha256=767e97f51446bb5b71cdde4c119791197a0f685da612fb2136686a1fbd3ac35c
+

@@ -1,0 +1,577 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l355-l440
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: PREFACE. / J. G. FRAZER. / CHAPTER I. THE KING OF THE WOOD. / MACAULAY.;
+    lines 355-440
+  start: '355'
+  end: '440'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Frazer summarizes reported features of Diana’s worship at Nemi, including
+    women’s votive offerings for childbirth, torch and fire rituals, purification,
+    crowned dogs, and a ritual meal. He describes Egeria as a water nymph associated
+    with the site and Virbius as Hippolytus restored from death, hidden by Diana at
+    Nemi, and worshipped with horse taboos and a special priest. He then frames the
+    central problem of the priest of Nemi: why he must kill his predecessor and first
+    pluck the Golden Bough. The passage begins a broader comparison of royal titles
+    combined with priestly duties in Italy, Greece, Asia Minor, Teutonic contexts,
+    and China.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Diana at Nemi is said to have been especially worshipped by women seeking
+    children or easy delivery.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fire had a prominent ritual role at Diana’s annual festival, with torches
+    in the grove, domestic hearth rites, votive torches, and an inferred perpetual
+    holy fire.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At the annual festival, young people underwent purification, dogs were crowned,
+    and a meal of young kid, wine, and hot cakes on leaves was served.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Egeria is described as a nymph of clear water associated with cascades flowing
+    into the lake at Le Mole.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One story says the grove was first consecrated to Diana by Manius Egerius.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Virbius is identified in legend with Hippolytus, who was killed by horses,
+    restored to life by Aesculapius, and hidden by Diana at Nemi under the name Virbius.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Horses were excluded from the grove and sanctuary because horses had killed
+    Hippolytus.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that the priest had to slay his predecessor and pluck the
+    Golden Bough before doing so.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The priest’s title is given as King of the Wood, and his office is described
+    as a kingdom.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The passage lists examples where royal titles and priestly duties are joined
+    in Italy, Greece, Asia Minor, Teutonic contexts, and China.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Diana at Nemi / Arician Diana
+  description: Goddess worshipped at Nemi, associated with women’s childbirth prayers,
+    fire ritual, a forest sanctuary, and the protection of Hippolytus/Virbius.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Egeria
+  description: A lesser divinity of Diana’s sanctuary, described as the nymph of clear
+    water flowing into the lake.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Virbius / Hippolytus
+  description: A lesser deity of the sanctuary; in legend the Greek hero Hippolytus,
+    killed by horses, restored to life, hidden at Nemi, and reigning there as a forest
+    king under the name Virbius.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Aesculapius
+  description: The healer who, according to the legend, restored Hippolytus to life
+    and was then thrust down to Hades by Jupiter.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Jupiter
+  description: The god who, angered that a mortal returned from death, sent Aesculapius
+    to Hades.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Priest of Nemi / King of the Wood
+  description: Priest whose title raises the question of why a priestly office is
+    called a kingdom; the passage states that he had to slay his predecessor and first
+    pluck the Golden Bough.
+  role_refs:
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: Sacrificial King / King of the Sacred Rites
+  description: A Roman priest cited as an example of a royal title joined with priestly
+    duties.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: childbirth-associated goddess
+  assigned_to:
+  - fig:1
+  basis: Women seeking children or easy delivery worshipped Diana and made votive
+    offerings.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fire-ritual goddess
+  assigned_to:
+  - fig:1
+  basis: Her ritual involved torches, hearth rites, vows fulfilled with torches, and
+    a possible perpetual holy fire.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: protector who hides a restored hero
+  assigned_to:
+  - fig:1
+  basis: Diana carried Hippolytus/Virbius to Italy and hid him at Nemi from Jupiter.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: water nymph
+  assigned_to:
+  - fig:2
+  basis: Egeria is explicitly called the nymph of clear water at the site.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: restored hero
+  assigned_to:
+  - fig:3
+  basis: Virbius is identified as Hippolytus, killed by horses and brought to life
+    again.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: forest king
+  assigned_to:
+  - fig:3
+  basis: After Diana hid him at Nemi, he reigned there as a forest king under the
+    name Virbius.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: healer who restores life
+  assigned_to:
+  - fig:4
+  basis: Aesculapius brought Hippolytus to life again by his simples.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: divine enforcer against return from death
+  assigned_to:
+  - fig:5
+  basis: Jupiter punished Aesculapius because a mortal returned from the gates of
+    death.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: priestly king
+  assigned_to:
+  - fig:6
+  basis: The priest is called King of the Wood and his office a kingdom.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: successor who kills predecessor
+  assigned_to:
+  - fig:6
+  basis: The passage asks why the priest had to slay his predecessor.
+  evidence_refs:
+  - ev:7
+- id: role:11
+  label: royally titled priest
+  assigned_to:
+  - fig:7
+  basis: The Roman Sacrificial King is cited as a priest with a royal title and ritual
+    duties.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: ritual fire
+  literal_form: torches, domestic hearth rites, and perpetual holy fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: clear water and lake
+  literal_form: spring water falling in cascades into the lake
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: sacred grove / forest sanctuary
+  literal_form: Diana’s grove and sanctuary at Nemi
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: Golden Bough
+  literal_form: the Golden Bough to be plucked before the predecessor is slain
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: horses as excluded animals
+  literal_form: horses excluded from the grove and sanctuary
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: crowned dogs
+  literal_form: dogs crowned during the annual festival
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Diana’s Nemi ritual features
+  summary: The passage describes women’s votive worship for childbirth, prominent
+    fire rites with torches and holy hearth observances, purification of young people,
+    crowned dogs, and a ritual feast.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Egeria and the water of Nemi
+  summary: Egeria is presented as a lesser divinity of the sanctuary, a water nymph
+    connected with clear cascades flowing into the lake, and one story links Manius
+    Egerius with the grove’s consecration to Diana.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Virbius as restored Hippolytus
+  summary: The legend identifies Virbius with Hippolytus, killed by horses, restored
+    to life by Aesculapius, hidden at Nemi by Diana from Jupiter, and worshipped under
+    restrictions including exclusion of horses and a special priest.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Problem of the King of the Wood
+  summary: 'Frazer frames two questions about the Nemi priest: why he had to slay
+    his predecessor and why he first had to pluck the Golden Bough; he then focuses
+    on the royal title King of the Wood.'
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Comparative survey of priestly kingship
+  summary: The passage compares the Nemi title with other cases in which royal titles
+    and religious duties are joined, including Roman, Greek, Asia Minor, Teutonic,
+    and Chinese examples.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: goddess worship for fertility and childbirth
+  taxonomy_refs:
+  - mother_goddess
+  - sacred_birth
+  basis: Diana at Nemi is especially associated with women seeking children or easy
+    delivery.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage reports votive worship for childbirth but does not explicitly
+    call Diana a mother goddess.
+- id: motif:2
+  label: ritual fire at a goddess sanctuary
+  taxonomy_refs: []
+  basis: Fire is described as central to Diana’s ritual through torches, domestic
+    hearth rites, votive torches, and possible perpetual holy fire.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No broader taxonomy motif is directly named beyond the literal fire symbolism.
+- id: motif:3
+  label: purification and festival meal
+  taxonomy_refs:
+  - initiation
+  basis: Young people undergo a purificatory ceremony and participate in a prescribed
+    festival setting with crowned dogs and a ritual meal.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage says purification, not initiation; the initiation taxonomy
+    link is tentative.
+- id: motif:4
+  label: water nymph at sacred sanctuary
+  taxonomy_refs: []
+  basis: Egeria is described as a nymph of clear water associated with the sacred
+    site’s cascades and lake.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives a local divine association rather than an explicit comparative
+    motif family.
+- id: motif:5
+  label: restored mortal hidden from divine anger
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: Hippolytus is killed, restored to life by Aesculapius, and hidden by Diana
+    from Jupiter at Nemi.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage presents restoration to life, but not a recurring cultic death-and-rebirth
+    cycle.
+- id: motif:6
+  label: animal taboo based on mythic death
+  taxonomy_refs: []
+  basis: Horses are excluded from the sanctuary because horses had killed Hippolytus.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The taxonomy list does not include a specific animal-taboo motif.
+- id: motif:7
+  label: succession through slaying predecessor
+  taxonomy_refs:
+  - sacrifice
+  - royal_legitimacy
+  basis: The passage states that the priest had to slay his predecessor, making predecessor-killing
+    central to the office.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This passage frames the issue as a question and does not yet explain the
+    practice.
+- id: motif:8
+  label: plucking a sacred bough before succession violence
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: Before killing his predecessor, the priest had to pluck the Golden Bough.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage names the Golden Bough but does not describe its tree, cosmological
+    function, or full ritual meaning.
+- id: motif:9
+  label: royal title joined to priestly function
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage emphasizes that the priest is called King of the Wood and compares
+    this with many cases of royal titles borne by religious functionaries.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is a comparative institutional pattern rather than a narrative myth
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself treats the King of the Wood as part of a wider pattern
+    in which royal titles and priestly duties are combined.
+  claim_level: same_function
+  target: priestly kingship in ancient Italy, Greece, Asia Minor, Teutonic contexts,
+    and China
+  evidence_refs:
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage compares functions and titles; it does not establish historical
+    contact or a single origin for the examples.
+- id: claim:2
+  claim: The Nemi priest’s title and office may be compared functionally with the
+    Roman Sacrificial King and Greek titular religious kings named in the passage.
+  claim_level: same_function
+  target: Roman Rex Sacrificulus / Rex Sacrorum and Greek religious titular kings
+  evidence_refs:
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the union of royal designation and priestly
+    duty, not to identical rites or myths.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 355-358
+  quote_or_summary: Votive offerings at Nemi indicate that Diana was especially worshipped
+    by women seeking children or easy delivery.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 358-367
+  quote_or_summary: 'Fire is described as prominent in Diana’s ritual: the annual
+    festival lit the grove with many torches, the day was observed at domestic hearths,
+    women brought lighted torches after answered prayers, and the title Vesta suggests
+    a perpetual holy fire.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 368-371
+  quote_or_summary: At the annual festival young people underwent purification, dogs
+    were crowned, and the feast included young kid, wine, and hot cakes on leaves.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 372-383
+  quote_or_summary: Egeria is one of two lesser divinities sharing Diana’s forest
+    sanctuary; she is the nymph of clear water cascading into the lake, and one story
+    links Manius Egerius with the first consecration of the grove to Diana.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 384-396
+  quote_or_summary: Virbius is identified with Hippolytus, killed by horses, restored
+    by Aesculapius, hidden by Diana at Nemi from Jupiter, and worshipped as a forest
+    king; horses are excluded from the sanctuary because they killed Hippolytus.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 396-398
+  quote_or_summary: Some considered Virbius the sun; touching his image was unlawful,
+    and a special priest, the Flamen Virbialis, cared for his worship.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 399-406
+  quote_or_summary: 'Frazer states two questions: why the priest had to slay his predecessor
+    and why he had to pluck the Golden Bough before doing so.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 408-411
+  quote_or_summary: Frazer focuses on the priest’s title, asking why he was called
+    the King of the Wood and why his office was called a kingdom.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary used.
+- id: ev:9
+  type: summary
+  locator: lines 412-440
+  quote_or_summary: The passage says that royal titles joined to priestly duties were
+    common in ancient Italy and Greece, gives Roman and Greek examples, cites Spartan
+    kings sacrificing as descendants of the god, and adds examples from Asia Minor,
+    Teutonic kings, and Chinese emperors.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is explicit about ritual features, named figures, and the comparative
+    priestly-kingship pattern. Some taxonomy mappings, especially initiation, mother_goddess,
+    sacred_birth, and sacred_tree_axis, are tentative because the passage does not
+    elaborate those motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Interpretive claims were limited to patterns directly stated or strongly supported by the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l355-l440
+  passage_sha256=0c78e414677235c5d57baf95192b936ead170d04c48efb0ec7cf17f4b6e625bf
+

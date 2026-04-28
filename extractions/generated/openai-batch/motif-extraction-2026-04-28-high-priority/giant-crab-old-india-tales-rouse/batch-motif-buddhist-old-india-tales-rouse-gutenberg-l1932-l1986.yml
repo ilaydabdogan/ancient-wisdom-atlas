@@ -1,0 +1,362 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l1932-l1986
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: UNION IS STRENGTH / SILENCE IS GOLDEN / THE GREAT YELLOW KING AND HIS PORTER
+    / THE QUAIL AND THE FALCON; lines 1932-1986
+  start: '1932'
+  end: '1986'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A young quail leaves the familiar ploughed field where it feeds and goes
+    to the forest edge, where a falcon catches it. The quail laments leaving its own
+    ground and claims the falcon could not catch it in a field full of clods. The
+    falcon releases it for a trial. Back on the farm, the quail perches on a clod,
+    dodges the falcon’s attack, and the falcon dies by striking the clod. The tale
+    ends with explicit morals about staying with what one knows and not risking a
+    sure catch for a doubtful gain.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The young quail lives on a farm and feeds on seeds, weeds, worms, or other
+    things turned up by the plough.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The quail leaves the farm and flies to the forest fringe to look for food.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A falcon flying above the tree-tops searches for quails and catches the quail
+    in its claws.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The captured quail says it was foolish to go onto other people's preserves
+    and that the falcon could not have caught it at home.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The quail identifies its own ground as a ploughed field full of clods.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The falcon releases the quail and follows it back to the farm for a test.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The quail perches on a large clod, dodges the falcon's swoop, and the falcon
+    strikes the clod and dies.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage closes with stated lessons about sticking to familiar ways and
+    the proverb that a bird in the hand is worth two in the bush.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: young Quail / Quailie
+  description: A young quail that lives on a farm, feeds after the plough, is caught
+    by a falcon after leaving home, and survives by returning to the ploughed field.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: Falcon
+  description: A falcon that hunts quails from above the tree-tops, catches Quailie,
+    releases it for a test, and dies after striking a clod.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: farmer / ploughman
+  description: A farmer or ploughman whose plough turns up food for the quail on the
+    farm.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: prey protagonist
+  assigned_to:
+  - fig:1
+  basis: The quail is the central figure followed by the narrative and is seized by
+    the falcon.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: predator antagonist
+  assigned_to:
+  - fig:2
+  basis: The falcon searches for quails, catches the quail, pursues it in a test,
+    and is defeated.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:3
+  label: resourceful survivor
+  assigned_to:
+  - fig:1
+  basis: The quail uses the clod in its familiar field to evade the falcon's attack.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:4
+  label: background provider of ploughed ground
+  assigned_to:
+  - fig:3
+  basis: The ploughman turns up food in the field where the quail lives.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: ploughed field full of clods
+  literal_form: A ploughed field containing clods of earth, named by the quail as
+    its own ground.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: big clod
+  literal_form: A large clod of earth on which the quail perches and against which
+    the falcon crashes.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: forest fringe
+  literal_form: The edge of the forest beyond the farm where the quail goes to seek
+    food and is seen by the falcon.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Quail feeding after the plough
+  summary: The quail lives on the farm and eats food exposed by the plough.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Departure to the forest edge
+  summary: The quail leaves the farm for the forest fringe to look for food.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Falcon catches the quail
+  summary: The falcon, hunting from above the tree-tops, swoops down and seizes the
+    quail.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Claim about own ground
+  summary: The quail laments leaving home and tells the falcon it could not catch
+    the quail in a ploughed field full of clods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Return and fatal swoop
+  summary: The falcon lets the quail return to the farm; the quail uses a clod to
+    evade the attack, causing the falcon to strike the earth and die.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Closing moral
+  summary: The narrator states lessons about remaining with familiar conditions and
+    not risking what one already has.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: small prey defeats predator by using familiar terrain
+  taxonomy_refs:
+  - wisdom
+  basis: The quail survives by returning to its own ploughed field and using a clod
+    to make the attacking falcon crash.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The available taxonomy has no specific animal-fable or trickster-prey
+    category; the wisdom reference is based on the passage's explicit moral.
+- id: motif:2
+  label: danger of leaving one's proper place
+  taxonomy_refs:
+  - wisdom
+  basis: The quail is caught after leaving the farm for the forest edge, then concludes
+    that staying on its own ground would have protected it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+  confidence: high
+  cautions: This is recorded as a moralized narrative pattern rather than a claim
+    about historical diffusion.
+- id: motif:3
+  label: sure possession lost through overconfidence
+  taxonomy_refs:
+  - wisdom
+  basis: The falcon already has the quail but releases it for a challenge and dies
+    in pursuit; the narrator explicitly invokes the proverb about a bird in the hand
+    being worth two in the bush.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The wording is proverbial in the English retelling; no claim is made about
+    the form of the underlying source.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly aligns the falcon's mistake with the proverbial pattern
+    'a bird in the hand is worth two in the bush.'
+  claim_level: same_function
+  target: 'proverbial wisdom pattern: a bird in the hand is worth two in the bush'
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This comparison is supported only by the English retelling's closing
+    sentence and should not be treated as evidence for the exact wording in an earlier
+    source.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1932-1938
+  quote_or_summary: The quail lives on a farm and feeds on things turned up by the
+    farmer's plough.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1939-1948
+  quote_or_summary: The quail leaves the farm for the forest fringe to seek food.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1949-1954
+  quote_or_summary: A falcon sailing above the tree-tops searches for quails, swoops
+    down, and catches the quail in its claws.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 1955-1964
+  quote_or_summary: '"If I had only stayed at home this Falcon could never have caught
+    me"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: quote
+  locator: lines 1965-1972
+  quote_or_summary: The quail says its own ground is "A ploughed field full of clods."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 1973-1977
+  quote_or_summary: The falcon dismisses the usefulness of clods, releases the quail,
+    and follows it back to the farm.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1978-1983
+  quote_or_summary: The quail perches on a big clod, dodges the falcon's swoop, and
+    the falcon strikes the clod so hard that it dies.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 1984-1986
+  quote_or_summary: The narrator says it is better "to stick to what they are used
+    to" and invokes "a bird in the hand is worth two in the bush."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The plot and morals are explicit. Motif labels are cautious because the supplied
+    taxonomy lacks specific animal-fable categories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No unsupported historical-contact or inheritance claims are made.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l1932-l1986
+  passage_sha256=7be07ab8f44d825a0660c016dccc6f6f6ab46300688e625acfdafd18f77b9fe6
+

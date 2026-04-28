@@ -1,0 +1,544 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l5746-l5781
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: MACAULAY. / CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING
+    THE GOD.; lines 5746-5781
+  start: '5746'
+  end: '5781'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer describes European folk ceremonies in which an effigy called Death
+    is expelled, destroyed, drowned, or stripped, while trees, clothing, processions,
+    and a living girl may represent renewed life. The passage gives examples from
+    Lusatia and from a Saxon village near Hermanstadt in Transylvania, and reports
+    popular beliefs about fruit, bathing, and dangers if the ceremony is neglected.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Death is represented by a puppet that is thrown away, while Summer or Life
+    is represented by branches or trees that are brought back.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that in some cases a new potency of life is attributed
+    to the image of Death itself, so that it becomes an instrument of general revival.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In the Lusatian example, women alone carry out the Death and do not allow
+    men to participate.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Lusatian women wear mourning, make a straw puppet, clothe it in a white
+    shirt, and give it a broom and a scythe.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Lusatian women carry the puppet to the village boundary with singing while
+    boys throw stones, and then tear the puppet in pieces.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: After destroying the puppet in the Lusatian example, the women cut down a
+    fine tree, hang the puppet’s shirt on it, and carry it home singing.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: In the Transylvanian Saxon example, schoolgirls dress up the Death after forenoon
+    church by making a head and body from a threshed-out corn-sheaf and arms from
+    a broomstick.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Transylvanian effigy is dressed in the Sunday clothes of a village matron
+    and displayed at a window before being carried in procession around the village.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Boys are excluded from the Transylvanian girls’ procession.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:10
+  text: After the Transylvanian procession, the effigy is stripped, the naked straw
+    bundle is thrown out of a window to boys, and the boys fling it into the nearest
+    stream.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:11
+  text: In the second act of the Transylvanian ceremony, one girl is invested with
+    the clothes and ornaments formerly worn by the figure of Death and is led in procession
+    with the same hymns.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: The Transylvanian ceremony ends with a feast at the house of the girl who
+    played the chief part.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:13
+  text: Popular belief in the Transylvanian example says fruit may be eaten only after
+    this day because the Death, glossed as unwholesomeness, has been expelled from
+    the fruit.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:14
+  text: Popular belief in the Transylvanian example says the river in which Death
+    has been drowned may now be considered fit for public bathing.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:15
+  text: Popular belief in the Transylvanian example says neglect of the ceremony may
+    entail death to one of the young people or loss of virtue to a girl.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Death puppet or effigy
+  description: A straw or corn-sheaf figure representing Death; in different examples
+    it is clothed, carried, destroyed, stripped, or drowned.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Lusatian women
+  description: Women who wear mourning, make and carry the Death puppet, tear it apart,
+    and bring back a tree with the puppet’s shirt.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Lusatian boys or urchins
+  description: Boys who pursue the Lusatian women and throw stones while the puppet
+    is carried.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Transylvanian Saxon schoolgirls
+  description: Girls who prepare, dress, display, and carry the Death effigy in procession,
+    then invest one girl with its clothing and ornaments.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Transylvanian boys
+  description: Boys excluded from the girls’ procession who receive the stripped straw
+    bundle and throw it into the nearest stream.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Girl invested with Death’s clothes and ornaments
+  description: One girl in the Transylvanian ceremony who is solemnly dressed in the
+    clothes and ornaments formerly worn by the figure of Death and led in procession.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Personified Death
+  assigned_to:
+  - fig:1
+  basis: The puppet or effigy is explicitly called Death and represents Death in the
+    described ceremonies.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Bearer of transferred life potency
+  assigned_to:
+  - fig:1
+  basis: The passage states that life potency can be attributed to the image of Death
+    and that it can become an instrument of general revival.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Female ritual performers
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Women or girls make, dress, carry, and process with the Death figure; male
+    participation is restricted or excluded in key parts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: Excluded or antagonistic male youths
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: Boys throw stones in the Lusatian example and are excluded from the Transylvanian
+    procession.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: Procession leaders or participants
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: The schoolgirls carry the effigy in procession, and later the invested girl
+    is led in procession.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: Disposers of the stripped effigy
+  assigned_to:
+  - fig:5
+  basis: The boys carry off the naked straw bundle and fling it into the nearest stream.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: Living substitute wearing the effigy’s attire
+  assigned_to:
+  - fig:6
+  basis: One girl is dressed in the clothes and ornaments previously worn by the figure
+    of Death.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Death effigy
+  literal_form: Puppet of straw or corn-sheaf figure with clothing, broom, scythe,
+    or broomstick arms.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Tree brought home
+  literal_form: A fine tree cut down after the Lusatian Death puppet is torn apart,
+    with the puppet’s white shirt hung on it.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: White shirt transferred to tree
+  literal_form: The white shirt first placed on the Lusatian straw puppet and later
+    hung on the cut tree.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Stream or river receiving Death
+  literal_form: The nearest stream into which the stripped Transylvanian straw bundle
+    is flung; the river is later considered fit for public bathing.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: Clothes and ornaments of Death
+  literal_form: Sunday clothes and ornaments placed on the Transylvanian Death figure
+    and later transferred to a living girl.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: Broom and scythe
+  literal_form: Objects placed in the hands of the Lusatian straw puppet of Death.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: Fruit made permissible
+  literal_form: Fruit that popular belief says may be eaten after Death or unwholesomeness
+    has been expelled from it.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: General pattern of expelling Death and returning Life
+  summary: The passage frames the described customs as cases where a puppet represents
+    Death and is thrown away, while branches or trees represent Summer or Life and
+    are brought back; in some cases the Death image itself is treated as acquiring
+    life potency.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lusatian carrying out of Death
+  summary: Women in mourning make a straw Death puppet with a white shirt, broom,
+    and scythe, carry it with songs to the village boundary while boys throw stones,
+    tear it apart, then bring home a tree with the puppet’s shirt hung on it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Transylvanian preparation and drowning of Death
+  summary: Schoolgirls make a corn-sheaf and broomstick Death figure, dress it in
+    matron’s Sunday clothes, display it, carry it in procession after vespers, strip
+    it, and give the straw bundle to boys who throw it into a stream.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Transylvanian second procession with living girl
+  summary: A girl is dressed in the clothing and ornaments formerly worn by the Death
+    figure and is led in procession with hymns; the ceremony ends with a feast, and
+    boys remain excluded.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Reported consequences and permissions after the ceremony
+  summary: Popular belief says that after the ceremony fruit may be eaten, the river
+    where Death was drowned is fit for bathing, and neglect of the rite may bring
+    death to a young person or loss of virtue to a girl.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Expulsion of Death by effigy
+  taxonomy_refs:
+  - death_rebirth
+  - seasonal_cycle
+  basis: Death is personified as a puppet or effigy that is carried away, destroyed,
+    stripped, or drowned, with the result described as expelling Death or unwholesomeness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage is Frazer’s comparative description of folk ceremonies, not
+    a primary ritual text.
+- id: motif:2
+  label: Death figure as source of revived life
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: The passage explicitly says that life potency may be attributed to the image
+    of Death itself and that, by a kind of resurrection, it becomes an instrument
+    of general revival.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The word resurrection is Frazer’s interpretive phrasing; the local acts
+    are described as clothing transfer, procession, tree return, and ritual permissions.
+- id: motif:3
+  label: Transfer of effigy’s clothing to living or vegetal bearer
+  taxonomy_refs:
+  - death_rebirth
+  - seasonal_cycle
+  basis: In Lusatia the Death puppet’s shirt is hung on a tree brought home; in Transylvania
+    the Death figure’s clothes and ornaments are transferred to a living girl who
+    is processed through the village.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage implies a relation between these transfers and revival but
+    does not give a native explanation for every object transfer.
+- id: motif:4
+  label: Ritual purification of food and water through drowning or expulsion of Death
+  taxonomy_refs: []
+  basis: Popular belief says fruit becomes edible after Death or unwholesomeness is
+    expelled, and the river where Death is drowned becomes fit for public bathing.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The belief is reported for the Transylvanian Saxon example only.
+- id: motif:5
+  label: Gender-restricted ritual procession
+  taxonomy_refs:
+  - initiation
+  basis: Women or girls control key ritual actions, while males are barred from participation
+    or limited to antagonistic/disposal roles.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly identify the ceremony as initiation; the
+    taxonomy reference is only a possible motif-family alignment based on gender exclusion
+    and youth participation.
+comparison_claims:
+- id: claim:1
+  claim: The Lusatian and Transylvanian examples share a motif of personifying Death
+    as an effigy that is removed from the community and then followed by a return
+    or transfer associated with renewed life.
+  claim_level: same_motif
+  target: European folk custom of carrying out Death and bringing back Life or Summer
+    as described in the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides Frazer’s comparative framing but only two detailed
+    examples in this line range; historical relationship among local customs is not
+    demonstrated here.
+- id: claim:2
+  claim: The tree with the shirt in the Lusatian example and the living girl dressed
+    in the effigy’s clothes in the Transylvanian example perform a similar replacement
+    function after the Death effigy is destroyed or stripped.
+  claim_level: same_function
+  target: Post-expulsion replacement bearer of clothing associated with Death/Life
+    transition
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not state an explicit local doctrine equating the
+    tree and the girl; the functional comparison follows Frazer’s immediate juxtaposition
+    and description.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5746-5752
+  quote_or_summary: Frazer states that Death is represented by a puppet that is thrown
+    away, while Summer or Life is represented by branches or trees brought back; he
+    adds that sometimes the Death image itself seems to gain life potency and become
+    an instrument of revival.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 5752-5760
+  quote_or_summary: In parts of Lusatia, women in mourning make a straw Death puppet
+    with a white shirt, broom, and scythe, carry it to the village boundary while
+    boys throw stones, tear it apart, then cut a fine tree, hang the shirt on it,
+    and carry it home singing.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5760-5772
+  quote_or_summary: In a Saxon village near Hermanstadt, schoolgirls make a corn-sheaf
+    and broomstick Death figure, dress it in a matron’s Sunday clothes, display it,
+    carry it in procession with boys excluded, strip it, and throw the straw bundle
+    to boys, who fling it into a stream.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 5772-5776
+  quote_or_summary: In the second act, one girl is invested with the clothes and ornaments
+    previously worn by the figure of Death and led in procession with hymns; the ceremony
+    ends with a feast, with boys again excluded.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 5776-5781
+  quote_or_summary: Popular belief says fruit may be eaten after this day because
+    Death or unwholesomeness has been expelled from it; the river where Death was
+    drowned becomes fit for bathing; neglect of the rite may bring death to a young
+    person or loss of virtue to a girl.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about ritual sequence, figures, objects, and Frazer’s
+    comparative framing. Motif-family mapping is partly interpretive and should be
+    reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to the provided motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l5746-l5781
+  passage_sha256=a53cf6704e51ca5f3376eb82afa748546dbe7e0f46b7c24c3c5e600944e4b99e
+

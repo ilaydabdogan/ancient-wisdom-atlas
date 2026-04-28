@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l1088-l1149
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: THE MEASURE OF RICE / THE FOOLISH, TIMID RABBIT / THE WISE AND THE FOOLISH
+    MERCHANT / THE ELEPHANT GIRLY-FACE; lines 1088-1149
+  start: '1088'
+  end: '1149'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A gentle royal elephant hears robbers speak about cruelty and killing,
+    imitates their teaching, and kills his keepers. A wise man concludes that the
+    elephant has been influenced by bad talk and advises the king to send good men
+    to speak within the elephant’s hearing. After hearing their words about gentleness
+    and not killing, the elephant becomes tame and good again.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A king owns an elephant named Girly-face, described as gentle, good, kind-looking,
+    and harmless.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Robbers sit near Girly-face’s stall at night and speak about breaking into
+    houses, killing anyone who wakes, cruelty, lack of pity, and not being good.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Girly-face interprets the robbers’ words as instruction about how he should
+    act.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The next morning Girly-face kills his keeper and then kills another keeper
+    who comes to investigate.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: For days, no one dares go near Girly-face, and his food is left for him at
+    a distance.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The king sends a wise man to discover what is wrong with Girly-face.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The wise man finds no physical problem and infers that Girly-face must have
+    heard bad men talking.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A keeper confirms that robbers had spoken near Girly-face’s sleeping place.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The wise man advises the king to send good men to speak where Girly-face can
+    hear them.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Good men speak near Girly-face’s stall, saying that hurting and killing are
+    wrong and that everyone should be gentle and good.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Girly-face again interprets overheard speech as instruction and resolves to
+    be gentle, good, and harmless.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: After hearing the good men, Girly-face becomes tame and good again.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Girly-face
+  description: A royal elephant first described as gentle and good, later violent
+    after hearing robbers, and finally tame again after hearing good men.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: king
+  description: The ruler who owns Girly-face and sends a wise man, then good men,
+    to address the elephant’s condition.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: keeper of the elephants
+  description: A keeper associated with Girly-face; one keeper says Girly-face never
+    hurts anyone, and a keeper is later killed when feeding him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: another keeper
+  description: A second keeper runs to see what is wrong and is killed by Girly-face.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: robbers
+  description: A group of robbers who talk near Girly-face’s stall about cruelty,
+    killing, and having no pity.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:6
+  name_or_label: wise man
+  description: A man sent by the king who examines Girly-face, infers that bad talk
+    caused the change, and proposes corrective good talk.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: good men
+  description: A company of the best men sent to speak near Girly-face’s stall about
+    not hurting or killing and being gentle and good.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: gentle royal elephant
+  assigned_to:
+  - fig:1
+  basis: Girly-face belongs to the king and is initially described as gentle, good,
+    kind-looking, and harmless.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: imitator of overheard speech
+  assigned_to:
+  - fig:1
+  basis: Girly-face treats both the robbers’ words and the good men’s words as teaching
+    for how he should act.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: temporary killer
+  assigned_to:
+  - fig:1
+  basis: After hearing the robbers, Girly-face kills two keepers.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: royal owner and sender
+  assigned_to:
+  - fig:2
+  basis: The king owns Girly-face and sends the wise man and later the good men.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:5
+  label: victim keeper
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Girly-face kills the keeper who comes to feed him and another keeper who
+    comes to investigate.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: bad speakers
+  assigned_to:
+  - fig:5
+  basis: The robbers speak about killing, cruelty, and having no pity near Girly-face’s
+    stall.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: diagnostic wise adviser
+  assigned_to:
+  - fig:6
+  basis: The wise man examines Girly-face, infers the influence of bad talk, and advises
+    corrective speech by good men.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: corrective moral speakers
+  assigned_to:
+  - fig:7
+  basis: The good men speak within Girly-face’s hearing about non-harm, non-killing,
+    gentleness, and goodness.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Gentle elephant introduced
+  summary: The king’s elephant Girly-face is introduced as gentle, good, kind-looking,
+    and harmless.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Robbers’ speech overheard
+  summary: Robbers talk near Girly-face’s stall about how robbers should kill, be
+    cruel, show no pity, and never be good; Girly-face decides to act according to
+    their words.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Girly-face becomes dangerous
+  summary: Girly-face kills two keepers, and afterward people avoid going near him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Wise diagnosis
+  summary: The king sends a wise man, who finds no physical ailment and concludes
+    that Girly-face has been influenced by bad men’s talk; a keeper confirms robbers
+    had spoken near the stall.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Corrective good speech
+  summary: On the wise man’s advice, the king sends good men to speak near Girly-face’s
+    stall about gentleness and not killing; Girly-face accepts this as instruction
+    and becomes tame and good again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: wise diagnosis of hidden moral cause
+  taxonomy_refs:
+  - wisdom
+  basis: The wise man finds no bodily ailment, infers that Girly-face has been affected
+    by bad talk, and prescribes good talk as the remedy.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy reference “wisdom” is broad; the passage supports
+    wisdom as practical diagnosis and counsel rather than a more specific named motif.
+- id: motif:2
+  label: character shaped by overheard speech
+  taxonomy_refs: []
+  basis: Girly-face first imitates the robbers’ cruel talk and later imitates the
+    good men’s moral talk, changing behavior in each case.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level pattern stated by the narrative; no external taxonomy
+    identifier is supplied.
+- id: motif:3
+  label: moral reform through corrective instruction
+  taxonomy_refs: []
+  basis: After good men speak about not hurting or killing and being gentle and good,
+    Girly-face resolves to follow those teachings and becomes tame again.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a local narrative motif/pattern, not linked to a supplied comparative
+    motif family except indirectly through moral wisdom.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1088-1093
+  quote_or_summary: A king has an elephant named Girly-face, so called because he
+    is gentle, good, kind-looking, and known never to hurt anyone.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1094-1103
+  quote_or_summary: Robbers speak near Girly-face’s stall about breaking into houses,
+    killing those who wake, being cruel, showing no pity, and never being good; Girly-face
+    decides they are teaching him how to act.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1104-1111
+  quote_or_summary: Girly-face kills the keeper who comes to feed him and then kills
+    another keeper; afterward no one dares go near him, though food is left for him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1112-1123
+  quote_or_summary: The king sends a wise man, who finds no physical problem, suspects
+    Girly-face heard bad men talking, and receives confirmation that robbers had talked
+    near the elephant’s sleeping place.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1124-1131
+  quote_or_summary: The wise man tells the king to send good men to talk where Girly-face
+    can hear; the men say it is wrong to hurt or kill and that everyone should be
+    gentle and good.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 1132-1135
+  quote_or_summary: Girly-face thinks the good men are teaching him, resolves to be
+    gentle, good, and not to hurt or kill, and from then on is tame and good again.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal sequence is explicit. Motif labeling is moderately confident
+    because only broad taxonomy references were available; no comparison claims were
+    made because the passage itself does not support external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage text was used. No symbols from the supplied symbol taxonomy were assigned because none of the listed symbol forms are present as salient passage symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l1088-l1149
+  passage_sha256=06c4d5373761827c255e69a65172e6a1b4b6f19f58a07b2fe105281ecbdf6de0
+

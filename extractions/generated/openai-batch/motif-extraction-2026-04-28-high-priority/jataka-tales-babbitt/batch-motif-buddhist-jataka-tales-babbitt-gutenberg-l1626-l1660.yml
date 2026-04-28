@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l1626-l1660
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: GRANNY'S BLACKIE / THE CRAB AND THE CRANE / XVIII / WHY THE OWL IS NOT KING
+    OF THE BIRDS; lines 1626-1660
+  start: '1626'
+  end: '1660'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"From that time on the Crows and the Owls have been enemies."'
+  summary: The passage explains why crows and owls are enemies and why the owl did
+    not become king of the birds. In a primordial time, different groups choose kings;
+    the birds consider the owl, but an old crow objects to the owl's sour appearance.
+    The owl pursues the crow, hostility begins between crows and owls, and the birds
+    choose a Turtle Dove as king instead.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage opens with a question about crows tormenting owls in the daytime
+    and owls trying to kill crows at night.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the time described as when the world was young, humans, four-footed animals,
+    and fish each chose or had a king.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The birds gathered on a great flat rock and said that they also ought to have
+    a king.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The birds proposed the Owl as their king.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: An old Crow objected to the Owl becoming king, saying the Owl looked sour
+    even when the birds were praising him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Crow flew away crying that he did not like the choice, and the Owl rose
+    and followed him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage states that from then on Crows and Owls have been enemies.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After the Owl was not accepted, the birds chose a Turtle Dove as their king
+    and went home.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Crows
+  description: Birds described as tormenting owls while the owls sleep in the daytime;
+    represented in the tale by an old Crow who objects to the Owl.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Owls
+  description: Birds described as trying to kill crows while the crows sleep at night;
+    represented in the tale by the Owl proposed as king.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Birds
+  description: A collective assembly that gathers to choose a king.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Owl
+  description: The bird proposed by the assembly as king, rejected after the old Crow's
+    objection, and then shown following the Crow.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: old Crow
+  description: An old crow who rises and speaks against choosing the Owl as king.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Turtle Dove
+  description: The bird ultimately chosen by the birds to be their king.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: people
+  description: People who lived together when the world was young and took a certain
+    man for their king.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: four-footed animals
+  description: Animals who took one of their number for their king.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: fish in the ocean
+  description: Fish who chose a king to rule over them.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: electing assembly
+  assigned_to:
+  - fig:3
+  basis: The birds gather, discuss their lack of a king, and choose a ruler.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: proposed but rejected king
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The birds say they want the Owl as king, but the old Crow objects and the
+    Owl is not the final choice.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: objector to proposed ruler
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The old Crow publicly says he does not want the Owl to be king and criticizes
+    the Owl's look.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: chosen king
+  assigned_to:
+  - fig:6
+  basis: The birds choose the Turtle Dove to be their king after the conflict with
+    the Owl and Crow.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: enemy groups
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states reciprocal hostility between crows and owls and explains
+    its origin.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:6
+  label: groups with kings
+  assigned_to:
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: Humans, four-footed animals, and fish are each described as having chosen
+    or taken a king.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Present animal hostility introduced
+  summary: The narrator asks why crows torment owls by day and owls attack crows by
+    night, then introduces an old tale as the explanation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Kings chosen among other beings
+  summary: In the young world, humans, four-footed animals, and fish each have a king.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Bird assembly on the rock
+  summary: The birds gather on a great flat rock, note that other groups have kings,
+    and decide that they should choose one too.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Owl proposed and Crow objects
+  summary: The birds propose the Owl as king, but an old Crow rejects the choice because
+    of the Owl's sour-looking face.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:5
+  label: Pursuit, enmity, and replacement king
+  summary: The Crow flies away declaring disapproval, the Owl follows, enmity between
+    crows and owls begins, and the birds choose a Turtle Dove as king.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Origin of enmity between animal groups
+  taxonomy_refs: []
+  basis: The passage explicitly explains present hostility between crows and owls
+    by narrating an earlier quarrel during the election of a bird king.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level etiological motif; no broader taxonomy reference
+    is asserted.
+- id: motif:2
+  label: Election and rejection of an animal king
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The birds assemble to choose a king, initially select the Owl, reject him
+    after objection, and choose the Turtle Dove instead.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy label 'royal_legitimacy' is broader than the animal-fable
+    election scene and should be reviewed.
+- id: motif:3
+  label: Warning against an unsuitable ruler
+  taxonomy_refs:
+  - wisdom
+  basis: The old Crow argues against the Owl's kingship by judging the Owl's expression
+    and warning how he might look when angry.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents practical objection or counsel, but does not explicitly
+    label it as wisdom.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1629-1634
+  quote_or_summary: The narrator asks why crows torment sleeping owls by day and why
+    owls try to kill sleeping crows by night, then says an old tale will explain it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1636-1640
+  quote_or_summary: When the world was young, people took a man for king, four-footed
+    animals took one of their number for king, and fish chose a king.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1640-1648
+  quote_or_summary: The birds gather on a great flat rock, say that humans, beasts,
+    and fish have kings, and decide to choose the Owl as their king.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1650-1656
+  quote_or_summary: An old Crow says he does not want the Owl as king, pointing to
+    the Owl's sour look and asking how he would look when angry.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: quote
+  locator: lines 1658-1660
+  quote_or_summary: The Crow flies up crying that he does not like it; the Owl follows.
+    "From that time on the Crows and the Owls have been enemies." The birds choose
+    a Turtle Dove as king.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation and summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear for literal extraction and etiological motif identification.
+    Taxonomy mapping is tentative because the available motif families are broad.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-text or cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l1626-l1660
+  passage_sha256=b5a74d61b0a3f22df372c60895f8fe06f2e471ca07e9ee5cc5f33f385bff2037
+

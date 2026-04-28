@@ -1,0 +1,451 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l847-l946
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: THE SANDY ROAD / THE QUARREL OF THE QUAILS / THE MEASURE OF RICE / THE FOOLISH,
+    TIMID RABBIT; lines 847-946
+  start: '847'
+  end: '946'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A rabbit wakes under a palm-tree, hears a coconut fall, and believes the
+    earth is breaking up. His fear spreads from animal to animal until many are running.
+    A lion stops the animals, traces the report back to the first rabbit, returns
+    with him to the place, finds the fallen coconut, and explains the mistake.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A rabbit is asleep under a palm-tree and wakes thinking about what would happen
+    if the world broke up.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Monkeys drop a coconut, which falls to the ground behind the rabbit.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The rabbit hears the noise, concludes that the earth is breaking up, and runs
+    without looking back.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Other rabbits join the running after hearing the report that the earth is
+    breaking up.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A deer, a fox, and an elephant join the animals running after the report is
+    passed along.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The lion sees the animals running, suspects a mistake, stops them at the foot
+    of a hill by roaring three times, and questions them.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:7
+  text: The questioned animals trace the report back through the elephant, fox, deer,
+    and rabbits to the first rabbit.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: The lion carries the first rabbit back to the place where he had slept and
+    sees the fallen coconut nearby.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: The lion explains that the sound was likely the coconut falling and reports
+    this to the other animals.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:10
+  text: The passage states that without the wise King of Beasts the animals might
+    still be running.
+  category: attribute
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: first Rabbit
+  description: The rabbit who first thinks the earth is breaking up after hearing
+    the fallen coconut.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:9
+- id: fig:2
+  name_or_label: other Rabbits
+  description: Rabbits who join the running after hearing the first rabbit's report.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: fig:3
+  name_or_label: Monkeys
+  description: Monkeys who drop the coconut near the sleeping rabbit.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Deer
+  description: An animal who joins the running after hearing the earth is breaking
+    up.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:5
+  name_or_label: Fox
+  description: An animal who joins the running after being called by the deer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:6
+  name_or_label: Elephant
+  description: An animal who joins the running and later says the fox told him the
+    report.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:7
+  name_or_label: Lion
+  description: The King of Beasts who stops the animals, investigates the report,
+    and explains the true cause.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:10
+  - ev:11
+roles:
+- id: role:1
+  label: mistaken alarm-giver
+  assigned_to:
+  - fig:1
+  basis: The first rabbit hears a sound, believes the earth is breaking up, and begins
+    running without checking the cause.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: report-following runners
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: These animals run after hearing the report from others rather than seeing
+    the event themselves.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: role:3
+  label: unintentional cause of alarm
+  assigned_to:
+  - fig:3
+  basis: The monkeys drop the coconut whose sound is mistaken for the earth breaking
+    up.
+  evidence_refs:
+  - ev:2
+  - ev:10
+- id: role:4
+  label: investigator
+  assigned_to:
+  - fig:7
+  basis: The lion suspects a mistake, questions the animals, and returns to the place
+    with the first rabbit.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:5
+  label: wise king
+  assigned_to:
+  - fig:7
+  basis: The passage identifies the lion as the King of Beasts and later calls him
+    wise.
+  evidence_refs:
+  - ev:6
+  - ev:11
+symbols:
+- id: sym:1
+  label: palm-tree
+  literal_form: palm-tree under which the first rabbit sleeps
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fallen coconut
+  literal_form: coconut dropped by monkeys and found on the ground near where the
+    rabbit slept
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:9
+  - ev:10
+- id: sym:3
+  label: earth breaking up
+  literal_form: reported breaking-up of the earth, based on the rabbit's mistaken
+    interpretation of a sound
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: hill
+  literal_form: hill at whose foot the lion stops the running animals
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Rabbit misinterprets a sound
+  summary: A rabbit wakes under a palm-tree, hears a coconut fall behind him, decides
+    the earth is breaking up, and runs away without checking.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Alarm spreads among animals
+  summary: Other rabbits and then a deer, fox, and elephant join the flight as the
+    report is repeated.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Lion stops and questions the runners
+  summary: The lion stops the animals at the foot of a hill, asks why they are running,
+    and traces the claim back through the animals to the first rabbit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Cause of alarm discovered
+  summary: The lion carries the first rabbit back, sees the coconut near the sleeping
+    place, identifies the sound as the likely cause, and tells the animals.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: false alarm spreading through repeated report
+  taxonomy_refs: []
+  basis: A mistaken claim by one rabbit is repeated to other animals, causing a widening
+    group to flee.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: The label is descriptive and not tied to a supplied taxonomy reference.
+- id: motif:2
+  label: wise ruler investigates fear and corrects error
+  taxonomy_refs:
+  - wisdom
+  basis: The lion, called the King of Beasts and described as wise, suspects a mistake,
+    investigates the origin of the report, and explains the real cause.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage supports wisdom through the
+    lion's inquiry and explicit description as wise.
+- id: motif:3
+  label: misheard natural sound as cosmic disaster
+  taxonomy_refs: []
+  basis: The rabbit hears the coconut fall and interprets the sound as the earth breaking
+    up.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:10
+  confidence: high
+  cautions: The cosmic disaster is only a mistaken belief within the story, not an
+    actual event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 847-852
+  quote_or_summary: A rabbit is asleep under a palm-tree, wakes, and thinks about
+    what would happen if the world broke up.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 853-858
+  quote_or_summary: Monkeys drop a coconut; it falls behind the rabbit, and he hears
+    the noise.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 857-862
+  quote_or_summary: '"The earth is all breaking up!" The rabbit then runs without
+    looking back to see what made the noise.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 863-879
+  quote_or_summary: A second rabbit asks why he is running; after hearing the report,
+    the second rabbit runs with him, and many other rabbits join.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 880-887
+  quote_or_summary: The running rabbits pass a deer; the deer calls a fox; an elephant
+    also joins them as they continue running.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 888-895
+  quote_or_summary: The lion sees the animals running, hears their cry, thinks there
+    must be a mistake, and roars three times at the foot of a hill to stop them.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 896-901
+  quote_or_summary: The lion asks why they are running, and they answer, "the earth
+    is all breaking up!"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: summary
+  locator: lines 902-913
+  quote_or_summary: The lion asks who saw it; the elephant points to the fox, the
+    fox to the rabbits, and the rabbits say another rabbit told them, until the first
+    rabbit is reached.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 914-929
+  quote_or_summary: The first rabbit tells the lion he heard the sound while under
+    the palm-tree. The lion says they will go back and see what is the matter, then
+    carries the rabbit there.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: quote
+  locator: lines 930-938
+  quote_or_summary: The lion sees the coconut near where the rabbit slept and says,
+    "It must have been the sound of the cocoanut falling to the ground that you heard."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation.
+- id: ev:11
+  type: summary
+  locator: lines 939-944
+  quote_or_summary: The lion tells the other animals what happened; the passage says
+    that without the wise King of Beasts they might still be running.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive;
+    only the broad supplied taxonomy reference 'wisdom' is used.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison to another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l847-l946
+  passage_sha256=c0b1199b9d11a3b125921580abf807c5539548a5b7be7b5b31c3b34a3116dd40
+

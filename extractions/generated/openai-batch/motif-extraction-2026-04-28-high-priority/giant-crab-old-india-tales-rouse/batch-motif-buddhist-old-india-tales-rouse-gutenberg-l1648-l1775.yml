@@ -1,0 +1,547 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l1648-l1775
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE PIOUS WOLF / BIRDS OF A FEATHER / SPEND A POUND TO WIN A PENNY / THE
+    CUNNING CRANE AND THE CRAB; lines 1648-1775
+  start: '1648'
+  end: '1775'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A group of fish live in a drying pool near a cool lake. A crane falsely
+    offers to carry them to safety, first proving the lake exists by taking a one-eyed
+    fish there and back. He then carries fish away one by one, kills and eats them
+    at a tree, and leaves their bones there. When he tries the same trick on a crab,
+    the crab insists on holding the crane’s neck with his claws. The crab discovers
+    the deception, forces the crane to set him down at the lake, and then cuts off
+    the crane’s head. The crab lives safely in the lake afterward.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fish live in a small pool whose water dries and becomes dangerously low during
+    hot weather.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A cool lake with trees and water-lilies lies nearby, and a crane lives on
+    its banks.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The crane eats fish when he can and thinks of a trick after seeing the fish
+    gasping in the pool.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The crane tells the fish he is sorry for them and offers to carry them to
+    the nearby lake.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The fish initially suspect that the crane wants to eat them.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: An old one-eyed fish is carried to the lake and back, then reports favorably
+    on the lake to the other fish.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The fish become eager to be carried to the lake one at a time.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The crane carries the one-eyed fish away again, places him in a tree cleft,
+    kills and eats him, and drops his bones at the foot of the tree.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The crane repeats the killing until every fish in the pool has been eaten.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The crane then sees a crab in the emptied pool and invites him to come to
+    the lake.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The crab refuses to be carried only in the crane’s beak and asks to hold the
+    crane’s neck with his claws.
+  category: speech
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The crab notices that the crane is carrying him toward the tree where the
+    fish were eaten, not toward the lake.
+  category: action
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: The crane reveals the heap of fish bones and says he intends to eat the crab.
+  category: speech
+  evidence_refs:
+  - ev:13
+- id: obs:14
+  text: The crab pinches the crane’s neck, frightening him, and demands to be placed
+    in the lake.
+  category: action
+  evidence_refs:
+  - ev:14
+- id: obs:15
+  text: After being set down at the lakeside, the crab cuts off the crane’s head and
+    afterward lives in the lake.
+  category: sequence
+  evidence_refs:
+  - ev:15
+figures:
+- id: fig:1
+  name_or_label: the Crane
+  description: A crane living by the lake; he eats fish, deceives the fish with an
+    offer of rescue, and later tries to eat the crab.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:13
+- id: fig:2
+  name_or_label: the Fish
+  description: A group of fish trapped in a drying pool; they accept the crane’s offer
+    after the one-eyed fish reports on the lake.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: the one-eyed Fish
+  description: An old fish with one eye who is first used to verify the lake and is
+    then the first fish killed by the crane.
+  role_refs:
+  - role:4
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: the Crab
+  description: A crab remaining in the pool after the fish are eaten; he secures himself
+    to the crane’s neck, discovers the deception, and kills the crane.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+  - ev:14
+  - ev:15
+roles:
+- id: role:1
+  label: deceptive rescuer
+  assigned_to:
+  - fig:1
+  basis: The crane offers to carry the fish to a safe lake while actually intending
+    to eat them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:13
+- id: role:2
+  label: predator
+  assigned_to:
+  - fig:1
+  basis: The crane is described as eating fish and kills the fish he transports.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+- id: role:3
+  label: endangered prey group
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The fish are trapped in a drying pool and are eaten one by one by the crane.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  - ev:9
+- id: role:4
+  label: scout or test passenger
+  assigned_to:
+  - fig:3
+  basis: The one-eyed fish is sent to see whether the crane’s claim about the lake
+    is true.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: suspicious passenger
+  assigned_to:
+  - fig:4
+  basis: The crab does not trust the crane’s friendship and insists on gripping the
+    crane’s neck with his claws.
+  evidence_refs:
+  - ev:11
+- id: role:6
+  label: counterattacker and survivor
+  assigned_to:
+  - fig:4
+  basis: The crab uses his claws to control the crane, reaches the lake safely, kills
+    the crane, and survives there.
+  evidence_refs:
+  - ev:14
+  - ev:15
+symbols:
+- id: sym:1
+  label: drying pool
+  literal_form: small pool with water drying up in summer heat
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: sym:2
+  label: cool lake
+  literal_form: nearby deep, fresh, cool lake shaded by trees and covered with water-lilies
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:15
+- id: sym:3
+  label: tree of killing
+  literal_form: tree cleft and foot of the tree where the crane kills fish and drops
+    their bones
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+  - ev:12
+  - ev:13
+- id: sym:4
+  label: crab’s claws on crane’s neck
+  literal_form: the crab’s claws gripping and pinching the crane’s neck
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+  - ev:14
+- id: sym:5
+  label: heap of bones
+  literal_form: bones of the fish under the tree
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:13
+scenes:
+- id: scene:1
+  label: Drying pool and nearby lake
+  summary: Fish are trapped in a small pool drying in the heat, while a cool lake
+    lies nearby under trees and water-lilies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Crane’s offer and fish suspicion
+  summary: The crane sees the fish’s distress, plans a trick, and offers to carry
+    them to the lake; the fish suspect he wants to eat them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Test journey by the one-eyed fish
+  summary: The crane takes the one-eyed fish to the lake and back; the old fish praises
+    the lake, making the rest of the fish eager to go.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Fish killed at the tree
+  summary: The crane transports the fish one by one but kills and eats them at a tree,
+    leaving their bones there until the pool is emptied of fish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Crab’s guarded journey
+  summary: The crane invites the crab, but the crab insists on holding the crane’s
+    neck with his claws and notices they are headed toward the killing tree.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+- id: scene:6
+  label: Deceiver overpowered
+  summary: The crane admits he ate the fish and will eat the crab; the crab pinches
+    him, makes him land at the lake, and cuts off his head.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:13
+  - ev:14
+  - ev:15
+candidate_motifs:
+- id: motif:1
+  label: false rescue by a predator
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The crane presents himself as a helper who will carry the fish to safety,
+    but he is actually using the journey to kill and eat them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+  - ev:13
+  confidence: high
+  cautions: The available taxonomy does not include a specific animal-fable deceiver
+    category; “trickster_boundary” is used broadly for deception and violated trust.
+- id: motif:2
+  label: deceiver caught by his own trick
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The crane’s transport scheme is turned against him when the crab demands
+    to grip his neck, making the predator vulnerable and leading to his death.
+  evidence_refs:
+  - ev:11
+  - ev:14
+  - ev:15
+  confidence: high
+  cautions: This is a moralized animal-fable pattern rather than a direct mythic trickster
+    episode.
+- id: motif:3
+  label: wise smaller animal survives treachery
+  taxonomy_refs:
+  - wisdom
+  basis: The crab distrusts the crane, chooses a safer method of transport, recognizes
+    the danger, and survives by acting decisively.
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:14
+  - ev:15
+  confidence: medium
+  cautions: The passage frames the crab as having more sense than the fish, but the
+    taxonomy reference “wisdom” is broad.
+- id: motif:4
+  label: dangerous journey from failing water to refuge
+  taxonomy_refs: []
+  basis: The fish and crab seek movement from a drying pool to a fresh lake; the journey
+    becomes the setting for deception and survival.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:15
+  confidence: medium
+  cautions: The journey is local and practical, not explicitly a sacred or afterlife
+    passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1648-1654
+  quote_or_summary: A number of fish live in a little pool; when summer heat comes,
+    the water dries and becomes barely enough to hide them.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1655-1659
+  quote_or_summary: A beautiful, fresh, cool lake lies nearby under great trees and
+    water-lilies; a crane lives on its banks.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1660-1663
+  quote_or_summary: The crane eats fish when he can, sees the fish gasping in the
+    little pool, and thinks of a trick to get them without trouble.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 1664-1667
+  quote_or_summary: "“I know a beautiful lake close by... and if you like I will carry
+    you there.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: quote
+  locator: lines 1668-1675
+  quote_or_summary: "“We don't believe you; what you want is to eat us.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 1676-1690
+  quote_or_summary: An old one-eyed fish is sent to inspect the lake; the crane carries
+    him there and back, and the fish praises the lake’s depth, coolness, shade, water-lilies,
+    and flies.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1691-1698
+  quote_or_summary: All the fish become eager to go and beg the crane to carry them;
+    the crane says he can take only one at a time.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1699-1707
+  quote_or_summary: The crane carries the one-eyed fish away again, lays him in a
+    tree cleft, pecks out his eye, kills and eats him, and drops his bones under the
+    tree.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 1708-1716
+  quote_or_summary: The crane returns for more fish, falsely says the first fish is
+    happy, and repeats the killing until every fish has been eaten.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 1717-1721
+  quote_or_summary: After the fish are gone, the crane sees a crab in the pool and
+    invites him to come to the lake.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 1722-1733
+  quote_or_summary: The crab asks how he will be carried, rejects relying only on
+    the crane’s beak, and says he will hold the crane’s neck with his claws; the crane
+    agrees.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 1734-1738
+  quote_or_summary: While being carried, the crab sees that they are going toward
+    the tree where the crane used to sit and eat the fish, not to the lake.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: quote
+  locator: lines 1739-1745
+  quote_or_summary: "“Just look at that heap of bones under yon tree!... I ate them,
+    and I'm going to eat you!”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:14
+  type: summary
+  locator: lines 1746-1759
+  quote_or_summary: The crab nips the crane’s neck; the crane becomes frightened and
+    begs forgiveness; the crab tells him to put him in the lake.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:15
+  type: summary
+  locator: lines 1760-1765
+  quote_or_summary: The crane sets the crab on the lakeside mud; once safe, the crab
+    cuts off the crane’s head and lives happily in the lake afterward.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal plot and figures are explicit. Motif taxonomy mappings are broad
+    because the available taxonomy does not include a specific animal-fable predator-deceiver
+    category. No comparison claims were added because the passage itself does not
+    compare the tale to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Passage is a public-domain English retelling of an animal fable. Extraction separates literal plot details from broader motif candidates.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l1648-l1775
+  passage_sha256=359dc74ff6d0e6e2d61a785afc6519905114bb2496c9edf25eae39a86f843512
+

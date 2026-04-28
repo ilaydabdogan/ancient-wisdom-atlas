@@ -1,0 +1,223 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l99-l131
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: The Giant Crab, and Other Tales from Old India / WARNING / CONTENTS; lines
+    99-131
+  start: '99'
+  end: '131'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A table of contents lists the titles of tales in the collection and their
+    starting page numbers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a table of contents with story titles and corresponding page
+    numbers.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several titles name animals, including a crab, cat, crocodile, monkey, parrots,
+    mouse, tortoise, monkeys, wolf, crane, quail, falcon, jackal, lion, and boar.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Several titles name human social figures, including a farmer, king, prince,
+    porter, beggar, and friend.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Two titles include the word “Goblin,” one connected with a sneeze and one
+    with a pool; another title names a goblin city.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Some titles are phrased as maxims or explicit lessons, such as strength through
+    union, the value of silence, the fall of pride, and a king’s lesson.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Animal figures named in titles
+  description: Animals appear as title figures across multiple tale titles.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Human social figures named in titles
+  description: Human figures with social labels appear in tale titles.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Goblins
+  description: Goblins are named in multiple tale titles.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: title figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage lists these beings or persons only as figures named in story
+    titles, without narrative action in this excerpt.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: pool
+  literal_form: pool
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: animal title figures
+  literal_form: animals named in tale titles
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: goblin city
+  literal_form: city named in a tale title
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Table of contents
+  summary: The passage lists tale titles with page numbers rather than narrating an
+    event.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: wisdom, folly, and moral instruction in tale titles
+  taxonomy_refs:
+  - wisdom
+  basis: Titles such as “The Wise Parrot and the Foolish Parrot,” “The Foolish Farmer
+    and the King,” “Silence is Golden,” and “The King's Lesson” indicate wisdom or
+    lesson-oriented material at the title level.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The excerpt is only a table of contents; it does not provide narrative
+    details for confirming a full motif.
+- id: motif:2
+  label: deception or cunning indicated by titles
+  taxonomy_refs: []
+  basis: Titles such as “The Hypocritical Cat,” “The Dishonest Friend,” and “The Cunning
+    Crane and the Crab” indicate deception-related story premises at the title level.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The passage supplies titles only, so the specific narrative function of
+    deception cannot be determined.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 99-131
+  quote_or_summary: The passage is the contents page for the collection, listing tale
+    titles and page numbers.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 103-127
+  quote_or_summary: Animal-named titles include tales of a crab, cat, crocodile and
+    monkey, parrots, mouse, tortoise, monkeys, wolf, crane and crab, quail and falcon,
+    jackal, lion, and boar.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 108-130
+  quote_or_summary: Human or social figure titles include a friend, farmer, king,
+    prince, porter, beggar, and the king’s lesson.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 112-128
+  quote_or_summary: "“The Goblin and the Sneeze”; “The Goblin in the Pool”; “The Goblin
+    City.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 120-130
+  quote_or_summary: "“Union is Strength”; “Silence is Golden”; “Pride Must Have a
+    Fall”; “The King's Lesson.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 107-115
+  quote_or_summary: "“The Wise Parrot and the Foolish Parrot”; “The Foolish Farmer
+    and the King.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 104-119
+  quote_or_summary: "“The Hypocritical Cat”; “The Dishonest Friend”; “The Cunning
+    Crane and the Crab.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is a contents list, so literal extraction of titles is reliable,
+    but motif inference is limited and title-based only.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims are made because the passage does not itself support a comparison to another tradition or motif family beyond tentative title-level motif candidates.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l99-l131
+  passage_sha256=6eda837b2439f255b495f37ce7ce0204ad04b00edf54593dc0a3fe64b5abc2be
+

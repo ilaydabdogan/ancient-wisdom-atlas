@@ -1,0 +1,556 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l6147-l6234
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: MACAULAY. / CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING
+    THE GOD.; lines 6147-6234
+  start: '6147'
+  end: '6234'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer compares Alexandrian, Indian, and European seasonal rites; interprets
+    the Adonis cult as a representation of vegetation’s annual decay and revival;
+    summarizes myths of Adonis’s birth from a myrrh-tree and periodic residence in
+    the lower and upper worlds; cites a Syrian Thammuz festival with mourning women
+    and mill imagery; and describes the short-lived gardens of Adonis and their disposal
+    with images of the dead god in water.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says that Alexandrian and Indian ceremonies both celebrate the
+    marriage of two divinities in effigy, with fresh plants around them, followed
+    by mourning over the effigies and throwing them into water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Adonis is said to have been born from a myrrh-tree whose bark burst after
+    ten months’ gestation.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One version says a boar opened the bark with its tusk so that the child could
+    emerge.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage reports a story in which Adonis spent half, or in another version
+    a third, of the year in the lower world and the rest in the upper world.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At the Harran festival of Thammuz or Tâ-uz, women bewail the god because his
+    lord slew him, ground his bones in a mill, and scattered them to the wind.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: During the Thammuz festival, women avoid food ground in a mill and instead
+    eat steeped wheat, sweet vetches, dates, raisins, and similar foods.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The gardens of Adonis are described as baskets or pots of earth planted with
+    wheat, barley, lettuces, fennel, and flowers, tended for eight days chiefly or
+    exclusively by women.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The plants in the gardens of Adonis shoot up quickly in the sun, wither quickly
+    because they lack roots, and are then carried out with images of the dead Adonis
+    and thrown into the sea or springs.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: At Athens, midsummer rites of Adonis involved streets lined with coffins and
+    corpse-like effigies while women wailed for the dead Adonis.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Adonis
+  description: A god whose ritual death and resurrection, tree birth, lower-world
+    residence, dead images, and gardens are discussed in the passage.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Thammuz / Tâ-uz
+  description: A god honored in a July festival at Harran, mourned by women after
+    being slain, ground in a mill, and scattered to the wind.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: two divinities in effigy
+  description: Paired divine effigies in Alexandrian and Indian ceremonies, surrounded
+    by fresh plants, mourned, and thrown into water.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: women mourners
+  description: Women who bewail Thammuz and women who wail for the dead Adonis; women
+    also tend the gardens of Adonis.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: boar
+  description: An animal said in one account to rend the myrrh-tree bark with its
+    tusk to open a passage for the infant Adonis.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: lord of Thammuz
+  description: The figure said to have slain Thammuz cruelly before his bones were
+    ground and scattered.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: vegetation or corn-spirit figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage explicitly interprets Adonis as representing vegetation and says
+    Thammuz or Adonis appears plainly as a corn-spirit.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: divinity represented in seasonal effigy
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage describes divine effigies in plant-surrounded rites and images
+    of the dead Adonis carried with the gardens.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: periodic lower-world and upper-world inhabitant
+  assigned_to:
+  - fig:1
+  basis: Adonis is said to spend part of the year below and part above.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: mourned slain god
+  assigned_to:
+  - fig:2
+  basis: Women bewail Thammuz because he was slain, ground, and scattered.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: ritual mourner and tender of plantings
+  assigned_to:
+  - fig:4
+  basis: Women bewail Thammuz, tend the gardens of Adonis, and wail for the dead Adonis
+    at Athens.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: birth-opening animal
+  assigned_to:
+  - fig:5
+  basis: The boar opens the bark of the myrrh-tree for the infant Adonis.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: slayer
+  assigned_to:
+  - fig:6
+  basis: The Harran account says Thammuz’s lord slew him.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fresh plants around divine effigies
+  literal_form: fresh plants surrounding paired divine effigies
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: water disposal
+  literal_form: effigies, dead images, and plantings thrown into water, sea, or springs
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: myrrh-tree birth
+  literal_form: myrrh-tree whose bark bursts to release the infant Adonis
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: lower and upper worlds
+  literal_form: lower world and upper world divided across the year
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: mill-ground bones
+  literal_form: bones ground in a mill and scattered to the wind
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: gardens of Adonis
+  literal_form: baskets or pots of earth planted with quickly sprouting and quickly
+    withering plants
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: coffins and corpse-like effigies
+  literal_form: coffins and corpse-like effigies lining Athenian streets during Adonis
+    rites
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: plant-surrounded divine marriage and water disposal
+  summary: The passage describes paired divine effigies surrounded by fresh plants,
+    ritually married, mourned, and thrown into water in ceremonies compared across
+    regions.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: birth of Adonis from a myrrh-tree
+  summary: Adonis emerges from a myrrh-tree after the bark opens; in one version a
+    boar opens the bark with its tusk.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Adonis divided between lower and upper worlds
+  summary: Adonis is said to spend a fraction of the year in the lower world and the
+    remainder in the upper world.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Harran mourning festival for Thammuz
+  summary: Women mourn Thammuz because he was slain, his bones were ground in a mill,
+    and the remains were scattered; they avoid mill-ground foods during the festival.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: gardens of Adonis
+  summary: Women tend small planted containers that sprout and wither rapidly; after
+    eight days the plantings and images of the dead Adonis are thrown into sea or
+    springs.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Athenian midsummer mourning for Adonis
+  summary: During an Athenian departure for Syracuse, Adonis rites place coffins and
+    corpse-like effigies along the streets while women wail for the dead god.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: seasonal death and revival of vegetation embodied in a god
+  taxonomy_refs:
+  - death_rebirth
+  - dying_and_returning
+  - seasonal_cycle
+  basis: The passage explicitly interprets the death and resurrection of Adonis as
+    representing vegetation’s decay and revival, including the comparison to plants
+    buried below and reappearing above ground.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: This is Frazer’s comparative interpretation of the ritual and myth, not
+    an independent ritual text.
+- id: motif:2
+  label: sacred marriage of plant-associated divine effigies
+  taxonomy_refs:
+  - sacred_marriage
+  - seasonal_cycle
+  basis: The passage describes the marriage of two plant-surrounded divinities in
+    effigy, followed by mourning and disposal in water.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage summarizes ceremonies comparatively and does not name the
+    paired divinities in this excerpt.
+- id: motif:3
+  label: miraculous birth from a tree
+  taxonomy_refs:
+  - sacred_birth
+  - miraculous_child
+  basis: Adonis is said to be born from a myrrh-tree after a gestation-like period
+    and an opening of the bark.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage also notes a rationalizing version in which the mother is
+    a woman transformed into a tree.
+- id: motif:4
+  label: descent and return through lower and upper worlds
+  taxonomy_refs:
+  - departure
+  - return
+  - seasonal_cycle
+  basis: Adonis is said to spend part of each year in the lower world and the rest
+    in the upper world, which the passage connects to buried and reappearing vegetation.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The excerpt gives the mythic time division but frames the vegetation meaning
+    as explanatory interpretation.
+- id: motif:5
+  label: mourned corn-spirit crushed like grain
+  taxonomy_refs:
+  - sacrifice
+  - death_rebirth
+  - seasonal_cycle
+  basis: Thammuz is mourned after being slain, ground in a mill, and scattered; the
+    passage identifies this as evidence for a corn-spirit character and compares it
+    to John Barleycorn.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  confidence: medium
+  cautions: The evidence is mediated through Frazer’s quotation of a tenth-century
+    Arabic writer and Frazer’s literary analogy.
+- id: motif:6
+  label: short-lived ritual garden representing growth and withering
+  taxonomy_refs:
+  - seasonal_cycle
+  - death_rebirth
+  basis: The gardens of Adonis are small planted containers that grow rapidly, wither
+    rapidly, and are disposed of with dead images of Adonis in water.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage presents these gardens as proof of Adonis’s vegetation character
+    within Frazer’s framework.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the Alexandrian ceremony is almost identical with
+    the Indian ceremony and resembles European spring and midsummer customs.
+  claim_level: same_motif
+  target: Indian ceremony and modern European spring/midsummer customs previously
+    described by Frazer
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt refers to earlier descriptions not included in the supplied
+    passage and notes some doubt about the date of the Alexandrian celebration.
+- id: claim:2
+  claim: 'The passage argues that the Adonis rite shares a common explanation with
+    similar seasonal rites: representation of vegetation’s decay and revival.'
+  claim_level: same_function
+  target: spring and midsummer vegetation rites in other lands
+  evidence_refs:
+  - ev:1
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an interpretive comparative claim by Frazer, not direct evidence
+    of historical contact.
+- id: claim:3
+  claim: The passage compares Thammuz or Tâ-uz to Burns’s John Barleycorn because
+    both are associated with being crushed or ground like grain.
+  claim_level: same_function
+  target: Burns’s John Barleycorn
+  evidence_refs:
+  - ev:4
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is a literary analogy within Frazer’s exposition and
+    does not establish shared origin.
+- id: claim:4
+  claim: The passage rejects a solar explanation for Adonis in favor of a vegetation
+    explanation, noting that the sun’s annual course in temperate and tropical zones
+    does not match a half-year or third-year death.
+  claim_level: archetypal_reading
+  target: solar interpretation of Adonis
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a negative comparative argument about explanatory fit, not
+    a comparison between two ritual traditions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6147-6157
+  quote_or_summary: Frazer says Alexandrian and Indian ceremonies both celebrate the
+    marriage of two plant-surrounded divinities in effigy, then mourn the effigies
+    and throw them into water; he compares them to European spring and midsummer customs.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 6158-6167
+  quote_or_summary: The passage reports Adonis’s birth from a myrrh-tree after a ten-month
+    gestation; in one version a boar opens the bark with its tusk, and in another
+    rationalizing version his mother Myrrh becomes a myrrh-tree.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 6168-6177
+  quote_or_summary: The passage says Adonis spends half or a third of the year in
+    the lower world and the rest in the upper world, and Frazer interprets this as
+    vegetation or corn buried in earth and reappearing above ground.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 6200-6212
+  quote_or_summary: A tenth-century Arabic account of Harran rites says women bewail
+    Thammuz/Tâ-uz because his lord slew him, ground his bones in a mill, and scattered
+    them to the wind; the women avoid mill-ground food and eat steeped wheat, vetches,
+    dates, raisins, and similar foods.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 6218-6228
+  quote_or_summary: The gardens of Adonis are baskets or pots of earth planted with
+    wheat, barley, lettuces, fennel, and flowers, tended for eight days mainly by
+    women; the plants grow and wither rapidly and are thrown with dead Adonis images
+    into sea or springs.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 6228-6234
+  quote_or_summary: At Athens, Adonis rites at midsummer coincide with the sailing
+    of the fleet to Syracuse; streets are lined with coffins and corpse-like effigies,
+    and women wail for the dead Adonis.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 6153-6199
+  quote_or_summary: Frazer argues that the death and resurrection of Adonis represent
+    the annual decay and revival of vegetation, a phenomenon he presents as widespread
+    and striking across human societies.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 6212-6217
+  quote_or_summary: Frazer explicitly says Thammuz is like Burns’s John Barleycorn
+    and quotes lines about bones crushed between millstones.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 6177-6190
+  quote_or_summary: Frazer notes that Adonis has been taken for the sun but argues
+    that the sun’s ordinary annual course does not suggest death for half or a third
+    of the year, except hypothetically in arctic regions, which he says no one has
+    proposed as the origin of Adonis worship.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is itself a comparative scholarly interpretation, so extracted
+    motifs and claims often reflect Frazer’s analytic framing rather than primary
+    ritual testimony.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. Taxonomy references were limited to available motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l6147-l6234
+  passage_sha256=1da6509837dee9f1e115e8981b033bcd71989d89250ca9dcbe57a20effa91c46
+

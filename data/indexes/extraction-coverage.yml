@@ -8,22 +8,22 @@ summary:
   - texts/permissioned/**/*.md
   extraction_glob: extractions/**/*.{yml,yaml}
   text_count: 58
-  texts_with_extractions: 41
-  texts_without_extractions: 17
-  texts_needing_full_extraction: 51
-  texts_needing_review_or_normalization: 41
-  extraction_record_count: 914
-  candidate_motif_count: 3665
-  taxonomy_ref_count: 3016
-  comparison_claim_count: 1054
+  texts_with_extractions: 44
+  texts_without_extractions: 14
+  texts_needing_full_extraction: 48
+  texts_needing_review_or_normalization: 44
+  extraction_record_count: 1114
+  candidate_motif_count: 4547
+  taxonomy_ref_count: 3807
+  comparison_claim_count: 1400
   status_counts:
-    dense_draft: 7
+    dense_draft: 10
     developing: 16
-    no_extractions: 17
+    no_extractions: 14
     thin: 18
   priority_counts:
-    high: 35
-    medium: 23
+    high: 32
+    medium: 26
 texts:
 - source_text_path: texts/public-domain/ainu/project-gutenberg/aino-folk-tales-chamberlain.md
   source_text_id: ainu.folk_tales.chamberlain_gutenberg
@@ -57,76 +57,6 @@ texts:
   date_range: ancient Buddhist story tradition; 1880 public-domain English translation
   word_count: 131420
   target_extraction_records: 33
-  coverage_ratio: 0.0
-  status: no_extractions
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: false
-  extraction_record_count: 0
-  generated_record_count: 0
-  needs_review_count: 0
-  reviewed_count: 0
-  candidate_motif_count: 0
-  taxonomy_ref_count: 0
-  comparison_claim_count: 0
-  empty_motif_record_count: 0
-  extraction_paths: []
-- source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
-  source_text_id: buddhist.jataka_tales.babbitt_gutenberg
-  title: Jataka tales
-  tradition: buddhist
-  culture: buddhist_jataka_later_retelling
-  region: south_asia
-  date_range: ancient Buddhist story tradition; 1912 public-domain English retelling
-  word_count: 11494
-  target_extraction_records: 3
-  coverage_ratio: 0.0
-  status: no_extractions
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: false
-  extraction_record_count: 0
-  generated_record_count: 0
-  needs_review_count: 0
-  reviewed_count: 0
-  candidate_motif_count: 0
-  taxonomy_ref_count: 0
-  comparison_claim_count: 0
-  empty_motif_record_count: 0
-  extraction_paths: []
-- source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
-  source_text_id: buddhist.more_jataka_tales.babbitt_gutenberg
-  title: More Jataka Tales
-  tradition: buddhist
-  culture: buddhist_jataka_later_retelling
-  region: south_asia
-  date_range: ancient Buddhist story tradition; early 20th-century public-domain English
-    retelling
-  word_count: 12302
-  target_extraction_records: 4
-  coverage_ratio: 0.0
-  status: no_extractions
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: false
-  extraction_record_count: 0
-  generated_record_count: 0
-  needs_review_count: 0
-  reviewed_count: 0
-  candidate_motif_count: 0
-  taxonomy_ref_count: 0
-  comparison_claim_count: 0
-  empty_motif_record_count: 0
-  extraction_paths: []
-- source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
-  source_text_id: buddhist.old_india_tales.rouse_gutenberg
-  title: The Giant Crab, and Other Tales from Old India
-  tradition: buddhist
-  culture: jataka_later_childrens_retelling
-  region: south_asia
-  date_range: Buddhist Jataka source material; 1897 public-domain English retelling
-  word_count: 22785
-  target_extraction_records: 6
   coverage_ratio: 0.0
   status: no_extractions
   priority: high
@@ -1323,6 +1253,155 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-27-corpus/persian-literature-volume-1/batch-motif-persian-persian-literature-volume-1-gutenberg-l8390-l8407.yml
   - extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-rustem-birth-white-elephant.yml
   - extractions/persian/project-gutenberg/persian-literature-volume-1/persian-literature-volume-1-zal-alberz-simurgh-feather.yml
+- source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  source_text_id: buddhist.jataka_tales.babbitt_gutenberg
+  title: Jataka tales
+  tradition: buddhist
+  culture: buddhist_jataka_later_retelling
+  region: south_asia
+  date_range: ancient Buddhist story tradition; 1912 public-domain English retelling
+  word_count: 11494
+  target_extraction_records: 3
+  coverage_ratio: 7.0
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 21
+  generated_record_count: 21
+  needs_review_count: 21
+  reviewed_count: 0
+  candidate_motif_count: 71
+  taxonomy_ref_count: 51
+  comparison_claim_count: 1
+  empty_motif_record_count: 1
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l1075-l1086.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l1088-l1149.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l1151-l1226.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l1228-l1339.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l1341-l1390.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l1392-l1424.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l1426-l1521.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l1523-l1623.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l1626-l1660.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l1663-l1663.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l203-l280.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l283-l355.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l357-l400.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l402-l493.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l495-l538.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l540-l606.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l608-l698.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l700-l761.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l763-l845.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l847-l946.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/jataka-tales-babbitt/batch-motif-buddhist-jataka-tales-babbitt-gutenberg-l948-l1073.yml
+- source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  source_text_id: buddhist.more_jataka_tales.babbitt_gutenberg
+  title: More Jataka Tales
+  tradition: buddhist
+  culture: buddhist_jataka_later_retelling
+  region: south_asia
+  date_range: ancient Buddhist story tradition; early 20th-century public-domain English
+    retelling
+  word_count: 12302
+  target_extraction_records: 4
+  coverage_ratio: 6.0
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 24
+  generated_record_count: 24
+  needs_review_count: 24
+  reviewed_count: 0
+  candidate_motif_count: 78
+  taxonomy_ref_count: 46
+  comparison_claim_count: 6
+  empty_motif_record_count: 1
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l1000-l1096.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l1098-l1170.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l1172-l1239.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l1241-l1305.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l127-l164.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l1308-l1379.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l1381-l1518.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l1520-l1580.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l1582-l1626.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l1628-l1695.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l166-l262.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l264-l305.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l307-l358.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l360-l453.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l455-l503.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l505-l550.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l552-l594.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l596-l622.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l624-l671.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l63-l124.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l673-l720.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l722-l771.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l773-l865.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/more-jataka-tales-babbitt/batch-motif-buddhist-more-jataka-tales-babbitt-gutenberg-l867-l998.yml
+- source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  source_text_id: buddhist.old_india_tales.rouse_gutenberg
+  title: The Giant Crab, and Other Tales from Old India
+  tradition: buddhist
+  culture: jataka_later_childrens_retelling
+  region: south_asia
+  date_range: Buddhist Jataka source material; 1897 public-domain English retelling
+  word_count: 22785
+  target_extraction_records: 6
+  coverage_ratio: 5.667
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 34
+  generated_record_count: 34
+  needs_review_count: 34
+  reviewed_count: 0
+  candidate_motif_count: 122
+  taxonomy_ref_count: 77
+  comparison_claim_count: 3
+  empty_motif_record_count: 2
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l1044-l1127.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l1130-l1199.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l1202-l1311.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l1313-l1333.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l1336-l1394.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l134-l220.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l1397-l1486.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l1489-l1529.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l1532-l1602.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l1605-l1645.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l1648-l1775.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l1778-l1840.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l1843-l1879.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l1882-l1929.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l1932-l1986.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l1989-l2105.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l2108-l2152.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l2155-l2265.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l223-l284.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l2268-l2355.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l2358-l2435.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l2438-l2518.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l2521-l2635.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l2638-l2650.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l287-l410.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l413-l505.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l507-l608.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l610-l704.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l62-l96.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l707-l823.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l826-l894.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l897-l991.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l99-l131.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l994-l1041.yml
 - source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
   source_text_id: comparative.golden_bough.volume_1_frazer_gutenberg
   title: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
@@ -1332,43 +1411,163 @@ texts:
   date_range: 1890 public-domain comparative religion study
   word_count: 129274
   target_extraction_records: 33
-  coverage_ratio: 1.091
+  coverage_ratio: 4.758
   status: dense_draft
   priority: medium
   needs_full_extraction: false
   needs_review_or_normalization: true
-  extraction_record_count: 36
-  generated_record_count: 36
-  needs_review_count: 36
+  extraction_record_count: 157
+  generated_record_count: 157
+  needs_review_count: 157
   reviewed_count: 0
-  candidate_motif_count: 138
-  taxonomy_ref_count: 142
-  comparison_claim_count: 70
-  empty_motif_record_count: 1
+  candidate_motif_count: 749
+  taxonomy_ref_count: 759
+  comparison_claim_count: 406
+  empty_motif_record_count: 2
   extraction_paths:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l10045-l10211.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l1007-l1027.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l10213-l10347.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l1029-l1111.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l10349-l10471.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l10473-l10628.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l10630-l10782.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l10784-l10940.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l10942-l11093.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l11095-l11261.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l1113-l1126.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l11263-l11391.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l1128-l1210.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l11393-l11550.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l11552-l11728.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l11730-l11849.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l11851-l11982.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l119-l211.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l11984-l12134.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l1211-l1272.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l12136-l12265.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l12267-l12411.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l12413-l12626.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l12628-l12766.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l1274-l1317.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l12768-l12923.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l12925-l13120.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l13122-l13127.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l1319-l1362.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l1364-l1444.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l1446-l1526.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l1528-l1605.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l1607-l1683.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l1685-l1753.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l1755-l1830.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l1832-l1924.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l1926-l2010.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l2013-l2063.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l2065-l2121.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l2123-l2195.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l213-l254.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l2198-l2268.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l2270-l2325.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l2328-l2376.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l2378-l2441.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l2443-l2524.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l2526-l2600.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l256-l353.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l2602-l2647.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l2649-l2713.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l2715-l2793.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l2796-l2885.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l2887-l2971.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l2973-l3029.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l3031-l3110.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l3112-l3185.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l3187-l3263.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l3265-l3343.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l3345-l3421.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l3423-l3497.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l3499-l3538.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l3540-l3604.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l355-l440.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l3606-l3684.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l3686-l3742.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l3744-l3826.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l3827-l3890.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l3892-l3959.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l3961-l4037.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l4039-l4102.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l4104-l4157.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l4159-l4217.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l4219-l4263.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l4265-l4343.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l4345-l4378.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l4380-l4462.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l442-l515.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l4464-l4506.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l4509-l4581.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l4583-l4665.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l4667-l4748.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l4750-l4806.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l4808-l4885.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l4887-l4943.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l4945-l5006.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l5008-l5083.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l5085-l5132.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l5135-l5218.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l517-l565.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l5220-l5303.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l5305-l5354.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l5356-l5395.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l5397-l5472.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l5474-l5552.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l5554-l5653.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l5655-l5744.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l567-l645.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l5746-l5781.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l5783-l5836.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l5838-l5917.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l5919-l6011.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l6013-l6097.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l6100-l6145.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l6147-l6234.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l62-l82.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l6236-l6295.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l6297-l6380.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l6382-l6464.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l6465-l6519.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l648-l703.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l6521-l6595.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l6597-l6671.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l6673-l6723.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l6725-l6799.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l6801-l6874.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l6876-l6955.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l6957-l7045.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l7047-l7107.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l705-l773.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l7109-l7181.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l7183-l7267.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l7269-l7349.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l7351-l7432.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l7434-l7491.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l7493-l7525.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l7527-l7592.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l7594-l7681.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l7683-l7765.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l775-l852.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l7767-l7813.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l7815-l7896.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l7898-l7979.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l7981-l8057.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l8059-l8121.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l8124-l8182.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l8184-l8267.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l8269-l8337.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l8339-l8394.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l8396-l8459.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l8461-l8513.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l85-l116.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l8515-l8575.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l854-l921.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l8577-l8662.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l8664-l8744.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l8746-l8810.yml
@@ -1378,6 +1577,7 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l9014-l9054.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l9057-l9218.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l9220-l9392.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l923-l1005.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l9394-l9534.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l9536-l9682.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/golden-bough-volume-1-frazer/batch-motif-comparative-golden-bough-volume-1-frazer-gutenberg-l9684-l9856.yml

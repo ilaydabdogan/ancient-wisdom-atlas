@@ -1,0 +1,434 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l4509-l4581
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: MACAULAY. / CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING
+    THE GOD.; lines 4509-4581
+  start: '4509'
+  end: '4581'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer introduces the theme of killing the divine king. He says that some
+    peoples and traditions treat gods as mortal, citing examples of gods who die,
+    revive, or have graves. He then argues that if a community believes its safety
+    and the course of nature depend on an embodied man-god, it may kill him before
+    age weakens him so that his soul can be transferred to a vigorous successor.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that some people suppose gods to be mortal rather than
+    eternally living.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists traditions in which gods or divine figures die, have graves,
+    or are buried at named places.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: Heitsi-eibib is described as a god or divine hero who died several times and
+    came to life again.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says some communities believe their safety, and even the safety
+    of the world, is bound up with the life of a god-man or human incarnation of divinity.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The man-god is said to grow old, become feeble, and eventually die despite
+    precautions taken for his life.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage proposes that the man-god must be killed when his powers begin
+    to fail and that his soul must be transferred to a vigorous successor.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage contrasts natural death with ritual killing by saying natural
+    death may mean the soul has departed, been extracted, or been detained by a demon
+    or sorcerer.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage says worshippers seek to catch the man-god’s soul as it escapes
+    and transfer it to another body before its force is weakened.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: mortal gods
+  description: Gods and divine figures treated in the passage as able to die, revive,
+    or possess graves.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Heitsi-eibib
+  description: A Hottentot god or divine hero said to have died several times and
+    come to life again.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: man-god or divine king
+  description: A god dwelling in the flesh and blood of a man, whose life is considered
+    connected with communal and cosmic safety.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: worshippers
+  description: The people who care for the man-god’s life and, according to the passage,
+    may kill him and transfer his soul to preserve prosperity and existence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: vigorous successor
+  description: The suitable successor to whom the man-god’s soul is to be transferred.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: demon or sorcerer
+  description: An agent said to extract or detain the soul in cases of natural death.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: mortal or returning deity
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes gods who die, have graves, or in one case die several
+    times and come to life again.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: embodied divinity whose vitality sustains the world
+  assigned_to:
+  - fig:3
+  basis: The man-god is described as a human incarnation of divinity whose life is
+    linked with the safety of people and the world.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: ritual community guarding and killing the god-man
+  assigned_to:
+  - fig:4
+  basis: The worshippers protect the man-god, fear the effects of his decline, and
+    are described as killing him to transfer his soul.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:4
+  label: recipient of transferred divine soul
+  assigned_to:
+  - fig:5
+  basis: The successor receives the man-god’s soul before the soul is impaired by
+    decay.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:5
+  label: soul-detaining threat
+  assigned_to:
+  - fig:6
+  basis: The passage says a demon or sorcerer may extract or detain the soul of the
+    dying man-god.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: grave or tomb of a god
+  literal_form: Grave, tomb, or burial place associated with a deity or divine hero.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: mountain burial place
+  literal_form: Top of Mount Cabunian and narrow mountain passes associated with divine
+    graves.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: transferable soul
+  literal_form: The man-god’s soul, imagined as leaving the body and capable of transfer
+    to a successor.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: lips or nostrils as exit points of the soul
+  literal_form: The soul of the dying god is imagined as leaving through lips or nostrils.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Catalogue of mortal gods and divine graves
+  summary: The passage gathers examples from several peoples and ancient traditions
+    in which gods can die, revive, or have known graves and tombs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Peril of the aging man-god
+  summary: A community is described as depending on a man-god’s life, but the man-god
+    inevitably grows old and weak, threatening the prosperity and safety linked to
+    him.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Killing and soul transfer to a successor
+  summary: The passage says the man-god is killed before his power has declined so
+    that his soul can be caught and transferred to a vigorous successor.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: mortal god with grave
+  taxonomy_refs: []
+  basis: The passage repeatedly cites gods who die or whose graves, tombs, or burials
+    are shown in specific places.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is a comparative scholarly synthesis, not a single mythic
+    narrative.
+- id: motif:2
+  label: dying and returning divine figure
+  taxonomy_refs:
+  - dying_and_returning
+  - death_rebirth
+  basis: Heitsi-eibib is described as dying several times and coming to life again.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only one cited example in the passage explicitly includes repeated return
+    to life.
+- id: motif:3
+  label: killing the divine king to preserve vitality
+  taxonomy_refs:
+  - sacrifice
+  - dying_and_returning
+  basis: The passage states that the man-god is killed when his powers begin to fail
+    so that his soul can pass to a vigorous successor and prevent decline in the world.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The term sacrifice is not the passage’s main wording here; it speaks of
+    killing and soul transfer.
+- id: motif:4
+  label: soul transfer to successor
+  taxonomy_refs: []
+  basis: The passage describes catching the man-god’s soul as it escapes and transferring
+    it to a suitable successor.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No available taxonomy reference directly names soul transfer.
+- id: motif:5
+  label: cosmic welfare bound to ruler’s life
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage says the safety of a people and even the world may be bound up
+    with the life of a god-man, so his decline threatens natural and communal order.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage discusses a god-man or divine king, but the supplied taxonomy
+    only approximately captures this pattern through royal_legitimacy.
+comparison_claims:
+- id: claim:1
+  claim: The passage groups examples from Greenlander, North American Indian, Philippine,
+    Hottentot, Greek, Cretan, Delphic, Sicilian, Cypriot, and Thracian contexts as
+    instances of gods or divine figures being treated as mortal or buried.
+  claim_level: same_motif
+  target: mortal gods and divine graves across the cited traditions
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The grouping is Frazer’s comparative scholarly framing; the passage
+    does not provide full primary-context evidence for each tradition.
+- id: claim:2
+  claim: The passage compares the mortality of invisible gods with the expected mortality
+    of a god embodied in a human being.
+  claim_level: same_function
+  target: death of invisible gods and death of embodied man-god
+  evidence_refs:
+  - ev:1
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is conceptual within Frazer’s argument rather than a
+    demonstrated historical link.
+- id: claim:3
+  claim: The passage treats killing the man-god and transferring his soul as a functional
+    strategy for avoiding the dangers associated with natural death and decline.
+  claim_level: same_function
+  target: ritual killing, soul capture, and succession as preservation of divine vitality
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives a general explanatory model and does not document
+    one named ritual performance in this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4517-4528
+  quote_or_summary: Frazer states that primitive man may suppose gods to be mortal
+    and cites Greenlander and North American Indian examples in which a god can die
+    or the world-maker is said to be long dead.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4528-4538
+  quote_or_summary: The passage cites a Philippine tradition locating the Creator’s
+    grave on Mount Cabunian and describes Heitsi-eibib as a Hottentot god or divine
+    hero who died several times and came to life again, with graves in mountain passes.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4538-4549
+  quote_or_summary: The passage mentions graves, tombs, or burials of Zeus, Dionysus,
+    Apollo, Cronus, Hermes, Aphrodite, and Ares in various Greek or Mediterranean
+    locations.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4550-4561
+  quote_or_summary: Frazer argues that if great invisible gods are thought to die,
+    a god dwelling in human flesh is also expected to die; some peoples believe safety
+    and even the world are bound up with the life of such a god-man.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4561-4569
+  quote_or_summary: The passage says the man-god grows old and feeble, creating danger
+    if nature depends on his life, and proposes killing him when his powers begin
+    to fail and transferring his soul to a vigorous successor.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4569-4578
+  quote_or_summary: The passage explains that natural death may mean the soul has
+    departed, been extracted, or been detained by a demon or sorcerer; even catching
+    it as it leaves lips or nostrils would transmit weakness if the god dies of disease.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4578-4581
+  quote_or_summary: The passage says killing the man-god before his force declines
+    allows worshippers to catch and transfer his soul and prevents the world from
+    falling into decay with him.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about mortal gods, divine graves, killing the man-god,
+    and soul transfer. Motif mapping is partly interpretive because the excerpt is
+    a comparative argument rather than a single traditional narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All observations and motifs are derived only from the supplied passage and metadata. Some historical and ethnographic labels reproduce the passage’s wording and should be reviewed for contemporary terminology.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l4509-l4581
+  passage_sha256=f2dc5e8e7d28d5245ff0135c280d78832a7d63a4fe248f99dcc68647b1f43ab9
+

@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l1843-l1879
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: SPEND A POUND TO WIN A PENNY / THE CUNNING CRANE AND THE CRAB / UNION IS
+    STRENGTH / SILENCE IS GOLDEN; lines 1843-1879
+  start: '1843'
+  end: '1879'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A lion and a she-jackal have a cub who looks like a lion but has a jackal's
+    voice. While playing with young lions, the cub tries to roar but yelps instead.
+    A young lion reports the mismatch to the old lion, who says the cub's mother was
+    a jackal and advises the cub to keep quiet because his voice reveals his kind.
+    The cub leaves ashamed and thereafter keeps silent among the lions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A lion has a she-jackal as mate, and they have a cub.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cub resembles his lion father in shape, colour, mane, and claws, but resembles
+    his jackal mother in voice.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The cub plays with young lions.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The cub opens his mouth intending to roar, but produces a jackal-like yelp.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The young lions are shocked and do not know what strange creature the cub
+    is.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A young lion tells the old lion that the cub has lion-like body parts but
+    does not sound like a lion's son.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The old lion says the cub's mother was a jackal.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The old lion advises the cub not to yelp again and to keep quiet because his
+    voice is not a lion's roar.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The cub leaves crestfallen, and afterward keeps silent among the lions.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The other lions sniff and turn up their noses at the cub.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: old Lion
+  description: A lion who has a she-jackal for his mate, fathers the cub, watches
+    the young lions, and advises the cub.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: she-jackal
+  description: The lion's mate and mother of the cub; the cub takes after her in voice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: mongrel Cub
+  description: A cub born of a lion and she-jackal; lion-like in appearance but jackal-like
+    in voice.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: young Lions
+  description: The young lions who play with the cub, react to his yelp, and later
+    disdain him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:5
+  name_or_label: one young Lion
+  description: One of the young lions who reports to the old lion that the cub's voice
+    does not match his lion-like form.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: father
+  assigned_to:
+  - fig:1
+  basis: The lion has a young one with the she-jackal, and the cub is described as
+    like his sire.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: admonishing elder
+  assigned_to:
+  - fig:1
+  basis: The old lion explains the cub's maternal origin and instructs him to keep
+    quiet.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: mother of mixed offspring
+  assigned_to:
+  - fig:2
+  basis: The she-jackal is the lion's mate and the source of the cub's voice.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: exposed mixed-identity cub
+  assigned_to:
+  - fig:3
+  basis: The cub looks like a lion but is exposed by a jackal-like yelp.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: peer group
+  assigned_to:
+  - fig:4
+  basis: The young lions play with the cub, hear his yelp, and react to him.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:6
+  label: reporting peer
+  assigned_to:
+  - fig:5
+  basis: One young lion reports the mismatch between the cub's body and voice to the
+    old lion.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Mixed parentage and deceptive appearance
+  summary: A lion and she-jackal have a cub who looks like his lion father but has
+    his jackal mother's voice, so he appears lion-like while silent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Voice reveals the cub
+  summary: The cub plays with young lions and tries to frighten them by roaring, but
+    his sound is a jackal-like yelp, shocking the others.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Elder's diagnosis and warning
+  summary: A young lion reports the cub's mismatch to the old lion; the old lion identifies
+    the cub's jackal mother and tells him to stay quiet because his voice is not a
+    lion's roar.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Shame and silence
+  summary: The cub slinks away ashamed while the other lions disdain him, and afterward
+    he keeps silent among them.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: speech reveals concealed identity
+  taxonomy_refs:
+  - wisdom
+  basis: The cub's lion-like appearance conceals his jackal lineage only until he
+    tries to roar; his yelp reveals what he is, and the elder's advice becomes a practical
+    lesson about silence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy has no specific animal-fable or exposed-identity
+    motif; 'wisdom' is a broad family assignment.
+- id: motif:2
+  label: mixed parentage marked by inherited trait
+  taxonomy_refs: []
+  basis: The cub inherits lion-like external traits from his father but a jackal-like
+    voice from his mother, and the inherited voice becomes socially consequential.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: No more specific supplied taxonomy reference applies.
+- id: motif:3
+  label: moral value of silence
+  taxonomy_refs:
+  - wisdom
+  basis: The title and old lion's instruction present silence as the prudent response
+    when speech would reveal a disadvantageous trait.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level moral inference supported by the title and concluding
+    behavior.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1843-1850
+  quote_or_summary: A lion mates with a she-jackal and they have a cub who looks like
+    a lion in form and color but takes after his mother in voice; while silent, he
+    would be taken for a lion.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 1851-1859
+  quote_or_summary: The cub plays with young lions and tries to frighten them by roaring,
+    but only a jackal-like yelp comes out; the young lions are shocked and wonder
+    what creature he is.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: quote
+  locator: lines 1860-1865
+  quote_or_summary: '"Lion''s claws and lion''s paws ... Sounds not like a lion''s
+    son!"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: lines 1866-1867
+  quote_or_summary: '"You are right," said the old Lion; "his dam was a Jackal."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: quote
+  locator: lines 1868-1873
+  quote_or_summary: '"So don''t try it, but keep quiet, / Yours is not a lion''s roar."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 1874-1879
+  quote_or_summary: The cub slinks away ashamed while other lions disdain him; thereafter
+    he is careful to hold his tongue among his betters.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a clear animal fable with explicit actions and speech. Motif
+    mapping is necessarily broad because the supplied taxonomy lacks a specific exposed-by-speech
+    or animal-fable category. No comparison claims were made because the passage itself
+    does not support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only supplied passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l1843-l1879
+  passage_sha256=100f876f21a9a00b1d679ba058bd2164e04bbd79bada2102ec122be689f0cf0b
+

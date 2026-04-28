@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l505-l550
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: THE TRICKY WOLF AND THE RATS / THE WOODPECKER, TURTLE, AND DEER / THE GOLDEN
+    GOOSE / THE STUPID MONKEYS; lines 505-550
+  start: '505'
+  end: '550'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A gardener wants to join a city holiday and asks the monkeys in the king's
+    garden to water the young trees. The chief agrees. When the monkeys do not know
+    how to judge the right amount of water, the chief tells them to pull up each tree
+    and inspect its roots. The monkeys uproot all the young trees, and the trees are
+    dead when the gardener returns.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A king gives a holiday to the people in one of his cities.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The gardener wants to go to the city for the holiday and asks the monkeys
+    in the king's garden to water the young trees for him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The chief of the monkeys agrees that the monkeys will water the young trees.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The gardener instructs the monkeys to give the trees plenty of water but not
+    too much, shows them the watering-pots, and leaves.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At sunset the monkeys take the watering-pots and begin watering the young
+    trees.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When asked how to know whether each tree has enough water, the chief tells
+    the monkeys to pull up each young tree and judge by the length of its roots.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The monkeys pull up all the young trees to inspect their roots.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: When the gardener returns the next day, all the young trees are dead.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: king
+  description: Ruler who gives a holiday to the people in one of his cities.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: gardener
+  description: Worker responsible for watering the young trees in the king's garden.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: fig:3
+  name_or_label: Chief of the Monkeys
+  description: Leader of the monkeys living in the king's garden; agrees to water
+    the trees and gives the root-inspection instruction.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: tribe of Monkeys
+  description: Monkeys living in the king's garden who water and uproot the young
+    trees.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: holiday-granting ruler
+  assigned_to:
+  - fig:1
+  basis: The king initiates the setting by giving a holiday to the people in the city.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: delegating caretaker
+  assigned_to:
+  - fig:2
+  basis: The gardener is responsible for the young trees but delegates the watering
+    to the monkeys so he can attend the holiday.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: misguided animal leader
+  assigned_to:
+  - fig:3
+  basis: The chief gives the instruction to pull up each young tree and judge water
+    by root length.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: obedient but destructive helpers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The monkeys accept the task and carry out the chief's method, resulting in
+    the trees' death.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: young trees
+  literal_form: young trees in the king's garden
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: water
+  literal_form: water for the young trees
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: watering-pots
+  literal_form: watering-pots shown by the gardener and used by the monkeys
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: roots
+  literal_form: long and short roots of the young trees
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Gardener delegates the watering
+  summary: During a city holiday, the gardener asks the monkeys in the king's garden
+    to water the young trees so he can leave, and the chief agrees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Monkeys follow the chief's root test
+  summary: At sunset the monkeys begin watering. Unable to know how much water is
+    enough, they follow the chief's order to pull up each tree and inspect its roots.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Dead young trees
+  summary: The gardener returns the next day and finds that the young trees have died.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Foolish helpers destroy what they are asked to preserve
+  taxonomy_refs:
+  - wisdom
+  basis: The monkeys accept a caretaking task but use a destructive method, uprooting
+    the young trees they are supposed to water.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The available taxonomy does not include a specific 'foolish helper' or
+    'folly' category; the 'wisdom' reference is used as a negative wisdom-exemplum
+    pattern.
+- id: motif:2
+  label: Misguided literal test leads to ruin
+  taxonomy_refs:
+  - wisdom
+  basis: The chief proposes judging water needs by physically pulling up the trees
+    to inspect root length, and this procedure kills the trees.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is an interpretive motif label derived from the passage sequence
+    rather than an explicit comparison in the text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 505-520
+  quote_or_summary: A king gives a city holiday; the gardener wants to attend and
+    decides to ask the monkeys living in the king's garden to water the young trees.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 521-524
+  quote_or_summary: '"Oh, yes!" said the Chief of the Monkeys. "We shall be glad to
+    do that."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 526-529
+  quote_or_summary: The gardener tells the monkeys to water the trees at sunset, giving
+    plenty of water but not too much; he shows them the watering-pots and leaves.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 531-533
+  quote_or_summary: At sunset the monkeys take the watering-pots and begin watering;
+    the chief tells them to make sure each tree has enough water.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 535-540
+  quote_or_summary: When the monkeys ask how to know each tree has enough water, the
+    chief says to pull up each young tree, look at root length, and water long-rooted
+    trees more than short-rooted ones.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 542-544
+  quote_or_summary: The monkeys pull up all the young trees to see which roots are
+    long and which are short.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 546-547
+  quote_or_summary: '"When the gardener came back the next day, the poor young trees
+    were all dead."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence and figures are clear. Motif labeling is somewhat constrained
+    by the available taxonomy, which lacks a precise folly/foolish-helper category.
+    No comparison claims are made because the passage itself does not support an explicit
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l505-l550
+  passage_sha256=18efc7d8754120d4799d84c7d5d048d36aebea8b83d38911bd40b72bc03930a5
+

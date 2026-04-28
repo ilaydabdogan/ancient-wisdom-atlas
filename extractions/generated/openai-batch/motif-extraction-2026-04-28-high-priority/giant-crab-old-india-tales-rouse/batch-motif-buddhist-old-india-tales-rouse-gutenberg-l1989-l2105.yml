@@ -1,0 +1,459 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l1989-l2105
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: SILENCE IS GOLDEN / THE GREAT YELLOW KING AND HIS PORTER / THE QUAIL AND
+    THE FALCON / PRIDE MUST HAVE A FALL; lines 1989-2105
+  start: '1989'
+  end: '2105'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"your manners suit the dust-heap better than the mountains."'
+  summary: A proud hybrid bird named Streaky, child of the King Goose and a Crow,
+    is carried by his goose half-brothers from the city dust-heap to the mountains.
+    During the journey he boasts that the geese are like a pair of horses carrying
+    him in royal style. The King Goose rebukes him for rudeness and sends him back
+    to the dust-heap, where he spends the rest of his life.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The King Goose lives in the mountains with a goose mate and young geese, and
+    also has a crow wife elsewhere.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The crow wife lays a large white egg with blue spots, from which Streaky hatches
+    as a grey, brown-streaked chick unlike either parent in color.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Streaky considers himself important because he is different from the crows,
+    larger, loud-voiced, and streaked.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The crow colony lives by a dust-heap outside the city gate, and Streaky lives
+    in a nest on top of a tall palm-tree there.
+  category: setting
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: The young geese visit Streaky and offer to carry him on a stick because he
+    says flying to the mountains is too much trouble.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: Each young goose takes one end of the stick in its mouth, and Streaky perches
+    in the middle while they fly away.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: As they fly over the city, Streaky sees the city king riding in a carriage
+    drawn by four white horses.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: Streaky sings that, just as the city king has four white horses, he has a
+    pair of geese to carry him.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: The young geese are angry at Streaky's song but remain silent until they reach
+    home, where they report it to their father.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:10
+  text: The King Goose rebukes Streaky for treating his brothers like horses and sends
+    him back to his mother at the dust-heap.
+  category: speech
+  evidence_refs:
+  - ev:11
+- id: obs:11
+  text: Streaky returns by himself, tired and hungry, spends the rest of his days
+    on the dust-heap eating carrion, and the King Goose never visits again.
+  category: sequence
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: King Goose
+  description: A beautiful wild goose, King of the Geese, living in the mountains;
+    father of the young geese and of Streaky.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:11
+- id: fig:2
+  name_or_label: Crow wife / Mrs. Crow
+  description: A black crow wife of the King Goose; mother of Streaky, living at the
+    dust-heap near the city gate.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Streaky
+  description: A grey, brown-streaked bird hatched from the crow's egg; proud, rude
+    to his goose brothers, and sent back to the dust-heap.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  - ev:11
+  - ev:12
+- id: fig:4
+  name_or_label: Young Geese
+  description: Sons of the King Goose who visit Streaky, carry him on a stick, and
+    report his rudeness to their father.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:10
+- id: fig:5
+  name_or_label: City king
+  description: A king seen below in a beautiful carriage drawn by four white horses
+    while Streaky is being carried overhead.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: Mountain king and father
+  assigned_to:
+  - fig:1
+  basis: He is called King of the Geese, lives in the mountains, and is father to
+    both the young geese and Streaky.
+  evidence_refs:
+  - ev:1
+  - ev:11
+- id: role:2
+  label: Crow mother
+  assigned_to:
+  - fig:2
+  basis: She lays the egg from which Streaky hatches and remains at the dust-heap
+    home.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: Proud and rude dependent
+  assigned_to:
+  - fig:3
+  basis: Streaky is described as proud, fails to thank those carrying him, and compares
+    the geese to his own conveyance.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+- id: role:4
+  label: Courteous carriers and brothers
+  assigned_to:
+  - fig:4
+  basis: The young geese politely visit Streaky, carry him on a stick, and refrain
+    from immediate retaliation despite anger.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:10
+- id: role:5
+  label: Rebuking authority
+  assigned_to:
+  - fig:1
+  basis: The King Goose judges Streaky's conduct and sends him back to the dust-heap.
+  evidence_refs:
+  - ev:11
+- id: role:6
+  label: Royal comparison figure
+  assigned_to:
+  - fig:5
+  basis: Streaky uses the sight of the city king in a horse-drawn carriage as the
+    basis for his boast.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: Mountains
+  literal_form: mountains
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:11
+- id: sym:2
+  label: Dust-heap
+  literal_form: dust-heap outside the city gate
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:12
+- id: sym:3
+  label: Palm-tree nest
+  literal_form: tall palm-tree with a nest at the top
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Carrying stick
+  literal_form: strong stick held at both ends by the geese, with Streaky perched
+    in the middle
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Royal carriage and four white horses
+  literal_form: beautiful carriage drawn by four white thoroughbreds
+  associated_figures:
+  - fig:5
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Mixed household and birth of Streaky
+  summary: The King Goose has a goose family in the mountains and a crow wife elsewhere;
+    the crow wife lays an unusual egg, and Streaky hatches as a bird of mixed appearance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Visit to the dust-heap nest
+  summary: The young geese follow their father's directions to a tall palm-tree at
+    the dust-heap outside the city gate, where they meet Mrs. Crow and Streaky.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Streaky carried over the city
+  summary: The young geese carry Streaky on a stick. Seeing the city king in a white-horse
+    carriage below, Streaky sings a boast comparing the geese carrying him to the
+    king's team.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: Rebuke and return to the dust-heap
+  summary: After the young geese report Streaky's words, the King Goose rebukes him
+    for rudeness and sends him back to his mother; Streaky returns alone and remains
+    at the dust-heap.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: Pride followed by humiliation or loss of status
+  taxonomy_refs:
+  - wisdom
+  basis: The passage title states that pride must fall, and Streaky's pride and boast
+    lead to rebuke, loss of transport, return to the dust-heap, and separation from
+    the King Goose.
+  evidence_refs:
+  - ev:3
+  - ev:9
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: The fall is social and moral rather than a literal fall from the sky.
+- id: motif:2
+  label: Ingratitude toward helpers
+  taxonomy_refs:
+  - wisdom
+  basis: Streaky is carried by the young geese but does not thank them and instead
+    likens them to animals pulling a royal vehicle.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage frames this chiefly as bad manners and pride, not as a separate
+    doctrinal teaching.
+- id: motif:3
+  label: Return from higher place to base dwelling after misconduct
+  taxonomy_refs:
+  - wisdom
+  basis: Streaky is brought from the dust-heap to the mountain home but is sent back
+    because his manners are judged fit for the dust-heap rather than the mountains.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:11
+  - ev:12
+  confidence: medium
+  cautions: This is an inferred narrative pattern from the spatial contrast; the passage
+    does not name it as a formal motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1989-1998
+  quote_or_summary: A beautiful wild goose, King of the Geese, lives in the mountains
+    with a goose mate and young; he also has a crow wife.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1999-2006
+  quote_or_summary: The crow lays a large white egg with blue spots; a chick hatches
+    who is neither black like the crow nor white like the father, and is named Streaky.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2007-2014
+  quote_or_summary: Streaky fancies himself because he is different from the crows,
+    larger, loud-voiced, and streaked; the crows regard him as wonderful.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2015-2020
+  quote_or_summary: The King Goose visits the crow colony at a dust-heap outside the
+    city gate, where the crows feed on offal and dead bodies.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2021-2033
+  quote_or_summary: The young geese learn of their other brother and receive directions
+    to find Streaky on top of a tall palm-tree growing from the dust-heap at the city
+    gate.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 2034-2045
+  quote_or_summary: The young geese arrive at the palm-tree nest; Streaky says the
+    journey is too much trouble, and the geese offer to carry him on a stick.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 2046-2052
+  quote_or_summary: The geese find a strong stick, each takes an end in his mouth,
+    and Streaky perches in the middle as they fly off.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 2053-2061
+  quote_or_summary: Streaky is too self-important to thank the geese; flying over
+    the city, he sees the city king in a beautiful carriage drawn by four white horses.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:9
+  type: quote
+  locator: lines 2062-2065
+  quote_or_summary: '"Streaky has these, his pair of Geese, to carry him over the
+    land!"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:10
+  type: summary
+  locator: lines 2066-2072
+  quote_or_summary: The geese are angry at Streaky's song but remain silent, carry
+    him home safely, and tell their father what he said.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:11
+  type: quote
+  locator: lines 2073-2085
+  quote_or_summary: The King Goose tells Streaky that he has been rude to his brothers
+    and says, "your manners suit the dust-heap better than the mountains."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:12
+  type: summary
+  locator: lines 2086-2105
+  quote_or_summary: Streaky must fly back by himself, returns tired and hungry, spends
+    the rest of his days on the dust-heap eating carrion, and the King Goose never
+    visits again.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal plot extraction is well supported by the passage. Motif labels are
+    limited to broad wisdom-pattern descriptions and available taxonomy. No comparison
+    claims are made because the passage itself does not explicitly compare this tale
+    to another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only supplied passage text and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l1989-l2105
+  passage_sha256=05905044da02c7330314b9b8dc8f2e90ddad34c268daf989bd374efcad910305
+

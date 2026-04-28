@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l1007-l1027
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: PREFACE. / J. G. FRAZER. / CHAPTER I. THE KING OF THE WOOD. / MACAULAY.;
+    lines 1007-1027
+  start: '1007'
+  end: '1027'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer describes an early religious notion in which gods and humans are
+    viewed as beings of similar order. In this framework a human may be regarded as
+    divine or supernatural, either through temporary inspiration or possession, associated
+    with divination and prophecy, or through permanent divine indwelling, associated
+    with expected miracle-working. He adds that miracles are here understood not as
+    violations of natural law but as unusually striking manifestations of a common
+    power.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the notion of a man-god or human being with divine
+    or supernatural powers belongs to an earlier stage of religious history.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage contrasts an earlier view in which gods and humans are of much
+    the same order with a later view that separates them by an impassable gulf.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says incarnate gods are common in what it calls rude society.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage distinguishes temporary incarnation from permanent incarnation.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: Temporary incarnation is identified with inspiration or possession and is
+    said to reveal itself chiefly through supernatural knowledge.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Divination and prophecy are named as usual manifestations of temporary incarnation.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Permanent incarnation is described as a divine spirit taking up its abode
+    in a human body.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A permanently incarnate god-man is said to be expected to work miracles.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage says miracles, at this stage of thought, are not understood as
+    breaches of natural law.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage defines a miracle for primitive man as an unusually striking manifestation
+    of a common power.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: man-god or god-man
+  description: A human being regarded as endowed with divine or supernatural powers,
+    or as a god incarnate in human form.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: early man
+  description: The generalized human subject who views gods and humans as beings of
+    similar order and accepts the idea of a god incarnate in human form.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: divine spirit
+  description: The divine presence that may permanently take up abode in a human body.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: primitive man
+  description: The generalized human subject who does not conceive natural law and
+    therefore does not understand miracles as breaches of it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: incarnate divine human
+  assigned_to:
+  - fig:1
+  basis: The passage describes a man-god, god-man, or god incarnate in human form.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: acceptor of human-divine continuity
+  assigned_to:
+  - fig:2
+  basis: Early man is described as seeing a man-god as having a higher degree of powers
+    also attributed to humans.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: miracle-working god-man
+  assigned_to:
+  - fig:1
+  basis: When the incarnation is permanent, the god-man is expected to vindicate his
+    character by working miracles.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: indwelling divine presence
+  assigned_to:
+  - fig:3
+  basis: The divine spirit is said to take up abode permanently in a human body.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: non-natural-law interpreter of miracles
+  assigned_to:
+  - fig:4
+  basis: Primitive man is said not to conceive natural law and therefore not to conceive
+    a breach of it.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Human-divine continuity in early religious thought
+  summary: The passage describes an early religious outlook in which gods and humans
+    are not sharply separated, allowing the idea of a human with divine or supernatural
+    powers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Temporary incarnation as inspiration or possession
+  summary: Temporary incarnation is described as inspiration or possession, manifested
+    mainly in supernatural knowledge, divination, and prophecy.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Permanent incarnation and miracles
+  summary: Permanent incarnation is described as the divine spirit dwelling in a human
+    body, with the god-man expected to work miracles.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Miracle understood without natural-law violation
+  summary: The passage explains that miracles are not understood as breaches of natural
+    law in this stage of thought, but as striking displays of a common power.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Human being endowed with divine or supernatural power
+  taxonomy_refs: []
+  basis: The passage explicitly describes a man-god or human being endowed with divine
+    or supernatural powers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is Frazer's comparative-theoretical description rather than
+    a narrative example from a specific tradition.
+- id: motif:2
+  label: Temporary divine possession producing prophecy or divination
+  taxonomy_refs: []
+  basis: Temporary incarnation is identified with inspiration or possession and linked
+    to supernatural knowledge, divination, and prophecy.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a general typology and does not describe a specific
+    possession episode.
+- id: motif:3
+  label: Permanent indwelling of a divine spirit in a human body
+  taxonomy_refs: []
+  basis: Permanent incarnation is described as a divine spirit taking up abode in
+    a human body.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not name a specific deity, ritual office, or tradition.
+- id: motif:4
+  label: Miracle as proof of divine-human status
+  taxonomy_refs: []
+  basis: The god-man with permanent divine indwelling is expected to vindicate his
+    character by working miracles.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: Frazer immediately qualifies that miracles are not framed here as violations
+    of natural law.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1007-1012
+  quote_or_summary: The passage states that the notion of a man-god or human with
+    divine powers belongs to an earlier religious period when gods and humans are
+    viewed as beings of much the same order.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1012-1016
+  quote_or_summary: The passage says early man does not find divine incarnation in
+    human form startling and that incarnate gods are common in rude society.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1016-1021
+  quote_or_summary: Temporary incarnation, called inspiration or possession, reveals
+    itself through supernatural knowledge, especially divination and prophecy rather
+    than miracles.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1021-1024
+  quote_or_summary: Permanent incarnation is described as the divine spirit dwelling
+    in a human body, and the god-man is expected to demonstrate his character by working
+    miracles.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1024-1027
+  quote_or_summary: The passage says miracles are not understood as breaches of natural
+    law, because primitive man does not conceive natural law; a miracle is treated
+    as a striking manifestation of a common power.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif candidates are
+    conceptual because the passage is comparative theory rather than a discrete mythic
+    narrative. No comparison claims were added beyond the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available symbol taxonomy item is directly present as a literal symbol in the passage; symbols left empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l1007-l1027
+  passage_sha256=3b1374340e3902fdf6a02036b2465cd49375d4fd7e1c23a8cf0242a0fd781d36
+

@@ -1,0 +1,391 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l1523-l1623
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: THE KING'S WHITE ELEPHANT / THE OX WHO ENVIED THE PIG / GRANNY'S BLACKIE
+    / THE CRAB AND THE CRANE; lines 1523-1623
+  start: '1523'
+  end: '1623'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: During a dry summer, fishes in a nearly dry pond suffer from lack of water.
+    A crane offers to carry them to a better pond, first proving that such a pond
+    exists, but then carries the fishes away one by one and eats them. When only a
+    crab remains, the crane offers the same transport. The crab insists on gripping
+    the crane's neck with his claws. At the place where the fish bones lie, the crane
+    reveals his intent to eat the crab, but the crab pinches the crane's neck so that
+    the crane's head falls off.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A summer with very little rain leaves animals, especially fishes, suffering
+    for want of water; the pond containing the fishes is very low.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A crane sits on the bank watching the fishes and says he knows of a deep-woods
+    pond with plenty of water, food, and shade.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A little fish says the crane may intend to eat the fishes one by one; the
+    crane proposes taking a trusted fish to see the other pond and return.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A big fish rides on the crane's back, sees the larger full pond, returns,
+    and tells the other fishes about it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the fishes want to go, the crane carries them away one by one to a hidden
+    place in the woods and eats them until none remain in the pond.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A crab remains on the sand; the crane offers to take him to the same fine
+    pond.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The crab refuses to ride on the crane's back unless he can hold the crane's
+    neck with his claws; the crane knows crabs grip tightly but agrees because he
+    is hungry.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: At the place where the crane had eaten the fishes, the crab sees fish bones
+    and the crane says the crab's shell will be left if he lets go.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The crab pinches the crane's neck so that the crane's head falls off, then
+    says the crane's bones will dry with the fishes' bones.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Crane
+  description: A crane who watches the fish, offers transport to another pond, eats
+    the fish, threatens the crab, and is killed by the crab.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Fishes
+  description: The fish community in the low pond; they suffer from lack of water
+    and are carried away and eaten by the crane.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Little Fish
+  description: A fish who questions the crane's offer and voices suspicion that the
+    crane wants to eat the fishes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Big Fish
+  description: A fish who rides with the crane, sees the full pond, returns, and reports
+    to the other fishes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Crab
+  description: A crab left on the sand after the fishes are gone; he grips the crane's
+    neck and kills him when the crane reveals his threat.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: predatory deceiver
+  assigned_to:
+  - fig:1
+  basis: The crane presents himself as a helper carrying fishes to water but instead
+    carries them to a hidden place and eats them; he later threatens the crab.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: role:2
+  label: endangered victims
+  assigned_to:
+  - fig:2
+  basis: The fishes suffer in the low pond and are eaten after accepting the crane's
+    transport.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: suspicious questioner
+  assigned_to:
+  - fig:3
+  basis: The little fish challenges the crane's offer and states that the crane may
+    wish to eat the fishes.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: verifying witness
+  assigned_to:
+  - fig:4
+  basis: The big fish visits the full pond and returns to tell the other fishes about
+    it.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: surviving counter-agent
+  assigned_to:
+  - fig:5
+  basis: The crab secures a grip on the crane's neck, recognizes the fish bones, and
+    kills the crane when threatened.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: water scarcity and refuge water
+  literal_form: low pond during drought and full pond in the deep woods
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: fish bones
+  literal_form: a pile of Fish bones at the place where the crane had eaten the fishes
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: crab's tight grip
+  literal_form: the crab's claws holding the crane's neck
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+scenes:
+- id: scene:1
+  label: Drought-stricken pond and crane's offer
+  summary: In a dry summer, fishes suffer in a low pond while a crane watches and
+    offers to carry them to a better pond in the woods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Verification of the other pond
+  summary: A big fish rides with the crane, sees the full pond, and returns to report
+    it to the other fishes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hidden predation
+  summary: The fishes trust the report and the crane carries them away one by one,
+    not to the pool, but to a hidden place where he eats them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Crab bargains for a neck grip
+  summary: After the fishes are gone, the crane offers to transport the crab; the
+    crab agrees only if he may hold the crane's neck with his claws.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Bone pile and reversal
+  summary: At the place of the fish bones, the crane reveals his intent to eat the
+    crab, but the crab pinches the crane's neck until the crane's head falls off.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: false rescue used for predation
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The crane offers to save the fishes from the drying pond by carrying them
+    to water, but uses the offer to isolate and eat them.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The available taxonomy label is broad; the passage presents deception
+    and predation rather than an explicit named trickster category.
+- id: motif:2
+  label: partial truth creates fatal trust
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The crane shows a real pond to the big fish and returns him, causing the
+    other fishes to trust the crane before he eats them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a narrative pattern inferred from the sequence; the passage does
+    not name it as a motif.
+- id: motif:3
+  label: intended victim outwits predator
+  taxonomy_refs:
+  - wisdom
+  - trickster_boundary
+  basis: The crab requires a hold on the crane's neck before traveling and kills the
+    crane when the crane reveals his intent to eat him.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The wisdom classification is supported by successful precaution and response,
+    but the tale does not explicitly use the term wisdom.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1523-1546
+  quote_or_summary: The tale opens in a dry summer with little rain. Animals, especially
+    fishes in a very low pond, suffer for want of water; a crane watches them and
+    offers to carry them to a deep-woods pond with water, food, and shade.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 1548-1554
+  quote_or_summary: A little fish says the crane may want to eat the fishes one by
+    one. The crane replies that they may send a trusted fish with him to see the pond
+    and return.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 1555-1567
+  quote_or_summary: A big fish goes with the crane, sees the cool, shady, larger,
+    full pond, returns to the little pond, and tells the other fishes about it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 1567-1577
+  quote_or_summary: After hearing the report, the fishes want to go. The crane carries
+    them away one by one, not to the pool, but to a hidden place in the woods, where
+    he eats them until all the fishes in the pond are gone.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: lines 1577-1585
+  quote_or_summary: The next day the crane finds no fish left, only a crab on the
+    sand, and offers to take the crab to the fine pond in the deep woods.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: summary
+  locator: lines 1588-1598
+  quote_or_summary: The crab says he cannot ride on the crane's back and asks to hold
+    the crane's neck with his claws. The crane knows crabs have a tight grip and dislikes
+    the idea, but agrees because he is hungry.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:7
+  type: summary
+  locator: lines 1600-1613
+  quote_or_summary: At the place where the crane had eaten the fishes, the crane tells
+    the crab to let go and walk. The crab sees no pond, only a pile of fish bones.
+    The crane admits that the crab's shell will be all that remains if he lets go.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:8
+  type: summary
+  locator: lines 1615-1617
+  quote_or_summary: The crab pinches the crane's neck so that the crane's head falls
+    off, then says the crane's bones, not the crab's shell, will dry with the fishes'
+    bones.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are candidate
+    analytical labels and should be reviewed against the Atlas taxonomy. No comparison
+    claims were made because the passage itself provides no explicit cross-text or
+    cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The passage locator label lists multiple tale titles, but the supplied passage text contains only THE CRAB AND THE CRANE; extraction is limited to that supplied text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l1523-l1623
+  passage_sha256=e10bb12e7483abdb84fe2e06b3c02e28d695de88b9455193108e86f0ac7a0542
+

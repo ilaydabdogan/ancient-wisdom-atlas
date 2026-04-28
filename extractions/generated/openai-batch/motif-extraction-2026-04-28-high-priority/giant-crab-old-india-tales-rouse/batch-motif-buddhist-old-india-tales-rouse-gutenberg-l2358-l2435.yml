@@ -1,0 +1,512 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l2358-l2435
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE BOLD BEGGAR / THE JACKAL WOULD A-WOOING GO / THE LION AND THE BOAR /
+    THE GOBLIN CITY; lines 2358-2435
+  start: '2358'
+  end: '2435'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In a city of she-goblins in Ceylon, shipwrecked sailors are lured by false
+    hospitality and magical appearances, forced into marriage, and some are later
+    rescued by a fairy’s flying horse after the captain discovers the goblins’ cannibalism.
+    Those who refuse or fail to escape are eaten.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The city is said to be inhabited only by she-goblins who obtain husbands from
+    travelers and later eat them.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Five hundred sailors are shipwrecked near the goblin city and come ashore.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The she-goblins bring food and dry clothes to the sailors and invite them
+    into the city.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The she-goblins use magic to make ordinary rural people and scenes appear
+    around the city.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The she-goblins persuade the sailors to marry them by saying their earlier
+    husbands had been lost at sea.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Earlier husbands are kept in prison, waiting to be eaten.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: At night the she-goblins go to the prison, kill some men, and eat their flesh.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The captain observes his goblin wife returning while still eating and chanting
+    about human meat.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The captain tells some of his companions what he has discovered; some believe
+    him and some do not.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: A kind fairy sends a flying horse to carry away the men who want to go home.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The flying horse speaks in a human voice and asks who wants to go home.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: All who choose to leave climb onto the horse, which carries them safely home.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: Those who stay behind are attacked and eaten by the goblins that night.
+  category: sequence
+  evidence_refs:
+  - ev:11
+- id: obs:14
+  text: The passage states that goblins hate water, and that a ship would have allowed
+    escape if it had not been lost.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: She-goblins of the city
+  description: Female goblins who lure travelers into marriage and later eat their
+    husbands.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Five hundred sailors
+  description: Shipwrecked men cast ashore near the goblin city.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Captain of the sailors
+  description: The sailor-captain who wakes, observes his goblin wife, and warns his
+    companions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: Earlier husbands / prisoners
+  description: Men previously taken by the she-goblins, held in prison and eaten.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Kind fairy
+  description: A fairy who hates the goblins and decides to save the men.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+- id: fig:6
+  name_or_label: Flying horse
+  description: A beautiful horse with white and gold wings that speaks and carries
+    the men home.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:7
+  name_or_label: Sailors who remain behind
+  description: The men who do not leave on the flying horse and are eaten by the goblins.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: supernatural cannibal spouses
+  assigned_to:
+  - fig:1
+  basis: They obtain husbands from travelers and later eat them.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: deceptive hosts
+  assigned_to:
+  - fig:1
+  basis: They offer food and clothing, invite the sailors into the city, and use magical
+    appearances to make the place seem safe.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: shipwrecked travelers
+  assigned_to:
+  - fig:2
+  basis: They are sailors cast ashore after a wreck near the city.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: discoverer and warner
+  assigned_to:
+  - fig:3
+  basis: He observes the goblin wife after the cannibal feast and later tells his
+    mates what he has discovered.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:5
+  label: victims
+  assigned_to:
+  - fig:4
+  - fig:7
+  basis: The earlier husbands are imprisoned and eaten; the remaining sailors are
+    later mangled and eaten.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:11
+- id: role:6
+  label: rescuer
+  assigned_to:
+  - fig:5
+  basis: The fairy determines to save the men and sends the flying horse.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: magical transport
+  assigned_to:
+  - fig:6
+  basis: The winged horse carries the men safely home.
+  evidence_refs:
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: goblin city
+  literal_form: A large city in Ceylon inhabited only by she-goblins.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: illusory countryside
+  literal_form: Magically created shapes of ploughmen, shepherds, huntsmen, hounds,
+    and ordinary rural life.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: prison of former husbands
+  literal_form: A prison holding the previous husbands while they wait to be eaten.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: water as escape boundary
+  literal_form: The sea or water, which goblins are said to hate and which a ship
+    could have crossed for escape.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: winged flying horse
+  literal_form: A beautiful horse with large white and gold wings that speaks and
+    carries many men.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: City of she-goblins
+  summary: The passage introduces a Ceylon city populated only by she-goblins who
+    acquire traveler-husbands and later eat them.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Shipwreck and deceptive welcome
+  summary: Five hundred sailors are wrecked near the city; the goblins offer hospitality
+    and create magical appearances of ordinary country life to reassure them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Marriage trap
+  summary: The goblins persuade the sailors to marry them while concealing that earlier
+    husbands are imprisoned for future eating.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Night cannibalism discovered
+  summary: At night the goblins go to the prison and eat some men; the captain observes
+    his wife returning and realizes she is a goblin.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Warning and divided belief
+  summary: The captain warns his companions; some believe him and plan to seek escape,
+    while others reject the warning.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Rescue by the flying horse
+  summary: A fairy sends a winged horse, which speaks to the men and carries those
+    who want to leave safely home.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: scene:7
+  label: Fate of those who remain
+  summary: The sailors who remain behind are attacked, mangled, and eaten by the goblins.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: deceptive supernatural spouse who consumes the human partner
+  taxonomy_refs: []
+  basis: The she-goblins force or persuade travelers into marriage and later eat their
+    husbands.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:11
+  confidence: high
+  cautions: The available taxonomy list has no exact reference for cannibal spouse
+    or dangerous bride.
+- id: motif:2
+  label: enchanted false settlement concealing danger
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The goblins make magical shapes of ordinary rural life to keep the shipwrecked
+    sailors from being frightened away.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage does not name a trickster
+    figure.
+- id: motif:3
+  label: supernatural animal rescue and return home
+  taxonomy_refs:
+  - return
+  basis: A fairy’s winged horse speaks to the men, receives them on its back, and
+    carries those who want to leave safely home.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The return is by magical transport, but the taxonomy reference is general.
+- id: motif:4
+  label: warning believed by some and rejected by others
+  taxonomy_refs:
+  - wisdom
+  basis: The captain discovers the danger and warns his mates; some believe him and
+    escape, while others remain and are eaten.
+  evidence_refs:
+  - ev:8
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The wisdom taxonomy reference is broad and should be reviewed.
+- id: motif:5
+  label: water as boundary against hostile beings
+  taxonomy_refs: []
+  basis: The captain reflects that escape by ship would work because goblins hate
+    water, but the ship is gone.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage states the property directly but does not develop a full water-crossing
+    scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2358-2364
+  quote_or_summary: A city in Ceylon is full only of she-goblins, who take travelers
+    as husbands and later eat them.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2366-2371
+  quote_or_summary: A ship is wrecked near the goblin city; five hundred sailors are
+    cast ashore, and the she-goblins bring them food, dry clothes, and an invitation
+    into the city.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2371-2379
+  quote_or_summary: The goblins use magic to create appearances of ploughmen, shepherds,
+    huntsmen, hounds, and quiet country life so the sailors will feel safe.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2381-2387
+  quote_or_summary: The goblins persuade the sailors to marry them by claiming their
+    husbands were lost at sea, while earlier husbands are actually imprisoned and
+    waiting to be eaten.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2389-2393
+  quote_or_summary: At night the she-goblins go to the prison, kill several men, eat
+    their flesh, and return home.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 2393-2403
+  quote_or_summary: 'The captain sees his wife return still eating and hears her repeat:
+    "Man''s meat, man''s meat, / That''s what Goblins like to eat!"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 2405-2410
+  quote_or_summary: The captain fears they cannot fight goblins; he thinks they could
+    escape by ship because goblins hate water, but the ship is gone.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 2412-2417
+  quote_or_summary: The captain tells his mates; some believe him and agree to look
+    for escape, while others think he dreamed it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 2419-2427
+  quote_or_summary: A kind fairy who hates the goblins sends a flying horse; the captain
+    sees a beautiful horse with white and gold wings, and the horse asks in a human
+    voice who wants to go home.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 2429-2433
+  quote_or_summary: The sailors who want to leave climb on the horse; although it
+    appears ordinary-sized, there is room for all, and it flies them safely home.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 2435-2435
+  quote_or_summary: Those who remain behind are attacked by the goblins and eaten.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    candidate groupings and require human review, especially broad taxonomy mappings.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons were added because the passage itself provides no explicit comparison to another named text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l2358-l2435
+  passage_sha256=0a44f31d9c8266a0e156879fa85bd66b626ab1c01a779c0a52c2ca6e516b9ebf
+

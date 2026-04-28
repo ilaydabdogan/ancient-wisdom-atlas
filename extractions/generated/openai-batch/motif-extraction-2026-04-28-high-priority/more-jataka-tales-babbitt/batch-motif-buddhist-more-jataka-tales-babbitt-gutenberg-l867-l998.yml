@@ -1,0 +1,566 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l867-l998
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: THE WOODPECKER AND THE LION / THE OTTERS AND THE WOLF / HOW THE MONKEY SAVED
+    HIS TROOP / THE HAWKS AND THEIR FRIENDS; lines 867-998
+  start: '867'
+  end: '998'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A hawk family living on an island is threatened by hunters who discover
+    the young birds while making a fire. The Father Hawk summons previously made friends:
+    a Kingfisher repeatedly quenches the fire with water, a Turtle puts out the fire
+    with mud and escapes the hunters, and finally a Lion frightens the hunters away.
+    The hawks thank their friends and state that friends in need are friends indeed.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hawk family lives on an island in a lake, with a Lion on the northern shore,
+    a Kingfisher on the eastern shore, and a Turtle on the southern shore.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Mother Hawk advises the Father Hawk to make friends who can help the family
+    in danger or trouble.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Hunters spend a day hunting unsuccessfully, then stay overnight on the island
+    beneath the hawks’ nesting tree.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The hunters make a fire to drive away insects; smoke wakes the young birds,
+    revealing the nest to the hunters.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Mother Hawk sends the Father Hawk to ask the Kingfisher for help when
+    the hunters plan to eat the young hawks.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Kingfisher repeatedly beats the water with his wings and sprinkles water
+    on the fire, putting it out each time.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: When the Kingfisher becomes tired, the Mother Hawk sends the Father Hawk to
+    ask the Turtle for help.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The Turtle dives, gathers mud, puts out the fire with it, and then lies still.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The hunters try to capture the Turtle with a makeshift net of vines and torn
+    clothes, but the Turtle dives into deep water and pulls them in.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The Mother Hawk sends the Father Hawk to tell the Lion when the hunters persist
+    in planning to eat the young hawks at sunrise.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The Lion comes roaring; the hunters fear being killed and run away.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: After the hunters flee, the Hawks thank the Kingfisher, Turtle, and Lion,
+    saying that friends in need are friends indeed.
+  category: speech
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Mother Hawk
+  description: Mother of the hawk family; she urges the making of friends and directs
+    appeals for help during danger.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:10
+- id: fig:2
+  name_or_label: Father Hawk
+  description: Father of the hawk family; he makes friends as advised and carries
+    messages asking for aid.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:10
+- id: fig:3
+  name_or_label: Young Hawks
+  description: Young birds in the hawks’ nest whom the hunters plan to eat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:10
+- id: fig:4
+  name_or_label: Kingfisher
+  description: Friend living on the eastern shore; he helps by extinguishing the hunters’
+    fire with water until tired.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:12
+- id: fig:5
+  name_or_label: Turtle
+  description: Friend living on the southern shore; he helps by using mud to put out
+    the fire and by escaping into deep water with the hunters’ net.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:8
+  - ev:9
+  - ev:12
+- id: fig:6
+  name_or_label: Lion
+  description: King of Beasts living on the northern shore; he comes roaring and frightens
+    away the hunters.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:10
+  - ev:11
+  - ev:12
+- id: fig:7
+  name_or_label: Hunters
+  description: Men who hunt unsuccessfully, camp beneath the hawk nest, make fires,
+    and plan to eat the young hawks.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+  - ev:10
+  - ev:11
+roles:
+- id: role:1
+  label: prudent adviser
+  assigned_to:
+  - fig:1
+  basis: The Mother Hawk advises making friends before danger arises.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: protector of young
+  assigned_to:
+  - fig:1
+  basis: The Mother Hawk recognizes threats to the young hawks and directs the Father
+    Hawk to seek aid.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:10
+- id: role:3
+  label: messenger seeking aid
+  assigned_to:
+  - fig:2
+  basis: The Father Hawk goes to the Kingfisher, Turtle, and Lion to report danger
+    and ask for help.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:10
+- id: role:4
+  label: endangered offspring
+  assigned_to:
+  - fig:3
+  basis: The hunters identify the young hawks as intended food.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:10
+- id: role:5
+  label: first helper extinguishing fire
+  assigned_to:
+  - fig:4
+  basis: The Kingfisher helps by repeatedly putting out the hunters’ fire with water.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: second helper and diversion
+  assigned_to:
+  - fig:5
+  basis: The Turtle puts out the fire with mud, draws the hunters’ attention, and
+    escapes into deep water with their net.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:7
+  label: final defender by intimidation
+  assigned_to:
+  - fig:6
+  basis: The Lion’s roar causes the hunters to flee.
+  evidence_refs:
+  - ev:11
+- id: role:8
+  label: threatening hunters
+  assigned_to:
+  - fig:7
+  basis: The hunters seek food, discover the young hawks, build fires, and plan to
+    eat them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:10
+symbols:
+- id: sym:1
+  label: nesting tree
+  literal_form: tree holding the hawks’ nest
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: hunters’ fire
+  literal_form: fire made on the shore of the lake and repeatedly rebuilt
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:10
+- id: sym:3
+  label: lake water
+  literal_form: lake water used by the Kingfisher and entered by the Turtle
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:9
+- id: sym:4
+  label: mud from the lake
+  literal_form: mud collected by the Turtle to put out the fire
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: makeshift net
+  literal_form: net made from vines and torn clothing
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: lion’s roar
+  literal_form: roar of the Lion heard by the hunters
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Friends established around the lake
+  summary: The Mother Hawk advises the Father Hawk to befriend the Kingfisher, Lion,
+    and Turtle, each living on a different shore of the lake.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hunters discover the young hawks
+  summary: Hunters camp under the hawks’ nesting tree, make a fire against insects,
+    and hear the young hawks cry after smoke wakes them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Kingfisher quenches the fires
+  summary: The Father Hawk summons the Kingfisher, who repeatedly puts out the hunters’
+    fires with water as they try to climb toward the nest.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Turtle intervenes and escapes
+  summary: The Turtle answers the Father Hawk’s request, extinguishes the fire with
+    mud, then escapes into deep water while the hunters hold a makeshift net.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Lion drives hunters away
+  summary: When the hunters continue their plan, the Father Hawk summons the Lion,
+    whose roar frightens the hunters into fleeing.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: scene:6
+  label: Hawks thank their friends
+  summary: After the hunters are gone, the Kingfisher and Turtle rejoin the Lion and
+    the Hawks, and the Hawks acknowledge that their friends saved them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: protective animal friendship network
+  taxonomy_refs: []
+  basis: The hawk family is saved because the Father Hawk has made friends with neighboring
+    animals who aid them in sequence during danger.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: The supplied taxonomy has no exact animal-helper or friendship-network
+    motif family; the label is descriptive.
+- id: motif:2
+  label: danger averted through practical foresight
+  taxonomy_refs:
+  - wisdom
+  basis: The Mother Hawk’s earlier advice to make friends provides the means of rescue
+    when the hunters threaten the nest.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:12
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage frames the lesson
+    primarily as friendship in need.
+- id: motif:3
+  label: successive helpers against repeated threat
+  taxonomy_refs: []
+  basis: The Kingfisher, Turtle, and Lion each respond in turn as the hunters repeatedly
+    renew their attempt to reach or eat the young hawks.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: This is a structural motif description, not a named taxonomy item.
+- id: motif:4
+  label: small or different animals use distinct abilities to protect the vulnerable
+  taxonomy_refs: []
+  basis: The Kingfisher uses water, the Turtle uses mud and diving, and the Lion uses
+    roaring intimidation to protect the young hawks.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:11
+  confidence: high
+  cautions: No inference is made beyond the literal animal actions in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 867-874
+  quote_or_summary: A family of Hawks lives on an island in a lake; a Lion lives on
+    the northern shore, a Kingfisher on the eastern shore, and a Turtle on the southern
+    shore.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 875-888
+  quote_or_summary: The Mother Hawk asks about nearby friends and tells the Father
+    Hawk to make friends with the Kingfisher, Lion, and Turtle so they can receive
+    help in danger or trouble.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 890-900
+  quote_or_summary: After hunting all day without success, the men camp on the island
+    and lie down beneath the tree where the Hawks have their nest.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 902-914
+  quote_or_summary: The hunters make a fire to drive off flies and mosquitoes; smoke
+    wakes the birds, the young cry out, and the hunters identify the young in the
+    nest as breakfast.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 916-928
+  quote_or_summary: The Mother Hawk says the men plan to eat their young and sends
+    the Father Hawk to the Kingfisher, who promises to help.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 930-943
+  quote_or_summary: The Kingfisher goes into the lake near the fire and, whenever
+    a hunter climbs toward the nest, beats the water with his wings and sprinkles
+    water on the fire until it goes out.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 945-956
+  quote_or_summary: Seeing the Kingfisher tired after hours of work, the Mother Hawk
+    sends the Father Hawk to wake the Turtle and ask him to help.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 958-963
+  quote_or_summary: The Turtle agrees to help, goes to the island, dives into the
+    water, collects mud, puts out the fire with it, and lies still.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 965-983
+  quote_or_summary: The hunters decide to kill the Turtle, make a net from vines and
+    torn clothing, fail to turn him over, and are pulled into deep water when he dives
+    while they hold the net.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 984-991
+  quote_or_summary: The hunters say they will build another fire and eat the young
+    Hawks at sunrise; the Mother Hawk sends the Father Hawk to tell the Lion the whole
+    story.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 992-996
+  quote_or_summary: The Lion comes roaring; the hunters hear the roar, fear they will
+    all be killed, and run away.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: quote
+  locator: lines 997-998
+  quote_or_summary: "“You have saved us. Friends in need are friends indeed.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are descriptive because the available taxonomy lacks an exact friendship or animal-helper
+    category. No comparison claims were added because the passage does not itself
+    establish contact, inheritance, or explicit comparison to another corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l867-l998
+  passage_sha256=a0386702ac6219490efa27b084ee5bd6f69cb3f868de2836525d41e7af7b0c9d
+

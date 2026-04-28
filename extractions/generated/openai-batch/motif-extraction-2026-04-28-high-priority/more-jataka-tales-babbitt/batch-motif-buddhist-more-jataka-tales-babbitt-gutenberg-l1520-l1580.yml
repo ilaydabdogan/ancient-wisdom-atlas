@@ -1,0 +1,485 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l1520-l1580
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: THE LION IN BAD COMPANY / XVIII / THE WISE GOAT AND THE WOLF / PRINCE WICKED
+    AND THE GRATEFUL ANIMALS; lines 1520-1580
+  start: '1520'
+  end: '1580'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A king orders the poor man who saved him to be beaten and executed. The
+    poor man explains his deed to wise men in the crowd, and the crowd kills the king
+    and makes the poor man king. The new king visits the Snake, Rat, and Parrot, receives
+    or is offered their promised gifts, brings them to the palace, and houses and
+    feeds them for life.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The king orders servants to seize, bind, beat, and behead the poor man.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The servants obey the king and beat the bound poor man at every street corner.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The poor man repeatedly says that it is better to save poor, weak animals
+    than to save a prince.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Wise men in the crowd ask the poor man which prince he saved, and the poor
+    man tells the story, saying that saving their king brought pain upon him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The crowd says the poor man saved the king, fears the king may kill others,
+    and kills the king with arrows and stones while he rides on an elephant.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The crowd makes the poor man king and sets him to rule.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The new king visits the Snake, the Rat, and the Parrot to try them, and each
+    responds with treasure, money, or an offer of rice.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: obs:8
+  text: The king returns to the city with the gold, money, Snake, Rat, and Parrot,
+    hides the wealth in the palace, and provides special dwellings and daily food
+    for the animals.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: the king
+  description: The ruler who orders the poor man's execution and is later killed by
+    the crowd.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: the poor man
+  description: A man ordered killed by the king; he says he saved the king and is
+    later made king.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: servants
+  description: The king's servants who seize, bind, and beat the poor man, and later
+    dig up the Snake's gold.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:4
+  name_or_label: wise men and crowd
+  description: People along the street who question the poor man, condemn the king's
+    action, kill the king, and make the poor man king.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Snake
+  description: A snake who comes from his hole, offers treasure to the king, and later
+    receives a gold tube to live in.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: fig:6
+  name_or_label: Rat
+  description: A rat who bows to the king, offers buried money, and later receives
+    a glass box as a home.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: fig:7
+  name_or_label: Parrot
+  description: A parrot who offers to gather choice rice with family and friends and
+    later receives a gold cage.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: unjust ruler ordering execution
+  assigned_to:
+  - fig:1
+  basis: The king orders the poor man seized, beaten, and beheaded after the poor
+    man saved him.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: condemned rescuer
+  assigned_to:
+  - fig:2
+  basis: The poor man is bound and beaten, and he says saving the king brought pain
+    upon him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: obedient royal agents
+  assigned_to:
+  - fig:3
+  basis: The servants obey the king's command to seize, bind, and beat the poor man.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: public judges and executors
+  assigned_to:
+  - fig:4
+  basis: The wise men and crowd hear the poor man's story, denounce the king, kill
+    him, and make the poor man king.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: punished king
+  assigned_to:
+  - fig:1
+  basis: The crowd kills the king with arrows and stones while he is riding on an
+    elephant.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: newly enthroned ruler
+  assigned_to:
+  - fig:2
+  basis: The people make the poor man king, and he later rules, travels with servants,
+    and houses the animals in the palace.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:10
+- id: role:7
+  label: grateful animal benefactor
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The Snake offers treasure, the Rat offers buried money, and the Parrot offers
+    choice rice.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: Snake
+  literal_form: snake coming out of a hole and offering treasure
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:7
+- id: sym:2
+  label: treasure and gold
+  literal_form: treasure and gold dug up by servants and later hidden in the palace
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: sym:3
+  label: buried money
+  literal_form: money buried where the Rat lives and carried away by servants
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: choice rice
+  literal_form: rice that the Parrot offers to gather with family and friends when
+    needed
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: elephant
+  literal_form: elephant on which the king rides when the crowd kills him
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: animal dwellings in the palace
+  literal_form: gold tube for the Snake, glass box for the Rat, and gold cage for
+    the Parrot
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Condemnation and street beating
+  summary: The king commands that the poor man be bound, beaten through the streets,
+    and beheaded; the servants obey while the poor man repeats a saying about saving
+    weak animals rather than a prince.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Crowd learns the rescue story and kills the king
+  summary: Wise men ask the poor man what prince he saved; after hearing that he saved
+    their king, the crowd condemns the king and kills him with arrows and stones while
+    he rides an elephant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Poor man made king
+  summary: After the king is killed, the people make the poor man king and set him
+    to rule over them.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Visits to the Snake, Rat, and Parrot
+  summary: The new king goes to the Snake, Rat, and Parrot; the Snake offers treasure,
+    the Rat offers money, and the Parrot offers rice, and the king asks each animal
+    to come with him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Animals housed in the palace
+  summary: The king returns to the city with wealth and the three animals, hides the
+    wealth in the palace, gives each animal a special dwelling and preferred food,
+    and they live happily.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Rescuer punished by the one he saved
+  taxonomy_refs: []
+  basis: The poor man says he saved the king, yet the king orders him bound, beaten,
+    and executed.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The rescue itself is referred to in this passage but not narrated within
+    this line range.
+- id: motif:2
+  label: Grateful animals reward a human benefactor
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Snake offers treasure, the Rat offers buried money, and the Parrot offers
+    rice to the newly enthroned poor man.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The earlier act that made the animals grateful is outside this passage,
+    though the passage identifies them as better to save than a prince.
+- id: motif:3
+  label: Unjust ruler overthrown and replaced by the innocent victim
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The crowd kills the king because he ordered the poor man's death after being
+    saved by him, then makes the poor man king.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage narrates popular enthronement but gives no formal ritual or
+    divine sanction.
+- id: motif:4
+  label: Testing promised benefactors after gaining power
+  taxonomy_refs: []
+  basis: After becoming king, the poor man decides to try the Snake, Rat, and Parrot
+    again, and they fulfill or offer their gifts.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage does not state the full earlier promise, only the new king's
+    decision to try the animals once more.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1520-1524
+  quote_or_summary: The king calls his servants and commands them to seize and bind
+    the poor man, beat him at every street corner, march him out of the city, and
+    behead him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1526-1531
+  quote_or_summary: The servants seize, bind, and beat the poor man; he does not cry
+    out but repeatedly says it is better to save poor, weak animals than to save a
+    prince.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1533-1536
+  quote_or_summary: Wise men in the crowd ask what prince he saved; the poor man tells
+    the whole story and says that by saving their king he brought this pain on himself.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1538-1545
+  quote_or_summary: The crowd says the poor man saved the king, fears the king may
+    kill others, and kills the king with arrows and stones as he rides on his elephant.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: line 1547
+  quote_or_summary: '"Then they made the poor man king, and set him to rule over them."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: lines 1549-1552
+  quote_or_summary: The poor man rules well and decides to try the Snake, Rat, and
+    Parrot once more, traveling with many servants to where the Snake lives.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 1554-1559
+  quote_or_summary: The Snake comes out of his hole, offers the king treasure, is
+    asked to come along, and the king has servants dig up the gold.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 1561-1566
+  quote_or_summary: The Rat comes out, bows, offers all the money buried there, and
+    is asked to go with the king and the Snake.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: summary
+  locator: lines 1568-1573
+  quote_or_summary: The Parrot flies to the king's feet and offers for himself, his
+    family, and friends to gather choice rice when needed; the king asks him to come,
+    and the Parrot joins them.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:10
+  type: summary
+  locator: lines 1575-1580
+  quote_or_summary: The king returns to the city with gold, money, the Snake, Rat,
+    and Parrot; he hides the wealth, makes a gold tube for the Snake, a glass box
+    for the Rat, a gold cage for the Parrot, feeds each preferred food, and they live
+    happily.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are passage-level candidates and require human review, especially where prior
+    rescue events are only referenced within this excerpt. No comparison claims are
+    made because the passage itself does not support an explicit comparative link.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. Taxonomy references applied only where directly supported by available taxonomy terms.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l1520-l1580
+  passage_sha256=b9b5605468eaf1008a30e0f81678faaf579ccfca9981a5a59eff31707cacc946
+

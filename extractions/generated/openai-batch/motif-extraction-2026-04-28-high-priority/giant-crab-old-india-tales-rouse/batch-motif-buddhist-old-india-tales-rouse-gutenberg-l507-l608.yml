@@ -1,0 +1,435 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l507-l608
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE GIANT CRAB / THE HYPOCRITICAL CAT / THE CROCODILE AND THE MONKEY / THE
+    AXE, THE DRUM, THE BOWL, AND THE DIAMOND; lines 507-608
+  start: '507'
+  end: '608'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A young traveller carrying a magic diamond reaches two forest huts. At
+    the first, a legless man who is a man-eating magician offers hospitality and trades
+    a magic axe for the diamond; the traveller uses the axe to behead him and retrieves
+    the diamond. At the second, an armless man with a magic bowl creates a river barrier
+    and offers the bowl in exchange for the diamond; the traveller again trades, uses
+    the axe to behead him, retrieves the diamond, and now possesses three magic objects.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The traveller sees smoke, approaches a hut, and finds a legless man sitting
+    by a fire where a young kid is roasting.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The legless man offers to share what he has, and the two eat together.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the legless man is a magician who eats travellers
+    and intends to eat this traveller later.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The traveller says he flew over the sea and shows a diamond that gives the
+    power to fly through the air.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The legless man says his axe can cut wood and kindle fire when commanded,
+    and can cut off the head of an animal when commanded.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The traveller exchanges the diamond for the axe, then commands the axe to
+    cut off the legless man's head and takes back the diamond.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The next evening the traveller reaches another hut where an armless old man
+    sits by a fire with a bowl of milk on a stump.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The armless old man tips over the bowl with his chin, and a deep roaring river
+    surrounds him and his hut.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The traveller wishes himself over the river, and the armless old man asks
+    how he did it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The armless old man says the bowl can produce food or drink when wished upon,
+    and can pour out a river or flood a country and drown living things when turned
+    over.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The traveller exchanges the diamond for the bowl, then uses the axe to cut
+    off the armless old man's head and retrieves the diamond.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: 'After the second killing, the traveller has three wonderful things: the diamond,
+    the axe, and the bowl.'
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: young man / traveller
+  description: A young traveller carrying a magic diamond, later also carrying a magic
+    axe and bowl.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: old man with no legs
+  description: A legless old man at a hut; the passage identifies him as a magician
+    who eats travellers.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: old man without arms
+  description: An armless old man at a second hut who possesses a bowl of milk with
+    magical powers.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: traveller
+  assigned_to:
+  - fig:1
+  basis: He walks toward the smoke, asks for shelter, and later sets out on his travels
+    through the forest.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: acquirer of magic objects
+  assigned_to:
+  - fig:1
+  basis: He obtains the axe and bowl through exchanges and retrieves the diamond after
+    each killing.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:3
+  label: man-eating magician
+  assigned_to:
+  - fig:2
+  basis: The passage states that he is a magician who eats travellers and plans to
+    eat this traveller later.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: isolated hut-dweller host
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Each old man is found seated at or before a forest hut and interacts with
+    the traveller there.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:5
+  label: owner of magic axe
+  assigned_to:
+  - fig:2
+  basis: He offers the axe and explains its powers before exchanging it for the diamond.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: owner of magic bowl
+  assigned_to:
+  - fig:3
+  basis: He uses the bowl to create a river and later offers it in exchange for the
+    diamond while explaining its powers.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: magic diamond
+  literal_form: diamond
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: magic axe / hatchet
+  literal_form: axe or hatchet
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: wishing bowl
+  literal_form: bowl of milk / bowl
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - milk
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: fire at the hut
+  literal_form: fire
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:5
+  label: roaring river from the bowl
+  literal_form: deep roaring river
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: forest huts
+  literal_form: huts in the forest
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: first hut and the magic axe
+  summary: The traveller reaches a hut, receives food from a legless magician, hears
+    about the axe's powers, trades the diamond for it, then uses the axe to behead
+    the magician and recover the diamond.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: second hut and the wishing bowl
+  summary: The traveller reaches a second hut, sees the armless old man use the bowl
+    to create a river, trades the diamond for the bowl, then uses the axe to behead
+    the old man and recover the diamond.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: exchange of magic objects followed by violent recovery
+  taxonomy_refs:
+  - sacred_exchange
+  basis: In both encounters, the traveller exchanges the diamond for another magic
+    object and then kills the new owner to take the diamond back while keeping the
+    acquired object.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The passage presents magical exchange and recovery, but does not explicitly
+    frame the exchange as sacred.
+- id: motif:2
+  label: accumulation of wonderful objects
+  taxonomy_refs: []
+  basis: The traveller begins with the diamond, gains the axe, and then gains the
+    bowl, with the passage marking that he has two and then three wonderful things.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: No wider narrative function beyond this passage is inferred.
+- id: motif:3
+  label: dangerous hospitality from a man-eating host
+  taxonomy_refs: []
+  basis: The legless old man welcomes the traveller and shares food, while the narration
+    says he eats travellers and intends to eat this one later.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This motif is explicit for the first host only; the second host is not
+    described as man-eating in the passage.
+- id: motif:4
+  label: commanded weapon that performs tasks and beheading
+  taxonomy_refs: []
+  basis: The axe obeys verbal and physical commands to cut wood, kindle fire, and
+    cut off heads; the traveller uses it to behead both old men.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage does not explain the origin of the axe.
+- id: motif:5
+  label: vessel that provides nourishment and releases destructive water
+  taxonomy_refs: []
+  basis: The bowl can provide food or drink when wished upon and can also produce
+    a river or flood that drowns living things.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage describes the bowl's powers but does not show a countrywide
+    flood actually occurring.
+- id: motif:6
+  label: flight-granting jewel
+  taxonomy_refs: []
+  basis: The diamond is described as giving anyone the power to fly through the air,
+    and the traveller says he used it to fly over the sea.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The actual flight over the sea is reported in dialogue rather than narrated
+    directly in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 507-516
+  quote_or_summary: The traveller sees a thin column of smoke, approaches a hut, and
+    finds a legless man by a fire with a young kid roasting on a spit.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 518-530
+  quote_or_summary: The legless man offers to share what he has; the two eat. The
+    narrator says the old man is a magician who eats travellers and intends to eat
+    this traveller when hungry again.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 532-548
+  quote_or_summary: The traveller says he flew over the sea and shows the diamond,
+    which gives power to fly. The old man offers an axe that can cut wood, kindle
+    fire, and cut off heads when commanded.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 550-559
+  quote_or_summary: The traveller trades the diamond for the axe, commands the axe
+    to cut off the old man's head, then retrieves the diamond and sleeps in the hut
+    with two magic things.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 561-575
+  quote_or_summary: The traveller reaches another hut; an armless old man sits by
+    a fire with a bowl of milk. When he tips the bowl, a deep roaring river surrounds
+    him and his hut; the traveller wishes himself over it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 579-595
+  quote_or_summary: The armless old man asks to buy the diamond and offers the bowl,
+    explaining that it can produce food or drink and can pour out a river or flood
+    a country.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 597-608
+  quote_or_summary: The traveller trades the diamond for the bowl, commands the axe
+    to cut off the armless old man's head, retrieves the diamond, wishes wine into
+    the bowl, and sleeps with three wonderful things.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction uses only the supplied passage. Motif labels are descriptive and
+    passage-level; taxonomy mapping is limited because the passage does not explicitly
+    frame the objects or exchanges as sacred.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a cautious comparison to another tradition, corpus, or named motif family beyond descriptive passage-level patterns.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l507-l608
+  passage_sha256=5cf72d7cd7169ae7a341fcf1f68e9e8e45734b135daa9b13ac740225edf87256
+

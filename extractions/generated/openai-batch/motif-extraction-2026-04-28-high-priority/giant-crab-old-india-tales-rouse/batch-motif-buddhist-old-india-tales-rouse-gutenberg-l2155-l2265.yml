@@ -1,0 +1,497 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l2155-l2265
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE QUAIL AND THE FALCON / PRIDE MUST HAVE A FALL / THE BOLD BEGGAR / THE
+    JACKAL WOULD A-WOOING GO; lines 2155-2265
+  start: '2155'
+  end: '2265'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A jackal living in a transparent Crystal Cave near a lion family proposes
+    marriage to a lioness in the Golden Cave. The lioness is insulted and tells her
+    brothers. Two elder lion brothers mistake the jackal as lying in the open air,
+    leap at him, strike the crystal wall, and die. The youngest brother recognizes
+    that the jackal must be behind crystal or glass and tries to coax him down; the
+    jackal is so frightened by the lion’s voice that he dies. The youngest lion buries
+    his brothers and tells the lioness, who remains in the Golden Cave.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A family of lions lives in the Himalaya Mountains in a Golden Cave; the family
+    consists of three brothers and one sister.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A jackal lives nearby in a Crystal Cave on a silver mountain.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The lion brothers hunt during the day, while their sister keeps the home neat;
+    they save some of their game for her.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The jackal falls in love with the lioness and waits until her brothers are
+    away before approaching the Golden Cave.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The jackal tells the lioness that he loves her, argues that they are alike
+    because both have four feet, and asks her to marry him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The lioness is astonished and insulted by the proposal and does not answer
+    the jackal.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: After the lioness tells the eldest brother about the proposal, he runs toward
+    the jackal, leaps at him, strikes the crystal wall, and dies.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The second brother hears the same account, goes to the Crystal Cave, leaps
+    at the jackal, strikes the crystal wall, and dies beside the eldest brother.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The youngest brother reasons that something transparent must support the jackal
+    and identifies it as crystal or glass.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The youngest brother calls coaxingly to the jackal; the jackal is frightened
+    by the lion’s loud voice and dies.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The youngest lion buries his brothers and reports what happened to his sister.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The lioness is described as satisfied as long as one brother remains to catch
+    food for her, and she lives out her life in the Golden Cave.
+  category: attribute
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Jackal
+  description: A jackal living in the Crystal Cave near the lion family; he proposes
+    marriage to the lioness and later dies from fright.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:10
+- id: fig:2
+  name_or_label: Lioness
+  description: The sister of three lion brothers, living in the Golden Cave; she keeps
+    the home and rejects the jackal’s proposal by silence and indignation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Eldest lion brother
+  description: The first brother to return from hunting; after hearing the lioness’s
+    complaint, he leaps at the jackal and dies against the crystal wall.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Second lion brother
+  description: The second brother to return; he repeats the eldest brother’s attack
+    and dies against the crystal wall.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: Youngest lion brother
+  description: The cleverest brother; he infers the presence of crystal or glass,
+    finds his dead brothers, frightens the jackal by calling to him, and buries his
+    brothers.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+roles:
+- id: role:1
+  label: rejected suitor
+  assigned_to:
+  - fig:1
+  basis: The jackal declares love for the lioness and asks her to marry him, but receives
+    no answer and leaves miserable.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:2
+  label: insulted prospective bride
+  assigned_to:
+  - fig:2
+  basis: The lioness is angered by the jackal’s proposal and regards it as an insult.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: protective hunting brothers
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The brothers hunt for food and respond to the lioness’s report about the
+    jackal.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:4
+  label: nearby outsider
+  assigned_to:
+  - fig:1
+  basis: The jackal lives nearby and is known by sight, but the lions and jackal are
+    not on visiting terms.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:5
+  label: clever survivor
+  assigned_to:
+  - fig:5
+  basis: The youngest brother reasons that the jackal must be lying on something transparent
+    and avoids the fatal leap made by his brothers.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: Golden Cave
+  literal_form: Golden Cave in the Himalaya Mountains, home of the lion family
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Crystal Cave
+  literal_form: transparent Crystal Cave on a silver mountain, home of the jackal
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: mountain setting
+  literal_form: Himalaya Mountains and a nearby silver mountain
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: transparent barrier
+  literal_form: crystal or glass wall that appears invisible and causes the elder
+    lions’ deaths
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: lion’s roar or voice
+  literal_form: the youngest lion’s loud coaxing voice, frightening the jackal to
+    death
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Neighboring caves in the mountains
+  summary: The lion family lives in a Golden Cave in the Himalaya Mountains, while
+    a jackal lives nearby in a transparent Crystal Cave on a silver mountain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Jackal proposes marriage
+  summary: While the lion brothers are hunting, the jackal visits the Golden Cave
+    and asks the lioness to marry him, saying they are alike because both have four
+    feet.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Two elder brothers die at the crystal wall
+  summary: The lioness tells the eldest and second brothers about the jackal; each
+    rushes toward the jackal, leaps, strikes the transparent crystal wall, and dies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Youngest brother identifies the barrier
+  summary: The youngest brother reasons that the jackal cannot truly be lying in the
+    air and identifies the support as crystal or glass.
+  figure_refs:
+  - fig:5
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:9
+- id: scene:5
+  label: Jackal dies from fright
+  summary: The youngest brother calls coaxingly to the jackal, but the lion’s loud
+    voice terrifies the jackal so much that he dies.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:10
+- id: scene:6
+  label: Aftermath in the Golden Cave
+  summary: The youngest lion buries his brothers, tells the lioness what happened,
+    and the lioness remains in the Golden Cave with one brother left to catch food
+    for her.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: inappropriate animal suitor rejected by higher-status bride
+  taxonomy_refs: []
+  basis: The jackal proposes to the lioness, while the narrative emphasizes her royal
+    status and her outrage at being addressed by a jackal.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The status contrast is part of the narrator’s framing; no external motif
+    index is supplied.
+- id: motif:2
+  label: fatal invisible or transparent barrier
+  taxonomy_refs: []
+  basis: Two lion brothers leap at the jackal because he appears accessible, but each
+    strikes the crystal wall and dies.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage gives the barrier as crystal or glass; no broader taxonomy
+    reference is provided.
+- id: motif:3
+  label: clever youngest sibling avoids elder siblings’ fatal error
+  taxonomy_refs:
+  - wisdom
+  basis: The youngest brother, described as cleverer than the others, reasons out
+    the transparent cave before acting, unlike his two elder brothers.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The youngest does not rescue the elder brothers; he only understands the
+    danger after their deaths.
+- id: motif:4
+  label: pride leading to loss
+  taxonomy_refs: []
+  basis: The final comment attributes the brothers’ deaths to the lioness holding
+    her nose high in the air, and she shows little grief afterward.
+  evidence_refs:
+  - ev:6
+  - ev:11
+  confidence: medium
+  cautions: The moral is implied by narration rather than stated as a formal doctrine
+    within the passage.
+- id: motif:5
+  label: fright causing sudden death
+  taxonomy_refs: []
+  basis: The jackal dies when the lion’s coaxing call sounds like an awful roar and
+    frightens him.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: This is a local narrative event; no supplied taxonomy category directly
+    matches it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2155-2161
+  quote_or_summary: The tale opens with a lion family of three brothers and one sister
+    living in a Golden Cave in the Himalaya; nearby, a jackal lives in a Crystal Cave
+    on a silver mountain.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2162-2167
+  quote_or_summary: The lion brothers hunt during the day; the sister keeps the home,
+    and the brothers save part of their game for her.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2168-2175
+  quote_or_summary: The jackal falls in love with the lioness, who is described as
+    beautiful; the narration stresses the disparity between jackal and lion.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2176-2186
+  quote_or_summary: The jackal waits until the brothers leave, taps at the Golden
+    Cave, and the lioness recognizes him as a neighbor from the transparent Crystal
+    Cave though they are not on visiting terms.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 2187-2191
+  quote_or_summary: "“Beautiful Lioness!” said he, “I love you! ... Will you marry
+    me?”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: 2192-2203
+  quote_or_summary: The lioness is astonished and furious at the proposal, considers
+    death by holding her breath or starving, gives no answer, and the jackal returns
+    home miserable.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 2204-2217
+  quote_or_summary: The eldest brother returns with a deer, hears the lioness’s complaint,
+    asks where the jackal is, rushes toward the Crystal Cave, leaps at him, strikes
+    the crystal wall, and dies.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 2218-2226
+  quote_or_summary: The second brother hears the same tale, goes off growling, leaps,
+    cracks his head against the crystal wall, and dies beside his brother.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 2227-2241
+  quote_or_summary: The youngest brother, said to be cleverer than the others, rejects
+    the idea that the jackal is in the air and infers that crystal or glass must be
+    supporting him; he sees his dead brothers near the Crystal Cave.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 2242-2255
+  quote_or_summary: The youngest lion calls to the jackal in a coaxing way, but because
+    lions have loud voices, the jackal hears an awful roar, is terrified, and dies.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 2256-2265
+  quote_or_summary: The lion sees the jackal is dead, buries his brothers, and tells
+    his sister. The narrator says she is not sorry and is satisfied so long as one
+    brother remains to catch food for her; she lives the rest of her life in the Golden
+    Cave.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based only on the supplied passage. Motif candidates
+    are descriptive and limited to the available evidence; no external comparisons
+    are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific cross-text or cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l2155-l2265
+  passage_sha256=510ff5d6fd1a75c1aab819159e1f8fe44785037db0226d85c3cc6f96f83753c8
+

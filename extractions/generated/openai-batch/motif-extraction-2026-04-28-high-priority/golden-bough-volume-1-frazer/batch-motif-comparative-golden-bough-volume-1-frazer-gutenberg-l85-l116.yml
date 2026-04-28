@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l85-l116
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2) / CONTENTS;
+    lines 85-116'
+  start: '85'
+  end: '116'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage is a table of contents listing the dedication, preface, and
+    three chapters: “The King of the Wood,” “The Perils of the Soul,” and “Killing
+    the God,” with subsections on the Arician Grove, supernatural belief, incarnate
+    gods, tree-worship, royal and priestly taboos, the soul, killing the divine king,
+    killing the tree-spirit, carrying out Death, and named figures including Adonis,
+    Attis, Osiris, Dionysus, Demeter and Proserpine, and Lityerses.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a contents list rather than a narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Chapter I is titled “The King Of The Wood” and includes subsections on the
+    Arician Grove, primitive man and the supernatural, incarnate gods, tree-worship,
+    and tree-worship in antiquity.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Chapter II is titled “The Perils Of The Soul” and includes subsections on
+    royal and priestly taboos and the nature of the soul.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'Chapter III is titled “Killing The God” and includes subsections on killing
+    the divine king, killing the tree-spirit, carrying out Death, and named subjects:
+    Adonis, Attis, Osiris, Dionysus, Demeter and Proserpine, and Lityerses.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: The King of the Wood
+  description: Listed as the title of Chapter I.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: incarnate gods
+  description: Listed as a subsection topic under Chapter I.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the soul
+  description: Listed as a subsection topic under Chapter II.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: the divine king
+  description: Listed in the subsection title “Killing the divine king.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: the tree-spirit
+  description: Listed in the subsection title “Killing the tree-spirit.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Death
+  description: Listed in the subsection title “Carrying out Death.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Adonis
+  description: Listed as a subsection title under Chapter III.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Attis
+  description: Listed as a subsection title under Chapter III.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Osiris
+  description: Listed as a subsection title under Chapter III.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: Dionysus
+  description: Listed as a subsection title under Chapter III.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:11
+  name_or_label: Demeter and Proserpine
+  description: Listed together as a subsection title under Chapter III.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:12
+  name_or_label: Lityerses
+  description: Listed as a subsection title under Chapter III.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: contents subject
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  - fig:12
+  basis: Each assigned figure or entity appears as a chapter title or subsection title
+    in the contents list.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: tree-worship; tree-spirit
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: wood or grove
+  literal_form: The King of the Wood; the Arician Grove
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: 'Contents overview: tree, soul, taboo, and divine killing topics'
+  summary: The contents list organizes the volume around chapter topics involving
+    a king of the wood, tree-worship, taboos surrounding royal and priestly figures,
+    the nature of the soul, and killing a god, divine king, or tree-spirit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: tree-worship and tree-spirit
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The contents explicitly lists “Tree-worship,” “Tree-worship in antiquity,”
+    and “Killing the tree-spirit.”
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage is a table of contents and does not provide narrative details;
+    the taxonomy link is based only on chapter and subsection headings involving trees.
+- id: motif:2
+  label: killing a god or divine king
+  taxonomy_refs:
+  - sacrifice
+  - dying_and_returning
+  basis: The contents explicitly lists “Killing The God” and subsections “Killing
+    the divine king” and named figures often treated in that chapter sequence.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not describe ritual action, death and return, or sacrifice
+    mechanics; it only supplies headings.
+- id: motif:3
+  label: royal and priestly taboos around the soul
+  taxonomy_refs: []
+  basis: The contents explicitly lists “The Perils Of The Soul,” “Royal and priestly
+    taboos,” and “The nature of the soul.”
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No specific taboo or soul-peril episode is described in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 85-116
+  quote_or_summary: The passage is headed “CONTENTS” and lists the work’s dedication,
+    preface, chapters, subsections, footnotes, cover art, and frontispiece.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 88-94
+  quote_or_summary: 'Chapter I is “The King Of The Wood,” with subsections: “The Arician
+    Grove,” “Primitive man and the supernatural,” “Incarnate gods,” “Tree-worship,”
+    and “Tree-worship in antiquity.”'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 95-98
+  quote_or_summary: Chapter II is “The Perils Of The Soul,” with subsections on royal
+    and priestly taboos, the nature of the soul, and a continuation of royal and priestly
+    taboos.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 99-109
+  quote_or_summary: Chapter III is “Killing The God,” with subsections on killing
+    the divine king, killing the tree-spirit, carrying out Death, Adonis, Attis, Osiris,
+    Dionysus, Demeter and Proserpine, and Lityerses.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The contents headings are clear, but motif candidates are limited because
+    the passage is non-narrative and provides only chapter and subsection titles.
+    No comparison claims were extracted because the passage itself does not make an
+    explicit comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied contents passage and metadata. Motif labels are based on explicit headings, not on later chapter content.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l85-l116
+  passage_sha256=46ec079a3fd7bf4a2ac4715aba56fb68d0d2f650f202250250e5584a3729d45b
+

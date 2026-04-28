@@ -1,0 +1,408 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l517-l565
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: PREFACE. / J. G. FRAZER. / CHAPTER I. THE KING OF THE WOOD. / MACAULAY.;
+    lines 517-565
+  start: '517'
+  end: '565'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer explains sympathetic magic as action or avoidance based on resemblance
+    between act or quality and expected result. He gives Bechuana examples of animal
+    or insect charms used to gain tenacity of life or elusiveness, then distinguishes
+    between a man-god inspired by a deity and a man-god whose power derives from physical
+    sympathy with nature. He closes by introducing examples of people thought able
+    to influence rain, sun, and wind.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Actions are described as performed or avoided because they are believed to
+    produce good or bad consequences resembling the act itself.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some Bechuanas wear a ferret as a charm because its tenacity of life is believed
+    to make the wearer difficult to kill.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Other Bechuanas wear a mutilated but living insect for a similar protective
+    purpose.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Some Bechuana warriors wear ox hair in their hair and frog skin on their mantle
+    to become hard to hold.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Sympathetic magic is described as assuming that one event follows another
+    without intervention by spiritual or personal agency.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage distinguishes an inspired man-god, whose divinity comes from an
+    indwelling deity, from a man-god whose supernatural power comes from physical
+    sympathy with nature.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says the line between the two types of man-god is seldom precise
+    in practice.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Rain, sun, and wind are named as natural phenomena commonly supposed by some
+    groups described in the passage to be under human control in some degree.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Bechuanas
+  description: People described as wearing animal or insect charms for protection
+    or hard-to-kill qualities.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Bechuana warriors
+  description: Warriors described as wearing ox hair and frog skin as charms to become
+    difficult to hold.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: primitive man
+  description: A generalized figure described as seeking to bend nature to his wishes
+    through sympathetic magic.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: man-god of the inspired type
+  description: A type of man-god whose divinity is said to derive from a deity dwelling
+    in a human body.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: man-god of the physical-sympathy type
+  description: A type of man-god whose supernatural power is said to derive from physical
+    sympathy with nature.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: ordinary mortals
+  description: People contrasted with the physically sympathetic man-god, who is said
+    to be sensitive to changes that would not affect them.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: protective charm wearer
+  assigned_to:
+  - fig:1
+  basis: They are described as wearing ferret or insect charms for life-preserving
+    effects.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: warrior charm wearer
+  assigned_to:
+  - fig:2
+  basis: They wear ox hair and frog skin to become hard to hold.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: sympathetic-magic practitioner
+  assigned_to:
+  - fig:3
+  basis: The passage generalizes that primitive man seeks to influence nature through
+    sympathetic magic.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: deity-possessed man-god
+  assigned_to:
+  - fig:4
+  basis: This type is described as deriving divinity from a deity inhabiting flesh.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: nature-attuned man-god
+  assigned_to:
+  - fig:5
+  basis: This type is described as drawing supernatural power from physical sympathy
+    with nature and being attuned to the world.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: contrast group
+  assigned_to:
+  - fig:6
+  basis: Ordinary mortals are mentioned as less affected by slight environmental changes
+    than the divine organism.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ferret charm
+  literal_form: ferret worn as a charm
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: living mutilated insect charm
+  literal_form: mutilated but living insect worn as a charm
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ox hair
+  literal_form: hair of a hornless ox worn among the warrior's hair
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: frog skin
+  literal_form: skin of a frog worn on a mantle
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: rain
+  literal_form: rain
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: sun
+  literal_form: sun
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: wind
+  literal_form: wind
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Charms based on animal or insect qualities
+  summary: Bechuanas and Bechuana warriors are described as wearing ferret, insect,
+    ox-hair, and frog-skin charms in order to acquire qualities such as tenacity of
+    life or elusiveness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Theory of sympathetic causation
+  summary: Frazer states that sympathetic magic treats one event as necessarily followed
+    by another without intervention from a spiritual or personal agency.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Two types of man-god
+  summary: The passage contrasts an inspired man-god inhabited by a deity with a man-god
+    whose power comes from physical sympathy with nature, while noting that the practical
+    boundary between them is imprecise.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Control of natural phenomena introduced
+  summary: Rain, sun, and wind are introduced as phenomena that some people are said
+    to believe they can influence.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sympathetic magic by resemblance
+  taxonomy_refs: []
+  basis: The passage states that actions or qualities are thought to produce consequences
+    resembling themselves, and illustrates this with charms based on animal traits.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is Frazer's analytic category, not a motif named by the Bechuana
+    examples themselves in the passage.
+- id: motif:2
+  label: protective animal-quality charm
+  taxonomy_refs: []
+  basis: The ferret, insect, ox hair, and frog skin are worn to transfer or imitate
+    qualities such as resilience or slipperiness.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage reports examples only briefly and through Frazer's comparative
+    framing.
+- id: motif:3
+  label: human control of natural phenomena
+  taxonomy_refs: []
+  basis: The passage says rain, sun, and wind are commonly supposed by the described
+    peoples to be under human control in some degree.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Specific rites or narrative episodes of weather control are not provided
+    in this passage.
+- id: motif:4
+  label: man-god attuned to nature
+  taxonomy_refs: []
+  basis: The passage describes a man-god whose body and soul are attuned to the world
+    and whose gestures may affect the universal framework of things.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a theoretical typology rather than a concrete mythic narrative
+    in the extracted passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares sympathetic magic to the modern conception of physical
+    causation, while explicitly saying the conception is misapplied.
+  claim_level: same_function
+  target: modern conception of physical causation
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is Frazer's theoretical analogy and does not claim scientific
+    equivalence.
+- id: claim:2
+  claim: 'The passage contrasts two man-god models: one based on indwelling deity
+    and one based on physical sympathy with nature, while noting that the distinction
+    is not precise in practice.'
+  claim_level: same_function
+  target: Frazer's inspired man-god and physical-sympathy man-god types
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to the typological contrast stated in this passage
+    and does not establish a historical relationship between traditions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 517-521
+  quote_or_summary: Actions are performed or avoided because they are believed to
+    entail good or bad consequences resembling the act; resemblance of qualities may
+    also be involved.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 521-525
+  quote_or_summary: Some Bechuanas wear a ferret as a charm for tenacity of life;
+    others wear a mutilated but living insect for a similar purpose.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 525-530
+  quote_or_summary: Bechuana warriors wear ox hair and frog skin because the hornless
+    ox is hard to catch and the frog is slippery, making the wearer hard to hold.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 532-539
+  quote_or_summary: Sympathetic magic is described as treating one event as necessarily
+    followed by another without spiritual or personal agency; Frazer likens this to
+    a misapplied conception of physical causation.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 539-550
+  quote_or_summary: Frazer distinguishes a man-god inhabited by a deity from a man-god
+    whose supernatural power comes from physical sympathy with nature, though he says
+    the boundary is seldom precise in practice.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 551-565
+  quote_or_summary: Frazer introduces examples of people who believe they can rule
+    or influence natural phenomena, naming rain, sun, and wind as commonly supposed
+    to be under human control in some degree.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based directly on the supplied passage. Motif labels are
+    cautious because the passage is theoretical and comparative rather than a myth
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or unprovided taxonomy references were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l517-l565
+  passage_sha256=71f61bec163cfc454d6c9ca186b4a3fe2c80ae2c51119a3271cacd454b692070
+

@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l1075-l1086
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: THE QUARREL OF THE QUAILS / THE MEASURE OF RICE / THE FOOLISH, TIMID RABBIT
+    / THE WISE AND THE FOOLISH MERCHANT; lines 1075-1086
+  start: '1075'
+  end: '1086'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The thrifty merchant arranges his wagons in a circle, shelters oxen and
+    some men inside, stands guard with head men and swords, is not attacked by demons,
+    then takes the best wagons left by the foolish merchant, safely reaches the city
+    across the desert, sells his goods at a profit, and returns home with his company.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The thrifty merchant has the wagons drawn up in a circle.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Oxen and some of the men lie down in the middle of the wagon circle.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The thrifty merchant and the head men stand guard with swords in hand.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The demons do not bother the guarded company.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The next day the thrifty merchant takes the best wagons left by the foolish
+    merchant and goes safely to the city across the desert.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At the city, the merchant sells all the goods at a profit and returns with
+    his company to his own city.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: thrifty merchant
+  description: A merchant who organizes the wagons defensively, stands guard, travels
+    safely across the desert, sells goods at a profit, and returns home.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: head men
+  description: Men who stand on guard with the thrifty merchant, holding swords.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: men of the company
+  description: Some men lie down in the middle of the wagon circle; the company later
+    returns with the merchant.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: oxen
+  description: Animals placed lying down in the middle of the wagon circle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: demons
+  description: Threatening beings expected by the merchant, but they do not bother
+    the guarded company.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: foolish merchant
+  description: An absent merchant whose best remaining wagons are taken by the thrifty
+    merchant.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: prudent leader
+  assigned_to:
+  - fig:1
+  basis: He arranges the wagons in a defensive circle, assigns beings to the middle,
+    and stands guard.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: successful trader
+  assigned_to:
+  - fig:1
+  basis: He reaches the city safely, sells the goods at a profit, and returns home
+    with his company.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: armed guards
+  assigned_to:
+  - fig:2
+  basis: They stand on guard with swords in hand beside the merchant.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: protected dependents
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: They are placed in the middle of the wagon circle while others keep watch.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: external threat
+  assigned_to:
+  - fig:5
+  basis: The merchant waits for them while armed, but they do not bother the company.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: absent failed counterpart
+  assigned_to:
+  - fig:6
+  basis: The passage refers to wagons left by the foolish merchant, contrasting him
+    with the successful thrifty merchant.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: wagon circle
+  literal_form: wagons drawn up in a circle
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: swords
+  literal_form: swords in hand
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: desert crossing
+  literal_form: the city across the desert
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: wagons left by the foolish merchant
+  literal_form: the best of the wagons left by the foolish merchant
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Defensive encampment against demons
+  summary: The thrifty merchant forms a wagon circle, places oxen and some men in
+    the middle, and keeps armed watch with the head men while waiting for demons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Safe desert crossing and profitable return
+  summary: After the demons do not attack, the thrifty merchant takes the best wagons
+    left by the foolish merchant, reaches the city across the desert safely, sells
+    all goods at a profit, and returns to his own city with his company.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Prudent leadership averts danger
+  taxonomy_refs:
+  - wisdom
+  basis: The thrifty merchant takes practical protective measures against demons,
+    is not attacked, and safely completes the journey.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents practical wisdom through action rather than explicit
+    doctrinal explanation.
+- id: motif:2
+  label: Protective circle encampment
+  taxonomy_refs: []
+  basis: The wagons are drawn into a circle with animals and some men inside while
+    armed leaders stand guard.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this defensive formation.
+- id: motif:3
+  label: Successful journey and return with profit
+  taxonomy_refs:
+  - return
+  basis: The merchant reaches the city across the desert, sells the goods at a profit,
+    and returns with his company to his own city.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The return is commercial and narrative rather than explicitly sacred or
+    initiatory.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1075-1077
+  quote_or_summary: The thrifty merchant has his wagons drawn up in a circle and places
+    the oxen and some men in the middle.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1077-1080
+  quote_or_summary: The merchant and head men stand guard with swords, waiting for
+    demons, but the demons do not bother them.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1080-1082
+  quote_or_summary: Early the next day, the merchant takes the best wagons left by
+    the foolish merchant and goes safely to the city across the desert.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1084-1085
+  quote_or_summary: At the city he sells all the goods at a profit and returns with
+    his company to his own city.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited to patterns
+    directly visible in the passage. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Line range includes the end marker 'XI', which is not treated as motif-bearing content.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l1075-l1086
+  passage_sha256=9bcc87b337ce8bded3f0e9c14515cffb288eb35492c94a48700685a5c0cc702d
+

@@ -1,0 +1,583 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l5397-l5472
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: MACAULAY. / CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING
+    THE GOD.; lines 5397-5472
+  start: '5397'
+  end: '5472'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer argues that mock killings in North European folk-custom may preserve
+    earlier real killings, then lists examples in which real human sacrifice is replaced
+    by a simulated sacrifice or an effigy. He introduces the section 'Carrying out
+    Death' by connecting the killing of the priest of Nemi with a broader comparative
+    argument about killing and resurrecting a god in hunting, pastoral, and agricultural
+    societies.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that mock killing of the Wild Man and the King in North
+    European folk-custom has been assumed to replace an older practice of killing
+    them in earnest.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says human sacrifices were offered by ancestors of North European
+    Celts, Teutons, and Slavs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In the Arizona Feast of Fire example, a victim formerly had his throat cut,
+    breast opened, and heart removed; later a modified practice cut the throat but
+    healed the wound with medicine.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the Artemis ritual at Halae, a man’s throat was cut so that blood flowed,
+    but he was not killed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At a chief’s funeral in Nias, slaves are described as sacrificed by beheading,
+    while some slaves undergo a sham beheading if enough victims cannot be procured.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In the Vishnu-related expiation example, a human victim is made to bleed,
+    faint, fall, and feign death, then is brought to life by sprinkling with blood
+    from a worshipper’s thigh.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage gives examples where a substitute image or straw-man is sacrificed
+    instead of a living human or animal.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The Bhagats example describes a wooden image of a man, clothed and ornamented,
+    placed before Mahádeo’s altar, beheaded with an axe, removed, and buried.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage introduces the rule that the priest of Nemi was slain by his successor
+    as the explanation under discussion.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage says the god chiefly discussed so far has been the tree-god, and
+    proposes examining killing and resurrection of a god as animal, corn, or human
+    representative of corn.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Wild Man and King
+  description: Figures in North European folk-custom who are mock killed, according
+    to the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Arizona Feast of Fire victim
+  description: A victim, generally a young man in the modified form, whose throat
+    is cut in the described Arizona rite.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Priests and medicine-men
+  description: Ritual specialists in the Arizona example who remove the heart in the
+    older account or heal the throat wound in the modified form.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Man in the ritual of Artemis at Halae
+  description: A man whose throat is cut and made to bleed, but who is not killed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Nias funeral slaves
+  description: Slaves sacrificed at a chief’s funeral or subjected to a sham decapitation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Hindu expiatory victim
+  description: A human being who undergoes pretended sacrifice and resurrection after
+    an offence against an ape, bird of prey, or cobra in the presence of Vishnu’s
+    worshippers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Substitute images and straw-men
+  description: Images of a lion, tiger, or man made of butter, paste, or barley meal,
+    and straw-men or a wooden man used as substitutes in sacrifice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Named deities or ritual contexts
+  description: Artemis is named in the Attic ritual, Vishnu in the expiation context,
+    and Mahádeo as the deity before whose altar the wooden image is presented.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:9
+  name_or_label: Priest of Nemi
+  description: A priest whose rule of succession, as summarized by Frazer, required
+    that he be slain by his successor.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: Slain god / tree-god / animal or corn god
+  description: The god whose death and resurrection Frazer discusses, chiefly identified
+    so far as the tree-god and then proposed as animal, corn, or human representative
+    of corn in other social stages.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: ritual victim or simulated victim
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: These figures are described as killed, mock killed, wounded, beheaded, or
+    made to feign death in ritual contexts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: ritual specialist
+  assigned_to:
+  - fig:3
+  basis: The Arizona example names priests and medicine-men as agents performing or
+    modifying the rite.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: effigy substitute
+  assigned_to:
+  - fig:7
+  basis: Images, straw-men, and a wooden man are explicitly described as substitutes
+    for living sacrificial victims.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: deity or ritual divine context
+  assigned_to:
+  - fig:8
+  basis: The passage names Artemis, Vishnu, and Mahádeo in connection with specific
+    rituals or worship contexts.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:5
+  label: slain predecessor
+  assigned_to:
+  - fig:9
+  basis: Frazer refers to the rule requiring the priest of Nemi to be slain by his
+    successor.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: dying and resurrected god figure
+  assigned_to:
+  - fig:10
+  basis: Frazer frames the comparative inquiry around a god’s death and resurrection,
+    including the tree-god and later animal or corn forms.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: fire feast
+  literal_form: Feast of Fire when the days are shortest
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: blood from wound
+  literal_form: Blood flowing from a cut throat or incision, and blood used to revive
+    a simulated victim
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: heart removal
+  literal_form: The victim’s breast opened and heart taken out
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: beheading or sham beheading
+  literal_form: Heads placed on a log, necks struck with the back of a sword, or a
+    wooden image beheaded with an axe
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: substitute effigy
+  literal_form: Image made of butter, paste, barley meal, straw, or wood
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: tree-god
+  literal_form: Tree-god and tree-worship
+  associated_figures:
+  - fig:10
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: corn or cultivated plant representative
+  literal_form: Corn or a human being representing the corn
+  associated_figures:
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: rain and harvest request
+  literal_form: Prayer for rain in due season and a plentiful harvest
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: North European mock killing explained as survival
+  summary: Frazer presents the mock killing of the Wild Man and King as a possible
+    modern substitute for earlier real killing in North European folk-custom.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arizona Feast of Fire sacrifice and modified survival
+  summary: An old chief’s account describes former human sacrifice at the Feast of
+    Fire and a later modified rite in which a young man bleeds but recovers.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Attic Artemis bloodletting without death
+  summary: In the ritual of Artemis at Halae, a man’s throat is cut and blood gushes
+    out, but he is not killed.
+  figure_refs:
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Nias funeral sacrifice and sham decapitation
+  summary: At a chief’s funeral, slaves may be beheaded, while others may be subjected
+    to a frightening sham sacrifice by mock decapitation.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Vishnu-related pretended sacrifice and resurrection
+  summary: A human victim performs a simulated death after bleeding and is restored
+    by sprinkling with blood from a worshipper’s thigh.
+  figure_refs:
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Effigy sacrifice in place of living victims
+  summary: Frazer lists image sacrifices, including images made of food materials,
+    straw-men, and a clothed wooden man beheaded before Mahádeo and buried.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:8
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Transition to killing the god argument
+  summary: Frazer shifts from explaining the slain priest of Nemi to a comparative
+    argument about the killing and resurrection of gods as tree, animal, corn, or
+    human representatives of corn.
+  figure_refs:
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: mock sacrifice replacing real sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage repeatedly contrasts earlier actual human sacrifice with later
+    mock, modified, or non-lethal forms.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The historical replacement sequence is Frazer’s comparative inference
+    and should be reviewed against current scholarship.
+- id: motif:2
+  label: effigy substituted for living victim
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage describes sacrificial images made of butter, paste, barley meal,
+    straw, and wood used instead of living victims.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: Examples are reported through Frazer’s cited sources rather than primary
+    ritual accounts in this passage.
+- id: motif:3
+  label: ritual death and revival
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: The Vishnu-related rite explicitly involves pretended sacrifice, feigned
+    death, and restoration to life by blood sprinkling.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The death is simulated, not literal; the crowd’s belief is reported by
+    Frazer.
+- id: motif:4
+  label: killing and resurrection of the god
+  taxonomy_refs:
+  - dying_and_returning
+  - death_rebirth
+  - resurrection
+  basis: Frazer frames the chapter’s argument around a god’s death and resurrection,
+    including the tree-god and later animal or corn forms.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is Frazer’s theoretical comparative category, not a single mythic
+    narrative in the passage.
+- id: motif:5
+  label: agricultural fertility sacrifice
+  taxonomy_refs:
+  - sacrifice
+  - seasonal_cycle
+  basis: The Bhagats prayer links the beheading of a wooden human image to requests
+    for rain and plentiful harvest, and Frazer connects slain gods with corn or human
+    representatives of corn.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The link between the Bhagats example and the later corn-god argument is
+    made at the level of Frazer’s comparative exposition.
+- id: motif:6
+  label: succession by killing predecessor
+  taxonomy_refs:
+  - sacrifice
+  - royal_legitimacy
+  basis: Frazer states that the priest of Nemi was required to be slain by his successor.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage gives only a brief retrospective reference to the Nemi rule,
+    not the full account.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares North European mock killings with non-European examples
+    where mock or modified human sacrifice is said to replace real sacrifice.
+  claim_level: same_function
+  target: mock human sacrifice as substitute for real human sacrifice across North
+    European, Arizona, Attic, Nias, Hindu, and Indian examples
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is Frazer’s scholarly construction; the passage does
+    not provide independent verification for each historical sequence.
+- id: claim:2
+  claim: The passage proposes a comparative continuity between killing a god as animal
+    in hunting or pastoral society and killing a god as corn or a human representative
+    of corn in agricultural society.
+  claim_level: same_motif
+  target: dying or slain god across animal, tree, and corn forms
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Frazer presents this as a hypothesis to be argued in the remainder
+    of the chapter, not as demonstrated within the passage.
+- id: claim:3
+  claim: The passage treats effigy sacrifice as functionally comparable to human or
+    animal sacrifice when a living victim is unavailable, prohibited, or replaced.
+  claim_level: same_function
+  target: sacrificial effigy substitution
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the examples listed in this passage and does
+    not establish direct historical contact among them.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5397-5409
+  quote_or_summary: Frazer states that mock killing of the Wild Man and King in North
+    European folk-custom is assumed to substitute for ancient real killing, and says
+    human sacrifices were offered by ancestors of Celts, Teutons, and Slavs.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5410-5421
+  quote_or_summary: In the Arizona Feast of Fire example, an old chief reports former
+    human sacrifice with throat cutting, breast opening, and heart removal; later
+    the victim’s throat was cut, treated with medicine, and he recovered.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5421-5423
+  quote_or_summary: In the ritual of Artemis at Halae in Attica, a man’s throat was
+    cut and blood allowed to gush out, but he was not killed.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5423-5433
+  quote_or_summary: At a chief’s funeral in Nias, slaves are sacrificed by beheading;
+    when the required number cannot be procured, some undergo sham decapitation with
+    their heads on a log and the backs of swords striking their necks.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5433-5442
+  quote_or_summary: A Hindu who offends by killing or ill-treating certain animals
+    before Vishnu’s worshippers must expiate by pretended sacrifice and resurrection
+    of a human being, who bleeds, feigns death, and is revived by blood sprinkling.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5442-5456
+  quote_or_summary: 'Frazer gives examples of sacrifice performed on images: the Calica
+    Puran prescribes images of lion, tiger, or man; Gonds sacrifice straw-men; Bhagats
+    behead a clothed wooden man before Mahádeo while asking for rain and harvest.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5458-5472
+  quote_or_summary: Frazer introduces 'Carrying out Death,' reviews his explanation
+    of the priest of Nemi being slain by his successor, and proposes to examine killing
+    and resurrection of the god as tree-god, animal, corn, or human representative
+    of corn.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    reflect Frazer’s comparative argument and should be reviewed for modern taxonomy
+    fit and historical reliability.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources were used. Taxonomy references were limited to the supplied lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l5397-l5472
+  passage_sha256=319cc9f0bbd1d3e9c607a831763bc8700ef7c49805541e4a424d2fd1cc7edd67
+

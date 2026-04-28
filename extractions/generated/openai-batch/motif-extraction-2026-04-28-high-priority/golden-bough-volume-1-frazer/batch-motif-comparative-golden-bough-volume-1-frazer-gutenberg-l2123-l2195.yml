@@ -1,0 +1,534 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l2123-l2195
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: PREFACE. / J. G. FRAZER. / CHAPTER I. THE KING OF THE WOOD. / MACAULAY.;
+    lines 2123-2195
+  start: '2123'
+  end: '2195'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer discusses annual renewal, decoration, preservation, and burning
+    of May-trees or related vegetation tokens. He then introduces cases where a tree-spirit
+    is represented both by a tree or bough and by a human, doll, or puppet, citing
+    examples from Bohemia, England, and Alsace.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the May-tree was originally set up anew each year
+    to bring in the fructifying spirit of vegetation newly awakened in spring.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the May-pole became permanent, it could be decorated with flowers, garlands,
+    and a leafy tree top to give it the appearance of a green tree.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The renewal of the May-tree is compared in the passage to the renewal of the
+    Harvest-May, both being said to secure a fresh portion of the fertilising spirit
+    of vegetation for the year.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage gives examples in which an old May-tree, Palm Sunday bushes, or
+    perhaps the Greek eiresione are burned at the end of the year.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that the tree-spirit is often conceived as detached from
+    the tree and represented in human form, including as living men or women.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage describes cases where a human representative, doll, or puppet
+    is placed beside a tree or bough, and the two are treated as equivalent representations
+    of the tree-spirit.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: In the Bohemian example, young people throw a puppet called Death into water,
+    girls cut a young tree, fasten to it a white-clothed puppet resembling a woman,
+    go house to house collecting gratuities, and sing that they carry Death out and
+    bring Summer in.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: In an English example, children ask for pence with small imitations of May-poles
+    and a dressed doll called the Lady of the May.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: At Thann in Alsace, a girl called the Little May Rose, dressed in white, carries
+    a garlanded and ribboned May-tree while companions collect gifts and sing.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: May-tree / May-pole / May-branch
+  description: A living tree, branch, or pole associated with May customs, sometimes
+    renewed yearly, sometimes fixed and decorated to appear green.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Tree-spirit / spirit of vegetation
+  description: A spirit described as immanent in the tree or represented apart from
+    it in human, doll, or puppet form.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Harvest-May / eiresione
+  description: A harvest vegetation token compared with the May-tree; the Greek eiresione
+    is mentioned as perhaps burned at year’s end.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Death puppet
+  description: A puppet called Death thrown into water in the Bohemian Lent custom.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Summer puppet
+  description: A puppet dressed in white clothes to look like a woman and fastened
+    to a young tree in the Bohemian custom; the accompanying song says Summer is brought
+    into the village.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Lady of the May doll
+  description: A finely dressed doll carried with small imitations of May-poles by
+    children asking for pence.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Little May Rose
+  description: A girl at Thann in Alsace, dressed in white, who carries a small May-tree
+    decorated with garlands and ribbons.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Young people, girls, children, and companions
+  description: Groups who throw the Death puppet, cut and carry the tree and puppet,
+    ask for pence, collect gifts, and sing in the cited customs.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: vegetation-spirit bearer
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The May-tree and Harvest-May are described as securing or embodying the fertilising
+    spirit of vegetation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: anthropomorphic representative of tree-spirit
+  assigned_to:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The passage states that the tree-spirit may be represented by a puppet, doll,
+    or living person beside a tree or bough.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:3
+  label: expelled Death figure
+  assigned_to:
+  - fig:4
+  basis: The Bohemian custom throws a puppet called Death into water and sings that
+    Death is carried out of the village.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: incoming May or Summer figure
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The figures called Summer, Lady of the May, and Little May Rose are associated
+    with May or spring vegetation customs.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:5
+  label: ritual carriers, singers, and gift collectors
+  assigned_to:
+  - fig:8
+  basis: The passage describes young people, girls, children, and companions carrying
+    objects, singing, and collecting gratuities, pence, or gifts.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: May-tree or green tree
+  literal_form: Living tree, branch, May-pole, or small May-tree decorated with greenery,
+    garlands, flowers, or ribbons.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: fertilising spirit of vegetation
+  literal_form: Spirit of vegetation said to be brought in, secured, preserved, or
+    represented by tree and human forms.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: year-end burning
+  literal_form: Burning of May-tree pieces, Palm Sunday bushes, and possibly the eiresione
+    at the end of the year.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: water disposal of Death
+  literal_form: Water into which the Bohemian puppet called Death is thrown.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: white-clothed female figure
+  literal_form: White clothes worn by the Bohemian puppet and the Little May Rose
+    girl.
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:6
+  label: Death carried out and Summer brought in
+  literal_form: Song refrain naming the removal of Death from the village and the
+    bringing in of Summer.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Annual renewal or greening of the May-tree
+  summary: A new May-tree is described as originally set up each year; later permanent
+    May-poles could be decorated to look like living green trees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Preservation and burning of vegetation tokens
+  summary: Pieces of a public May-tree or bushes set up on Palm Sunday may remain
+    for a year and then be burned; the Greek eiresione is also mentioned as perhaps
+    burned at year’s end.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Tree-spirit in vegetable and human forms
+  summary: The passage introduces customs where a tree or bough and a human, puppet,
+    or doll stand side by side as equivalent representations of the tree-spirit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Bohemian Death-out and Summer-in procession
+  summary: Young people throw a Death puppet into water; girls cut a young tree, attach
+    a white female puppet, visit houses, collect gratuities, and sing that Death is
+    carried out and Summer brought in.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: English Lady of the May collection
+  summary: Children go about asking for pence with small May-poles and a dressed doll
+    called the Lady of the May.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Little May Rose at Thann
+  summary: A white-dressed girl called the Little May Rose carries a decorated May-tree
+    while companions collect gifts and sing.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: annual renewal of a vegetation-spirit tree
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The May-tree is renewed or greened so that it may carry the newly awakened
+    fructifying spirit of vegetation through the year.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is Frazer’s comparative interpretation, not an emic statement
+    from a single ritual community.
+- id: motif:2
+  label: vegetation spirit represented by both tree and human or puppet
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage describes tree or bough and person, doll, or puppet placed together
+    as equivalent representations of the tree-spirit.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The equivalence is explicitly argued by Frazer; individual local meanings
+    may vary.
+- id: motif:3
+  label: expulsion of Death and bringing in of Summer
+  taxonomy_refs:
+  - death_rebirth
+  - seasonal_cycle
+  basis: The Bohemian song states that Death is carried out of the village and Summer
+    is brought in, after a Death puppet is thrown into water and a tree with white
+    puppet is carried.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage says the Summer figure is the spirit of vegetation returning
+    or reviving, but further discussion is deferred beyond this excerpt.
+- id: motif:4
+  label: ritual burning of a year-old vegetation token
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Several examples describe May-tree pieces, Palm Sunday bushes, or possibly
+    the eiresione being kept for a year and then burned.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage lists examples but does not fully explain the burning’s local
+    ritual meaning.
+- id: motif:5
+  label: door-to-door May procession with gifts
+  taxonomy_refs: []
+  basis: Bohemian girls, English children, and Thann companions go house to house
+    or about the community with May figures or trees and collect gratuities, pence,
+    or gifts.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage provides only brief descriptions of the collections and songs.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the renewal of the May-tree with the renewal
+    of the Harvest-May, assigning both the function of securing a fresh portion of
+    the fertilising spirit of vegetation.
+  claim_level: same_function
+  target: Harvest-May / eiresione and May-tree renewal customs
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is functional within Frazer’s analysis and does not
+    by itself establish historical contact.
+- id: claim:2
+  claim: The passage treats tree or bough and human figure, doll, or puppet as equivalent
+    representational forms of the tree-spirit in several European peasant customs.
+  claim_level: same_function
+  target: vegetable and anthropomorphic representations of the tree-spirit
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim follows Frazer’s comparative interpretation; local ritual
+    explanations are not supplied in the excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2123-2141
+  quote_or_summary: The passage says a new May-tree was originally set up yearly to
+    bring in spring vegetation’s fructifying spirit; later permanent May-poles were
+    decorated with flowers, garlands, and leafy tops to look like green trees.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2142-2148
+  quote_or_summary: The renewal of the May-tree is likened to the renewal of the Harvest-May;
+    both are said to secure a fresh portion of the fertilising vegetation spirit,
+    though their effects are described as differing in range.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2148-2155
+  quote_or_summary: Examples are given of old May-tree pieces placed behind holy pictures
+    and later burned, Palm Sunday bushes left for a year and burned, and the Greek
+    eiresione perhaps burned at year’s end.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2157-2162
+  quote_or_summary: The passage turns from tree-spirit immanent in the tree to tree-spirit
+    conceived as detached from the tree and represented in human form, including living
+    men or women.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2164-2174
+  quote_or_summary: 'Frazer describes cases where the tree-spirit is represented simultaneously
+    in vegetable and human form: a puppet or living person is placed beside a tree
+    or bough, as if one form translated the other.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 2174-2186
+  quote_or_summary: 'In Bohemia, young people throw a puppet called Death into water;
+    girls cut a young tree, fasten to it a white-clothed woman-like puppet, and sing:
+    “We carry Death out of the village, / We bring Summer into the village.”'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; short excerpt quoted.
+- id: ev:7
+  type: summary
+  locator: lines 2187-2190
+  quote_or_summary: Some children in England ask for pence with small imitations of
+    May-poles and a finely dressed doll called the Lady of the May; the passage says
+    tree and puppet are regarded as equivalent.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 2191-2195
+  quote_or_summary: At Thann in Alsace, a white-dressed girl called the Little May
+    Rose carries a small May-tree decorated with garlands and ribbons while companions
+    collect gifts and sing.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is limited to the supplied passage. Motif labels reflect the passage’s
+    own comparative framing, especially Frazer’s interpretations of vegetation spirit,
+    renewal, and equivalence between tree and human forms.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or taxonomy IDs beyond those supplied were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l2123-l2195
+  passage_sha256=c64644b569332597514c4b9a91ec029337ce63232fa0f6b49aa8ef4f3e0ddcc0
+

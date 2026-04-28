@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l1113-l1126
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: PREFACE. / J. G. FRAZER. / CHAPTER I. THE KING OF THE WOOD. / MACAULAY.;
+    lines 1113-1126
+  start: '1113'
+  end: '1126'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer describes a progression from generalized belief in human supernatural
+    power, to temporary inspiration by a divine spirit, to the idea that certain men
+    are permanently possessed by a deity and ranked as gods. He distinguishes human
+    gods with spiritual functions from human gods who also hold supreme political
+    power, producing theocracy.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says that people who do not discern limits to human control over
+    nature may ascribe supernatural powers to themselves and to all people.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some persons are described as being supposed to be inspired for short periods
+    by a divine spirit.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Temporarily inspired persons are said to enjoy the knowledge and power of
+    an indwelling deity during that period.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage describes an inferred step to the belief that certain men are
+    permanently possessed by a deity or otherwise have very high supernatural powers.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Such men may be ranked as gods and receive homage through prayer and sacrifice.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Some human gods are described as restricted to supernatural or spiritual functions.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Some human gods also exercise supreme political power and are therefore kings
+    as well as gods; such government is called a theocracy.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: generalized humans ascribed supernatural power
+  description: People described as ascribing supernatural powers to themselves and
+    to all people.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: temporarily inspired persons
+  description: Persons supposed to be inspired for short periods by a divine spirit
+    and to enjoy divine knowledge and power temporarily.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: permanently possessed men or human gods
+  description: Certain men believed to be permanently possessed by a deity or endowed
+    with high supernatural powers, ranked as gods, and recipients of prayer and sacrifice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: kings as gods
+  description: Human gods who also exercise supreme political power and are kings
+    as well as gods.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: possessors of supposed supernatural power
+  assigned_to:
+  - fig:1
+  basis: The passage states that supernatural powers are ascribed to these humans.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: temporary vessels of divine spirit
+  assigned_to:
+  - fig:2
+  basis: They are said to be inspired for short periods by a divine spirit and to
+    enjoy divine knowledge and power temporarily.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: human gods receiving cultic homage
+  assigned_to:
+  - fig:3
+  basis: They are described as permanently possessed or highly supernatural, ranked
+    as gods, and receiving prayer and sacrifice.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: divine kings
+  assigned_to:
+  - fig:4
+  basis: They are human gods who exercise supreme political power and are kings as
+    well as gods.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: From general supernaturalism to temporary divine inspiration
+  summary: The passage first presents a general belief in human supernatural power
+    and then a more specific belief that some persons can be temporarily inspired
+    by a divine spirit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Permanent possession and human gods
+  summary: The passage describes a further belief that certain men can be permanently
+    possessed by a deity or endowed with extraordinary supernatural powers, leading
+    them to be ranked as gods and honored with prayer and sacrifice.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Human gods as theocratic kings
+  summary: The passage distinguishes human gods limited to spiritual functions from
+    those who also hold supreme political power, in which case they are kings as well
+    as gods and the government is a theocracy.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine possession of humans
+  taxonomy_refs: []
+  basis: The passage describes both temporary inspiration by a divine spirit and permanent
+    possession by a deity.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is presented as Frazer's comparative-theoretical description rather
+    than a narrative episode from a single mythic tradition.
+- id: motif:2
+  label: human god receiving prayer and sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: Certain men are described as ranked as gods and receiving homage of prayer
+    and sacrifice.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Sacrifice appears as a form of homage to human gods, not as a detailed
+    sacrificial story.
+- id: motif:3
+  label: divine kingship and theocracy
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage states that some human gods exercise supreme political power,
+    becoming kings as well as gods, and that such government is theocracy.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage names the pattern abstractly and promises later examples;
+    it does not provide a specific case in these lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1113-1116
+  quote_or_summary: '"failing to discern the limits of his ability to control nature"
+    the savage "ascribes to himself and to all men" powers called supernatural.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1116-1120
+  quote_or_summary: Some persons are supposed to be inspired for short periods by
+    a divine spirit and temporarily to enjoy the knowledge and power of the indwelling
+    deity.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1120-1123
+  quote_or_summary: Frazer says it is an easy step to the conviction that certain
+    men are permanently possessed by a deity or otherwise endowed with high supernatural
+    powers, ranked as gods, and honored with prayer and sacrifice.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 1123-1126
+  quote_or_summary: Some human gods have spiritual functions only; others exercise
+    supreme political power, becoming "kings as well as gods," and such government
+    is "a theocracy."
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are based on Frazer's
+    abstract comparative categories in the passage; no cross-text comparison is made
+    here.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No symbols from the supplied symbol taxonomy are present in this passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l1113-l1126
+  passage_sha256=c5086f87d222e3f9b4252574f65fd35e0cc097ad81c29d44cb02c6c3abf19fe5
+

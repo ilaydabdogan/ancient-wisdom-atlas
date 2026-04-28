@@ -1,0 +1,532 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l134-l220
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: The Giant Crab, and Other Tales from Old India / WARNING / CONTENTS / THE
+    GIANT CRAB; lines 134-220
+  start: '134'
+  end: '220'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A giant crab living in a mountain lake drowns and eats animals that come
+    to drink. A great elephant and his wife lead a herd to the lake, where the crab
+    seizes the elephant. The wife distracts the crab by pretending to respond to his
+    flirtation, and when the crab releases the elephant, the elephant crushes him.
+    The animals thank the elephant pair and make them king and queen. The crab's unbreakable
+    claws are later carried by a flood to a city, where the king's sons make them
+    into war drums whose sound frightens enemies.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A huge crab lives alone in a lake in the mountains.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Animals from the wild mountains come to the lake to drink because there is
+    little water in the mountains.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: The crab seizes animals with a claw, pulls them under water, drowns them,
+    and eats them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The crab grows larger and the animals become afraid to approach the lake.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A great elephant and his wife agree to lead a herd to the lake and watch for
+    the crab.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The crab catches the elephant by the leg while the herd is leaving the water.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The elephant's wife stays beside him and asks the crab to let her husband
+    go.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: The crab asks the elephant's wife for a kiss.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The elephant's wife pretends to be pleased, causing the crab to release the
+    elephant and move toward her.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Once free, the elephant jumps on the crab's back and crushes him.
+  category: action
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: obs:11
+  text: The animals rejoice, thank the elephant and his wife, and make them king and
+    queen of all the animals in the mountains.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The crab's claws remain unbroken in the pool, are carried away by a flood,
+    and are made into two immense war drums by the king's sons.
+  category: sequence
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: The sound of the drums is enough to frighten enemies away.
+  category: attribute
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Giant Crab
+  description: A huge crab, larger than ordinary crabs, living in a mountain lake;
+    he seizes and eats animals and later is crushed by the elephant.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:10
+- id: fig:2
+  name_or_label: Great Elephant / Mr. Elephant
+  description: A great elephant who plans with his wife to end the crab's attacks
+    and crushes the crab after being released.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:9
+  - ev:10
+  - ev:11
+- id: fig:3
+  name_or_label: Mrs. Elephant
+  description: The elephant's wife, described as beautiful, who stays by her husband
+    and deceives the crab into releasing him.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:11
+- id: fig:4
+  name_or_label: Mountain animals
+  description: Deer, antelopes, foxes, wolves, lions, tigers, elephants, and other
+    creatures that come to drink at the lake and later rejoice at the crab's death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:11
+- id: fig:5
+  name_or_label: Herd of elephants
+  description: A herd led to the lake by the elephant and his wife; they drink, trumpet,
+    and wash close inshore.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: King's sons
+  description: The sons of a king in a great city who find the crab's claws and make
+    them into two immense drums.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:12
+roles:
+- id: role:1
+  label: Predatory water-dweller
+  assigned_to:
+  - fig:1
+  basis: The crab waits in the lake, pulls animals under water, drowns them, and eats
+    them.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Crab-slayer and protector
+  assigned_to:
+  - fig:2
+  basis: The elephant resolves to end the crab's attacks and crushes him after escaping
+    the claw.
+  evidence_refs:
+  - ev:4
+  - ev:9
+  - ev:10
+- id: role:3
+  label: Deceptive helper
+  assigned_to:
+  - fig:3
+  basis: The wife pretends to welcome the crab's advances so that he releases her
+    husband.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: Threatened animal community
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The animals need the lake to drink but fear the crab, and the elephant herd
+    enters the water during the plan.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: Rewarded royal pair
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The animals make the elephant and his wife king and queen after the crab
+    is killed.
+  evidence_refs:
+  - ev:11
+- id: role:6
+  label: Makers of war drums
+  assigned_to:
+  - fig:6
+  basis: The king's sons find the claws and make them into two immense drums used
+    in war.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: Mountain lake
+  literal_form: A lake in the mountains where the crab lives and where animals come
+    to drink.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Crab claws
+  literal_form: The crab's huge claws, used to seize animals; after his death the
+    claws remain unbroken.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:12
+- id: sym:3
+  label: Flood
+  literal_form: A great autumn flood that carries the crab's claws from the pool into
+    the river.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:12
+- id: sym:4
+  label: War drums
+  literal_form: Two immense drums made from the crab's claws and beaten when going
+    to war.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+- id: sym:5
+  label: Elephant's crushing weight
+  literal_form: The elephant jumps on the crab's back, cracking and crushing his shell.
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Predatory crab at the mountain lake
+  summary: The giant crab occupies the mountain lake, catches animals that come to
+    drink, and causes the animals to fear the scarce water source.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Elephant pair sets a plan
+  summary: A great elephant and his wife decide to lead a herd to the lake and watch
+    for the crab while the other elephants drink.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Crab seizes the elephant
+  summary: As the herd leaves the water, the crab grips the elephant's leg, and the
+    elephant's wife remains beside him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Wife distracts the crab
+  summary: The crab asks the elephant's wife for a kiss; she pretends to be pleased,
+    and the crab releases her husband to crawl toward her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Elephant crushes the crab
+  summary: The freed elephant jumps on the crab's back until the crab's shell cracks
+    and he dies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: scene:6
+  label: Animals confer kingship
+  summary: The animals rejoice, thank the elephant and his wife, and make them king
+    and queen of the mountain animals.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:11
+- id: scene:7
+  label: Claws become war drums
+  summary: The crab's unbreakable claws are left in the pool, carried by flood and
+    river to a city, and made into war drums by the king's sons.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: Dangerous water source guarded by a predatory creature
+  taxonomy_refs: []
+  basis: The only available lake water is made dangerous because the giant crab pulls
+    drinking animals under and eats them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy motif directly names this pattern.
+- id: motif:2
+  label: Coordinated deception frees a captive from a monster
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The elephant's wife feigns attraction to the crab so that he releases her
+    husband, allowing the elephant to kill him.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the deceiver is a helper rather
+    than a standalone trickster figure.
+- id: motif:3
+  label: Heroic animal slays a communal predator
+  taxonomy_refs: []
+  basis: The elephant decides to end the crab's attacks and crushes him, after which
+    the other animals rejoice.
+  evidence_refs:
+  - ev:4
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The passage frames the action in animal-tale terms rather than explicitly
+    as heroic myth.
+- id: motif:4
+  label: Deliverers made king and queen
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: After the crab's death, the animals thank the elephant and his wife and make
+    them king and queen of all animals in the mountains.
+  evidence_refs:
+  - ev:11
+  confidence: high
+  cautions: The kingship is awarded by the animal community within the tale; no broader
+    royal institution is described.
+- id: motif:5
+  label: Monster remains transformed into fearsome war instruments
+  taxonomy_refs: []
+  basis: The crab's claws survive, are carried to a city, and are made into war drums
+    whose sound frightens enemies.
+  evidence_refs:
+  - ev:12
+  confidence: high
+  cautions: No supplied taxonomy motif directly covers the transformation of remains
+    into instruments.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 134-143
+  quote_or_summary: A lake in the mountains contains a crab described as the largest
+    ever heard of, larger than a dining-room table, with claws as large as an armchair.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 145-153
+  quote_or_summary: Wild mountain animals come to the lake to drink; the crab watches,
+    nips at least one animal with a huge claw, pulls it under, drowns it, and eats
+    it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 155-160
+  quote_or_summary: The crab grows bigger from feeding on the animals, and the animals
+    become afraid to approach the lake despite the scarcity of water in the mountains.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 162-166
+  quote_or_summary: A great elephant decides to end the crab's actions; he and his
+    wife agree to lead a herd to drink while they watch for the crab.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 168-176
+  quote_or_summary: At the lake, the elephant pair goes farthest into the water; as
+    the herd begins to leave, the elephant feels a powerful nip on his leg from the
+    crab.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: quote
+  locator: lines 176-178
+  quote_or_summary: '"Dear Mr. Crab!" she said, "please let my husband go!"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:7
+  type: summary
+  locator: lines 180-190
+  quote_or_summary: The crab sees Mrs. Elephant, is attracted to her, and asks whether
+    she will give him a kiss.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary provided.
+- id: ev:8
+  type: summary
+  locator: lines 192-196
+  quote_or_summary: Mrs. Elephant pretends to be pleased and tempting; the crab lets
+    go of the elephant and crawls toward her.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary provided.
+- id: ev:9
+  type: summary
+  locator: lines 198-204
+  quote_or_summary: The elephant has endured the pain silently; the passage states
+    the situation was part of their trick, and when his leg is free he trumpets and
+    jumps on the crab's back.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary provided.
+- id: ev:10
+  type: summary
+  locator: lines 206-209
+  quote_or_summary: The crab's shell cracks under the elephant's weight as the elephant
+    jumps on his back until the crab is crushed.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary provided.
+- id: ev:11
+  type: summary
+  locator: lines 211-214
+  quote_or_summary: The animals rejoice at the crab's death, thank the elephant and
+    his wife, and make them king and queen of all animals in the mountains.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary provided.
+- id: ev:12
+  type: summary
+  locator: lines 216-220
+  quote_or_summary: Only the crab's hard claws remain; a flood carries them into a
+    river and to a great city, where the king's sons make two immense war drums from
+    them, whose sound frightens enemies away.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif taxonomy
+    assignments are limited because several prominent patterns in the tale do not
+    correspond exactly to the supplied taxonomy list. No comparison claims were added
+    because the passage itself does not compare this tale with another tradition or
+    corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All observations, figures, roles, symbols, scenes, and candidate motifs are derived only from the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l134-l220
+  passage_sha256=07764e96ca6fb4639b68c4661419891089dc1b2e2ae50122244deb3e096696c9
+

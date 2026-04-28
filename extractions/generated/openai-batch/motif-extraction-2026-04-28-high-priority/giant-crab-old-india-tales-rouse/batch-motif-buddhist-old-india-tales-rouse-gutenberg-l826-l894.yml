@@ -1,0 +1,453 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l826-l894
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE CROCODILE AND THE MONKEY / THE AXE, THE DRUM, THE BOWL, AND THE DIAMOND
+    / THE WISE PARROT AND THE FOOLISH PARROT / THE DISHONEST FRIEND; lines 826-894
+  start: '826'
+  end: '894'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A man entrusts his plough to a friend before a journey. The friend sells
+    it and later falsely claims that a rat ate it. The owner responds by hiding the
+    friend's son safely and claiming that a hawk carried the boy away. In court, he
+    exposes the parallel between the impossible hawk story and the impossible rat
+    story. The judge requires the dishonest friend to restore the plough, after which
+    the son is returned safely, and the tale closes with a moral about honesty.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man going on a journey asks a friend to take charge of his plough until
+    he returns.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The friend sells the plough and keeps the price for himself.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When asked for the plough, the friend says a very big rat came one night and
+    ate it.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The plough owner takes the friend's son to another friend's house and instructs
+    that the boy be kept safe indoors until he returns.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The plough owner tells the boy's father that a hawk swooped down and carried
+    the boy away.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The boy's father brings the matter before a judge and accuses the plough owner
+    of lying and murder.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The judge says it is nonsense that a hawk could carry off a boy.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The plough owner asks who ever heard of a rat eating a plough and then tells
+    his story.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The judge understands that the complainant cheated his friend and says that
+    if the plough is found, the son may be found too.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:10
+  text: The dishonest friend gives the plough back, and his son is returned safely.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: plough owner
+  description: The man who goes on a journey, entrusts his plough to a friend, and
+    later uses a counter-trick to expose the friend's dishonesty.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: dishonest friend
+  description: The friend entrusted with the plough who sells it, lies that a rat
+    ate it, and later complains when his son is missing.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: friend's son
+  description: The son of the dishonest friend; he is taken for a walk, kept safely
+    at another friend's house, and later returned.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: another friend
+  description: The person asked to keep the boy safe inside the house until the plough
+    owner returns.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: judge
+  description: The court authority who hears the complaint, questions the hawk claim,
+    understands the earlier cheating, and orders a conditional resolution.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: very big rat
+  description: A rat alleged by the dishonest friend to have eaten the plough.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:7
+  name_or_label: hawk
+  description: A hawk alleged by the plough owner to have carried away the boy.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: entrusting owner
+  assigned_to:
+  - fig:1
+  basis: He asks a friend to take charge of his plough before leaving on a journey.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dishonest custodian
+  assigned_to:
+  - fig:2
+  basis: He is entrusted with the plough but sells it and keeps the money.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: counter-trick exposer
+  assigned_to:
+  - fig:1
+  basis: He invents the hawk story to reveal the absurdity of the rat story and expose
+    the theft.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: safely hidden child
+  assigned_to:
+  - fig:3
+  basis: The boy is kept safely in another friend's house and later returned.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:5
+  label: complainant brought to judgment
+  assigned_to:
+  - fig:2
+  basis: He accuses the plough owner before the judge but is found to have cheated
+    him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: temporary guardian
+  assigned_to:
+  - fig:4
+  basis: He is instructed to keep the boy safe and not let him leave the house.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: adjudicator
+  assigned_to:
+  - fig:5
+  basis: He hears the complaint, questions the truth of the claims, understands the
+    deception, and states the condition for restoration.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:8
+  label: impossible alleged agent
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The rat and the hawk are each invoked in an implausible explanation for a
+    missing possession or person.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: entrusted plough
+  literal_form: plough
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: very big rat explanation
+  literal_form: very big rat that allegedly ate a plough
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: hawk explanation
+  literal_form: hawk that allegedly carried off a boy
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: court of judgment
+  literal_form: court and judge
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: returned son
+  literal_form: son brought back safe
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: entrusting and theft of the plough
+  summary: A man leaves his plough with a friend while he travels; the friend sells
+    it and keeps the proceeds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: false rat explanation
+  summary: On the owner's return, the friend says a very big rat ate the plough.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: counter-trick with the son
+  summary: The owner places the friend's son safely in another friend's house and
+    then claims a hawk carried the boy away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: court hearing
+  summary: The dishonest friend complains to the judge, who challenges the claim that
+    a hawk could carry away a boy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: exposure and restoration
+  summary: The plough owner reveals the parallel with the rat story; the judge recognizes
+    the cheating, the plough is returned, and the son is brought back safely.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: dishonest custodian denies entrusted property through impossible explanation
+  taxonomy_refs: []
+  basis: The friend entrusted with the plough sells it and then claims an implausible
+    rat ate it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level motif label based only on the supplied tale, not
+    a formal taxonomy ID.
+- id: motif:2
+  label: counter-deception exposes prior deception
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The plough owner uses a similarly impossible hawk claim to expose the dishonest
+    friend's impossible rat claim.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy reference is broad; the passage presents a moral
+    counter-trick rather than a boundary-crossing trickster figure in a strict mythological
+    sense.
+- id: motif:3
+  label: wisdom through analogical judgment
+  taxonomy_refs:
+  - wisdom
+  basis: The judge understands the relation between the two impossible claims and
+    uses the recovery of the plough as the condition for the recovery of the son.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The wisdom taxonomy reference is broad and should be reviewed for fit.
+- id: motif:4
+  label: restoration of stolen property through reciprocal leverage
+  taxonomy_refs: []
+  basis: The son is returned only after the dishonest friend restores the plough he
+    had withheld.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a descriptive narrative pattern rather than a confirmed external
+    motif classification.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 826-833
+  quote_or_summary: A man going on a journey entrusts his plough to a friend; the
+    friend sells it and keeps the money.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 834-842
+  quote_or_summary: When the man asks for the plough, the friend says his house has
+    rats and that a very big rat ate the plough.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 843-856
+  quote_or_summary: The owner takes the friend's son for a walk, leaves him safely
+    with another friend, then tells the father that a hawk carried him off.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 857-872
+  quote_or_summary: The father brings the case before the judge, accusing the man;
+    the judge questions the claim that a hawk could carry off a boy.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 873-884
+  quote_or_summary: The plough owner asks who ever heard of a rat eating a plough
+    and explains the earlier events; the judge sees that the complainant cheated him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:6
+  type: summary
+  locator: lines 885-894
+  quote_or_summary: The judge says that if the plough is found, the son may be found
+    too; the plough is returned, the son is brought back safe, and the tale states
+    that honesty is the best policy.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The narrative sequence and figures are explicit in the supplied passage.
+    Motif labels are descriptive and require human review for taxonomy alignment.
+    No comparison claims were made because the passage itself does not explicitly
+    support external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Line subranges are approximate divisions within the provided canonical range.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l826-l894
+  passage_sha256=2481cccaa8b1a6a6e7be5256e02116f69bbdcdf194edfc31c11b7a82d71dce58
+

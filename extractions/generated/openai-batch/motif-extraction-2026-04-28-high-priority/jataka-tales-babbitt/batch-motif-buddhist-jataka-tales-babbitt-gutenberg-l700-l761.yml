@@ -1,0 +1,465 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l700-l761
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: THE TURTLE WHO COULDN'T STOP TALKING / THE OX WHO WON THE FORFEIT / THE SANDY
+    ROAD / THE QUARREL OF THE QUAILS; lines 700-761
+  start: '700'
+  end: '761'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Many quails live in a forest under a wise leader. A fowler learns to imitate
+    the leader's call, gathers the quails, nets them, and sells them. The leader devises
+    a plan for the trapped birds to lift the net together, carry it to a thorn-bush,
+    and escape. This works repeatedly until a quarrel divides the quails; when the
+    fowler nets them again, they refuse to cooperate, and he captures and sells them
+    all.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Many quails live together in a forest, and the wisest quail is their leader.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A fowler lives near the forest, catches quails, and sells them for a living.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fowler learns the leader's call, uses it to gather the quails, throws
+    a net over them, and takes caught quails to town to sell.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The wise leader tells the quails to put their heads through the net holes,
+    fly together to a thorn-bush, leave the net there, and free themselves.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The quails follow the leader's plan and carry the net to a thorn-bush, leaving
+    it there.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The fowler states that the quails are working together and that he will catch
+    them when they begin to quarrel.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: One quail accidentally steps on another quail's head, and the second quail
+    responds angrily.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The quarrel spreads until the quails take sides.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: When the fowler nets the divided quails, each side tells the other to lift
+    the net, and neither side begins.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: While the quails are quarreling, the fowler catches them all in his net, takes
+    them to town, and sells them.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: quails
+  description: A group of many quails living together in a forest.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+  - ev:10
+- id: fig:2
+  name_or_label: wise leader of the quails
+  description: The wisest of the quails and their leader; he identifies the fowler's
+    method and gives the birds an escape plan.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: fowler
+  description: A man near the forest who catches quails with a net and sells them
+    in town.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:10
+- id: fig:4
+  name_or_label: fowler's wife
+  description: The fowler's wife is angry because he brings home no money during the
+    period when the quails escape.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: first quail in the quarrel
+  description: A quail who accidentally treads on another quail's head and says he
+    did not mean to do it.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: second quail in the quarrel
+  description: A quail whose head is trodden on and who responds angrily with mean
+    words.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: wise leader and strategist
+  assigned_to:
+  - fig:2
+  basis: He is described as the wisest quail and gives the group a plan to escape
+    the net.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: hunter-captor and seller
+  assigned_to:
+  - fig:3
+  basis: He catches quails with a net and sells them in town.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:10
+- id: role:3
+  label: cooperating captives
+  assigned_to:
+  - fig:1
+  basis: The quails together lift and carry away the net when they follow the leader's
+    plan.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: divided captives
+  assigned_to:
+  - fig:1
+  basis: The quails take sides in a quarrel and fail to lift the net together.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:5
+  label: complaining household figure
+  assigned_to:
+  - fig:4
+  basis: She is angry because the fowler has not brought home money.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: quarrel initiators
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Their accidental contact and angry exchange begin the quarrel that spreads
+    to the group.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: net
+  literal_form: fowler's net used to trap quails
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+  - ev:10
+- id: sym:2
+  label: thorn-bush
+  literal_form: nearest thorn-bush on which the quails leave the net
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: leader's call
+  literal_form: the note or call that gathers the quails
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: forest
+  literal_form: forest where the quails live and near which the fowler lives
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Forest community of quails
+  summary: Many quails live together in a forest under the leadership of the wisest
+    quail.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fowler learns the call and catches quails
+  summary: The fowler learns to imitate the leader's call, gathers the quails, nets
+    them, and sells them in town.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Leader's cooperative escape plan
+  summary: The wise leader tells the quails how to use coordinated flight to carry
+    the net to a thorn-bush and escape.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Successful collective escape
+  summary: The quails lift the fowler's net together, fly with it to a thorn-bush,
+    leave it there, and return to their leader.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Fowler anticipates discord
+  summary: After repeated failures, the fowler tells his wife that the quails are
+    working together and that he can catch them once they quarrel.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Accidental insult and spreading quarrel
+  summary: One quail accidentally steps on another's head; anger follows, and the
+    quarrel spreads until the quails take sides.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:7
+  label: Failure to lift the net and final capture
+  summary: The divided quails refuse to begin lifting the net; while they quarrel,
+    the fowler captures them all and sells them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: wise leader devises communal survival strategy
+  taxonomy_refs:
+  - wisdom
+  basis: The wisest quail recognizes the fowler's method and instructs the group in
+    a successful escape plan.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents practical wisdom
+    rather than a doctrinal exposition.
+- id: motif:2
+  label: unity enables escape from captivity
+  taxonomy_refs: []
+  basis: When the quails act together, they lift the net and escape from the fowler.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family specifically names collective action or unity.
+- id: motif:3
+  label: discord causes collective downfall
+  taxonomy_refs:
+  - wisdom
+  basis: After the quails quarrel and divide into sides, they fail to cooperate and
+    are caught by the fowler.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The wisdom classification is inferential but directly supported by the
+    story's contrast between cooperative success and quarrelsome failure.
+- id: motif:4
+  label: predator exploits division among prey
+  taxonomy_refs: []
+  basis: The fowler explicitly expects to catch the quails when they quarrel, and
+    succeeds after their dispute prevents them from lifting the net.
+  evidence_refs:
+  - ev:6
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: This is a narrative pattern in the passage, not mapped to a supplied motif
+    family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 700-704
+  quote_or_summary: Many quails live together in a forest, and the wisest quail is
+    their leader.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 705-711
+  quote_or_summary: A man near the forest earns his living catching and selling quails;
+    after listening to the leader's note, he can call the quails together, and they
+    think the leader has called.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 712-715
+  quote_or_summary: When the quails are crowded together, the fowler throws his net
+    over them and takes them to town to sell.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 716-726
+  quote_or_summary: The wise leader tells the birds that the fowler is carrying many
+    away and instructs them to put their heads through the holes of the net, fly together
+    to a thorn-bush, leave the net there, and be free.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 729-735
+  quote_or_summary: The fowler throws the net over the quails; they lift it, fly to
+    a thorn-bush, leave it there, and return to tell their leader the plan worked.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 737-746
+  quote_or_summary: The fowler says, "The fact is those quails are working together
+    now... As soon as the quails begin to quarrel I shall be able to catch them."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:7
+  type: summary
+  locator: lines 748-752
+  quote_or_summary: One quail accidentally steps on another's head; the second asks
+    angrily who did it, the first apologizes, and the second remains angry and says
+    mean things.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 754-755
+  quote_or_summary: All the quails take sides in the quarrel.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 755-760
+  quote_or_summary: When the fowler nets them, one side says, "Now, you lift the net,"
+    and the other replies, "Lift it yourself"; neither side begins.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:10
+  type: summary
+  locator: lines 761
+  quote_or_summary: While the quails quarrel, the fowler catches them all in his net,
+    takes them to town, and sells them for a good price.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied public-domain passage. Motif candidates
+    are limited to patterns directly present in the narrative; no external comparisons
+    are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a comparison to another named tradition, text, or motif family beyond broad candidate motif classification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l700-l761
+  passage_sha256=3208bee39083e87f74d66d5273f619d4f49cb5b70e564aef3465accd6b61f266
+

@@ -1,0 +1,477 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l4750-l4806
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: MACAULAY. / CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING
+    THE GOD.; lines 4750-4806
+  start: '4750'
+  end: '4806'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Frazer contrasts cases where a divine king or priest is killed after visible
+    decline with cases where a fixed term is set so the ruler dies while still vigorous.
+    He gives Southern Indian examples: a Quilacare king who, after twelve years, performs
+    a public self-mutilating death as a sacrifice to an idol, and the Samorin of Calicut,
+    whose twelve-yearly death-rule was later modified into a jubilee where challengers
+    could fight through guards to kill and succeed him.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that some peoples fixed a maximum term for a divine king’s
+    reign so that he would die before physical degeneration was likely.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the Quilacare example, the king’s reign lasts no more than twelve years,
+    from one jubilee to the next.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At the Quilacare feast, a large public assembly occurs, food is given to Bramans,
+    and the king has a wooden scaffolding prepared with silken hangings.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Quilacare king bathes at a tank with ceremonies and music, prays to the
+    idol, mounts the scaffolding, mutilates himself with knives, and finally cuts
+    his own throat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage describes the Quilacare king’s self-killing as a sacrifice to
+    the idol.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A person who desires to reign another twelve years must be present watching
+    the Quilacare king’s death and is then raised as king.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The Samorin or King of Calicut is said formerly to have had to cut his throat
+    publicly at the end of a twelve-year reign.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: In the modified Samorin custom, a jubilee is proclaimed after twelve years,
+    a tent is pitched, and a feast lasts ten or twelve days.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Under the modified Samorin custom, any guests attempting to gain the crown
+    must fight through many guards and kill the Samorin in his tent; the killer succeeds
+    him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: In the 1695 account, three men attacked the guards with sword and target and
+    were killed after killing and wounding many.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: A youth, the nephew of one attacker, entered the tent and struck at the Samorin’s
+    head, but a burning brass lamp above the ruler marred the blow before the youth
+    was killed by guards.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: divine king or priest
+  description: General ruler or priestly figure whose retention of office depends
+    on continued bodily fitness, or whose reign may be limited by a fixed term.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: king of Quilacare
+  description: Ruler with a twelve-year reign who performs a public self-mutilating
+    death at the feast.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Quilacare idol
+  description: Idol in a Gentile house of prayer, honored with a twelve-year feast
+    and named as recipient of the king’s sacrifice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: successor candidate in Quilacare
+  description: Whoever desires to reign another twelve years must be present watching
+    the king’s death and is then raised as king.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Samorin or King of Calicut
+  description: Ruler formerly required to cut his throat publicly after twelve years;
+    in the modified custom he is attacked in his tent by succession challengers.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Samorin’s guards
+  description: Large body of guards through whom challengers must fight in order to
+    reach and kill the Samorin.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: three challengers in 1695
+  description: Three men who attempted the desperate action against the Samorin’s
+    guards and were killed.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: youth, nephew of a challenger
+  description: A fifteen- or sixteen-year-old nephew who followed his uncle, entered
+    the tent, and struck at the Samorin before being killed.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: fixed-term sacred ruler
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:5
+  basis: The passage describes divine or royal office held only until a sign of decline
+    or until a fixed reign-term ends.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: self-sacrificing royal victim
+  assigned_to:
+  - fig:2
+  basis: The Quilacare king cuts off parts of his body and then his throat, and the
+    act is described as sacrifice to the idol.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: recipient of sacrifice
+  assigned_to:
+  - fig:3
+  basis: The king performs his death-sacrifice to the idol.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: succession aspirant
+  assigned_to:
+  - fig:4
+  - fig:7
+  - fig:8
+  basis: The passage links desire to reign with being present at the Quilacare rite
+    or killing the Samorin in the modified custom.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: target of regicidal succession attempt
+  assigned_to:
+  - fig:5
+  basis: In the modified custom, challengers try to kill the Samorin in his tent in
+    order to succeed him.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: royal defenders
+  assigned_to:
+  - fig:6
+  basis: The guards stand between challengers and the Samorin and kill the attackers.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: armed challenger
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The challengers attack with weapons or strike at the ruler in an attempt
+    to gain the crown.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fixed twelve-year term
+  literal_form: twelve-year reign interval from jubilee to jubilee
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: idol
+  literal_form: idol in a house of prayer, honored at a twelve-year feast
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wooden scaffolding
+  literal_form: wooden scaffolding spread with silken hangings
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: tank and bathing
+  literal_form: king bathing at a tank before prayer and self-killing
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: sharp knives
+  literal_form: very sharp knives used by the king to cut his body and throat
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: tent
+  literal_form: tent pitched for the Samorin during the twelve-year jubilee
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:7
+  label: burning brass lamp
+  literal_form: large brass lamp burning over the Samorin’s head that marred the youth’s
+    blow
+  associated_figures:
+  - fig:5
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: General rule of killing the divine ruler before decline
+  summary: The passage explains that some communities do not wait for visible signs
+    of decay in a divine king or priest but impose a fixed reign-term ending in death.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Quilacare twelve-year royal sacrifice
+  summary: At a twelve-year feast, the Quilacare king bathes, prays to the idol, mounts
+    a decorated scaffolding, mutilates himself with knives, cuts his throat, and is
+    succeeded by one willing to undergo the same future ordeal.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Former Samorin self-killing rule
+  summary: The Samorin of Calicut is said formerly to have been required to cut his
+    throat in public at the end of a twelve-year reign.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Modified Samorin jubilee challenge
+  summary: At a twelve-year jubilee, challengers may attempt to fight through the
+    Samorin’s guards and kill him in his tent; a 1695 attempt fails after attackers
+    and a young nephew are killed.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: fixed-term killing of the sacred ruler
+  taxonomy_refs:
+  - sacrifice
+  - royal_legitimacy
+  basis: The passage presents divine or royal figures whose reign is limited by a
+    fixed term and whose death is required at its end.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is Frazer’s comparative framing, not a primary ritual text;
+    the taxonomy links are broad.
+- id: motif:2
+  label: royal self-sacrifice to a deity or idol
+  taxonomy_refs:
+  - sacrifice
+  basis: The Quilacare king publicly mutilates himself and cuts his throat, and the
+    passage explicitly calls this a sacrifice to the idol.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The idol’s identity and local theological meaning are not specified in
+    the passage.
+- id: motif:3
+  label: succession through regicidal challenge
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: In the modified Samorin custom, a guest who kills the ruler after fighting
+    through the guards succeeds to the empire.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The described 1695 attempt fails, so succession by this method is stated
+    as a rule but not enacted in the reported event.
+- id: motif:4
+  label: jubilee as terminal royal interval
+  taxonomy_refs:
+  - seasonal_cycle
+  - royal_legitimacy
+  basis: Both Southern Indian examples are organized around a twelve-year jubilee
+    or feast that marks the end of the ruler’s permitted term or the occasion for
+    lethal challenge.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explain the calendrical or seasonal basis of the
+    twelve-year interval; the seasonal_cycle taxonomy is therefore only a broad fit.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the Quilacare and Samorin cases as variants
+    of a fixed twelve-year royal death or succession pattern.
+  claim_level: same_function
+  target: Southern Indian fixed-term royal killing and succession rites
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: 'The two examples differ in mechanism: Quilacare describes self-sacrificial
+    death before succession, while the modified Samorin custom describes attempted
+    regicidal succession by challengers.'
+- id: claim:2
+  claim: The passage frames the examples as instances of a broader pattern in which
+    a divine ruler is killed before bodily decay can impair sacred duties.
+  claim_level: same_motif
+  target: killing the divine or sacred king before decline
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The broader pattern is supplied by Frazer’s comparative interpretation
+    within the passage; independent local sources are not provided here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4750-4759
+  quote_or_summary: Some divine kings or priests are killed only after visible signs
+    of decline, while other peoples fixed a term and killed the king while still vigorous
+    to avoid decay.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4760-4786
+  quote_or_summary: In Quilacare, a twelve-year feast honors an idol; the king’s reign
+    lasts from jubilee to jubilee. At the feast he bathes, prays to the idol, mounts
+    a decorated scaffolding, cuts off parts of his body with knives, cuts his throat,
+    and the act is called sacrifice to the idol. A willing successor present at the
+    rite is raised as king.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4787-4792
+  quote_or_summary: The Samorin of Calicut formerly had to cut his throat publicly
+    after twelve years; later, a twelve-year jubilee was proclaimed, a tent was pitched,
+    and a feast lasted ten or twelve days.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4793-4806
+  quote_or_summary: Under the modified Samorin custom, guests could gain the crown
+    by fighting through many guards and killing the Samorin in his tent. In 1695 three
+    attackers were killed, and a young nephew who struck at the Samorin was stopped
+    when a burning brass lamp marred the blow; he too was killed.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about the actions and Frazer’s comparative frame,
+    but motif taxonomy mapping is broad and should be reviewed by a human.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Long descriptions have been summarized rather than quoted.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l4750-l4806
+  passage_sha256=19d6d4563565968bbda69313737b4e8efb0ccf450fd348e1449347651ae2ac7a
+

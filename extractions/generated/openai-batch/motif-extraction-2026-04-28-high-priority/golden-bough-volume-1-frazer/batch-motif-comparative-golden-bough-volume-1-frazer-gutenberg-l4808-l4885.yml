@@ -1,0 +1,532 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l4808-l4885
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: MACAULAY. / CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING
+    THE GOD.; lines 4808-4885
+  start: '4808'
+  end: '4885'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer describes evidence for annual or periodic royal death and its modification
+    by substitution. He presents the Babylonian Sacaea, where a condemned prisoner
+    temporarily took royal privileges and was then executed, as a substitute for the
+    king. He then describes softened forms of temporary kingship, especially the Cambodian
+    King February, who reigned for three days, processed with royal symbols, and ordered
+    elephants to trample a rice scaffold whose grain was taken for harvest benefit.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that in some places a king was put to death after a year’s
+    reign and a new king appointed for the next year.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At the Babylonian Sacaea, masters and servants changed places for five days,
+    with servants giving orders and masters obeying.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A condemned prisoner at the Sacaea was dressed in royal robes, seated on the
+    king’s throne, allowed to command, eat, drink, enjoy himself, and lie with the
+    king’s concubines.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At the end of the five days the temporary royal prisoner was stripped, scourged,
+    and crucified.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The author interprets the condemned man as dying in the king’s stead and receiving
+    full royal rights to make the substitution complete.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage describes a modification in which the king abdicates briefly and
+    a temporary king reigns and suffers in his place.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says the king is slain in his character as a god, and that his
+    death and resurrection are treated as necessary to perpetuate divine life for
+    the salvation of people and world.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: In Cambodia, the king annually abdicated for three days in the month of Méac,
+    during which he performed no acts of authority and did not touch the seals or
+    receive revenues.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The Cambodian temporary king, called Sdach Méac or King February, was conducted
+    in procession, rode a royal elephant, sat in a royal palanquin, wore a peaked
+    white cap, and carried rough wooden regalia.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: On the third day the temporary Cambodian king ordered elephants to trample
+    the “mountain of rice,” a bamboo scaffold surrounded by sheaves of rice.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: People gathered the rice and took portions home to secure a good harvest;
+    some rice was also cooked for the king and presented to monks.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: king
+  description: A ruler whose bodily and mental vigor is treated as requiring periodic
+    renewal or replacement.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Babylonian condemned prisoner / mock king
+  description: A prisoner condemned to death who is dressed and enthroned as king
+    during the Sacaea and then executed.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: masters and servants at the Sacaea
+  description: Social groups who exchange positions during the five-day Babylonian
+    festival.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: King of Cambodia
+  description: The real king who abdicates annually for three days in Méac and receives
+    homage from the temporary king.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Sdach Méac / King February
+  description: The Cambodian temporary king who receives sovereignty for three days
+    and acts in royal procession.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Cambodian people
+  description: People who gather rice from the trampled mountain of rice and take
+    it home for harvest benefit.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: monks
+  description: Recipients of cooked rice presented after part of the trampled rice
+    is taken to the king.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: sacral or real king
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage treats the king as the figure whose authority, vigor, abdication,
+    death, or divine character organizes the ritual sequence.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:2
+  label: substitute victim
+  assigned_to:
+  - fig:2
+  basis: The condemned prisoner is described as dying in the king’s stead after receiving
+    temporary royal privileges.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: temporary sovereign
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: Both figures occupy the royal place for a short fixed period and perform
+    or receive royal acts.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:4
+  label: ritual status-inversion participants
+  assigned_to:
+  - fig:3
+  basis: Masters and servants change places during the Sacaea.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: harvest-seeking participants
+  assigned_to:
+  - fig:6
+  basis: People collect rice from the trampled rice structure to secure a good harvest.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: ritual recipients
+  assigned_to:
+  - fig:7
+  basis: Monks receive cooked rice after the trampling of the rice structure.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: king’s robes and throne
+  literal_form: Royal robes and the king’s throne used by the condemned prisoner during
+    the Sacaea.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: royal concubines
+  literal_form: The king’s concubines, with whom the temporary Babylonian king is
+    permitted to lie.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: scourging and crucifixion
+  literal_form: Executional actions performed on the Babylonian temporary king after
+    his five-day reign.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: seals and revenues
+  literal_form: Signs and instruments of Cambodian royal authority not used by the
+    real king during abdication.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: royal elephant and palanquin
+  literal_form: Royal elephant and royal palanquin used in the Cambodian temporary
+    king’s procession.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: white cap and wooden regalia
+  literal_form: A peaked white cap and rough wooden regalia worn or carried instead
+    of golden and jeweled royal regalia.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: mountain of rice
+  literal_form: A bamboo scaffold surrounded by sheaves of rice, trampled by elephants
+    at the temporary king’s order.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: rice for good harvest
+  literal_form: Rice gathered by the people after the trampling and taken home to
+    secure a good harvest.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Annual royal death pattern
+  summary: The passage introduces the pattern that a king may be killed after a fixed
+    reign because continued bodily and mental vigor is not trusted.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Babylonian Sacaea temporary kingship
+  summary: During a five-day festival, social roles are inverted and a condemned prisoner
+    temporarily occupies royal status with royal privileges.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Execution of the Babylonian mock king
+  summary: After the five-day reign, the temporary king is stripped of royal robes,
+    scourged, and crucified; the author explains this as substitution for the king.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:4
+  label: Cambodian royal abdication in Méac
+  summary: The Cambodian king abdicates annually for three days, suspending acts of
+    authority while King February receives temporary sovereignty.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Cambodian procession and rice trampling
+  summary: The temporary king processes with altered royal symbols and orders elephants
+    to trample the mountain of rice, after which rice is distributed for harvest benefit
+    and religious presentation.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: temporary substitute king killed in place of the real king
+  taxonomy_refs:
+  - sacrifice
+  basis: The Babylonian condemned prisoner is invested with royal status and then
+    executed, which the passage interprets as dying in the king’s stead.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage reports and interprets the custom through Frazer’s comparative
+    framework; it is not a direct Babylonian ritual text.
+- id: motif:2
+  label: divine king’s death and renewal
+  taxonomy_refs:
+  - dying_and_returning
+  - death_rebirth
+  basis: The author states that the king is slain as a god and that death and resurrection
+    are treated as perpetuating divine life.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The explicit death-and-resurrection claim is Frazer’s interpretation within
+    comparative religion scholarship.
+- id: motif:3
+  label: ritual reversal of social hierarchy
+  taxonomy_refs: []
+  basis: At the Sacaea, masters and servants exchange places for five days.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No specific taxonomy reference for status inversion is supplied in the
+    available list.
+- id: motif:4
+  label: annual temporary abdication and nominal sovereignty
+  taxonomy_refs:
+  - royal_legitimacy
+  - seasonal_cycle
+  basis: The Cambodian king abdicates annually for three days while a hereditary temporary
+    king receives sovereignty and performs royal procession.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The rite is described as a softened form of an older custom; the passage
+    does not independently prove the older form for Cambodia.
+- id: motif:5
+  label: ritual rice distribution for harvest fertility
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: After elephants trample the mountain of rice, people take rice home to secure
+    a good harvest.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage gives the stated harvest purpose but does not detail local
+    theology behind the act.
+comparison_claims:
+- id: claim:1
+  claim: The Babylonian Sacaea and the Cambodian King February rite are presented
+    as related functional variants of temporary kingship during a real king’s abdication
+    or substitution period.
+  claim_level: same_function
+  target: Babylonian Sacaea and Cambodian Sdach Méac / King February temporary kingship
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage frames the comparison through Frazer’s interpretation and
+    does not establish historical contact between Babylon and Cambodia.
+- id: claim:2
+  claim: The Babylonian condemned prisoner is compared by function to the broader
+    pattern of a dying criminal representing a dying god.
+  claim_level: same_function
+  target: dying criminal representing a dying god
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage announces that other examples will be given later, but
+    this excerpt itself does not provide those further examples.
+- id: claim:3
+  claim: Ethiopia, Sofala, Calicut, Babylon, and Cambodia are presented as examples
+    or modifications of a rule requiring royal death or its ritual substitute after
+    a fixed period or sign of decline.
+  claim_level: same_function
+  target: periodic killing or substitution of the king in Frazer’s comparative examples
+  evidence_refs:
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt summarizes Ethiopia, Sofala, and Calicut only briefly and
+    does not include full evidence for those cases.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4808-4812
+  quote_or_summary: The passage says some people did not trust the king’s vigor beyond
+    a year, so at year’s end he was killed and a new king appointed.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4812-4823
+  quote_or_summary: 'Berosus is cited for the Babylonian Sacaea: a five-day festival
+    of master-servant reversal in which a condemned prisoner wore royal robes, sat
+    on the throne, exercised royal freedoms, and was then stripped, scourged, and
+    crucified.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4823-4833
+  quote_or_summary: Frazer argues that access to the royal concubines shows the mock
+    king was not merely a jest but a man about to die in the king’s stead with full
+    royal rights during his brief reign.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4833-4849
+  quote_or_summary: The passage compares modifications of royal-killing rules in Ethiopia,
+    Sofala, Calicut, and Babylon, explaining the Babylonian pattern as a brief abdication
+    in which a temporary king suffered for the king.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4849-4855
+  quote_or_summary: The author says other examples will show a dying criminal representing
+    a dying god, and states that the king is slain as a god whose death and resurrection
+    perpetuate divine life for people and world.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4856-4865
+  quote_or_summary: In Cambodia, the king annually abdicated for three days in Méac,
+    performing no authority, not touching the seals, and not receiving revenues, while
+    the temporary king Sdach Méac reigned.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4865-4878
+  quote_or_summary: The temporary Cambodian king’s hereditary office is described;
+    he is processed by mandarins, rides a royal elephant in a royal palanquin, wears
+    a white cap and wooden regalia, receives sovereignty for three days, and processes
+    through palace and capital.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 4878-4885
+  quote_or_summary: On the third day King February orders elephants to trample the
+    mountain of rice, a bamboo scaffold with rice sheaves; people take rice home for
+    a good harvest, and some is cooked for the king and presented to monks.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction follows explicit passage content. Motif and comparison fields
+    reflect Frazer’s comparative interpretation and therefore require review against
+    primary sources.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All claims are limited to the provided excerpt from a public-domain comparative religion text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l4808-l4885
+  passage_sha256=8d7d20da911dcd0581adc2c4c42465d8f68bb7882d6e2fe2ca26459460aeab89
+

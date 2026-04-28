@@ -1,0 +1,601 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l1381-l1518
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: THE LION IN BAD COMPANY / XVIII / THE WISE GOAT AND THE WOLF / PRINCE WICKED
+    AND THE GRATEFUL ANIMALS; lines 1381-1518
+  start: '1381'
+  end: '1518'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A cruel prince is abandoned by servants during a storm and swept down a
+    river on a log with a Snake, Rat, and Parrot. A poor man rescues them, warms and
+    feeds the animals before the prince, and the prince becomes resentful. The animals
+    promise future gifts and later show willingness to keep those promises, while
+    the prince, after becoming king, plans to kill the poor man to hide that the man
+    once saved his life.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Prince Wicked is described as fierce, cruel, and abusive to people in and
+    out of the palace.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: During a dark storm while the prince is swimming in the river, his servants
+    swim away from him and leave him in danger of drowning.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The king orders a search along the riverbanks, but no trace of the prince
+    is found.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The prince is swept down the river, finds a log, climbs onto it, and floats
+    downstream.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A Rat and a Snake whose homes are flooded by the storm also climb onto the
+    log.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A young Parrot from a cottonwood tree is beaten down by the rain and joins
+    the others on the log.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A poor man hears the prince crying, swims out, and pushes the log to the bank.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The poor man carries the Snake, Rat, and Parrot to his hut, builds a fire,
+    and tends and feeds the animals before tending the prince.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The prince becomes angry because the poor man cares for the animals before
+    him.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The Snake, Rat, and Parrot each thank the poor man and promise future help
+    or gifts.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The prince hates the poor man inwardly but pretends gratitude and promises
+    riches when he becomes king.
+  category: speech
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: After the prince becomes king, the poor man tests whether the rescued beings
+    will keep their promises.
+  category: action
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: The Snake, Rat, and Parrot each respond to the poor man's call and show readiness
+    to fulfill their promises.
+  category: sequence
+  evidence_refs:
+  - ev:13
+- id: obs:14
+  text: When the king sees the poor man, he decides to have him beheaded before the
+    man can tell others that he once saved the king's life.
+  category: action
+  evidence_refs:
+  - ev:14
+figures:
+- id: fig:1
+  name_or_label: Prince Wicked
+  description: A king's son described as fierce, cruel, and abusive; later made king.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:11
+  - ev:14
+- id: fig:2
+  name_or_label: Prince Wicked's father, the king
+  description: The reigning king who searches for his missing son after the storm
+    and later dies.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:12
+- id: fig:3
+  name_or_label: Servants
+  description: Servants accompanying the prince in the river who leave him during
+    the dark storm.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Poor man
+  description: A poor man living in a hut near the river who rescues the prince and
+    animals and later tests their promises.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:12
+- id: fig:5
+  name_or_label: Snake
+  description: A Snake whose riverside home is flooded; rescued by the poor man and
+    later offers buried gold.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:10
+  - ev:13
+- id: fig:6
+  name_or_label: Rat
+  description: A Rat whose riverside home is flooded; rescued by the poor man and
+    later offers buried money.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:10
+  - ev:13
+- id: fig:7
+  name_or_label: Parrot
+  description: A young Parrot from a cottonwood tree who is forced down by the storm;
+    rescued by the poor man and later offers choice rice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:10
+  - ev:13
+roles:
+- id: role:1
+  label: cruel prince
+  assigned_to:
+  - fig:1
+  basis: The prince is described as fierce, cruel, and abusive before the storm.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: rescuer and benefactor
+  assigned_to:
+  - fig:4
+  basis: The poor man swims out, saves the beings on the log, warms them, feeds them,
+    and later seeks to test their promises.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:12
+- id: role:3
+  label: grateful rescued animal
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Each rescued animal thanks the poor man, promises aid, and later responds
+    when called.
+  evidence_refs:
+  - ev:10
+  - ev:13
+- id: role:4
+  label: abandoning attendants
+  assigned_to:
+  - fig:3
+  basis: The servants leave the prince alone in the river during the storm, saying
+    he may drown.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: ungrateful beneficiary
+  assigned_to:
+  - fig:1
+  basis: The prince inwardly hates the poor man, only pretends gratitude, and later
+    plans to kill him.
+  evidence_refs:
+  - ev:9
+  - ev:11
+  - ev:14
+- id: role:6
+  label: searching father king
+  assigned_to:
+  - fig:2
+  basis: The king has the gates opened and searches the riverbanks for the missing
+    prince.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: river water
+  literal_form: river, storm water, floodwater
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: log
+  literal_form: floating log used by the prince, Snake, Rat, and Parrot
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: fire
+  literal_form: fire built in the poor man's hut to dry the rescued animals
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: cottonwood tree
+  literal_form: cottonwood tree on the riverbank where the Parrot lives
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: buried treasure
+  literal_form: buried gold and buried money near the Snake's and Rat's homes
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:13
+- id: sym:6
+  label: choice rice
+  literal_form: choice rice in the fields offered by the Parrot
+  associated_figures:
+  - fig:7
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:13
+- id: sym:7
+  label: great white elephant
+  literal_form: the king's great white elephant ridden through the city
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:14
+scenes:
+- id: scene:1
+  label: Cruel prince abandoned in storm
+  summary: Prince Wicked swims in the river during a sudden storm, and his servants
+    leave him in the darkness, hoping he may drown.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Shared refuge on the floating log
+  summary: The prince, Snake, Rat, and Parrot separately reach the same log and float
+    downstream together after the storm displaces them.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Poor man rescues and tends the vulnerable first
+  summary: The poor man hears the prince, pushes the log to the bank, carries the
+    animals to his hut, warms them by a fire, and feeds them before the prince.
+  figure_refs:
+  - fig:4
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: Promises after rescue
+  summary: The rescued animals promise gold, money, or rice to the poor man, while
+    the prince pretends gratitude and promises riches once he is king.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: scene:5
+  label: Testing gratitude
+  summary: The poor man visits the Snake, Rat, and Parrot, and each shows readiness
+    to fulfill the earlier promise.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:12
+  - ev:13
+- id: scene:6
+  label: Ungrateful king plots against rescuer
+  summary: After becoming king, Prince Wicked sees the poor man from his white elephant
+    and decides to have him killed before the rescue story can be told.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:14
+candidate_motifs:
+- id: motif:1
+  label: grateful animals reward a human rescuer
+  taxonomy_refs: []
+  basis: The Snake, Rat, and Parrot are rescued by the poor man, promise future help,
+    and later show readiness to provide gold, money, or rice.
+  evidence_refs:
+  - ev:8
+  - ev:10
+  - ev:13
+  confidence: high
+  cautions: The available taxonomy list does not include a specific grateful-animals
+    motif ID.
+- id: motif:2
+  label: ungrateful ruler betrays rescuer
+  taxonomy_refs: []
+  basis: The prince is saved by the poor man, resents him, pretends gratitude, and
+    later as king plans to kill him to conceal the rescue.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:11
+  - ev:14
+  confidence: high
+  cautions: This is a passage-level pattern; no external comparison is asserted.
+- id: motif:3
+  label: rescue from flood or storm on floating refuge
+  taxonomy_refs: []
+  basis: A storm darkens the river, the prince and animals are carried or forced into
+    the water, and they survive together on a log until rescued.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage involves storm and river danger, but it is not a cosmic or
+    universal flood narrative.
+- id: motif:4
+  label: testing promises after rescue
+  taxonomy_refs: []
+  basis: The poor man deliberately visits each of the four beings whose lives he saved
+    to see whether they will keep their promises.
+  evidence_refs:
+  - ev:12
+  - ev:13
+  - ev:14
+  confidence: high
+  cautions: The excerpt ends before the full outcome of the king's hostile response
+    is shown.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports comparison with a grateful-animals narrative pattern:
+    nonhuman beings saved by a human benefactor later promise and offer repayment.'
+  claim_level: same_motif
+  target: grateful animals repay a rescuer
+  evidence_refs:
+  - ev:8
+  - ev:10
+  - ev:13
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the pattern visible inside this passage and
+    does not establish historical contact or dependence.
+- id: claim:2
+  claim: The passage contrasts grateful animal beneficiaries with an ungrateful human
+    ruler who seeks to harm his rescuer.
+  claim_level: same_function
+  target: contrast between grateful animals and ungrateful human beneficiary
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:13
+  - ev:14
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This comparison is internal to the passage and should not be extended
+    to external traditions without additional evidence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1381-1518, opening paragraphs
+  quote_or_summary: Prince Wicked is introduced as a king's son who is fierce, cruel,
+    and abusive to everyone.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1381-1518, storm in the river
+  quote_or_summary: A great dark storm arises while the prince is swimming, and the
+    servants leave him alone in the river, thinking he may drown.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1381-1518, search for the prince
+  quote_or_summary: The king opens the gates and searches along the riverbanks, but
+    the missing prince is not found.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1381-1518, prince on the log
+  quote_or_summary: The prince is swept down the river, fears drowning, finds a log,
+    climbs onto it, and floats downstream.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 1381-1518, Rat and Snake join the log
+  quote_or_summary: Storm water enters the homes of a Rat and a Snake on the riverbank;
+    both swim out and climb onto the same log.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 1381-1518, Parrot joins the log
+  quote_or_summary: A cottonwood tree is uprooted by the storm, and a young Parrot
+    from its branches is beaten down by the rain and flies to the log to rest.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 1381-1518, rescue by the poor man
+  quote_or_summary: A poor man in a hut near the river hears the prince crying, swims
+    out, and pushes the log to the bank.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 1381-1518, care in the hut
+  quote_or_summary: The poor man brings the Snake, Rat, and Parrot to his hut, builds
+    a fire to dry them, and gives care and food to the animals before the prince because
+    they are weaker.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary used.
+- id: ev:9
+  type: summary
+  locator: lines 1381-1518, prince's resentment
+  quote_or_summary: The prince becomes angry that the poor man does not treat him
+    like a prince and begins to hate him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary used.
+- id: ev:10
+  type: summary
+  locator: lines 1381-1518, animals' farewell promises
+  quote_or_summary: The Snake offers buried gold, the Rat offers buried money, and
+    the Parrot offers to gather choice rice if the poor man later calls them.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary used.
+- id: ev:11
+  type: summary
+  locator: lines 1381-1518, prince's false gratitude
+  quote_or_summary: The prince inwardly hates the poor man but pretends gratitude
+    and promises him riches when he becomes king.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary used.
+- id: ev:12
+  type: summary
+  locator: lines 1381-1518, poor man tests promises
+  quote_or_summary: After Prince Wicked becomes king, the poor man decides to see
+    whether each of the four saved beings will keep the promises made to him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary used.
+- id: ev:13
+  type: summary
+  locator: lines 1381-1518, animals respond to calls
+  quote_or_summary: The Snake and Rat come when called and show buried wealth; the
+    Parrot comes when called and offers to gather choice rice with family and friends.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary used.
+- id: ev:14
+  type: summary
+  locator: lines 1381-1518, king sees the poor man
+  quote_or_summary: The king rides through the city on a great white elephant, sees
+    the poor man, and decides to have him beheaded before he can tell how he once
+    saved the king's life.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal narrative sequence and roles are explicit. Motif labels are descriptive
+    because the supplied taxonomy does not include exact grateful-animals or ungrateful-rescued-person
+    entries.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used; no external Jataka parallels or tale-type IDs were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l1381-l1518
+  passage_sha256=3f01543d282168e3ae900fb59ba683e31646ee52fd59806302f877e5f2134c1a
+

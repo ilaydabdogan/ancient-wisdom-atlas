@@ -1,0 +1,542 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l5783-l5836
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: MACAULAY. / CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING
+    THE GOD.; lines 5783-5836
+  start: '5783'
+  end: '5836'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer discusses European customs in which an effigy called Death is destroyed,
+    then replaced or transformed through a tree, a dressed girl, or distributed fragments
+    that are believed to promote vegetation, livestock, fertility, and protection
+    from sickness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A tree brought home after the destruction of the figure of Death is described
+    as equivalent to trees or branches brought back as representatives of Summer or
+    Life after Death had been thrown away or destroyed.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The shirt worn by the effigy of Death is transferred to the tree.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In a Transylvanian custom, a girl is dressed in clothes worn by Death and
+    led about the village to the same songs sung when Death was carried about.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Frazer states that the destroyed being called Death is treated as having a
+    vivifying influence that can communicate life to the vegetable and animal world.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Pieces of a straw effigy of Death are placed in fields to make crops grow,
+    or in a manger to make cattle thrive.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: At Spachendorf, a straw, brushwood, and rag figure of Death is carried outside
+    the village, burned, and its fragments are pulled from the flames and placed on
+    a garden tree or buried in a field to improve crops.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: In the Troppau district, a straw figure made by boys is dressed by girls in
+    woman's clothes and ornaments, carried out of the village, stripped, torn apart,
+    and its straw wisps are taken for use in a manger.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Straw from the effigy is also put in hens' nests to prevent hens from carrying
+    away their eggs and to improve brooding.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: If the bearers of the figure meet cattle after throwing it away, they strike
+    the cattle with sticks, which is believed to make the cattle prolific.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: At Leipzig at Mid-Lent, men and women carry a straw effigy of Death through
+    the streets, show it to young wives, and throw it into the river, saying this
+    makes young wives fruitful, cleanses the city, and averts plague and sickness
+    for the year.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: figure or effigy of Death
+  description: A ritual figure called Death, made in some cases of straw, brushwood,
+    rags, or straw dressed in clothing and ornaments, which is carried, destroyed,
+    burned, torn apart, or thrown away.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:2
+  name_or_label: tree brought back after Death's destruction
+  description: A tree brought home after the destruction of Death and clothed with
+    the shirt worn by the effigy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: girl dressed in Death's clothes
+  description: A girl in the Transylvanian custom dressed in the clothes worn by Death
+    and led around the village.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: ritual participants
+  description: Boys, girls, young people, bearers, and men and women who make, dress,
+    carry, destroy, display, or distribute parts of the effigy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: cattle, hens, crops, and young wives
+  description: Recipients or intended beneficiaries of the ritual actions, including
+    crops, cattle, hens, and young wives.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: destroyed ritual figure
+  assigned_to:
+  - fig:1
+  basis: The effigy called Death is destroyed, burned, torn apart, thrown away, or
+    thrown into a river.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:9
+- id: role:2
+  label: source of life-giving or fertilising power
+  assigned_to:
+  - fig:1
+  basis: The passage says the figure of Death is credited with vivifying, quickening,
+    and fertilising influence through its clothing, fragments, or associated sticks.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+- id: role:3
+  label: revived or replacement form after Death's destruction
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The tree and the dressed girl are interpreted in the passage as revivifications
+    or resuscitations of the destroyed being.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: ritual handlers of the effigy
+  assigned_to:
+  - fig:4
+  basis: Participants make, dress, carry, burn, strip, tear, display, or throw away
+    the figure.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+- id: role:5
+  label: beneficiaries of fertility and protection rites
+  assigned_to:
+  - fig:5
+  basis: Crops, cattle, hens, and young wives are named as beneficiaries of the effigy's
+    fragments or associated actions.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: tree as returning life
+  literal_form: tree brought back and clothed in Death's shirt
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: straw effigy of Death
+  literal_form: straw, brushwood, rag, or clothed figure called Death
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+- id: sym:3
+  label: clothing transfer
+  literal_form: shirt or clothes worn by Death placed on a tree or girl
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: fertility fragments
+  literal_form: pieces, wisps, or straw fragments of the destroyed effigy
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: field, manger, and hens' nest
+  literal_form: field, manger, and hens' nest where fragments are placed
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:6
+  label: river disposal
+  literal_form: river into which the straw effigy of Death is thrown
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: fertility sticks
+  literal_form: sticks used by bearers to strike cattle after throwing Death away
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Tree follows destruction of Death
+  summary: After the figure of Death is destroyed, a tree is brought home and clothed
+    with the shirt worn by the effigy, presenting the tree as a new form connected
+    to Death and to returning Summer or Life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Girl dressed as resuscitated Death
+  summary: In the Transylvanian example, a girl wears Death's clothes and is led through
+    the village with songs previously used for carrying Death.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Burning and distribution of Death at Spachendorf
+  summary: A figure of Death is carried outside the village, burned, and its fragments
+    are taken from the flames and placed on a garden tree or in a field to help crops
+    grow.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Troppau stripping and tearing of the straw figure
+  summary: A decorated straw figure is carried out, stripped, torn into pieces, and
+    its straw is taken for mangers or hens' nests to benefit cattle and hens.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Cattle struck after Death is thrown away
+  summary: After the figure is thrown away, bearers who meet cattle strike them with
+    sticks in the belief that the cattle will become prolific.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Leipzig Mid-Lent river disposal
+  summary: A straw effigy of Death is carried through the streets, shown to young
+    wives, and thrown into the river, with stated aims of fertility, cleansing the
+    city, and averting sickness.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Destruction of Death followed by renewed life
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage repeatedly links the destruction of the figure called Death with
+    a tree, girl, or fragments that represent or promote renewed life, vegetation,
+    and fertility.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is Frazer's comparative interpretation of ritual customs, not a mythic
+    narrative spoken by ritual participants.
+- id: motif:2
+  label: Seasonal expulsion and return of vegetation
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The destroyed Death is followed by representatives of Summer or Life and
+    by rites intended to revive spring vegetation and improve crops.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage focuses on Mid-Lent and spring customs but does not give full
+    annual cycle narratives for each locality.
+- id: motif:3
+  label: Effigy fragments as fertility charms
+  taxonomy_refs: []
+  basis: Fragments or wisps of the destroyed effigy are placed in fields, on trees,
+    in mangers, or in hens' nests to promote crops, cattle, and poultry.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy reference exactly matches this specific charm-distribution
+    pattern.
+- id: motif:4
+  label: Ritual removal of sickness through disposal of Death
+  taxonomy_refs: []
+  basis: In the Leipzig example, the effigy of Death is thrown into the river with
+    the stated effect of cleansing the city and averting plague and other sickness.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: This protective aspect is explicitly reported only for the Leipzig example
+    in this passage.
+- id: motif:5
+  label: Ritual destruction of a life-bearing figure
+  taxonomy_refs:
+  - sacrifice
+  basis: The figure is destroyed, burned, torn apart, or thrown into water, and its
+    remains or disposal are credited with fertility and protection.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: medium
+  cautions: The passage does not explicitly call the action a sacrifice; the taxonomy
+    match is functional and should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the tree brought back after Death's destruction with
+    trees or branches in preceding customs that represent Summer or Life after Death
+    has been expelled or destroyed.
+  claim_level: same_function
+  target: preceding customs involving trees or branches as representatives of Summer
+    or Life
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The compared customs are referred to but not described in detail within
+    the supplied passage.
+- id: claim:2
+  claim: The passage treats the Transylvanian dressed girl and the clothed tree as
+    parallel cases of a new form or resuscitation of the destroyed figure of Death.
+  claim_level: same_function
+  target: tree clothed in Death's shirt and Transylvanian girl dressed in Death's
+    clothes
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is Frazer's interpretation of analogous ritual details, based
+    on costume transfer and repeated songs.
+- id: claim:3
+  claim: The passage groups several Silesian and Leipzig practices as examples of
+    attributing fertilising or protective power to the figure of Death and its destruction.
+  claim_level: same_motif
+  target: European customs of destroying or disposing of Death while using the effigy
+    or its remnants for fertility and protection
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives local examples but does not establish historical
+    contact or common origin among them.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5783-5791
+  quote_or_summary: A tree brought home after Death's destruction is equated with
+    trees or branches representing Summer or Life; Death's shirt is transferred to
+    the tree, indicating revivification in a new form.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5791-5796
+  quote_or_summary: In the Transylvanian custom, a girl is dressed in Death's clothes
+    and led through the village to the same songs sung while Death was carried, suggesting
+    resuscitation of the destroyed being.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5796-5805
+  quote_or_summary: Frazer argues that the destroyed Death cannot be only destructive,
+    since the clothed tree embodies reviving spring vegetation; Death is therefore
+    credited with vivifying and quickening influence.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5805-5809
+  quote_or_summary: Pieces of the straw effigy of Death are placed in fields to make
+    crops grow or in a manger to make cattle thrive.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5809-5817
+  quote_or_summary: At Spachendorf, a straw, brushwood, and rag Death figure is carried
+    out, burned, and fragments are pulled from the flames and tied to a garden tree
+    or buried in a field to improve crops.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5817-5827
+  quote_or_summary: In the Troppau district, a decorated straw figure is carried out
+    by young people, stripped, torn to bits, and its straw fragments are taken because
+    a wisp in the manger is believed to make cattle thrive.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5827-5829
+  quote_or_summary: Straw from the effigy is put in hens' nests to prevent hens from
+    carrying away their eggs and to make them brood better.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 5829-5833
+  quote_or_summary: If bearers meet cattle after throwing the figure away, they strike
+    the cattle with sticks to make them prolific; Frazer suggests the sticks may have
+    acquired fertilising power from beating Death.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 5833-5836
+  quote_or_summary: At Leipzig at Mid-Lent, a straw effigy of Death is carried through
+    the streets, shown to young wives, and thrown into the river to make young wives
+    fruitful, cleanse the city, and avert plague and sickness for the year.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is high because the passage explicitly describes the rites.
+    Motif taxonomy assignments require review, especially the possible sacrifice classification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All claims are limited to the supplied passage and metadata; no external parallels or historical-contact claims were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l5783-l5836
+  passage_sha256=2187ec26fc32f0042ae5003d700563a86d1998b1a2bc9c858a939847a8ec6d91
+

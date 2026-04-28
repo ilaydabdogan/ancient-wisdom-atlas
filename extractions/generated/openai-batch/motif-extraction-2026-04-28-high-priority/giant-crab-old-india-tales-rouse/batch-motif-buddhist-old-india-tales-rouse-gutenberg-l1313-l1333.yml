@@ -1,0 +1,456 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l1313-l1333
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE TALKATIVE TORTOISE / THE MONKEYS AND THE GARDENER / THE GOBLIN AND THE
+    SNEEZE / THE GRATEFUL BEASTS AND THE UNGRATEFUL PRINCE; lines 1313-1333
+  start: '1313'
+  end: '1333'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After the Wicked Prince is replaced by the Hermit as king, the Hermit visits
+    the Snake, Rat, and Parrot. Each animal gives treasure or food in gratitude. The
+    Hermit distributes these resources to his servants and people. The grateful beasts
+    keep their promise, the ungrateful prince is killed, the Hermit rules kindly,
+    and all, including the animals, go to heaven after death because the animals overcame
+    attachment to money and gave it away out of gratitude.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Hermit is made king in place of the Wicked Prince.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Hermit calls to the Snake at the Snake's hole, and the Snake shows him
+    where its treasure is.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Hermit gives the Snake's treasure to his servants.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Rat responds to the Hermit's call, rubs against the King's hand, and gives
+    him all its treasure.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The King gives the Rat's treasure to his servants.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Parrot summons many parrots, each carrying a grain of rice, creating enough
+    rice to feed all the people for the rest of their lives.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The grateful beasts keep their promise.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The ungrateful Prince is killed.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Hermit rules kindly, and the people live happily until death.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: After death, the people, the Snake, the Rat, and the Parrot go to heaven.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The Snake, Rat, and Parrot are said to have overcome their love of money and
+    given it away to show gratitude to the Hermit.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Hermit King
+  description: A Hermit who is made king instead of the Wicked Prince and who distributes
+    the animals' treasure and food to others.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Wicked Prince
+  description: The prince replaced by the Hermit and later killed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Snake
+  description: A beast living at a hole who shows the Hermit where its treasure is
+    and later goes to heaven.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: Rat
+  description: A beast living at a hole who gives all its treasure to the Hermit and
+    later goes to heaven.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:5
+  name_or_label: Parrot
+  description: A beast associated with a tree who summons parrots that bring rice
+    and later goes to heaven.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:6
+  name_or_label: Parrots
+  description: Many parrots who carry grains of rice in their beaks and drop them
+    on the ground.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Servants
+  description: Recipients of treasure given by the Hermit King.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:8
+  name_or_label: People
+  description: People fed by the heap of rice and ruled kindly by the Hermit.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: righteous ruler
+  assigned_to:
+  - fig:1
+  basis: The Hermit is made king, distributes wealth and food, and rules kindly.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: benefactor of animals
+  assigned_to:
+  - fig:1
+  basis: The animals give away treasure or food to show gratitude to the Hermit for
+    being kind to them.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: ungrateful displaced ruler
+  assigned_to:
+  - fig:2
+  basis: The Wicked Prince is replaced and described as ungrateful before being killed.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: grateful beast donor
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The Snake, Rat, and Parrot keep their promise and give wealth or food in
+    gratitude.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: animal food bearers
+  assigned_to:
+  - fig:6
+  basis: The parrots each carry a grain of rice and drop it on the ground.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: human beneficiaries
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Servants receive treasure, and the people receive enough rice to feed them
+    for life.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: treasure
+  literal_form: treasure from the Snake's hole and Rat's hole
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: rice abundance
+  literal_form: heap of rice made from grains carried by parrots
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Snake's hole
+  literal_form: the Snake's hole where treasure is hidden
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Rat's hole
+  literal_form: the Rat's hole associated with the Rat's treasure
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Parrot's tree
+  literal_form: the tree where the Hermit calls to the Parrot
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: heaven
+  literal_form: heaven reached after death by the people and animals
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Hermit made king
+  summary: The Hermit replaces the Wicked Prince as king.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Snake gives hidden treasure
+  summary: The Hermit calls the Snake, who shows the treasure in its hole; the Hermit
+    gives the treasure to servants.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rat gives treasure
+  summary: The Rat greets the Hermit King and gives all its treasure, which the King
+    gives to servants.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Parrots provide rice
+  summary: The Parrot summons many parrots who bring grains of rice, forming a heap
+    sufficient to feed all the people for life.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Moral conclusion and heavenly reward
+  summary: The grateful beasts keep their promise, the ungrateful prince is killed,
+    the Hermit rules kindly, and after death the people and animals go to heaven because
+    the animals overcame love of money and gave it away in gratitude.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: grateful animals repay kindness
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Snake, Rat, and Parrot are described as grateful beasts who keep their
+    promise and give treasure or food to the Hermit because he was kind to them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy lacks a specific grateful-animals motif; sacred_exchange
+    is used broadly for reciprocal giving.
+- id: motif:2
+  label: renunciation of wealth leading to heavenly reward
+  taxonomy_refs:
+  - wisdom
+  basis: The animals go to heaven because they overcome love of money and give their
+    wealth away in gratitude.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is an explicit moralized conclusion, but the taxonomy reference is
+    broad rather than exact.
+- id: motif:3
+  label: wicked ruler replaced by kind ruler
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Hermit is made king instead of the Wicked Prince, who is killed, and
+    the Hermit rules kindly.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage gives the outcome but little detail about the political transition
+    or legitimacy beyond replacement and kind rule.
+- id: motif:4
+  label: miraculous animal-provided abundance
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Parrot summons many parrots who each carry rice, producing enough food
+    to feed all the people for the rest of their lives.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents extraordinary abundance through animals, but no explicit
+    divine source is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1313-1314
+  quote_or_summary: They made the Hermit king instead of the Wicked Prince, and the
+    Hermit took them into the country.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1314-1318
+  quote_or_summary: At the Snake's hole, the Hermit calls the Snake; it comes out,
+    curls at his feet, shows the hole where its treasure is, and the Hermit gives
+    the treasure to his servants.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1318-1321
+  quote_or_summary: At the Rat's hole, the Rat runs up, rubs its nose against the
+    King's hand, and gives all its treasure, which the King gives to his servants.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1321-1327
+  quote_or_summary: At the Parrot's tree, the Parrot calls many parrots; each carries
+    a grain of rice and drops it, making enough rice to feed all the people for life.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: summary
+  locator: lines 1328-1331
+  quote_or_summary: The grateful beasts keep their promise; the ungrateful Prince
+    is killed; the Hermit rules kindly, and the people live happily until death.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short summary used.
+- id: ev:6
+  type: summary
+  locator: lines 1331-1333
+  quote_or_summary: After death they all go to heaven, including the Snake, Rat, and
+    Parrot, because the animals overcame love of money and gave it away in gratitude
+    for the Hermit's kindness.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports the figures, actions, and moralized motifs.
+    Taxonomy matches are broad and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims added because the passage itself does not explicitly support comparison beyond its own tale pattern.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l1313-l1333
+  passage_sha256=e7c49537c96cc678f1c085b5c98e8e434de645d78aad5249c7e9bbcc694da7ff
+

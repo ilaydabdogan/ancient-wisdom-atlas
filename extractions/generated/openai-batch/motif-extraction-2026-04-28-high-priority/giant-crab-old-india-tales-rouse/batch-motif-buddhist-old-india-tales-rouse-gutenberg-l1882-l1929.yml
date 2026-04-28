@@ -1,0 +1,332 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l1882-l1929
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE CUNNING CRANE AND THE CRAB / UNION IS STRENGTH / SILENCE IS GOLDEN /
+    THE GREAT YELLOW KING AND HIS PORTER; lines 1882-1929
+  start: '1882'
+  end: '1929'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A cruel ruler called the Great Yellow King dies, and the whole city rejoices.
+    His palace porter alone weeps, explaining that the king used to strike him whenever
+    entering or leaving the palace. The porter fears the dead king may strike the
+    porter at the gates of Death and be sent back. Another man reassures him that
+    the king cannot return, and the porter is comforted.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Great Yellow King is described as ruling a great and rich city.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The King is described as cruel to his people, robbing, imprisoning, maiming,
+    blinding, and killing some without cause.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The King is also described as cruel within his household, formerly teasing
+    his sisters and later making life miserable for his wife and child.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: When the Great Yellow King dies, the city responds with rejoicing rather than
+    mourning.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Yellow King's porter sits on the palace steps weeping while others are
+    joyful.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The porter says the King used to cuff him on the head when leaving and returning
+    to the palace.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The porter fears that if the King treats the porter at the gates of Death
+    similarly, the dead King may not be accepted there and may return.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Another man tells the porter that the King is dead and cannot be sent back,
+    after which the porter is comforted.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Great Yellow King
+  description: A mighty king of a great and rich city, described as very cruel to
+    his people and household.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: People of the city
+  description: The King's subjects, described as robbed, imprisoned, injured, killed,
+    and later joyful at his death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Yellow King's porter
+  description: The palace porter who weeps after the King's death because he fears
+    the King may return from Death's gate.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Questioning man
+  description: A man who asks the porter why he is crying and then reassures him that
+    the King cannot return.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Porter at the gates of Death
+  description: A figure mentioned in the palace porter's imagined scenario, sitting
+    by the gates of Death.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: King's household
+  description: The King's sisters, wife, and child, described as targets of his cruelty
+    or teasing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: cruel ruler
+  assigned_to:
+  - fig:1
+  basis: The passage calls the King very cruel and lists harms he caused to subjects
+    and family.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: victims of royal cruelty
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: The people and household are described as suffering under the King.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: fearful mourner
+  assigned_to:
+  - fig:3
+  basis: The porter weeps after the King's death, not from affection but from fear
+    that the King may return.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: comforting questioner
+  assigned_to:
+  - fig:4
+  basis: The man asks why the porter is crying and reassures him that the dead King
+    cannot return.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: imagined death-gate porter
+  assigned_to:
+  - fig:5
+  basis: The palace porter imagines a porter sitting by the gates of Death who might
+    reject the King.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: gates of Death
+  literal_form: gates of Death
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: palace steps
+  literal_form: steps of the palace
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Cruel reign of the Great Yellow King
+  summary: The King rules a wealthy city and harms both his subjects and his family.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Public rejoicing at the King's death
+  summary: After the King dies, the city celebrates instead of mourning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The porter weeps on the palace steps
+  summary: The King's porter sits crying on the palace steps, surprising the joyful
+    townspeople.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Fear of rejection at the gates of Death
+  summary: The porter explains that the King used to strike him and fears the King
+    may strike the porter at Death's gates and be sent back.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Reassurance and comfort
+  summary: Another man assures the porter that the dead King cannot return, and the
+    porter is comforted.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Death of a tyrant celebrated by the people
+  taxonomy_refs: []
+  basis: The passage contrasts expected royal mourning with public rejoicing after
+    the cruel King's death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents the pattern humorously and morally, but does not
+    name a formal motif.
+- id: motif:2
+  label: Fear that a dead wrongdoer may be rejected at Death's gate and return
+  taxonomy_refs: []
+  basis: The porter fears the dead King will assault the porter at the gates of Death,
+    be refused, and come back to the living.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The gates of Death appear in a character's comic fear, not as a narrated
+    afterlife journey.
+- id: motif:3
+  label: Comic reversal of mourning
+  taxonomy_refs: []
+  basis: Everyone celebrates the cruel King's death, while the one apparent mourner
+    is actually afraid of the King's possible return.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a broad narrative pattern rather than a taxonomy-linked motif
+    in the supplied list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1882-1895
+  quote_or_summary: The Great Yellow King reigns in a great rich city and is described
+    as cruel to his people and household, robbing, imprisoning, maiming, blinding,
+    killing, and mistreating family members.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1896-1905
+  quote_or_summary: After the Great Yellow King dies, the city rejoices with holidays
+    and amusements rather than mourning him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1906-1913
+  quote_or_summary: The Yellow King's porter sits on the palace steps sighing, sobbing,
+    and weeping, and someone asks why he cries.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 1914-1925
+  quote_or_summary: The porter says the King always gave him a cuff on the head and
+    fears that if the King does the same to the porter by the gates of Death, "they
+    won't have him there at any price, and then he will come back to us."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: 1926-1929
+  quote_or_summary: Another man tells the porter not to be afraid because the King
+    is dead and cannot be sent back; the porter is comforted and goes for beer.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Passage-level events and figures are explicit. Motif labels are descriptive
+    because no supplied taxonomy family clearly matches the comic death-gate episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison to another named text, tradition, or motif family.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l1882-l1929
+  passage_sha256=a680ecc42b60a0c706573e85b9ff5a4da7a777eb97d977b0ad882bb477174fba
+

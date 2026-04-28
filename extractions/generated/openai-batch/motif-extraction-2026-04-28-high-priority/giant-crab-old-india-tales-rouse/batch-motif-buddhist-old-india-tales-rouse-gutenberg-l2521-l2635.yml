@@ -1,0 +1,436 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l2521-l2635
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE LION AND THE BOAR / THE GOBLIN CITY / LACKNOSE / THE KING'S LESSON; lines
+    2521-2635
+  start: '2521'
+  end: '2635'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: He conquers wrath by mildness, the bad with goodness sways, / By gifts the
+    miser vanquishes and lies with truth repays.
+  summary: King Godfrey, praised as a just and good ruler, disguises himself to learn
+    whether people criticize him behind his back. On a narrow road he meets another
+    disguised king in a carriage. Their drivers compare the kings and find them equal
+    in age, wealth, territory, population, and ancestry, then compare their virtues
+    in verse. The other king yields when Godfrey’s driver describes a superior ethic
+    of overcoming wrath, badness, miserliness, and lies with mildness, goodness, gifts,
+    and truth. Godfrey gives advice, and both kings return home and rule well.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: King Godfrey holds courts of justice and decides cases so wisely that people
+    stop bringing unjust causes and eventually have no quarrels.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: King Godfrey asks people to tell him his faults, but people in the palace
+    and city give him praise and no blame.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: King Godfrey dresses like a traveller and drives through the country asking
+    what people think of the king.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A second king from the next country has also travelled in disguise to learn
+    what people think of him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The two royal carriages meet in a narrow lane between steep banks, with only
+    room for one carriage, and neither carriage initially gives way.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The drivers compare the two kings and find them equal in age, wealth, kingdom
+    size, population, and ancestral renown.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The other king’s driver praises his master as rough to the rough, mild to
+    the mild, good to the good, and bad to the bad.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: King Godfrey’s driver praises his master as conquering wrath by mildness,
+    the bad by goodness, the miser by gifts, and lies by truth.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The other driver acknowledges that Godfrey’s king is better, and the other
+    king’s carriage is moved aside so Godfrey may pass.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: King Godfrey gives the other king advice; both kings return home and rule
+    well until death.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: King Godfrey
+  description: A very good king who holds wise courts of justice, seeks knowledge
+    of his faults, travels in disguise, and is praised for overcoming wrong with virtue.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: King Godfrey's coachman
+  description: The driver who reveals he carries a king, compares the two kings, and
+    recites Godfrey’s virtues in verse.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: King of the next country
+  description: A neighboring king, also good and also travelling in disguise to hear
+    people’s opinions; he yields after the comparison of virtues.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: Other king's driver
+  description: The driver of the second carriage who demands passage, announces he
+    also carries a king, recites his master’s virtues, and then concedes Godfrey’s
+    superiority.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+roles:
+- id: role:1
+  label: wise judge-king
+  assigned_to:
+  - fig:1
+  basis: Godfrey decides quarrels so wisely that unjust cases cease and the courts
+    become empty.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: disguised reputation-seeker
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Both kings travel in disguise to learn what people say or think about them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: morally superior ruler
+  assigned_to:
+  - fig:1
+  basis: Godfrey is praised for answering wrath, badness, miserliness, and lies with
+    mildness, goodness, gifts, and truth; the other side concedes superiority.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:4
+  label: royal spokesman-driver
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Each driver speaks on behalf of the king in his carriage during the blocked-road
+    dispute.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:5
+  label: neighboring rival king
+  assigned_to:
+  - fig:3
+  basis: The neighboring king’s carriage meets Godfrey’s in the narrow lane, creating
+    the comparison and yielding scene.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:6
+  label: conceding evaluator
+  assigned_to:
+  - fig:4
+  basis: The other driver says he cannot match Godfrey’s driver’s verse and admits
+    Godfrey’s master is better.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: traveller disguise
+  literal_form: King dressed like a traveller while asking people what they thought
+    of the king
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: narrow lane
+  literal_form: A narrow lane sunk between two steep banks with room for only one
+    carriage
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: opposed carriages
+  literal_form: Two carriages meeting face to face in the narrow lane, neither initially
+    moving aside
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: virtue verses
+  literal_form: Poetic speeches by the drivers comparing the kings’ ways of ruling
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Empty courts after wise judgments
+  summary: King Godfrey’s wise decisions make unjust lawsuits disappear and leave
+    the courts empty.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Search for faults and disguise
+  summary: Godfrey asks for criticism, receives only praise, then disguises himself
+    as a traveller and questions people across the country.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Two disguised kings meet in a narrow lane
+  summary: Godfrey’s carriage and the neighboring king’s carriage meet in a narrow
+    sunken lane where neither can pass unless one yields.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Comparison of equal kings
+  summary: The drivers try to establish precedence by age, wealth, kingdom size, population,
+    and ancestry, but the two kings prove equal in each respect.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Virtue contest in verse
+  summary: The other driver praises reciprocal treatment, while Godfrey’s driver praises
+    answering wrongdoing with positive virtues.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Yielding and lesson
+  summary: The other side concedes Godfrey’s superiority, moves its carriage aside,
+    receives advice from Godfrey, and both kings return home to rule well.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: king in disguise tests public reputation
+  taxonomy_refs:
+  - wisdom
+  basis: Godfrey disguises himself as a traveller after direct requests for criticism
+    produce only praise; the neighboring king has undertaken the same kind of disguised
+    inquiry.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The available taxonomy has only broad motif-family labels; the specific
+    disguised-ruler pattern is not separately listed.
+- id: motif:2
+  label: narrow-road precedence contest resolved by virtue
+  taxonomy_refs:
+  - wisdom
+  basis: Two royal carriages are blocked in a narrow lane; worldly measures of precedence
+    are equal, so the drivers compare moral qualities and the morally superior king
+    is allowed to pass.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage frames the event as a moral lesson rather than as a formal
+    ordeal or divine judgment.
+- id: motif:3
+  label: overcoming wrongdoing with opposing virtues
+  taxonomy_refs:
+  - wisdom
+  basis: Godfrey’s virtues are stated as conquering wrath by mildness, badness by
+    goodness, miserliness by gifts, and lies by truth.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is expressed as ethical instruction within the tale; no broader doctrinal
+    classification is asserted from the passage alone.
+- id: motif:4
+  label: ruler instructed by moral comparison
+  taxonomy_refs:
+  - wisdom
+  basis: The neighboring king yields after hearing Godfrey’s virtues and later receives
+    advice, after which both kings rule well.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The specific content of Godfrey’s advice is not given.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2521-2531
+  quote_or_summary: Godfrey is described as a truly good king who holds courts of
+    justice and decides cases so wisely that unjust cases cease and the courts become
+    empty.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2532-2542
+  quote_or_summary: Godfrey wonders whether he is as good as people say and asks people
+    in palace and city to tell him his faults, but receives only praise.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2543-2551
+  quote_or_summary: Godfrey disguises himself as a traveller, takes a carriage and
+    pair, and asks people throughout the country what they think of the king; they
+    speak well of him behind his back too.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2552-2570
+  quote_or_summary: In a narrow lane sunk between steep banks, Godfrey’s carriage
+    meets another carriage carrying the king of the next country, who is also travelling
+    in disguise to learn public opinion; neither carriage gives way at first.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2571-2584
+  quote_or_summary: The coachmen compare the two kings by age, wealth, kingdom size,
+    population, and ancestral glory, but the kings are alike in all those respects.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 2585-2600
+  quote_or_summary: The other driver’s verse says his king is “Rough to the rough,”
+    mild to the mild, masters the good by goodness, and pays the bad with badness.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: quote
+  locator: lines 2601-2612
+  quote_or_summary: 'Godfrey’s driver says: “He conquers wrath by mildness, the bad
+    with goodness sways, / By gifts the miser vanquishes and lies with truth repays.”'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:8
+  type: summary
+  locator: lines 2613-2635
+  quote_or_summary: The other driver admits Godfrey’s master is better; the other
+    king gets out, the horses are loosened, and the carriage is pulled up the slope.
+    Godfrey gives advice, both kings say goodbye, return home, and rule well until
+    death.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear for literal extraction and internal motif candidates.
+    Taxonomy assignment is limited to the broad available family “wisdom.” No external
+    comparison claims are made because the passage alone does not support historical
+    or cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the provided passage and metadata; comparison_claims left empty by rule.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l2521-l2635
+  passage_sha256=f3c74c2622df6123d909a9658904c319eb9454a7a1b2679e69aed61344824f13
+

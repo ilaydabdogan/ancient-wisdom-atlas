@@ -1,0 +1,413 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l1532-l1602
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE GOBLIN IN THE POOL / THE FOOLISH FARMER AND THE KING / THE PIOUS WOLF
+    / BIRDS OF A FEATHER; lines 1532-1602
+  start: '1532'
+  end: '1602'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A fierce horse named Chestnut is used by the King and his groom to injure
+    a dealer’s horses so the King can buy them cheaply. The dealer later brings an
+    equally vicious horse, Strongjaw. When Chestnut is released again, the two fierce
+    horses do not fight but become friendly. A wise minstrel explains the event with
+    the saying that like goes with like and birds of a feather flock together.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Chestnut is described as a large, fierce horse who bites people and attacks
+    other horses.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The King wants to buy the dealer’s horses cheaply and gives his groom a gold
+    piece before Chestnut is brought near them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The groom strikes Chestnut, pretends he cannot control him, and releases him
+    among the dealer’s horses.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Chestnut injures many of the dealer’s horses, after which the King offers
+    to buy them at half price.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The dealer decides to bring his own vicious horse, Strongjaw, as a match for
+    Chestnut.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When Chestnut and Strongjaw meet, they rub noses, lick each other, and become
+    friends rather than fighting.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After the trick is discovered, the King pays a good price for the second group
+    of horses and also pays for the earlier horses.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The wisest man in the kingdom, a minstrel, explains the event in a song stating
+    that like goes with like and birds of a feather flock together.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Chestnut
+  description: A large and fierce horse who bites people, injures other horses, and
+    later becomes friendly with Strongjaw.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: The King
+  description: A ruler who wants to buy horses cheaply, arranges for Chestnut to damage
+    the dealer’s horses, and later pays after the scheme is exposed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: The King’s groom
+  description: The handler of Chestnut who receives a gold piece, provokes Chestnut,
+    and releases him among the dealer’s horses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: The horse dealer
+  description: A seller of horses who is harmed by the King’s scheme and later brings
+    Strongjaw to counter Chestnut.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Strongjaw
+  description: The dealer’s vicious horse, brought as a match for Chestnut, who becomes
+    Chestnut’s friend.
+  role_refs:
+  - role:1
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: The wisest man / minstrel
+  description: The kingdom’s wisest man, described as a minstrel with a harp, who
+    explains the horses’ behavior in song.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: The dealer’s horses
+  description: Groups of horses brought by the dealer for the King to buy; the first
+    group is injured by Chestnut.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: vicious horse
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: Both Chestnut and Strongjaw are described as fierce, wild, or vicious horses.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: role:2
+  label: deceptive buyer
+  assigned_to:
+  - fig:2
+  basis: The King arranges harm to the horses in order to reduce their price.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: bribed handler
+  assigned_to:
+  - fig:3
+  basis: The groom receives a gold piece and releases Chestnut after provoking him.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: wronged seller
+  assigned_to:
+  - fig:4
+  basis: The dealer’s horses are damaged and he faces ruin before devising a response.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: matching counterpart
+  assigned_to:
+  - fig:5
+  basis: The dealer brings Strongjaw because he expects him to be a match for Chestnut.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: like-paired animals
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The two fierce horses immediately befriend each other, and the minstrel explains
+    them as alike.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:7
+  label: wise interpreter
+  assigned_to:
+  - fig:6
+  basis: The King asks the wisest man to explain the horses’ behavior, and he answers
+    in song.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: injured herd
+  assigned_to:
+  - fig:7
+  basis: The dealer’s first group of horses is badly hurt after Chestnut is released
+    among them.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: pair of vicious horses
+  literal_form: Chestnut and Strongjaw behaving peacefully toward each other despite
+    their fierceness
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: birds of a feather saying
+  literal_form: The proverbial line “Birds of a feather flock together” in the minstrel’s
+    song
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: gold piece bribe
+  literal_form: A gold piece placed in the groom’s hand before Chestnut is used against
+    the dealer’s horses
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: harp-accompanied explanation
+  literal_form: The minstrel taking up his harp and singing the explanation
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Chestnut’s fierceness established
+  summary: Chestnut is introduced as a violent horse who bites people and attacks
+    other horses.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The King’s price-lowering trick
+  summary: The King and groom arrange for Chestnut to be released among the dealer’s
+    horses, causing injuries that the King uses to demand a lower price.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: The dealer prepares Strongjaw
+  summary: The dealer remembers his own vicious horse and plans to bring him as a
+    match for Chestnut during the next sale.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: The two fierce horses befriend each other
+  summary: Chestnut is released again, Strongjaw is let out, and the two horses greet
+    and lick each other instead of fighting.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Payment and explanation
+  summary: The King pays fairly after the trick is exposed, and the minstrel explains
+    that the horses became friends because like goes with like.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: like associates with like
+  taxonomy_refs:
+  - wisdom
+  basis: 'The central explanation states that the two vicious horses become friends
+    because they are alike: “Like to like will always go” and “Birds of a feather
+    flock together.”'
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents a proverbial moral
+    rather than an elaborate wisdom quest.
+- id: motif:2
+  label: deceptive bargain exposed by counter-stratagem
+  taxonomy_refs: []
+  basis: The King’s attempt to lower the price by damaging horses is countered when
+    the dealer brings Strongjaw, revealing the trick and leading the King to pay.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly name this as a motif; it is inferred from
+    the plot sequence.
+- id: motif:3
+  label: wise song explains puzzling animal behavior
+  taxonomy_refs:
+  - wisdom
+  basis: The King asks the wisest man to explain why the two fierce horses are peaceful
+    together, and the minstrel gives a sung explanation.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The wisdom element is confined to an explanatory verse at the end of the
+    tale.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1532-1540
+  quote_or_summary: Chestnut is introduced as a big horse, fierce as a fury, who bites
+    people and causes disorder among other horses.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1541-1553
+  quote_or_summary: The King wants cheap horses, gives the groom a gold piece, and
+    the groom provokes and releases Chestnut among the dealer’s herd.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1554-1565
+  quote_or_summary: Chestnut injures the horses; the King dismisses the dealer’s protest
+    and offers to buy the damaged animals at half price.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1566-1578
+  quote_or_summary: The dealer, knowing he may have to sell to the King again, remembers
+    his own vicious horse Strongjaw and plans to bring him as a match for Chestnut.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 1579-1587
+  quote_or_summary: When Chestnut and Strongjaw are released, they ignore the rest
+    of the horses, approach one another, rub noses, lick each other, and become friends.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 1588-1595
+  quote_or_summary: The King and dealer are puzzled; the King pays a good price and
+    also pays for the earlier horses after recognizing that his trick was found out.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: 1595-1602
+  quote_or_summary: 'The wise minstrel sings: “Like to like will always go” and “Birds
+    of a feather flock together.”'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Plot roles and literal events are clear in the supplied passage. Motif labels
+    are descriptive and should be reviewed against the project’s controlled motif
+    vocabulary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons were added because the passage itself does not explicitly connect the tale to another named text, tradition, or motif family beyond its own proverb.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l1532-l1602
+  passage_sha256=9a2affec381a73660f561ea17f64609ca6bf818cab2dc340a38301c3cc6eb8b5
+

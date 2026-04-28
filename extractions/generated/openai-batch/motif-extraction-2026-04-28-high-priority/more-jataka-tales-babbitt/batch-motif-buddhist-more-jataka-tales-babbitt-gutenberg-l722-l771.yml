@@ -1,0 +1,369 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l722-l771
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: THE PENNY-WISE MONKEY / THE RED-BUD TREE / THE WOODPECKER AND THE LION /
+    THE OTTERS AND THE WOLF; lines 722-771
+  start: '722'
+  end: '771'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A male wolf seeks fresh fish for his mate. At a river, two otters catch
+    a large fish together but quarrel over how to divide it. They ask the wolf to
+    divide it for them. The wolf gives one otter the head, the other the tail, and
+    keeps the large middle portion as payment for settling the quarrel. The otters
+    realize he has taken the best part, and the wolf carries the fish home to his
+    mate.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A wolf's mate says she longs to eat fresh fish, and the wolf goes to the river
+    to get some.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two otters at the riverbank catch a large fish together after one asks the
+    other for help.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The otters disagree over division of the fish; each wants the part with the
+    head, and one tells the other to take the tail.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The otters ask the wolf to divide the fish for them because they cannot agree.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The wolf gives the tail to one otter, the head to the other, and keeps the
+    large middle part for himself.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The otters silently recognize that the wolf has taken the best part of the
+    fish.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The wolf tells his mate that he took the fish as pay for settling the otters'
+    quarrel.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: male Wolf
+  description: A land-dwelling wolf who goes to the river, acts as divider for the
+    otters, and keeps the middle part of the fish.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Wolf's mate
+  description: The wolf's mate, who longs to eat fresh fish and later asks how he
+    obtained it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:3
+  name_or_label: first Otter
+  description: One of two otters who helps catch the fish and argues over receiving
+    the head portion.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: second Otter
+  description: One of two otters who helps catch the fish and argues over receiving
+    the head portion.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: mediator or divider
+  assigned_to:
+  - fig:1
+  basis: The otters ask the wolf to divide the fish for them, and he performs the
+    division.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: self-interested taker
+  assigned_to:
+  - fig:1
+  basis: The wolf keeps the large middle part of the fish for himself and later calls
+    it payment.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: recipient whose desire prompts action
+  assigned_to:
+  - fig:2
+  basis: Her wish for fresh fish prompts the wolf to go to the river.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: cooperative fish-catcher
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The two otters catch the large fish together and bring it to land.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: disputant
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The otters quarrel about which portion of the fish each should receive.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: river water
+  literal_form: river
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: large fish
+  literal_form: great fish / fresh fish
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: divided fish portions
+  literal_form: head, tail, and large middle part of the fish
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Wolf goes to the river for fish
+  summary: The wolf's mate desires fresh fish, and the wolf goes to the river to obtain
+    some.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Otters catch a large fish together
+  summary: Two otters see a large fish; one catches its tail, calls for help, and
+    both bring it to land.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Quarrel over division
+  summary: The otters dispute who should receive the head portion and who should receive
+    the tail.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Wolf divides the fish and keeps the best part
+  summary: The otters ask the wolf to divide the fish; he gives them the head and
+    tail and keeps the large middle portion.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Wolf reports his gain to his mate
+  summary: The wolf carries the fish home and tells his mate that he took it as payment
+    for settling the otters' quarrel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: third-party arbiter profits from a quarrel
+  taxonomy_refs: []
+  basis: The otters cannot agree over dividing the fish and invite the wolf to decide;
+    the wolf resolves the dispute in a way that gives him the best portion.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage presents the event literally; any broader classification as
+    a trickster or legal satire motif requires comparison outside this passage.
+- id: motif:2
+  label: loss through internal dispute
+  taxonomy_refs: []
+  basis: The otters jointly obtain the fish but, because they quarrel over division,
+    end with inferior portions while the wolf takes the best part.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not explicitly state a moral in the provided excerpt.
+- id: motif:3
+  label: animal trickster-like opportunist
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The wolf opportunistically intervenes in the otters' dispute and keeps the
+    valuable middle part while framing it as payment.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy label is broad; the passage supports opportunistic
+    deception or exploitation, but not an explicit boundary-crossing episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 722-727
+  quote_or_summary: The wolf's mate says she longs for fresh fish; the wolf says he
+    will get some and goes to the river.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 728-739
+  quote_or_summary: Two otters at the riverbank see a large fish; one catches its
+    tail, is dragged, calls for help, and both otters bring the fish to land.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 740-745
+  quote_or_summary: The otters propose dividing the fish, then dispute who should
+    receive the head portion and who should take the tail.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 746-751
+  quote_or_summary: The otters address the wolf and ask him to divide the fish because
+    they cannot agree.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 752-755
+  quote_or_summary: The wolf cuts off the tail for one otter, gives the head to the
+    other, and takes the large middle part for himself.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 755-758
+  quote_or_summary: The otters stand silently and each thinks that the wolf has run
+    off with the best of the fish.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 759-771
+  quote_or_summary: The wolf is pleased, brings the fish toward home, and tells his
+    mate he took it as payment for settling the otters' quarrel.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are descriptive and require human review for alignment with a controlled motif
+    index. No comparison claims were made because the supplied passage does not itself
+    establish an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text and metadata were used. The passage locator label mentions multiple tale titles, but the provided passage text contains only 'THE OTTERS AND THE WOLF.'
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l722-l771
+  passage_sha256=23e46aa463477efd91fc2f261b2ad133975930cb12853fe2b5bdab6fdb2ded9f
+

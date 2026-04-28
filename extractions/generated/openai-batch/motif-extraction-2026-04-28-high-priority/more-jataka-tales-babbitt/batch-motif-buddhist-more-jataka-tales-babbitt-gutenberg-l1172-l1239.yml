@@ -1,0 +1,419 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l1172-l1239
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: THE HAWKS AND THEIR FRIENDS / THE BRAVE LITTLE BOWMAN / THE FOOLHARDY WOLF
+    / THE STOLEN PLOW; lines 1172-1239
+  start: '1172'
+  end: '1239'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“If birds cannot carry off boys, can mice eat plows?”"
+  summary: A village trader leaves his plow with a town trader, who sells it and falsely
+    says mice ate it. The village trader hides the town trader’s son and claims a
+    bird carried him away. In court, the village trader uses the impossible bird claim
+    to expose the impossible mouse claim, and the judge orders both the plow and the
+    son restored.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Two traders, one from a small village and one from a nearby large town, are
+    described as great friends.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The village trader leaves his plow with the town trader to be mended.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The town trader sells the plow, keeps the money, and later says that mice
+    have eaten the plow.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The village trader takes the town trader’s little son to a friend’s house
+    and asks the friend to keep him there until he returns.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The village trader tells the town trader that a big bird seized the boy at
+    the river and flew into the air with him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The town trader denies that a bird could carry off a boy and brings the matter
+    to court.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In court, the village trader asks whether mice can eat plows if birds cannot
+    carry off boys.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The judge orders the town trader to give back the plow and says the village
+    trader will give the son back.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: By night-time, one trader has his son back and the other has his plow.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: village trader
+  description: A trader from a small village who leaves his plow with the town trader
+    and later makes the counter-claim about the bird carrying off the son.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: town trader
+  description: A trader from a nearby large town who sells the plow, says mice ate
+    it, and later complains that his son is missing.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: town trader’s little son
+  description: The little boy taken by the village trader to a friend’s house and
+    later returned.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: friend keeping the boy
+  description: A friend at whose house the village trader leaves the town trader’s
+    son.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: judge
+  description: The court authority who hears the dispute and orders restoration of
+    the plow and son.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: mice
+  description: Animals named in the town trader’s false explanation that they ate
+    the plow.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:7
+  name_or_label: big bird
+  description: A bird named in the village trader’s false explanation that it carried
+    off the boy.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: owner of entrusted property
+  assigned_to:
+  - fig:1
+  basis: The village trader takes his plow to the town trader and later comes to get
+    it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dishonest custodian
+  assigned_to:
+  - fig:2
+  basis: The town trader sells the plow, keeps the money, and gives a false explanation.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: maker of reciprocal impossible claim
+  assigned_to:
+  - fig:1
+  basis: The village trader claims a bird carried off the boy and later uses that
+    claim to question the mouse explanation.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: complaining father
+  assigned_to:
+  - fig:2
+  basis: The town trader asks where his son is and brings the claim to court.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: hidden child
+  assigned_to:
+  - fig:3
+  basis: The village trader takes the child to a friend’s house until he returns.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: temporary keeper of the child
+  assigned_to:
+  - fig:4
+  basis: The friend is asked to keep the little boy until the village trader comes
+    back.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: adjudicator
+  assigned_to:
+  - fig:5
+  basis: The judge hears the statements and orders the exchange of plow and son.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: alleged impossible eaters of the plow
+  assigned_to:
+  - fig:6
+  basis: The town trader says mice ate the plow, a claim later challenged in court.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:9
+  label: alleged impossible abductor of the boy
+  assigned_to:
+  - fig:7
+  basis: The village trader says a big bird seized the son and flew away with him,
+    a claim the town trader and judge challenge.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: plow
+  literal_form: The village trader’s plow, entrusted for mending, sold by the town
+    trader, and later restored.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: mice eating a plow
+  literal_form: The town trader’s claim that mice ate the plow.
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: big bird carrying off a boy
+  literal_form: The village trader’s claim that a big bird seized the boy and flew
+    away with him.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: river water
+  literal_form: The river where the children go swimming and where the village trader
+    says the bird seized the boy.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: court
+  literal_form: The court where the judge hears the dispute between the two traders.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Entrusted plow and false mouse explanation
+  summary: The village trader entrusts his plow to the town trader, who sells it and
+    later claims mice ate it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hidden son and false bird explanation
+  summary: The village trader hides the town trader’s son at a friend’s house and
+    later claims that a big bird carried him away from the river.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Court reasoning and restoration
+  summary: In court, the village trader compares the impossible bird claim with the
+    impossible mouse claim, and the judge orders the plow and son returned.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: reciprocal false claim exposes theft
+  taxonomy_refs: []
+  basis: The village trader answers the town trader’s false claim that mice ate the
+    plow with a parallel false claim that a bird carried off the son, forcing the
+    contradiction into view.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents a practical legal trick rather than a supernatural
+    event.
+- id: motif:2
+  label: wisdom through analogy in judgment
+  taxonomy_refs:
+  - wisdom
+  basis: 'The decisive argument is an analogy: if birds cannot carry off boys, then
+    mice cannot eat plows; the judge acts on this reasoning.'
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The text does not explicitly label the act as wisdom, but the reasoning
+    resolves the dispute.
+- id: motif:3
+  label: restoration of stolen property through adjudication
+  taxonomy_refs: []
+  basis: The judge orders the town trader to return the plow and the village trader
+    to return the son, restoring both losses by the end of the tale.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The son was hidden rather than permanently stolen; the plow was sold but
+    is ordered returned.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1174-1185
+  quote_or_summary: The two traders are friends; the village trader leaves his plow
+    with the town trader, who sells it, keeps the money, and says, “The mice have
+    eaten your plow.”
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 1187-1190
+  quote_or_summary: When the children go to the river to swim, the village trader
+    takes the town trader’s little son to a friend’s house and asks the friend to
+    keep him until he returns.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 1192-1207
+  quote_or_summary: The town trader asks where his son is; the village trader says
+    a big bird seized the boy at the river and flew away. The town trader rejects
+    this as impossible and goes to court.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 1209-1228
+  quote_or_summary: In court, the village trader asks, “If birds cannot carry off
+    boys, can mice eat plows?” and explains that if mice can eat plows, then birds
+    can carry off boys.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: summary
+  locator: 1230-1234
+  quote_or_summary: The judge tells the town trader to give back the plow and says
+    the village trader will give the son back; by night-time each has recovered what
+    was missing.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is straightforward and self-contained. Motif labels are inferred
+    from the tale’s plot and reasoning; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage and metadata. No external tale-type or motif-index identifiers were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l1172-l1239
+  passage_sha256=07910d13977fc87c87ff83da4ac96aab353e24ffc2d40dcb4099ab6e0a26d7db
+

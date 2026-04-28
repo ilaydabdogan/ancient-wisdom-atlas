@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l673-l720
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: THE CUNNING WOLF / THE PENNY-WISE MONKEY / THE RED-BUD TREE / THE WOODPECKER
+    AND THE LION; lines 673-720
+  start: '673'
+  end: '720'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A lion suffers when a bone sticks in his throat. A woodpecker agrees to
+    help but first wedges a stick between the lion’s jaws for safety, then removes
+    the bone. The lion gives no thanks. Later, when the woodpecker asks for a favor,
+    the lion refuses and claims that sparing the woodpecker while she was in his mouth
+    was already sufficient. The woodpecker thereafter avoids the lion.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A bone becomes stuck in the Lion’s throat while he is eating, causing pain
+    and preventing him from finishing his meal.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Lion walks up and down and roars with pain.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Woodpecker is on a branch of a nearby tree and asks the Lion what is wrong.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Woodpecker says she could remove the bone but fears putting her head in
+    the Lion’s mouth because he might eat her.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Lion tells the Woodpecker not to be afraid, promises not to eat her, and
+    asks her to save his life if she can.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Before entering the Lion’s mouth, the Woodpecker places a stick between the
+    Lion’s upper and lower jaws so that he cannot shut his mouth.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Woodpecker enters the Lion’s mouth and strikes the bone with her beak
+    until the bone falls out.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Woodpecker exits the Lion’s mouth and knocks out the stick, allowing the
+    Lion to shut his mouth.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After feeling better, the Lion says no words of thanks to the Woodpecker.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Later in the summer, the Woodpecker asks the Lion to do something for her.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The Lion refuses, saying that he already did much for the Woodpecker by letting
+    her go when she was in his mouth.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: After the Lion’s refusal, the Woodpecker says no more and stays away from
+    him.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: A lion with a bone stuck in his throat; he is helped by the Woodpecker
+    but later gives no thanks and refuses her request.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Woodpecker
+  description: A woodpecker who notices the Lion’s distress, cautiously removes the
+    bone from his throat, and later avoids him after his refusal.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:8
+roles:
+- id: role:1
+  label: Endangered sufferer
+  assigned_to:
+  - fig:1
+  basis: The Lion is in pain and asks the Woodpecker to save his life.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: Cautious helper
+  assigned_to:
+  - fig:2
+  basis: The Woodpecker agrees to help but first protects herself by wedging the Lion’s
+    jaws open.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: Ungrateful beneficiary
+  assigned_to:
+  - fig:1
+  basis: After the bone is removed, the Lion gives no thanks and later refuses the
+    Woodpecker’s request.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: Avoider of danger
+  assigned_to:
+  - fig:2
+  basis: After the Lion refuses help and claims past restraint as sufficient, the
+    Woodpecker keeps away from him.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Bone in throat
+  literal_form: Bone lodged in the Lion’s throat
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: Stick between jaws
+  literal_form: Stick placed between the Lion’s upper and lower jaws
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Tree branch
+  literal_form: Branch of a nearby tree where the Woodpecker lands
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Lion’s mouth
+  literal_form: The Lion’s mouth, into which the Woodpecker must enter to remove the
+    bone
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Lion in distress
+  summary: While eating, the Lion gets a bone stuck in his throat and roars in pain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cautious rescue
+  summary: The Woodpecker hears the Lion, obtains his promise not to eat her, wedges
+    his jaws open with a stick, enters his mouth, and removes the bone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Ingratitude and separation
+  summary: The Lion gives no thanks, later refuses the Woodpecker’s request for help,
+    and the Woodpecker thereafter avoids him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Cautious helper rescues a dangerous animal
+  taxonomy_refs:
+  - wisdom
+  basis: The Woodpecker helps the Lion but takes a practical precaution before entering
+    the predator’s mouth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage emphasizes prudence more
+    than an explicit abstract doctrine of wisdom.
+- id: motif:2
+  label: Ingratitude after rescue
+  taxonomy_refs: []
+  basis: The Lion benefits from the Woodpecker’s removal of the bone but offers no
+    thanks and later refuses to help her.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No available taxonomy reference precisely names this fable pattern.
+- id: motif:3
+  label: Avoidance of an untrustworthy beneficiary
+  taxonomy_refs:
+  - wisdom
+  basis: After the Lion reframes sparing the Woodpecker as a favor and refuses her
+    request, the Woodpecker keeps away from him.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage states the avoidance but does not explicitly state a moral
+    lesson in the supplied text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 673-677
+  quote_or_summary: The title is given, and the Lion gets a bone stuck in his throat
+    while eating, cannot finish dinner, and roars with pain.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 678-684
+  quote_or_summary: The Woodpecker lands on a nearby tree branch, asks what ails the
+    Lion, and says she fears entering his mouth because he might eat her.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 685-687
+  quote_or_summary: The Lion tells the Woodpecker not to be afraid, promises not to
+    eat her, and asks her to save his life if she can.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 688-695
+  quote_or_summary: The Woodpecker asks the Lion to open his mouth, decides to be
+    careful, and places a stick between the Lion’s upper and lower jaws so he cannot
+    shut his mouth.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 696-702
+  quote_or_summary: The Woodpecker enters the Lion’s mouth, strikes the bone with
+    her beak until it falls out, then exits and knocks out the stick so the Lion can
+    shut his mouth.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 703-705
+  quote_or_summary: The Lion feels much better but says no word of thanks to the Woodpecker.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 706-717
+  quote_or_summary: Later in the summer the Woodpecker asks the Lion to do something
+    for her; the Lion refuses and says that letting her go when she was in his mouth
+    is all she can expect.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 718-720
+  quote_or_summary: The Woodpecker says no more and keeps away from the Lion from
+    that day on.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif taxonomy
+    mapping is limited because available taxonomy references do not include a precise
+    fable category for ingratitude after rescue. No comparison claims are made because
+    the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. The larger passage label names several tales, but the supplied text for this record contains only “THE WOODPECKER AND THE LION.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l673-l720
+  passage_sha256=ed1039d64d967cadf8c002a2a3e8a268912fc0eae87603aa1db025d1c9e35c70
+

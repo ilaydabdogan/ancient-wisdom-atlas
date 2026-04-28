@@ -1,0 +1,467 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l1397-l1486
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: THE GOBLIN AND THE SNEEZE / THE GRATEFUL BEASTS AND THE UNGRATEFUL PRINCE
+    / THE GOBLIN IN THE POOL / THE FOOLISH FARMER AND THE KING; lines 1397-1486
+  start: '1397'
+  end: '1486'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A poor farmer loses one of his two oxen and needs another to plough. His
+    courtier son refuses to ask the king for him but trains him for a year to recite
+    a request. In the royal court the farmer accidentally asks the king to take his
+    remaining ox. The king laughs, the son answers cleverly, and the king sends several
+    fine oxen to the farmer’s house.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The farmer is described as foolish, poor, and dependent on a single pair of
+    oxen for ploughing.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One of the farmer’s two oxen dies, leaving him without enough animal power
+    to draw the plough over heavy land.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The farmer asks his son, who serves at court, to request an ox from the king.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The son refuses to ask the king himself and tells the farmer he must make
+    the request personally.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The son trains the farmer by arranging bundles of grass to represent the king,
+    prime minister, general, and other grandees.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The son gives the farmer a verse asking the king to give him another ox.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The farmer practices the verse for a whole year before going to the palace.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: In the king’s presence, the farmer mistakenly says, “please take the other
+    one,” instead of asking for another ox.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The king laughs, recognizes that a mistake has occurred, and jokes about the
+    farmer having plenty of oxen at home.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The son answers that if there are plenty of oxen at home, the king must have
+    given them.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The king decides to give oxen, and the farmer later finds six fine oxen in
+    his cowhouse.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Foolish Farmer
+  description: A poor farmer whose ox dies and who bungles his request before the
+    king.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+  - ev:11
+- id: fig:2
+  name_or_label: Farmer’s son
+  description: A courtier serving the king who trains his father and later gives a
+    clever answer in court.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:10
+- id: fig:3
+  name_or_label: King
+  description: The ruler seated on a throne with courtiers around him; he laughs at
+    the mistaken request and grants oxen.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:9
+  - ev:11
+  - ev:12
+- id: fig:4
+  name_or_label: Courtiers and grandees
+  description: The prime minister, general, and other grandees attending the king
+    in court.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:12
+roles:
+- id: role:1
+  label: poor supplicant
+  assigned_to:
+  - fig:1
+  basis: The farmer lacks money to buy another ox and needs help from the king.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: bungler of formal speech
+  assigned_to:
+  - fig:1
+  basis: He fears he will muddle the request and later recites it incorrectly in court.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:3
+  label: court intermediary
+  assigned_to:
+  - fig:2
+  basis: The son serves the king at court and accompanies his father to the palace.
+  evidence_refs:
+  - ev:3
+  - ev:12
+- id: role:4
+  label: clever respondent
+  assigned_to:
+  - fig:2
+  basis: His reply turns the king’s joke into a reason for royal generosity.
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: role:5
+  label: royal judge of request
+  assigned_to:
+  - fig:3
+  basis: The farmer is brought before the king, who asks what he wants and responds
+    to the request.
+  evidence_refs:
+  - ev:9
+  - ev:12
+- id: role:6
+  label: generous ruler
+  assigned_to:
+  - fig:3
+  basis: The king decides to give oxen after the son’s answer.
+  evidence_refs:
+  - ev:11
+- id: role:7
+  label: court audience
+  assigned_to:
+  - fig:4
+  basis: The courtiers and grandees are present around the king when the farmer appears.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: oxen
+  literal_form: A pair of plough oxen, one dead ox, the remaining ox, and six fine
+    replacement oxen.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+  - ev:11
+- id: sym:2
+  label: plough
+  literal_form: The agricultural implement the farmer cannot properly draw with only
+    one ox.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: bundles of grass as mock court
+  literal_form: Grass bundles arranged in rows to stand for the king, prime minister,
+    general, and other grandees during rehearsal.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: throne and court
+  literal_form: The king’s palace setting with the king on a throne in gorgeous robes
+    and courtiers around him.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+- id: sym:5
+  label: memorized verse
+  literal_form: A short petition in verse asking the king for another ox, later misrecited
+    by the farmer.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+scenes:
+- id: scene:1
+  label: Loss of the plough ox
+  summary: The poor farmer has only two oxen for ploughing; one dies, leaving him
+    unable to work the heavy land and unable to buy a replacement.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Request for help through the son
+  summary: The farmer calls his courtier son home and asks him to request an ox from
+    the king, but the son says the farmer must ask personally.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Mock-court rehearsal
+  summary: The son uses bundles of grass to represent the royal court and teaches
+    the farmer a verse for requesting another ox.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Bungled petition before the king
+  summary: At the palace, the farmer grows confused and accidentally asks the king
+    to take his remaining ox.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:12
+- id: scene:5
+  label: Clever reply and royal gift
+  summary: The king laughs and jokes; the son answers neatly, prompting the king to
+    give oxen, which the farmer finds at home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: bungled request gains reward
+  taxonomy_refs: []
+  basis: The farmer mistakenly asks the king to take his remaining ox, yet the episode
+    ends with the king giving him several oxen.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:11
+  confidence: high
+  cautions: This is a passage-level comic pattern; no external tale-type identification
+    is asserted.
+- id: motif:2
+  label: clever courtier turns joke into favor
+  taxonomy_refs:
+  - wisdom
+  basis: The son’s quick answer reframes the king’s joke and leads to the royal gift.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The available taxonomy reference ‘wisdom’ fits only broadly; the passage
+    emphasizes wit in a courtly exchange rather than an explicit wisdom contest.
+- id: motif:3
+  label: mock rehearsal for royal audience
+  taxonomy_refs: []
+  basis: The son stages a miniature court with grass bundles so the farmer can practice
+    addressing the king.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a local narrative device rather than a confirmed wider motif family.
+- id: motif:4
+  label: generous ruler rewards poor petitioner
+  taxonomy_refs: []
+  basis: The king responds to the poor farmer’s failed petition by giving him fine
+    oxen.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:11
+  confidence: medium
+  cautions: The passage presents the gift comically; it does not frame the king’s
+    act as divine judgment or sacred exchange.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1397-1403
+  quote_or_summary: A foolish poor farmer has only one pair of oxen for ploughing;
+    one of the two dies.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1405-1408
+  quote_or_summary: The farmer despairs because one ox cannot draw the plough over
+    heavy land and he has no money to buy another.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1410-1413
+  quote_or_summary: The son comes home, hears of the dead ox, and the farmer begs
+    him to ask the king for an ox.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1415-1424
+  quote_or_summary: The son says he is always asking the king for things and that
+    his father must ask; the farmer fears he will muddle the request and give away
+    the remaining ox.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1426-1433
+  quote_or_summary: The son arranges grass bundles in rows and names them as the king,
+    prime minister, general, and other grandees for practice.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 1433-1439
+  quote_or_summary: 'The practice verse asks: “Now one is dead: O, mighty king, please
+    give me another one!”'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: summary
+  locator: lines 1441-1448
+  quote_or_summary: The farmer repeats the verse while bowing to the grass bundle
+    called the king and practices every day for a whole year.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 1468-1472
+  quote_or_summary: 'In court the farmer recites the ending as: “O, mighty king, please
+    take the other one!”'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:9
+  type: summary
+  locator: lines 1474-1475
+  quote_or_summary: The king laughs, sees there must be a mistake, and jokes about
+    there being plenty of oxen at home.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: quote
+  locator: lines 1477-1478
+  quote_or_summary: The son replies, “If so, Sire… you must have given them.”
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:11
+  type: summary
+  locator: lines 1480-1486
+  quote_or_summary: The king says he will give oxen now; when the pair return home,
+    the farmer finds six fine oxen in his cowhouse.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 1454-1464
+  quote_or_summary: Father and son go to the palace; the king sits on a throne in
+    gorgeous robes with the prime minister, general, and other courtiers around him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative sequence, figures, and objects are explicit in the supplied
+    passage. Motif labels are descriptive and passage-level; no external tale-type
+    or historical comparison is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage text was used. Available taxonomy references were applied sparingly; most symbols and motifs are local descriptive categories rather than taxonomy matches.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l1397-l1486
+  passage_sha256=2a342bb428af117dcfbd8414a8119f2a73741af1d24d13ecca74c0c63044bfb7
+

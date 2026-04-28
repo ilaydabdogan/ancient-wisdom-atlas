@@ -1,0 +1,482 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l1426-l1521
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: THE PRINCES AND THE WATER-SPRITE / THE KING'S WHITE ELEPHANT / THE OX WHO
+    ENVIED THE PIG / GRANNY'S BLACKIE; lines 1426-1521
+  start: '1426'
+  end: '1521'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A baby elephant is given to an old woman called Granny and becomes fond
+    of her and the village children. Seeing that Granny is old and burdened with work,
+    Blackie seeks work, helps a man pull heavily loaded wagons across shallow river
+    water, insists on the promised payment, and brings the silver home to Granny.
+    Thereafter he does the hard work so Granny can rest.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A rich man gives a baby elephant to a woman, who cares for him and becomes
+    fond of him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Village children call the woman Granny and the elephant Granny's Blackie.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Blackie carries children on his back, plays with them, and swings them with
+    his trunk carefully.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Blackie initially does no work, spending time eating, sleeping, playing with
+    children, and visiting Granny.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Blackie notices that Granny is becoming old and feeble and decides to find
+    work to bring money home to her.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: At the river bank, a man has heavily loaded wagons that oxen cannot draw through
+    shallow water.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The man promises to pay two pieces of silver for each wagon Blackie draws
+    across the river.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Blackie draws the wagons across the river one after another.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: When offered only one piece of silver per wagon, Blackie refuses the money
+    and blocks the wagons from passing.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The man adds the missing silver and puts the payment in a bag tied around
+    Blackie's neck.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Blackie returns home with the money for Granny and tells her he earned it
+    for her.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: Afterward Blackie does the hard work, Granny rests, and both are happy.
+  category: sequence
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Granny
+  description: An old woman who receives and cares for the baby elephant; later she
+    is described as growing old and feeble.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:12
+- id: fig:2
+  name_or_label: Granny's Blackie
+  description: An elephant raised by Granny, playful with children, young and strong,
+    who earns silver by pulling wagons and brings it home to Granny.
+  role_refs:
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+  - ev:11
+- id: fig:3
+  name_or_label: Village children
+  description: Children who name the elephant Granny's Blackie, play with him, and
+    look for him when he is gone.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:11
+- id: fig:4
+  name_or_label: Wagon owner
+  description: A man at the river bank whose oxen cannot pull heavily loaded wagons
+    through shallow water; he hires Blackie and finally pays the promised amount.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:10
+- id: fig:5
+  name_or_label: Oxen
+  description: Draft animals unable to draw the heavily loaded wagons through the
+    shallow water.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: caregiver
+  assigned_to:
+  - fig:1
+  basis: Granny takes care of the baby elephant and becomes fond of him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: helpful animal companion
+  assigned_to:
+  - fig:2
+  basis: Blackie plays carefully with children and later works to help Granny.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:12
+- id: role:3
+  label: provider for elder
+  assigned_to:
+  - fig:2
+  basis: Blackie decides to find work so Granny will not have to work so hard and
+    brings her earned money.
+  evidence_refs:
+  - ev:5
+  - ev:11
+- id: role:4
+  label: elder dependent on aid
+  assigned_to:
+  - fig:1
+  basis: Blackie sees Granny is old and feeble, and after his work she rests.
+  evidence_refs:
+  - ev:5
+  - ev:12
+- id: role:5
+  label: fair-payment enforcer
+  assigned_to:
+  - fig:2
+  basis: Blackie refuses the underpayment and blocks the wagons until the promised
+    payment is completed.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:6
+  label: playmates and witnesses
+  assigned_to:
+  - fig:3
+  basis: The children play with Blackie, identify him as Granny's Blackie, and meet
+    him on his return.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:11
+- id: role:7
+  label: hirer of labor
+  assigned_to:
+  - fig:4
+  basis: The man asks to hire Blackie to help pull wagons and promises payment.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: insufficient draft animals
+  assigned_to:
+  - fig:5
+  basis: The oxen cannot draw the heavily loaded wagons through the shallow water.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: elephant
+  literal_form: Granny's Blackie, a baby elephant who becomes young and strong
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: river crossing
+  literal_form: shallow river water crossed by loaded wagons
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:3
+  label: silver payment
+  literal_form: pieces of silver paid per wagon and placed in a bag around Blackie's
+    neck
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:10
+  - ev:11
+- id: sym:4
+  label: loaded wagons
+  literal_form: a long line of heavily loaded wagons
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+scenes:
+- id: scene:1
+  label: Blackie raised among Granny and children
+  summary: A rich man gives a baby elephant to a woman; she cares for him, children
+    name him Granny's Blackie, and he plays with the children.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Blackie decides to work for Granny
+  summary: After noticing Granny's age and weakness, Blackie decides to seek work
+    so he can bring her money and reduce her labor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Wagons drawn through the river
+  summary: At the river bank, Blackie is hired to pull heavily loaded wagons through
+    shallow water after oxen cannot move them.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Promised payment enforced
+  summary: Blackie rejects underpayment, blocks the wagons, and receives the full
+    promised silver in a bag around his neck.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: scene:5
+  label: Silver brought home to Granny
+  summary: Blackie returns home and gives Granny the money he earned; thereafter he
+    does the hard work while she rests.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: grateful or devoted animal supports human caregiver
+  taxonomy_refs: []
+  basis: Blackie, raised by Granny, notices her weakness, seeks paid work, and brings
+    the earnings home so she can rest.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: The passage presents an exemplary animal-helper tale; no external folktale
+    type is assigned from the supplied taxonomy.
+- id: motif:2
+  label: animal performs labor beyond ordinary draft animals
+  taxonomy_refs: []
+  basis: The oxen cannot move the loaded wagons through the shallow water, but Blackie
+    pulls them across one after another.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The motif is described at the passage level without assigning a broader
+    taxonomy family.
+- id: motif:3
+  label: enforcement of promised reward
+  taxonomy_refs:
+  - sacred_exchange
+  basis: A promised payment of two silver pieces per wagon is only partly paid; Blackie
+    refuses the underpayment and blocks the wagons until the full payment is given.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The available taxonomy term sacred_exchange is only a broad fit because
+    the exchange here is practical labor-for-wages, not explicitly sacred.
+- id: motif:4
+  label: river crossing aided by powerful helper
+  taxonomy_refs: []
+  basis: Blackie helps move a line of loaded wagons across shallow river water when
+    the oxen cannot do so.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The crossing is literal and practical; the passage does not mark it as
+    an initiatory or supernatural crossing.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1426-1432
+  quote_or_summary: A rich man gives a baby elephant to a woman; she cares for him
+    and grows fond of him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1434-1436
+  quote_or_summary: Village children call the woman Granny and call the elephant Granny's
+    Blackie.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1438-1446
+  quote_or_summary: Blackie carries children, shares play with them, and carefully
+    swings them with his trunk.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1448-1452
+  quote_or_summary: Blackie does no work, but eats, sleeps, plays with children, and
+    visits Granny.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1454-1464
+  quote_or_summary: Blackie wants Granny to go to the woods, sees she is old and feeble,
+    and decides to find work to bring money home so she need not work so hard.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1466-1472
+  quote_or_summary: At the river bank, a man is troubled because heavily loaded wagons
+    cannot be drawn by oxen through the shallow water.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 1474-1482
+  quote_or_summary: The man asks to hire the elephant and promises two pieces of silver
+    for each wagon the elephant draws across the river.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 1484-1486
+  quote_or_summary: Blackie goes into the river and draws the wagons across one after
+    another.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 1488-1496
+  quote_or_summary: When the man counts only one piece of silver per wagon, Blackie
+    will not touch the money and blocks the wagons from passing.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:10
+  type: summary
+  locator: lines 1498-1502
+  quote_or_summary: The man adds another piece of silver for each wagon and puts the
+    silver in a bag tied around Blackie's neck.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:11
+  type: summary
+  locator: lines 1504-1516
+  quote_or_summary: Blackie returns home with the bag, goes straight to Granny, and
+    tells her he earned money for her.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:12
+  type: summary
+  locator: lines 1518-1521
+  quote_or_summary: Granny praises Blackie; afterward Blackie does the hard work,
+    Granny rests, and both are happy.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is straightforward and internally coherent. Motif candidates
+    are descriptive and passage-level; broader taxonomy mapping is limited because
+    few supplied taxonomy families directly fit this practical moral animal tale.
+    No comparison claims are made because the passage itself does not explicitly compare
+    to other traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No external Jataka identification or tale-type classification was added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l1426-l1521
+  passage_sha256=3495c900976c32f0d008152eab095b35345f55e1cd5aacfece01dd8e1f7cbde1
+

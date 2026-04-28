@@ -1,0 +1,499 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l360-l453
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: THE GIRL MONKEY AND THE STRING OF PEARLS / THE THREE FISHES / THE TRICKY
+    WOLF AND THE RATS / THE WOODPECKER, TURTLE, AND DEER; lines 360-453
+  start: '360'
+  end: '453'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A Deer, Woodpecker, and Turtle live as friends near a forest lake. A hunter
+    traps the Deer, but the Turtle gnaws the trap while the Woodpecker delays the
+    hunter. After the Deer escapes, the weakened Turtle is captured in a bag. The
+    Deer lures the hunter away, returns, frees the Turtle, and the three friends escape
+    and live together afterward.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Deer lives in a forest near a lake; a Woodpecker nests in a tree nearby;
+    a Turtle lives in the lake; the three are friends.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A hunter sees the Deer's footprints near the lake and sets a strong leather
+    trap for the Deer.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Deer is caught in the trap while going down to drink and cries out.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Woodpecker tells the Turtle to gnaw through the leather trap while she
+    keeps the hunter away.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Woodpecker repeatedly flies at the hunter's face and delays him at both
+    doors of his house.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Turtle gnaws almost through the trap despite the hard leather hurting
+    his teeth and making his mouth bloody.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Deer breaks the final piece of the trap and runs into the woods.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The weakened Turtle cannot escape; the hunter puts him in a bag and ties it
+    to a tree.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The Deer deliberately lets the hunter see him and leads him far into the forest
+    while staying out of reach.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The Deer returns by another way, finds the Turtle in the hanging bag, knocks
+    it down with his horns, tears it open, and releases him.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The Deer instructs the Woodpecker to fly away, the Turtle to dive into the
+    water, and himself to hide in the forest.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: The hunter returns but finds none of the three animals, only his torn bag.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Deer
+  description: A deer living in the forest near the lake; first trapped by the hunter
+    and later rescues the Turtle.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Woodpecker
+  description: A bird with a nest in the top of a tree; she delays the hunter and
+    warns her friends.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Turtle
+  description: A turtle living in the lake; he gnaws the leather trap and is later
+    captured and freed.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:4
+  name_or_label: Hunter
+  description: A hunter who sets the trap for the Deer and later captures the Turtle
+    in a bag.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:11
+roles:
+- id: role:1
+  label: endangered friend
+  assigned_to:
+  - fig:1
+  basis: The Deer is caught in the hunter's trap and risks losing his life.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: rescuing friend
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The Woodpecker delays the hunter while the Turtle gnaws through the trap
+    to free the Deer.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: captured helper
+  assigned_to:
+  - fig:3
+  basis: After helping the Deer, the Turtle is too weak to get away and is taken by
+    the hunter.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: reciprocal rescuer
+  assigned_to:
+  - fig:1
+  basis: After escaping, the Deer lures the hunter away and frees the Turtle from
+    the bag.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:5
+  label: hunter antagonist
+  assigned_to:
+  - fig:4
+  basis: The hunter sets the trap, approaches with a knife, and captures the Turtle.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: lake water
+  literal_form: lake and water
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:10
+- id: sym:2
+  label: tree
+  literal_form: tree holding the Woodpecker's nest and the tree to which the Turtle's
+    bag is tied
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:3
+  label: leather trap
+  literal_form: strong trap of leather
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: knife
+  literal_form: hunter's knife
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:5
+  label: bag
+  literal_form: bag tied to a tree and later torn open
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:11
+- id: sym:6
+  label: deer horns
+  literal_form: horns used to lift and throw down the bag
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Forest-lake friendship
+  summary: The Deer, Woodpecker, and Turtle live near the same lake and are friends.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hunter sets the trap
+  summary: The hunter follows signs of the Deer and sets a strong leather trap near
+    the lake.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: First rescue of the Deer
+  summary: After the Deer is caught, the Turtle gnaws the trap while the Woodpecker
+    delays the hunter; the Deer finally breaks free.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Turtle captured
+  summary: The Turtle is weakened from gnawing the trap and is captured by the hunter
+    in a bag tied to a tree.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Second rescue of the Turtle
+  summary: The Deer lures the hunter deep into the forest, returns by another route,
+    and frees the Turtle from the bag.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Final escape
+  summary: The Deer directs each friend to escape by their own habitat; the hunter
+    returns and finds only the torn bag.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: animal friends rescue one another
+  taxonomy_refs: []
+  basis: The Woodpecker and Turtle save the trapped Deer, and the Deer later saves
+    the captured Turtle.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is a plain narrative motif label, not a supplied taxonomy identifier.
+- id: motif:2
+  label: cooperative rescue through complementary abilities
+  taxonomy_refs:
+  - wisdom
+  basis: The Woodpecker uses flight and harassment to delay the hunter, the Turtle
+    uses teeth to gnaw the trap, and the Deer uses speed and horns to rescue the Turtle.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The association with the broad taxonomy family 'wisdom' is based on practical
+    planning and skillful action; the passage does not explicitly name wisdom.
+- id: motif:3
+  label: hunter outwitted by prey animals
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Woodpecker blocks the hunter's exits, and the Deer shows himself to lure
+    the hunter away before returning to free the Turtle.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage presents strategic deception but does not explicitly identify
+    any figure as a trickster.
+- id: motif:4
+  label: reciprocal loyalty among friends
+  taxonomy_refs: []
+  basis: The Deer decides to save the Turtle because the Turtle and Woodpecker had
+    saved him, and the three continue living together afterward.
+  evidence_refs:
+  - ev:8
+  - ev:10
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: This is an inferred motif from the action sequence rather than a named
+    category in the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 360-365
+  quote_or_summary: A Deer lives in a forest near a lake; a Woodpecker nests in a
+    tree nearby; a Turtle lives in the lake; the three are friends.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 366-370
+  quote_or_summary: A hunter sees the Deer's footprints near the lake and sets a strong
+    leather trap for him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 371-373
+  quote_or_summary: At night the Deer goes to drink, is caught in the trap, and cries
+    out.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 374-381
+  quote_or_summary: The Woodpecker and Turtle come to help; the Woodpecker tells the
+    Turtle to gnaw the leather trap while she keeps the hunter away.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 382-401
+  quote_or_summary: The hunter comes out with a knife; the Woodpecker flies at his
+    face at the front door and then again at the back door, making him turn back twice.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 402-412
+  quote_or_summary: The Woodpecker warns that the hunter is coming; the Turtle has
+    gnawed all but one piece of the trap, injuring his mouth, and the Deer breaks
+    the last piece and runs into the woods.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 413-417
+  quote_or_summary: The Woodpecker returns to her nest, but the Turtle is too weak
+    to escape; the hunter picks him up, throws him into a bag, and ties it to a tree.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 418-424
+  quote_or_summary: The Deer sees the Turtle has been taken, decides to save him,
+    lets the hunter see him, and leads the hunter into the forest while staying just
+    out of reach.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 425-433
+  quote_or_summary: The Deer slips away, returns by another route, hears the Turtle
+    call from a bag hanging on a tree, lifts the bag with his horns, throws it down,
+    tears it open, and frees him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 434-440
+  quote_or_summary: The Deer tells the Woodpecker to fly away, the Turtle to dive
+    into the water, and himself to hide in the forest before the hunter finds them.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 441-445
+  quote_or_summary: The hunter comes back but cannot find the Deer, Turtle, or Woodpecker;
+    he finds only the torn bag and returns home.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 446-453
+  quote_or_summary: The three friends live together for the rest of their lives; the
+    tale section closes.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main action sequence, figures, and objects are explicit in the supplied
+    passage. Motif labels are candidate analytical summaries and require review, especially
+    taxonomy-family assignments.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage was used. No comparison claims were added because the passage itself does not support a specific comparison to another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l360-l453
+  passage_sha256=fbb57222bfe2caf99aa65605ee4d39bea6ae74a91941ae0b6a712fa3b737bb57
+

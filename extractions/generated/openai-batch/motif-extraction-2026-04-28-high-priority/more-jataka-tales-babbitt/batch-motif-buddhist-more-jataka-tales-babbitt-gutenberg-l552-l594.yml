@@ -1,0 +1,398 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l552-l594
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: THE WOODPECKER, TURTLE, AND DEER / THE GOLDEN GOOSE / THE STUPID MONKEYS
+    / THE CUNNING WOLF; lines 552-594
+  start: '552'
+  end: '594'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A holiday party in the woods runs out of meat. One man goes to a lake with
+    a club and pretends to be dead so he can kill an animal for supper. The King of
+    the Wolves suspects the trick, tests the man by pulling at the club, and proves
+    he is not dead when the man pulls back. The man throws the club and misses; the
+    animals escape. He returns and admits that the wolf's trick was better than his
+    own.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: People from a town go into the woods for a holiday with baskets of food, but
+    by noon they have eaten all the meat and have none left for supper.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One man says he will get fresh meat and that they will make a fire and roast
+    it.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man takes a club to the lake where animals come to drink and lies down
+    pretending to be dead.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The animals see the man lying by the lake and watch him for some time.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The King of the Wolves suspects the man is playing a trick and says he will
+    test whether the man is truly dead.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The King of the Wolves creeps up and pulls at the man's club; the man immediately
+    pulls back on it.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The King of the Wolves says the man would not have pulled back if he had been
+    dead and identifies the man's purpose as killing one of the animals for supper.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The man throws his club at the King of the Wolves, misses, and finds that
+    all the other animals have run away.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The man returns to his friends and says he tried to get meat by tricking the
+    animals, but the cunning Wolf played a better trick on him.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: the man
+  description: A member of the holiday party who tries to obtain fresh meat by pretending
+    to be dead while holding a club.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:9
+- id: fig:2
+  name_or_label: King of the Wolves
+  description: A wolf leader described as cunning who suspects the man's trick, tests
+    him by pulling at the club, and escapes.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: the animals
+  description: Animals that come to the lake to drink, watch the man, and eventually
+    run away.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: fig:4
+  name_or_label: holiday party / friends
+  description: People from a town who go into the woods for a holiday and later hear
+    the man's account.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:9
+roles:
+- id: role:1
+  label: deceiver by feigned death
+  assigned_to:
+  - fig:1
+  basis: The man lies by the lake pretending to be dead in order to kill an animal
+    for supper.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:2
+  label: tester of deception
+  assigned_to:
+  - fig:2
+  basis: The King of the Wolves suspects the man's trick and tests him by pulling
+    at his club.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: counter-trickster / wiser opponent
+  assigned_to:
+  - fig:2
+  basis: The man later states that the wolf played a better trick on him.
+  evidence_refs:
+  - ev:9
+- id: role:4
+  label: failed hunter
+  assigned_to:
+  - fig:1
+  basis: The man throws his club, misses, and gets none of the animals.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:5
+  label: intended prey
+  assigned_to:
+  - fig:3
+  basis: The man's stated purpose is to kill one of the animals for supper.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: listeners to the failed hunter's report
+  assigned_to:
+  - fig:4
+  basis: The man goes back to his friends and tells them what happened.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: lake / drinking place
+  literal_form: lake where animals came to drink
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: club
+  literal_form: club held by the man and pulled by the wolf
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: sym:3
+  label: feigned corpse
+  literal_form: the man lying down and pretending to be dead
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:4
+  label: fire for roasting
+  literal_form: fire proposed for roasting fresh meat
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Holiday meal runs out of meat
+  summary: A town party in the woods eats all the meat it brought, leaving none for
+    supper.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Man sets ambush at the lake
+  summary: The man takes a club to the animals' drinking place and pretends to be
+    dead.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Wolf tests the supposed corpse
+  summary: The King of the Wolves suspects deception, pulls at the club, and sees
+    the man pull back.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Failed attack and admission
+  summary: The man throws the club and misses; the animals escape, and he admits the
+    wolf outwitted him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: feigned death used as a hunting trick
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The man lies by the lake pretending to be dead so that he may kill one of
+    the animals for supper.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy does not include a precise hunting-by-feigned-death
+    category; the trickster_boundary reference is a broad fit.
+- id: motif:2
+  label: deception exposed by a cautious animal
+  taxonomy_refs:
+  - wisdom
+  basis: The King of the Wolves suspects a trick, tests the supposed corpse by pulling
+    the club, and correctly explains the deception.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage frames the wolf's success as cunning rather than explicitly
+    as moral wisdom.
+- id: motif:3
+  label: counter-trick defeats the original trick
+  taxonomy_refs:
+  - trickster_boundary
+  - wisdom
+  basis: The man admits that he tried to trick the animals but that the cunning Wolf
+    played a better trick on him.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: This is a passage-level pattern; broader comparative placement would require
+    other texts.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared to a trickster-contest pattern in
+    which one attempted deception is defeated by a sharper counter-deception.
+  claim_level: same_function
+  target: trickster or counter-trickster contest pattern
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself only contrasts the man's trick with the wolf's better
+    trick; it does not name a broader tradition or establish historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 552-560
+  quote_or_summary: People from a town go to the woods for a holiday with baskets
+    of food; by noon they have eaten all the meat and have none for supper.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: quote
+  locator: lines 561-562
+  quote_or_summary: '"I will get some fresh meat. We will make a fire here and roast
+    it," said one of the men.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source.
+- id: ev:3
+  type: summary
+  locator: lines 564-566
+  quote_or_summary: The man takes a club to the lake where animals come to drink and
+    lies down with the club in hand, pretending to be dead.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 568-570
+  quote_or_summary: The animals come to the lake, see the man lying there, and watch
+    him for some time.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: quote
+  locator: lines 572-575
+  quote_or_summary: '"That man is playing a trick on us, I believe," said the King
+    of the Wolves; he tells the others to stay while he tests whether the man is dead
+    or pretending.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source.
+- id: ev:6
+  type: summary
+  locator: lines 577-581
+  quote_or_summary: The King of the Wolves creeps up and pulls at the man's club;
+    the man immediately pulls back on the club.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary only.
+- id: ev:7
+  type: quote
+  locator: lines 583-586
+  quote_or_summary: The wolf says the man would not have pulled back if dead and says,
+    "You pretend you are dead so that you may kill one of us for your supper."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source.
+- id: ev:8
+  type: summary
+  locator: lines 588-591
+  quote_or_summary: The man jumps up and throws his club at the King of the Wolves,
+    misses, and sees that all the other animals have run away.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summary only.
+- id: ev:9
+  type: quote
+  locator: lines 592-594
+  quote_or_summary: The man tells his friends that he tried to get meat by tricking
+    the animals, "but the cunning Wolf played a better trick on me."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and explicit about the trick and counter-trick. Taxonomy
+    alignment is broad because the available motif families do not include a precise
+    animal-fable or feigned-death hunting category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No historical-contact or inheritance claim is made.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l552-l594
+  passage_sha256=99f659c33af9a8d199d84cb9c6f71f9a627a57eb9c02a118c766e9c05e15780a
+

@@ -1,0 +1,392 @@
+---
+record_id: batch.motif.buddhist-more-jataka-tales-babbitt-gutenberg-l1308-l1379
+source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+passage_locator:
+  label: THE STOLEN PLOW / THE LION IN BAD COMPANY / XVIII / THE WISE GOAT AND THE
+    WOLF; lines 1308-1379
+  start: '1308'
+  end: '1379'
+  translation: More Jataka Tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A wise wild goat survives after wolves eat the other goats. The wolves
+    attempt to lure her from her cave with a false mourning trick and a feigned corpse.
+    The goat suspects danger, sees the male wolf lift his head, and escapes. When
+    the wolves try again, the goat says she will visit with several dogs, frightening
+    the wolves away permanently.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Many wild goats live in a cave in the side of a hill near a wolf and his mate.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wolves catch and eat the goats one by one, leaving only the wisest goat
+    uncaught.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The male wolf proposes pretending to be dead while his mate asks the goat
+    to help bury him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The goat initially refuses because her family and friends have been eaten
+    by the wolf's mate and she feels safer in her cave.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After persuasion, the goat agrees to go but asks the wolf's mate to walk in
+    front of her.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The feigning wolf raises his head; the goat sees this and runs back to her
+    cave.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The wolves later make a second attempt by claiming the male wolf is better
+    and inviting the goat to visit as a friend.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The goat answers that she will come with named dogs and their mates.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The wolf flees after hearing about the dogs, and the goat never sees either
+    wolf again.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: wise goat
+  description: The last surviving wild goat, described as wiser than the others and
+    able to avoid capture by the wolves.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: male wolf
+  description: A wolf who eats goats, proposes the false-death trick, pretends to
+    be dead, and later is said by his mate to have recovered.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: female wolf / wolf's mate
+  description: The male wolf's mate, who goes to the goat with the deceptive message
+    and later tries a second invitation.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: other wild goats
+  description: The goats living near the wolves who are caught and eaten before the
+    wise goat remains.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: Old Gray, Young Tan, Four-Eyes, and their mates
+  description: Dogs named by the goat as friends she will bring; they are invoked
+    in speech but do not appear directly in the action.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: surviving prey
+  assigned_to:
+  - fig:1
+  basis: The goat remains after the wolves have eaten the other goats and cannot be
+    caught by them.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wise counter-deceiver
+  assigned_to:
+  - fig:1
+  basis: The goat suspects the wolves' tricks, escapes the false corpse trap, and
+    frightens the wolves by naming dogs she will bring.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:3
+  label: predatory deceivers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The wolves eat goats and attempt to lure the wise goat with deceptive speech
+    and a feigned death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:4
+  label: messenger of the trap
+  assigned_to:
+  - fig:3
+  basis: The female wolf carries the male wolf's prepared message to the goat and
+    later returns with another invitation.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: devoured kin and community
+  assigned_to:
+  - fig:4
+  basis: The goat says her family and friends have been eaten by the wolf's mate.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: invoked protectors
+  assigned_to:
+  - fig:5
+  basis: The goat names dogs and their mates as companions she will bring, causing
+    the wolf to flee.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: cave refuge
+  literal_form: cave in the side of a hill
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: feigned corpse trap
+  literal_form: wolf pretending to be dead
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: named dogs as threat
+  literal_form: Old Gray, Young Tan, Four-Eyes, and their mates
+  associated_figures:
+  - fig:5
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Goats near the wolves
+  summary: Wild goats live in a hillside cave near two wolves, who eat all but the
+    wisest goat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: False mourning plan
+  summary: The male wolf tells his mate to lure the goat by claiming he is dead and
+    asking for help burying him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Goat detects the trick
+  summary: The goat agrees to go only cautiously, asks the wolf's mate to walk ahead,
+    sees the supposed corpse raise his head, and runs back to the cave.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Second trick and counter-trick
+  summary: The wolves try another friendly invitation, but the goat says she will
+    bring several dogs; the wolf flees and the wolves do not return.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Wisdom preserves the vulnerable from predators
+  taxonomy_refs:
+  - wisdom
+  basis: The goat survives by caution, inference, and a verbal countermeasure against
+    stronger predators.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage is a moral animal tale; no explicit moral statement is included
+    in the provided excerpt.
+- id: motif:2
+  label: Predator's deceptive lure and counter-trick
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The wolves use false mourning and false friendship to lure the goat, while
+    the goat answers with her own deceptive claim about bringing dogs.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The available taxonomy label is broad; the passage supports trickery but
+    does not explicitly frame a boundary-crossing trickster figure.
+- id: motif:3
+  label: Safe refuge against dangerous invitation
+  taxonomy_refs: []
+  basis: The goat identifies the cave as safer than accompanying the wolf and returns
+    there after detecting the trap.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is a passage-level pattern rather than a named taxonomy motif in
+    the supplied list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1312-1317
+  quote_or_summary: Many wild goats live in a cave in a hill; a wolf and his mate
+    live nearby, eat goats, and fail to catch the one goat wiser than the others.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1318-1326
+  quote_or_summary: The male wolf tells his mate to say he is dead and ask the goat
+    to help bury him, intending to spring up and bite the goat.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1331-1336
+  quote_or_summary: '"all my family and friends have been eaten by your mate"; the
+    goat says she is safer where she is.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 1338-1344
+  quote_or_summary: After further words from the wolf's mate, the goat agrees to go
+    but reflects that she does not know whether the wolf is dead and asks the mate
+    to go in front.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1345-1350
+  quote_or_summary: The male wolf raises his head; the goat sees him and runs back
+    to her cave; the mate asks why he raised his head while pretending to be dead.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1352-1358
+  quote_or_summary: 'Hungry again, the wolves make another attempt: the female wolf
+    says the goat''s coming helped her mate recover and invites the goat to come talk
+    and be friends.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1360-1371
+  quote_or_summary: 'The goat recognizes another trick and says she will come with
+    friends: two hounds, Old Gray and Young Tan, the large dog Four-Eyes, and each
+    dog''s mate.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1373-1375
+  quote_or_summary: The wolf runs back to her mate after hearing this, and the goat
+    never sees either wolf again.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif taxonomy assignments
+    are limited to the available references and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparative link beyond the local animal-tale pattern.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-more-jataka-tales-babbitt-gutenberg__l1308-l1379
+  passage_sha256=5b46a0db5312a7c1d95f9eaf5380ad8677884362bd9de22a59440af943a410cd
+

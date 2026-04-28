@@ -1,0 +1,462 @@
+---
+record_id: batch.motif.buddhist-old-india-tales-rouse-gutenberg-l2268-l2355
+source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+passage_locator:
+  label: PRIDE MUST HAVE A FALL / THE BOLD BEGGAR / THE JACKAL WOULD A-WOOING GO /
+    THE LION AND THE BOAR; lines 2268-2355
+  start: '2268'
+  end: '2355'
+  translation: The Giant Crab, and Other Tales from Old India
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A lion at a mountain lake sees a boar and thinks of eating him later. The
+    boar mistakes the lion's withdrawal for fear and challenges him. The lion postpones
+    the fight. The boar boasts at home, but his community fears disaster. An old wise
+    boar advises him to cover himself in mud because lions dislike dirt. At the appointed
+    meeting, the lion is disgusted by the boar's smell and refuses to touch him, leaving
+    the boar alive. The boar falsely claims to have beaten the lion, and the boar
+    colony decides to leave the place.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The lion lives in the mountains and drinks from a beautiful lake.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lion sees a boar on the opposite bank after having eaten and thinks the
+    boar would make a meal another day.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The boar sees the lion leaving and concludes that the lion is afraid of him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The boar challenges the lion to fight, puffing his chest and rubbing his tusks
+    against a tree.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The lion asks to be let off for the day and proposes to meet in a week.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: At home, the boar acts aggressively and claims he has killed a lion, then
+    admits the lion is only coming to be killed in a week.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The other boars fear the lion will kill the challenger and then kill them
+    all.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: An old wise boar advises the challenger to roll in mud because lions are clean
+    beasts and dislike dirt.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The boar rolls in dirty places until he is covered like a big cake of dirt.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: At the lake, the lion smells the boar, reacts with disgust, and says the boar
+    has saved his life because the lion will not touch him.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The boar runs home and tells his friends that he has beaten the lion and that
+    the lion ran away.
+  category: speech
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The boar colony does not believe the boast and leaves the place because the
+    lion remains dangerous.
+  category: action
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: A lion who lives in the mountains, drinks from the lake, and considers
+    eating the boar later.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:10
+- id: fig:2
+  name_or_label: Boar
+  description: A boar who mistakes the lion's withdrawal for fear, challenges him,
+    later covers himself in mud, and claims victory.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+  - ev:11
+- id: fig:3
+  name_or_label: Other boars / boar colony
+  description: The boar's friends and colony, who fear the consequences of the challenge
+    and later leave the place.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:12
+- id: fig:4
+  name_or_label: Old wise boar
+  description: An old and wise boar who gives the muddy disguise advice.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: Boar's wife
+  description: The boar snarls at his wife when he returns home excited and aggressive.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: potential predator
+  assigned_to:
+  - fig:1
+  basis: The lion thinks of eating the boar later and later says he would not touch
+    the dirty boar.
+  evidence_refs:
+  - ev:2
+  - ev:10
+- id: role:2
+  label: strong opponent
+  assigned_to:
+  - fig:1
+  basis: The narrator states that the lion could break a boar's back with a tap of
+    his paw, and the boars fear he will kill them.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: rash challenger
+  assigned_to:
+  - fig:2
+  basis: The boar interprets the lion's departure as fear and challenges him to fight.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: false boaster
+  assigned_to:
+  - fig:2
+  basis: The boar later claims he has beaten the lion and that the lion ran away,
+    though the narration says this was not a fair fight and nobody believed him.
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: role:5
+  label: fearful community
+  assigned_to:
+  - fig:3
+  basis: The boar community weeps, warns that the lion will kill them, and later leaves
+    the place.
+  evidence_refs:
+  - ev:7
+  - ev:12
+- id: role:6
+  label: wise adviser
+  assigned_to:
+  - fig:4
+  basis: The old wise boar advises rolling in mud to exploit the lion's dislike of
+    dirt.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: mountains
+  literal_form: mountains where the lion lives
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: lake water
+  literal_form: beautiful lake where the lion drinks and where the meeting occurs
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: sym:3
+  label: tree
+  literal_form: tree against which the boar rubs his tusks before challenging the
+    lion
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: mud and dirt
+  literal_form: mud and dirty places in which the boar rolls until covered with dirt
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Lion sees the boar at the lake
+  summary: The lion drinks at a mountain lake, sees a boar across the bank, and thinks
+    of eating him later.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Boar challenges the lion
+  summary: The boar interprets the lion's quiet departure as fear and challenges him,
+    while the lion postpones the fight for one week.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Boars fear the boast
+  summary: The boar returns home acting aggressively and boasts about killing a lion;
+    the other boars fear the lion will destroy them.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Old boar gives mud counsel
+  summary: After the challenger loses confidence, an old wise boar advises him to
+    roll in mud because lions dislike dirt.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Lion refuses the dirty boar
+  summary: At the appointed meeting, the lion smells the muddy boar, refuses to touch
+    him, and leaves in disgust.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:10
+- id: scene:6
+  label: False victory and departure of the colony
+  summary: The boar claims he defeated the lion, but the colony does not believe him
+    and leaves because the lion is still a lion.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: prideful weak animal challenges stronger animal
+  taxonomy_refs: []
+  basis: The boar mistakes the lion's departure for fear, challenges him, boasts,
+    and later loses confidence when other boars explain the danger.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a local narrative pattern label, not an assigned external taxonomy
+    ID.
+- id: motif:2
+  label: wise counsel saves the endangered fool
+  taxonomy_refs:
+  - wisdom
+  basis: An old wise boar proposes a practical strategy that prevents the lion from
+    eating the challenger.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage frames the advice as practical animal knowledge rather than
+    supernatural wisdom.
+- id: motif:3
+  label: protective disguise through filth
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The boar covers himself in mud so thoroughly that the lion refuses contact
+    and departs.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The available taxonomy reference is broad; the boar uses a trick, but
+    he is not explicitly named as a trickster.
+- id: motif:4
+  label: false claim of victory after escape
+  taxonomy_refs: []
+  basis: After surviving because the lion refuses to touch him, the boar tells his
+    friends that he beat the lion and made him run away.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: This label describes a narrative action in the passage rather than a formal
+    taxonomy category.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2268-2271
+  quote_or_summary: The lion lives in the mountains and drinks from a beautiful lake.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 2271-2277
+  quote_or_summary: After eating, the lion sees a boar on the opposite bank and thinks
+    the boar would make a meal another day.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 2277-2282
+  quote_or_summary: The boar sees the lion leave and decides that the lion must be
+    afraid of him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: quote
+  locator: lines 2282-2288
+  quote_or_summary: The boar puffs himself up, rubs his tusks against a tree, and
+    calls, "Let us have a fight to-day!"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 2290-2298
+  quote_or_summary: The lion is astonished but humbly asks to be excused that day
+    and offers to meet the boar in a week.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 2300-2311
+  quote_or_summary: At home the boar is bristling, aggressive, and boastful; he says
+    he has killed a lion, then admits the lion is coming in a week.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 2312-2318
+  quote_or_summary: The other boars cry that the lion will kill the challenger and
+    then all of them.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 2320-2325
+  quote_or_summary: The boar loses his conceit, and an old wise boar advises him to
+    roll in mud because lions are clean beasts and dislike dirt.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:9
+  type: quote
+  locator: lines 2326-2328
+  quote_or_summary: The boar rolls in dirty places until he is "like a big cake of
+    dirt."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:10
+  type: summary
+  locator: lines 2328-2338
+  quote_or_summary: At the lake the lion smells the dirty boar, reacts with disgust,
+    says the boar has saved his life, and refuses to touch him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:11
+  type: summary
+  locator: lines 2340-2344
+  quote_or_summary: The boar runs home and claims that he beat the lion and made him
+    run away.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:12
+  type: summary
+  locator: lines 2344-2355
+  quote_or_summary: The narration says it was not a fair fight, nobody believes the
+    boar, and the boar colony leaves because the lion remains dangerous.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal plot extraction is straightforward. Motif labels are descriptive
+    and partly mapped to broad available taxonomy categories; no passage-supported
+    external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. The locator label mentions several tale titles, but the supplied passage text contains only "THE LION AND THE BOAR."
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-old-india-tales-rouse-gutenberg__l2268-l2355
+  passage_sha256=b36d31ec84a0154e4fd63e5f3c65b1ed18bf8db450cd588a5421a99379076b6f
+

@@ -116,6 +116,7 @@ Use [docs/batch-api-workflow.md](docs/batch-api-workflow.md) for the OpenAI Batc
 - [docs/extraction-coverage.md](docs/extraction-coverage.md): generated audit of which canonical texts need dense motif extraction next
 - [taxonomy/motif-normalization.yml](taxonomy/motif-normalization.yml): review-time motif hierarchy, aliases, quality flags, and comparison-mode discipline
 - [docs/normalization-gap-audit.md](docs/normalization-gap-audit.md): generated list of indexed motif IDs that still need canonical normalization review
+- [docs/canonical-motif-frequency.md](docs/canonical-motif-frequency.md): generated ranking of normalized motif groups by cross-tradition breadth
 - [docs/structured-pattern-records.md](docs/structured-pattern-records.md): machine-readable pattern records for Pattern Explorer-ready comparisons
 - [docs/ci.md](docs/ci.md): what GitHub Actions checks on every push
 

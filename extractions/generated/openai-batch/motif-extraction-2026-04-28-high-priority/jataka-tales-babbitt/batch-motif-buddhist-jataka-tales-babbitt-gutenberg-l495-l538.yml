@@ -1,0 +1,409 @@
+---
+record_id: batch.motif.buddhist-jataka-tales-babbitt-gutenberg-l495-l538
+source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+passage_locator:
+  label: PART II / HOW THE TURTLE SAVED HIS OWN LIFE / THE MERCHANT OF SERI / THE
+    TURTLE WHO COULDN'T STOP TALKING; lines 495-538
+  start: '495'
+  end: '538'
+  translation: Jataka tales
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A turtle living in a pond befriends two wild geese. The geese offer to
+    carry him to their distant home if he can keep silent while holding a stick in
+    his mouth. Children mock the sight as the geese fly overhead. The turtle tries
+    to answer, releases the stick, falls, and dies; bystanders state that his inability
+    to keep silent cost him his life.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A turtle lives in a pond at the foot of a hill.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two young wild geese meet the turtle while looking for food and later become
+    his friends.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The geese invite the turtle to travel with them to their faraway home.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The turtle says he has no wings.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The geese say they will take the turtle if he keeps his mouth shut and says
+    nothing to anybody.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The turtle agrees to do exactly as the geese wish.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The geese bring a stick, hold its ends, and instruct the turtle to hold the
+    middle in his mouth without speaking until they arrive.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The geese fly with the turtle between them, holding fast to the stick.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Village children see the flying geese carrying the turtle by a stick and mock
+    the sight as ridiculous.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The turtle looks down and begins to answer the children.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: When the turtle begins to speak, he lets go of the stick, falls, and dies
+    at the children's feet.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: People say the turtle lost his life because he could not keep his mouth shut
+    and had to talk.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Turtle
+  description: A turtle living in a pond at the foot of a hill who travels by holding
+    a stick carried by geese and dies after speaking.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Two young wild Geese
+  description: Two young wild geese who befriend the turtle, offer to take him to
+    their distant home, and carry him with a stick.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Village children
+  description: Children who see the geese carrying the turtle through the air and
+    ridicule the sight.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: People
+  description: People who come to see the dead turtle and comment that talking cost
+    him his life.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: traveler carried by others
+  assigned_to:
+  - fig:1
+  basis: The turtle has no wings and is carried between the geese by holding a stick.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: one who fails to keep silent
+  assigned_to:
+  - fig:1
+  basis: The turtle was told not to speak, begins to answer the children, lets go,
+    and dies; people state that he could not keep his mouth shut.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: role:3
+  label: friends and transporters
+  assigned_to:
+  - fig:2
+  basis: The geese become the turtle's friends and carry him by holding the ends of
+    a stick.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:4
+  label: condition setters
+  assigned_to:
+  - fig:2
+  basis: The geese agree to take the turtle only if he keeps silent and later repeat
+    the instruction before flight.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: mocking onlookers
+  assigned_to:
+  - fig:3
+  basis: The children call attention to the flying turtle and describe the sight as
+    ridiculous.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: commenting bystanders
+  assigned_to:
+  - fig:4
+  basis: The people state that the turtle lost his life because he had to talk.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: pond at the foot of a hill
+  literal_form: pond at the foot of a hill
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: stick used for aerial transport
+  literal_form: stick held by the two geese at the ends and by the turtle in the middle
+    with his mouth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: closed mouth / silence condition
+  literal_form: instruction to keep the mouth shut and say not a word
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+- id: sym:4
+  label: flight through the air
+  literal_form: geese spring into the air with the turtle between them
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Friendship at the pond
+  summary: The turtle lives in a pond at the foot of a hill and becomes friends with
+    two young wild geese who visit him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Offer of travel with condition of silence
+  summary: The geese invite the turtle to their distant home and say they can carry
+    him only if he remains silent; the turtle agrees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Carrying the turtle by a stick
+  summary: The geese hold the ends of a stick while the turtle holds the middle in
+    his mouth, and they fly with him between them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Mockery and fatal speech
+  summary: Village children mock the flying turtle, and when he begins to answer,
+    he lets go of the stick, falls, and dies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Bystanders state the lesson
+  summary: People who see the dead turtle say that his inability to keep his mouth
+    shut caused his death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Fatal failure to keep silence
+  taxonomy_refs:
+  - wisdom
+  basis: The passage repeatedly makes silence the condition of safe travel, and the
+    turtle dies when he tries to speak in response to ridicule.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is a didactic animal tale
+    rather than an abstract wisdom discourse.
+- id: motif:2
+  label: Animal carried through the air by companions using a stick
+  taxonomy_refs: []
+  basis: Two geese carry the turtle through the air by holding a stick that the turtle
+    grips with his mouth.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this transport image.
+- id: motif:3
+  label: Mockery provokes self-destructive response
+  taxonomy_refs:
+  - wisdom
+  basis: The village children mock the turtle, prompting him to begin answering; this
+    action makes him fall and die.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage states the consequence as inability to keep silent, not a
+    generalized theory of pride or anger.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 495-501
+  quote_or_summary: A turtle lives in a pond at the foot of a hill; two young wild
+    geese meet him, visit again, and become great friends.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 502-508
+  quote_or_summary: The geese describe their beautiful faraway home and invite the
+    turtle to go with them; the turtle asks how he could go without wings.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 509-514
+  quote_or_summary: The geese say they will take the turtle if he keeps his mouth
+    shut and says nothing; the turtle agrees to do as they wish.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 515-519
+  quote_or_summary: The geese bring a stick, hold its ends, and tell the turtle to
+    take the middle in his mouth and not speak until they reach home.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 520-522
+  quote_or_summary: The geese spring into the air with the turtle between them holding
+    fast to the stick.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 523-528
+  quote_or_summary: Village children see the geese carrying the turtle by a stick
+    and ridicule the sight.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 529-532
+  quote_or_summary: The turtle looks down, starts to answer the children, lets go,
+    falls, and dies at their feet.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 533-538
+  quote_or_summary: As the geese fly on, people who see the turtle say he could not
+    keep his mouth shut, had to talk, and so lost his life.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is short and explicit; motif labels are based directly on repeated
+    conditions and consequences in the narrative. No comparison claims are made because
+    the passage itself does not compare the tale to another tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only provided passage and metadata were used. Taxonomy references are limited to supplied options.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:buddhist-jataka-tales-babbitt-gutenberg__l495-l538
+  passage_sha256=fa31b6f064ab940048fabbc0a362c6163e7d8dbaf5e92424d2d033695de87f09
+
