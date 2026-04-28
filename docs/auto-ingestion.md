@@ -73,6 +73,18 @@ ruby scripts/corpus_trickle_run.rb \
   --limit-per-cycle 1
 ```
 
+Detach it for a laptop overnight run:
+
+```sh
+ruby scripts/corpus_trickle_run.rb \
+  --duration-hours 10 \
+  --interval-seconds 1800 \
+  --limit-per-cycle 1 \
+  --daemonize \
+  --log-file data/corpus-runs/corpus-trickle.log \
+  --pid-file data/corpus-runs/corpus-trickle.pid
+```
+
 This default cadence processes at most one queued Project Gutenberg text every
 30 minutes. The runner uses no API key. It stops if the queue is empty or if
 `scripts/check_clean_markdown.rb` catches raw HTML, boilerplate, trailing

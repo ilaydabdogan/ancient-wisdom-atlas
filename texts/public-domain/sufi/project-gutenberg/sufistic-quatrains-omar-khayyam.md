@@ -1,0 +1,15684 @@
+---
+id: sufi.omar_khayyam.sufistic_quatrains.gutenberg
+title: The Sufistic Quatrains of Omar Khayyam
+alternate_titles:
+- Sufistic Quatrains
+- Rubaiyat
+text_status: selected
+tradition: sufi
+culture: persian_sufi_reception_anthology
+region: iran_later_english_reception
+source_language: Persian
+text_language: English
+date_range: Medieval Persian quatrain material in early 20th-century public-domain
+  English anthology
+source_type: text
+provenance:
+  source_id: source.project_gutenberg.38511
+  edition: 'Project Gutenberg plain-text eBook #38511'
+  translator: E. H. Whinfield and others
+  editor: ''
+  publication_year: 1903
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/38511
+  access_date: '2026-04-27'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://www.gutenberg.org/policy/license.html
+  training_use: allowed
+  full_text: allowed
+  notes: Project Gutenberg catalog records public-domain status in the USA; treat
+    Sufi framing as reception and review translator/editor metadata.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: false
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- omar_khayyam
+- rubaiyat
+- sufism
+- quatrains
+- wine_symbolism
+- fate
+motifs:
+- wisdom
+- divine_beloved
+- mystical_quest
+- death_rebirth
+figures:
+- Omar Khayyam
+- seeker
+---
+
+# The Sufistic Quatrains of Omar Khayyam
+
+  UNIVERSAL CLASSICS
+  LIBRARY
+
+
+  ILLUSTRATED
+  WITH PHOTOGRAVURES ON
+  JAPAN VELLUM, ETCHINGS
+  HAND PAINTED INDIA-PLATE
+  REPRODUCTIONS, AND
+  FULL PAGE PORTRAITS
+  OF AUTHORS.
+
+
+  M WALTER DUNNE, PUBLISHER
+  NEW YORK & LONDON
+
+
+  COPYRIGHT, 1903,
+
+  BY
+
+  M. WALTER DUNNE;
+
+  PUBLISHER
+
+
+  THE SUFISTIC QUATRAINS OF
+
+  OMAR KHAYYAM
+
+  IN DEFINITIVE FORM
+  INCLUDING THE TRANSLATIONS OF
+
+  EDWARD FITZGERALD
+  (101 quatrains)
+  With Edward Heron-Allen's Analysis
+
+  E.H. WHINFIELD
+  (500 quatrains)
+
+  J.B. NICOLAS
+  (464 quatrains)
+
+  WITH PREFACES BY EACH TRANSLATOR AND A
+  GENERAL INTRODUCTION DEALING WITH
+  OMAR'S PLACE IN SUFISM, BY
+
+  ROBERT ARNOT, M.A.
+
+  Author of "The Vine in Symbolism"
+
+  M. WALTER DUNNE, PUBLISHER,
+  NEW YORK & LONDON
+
+
+  COPYRIGHT, 1903,
+
+  BY
+
+  M. WALTER DUNNE,
+
+  PUBLISHER
+
+
+ILLUSTRATIONS
+
+                                                         FACING
+                                                           PAGE
+
+  THE TOMB OF OMAR                               _Frontispiece_
+  From an old painting by an unknown artist.
+
+  THE APPROACH TO NAISHAPUR                                 100
+  From a painting by I.R. Herbert.
+
+  SUFI MYSTICS GATHERED FOR MEDITATION                      210
+  From an old painting by a Pushtu artist.
+
+
+TABLE OF CONTENTS
+
+
+                                                           PAGE
+GENERAL INTRODUCTION                                         xi
+INTRODUCTION TO THE FIRST EDITION OF EDWARD FITZGERALD'S
+  TRANSLATION OF THE QUATRAINS OF OMAR KHAYYAM                1
+THE COMPLETE FITZGERALD FIRST EDITION                        13
+  Kuza-Nama                                                  25
+  Notes                                                      29
+AN ANALYSIS OF EDWARD FITZGERALD'S TRANSLATION (FIFTH
+  EDITION), BY EDWARD HERON-ALLEN                            35
+  Preface                                                    37
+  Explanation of References                                  42
+  Analysis of Edward Fitzgerald's Quatrains                  44
+  Appendix                                                  107
+VARIATIONS BETWEEN THE SECOND, THIRD AND FOURTH EDITIONS
+  OF FITZGERALD'S TRANSLATION                               115
+  Stanzas Which Appear in the Second Edition Only           122
+COMPARATIVE TABLE OF STANZAS IN THE FOUR EDITIONS OF
+  FITZGERALD                                                124
+  Note                                                      127
+THE QUATRAINS OF OMAR KHAYYAM TRANSLATED BY E.H.
+  WHINFIELD, M.A.                                           129
+  Introduction                                              131
+  Note                                                      139
+E.H. WHINFIELD TRANSLATION                                  141
+THE QUATRAINS OF OMAR KHAYYAM TRANSLATED INTO PROSE
+  FROM THE FRENCH VERSION OF MONSIEUR J.B. NICOLAS          267
+  Preface                                                   269
+TRANSLATION OF THE NICOLAS TEXT                             279
+
+
+GENERAL INTRODUCTION
+
+
+The earliest reference to Omar Khayyam dates from the middle of the
+seventh century of the Hijra.[1] Mohammad Shahrazuri, author of a
+little-used history of learned men, bearing the title of
+«Nazhet-ul-Arwah,» devotes to Khayyam the following passage:
+
+«'Omar Al-Khayyami was a Nishapuri by birth and extraction. He [may be
+regarded as] the successor of Abu 'Ali (Avicenna) in the various
+branches of philosophic learning; but he was a man of reserved character
+and disliked entertaining (_sayyik al-'atan_). While he was in Ispahan
+he perused a certain book seven times and then he knew it by heart. On
+his return to Nishapur he dictated it [from memory] and on comparing it
+with the original copy, it was found that the difference between them
+was but slight. He was averse both to composition and to teaching. He is
+the author of a handbook on natural science, and of two pamphlets, one
+entitled '_Al-Wujud_' (or 'Real Existence') and the other '_Al-Kawn w'al
+Taklif_.'[2] He was learned in the law, in classical Arabic, and in
+history.
+
+«One day Al-Khayyami went to see the Vezir, Abd-ur-Razzak, the Chief of
+the Koran Readers. Abu-l-Hasan Al-Ghazzali was with this latter [at the
+time], and the two were discussing the disagreement of the Koran Readers
+in regard to a certain verse. [As Omar entered] the Vezir said, 'Here we
+have _the_ authority,' and proceeded to ask Al-Khayyami [for his
+opinion] on the matter. ['Omar] enumerated the various readings of the
+Readers, and explained the grounds (_'ilal_) for each one. He also
+mentioned the exceptional readings and the arguments in favor of each,
+and expressed his preference for one view in particular.
+
+«Al-Ghazzali then said: 'May God add such men as thee to the number of
+the learned! Of a truth, I did not think any one of the Koran Readers
+knew the readings by heart to this extent--much less one of the secular
+philosophers.'
+
+«As for the sciences, he had mastered both mathematics and philosophy.
+One day 'the Proof of Islam', Al-Ghazzali, came to see him and asked him
+how it came that one could distinguish one of the parts of the sphere
+which revolve on the axis from the rest, although the sphere was similar
+in all its parts. Al-Khayyami pronounced his views, beginning with a
+certain category; but he refrained from entering deeply into the
+discussion--and such was the wont of this respected Sheykh. [Their
+conversation was interrupted by] the call to mid-day prayer, whereupon
+Al-Ghazzali said, 'Truth has come in, and lying has gone out.' 'Omar
+arose and went to visit Sultan Sanjar. The latter was [at the time] a
+mere child, and was suffering from an attack of smallpox. When he came
+away the Vezir asked him, 'How did you find the child, and what did you
+prescribe for him?' 'Omar answered, 'The child is in a most precarious
+state.' An Ethiopian slave reported this saying to the Sultan, and when
+the Sultan recovered he became inimical to 'Omar and did not like him.
+Melik-Shah treated him as a boon companion; and Shams-ul-Mulk honored
+him greatly, and made him sit beside him on his throne.
+
+«It is related that ['Omar] was [one day] picking his teeth with a
+toothpick of gold, and was studying the chapter on metaphysics from
+[Avicenna's] 'Book of Healing.' When he reached the section on 'The One
+and the Many' he placed the toothpick between the two leaves, arose,
+performed his prayers and made his last injunctions. He neither ate nor
+drank anything [that day]; and when he performed the last evening
+prayer, he bowed himself to the ground and said as he bowed: 'Oh, God!
+verily I have known Thee to the extent of my power: forgive me,
+therefore. Verily my knowledge of Thee is my recommendation to Thee.'
+And [so saying], he died; may God have pity on him!»
+
+We may look upon Omar as a deeply learned man, following his own
+convictions, who, tortured with the question of existence, and finding
+no solution to life in Musulman dogmas, worked out for himself a regular
+conception of life based on Sufistic Mysticism; a man who, without
+discarding belief, smiled ironically at the inconsistencies and
+peculiarities of the Islam of his time, which left many minds
+dissatisfied in the fourth and fifth centuries, needing as it did
+vivification. It found this in the person of Ghazzali, who in this
+movement assigned the proper place to the Mystic element. Omar was a
+preacher of moral purity and of a contemplative life; one who loved his
+God and struggled to master the eternal, the good, and the beautiful.
+
+In this manner also is Omar portrayed in the various early biographical
+notices: a defender of «Greek Science,» famous for his knowledge of the
+Koran and the Law, and at the same time a «stinging serpent» to the
+dogmatic; a wit and a mocker, a bitter and implacable enemy of all
+hypocrisy; a man who, while curing others of the wounds of worldly
+triviality, impurity, and sinful vanity, himself only with almost his
+last breath closed the philosophic book on «Healing» and turned with a
+touching prayer to the One God, the Infinite, whom he had been striving
+to comprehend with all the strength of his mind and heart. Khayyam's
+lively protests and his heated words in freedom's cause brought upon him
+many bitter moments in his life and exposed him to numerous attacks at
+the hands of the mullahs, especially those of the Shiite community.
+
+Besides these, then as now (apart from hypocrites), persons were not
+wanting who, failing to understand Omar, regarded him as an unbeliever,
+atheist, and materialist. But in the course of centuries the people of
+Persia and India, realizing, perhaps instinctively, the injustice of
+former reproaches, have taken to publishing and reading Omar Khayyam in
+collections side by side with Abu-Said, Abd-Allah Ansari, and
+Attar--that is to say, with Sufi Mystics of the purest water, men whose
+moral and religious reputations were spotless.
+
+Rightly to understand Omar some knowledge of Sufism and its tenets is
+necessary. Sufism is a mystical doctrine which had its birth on the
+Arabian coast, and succeeded in implanting itself there to the point of
+putting a decisive check upon the orthodox philosophy. The etymology of
+the name is difficult to find. According to some, it comes from the word
+_suf_ (wool, a woolen garment) because the first persons to adopt this
+doctrine clothed themselves in wool.
+
+We can give, as a proof, in support of this etymology, the fact that the
+Persians call their dervishes Sufis, _pechmineh pôch_ (clothed in wool).
+The name could also come from the Arabic _safou_ (purity) or the Greek
+sophia (wisdom). Again, some Arabic authors call by the name of Soufa an
+Arabic tribe that separated themselves from the world in the
+ante-Islamic period, consecrating themselves to the keeping of the
+temple of Mecca. A man who professed the Mystic principles of _tasawouf_
+(the spiritual life) they called a «Sufi.»
+
+The origin of Musulman Mysticism is a question entailing some
+controversy, for whoever knows the detailed ritual and the dogmatic
+coldness of the Koran finds it impossible to reconcile Islamic dogma
+with any idea of Mysticism whatsoever. In vain does one seek to find an
+example of Mystical teaching in this aphorism attributed to Mahomet: «It
+is when he prays that the faithful one is nearest God,» as Islamism
+holds to a definite separation between the Divinity and the world,
+between the Creator and the thing created. The religious customs that
+Mahomet instituted and the moral action that he taught served only to
+merit the good-will of the Divinity; at the utmost he only believed that
+he would be permitted to see Him face to face.
+
+Whence comes then this Mystical idea which, for so many centuries, has
+occupied all the minds and absorbed all the intellectual force of the
+Musulman world? Two different origins can be given for it: the idea of
+emanation from and return to the divine essence whence it came--what we
+call Neo-platonism. Added to this are Contemplation and Annihilation,
+which come to it through Persia and the Vedantic school as
+intermediaries, bringing with it Pantheism, which made its way late into
+Sufism, and almost solely among the Persians. Also, it could be said
+that originally Sufism owed its principles to the Alexandrian school.
+
+The Arabs, who studied and translated the greater part of Aristotle,
+knew Plato only by name; but they came under his influence and received
+his doctrines, strongly impregnated with the Mysticism of the Kabbala,
+through the Alexandrians and especially through Philon. To annihilate
+reason, or at least to subordinate it to feeling; to attack liberty, in
+order to subject the whole of life to love; and, furthermore, the blind
+abandoning of self--such is the aim of Sufism, as it is of all Mystic
+philosophy.
+
+The doctrine of the Sufis has been set forth in a great number of
+treatises, notably that of Sohrawdi. God alone exists; He is in
+everything and everything is in Him. All beings emanate from Him,
+without being really distinct from Him. The world exists for all
+eternity; the material is only an illusion of the senses. Sufism is the
+true philosophy of Islamism, «which is the best of religions,» but
+religions have only a relative importance and serve but to guide us
+toward the Reality.
+
+God is the author of the acts of the human race; it is He who controls
+the will of man, which is _not_ free in its action. Like all animals man
+possesses an original mind, an animal or living mind, a mind
+instinctive, but he has also a human mind, breathed into him by God, and
+of the same character as the original and constructive element itself.
+The concomitant mind comprehends the original element and the human
+mind; it extends itself over the triple domain: animal, vegetable, and
+mineral. The soul, which existed before the body, is confined in the
+body as in a cage; death, then is, the object of the Sufi's desires,
+since it returns him to the bosom of the Divinity. This metempsychosis
+permits the soul which has not fulfilled its destiny here below to be
+purified and worthy of a re-union with God. This spiritual union all can
+strive for ardently, but all cannot attain, because it is a product of
+the grace of God.
+
+The Sufi, during his sojourn in the body, is uniquely occupied in
+meditating upon his unity with God (_Wahdanija_), the reminiscence of
+the names of God (_Zikr_), and the progressive advancement in the
+_tarika_ or journey of life, up to his unification with God.
+
+What is the Sufi journey, then? Human life has been likened to a voyage,
+where the traveler is seeking after God. The aim of the voyage is to
+attain to a knowledge of God, for human existence is a period of
+banishment for the soul, which cannot return to God until it has passed
+through many successive stages. The natural state of man is called
+_nasout_ (humanity); the disciple should observe the law and conform to
+all the rites of believers. The other stages are: the nature of the
+angels (_malakout_), where one follows the way to purity, the possession
+of power (_djabrout_), the degree to which knowledge corresponds
+(_m'arifa_), and finally, extinction or absorption in the Deity, the
+degree to which truth corresponds. The voyager agrees to renouncement,
+which is of two kinds: external and internal. The first is the
+renouncement of riches and worldly honors; the second is the
+renouncement of profane desires. And he should especially guard against
+idolatry, which for some is the adoration of worldly achievement, for
+others a too assiduous practice of praying and fasting.
+
+To arrive at this aim, the voyager has three necessary aids: attraction
+(_indïïdhah_), the act of God which draws all men who have that tendency
+or inclination to Him; devotion (_ibâda_), continuing the journey by two
+roads--towards God and in God, the first limited, the second without
+limit; finally, elevation (_ouroudi_). But the voyage cannot be
+accomplished alone; it is necessary to have a guide or a monitor taken
+from the second class (_ibâda_). The believer who, after having been
+_tâlib_ (an educated man doubting the reality of God) and _mourid_
+(desirous of following out his quest), becomes a _salik_ (traveler),
+places himself under the authority of a Sufi guide who teaches him to
+serve God until, through divine influence, he attains to the _ichk_
+(love) stage. Divine love, removing all mundane desires from his heart,
+causes him to arrive at _zouhd_ (isolation); he then leads a
+contemplative life, passes through the _m'arifa_ degree, and awaits the
+direct illumination of _wadja_ (ecstasy).
+
+After having received a revelation of the true nature of God (the
+_hakika_ stage) he arrives at the _wasl_ stage (union with God); he
+cannot go further; death alone remains, by which he will arrive at the
+final degree, absorption in the Divinity. The _Zikr_ are only various
+forms of devotion invented by the Sufi guides to develop the spiritual
+life. The conduct of the disciple in the presence of his master is
+determined by rules which differ little from those imposed upon all
+dervishes.
+
+Some authors distinguish, in the Sufi voyage, seven stages,
+corresponding to the degrees in the celestial sphere, in order to have
+the soul received there after death. But, protest metaphysicians, the
+soul cannot return to a determined place, since it does not come from a
+determined place. Celestial intelligence, to which corresponds the
+degree of intelligence reached by man, will absorb the soul after its
+separation from the body.
+
+The Sufis attribute a high antiquity to their doctrines. They do not
+hesitate to refer them to as far back as Abraham; they pretend that one
+of the founders of their sect was own son-in-law to the prophet Ali, son
+of Abou-Tâlib. Finally, «there came a pious woman from Jerusalem, by the
+name of Rabia, whose words recall the Christian Mysticism.»
+
+The first person to take the name of Sufi was Abou-Hachim of Koufa. The
+first convent or _Khanakah_ was founded in Khorasan by Abou-Said, the
+Persian, although the prophet had prohibited monkish life in Islam.
+Another convent was established at Ramia, in Syria, and Saladin founded
+one in Egypt. Sufism then was divided into two schools: The Persian
+Bestâmi (A.D. 875) inclined towards Pantheism; Djonaid, of Bagdad,
+preached a system reconcilable with Musulman dogmatism. One of the most
+celebrated doctors of this school was Halladj, burnt alive in A.D. 922.
+They discoursed upon Sufism under the Kalifs Al-Motazz and Al-Mohtadi,
+and preached it under Al-Motamid. The principal Sufi writers are:
+Mohammed Salami an Nichabouri (A.D. 1021), El-Kochairi (A.D. 1072),
+Ghazli (A.D. 1111), Sohrawdi (A.D. 1234), Ferid-ed-din Attar (A.D.
+1230), Djami (A.D. 1492), and Ech-Cha'rani (A.D. 1565).
+
+This Mysticism, so sweet and so full of sentiment, exhales itself in
+poesy, and is as much stamped with tenderness and resignation as it is
+overflowing with sensuality and drunkenness. The best and most
+illustrious of the Persian poets are of this sect: Djelal-ed-din
+er-Roumi, author of the «_Mesnewi_», Djami, author of «_Salaman
+ou-Absa_», Ferid-ed-din Attar, author of «_Mantik-ut-tair_»; S'adi,
+Hafiz de Chiraz, Bayazid-al-Bestami.
+
+Just as Sufis leave the true faith for its semblance, so they also
+exchange the external features of all things for the internal (the
+corporeal for the spiritual) and give a spiritual significance to
+outward forms. They behold objects of a precious nature in their natural
+character, and for this reason, the greater part of their words have a
+spiritual and visionary meaning.
+
+For instance, when, like Omar, they mention wine, they mean a knowledge
+of God, which, extensively considered, is the love of God. Wine, viewed
+extensively, is also love: love and affection are here the same thing.
+The wine-shop with them means the _murshid i kiamil_ (spiritual
+director), for his heart is said to be the depository of the love of
+God; the wine-cup is the _telkin_ (the pronunciation of the name of God
+in a declaration of faith as: There is no God but Allah), or it
+signifies the words which flow from the _murshid's_ mouth respecting
+divine knowledge, and which, heard by the _salik_ (the Dervish, or one
+who pursues the true path), intoxicates his soul, and divests his mind
+(of passions) giving him pure, spiritual delight.
+
+The sweetheart or Beloved means the preceptor, because, when any one
+sees his beloved he admires her proportions, with a heart full of love.
+The Dervish beholds the secret knowledge of God which fills the heart
+of his spiritual preceptor (_murshid_), and through it receives a
+similar inspiration, and acquires a full perception of all that he
+possesses, just as the pupil learns from his master. As the lover
+delights in the presence of his sweetheart, so the Dervish rejoices in
+the company of his beloved preceptor. The sweetheart is the object of a
+worldly affection; but the preceptor commands a spiritual attachment.
+
+The curls or ringlets of the beloved are the grateful praises of the
+preceptor, tending to bind the affections of the Dervish-pupil; the
+moles on her face signify that when the pupil, at times, beholds the
+total absence of all worldly wants on the part of the preceptor, he also
+abandons all the desires of both worlds--he, perhaps, even goes so far
+as to desire nothing else in life than his preceptor; the furrows on the
+brow of the beloved one, which they compare to verses of the Koran, mean
+the light of the heart of the _murshid_: they are compared to the verses
+of the Koran, because the attributes of God, in accordance with the
+injunction of the Prophet: «Be ye endued with divine qualities,» are
+possessed by the sheikh (or _murshid_).
+
+Perhaps I can do no better than to quote one of the foremost authorities
+on Sufism[3] in regard to Omar's teachings.
+
+«Seldom has a poet suffered from his friends and his foes as has Omar
+Khayyam. 'He has been regarded,' says a writer, 'as a free-thinker, a
+subverter of faith; an atheist and materialist; a pantheist and a
+scoffer at Mysticism; an orthodox Musulman; a true philosopher, a keen
+observer, a man of learning; a _bon vivant_, a profligate, a dissembler
+and a hypocrite, and a blasphemer--nay, more, an incarnate negation of
+positive religion and of all moral beliefs; a gentle nature, more given
+to the contemplation of things divine than worldly enjoyments; an
+epicurean sceptic; the Persian Abu-l-Ala, Voltaire, and Heine in one.'
+The writer has in view the well-known criticisms of Von Hammer, Renan,
+Ellis, Nicolas, Garcin de Tassy, Whinfield, Aug. Muller, etc. He might
+have added Vedder's curious misunderstanding of the 'Beloved,' making
+him a damsel and a playtoy, and the thousand and one small ideas set
+forth by Omarian Societies.
+
+«All this criticism is curious because it is so completely out of
+harmony with the facts of Omar's life. It is true that no complete,
+authentic manuscript of Omar's is known, and equally true that no
+comprehensive biography is known; but detailed information has come down
+to us from his contemporaries. From these notes enough can be gathered
+to show that Omar was a great man indeed, one who clearly and forcibly
+shows the four sides of a perfect character.
+
+«A perfect character is first and fundamentally powerful. It is based
+upon the One, be it in idea or in action. Next, it is so simple and
+direct that all extraneous thoughts and purposes are unknown to it.
+These two sides condition one another. No power without simplicity and
+no directness without power. The third side of a great character is love
+or human feeling; a fullness that seeks to draw all men to the One, and
+the fourth and last characteristic is harmony or a welding together into
+One of all these four. The last characteristic is, of course, an
+impossibility where the others do not exist; nor can the others attain
+any vividness or fullness without love.
+
+«A perfect character is rare. We see, however, glimpses of it here and
+there. Omar Khayyam was a type of perfect character. He is full of the
+One; he knows of nothing but the One; he burns to draw his fellow-men to
+the One; he belongs nowhere but in the One, in whom he indeed can be
+said to move, live, and have his being. In the One he attained
+Wholeness, harmony. Omar's philosophy is that of the Sufis. In that,
+too, he is consistent. The one is Truth; Truth is the reality of things,
+Truth burns to draw men to Itself; Truth is the Law or 'Universe.' His
+method is Symbolism, viz.: he chooses the transparencies of Nature in
+order to show his hearers how Truth or Wisdom and Love or Devotion
+everywhere appear to be the reality behind 'the magic Shadow-shapes
+that come and go.' His most prominent symbols are Wine and Love; Roses,
+Springtime, and Death.
+
+«Omar's ethics are not those of Mohammedanism. He advocates Resignation,
+to be sure, but not Mohammedan fatalism as popularly understood. His
+morals spring from his conception of the fullness of the One, and as
+such they are in harmony with the most universal notions of mankind. In
+one word, Omar's theology, philosophy, method, and morals are Sufistic,
+Sufism taken in the highest sense as the unifying notion for Wholeness,
+Love, Truth, and Power. A study of Sufism will reveal the real
+Omar--hitherto but little known, if known at all.
+
+       *       *       *       *       *
+
+«No one has attempted, so far as I know, to classify the various
+Sufistic systems. It is not so difficult to do so when a key can be
+found to them. The best key is that four-foldness which manifests itself
+in all human character, endeavor, and work. Corresponding to the
+four-foldness of character delineated above, I shall now take the terms
+Life, Love, Light, and Law and say that Al-Ghazzali and Jelaladdin
+represent the first and, as a proof, point to their constant emphasis of
+will as being the dominant power of existence, and the prominence they
+give to moral worth. The type of Love, in the form of poetry and
+feeling, is represented by Hafiz and Jami. The third group is fully and
+completely filled by Shabistani, the author of 'Gulshan-i-Raz.' It is
+Light, and its form is Philosophy, Truth, and Understanding. The last,
+the fourth, sums up in a measure, the three preceding, and is also a
+clearly defined group by itself. It is Law, Order, Unity, and Reality.
+There is more independence in it than in any of the others, because it
+is the nearest approach known in existence to Wholeness or Unity. It
+contains the opposites of existence, both cosmic and human, viz.: the
+protest of the Mystic and also his affirmation, and the new Hope he
+represents.
+
+«Omar Khayyam belongs to this fourth group. I do not say he alone fills
+it. But he exhibits that Independence and Protest which is the first and
+outward characteristic of it. He is also from time to time soaring into
+the realms of the Truth or Unity, in a way not found in any other Sufi
+poet or doctor.
+
+«Under the garb of the Mystic's favorite method of Doubt and Protest,
+the Sufi (Omar) pictures the process of the Awakening of the Soul. That
+is the purpose of the 'Magic Shadow-shapes that come and go' in the
+Rubaiyat of Omar Khayyam. His pictures are sufficiently transparent for
+us to see The Reality Behind.
+
+«While so much is claimed for Omar, it must not be forgotten that it has
+not been said that he is the only perfect Sufi. It is not our intention
+to say or to intimate that. Omar is great enough when we attribute to
+him the office of an Awakener; not merely that of a John the Baptist,
+but the office of one who is himself full of the Awakening he preaches.
+Such an one is a unique character, and is truly an At-oner, one who
+heals all wounds and binds up broken limbs.»
+
+
+I have already stated, if not in actual words, at least by inference,
+that Khayyam's philosophical and religious opinions were in certain
+essential points based upon the teaching of the Vedantas. He must have
+been familiar with the general scope of their philosophy, although
+attaching himself, as we have seen, to the ranks of the Sufi Mystics.
+Sufism and Babism are probably the most widely spread doctrines current
+in modern Persia, and after all are but forms of Vedantic pantheism
+despoiled of real significance by the effort to accommodate themselves
+to the creed of Islam. We learn from El Kifti that Khayyam «exhorted to
+the seeking of the One, the Ruler, by the purification of bodily
+movements, for the cleansing of the human soul,» an unmistakable
+exposition of Sufi practices, although based originally upon the customs
+of the Vedantic sages.
+
+He certainly did not practice asceticism and other quasi-religious
+forms, which had been grafted upon the austere simplicity of the
+original Vedantic creed, but he did inculcate the necessity of acquiring
+«the knowledge of the unity of the soul with God»--the one thing
+important--which can only be achieved by the renouncement of desire,
+the purification of the soul from the lusts of the world, and the
+practice of kindliness, goodness, universal sympathy with mankind, and
+the patience which brings perfect work.
+
+That Omar was a man of many moods is evident. His poetic faculties,
+acted upon by an intelligence that was profound, and by a wit as cutting
+as the _tulwar_ of a Persian soldier, swayed him hither and thither upon
+the sea of daily doubts and fears which are part of man's existence.
+Yet, in his way, he was a beacon light, not only in the history of Sufi
+Mysticism, but in the annals of God-seeking. I can find no better
+yoke-fellow for him than Luther, like whom he was indeed an Apostle of
+Protest.
+
+  Robert Arnot
+
+
+  THE FIRST EDITION OF
+
+  EDWARD FITZGERALD'S TRANSLATION
+
+  OF THE
+
+  QUATRAINS OF OMAR KHAYYAM
+
+
+OMAR KHAYYAM
+
+THE
+
+ASTRONOMER-POET OF PERSIA
+
+
+Omar Khayyam was born at Naishapur in Khorassan in the latter half of
+our eleventh, and died within the first quarter of our twelfth Century.
+The slender story of his life is curiously twined about that of two
+other very considerable figures in their time and country: one of whom
+tells the story of all three. This was Nizam ul Mulk, Vizyr to Alp
+Arslan the son, and Malik Shah the grandson, of Toghrul Beg the Tartar,
+who had wrested Persia from the feeble successor of Mahmud the Great,
+and founded that Seljukian Dynasty which finally roused Europe into the
+Crusades. This Nizam ul Mulk, in his «_Wasiyat_»--or «Testament»--which
+he wrote and left as a memorial for future statesmen--relates the
+following, as quoted in the «Calcutta Review,» No. lix., from Mirkhond's
+«History of the Assassins.»
+
+«'One of the greatest of the wise men of Khorassan was the Imam Mowaffak
+of Naishapur, a man highly honoured and reverenced--may God rejoice his
+soul; his illustrious years exceeded eighty-five, and it was the
+universal belief that every boy who read the Koran or studied the
+traditions in his presence, would assuredly attain to honour and
+happiness. For this cause did my father send me from Tus to Naishapur
+with Abd-us-samad, the doctor of law, that I might employ myself in
+study and learning under the guidance of that illustrious teacher.
+Towards me he ever turned an eye of favour and kindness, and as his
+pupil I felt for him extreme affection and devotion, so that I passed
+four years in his service. When I first came there, I found two other
+pupils of mine own age newly arrived, Hakim Omar Khayyam, and the
+ill-fated Ben Sabbah. Both were endowed with sharpness of wit and the
+highest natural powers; and we three formed a close friendship together.
+When the Imam rose from his lectures, they used to join me, and we
+repeated to each other the lessons we had heard. Now Omar was a native
+of Naishapur, while Hasan Ben Sabbah's father was one Ali, a man of
+austere life and practice, but heretical in his creed and doctrine. One
+day Hasan said to me and to Khayyam, «It is a universal belief that the
+pupils of the Imam Mowaffak will attain to fortune. Now, even if we
+_all_ do not attain thereto, without doubt one of us will, what then
+shall be our mutual pledge and bond?» We answered, «Be it what you
+please.»--«Well,» he said, «let us make a vow, that to whomsoever this
+fortune falls, he shall share it equally with the rest, and reserve no
+pre-eminence for himself.»--«Be it so,» we both replied, and on those
+terms we mutually pledged our words. Years rolled on, and I went from
+Khorassan to Transoxiana, and wandered to Ghazni and Cabul; and when I
+returned, I was invested with office, and rose to be administrator of
+affairs during the Sultanate of Sultan Alp Arslan.'
+
+«He goes on to state, that years passed by, and both his old
+school-friends found him out, and came and claimed a share in his good
+fortune, according to the school-day vow. The Vizier was generous and
+kept his word. Hasan demanded a place in the government, which the
+Sultan granted at the Vizier's request; but, discontented with a gradual
+rise, he plunged into the maze of intrigue of an Oriental court, and,
+failing in a base attempt to supplant his benefactor, he was disgraced
+and fell. After many mishaps and wanderings, Hasan became the head of
+the Persian sect of the _Ismailians_--a party of fanatics who had long
+murmured in obscurity, but rose to an evil eminence under the guidance
+of his strong and evil will. In A.D. 1090, he seized the castle of
+Alamut, in the province of Rudbar, which lies in the mountainous tract
+south of the Caspian Sea; and it was from this mountain home he obtained
+that evil celebrity among the Crusaders as the OLD MAN OF THE MOUNTAINS,
+and spread terror through the Mohammedan world; and it is yet disputed
+whether the word _Assassin_, which they have left in the language of
+modern Europe as their dark memorial, is derived from the _hashish_, or
+opiate of hemp-leaves (the Indian _bhang_), with which they maddened
+themselves to the sullen pitch of Oriental desperation, or from the name
+of the founder of the dynasty, whom we have seen in his quiet collegiate
+days, at Naishapur. One of the countless victims of the Assassin's
+dagger was Nizam ul Mulk himself, the old school-boy friend.[4]
+
+«Omar Khayyam also came to the Vizier to claim his share; but not to ask
+for title or office. 'The greatest boon you can confer on me,' he said,
+'is to let me live in a corner under the shadow of your fortune, to
+spread wide, the advantages of Science, and pray for your long life and
+prosperity.' The Vizier tells us, that, when he found Omar was really
+sincere in his refusal, he pressed him no further, but granted him a
+yearly pension of 1200 _mithkals_ of gold, from the treasury of
+Naishapur.»
+
+«At Naishapur thus lived and died Omar Khayyam, 'busied,' adds the
+Vizier, 'in winning knowledge of every kind, and especially in
+Astronomy, wherein he attained to a very high pre-eminence. Under the
+Sultanate of Malik Shah he came to Merv, and obtained great praise for
+his proficiency in science, and the Sultan showered favours upon him.'
+
+«When Malik Shah determined to reform the calendar, Omar was one of the
+eight learned men employed to do it; the result was the _Jalali_ era (so
+called from _Jalal-ud-din_ one of the king's names)--'a computation of
+time,' says Gibbon, 'which surpasses the Julian, and approaches the
+accuracy of the Gregorian style.' He is also the author of some
+astronomical tables, entitled '_Ziji-Malik-skahi,'»_ and the French have
+lately republished and translated an Arabic treatise of his on algebra.
+
+«His Takhallus or poetical name (Khayyam) signifies a Tentmaker, and he
+is said to have at one time exercised that trade, perhaps before Nizam
+ul Mulk's generosity raised him to independence. Many Persian poets
+similarly derive their names from their occupations; thus we have Attar,
+'a druggist,' Assar, 'an oil presser,' etc.[5] Omar himself alludes to
+his name in the following whimsical lines:--
+
+    «'Khayyam, who stitched the tents of science,
+    Has fallen in grief's furnace and been suddenly burned;
+    The shears of Fate have cut the tent ropes of his life,
+    And the broker of Hope has sold him for nothing!'
+
+«We have only one more anecdote to give of his life, and that relates to
+the close; it is told in the anonymous preface which is sometimes
+prefixed to his poems; it has been printed in the Persian in the
+appendix to Hyde's 'Veterum Persarum Religio,' p. 499; and D'Herbelot
+alludes to it in his _Bibliothèque_, under _Khiam_:[6]--
+
+«'It is written in the chronicles of the ancients that this King of the
+Wise, Omar Khayyam, died at Naishapur in the year of the Hegira 517
+(A.D. 1123); in science he was unrivalled,--the very paragon of his age.
+Khwajah Nizami of Samarcand, who was one of his pupils, relates the
+following story: «I often used to hold conversations with my teacher
+Omar Khayyam, in a garden; and one day he said to me, 'My tomb shall be
+in a spot where the north wind may scatter roses over it.' I wondered at
+the words he spake, but I knew that his were no idle words.[7] Years
+after, when I chanced to revisit Naishapur, I went to his final
+resting-place, and lo! it was just outside a garden, and trees laden
+with fruit stretched their boughs over the garden wall, and dropped
+their flowers upon his tomb, so that the stone was hidden under them.»'»
+
+Thus far--without fear of trespass--from the «Calcutta Review.» The
+writer of it, on reading in India this story of Omar's grave, was
+reminded, he says, of Cicero's account of finding Archimedes' tomb at
+Syracuse, buried in grass and weeds. I think Thorwaldsen desired to have
+roses grow over him; a wish religiously fulfilled for him to the present
+day, I believe. However, to return to Omar.
+
+Though the Sultan «shower'd favours upon him,» Omar's Epicurean audacity
+of thought and speech caused him to be regarded askance in his own time
+and country. He is said to have been especially hated and dreaded by the
+Sufis, whose practice he ridiculed, and whose faith amounts to little
+more than his own, when stript of the Mysticism and formal recognition
+of Islamism under which Omar would not hide. Their poets, including
+Hafiz, who are (with the exception of Firdausi) the most considerable in
+Persia, borrowed largely, indeed, of Omar's material, but turning it to
+a mystical use more convenient to themselves and the people they
+addressed; a people quite as quick of doubt as of belief; as keen of
+bodily sense as of intellectual; and delighting in a cloudy composition
+of both, in which they could float luxuriously between heaven and earth,
+and this world and the next, on the wings of a poetical expression, that
+might serve indifferently for either Omar was too honest of heart as
+well as of head for this. Having failed (however mistakenly) of finding
+any Providence but destiny, and any world but this, he set about making
+the most of it; preferring rather to soothe the soul through the senses
+into acquiescence with things as he saw them, than to perplex it with
+vain disquietude after what they _might_ be. It has been seen, however,
+that his worldly ambition was not exorbitant; and he very likely takes a
+humorous or perverse pleasure in exalting the gratification of sense
+above that of the intellect, in which he must have taken great delight,
+although it failed to answer the questions in which he, in common with
+all men, was most vitally interested.
+
+For whatever reason, however, Omar, as before said, has never been
+popular in his own country, and therefore has been but scantily
+transmitted abroad. The MSS. of his Poems, mutilated beyond the average
+casualties of Oriental transcription, are so rare in the East as scarce
+to have reached westward at all, in spite of all the acquisitions of
+arms and science. There is no copy at the India House, none at the
+Bibliothèque Nationale of Paris. We know but of one in England: No. 140
+of the Ouseley MSS. at the Bodleian, written at Shiraz, A.D. 1460. This
+contains but 158 Rubaiyat. One in the Asiatic Society's Library at
+Calcutta (of which we have a copy) contains (and yet incomplete) 516,
+though swelled to that by all kinds of repetition and corruption. So Von
+Hammer speaks of _his_ copy as containing about 200, while Dr. Sprenger
+catalogues the Lucknow MS. at double that number.[8] The scribes, too,
+of the Oxford and Calcutta MSS. seem to do their work under a sort of
+protest; each beginning with a tetrastich (whether genuine or not),
+taken out of its alphabetical order; the Oxford with one of apology; the
+Calcutta with one of expostulation, supposed (says a notice prefixed to
+the MS.) to have arisen from a dream, in which Omar's mother asked about
+his future fate. It may be rendered thus--
+
+    «Oh Thou who burn'st in Heart for those who burn
+    In Hell, whose fires thyself shall feed in turn;
+      How long be crying, 'Mercy on them, God!'
+    Why, who art Thou to teach, and He to learn?»
+
+The Bodleian quatrain pleads Pantheism by way of Justification.
+
+    «If I myself upon a looser Creed
+    Have loosely strung the Jewel of Good Deed,
+    Let this one thing for my Atonement plead:
+    That One for Two I never did mis-read.»
+
+The reviewer,[9] to whom I owe the particulars of Omar's life, concludes
+his review by comparing him with Lucretius, both as to natural temper
+and genius, and as acted upon by the circumstances in which he lived.
+Both indeed were men of subtle, strong, and cultivated intellect, fine
+imagination, and hearts passionate for truth and justice; who justly
+revolted from their country's false religion, and false, or foolish,
+devotion to it, but who fell short of replacing what they subverted by
+such better _hope_ as others, with no better revelation to guide them,
+had yet made a law to themselves. Lucretius, indeed, with such material
+as Epicurus furnished, satisfied himself with the theory of a vast
+machine fortuitously constructed, and acting by a law that implied no
+legislator; and so composing himself into a Stoical rather than
+Epicurean severity of attitude, sat down to contemplate the mechanical
+drama of the Universe which he was part actor in; himself and all about
+him (as in his own sublime description of the Roman Theatre) discolored
+with the lurid reflex of the curtain suspended between the spectator
+and the sun. Omar, more desperate, or more careless of any so
+complicated system as resulted in nothing but hopeless necessity, flung
+his own genius and learning with a bitter or humorous jest into the
+general ruin which their insufficient glimpses only served to reveal;
+and, pretending sensual pleasure as the serious purpose of life, only
+_diverted_ himself with speculative problems of Deity, Destiny, Matter
+and Spirit, Good and Evil, and other such questions, easier to start
+than to run down, and the pursuit of which becomes a very weary sport at
+last!
+
+With regard to the present translation. The original Rubaiyat (as,
+missing an Arabic guttural, these _Tetrastichs_ are more musically
+called) are independent stanzas, consisting each of four lines of equal,
+though varied, prosody; sometimes _all_ rhyming, but oftener (as here
+imitated) the third line a blank. Somewhat as in the Greek alcaic, where
+the penultimate line seems to lift and suspend the wave that falls over
+in the last. As usual with such kind of Oriental verse, the Rubaiyat
+follow one another according to alphabetic rhyme--a strange succession
+of grave and gay. Those here selected are strung into something of an
+eclogue, with perhaps a less than equal proportion of the «Drink and
+make-merry» which (genuine or not) recurs over-frequently in the
+original. Either way the result is sad enough: saddest perhaps when most
+ostentatiously merry: more apt to move sorrow than anger toward the old
+Tentmaker, who, after vainly endeavouring to unshackle his steps from
+destiny, and to catch some authentic glimpse of TO-MORROW, fell back
+upon TO-DAY (which has outlasted so many TO-MORROWS!) as the only ground
+he had got to stand upon, however momentarily slipping from under his
+feet.
+
+
+While the second Edition of this version of Omar was preparing, M.
+Nicolas, French Consul at Resht, published a very careful and very good
+edition of the text, from a lithograph copy at Teheran, comprising 464
+Rubaiyat, with translation and notes of his own.
+
+M. Nicolas, whose edition has reminded me of several things, and
+instructed me in others, does not consider Omar to be the material
+Epicurean that I have literally taken him for, but a Mystic, shadowing
+the Deity under the figure of wine, wine-bearer, etc., as Hafiz is
+supposed to do; in short, a Sufi Poet like Hafiz and the rest.
+
+I cannot see reason to alter my opinion, formed as it was more than a
+dozen years ago[10] when Omar was first shown me by one to whom I am
+indebted for all I know of Oriental, and very much of other, literature.
+He admired Omar's genius so much, that he would gladly have adopted any
+such interpretation of his meaning as M. Nicolas' if he could.[11] That
+he could not, appears by his paper in the «Calcutta Review» already so
+largely quoted; in which he argues from the Poems themselves, as well as
+from what records remain of the Poet's Life.
+
+And if more were needed to disprove M. Nicolas' theory, there is the
+Biographical Notice which he himself has drawn up in direct
+contradiction to the interpretation of the Poems given in his notes.
+Indeed I hardly knew poor Omar was so far gone till his apologist
+informed me. For here we see that, whatever were the wine that Hafiz
+drank and sang, the veritable juice of the grape it was which Omar used,
+not only when carousing with his friends, but (says M. Nicolas) in order
+to excite himself to that pitch of devotion which others reached by
+cries and «hurlemens.» And yet, whenever wine, wine-bearer, etc., occur
+in the text--which is often enough--M. Nicolas carefully annotates
+«_Dieu_,» «_La Divinité_,» etc.: so carefully indeed that one is tempted
+to think that he was indoctrinated by the Sufi with whom he read the
+Poems. A Persian would naturally wish to vindicate a distinguished
+countryman: and a Sufi to enrol him in his own sect, which already
+comprises all the chief poets in Persia.
+
+What historical authority has M. Nicolas to show that Omar gave himself
+up «_avec passion à l'étude de la philosophie des Soufis_»? The
+doctrines of Pantheism, Materialism, Necessity, etc., were not peculiar
+to the Sufi; nor to Lucretius before them; nor to Epicurus before him;
+probably the very original irreligion of thinking men from the first;
+and very likely to be the spontaneous growth of a philosopher living in
+an age of social and political barbarism, under shadow of one of the
+Two-and-Seventy Religions supposed to divide the world. Von Hammer
+(according to Sprenger's «Oriental Catalogue») speaks of Omar as «a
+Free-thinker and _a great opponent of Sufism_»; perhaps because, while
+holding much of their doctrine, he would not pretend to any inconsistent
+severity of morals. Sir W. Ouseley has written a note to something of
+the same effect on the fly-leaf of the Bodleian MS. And in two Rubaiyat
+of M. Nicolas' own Edition Suf and Sufi are both disparagingly named.
+
+No doubt many of these Quatrains seem unaccountable unless mystically
+interpreted; but many more as unaccountable unless literally. Were the
+Wine spiritual, for instance, how wash the Body with it when dead? Why
+make cups of the dead clay to be filled with--«_La Divinité_»--by some
+succeeding Mystic? M. Nicolas himself is puzzled by some «_bizarres_»
+and «_trop Orientales_» allusions and images--«_d'une sensualité
+quelquefois révoltante_» indeed--which «_les convenances_» do not permit
+him to translate; but still which the reader cannot but refer to «_La
+Divinité_».[12] No doubt also many of the Quatrains in the Teheran, as
+in the Calcutta, Copies, are spurious; such _Rubaiyat_ being the common
+form of epigram in Persia. But this, at best, tells as much one way as
+another; nay, the Sufi, who may be considered the scholar and man of
+letters in Persia, would be far more likely than the careless epicure to
+interpolate what favours his own view of the poet. I observe that very
+few of the more mystical Quatrains are in the Bodleian MS. which must be
+one of the oldest, as dated at Shiraz, A.H. 865, A.D. 1460. And this, I
+think, especially distinguishes Omar (I cannot help calling him by
+his--no, not Christian--familar name) from all other Persian poets:
+That, whereas with them the poet is lost in his song, the man in
+allegory and abstraction, we seem to have the man--the _bonhomme_--Omar
+himself, with all his humours and passions, as frankly before us as if
+we were really at table with him, after the wine had gone round.
+
+I must say that I, for one, never wholly believed in the mysticism of
+Hafiz. It does not appear there was any danger in holding and singing
+Sufi Pantheism, so long as the poet made his salaam to Mohammed at the
+beginning and end of his song. Under such conditions Jelaluddin, Jami,
+Attar, and others sang; using wine and beauty indeed as images to
+illustrate, not as a mask to hide, the Divinity they were celebrating.
+Perhaps some allegory less liable to mistake or abuse had been better
+among so inflammable a people: much more so when, as some think with
+Hafiz and Omar, the abstract is not only likened to, but identified
+with, the sensual Image; hazardous, if not to the devotee himself, yet
+to his weaker brethren; and worse for the profane in proportion as the
+devotion of the initiated grew warmer. And all for what? To be
+tantalized with images of sensual enjoyment which must be renounced if
+one would approximate a God, who according to the doctrine, _is_ sensual
+matter as well as spirit, and into whose universe one expects
+unconsciously to merge after death, without hope of any posthumous
+beatitude in another world to compensate for all one's self-denial in
+this. Lucretius' blind Divinity certainly merited, and probably got, as
+much self-sacrifice as this of the Sufi; and the burden of Omar's
+song--if not «Let us eat»--is assuredly--«Let us drink, for to-morrow we
+die!» And if Hafiz meant quite otherwise by a similar language, he
+surely miscalculated when he devoted his life and genius to so equivocal
+a psalmody as, from his day to this, has been said and sung by any
+rather than spiritual worshippers.
+
+However, as there is some traditional presumption, and certainly the
+opinion of some learned men, in favour of Omar's being a Sufi--and even
+something of a saint--those who please may so interpret his wine and
+cup-bearer. On the other hand, as there is far more historical certainty
+of his being a philosopher, of scientific insight and ability far beyond
+that of the age and country he lived in; of such moderate worldly
+ambition as becomes a philosopher, and such moderate wants as rarely
+satisfy a debauchee. Other readers may be content to believe with me
+that, while the wine Omar celebrates is simply the juice of the grape,
+he bragged more than he drank of it, in very defiance perhaps of that
+spiritual wine which left its votaries sunk in hypocrisy or disgust.
+
+  EDWARD FITZGERALD.
+
+
+THE FITZGERALD FIRST EDITION
+
+    [_The first Edition of the translation of Omar Khayyam, which
+    appeared in 1859, differs so much from those which followed, that it
+    has been thought better to print it in full, instead of merely
+    attempting to record the differences_.]
+
+
+I.
+
+    Awake! for Morning in the Bowl of Night
+    Has flung the Stone that puts the Stars to Flight:
+    And Lo! the Hunter of the East has caught
+    The Sultan's Turret in a Noose of Light.
+
+
+II.
+
+    Dreaming when Dawn's Left Hand was in the Sky
+    I heard a Voice within the Tavern cry,
+    «Awake, my Little ones, and fill the Cup
+    Before Life's Liquor in its Cup be dry.»
+
+
+III.
+
+    And, as the Cock crew, those who stood before
+    The Tavern shouted--«Open then the Door!
+    You know how little while we have to stay,
+    And, once departed, may return no more.»
+
+
+IV.
+
+    Now the New Year reviving old Desires,
+    The thoughtful Soul to Solitude retires,
+    Where the WHITE HAND OF MOSES on the Bough
+    Puts out, and Jesus from the Ground suspires.
+
+
+V.
+
+    Iram indeed is gone with all its Rose,
+    And Jamshyd's Sev'n-ring'd Cup where no one knows;
+      But still the Vine her ancient Ruby yields,
+    And still a Garden by the Water blows.
+
+
+VI.
+
+    And David's Lips are lock't; but in divine
+    High piping Pehlevi, with «Wine! Wine! Wine!
+      _Red_ Wine!»--the Nightingale cries to the Rose
+    That yellow Cheek of her's to incarnadine.
+
+
+VII.
+
+    Come, fill the Cup, and in the Fire of Spring
+    The Winter Garment of Repentance fling:
+      The Bird of Time has but a little way
+    To fly--and Lo! the Bird is on the Wing.
+
+
+VIII.
+
+    And look--a thousand Blossoms with the Day
+    Woke--and a thousand scatter'd into Clay:
+      And this first Summer Month that brings the Rose
+    Shall take Jamshyd and Kaikobad away.
+
+
+IX.
+
+    But come with old Khayyam, and leave the Lot
+    Of Kaikobad and Kaikhosru forgot:
+      Let Rustum lay about him as he will,
+    Or Hatim Tai cry Supper--heed them not.
+
+
+X.
+
+    With me along some Strip of Herbage strown,
+    That just divides the desert from the sown,
+      Where name of Slave and Sultan scarce is known,
+    And pity Sultan Mahmud on his Throne.
+
+
+XI.
+
+    Here with a Loaf of Bread beneath the Bough,
+    A Flask of Wine, a Book of Verse--and Thou
+      Beside me singing in the Wilderness--
+    And Wilderness is Paradise enow.
+
+
+XII.
+
+    «How sweet is mortal Sovranty!»--think some:
+    Others--«How blest the Paradise to come!»
+      Ah, take the Cash in hand and waive the Rest;
+    Oh, the brave Music of a _distant_ Drum!
+
+
+XIII.
+
+    Look to the Rose that blows about us--«Lo,
+    Laughing,» she says, «into the World I blow:
+      At once the silken Tassel of my Purse
+    Tear, and its Treasure on the Garden throw.»
+
+
+XIV.
+
+    The Worldly Hope men set their Hearts upon
+    Turns Ashes--or it prospers; and anon,
+      Like Snow upon the Desert's dusty Face
+    Lighting a little Hour or two--is gone.
+
+
+XV.
+
+    And those who husbanded the Golden Grain,
+    And those who flung it to the Winds like Rain,
+      Alike to no such aureate Earth are turn'd
+    As, buried once, Men want dug up again.
+
+
+XVI.
+
+    Think, in this batter'd Caravanserai
+    Whose Doorways are alternate Night and Day,
+      How Sultan after Sultan with his Pomp
+    Abode his Hour or two, and went his way.
+
+
+XVII.
+
+    They say the Lion and the Lizard keep
+    The Courts where Jamshyd gloried and drank deep;
+      And Bahram, that great Hunter--the Wild Ass
+    Stamps o'er his Head, and he lies fast asleep.
+
+
+XVIII.
+
+    I sometimes think that never blows so red
+    The Rose as where some buried Cæsar bled;
+      That every Hyacinth the Garden wears
+    Dropt in its Lap from some once lovely Head.
+
+
+XIX.
+
+    And this delightful Herb whose tender Green
+    Fledges the River's Lip on which we lean--
+      Ah, lean upon it lightly! for who knows
+    From what once lovely Lip it springs unseen!
+
+
+XX.
+
+    Ah, my Belovéd, fill the Cup that clears
+    TO-DAY of past Regrets and future Fears--
+      _To-morrow_?--Why, To-morrow I may be
+    Myself with Yesterday's Sev'n Thousand Years.
+
+
+XXI.
+
+    Lo! some we loved, the loveliest and best
+    That Time and Fate of all their Vintage prest,
+      Have drunk their Cup a Round or two before,
+    And one by one crept silently to Rest.
+
+
+XXII.
+
+    And we, that now make merry in the Room
+    They left, and Summer dresses in new Bloom,
+      Ourselves must we beneath the Couch of Earth
+    Descend, ourselves to make a Couch--for whom?
+
+
+XXIII.
+
+    Ah, make the most of what we yet may spend,
+    Before we too into the Dust descend;
+      Dust into Dust, and under Dust, to lie,
+    Sans Wine, sans Song, sans Singer, and--sans End!
+
+
+XXIV.
+
+    Alike for those who for TO-DAY prepare,
+    And those that after a TO-MORROW stare,
+      A Muezzin from the Tower of Darkness cries
+    «Fools! your Reward is neither Here nor There!»
+
+
+XXV.
+
+    Why, all the Saints and Sages who discuss'd
+    Of the Two Worlds so learnedly, are thrust
+      Like foolish Prophets forth; their Words to Scorn
+    Are scatter'd and their Mouths are stopt with Dust.
+
+
+XXVI.
+
+    Oh, come with old Khayyam, and leave the Wise
+    To talk; one thing is certain, that Life flies;
+      One thing is certain, and the Rest is Lies;
+    The Flower that once has blown for ever dies.
+
+
+XXVII.
+
+    Myself when young did eagerly frequent
+    Doctor and Saint, and heard great Argument
+      About it and about: but evermore
+    Came out by the same Door as in I went.
+
+
+XXVIII.
+
+    With them the Seed of Wisdom did I sow,
+    And with my own hand labour'd it to grow:
+      And this was all the Harvest that I reap'd--
+    «I came like Water, and like Wind I go.»
+
+
+XXIX.
+
+    Into this Universe, and _why_ not knowing,
+    Nor _whence_, like Water willy-nilly flowing:
+      And out of it, as Wind along the Waste,
+    I know not _whither_, willy-nilly blowing.
+
+
+XXX.
+
+    What, without asking, hither hurried _whence?_
+    And, without asking, _whither_ hurried hence!
+      Another and another Cup to drown
+    The Memory of this Impertinence!
+
+
+XXXI.
+
+    Up from Earth's Centre through the Seventh Gate
+    I rose, and on the Throne of Saturn sate,
+      And many Knots unravel'd by the Road;
+    But not the Knot of Human Death and Fate.
+
+
+XXXII.
+
+    There was a Door to which I found no Key:
+    There was a Veil past which I could not see
+      Some little Talk awhile of ME and THEE
+    There seem'd--and then no more of THEE and ME.
+
+
+XXXIII.
+
+    Then to the rolling Heav'n itself I cried,
+    Asking, «What Lamp had Destiny to guide
+      Her little Children stumbling in the Dark?»
+    And--«A blind Understanding!» Heav'n replied.
+
+
+XXXIV.
+
+    Then to this earthen Bowl did I adjourn
+    My Lip the secret Well of Life to learn:
+      And Lip to Lip it murmur'd--«While you live
+    Drink!--for once dead you never shall return.»
+
+
+XXXV.
+
+    I think the Vessel, that with fugitive
+    Articulation answer'd, once did live,
+      And merry-make; and the cold Lip I kiss'd
+    How many Kisses might it take--and give!
+
+
+XXXVI.
+
+    For in the Market-place, one Dusk of Day,
+    I watch'd the Potter thumping his wet Clay:
+      And with its all obliterated Tongue
+    It murmur'd--«Gently, Brother, gently, pray!»
+
+
+XXXVII.
+
+    Ah, fill the Cup:--what boots it to repeat
+    How Time is slipping underneath our Feet:
+      Unborn TO-MORROW, and dead YESTERDAY,
+    Why fret about them if TO-DAY be sweet!
+
+
+XXXVIII.
+
+    One Moment in Annihilation's Waste,
+    One Moment, of the Well of Life to taste--
+      The Stars are setting and the Caravan
+    Starts for the Dawn of Nothing--Oh, make haste!
+
+
+XXXIX.
+
+    How long, how long, in infinite Pursuit
+    Of This and That endeavour and dispute?
+      Better be merry with the fruitful Grape
+    Than sadden after none, or bitter, Fruit.
+
+
+XL.
+
+    You know, my Friends, how long since in my House
+    For a new Marriage I did make Carouse:
+      Divorced old barren Reason from my Bed,
+    And took the Daughter of the Vine to Spouse.
+
+
+XLI.
+
+    For «IS» and «IS-NOT» though _with_ Rule and Line
+    And «UP-AND-DOWN» _without_, I could define,
+      I yet in all I only cared to know,
+    Was never deep in anything but--Wine.
+
+
+XLII.
+
+    And lately, by the Tavern Door agape,
+    Came stealing through the Dusk an Angel Shape
+      Bearing a Vessel on his Shoulder; and
+    He bid me taste of it; and 'twas--the Grape!
+
+
+XLIII.
+
+    The Grape that can with Logic absolute
+    The Two-and-Seventy jarring Sects confute:
+      The subtle Alchemist that in a Trice
+    Life's leaden Metal into Gold transmute.
+
+
+XLIV.
+
+    The mighty Mahmud, the victorious Lord,
+    That all the misbelieving and black Horde
+      Of Fears and Sorrows that infest the Soul
+    Scatters and slays with his enchanted Sword.
+
+
+XLV.
+
+    But leave the Wise to wrangle, and with me
+    The Quarrel of the Universe let be:
+      And, in some corner of the Hubbub coucht,
+    Make Game of that which makes as much of Thee.
+
+
+XLVI.
+
+    For in and out, above, about, below,
+    'Tis nothing but a Magic Shadow-show,
+      Play'd in a Box whose Candle is the Sun,
+    Round which we Phantom Figures come and go.
+
+
+XLVII.
+
+    And if the Wine you drink, the Lip you press,
+    End in the Nothing all Things end in--Yes--
+      Then fancy while Thou art, Thou art but what
+    Thou shalt be--Nothing--Thou shalt not be less.
+
+
+XLVIII.
+
+    While the Rose blows along the River Brink,
+    With old Khayyam the Ruby Vintage drink:
+      And when the Angel with his darker Draught
+    Draws up to Thee--take that, and do not shrink.
+
+
+XLIX.
+
+    'Tis all a Chequer-board of Nights and Days
+    Where Destiny with Men for Pieces plays:
+      Hither and thither moves, and mates, and slays,
+    And one by one back in the Closet lays.
+
+
+L.
+
+    The Ball no Question makes of Ayes and Noes,
+    But Right or Left as strikes the Player goes;
+      And He that toss'd Thee down into the Field,
+    _He_ knows about it all--HE knows--HE knows!
+
+
+LI.
+
+    The Moving Finger writes; and, having writ,
+    Moves on: nor all thy Piety nor Wit
+      Shall lure it back to cancel half a Line,
+    Nor all thy Tears wash out a Word of it.
+
+
+LII.
+
+    And that inverted Bowl we call The Sky,
+    Whereunder crawling coop't we live and die,
+      Lift not thy hands to _It_ for help--for It
+    Rolls impotently on as Thou or I.
+
+
+LIII.
+
+    With Earth's first Clay They did the Last Man's knead,
+    And then of the Last Harvest sow'd the Seed
+      Yea, the first Morning of Creation wrote
+    What the Last Dawn of Reckoning shall read.
+
+
+LIV.
+
+    I tell Thee this--When, starting from the Goal,
+    Over the shoulders of the flaming Foal
+      Of Heav'n Parwin and Mushtara they flung,
+    In my predestined Plot of Dust and Soul
+
+
+LV.
+
+    The Vine had struck a Fibre; which about
+    If clings my Being--let the Sufi flout;
+      Of my Base Metal may be filed a Key,
+    That shall unlock the Door he howls without,
+
+
+LVI.
+
+    And this I know: whether the one True Light,
+    Kindle to Love, or Wrath consume me quite,
+      One glimpse of It within the Tavern caught
+    Better than in the Temple lost outright.
+
+
+LVII.
+
+    Oh, Thou, who didst with Pitfall and with Gin
+    Beset the Road I was to wander in,
+      Thou wilt not with Predestination round
+    Enmesh me, and impute my Fall to Sin?
+
+
+LVIII.
+
+    Oh, Thou, who Man of baser Earth didst make,
+    And who with Eden didst devise the Snake;
+      For all the Sin wherewith the Face of Man
+    Is blacken'd, Man's Forgiveness give--and take
+
+       *       *       *       *       *
+
+
+KUZA-NAMA
+
+
+LIX.
+
+    Listen again. One evening at the Close
+    Of Ramazan, ere the better Moon arose,
+      In that old Potter's Shop I stood alone
+    With the clay Population round in Rows.
+
+
+LX.
+
+    And, strange to tell, among that Earthen Lot
+    Some could articulate, while others not:
+      And suddenly one more impatient cried--
+    «Who _is_ the Potter, pray, and who the Pot?»
+
+
+LXI.
+
+    Then said another--«Surely not in vain
+    My substance from the common Earth was ta'en,
+      That he who subtly wrought me into Shape
+    Should stamp me back to common Earth again.»
+
+
+LXII.
+
+    Another said--«Why, ne'er a peevish Boy,
+    Would break the Bowl from which he drank in Joy;
+      Shall He that _made_ the Vessel in pure Love
+    And Fancy, in an after Rage destroy!»
+
+
+LXIII.
+
+    None answer'd this; but after Silence spake
+    A vessel of a more ungainly Make:
+      «They sneer at me for leaning all awry;
+    What! did the Hand then of the Potter shake?»
+
+
+LXIV.
+
+    Said one--«Folks of a surly Tapster tell,
+    And daub his Visage with the smoke of Hell;
+      They talk of some strict Testing of us--Pish!
+    He's a Good Fellow, and 'twill all be well.»
+
+
+LXV.
+
+    Then said another with a long-drawn Sigh,
+    «My Clay with long oblivion is gone dry:
+      But, fill me with the old familiar Juice,
+    Methinks I might recover by-and-bye!»
+
+
+LXVI.
+
+    So while the Vessels one by one were speaking,
+    One spied the little Crescent all were seeking:
+      And then they jogg'd each other, «Brother, Brother!
+    Hark to the Porter's Shoulder-knot a creaking!»
+
+       *       *       *       *       *
+
+LXVII.
+
+    Ah, with the Grape my fading Life provide,
+    And wash my Body whence the Life has died,
+      And in a Windingsheet of Vine-leaf wrapt,
+    So bury me by some sweet Garden-side.
+
+
+LXVIII.
+
+    That ev'n my buried Ashes such a Snare
+    Of Perfume shall fling up into the Air,
+      As not a True Believer passing by
+    But shall be overtaken unaware.
+
+
+LXIX.
+
+    Indeed the Idols I have loved so long
+    Have done my Credit in Men's Eye much wrong:
+      Have drown'd my Honour in a shallow Cup,
+    And sold my Reputation for a Song.
+
+
+LXX.
+
+    Indeed, indeed, Repentance oft before
+    I swore--but was I sober when I swore?
+      And then and then came Spring, and Rose-in-hand
+    My thread-bare Penitence apieces tore.
+
+
+LXXI.
+
+    And much as Wine has play'd the Infidel,
+    And robb'd me of my Robe of Honour--well,
+      I often wonder what the Vintners buy
+    One half so precious as the Goods they sell.
+
+
+LXXII.
+
+    Alas, that Spring should vanish with the Rose!
+    That Youth's sweet-scented Manuscript should close!
+      The nightingale that in the Branches sang,
+    Ah, whence, and whither flown again, who knows!
+
+
+LXXIII.
+
+    Ah, Love! could thou and I with Fate conspire
+    To grasp this sorry Scheme of Things entire,
+      Would not we shatter it to bits--and then
+    Re-mould it nearer to the Heart's Desire!
+
+
+LXXIV.
+
+    Ah, Moon of my Delight who know'st no wane,
+    The Moon of Heav'n is rising once again:
+      How oft hereafter rising shall she look
+    Through this same Garden after me--in vain!
+
+
+LXXV.
+
+    And when Thyself with shining Foot shall pass
+    Among the Guests Star-scatter'd on the Grass,
+      And in thy joyous Errand reach the Spot
+    Where I made one--turn down an empty Glass!
+
+  TAMAM SHUD.
+
+
+NOTES.
+
+
+(Stanza II.) The «_False Dawn_»; _Subhi kazib_, a transient Light on the
+Horizon about an hour before the _Subhi sadik_, or True Dawn; a
+well-known Phenomenon in the East.
+
+(IV.) New Year. Beginning with the Vernal Equinox, it must be
+remembered; and (howsoever the old Solar Year is practically superseded
+by the clumsy _Lunar_ Year that dates from the Mohammedan Hegira) still
+commemorated by a Festival that is said to have been appointed by the
+very Jamshyd whom Omar so often talks of, and whose yearly Calendar he
+helped to rectify.
+
+«The sudden approach and rapid advance of the Spring,» says Mr.
+Binning,[13] «are very striking. Before the Snow is well off the Ground,
+the Trees burst into Blossom, and the Flowers start forth from the Soil.
+At _Now Rooz_ [_their_ New Year's Day] the Snow was lying in patches on
+the Hills and in the shaded Valleys, while the Fruit-trees in the
+Gardens were budding beautifully, and green Plants and Flowers springing
+up on the Plains on every side--
+
+    'And on old Hyems' Chin and icy Crown
+    An odorous Chaplet of sweet Summer buds
+    Is, as in mockery, set'--
+
+Among the Plants newly appeared I recognised some old Acquaintances I
+had not seen for many a Year: among these, two varieties of the
+Thistle--a coarse species of Daisy like the 'Horse-gowan'--red and white
+Clover--the Dock--the blue Corn-flower--and that vulgar Herb the
+Dandelion rearing its yellow crest on the Banks of the Water-courses.»
+The Nightingale was not yet heard, for the Rose was not yet blown; but
+an almost identical Blackbird and Wood-pecker helped to make up
+something of a North-country Spring.
+
+«The White Hand of Moses.» Exodus iv. 6; where Moses draws forth his
+Hand--not, according to the Persians, «_leprous as Snow,_» --but
+_white_, as our May-blossom in Spring perhaps. According to them also
+the Healing Power of Jesus resided in His Breath.
+
+(V.) Iram, planted by King Shaddad, and now sunk somewhere in the Sands
+of Arabia. Jamshyd's Seven-ring'd Cup was typical of the 7 Heavens, 7
+Planets, 7 Seas, etc., and was a _Divining Cup_.
+
+(VI.) _Pehlevi_, the old Heroic _Sanskrit_ of Persia. Hafiz also speaks
+of the Nightingale's _Pehlevi_, which did not change with the People's.
+
+I am not sure if the fourth line refers to the Red Rose looking sickly,
+or to the Yellow Rose that ought to be Red; Red, White, and Yellow Roses
+all common in Persia. I think that Southey in his «Common-Place Book,»
+quotes from some Spanish author about the Rose being White till 10
+o'clock; «_Rosa Perfecta_» at 2; and «_perfecta incarnada_» at 5.
+
+(X.) Rustum, the «Hercules» of Persia, and Zal his Father, whose
+exploits are among the most celebrated in the Shahnama. Hatim Tai, a
+well-known type of Oriental generosity.
+
+(XIII.) A Drum--beaten outside a Palace.
+
+(XIV.) That is, the Rose's Golden Centre.
+
+(XVIII.) Persepolis: call'd also _Takht.i-Jamshyd_--THE THRONE OF
+JAMSHYD, «_King Splendid,_» of the mythical _Peshdadian_ Dynasty, and
+supposed (according to the Shahnama) to have been founded and built by
+him. Others refer it to the Work of the Genie King, Jan Ibn Jan--who
+also built the Pyramids--before the time of Adam.
+
+BAHRAM GUR--_Bahram of the Wild Ass_--a Sassanian Sovereign--had also
+his Seven Castles (like the King of Bohemia!) each of a different
+Colour; each with a Royal Mistress within; each of whom tells him a
+Story, as told in one of the most famous Poems of Persia, written by
+Amir Khusraw: all these Seven also figuring (according to Eastern
+Mysticism) the Seven Heavens; and perhaps the Book itself that Eighth,
+into which the mystical Seven transcend, and within which they revolve.
+The Ruins of Three of those Towers are yet shown by the Peasantry; as
+also the swamp in which Bahram sunk like the Master of Ravenswood while
+pursuing his _Gur_.
+
+    The Palace that to Heav'n his pillars threw,
+    And Kings the forehead on his threshold drew--
+      I saw the solitary Ringdove there,
+    And «Coo, coo, coo,» she cried; and «Coo, coo, coo.»
+
+This Quatrain Mr. Binning found, among several of Hafiz and others,
+inscribed by some stray hand among the ruins of Persepolis. The
+Ringdove's ancient _Pehlevi Coo, Coo, Coo_, signifies also in Persian,
+«_Where? Where? Where?_» In Attar's «Bird-parliament» she is reproved by
+the Leader of the Birds for sitting still, and for ever harping on that
+one note of lamentation for her lost Yusuf.
+
+Apropos of Omar's Red Roses in Stanza xix., I am reminded of an old
+English superstition, that our Anemone Pulsatilla, or purple «Pasque
+Flower» (which grows plentifully about the Fleam Dyke, near Cambridge),
+grows only where Danish blood has been spilt.
+
+(XXI.) A thousand years to each Planet.
+
+(XXXI.) Saturn, Lord of the Seventh Heaven.
+
+(XXXII.) ME-AND-THEE: some dividual Existence or Personality distinct
+from the Whole.
+
+(XXXVII.) One of the Persian Poets--Attar, I think--has a pretty story
+about this. A thirsty Traveller dips his hand into a Spring of Water to
+drink from. By and by comes another who draws up and drinks from an
+earthen Bowl, and then departs, leaving his Bowl behind him. The first
+Traveller takes it up for another draught; but is surprised to find that
+the same Water which had tasted sweet from his own hand tastes bitter
+from the earthen Bowl. But a Voice--from Heaven, I think--tells him the
+clay from which the Bowl is made was once _Man_; and, into whatever
+shape renewed, can never lose the bitter flavour of Mortality.
+
+(XXXIX.) The custom of throwing a little Wine on the ground before
+drinking still continues in Persia, and perhaps generally in the East.
+Mons. Nicolas considers it «_un signe de libéralité, et en même temps un
+avertissement que le buveur doit vider sa coupe jusqu' à la dernière
+goutte_.» Is it not more likely an ancient Superstition; a Libation to
+propitiate Earth, or make her an Accomplice in the illicit Revel? Or,
+perhaps, to divert the Jealous Eye by some sacrifice of superfluity, as
+with the Ancients of the West? With Omar we see something more is
+signified; the precious Liquor is not lost, but sinks into the ground to
+refresh the dust of some poor Wine-worshipper foregone.
+
+Thus Hafiz, copying Omar in so many ways: «When thou drinkest Wine pour
+a draught on the ground. Wherefore fear the Sin which brings to another
+Gain?»
+
+(XLIII.) According to one beautiful Oriental Legend, Azrael accomplishes
+his mission by holding to the nostril an Apple from the Tree of Life.
+
+This and the two following Stanzas would have been withdrawn, as
+somewhat _de trop_, from the Text, but for advice which I least like to
+disregard.
+
+(LI.) Prom Mah to Mahi; from Fish to Moon.
+
+(LVI.) A Jest, of course, at his Studies. A curious mathematical
+Quatrain of Omar's has been pointed out to me; the more curious because
+almost exactly parallel'd by some Verses of Bishop Donne's, that are
+quoted in Izaak Walton's Lives! Here is Omar: «You and I are the image
+of a pair of compasses; though we have two heads (sc. our _feet_) we
+have one body; when we have fixed the centre for our circle, we bring
+our heads (sc. feet) together at the end.» Dr. Donne:--
+
+    If we be two, we two are so
+      As stiff twin-compasses are two;
+    Thy Soul, the fixt foot, makes no show
+      To move, but does if the other do.
+
+    And though thine in the centre sit,
+      Yet when my other far does roam,
+    Thine leans and hearkens after it,
+      And grows erect as mine comes home.
+
+    Such thou must be to me, who must
+      Like the other foot obliquely run;
+    Thy firmness makes my circle just,
+      And me to end where I begun.
+
+(LIX.) The Seventy-two Religions supposed to divide the World,
+_including_ Islamism, as some think: but others not.
+
+(LX.) Alluding to Sultan Mahmud's Conquest of India and its dark people.
+
+(LXVIII.) _Fanusi khiyal_, a Magic-lantern still used in India; the
+cylindrical Interior being painted with various Figures, and so lightly
+poised and ventilated as to revolve round the lighted Candle within.
+
+(LXX.) A very mysterious Line in the Original:--
+
+    _O danad O danad O danad O----_
+
+breaking off something like our Wood-pigeon's Note, which she is said to
+take up just where she left off.
+
+(LXXV.) Parwin and Mushtari--The Pleiads and Jupiter.
+
+(LXXXVII.) This Relation of Pot and Potter to Man and his Maker figures
+far and wide in the Literature of the World, from the time of the Hebrew
+Prophets to the present; when it may finally take the name of «Pot
+theism,» by which Mr. Carlyle ridiculed Sterling's «Pantheism.» _My_
+Sheikh, whose knowledge flows in from all quarters, writes to me--
+
+«Apropos of old Omar's Pots, did I ever tell you the sentence I found in
+Bishop Pearson on the Creed? 'Thus are we wholly at the disposal of His
+will, and our present and future condition framed and ordered by His
+free, but wise and just, decrees. _Hath not the potter power over the
+clay, of the same lump to make one vessel unto honour, and another unto
+dishonour?_ (Rom. ix. 21.) And can that earth-artificer have a freer
+power over his _brother potsherd_ (both being made of the same metal),
+than God hath over him, who, by the strange fecundity of His omnipotent
+power, first made the clay out of nothing, and then him out of that?'»
+
+And again--from a very different quarter--«I had to refer the other day
+to Aristophanes, and came by chance on a curious Speaking-pot story in
+the _Vespæ_, which I had quite forgotten.
+
+  philokleon.  Akoue me pheug'· en Subarei gyne pote  1. 1435
+               kateax' echinon.
+
+  Kategoros.                   Taut' ego martyromai.
+
+  Phi.         Oychinos oun echon tin' epemartyrato·
+               Eith' e Sybaritis eipen, ei nai tan koran
+               ten martyrian tauten easas, en tachei
+               epidesmon epria, noun an eiches pleiona.
+
+«The Pot calls a bystander to be a witness to his bad treatment. The
+woman says, 'If, by Proserpine, instead of all this «testifying» (comp.
+Cuddie and his mother in «Old Mortality!») you would buy yourself a
+rivet, it would show more sense in you!' The Scholiast explains
+_echinus_ as aggos ti ek keramon.»
+
+One more illustration for the oddity's sake from the «Autobiography of a
+Cornish Rector,» by the late James Hamley Tregenna. 1871.
+
+«There was one old Fellow in our Company--he was so like a Figure in the
+'Pilgrim's Progress' that Richard always called him the 'ALLEGORY,' with
+a long white beard--a rare Appendage in those days--and a Face the
+colour of which seemed to have been baked in, like the Faces one used to
+see on Earthenware Jugs. In our Country-dialect Earthenware is called
+'_Clome_'; so the Boys of the Village used to shout out after him--'Go
+back to the Potter, old Clome-face, and get baked over again.' For the
+'Allegory,' though shrewd enough in most things, had the reputation of
+being _saift-baked_, _i.e._, of weak intellect.»
+
+(XC.) At the Close of the Fasting Month, Ramazan (which makes the
+Musulman unhealthy and unamiable), the first Glimpse of the New Moon
+(who rules their division of the Year) is looked for with the utmost
+Anxiety, and hailed with Acclamation. Then it is that the Porter's Knot
+may be heard--toward the _Cellar_. Omar has elsewhere a pretty Quatrain
+about the same Moon--
+
+    «Be of Good Cheer--the sullen Month will die,
+    And a young Moon requite us by and by:
+      Look how the Old one, meagre, bent, and wan
+    With Age and Fast, is fainting from the Sky!»
+
+
+  AN ANALYSIS OF
+
+  EDWARD FITZGERALD'S TRANSLATION
+
+  OF THE
+
+  QUATRAINS OF OMAR KHAYYAM
+
+  (_Fifth Edition_)
+
+  By EDWARD HERON-ALLEN
+
+
+PREFACE
+
+
+The object with which this volume has been compiled has been to set at
+rest, once and for ever, the vexed question of how far Edward
+FitzGerald's incomparable poem may be regarded as a translation of the
+Persian originals, how far as an adaptation, and how far as an original
+work. In the Introduction to my recently published translation of the
+Ouseley MS. in the Bodleian Library at Oxford, and more particularly in
+the Essay which terminates the second edition of that work, I have dwelt
+at considerable length upon the history of Edward FitzGerald's poem and
+the influences of various Oriental works which are traceable in it. As
+it is doubtful whether the present volume will reach the hands of, or at
+any rate be critically considered by, any students of the poem who have
+not already had access to my former work, I do not think that it would
+be either expedient or useful to repeat in this place the information
+which is collected there, but a short history of the major portion of
+Edward FitzGerald's material is necessary, for the purpose of showing
+why this question of translation, adaptation, or original composition
+should have been a question open to lengthy argument, and why it has
+been impossible to set it at rest until the present time, when forty
+years have elapsed since first Edward FitzGerald's poem attracted the
+attention of those great scholars and poets who rescued it, as recounted
+in the threadbare anecdote, from the oblivion of the penny box.
+
+The influence of the Ouseley MS. upon the poem forms the subject of the
+volume to which I have referred, and, save in so far as it recurs in the
+parallels which give excuse for the present work, may be dismissed, but
+the doubts which have sprung up as to the extent to which Edward
+FitzGerald took, as his editor, Mr. Aldis Wright, says, «great liberties
+with the original,» have arisen in consequence of the vicissitudes which
+have befallen the rest of the material from which the poet worked during
+the construction of his first edition. We know that Prof. Cowell made a
+copy of the Ouseley MS. for Edward FitzGerald just before he went to
+India in August, 1856. In another letter he says «I got a copy made for
+him from the one MS. in the Bengal Asiatic Society's Library at Calcutta
+soon after I arrived in November, 1856. It reached FitzGerald June 14th,
+1857, as I learn by a note in his writing. Some time after this I sent
+him a copy of that rare Calcutta printed edition which I got from my
+Munshi.» To possess oneself therefore of full information as to what
+material Edward FitzGerald really worked from in making the original
+edition of his poem, it was necessary to consult, line by line, and word
+by word, the Calcutta MS. (noted as No. 1548 in the Bengal Asiatic
+Society's Library) and the Calcutta _printed_ edition of 1836,--in
+addition, of course, to the Ouseley MS. Prof. Cowell most generously
+placed at my disposal his copy of the Calcutta MS., but, as he himself
+has recorded, the copy was made by an inferior scribe in a hand which is
+exceedingly difficult to read. I therefore communicated with Mr. A.T.
+Pringle, Director of Indian Records in the Home Department at Calcutta,
+himself a keen and critical student of Omar Khayyam, with a view to
+getting either a photographic reproduction, or a clean copy of this MS.
+made for me. Careful search and widely spread enquiry brought to light
+the fact that the MS. was lost, stolen, or strayed, so that Prof.
+Cowell's copy was the only record left of this portion of Edward
+FitzGerald's material. This copy I sent out to India, and had copied by
+a good writer, a copy being made at the same time to replace that which
+had been stolen.
+
+I next addressed myself to the discovery of «that rare Calcutta
+_printed_ edition,» of whose existence, after searching in vain every
+European State library and many others, and every library in India of
+which I could learn, I began to have grave doubts, thinking that Prof.
+Cowell had inadvertently confused it with an edition _lithographed_
+simultaneously at Calcutta and Teheran in 1836. In the summer, however,
+when I had given up all hope, one of Mr. Pringle's clerks picked up a
+copy of the long sought book in the Bazar at Calcutta, printed from type
+at Calcutta in 1836. A circumstance that greatly adds to the interest of
+this discovery, whilst at the same time it very greatly lessened my
+labours, lies in the fact that this edition is evidently printed from
+the lost Calcutta MS. itself, both introduction and quatrains being
+identical in readings and sequence. A few quatrains, including the
+repetitions, forming part of the MS. and nearly all those written in the
+margins of the MS. are omitted, but nearly all of these are added as an
+appendix to the book, the printer explaining in a short note that they
+were found in a _bayaz_ (or book of extracts), and were added in that
+place instead of in their _diwan_ (or alphabetical) order on account of
+their more than ordinarily antinomian tendency. A very interesting
+question arises hereon, whether these latter were printed into the book
+from the margins of the MS. after being purposely or accidentally
+omitted, _or_ whether they were written on to the margin of the MS. from
+this book at some date between 1836 and 1856. I think that the former is
+the more likely explanation, but in the absence of the MS. this question
+cannot be solved.
+
+I find myself therefore in the interesting position of having the whole
+of FitzGerald's material before me; and though (so perfectly did Edward
+FitzGerald identify himself with his author's habit of mind) many other
+MSS. contain quatrains that closely resemble his marvellous paraphrase,
+there is nothing written by or attributed to Omar Khayyam which served
+FitzGerald for inspiration in making his first edition, other than what
+is to be found in the three, or rather two, texts above referred to. I
+have spoken already (and at length, in the Terminal Essay to my former
+volume) of the influences exerted by other Oriental poets upon his work,
+and especially that of the Mantik ut-tair, or Parliament of Birds of
+Ferid ud din Attar; where it was direct or exclusive I have set it down
+in the parallels which follow. The result of my observations may be
+summarised as follows:
+
+Of Edward FitzGerald's quatrains, forty-nine are faithful and beautiful
+paraphrases of single quatrains to be found in the Ouseley or Calcutta
+MSS., or both.[14]
+
+Forty-four are traceable to more than one quatrain, and therefore may be
+termed «composite» quatrains.
+
+Two are inspired by quatrains found by FitzGerald only in Nicolas' text.
+
+Two are quatrains reflecting the whole spirit of the original poem.
+
+Two are traceable exclusively to the influence of the Mantik ut-tair of
+Ferid ud din Attar.
+
+Two quatrains primarily inspired by Omar were influenced by the Odes of
+Hafiz.
+
+And three, which appeared only in the first and second editions and were
+afterwards suppressed by Edward FitzGerald himself, are not--so far as a
+careful search enables me to judge--attributable to any lines of the
+original texts. Other authors may have inspired them, but their
+identification is not useful in this case.
+
+The «fillip,» so to speak, given to FitzGerald's interest in the
+ruba'iyat, by the publication of Monsieur J.B. Nicolas' text and
+translation of 464 «_Les Quatrains de Khèyam_» (Paris, 1867), must not
+be lost sight of, and may be held responsible for many, if not most of
+the variations and additions that differentiate the second, third, and
+fourth editions from the first. This volume, as FitzGerald himself
+records in his Introduction to the second and subsequent editions,
+«reminded him of several things and instructed him in others.» Two of
+FitzGerald's later quatrains at least (Nos. 46 and 98) come from that
+text, and these I have never seen in any MS. text; and, in seeking the
+parallels to the present volume, I have collated exactly 5,235 ruba'iyat
+in the original Persian. I have appended to every Persian ruba'i in the
+following pages, references to the texts in which I have found the same
+ruba'i, in the identical form, or more or less varied, and it will be
+observed that, for the most part, the ruba'iyat which inspired
+FitzGerald are those which have so appealed to the Oriental mind as to
+be represented in nearly all the MSS. and texts under examination. The
+Ouseley MS. being the first text that occupied FitzGerald's attention,
+where his inspirational lines occur both in that MS. and the Calcutta
+MS., I have given the Ouseley MS. version, noting any important
+variations to be found in the Calcutta MS. It will be observed that
+FitzGerald's tendency, after the second edition, was to eliminate
+quatrains which were merely suggested by the general tone and sentiment
+of the original poem, and not the reflection or translation of
+particular and identifiable ruba'iyat. The reader is especially
+recommended, when studying these parallels, to turn to the corresponding
+quatrain in the first edition, for FitzGerald often diverged further
+from the originals in making his subsequent variations--notably, for
+instance, in the first and forty-eighth quatrains.
+
+With regard to my own translations of the originals in the following
+pages, I may remark that the excessive baldness of the translation is
+intentional, for I deemed it better to put before the lovers of
+FitzGerald's poem the closest and most unpolished English rendering,
+rather than to attempt to clothe the literal meaning of the originals in
+graceful phraseology.
+
+I desire to record in this place my most cordial thanks, for the
+invaluable assistance they have given me in the preparation of this
+volume, to Mr. A.T. Pringle, Professor E.B. Cowell, and Dr. E. Denison
+Ross, and to Mr. Aldis Wright, Edward FitzGerald's literary executor,
+and his publishers Messrs. Macmillan, for their very kind permission to
+reproduce in this volume the poem which has brought it into existence.
+
+  EDWARD HERON-ALLEN.
+
+
+EXPLANATION OF THE REFERENCES IN THE FOLLOWING PARALLELS
+
+
+The following are the alternative texts and translations referred to in
+the following parallels:--
+
+    O.--The Ouseley MS. No. 140 in the Bodleian Library at Oxford, dated
+    A.H. 865 (A.D. 1460), containing 158 ruba'iyat. A facsimile and
+    translation with notes, etc., were published by H.S. Nichols, Ltd.
+    (London, 1898).
+
+    C.--The Calcutta MS. No. 1548 in the Bengal Asiatic Society's
+    Library at Calcutta, containing 510 ruba'iyat. The original has been
+    lost or stolen, but a copy has been made from the copy made for
+    Edward FitzGerald at the instance of Prof. Cowell.
+
+    L.--The Lucknow lithograph. The edition referred to is that of A.H.
+    1312 (A.D. 1894), containing 770 ruba'iyat.
+
+    W.--The text and metrical translation published by E.H. Whinfield
+    (London, Trübner, 1883), containing 500 ruba'iyat.
+
+    N.--The text and prose translation published by J.B. Nicolas (Paris,
+    Imprimerie Impériale, 1867), containing 464 ruba'iyat.
+
+    S.P.--The text lithographed at St. Petersburg, A.H. 1308 (A.D.
+    1888), containing 453 ruba'iyat. Almost identical with N.
+
+    B.--A collection of poems lithographed at Bombay, A.H. 1297 (A.D.
+    1880), containing 756 ruba'iyat of Omar. Almost identical with L.
+
+    B. ii.--The MS. in the Public Library at Bankipur, dated A.H. 961-2
+    (A.D. 1553-4), containing 604 ruba'iyat.
+
+    P.--The MS. in the Bibliothèque Nationale, Paris. Supplément Persan,
+    No. 823, ff. 92-113. Dated A.H. 934 (A.D. 1527), containing 349
+    ruba'iyat.
+
+    P. ii.--Seven ruba'iyat written upon blank pages of MS. of the Diwan
+    of Emad. Dated A.H. 786 (A.D. 1384). Bibliothèque Nationale, Paris.
+    Supplément Persan, No. 745. The handwriting is of the end of the 9th
+    or beginning of the 10th century of the Hijrah.
+
+    P. iii.--Six ruba'iyat written in a handwriting of the 11th century
+    of the Hijrah, on fol. 104 of a MS. collection of poems.
+    Bibliothèque Nationale, Paris. Supplément Persan, No. 793.
+
+    P. iv.--The MS. in the Bibliothèque Nationale, Paris. Supplément
+    Persan, No. 826, ff. 391-394. Dated A.H. 937 (A.D. 1530), containing
+    76 ruba'iyat.
+
+    P. v.--The MS. in the Bibliothèque Nationale, Paris. Ancien Fonds.,
+    No. 349, ff. 181-210. Dated A.H. 920 (A.D. 1514), containing 213
+    ruba'iyat.
+
+    T.--The MS. in the Library of the Nawab of Tonk. Apparently copied
+    about A.D. 1840 principally from C., containing 369 ruba'iyat.
+
+    E.C.--The quatrains translated by Prof. E.B. Cowell in his article
+    in the «Calcutta Review,» No. 59, March, 1858, p. 149.
+
+    De T.--The ten quatrains translated from the Ouseley MS. by Garcin
+    de Tassy in his «_Note sur les Ruba'iyat d'Omar Khaïyam._» (Paris,
+    Imprimerie Impériale, 1857.)
+
+    V.--The metrical translation by John Payne, published by the Villon
+    Society (London, 1898), containing 845 quatrains.
+
+
+ANALYSIS OF EDWARD FITZGERALD'S QUATRAINS
+
+
+I.
+
+    Wake! For the Sun, who scatter'd into flight
+    The Stars before him from the Field of Night,
+      Drives Night along with them from Heav'n, and strikes
+    The Sultan's Turret with a Shaft of Light.
+
+This version of the opening quatrain is gradually evolved through the
+four editions. The quatrain, which, in the first edition runs:
+
+    Awake! for Morning in the Bowl of Night
+    Has flung the Stone that puts the Stars to Flight:
+      And lo! the Hunter of the East has caught
+    The Sultan's Turret in a Noose of Light.
+
+is inspired by C. 134.
+
+    The Sun casts the noose of morning upon the roofs,
+    Kai Khosru of the day, he throws a stone into the bowl:
+    Drink wine! for the Herald of the Dawn, rising up,
+    Hurls into the days the cry of «Drink ye!»
+
+_Ref._:[15]L. 235, B. 232, C. 134, P. 320, T. 138.--W. 233, V. 242.
+
+It is not surprising that Mr. Aldis Wright, in his editorial note at the
+end of Messrs. Macmillan's definitive edition (London, 1890), states
+that «the first stanza is entirely his own,» for, in this precise form
+the ruba'i is only to be found in the Calcutta MS. and in a recently
+discovered MS. copied largely from it and belonging to the Nawab of
+Tonk. The matter rests upon the word «stone» in the second line. The
+word means «to fling a stone into a cup or pot,» which is the signal for
+«striking camp» among tribes of nomad Arabs. All the other texts I have
+seen read wine for stone which has made the translators (Whinfield and
+Payne) properly render the passage «pours _wine_ into the cup.»
+
+
+II.
+
+    Before the phantom of False morning died,
+    Methought a Voice within the Tavern cried,
+      «When all the Temple is prepared within,
+    «Why nods the drowsy Worshipper outside?»
+
+The inspiration for this quatrain is to be found in C. 5:
+
+    There came one morning a cry from our tavern:
+    «Ho! our crazy, tavern-haunting profligate[16]
+    «Arise! that we may fill the measure with wine,
+    «Ere they fill up our measure (of life).»
+
+_Ref._: L. 1, B. 1, C. 5, B. ii. 1, T. 3.--W. 1, N. 1, V. 1.
+
+In FitzGerald's quatrain there is traceable the influence of one of the
+odes of Hafiz, translated by Prof. Cowell (in «Fraser's Magazine,»
+September, 1854), which he greatly admired. The lines in question run:
+
+    The morning dawns and the cloud has woven a canopy,
+    The morning draught, my friends, the morning draught!
+    It is strange that at such a season
+    They shut up the wine tavern! Oh, hasten!
+    Have they still shut up the door of the tavern?
+    Open, oh thou Keeper of the Gates![17]
+
+The influence of these lines is carried on into the next quatrain.
+
+
+III.
+
+    And, as the Cock crew, those who stood before
+    The Tavern shouted--«Open then the Door!
+      You know how little while we have to stay,
+    And, once departed, may return no more.»
+
+The inspiration for this quatrain is found in four ruba'iyat of the
+Calcutta MS., viz.: 641, 207 (ll. 3 and 4), 273, 247.
+
+    It is the hour for the morning draught, and the cock-crow, O Saki,
+    Here are we, and the wine, and the street of the vintners, O Saki,
+    What time is this for devotions? Be silent, O Saki,
+    Let be the traditions,[18] and drink to the dregs, O Saki.
+
+_Ref._: L. 685, B. 676, C. 461, S.P. 448, B. ii. 599.--W. 483, N. 454,
+V. 737.
+
+    Thou must drink wine, and gratify the pleasures of thy heart,
+    It is clear that so long (and no longer) thou wilt remain
+          in this world.
+
+_Ref._: L. 281, B. 277, C. 207.--V. 285.
+
+    O Essence of Delight! Arise, it is the dawn!
+    Softly, softly drink wine, and play the harp
+    For those who are asleep do not find much,
+    And none of those who are gone will ever come back.
+
+_Ref._: L. 431, B. 427, P. 289, C. 273, B. ii. 307, T. 173, P. v.
+163.--N. 235, V. 469.
+
+    It is the dawn! Arise, O strange boy!
+    Fill up the crystal cup with ruby wine.
+    For this moment (of existence) that is lent thee in this
+          corner of mortality
+    Thou may'st seek long, but thou shalt not find it again.
+
+_Ref._: L. 402, B. 398, P. 224, S.P. 213, C. 247, B. ii. 282, P. iv.
+21.--N. 214, V. 425.
+
+
+IV.
+
+    Now the New Year reviving old Desires,
+    The thoughtful Soul to Solitude retires,
+      Where the WHITE HAND OF MOSES on the Bough
+    Puts out, and Jesus from the Ground suspires.
+
+This quatrain is translated from two ruba'iyat in the Ouseley MS., 13
+and 80.
+
+    Now that there is a possibility of happiness for the world,
+    Every living heart[19] has yearnings towards the desert,
+    Upon every bough is the appearance of Moses' hand,
+    In every breeze is the exhalation of Jesus' breath.[20]
+
+_Ref._: P. 194, O. 13.--W. 116.
+
+    Now is the time when by the spring breezes[21] the world is adorned,
+    And in hope of rain it opens its eyes,[22]
+    The hands of Moses appear like froth upon the bough,
+    And the breath of Jesus comes forth from the earth.
+
+_Ref._: O. 80, L. 272, B. 268, C. 204, S.P. 186, P. 157.--W. 201, N.
+186, V. 276.
+
+
+V.
+
+    Iram indeed is gone with all his Rose,
+    And Jamshyd's Sev'n-ring'd Cup where no one knows;
+      But still a Ruby kindles in the Vine,
+    And many a Garden by the Water blows.
+
+This is a very composite quatrain, which cannot be claimed as a
+translation of all, or the main part of any, of the C. or O. quatrains.
+All the texts, as indeed all Persian poetry, are filled with references
+of which we find an echo here. In the authorities at our disposal,
+Jamshyd is referred to in C. 254. The Ruby in the Wine occurs in O. 39,
+87, 149, and in C. 296, 304, 413, and 460. The Garden by the Water
+occurs in O. 151 (C. 415), and in C. 44 and 417. I have never found any
+reference to the Garden of Iram in quatrains attributed to Omar
+Khayyam.[23]
+
+
+VI.
+
+    And David's lips are lockt; but in divine
+    High-piping Pehlevi, with «Wine! Wine! Wine!
+      Red Wine!»--the Nightingale cries to the Rose
+    That sallow cheek of hers to 'incarnadine.
+
+This quatrain (eliminating the reference to David[24]) is translated
+from O. 67.
+
+    It is a pleasant day, and the weather is neither hot nor cold;
+    The rain has washed the dust from the faces of the roses;
+    The nightingale in the Pehlevi tongue[25] to the yellow[26] rose
+    Cries ever: «Thou must drink wine!»
+
+_Ref._: O. 67, L. 291, B. 287, S.P. 153, P. 230.--W. 174, N. 153, V.
+294.
+
+
+VII.
+
+    Come, fill the Cup, and in the fire of Spring
+    Your Winter-garment of Repentance fling:
+      The Bird of Time has but a little way
+    To flutter--and the Bird is on the Wing.
+
+This is another composite quatrain, and the similarity of its sentiment
+to that of No. 94 (_post_) makes it somewhat difficult to allocate the
+parallels to it. The first two lines come from two quatrains in C. 431
+and 460 (ll. 1 and 2).
+
+    Every day I resolve to repent in the evening,
+    Repenting of the brimful goblet, and the cup;
+    (But) now that the season of roses has come, I cannot grieve,
+    Give penitence for repentance[27] in the season of roses, O Lord!
+
+_Ref._: C. 431, L. 655, B. 647, B. ii. 510.--W. 425, V. 704.
+
+    The flowers are blooming, bring wine, O Saki,
+    Abandon the practices of the zealot, O Saki.
+
+_Ref._: C. 460, L. 684, B. 675, B. ii. 540.--V. 736.
+
+The image of the flight of time permeates the whole of the quatrains.
+The precise image that FitzGerald uses in ll. 3 and 4 I find in the 24th
+distich of the Mantik ut-tair of Ferid ud din Attar.
+
+The bird of the sky flutters along its appointed path.
+
+
+VIII.*[28]
+
+    Whether at Naishapur or Babylon,
+    Whether the Cup with sweet or bitter run,
+      The Wine of Life keeps oozing drop by drop,
+    The Leaves of Life keep falling one by one.
+
+This quatrain is taken mainly from O. 47 (C. 123). It does not occur in
+the first edition, and FitzGerald was evidently «reminded of it» by
+Nicolas, in whose reading of the text, alone, the town of Naishapur is
+mentioned instead of Balkh. Balkh and Babylon are constantly
+interchanged in Persian _belles lettres_.
+
+    Since life passes; what is Baghdad and what is Balkh?
+    When the cup is full, what matter if it be sweet or bitter?[29]
+    Drink wine, for often, after thee and me, this moon
+    Will pass on from the last day of the month to the first, and from the
+          first to the last.
+
+_Ref._: O. 47, L. 299, B. 226, C. 123, S.P. 105, P. 51, T. 99.--W. 134,
+N. 105, E.C. 2, V. 236.
+
+If closer reference for line 3 be required, it may be found in N. 18,
+ll. 3 and 4.
+
+    Whether our Saki holds the neck of the bottle in his hand,
+    Or the soul of wine oozes over the rim of the cup.
+
+_Ref._: L. 35, B. 32, S.P. 18.--W. 21, N. 18, V. 33.
+
+«The leaves of life» recur constantly either as leaves of a tree, or of
+a book. FitzGerald's inspiration comes from C. 377, ll. 1 and 2. (_Vide_
+also _sub._ No. 9.)
+
+    At the moment when I flee from destiny,
+    And fall like the leaf of the vine, from the branch.
+
+_Ref._: C. 377, L. 574, B. 567, S.P. 265, B. ii. 353, T. 249.--W. 309,
+N. 266, V. 614.
+
+
+IX.
+
+    Each Morn a thousand Roses brings, you say;
+    Yes, but where leaves the Rose of Yesterday?
+      And this first Summer month that brings the Rose
+    Shall take Jamshyd and Kaikobad away.
+
+This quatrain owes its origin to three separate ruba'iyat, viz.: O. 135
+(ll. 3 and 4) C. 500 (ll. 1 and 2), C. 481 (ll. 3 and 4).
+
+    Sit in the shade of the rose, for, by the wind, many roses
+    Have been scattered to earth and have become dust.
+
+_Ref._: O. 135, L. 671, B. 663, S.P. 366, B. ii. 483, T. 277.--W. 414,
+N. 370, V. 720.
+
+    By the coming of Spring and the return of December[30]
+    The leaves of our life are continually folded.
+
+_Ref._: C. 500, L. 745, B. 731, P. 242, S.P. 397, B. ii. 531.--W. 444,
+N. 402, V. 797.
+
+    For it has flung to earth a hundred thousand Jams and Kais,[31]
+    This coming of the first-summer-month and departing of the
+          month December.
+
+_Ref._: C. 481, L. 712, B. 701, S.P. 449, P. 216, B. ii. 603.--W. 484,
+N. 455, V. 764.
+
+
+X.
+
+    Well, let it take them! What have we to do
+    With Kaikobad the Great, or Kaikhosru?
+      Let Zal[32] and Rustum bluster as they will,
+    Or Hatim call to supper--heed not you.
+
+The first two lines of this quatrain echo two fragments from the MSS. O.
+139 (ll. 3 and 4), and C. 57 (ll. 1 and 2).
+
+    The cup is a hundred times better than the kingdom of Feridun,[33]
+    The tile that covers the jar is better than the crown of Kai Khosru.
+
+_Ref._: O. 136, L. 650, B. 642, S.P. 378, P. 246, B. ii. 511, P. v.
+178.--N. 382, V. 609.
+
+    One draught of wine is better than the Empire of Kawus,
+    And is better than the Throne of Kobad and the Empire of Tus.
+
+_Ref._: C. 57, L. 122, B. 119, S.P. 61, P. 297.--W. 64, N. 61, V. 121.
+
+The last two lines are translated from C. 503 (ll. 3 and 4).
+
+    Bow not thy neck though Rustum son of Zal be thy foe,
+    Be not grateful though Hatim Tai befriend thee.[34]
+
+_Ref._: C. 503, L. 746, B. 732. S.P. 411, P. 150, B. ii. 552, P. iv.
+23.--W. 455, N. 416, V. 798.
+
+
+XI.
+
+    With me along the strip of Herbage strown
+    That just divides the desert from the sown,
+      Where name of Slave and Sultan is forgot--
+    And Peace to Mahmud on his golden Throne!
+
+
+XII.
+
+    A Book of Verses underneath the Bough,
+    A Jug of Wine, a Loaf of Bread--and Thou
+      Beside me singing in the Wilderness--
+    Oh, Wilderness were Paradise enow!
+
+This pair of quatrains must be considered together. They owe their
+origin to O. 155 and O. 149.
+
+    If a loaf of wheaten bread be forthcoming,
+    A gourd of wine, and a thigh-bone of mutton,
+    And then, if thou and I be sitting in the wilderness,--
+    That were a joy not within the power of any Sultan.
+
+_Ref._: O. 155, C. 474, L. 697, B. 688, S.P. 442, P. 229, B. ii. 591. T.
+292, P. iv. 24, P. v. 109.--W. 479, N. 448, V. 749.
+
+    I desire a flask of ruby wine and a book of verses
+    Just enough to keep me alive,[35] and half a loaf is needful,
+    And then, that thou and I should sit in the wilderness,
+    Is better than the kingdom of a Sultan.
+
+_Ref._: O. 149, S.P. 408.--W. 452, N. 413, E.C. 13.
+
+
+XIII.
+
+    Some for the Glories of This World; and some
+    Sigh for the Prophet's Paradise to come;
+      Ah, take the Cash, and let the Credit go
+    Nor heed the rumble of a distant Drum!
+
+The original of this quatrain is found in O. 34.
+
+    They say that the Garden of Eden is pleasant with houris:
+    _I_ say that the juice of the grape is pleasant.
+    Hold fast this cash and keep thy hand from that credit,
+    For the noise of drums, brother, is pleasant from afar.
+
+_Ref._: O. 34, C. 51, L. 95, B. 91, P. iii. 3, P. 323, P. v. 36.--W.
+108, V. 95.
+
+C. 156 is almost identical in sentiment:
+
+    They say that there will be heaven and the Fount of Kausar,[36]
+    That there, there will be pure wine and honey and sugar,
+    Fill up the wine-cup and place it in my hand,
+    (For) ready cash is better than a thousand credits.
+
+_Ref._: C. 156, L. 297, B. 293, S.P. 169, B. ii. 223, T. 141.--N. 169,
+V. 300.
+
+C. 288 reproduces the same image, and we have a parallel for ll. 1 and 2
+in ll. 1 and 2 of C. 225.
+
+    Mankind are fallen from vain imagining into pride,
+    And are consumed in the search after houris and palaces.[37]
+
+_Ref._: C. 225, L. 279, B. 275, S.P. 167, T. 163.--W. 184, N. 167, V.
+283.
+
+O. 40 may also be cited for the closeness of its parallel both to this,
+and to the preceding quatrain:
+
+    I know not whether he who fashioned me
+    Appointed me to dwell in heaven or in dreadful hell,
+    (But) some food, and an adored one, and wine[38] upon the
+          green bank of a field--
+    All these three are present cash to me: thine be the promised heaven!
+
+_Ref._: O. 40, L. 89, B. 85, C. 107, S.P. 92, T. 84, P. v. 176.--W. 94,
+N. 92, V. 89.
+
+
+XIV.
+
+    Look to the blowing Rose about us--«Lo,
+    Laughing,» she says, «into the world I blow,
+      At once the silken tassel of my Purse
+    Tear, and its Treasure on the Garden throw.»
+
+This quatrain is translated from C. 383
+
+    The rose said: I brought a gold-scattering hand,
+    Laughing, laughing, have I blown into the world,
+    I snatched the noose-string from off the head of my purse
+          and I am gone!
+    I flung into the world all the ready money that I had.
+
+_Ref._: C. 383 _only_.
+
+
+XV.
+
+    And those who husbanded the Golden grain,
+    And those who flung it to the winds like Rain,
+      Alike to no such aureate Earth are turn'd
+    As, buried once, Men want dug up again.
+
+The inspiration for this quatrain comes from O. 68.
+
+    Ere that fate makes an attack upon thy head
+    Give orders that they bring thee rose-coloured wine;
+    Thou art not treasure, O heedless dunce! that thee
+    They hide in the earth and then dig up again.[39]
+
+_Ref._: O. 68, C. 151, L. 277, B. 273, S.P. 156, P. 336, P. v. 11.--W.
+175, N. 156, E.C. 31, V. 281.
+
+
+XVI.
+
+    The Worldly Hope men set their Hearts upon
+    Turns Ashes--or it prospers; and anon,
+      Like Snow upon the Desert's dusty Face,
+    Lighting a little hour or two--is gone.
+
+The inspiration for this quatrain is to be found in C. 266.
+
+    O heart! Suppose all this world's affairs were within your power,
+    And the whole world from end to end as you desire it,
+    And then, like snow in the desert, upon its surface
+    Resting for two or three days, understand yourself to be gone!
+
+_Ref._: C. 266, L. 420, B. 416, P. 144, B. ii. 260, T. 168.--V 443.
+
+
+XVII.
+
+    Think, in this batter'd Caravanserai
+    Whose Portals are alternate Night and Day,
+      How Sultan after Sultan with his Pomp
+    Abode his destined Hour, and went his way.
+
+This quatrain owes its origin to C. 95.
+
+    This worn caravanserai which is called the world
+    Is the resting-place of the piebald horse of night and day;
+    It is a pavilion which has been abandoned by an hundred Jamshyds;
+    It is a palace that is the resting-place of an hundred Bahrams.[40]
+
+_Ref._: C. 95, L. 203, B. 200, S.P. 67, P. 120, B. ii. 42, T. 79 and
+357.--W. 70, N. 67, V. 199.
+
+
+XVIII.
+
+    They say the Lion and the Lizard keep
+    The Courts where Jamshyd gloried and drank deep:
+      And Bahram, that great Hunter--the Wild Ass
+    Stamps o'er his Head, but cannot break his Sleep.
+
+The original of this quatrain is C. 99.
+
+    In that palace where Bahram grasped the wine-cup;
+    The foxes whelp, and the lions take their rest;
+    Bahram who was always catching (_gur_) wild asses,--
+    To-day behold that the (_gur_) grave has caught Bahram.
+
+_Ref._: C. 99, L. 210, B. 207, S.P. 69, P. 48 and 139, B. ii. 51, T. 82
+and 294, P. iv. 12, P. v. 156.--W. 72, N. 69, V. 205.
+
+
+XIX.
+
+    I sometimes think that never blows so red
+    The Rose as where some buried Cæsar bled
+      That every Hyacinth the Garden wears
+    Dropt in her Lap from some once lovely Head.
+
+The original of this quatrain is found in O. 43.
+
+    Everywhere that there has been a rose or tulip bed,
+    It has come from the redness of the blood of a king;
+    Every violet shoot that grows from the earth
+    Is a mole[41] that was (once) upon the cheek of a beauty.
+
+_Ref._: O. 43, C. 47, L. 110, B. 106, B. ii. 105, T. 304, P. v. 159.--W.
+104, E.C. 4, V. 109.
+
+
+XX.
+
+    And this reviving Herb whose tender Green
+    Fledges the River-lip on which we lean--
+      Ah, lean upon it lightly! for who knows
+    From what once lovely Lip it springs unseen!
+
+The original of this quatrain was C. 44.
+
+    All verdure that grows upon the margin of a stream,
+    You may say, grows from the lip of one angel-natured;
+    Beware not to set foot contemptuously upon the verdure,
+    For that verdure grows from the clay of one tulip-cheeked.
+
+_Ref._: C. 44, L. 62, B. 59, S.P. 59, P. 64, T. 349, P. iv. 20.--W. 62,
+N. 59, V. 61.
+
+
+XXI.
+
+    Ah, my Belovéd, fill the Cup that clears
+    TO-DAY of past Regrets and future Fears:
+      _To-morrow!_--Why, To-morrow I may be
+    Myself with Yesterday's Sev'n thousand Years.
+
+This quatrain is translated from C. 348.
+
+    Come, O friend! and let us not suffer anguish concerning the morrow.
+    Let us take advantage of these few ready-money moments,
+    When, to-morrow, we depart from the face of the earth
+    We shall be equal with those who went seven thousand years ago.
+
+_Ref._: C. 348, L. 546, B. 540, S.P. 268, P. 122, B. ii. 351, T. 233, P.
+v. 96.--W. 312, N. 269, V. 586.
+
+
+XXII.
+
+    For some we loved, the loveliest and the best
+    That from his Vintage rolling Time hath prest,
+      Have drunk their Cup a Round or two before,
+    And one by one crept silently to rest.
+
+The inspiration for this quatrain is found in C. 185.
+
+    All my sympathetic friends have left me,
+    One by one they have sunk low at the foot of Death.
+    In the fellowship of souls they were cup-companions,
+    A turn or two before me they became drunk.
+
+_Ref._: C. 185, L. 381, B. 377, P. ii. 4, B. ii. 141.--W. 219, V. 379.
+
+
+XXIII.
+
+    And we, that now make merry in the Room
+    They left, and Summer dresses in new bloom,
+      Ourselves must we beneath the Couch of Earth
+    Descend--ourselves to make a Couch--for whom?
+
+The main inspiration of this quatrain comes from C. 388.
+
+    Arise, and do not sorrow for this fleeting world,
+    Be at peace, and pass through the world with happiness.
+    If the nature of the world were constant
+    The turn of others would not have descended to you yourself.[42]
+
+_Ref._: C. 388, L. 585, B. 578, S.P. 322, P. 159 and 178, B. ii. 430, T.
+264, P. iv. 29 and 62.--W. 366, N. 325, V. 632.
+
+Combined with the suggestion contained in this ruba'i, we find the echo
+of a sentiment that recurs continually in the originals, _e.g._, C. 82
+(ll. 3 and 4) and O. 129 (ll. 3 and 4).
+
+    This verdure, which for the present is my pleasure-ground
+    Until the verdure (springing) from my clay shall become
+          a pleasure-ground--for whom?
+
+_Ref._: C. 82, L. 191, B. 188, S.P. 70, P. 305, B. ii. 36, T. 63 and
+351.--W. 73, N. 70, V. 187.
+
+    Sit upon the greensward, O Idol, for it will not be long
+    Ere that greensward shall grow from my dust and thine.
+
+_Ref._: O. 129, C. 416, L. 634, B. 626, S.P. 345, P. 47, B. ii. 464, P.
+v. 131--W. 390, N. 348, E.C. 3, V. 683.
+
+
+XXIV.
+
+    Ah, make the most of what we yet may spend,
+    Before we too into the Dust descend;
+      Dust into Dust, and under Dust to lie,
+    Sans Wine, sans Song, sans Singer, and--sans End!
+
+The inspiration for this quatrain is found in the following (O. 76 and
+35).
+
+    Do not allow sorrow to embrace thee,
+    Nor an idle grief to occupy thy days,
+    Forsake not the book and the lover's lips and the green bank
+          of the field,
+    Ere that the earth enfold thee in its bosom.
+
+_Ref._: O. 76, C. 173, L. 315, B. 311, P. 189, B. ii. 233, T. 121, P. v.
+39.--de T. 9, V. 317.
+
+    Drink wine, for thou wilt sleep long beneath the clay
+    Without an intimate, a friend, a comrade, or a mate.
+
+_Ref._: O. 35, C. 80, L. 188, B. 185, P. 284, T. 60.--W. 107, V. 184.
+
+
+XXV.
+
+    Alike for those who for TO-DAY prepare,
+    And those that after some TO-MORROW stare,
+      A Muezzin from the Tower of Darkness cries,
+    «Fools! your Reward is neither Here nor There.»
+
+The inspiration for this quatrain is in C. 396.
+
+    Some are immersed in contemplation of doctrine and faith,
+    Others stand stupefied between doubt and certainty,
+    Suddenly a Muezzin, from his lurking place, cries out
+    «O Fools! the Road[43] is neither here nor there.»
+
+_Ref._: C. 396, L. 591, B. 584, S.P. 324, P. iii. 6, P. 65.--W. 376, N.
+337, V. 638.
+
+
+XXVI.
+
+    Why, all the Saints and Sages who discuss'd
+    Of the Two Worlds so wisely--they are thrust
+      Like foolish Prophets forth; their Words to scorn
+    Are scatter'd, and their Mouths are stopt with dust.
+
+This quatrain is taken from O. 140 and C. 236.
+
+    Those, O Saki, who have gone before us,
+    Have fallen asleep, O Saki, in the dust (or _khwab_ sleep)
+          of self-esteem,
+    Go thou and drink wine, and hear the truth from me,
+    Whatever they have said, O Saki, is but wind!
+
+_Ref._: O. 140, C. 453, L. 687, B. 678, S.P. 380, P. 260, B. ii. 525, T.
+279, P. v. 22.--W 428, N. 384, V. 739.
+
+    Those who are the cream of the existence of mankind,
+    Spur the Burak of their thoughts up to the highest heaven,[44]
+    In the study of your being, like heaven itself
+    Their heads are turned, and overset, and spinning.
+
+_Ref._: C. 236, L. 326, B. 322, S.P. 120, T. 155, W. 147, N. 120, V.
+328.
+
+
+XXVII.
+
+    Myself when young did eagerly frequent
+    Doctor and Saint, and heard great argument
+      About it and about: but evermore
+    Came out by the same door wherein I went.
+
+
+XXVIII.
+
+    With them the seed of Wisdom did I sow,
+    And with mine own hand wrought to make it grow;
+      And this was all the Harvest that I reap'd--
+    «I came like Water, and like Wind I go.»
+
+These two quatrains must be considered together. They are inspired by O.
+121, C. 281, and O. 72.
+
+    For a while, when young, we frequented a teacher,
+    For a while we were contented with our proficiency;
+    Behold the end of the discourse:--what happened to us?
+    We came like water and we went like wind.
+
+_Ref._: O. 121, L. 544, B. 538, B. ii. 420, P. v. 99.--W 353, V. 584.
+
+    Being (once) a falcon, I flew from the World of mystery,
+    That from below I might soar to the heights above;
+    But, not finding there any intimate friend,
+    I came out by the same door wherein I went.[45]
+
+_Ref._: C. 281, L. 429, B. 425, S.P. 224, P. 30, B. ii. 295, T. 184.--W.
+264, N. 225, V. 467.
+
+A quatrain that probably contributed to FitzGerald's verse is:
+
+    No one has solved the tangled secrets of eternity,
+    No one has set foot beyond the orbit (of human under-standing),
+    Since, so far as I can see, from tyro to teacher,
+    Impotent are the hands of all men born of women.
+
+_Ref._: O. 72, C. 176, L. 357, B. 353, S.P. 175, B. ii. 211, P. v.
+210--W. 190, N. 175, V. 356.
+
+
+XXIX.
+
+    Into this Universe, and _Why_ not knowing
+    Nor _Whence_, like Water willy-nilly flowing;
+      And out of it, as Wind along the Waste,
+    I know not _Whither_, Willy-nilly blowing.
+
+The inspiration for this quatrain is to be found in the following: C.
+235 and O. 20 (ll. 1 and 2).
+
+    He first brought me in confusion into existence,
+    What do I gain from my life save my amazement at it?
+    We went away against our will, and we know not what was
+    The purpose of this coming, and going, and being.
+
+_Ref._: C. 235, L. 324, B. 320, S.P. 117, T. 153.--W. 145, N. 117, V.
+326.
+
+    Like water in a great river and like wind in the desert,
+    Another day passes out of the period of my existence.[46]
+
+_Ref._: O. 20, C. 23 and 55, L. 84, B. 80, S.P. 22, P. ii. 2, P. 162, B.
+ii. 24 and 88, T. 22 and 305, P. v. 140 and 186, W. 26, N. 22 and 42, V.
+83.
+
+
+XXX.
+
+    What, without asking, hither hurried _Whence_?
+    And, without asking, _Whither_ hurried hence!
+      Oh, many a Cup of this forbidden Wine
+    Must drown the memory of that insolence!
+
+This quatrain owes its origin to two ruba'iyat in O., viz., 21 and 151.
+
+    Seeing that my coming was not in my power at the Day of Creation,[47]
+    And that my undesired departure hence is a purpose fixed (for me),
+    Get up and gird well thy loins, O nimble cup-bearer,
+    For I will wash down the misery of the world in wine.
+
+_Ref._: O. 21, C. 49, L. 94, B. 90, B. ii. 86, P. v. 123.--W. 110, V.
+94.
+
+    Had I charge of the matter I would not have come,
+    And, likewise, could I control my going, how should I have gone?
+    There could have been nothing better than that in this world
+    I had neither come, nor gone, nor lived?
+
+_Ref._: O. 157, C. 494, L. 732, B. 720, P. 88, B. ii. 590 and 593, P.
+iv. 17, P. v. 130.--W. 490, E.C. 30, N. 450, V. 785.
+
+
+XXXI.
+
+    Up from Earth's Centre through the Seventh Gate
+    I rose, and on the Throne of Saturn sate,
+      And many a Knot unravel'd by the Road;
+    But not the Master-knot of Human Fate.
+
+This quatrain is translated from C. 314.
+
+    From the Nadir of the earthly globe, up to the Zenith of Saturn
+    I solved all the problems of heaven;
+    I escaped from the bondage of all trickery and deceit,
+    All obstacles were removed save only the Bond of Fate.
+
+_Ref._: C. 314, L. 491, B. 487, B. ii. 338, T. 215.--W. 303, V. 531.
+
+
+XXXII.
+
+    There was the Door to which I found no Key;
+    There was the Veil through which I might not see:
+      Some little talk awhile of ME and THEE
+    There was--and then no more of THEE and ME.
+
+The main inspiration of this quatrain is found in C. 387.
+
+    Neither thou nor I know the secret of Eternity,
+    And neither thou nor I can de-cypher this riddle;
+    There is a talk behind the Curtain[48] of me and thee
+    But when the Curtain falls neither thou nor I are there.
+
+_Ref._: C. 387, L. 581, B. 574, P. 33, B. ii. 421, T. 260.--W. 389, V.
+628.
+
+We also see in the quatrain the influence of O. 29 and C. 193, ll. 1 and
+2.
+
+    No one can pass behind the Curtain (that veils) the secret,
+    The mind of no one is cognizant of what is there:[49]
+
+_Ref.:_ O. 29, C. 56, L. 61, B. 58, S.P. 43, P. 63, B. ii. 103, P. v.
+188.--W. 47, N. 44, V. 60.
+
+    No one can pass behind the Curtain of Fate
+    No one is master of the Secret of Destiny.
+
+_Ref.:_ C. 193, L. 345, B. 341, S.P. 177, B. ii. 212.--W 192, N. 177, V.
+346.
+
+
+XXXIII.*
+
+    Earth could not answer; nor the seas that mourn
+    In flowing Purple, of their Lord forlorn;
+      Nor rolling Heaven, with all his Signs reveal'd
+    And hidden by the sleeve of Night and Morn.
+
+This is the quatrain (not No. 31 as stated by Mr. Aldis Wright in his
+Editorial Note) taken by Edward FitzGerald from the Mantik ut-tair of
+Ferid ud din Attar. The story which inspired it begins at distich No.
+972, and is as follows:
+
+    An observer of spiritual things approached the sea
+    And said «O sea, why are you blue?
+    Why do you wear the robe of mourning?
+    There is no fire, why do you boil?»
+    The sea made answer to that good-hearted one,
+    «I weep for my separation from the Friend,
+    Since by reason of my impotence I am not worthy of Him,
+    I have made my robe blue on account of my sorrow for Him.»
+
+
+XXXIV.
+
+    Then of the THEE in ME who works behind
+    The Veil, I lifted up my hands to find
+      A lamp amid the Darkness; and I heard,
+    As from Without--«THE ME WITHIN THEE BLIND!»
+
+That Edward FitzGerald was not following any particular ruba'iyat of the
+original MSS. is clearly indicated by the great variation observable in
+the forms that this quatrain successively assumed in the first, second
+and third editions. It suggests an exposition of the Sufi doctrine of
+the emanation of the mortal Creature from God the Creator, and his
+reabsorption into God. There is a quatrain in L. (No. 641) and in B. ii.
+(No. 457) which is akin to it, but FitzGerald was not acquainted with
+these texts. (It is No. 400 in W.) I have no doubt that FitzGerald's
+34th quatrain was suggested to him by two intricate passages in the
+Mantik ut-tair, commencing respectively at distich 3090 and distich
+3735. The first of these may be translated:
+
+«The Creator of the World spoke thus to David from behind the Curtain of
+the Secret: 'For everything in the world, good or bad, visible or
+invisible, thou canst find a substitute, but for Me, thou canst find
+neither substitute nor equal. Since nothing can be substituted for Me,
+do not cease to abide in Me. I am thy Soul, destroy not thou thy Soul, I
+am necessary to thee, O thou my servant. Seek not to exist apart from
+Me.'»
+
+The second passage reads: «Since long ago, really, I am thee, and thou
+art Me, we two are but One. Art thou Me, or am I thee? is there any
+duality in the matter? Either I am thee, or thou art Me, or thou, thou
+art thyself. Since thou art Me and I am thee for ever, our two bodies
+are One: Salutation!»
+
+
+XXXV.
+
+    Then to the Lip of this poor earthen Urn
+    I lean'd, the Secret of my Life to learn;
+      And Lip to Lip it murmur'd--«While you live,
+    «Drink!--for, once dead, you never shall return.»
+
+This quatrain is translated from O. 100:
+
+    In great desire I pressed my lips to the lip of the jar,
+    To enquire from it how long life might be attained;
+    It joined its lip to mine and whispered,
+    «Drink wine! for to this world thou returnest not.»
+
+_Ref._: O. 100, C. 283, L. 446, B. 442, P. 99, B. ii. 303, T. 185, P. v.
+193.--W. 274, E.C. 25, V. 482.
+
+C. 489 is a mystic and doctrinal quatrain containing the same
+injunction.
+
+    Drink wine! for I have told you a thousand times
+    There is no returning for you; when you are gone, you are _gone_!
+
+_Ref._: C. 489, L. 723, B. 712, S.P. 385, B. ii. 526, P. iv. 67, P. v.
+104--W. 431, N. 389, V. 775.
+
+
+XXXVI.
+
+    I think the Vessel, that with fugitive
+    Articulation answer'd, once did live,
+      And drink; and Ah! the passive Lip I kiss'd,
+    How many Kisses might it take--and give!
+
+The inspiration for this quatrain occurs in O. 9.
+
+    This jug was once a plaintive lover, as I am,
+    And was in pursuit of one of comely face;[50]
+    This handle that thou seest upon its neck
+    Is an arm that once lay around the neck of a friend.
+
+_Ref._: O. 9, C. 48 and 426, L. 81, B. 77, S.P. 28, P. 108, B. ii. 28,
+P. v. 142.--W. 32, N. 28, E.C. 5, V. 80.
+
+
+XXXVII.
+
+    For I remember stopping by the way
+    To watch a Potter thumping his wet Clay;
+      And with its all-obliterated Tongue
+    It murmur'd--«Gently, Brother, gently, pray!»
+
+The original of this quatrain is O. 89.
+
+    I saw a potter in the bazaar yesterday,
+    He was violently pounding some fresh clay,
+    And that clay said to him in mystic language,
+    «I was once like thee--so treat me well.»
+
+_Ref._: O. 89, C. 261, L. 411, B. 407, S.P. 210, P. 100, B. ii. 274, P.
+iv. 71, P. v. 198.--W. 252, N. 211, V. 434.
+
+
+XXXVIII.*
+
+    And has not such a Story from of Old
+    Down Man's successive generations roll'd
+      Of such a clod of saturated Earth
+    Cast by the maker into Human mould?
+
+This quatrain, which is in the nature of a reflection upon the three
+preceding ones, conveys an idea which is constantly recurrent in the
+ruba'iyat. Edward FitzGerald himself records, in a note, that, in
+composing this quatrain, he had in mind a very beautiful story in the
+Mantik ut-tair of the water of a certain well which, ordinarily sweet,
+became bitter when drawn in a vessel made from clay which once had been
+a man. For its inclusion in this poem FitzGerald had the support of two
+(among many) quatrains from C. 475 and 488.
+
+    I pondered over the workshop of a potter;
+    In the shadow of the wheel I saw that the master, with his feet,
+    Made handles and covers for goblets and jars,
+    Out of the skulls of kings and the feet of beggars.
+
+_Ref._: C. 475, L. 698, B. 689, S.P. 426, P. 103, B. ii. 576.--W. 466,
+N. 431, V. 750.
+
+    I made my way into the (abode of the) potters of the age,
+    Every moment shewed some new skill with clay;
+    I saw, though men devoid of vision saw it not,
+    My ancestors' dust on the hands of every potter.
+
+_Ref._: C. 488, L. 721, B. 710, P. 101, B. ii. 543.--W 493, V. 773.
+
+
+XXXIX.*
+
+    And not a drop that from our Cups we throw
+    For Earth to Drink of, but may steal below
+      To quench the fire of Anguish in some Eye
+    There hidden--far beneath and long ago.
+
+This quatrain is taken from ll. 1 and 2 of O. 81
+
+    Every draught that the Cup-bearer scatters upon the earth
+    Quenches the fire of anguish in some burning eye.
+
+_Ref._: O. 81, C. 180, L. 367, B. 363, S.P. 188, P. 231, B. ii. 241, P.
+v. 187.--W. 203, N. 188, V. 366.
+
+
+XL.*
+
+    As then the Tulip for her morning sup
+    Of Heav'nly Vintage from the soil looks up,
+      Do you devoutly do the like, till Heav'n
+    To Earth invert you--like an empty Cup.
+
+The original of this quatrain is C. 37.
+
+    Like a tulip in the spring uplift your cup;
+    If you get a (happy) opportunity with a moon-faced one,
+    Drink wine with cheerfulness, for this worn-out sky
+    Will suddenly invert you to the level of the earth.
+
+_Ref._: C. 37, L. 136, B. 133, S.P. 39, B. ii. 84, T. 40 and 311.--W 44,
+N. 40, V. 135.
+
+
+XLI.*
+
+    Perplext no more with Human or Divine,
+    To-morrow's tangle to the winds resign,
+      And lose your fingers in the tresses of
+    The Cypress-slender Minister of Wine.
+
+The sentiment of this quatrain is very recurrent. I think that
+FitzGerald's first inspiration comes from O. 73.
+
+    Set limits to thy desire for worldly things and live content,
+    Sever the bonds of thy dependence upon the good and bad of life,
+    Take wine in hand and (play with) the curls of a loved one; for quickly
+    All passeth away--and these few days will not remain.
+
+_Ref._: O. 73, C. 179, L. 256, B. 253, S.P. 176.--W. 191, N. 176, V.
+262.
+
+Ll. 3 and 4 of O. 118 suggest the quatrain also.
+
+    Let us cease to strive after our long delaying hope[51]
+    And play with long ringlets and the handle of the lute.
+
+_Ref._: O. 118, L. 571, B. 564, S.P. 293, B. ii. 391.--W. 332, N. 294,
+V. 611.
+
+Ll. 1 and 2 of O. 131 are also in point:
+
+    Flee from the study of all sciences--'tis better thus,
+    And twine thy fingers in the curly locks of a loved one--'tis
+          better thus.
+
+_Ref._: O. 131, C. 443, L. 670, B. 662, S.P. 356, P. 296, B. ii. 480, T.
+276, P. v. 158.--W. 426, N. 359, V. 719.
+
+FitzGerald was probably «reminded of» these by Nicolas whose quatrains
+48, 155, and 359 (C. 443) convey the same idea.
+
+
+XLII.
+
+    And if the Wine you drink, the Lip you press,
+    End in what All begins and ends in--Yes;
+      Think then you are TO-DAY what YESTERDAY
+    You were--TO-MORROW you shall not be less.
+
+The inspiration for this quatrain is contained in the following, O. 102
+and C. 412.
+
+    Khayyam, if thou art drunk with wine,[52] be happy,
+    If thou reposest with one tulip-cheeked, be happy,
+    Since the end of all things is that thou wilt be naught,
+    Whilst thou art, imagine that thou art not--be happy!
+
+_Ref._: O. 102, C. 291, L. 454, B. 450, S.P. 241, P. 202, B. ii. 322, T.
+192 and 296, P. iv. 26, P. v. 5.--W. 282, N. 242, V. 493.
+
+    Remember not the day that has passed away from thee,
+    Be not hard upon the morrow that has not come,
+    Think not about thine own coming or departure,
+    Drink wine _now_, and fling not thy life to the winds.
+
+_Ref._: C. 412, L. 619, B. 611, P. 116, B. ii. 444, P. v. 121.--V. 666.
+
+
+XLIII.
+
+    So when that Angel of the darker Drink
+    At last shall find you by the river-brink,
+      And, offering his Cup, invite your Soul
+    Forth to your Lips to quaff--you shall not shrink.
+
+This quatrain owes its origin to C. 256.[53]
+
+    In the circle of the firmament, whose depths are invisible,
+    There is a cup which, in due time, they will cause all to drink;
+    When thy turn comes, do not utter lamentations,
+    Drink wine gaily for it has come to be thy turn.
+
+_Ref._: C. 256, L. 408, B. 404, B. ii. 273.--W. 254, V. 431.
+
+
+XLIV.
+
+    Why, if the Soul can fling the Dust aside,
+    And naked on the Air of Heaven ride,
+      Were't not a Shame--were't not a Shame for him
+    In this clay carcase crippled to abide?
+
+This quatrain is translated from O. 145.
+
+    Oh Soul! if thou canst purify thyself from the dust of the body,
+    Thou, naked spirit, canst soar in the heavens,
+    The Empyrean is thy sphere--let it be thy shame,
+    That thou comest and art a dweller within the confines of earth.[54]
+
+_Ref._: O. 145, C. 447, L. 707, B. 697, S.P. 389, P. 111, B. ii.
+523.--W. 436, N. 394, E.C. 7, V. 759.
+
+
+XLV.
+
+    'Tis but a Tent where takes his one day's rest
+    A Sultan to the realm of Death addrest;
+      The Sultan rises, and the dark Ferrash
+    Strikes, and prepares it for another Guest.
+
+This quatrain is translated from C. no. 110.
+
+    Khayyam! thy body surely resembles a tent;
+    The soul is a Sultan and the halting-place is the perishable world,
+    The ferrash of fate, preparing for the next halting-place,
+    Will overthrow this tent when the Sultan has arisen.[55]
+
+_Ref._: C. 110, L. 100, B. 96, S.P. 80, B. ii. 95, T. 86, P. v. 172.--W.
+82, N. 80, V. 100.
+
+
+XLVI.*
+
+    And fear not lest Existence closing your
+    Account, and mine, should know the like no more;
+      The Eternal Saki from that Bowl has pour'd
+    Millions of Bubbles like us, and will pour.
+
+FitzGerald was indebted for this quatrain to N. 137. The original ruba'i
+is not in O. or C.
+
+    Khayyam! although the pavilion of heaven
+    Has spread its tent and closed the door upon all discussion,
+    In the goblet of existence, like bubbles of wine
+    The Eternal Saki brings to light a thousand Khayyams.
+
+_Ref._: N. 137,[56] W. 161, V. 397.
+
+
+XLVII.*
+
+    When You and I behind the Veil are past,
+    Oh, but the long, long while the World shall last,
+      Which of our Coming and Departure heeds
+    As the Sea's self should heed a pebble-cast.
+
+In this quatrain FitzGerald is «reminded of» O. 26 and 51 by N. 123.
+
+    Know this--that from thy soul thou shalt be separated,
+    Thou shalt pass behind the Curtain of the Secrets of God.
+
+_Ref._: O. 26, C. 83, L. 192, B. 189, S.P. 85, B. ii. 110, T. 64, P. v.
+J 34.--W. 87, N. 85, V. 188.
+
+    My coming was of no profit to the heavenly sphere,[57]
+    And by my departure nothing will be added to its beauty and dignity.
+
+_Ref._: O. 51, C. 129, L. 232, B. 229, S.P. 157, P. 55, B. ii. 158, T.
+104.--W. 176, N. 157, E.C. 17, V. 239.
+
+    Oh! how long we shall be no more, and the world will continue to exist,
+    It will continue to exist without fame or sign of us,
+    Long ago we existed not, and (the world) was none the worse for it,
+    Afterwards, when we have ceased to exist, it will be all the same.
+
+_Ref._: N. 123, W. 150, V. 395.
+
+
+XLVIII.
+
+    A Moment's Halt--a momentary taste
+    Of BEING from the Well amidst the waste--
+      And Lo!--the phantom Caravan has reach'd
+    The NOTHING it set out from--Oh, make haste!
+
+We must consider here the form in which this quatrain first made its
+appearance in the edition of 1859:
+
+    One Moment in Annihilation's Waste,
+    One Moment, of the Well of Life to taste--
+      The stars are setting, and the Caravan
+    Starts for the Dawn of Nothing--Oh, make haste!
+
+The inspiration for this richly varied quatrain comes from O. 60.
+
+    This caravan of life passes by mysteriously;
+    Mayest thou seize the moment that passes happily!
+    Cup-bearer, why grieve about the to-morrow of thy patrons?[58]
+    Give us a cup of wine, for the night wanes.
+
+_Ref._: O. 60, C. 135, L. 245, B. 242, P. 223, S.P. 106, B. ii. 146, T.
+139.--W. 136, N. 106, V. 251.
+
+Ll. 3 and 4 of C. 368 may also be quoted:
+
+    (Man is) a toil-stricken being, fashioned in the clay of affliction,
+    He tasted of Earth for a time and passed away.
+
+_Ref._: C. 368, L. 566, B. 559, S.P. 301, B. ii. 404, T. 242.--W. 338,
+N. 302, V. 606.
+
+
+XLIX.*
+
+    Would you that spangle of Existence spend
+    About THE SECRET--quick about it, Friend!
+      A Hair perhaps divides the False and True--
+    And upon what, prithee, may life depend?
+
+
+L.*
+
+    A Hair perhaps divides the False and True;
+    Yes; and a single Alif were the clue--
+    Could you but find it--to the Treasure-house,
+    And peradventure to THE MASTER too;
+
+This pair of quatrains must also be considered together. The idea
+contained in them is, I think, collected from C. 482 and 19, and from O.
+28.
+
+    Oh Boy! since thou art learned in all secrets,
+    Why grieve so much after vain cares?
+    If things will not shape themselves according to thy desire,
+    At any rate be happy in this moment of thy existence.
+
+_Ref._: C. 482, L. 714, B. 703, S.P. 414, B. ii. 560.--W. 458, N. 419,
+V. 766.
+
+    From the state of infidelity to that of faith is but a breath,
+    And from a state of doubt to that of certainty is but a breath,
+    Hold thou dear this one precious moment,
+    For of the outcome of our being there is but a moment.
+
+_Ref._: C. 19, L. 131, B. 127, S.P. 20, B. ii. 22, T. 20.--W. 24, N. 20,
+V. 130.
+
+    My Heart said to me: «I have a longing for inspired knowledge,
+    Teach me if thou art able,»
+    I said the Alif. My Heart said: «Say no more.
+    If One is in the house, one letter is enough.»[59]
+
+_Ref._: O. 28.--W. 109.
+
+
+LI.*
+
+    Whose secret Presence, through Creation's veins
+    Running Quicksilver-like eludes your pains;
+      Taking all shapes from Mah to Mahi; and
+    They change and perish all--but He remains;
+
+In this quatrain FitzGerald has made a masterly conversion of C. 72.
+
+    That Moon which is by nature skilled in metamorphosis
+    Is sometimes animal and sometimes vegetable,
+    Do not imagine that it will become non-existent--away with thought!
+    It is always possessed of its essence though its qualities
+          cease to be.[60]
+
+_Ref._: C. 72, L. 179, B. 176, S.P. 73, B. ii. 31, T. 51.--W. 75, N. 73,
+V. 175.
+
+C. 40 may also be cited.
+
+    Place wine in my hand for my heart is aglow,
+    And this fleet-footed existence is like quicksilver.
+    Arise! for the wakefulness of good fortune turns to slumber;
+    Know thou that the fire of youth is (fugitive) like water.
+
+_Ref._: C. 40, L. 63, B. 60, S.P. 54, T. 45.--W. 57, N. 54, V. 62.
+
+«From Mah to Mahi»--_i.e._, from Moon to Fish is a common Oriental
+metaphor for universality. See FitzGerald's note on this subject, and
+the Terminal Essay to my former volume, p. 309.
+
+
+LII.*
+
+    A moment guess'd--then back behind the Fold
+    Immerst of Darkness round the Drama roll'd
+      Which, for the Pastime of Eternity,
+    He doth Himself contrive, enact, behold.
+
+This quatrain is translated from C. 479.
+
+    Hidden sometimes thou shewest thy face to none,
+    Sometimes thou appearest in the forms of created beings,
+    Thou exhibitest this spectacle to thyself.
+    Thou art thyself both the real thing seen and the spectator.
+
+_Ref._: C. 479, L. 705, B. 695, S.P. 437.--W. 475, N. 443, V. 757.
+
+
+LIII.*
+
+    But if in vain, down on the stubborn floor
+    Of Earth, and up to Heav'n's unopening Door,
+      You gaze TO-DAY, while You are You--how then
+    TO-MORROW, when You shall be You no more?
+
+The original of this quatrain is C. 24.
+
+    If the heart understood the secret of existence as it _is_,
+    In death it would know all the secrets of God:
+    If to-day thou knowest nothing, being _with_ thyself,
+    What wilt thou know to-morrow when thou abandonest thyself?
+
+_Ref._: C. 24, L. 78, B. 74, S.P. 49, P. 85, B. ii. 106, T. 25.--W. 52,
+N. 49. V. 77.
+
+
+LIV.
+
+    Waste not your Hour, nor in the vain pursuit
+    Of this and That endeavour and dispute;
+      Better be jocund with the fruitful Grape
+    Than sadden after none, or Bitter, Fruit.
+
+The inspiration for this quatrain comes from O. 50 and O. 107:
+
+    Those who are the slaves of intellect and hair-splitting,[61]
+    Have perished in bickerings about existence and non-existence;
+    Go, thou dunce! and choose (rather) grape juice,
+    For the ignorant from (eating) dry raisins, have become (like)
+          unripe grapes (themselves).[62]
+
+_Ref._: O. 50, L. 262, T. 102, P. v. 164.--W. 216, V. 267.
+
+    How long this talk about the eternity to come, and the
+          eternity past?[63]
+    Now is the time of joy, there is no substitute for wine!
+    Both theory and practice have passed beyond my ken,
+    (But) Wine unties the knot of every difficulty.
+
+_Ref._: O. 107, C. 312, L. 489, B. 485, B. ii. 341, T. 213, P. v.
+207.--W. 304, V. 259.
+
+
+LV.
+
+    You know, my friends, with what a brave Carouse
+    I made a Second Marriage in my house;
+      Divorced old barren Reason from my Bed,
+    And took the Daughter of the Vine to Spouse.
+
+This quatrain is translated from C. 175.
+
+    I will fill a one-maund goblet with wine,
+    I will enrich myself with two half-maunds of wine:
+    First I will thrice pronounce the divorce from learning and faith,[64]
+    And then I will take the daughter of the vine[65] to spouse.
+
+_Ref._: C. 175, L. 267, B. 263, P. 288, P. v. 209.--V. 271.
+
+
+LVI.
+
+    For «IS» and «IS-NOT» though with Rule and Line
+    And «UP-AND-DOWN» by Logic I define,
+      Of all that one should care to fathom, I
+    Was never deep in anything but--Wine.
+
+This quatrain is translated from O. 120:
+
+    I know the outwardness of existence and non-existence,[66]
+    I know the inwardness of all that is high and low;
+    Nevertheless let me be ashamed of[67] my own knowledge
+    If I recognise any degree higher than drunkenness.
+
+_Ref._: O. 120, L. 523, B. 518, S.P. 299, P. 265, B. ii. 409, P. v.
+38.--W. 336, N. 300, V. 563.
+
+
+LVII.*
+
+    Ah, but my Computations, People say,
+    Reduced the Year to better reckoning?--Nay,
+      'Twas only striking from the Calendar
+    Unborn To-morrow and dead Yesterday.
+
+This quatrain owes its inspiration to C. 381 and O. 20, ll. 3 and 4:
+
+    My enemies erroneously have called me a philosopher,[68]
+    God knows I am not what they have called me;
+    But, as I have come into this nesting place of sorrow,
+    In the end I am in a still worse plight, for I know not who I am.
+
+_Ref._: C. 381, L. 580, B. 573, B. ii. 383, T. 259.--W. 350, V. 619.
+
+    Never has grief lingered in my mind concerning two days,[69]
+    The day that has not yet come, and the day that is past.
+
+_Ref._: O. 20, C. 23 and 55, L. 84, S.P. 22, B. 80, P. 162, B. ii. 24
+and 88, P. ii. 2, T. 22 and 305, P. v. 140 and 186.--W. 26, N. 22 and
+42, V. 83.
+
+
+LVIII.
+
+    And lately, by the Tavern Door agape,
+    Came shining through the Dusk an Angel Shape
+      Bearing a vessel on his Shoulder; and
+    He bid me taste of it; and 'twas--the Grape!
+
+This quatrain is a refined version of C. 297.
+
+    Yesterday, whilst drunk, I was passing a tavern,
+    I saw a drunken old man bearing a vessel on his shoulder.
+    I said, «Old man, does not God make thee ashamed?»
+    He replied, «God is merciful, go, drink wine!»
+
+_Ref._: C. 297, L. 462, B. 458, S.P. 243, P. 278, T. 197.--W. 284, N.
+244, V. 501.
+
+
+LIX.
+
+    The Grape that can with Logic absolute
+    The Two-and-Seventy jarring Sects confute;
+      The sovereign Alchemist that in a trice
+    Life's leaden metal into Gold transmute;
+
+This quatrain is translated from O. 77.
+
+    Drink wine, that will banish thine abundant woes.
+    And will banish thought of the Seventy-two Sects;
+    Avoid not the Alchemist,[70] from whom
+    Thou takest one draught, and he banishes a thousand calamities.
+
+_Ref._: O. 77, C. 165, L. 305, B. 301, S.P. 179, P. 283, T. 112, P. v.
+152.--W. 194, V. 308.
+
+
+LX.
+
+    The mighty Mahmud, Allah-breathing Lord,
+    That all the misbelieving and black Horde
+      Of Fears and Sorrows that infest the Soul
+    Scatters before him with his whirlwind Sword.
+
+This reference to Mahmoud the Ghasnavide, who made war upon the black
+infidels of Hindostan, comes from an apologue in the Mantik ut-tair of
+Ferid ud din Attar, (beginning at distich 3117). The last two lines come
+from O. 81, ll. 3 and 4.
+
+    Praise be to God! thou realizest that wine
+    Is a juice that frees thy heart from a hundred pains.
+
+_Ref._: O. 81, C. 180, L. 367, B. 363, S.P. 188, P. 231, B. ii. 241, P.
+v. 187.--W. 203, N. 188, V. 366.
+
+
+LXI.*
+
+    Why, be this Juice the growth of God, who dare
+    Blaspheme the twisted tendril as a Snare?
+      A Blessing, we should use it, should we not?
+    And if a Curse--Why, then, Who set it there?
+
+The inspiration for this quatrain is contained in O. 75.
+
+    I drink wine, and everyone drinks who, like me, is worthy of it;
+    My wine-drinking is but a small thing to Him;
+    God knew on the Day of Creation, that I should drink wine;
+    If I do not drink wine God's knowledge would be ignorance.
+
+_Ref._: O. 75, C. 202, L. 356, B. 352, S.P. 182, P. 324, B. ii. 234, T.
+129, P. v. 181.--W. 197, N. 182, V. 355.
+
+
+LXII.*
+
+    I must abjure the Balm of Life, I must,
+    Scared by some After-reckoning ta'en on trust,
+      Or lured with Hope of some Diviner Drink,
+    To fill the Cup--when crumbled into Dust!
+
+This quatrain is taken from C. 505 and O. 143, ll. 3 and 4.
+
+    They say, «Do not drink wine for thou wilt suffer for it,
+    On the Day of Rewards thou wilt be cast into the fire.»
+    That is so; but what is worth both the worlds
+    Is the moment when thou art elated with wine.
+
+_Ref._: C. 505, L. 748, B. 734, P. 250, B. ii. 587.--V. 800.
+
+    Make thyself a heaven here with wine and cup,
+    For at that place where heaven is, thou mayst arrive, or mayst not.
+
+_Ref._: O. 143, C. 495. L. 733, B. 721, S.P. 379, P. 209, B. ii. 529, P.
+v. 129.--W. 427, N. 383, V. 786.
+
+
+LXIII.
+
+    Oh threats of Hell and Hopes of Paradise!
+    One thing at least is certain--_This_ Life flies;
+      One thing is certain and the rest is Lies;
+    The Flower that once has blown for ever dies.
+
+The inspiration for this quatrain comes from O. 35 of which ll. 1 and 2
+are quoted as parallel to quatrain No. 24 _ante_.
+
+    Take care that thou tellest not this hidden secret to anyone
+    The tulips that are withered will never bloom again.
+
+_Ref._: O. 35, C. 80, L. 188, B. 185, P. 284, T. 60.--W. 107, V. 184.
+
+
+LXIV.*
+
+    Strange, is it not? that of the myriads who
+    Before us pass'd the door of Darkness through,
+      Not one returns to tell us of the Road,
+    Which to discover we must travel too.
+
+This is a constantly recurring image in the ruba'iyat. C. 36 and 270 may
+be cited:
+
+    I have travelled far in a wandering by valley and desert,
+    It came to pass I wandered in all quarters of the world,
+    I have not heard from anyone who came from that road,
+    The road he has travelled, no traveller travels again.
+
+_Ref._: C. 36, L. 57, B. 54. T. 39.--W. 129, V. 56.
+
+    Of all the travellers upon this long road,
+    Where is he that has returned, that he may tell us the secret?
+    Take heed that in this mansion (by way of metaphor)
+    Thou leavest nothing, for thou wilt not come back.
+
+_Ref._: C. 270, L. 424, B. 420, S.P. 216, P. 121, B. ii. 286, P. v.
+9.--W. 258, N. 217, V. 462.
+
+C. 211 and 277 contain the same image.
+
+
+LXV.*
+
+    The Revelations of Devout and Learn'd
+    Who rose before us, and as Prophets burn'd,
+      Are all but Stories, which, awoke from Sleep,
+    They told their comrades, and to Sleep return'd.
+
+This quatrain is translated from C. 127.
+
+    Those who have become oceans of excellence and cultivation,
+    And from the collection of their perfections have become
+          lights of their fellows,
+    Have not made a road out of this dark night,
+    They have told a fable and have gone to sleep.
+
+_Ref._: C. 127, L. 261, B. 258, P. 86, T. 101.--W. 209, N. 464, V. 266.
+
+
+LXVI.*
+
+    I sent my Soul through the Invisible,
+    Some letter of that After-life to spell:
+      And by and by my Soul return'd to me,
+    And answer'd, «I myself am Heav'n and Hell»:
+
+This quatrain is inspired by O. 15.
+
+    Already on the Day of Creation, beyond the heavens, my soul
+    Searched for the Tablet and Pen, and for heaven and hell,
+    At last the Teacher said to me with His enlightened judgment,
+    «Tablet and Pen, and heaven and hell, are within thyself.»[71]
+
+_Ref._: O. 15, L. 59, B. 56, P. 114, B. ii. 69, P. v. 79--W. 114, V. 58.
+
+
+LXVII.*
+
+    Heav'n but the Vision of fulfill'd Desire,
+    And Hell the Shadow from a Soul on fire,
+      Cast on the Darkness into which Ourselves,
+    So late emerged from, shall so soon expire.
+
+The inspiration for this verse comes from O. 33.
+
+    The heavenly vault is a girdle (cast) from my weary body.
+    Jihun[72] is a water-course worn by my filtered tears,
+    Hell is a spark from my useless worries,
+    Paradise is a moment of time when I am tranquil.
+
+_Ref._: O. 33, C. 90, L. 199, B. 196, S.P. 90, P. 148, T. 70, P. v.
+183.--W. 92, N. 90, V. 195.
+
+FitzGerald's verse was evidently also influenced by distich 1866 of the
+Mantik ut-tair.
+
+    Heaven and hell are reflections, the one of thy goodness, and
+          the other of thy wrath.
+
+
+LXVIII.
+
+    We are no other than a moving row
+    Of Magic Shadow-shapes that come and go
+      Round with the Sun-illumined Lantern held
+    In Midnight by the Master of the Show;
+
+This quatrain is translated from O. 108.
+
+    This vault of heaven beneath which we stand bewildered,
+    We know to be a sort of magic-lantern:[73]
+    Know thou that the sun is the flame and the universe is the lamp,
+    We are like figures that revolve in it.
+
+_Ref._: O. 108, C. 332, L. 505, B. 501, S.P. 266, P. 40, B. ii. 356, P.
+iv. 34.--W. 310, N. 267, E.C. 28, de T. 10, V. 545.
+
+
+LXIX.
+
+    But helpless Pieces of the Game He plays
+    Upon this Chequer-board of Nights and Days;
+      Hither and thither moves, and checks, and slays,
+    And one by one back in the Closet lays.
+
+This quatrain is translated from O. 94.
+
+    To speak plain language, and not in parables,
+    We are the pieces and heaven plays the game,
+    We are played together in a baby-game upon the chess-board
+          of existence,
+    And one by one we return to the box of non-existence.
+
+_Ref._: O. 94, C. 280, L. 443, B. 439, S.P. 230, P. 31, B. ii. 291, T.
+183, P. v. 10.--W. 270, N. 231, E.C. 27, V. 480.
+
+
+LXX.
+
+    The Ball no question makes of Ayes and Noes
+    But Here or There as strikes the Player goes;
+      And He that toss'd you down into the Field,
+    _He_ knows about it all--HE knows--HE knows!
+
+This quatrain is translated from C. 422.
+
+    O thou who art driven like a ball by the mallet of Fate,
+    Go to the right or take the left, but say nothing;[74]
+    For He who set thee running and galloping
+    He knows, he knows, he knows, he----.
+
+_Ref._: C. 422, L. 633, B. 625, P. 167, B. ii. 462, T. 274.--W. 401, V.
+682.
+
+
+LXXI.
+
+    The Moving Finger writes; and, having writ,
+    Moves on: nor all your Piety nor Wit
+      Shall lure it back to cancel half a Line,
+    Nor all your Tears wash out a Word of it.
+
+The origin of this quatrain is to be found in O. 31
+
+    From the beginning[75] was written what shall be;
+    Unhaltingly the Pen (writes) and is heedless of good and bad;
+    On the First Day He appointed everything that must be--
+    Our grief and our efforts are vain.
+
+_Ref._: O. 31, C. 87, L. 195, B. 192, S.P. 31, B. ii. 60, T. 67, P. v.
+211.--W. 35, N. 31, V. 191.
+
+
+LXXII.
+
+    And that inverted Bowl they call the Sky,
+    Whereunder crawling coop'd we live and die,
+      Lift not your hands to _It_ for help--for It
+    As Impotently moves as you or I.
+
+The inspiration for this quatrain comes from O. 134, ll. 1 and 2, and O.
+41.
+
+    This heavenly vault is like a bowl fallen upside down,
+    Under which all the wise have fallen helpless.
+
+_Ref._: O. 134, C. 435, L. 657, B. 649, S.P. 360, P. 34, B. ii. 481, P.
+v. 154.--W. 408, N. 363, V. 706.
+
+    The good and the bad that are in man's nature,
+    The happiness and misery that are predestined for us,
+    Do not impute them to the heavens, for, in the way of Wisdom,
+    Those heavens are a thousandfold more helpless than thou art.
+
+_Ref._: O. 41, C. 62, L. 80, B. 76, S.P. 95, P. 45.--W. 96, N. 95, V.
+79.
+
+
+LXXIII.
+
+    With Earth's first Clay They did the Last Man knead,
+    And there of the Last Harvest sow'd the Seed:
+      And the first Morning of Creation wrote
+    What the Last Dawn of Reckoning shall read.
+
+In this quatrain we trace the influence of O. 31 (quoted in the parallel
+to quatrain No. 71, _ante_) and of O. 95.
+
+    Oh, heart! since, in this world, truth itself is hyperbole,
+    Why art thou so disquieted with this trouble and abasement?
+    Resign thy body to destiny and adapt thyself to the times,
+    For, what the Pen has written, it will not re-write for thy sake.[76]
+
+_Ref._: O. 95, L. 430, B. 426, S.P. 215, P. 59, B. ii. 292.--W. 257, N.
+216, E.C. 15, V. 468.
+
+
+LXXIV.*
+
+    YESTERDAY _This_ Day's Madness did prepare;
+    TO-MORROW'S Silence, Triumph, or Despair:
+      Drink! for you know not whence you came, nor why
+    Drink! for you know not why you go, nor where.
+
+The first half of this quatrain comes from O. 152 and the second half
+from O. 26, ll. 3 and 4.
+
+    Be happy! they settled thy business yesterday,
+    And beyond the reach of all thy longings is yesterday,
+
+    Live happily, for without any importunity on thy part yesterday,
+    They appointed with certainty what thou wilt do to-morrow--yesterday!
+
+_Ref._: O. 152, C. 473, L. 702, B. ii. 564, P. v. 196.--W. 489, V. 754.
+
+    Be happy!--thou knowest not whence thou hast come:
+    Drink wine!--thou knowest not whither thou shalt go.
+
+_Ref._: O. 26, C. 83, L. 192, B. 189, S.P. 85, B. ii. 110, T. 64, P. v.
+34.--W 87, N. 85, V. 188.
+
+
+LXXV.
+
+    I tell you this--When, started from the Goal,
+    Over the flaming shoulders of the Foal
+      Of Heav'n, Parwin and Mushtari they flung,
+    In my predestined Plot of Dust and Soul.
+
+This quatrain is translated from C. 147.
+
+    On that day when they saddled the wild horses of the Sun,
+    And settled the laws of Parwin and Mushtari,[77]
+    This was the lot decreed for me from the Diwan of Fate:
+    How can I sin? (my sins) are what Fate allotted me as my portion.
+
+_Ref._: C. 147, L. 286, B. 282, S.P. 110.--W. 140, N. 110, V. 289.
+
+
+LXXVI.
+
+    The Vine had struck a fibre; which about
+    If clings my Being--let the Dervish flout;
+      Of my Base metal may be filed a Key,
+    That shall unlock the Door he howls without.
+
+The sentiment of this quatrain is contained in C. 143.
+
+    Since Eternity itself was He created me,
+    From the first he dictated to me the lesson of love,
+    At that time a small filing of the dust of my heart,
+    He made into a key of the treasure-house of substance.[78]
+
+_Ref._: C. 143, L. 311, B. 307, P. 81, T. 134.--V. 314.
+
+
+LXXVII.
+
+    And this I know; whether the one True Light
+    Kindle to Love, or Wrath-consume me quite,
+      One Flash of It within the Tavern caught
+    Better than in the Temple lost outright.
+
+This quatrain is translated from O. 2.
+
+    If I talk of the mystery with Thee in a tavern,
+    It is better than if I make my devotions before the Mihrab[79]
+          without Thee.
+    O Thou, the first and last of all created beings,
+    Burn me an Thou wilt, cherish me an Thou wilt.
+
+_Ref._: O. 2, C. 272, L. 427, B. 423, S.P. 221, P. 7, B. ii. 294, T.
+172.--W. 262, N. 222, V. 465.
+
+
+LXXVIII.*
+
+    What! out of senseless Nothing to provoke
+    A conscious Something to resent the yoke
+      Of unpermitted Pleasure, under pain
+    Of everlasting Penalties, if broke!
+
+It is not easy to deal with this and the three following quatrains
+separately, the sentiments of all four being closely interchangeable and
+largely identical. To avoid confusion, however, I have attempted the
+task. There are some scores of ruba'iyat that may be said to have
+contributed their imageries to the quatrain. The main sources of the
+first of them seem to be C. 85 and N. 226:
+
+    God, when he fashioned the clay of my body,
+    Knew by my making what would come of it;
+    (Since) there is no sin of mine without his order
+    Why should he seek to burn me at the Day of Resurrection?
+
+_Ref._: C. 85, L. 194, B. 191, S.P. 99, P. 18, T. 66.--W. 100, N. 99, V.
+190.
+
+    Thou knowest that abstinence from that (sin) is impossible,
+    Having (nevertheless) ordered and ordained abstinence from it;
+    Thus between the order and the prohibition we stand helpless,
+    We mortals are helpless at the permission to slant
+    (the cup) but not to spill (its contents).[80]
+
+_Ref._: N. 226, L. 442, B. 438, S.P. 225, P. 317, B. ii. 297, T.
+180.--W. 265, V. 479.
+
+
+LXXIX.*
+
+    What! from his helpless Creature be repaid
+    Pure Gold for what he lent him dross-allay'd--
+      Sue for a Debt he never did contract,
+    And cannot answer--Oh the sorry trade!
+
+This quatrain would seem to be specially inspired by C. 201 and 433,
+which are so much alike (ll. 2, 3, and 4 are practically identical in
+both) that one or the other is obviously the addition of a later scribe.
+
+    When they mixed the earth of my shaping-mould,
+    They produced an hundred wonders from me;[81]
+    I cannot be better than I am,
+    For this is how I was turned out of the crucible.
+
+_Ref._: C. 201, L. 355, B. 351, T. 128.--W. 221, V. 354.
+
+
+LXXX.
+
+    Oh Thou, who didst with pitfall and with gin
+    Beset the Road I was to wander in,
+      Thou wilt not with Predestined Evil round
+    Enmesh, and then impute my Fall to Sin!
+
+This quatrain is translated from O. 148.
+
+    In a thousand places on the road I walk, Thou placest snares,
+    Thou say'st «I will catch thee if thou settest foot in them,»
+    In no smallest thing is the world independent of Thee,
+    Thou orderest all things, and (yet) callest me rebellious!
+
+_Ref._: O. 148, B. ii. 546.--W. 432, N. 390.
+
+
+LXXXI.
+
+    Oh Thou, who Man of baser Earth didst make,
+    And ev'n with Paradise devise the Snake:
+      For all the Sin wherewith the Face of Man
+    Is blacken'd--Man's forgiveness give--and take!
+
+       *       *       *       *       *
+
+This is a very composite quatrain, round which some controversy has
+raged. Professor Cowell has given the weight of his authority to the
+statement that «there is no original for the line about the snake.» This
+is true in so far as that the image does not occur in Omar, but
+FitzGerald had seen it in an important apologue in the Mantik ut-tair
+(beginning at distich 3229) in which we read of the presence of the
+Snake (Iblis) in Paradise, at the moment of the creation of Adam, and in
+the course of which, Satan himself addresses God thus:
+
+    If malediction comes from Thee, there comes also mercy,
+    The created thing is dependent upon Thee since Destiny is in Thy hands;
+    If malediction be my lot, I do not fear,
+    There must be poison, everything is not antidote.
+
+The influence of the following is traceable in the quatrains, C. 115, C.
+286, and C. 510:
+
+    I am a disobedient slave, where is Thy mercy?
+    My heart is dark, where is Thy light and clearness?
+    If, for serving Thee, Thou givest me heaven,
+    This a reward, but Thy grace and Thy gifts--where are they?
+
+_Ref._: C. 115, L. 217, B. 214, S.P. 91, P. 23.--W. 93, N. 91, V. 211.
+
+    Oh! Thou who knowest the secrets of the hearts of all,
+    Protector of all in their hours of helplessness:
+    Oh, Lord! grant me repentance and accept my excuses,
+    Oh! Thou who grantest repentance and acceptest the excuses of all.
+
+_Ref._: C. 286, L. 449, B. 445, S.P. 235, B. ii. 308, T. 188.--W. 276,
+N. 236, V. 488.
+
+Professor Cowell attributes FitzGerald's quatrain to the above ruba'i.
+_Vide_ the Editorial Note previously referred to.
+
+    The manager of the affairs of the dead and living art thou,
+    Thou art the keeper of this unstable heaven;
+    Though I am wicked, thou art my Master,
+    Who can sin, seeing that thou art the Creator (of all)?
+
+_Ref._: C. 510, L. 700, B. 691, S.P. 431, P. 2, B. ii. 584.--W. 471, N.
+436, V. 753.
+
+
+LXXXII.[82]
+
+    As under cover of departing Day
+    Slunk hunger-stricken Ramazan away,
+      Once more within the Potter's house alone
+    I stood, surrounded by the Shapes of Clay.
+
+
+LXXXIII.*
+
+    Shapes of all Sorts and Sizes, great and small,
+    That stood along the floor and by the wall;
+      And some loquacious Vessels were; and some
+    Listen'd, perhaps, but never talk'd at all.
+
+
+LXXXVII (_post_).
+
+FitzGerald constructed these three quatrains from O. 103.
+
+    I went last night into the workshop of a potter,
+    I saw two thousand pots, some speaking, and some silent;
+    Suddenly one of the pots cried out aggressively:--
+    «Where are the pot-maker, and the pot-buyer, and the pot-seller?»
+
+_Ref._: O. 103, C. 301, L. 470, B. 466, S.P. 242, P. 102, B. ii. 323, T.
+202 and 297, P. v. 37.--W. 283, N. 243, E.C. 26, V. 509.
+
+It will be observed that the reading of quatrain 87, l. 4, in the third
+edition of FitzGerald is close to this original. «Who makes--Who
+buys--Who sells--Who is the Pot?»
+
+«Hunger stricken Ramazan» is described in C. 198.
+
+    They say that the moon of Ramazan[83] shines out again
+    Henceforth one cannot linger over the wine;
+    At the end of Sha'ban I will drink so much wine
+    That during Ramazan I may be found drunk until the festival (arrives).
+
+_Ref._: C. 198, L. 352, B. 348, S.P. 172, P. 347, B. ii. 216, T.
+125.--W. 188, N. 172, V. 351. See also the quatrain from the «Notes,» p.
+155.
+
+
+LXXXIV.
+
+    Said one among them--«Surely not in vain
+    My substance of the common Earth was ta'en
+      And to this Figure moulded, to be broke,
+    Or trampled back to shapeless Earth again.»
+
+The sentiment of this quatrain is traceable in C. 293.
+
+    There is a cup which wisdom loud acclaims,
+    And for its beauty gives it a hundred kisses on the brow,
+    Such a sweet cup, this Potter of the World
+    Makes, and then shatters it upon the ground.
+
+_Ref._: C. 293, L. 456, B. 452, B. ii. 321, T. 194.--W. 290, V. 495.
+
+
+LXXXV.
+
+    Then said a Second--«Ne'er a peevish Boy
+    Would break the Bowl from which he drank in joy;
+      And he that with his hand the Vessel made
+    Will surely not in after Wrath destroy.»
+
+The inspiration for this quatrain comes from O. 19.
+
+    The elements of a cup which he has put together,
+    Their breaking up a drinker cannot approve;[84]
+    All these heads and feet--with his finger-tips,
+    For love of whom did he make them?--for hate of whom did he break them?
+
+_Ref._: O. 19, C. 64, L. 40, S.P. 37, P. ii. 7, P. 95, B. ii. 77, T.
+309.--W. 42, N. 38, V. 220.
+
+
+LXXXVI.
+
+    After a momentary silence spake
+    Some Vessel of a more ungainly make;
+      «They sneer at me for leaning all awry:
+    What! did the Hand then of the Potter shake?»
+
+
+This quatrain is a perfect reflection and companion of all these Kuza
+Nama quatrains, but I have not found a ruba'i in O. or C. which can be
+pointed out as having directly inspired[85] it. It must, I think, be
+considered together with No. 88.
+
+
+LXXXVII.
+
+    Whereat some one of the loquacious Lot--
+    I think a Sufi pipkin--waxing hot--
+      «All this of Pot and Potter--Tell me, then,
+    Who is the Potter pray, and who the Pot?»
+
+
+LXXXVII. _Ante sub_ LXXXIII.
+
+
+LXXXVIII.
+
+    «Why,» said another, «Some there are who tell
+    Of one who threatens he will toss to Hell
+      The luckless Pots he marr'd in making--Pish!
+    He's a Good Fellow, and 'twill all be well.»
+
+The inspiration for this quatrain, and I think for No. 86, comes from C.
+69 and C. 159:
+
+    Since the Director set in order the elements of natures,
+    For what cause does He again disperse them into loss and deficiency?
+    If they are good, why should He break them?
+    And if they turn out bad, well, why is there any blame to these forms?
+
+_Ref._: C. 69, L. 103, B. 99, P. 94, B. ii. 107.--W. 126, V. 103.
+
+    They say that at the resurrection there will be much searching,
+    And that that excellent Friend will be hasty;
+    Nothing but good ever came from the Unalloyed Goodness,
+    Be happy! for the upshot will be all right!
+
+_Ref._: C. 159, L. 316, B. 312, S.P. 178, P. 197.--W. 193, N. 178, V.
+318.
+
+
+LXXXIX.
+
+    «Well,» murmured one, «Let whoso make or buy,
+    My Clay with long Oblivion is gone dry:
+      But fill me with the old familiar Juice,
+    Methinks I might recover by and by.»
+
+This quatrain is inspired by C. 188 and O. 116:
+
+    At that moment when the plant of my existence shall be rooted up,
+    And its branches scattered in all directions;
+    If then they make a flagon of my clay,
+    When they fill it with wine it will live again.
+
+_Ref._: C. 188, S.P. 115.--N. 115.
+
+    When I am abased beneath the foot of Destiny,
+    And am rooted up from the hope of life,
+    Take heed that thou makest nothing but a goblet of my clay,
+    Haply when it is full of wine I may revive.
+
+_Ref._: O. 116, C. 345, L. 539, B. 534, S.P. 289, P. 227, B. ii. 385, T.
+230, P. v. 146.--W. 330, N. 290, V. 579.
+
+
+XC.
+
+    So while the Vessels one by one were speaking,
+    The little Moon look'd in that all were seeking:
+      And then they jogg'd each other, «Brother! Brother!
+    Now for the Porter's shoulder-knot a-creaking!»
+
+       *       *       *       *       *
+
+This quatrain which concludes the Kuza Nama is inspired by the
+concluding quatrain of O. 158.
+
+    The month of Ramazan passes and Shawwal comes,
+    The season of increase, and joy, and storytellers comes;
+    Now comes that time when «Bottles upon the shoulder!»
+    They say--for the porters come and are back to back.[86]
+
+_Ref._: O. 158.--W. 218.
+
+
+XCI.
+
+    Ah, with the Grape my fading life provide,
+    And wash the Body whence the Life has died,
+      And lay me, shrouded in the living Leaf,
+    By some not unfrequented Garden-side.
+
+This quatrain owes its inspiration to C. 12.
+
+    When I am dead wash me with wine,
+    Say my funeral service with pure wine,
+    If thou wishest that thou shouldst see me on the resurrection-day
+    Thou must seek me in the earth of the tavern threshold.
+
+_Ref._: C. 12, L. 13, B. 12, S.P. 7, P. 299, B. ii. 9, T. 12.--W 6, N.
+7, V. 11
+
+
+O. 69 may also be quoted:
+
+    Take heed to stay me with the wine-cup,
+    And make this amber[87] face like a ruby;
+    When I die, wash me with wine,
+    And out of the wood of the vine make the planks of my coffin.
+
+_Ref._: O. 69, C. 158, L. 308, B. 304, S.P. 109, P. 212, B. ii. 199, T.
+143, P. v. 153.--W. 139, N. 109, V. 311.
+
+
+XCII.
+
+    That ev'n my buried Ashes such a snare
+    Of Vintage shall fling up into the Air
+      As not a True-believer passing by
+    But shall be overtaken unaware.
+
+This quatrain is translated from C. 16.
+
+    I will drink so much wine that this aroma of wine
+    Shall rise from the earth when I am beneath it;
+    So that when a drinker shall pass above my body,
+    He shall become drunk and degraded from the aroma of my potations.
+
+_Ref._: C. 16, L. 28, B. 26, S.P. 14, B. ii. 11.--W. 17, N. 14, V. 27.
+
+
+XCIII.
+
+    Indeed the Idols I have loved so long
+    Have done my credit in this World much wrong;
+      Have drown'd my Glory in a shallow Cup,
+    And sold my Reputation for a Song.
+
+The inspiration for this quatrain comes from C. 170.
+
+    When my mood inclined to prayer and fasting,
+    I said that all my salvation was attained;
+    Alas! that those Ablutions[88] are destroyed by my pleasures,
+    And that Fast of mine is annulled by half a draught of wine.
+
+_Ref._: C. 170, L. 366, B. 362, S.P. 162, P. 343, B. ii. 207, T.
+118.--W. 180, N. 162, V. 365.
+
+The last line is suggested by O. 22.
+
+
+XCIV.
+
+    Indeed, indeed, Repentance oft before
+    I swore--but was I sober when I swore?
+      And then and then came Spring, and Rose-in-hand
+    My thread-bare Penitence apieces tore.
+
+This quatrain is inspired by C. 431.
+
+    Every day I resolve to repent in the evening,
+    Making repentance of the brimful goblet and cup;
+    Now that the season of roses[89] has come, I cannot grieve
+    Give penitence for repentance in the season of roses, O Lord!
+
+_Ref._: C. 431, L. 655, B. 647 B. ii. 510.--W. 425, V. 704.
+
+
+XCV.
+
+    And much as Wine has play'd the Infidel,
+    And robb'd me of my Robe of Honour--Well,
+      I wonder often what the Vintners buy
+    One half so precious as the stuff they sell.
+
+The original of this quatrain is O. 62.
+
+    Although wine has rent my veil (of reputation),
+    So long as I have a soul I will not be separated from wine;
+    I am in perplexity concerning vintners, for they--
+    What will they buy that is better than what they sell?
+
+_Ref._: O. 62, C. 196, L. 350, B. 346, P. 311, B. ii. 167, T. 123, P.
+iv. 63, P. v. 202.--W. 208, N. 463, E.C. 11, V. 350.
+
+
+XCVI.
+
+    Yet Ah, that Spring should vanish with the Rose!
+    That Youth's sweet-scented manuscript should close!
+      The Nightingale that in the branches sang,
+    Ah whence, and whither flown again, who knows!
+
+This quatrain is translated from C. 223.
+
+    Alas! that the book of youth is folded up?
+    And that this fresh purple spring is winter-stricken;[90]
+    That bird of joy, whose name is Youth,
+    Alas! I know not when it came nor when it went.
+
+_Ref._: C. 223, L. 332, B. 328, S.P. 128, B. ii. 155, T. 161.--W. 155,
+N. 128, V. 334.
+
+
+XCVII.*
+
+    Would but the Desert of the Fountain yield
+    One glimpse--if dimly, yet indeed, reveal'd,
+      To which the fainting Traveller might spring,
+    As springs the trampled herbage of the field!
+
+This quatrain is inspired by C. 509.
+
+    Oh! would that there were a place of repose,
+    Or that we might come to the end of the road;
+    Would that from the heart of earth, after a hundred thousand years,
+    We might all hope to blossom again like the verdure.
+
+_Ref._: C. 509, L. 768, B. 754, S.P. 395, B. ii. 522.--W. 442, N. 400,
+V. 820.
+
+
+XCVIII.*
+
+    Would but some wingéd Angel ere too late
+    Arrest the yet unfolded Roll of Fate,
+      And make the stern Recorder otherwise
+    Enregister, or quite obliterate!
+
+This quatrain in its original form in the second edition was closer to
+the original Persian.
+
+    Oh if the World were but to re-create,
+    That we might catch ere closed the Book of Fate,
+      And make the Writer on a fairer leaf
+    Inscribe our names, or quite obliterate!
+
+It owes its inspiration to N 457.
+
+    I would that God should entirely alter the world,
+    And that he should do it now, that I might see him do it;
+    And either that he should cross my name from the Roll,
+    Or else raise my condition from want to plenty.[91]
+
+_Ref._: N. 457, S.P. 451.--W. 486, V. 841.
+
+
+XCIX.
+
+    Ah, Love! could you and I with Him conspire
+    To grasp this sorry Scheme of Things entire,
+      Would not we shatter it to bits--and then
+    Re-mould it nearer to the Heart's Desire!
+
+       *       *       *       *       *
+
+This quatrain is translated from C. 395.
+
+    Had I, like God, control of the heavens,
+    Would I not do away with the heavens altogether,
+    Would I not so construct another heaven from the beginning
+    That, being free, one might attain to the heart's desire?
+
+_Ref._: C. 395, L. 594, B. 587, S.P. 337, P. 98, B. ii, 450, T. 268.--W.
+379, N. 340, V. 641.
+
+
+C.
+
+    Yon rising moon that looks for us again--
+    How oft hereafter will she wax and wane;
+      How oft hereafter rising look for us
+    Through this same Garden--and for _one_ in vain.
+
+This quatrain in its various forms is inspired by O. 5.
+
+    Since no one will guarantee thee a to-morrow,
+    Make thou happy now this lovesick heart;[92]
+    Drink wine in the moonlight, O Moon, for the moon[93]
+    Shall seek us long and shall not find us.
+
+_Ref._: O. 5, C. 7, L. 5, S.P. 8, P. 219, B. 4, B. ii. 8, T. 6, P. v.
+168.--W. 7, N. 8, E.C. 5, V. 4.
+
+
+CI.
+
+    And when like her, Oh Saki, you shall pass
+    Among the Guests Star-scatter'd on the Grass,
+      And in your joyous errand reach the spot
+    Where I made One--turn down an empty Glass!
+
+This quatrain is taken from O. 83 and 84.
+
+    Friends when ye hold a meeting together,
+    It behoves ye warmly to remember your friend;
+    When ye drink wholesome wine together,
+    And my turn comes, turn (a goblet) upside down.
+
+_Ref_.: O. 83.--W. 234, V. 459.
+
+    Friends, when with consent ye make a tryst together,
+    And take delight in one another's charms,
+    When the Cup-bearer takes (round) in his hand the Mugh[94] wine,
+    Remember a certain helpless one in your benediction.
+
+_Ref._: O. 84, L. 290, B. 286, S.P. 191, P. 226, B. ii. 245.--W. 205, N.
+192, V. 293.
+
+
+APPENDIX.
+
+
+In addition to the quatrains composing the final form in which we know
+his poem, there are a few stray quatrains scattered about Edward
+FitzGerald's Introduction and Notes. There are also two quatrains which
+appeared in the first edition only, and nine that appeared in the second
+edition only. I do not think that this work would be complete without an
+attempt to identify these quatrains in the original texts which inspired
+them.
+
+
+IN THE INTRODUCTION.[95]
+
+PAGE 4.
+
+    Khayyam, who stitched the Tents of Science,
+    Has fallen in Grief's furnace and been suddenly burned;
+    The shears of Fate have cut the tent-ropes of his life,
+    And the Broker of Hope has sold him for nothing!
+
+The quatrain upon p. 4 is a literal translation by Prof. Cowell of O.
+22.
+
+_Ref._: O. 22, C. 59, L. 74, B. 70, S.P. 81, P. 205, B. ii. 94, T. 307,
+P. iv. 65, P. v. 195.--W. 83, N. 81, V. 73.
+
+
+PAGE 7.
+
+    Oh, Thou who burn'st in Heart for those who burn
+    In Hell, whose fires thyself shall feed in turn;
+       How long be crying, «Mercy on them, God!»
+    Why, who art Thou to teach, and He to learn?
+
+The quatrain upon p. 7 is FitzGerald's rendering of C. I.
+
+    O, burnt one (born) of the burnt! destined in turn to burn,
+    And oh, thou! from whom the fires of Hell shall blaze,[96]
+    How long wilt thou keep saying, «Have mercy upon Omar!»
+    Wilt _thou_ be a teacher of mercy to _God_?
+
+_Ref._: C. 1, L. 769, B. 755, S.P. 453, P. ii. 1, B. ii. 537, T. 1.--W.
+488, N. 459, V. 821.
+
+
+PAGE 7.
+
+    If I myself upon a looser Creed
+    Have loosely strung the Jewel of Good deed,
+    Let this one thing for my Atonement plead.
+    That One for Two I never did misread.
+
+The quatrain on p. 7 is FitzGerald's rendering of O. 1.
+
+    If I have never threaded the pearl[97] of thy service,
+    And if I have never wiped the dust of sin from my face,
+    Nevertheless, I am not hopeless of thy mercy,
+    For the reason that I have never said that One was Two.[98]
+
+_Ref._: O. 1, C. 274, L. 423, B. 419, P. 4, S.P. 228, B. ii. 302, P. iv.
+8.--W. 268, N. 229, V. 461.
+
+
+IN THE NOTES.
+
+
+XVIII.
+
+    The Palace that to Heav'n his pillars threw,
+    And Kings the forehead on his threshold drew--
+      I saw the solitary Ringdove there,
+    And «Coo, coo, coo!» she cried, and «Coo, coo, coo.»
+
+The quatrain in the note to quatrain No. 18 is translated from C. 419.
+
+    That palace that reared its pillars up to heaven,
+    Kings prostrated themselves upon its threshold;
+    I saw a dove that, upon its battlements,
+    Uttered its cry: «Where, where, where, where?»[99]
+
+_Ref._: C. 419, L. 627, B. 619, S.P. 347, P. 140, B. ii. 459, P. iv.
+13.--W. 392, N. 350, V. 677.
+
+
+XC.
+
+    Be of Good Cheer--the sullen Month will die,
+    And a young Moon requite us by and by:
+      Look how the Old one, meagre, bent, and wan
+    With Age and Past, is fainting from the Sky!
+
+The quatrain in the note to quatrain No. 90 is translated from C. 218.
+
+    Be happy! for the moon of thy festival will come,
+    The means of mirth will all be propitious;
+    This moon has become lean, bent-figured and thin,
+    Thou may'st say that it will sink under this trouble.
+
+_Ref._: C. 218, B. ii. 186.
+
+
+IN THE FIRST EDITION.
+
+
+XXXIII.
+
+    Then to the rolling Heav'n itself I cried,
+    Asking, «What Lamp had Destiny to guide
+      «Her little Children stumbling in the Dark?»
+    And--«A blind Understanding» Heav'n replied.
+
+
+XLV.
+
+    But leave the Wise to wrangle, and with me
+    The quarrel of the Universe let be;
+      And, in some corner of the Hubbub coucht,
+    Make Game of that which makes as much of Thee.
+
+
+XXXVII.
+
+    Ah! fill the Cup--what boots it to repeat
+    How Time is slipping underneath our Feet?
+      Unborn To-morrow and dead Yesterday.
+    Why fret about them if To-day be sweet?
+
+In the first edition we find quatrain No. 33, which, like its distant
+cousin in the fourth edition (No. 34), appears to have no near parallel
+in the texts. No. 45 is a quatrain in a like predicament, and it may be
+for this reason that FitzGerald dropped it out of all subsequent
+editions.
+
+The only other quatrain peculiar to the first edition is No. 37. This
+would appear to have been inspired by ll. 3 and 4 of O. 20, quoted in
+the parallels to quatrain No. 57 and by O. 17, ll. 3 and 4.
+
+    Nothing thou canst say of yesterday, that is past, is sweet;
+    Be happy and do not speak of yesterday, for to-day is sweet.
+
+_Ref._: O. 17, C. 84, L. 193, B. 190, P. 126, B. ii. 59, T. 65 and 352,
+P. iv. 68, P. v. 62.--W 112, E.C. 6, V. 189.
+
+
+IN THE SECOND EDITION.
+
+
+The quatrains peculiar to the second edition are as follows:
+
+
+XIV.
+
+    Were it not Folly, Spider-like to spin
+    The Thread of present Life away to win--
+      What? for ourselves, who know not if we shall
+    Breathe out the very Breath we now breathe in!
+
+This quatrain is inspired by O. 136.
+
+    How long shall I grieve about what I have or have not,
+    And whether I shall pass this life light-heartedly or not?
+    Fill up the wine-cup, for I do not know
+    That I shall breathe out the breath that I am drawing in.
+
+_Ref._: O. 136, C. 504 and 427, L. 740, B. 726, S.P. 362, P. 207, B. ii.
+484, P. v. 64.--W. 411, N. 366, V. 730.
+
+
+XXVIII.
+
+This was replaced by No. 63 in the fourth and fifth editions, taken from
+the same original.
+
+
+XLIV.
+
+    Do you, within your little hour of Grace,
+    The waving Cypress in your Arms enlace,
+      Before the Mother back into her arms
+    Fold, and dissolve you in a last embrace.
+
+The sentiment of this quatrain is traceable in C. 189, ll. 1 and 2, and
+in C. 195.
+
+    Be happy! for the time will come
+    (When) all bodies will be hidden in the earth.
+
+_Ref._: C. 189, L. 393, B. 389, S.P. 160, B. ii. 203.--N. 160, V. 390.
+
+    My whole mood is in sympathy with rosy cheeks,
+    My hand is always grasping the wine cup;
+    I exact from every part (of me) its allotted function,
+    Ere that those parts (of me) be mingled with the all.
+
+_Ref._: C. 195, L. 349, B. 345, S.P. 163, P. 287, B. ii. 206, T.
+122.--W. 181, N. 163, V. 349.
+
+
+LXV.
+
+    If but the Vine and Love-abjuring Band
+    Are in the Prophet's Paradise to stand,
+      Alack, I doubt the Prophet's Paradise
+    Were empty as the hollow of one's Hand.
+
+This quatrain is inspired by O. 127 and by C. 60.
+
+    To drink wine and consort with a company of the beautiful
+    Is better than practising the hypocrisy of the zealot;
+    If the lover and the drunkard are doomed to hell,
+    Then no one will see the face of heaven.
+
+_Ref._: O. 127, L. 608, B. 601, S.P. 339, P. 330, B. ii. 453, P. v.
+151.--W. 381, N. 342, V. 655.
+
+FitzGerald was evidently «reminded of» this by N. 64 which is C. 60.
+
+    They say that drunkards will go to hell,
+    It is a repugnant creed, the heart cannot believe it;
+    If drunken lovers are doomed to hell,
+    To-morrow heaven will be bare like the palm of one's hand.
+
+_Ref._: C. 60, L. 158, B. 155, S.P. 64, T. 308, P. v. 29.--W. 67, N 64,
+V. 156.
+
+
+LXXVII.
+
+    For let Philosopher and Doctor preach
+    Of what they will, and what they will not,--each
+      Is but one Link in an eternal Chain
+    That none can slip, or break, or over-reach.
+
+For this quatrain I can find neither authority nor inspiration.
+
+
+LXXXVI.
+
+    Nay, but, for terror of his wrathful Face,
+    I swear I will not call Injustice Grace;
+      Not one Good Fellow of the Tavern but
+    Would kick so poor a Coward from the place.
+
+I think the inspiration for this must have been C. 8.
+
+    No man is he whom his fellow men spurn,
+    And (at the same time) for fear of his malice number among the good;
+    If a drunkard shows reluctance in generosity,
+    All his fellow drunkards hold him to be a mean fellow.
+
+_Ref._: C. 8, L. 3, B. ii. 15, T. 9.--V. 416.
+
+
+XC.
+
+    And once again there gather'd a scarce heard
+    Whisper among them; as it were, the stirr'd
+      Ashes of some all but extinguisht Tongue,
+    Which mine ear kindled into living Word.
+
+This was a fourth quatrain evolved out of O. 103. _Vide_ quatrains Nos.
+82, 83, and 87 _ante_.
+
+
+XCIX.
+
+    Whither resorting from the vernal Heat
+    Shall Old Acquaintance Old Acquaintance greet,
+      Under the Branch that leans above the Wall
+    To shed his Blossom over head and feet.
+
+This quatrain, interpolated after No. 91 of the fourth edition (= No. 98
+of the second edition), is an elaboration founded upon the story told by
+Nizam ul-Mulk and recorded by FitzGerald in his Introduction.
+
+
+CVII.
+
+    Better, oh better, cancel from the Scroll
+    Of Universe one luckless Human Soul,
+      Than drop by drop enlarge the Flood that rolls
+    Hoarser with Anguish as the Ages roll.
+
+This quatrain, interpolated after the quatrain which became No. XCVIII.
+in the fourth edition, was no doubt inspired by N. 457 (_q.v. sub_ No.
+98 _ante_) and by O. 54.
+
+    What the Pen has written never changes,
+    And grieving only results in deep affliction;
+    Even through all thy life thou weepest tears of blood,
+    Not one drop becomes increased beyond what it is.
+
+_Ref._: O. 54, B. ii. 144.
+
+
+VARIATIONS
+
+BETWEEN THE SECOND, THIRD AND FOURTH EDITIONS OF FITZGERALD'S
+TRANSLATION OF
+
+OMAR KHAYYAM
+
+
+STANZA
+
+I. In ed. 2:
+
+    Wake! For the Sun behind yon Eastern height
+    Has chased the Session of the Stars from Night;
+      And, to the field of Heav'n ascending, strikes
+    The Sultan's Turret with a Shaft of Light.
+
+In the first draft of ed. 3 the first and second lines stood thus
+
+    Wake! For the Sun before him into Night
+    A Signal flung that put the Stars to flight.
+
+II. In ed. 2:
+
+    Why lags the drowsy Worshipper outside?
+
+V. In edd. 2 and 3:
+
+    But still a Ruby gushes from the Vine.
+
+IX. In edd. 2 and 3:
+
+    Morning a thousand Roses brings, you say.
+
+X. In ed. 2:
+
+    Let Rustum cry «To Battle!» as he likes,
+    Or Hatim Tai «To Supper!»--heed not you
+
+In ed. 3:
+
+    Let Zal and Rustum thunder as they will.
+
+STANZA
+
+XII. In ed. 2:
+
+    Here with a little Bread beneath the Bough,
+    A Flask of Wine, a Book of Verse--and Thou, etc.
+
+XIII. In ed. 2:
+
+    Ah, take the Cash, and let the Promise go,
+    Nor heed the music of a distant Drum!
+
+XX. In ed. 2:
+
+    And this delightful Herb whose living Green.
+
+XXII. In edd. 2 and 3:
+
+    That from his Vintage rolling Time has prest.
+
+XXVI. In edd. 2 and 3.
+
+    Of the Two Worlds so learnedly, are thrust.
+
+XXVII. In ed. 2:
+
+    Came out by the same door as in I went.
+
+XXVIII. In edd. 2 and 3.
+
+    And with my own hand wrought to make it grow.
+
+XXX. In ed. 2.
+
+    Ah, contrite Heav'n endowed us with the Vine
+    To drug the memory of that insolence!
+XXXI. In ed. 2:
+
+    And many Knots unravel'd by the Road.
+
+XXXII. In edd. 2 and 3:
+
+    There was the Veil through which I could not see.
+
+XXXIII. In ed. 2:
+
+    Nor Heav'n, with those eternal Signs reveal'd.
+
+XXXIV. In ed. 2:
+
+    Then of the THEE IN ME who works behind
+    The Veil of Universe I cried to find
+      A Lamp to guide me through the darkness; and
+    Something then said--«An Understanding blind.»
+
+XXXV. In ed. 2:
+
+    I lean'd, the secret Well of Life to learn.
+
+STANZA
+
+XXXVI. In ed. 2:
+
+    And drink; and that impassive Lip I kiss'd.
+
+XXXVIII. In ed. 2 the only difference is «For» instead of «And» in the
+first line; but in the first draft of ed. 3 the stanza appeared thus:
+
+    For, in your Ear a moment--of the same
+    Poor Earth from which that Human Whisper came,
+    The luckless Mould in which Mankind was cast
+    They did compose, and call'd him by the name.
+
+In ed. 3 the first line was altered to--
+
+    Listen--a moment listen!--Of the same, etc.
+
+XXXIX. In ed. 2:
+
+    On the parcht herbage but may steal below.
+
+XL. In ed. 2:
+
+    As then the Tulip for her wonted sup
+    Of Heavenly Vintage lifts her chalice up,
+      Do you, twin offspring of the soil, till Heav'n
+    To Earth invert you like an empty Cup.
+
+In the first draft of ed. 3 the stanza is the same as in edd. 3 and 4,
+except that the second line is--
+
+    Of Wine from Heav'n her little Tass lifts up.
+
+XLI. In ed. 2 and the first draft of ed. 3:
+
+    Oh, plagued no more with Human or Divine
+    To-morrow's tangle to itself resign.
+
+XLII. In ed. 2:
+
+    And if the Cup you drink, the Lip you press,
+    End in what All begins and ends in--Yes;
+      Imagine then you _are_ what heretofore
+    You _were_--hereafter you shall not be less.
+
+The first draft of ed. 3 agrees with edd. 3 and 4, except that the first
+line is--
+
+    And if the Cup, and if the Lip you press.
+
+STANZA
+
+XLIII. In ed. 2:
+
+    So when at last the Angel of the drink
+    Of Darkness finds you by the river-brink,
+      And, proffering his Cup, invites your Soul
+    Forth to your Lips to quaff it--do not shrink.
+
+In the first draft of ed. 3 the only change made was from «proffering»
+to «offering,» but in ed. 3 the stanza assumed the form in which it also
+appeared in ed. 4. The change from «the Angel» to «that Angel» was made
+in MS. by FitzGerald in a copy of ed. 4.
+
+XLIV. In ed. 2:
+
+    Is't not a shame--is't not a shame for him
+    So long in this Clay suburb to abide!
+
+XLV. In ed. 2:
+
+    But that is but a Tent wherein may rest.
+
+XLVI. In ed. 2:
+
+    And fear not lest Existence closing _your_
+    Account, should lose, or know the type no more.
+
+XLVII. In ed. 2:
+
+    As much as Ocean of a pebble-cast.
+
+In ed. 3:
+
+    As the SEV'N SEAS should heed a pebble-cast.
+
+XLVIII. In ed. 2:
+
+    One Moment in Annihilation's Waste,
+    One Moment, of the Well of Life to taste--
+      The Stars are setting, and the Caravan
+    Draws to the Dawn of Nothing--Oh make haste.
+
+In the first draft of ed. 3 the third line originally stood:
+
+    Before the starting Caravan has reach'd
+
+the rest of the stanza being as in edd. 3 and 4.
+
+STANZA
+
+XLIX. In ed. 2:
+
+    A Hair, they say, divides the False and True.
+
+The change from «does» to «may» in the last line was made by FitzGerald
+in MS.
+
+L. In ed. 2:
+
+    A Hair, they say, divides the False and True.
+
+LII. In edd. 2 and 3:
+
+    He does Himself contrive, enact, behold.
+
+LIII. In the first draft of ed. 3:
+
+    To-morrow, when You shall be You no more.
+
+LIV. In ed. 2:
+
+    Better be merry with the fruitful Grape.
+
+LV. In ed. 2:
+
+    You know, my Friends, how bravely in my House
+    For a new Marriage I did make Carouse.
+
+LVII. In ed. 2:
+
+    Have squared the Year to Human Compass, eh?
+      If so, by striking from the Calendar.
+
+LXII. In ed. 2
+
+    When the frail Cup is crumbled into Dust!
+
+LXIII. In ed. 2:
+
+    The Flower that once is blown for ever dies.
+
+LXV. In edd. 2 and 3:
+
+    They told their fellows, and to Sleep return'd.
+
+LXVI. In ed. 2:
+
+      And after many days my Soul return'd
+    And said, «Behold, Myself am Heav'n and Hell.»
+
+LXVII. In ed. 2:
+
+    And Hell the Shadow of a Soul on fire.
+
+LXVIII. In ed. 2:
+
+    Of visionary Shapes that come and go
+      Round with this Sun-illumin'd Lantern held.
+
+LXIX. In ed. 2:
+
+    Impotent Pieces of the Game He plays.
+
+LXX. In ed. 2:
+
+    But Right or Left as strikes the Player goes.
+
+STANZA
+
+LXXII. In ed. 2 and the first draft of ed. 3:
+
+    And that inverted Bowl we call The Sky.
+
+In edd. 2 and 3:
+
+    As impotently rolls as you or I.
+
+LXXIX. In ed. 2:
+
+    Pure Gold for what he lent us dross-allay'd.
+
+LXXXI. In ed. 2:
+
+      For all the Sin the Face of wretched Man
+    Is black with--Man's Forgiveness give--and take!
+
+LXXXIII. In ed. 2:
+
+    And once again there gather'd a scarce heard
+    Whisper among them; as it were, the stirr'd
+      Ashes of some all but extinguisht Tongue
+    Which mine ear kindled into living Word.
+
+LXXXIV. In ed. 2:
+
+    My Substance from the common Earth was ta'en,
+      That He who subtly wrought me into Shape
+    Should stamp me back to shapeless Earth again?
+
+LXXXV. In ed. 2
+
+    Another said--«Why, ne'er a peevish Boy
+    Would break the Cup from which he drank in Joy;
+      Shall He that of His own free Fancy made
+    The Vessel, in an after-rage destroy!»
+
+LXXXVI. In ed. 2:
+
+    None answer'd this, but after silence spake.
+
+LXXXVII. In ed. 2:
+
+    Thus with the Dead as with the Living, _What?_
+    And _Why?_ so ready, but the _Wherefor_ not,
+      One on a sudden peevishly exclaim'd,
+    «Which is the Potter, pray, and which the Pot?»
+
+STANZA
+
+LXXXVIII. In ed. 2:
+
+    Said one--«Folks of a surly Master tell,
+    And daub his Visage with the Smoke of Hell;
+      They talk of some sharp Trial of us--Pish!
+    He's a Good Fellow, and 'twill all be well.»
+
+In the first draft of ed. 3. the stanza begins:
+
+    «Why,» said another, «Dismal people tell
+    Of an old Savage who will toss to Hell
+      The luckless Pots,» etc.
+
+LXXXIX. In ed. 2:
+
+    «Well,» said another, «Whoso will, let try.»
+
+XC. In ed. 2:
+
+    One spied the little Crescent all were seeking.
+
+XCI. In ed. 2:
+
+    And wash my Body whence the Life has died.
+
+XCIII. In ed. 2:
+
+    Have done my credit in Men's eye much wrong.
+
+XCV. In ed. 2:
+
+    One half so precious as the ware they sell.
+
+XCVII. In ed. 2:
+
+    Toward which the fainting Traveller might spring.
+
+XCVIII. In ed. 2:
+
+    Oh if the World were but to re-create,
+    That we might catch ere closed the Book of Fate,
+       And make The Writer on a fairer leaf
+    Inscribe our names, or quite obliterate!
+
+XCIX. In ed. 2:
+
+    Ah Love! could you and I with Fate conspire.
+
+C. In ed. 2:
+
+    But see! The rising Moon of Heav'n again
+    Looks for us, Sweet-heart, through the quivering Plane:
+      How oft hereafter rising will she look
+    Among those leaves--for one of us in vain!
+
+STANZA
+
+CI. In ed. 2:
+
+    And when Yourself with silver Foot shall pass.
+
+In the first draft of ed. 3 «Foot» is changed to «step.»
+
+In ed. 3:
+
+    And in your blissful errand reach the spot.
+
+
+STANZAS WHICH APPEAR IN THE SECOND EDITION ONLY
+
+  XIV. Were it not Folly, Spider-like to spin
+            The Thread of present Life away to win--
+              What? for ourselves, who know not if we shall
+            Breathe out the very Breath we now breathe in!
+
+  XX. (This stanza is quoted in the note to stanza XVIII.
+         in the third and fourth editions.)
+
+  XXVIII. Another Voice, when I am sleeping, cries,
+          «The Flower should open with the Morning skies.»
+            And a retreating Whisper, as I wake--
+          «The Flower that once has blown for ever dies.»
+
+  XLIV. Do you, within your little hour of Grace,
+          The waving Cypress in your Arms enlace,
+            Before the Mother back into her arms
+          Fold, and dissolve you in a last embrace.
+
+  LXV. If but the Vine and Love-abjuring Band
+       Are in the Prophet's Paradise to stand,
+         Alack, I doubt the Prophet's Paradise
+       Were empty as the hollow of one's Hand.
+
+  LXXVII. For let Philosopher and Doctor preach
+          Of what they will, and what they will not--each
+            Is but one Link in an eternal Chain
+          That none can slip, or break, or over-reach.
+
+  LXXXVI. Nay, but, for terror of his wrathful Face,
+          I swear I will not call Injustice Grace,
+            Not one Good Fellow of the Tavern but
+          Would kick so poor a Coward from the place.
+
+  XC. And once again there gather'd a scarce heard
+      Whisper among them; as it were, the stirr'd
+        Ashes of some all but extinguisht Tongue,
+      Which mine ear kindled into living Word.
+
+(In the third and fourth editions stanza LXXXIII. takes the place of
+this.)
+
+  XCIX. Whither resorting from the vernal Heat
+        Shall Old Acquaintance Old Acquaintance greet,
+          Under the Branch that leans above the Wall
+        To shed his Blossom over head and feet.
+
+(This was retained in the first draft of ed. 3.)
+
+  CVII. Better, oh better, cancel from the Scroll
+        Of Universe one luckless Human Soul,
+          Than drop by drop enlarge the Flood that rolls
+        Hoarser with Anguish as the Ages Roll.
+
+
+QUATRAINS OF OMAR KHAYYAM
+
+
+COMPARATIVE TABLE OF STANZAS IN THE FOUR[100] EDITIONS OF FITZGERALD
+
+  Ed. 1          Ed. 2          Edd. 3 and 4
+  I               I                I
+  II              II               II
+  III             III              III
+  IV              IV               IV
+  V               V                V
+  VI              VI               VI
+  VII             VII              VII
+  VIII            IX               IX
+  IX              X                X
+  X               XI               XI
+  XI              XII              XII
+  XII             XIII             XIII
+  XIII            XV               XIV
+  XIV             XVII             XVI
+  XV              XVI              XV
+  XVI             XVIII            XVII
+  XVII            XIX              XVIII
+  XVIII           XXIV             XIX
+  XIX             XXV              XX
+  XX              XXI              XXI
+  XXI             XXII             XXII
+  XXII            XXIII            XXIII
+  XXIII           XXVI             XXIV
+  XXIV            XXVII            XXV
+  XXV             XXIX             XXVI
+  XXVI            LXVI             LXIII
+  XXVII           XXX              XXVII
+  XXVIII          XXXI             XXVIII
+  XXIX            XXXII            XXIX
+  XXX             XXXIII           XXX
+  XXXI            XXXIV             XXXI
+  XXXII           XXXV              XXXII
+  XXXIII          XXXVII            XXXIV
+  XXXIV           XXXVIII           XXXV
+  XXXV            XXXIX             XXXVI
+  XXXVI           XL                XXXVII
+  XXXVII
+  XXXVIII         XLIX              XLVIII
+  XXXIX           LVI               LIV
+  XL              LVII              LV
+  XLI             LVIII             LVI
+  XLII            LX                LVIII
+  XLIII           LXI               LIX
+  XLIV            LXII              LX
+  XLV
+  XLVI            LXXIII            LXVIII
+  XLVII           XLV               XLII
+  XLVIII          XLVI              XLIII
+  XLIX            LXXIV             LXIX
+  L               LXXV              LXX
+  LI              LXXVI             LXXI
+  LII             LXXVIII           LXXII
+  LIII            LXXIX             LXXIII
+  LIV             LXXXI             LXXV
+  LV              LXXXII            LXXVI
+  LVI             LXXXIII           LXXVII
+  LVII            LXXXVII           LXXX
+  LVIII           LXXXVIII          LXXXI
+  LIX             LXXXIX            LXXXII
+  LX              XCIV              LXXXVII
+  LXI             XCI               LXXXIV
+  LXII            XCII              LXXXV
+  LXIII           XCIII             LXXXVI
+  LXIV            XCV               LXXXVIII
+  LXV             XCVI              LXXXIX
+  LXVI            XCVII             XC
+  LXVII           XCVIII            XCI
+  LXVIII          C                 XCII
+  LXIX            CI                XCIII
+  LXX             CII               XCIV
+  LXXI            CIII              XCV
+  LXXII           CIV               XCVI
+  LXXIII          CVIII             XCIX
+  LXXIV           CIX               C
+  LXXV            CX                CI
+                  VIII              VIII
+                  XIV
+                                     Note on
+                  XX                XVIII
+
+                  XXVIII
+                  XXXVI             XXXIII
+                  XLI               XXXVIII
+                  XLII              XXXIX
+                  XLIII             XL
+                  XLIV
+                  XLVII             XLVI
+                  XLVIII            XLVII
+                  L                 XLIX
+                  LI                L
+                  LII               LI
+                  LIII              LII
+                  LIV               LIII
+                  LV                XLI
+                  LIX               LVII
+                  LXIII             LXI
+                  LXIV              LXII
+                  LXV
+                  LXVII             LXIV
+                  LXVIII            LXV
+                  LXIX              XLIV
+                  LXX               XLV
+                  LXXI              LXVI
+                  LXXII             LXVII
+                  LXXVII
+                  LXXX              LXXIV
+                  LXXXIV            LXXVIII
+                  LXXXV             LXXIX
+                  LXXXVI
+                  XC                LXXXIII
+                  XCIX
+                  CV                XCVII
+                  CVI               XCVIII
+                  CVII
+
+
+NOTE
+
+
+It must be admitted that FitzGerald took great liberties with the
+original in his version of Omar Khayyam. The first stanza is entirely
+his own, and in stanza XXXI. of the fourth edition (XXXVI. in the
+second) he has introduced two lines from Attar. (See «Letters,» p. 251.)
+In stanza LXXXI. (fourth edition), writes Professor Cowell, «There is no
+original for the line about the snake: I have looked for it in vain in
+Nicolas; but I have always supposed that the last line is FitzGerald's
+mistaken version of Quatr. 236 in Nicolas's ed. which runs thus:
+
+    «O thou who knowest the secrets of every one's mind,
+    Who graspest every one's hand in the hour of weakness,
+    O God, give me repentance and accept my excuses,
+    O thou who givest repentance and acceptest the excuses of every one.
+
+«FitzGerald mistook the meaning of _giving_ and _accepting_ as used
+here, and so invented his last line out of his own mistake. I wrote to
+him about it when I was in Calcutta; but he never cared to alter it.»
+
+
+  THE
+
+  QUATRAINS OF OMAR KHAYYAM
+
+  TRANSLATED BY
+
+  E.H. WHINFIELD, M.A.
+
+
+INTRODUCTION
+
+
+Omar is a poet who can hardly be translated satisfactorily otherwise
+than in verse. Prose does well enough for narrative or didactic poetry,
+where the main things to be reproduced are the matter and substance, but
+it is plainly contra-indicated in the case of poetry like Omar's, where
+the matter is little else than «the commonplaces of the lyric ode and
+the tragic chorus,» and where nearly the whole charm consists in the
+style and the manner, the grace of the expression and the melody of the
+versification. A literal prose version of such poetry must needs be
+unsatisfactory, because it studiously ignores the chief points in which
+the attractiveness of the original consists, and deliberately renounces
+all attempt to reproduce them.
+
+In deciding on the form to be taken by a new translation of Omar, the
+fact of the existence of a previous verse translation of universally
+acknowledged merit ought not, of course, to be left out of account. The
+successor of a translator like Mr. Fitzgerald, who ventures to write
+verse, and especially verse of the metre which he has handled with such
+success, cannot help feeling at almost every step that he is provoking
+comparisons very much to his own disadvantage. But I do not think this
+consideration ought to deter him from using the vehicle which everything
+else indicates as the proper one.
+
+As regards metre, there is no doubt that the quatrain of ten-syllable
+lines which has been tried by Hammer, Bicknell, and others, and has been
+raised by Mr. Fitzgerald almost to the rank of a recognised English
+metre, is the best representative of the _Ruba'i_. It fairly satisfies
+Conington's canon, viz., that there ought to be some degree of metrical
+conformity between the measure of the original and the translation, for
+though it does not exactly correspond with the _Ruba'i_, it very
+clearly suggests it. In particular, it copies what is perhaps the most
+marked feature of the _Ruba'i_,--the interlinking of the four lines by
+the repetition in the fourth line of the rhyme of the first and second.
+Mr Swinburne's modification of this metre, in which the rhyme is carried
+on from one quatrain to the next, is not applicable to poems like
+Omar's, all of which are isolated in sense from the context.
+Alexandrines would, of course, correspond more nearly than decasyllables
+with _Ruba'i_ lines in number of syllables, and they have been
+extensively used by Bodenstedt and other German translators of the metre
+but, whatever may be the case in German, they are apt to read very
+heavily in English, even when constructed by skilful verse-makers, and
+an inferior workman can hardly hope to manage them with anything like
+success. The shorter length of the decasyllable line is not altogether a
+disadvantage to the translator. Owing to the large number of
+monosyllables in English, it is generally adequate to hold the contents
+of a Persian line a syllable or two longer; and a line erring, if at
+all, on the side of brevity, has at any rate the advantage of obliging
+the translator to eschew modern diffuseness, and of making him try to
+copy the «classical parsimony,» the archaic terseness and condensation
+of the original.
+
+The poet Cowper has a remark on translation from Latin which is
+eminently true also of translation from Persian. He says, «That is
+epigrammatic and witty in Latin which would be perfectly insipid in
+English.... If a Latin poem is neat, elegant, and musical, it is enough,
+but English readers are not so easily satisfied.» Much of Omar's matter,
+when literally translated, seems very trite and commonplace, many of the
+«conceits,» of which he is so fond, very frigid, and even his peculiar
+grotesque humour often loses its savour in an English _replica_. The
+translator is often tempted to elevate a too grovelling sentiment, to
+«sharpen a point» here and there, to trick out a commonplace with some
+borrowed modern embellishment. But this temptation is one to be resisted
+as far as possible. According to the _Hadis_, «The business of a
+messenger is simply to deliver his message,» and he must not shrink from
+displaying the naked truth. A translator who writes in verse must of
+course claim the liberty of altering the form of the expression over and
+over again, but the substituted expressions ought to be in keeping with
+the author's style, and on the same plane of sentiment as his. It is
+beyond the province of a translator to attempt the task of «painting the
+lily.» But it is easier to lay down correct principles of translation
+than to observe them unswervingly in one's practice.
+
+As regards subject matter, Omar's quatrains may be classed under the
+following six heads:--
+
+I. _Shikayat i rozgar_--Complaints of «the wheel of heaven,» or fate, of
+the world's injustice, of the loss of friends, of man's limited
+faculties and destinies.
+
+II. _Hajw_--Satires on the hypocrisy of the «unco' guid,» the impiety of
+the pious, the ignorance of the learned, and the untowardness of his own
+generation.
+
+III. _Firakiya_ and _Wisaliya_--Love-poems on the sorrows of separation
+and the joys of reunion with the Beloved, earthly or spiritual.
+
+IV. _Bahariya_--Poems in praise of spring, gardens, and flowers.
+
+V. _Kufriya_--Irreligious and antinomian utterances, charging the sins
+of the creature to the account of the Creator, scoffing at the Prophet's
+Paradise and Hell, singing the praises of wine and pleasure--preaching
+_ad nauseam_, «eat and drink (especially drink), for to-morrow ye die.»
+
+VI. _Munajat_--Addresses to the Deity, now in the ordinary language of
+devotion, bewailing sins and imploring pardon, now in Mystic
+phraseology, craving deliverance from «self,» and union with the «Truth»
+(_Al Hakk_), or Deity, as conceived by the Mystics.
+
+The «complaints» may obviously be connected with the known facts of the
+poet's life, by supposing them to have been prompted by the persecution
+to which he was subjected on account of his opinions. His remarks on the
+Houris and other sacred subjects raised such a feeling against him that
+at one time his life was in danger, and the wonder is that he escaped
+at all in a city like Naishapur, where the _odium theologicum_ raged so
+fiercely as to occasion a sanguinary civil war. In the year 489 A.H., as
+we learn from Ibn Al Athir,[101] the orthodox banded themselves together
+under the leadership of Abul Kasim and Muhammad, the chiefs of the
+Hanefites and the Shafeites, in order to exterminate the Kerramians or
+Anthropomorphist heretics, and succeeded in putting many of them to
+death, and destroying all their establishments. It may be also that
+after the death of his patron, Nizam ul Mulk, Omar lost his stipend and
+was reduced to poverty.
+
+The satires probably owed their origin to the same cause. _Rien soulage
+comme la rhetorique_, and if Omar could not relieve his feelings by open
+abuse of his persecutors, he made up for it by the bitterness of his
+verses. The bitterness of his strictures on them was no doubt fully
+equalled by the rancour of their attacks upon him.
+
+The love-poems are samples of a class of compositions much commoner in
+later poets than in Omar. Most of them probably bear a mystical meaning,
+for I doubt if Omar was a person very susceptible of the tender passion.
+He speaks with appreciation of «tulip cheeks» and «cypress forms,» but
+apparently recognises no attractions of a higher order in his fair
+friends.
+
+The poems in praise of scenery again offer a strong contrast to modern
+treatment of the same theme. The only aspects of nature noticed by Omar
+are such as affect the senses agreeably--the bright flowers, the song of
+the nightingale, the grassy bank of the stream, and the shady garden
+associated in his mind with his convivial parties. The geographer
+translated by Sir W. Ouseley says of Naishapur, «The city is watered by
+a subterranean canal, which is conveyed to the fields and gardens, and
+there is a considerable stream that waters the city and the villages
+about it--this stream is named _Saka_. In all the provinces of Khorassan
+there is not any city larger than Naishapur, nor any blessed with a more
+pure and temperate air. » No doubt it was some of these gardens that
+called forth Omar's encomiums.
+
+But it is in the _Kufriya_, or antinomian quatrains, and in the
+_Munajat_, or pious aspirations, that the most remarkable and
+characteristic features of Omar's poetry are exhibited. The glaring
+contrast between these two classes of his poetry has led his readers to
+take very opposite views of him, according as they looked at one or the
+other side of the shield. European critics, like his contemporaries,
+mostly consider him an infidel and a voluptuary «of like mind with
+Sardanapalus.» On the other hand, the Sufis have contrived to affix
+mystical and devotional meanings even to his most Epicurean quatrains;
+and this method of interpretation is nowadays as universally accepted in
+Persia and India as the Mystical interpretation of the Canticles is in
+Europe. But neither of these views can be accepted in its entirety. Even
+if the Sufi symbolism had been definitely formulated as early as Omar's
+time, which is very doubtful, common sense would forbid us to force a
+devotional meaning on the palpably Epicurean quatrains; and, on the
+other hand, unless we are prepared to throw over the authority of all
+the manuscripts, including the most ancient ones, we must reckon with
+the obviously Mystical and devotional quatrains. The essential
+contradiction in the tone and temper of these two sections of Omar's
+poetry cannot be glossed over, but calls imperatively for explanation.
+
+His poems were obviously not all written at one period of his life, but
+from time to time, just as circumstances and mood suggested, and under
+the influence of the thoughts, passions, and desires which happened to
+be uppermost at the moment. It may be that the irreligious and Epicurean
+quatrains were written in youth, and the _Munajat_ in his riper years.
+But this hypothesis seems to be disproved by Sharastani's account of
+him, which is quite silent as to any such conversion or change of
+sentiment on his part, and also by the fact that he describes himself
+from first to last as a «_Dipsychus_» in grain, a halter between two
+opinions, and an _«Acrates_,» or back-slider, in his practice.
+
+If his poems be considered not in the abstract, but in the light of
+history, taking into account his mental pedigree and his intellectual
+surroundings, a more plausible explanation of his inconsistencies
+readily presents itself. In his youth, as we know, he sat at the feet of
+the Suni theologian Imam Muaffik, and he was then no doubt thoroughly
+indoctrinated with the great Semitic conception of the One God, or, to
+use the expressive term of Muhammadan theology, «the Only Real Agent»
+(_Fa' il i Hakiki_). To minds dominated by the overwhelming sense of
+Almighty Power, everywhere present and working, there seems no room for
+Nature, or human will, or chance, or any other Ahriman whatsoever, to
+take the responsibility of all the evils in the world, the storms and
+the earthquakes, the Borgias and the Catilines. The «Only Real Agent»
+has to answer for all. In the most ancient document of Semitic religious
+speculation now extant, the Book of Job, we find expostulations of the
+boldest character addressed to the Deity for permitting a righteous man
+to be stricken with unmerited misfortunes, though the writer ultimately
+concludes in a spirit of pious agnosticism and resignation to the
+inscrutable dispensations of Providence. In the Book of Ecclesiastes
+again, the same problems are handled, but in a somewhat different
+temper. The «weary king Ecclesiast» remarks that there is one event to
+all, to him that sacrificeth and him that sacrificeth not--that
+injustice and wrong seem eternally triumphant, that God has made things
+crooked, and none can make them straight; and concludes now in favour of
+a sober «_carpe diem_» philosophy, now in favour of a devout «fear of
+the Lord.» Of course the manner in which the serious Hebrew handles
+these matters is very different from the levity and flippancy of the
+volatile Persian, but it can hardly be denied that the Ecclesiast and
+Omar resemble one another in the double and contradictory nature of
+their practical conclusions.
+
+No sooner was Islam established than the same problem of the existence
+of evil in the handiwork of the Almighty Author and Governor of all
+began to trouble the Moslem theologians, and by their elaboration of the
+doctrine of Predestination they managed to aggravate its difficulties.
+
+One of the chief «roots» of their discussions was how to reconcile the
+Divine justice and benevolence with the Divine prescience,--the
+predestination of some vessels to honour, and others to dishonour,--the
+pre-ordainment of all things by a kind of mechanical necessity (_Jabr_),
+leaving no possibility of the occurrence of any events except those
+which actually do occur. The consideration of one corollary of a similar
+doctrine moved the pious and gentle Cowper to use language of indignant
+dissent; and there is high theological authority for the view that it is
+calculated «to thrust some into desperation,» but to stimulate the piety
+of others. Omar is constantly dwelling on this doctrine, and he seems to
+be affected by it in the double way here mentioned.
+
+Other influences which acted on Omar must not be left out of account.
+Born as he was in Khorassan, «the focus of Persian culture,» he was no
+doubt familiar with speculations of the Moslem philosophers, Alkindi,
+Alfarabi, and Avicenna,[102] the last of whom he may possibly have seen.
+And though, think he was not himself a Sufi, in the sense of being
+affiliated to any Sufi order, he can hardly have been unaffected by the
+mysticism of which his predecessor in _Ruba'i_ writing, Abu Sa'id bin
+Abul Khair, his patron Nizam ul Mulk, and his distinguished countryman
+Imam Ghazali were all strong adherents. His philosophical studies would
+naturally stimulate his sceptical and irreligious dispositions, while
+his Mystic leanings would operate mainly in the contrary direction.
+
+If this explanation of the inconsistencies in his poetry be correct, it
+is obvious that the parallel often sought to be traced between him and
+Lucretius has no existence. Whatever he was, he was not an Atheist. To
+him, as to other Muhammadans of his time, to deny the existence of the
+Deity would seem to be tantamount to denying the existence of the world
+and of himself. And the conception of «laws of nature» was also one
+quite foreign to his habits of thought. As Deutsch says, «To a Shemite,
+Nature is simply what has been begotten, and is ruled absolutely by One
+Absolute Power.»
+
+Hammer compares him to Voltaire, but in reality he is a Voltaire and
+something more. He has much of Voltaire's flippancy and irreverence. His
+treatment of the doctrine of the Resurrection of the Body, for instance,
+which Muhammad took from Christianity, and travestied by the
+embellishments he added to it, is altogether in Voltaire's manner. And
+his insistence on the all importance of kindness and charity recalls the
+better side of Voltaire's character, viz., his kindness to Calas, and
+the other victims of ecclesiastical persecution. But Omar also
+possessed, what Voltaire did not, strong religious emotions, which at
+times overrode his rationalism, and found expression in those devotional
+and Mystical quatrains, which offer such a strong contrast to the rest
+of his poetry.
+
+  E.H. WHINFIELD
+
+
+NOTE
+
+
+The text has been framed from a comparison of the following
+authorities:--
+
+  I.  The Bodleian manuscript, No. 140 of the Ouseley Collection,
+  containing 158 quatrains.
+
+  II.  The Calcutta Asiatic Society's manuscript, No. 1548, containing
+  516 quatrains.
+
+  III.  The India Office manuscript, No. 2420, ff. 212 to 267, containing
+  512 quatrains.
+
+  IV.  The Calcutta edition of 1252 A.H., containing 438 quatrains,
+  with an appendix of 54 more, which the editor says he found in a
+  Bayaz, or common-place book, after the others had been printed.
+
+  V.  The Paris edition of M. Nicolas, containing 464 quatrains.
+
+  VI.  The Lucknow lithographed edition, containing 763 quatrains.
+
+  VII.  A fragment of an edition begun by the late Mr. Blochmann,
+  containing only 62 quatrains.
+
+
+QUATRAINS OF OMAR KHAYYAM
+
+
+1.
+
+    At dawn a cry through all the tavern shrilled,
+    «Arise my brethren of the revellers' guild,
+      That I may fill our measure, full of wine
+    Or e'er the measure of our days be filled.»
+
+1. Bl. C. L. N. A. I. J. Bl. considers this quatrain Mystical.
+
+
+2.
+
+    Who was it brought thee here at nightfall, who?
+    Forth from the harem in this manner, who?
+      To him who in thy absence burns as fire,
+    And trembles like hot air, who was it, who?
+
+2. Bl. C. L. N. A. I. J. Bl. says the omission of the copulative _wa_ in
+line 4 of the original is characteristic of Khayyam. In line 4 I follow
+Blochmann's rendering. It may mean, «when the wind blows.»
+
+
+3.
+
+    'Tis but a day we sojourn here below,
+    And all the gain we get is grief and woe,
+      And then, leaving life's riddles all unsolved,
+    And burdened with regrets, we have to go.
+
+3. N.
+
+
+4.
+
+    Khaja! grant one request, and only one,
+    Wish me God-speed, and get your preaching done;
+      I walk aright, 'tis you who see awry;
+    Go! heal your purblind eyes, leave me alone.
+
+4. Bl. C. L. N. A. I. J.
+
+
+5.
+
+    Arise! and come, and of thy courtesy
+    Resolve my weary heart's perplexity,
+      And fill my goblet, so that I may drink,
+    Or e'er they make their goblets out of me.
+
+5. Bl. C. L. N A. I. J. The heart is supposed to be the seat of reason.
+«Or ever» and «or e'er» are both found in Elizabethan English. Abbot,
+Shakespearian Grammar, p. 89.
+
+
+6.
+
+    When I am dead, with wine my body lave,
+    For obit chant a bacchanalian stave,
+      And, if you need me at the day of doom,
+    Beneath the tavern threshold seek my grave.
+
+6. Bl. C. L. N. A. I. J.
+
+
+7.
+
+    Since no one can assure thee of the morrow,
+    Rejoice thy heart to-day, and banish sorrow
+      With moonbright wine, fair moon, for heaven's moon.
+    Will look for us in vain on many a morrow.
+
+7. Bl. C. L. N. A. B. I. J. Line 2 is in metre 14.
+
+
+8.
+
+    Let lovers all distraught and frenzied be,
+    And flown with wine, and reprobates, like me;
+     When sober, I find everything amiss,
+    But in my cups cry, «Let what will be, be.»
+
+8. Bl. L. N. Line 3 is in metre 13.
+
+
+9.
+
+    In Allah's name, say, wherefore set the wise
+    Their hearts upon this house of vanities?
+      Whene'er they think to rest them from their toils,
+    Death takes them by the hand, and says, «Arise.»
+
+9. Bl. C. L. N. A. I.
+
+
+10.
+
+    Men say the Koran holds all heavenly lore,
+    But on its pages seldom care to pore;
+      The lucid lines engraven on the bowl,--
+    _That_ is the text they dwell on evermore.
+
+10. Bl. L. N. A. B. I. J. Lines were engraven on the bowl to measure out
+the draughts. Bl.
+
+
+11.
+
+    Blame not the drunkards, you who wine eschew,
+    Had I but grace, I would abstain like you,
+      And mark me, vaunting zealot, you commit
+    A hundredfold worse sins than drunkards do.
+
+11. Bl. C. L. N. A. I.
+
+
+12.
+
+    What though 'tis fair to view, this form of man,
+    I know not why the heavenly Artisan
+      Hath set these tulip cheeks and cypress forms
+    To deck the mournful halls of earth's divan.
+
+12. Bl. C. L. N. A. I.
+
+
+13.
+
+    My fire gives forth no smoke-cloud here below,
+    My stock-in-trade no profit here below,
+      And you, who call me tavern-haunter, know
+    There is indeed no tavern here below
+
+13. Bl. C. L. N. A. I. J. The anacoluthon in line 3, and the missing
+rhyme before the burden, in line 4, are characteristic of Khayyam. Bl.
+
+
+14.
+
+    Thus spake an idol to his worshipper,
+    «Why dost thou worship this dead stone, fair sir?
+      'Tis because He who gazeth through thine eyes,
+    Doth some part of His charms on it confer.»
+
+14. L. Meaning, all is of God, even idols.
+
+
+15.
+
+    Whate'er thou doest, never grieve thy brother,
+    Nor kindle fumes of wrath his peace to smother;
+      Dost thou desire to taste eternal bliss,
+    Vex thine own heart, but never vex another!
+
+15. L. b. Line 1 is in metre 14.
+
+
+16.
+
+    O Thou! to please whose love and wrath as well,
+    Allah created heaven and likewise hell;
+      Thou hast thy court in heaven, and I have naught,
+    Why not admit me in thy courts to dwell?
+
+16. Bl. L. The person addressed is the prophet Muhammad. The Sufis were
+fond of dwelling on the opposition between the beautiful and the
+terrible attributes of Deity.
+
+
+17.
+
+    So many cups of wine will I consume,
+    Its bouquet shall exhale from out my tomb,
+      And every one that passes by shall halt,
+    And reel and stagger with that mighty fume.
+
+17. Bl. C. L. N. A. I. J.
+
+
+18.
+
+    Young wooer, charm all hearts with lover's art,
+    Glad winner, lead thy paragon apart!
+      A hundred Ka'bas equal not one heart,
+    Seek not the Ka'ba, rather seek a heart!
+
+18. Bl. C. L. N. A. I. J. Line 2, «In the presence seize the perfect
+heart.»
+
+
+19.
+
+    What time, my cup in hand, its draughts I drain,
+    And with rapt heart unconsciousness attain,
+      Behold what wondrous miracles are wrought,
+    Songs flow as water from my burning brain.
+
+19. L. N.
+
+
+20.
+
+    To-day is but a breathing space, quaff wine!
+    Thou wilt not see again this life of thine;
+      So, as the world becomes the spoil of time,
+    Offer thyself to be the spoil of wine!
+
+20. L. N.
+
+
+21.
+
+    'Tis we who to wine's yoke our necks incline,
+    And risk our lives to gain the smiles of wine;
+      The henchman grasps the flagon by its throat
+    And squeezes out the lifeblood of the vine.
+
+21. L. N. Line 3 is in metre 19.
+
+
+22.
+
+    Here in this tavern haunt I make my lair,
+    Pawning for wine, heart, soul, and all I wear,
+      Without a hope of bliss, or fear of bale,
+    Rapt above water, earth, and fire, and air.
+
+22. Bl. C. L. N. A. B. I. J.
+
+
+23.
+
+    Quoth fish to duck, «Twill be a sad affair,
+    If this brook leaves its channel dry and bare»;
+      To whom the duck, «When I am dead and roasted
+    The brook may run with wine for aught I care.»
+
+23. L. Meaning, «_Après nous le déluge_».
+
+
+24.
+
+    From doubt to clear assurance is a breath,
+    A breath from infidelity to faith;
+      O precious breath! enjoy it while you may,
+    'Tis all that life can give, and then comes death.
+
+24. Bl. C. L. N. A. I. J.
+
+
+25.
+
+    Ah! wheel of heaven to tyranny inclined,
+    'Twas e'er your wont to show yourself unkind;
+      And, cruel earth, if they should cleave your breast,
+    What store of buried jewels they would find!
+
+25. Bl. C. L. N. A. I. J. «Wheel of heaven,» _i.e._, destiny, fortune.
+Sir Thomas Browne talks of the «wheel of things.»
+
+
+26.
+
+    My life lasts but a day or two, and fast
+    Sweeps by, like torrent stream or desert blast,
+      Howbeit, of two days I take no heed,--
+    The day to come, and that already past.
+
+26. Bl. C. L. N. A. B. I. J.
+
+
+27.
+
+    That pearl is from a mine unknown to thee,
+    That ruby bears a stamp thou canst not see
+      The tale of love some other tongue must tell,
+    All our conjectures are mere phantasy.
+
+27. Meaning, real love of God differs from the popular idea of it. Bl.
+
+
+28.
+
+    Now with its joyful prime my age is rife,
+    I quaff enchanting wine, and list to fife;
+      Chide not at wine for all its bitter taste,
+    Its bitterness sorts well with human life!
+
+28. Bl. C. L. N. A. B. I. J.
+
+
+29.
+
+    O soul! whose lot it is to bleed with pain,
+    And daily change of fortune to sustain,
+      Into this body wherefore didst thou come,
+    Seeing thou must at last go forth again?
+
+29. Bl. C. L. N. A. I. J.
+
+
+30.
+
+    To-day is thine to spend, but not to-morrow,
+    Counting on morrows breedeth naught but sorrow;
+      Oh! squander not this breath that heaven hath lent thee,
+    Nor make too sure another breath to borrow!
+
+30. Bl. C. N. A. B. I.
+
+
+31.
+
+    'Tis labour lost thus to all doors to crawl,
+    Take thy good fortune, and thy bad withal;
+      Know for a surety each must play his game,
+    As from heaven's dice-box fate's dice chance to fall.
+
+31. Bl. C. L. N. A. I. J. _Naksh_, the dots on dice.
+
+
+32.
+
+    This jug did once, like me, love's sorrows taste,
+    And bonds of beauty's tresses once embraced,
+      This handle, which you see upon its side,
+    Has many a time twined round a slender waist!
+
+32. Bl. C. L. N. A. B. I. J.
+
+
+33.
+
+    Days changed to nights, ere you were born, or I,
+    And on its business ever rolled the sky;
+      See you tread gently on this dust--perchance
+    'Twas once the apple of some beauty's eye.
+
+33. C. L. N. A. I. J.
+
+
+34.
+
+    Pagodas, just as mosques, are homes of prayer,
+    'Tis prayer that church-bells chime unto the air,
+      Yea, Church and Ka'ba, Rosary and Cross
+    Are all but divers tongues of world-wide prayer.
+
+34. Bl. C. L. N. A. I. J. Meaning, forms of faith are indifferent.
+
+
+35.
+
+    'Twas writ at first, whatever was to be,
+    By pen, unheeding bliss or misery,
+      Yea, writ upon the tablet once for all,
+    To murmur or resist is vanity.
+
+35. C. L. N. A. B. I. J. Meaning, fate is heartless and resistless.
+
+
+36.
+
+    There is a mystery I know full well,
+    Which to all, good and bad, I cannot tell;
+      My words are dark, but I cannot unfold
+    The secrets of the «station» where I dwell.
+
+36. Bl. C. L. N. A. I. J. _Hale_, a state of ecstasy.
+
+
+37.
+
+    No base or light-weight coins pass current here,
+    Of such a broom has swept our dwelling clear
+      Forth from the tavern comes a sage and cries,
+    «Drink! for ye all must sleep through ages drear»
+
+37. Bl. L. N. Meaning, Mullahs' fables will not go down with us.
+
+
+38.
+
+    With outward seeming we can cheat mankind,
+    But to God's will we can but be resigned,
+      The deepest wiles my cunning e'er devised,
+    To balk resistless fate no way could find.
+
+38. L. N. Meaning, weakness of human rule compared to the strength of
+Divine decrees.
+
+
+39.
+
+    Is a friend faithless? spurn him as a foe;
+    Upon trustworthy foes respect bestow;
+      Hold healing poison for an antidote,
+    And baneful sweets for deadly eisel know.
+
+39. L. N. These gnomical epigrams are not common in Khayyam.
+
+
+40.
+
+    No heart is there but bleeds when torn from Thee,
+    No sight so clear but craves Thy face to see;
+      And though perchance Thou carest not for them,
+    No soul is there but pines with care for Thee.
+
+40. C. L. N. A. I. J. _Jigar_, the liver, was considered to be the seat
+of love.
+
+
+41.
+
+    Sobriety doth dry up all delight,
+    And drunkenness doth drown my sense outright;
+      There is a middle state, it is my life,
+    Not altogether drunk, nor sober quite.
+
+41. C. N. I. _Masti_ o: scan _mastiyo_. The Epicurean golden mean. See
+Ecclesiastes, vii, 16, 17.
+
+
+42.
+
+    Behold these cups! Can He who deigned to make them,
+    In wanton freak let ruin overtake them,
+      So many shapely feet and hands and heads,--
+    What love drives Him to make, what wrath to break them?
+
+42. C. N. A. B. I. J. _Pryalae_, a cup. So Job, «Thy hands have made me,
+yet thou dost destroy me.»
+
+
+43.
+
+    Death's terrors spring from baseless phantasy,
+    Death yields the tree of immortality;
+      Since 'Isa breathed new life into my soul,
+    Eternal death has washed its hands of me!
+
+43. L. N. Meaning, the Sufi doctrine of _Baka ba'd ul fana_. See
+_Gulshan i Raz_, p. 31.
+
+
+44.
+
+    Like tulips in the Spring your cups lift up,
+    And, with a tulip-cheeked companion, sup
+      With joy your wine, or e'er this azure wheel
+    With some unlooked-for blast upset your cup.
+
+44. C. L. N. A. I. J.
+
+
+45.
+
+    Facts will not change to humour man's caprice,
+    So vaunt not human powers, but hold your peace;
+      Here must we stay, weighed down with grief for this,
+    That we were born so late, so soon decease.
+
+45. C. L. N. A. I. J. Meaning, the futility of striving against
+predestination. _Ank_, for _anki_. Bl., Prosody 13.
+
+
+46.
+
+    Khayyam! why weep you that your life is bad?
+    What boots it thus to mourn? Rather be glad.
+      He that sins not can make no claim to mercy,
+    Mercy was made for sinners--be not sad.
+
+46. C. L. N. A. B. I. See note on No. 130
+
+
+47.
+
+    All mortal ken is bounded by the veil,
+    To see beyond man's sight is all too frail;
+      Yea! earth's dark bosom is his only home;--
+    Alas! 'twere long to tell the doleful tale.
+
+47. C. L. N. A. B. I. J.
+
+
+48.
+
+    This faithless world, my home, I have surveyed,
+    Yea, and with all my wit deep question made,
+      But found no moon with face so bright as thine,
+    No cypress in such stateliness arrayed.
+
+48. L. N.
+
+
+49.
+
+    In synagogue and cloister, mosque and school,
+    Hell's terrors and heaven's lures men's bosoms rule,
+      But they who master Allah's mysteries,
+    Sow not this empty chaff their hearts to fool.
+
+49. C. L. N. A. B. I. J. Meaning, souls re-absorbed in the Divine
+essence have no concern with the material heaven and hell.
+
+
+50.
+
+    You see the world, but all you see is naught,
+    And all you say, and all you hear is naught,
+      Naught the four quarters of the mighty earth,
+    The secrets treasured in your chamber naught.
+
+50. L. N. Meaning, all is illusion (_Maya_).
+
+
+51.
+
+    I dreamt a sage said, «Wherefore life consume
+    In sleep? Can sleep make pleasure's roses bloom?
+      For gather not with death's twin-brother sleep,
+    Thou wilt have sleep enough within thy tomb!»
+
+51. C. L. N. A. B. I. J. So Homer, _Kasignetos thanatoio_.
+
+
+52.
+
+    If the heart knew life's secrets here below,
+    At death 'twould know God's secrets too, I trow;
+      But, if you know naught here, while still yourself,
+    To-morrow, stripped of self, what can you know?
+
+52. C. L. N. A. I. In line 2 scan _Ilahi_. Bl., Prosody, p. 7.
+
+
+53.
+
+    On that dread day, when wrath shall rend the sky,
+    And darkness dim the bright stars' galaxy,
+      I'll seize the Loved One by His skirt, and cry,
+    «Why hast Thou doomed these guiltless ones to die?»
+
+53. C. L. N. A. I. J. See Koran, lxxxii. 1. Note the _alif i wasls_ in
+lines 1 and 2. In line 4 scan _kata lat_, transposing the last vowel.
+Bl., Prosody, p. ii.
+
+
+54.
+
+    To knaves Thy secret we must not confide,
+    To comprehend it is to fools denied,
+      See then to what hard case Thou doomest men,
+    Our hopes from one and all perforce we hide.
+
+54. C. L. N. A. B. I. There is a variation of this, beginning _Asrar i
+jahan_.
+
+
+55.
+
+    Cupbearer! what though fate's blows here betide us,
+    And a safe resting-place be here denied us,
+      So long as the bright wine-cup stands between us,
+    We have the very Truth at hand to guide us.
+
+55. C. L. N. A. I. In line 3 scan _mayast_. Bl., Prosody, p. 13, and
+note _tashdid_ on _hakk_ dropped. Ibid, p. iv.
+
+
+56.
+
+    Long time in wine and rose I took delight,
+    But then my business never went aright;
+      Since wine could not accomplish my desire,
+    I have abandoned and forsworn it quite.
+
+56. C. L. N. A. I. J.
+
+
+57.
+
+    Bring wine! my heart with dancing spirits teems,
+    Wake! fortune's waking is as fleeting dreams;
+      Quicksilver-like our days are swift of foot,
+    And youthful fire subsides as torrent streams.
+
+57. C. L. N. A. I. J. In line 3 scan _bedariyi_.
+
+
+58.
+
+    Love's devotees, not Moslems here you see,
+    Not Solomons, but ants of low degree;
+      Here are but faces wan and tattered rags,
+    No store of Cairene cloth or silk have we.
+
+58. L. N. For the story of Solomon and the ants, see Koran, xxvii., 18.
+_Kasab_, linen made in Egypt.
+
+
+59.
+
+    My law it is in pleasure's paths to stray,
+    My creed to shun the theologic fray;
+      I wedded Luck, and offered her a dower,
+    She said, «I want none, so thy heart be gay.»
+
+59. C. L. N. A. I. J.
+
+
+60.
+
+    From mosque an outcast, and to church a foe,
+    Allah! of what clay didst thou form me so?
+      Like sceptic monk, or ugly courtesan,
+    No hopes have I above, no joys below.
+
+60. C. L. N. A. I. J. _Ummed_ has the _tashdid ob metrum_. Bl., Prosody
+9. Line 2 is in metre 17. _Gil i mara_ for _gil i man ra_, Vullers, pp.
+173 and 193.
+
+
+61.
+
+    Men's lusts, like house-dogs, still the house distress
+    With clamour, barking for mere wantonness;
+      Foxes are they, and sleep the sleep of hares;
+    Crafty as wolves, as tigers pitiless.
+
+61. C. L. N. A. I. J. «Sleep of hares,» deceit.
+
+
+62.
+
+    Yon turf, fringing the margent of the stream,
+    As down upon a cherub's lip might seem,
+      Or growth from dust of buried tulip cheeks;
+    Tread not that turf with scorn, or light esteem!
+
+62. C. L. N. A. I. J. _Juyiy_: the _ya_ of _juy_ is hamzated because
+followed by another _ya_. Vullers, p. 24.
+
+
+63.
+
+    Hearts with the light of love illumined well,
+    Whether in mosque or synagogue they dwell,
+      Have _their_ names written in the book of love,
+    Unvexed by hopes of heaven or fears of hell.
+
+63. C. L. N. A. I. J. Compare Hafiz, Ode 79: «Wherever love is, there is
+the light of the Beloved's face.»
+
+
+64.
+
+    One draught of wine outweighs the realm of Tus,
+    Throne of Kobad and crown of Kai Kawus;
+      Sweeter are sighs that lovers heave at morn,
+    Than all the groanings zealot breasts produce.
+
+64. C. L. N. A. I. J. _Kawus_ is the old spelling.
+
+
+65.
+
+    Though Moslems for my sins condemn and chide me,
+    Like heathens to my idol I confide me;
+      Yea, when I perish of a drunken bout,
+    I'll call on wine, whatever doom betide me.
+
+65. L. N.
+
+
+66.
+
+    In drinking thus it is not my design
+    To riot, or transgress the law divine,
+      No! to attain unconsciousness of self
+    Is the sole cause I drink me drunk with wine.
+
+66. C. L. N. A. I. J. Perhaps a hit at the orthodox Sufis.
+
+
+67.
+
+    Drunkards are doomed to hell, so men declare,
+    Believe it not, 'tis but a foolish scare;
+      Heaven will be empty as this hand of mine,
+    If none who love good drink find entrance there.
+
+67. C. L. N. A. I. J. Line 4 is in metre 17.
+
+
+68.
+
+    'Tis wrong, according to the strict Koran,
+    To drink in Rajah, likewise in Sha'ban,
+      God and the Prophet claim those months as theirs;
+    Was Ramazan then made for thirsty man?
+
+68. C. L. N. A. I. J. The point, of course, is that Ramazan is the
+Mahammadan Lent.
+
+
+69.
+
+    Now Ramazan is come, no wine must flow,
+    Our simple pastimes we must now forego,
+      The wine we have in store we must not drink,
+    Nor on our mistresses one kiss bestow.
+
+69. L. N. Does _Sada_ mean the winter feast?
+
+
+70.
+
+    What is the world? A _caravanserai_,
+    A pied pavilion of night and day;
+      A feast whereat a thousand Jamshids sat,
+    A couch whereon a thousand Bahrams lay.
+
+70. Bl. C. L. N. A. I. J. _Wamanda_, «leavings.»
+
+
+71.
+
+    Now that your roses bloom with flowers of bliss,
+    To grasp your goblets be not so remiss,
+      Drink while you may! Time is a treacherous foe,
+    You may not see another day like this.
+
+71. Bl. C. L. N. A. I. J. _Bar bar_ «blooming, on the branch,» _i.e._,
+you are still young. Bl.
+
+
+72.
+
+    Here in this palace, where Bahram held sway,
+    The wild roes drop their young, and tigers stray;
+      And that great hunter king--ah! well-a-day!
+    Now to the hunter death is fallen a prey.
+
+72. Bl. C. L. N. A. I. J. _Daro_: see Bl., Pros. 11.
+
+
+73.
+
+    Down fall the tears from skies enwrapt in gloom,
+    Without this drink, the flowers could never bloom!
+      As now these flowerets yield delight to me,
+    So shall my dust yield flowers,--God knows for whom.
+
+73. Bl. C. L. N. A. I. J. In line 4 _ta_ is the «_ta i tajahul_,»
+meaning, «I do not know whether,» «perhaps.» Bl.
+
+
+74.
+
+    To-day is Friday, as the Moslem says,
+    Drink then from bowls served up in quick relays;
+      Suppose on common days you drink one bowl,
+    To-day drink two, for 'tis the prince of days.
+
+74. Bl. C. L. N. A. I. J. Friday is the day «of assembly,» or Sabbath.
+
+
+75.
+
+    The _very_ wine a myriad forms sustains,
+    And to take shapes of plants and creatures deigns
+      But deem not that its essence ever dies,
+    Its forms may perish, but its self remains.
+
+75. Bl. C. L. N. A. I. J. On this Bl. notes «The Arabic form _hayawan_
+is required by the metre.» And _Suwar_ is the Arabic plural, used as a
+singular. Bl., Prosody 5. Wine means the divine «_Noumenon_.» _Gulshan i
+Raz_, 825.
+
+
+76.
+
+    'Tis naught but smoke this people's fire doth bear,
+    For my well-being not a soul doth care;
+      With hands fate makes me lift up in despair,
+    I grasp men's skirts, but find no succour there.
+
+76. Bl. C. L. N. A. I. J. Scan _tayifa_.
+
+
+77.
+
+    This bosom friend, on whom you so rely,
+    Seems to clear wisdom's eyes an enemy;
+      Choose not your friends from this rude multitude,
+    Their converse is a plague 'tis best to fly.
+
+77. Bl. C. L. N. A. I. J. The MSS. transpose the lines.
+
+
+78.
+
+    O foolish one! this moulded earth is naught,
+    This particoloured vault of heaven is naught;
+      Our sojourn in this seat of life and death
+    Is but one breath, and what is that but naught?
+
+78. Bl. L. N. _Shakl i mujassam_, «the earth.» Bl.
+
+
+79.
+
+    Some wine, a Houri (Houris if there be),
+    A green bank by a stream, with minstrelsy;--
+      Toil not to find a better Paradise
+    If other Paradise indeed there be!
+
+79. Bl. C. L. N. A. I. J. _Dozakh i farsuda_, «an old hell,» _i.e._,
+vain things which create a hell for you. Bl.
+
+
+80.
+
+    To the wine-house I saw the sage repair,
+    Bearing a wine-cup, and a mat for prayer;
+      I said, «O Shaikh, what does this conduct mean?»
+    Said he, «Go drink! the world is naught but air.»
+
+80. N.
+
+
+81.
+
+    The Bulbul to the garden winged his way,
+    Viewed lily cups, and roses smiling gay,
+      Cried in ecstatic notes, «O live your life,
+    You never will re-live this fleeting day.»
+
+81. N. The MSS. have a variation of this beginning, _Bulbul chu. Jam .
+ra_. See Bl., Prosody, p. 12.
+
+
+82.
+
+    Thy body is a tent, where harbourage
+    The Sultan spirit takes for one brief age;
+    When he departs, comes the tent-pitcher death,
+    Strikes it, and onward moves, another stage.
+
+82. C. L. N. A. I. J. _Manzil_, in line 2, «lodging»; in line 3, «stage»
+_Khimaye_, a «tent.»
+
+
+83.
+
+    Khayyam, who long time stitched the tents of learning,
+    Has fallen into a furnace, and lies burning,
+      Death's shears have cut his thread of life asunder,
+    Fate's brokers sell him off with scorn and spurning.
+
+83. C. L. N. A. B. I. J.
+
+
+84.
+
+    In the sweet spring a grassy bank I sought,
+    And thither wine, and a fair Houri brought;
+      And, though the people called me graceless dog,
+    Gave not to Paradise another thought!
+
+84. C. L. N. A. B. I. J. _Batar_, a contraction. See Bl., Prosody, p.
+10.
+
+
+85.
+
+    Sweet is rose-ruddy wine in goblets gay,
+    And sweet are lute and harp and roundelay;
+      But for the zealot who ignores the cup,
+    'Tis sweet when he is twenty leagues away!
+
+85. N. The MSS. have a variation of this. Note _Khush_.
+
+
+86.
+
+    Life, void of wine, and minstrels with their lutes,
+    And the soft murmurs of Irakian flutes,
+      Were nothing worth: I scan the world and see:
+    Save pleasure, life yields only bitter fruits.
+
+86. L. N. See an answer to this in No. 97.
+
+
+87.
+
+    Make haste! soon must you quit this life below,
+    And pass the veil, and Allah's secrets know,
+      Make haste to take your pleasure while you may,
+    You wot not whence you come, nor whither go.
+
+87. C. L. N. A. I. In line 3 scan _nidaniyaz_.
+
+
+88.
+
+    Depart we must! what boots it then to be,
+    To walk in vain desires continually?
+      Nay, but if heaven vouchsafe no place of rest,
+    What power to cease our wanderings have we?
+
+88. N. In line 3 scan _jayiga_. Bl., Prosody, p. 15.
+
+
+89.
+
+    To chant wine's praises is my daily task,
+    I live encompassed by cup, bowl and flask;
+      Zealot! if reason be thy guide, then know
+    That guide of me doth ofttimes guidance ask.
+
+89. C. L. N. A. I. J. In line 1 scan _maddahiyi_; and compare Horace,
+                    «_Edocet artes;
+    Fecundi calices quem non fecere disertum._»
+
+
+90.
+
+    O men of morals! why do ye defame,
+    And thus misjudge me? I am not to blame.
+      Save weakness for the grape, and female charms,
+    What sins of mine can any of ye name?
+
+90. C. L. N. A. I. J. This change of persons is called _Iltifat_.
+Gladwin, Persian Rhetoric, p. 56.
+
+
+91.
+
+    Who treads in passion's footsteps here below,
+    A helpless pauper will depart, I trow;
+      Remember who you are, and whence you come.
+    Consider what you do, and whither go.
+
+91. C. L. N. A. I. _Khabarat_: see Bl., Prosody, p. v.
+
+
+92.
+
+    Skies like a zone our weary lives enclose,
+    And from our tear-stained eyes a Jihun flows;
+      Hell is a fire enkindled of our griefs;
+    Heaven but a moment's peace, stolen from our woes.
+
+92. C. L. N. A. B. I. J. This balanced arrangement of similes is called
+_Tirsi'a_. Gladwin, p. 5.
+
+
+93.
+
+    I drown in sin--show me Thy clemency!
+    My soul is dark--make me Thy light to see!
+      A heaven that must be earned by painful works,
+    I call a wage, not a gift fair and free.
+
+93. C. L. N. A. I. J. Arabic words like _raza_, drop the _hamza_ in
+Persian, except with the _izafat_: (Bl., Prosody 14). For this _hamza,
+ya_ is often used, as here.
+
+
+94.
+
+    Did He who made me fashion me for hell,
+    Or destine me for heaven? I cannot tell.
+      Yet will I not renounce cup, lute and love,
+    Nor earthly cash for heavenly credit sell.
+
+94. C. L. N. A. B. I. In line 4 the _izafat_ is dropped after silent
+_he_. Bl., Prosody, p. 15.
+
+
+95.
+
+    From right and left the censors came and stood,
+    Saying, «Renounce this wine, this foe of good»;
+      But if wine be the foe of holy faith,
+    By Allah, right it is to drink its blood!
+
+95. C. L. N. A. B. I. J. See Koran, ii. 187.
+
+
+96.
+
+    The good and evil with man's nature blent,
+    The weal and woe that heaven's decrees have sent,--
+      Impute them not to motions of the skies,--
+    Skies than thyself ten times more impotent.
+
+96. C. L. N. A. I. J. Fate is merely the decree of Allah. For the
+distinction between _kaza_ and _kadar_, see Pocock, «_Specimen Historiae
+Arabum_,» p. 207.
+
+
+97.
+
+    Against death's arrows what are buckles worth?
+    What all the pomps and riches of the earth?
+      When I survey the world, I see no good
+    But goodness, all beside is nothing worth.
+
+97. N. Possibly written on the margin by some pious reader as an answer
+to No. 86.
+
+
+98.
+
+    Weak souls, who from the world cannot refrain,
+    Hold life-long fellowship with rule and pain;
+      Hearts free from worldly cares have store of bliss,
+    All others seeds of bitter woe contain.
+
+98. L. N. _Tajrid_, see _Gulshan i Raz_, p. 8, n.
+
+
+99.
+
+    He, in whose bosom wisdom's seed is sown,
+    To waste a single day was never known;
+      Either he strives to work great Allah's will,
+    Or else exalts the cup, and works his own.
+
+99. C. L. N. A. B. I. J. _Tarabe_, query, _takhme?_ giving a line in
+metre 23.
+
+
+100.
+
+    When Allah mixed my clay, He knew full well
+    My future acts, and could each one foretell;
+      Without His will no act of mine was wrought;
+    Is it then just to punish me in hell?
+
+100. C. L. N. A. I. Of the Moslem theory of predestination, Khayyam
+might truly say, «Ten thousand mortals, drowned in endless woe, for
+doing what they were compelled to _do_.»
+
+
+101.
+
+    Ye, who cease not to drink on common days,
+    Do not on Friday quit your drinking ways;
+      Adopt my creed, and count all days the same,
+    Be worshippers of God, and not of days.
+
+101. L. N. In line 3 scan _yakist_.
+
+
+102.
+
+    If grace be grace, and Allah gracious be,
+    Adam from Paradise why banished He?
+      Grace to poor sinners shown is grace indeed;
+    In grace hard earned by works no grace I see.
+
+102. N. The _tashdid_ of _rabb_ is dropped. Bl., Prosody, p. iv.
+
+
+103.
+
+    Dame Fortune's smiles are full of guile, beware!
+    Her scimitar is sharp to smite, take care!
+      If e'er she drop a sweetmeat in thy mouth,
+    'Tis poisonous,--to swallow it forbear!
+
+103. C. L. A. B. I. _Hush_ contracted from _hosh_.
+
+
+104.
+
+    Where'er you see a rose or tulip bed,
+    Know that a mighty monarch's blood was shed
+      And where the violet rears her purple tuft,
+    Be sure a black-moled girl hath laid her head.
+
+104. B. L. The MSS. have a variation of this, beginning _Har khisht ki_.
+
+
+105.
+
+    Wine is a melting ruby, cup its mine;
+    Cup is the body, and the soul is wine;
+      These crystal goblets smile with ruddy wine
+    Like tears, that blood of wounded hearts enshrine.
+
+105. L. B.
+
+
+106.
+
+    Drink wine! 'tis life etern, and travail's meed,
+    Fruitage of youth, and balm of age's need:
+      'Tis the glad time of roses, wine and friends;
+    Rejoice thy spirit--that is life indeed.
+
+106. L. B. There being no _izafat_ after _yaran_, _sar i mast_ must
+agree with _hangam_.
+
+
+107.
+
+    Drink wine! long must you sleep within the tomb,
+    Without a friend, or wife to cheer your gloom;
+      Hear what I say, and tell it not again,
+    «Never again can withered tulips bloom.»
+
+107. C. A. B. I. J. This recalls the chorus in the «Oedipus Coloneus.»
+
+
+108.
+
+    They preach how sweet those Houri brides will be,
+    But I say wine is sweeter--taste and see!
+      Hold fast this cash, and let that credit go,
+    And shun the din of empty drums like me.
+
+108. C. L. A. B. I. J. _Sin_, «nuptials.» Like me, _i.e._, as I do.
+
+
+109.
+
+    Once and again my soul did me implore,
+    To teach her, if I might, the heavenly lore;
+      I bade her learn the _Alif_ well by heart.
+    Who knows that letter well need learn no more.
+
+109. B. _Alif Kafat_, the One (God) is enough. Probably a quotation.
+Hafiz (Ode 416) uses the same expression: «He who knows the One knows
+all.»
+
+
+110.
+
+    I came not hither of my own free will,
+    And go against my wish, a puppet still;
+      Cupbearer! gird thy loins, and fetch some wine;
+    To purge the world's despite, my goblet fill.
+
+110. C. L. A. B. I. J. _'Azme, ya i tankir_, or _tans ifi?_
+
+
+111.
+
+    How long must I make bricks upon the sea?
+    Beshrew this vain task of idolatry;
+      Call not Khayyam a denizen of hell;
+    One while in heaven, and one in hell is he.
+
+111. C. L. A. B. I. J. _Andar-ba_, Bl., Prosody 12.
+
+
+112.
+
+    Sweet is the breath of Spring to rose's face,
+    And thy sweet face adds charm to this fair place;
+      To-day is sweet, but yesterday is sad,
+    And sad all mention of its parted grace.
+
+112. C. L. A. B. I. J. _Khush_ is pronounced _khash_ or _khush._ Bl.,
+Prosody, p. 12. _Guyi_ is generally written with _hamza_ and _ya_, but
+in some MSS. _fatha_ is substituted for the _hamza_ [?].
+
+
+113.
+
+    To-night pour wine, and sing a dulcet air,
+    And I upon thy lips will hang, O fair;
+      Yea, pour some wine as rosy as thy cheeks,
+    My mind is troubled like thy ruffled hair.
+
+113. B. _Roziyyi_.
+
+
+114.
+
+    Pen, tablet, heaven and hell I looked to see
+    Above the skies, from all eternity;
+      At last the master sage instructed me,
+    «Pen, tablet, heaven and hell are all in thee.»
+
+114. Allah writes his decrees with the «pen» on the «tablet.» Koran,
+lxviii. l. See _Gulshan i Raz_, 1, n.
+
+
+115.
+
+    The fruit of certitude _he_ cannot pluck,
+    The path that leads thereto who never struck,
+      Nor ever shook the bough with strenuous hand;
+    To-day is lost; hope for to-morrow's luck.
+
+115. L. B. _Lit._ «Consider to-morrow your first day.»
+
+
+116.
+
+    Now spring-tide showers its foison on the land,
+    And lively hearts wend forth, a joyous band,
+      For 'Isa's breath wakes the dead earth to life,
+    And trees gleam white with flowers, like Musa's hand.
+
+116. B. Alluding to the life-giving breath of Jesus, and the white hand
+of Moses. (Exodus, IV. 6.) _Bakhushi dastrase (ya i tankir_), «_an_ aid
+to joy,» _i.e._, Spring.
+
+
+117.
+
+    Alas for that cold heart, which never glows
+    With love, nor e'er that charming madness knows;
+      The days misspent with no redeeming love;--
+    No days are wasted half as much as those!
+
+117. Bl. L. B.
+
+
+118.
+
+    The zephyrs waft thy fragrance, and it takes
+    My heart, and me, his master, he forsakes;
+      Careless of me he pants and leaps to thee,
+    And thee his pattern and ensample makes!
+
+118. Bl. C. L. A. I. J. Also ascribed to Abu Sa'id bin Abul Khair. C.
+writes _buyi_ with two _yas_, and _hamza_ on the first. The second _ya_
+seems to be _ya i batni_ or _tausifi_, though that is usual only before
+adjectives. Bl., Prosody, p. 11.
+
+
+119.
+
+    Drink wine! and then as Mahmud thou wilt reign,
+    And hear a music passing David's strain:
+      Think not of past or future, seize to-day,
+    Then all thy life will not be lived in vain.
+
+119. Bl. C. L. A. I. J.
+
+
+120.
+
+    Ten Powers, and nine spheres, eight heavens made He,
+    And planets seven, of six sides, as we see,
+      Five senses, and four elements, three souls,
+    Two worlds, but only one, O man, like thee.
+
+120. L. A summary of the Muhammadan doctrine of «Emanations.» See
+_Gulshan i Raz_, p. 21. Three souls, _i.e._, vegetive, animal and human,
+as in Aristotle's _De Anima_. _Akhtaram_ (?), also in Cambridge MS.
+
+
+121.
+
+    Jewry hath seen a thousand prophets die,
+    Sinai a thousand Musas mount the sky;
+      How many Cæsars Rome's proud forum crossed!
+    'Neath Kasra's dome how many monarchs lie!
+
+121. L. J. Time is long and life short.
+
+
+122.
+
+    Gold breeds not wit, but to wit lacking bread
+    Earth's flowery carpet seems a dungeon bed;
+      'Tis his full purse that makes the rose to smile,
+    While empty-handed violets hang the head.
+
+122. L. Alluding to the golden stamens of the rose. I supply _tihi_ from
+the Cambridge MS.
+
+
+123.
+
+    Heaven's wheel has made full many a heart to moan,
+    And many a budding rose to earth has thrown;
+      Plume thee not on thy youth and lusty strength,
+    Full many a bud is blasted ere 'tis blown.
+
+123. L.
+
+
+124.
+
+    What lord is fit to rule but «Truth»? Not one.
+    What beings disobey His rule? Not one.
+      All things that are, are such as He decrees;
+    And naught is there beside beneath the sun.
+
+124. C. L. A. I. «The Truth» is a Sufi name for the Deity.
+
+
+125.
+
+    That azure coloured vault and golden tray
+    Have turned, and will turn yet for many a day;
+      And just so we, impelled by turns of fate,--
+    Come here but for a while, then pass away.
+
+125. Bl. L. _Guzasht_, «It is all over with us.» Bl. «Golden tray,» the
+Sun.
+
+
+126.
+
+    The Master did himself these vessels frame,
+    Why should he cast them out to scorn and shame?
+      If he has made them well, why should he break them?
+    Yea, though he marred them, _they_ are not to blame.
+
+126. C. L. A. I. J. In line 4 _suwar_ is an Arabic plural used as a
+singular. Bl., Prosody, p. 5.
+
+
+127.
+
+    Kindness to friends and foes 'tis well to show,
+    No kindly heart can prove unkind, I trow:
+      Harshness will alienate a bosom friend,
+    And kindness reconcile a deadly foe.
+
+127. L. In line 2 scan _neykiyash_.
+
+
+128.
+
+    To lovers true, what matters dark or fair?
+    Or if the loved one silk or sackcloth wear,
+      Or lie on down or dust, or rise to heaven?
+    Yea, though she sink to hell, he'll seek her there.
+
+128. L. Probably Mystical.
+
+
+129.
+
+    Full many a hill and vale I journeyed o'er;
+    Yea, journeyed through the world's wide quarters four,
+      But never heard of pilgrim who returned;
+    When once they go, they go to come no more.
+
+129. C. L. N. (in part) A. I. J.
+
+
+130.
+
+    Wine-houses flourish through this thirst of mine,
+    Loads of remorse weigh down this back of mine;
+      Yet, if I sinned not, what would mercy do?
+    Mercy depends upon these sins of mine.
+
+130. C. Bl. L. A. I. J. Bl. quotes similar sentiments from Nizami and
+Hafiz. Mercy is God's highest attribute, and sin is required to call it
+forth.
+
+
+131.
+
+    Thy being is the being of Another,
+    Thy passion is the passion of Another.
+      Cover thy head, and think, and thou wilt see,
+    Thy hand is but the cover of Another.
+
+131. Bl. Meaning God is the _Fa'il i hakiki_, the only real Agent.
+
+
+132.
+
+    From learning to the cup your bridle turn;
+    All lore of world to come, save Kausar, spurn;
+      Your turban pawn for wine, or keep a shred
+    To bind your brow, and all the remnant burn.
+
+132. N. _Kausar_, the river of wine in Paradise.
+
+
+133.
+
+    See! from the world what profit have I gained?
+    What fruitage of my life in hand retained?
+      What use is Jamshid's goblet, once 'tis crushed?
+    What pleasure's torch, when once its light has waned?
+
+133. L. N. _Tarf bar bastan_,«to reap advantage.»
+
+
+134.
+
+    When life is spent, what's Balkh or Nishapore?
+    What sweet or bitter, when the cup runs o'er?
+      Come drink! full many a moon will wax and wane
+    In times to come, when we are here no more.
+
+134. C. L. N. A. B. I. J.
+
+
+135.
+
+    O fair! whose cheeks checkmate red eglantine,
+    And draw the game with those fair maids of Chin,
+      You played one glance against the king of Babil
+    And took his pawns, and knights, and rooks, and queen.
+
+135. L. B.
+
+
+136.
+
+    Life's caravan is hastening on its way;
+    Brood not on troubles of the coming day,
+      But fill the wine-cup, ere sweet night be gone,
+    And snatch a pleasant moment, while you may.
+
+136. C. L. N. A. B. I. J. The «_rinds_» loved a dark night. Bl.
+
+
+137.
+
+    He, who the world's foundations erst did lay,
+    Doth bruise full many a bosom day by day,
+      And many a ruby lip and musky tress
+    Doth coffin in the earth, and shroud with clay.
+
+137. C. L. N. A. I. J. So Job, «Is it good unto thee that thou shouldest
+oppress, that thou shouldest despise the work of thine hands?»
+
+
+138.
+
+    Be not beguiled by world's insidious wiles;
+    O foolish ones, ye know her tricks and guiles;
+      Your precious life-time cast not to the winds;
+    Haste to seek wine, and court a sweetheart's smile.
+
+138. N.
+
+
+139.
+
+    Comrades! I pray you, physic me with wine,
+    Make this wan amber face like rubies shine,
+      And, if I die, use wine to wash my corpse,
+    And frame my coffin out of planks of vine!
+
+139. C. L. N. A. B. I. _Kahraba_, «amber,» literally «attractor of
+straw.»
+
+
+140.
+
+    When Allah yoked the courses of the sun,
+    And launched the Pleiades their race to run,
+      My lot was fixed in fate's high chancery;
+    Then why blame me for wrong that fate has done?
+
+140. C. L. N. A. I. J. Also ascribed to Afzul Kashi.
+
+
+141.
+
+    Ah! seasoned wine oft falls to rawest fools,
+    And clumsiest workmen own the finest tools;
+      And Turki maids, fit to delight men's hearts,
+    Lavish their smiles on beardless boys in school!
+
+141. N. So Hafiz, «If that Turki maid of Shiraz,» etc.
+
+
+142.
+
+    Whilom, ere youth's conceit had waned, methought
+    Answers to all life's problems I had wrought;
+      But now, grown old and wise, too late I see
+    My life is spent, and all my lore is naught.
+
+142. N. C. A. and I. give another version of this.
+
+
+143.
+
+    They who of prayer-mats make such great display
+    Are fools to bear hypocrisy's hard sway;
+      Strange! under cover of this saintly show
+    They live like heathen, and their faith betray.
+
+143. C. L. N A. I. In line 2, note the arrangement of the prepositions.
+There is a proverb, «The Devil lives in Mecca and Medinah.»
+
+
+144.
+
+    To him who would his sins extenuate,
+    Let pious men this verse reiterate,
+      «To call God's prescience the cause of sin
+    In wisdom's purview is but folly's prate.»
+
+144. L. N. _Sahl_, of «no account.»
+
+
+145.
+
+    He brought me hither, and I felt surprise,
+    From life I gather but a dark surmise,
+      I go against my will;--thus, why I come,
+    Why live, why go, are all dark mysteries.
+
+145. C. L. N. A.
+
+
+146.
+
+    When I recall my grievous sins to mind,
+    Fire burns my breast, and tears my vision blind;
+      Yet, when a slave repents, is it not meet
+    His lord should pardon, and again be kind?
+
+146. L. N. In line 2, _az sar guzarad_ means «drops from the eyes,» and
+in line 4, «remits the penalty.» This change of meaning is called
+_Tajnis_.
+
+
+147.
+
+    They at whose lore the whole world stands amazed,
+    Whose high thoughts, like Borak, to heaven are raised,
+      Strive to know Thee in vain, and like heaven's wheel
+    Their heads are turning, and their brains are dazed.
+
+147. C. L. N. A. Borak, or Burak, the steed on which Muhammad made his
+famous nocturnal ascent to heaven.
+
+
+148.
+
+    Allah hath promised wine in Paradise,
+    Why then should wine on earth be deemed a vice?
+      An Arab in his cups cut Hamzah's girths,--
+    For that sole cause was drink declared a vice.
+
+148. L. N. Nicolas says this refers to an event which occurred to
+Hamzah, a relation of Muhammad.
+
+
+149.
+
+    Now of old joys naught but the name is left,
+    Of all old friends but wine we are bereft,
+      And that wine _new_, but still cleave to the cup,
+    For save the cup, what single joy is left?
+
+149. L. N. B.
+
+
+150.
+
+    The world will last long after Khayyam's fame
+    Has passed away, yea, and his very name;
+      Aforetime we were not, and none did heed.
+    When we are dead and gone, 'twill be the same.
+
+150. N.
+
+
+151.
+
+    The sages who have compassed sea and land,
+    Their secret to search out, and understand,--
+      My mind misgives me if they ever solve
+    The scheme on which this universe is planned.
+
+151. C. L. N. A. I.
+
+
+152.
+
+    Ah! wealth takes wings, and leaves our hands all bare,
+    And death's rough hands delight our hearts to tear;
+      And from the nether world none e'er escapes,
+    To bring us news of the poor pilgrims there.
+
+152. C. L. N. A. I.
+
+
+153.
+
+    'Tis passing strange, those titled noblemen
+    Find their own lives a burden sore, but when
+      They meet with poorer men, not slaves to sense,
+    They scarcely deign to reckon them as men.
+
+153. C. L. N. A. I.
+
+
+154.
+
+    The wheel on high, still busied with despite,
+    Will ne'er unloose a wretch from his sad plight;
+      But when it lights upon a smitten heart,
+    Straightway essays another blow to smite.
+
+154. C. L. N. A. I. Vullers, Section 207.
+
+
+155.
+
+    Now is the volume of my youth outworn,
+    And all my spring-tide blossoms rent and torn.
+      Ah, bird of youth! I marked not when you came,
+    Nor when you fled, and left me thus forlorn.
+
+155. C. L. N. A. I.
+
+
+156.
+
+    These fools, by dint of ignorance most crass,
+    Think they in wisdom all mankind surpass;
+      And glibly do they damn as infidel,
+    Whoever is not, like themselves, an ass.
+
+156. N. So Job, «Ye are the people, and wisdom shall die with you.»
+Probably addressed to the 'Ulama.
+
+
+157.
+
+    Still be the wine-house thronged with its glad choir,
+    And Pharisaic skirts burnt up with fire,
+      Still be those tattered frocks and azure robes
+    Trod under feet of revellers in the mire.
+
+157. C. L. N. A. J. Hafiz (Ode V.) speaks of the blue robes of certain
+Dervishes as a mark of hypocrisy.
+
+
+158.
+
+    Why toil ye to ensure illusions vain,
+    And good or evil of the world attain?
+      Ye rise like Zamzam, or the fount of life,
+    And, like them, in earth's bosom sink again.
+
+158. C. L. N. A. I.
+
+
+159.
+
+    Till the Friend pours his wine to glad my heart,
+    No kisses to my face will heaven impart
+      They say, «Repent in time»; but how repent,
+    Ere Allah's grace hath softened my hard heart?
+
+159. C. L. N. A. I. Meaning, man is powerless to mend his ways without
+Divine grace.
+
+
+160.
+
+    When I am dead, take me and grind me small,
+    So that I be a caution unto all,
+      And knead me into clay with wine, and then
+    Use me to stop the wine-jar's mouth withal.
+
+160. C. L. N. A. I. J.
+
+
+161.
+
+    What though the sky with its blue canopy
+    Doth close us in so that we cannot see,
+      In the etern Cupbearer's wine methinks,
+    There float a myriad bubbles like to me.
+
+161. N.
+
+
+162.
+
+    Take heart! Long in the weary tomb you'll lie,
+    While stars keep countless watches in the sky,
+      And see your ashes moulded into bricks,
+    To build another's house and turrets high.
+
+162. L. N. C. A. and I. split this into two. In line 1 note _izafat_
+dropped after silent _he_.
+
+
+163.
+
+    Glad hearts, who seek not notoriety,
+    Nor flaunt in gold and silken bravery,
+      Haunt not this ruined earth like gloomy owls,
+    But wing their way, Simurgh-like, to the sky.
+
+163. C. L. N. A. I.
+
+
+164.
+
+    Wine's power is known to wine-bibbers alone,
+    To narrow heads and hearts 'tis never shown;
+      I blame not them who never felt its force,
+    For, till they feel it, how can it be known.
+
+164. C. N. A. I. J.
+
+
+165.
+
+    Needs must the tavern-hunter bathe in wine,
+    For none can make a tarnished name to shine;
+      Go! bring me wine, for none can now restore
+    Its pristine sheen to this soiled veil of mine.
+
+165. C. L. N. A. B. I. In line 3 scan _masturiyi_ dissolving the letter
+of prolongation _ya_.
+
+
+166.
+
+    I wasted life in hope, yet gathered not
+    In all my life of happiness one jot;
+      Now my fear is that life may not endure.
+    Till I have taken vengeance on my lot!
+
+166. C. L. N. A. I. _Rozgare_, «some time.» In line 3 note the _madd_ of
+_An_ dropped. Bl., Prosody, p. 11.
+
+
+167.
+
+    Be very wary in the soul's domain,
+    And on the world's affairs your lips refrain;
+      Be, as it were, sans tongue, sans ear, sans eye,
+    While tongue, and ears, and eyes you still retain.
+
+167. L. N.
+
+
+168.
+
+    Let him rejoice who has a loaf of bread,
+    A little nest wherein to lay his head,
+      Is slave to none, and no man slaves for him,--
+    In truth his lot is wondrous well bested.
+
+168. C. L. N. A.
+
+
+169.
+
+    What adds my service to Thy majesty?
+    Or how can sin of mine dishonour Thee?
+      O pardon, then, and punish not, I know
+    Thou'rt slow to wrath, and prone to clemency.
+
+169. C. L. N. A. I.
+
+
+170.
+
+    Hands, such as mine, that handle bowls of wine,
+    'Twere shame to book and pulpit to confine;
+      Zealot! thou'rt dry, and I am moist with drink,
+    Yea, far too moist to catch that fire of thine!
+
+170. L. N. I follow Nicolas in taking _mani_ as a possessive pronoun,
+«mine,» though such a word is not mentioned in any grammar or
+dictionary. It occurs again in No. 478.
+
+
+171.
+
+    Whoso aspires to gain a rose-cheeked fair,
+    Sharp pricks from fortune's thorns must learn to bear.
+      See! till this comb was cleft by cruel cuts,
+    It never dared to touch my lady's hair.
+
+171. C. L. N. A. I. Lyttleton expresses a similar sentiment.
+
+
+172.
+
+    For ever may my hands on wine be stayed.
+    And my heart pant for some fair Houri maid!
+      They say, «May Allah aid thee to repent!»
+    Repent I could not, e'en with Allah's aid!
+
+172. C. L. N. A. B. I. J. Note the conjunctive pronoun separated from
+its noun.
+
+
+173.
+
+    Soon shall I go, by time and fate deplored,
+    Of all my precious pearls not one is bored;
+      Alas! there die with me a thousand truths
+    To which these fools fit audience ne'er accord.
+
+173. C. L. N. A. I.
+
+
+174.
+
+    To-day how sweetly breathes the temperate air,
+    The rains have newly laved the parched parterre;
+      And Bulbuls cry in notes of ecstasy,
+    «Thou too, O pallid rose, our wine must share!»
+
+174. L. N. B.
+
+
+175.
+
+    Ere you succumb to shocks of mortal pain,
+    The rosy grape-juice from your wine-cup drain.
+      You are not gold, that, hidden in the earth,
+    Your friends should care to dig you up again!
+
+175. C. L. N. A. B. I. J. Note the old form of the imperative.
+
+
+176.
+
+    My coming brought no profit to the sky,
+    Nor does my going swell its majesty;
+      Coming and going put me to a stand,
+    Ear never heard their wherefore nor their why.
+
+176. C. L. N. A. B. I. J. Voltaire has some similar lines in his poem on
+the Lisbon earthquake.
+
+
+177.
+
+    The heavenly Sage, whose wit exceeds compare,
+    Counteth each vein, and numbereth every hair;
+      Men you may cheat by hypocritic arts,
+    But how cheat Him to whom all hearts are bare?
+
+177. C. L. N. A. I. J.
+
+
+178.
+
+    Ah! wine lends wings to many a weary wight,
+    And beauty spots to ladies' faces bright;
+      All Ramazan I have not drunk a drop,
+    Thrice welcome, then, O Bairam's blessed night!
+
+178. Bairam, the feast on the 1st Shawwal, after Ramazan. In line 2
+_Khirad_ seems wrong, the rhyme would suggest _Kharo_?
+
+
+179.
+
+    All night in deep bewilderment I fret,
+    With tear-drops big as pearls my breast is wet;
+      I cannot fill my cranium with wine,
+    How can it hold wine, when 'tis thus upset?
+
+179. C. L. N. A. I. Note _tashdid_ of _durr_ dropped.
+
+
+180.
+
+    To prayer and fasting when my heart inclined,
+    All my desire I surely hoped to find;
+      Alas! my purity is stained with wine,
+    My prayers are wasted like a breath of wind.
+
+180. C. L. N. A. I. In line 2 scan _Kulliyam_. In line 4 note _izafat_
+dropped after silent _he_.
+
+
+181.
+
+    I worship rose-red cheeks with heart and soul,
+    I suffer not my hand to quit the bowl,
+      I make each part of me his function do,
+    Or e'er my parts be swallowed in the Whole.
+
+181. C. L. N. A. I. Line 4 alludes to reabsorption in the Divine
+essence. Note _juzwiyam_, and _tashdid_ of _kull_ dropped.
+
+
+182.
+
+    This worldly love of yours is counterfeit,
+    And, like a half-spent blaze, lacks light and heat;
+      True love is his, who for days, months and years,
+    Rests not, nor sleeps, nor craves for drink or meat.
+
+182. L. N. B. Line 3 is in metre 17.
+
+
+183.
+
+    Why spend life in vainglorious essay
+    All Being and Not-being to survey?
+      Since Death is ever pressing at your heels,
+    'Tis best to drink or dream your life away.
+
+183. C. L. N. A. I. J. In line 2 scan _payi_. Being, _i.e._, the Deity,
+the only real existence, and Not-being, the nonentity in which His
+attributes are reflected.
+
+
+184.
+
+    Some hanker after that vain phantasy
+    Of Houris, feigned in Paradise to be,
+      But, when the veil is lifted, they will find
+    How far they are from Thee, how far from Thee!
+
+184. C. L. N. A. I.
+
+
+185.
+
+    In Paradise, they tell us, Houris dwell,
+    And fountains run with wine and oxymel:
+      If these be lawful in the world to come,
+    Surely 'tis right to love them here as well.
+
+185. C. L. N. A. I. J.
+
+
+186.
+
+    A draught of wine would make a mountain dance,
+    Base is the churl who looks at wine askance;
+      Wine is a soul our bodies to inspire,
+    A truce to this vain talk of temperance!
+
+186. C. L. N. A. I.
+
+
+187.
+
+    Oft doth my soul her prisoned state bemoan,
+    Her earth-born co-mate she would fain disown,
+      And quit, did not the stirrup of the law
+    Upbear her foot from dashing on the stone.
+
+187. N. Meaning, «I would make away with myself, were it not for the
+Almighty's canon 'gainst self-slaughter.»
+
+
+188.
+
+    The moon of Ramazan is risen, see!
+    Alas, our wine must henceforth banished be;
+      Well! on Sha'ban's last day I'll drink enough
+    To keep me drunk till Bairam's jubilee.
+
+188. C. L. N. A. I. Note _wa_ omitted in line 2. Also ascribed to Jalal
+'Asad Bardi.
+
+
+189.
+
+    From life we draw now wine, now dregs to drink,
+    Now flaunt in silk, and now in tatters shrink;
+      Such changes wisdom holds of slight account
+    To those who stand on death's appalling brink!
+
+189. N.
+
+
+190.
+
+    What sage the eternal tangle e'er unravelled,
+    Or one short step beyond his nature travelled?
+      From pupils to the masters turn your eyes,
+    And see, each mother's son alike is gravelled.
+
+190. C. L. N. A. B. I. In line 1 note _ra_ put after the genitive,
+following its noun. _'Ijz._ ... «impotence is in the hand of each.»
+«Beyond his nature,» _i.e._, beyond the limit of his own thought.
+
+
+191.
+
+    Crave not of worldly sweets to take your fill,
+    Nor wait on turns of fortune, good or ill;
+      Be of light heart, as are the skies above,
+    They roll a round or two, and then lie still.
+
+191. C. L. N. A. B. I. The skies have their allotted term like you, yet
+do not distress themselves.
+
+
+192.
+
+    What eye can pierce the veil of God's decrees,
+    Or read the riddle of earth's destinies?
+      Pondered have I for years threescore and ten,
+    But still am baffled by these mysteries.
+
+192. C. L. N. A. I. So Job, «The thunder of his power who can
+understand?»
+
+
+193.
+
+    They say, when the last trump shall sound its knell,
+    Our Friend will sternly judge, and doom to hell.
+      Can aught but good from perfect goodness come?
+    Compose your trembling hearts, 'twill all be well.
+
+193. C. L. N. A. I. J. _Juzi_, (?) _juz az_.
+
+
+194.
+
+    Drink wine to root up metaphysic weeds,
+    And tangle of the two-and-seventy creeds;
+      Do not forswear that wondrous alchemy,
+    'Twill turn to gold, and cure a thousand needs.
+
+194. C. L. N. A. B. I. Muhammad said, «My people shall be divided into
+seventy-three sects, all of which, save one, shall have their portion in
+the fire.» Pocock, Specimen 210.
+
+
+195.
+
+    Though drink is wrong, take care with whom you drink,
+    And who you are that drink, and what you drink;
+      And drink at will, for, these three points observed,
+    Who but the very wise can ever drink?
+
+195. C. L. N. A. B. I. A hit at the casuistry on the subject of wine.
+
+
+196.
+
+    To drain a gallon beaker I design,
+    Yea, two great beakers, brimmed with richest wine;
+      Old faith and reason thrice will I divorce,
+    Then take to wife the daughter of the vine.
+
+196. C. N. A. I. A triple divorce is irrevocable. Koran, ii. 230.
+
+
+197.
+
+    True I drink wine, like every man of sense,
+    For I know Allah will not take offence;
+      Before time was, He knew that I should drink,
+    And who am I to thwart His prescience?
+
+197. C. L. N. A. B. I.
+
+
+198.
+
+    Rich men, who take to drink, the world defy
+    With shameless riot, and as beggars die;
+      Place in my ruby pipe some emerald hemp,
+    'Twill do as well to blind care's serpent eye.
+
+198. C. L. N. A. I. Scan _af'ayi_. The emerald is supposed to have the
+virtue of blinding serpents.
+
+
+199.
+
+    These fools have never burnt the midnight oil
+    In deep research, nor do they ever toil
+      To step beyond themselves, but dress them fine,
+    And plot of credit others to despoil.
+
+199. C. L. N, A. I. _Shame chand_ Vullers (p. 253) takes this _ya_ to be
+_ya i tankir_; and Lumsden (ii. 269) says the presence of this letter,
+between a noun and its attribute, dispenses with the _izafat_ (?). But
+why not add the _izafat_, and scan _Shamiyi_?
+
+
+200.
+
+    When false dawn streaks the east with cold, grey line,
+    Pour in your cups the pure blood of the vine;
+      The truth, they say, tastes bitter in the mouth,
+    This is a token that the «Truth» is wine.
+
+200. C. L. N. A. I. J. False dawn, the faint light before sunrise.
+
+
+201.
+
+    Now is the time earth decks her greenest bowers,
+    And trees, like Musa's hand, grow white with flowers!
+      As 'twere at 'Isa's breath the plants revive,
+    While clouds brim o'er, like tearful eyes, with showers.
+
+201. C. L. N. A. B. I. Musa and 'Isa are often written without the _alif
+i maksur_. Bl., Prosody 3.
+
+
+202.
+
+    O burden not thyself with drudgery,
+    Lord of white silver and red gold to be;
+      But feast with friends, ere this warm breath of thine
+    Be chilled in death, and earthworms feast on thee.
+
+202. N.
+
+
+203.
+
+    The showers of grape-juice, which cupbearers pour,
+    Quench fires of grief in many a sad heart's core
+      Praise be to Allah, who hath sent this balm
+    To heal sore hearts, and spirits' health restore!
+
+203. C. L. N. A. B. I. In line 1 some MSS. reads _bakhak_. _Didayi
+garm_, «eyes of anguish.» Scan _garm atishi_ (_Alif i wasl_).
+
+
+204.
+
+    Can alien Pharisees Thy kindness tell,
+    Like us, Thy intimates, who nigh Thee dwell?
+      Thou say'st, «All sinners will I burn with fire.»
+    Say that to strangers, we know Thee too well.
+
+204. N.
+
+
+205.
+
+    O comrades dear, when hither ye repair
+    In times to come, communion sweet to share,
+      While the cupbearer pours your old Magh wine,
+    Call poor Khayyam to mind, and breathe a prayer.
+
+205. L. N. B. _Mayi_. The second _ya_ is the _ya i batni_.
+
+
+206.
+
+    For me heaven's sphere no music ever made,
+    Nor yet with soothing voice my fears allayed;
+      If e'er I found brief respite from my woes,
+    Back to woe's thrall I was at once betrayed.
+
+206. C. L. N. A. I.
+
+
+207.
+
+    Sooner with half a loaf contented be,
+    And water from a broken crock, like me,
+      Than lord it over one poor fellow-man,
+    Or to another bow the vassal knee.
+
+207. C. L. N. A. I. In line 2 note _izafat_ dropped after silent _he_,
+_Kam az Khude_, «one less than yourself.» Vullers, p. 254.
+
+
+208.
+
+    While Moon and Venus in the sky shall dwell,
+    None shall see aught red grape-juice to excel:
+      O foolish publicans, what can you buy
+    One half so precious as the goods you sell?
+
+208. C. L. N. A. B. I.
+
+
+209.
+
+    They who by genius, and by power of brain,
+    The rank of man's enlighteners attain,
+      Not even they emerge from this dark night,
+    But tell their dreams, and fall asleep again.
+
+209. C. L. N. A. I. J. _Fisanaye, ya i tankir_.
+
+
+210.
+
+    At dawn, when dews bedeck the tulip's face,
+    And violets their heavy heads abase,
+      I love to see the roses' folded buds,
+    With petals closed against the wind's disgrace.
+
+210. L. B.
+
+
+211.
+
+    Like as the skies rain down sweet jessamine,
+    And sprinkle all the meads with eglantine,
+      Right so, from out this jug of violet hue,
+    I pour in lily cups this rosy wine.
+
+211. B. Here read _mayi_, with one _ya_, and _kasra_, because the metre
+requires a word of only two consonants, and two short vowels, of the
+_wazn mafa_.
+
+
+212.
+
+    Ah! thou hast snared this head, though white as snow,
+    Which oft has vowed the wine-cup to forego;
+      And wrecked the mansion long resolve did build,
+    And rent the vesture penitence did sew!
+
+212. B. _Nabid_ is often written _nabiz_, probably a survival from the
+time when _dals_ were dotted. Bl., Prosody 17.
+
+
+213.
+
+    I am not one whom Death doth much dismay,
+    Life's terrors all Death's terrors far outweigh;
+      This life, that Heaven hath lent me for a while,
+    I will pay back, when it is time to pay.
+
+213. C. L. A. B. I. B. reads _nim_ for _bim_ in line 2.
+
+
+214.
+
+    The stars, who dwell on heaven's exalted stage,
+    Baffle the wise diviners of our age;
+      Take heed, hold fast the rope of mother wit.
+    These augurs all distrust their own presage.
+
+214. L. B. A hit at the astrologers.
+
+
+215.
+
+    The people who the heavenly world adorn,
+    Who come each night, and go away each morn,
+      Now on Heaven's skirt, and now in earth's deep pouch,
+    While Allah lives, shall aye anew be born!
+
+215. L. B. Earth's pouch, _i.e._, «beneath the earth.» _Rezaye._ L.
+reads _didaye_. Both readings are probably wrong.
+
+
+216.
+
+    Slaves of vain wisdom and philosophy,
+    Who toil at Being and Nonentity,
+      Parching your brains till they are like dry grapes,
+    Be wise in time, and drink grape-juice, like me!
+
+216. B. The vanity of learning.
+
+
+217.
+
+    Sense, seeking happiness, bids us pursue
+    All present joys, and present griefs eschew;
+      She says, we are not as the meadow grass,
+    Which, when they mow it down, springs up anew.
+
+217. C. L. A. B. I. J. _Goyid_, from _goyidan_. _Ya i maksur_ followed
+by another _ya_ is in Persian words always _hamzated_ (Lumsden, i. 29;
+Vullers, p. 24); and this _hamza i maksur_ is pronounced _ye_. Ibrahim,
+Grammar, p. 24.
+
+
+218.
+
+    Now Ramazan is past, Shawwal comes back,
+    And feast and song and joy no more we lack;
+      The wine-skin carriers throng the streets and cry,
+    «Here comes the porter with his precious pack.»
+
+218. B. I incline to read _pusht bast_ for _pusht pusht_, which I do not
+understand.
+
+
+219.
+
+    My comrades all are gone; Death, deadly foe,
+    Has caught them one by one, and trampled low;
+      They shared life's feast, and drank its wine with me,
+    But lost their heads, and dropped a while ago.
+
+219. C. L. A. I. Quoted by _Badauni_, ii. 159.
+
+
+220.
+
+    Those hypocrites, all know so well, who lurk
+    In streets to beg their bread, and will not work,
+      Claim to be saints, like Shibli and Junaid,
+    No Shiblis are they, though well known in Karkh!
+
+220. C. L. A. I. L. Reads _bakahna namad_, but the line will not scan
+with that reading. Line 4 is in metre 9. A saint called _Ma'ruf i
+Karkhi_, «the famed one of Karkh,» is mentioned in the _Nafahat ul Uns_.
+Karkh was a suburb of Bagdad.
+
+
+221.
+
+    When the great Founder moulded me of old,
+    He mixed much baser metal with my gold;
+      Better or fairer I can never be
+    Than I first issued from his heavenly mould.
+
+221. C. L. A. I.
+
+
+222.
+
+    The joyous souls who quaff potations deep,
+    And saints who in the mosques sad vigils keep,
+      Are lost at sea alike, and find no shore,
+    ONE only wakes, all others are asleep.
+
+222. L. B. One, _i.e._, the Deity.
+
+
+223.
+
+    Not-being's water served to mix my clay,
+    And on my heart grief's fire doth ever prey,
+      And blown am I like wind about the world,
+    And last my crumbling earth is swept away.
+
+223. L. This introduction of the four elements in one quatrain is called
+_Mutazadd_. Gladwin, p. 60.
+
+
+224.
+
+    Small gains to learning on this earth accrue,
+    They pluck life's fruitage, learning who eschew;
+      Take pattern by the fools who learning shun,
+    And then perchance shall fortune smile on you.
+
+224. C. L. A. I. _Bu_ contracted from _buzad_
+
+
+225.
+
+    When the fair soul this mansion doth vacate,
+    Each element assumes its primal state,
+      And all the silken furniture of life
+    Is then dismantled by the blows of fate.
+
+225. C. L. A. I. _Abresham tab'_, like _Hatim tab'_.
+
+
+226.
+
+    These people string their beads of learned lumber,
+    And tell of Allah stories without number;
+      Yet never solve the riddle of the skies,
+    But wag the chin, and get them back to slumber.
+
+226. Possibly a hit at the _Mutakallamin_, or scholastic theologians.
+
+
+227.
+
+    These folk are asses, laden with conceit,
+    And glittering drums, that empty sounds repeat,
+      And humble slaves are they of name and fame,
+    Acquire a name, and, lo! they kiss thy feet.
+
+227. C. L. A. I. _Ba afsos_ is an epithet, like _ba khabar_, and hence
+_kharan_, the noun qualified by it, takes the _izafat_. Lumsden, ii.
+259. _Pur mash'ala_, «full of glitter»; compare _pur mae_ in No. 179.
+
+
+228.
+
+    On the dread day of final scrutiny
+    Thou wilt be rated by thy quality;
+      Get wisdom and fair qualities to-day,
+    For, as thou art, requited wilt thou be.
+
+228. C. L. A. I.
+
+
+229.
+
+    Many fine heads, like bowls, the Brazier made,
+    And thus his own similitude portrayed;
+      He set one upside down above our heads,
+    Which keeps us all continually afraid.
+
+229. C. L. A. I. «One upside down,» _i.e._, the sky. _Kansa_ is also
+spelled _kasa_.
+
+
+230.
+
+    My true condition I may thus explain
+    In two short verses which the whole contain:
+      «From love to Thee I now lay down my life,
+    In hope Thy love will raise me up again.»
+
+230. C. L. A. I. Scan _wakiayi_. Here _hamza_ stands for _ya i tankir_.
+
+
+231.
+
+    The heart, like tapers, takes at beauty's eyes
+    A flame, and lives by that whereby it dies;
+      And beauty is a flame where hearts, like moths,
+    Offer themselves a burning sacrifice.
+
+231. L. Metre Ramal, No. 50. In line 3 the first syllable is short. See
+Bl., Prosody, p. 43. In this form the metre is like Horace's «_Miserarum
+est_,» etc.
+
+
+232.
+
+    To please the righteous life itself I sell,
+    And, though they tread me down, never rebel;
+      Men say, «Inform us what and where is hell?»
+    Ill company will make this earth a hell.
+
+232. C. L. A. I. Also ascribed to Hafiz.
+
+
+233.
+
+    The sun doth smite the roofs with Orient ray
+    And, Khosrau like, his wine-red sheen display;
+      Arise, and drink! the herald of the dawn
+    Uplifts his voice, and cries, «Oh, drink to-day!»
+
+233. C. L. A. I. J.
+
+
+234.
+
+    Comrades! when e'er you meet together here,
+    Recall your friend to mind, and drop a tear;
+      And when the circling wine-cups reach his seat,
+    Pray turn one upside down his dust to cheer.
+
+234. B. A variation of No. 205.
+
+
+235.
+
+    That grace and favour at the first, what meant it?
+    That lavishing of joy and peace, what meant it?
+      But now thy purpose is to grieve my heart;
+    What did I do to cause this change? What meant it?
+
+235. B. So Job, «He multiplieth my wounds without cause.»
+
+
+236.
+
+    These hypocrites who build on saintly show,
+    Treating the body as the spirit's foe,
+      If they will shut their mouths with lime, like jars,
+    My jar of grape-juice I will then forego.
+
+236. L. B. B. reads _arra_, of which I can make no sense. _Bar fark
+niham_, «I will put aside»; _bar fark_ (line 4), «on their mouths.»
+
+
+237.
+
+    Many have come, and run their eager race,
+    Striving for pleasures, luxuries, or place,
+      And quaffed their wine, and now all silent lie,
+    Enfolded in their parent earth's embrace.
+
+237. C. L. A. I.
+
+
+238.
+
+    Then, when the good reap fruits of labours past,
+    My hapless lot with drunkards will be cast;
+      If good, may I be numbered with the first,
+    If bad, find grace and mercy with the last.
+
+238. C. L. A. I.
+
+
+239.
+
+    Of happy turns of fortune take your fill,
+    Seek pleasure's couch, or wine-cup, as you will;
+      Allah regards not if you sin, or saint it,
+    So take your pleasure, be it good or ill.
+
+239. C. L. N. A. I. J. Alluding to the _Hadis_, «These are in heaven,
+and Allah regards not their sins, and those in hell, and Allah regards
+not their good works.» See _Gulshan i' Raz_, p. 55.
+
+
+240.
+
+    Heaven multiplies our sorrows day by day,
+    And grants no joys it does not take away;
+      If those unborn could know the ills we bear,
+    What think you, would they rather come or stay?
+
+240. C. L. N. A. I. J. This recalls Byron's «Stanzas for Music.»
+
+
+241.
+
+    Why ponder thus the future to foresee,
+    And jade thy brain to vain perplexity?
+      Cast off thy care, leave Allah's plans to him,
+    He formed them all without consulting thee.
+
+241. C. L. N. A. I. J.
+
+
+242.
+
+    The tenants of the tombs to dust decay,
+    Nescient of self, and all beside are they;
+      Their sundered atoms float about the world,
+    Like mirage clouds, until the judgment day.
+
+242. C. L. N. A. I. J. In line 4 some MSS. read _sharab_ and change the
+order of the lines.
+
+
+243.
+
+    O soul! lay up all earthly goods in store,
+    Thy mead with pleasure's flowerets spangle o'er;
+      And know 'tis all as dew, that decks the flowers
+    For one short night, and then is seen no more!
+
+243. C. L. N. A. I. J. There are several variations of this.
+
+
+244.
+
+    Heed not the Sunna, nor the law divine;
+    If to the poor his portion you assign,
+      And never injure one, nor yet abuse,
+    I guarantee you heaven, and now some wine!
+
+244. C. L. N. A. B. I. J. See Koran, ii. 172: «There is no piety in
+turning your faces to the east or west, but he is pious who believeth in
+God ... and disburseth his wealth to the needy,» etc.
+
+
+245.
+
+    Vexed by this wheel of things, that pets the base,
+    My sorrow-laden life drags on apace;
+      Like rosebud, from the storm I wrap me close,
+    And blood-spots on my heart, like tulip, trace.
+
+245. N.
+
+
+246.
+
+    Youth is the time to pay court to the vine,
+    To quaff the cup, with revellers to recline;
+      A flood of water once laid waste the earth,
+    Hence learn to lay you waste with floods of wine.
+
+246. C. N. A. I. J.
+
+
+247.
+
+    The world is baffled in its search for Thee,
+    Wealth cannot find Thee, no, nor poverty;
+      Thou'rt very near us, but our ears are deaf,
+    Our eyes are blinded that we may not see!
+
+247. N. So Hafiz, Ode 355 (Brockhaus): «How can our eyes behold Thee as
+Thou art?»
+
+
+248.
+
+    Take care you never hold a drinking-bout
+    With an ill-tempered, ill-conditioned lout;
+      He'll make a vile disturbance all night long,
+    And vile apologies next day, no doubt.
+
+248. C. L. N. A. I. J. In line 3 scan _badmastiyo_ and in line 4
+_Khwahiyash_.
+
+
+249.
+
+    The starry aspects are not all benign;
+    Why toil then after vain desires, and pine
+      To lade thyself with load of fortune's boons,
+    Only to drop it with this life of thine?
+
+249. C. L. N. A. I. J.
+
+
+250.
+
+    O comrades! here is filtered wine, come drink!
+    Pledge all your charming sweethearts as you drink;
+      'Tis the grape's blood, and this is what it says,
+    «To you I dedicate my life-blood! drink!»
+
+250. C. L. N. A. I. J.
+
+
+251.
+
+    Are you depressed? Then take of _bhang_ one grain,
+    Of rosy grape-juice take one pint or twain;
+      Sufis, you say, must not take this or that,
+    Then go and eat the pebbles off the plain!
+
+251. N. In line 1 and 2 scan _yakjawaki_ and _manaki_, _ak_ being the
+diminutive, and _ya_ the _ya i tankir_, displacing the _izafat_:
+Lumsden, ii, 269. _Bhang_, a narcotic, made from hemp.
+
+
+252.
+
+    I saw a busy potter by the way
+    Kneading with might and main a lump of clay;
+      And, lo! the clay cried, «Use me gently, pray;
+    I was a man myself but yesterday!»
+
+252. C. L. N. A. B. I. J. _Hal_, ecstasy.
+
+
+253.
+
+    Oh! wine is richer that the realm of Jam,
+    More fragrant than the food of Miriam;
+      Sweeter are sighs that drunkards heave at morn
+    Than strains of Bu Sa'id and Bin Adham.
+
+253. C. L. N. A. I. J. Abu Sa'id Abu'l Khair and Ibrahim Bin Adham are
+both mentioned in the _Nafahat ul Uns_. «Miriam's food.» See Koran, xix.
+24. Note _izafat_ dropped after silent _he_.
+
+
+254.
+
+    Deep in the rondure of the heavenly blue,
+    There is a cup, concealed from mortals' view,
+      Which all must drink in turn; Oh, sigh not then,
+    But drink it boldly, when it comes to you!
+
+254. C. L. A. I. J. _Jawr_, a «bumper.»
+
+
+255.
+
+    Though you should live to four, or forty score,
+    Go hence you must, as all have gone before;
+      Then, be you king, or beggar of the streets,
+    They'll rate you all the same, no less, no more.
+
+255. L.
+
+
+256.
+
+    If you seek Him, abandon child and wife,
+    Arise, and sever all these ties to life;
+      All these are bonds to check you on your course.
+    Arise, and cut these bonds, as with a knife.
+
+256. L. B. So _Gulshan i Raz_, l. 944.
+
+
+257.
+
+    O heart! this world is but a fleeting show,
+    Why should its empty griefs distress thee so?
+      Bow down, and bear thy fate, the eternal pen
+    Will not unwrite its roll for thee, I trow!
+
+257. L. N. B. The «pen» is that with which Allah writes his decrees.
+
+
+258.
+
+    Who e'er returned of all that went before,
+    To tell of that long road they travel o'er?
+      Leave naught undone of what you have to do,
+    For when you go, you will return no more.
+
+258. C. N. L. A. I. J. _Amadaye, ya i tankir_.
+
+
+259.
+
+    Dark wheel! how many lovers thou hast slain,
+    Like Mahmud and Ayaz, O inhumane!
+      Come, let us drink, thou grantest not two lives,
+    When one is spent, we find it not again.
+
+259. L. N. Mahmud, the celebrated king of Ghazni, and Ayaz his
+favourite. Scan _wayaz_ (_alif i wasl_).
+
+
+260.
+
+    Illustrious Prophet! whom all kings obey,
+    When is our darkness lightened by wine's ray?
+      On Sunday, Monday, Tuesday, Wednesday, Thursday,
+    Friday, and Saturday, both night and day!
+
+260. C. L. N. A. I. J. The _jim_ in _panjshamba_ is dropped in scanning.
+See Bl., Prosody, p. 10. In line 4 note silent _he_ in _shauba_ scanned
+long as well as short.
+
+
+261.
+
+    O turn away those roguish eyes of thine!
+    Be still! seek not my peace to undermine!
+      Thou say'st, «Look not.» I might as well essay
+    To slant my goblet, and not spill my wine.
+
+261. N. Line 4, a proverb denoting an impossibility.
+
+
+262.
+
+    In taverns better far commune with Thee,
+    Than pray in mosques, and fail Thy face to see!
+      O first and last of all Thy creatures Thou,
+    'Tis Thine to burn, and Thine to cherish me!
+
+262. C. L. N. A. B. I. J. This is clearly an address to the Deity.
+
+
+263.
+
+    To wise and worthy men your life devote,
+    But from the worthless keep your walk remote;
+      Dare to take poison from a sage's hand,
+    But from a fool refuse an antidote.
+
+263. L. N. Line 2 is in metre 17.
+
+
+264.
+
+    I flew here, as a bird from the wild, in aim
+    Up to a higher nest my course to frame,
+      But, finding here no guide who knows the way,
+    Fly out by the same door where through I came.
+
+264. C. L. N. A. I. J.
+
+
+265.
+
+    He binds us in resistless Nature's chain,
+    And yet bids us our natures to restrain;
+      Between these counter rules we stand perplexed,
+    «Hold the jar slant, but all the wine retain.»
+
+265. L. N. In line 3 scan _nahyash_. So Lord Brooke in «Mustapha»;
+Ward's English Poets, i. 370.
+
+
+266.
+
+    They go away, and none is seen returning,
+    To teach that other world's recondite learning;
+      'Twill not be shown for dull mechanic prayers,
+    For prayer is naught without true heartfelt yearning.
+
+266. C. L. N. A. I. The _formal_ prayers of Moslems are rather
+ascriptions of praise, and repetitions of texts, than petitions.
+
+
+267.
+
+    Go to! Cast dust on those deaf skies, who spurn
+    Thy orisons and bootless prayers, and learn
+      To quaff the cup, and hover round the fair;
+    Of all who go, did ever one return?
+
+267. C. L. N. A. B. I. J. An answer to the last.
+
+
+268.
+
+    Though Khayyam strings no pearls of righteous deeds,
+    Nor sweeps from off his soul sin's noisome weeds,
+      Yet will he not despair of heavenly grace,
+    Seeing that ONE as two he ne'er misreads.
+
+268. C. L. N. A. B. I. J. _Tauhid_, or Unitarianism, is the central
+doctrine of Islam. So Hafiz, Ode 465.
+
+
+269.
+
+    Again to tavern haunts do we repair,
+    And say «Adieu» to the five hours of prayer;
+      Where'er we see a long-necked flask of wine,
+    We elongate our necks that wine to share.
+
+269. C. L. N. A. B. I. J. _Takbir_, or _tekbir_ the formula «_Allah
+akbar_,» in saying which the mind should be abstracted from worldly
+thoughts; hence «renunciation.» See Nicolas.
+
+
+270.
+
+    We are but chessmen, destined, it is plain,
+    That great chess-player, Heaven, to entertain;
+      It moves us on life's chess-board to and fro,
+    And then in death's dark box shuts up again.
+
+270. L. N. B. _Hakikati_, see Bl., Prosody 3.
+
+
+271.
+
+    You ask what is this life so frail, so vain,
+    'Tis long to tell, yet will I make it plain;
+      'Tis but a breath blown from the vasty deeps,
+    And then blown back to those same deeps again!
+
+271. C. L. N. A. I. J. Some MSS. read _naksh_. Deeps, _i.e._, the ocean
+of Not-being.
+
+
+272.
+
+    To-day to heights of rapture have I soared,
+    Yea, and with drunken Maghs pure wine adored;
+      I am become beside myself, and rest
+    In that pure temple, «Am not I your Lord?»
+
+272. C. L. N. A. I. J. _Alasto birabbikum_, Allah's words to Adam's
+sons: Koran vii. 171. So in Hafiz, Ode 43 (Brockhaus).
+
+
+273.
+
+    My queen (long may she live to vex her slave!)
+    To-day a token of affection gave,
+      Darting a kind glance from her eyes, she passed,
+    And said, «Do good and cast it on the wave!»
+
+273. L. N. Meaning, hope not for a return to your love. _Nekuyey_, «a
+good act,» _ya_ conjunctive and _ya i tankir_, Vullers, p. 250.
+
+
+274.
+
+    I put my lips to the cup, for I did yearn
+    The hidden cause of length of days to learn;
+      He leaned his lip to mine, and whispered low,
+    «Drink! for, once gone, you never will return.»
+
+274. C. L. A. B. I. J. Some MSS. give line 4 differently.
+
+
+275.
+
+    We lay in the cloak of Naught, asleep and still,
+    Thou said'st, «Awake! taste the world's good and ill»;
+      Here we are puzzled by Thy strange command,
+    From slanted jars no single drop to spill.
+
+275. L. Naught, _i.e._, Not-being. See note to No. 183.
+
+
+276.
+
+    O Thou! who know'st the secret thoughts of all,
+    In time of sorest need who aidest all,
+      Grant me repentance, and accept my plea,
+    O Thou who dost accept the pleas of all!
+
+276. C. L. N. A. I. J. Note _tashdid_ on _rabb_ dropped.
+
+
+277.
+
+    I saw a bird perched on the walls of Tus,
+    Before him lay the skull of Kai Kawus,
+      And thus he made his moan, «Alas, poor king!
+    Thy drums are hushed, thy 'larums have rung truce.»
+
+277. C. L. N. A. Tus was near Nishapur.
+
+
+278.
+
+    Ask not the chances of the time to be,
+    And for the past, 'tis vanished, as you see;
+     This ready-money breath set down as gain,
+    Future and past concern not you or me.
+
+278. C. L. N. A. I. J. In line 1 note _izafat_ dropped after silent
+_he_. Compare Horace's Ode to Leuconoe.
+
+
+279.
+
+    What launched that golden orb his course to run,
+    What wrecks his firm foundations, when 'tis done,
+      No man of science ever weighed with scales,
+    Nor made assay with touchstone, no, not one!
+
+279. L. The vanity of science.
+
+
+280.
+
+    I pray thee to my counsel lend thine ear,
+    Cast off this false hypocrisy's veneer;
+      This life a moment is, the next all time,
+    Sell not eternity for earthly gear!
+
+280. C. L. N. A. B. I. Note _ra_ separated from its noun, as before.
+Vullers, p. 173.
+
+
+281.
+
+    Ofttimes I plead my foolishness to Thee,
+    My heart contracted with perplexity;
+      I gird me with the Magian zone, and why?
+    For shame so poor a Musulman to be.
+
+281. C. L. N. A. I. J. In line 1 scan _nadaniyi_, dissolving the long
+_ya_.
+
+
+282.
+
+    Khayyam! rejoice that wine you still can pour,
+    And still the charms of tulip cheeks adore;
+      You'll soon not be, rejoice then that you are,
+    Think how 'twould be in case you were no more!
+
+282. C. L. N. A. B. I. J.
+
+
+283.
+
+    Once, in a potter's shop, a company
+    Of cups in converse did I chance to see,
+      And lo! one lifted up his voice, and cried,
+    «Who made, who sells, who buys this crockery?»
+
+283. C. L. N. A. B. I. J. Men's speculations.
+
+
+284.
+
+    Last night, as I reeled from the tavern door,
+    I saw a sage, who a great wine-jug bore;
+      I said, «O Shaikh, have you no shame?» Said he,
+    «Allah hath boundless mercy in his store.»
+
+284. C. L. N. A. I. J. _Sar mast_, a compound, hence _izafat_ omitted.
+_Saboyey, hamza_ (for conjunctive _ya_) followed by _ya i tankir_. See
+Lumsden, ii. 269.
+
+
+285.
+
+    Life's fount is wine, Khizir its guardian,
+    I, like Elias, find it where I can,
+      'Tis sustenance for heart and spirit too,
+    Allah himself calls wine «a boon to man.»
+
+285. C. L. N. A. I. J. Koran, ii. 216. Elias discovered the water of
+life.
+
+
+286.
+
+    Though wine is banned, yet drink, for ever drink!
+    By day and night, with strains of music drink!
+      Where'er thou lightest on a cup of wine,
+    Spill just one drop, and take the rest and drink!
+
+286. C. L. N. A. I. J. To spill a drop is a sign of
+liberality.--Nicolas.
+
+
+287.
+
+    Although the creeds number some seventy-three,
+    I hold with none but that of loving Thee;
+      What matter faith, unfaith, obedience, sin?
+    Thou'rt all we need, the rest is vanity.
+
+287. N. See note on Quatrain 194. Forms of faith are indifferent. See
+_Gulshan i Raz_, p. 83.
+
+
+288.
+
+    Tell one by one my scanty virtues o'er;
+    As for my sins, forgive them by the score;
+      Let not my faults kindle Thy wrath to flame;
+    By blest Muhammad's tomb, forgive once more!
+
+288. L. N. B. _Rasul-ullah_: the construction being Arabic, _izafat_ is
+needed. Lumsden, ii. p. 251. Also ascribed to Zahir ud-din Faryabi.
+
+
+289.
+
+    Grieve not at coming ill, you can't defeat it,
+    And what far-sighted person goes to meet it?
+      Cheer up! bear not about a world of grief,
+    Your fate is fixed, and grieving will not cheat it.
+
+289. L. Line 2 is a question.
+
+
+290.
+
+    There is a chalice made with wit profound,
+    With tokens of the Maker's favour crowned;
+      Yet the world's Potter takes his masterpiece,
+    And dashes it to pieces on the ground!
+
+290. C. L. A. I. J. So Job, «Is it good unto Thee that Thou shouldest
+despise the labour of Thine hands?»
+
+
+291.
+
+    In truth wine is a spirit thin as air,
+    A limpid soul in the cup's earthen ware;
+      No dull, dense person shall be friend of mine
+    Save wine-cups, which are dense and also rare.
+
+291. L. N. B. _Layik . man izafat_ omitted because of the intervening
+words. Lumsden, ii. 250.
+
+
+292.
+
+    O wheel of heaven! no ties of bread you feel,
+    No ties of salt, you flay me like an eel!
+      A woman's wheel spins clothes for man and wife,
+    It does more good than you, O heavenly wheel!
+
+292. C. L. N. A. I. J.
+
+
+293.
+
+    Did no fair rose my paradise adorn,
+    I would make shift to deck it with a thorn;
+      And if I lacked my prayer-mats, beads, and Shaikh,
+    'Those Christian bells and stoles I would not scorn.
+
+293. C. L. N. A. I. (under _Te_). Line 2 is omitted in the translation.
+So Pope, «For forms and creeds let graceless zealots fight.»
+
+
+294.
+
+    «If heaven deny me peace and fame,» I said,
+    «Let it be open war and shame instead;
+      The man who scorns bright wine had best beware,
+    I'll arm me with a stone, and break his head!»
+
+294. C. L. N. A. I. J.
+
+
+295.
+
+    See! the dawn breaks, and rends night's canopy:
+    Arise! and drain a morning draught with me!
+      Away with gloom! full many a dawn will break
+    Looking for us, and we not here to see!
+
+295. C. L. N A. I. J. _Bisyar_, «frequently.»
+
+
+296.
+
+    O you who tremble not at fires of hell,
+    Nor wash in water of remorse's well,
+      When winds of death shall quench your vital torch,
+    Beware lest earth your guilty dust expel.
+
+296. L. Possibly written by some pious reader as an answer to Khayyam's
+scoffs. See note on Quatrain 223.
+
+
+297.
+
+    This world a hollow pageant you should deem;
+    All wise men know things are not what they seem;
+      Be of good cheer, and drink, and so shake off
+    This vain illusion of a baseless dream.
+
+297. L. N. All earthly existence is «_Maya_»
+
+
+298.
+
+    With maids stately as cypresses, and fair
+    As roses newly plucked, your wine-cups share,
+      Or e'er Death's blasts shall rend your robe of flesh
+    Like yonder rose leaves, lying scattered there!
+
+298. C. L. N. I. J. The Lucknow commentator says _daman i gul_ means the
+maid's cheek.
+
+
+299.
+
+    Cast off dull care, O melancholy brother!
+    Woo the sweet daughter of the grape, no other;
+      The daughter is forbidden, it is true,
+    But she is nicer than her lawful mother!
+
+299. N. «Daughter of the grape,» _i.e._, wine, a translation of an
+Arabic phrase.
+
+
+300.
+
+    My love shone forth, and I was overcome,
+    My heart was speaking, but my tongue was dumb;
+      Beside the water-brooks I died of thirst.
+    Was ever known so strange a martyrdom?
+
+300. N. _Dil rubaye_, «that well-known charmer.» Lumsden, ii. 142. _Pur
+sukhan_. See note on No. 227.
+
+
+301.
+
+    Give me my cup in hand, and sing a glee
+    In concert with the bulbul's symphony;
+      Wine would not gurgle as it leaves the flask,
+    If drinking mute were right for thee and me!
+
+301. C. L. N. A. I. J.
+
+
+302.
+
+    The «Truth» will not be shown to lofty thought,
+    Nor yet with lavished gold may it be bought;
+      But, if you yield your life for fifty years,
+    From words to «states» you may perchance be brought.
+
+302. L. Line 3, literally, «Unless you dig up your soul, and eat blood
+for fifty years.» «States» of ecstatic union with the «Truth,» or Deity
+of the Mystics.
+
+
+303.
+
+    I solved all problems, down from Saturn's wreath
+    Unto this lowly sphere of earth beneath,
+      And leapt out free from bonds of fraud and lies,
+    Yea, every knot was loosed, save that of death!
+
+303. C. L. A. I. J.
+
+
+304.
+
+    Peace! the eternal «Has been» and «To be»
+    Pass man's experience, and man's theory;
+      In joyful seasons naught can vie with wine,
+    To all these riddles wine supplies the key!
+
+304. C. L. A. B. I. J.
+
+
+305.
+
+    Allah, our Lord, is merciful, though just;
+    Sinner! despair not, but His mercy trust!
+      For though to-day you perish in your sins,
+    To-morrow He'll absolve your crumbling dust.
+
+305. C. L. N. A. I. J. A very Voltairean quatrain.
+
+
+306.
+
+    Your course annoys me, O ye wheeling skies!
+    Unloose me from your chain of tyrannies!
+      If none but fools your favours may enjoy,
+    Then favour me,--I am not very wise!
+
+306. C. L. N. A. I. J.
+
+
+307.
+
+    O City Mufti, you go more astray
+    Than I do, though to wine I do give way;
+      I drink the blood of grapes, you that of men:
+    Which of us is the more bloodthirsty, pray?
+
+307. C. L. N. A. I. J. Alluding to the selling of justice by Muftis.
+
+
+308.
+
+    'Tis well to drink, and leave anxiety
+    For what is past, and what is yet to be;
+      Our prisoned spirits, lent us for a day,
+    A while from season's bondage shall go free!
+
+308. C. L. N. A. I. J. _'Ariyati rawan_, «this borrowed soul.»
+
+
+309.
+
+    When Khayyam quittance at Death's hand receives,
+    And sheds his outworn life, as trees their leaves,
+      Full gladly will he sift this world away,
+    Ere dustmen sift his ashes in their sieves.
+
+309. C. L. N. A. I. J.
+
+
+310.
+
+    This wheel of heaven, which makes us all afraid,
+    I liken to a lamp's revolving shade,
+      The sun the candlestick, the earth the shade,
+    And men the trembling forms thereon portrayed.
+
+310. C. L. N. A. B. I. _Fanus i khiyal_, a magic or Chinese lantern.
+
+
+311.
+
+    Who was it that did mix my clay? Not I.
+    Who spun my web of silk and wool? Not I.
+      Who wrote upon my forehead all my good,
+    And all my evil deeds? In truth not I.
+
+311. C. L. N. A. I. In line 2 rhyme shows the word to be _rishtai_, not
+_rushtai_.
+
+
+312.
+
+    O let us not forecast to-morrow's fears,
+    But count to-day as gain, my brave compeers!
+      To-morrow we shall quit this inn, and march
+    With comrades who have marched seven thousand years.
+
+312. C. L. N. A. I. J. Badauni (ii. 337) says the creation of Adam was
+7000 years before his time. Compare Hafiz, _Ruba'i_ 10.
+
+
+313.
+
+    Ne'er for one moment leave your cup unused!
+    Wine keeps heart, faith, and reason too, amused;
+      Had Iblis swallowed but a single drop,
+    To worship Adam he had ne'er refused!
+
+313. C. L. (in part) N. A. I. J. See Koran, ii. 31.
+
+
+314.
+
+    Come, dance! while we applaud thee, and adore
+    Thy sweet Narcissus eyes, and grape-juice pour;
+      A score of cups is no such great affair,
+    But 'tis enchanting when we reach three score!
+
+314. N. Narcissus eyes, _i.e._, languid.
+
+
+315.
+
+    I close the door of hope in my own face,
+    Nor sue for favours from good men, or base;
+      I have but ONE to lend a helping hand,
+    He knows, as well as I, my sorry case.
+
+315. C. L. N. A. I. J. A «_Haliya_» quatrain, lamenting his own
+condition.
+
+
+316.
+
+    Ah! by these heavens, that ever circling run,
+    And by my own base lusts I am undone,
+      Without the wit to abandon worldly hopes,
+    And wanting sense the world's allures to shun!
+
+316. C. L. N. A. I. J.
+
+
+317.
+
+    On earth's green carpet many sleepers lie,
+    And hid beneath it others I descry,
+      And others, not yet come, or passed away,
+    People the desert of Nonentity!
+
+317. C. L. N. A. I. J. The sleepers on the earth are those sunk in the
+sleep of superstition and ignorance.
+
+
+318.
+
+    Sure of Thy grace, for sins why need I fear?
+    How can the pilgrim faint whilst Thou art near?
+      On the last day Thy grace will wash me white,
+    And make my «black record» to disappear.
+
+318. C. L. N. A. I. J. Lumsden, ii, 72. See Koran, xiii. 47.
+
+
+319.
+
+    Think not I dread from out the world to hie,
+    And see my disembodied spirit fly;
+      I tremble not at death, for death is true,
+    'Tis my ill life that makes me fear to die!
+
+319. C. L. N. A. I. J. «Death is true,» _i.e._ a certainty. So Sir
+Philip Sidney (after M. Aurelius), «Since Nature's works be good, and
+death doth serve as Nature's work, why should we fear to die?»
+
+
+320.
+
+    Let us shake off dull reason's incubus,
+    Our tale of days or years cease to discuss,
+      And take our jugs, and plenish them with wine,
+    Or e'er grim potters make their jugs of us!
+
+320. C. L. N. A. B. I. J.
+
+
+321.
+
+    How much more wilt thou chide, O raw divine,
+    For that I drink, and am a libertine?
+      Thou hast thy weary beads, and saintly show,
+    Leave me my cheerful sweetheart, and my wine!
+
+321. C. L. N. A. I. J.
+
+
+322.
+
+    Against my lusts I ever war, in vain,
+    I think on my ill deeds with shame and pain;
+      I trust Thou wilt assoil me of my sins,
+    But even so, my shame must still remain.
+
+322. C. L. N. A. B. I.
+
+
+323.
+
+    In these twin compasses, O Love, you see
+    One body with two heads, like you and me,
+      Which wander round one centre, circlewise.
+    But at the last in one same point agree.
+
+323. C. L. N. A. I. Mr. Fitzgerald quotes a similar figure used by the
+poet Donne, for which see Ward's «English Poets,» i. 562. The two heads
+are the points of the compasses.
+
+
+324.
+
+    We shall not stay here long, but while we do,
+    'Tis folly wine and sweethearts to eschew;
+      Why ask if earth etern or transient be?
+    Since you must go, it matters not to you.
+
+324. C. L. N. A. B. I. J.
+
+
+325.
+
+    In reverent sort to mosque I wend my way,
+    But, by great Allah, it is not to pray;
+      No! but to steal a prayer-mat! When 'tis worn,
+    I go again, another to purvey.
+
+325. C. L. N. A. B. I. J. To «steal a prayer-mat» is to pray to be seen
+of men.--Nicolas. A satire on some hypocrite, perhaps himself.
+
+
+326.
+
+    No more let fate's annoys our peace consume,
+    But let us rather rosy wine consume,
+      The world our murderer is, and wine its blood,
+    Shall we not then that murderer's blood consume?
+
+326. L. N. See Koran, ii. 187.
+
+
+327.
+
+    For Thee I vow to cast repute away,
+    And, if I shrink, the penalty to pay;
+      Though life might satisfy Thy cruelty,
+    'Twere naught, I'll bear it till the judgment-day!
+
+327. C. L. N. A. B. I.
+
+
+328.
+
+    In Being's rondure do we stray belated,
+    Our pride of manhood humbled and abated;
+      Would we were gone! long since have we been wearied
+    With this world's griefs, and with its pleasures sated.
+
+328. L. N.
+
+
+329.
+
+    The world is false, so I'll be false as well,
+    And with bright wine, and gladness ever dwell!
+      They say, «May Allah grant thee penitence!»
+    He grants it not, and, did he, I'd rebel!
+
+329. C. L. N. A. B. I. J. A pun in the original.
+
+
+330.
+
+    When Death shall tread me down upon the plain,
+    And pluck my feathers, and my life-blood drain,
+      Then mould me to a cup, and fill with wine,
+    Haply its scent will make me breathe again.
+
+330. C. L. N. A. B. I. J.
+
+
+331.
+
+    So far as this world's dealings I have traced,
+    I find its favours shamefully misplaced;
+      Allah be praised! I see myself debarred
+    From all its boons, and wrongfully disgraced.
+
+331. C. L. N. A. I. _Alam hama_, etc., «states entirely gratuitous.»
+Write _baran_ without a _madd_. Bl., Prosody, p. 11. Compare
+Shakespeare, Sonnet 66.
+
+
+332.
+
+    'Tis dawn! my heart with wine I will recruit,
+    And dash to bits the glass of good repute;
+      My long-extending hopes I will renounce,
+    And grasp long tresses, and the charming lute.
+
+332. L. N. B.
+
+
+333.
+
+    Though I had sinned the sins of all mankind,
+    I know Thou would'st to mercy be inclined;
+      Thou sayest, «I will help in time of need»
+    One needier than I where wilt Thou find?
+
+333. C. L. N. A. I. J. The _waw_ in _'afw_ is a consonant, and therefore
+takes _kasra_ for the _izafat_, without the intervention of conjunctive
+_ya_.
+
+
+334.
+
+    Am I a wine-bibber? What if I am?
+    Gueber or infidel? Suppose I am?
+      Each sect miscalls me, but I heed them not,
+    I am my own, and, what I am, I am.
+
+334. C. L. N. A. I. J. _Zan i khud_ for _azan i khud_, «my own
+property.»
+
+
+335.
+
+    All my life long from drink I have not ceased,
+    And drink I will to-night on Kadr's feast;
+      And throw my arms about the wine-jar's neck,
+    And kiss its lip, and clasp it to my breast!
+
+335. C. L. N. A. I. J. _Kadr_ the night of power. Koran, xcvi. 1.
+
+
+336.
+
+    I know what is, and what is not, I know
+    The lore of things above, and things below;
+      But all this lore will cheerfully renounce,
+    If one a higher grade than drink can show.
+
+336. L. N. B. Line 1, Being and Not-being, «Grade,» _i.e._, of learning.
+
+
+337.
+
+    Though I drink wine, I am no libertine,
+    Nor am I grasping, save of cups of wine;
+      I scruple to adore myself, like you;
+    For this cause to wine-worship I incline.
+
+337. C. L. N. A. I. J. A hit at the vain and covetous Mollas. Also
+ascribed to Anwari.
+
+
+338.
+
+    To confidants like you I dare to say
+    What mankind really are--moulded of clay,
+      Affliction's clay, and kneaded in distress,
+    They taste the world awhile, then pass away.
+
+338. C. L. N. A. I. J. Note the archaic form.
+
+
+339.
+
+    We make the wine-jar's lip our place of prayer,
+    And drink in lessons of true manhood there,
+      And pass our lives in taverns, if perchance
+    The time mis-spent in mosques we may repair.
+
+339. L. N. This quatrain is probably Mystical.
+
+
+340.
+
+    Man is the whole creation's summary,
+    The precious apple of great wisdom's eye;
+      The circle of existence is a ring,
+    Whereof the signet is humanity.
+
+340. C. L. N. A. I. Man is the microcosm. See _Gulshan i Raz_, p. 15.
+«The captain jewel of the carcanet.»
+
+
+341.
+
+    With fancies, as with wine, our heads we turn,
+    Aspire to heaven, and earth's low trammels spurn;
+      But, when we drop this fleshly clog, 'tis seen
+    From dust we came, and back to dust return.
+
+341. L. N.
+
+
+342.
+
+    If so it be that I did break the fast,
+    Think not I meant it; no! I thought 'twas past;--
+      That day more weary than a sleepless night,--
+    And blesséd breakfast-time had come at last!
+
+342. L. N. _Roza khwardan_, «to avoid fasting.» In line 2, for
+_bekhabar_ read _bakhabar_.
+
+
+343.
+
+    I never drank of joy's sweet cordial,
+    But grief's fell hand infused a drop of gall;
+      Nor dipped my bread in pleasure's piquant salt,
+    But briny sorrow made me smart withal!
+
+343. C. L. N. A. I. Line 4, literally, «eat a roast of my own liver.»
+
+
+344.
+
+    At dawn to tavern haunts I wend my way,
+    And with distraught Kalendars pass the day;
+      O Thou! who know'st things secret, and things known,
+    Grant me Thy grace, that I may learn to pray!
+
+344. C. L. N. A. I. J. _Khafiyyat_ means «manifest,» as well as
+«concealed.» Lucknow commentator.
+
+
+345.
+
+    The world's annoys I rate not at one grain,
+    So I eat once a day I don't complain;
+      And, since earth's kitchen yields no solid food,
+    I pester no man with petitions vain.
+
+345. C. L. N. A. I. J. In line 3 the _Alif_ in _az_ is not treated as an
+_Alif i wasl_. Bl., Pros. 10.
+
+
+346.
+
+    Never from worldly toils have I been free,
+    Never for one short moment glad to be!
+      I served a long apprenticeship to fate,
+    But yet of fortune gained no mastery.
+
+346. C. L. N. A. I. J. _Ek dam zadan_, «For one moment.»
+
+
+347.
+
+    One hand with Koran, one with wine-cup dight,
+    I half incline to wrong, and half to right;
+      The azure-marbled sky looks down on me
+    A sorry Moslem, yet not heathen quite.
+
+347. C. L. N. A. I. J. Khayyam here describes himself as _akrates_
+rather than _akolastos_, «_Video meliora proboque_,» etc.
+
+
+348.
+
+    Khayyam's respects to Mustafa convey,
+    And with due reverence ask him to say,
+      Why it has pleased him to forbid pure wine,
+    When he allows his people acid whey?
+
+348 and 349. L. These two quatrains are also found in Whalley's
+Morababad edition. _Mustafa_, _i.e._, Muhammad. So Avicenna. See Renan,
+Averroes, 171.
+
+
+349.
+
+    Tell Khayyam, for a master of the schools,
+    He strangely misinterprets my plain rules:
+      Where have I said that wine is wrong for all?
+    'Tis lawful for the wise, but not for fools.
+
+
+350.
+
+    My critics call me a philosopher,
+    But Allah knows full well they greatly err;
+      I know not even what I am, much less
+    Why on this earth I am a sojourner!
+
+350. C. L. A. I. J. Filsafat meant the Greek philosophy as cultivated by
+Persian rationalists, in opposition to theology. Renan, Averroes, p. 91.
+
+
+351.
+
+    The more I die to self, I live the more,
+    The more abase myself, the higher soar;
+      And, strange! the more I drink of Being's wine,
+    More sane I grow and sober than before.
+
+351. L. Clearly Mystical.
+
+
+352.
+
+    Quoth rose, «I am the Yusuf flower, I swear,
+    For in my mouth rich golden gems I bear»:
+      I said, «Show me another proof.» Quoth she,
+    «Behold this blood-stained vesture that I wear!»
+
+352. B. L. Yusuf is the type of manly beauty. The yellow stamens are
+compared to his teeth. So Jami, in _Yusuf wa Zulaikha_.
+
+
+353.
+
+    I studied with the masters long ago,
+    And long ago did master all they know;
+      Here now the end and issue of it all,
+    From earth I came, and like the wind I go!
+
+353. L. B. Mr. Fitzgerald compares the dying exclamation of Nizam
+ul-Mulk, «I am going in the hands of the wind!» _Mantik ut Tair_, 1.
+4620.
+
+
+354.
+
+    Death finds us soiled, though we were pure at birth,
+    With grief we go, although we came with mirth;
+      Watered with tears, and burned with fires of woe,
+    And, casting life to winds, we rest in earth!
+
+354. C. L. A. I. J.
+
+
+355.
+
+    To find great Jamshid's world-reflecting bowl
+    I compassed sea and land, and viewed the whole;
+      But, when I asked the wary sage, I learned
+    That bowl was my own body, and my soul!
+
+355. L. King Jamshid's cup, which reflected the whole world, is the Holy
+Grail of Persian poetry. Meaning «man is the microcosm.» See note on No.
+340. In line 2 scan _naghnudem_.
+
+
+356.
+
+    Me, cruel Queen! you love to captivate,
+    And from a knight to a poor pawn translate,
+      You marshal all your force to tire me out,
+    You take my rooks with yours, and then checkmate!
+
+356. C. L. A. I. J. The pun on _rukh_, «cheek,» and _rukh_, «castle,» is
+untranslatable.
+
+
+357.
+
+    If Allah wills me not to will aright,
+    How can I frame my will to will aright?
+      Each single act I will must needs be wrong,
+    Since none but He has power to will aright.
+
+357. C. L. A. I. J.
+
+
+358.
+
+    «For once, while roses are in bloom,» I said,
+    «I'll break the law, and please myself instead,
+      With blooming youths, and maidens' tulip cheeks
+    The plain shall blossom like a tulip-bed.»
+
+358. L. N. _Rozi_, _ya i batni_, or _tankir_ (?).
+
+
+359.
+
+    Think not I am existent of myself,
+    Or walk this blood-stained pathway of myself;
+      This being is not I, it is of Him.
+    Pray what, and where, and whence is this «myself»?
+
+359. C. L. A. I. J. In line 3 I omit _wa_ after _Lu bud_. Meaning, Man's
+real existence is not of himself, but of the «Truth,» the universal
+_Noumenon_.
+
+
+360.
+
+    Endure this world without my wine I cannot!
+    Drag on life's load without my cups I cannot!
+      I am the slave of that sweet moment, when
+    They say, «Take one more goblet,» and I cannot!
+
+360. C. L. N. A. I. J.
+
+
+361.
+
+    You, who both day and night the world pursue,
+    And thoughts of that dread day of doom eschew,
+      Bethink you of your latter end; be sure
+    As time has treated others, so 'twill you!
+
+361. C. L. N. A. I.
+
+
+362.
+
+    O man, who art creation's summary,
+    Getting and spending too much trouble thee!
+      Arise, and quaff the Etern Cupbearer's wine,
+    And so from troubles of both worlds be free!
+
+362. C. L. N. A. I. J. So Wordsworth, «The world is too much with us,»
+etc. The Sufis rejected _talab ud dunya_, «worldliness,» and _talab nl
+ukharat_, «other-worldliness,» for _talab nl maula_, «disinterested
+godliness.» So Madame Guyon taught «Holy Indifference.»
+
+
+363.
+
+    In this eternally revolving zone,
+    Two lucky species of men are known;
+      One knows all good and ill that are on earth,
+    One neither earth's affairs, nor yet his own.
+
+363. C. L. N. A. I. J. _Taman_, «entirely.» The two classes seem to be
+practical men and mystics.
+
+
+364.
+
+    Make light to me the world's oppressive weight,
+    And hide my failings from the people's hate,
+      And grant me peace to-day, and on the morrow
+    Deal with me as Thy mercy may dictate!
+
+364. C. L. N A. I. J. In line 4 scan _anchaz_.
+
+
+365.
+
+    Souls that are well informed of this world's state,
+    Its weal and woe with equal mind await:
+      For, be it weal we meet, or be it woe,
+    The weal doth pass, and woe too hath its date.
+
+365. C. L. N. A. B. I. J. 'Twill all be one a hundred years hence.
+
+
+366.
+
+    Lament not fortune's want of constancy,
+    But up! and seize her favours ere they flee;
+      If fortune always cleaved to other men,
+    How could a turn of luck have come to thee?
+
+366. C. L. N. A. I. J. This was a saying of Kisra Parviz to his Sultana.
+Bicknell's Hafiz, p. 73.
+
+
+367.
+
+    Chief of old friends! hearken to what I say,
+    Let not heaven's treacherous wheel your heart dismay;
+      But rest contented in your humble nook,
+    And watch the games that wheel is wont to play.
+
+367. C. L. N. A. I. J.
+
+
+368.
+
+    Hear now Khayyam's advice, and bear in mind,
+    Consort with revellers, though they be maligned,
+      Cast down the gates of abstinence and prayer,
+    Yea, drink, and even rob, but, oh! be kind!
+
+368. C. L. N. A. B. I. J. A rather violent extension of the doctrine,
+Mercy is better than sacrifice.
+
+
+369.
+
+    This world a body is, and God its soul,
+    And angels are its senses, who control
+      Its limbs--the creatures, elements, and spheres;
+    The ONE is the sole basis of the whole.
+
+369. L. N. So Pope, «All are but parts,» etc.
+
+
+370.
+
+    Last night that idol who enchants my heart,
+    With true desire to elevate my heart,
+      Gave me his cup to drink; when I refused,
+    He said, «Oh, drink to gratify my heart!»
+
+370. N.
+
+
+371.
+
+    Would'st thou have fortune bow her neck to thee,
+    Make it thy care to feed thy soul with glee;
+      And hold a creed like mine, which is to drain
+    The cup of wine, not that of misery.
+
+371. So the Ecclesiast, «There is nothing better for a man than that he
+should eat, and drink, and make his soul enjoy good in his labour.»
+
+
+372.
+
+    Though you survey O my enlightened friend,
+    This world of vanity from end to end,
+      You will discover there no other good
+    Than wine and rosy cheeks, you may depend!
+
+372. N. Note _izafat_ dropped after _sahib_. Bl., Prosody, p. 14.
+
+
+373.
+
+    Last night upon the river bank we lay,
+    I with my wine-cup, and a maiden gay,
+      So bright it shone, like pearl within its shell,
+    The watchman cried, «Behold the break of day!»
+
+373. N. _Nigare_. Here _ya_ may be _ya i tankir_, the _izafat_ being
+dispensed with (Lumsden, ii. 269) [?], or perhaps _ya i tausifi_ before
+the «sifat» _marvzum_.
+
+
+374.
+
+    Have you no shame for all the sins you do,
+    Sins of omission and commission too?
+      Suppose you gain the world, you can but leave it,
+    You cannot carry it away with you!
+
+374. C. L. N. A. I. J.
+
+
+375.
+
+    In a lone waste I saw a debauchee,
+    He had no home, no faith, no heresy,
+      No God, no truth, no law, no certitude;
+    Where in this world is man so bold as he?
+
+375. L. N. A _beshara'_ or antinomian Sufi.
+
+
+376.
+
+    Some look for truth in creeds, and forms, and rules;
+    Some grope for doubts or dogmas in the schools;
+      But from behind the veil a voice proclaims,
+    «Your road lies neither here nor there, O fools.»
+
+376. C. L. N. A. I. Truth, hidden from theologians and philosophers, is
+revealed to mystics. See _Gulshan i Raz_, p. 11.
+
+
+377.
+
+    In heaven is seen the bull we name Parwin,
+    Beneath the earth another lurks unseen;
+      And thus to wisdom's eyes mankind appear
+    A drove of asses, two great bulls between!
+
+377. L. N. The bulls are the constellation Taurus, and that which
+supports the earth.
+
+
+378.
+
+    The people say, «Why not drink somewhat less?
+    What reasons have you for such great excess?»
+      First, my Love's face, second, my morning draught;
+    Can there be clearer reasons, now confess?
+
+378. C. L. N. A. I. J.
+
+
+379.
+
+    Had I the power great Allah to advise,
+    I'd bid him sweep away this earth and skies,
+      And build a better, where, unclogged and free,
+    The clear soul might achieve her high emprise.
+
+379. C. L. N. A. I. J. This recalls the celebrated speech of Alphonso
+X., king of Castile.
+
+
+380.
+
+    This silly sorrow-laden heart of mine
+    Is ever pining for that Love of mine;
+      When the Cupbearer poured the wine of love,
+    With my heart's blood he filled this cup of mine!
+
+380. C. L. N. A. I. Meaning, «the wine of life, or existence, poured by
+the Deity into all beings at creation.» See _Gulshan i Raz_, p. 80.
+
+
+381.
+
+    To drain the cup, to hover round the fair,
+    Can hypocritic arts with these compare?
+      If all who love and drink are going wrong,
+    There's many a wight of heaven may well despair!
+
+381. L. N. B.
+
+
+382.
+
+    'Tis wrong with gloomy thoughts your mirth to drown,--
+    To let grief's millstone weigh your spirits down;
+      Since none can tell what is to be, 'tis best
+    With wine and love your heart's desires to crown.
+
+382. C. L. N. A. B. I. J.
+
+
+383.
+
+    'Tis well in reputation to abide,
+    'Tis shameful against heaven to rail and chide;
+      Still, head had better ache with over drink,
+    Than be puffed up with Pharisaic pride!
+
+383. C. L. N. A. I. J. Compare «Tartufe,» i. 6.
+
+
+384.
+
+    O Lord! pity this prisoned heart, I pray,
+    Pity this bosom stricken with dismay!
+      Pardon these hands that ever grasp the cup,
+    These feet that to the tavern ever stray!
+
+384. N.
+
+
+385.
+
+    O Lord! from self-conceit deliver me,
+    Sever from self, and occupy with Thee!
+      This self is captive to earth's good and ill,
+    Make me beside myself, and set me free!
+
+385. C. L. N. A. I. J. A Mystic's prayer.
+
+
+386.
+
+    Behold the tricks this wheeling dome doth play,
+    And earth laid bare of old friends torn away!
+      O live this present moment, which is thine,
+    Seek not a morrow, mourn not yesterday!
+
+386. L. B. An odd expression.
+
+
+387.
+
+    Since all man's business in this world of woe
+    Is sorrow's pangs to feel, and grief to know,
+      Happy are they that never come at all,
+    And they that, having come, the soonest go!
+
+387. C. L. A. B. I. J. Compare the chorus in the «Oedipus Coloneus.»
+
+
+388.
+
+    By reason's dictates it is right to live,
+    But of ourselves we know not how to live,
+      So Fortune, like a master, rod in hand,
+    Raps our pates well to teach us how to live!
+
+388. L. Fortune's buffets.
+
+
+389.
+
+    Nor you nor I can read the etern decree,
+    To that enigma we can find no key;
+      They talk of you and me _behind_ the veil,
+    But, if that veil be lifted, where are _we_?
+
+389. C. L. A. I. J. Meaning, We are part of the «veil» of phenomena,
+which hides the Divine Noumenon. If that be swept away what becomes of
+us?
+
+
+390.
+
+    O Love, for ever doth heaven's wheel design
+    To take away thy precious life, and mine;
+      Sit we upon this turf, 'twill not be long
+    Ere turf shall grow upon my dust, and thine!
+
+390. L. N. B.
+
+
+391.
+
+    When life has fled, and we rest in the tomb,
+    They'll place a pair of bricks to mark our tomb;
+      And, a while after, mould our dust to bricks,
+    To furnish forth some other person's tomb!
+
+391. L. N. A. I.
+
+
+392.
+
+    Yon palace, towering to the welkin blue,
+    Where kings did bow them down, and homage do,
+      I saw a ringdove on its arches perched,
+    And thus she made complaint, «Coo, Coo, Coo, Coo!»
+
+392. C. L. N. A. I. J. Mr. Binning found this quatrain inscribed on the
+ruins of Persepolis--Fitzgerald. Coo (_Ku_) means «Where are they?»
+
+
+393.
+
+    We come and go, but for the gain, where is it?
+    And spin life's woof, but for the warp, where is it?
+      And many a righteous man has burned to dust
+    In heaven's blue rondure, but their smoke, where is it?
+
+393. C. L. N. A. B. I. J. So Ecclesiastes, «There is no remembrance of
+the wise, more than of the fool.» «Smoke,» _i.e._, trace.
+
+
+394.
+
+    Life's well-spring lurks within that lip of thine!
+    Let not the cup's lip touch that lip of thine!
+      Beshrew me, if I fail to drink his blood,
+    For who is he, to touch that lip of thine?
+
+394. C. L. N. A. I. J. To a sweetheart.
+
+
+395.
+
+    Such as I am, Thy power created me,
+    Thy care hath kept me for a century!
+      Through all these years I make experiment,
+    If my sins or Thy mercy greater be.
+
+395. C. L. N. A. I. J. God's long-suffering.
+
+
+396.
+
+    «Take up thy cup and goblet, Love,» I said,
+    «Haunt purling river bank, and grassy glade;
+      Full many a moon-like form has heaven's weel
+    Oft into cup, oft into goblet, made!»
+
+396. C. L. N. A. B. I. J.
+
+
+397.
+
+    We buy new wine and old, our cups to fill,
+    And sell for two grains this world's good and ill;
+      Know you where you will go to after death?
+    Set wine before me, and go where you will!
+
+397. L. N. and J. give lines 1 and 2 differently.
+
+
+398.
+
+    Was e'er man born who never went astray?
+    Did ever mortal pass a sinless day?
+      If I do ill, do not requite with ill!
+    Evil for evil how can'st Thou repay?
+
+398. L. N. Line 3 and 4 are paraphrased somewhat freely.
+
+
+399.
+
+    Bring forth that ruby gem of Badakhshan,
+    That heart's delight, that balm of Turkistan;
+      They say 'tis wrong for Musulmen to drink,
+    But ah! where can we find a Musulman?
+
+399. C. L. N. A. I. J.
+
+
+400.
+
+    My body's life and strength proceed from Thee!
+    My soul within and spirit are of Thee!
+      My being is of Thee, and Thou art mine,
+    And I am Thine, since I am lost in Thee!
+
+400. L. «In him we live and move, and have our being.»
+
+
+401.
+
+    Man, like a ball, hither and thither goes,
+    As fate's resistless bat directs the blows;
+      But He, who gives thee up to this rude sport,
+    He knows what drives thee, yea, He knows, He knows!
+
+401. C. L. A. I. J. Line 4 is in metre 22, consisting of ten syllables,
+all long.
+
+
+402.
+
+    O Thou who givest sight to emmet's eyes,
+    And strength to puny limbs of feeble flies,
+      To Thee we will ascribe Almighty power,
+    And not base, unbecoming qualities.
+
+402. L. An echo of the Asharian's discussions on the Divine attributes.
+
+
+403.
+
+    Let not base avarice enslave thy mind,
+    Nor vain ambition in its trammels bind;
+      Be sharp as fire, as running water swift,
+    Not, like earth's dust, the sport of every wind!
+
+403. L. C. A. I. J.
+
+
+404.
+
+    'Tis best all other blessings to forego
+    For wine, that charming Turki maids bestow;
+      Kalendars' raptures pass all things that are,
+    From moon on high down into fish below!
+
+404. C. L. N. A. B. I. J. For _mah_ L. reads _hahk_ probably a Sufi
+gloss. Kalendars, bibulous Sufis. Fish, that whereon the earth was said
+to rest.
+
+
+405.
+
+    Friend! trouble not yourself about your lot,
+    Let futile care and sorrow be forgot;
+      Since this life's vesture crumbles into dust,
+    What matters stain of word or deed, or blot?
+
+405. L. N.
+
+
+406.
+
+    O thou who hast done ill, and ill alone,
+    And thinkest to find mercy at the throne,
+      Hope not for mercy! for good left undone
+    Cannot be done, nor evil done undone!
+
+406. N. A. I. This quatrain is by Abu Sa'id Abu'l Khair; and is an
+answer to No. 420, which is attributed to Avicenna.
+
+
+407.
+
+    Count not to live beyond your sixtieth year,
+    To walk in jovial courses persevere;
+      And ere your skull be turned into a cup,
+    Let wine-cups ever to your hand adhere!
+
+407. L. N. B.
+
+
+408.
+
+    These heavens resemble an inverted cup,
+    Whereto the wise with awe keep gazing up;
+      So stoops the bottle o'er his love, the cup,
+    Feigning to kiss, and gives her blood to sup!
+
+408. C. L. N. A. B. I. Blood, an emblem of hate.
+
+
+409.
+
+    I sweep the tavern threshold with my hair,
+    For both world's good and ill I take no care;
+      Should the two worlds roll to my house, like balls,
+    When drunk, for one small coin I'd sell the pair!
+
+409. L. N. B.
+
+
+410.
+
+    The drop wept for his severance from the sea,
+    But the sea smiled, for «I am all,» said he,
+      «The Truth is all, nothing exists beside,
+    That one point circling apes plurality.»
+
+410. N. This is in Ramal metre, No. 50. Compare _Gulshan i Raz_, line
+710.
+
+
+411.
+
+    Shall I still sigh for what I have not got,
+    Or try with cheerfulness to bear my lot?
+      Fill up my cup! I know not if the breath
+    I now am drawing is my last, or not!
+
+411. C. L. N. A. B. I. J. Some MSS. place this quatrain under _Radif
+ya_.
+
+
+412.
+
+    Yield not to grief, though fortune prove unkind,
+    Nor call sad thoughts of parted friends to mind;
+      Devote thy heart to sugary lips, and wine,
+    Cast not thy precious life unto the wind!
+
+412. L. N. B.
+
+
+413.
+
+    Of mosque and prayer and fast preach not to me,
+    Rather go drink, were it on charity!
+     Yea, drink, Khayyam, your dust will soon be made
+    A jug, or pitcher, or a cup, may be!
+
+413. N. «Imperial Cæsar, dead, and turned to clay Might stop a hole to
+keep the wind away.»
+
+
+414.
+
+    Bulbuls, doting on roses, oft complain
+    How forward breezes rend their veils in twain;
+      Sit we beneath this rose, which many a time
+    Has sunk to earth, and sprung from earth again.
+
+414. L. N. B. So Moschus on the mallows.
+
+
+415.
+
+    Suppose the world goes well with you, what then?
+    When life's last page is read and turned, what then?
+      Suppose you live a hundred years of bliss,
+    Yea, and a hundred years besides, what then?
+
+415. C. L. N A. I. J. See Vullers, p. 100.
+
+
+416.
+
+    How is it that of all the leafy tribe,
+    Cypress and lily men as «free» describe?
+      This has a dozen tongues, yet holds her peace,
+    That has a hundred hands which take no bribe.
+
+416. L. N. Sa'di in the _Gulistan_, Book viii., gives another
+explanation of this expression. «Tongues, stamens, and hands, branches.»
+
+
+417.
+
+    Cupbearer, bring my wine-cup, let me grasp it!
+    Bring that delicious darling, let me grasp it!
+      That pleasing chain which tangles in its coils
+    Wise men and fools together, let me grasp it!
+
+417. L. N. _Bipechand_ seems a plural of dignity.
+
+
+418.
+
+    Alas! my wasted life has gone to wrack!
+    What with forbidden meats, and lusts, alack!
+      And leaving undone what 'twas right to do,
+    And doing wrong, my face is very black!
+
+418. C. L. N. A. I. These whimsical outbursts of self-reproach in the
+midst of antinomian utterances are characteristic of Khayyam.
+
+
+419.
+
+    I could repent of all, but of wine, never!
+    I could dispense with all, but with wine, never!
+      If so be I became a Musulman,
+    Could I abjure my Magian wine? no, never!
+
+419. L. N. The Magians sold wine.
+
+
+420.
+
+    We rest our hopes on Thy free grace alone,
+    Nor seek by merits for our sins to atone;
+      Mercy drops where it lists, and estimates
+    Ill done as undone, good undone as done.
+
+420. L. N. A. I. This quatrain is also ascribed to the celebrated
+philosopher Avicenna. See No. 406.
+
+
+421.
+
+    This is the form Thou gavest me of old,
+    Wherein Thou workest marvels manifold;
+      Can I aspire to be a better man,
+    Or other than I issued from Thy mould?
+
+421. C. L. N. A. I. This is a variation of No. 221.
+
+
+422.
+
+    O Lord! to Thee all creatures worship pay,
+    To Thee both small and great for ever pray,
+      Thou takest woe away, and givest weal,
+    Give then, or, if it please Thee, take away!
+
+422. L. Scan _bandagita_, omitting _fatha_ before _te_. Vullers, p. 197.
+
+
+423.
+
+    With going to and fro in this sad vale
+    Thou art grown double, and thy credit stale,
+      Thy nails are thickened like a horse's hoof,
+    Thy beard is ragged as an ass's tail.
+
+423. C. L. A. I. J. A description of old age.
+
+
+424.
+
+    O unenlightened race of humankind,
+    Ye are a nothing, built on empty wind!
+      Yea, a mere nothing, hovering in the abyss,
+    A void before you, and a void behind!
+
+424. C. L. A. I. J. The technical name for existence between two
+non-existences is _Takwin_. Bl. _Ain i Akbari_, p. 198. Compare the term
+«_nunc stans_,» applied to Time by the Schoolmen.
+
+
+425.
+
+    Each morn I say, «To-night I will repent
+    Of wine, and tavern haunts no more frequent»;
+      But while 'tis spring, and roses are in bloom,
+    To loose me from my promise, O consent!
+
+425. C. L. A. I. J.
+
+
+426.
+
+    Vain study of philosophy eschew!
+    Rather let tangled curls attract your view;
+      And shed the bottle's life-blood in your cup,
+    Or e'er death shed your blood, and feast on you.
+
+426. C. L. N. A. B. I. J. _Bigorezi bi_, «better that you should
+eschew.»
+
+
+427.
+
+    O heart! can'st thou the darksome riddle read,
+    Where wisest men have failed, wilt thou succeed?
+      Quaff wine, and make thy heaven here below,
+    Who knows if heaven above will be thy meed?
+
+427. C. L. N. A. B. I. J.
+
+
+428.
+
+    They that have passed away, and gone before,
+    Sleep in delusion's dust for evermore;
+      Go, boy, and fetch some wine, this is the truth,
+    Their dogmas were but air, and wind their lore!
+
+428. C. L. N. A. B. I. J. So Ecclesiastes, «I gave my heart to know
+wisdom ... and perceived that this also is vanity.»
+
+
+429.
+
+    O heart! when on the Loved One's sweets you feed,
+    You lose yourself, but find your Self indeed;
+      And, when you drink of His entrancing cup,
+    You hasten your escape from quick and dead!
+
+429. C. L. N. A. I. J. Die to self, to live in God, your true self. See
+Max Müller, Hibbert Lectures, p. 375.
+
+
+430.
+
+    Though I am wont a wine-bibber to be,
+    Why should the people rail and chide at me?
+      Would that all evil actions made men drunk,
+    For then no sober people should I see!
+
+430. C. N. A. I. J.
+
+
+431.
+
+    Child of four elements and sevenfold heaven,
+    Who fume and sweat because of these eleven,
+      Drink! I have told you seventy times and seven,
+    Once gone, nor hell will send you back, nor heaven.
+
+431. C. L. N. A. I. J.
+
+
+432.
+
+    With many a snare Thou dost beset my way,
+    And threatenest, if I fall therein, to slay;
+      Thy rule resistless sways the world, yet Thou
+    Imputest sin, when I do but obey!
+
+432. B. N. Allah is the _Fa'il i hakiki_, the only real agent, according
+to the Sufi view, _Hukmi tu Kuni_, «Thou givest thy order.»
+
+
+433.
+
+    To Thee, whose essence baffles human thought,
+    Our sins and righteous deeds alike seem naught,
+      May Thy grace sober me, though drunk with sins,
+    And pardon all the ill that I have wrought!
+
+433. L. N.
+
+
+434.
+
+    If this life were indeed an empty play,
+    Each day would be an _'lid_ of festal day,
+      And men might conquer all their hearts' desire,
+    Fearless of after penalties to pay!
+
+434. N. N takes _taklid_ in the sense of «authority,» but I think it
+alludes to Koran, xxix. 64. See _Gulshan i Raz_, p. 50.
+
+
+435.
+
+    O wheel of heaven, you thwart my heart's desire,
+    And rend to shreds my scanty joy's attire,
+      The water that I drink you foul with earth,
+    And turn the very air I breathe to fire!
+
+435. C. L. N. A. I.
+
+
+436.
+
+    O soul! could you but doff this flesh and bone,
+    You'd soar a sprite about the heavenly throne;
+      Had you no shame to leave your starry home,
+    And dwell an alien on this earthly zone?
+
+436. C. L. N. B. A. I.
+
+
+437.
+
+    Ah, potter, stay thine hand' with ruthless art
+    Put not to such base use man's mortal part!
+      See, thou art mangling on thy cruel wheel
+    Faridun's fingers, and Kai Khosrau's heart!
+
+437. C. L. N. A. I. Faridun and Kai Khosrau were ancient kings of
+Persia. Kai Khosrau is usually identified with Cyrus.
+
+
+438.
+
+    O rose! all beauties' charms thou dost excel,
+    As wine excels the pearl within its shell;
+      O fortune! thou dost ever show thyself
+    More strange, although I seem to know thee well!
+
+438. N. _Mimani_, You resemble.
+
+
+439.
+
+    From this world's kitchen crave not to obtain
+    Those dainties, seeming real, but really vain,
+      Which greedy worldlings gorge to their own loss;
+    Renounce that loss, so loss shall prove thy gain!
+
+439. L. N. B.
+
+
+440.
+
+    Plot not of nights, thy fellows' peace to blight,
+    So that they cry to God the live-long night;
+      Nor plume thee on thy wealth and might, which thieves
+    May steal by night, or death, or fortune's might.
+
+440. N. _Ta bar nikashand_, «Let us abstain from oppressing people, so
+that they may not heave a sigh, saying, O Lord.»
+
+
+441.
+
+    This soul of mine was once Thy cherished bride,
+    What caused Thee to divorce her from Thy side?
+      Thou didst not use to treat her thus of yore,
+    Why then now doom her in the world to abide?
+
+441. L. N.
+
+
+442.
+
+    Ah! would there were a place of rest from pain,
+    Which we, poor pilgrims, might at last attain,
+      And after many thousand wintry years,
+    Renew our life, like flowers, and bloom again!
+
+442. C. N. A. I. J.
+
+
+443.
+
+    While in love's book I sought an augury;
+    An ardent youth cried out in ecstasy,
+      «Who owns a sweetheart beauteous as the moon,
+    Might wish his moments long as years to be!»
+
+443. C. L. N. A. I. Compare the «_sortes Virgilianæ._» Line 4 is freely
+paraphrased.
+
+
+444.
+
+    Winter is past, and spring-tide has begun,
+    Soon will the pages of life's book be done!
+      Well saith the sage, «Life is a poison rank,
+    And antidote, save grape-juice, there is none.»
+
+444. C. L. N. A. I. J.
+
+
+445.
+
+    Beloved, if thou a reverend Molla be,
+    Quit saintly show, and feigned austerity,
+      And quaff the wine that Murtaza purveys,
+    And sport with Houris 'neath some shady tree!
+
+445. N. Note the change from the imperative to the aorist. In line 4
+scan _Murtazasha_. _Murtaza_ (Ali) is the celestial cupbearer.
+
+
+446.
+
+    Last night I dashed my cup against a stone,
+    In a mad drunken freak, as I must own,
+      And lo! the cup cries out in agony,
+    «You too, like me, shall soon be overthrown.»
+
+446. C. L. N. A. B. I. _Saboyiy, ya i batni_, joined to the noun by
+euphonic or conjunctive _ya_.
+
+
+447.
+
+    My heart is weary of hypocrisy,
+    Cupbearer, bring some wine, I beg of thee!
+      This hooded cowl and prayer-mat pawn for wine,
+    Then will I boast me in security.
+
+447. N.
+
+
+448.
+
+    Audit yourself, your truce account to frame,
+    See! you go empty, as you empty came;
+      You say, «I will not drink and peril life,»
+    But, drink or no, you must die all the same!
+
+448. C. L. N. A. I.
+
+
+449.
+
+    Open the door! O entrance who procurest,
+    And guide the way, O Thou of guides the surest!
+      Directors born of men shall not direct me,
+    Their counsel comes to naught, but Thou endurest!
+
+
+450.
+
+    In slandering and reviling you persist,
+    Calling me infidel and atheist:
+      My errors I will not deny, but yet
+    Does foul abuse become a moralist?
+
+450. C. L. N. A. I. In line 1 scan _goyi-yaz_, Bl., Prosody, p. 10. The
+_tashdid_ of _mukin_ is dropped.
+
+
+451.
+
+    To find a remedy, put up with pain,
+    Chafe not at woe, and healing thou wilt gain;
+      Though poor, be ever of a thankful mind,
+    'Tis the sure method riches to obtain.
+
+451. L. N. _Dawayiy_. The first _ya_ is the conjunctive _ya_ (Vullers,
+p. 16), the second _ya i tankir_.
+
+
+452.
+
+    Give me a skin of wine, a crust of bread
+    A pittance bare, a book of verse to read;
+      With thee, O love, to share my lowly roof,
+    I would not take the Sultan's realm instead!
+
+452. N. B. _Tange_, the _izafat_ is displaced by _ya i tankir_,
+according to Lumsden, ii. 269.
+
+
+453.
+
+    Reason not of the five, nor of the four,
+    Be their dark problems one, or many score;
+      We are but earth, go, minstrel, bring the lute,
+    We are but air, bring wine, I ask no more!
+
+453. N. C. L. A. I. J. give only the first line of this. Five senses,
+four elements.
+
+
+454.
+
+    Why argue on Yasin and on Barat?
+    Write me the draft for wine they call Barat!
+      The day my weariness is drowned in wine
+    Will seem to me as the great night Barat!
+
+454. C. L. N. A. I. J. _Yasin_ is the 64th, and Barat the 9th, chapter
+of the Koran. _Barat_, the «night of power.»
+
+
+455.
+
+    Whilst thou dost wear this fleshy livery,
+    Step not beyond the bounds of destiny;
+      Bear up, though very Rustums be thy foes,
+    And crave no boon from friends like Hatim Tai!
+
+455. C. L. N. A. I. J.
+
+
+456.
+
+    These ruby lips, and wine, and minstrel boys,
+    And lute, and harp, your dearly cherished toys,
+      Are mere redundancies, and you are naught,
+    Till you renounce the world's delusive joys.
+
+456. L. N. _Hashw_, mere «stuffing,» leather and prunella.
+
+
+457.
+
+    Bow down, heaven's tyranny to undergo,
+    Quaff wine to face the world, and all its woe;
+      Your origin and end are both in earth,
+    But now you are _above_ earth, not _below_!
+
+457. C. L. N. A. I. J.
+
+
+458.
+
+    You know all secrets of this earthly sphere,
+    Why then remain a prey to empty fear?
+      You cannot bend things to your will, but yet
+    Cheer up for the few moments you are here!
+
+458. C. L. N. A. I. J. Scan _chim wakifiyay_.
+
+
+459.
+
+    Behold, where'er we turn our ravished eyes,
+    Sweet verdure springs, and crystal Kausars rise;
+      And plains, once bare as hell, now smile as heaven:
+    Enjoy this heaven with maids of Paradise!
+
+459. C. L. N. A. B. I. J.
+
+
+460.
+
+    Never in this false world on friends rely
+    (I give this counsel confidentially),
+      Put up with pain, and seek no antidote,
+    Endure your grief, and ask no sympathy!
+
+460. N.
+
+
+461.
+
+    Of wisdom's dictates two are principal,
+    Surpassing all your lore traditional;
+      Better to fast than eat of every meat,
+    Better to live alone than mate with all!
+
+461. N. _Hadis i na goyayiy._ The unwritten revelations, or traditions,
+opposed to _Qur'an_ (Koran), the «reading.» So _sruti_ is opposed to
+_smriti_.
+
+
+462.
+
+    Why unripe grapes are sharp, prithee explain,
+    And then grow sweet, while wine is sharp again?
+      When one has carved a block into a lute,
+    Can he from that same block a pipe obtain?
+
+462. L. N.
+
+
+463.
+
+    When dawn doth silver the dark firmament,
+    Why shrills the bird of dawning his lament?
+      It is to show in dawn's bright looking-glass
+    How of thy careless life a night is spent.
+
+463. C. L. N. A. I. J. So Job, «Hast spread the sky as a molten
+looking-glass.»
+
+
+464.
+
+    Cupbearer, come! from thy full-throated ewer
+    Pour blood-red wine, the world's despite to cure!
+      Where can I find another friend like wine,
+    So genuine, so solacing, so pure?
+
+464. C. L. N. A. I. J.
+
+
+465.
+
+    Though you should sit in sage Aristo's room,
+    Or rival Cæsar on his throne of Rum,
+      Drain Jemshid's goblet, for your end's the tomb,
+    Yea, were you Bahram's self, your end's the tomb!
+
+465. N. _Jamhur_, a name of Buzurjimihr, _Wazir_ of Nushirwan.
+_Faghfur_, the Chinese emperor.
+
+
+466.
+
+    It chanced into a potter's shop I strayed,
+    He turned his wheel and deftly plied his trade,
+      And out of monarchs' heads, and beggars' feet,
+    Fair heads and handles for his pitchers made!
+
+466. C. N. L. A. I. J. _Paya_, «the treadle.»
+
+
+467.
+
+    If you have sense, true senselessness attain,
+    And the Etern Cupbearer's goblet drain,
+      If not, true senselessness is not for you,
+    Not every fool true senselessness can gain!
+
+467. L. N. Meaning, the «truly Mystical darkness of ignorance.» See
+_Gulshan i Raz_, p. 13.
+
+
+468.
+
+    O Love! before you pass death's portal through,
+    And potters make their jugs of me and you,
+      Pour from this jug some wine, of headache void,
+    And fill your cup, and fill my goblet too!
+
+468. C. L. N. A. I. J. Headache, in allusion to the wine of Paradise,
+Koran, lvi. 17.
+
+
+469.
+
+    O Love! while yet you can, with tender art,
+    Lift sorrow's burden from your lover's heart;
+      Your wealth of graces will not always last,
+    But slip from your possession, and depart!
+
+469. C. L. N. A. I. J. Some MSS. read _zinhar_ for _zihar_, either will
+scan.
+
+
+470.
+
+    Bestir thee, ere death's cup for thee shall flow,
+    And blows of ruthless fortune lay thee low;
+      Acquire some substance _here_, there is none _there_,
+    For those who thither empty-handed go!
+
+470. L. N. Line 2 is in metre 4. Meaning, «Work while it is day.»
+
+
+471.
+
+    Who framed the lots of quick and dead but Thou?
+    Who turns the troublous wheel of heaven but Thou?
+      Though we are sinful slaves, is it for Thee
+    To blame us? Who created us but Thou?
+
+471. L. N. A. I.
+
+
+472.
+
+    O wine, most limpid, pure, and crystalline,
+    Would I could drench this silly frame of mine
+      With thee, that passers by might think 'twas thou,
+    And cry, «Whence comest thou, fair master wine?»
+
+472. L. N.
+
+
+473.
+
+    A Shaikh beheld a harlot, and quoth he,
+    «You seem a slave to drink and lechery»;
+      And she made answer, «What I seem I am,
+    But, Master, are you all you seem to be?»
+
+473. L. N. The technical name of quatrains like this is _suwal o jawab_,
+or _muraja'at_. Gladwin, Persian Rhetoric, p. 40.
+
+
+474.
+
+    If, like a ball, earth to my house were borne,
+    When drunk, I'd rate it at a barley-corn;
+      Last night they offered me in pawn for wine,
+    But the rude vintner laughed that pledge to scorn.
+
+474. C. L. N. A. I. J. Note the _yas i tankir_ in _Kuye_, _juye_, and
+_giraye_.
+
+
+475.
+
+    Now in thick clouds Thy face Thou dost immerse,
+    And now display it in this universe;
+      Thou the spectator, Thou the spectacle,
+    Sole to Thyself Thy glories dost rehearse.
+
+475. C. L. N. A. I. J. Compare the Vulgate, «_ludens in orbe terrarum_,»
+and _Gulshan i Raz_, p. 14.
+
+
+476.
+
+    Better to make one soul rejoice with glee,
+    Than plant a desert with a colony;
+      Rather one freeman bind with chains of love,
+    Than set a thousand prisoned captives free!
+
+476. L.N.
+
+
+477.
+
+    O thou who for thy pleasure dost impart
+    A pang of sorrow to thy fellow's heart,
+      Go! mourn thy perished wit, and peace of mind,
+    Thyself hast slain them, like the fool thou art!
+
+477. C. L. N A. I. J.
+
+
+478.
+
+    Wherever you can get two maunds of wine,
+    Set to, and drink it like a libertine;
+      Whoso acts thus will set his spirit free
+    From saintly airs like yours, and grief like mine.
+
+478. C. L. N. A. B. I. J. _Chu mane_, «of one like me.» So in No. 170
+(the note which is wrong). Vullers, p. 254. Literally, «mustaches and
+beards.»
+
+479.
+
+    So long as I possess two maunds of wine,
+    Bread of the flower of wheat, and mutton chine,
+      And you, O Tulip cheek, to share my hut,
+    Not every Sultan's lot can vie with mine.
+
+479. C. L. N. A. B. I.
+
+
+480.
+
+    They call you wicked, if to fame you're known,
+    And an intriguer, if you live alone,
+      Trust me, though you were Khizr or Elias,
+    'Tis best to know none, and of none be known.
+
+480. C. N. I.
+
+
+481.
+
+    Yes! here am I with wine and feres again!
+    I did repent, but, ah! 'twas all in vain;
+      Preach not to me of Noah and his flood,
+    But pour a flood of wine to drown my pain!
+
+481. C. L. N. A. I. J. _Tauba i Nassuh_, a repentance not to be repented
+of. Nicolas. In line 2 note the _izafat_ dropped after silent _he_.
+
+
+482.
+
+    For union with my love I sigh in vain,
+    The pangs of absence I can scarce sustain,
+      My grief I dare not tell to any friend;
+    O trouble strange, sweet passion, bitter pain!
+
+482. N. These quatrains are called _firakiya_, and are rare in Khayyam.
+
+
+483.
+
+    'Tis dawn! I hear the loud Muezzin's call,
+    And here am I before the vintner's hall;
+      This is no time of piety. Be still!
+    And drop your talk and airs devotional!
+
+483. C. L. N. A. I. J.
+
+
+484.
+
+    Angel of joyful foot! the dawn is nigh;
+    Pour wine, and lift your tuneful voice on high,
+      Sing how Jemshids and Khosraus bit the dust,
+    Whelmed by the rolling months, from Tir to Dai!
+
+484. C. L. N. A. I. _Tir_ and _Dai_, April and December.
+
+
+485.
+
+    Frown not at revellers, I beg of thee,
+    For all thou keepest righteous company;
+      But drink, for, drink or no, 'tis all the same,
+    If doomed to hell, no heaven thou'lt ever see.
+
+485. C. L. N. A. I. J. Koran, xvi. 38: «Some of them there were, whom
+Allah guided, and there were others doomed to err.»
+
+
+486.
+
+    I wish that Allah would rebuild these skies,
+    And earth, and that at once, before my eyes,
+      And either raze my name from off his roll,
+    Or else relieve my dire necessities!
+
+486. N. This rather sins against Horace's canon, «_Nec Deus intersit_,»
+etc.
+
+
+487.
+
+    Lord! make thy bounty's cup for me to flow,
+    And bread unbegged for day by day bestow;
+      Yea, with thy wine make me beside myself.
+    No more to feel the headache of my woe!
+
+487. C. L. N. A. I. J.
+
+
+488.
+
+    Omar! of burning heart, perchance to burn
+    In hell, and feed its bale-fires in thy turn,
+      Presume not to teach Allah clemency,
+    For who art thou to teach, or He to learn?
+
+488. C. L. N. A. I. J. The Persian preface states that, after his death,
+Omar appeared to his mother in a dream, and repeated this quatrain to
+her. For the last line I am indebted to Mr. Fitzgerald.
+
+
+489.
+
+    Cheer up! your lot was settled yesterday!
+    Heedless of all that you might do or say,
+      Without so much as «By your leave» they fixed
+    Your lot for all the morrows yesterday!
+
+489. C. L. A. B. I. Predestination.
+
+
+490.
+
+    I never would have come, had I been asked,
+    I would as lief not go, if I were asked,
+      And, to be short, I would annihilate
+    All coming, being, going, were I asked!
+
+490. C. L. N. (in part) A. B. I. J. So the Ecclesiast, «Therefore I
+hated life,» etc.
+
+
+491.
+
+    Man is a cup, his soul the wine therein,
+    Flesh is a pipe, spirit the voice within;
+      O Khayyam, have you fathomed what man is?
+    A magic lantern with a light therein!
+
+
+492.
+
+    O skyey wheel, all base men you supply
+    With baths, mills, and canals that run not dry,
+      While good men have to pawn their goods for bread:
+    Pray, who would give a fig for such a sky?
+
+492. B. L. In line 3 I read _nih and_ for _nihand_, which will not scan.
+Line 4 is slightly paraphrased.
+
+
+493.
+
+    A potter at his work I chanced to see,
+    Pounding some earth and shreds of pottery;
+      I looked with eyes of insight, and methought
+    'Twas Adam's dust with which he made so free!
+
+493. C. L. A. I. J. Note the arrangement of the prepositions _bar_ . .
+_bazer_. Bl., Prosody, xiii.
+
+
+494.
+
+    The Saki knows my _genus properly_,
+    To all woe's _species_ he holds a key,
+      Whene'er my _mood_ is sad, he brings me wine,
+    And that makes all the _difference_ to me!
+
+494. C. L. A. I. A play on terms of Logic.
+
+
+495.
+
+    Dame Fortune! all your acts and deeds confess
+    That you are foul oppression's votaress;
+      You cherish bad men, and annoy the good;
+    Is this from dotage, or sheer foolishness?
+
+495. C. L. A. I. J. _Mu'takif_, a devotee.
+
+
+496.
+
+    You, who in carnal lusts your time employ,
+    Wearing your precious spirit with annoy,
+      Know that these things you set your heart upon
+    Sooner or later must the soul destroy!
+
+
+497.
+
+    Hear from the spirit world this mystery:
+    Creation is summed up, O man, in thee;
+      Angel and demon, man and beast art thou,
+    Yea, thou _art_ all thou dost _appear_ to be!
+
+497. L. Man, the microcosm. Line 2 is one syllable short.
+
+
+498.
+
+    If popularity you would ensue,
+    Speak well of Moslem, Christian, and Jew;
+     So shall you be esteemed of great and small,
+    And none will venture to speak ill of you.
+
+498. L.
+
+
+499.
+
+    O wheel of heaven, what have I done to you,
+    That you should thus annoy me? Tell me true;
+      To get a drink I have to cringe and stoop,
+    And for my bread you make me beg and sue.
+
+499. L. _Abruy_, «honour.»
+
+
+500.
+
+    No longer hug your grief and vain despair,
+    But in this unjust world be just and fair;
+      And since the issue of the world is naught,
+    Think you are naught, and so shake off dull care!
+
+500. L. B. In line 3 scan _nesatiyast_.
+
+
+  THE
+
+  QUATRAINS OF OMAR KHAYYAM
+
+  TRANSLATED INTO PROSE FROM THE
+  FRENCH VERSION OF
+
+  MONSIEUR J.B. NICOLAS
+
+
+THE QUATRAINS OF KHAYYAM
+
+
+This grand old poet, who flourished in the 11th century and who brought
+into Khorasan the delights of the Court of the Seldjoukides, still, in
+our day, continues to charm with the pleasures of the palace of the
+Kadjars at Teheran. But the difficulty, on the one hand, of translating
+a writer so essentially abstract in his philosophic thought, so
+Mystically foreign in his figurative expressions (too often presented in
+the form of a repulsive materialism), and on the other, the
+embarrassment I could foresee in the correcting of proofs at so great a
+distance from Paris, and above all the feeling of my incapacity for
+undertaking so great a work, always prevented my publishing anything up
+to the present time.
+
+On my last journey to Paris, I met some friends eager for something new
+in the way of Oriental literature, among whom I am pleased to mention
+Madam Blanchecotte, moralist and poet, known through her many witty and
+impassioned publications. After having listened to the brief quotations
+which I was able to cite to them from the quatrains of the poet with
+whom we are now occupied, they so strongly urged me to publish a
+complete translation, and put so much emphasis on their demand and so
+much kindness in their offers of service, that I decided to conform to
+their desires in editing this work to-day.
+
+I should, however, still have considered it beyond my powers, without
+the co-operation of Hassan-Ali-Khan, minister plenipotentiary from
+Persia at the Court of the Tuileries, who put himself out to aid me with
+his profound erudition and valuable advice.
+
+The history of Khayyam, bound to that of two persons who played a great
+rôle in the annals of the country, is, I believe, of sufficient
+interest to warrant my telling it here as it has been transmitted to us
+by the Persian historians.
+
+Khayyam, born in a village situated near Nishapur, in Khorasan, went to
+complete his studies at the celebrated _medresseh_ of that city, towards
+the end of the year 1042 of the Christian era. Accounts tell us that
+this college had acquired at that time the reputation of producing
+pupils of rare distinction, from among whom men of talent and remarkable
+skill often sprung up and rapidly attained to the highest positions in
+the empire.
+
+Abdul-Kassem and Hassan-Sebbah, fellow-students with Khayyam, were the
+two comrades to whom he was especially attached, notwithstanding a
+divergence of character and opinion which would seem to indicate in him
+another choice. One day Khayyam asked his two friends, in a jesting
+manner, if a compact entered into among them, and based upon absolute
+necessity, for that one of the three whom Fortune most favored to come
+to the aid of the other two, heaping benefits upon them, would appear to
+them a childish thing. «No, no,» answered they, «the idea is excellent
+and we will adopt it with all eagerness.» Immediately the three friends
+clasped hands and vowed that when the time came they would be faithful
+to their agreement. This pact but stimulated the emulation of the three
+young people. They applied themselves to their studies with more ardor
+even than was demanded of them, since in accordance with the tradition
+of the college, the high places belong to those who merit them.
+
+Khayyam, of a sweet and modest nature, was rather given to the
+contemplation of divine things than to the pleasures of worldly life.
+This tendency and the kind of study he cultivated made of him a Mystic
+poet, a philosopher at once skeptical and fatalistic, a Sufi--in a word,
+what most Oriental poets are.
+
+Abdul-Kassem, on the contrary, ambitious and positive in the full
+acceptation of the word, anxious to come into power, applied himself
+principally to the study of the history of his country, which presented
+to him numerous examples of celebrated men who, by their merit and
+courage, had come into the highest offices, and where, besides, he found
+excellent lessons in all branches of administration. He became an
+illustrious statesman. As for Hassan-Sebbah, as ambitious as his
+fellow-student Abdul-Kassem, but less skilful, and more violent than he
+in the application of means, artful and jealous of the superiority of
+his comrades, he followed somewhere nearly the same studies, holding
+ever to the purpose of serving himself by the ruin of all those who
+dared to oppose his advancement in the career he had chosen. He also
+became celebrated, as will be shown farther on in this preface, through
+the cruelties he committed and the blood he spilled.
+
+Their studies ended, the three friends left college and separated to
+return to their own homes, where they remained a certain length of time
+without renown. Abdul-Kassem, however, was not long in making himself
+advantageously known at the Court of Alp-Arslan, the second king of the
+dynasty of the Seldjoukides, through divers writings on the subject of
+administration, and soon became the private secretary of that monarch,
+then under-secretary of State, and finally Prime Minister.
+
+Alp-Arslan, in putting this skilful administrator at the head of affairs
+in his empire, conferred upon him the honorary title of Nizam-el-Moulk,
+«Regulator of the Empire,» a title which, among the Persians, replaces
+the name of the person to whom it is granted. The historians of that
+time write in eulogy of this great man and, attributing to his virtues
+and his ability the success and prosperity of Alp-Arslan's reign, hold
+in profound admiration the discernment of that monarch, who knew how to
+attach to himself a minister endowed with so much skill in directing the
+affairs of his vast Principalities, which attained, under his
+administration, the highest degree of glory of which the Persian annals
+make mention.
+
+It was towards that epoch, where Nizam-el-Moulk (for henceforth it is by
+this title that we shall designate him) had arrived at the apogee of his
+power, that his two friends came to recall to him the contract
+concluded amongst them. «What do you demand of me?» he said to them.
+
+«I only ask,» responded Khayyam, «that I may enjoy the revenues of my
+native village. I am a Sufi and not ambitious; if you accede to my
+request, I could, under my paternal roof, far from the inseparable
+fetters of the things of this world, cultivate poesy, which delights my
+soul, and peaceably contemplate the works of the Creator, which is
+acceptable to my mind.»
+
+«As for me,» said Hassan-Sebbah, «I ask a place at Court.»
+
+The minister granted everything: the young poet returned to his village,
+of which he became chief, and Hassan-Sebbah took his place at Court,
+where, crafty courtier that he was, he was not long in getting into the
+good graces of the monarch. But, although he had already acquired the
+highest distinction possible, thanks to the effective aid of
+Nizam-el-Moulk, his envious and zealous mind could not accommodate
+itself to the kind of submission in which he found himself, face to face
+with his benefactor. He immediately went to work to overturn and
+supplant him.
+
+To this end, he commenced to insinuate to Alp-Arslan that the royal
+finances were not in good state, the minister having neglected the
+collecting of taxes, and not having rendered an account upon this
+important subject for three years. The Prince gave ear to these
+treacherous criticisms, and immediately Nizam-el-Moulk was sent for to
+Court, where Alp-Arslan asked him, in presence of all the great
+dignitaries, called together for this purpose, for a complete account of
+uncollected taxes and a definite statement of all finances of State.
+Nizam-el-Moulk excused himself as best he could for the delay of which
+his Majesty complained, on the ground of certain circumstances beyond
+his control, and promised to occupy himself seriously with the question,
+with the aim of being able to present a complete accounting in six
+months' time. The Prince appeared satisfied and allowed the minister to
+retire. But he had scarcely passed the sill of the palace door when
+Hassan-Sebbah, approaching the King remarked that if anything were
+needed to prove the incapacity of the minister in a matter of this kind,
+it was to be found precisely in the extraordinary delay that he asked
+for putting the finances of the Empire in order. This observation struck
+the Prince, who asked the courtier making it if he wished to take charge
+of this work, and if he would engage to have it finished in a shorter
+space of time. Upon the affirmative response of the artful Hassan, who
+only asked for forty days for the accomplishment of the task, an order
+was given to Nizam-el-Moulk to put the archives of the finances
+immediately at his disposition, the _moustofis_ (writings of the Chief
+Justice) and all the details of the management. Hassan, delighted at
+finding himself so suddenly at the head of the most important branch of
+the administration, already considered the complete ruin of
+Nizam-el-Moulk as assured. The latter, on his side, perceived, but a
+little too late, the imprudence he had been guilty of in placing in so
+high a position a man whom he ought to have known, and concerning whom
+he should have been on his guard. However, he did not despair of
+frustrating, scheme against scheme, the well-advanced projects of his
+ambitious antagonist. Knowing by experience how corruptible the men of
+his time were, and recognizing, too, the proverbial greediness and
+weakness of character of the confidant of Hassan-Sebbah to whom the
+latter believed it possible to trust the work that he had undertaken
+upon the order of Alp-Arslan, he did not hesitate to furnish to one of
+his favorites, upon whose faithfulness he knew he could count, sums
+large enough to be irresistible in the carrying out of the plan which he
+had conceived.
+
+The favorite of the minister, a safe man, accustomed to this kind of
+service, so skilfully used this money that he was not long in winning
+the good graces of Hassan's weak and interested confidant, and was thus
+able to furnish to his master all the information which he awaited with
+impatience, and of which he could make good use when the right moment
+was come. That moment was the expiration of the forty days which
+Hassan-Sebbah had demanded.
+
+On the appointed day all was ready, and Hassan seemed to triumph; but
+Nizam-el-Moulk had on that very day when the voluminous record which his
+adversary had prepared was to be put before the King in official
+audience, given his favorite some final instructions which should throw
+Hassan into confusion. This faithful and adroit servitor went to find
+the confidant, whose confidence he had gained by means of gifts, and
+begged him to show him the wonderful statement which Nizam-el-Moulk had
+declared could not be finished in less than six months, and his master
+had had the skill to complete in forty days. Hassan's confidant was
+occupied at this moment, and besides, suspected nothing; he turned over
+to his friend the _defter_--the bundle of detached leaflets which formed
+the record. He, putting to good use the distraction of the confidant,
+detached the _defter_ and, in the twinkling of an eye, confounded the
+order of the leaves, as his master had recommended to him. Then, placing
+the _defter_ on the carpet, he launched forth into pompous eulogy upon
+the skill of Hassan-Sebbah and of his worthy acolyte who had so actively
+participated in this eminent work. Some hours afterward Alp-Arslan
+received in grand audience his ministers and officers of the Empire, to
+assist at the solemn presentation of the financial accounting of
+Hassan-Sebbah.
+
+Nizam-el-Moulk humbly kept himself in one corner of the audience hall,
+awaiting the result of his stratagem. Upon the signal of Alp-Arslan,
+Hassan-Sebbah deposited at the monarch's feet a _fhrist_, a little book
+(an index), by means of which the Prince could call, in the order of the
+provinces, for the leaflets contained in the _defter_, which
+Hassan-Sebbah took from the hands of his trusted helper. At the first
+call, Hassan sought in vain the desired leaflet. He was haunted by
+treachery and was troubled; the rumor that this incident provoked in the
+hall, the presence of the King who was irritated at finding such
+disorder in a compilation of this importance, added to Hassan's
+confusion, and he was immediately forced to retire, after a severe
+reprimand on the part of Alp-Arslan. Nizam-el-Moulk was avenged; he
+respectfully approached the King and made the observation to him that it
+was hardly to be expected that there would be much regularity in so
+serious a work, done in such haste by incapable people.
+
+After this check, Hassan never again appeared at Court. History tells us
+that he went on a voyage to Syria, where he adopted the dogmas of the
+Ishmaelite sect, dogmas that he resolved to import into Persia, adding
+to them other novelties more in accordance with the opinions of the
+Sufis, then very numerous in the kingdom, with the aim of forming an
+army and becoming thus a terror to his enemies. He did, in fact, return
+to Persia, but concealed himself carefully, in order to escape the
+notice of Nizam-el-Moulk, whose sentiments towards him he suspected. He
+went back to his native city, Rhei, after having lived for some time at
+Ispahan, where, emboldened by the facility with which he made new
+recruits and aided by his neophytes, he formed no less a project than
+that of making the sovereign himself tremble on his throne. At Rhei he
+drew around him some malcontents, who did not hesitate to adopt the
+dogmas that he taught them, and who declared themselves ready to second
+him in his designs. He then resolved to go, with a limited number of his
+disciples, and fortify himself in the mountain of Alamout, near the city
+of Kazbin, where he commenced to make raids on the surrounding country,
+by means of which he provided for the needs of the moment and prepared
+an equipment for his little troop, which soon began to be formidable.
+
+It was about this time that Alp-Arslan died, leaving his vast estates to
+his son, Malek-Chah, whom he strongly recommended to confide the
+administration to Nizam-el-Moulk, his faithful and pious minister. But
+this minister did not long enjoy these new favors. Malek-Chah, having
+had the weakness to lend his ear to the calumnious reports of his
+enemies, took away from him his turban and his inkstand, insignia of the
+high functions which he had so nobly fulfilled. This disgrace,
+facilitating a particular vengeance, caused the death of the great
+statesman. They found him one morning, stretched out under his tent in
+the royal camp, assassinated by a satellite of Hassan-Sebbah. Before he
+expired, according to the story of the chronicle, he had time to write a
+piece of verse to Malek-Chah, in which he recommended to his benevolence
+his twelve sons, to whom, he said, he bequeathed his old and loyal
+services.
+
+Hassan-Sebbah did not the less continue his bloody excursions,
+respecting neither rank nor sex, cutting the throats of all that came
+under his hand, without pity. Malek-Chah, frightened, was obliged to
+send troops to put an end to these expeditions, which made trouble and
+confusion in the whole extent of the Empire. But Hassan's followers
+increased daily, and soon this chief saw himself strong enough to
+repulse the royal troops in a vigorous attack, and compel them to beat a
+retreat. After this success, Hassan put no limit to his exploits, and
+acquired such renown that nothing appeared to be able to resist him.
+
+The death of Malek-Chah took place unexpectedly soon after that of
+Nizam-el-Moulk, and Hassan, hastening to profit by some experiments of
+the celebrated Sultan Sandjar, Malek-Chah's successor, there were
+incessant wars in the different branches of the House of Seldjoukides,
+wars which prolonged themselves until the death of Tougroul III., or
+from forty to forty-five years. Sultan Sandjar, rightly disturbed at the
+progress of Hassan's invasion, resolved to entirely destroy a band of
+brigands in his territory, whose depredations and murders had spread
+terror in all the provinces. To this end, he re-organized an army with
+which he marched in person against the aggressors; but, arrived at a
+certain distance from Mount Alamout, he saw one morning, upon waking, a
+dagger sunk in the earth near the bolster of his bed, whose blade
+pierced a note addressed to him, where he read, with fright, these
+words:
+
+    «O Sandjar! know that if I had not wished to respect your days, the
+    hand which sunk this dagger in the earth could as well have sunk it
+    in your heart.»
+
+It is said that the Sultan was so overcome by the reading of this note,
+which revealed to him the marvellous power of Hassan-Sebbah over his
+trusty followers, that he relinquished for the time being his plan of
+attack.
+
+But let us return to Khayyam, who, remaining a stranger to all these
+alternatives of wars, intrigues, and revolts with which this epoch was
+so filled, lived tranquilly in his native village, giving himself up to
+a passionate study of the philosophy of the Sufis. Surrounded by
+numerous friends he sought with them, in study and entertainment, that
+ecstatic contemplation which others believe that they find in uttering
+cries and screams until the voice is gone, as the crying dervishes do;
+or in the circular movements that are practiced with frenzy until
+vertigo ensues, as by the whirling dervishes; or finally, in the
+atrocious tortures which the Hindoos inflict upon themselves, until they
+lose consciousness. The Persian historians state that Khayyam loved
+especially to converse and drink with his friends, in the moonlight on a
+terrace before his house, seated upon a carpet, surrounded by singers
+and musicians, with a cup-bearer, who, cup in hand, presented it in turn
+to the joyous guests. We believe we cannot better terminate this rapid
+biographical and historic sketch than in adding to the life and works of
+our poet two very characteristic quotations.
+
+During one of these evenings of which we are speaking, there suddenly
+came a gust of wind which extinguished the candles and overturned the
+pitcher of wine that was imprudently placed too near the edge of the
+terrace. The pitcher was broken and the wine spilled. Immediately
+Khayyam, irritated, improvised this impious quatrain, addressed to the
+All-Powerful:
+
+«Thou hast broken my pitcher of wine, my God! Thus hast Thou shut upon
+me the gate of joy, O Lord! It is I who drink, and it is Thou who
+committest the disorder of drunkenness! Oh! (would that my mouth were
+filled with earth!) couldst Thou be drunk, my Lord?»
+
+The poet, after having pronounced this, casting his eyes upon a mirror,
+perceived that his face was black as coal. It was a punishment from
+heaven. Then he made this other quatrain, not less audacious than the
+first, and which expresses in an absolute manner, the repulsion of the
+poet for the doctrine of future punishment written in the Koran, and
+preached so ardently by the mullahs. The Sufis consider this doctrine
+not only in direct opposition to their own, but as unworthy the pity and
+clemency of the Divinity. Here is the quatrain:
+
+«What man here below has not sinned, can you say? And how could he have
+lived, had he not committed sin, can you tell? So, if I do wrong and you
+punish me wrongly, what is the difference which exists between you and
+me, I ask?»
+
+But let us come to the complete thought of the poet which deduces itself
+so energetically and with so much unity through the fantasy or the
+mysticism of his quatrains.
+
+  J.B. Nicolas.
+
+    NOTE.--The Translator being unfortunately familiar with at least
+    seven translations and paraphrases of Omar, has found it by no means
+    easy to expunge from memory the various renderings of the text. This
+    «sponging out» was necessary in order that a faithful presentation
+    of Nicolas' version of Omar should be made. With this comment, he
+    leaves the translation to be judged on its possible merit, adding
+    only this--that, declining metre (Fitzgerald's own domain), he has
+    sought to clothe the prose in verbal sonance which should not
+    disguise or mar the inherent music of the Omarian brook. Fidelity to
+    the text, however, has been the first consideration.
+
+  R.A.
+
+
+THE QUATRAINS OF OMAR KHAYYAM
+
+
+1.
+
+    One morning, coming from the tavern I heard a voice
+    which said: Come, joyous drinkers, youthful fools, arise,
+    and fill with me a cup of wine, ere Fate shall come to
+    fill the cup of our existence.
+
+
+2.
+
+    O Thou who in the universe art the object chosen
+    of my heart! Thou who art more dear than the soul
+    which gives me life, than the eyes which give me light!
+    O Idol, though in life there be no thing more precious
+    than this life, Thou art indeed a hundred times more
+    precious than that life.
+
+
+3.
+
+    Who led thee here this night, thus given up to wine?
+    Who, indeed, raising the veil which hid thee, has been
+    able to lead thee here? Who, finally, brought thee as
+    rapidly as the wind which fans the fire that still burned
+    in thy absence?
+
+
+4.
+
+    We meet but chagrin and misfortune in this world,
+    which serves us as a tent for the time. Alas! No problem
+    of creation has been solved for us, and behold! we
+    leave it with hearts full of regret at knowing naught
+    about it.
+
+
+5.
+
+    O Khadja, give us lawfully a single one of our desires;
+    reserve thy breath and lead us into the way of God.
+    Surely we walk aright, it is thou that seest crosswise;
+    heal, then, thine eyes and leave us here in peace.
+
+
+6.
+
+    Come, come, arise, and, for the healing of my heart,
+    one problem solve for me: yet quickly bring me a pitcher
+    of wine, and let us drink before they make pitchers out
+    of our own dust.
+
+
+7.
+
+    When I am dead, wash me with the juice of the vine;
+    in place of prayer, sing above my tomb the praise of
+    the cup and the wine, and, if you would find me again
+    at the day of doom, seek me in the dust of the tavern
+    floor.
+
+
+8.
+
+    Since no one has ever been able to answer thee from
+    one day to the next, hasten to glad thy heart filled with
+    sadness. Drink, O adorable Moon! drink from thy silver
+    cup, for long shalt thou turn in the firmament without
+    finding us here again.
+
+
+9.
+
+    Would that the lover [the true believer] were intoxicated
+    the whole year, mad, absorbed with wine, covered
+    with dishonor! For, when we have sound reason, chagrin
+    assails us on all sides; but when we are in wine, well,
+    let come what will!
+
+
+10.
+
+    In Heaven's name! with what hope does the sage attach
+    his heart to the illusory treasures of this palace of misfortune?
+    Oh! that the One who gave me the name of
+    drunkard would recant his error, for how can he see the
+    tavern's sign from his exalted abode.
+
+
+11.
+
+    The Koran, which is but a name for The Sublime
+    Word, is, however, read only from time to time and not
+    with constancy; while ever on the brim of the cup
+    is found a verse full of light which one can read always
+    and everywhere.
+
+
+12.
+
+    Thou that drinkest not wine shouldst not for this reason
+    blame the drunkard, for I am ready to renounce God,
+    myself, should He order me to renounce wine. Thou
+    glorifiest thyself for not drinking wine, but such glory
+    but ill befits those who commit acts a hundredfold more
+    reprehensible than drunkenness.
+
+
+13.
+
+    Though my body be beautiful, and the perfume it exhales
+    agreeable, though the color of my face rival that
+    of the tulip, and my figure be supple as the cypress,
+    it has not been demonstrated why my celestial author
+    placed me upon this earth.
+
+
+14.
+
+    I would drink so much wine that the odor should come
+    out of the earth when I have been returned to it, and
+    that drinkers who wish to visit my tomb may fall
+    senseless from the sole effect of this odor.
+
+
+15.
+
+    In the region of hope, form as many friends as you
+    can; in the time of existence, bind yourself to a perfect
+    friend, for, know well that a hundred Kaabas, made
+    of earth and water, are not worth one heart. Leave,
+    then, thy Kaabas and rather seek a heart.
+
+
+16.
+
+    When I take in my hand a cup of wine and, in the
+    joy of my soul, become intoxicate, then, in that state of
+    fire which devours me, I see a hundred miracles grow
+    real, and words, clear as the most limpid water, come to
+    explain the mystery of all things.
+
+
+17.
+
+    Since the duration of a day is only two stages, make
+    haste to drink wine, the limpid wine; for know well
+    that you near the end of your vanishing existence. And,
+    since you know that this world drags all to decay,
+    be wise, and, also, day and night be drenched in wine.
+
+
+18.
+
+    We who give ourselves up to the will of wine offer
+    with joy our souls in holocaust to the laughing lips of
+    the juice divine. Oh! rapturous sight! Our cup-bearer
+    holds in one hand the neck of the flask and in the other
+    the cup overflowing, as if inviting us to receive the
+    purest of the blood!
+
+
+19.
+
+    Yes, we, seated in the midst of this treasure in ruins,
+    surrounded by wine and dancers, have put in pawn [in
+    order to procure them] all that we possess: soul, heart,
+    goods--everything but the cup. We are thus freed from
+    hope of pardon and fear of punishment. We are beyond
+    the air, the earth, and fire and water.
+
+
+20.
+
+    The distance which separates incredulity from faith is
+    but a breath,--that which separates doubt from certainty
+    is equally but a breath. Let us, then, pass this precious
+    space of a breath gaily, for our life also is only separated
+    [from death] by the space of a breath.
+
+
+21.
+
+    O Wheel of Destiny! destruction comes of thy implacable
+    hate. Tyranny for thee is an act of predilection
+    which thou hast committed from the commencement of
+    centuries; and thou, also, O Earth, if one search in thy
+    bosom, what inappreciable treasures will he not find there!
+
+
+22.
+
+    My turn of existence has slipped around in a few days.
+    It has passed as passes the wind over the desert. Then,
+    while remains to me a breath of life, two days shall
+    be for which I never need be troubled, the day which
+    has not come and that which now has passed.
+
+
+23.
+
+    This priceless ruby comes from a mine of its own, this
+    rare pearl is pregnant with a character its own; our
+    different dogmas on this matter are erroneous, since the
+    enigma of perfect love is explained in a language of its
+    own [and that is not conveyed to us].
+
+
+24.
+
+    Since to-day is my turn for youth, I intend to pass it
+    in drinking wine, for that is my pleasure. Begin not to
+    talk of its bitterness, to speak ill of this delicious juice,
+    for it is agreeable, and is only bitter because it enforces
+    the bitterness of my life.
+
+
+25.
+
+    O my poor heart! Since thy lot is to be bruised to
+    death by chagrin, since nature wills that thou be wounded
+    each day with some new torment, tell me, O my soul,
+    why stay you in my body, since you must finally leave
+    it some day?
+
+
+26.
+
+    Thou canst not count to-day on seeing the day after
+    to-morrow; even to think of this to-morrow would be the
+    part of folly; if thy heart is awakened, lose not in inaction
+    this instant of life [which remains to thee] and for
+    the duration of which I see no warranty.
+
+
+27.
+
+    It is not necessary to knock at every door unless there
+    be a reason for it. It is better to accommodate oneself
+    to the good and the bad here below, for hereafter we
+    can only enjoy the number of moves which destiny presents
+    upon the chessboard of this terrestrial ball.
+
+
+28.
+
+    This jug [earthen vessel] has been, like me, a loving
+    and unhappy creature; it has sighed for a lock of some
+    young beauty's hair; this handle that you see attached to
+    its neck was an amorous arm passed about the neck of
+    some girl.
+
+
+29.
+
+    Before your time or mine, there were many twilights,
+    many dawns, and it is not without reason that the movement
+    of rotation is enforced upon the heavens. Be careful
+    as you place your foot upon this dust, for it has,
+    without doubt, formed the eyes of someone young and fair.
+
+
+30.
+
+    The temple of idols and the Kaaba are places of
+    adoration; the chime of the bells is but a hymn chanted to
+    the praise of the All-Powerful. The _mehrab_ [Mohammedan
+    pulpit], the church, the chapel, the cross are, in truth,
+    but different stations for rendering homage to the Deity.
+
+
+31.
+
+    Existing things were already predestined upon the
+    tablet of creation. The brush [of the universe] did not
+    paint good and bad. With destiny God imprinted whatever
+    should be so imprinted, and the efforts that we
+    make in these directions are wholly lost.
+
+
+32.
+
+    I can but vaguely tell my secret to the bad or to the
+    good. I cannot elaborate or explain my thought, which
+    is essentially brief. I see a place of which I can only
+    trace a description; I possess a secret which I cannot unveil.
+
+
+33.
+
+    False money is not current among us. The broom has
+    rid our joyous dwelling of it completely. An old man,
+    returning from the tavern, said to me: Drink wine, my
+    friend, for other lives shall follow yours in your long
+    sleep.
+
+
+34.
+
+    In the face of the decrees of Providence, nothing avails
+    but resignation. Among men nothing avails but seeming
+    and hypocrisy. I have employed every ruse, the strongest
+    that the human mind can invent, but destiny has always
+    overturned my projects.
+
+
+35.
+
+    If a stranger shows you fidelity, consider him as a kinsman;
+    but if a kinsman endeavors to betray you, regard
+    him as an enemy. If poison cures you, consider it an
+    antidote, and if the antidote does not agree with you,
+    regard it as a poison.
+
+
+36.
+
+    Except Thy absence there is nothing of worth that can
+    bruise to the quick; he cannot be acute who is not taken
+    with Thy subtle charms, and, although there exist in
+    Thy mind no care for any one, there is none who may
+    not be preoccupied with Thee.
+
+
+37.
+
+    As long as I am not drunk, my happiness is incomplete.
+    When I am overcome with wine, ignorance replaces
+    my reason. But there exists an intermediary state
+    between drunkenness and sound reason. Oh! with what
+    happiness do I enslave myself to such a state, since in it
+    there is life!
+
+
+38.
+
+    Who will believe that He who fashioned the cup could
+    think of destroying it? All these beautiful heads, all
+    these beautiful arms, all these dainty hands, are by what
+    love created and by what hate destroyed?
+
+
+39.
+
+    It is the effect of thy ignorance which makes thee fear
+    death and abhor annihilation, for it is evident that from
+    this annihilation shoots up a branch of immortality.
+    Since my soul has been revived by the breath of Jesus,
+    eternal death has fled far from me.
+
+
+40.
+
+    Imitate the tulip which flowers at New-year's; take, like
+    her, a cup in thy hand and, if the occasion presents itself,
+    drink, drink of wine in happiness with some fair girl
+    whose cheeks are tinted with the color of this flower, for
+    this blue wheel [dome], like a breath of wind, can suddenly
+    overturn thee.
+
+
+41.
+
+    Since things are not allowed to come to pass as we desire,
+    to what purpose are our designs and our efforts?
+    We are constantly tormenting ourselves, speaking to ourselves
+    with sighs of regret. Ah! we have arrived too late;
+    too soon will it be necessary for us to depart!
+
+
+42.
+
+    Since the celestial wheel and that of destiny have never
+    been favorable, what matters it whether we are able to
+    count seven heavens or believe that there are eight?
+    There are [I repeat it] two days for which I need not
+    care; the day which has not come and that which now
+    is gone.
+
+
+43.
+
+    O Khayyam! why so much sorrow for a sin committed?
+    What comfort more or less do you find in this self-torment?
+    He who has not sinned cannot enjoy the sweetness
+    of pardon. It is for sin that pardon must exist; in
+    that event why entertain a fear?
+
+
+44.
+
+    No one has access to the secrets of God behind the
+    mysterious curtain; no one [even in mind] can penetrate
+    there; we have no other dwelling than the earthly
+    mind. Oh, regret! for this also is an enigma not less
+    difficult to comprehend.
+
+
+45.
+
+    Long time have I delved in this inconstant world, this
+    momentary shelter; and in my searches have employed
+    all faculties with which I am endowed. Ah, well! and I
+    have found the moon to pale before the light of Thy
+    visage, that the cypress is deformed beside Thy beauteous
+    form.
+
+
+46.
+
+    In the mosque, in the _medresseh_ [school annexed to
+    the mosque], in the church, and in the synagogue, they
+    have a horror of Hell and seek for Paradise, but the seed
+    of such disquiet never germinates in the hearts of those
+    who penetrate the secrets of the All-Powerful.
+
+
+47.
+
+    You have traveled over the world! Ah, well! all that
+    you have seen is nothing; all that you have seen and all
+    that you have heard are equally nothing. You have gone
+    from one end of the universe to the other, all that is
+    nothing; you have summed it all up in one corner of your
+    room, all that is nothing, still nothing.
+
+
+48.
+
+    One night I saw in thought a sage who said to me:
+    Sleep, O my friend, has never caused the rose of happiness
+    to bloom for anyone; why lend yourself to aught so
+    similar to death? Rather drink wine, for you will sleep
+    enough when buried in the earth.
+
+
+49.
+
+    Had the human heart an exact knowledge of the secrets
+    of life, it would also know, at the point of death,
+    the secrets of God. If to-day, when you are with yourself,
+    you know nothing, what will you know to-morrow
+    when you shall be separated from yourself?
+
+
+50.
+
+    The day when the heavens shall be confounded, when
+    the stars shall be obscured, I will stop Thee upon Thy
+    way, O Idol! and, taking Thee by the hem of Thy robe,
+    will ask of Thee why Thou hast robbed me of life [after
+    giving it to me].
+
+
+51.
+
+    We should tell no secrets to the vilely indiscreet; from
+    the nightingale, even, should we conceal them. Consider,
+    then, the torment you inflict on human souls by forcing
+    them to disrobe thus before the gaze of all.
+
+
+52.
+
+    O Cupbearer! since time is here, ready to break down
+    you and me, this world for neither you nor me can be a
+    place of permanence. But, equally, be well convinced
+    that while this jug of wine is here 'twixt you and me,
+    our God is in our hands.
+
+
+53.
+
+    Long time, indeed, with cup in hand, I walked among
+    the flowers; nevertheless none of my projects has been
+    realized in this world. But, although wine has not led
+    me to the goal of my desires, I will not stray from its
+    path, for when one follows a road he cannot retrogress.
+
+
+54.
+
+    Put a cup of wine in my hand, for my heart is inflamed,
+    and my life slips away as quicksilver. Arise,
+    then, for the favors of fortune are only a dream; arise,
+    for the fire of thy youth is running away like the water
+    of a torrent.
+
+
+55.
+
+    We are the idolaters of love, but the Musulman differs
+    from us; we are like the pitiful ant, but Salomon is our
+    foe. Our visages should aye be paled with love, and our
+    apparel in rags, and yet the mart for silken stuffs is here
+    below.
+
+
+56.
+
+    To drink wine and rejoice is my gospel of life. To
+    be as indifferent to heresy as to religion is my creed. I
+    asked the bride of the human race [the world] what her
+    dowry was, and she answered: My dowry consists in the
+    joy of my heart.
+
+
+57.
+
+    I am worthy neither of Hell nor a celestial abode; God
+    knows from what clay he has moulded me. Heretical as
+    a dervish and foul as a lost woman, I have neither
+    wealth, nor fortune, nor hope of Paradise.
+
+
+58.
+
+    Thy passion, man, resembles in all things a house dog
+    which never leaves his kennel. It has the slyness of the
+    fox, it lies low like a hare, and to the rage of the tiger
+    adds the voracity of a wolf.
+
+
+59.
+
+    How beautiful they are, these different greens which
+    mingle on the edge of a brook! One thinks they must
+    have had their birth upon the lips of one divinely fair.
+    Place not thy foot upon them with disdain; they spring
+    from dust which, once a face, was tinted with the colors
+    of a rose.
+
+
+60.
+
+    Each heart that God illumines with the light of
+    love, as it frequents the mosque or synagogue, inscribes
+    its name upon the book of love, and is set free from
+    fear of Hell while it awaits the joys of Paradise.
+
+
+61.
+
+    A cup of wine is better than the kingdom of Kawous,
+    and preferable to Kobad's throne or to the realm of
+    Thous. The sighs to which, at dawn, a lover is the prey
+    are sweeter than the groans of praying hypocrites.
+
+
+62.
+
+    Though sin hath made me ugly and forlorn, not without
+    hope am I like some idolater relying on his temple
+    gods. So, on the morn I die of yesternight's carouse,
+    give me some wine and call the one Beloved, for Hell
+    and Paradise are one to me.
+
+
+63.
+
+    If I drink wine 'tis not for mere desire; nor for the
+    rousing of the mob or insult to the Faith. No, 'tis for a
+    passing knowledge of relief from self. No other motive
+    could enwreath the cup.
+
+
+64.
+
+    Men claim fore-knowledge, predicating Hell or Heaven.
+    How plain their fault! How asinine their faith! For
+    know that if all lovers of the fair and of the cup deserve
+    a Hell, then Paradise will be a void.
+
+
+65.
+
+    In Cheeban [a month] I must not embrace the vine; in
+    Redjeb I am consecrate to Him. By right these sixty
+    suns to Allah and his Prophet are assigned: let Ramazan
+    in mercy bring the cooling cup again.
+
+
+66.
+
+    Now Ramazan has come, the vintage passed, and
+    pledging of the cup and simple customs are afar. Yet
+    full the wine pots are, and still untouched, and houris wait
+    for us in fond suspense.
+
+
+67.
+
+    This rolling hostelry we call the world, where light and
+    darkness alternate, is but the ruin of a Jamshid's entertainment
+    of a hundred Kings, or e'en a faint memento
+    of a host of hunters like to Bahram's self.
+
+
+68.
+
+    To-day when fortune's rose is burgeoning, fill high the
+    cup. Drink deep, O friend, drink deep, for time is not
+    thy friend or ever willingly repeats a day like this.
+
+
+69.
+
+    This palace where great Bahram loved to drink now
+    herds the young gazelle, and in it lions sleep. Where
+    Bahram snared the swift wild ass, the snare of Time has
+    in its turn snared him.
+
+
+70.
+
+    The clouds expand and weep upon the earth. No
+    longer can we live without the amaranthine cup. The
+    tender green glads weary eyes to-day, but oh! that emerald
+    verdure growing from our dust, whose sight will it
+    rejoice?
+
+
+71.
+
+    To-day, which we call Adine [Wednesday], leave
+    the tiny cup and drink wine from a bowl. If other days
+    you drank but one fair bowl, to-day drink two, for Adine
+    ranks its fellow days, save one.
+
+
+72.
+
+    O heart! since this world makes you sad, since souls
+    so pure must leave the tenement of clay, go, sit upon
+    the verdure of the field sometimes, ere verdure springs
+    in turn from your own dust.
+
+
+73.
+
+    This wine, which by its nature hath a multitude of
+    forms, which now is animal and now is plant, can never
+    cease to be, for its imperishable self ordains a lasting
+    life though forms may disappear.
+
+
+74.
+
+    No smoke ascends above my holocaust of crime: could
+    man ask more? This hand, which man's injustice raises
+    to my head, no comfort brings, even though it touch the
+    hem of saintly robes.
+
+
+75.
+
+    The one on whom you surely most rely, will be your
+    enemy, if but you cleanse the eyes that are within. Far
+    better, for the short time which remains, to count but
+    little on our friends. The talk of men to-day is but a
+    broken reed.
+
+
+76.
+
+    O heedless man! this veil of flesh is naught; this nine-fold
+    vault of brilliant heaven is naught. Then give thyself
+    to joy in this disordered place [the world], for life is
+    but an instant wed to it, and that is equally naught.
+
+
+77.
+
+    Now bring me dancers, wine, and a houri with charming,
+    ravishing features--if houris there be. Or find a
+    beautiful brook within a green ravine, if such there be.
+    Ask nothing better; think no more of Hell's hot penalties,
+    for, verily, none is, nor any Paradise more fair than
+    that I sing, if Paradise there be.
+
+
+78.
+
+    Came an old man from out the tavern drunk, his
+    prayer-rug on his shoulders and a bowl of wine in
+    hand. I said to him: Aged man! what meaneth this?
+    He answered me: Drink wine, my friend, for this world
+    is naught but wind.
+
+
+79.
+
+    A nightingale, inebriate [with love of the rose], within
+    a garden saw the roses laughing with a cup of wine. To
+    me he came and whispered in my ear, in tones appropriate
+    to the circumstance: Be on thy guard, my friend; one
+    cannot hold the life that slips away.
+
+
+80.
+
+    Naught is thy body but a tent, Khayyam, thy soul is
+    its inhabitant, and its last, long home annihilation is.
+    When thy soul leaves the tent, the slaves arise and
+    strike it ere they pitch it for the oncoming soul.
+
+
+81.
+
+    Khayyam, who sewed the tents of philosophic lore, is
+    suddenly engulfed within the crucible of grief, and there
+    is burned. The shears of Fate have cut the thread of
+    his existence; the Auctioneer of Life has sold him for
+    a song.
+
+
+82.
+
+    In springtime let me sit upon the edge of a broad
+    field with one fair girl, and wine in plenty if wine is at
+    hand. Though this may culpable be thought, I should
+    be worse than any dog did I not dream of Paradise.
+
+
+83.
+
+    Rose-colored wine in crystal cups delights. It charms
+    when sipped to lutes' melodious airs or to the plaintive
+    throbbing of the harp. The devotee who knows not of
+    the joy that is in wine is charming [to himself] or
+    when a thousand miles between us yawn.
+
+
+84.
+
+    The time we pass in this world has no worth without
+    the wine-cup and the wine. It also needs the swelling
+    sound of Irak's flute. Incessant watching of things here
+    below has told me that in pleasure and in joy alone are
+    worth: the rest is naught.
+
+
+85.
+
+    Be on thy guard, my friend, for soon thou wilt be
+    separate from thy soul; thou then shalt go behind the
+    curtain of God's secrecy. Drink, for thou knowest not
+    whence thou here hast come; make haste, for thou art
+    ignorant where thou shalt go.
+
+
+86.
+
+    Since we must die, why do we live? Why agonize to
+    reach a problematic bliss? Since, for some unknown
+    cause, we may not here remain, why not concern ourselves
+    about the future pilgrimage? Why disregard our
+    fate?
+
+
+87.
+
+    Occasion makes me sing the praise of wine when I surround
+    myself with men and things I love. O Devotee!
+    canst thou be happy here below knowing that wisdom is
+    your Lord? Then know, at least, that wisdom is my
+    slave.
+
+
+88.
+
+    The world will ever count me as depraved. Natheless
+    I am not guilty, Men of Holiness! Look on yourselves
+    and question what you are. Ye say I contravene the
+    Koran's law. Yet I have only known the sins of drunkenness,
+    debauchery and leasing.
+
+
+89.
+
+    Free yourselves from your own passions and insatiate
+    greed and lo! you shall go out poor as a mendicant.
+    Look, rather, unto what you are, whence you have come,
+    and learn what you are doing and where bound.
+
+
+90.
+
+    The universe is but a point in our poor round of life;
+    the Djeihoun [Oxus] but a feeble trace of tears and
+    blood; Hell but a spark of useless worry which we give
+    ourselves, and Paradise an instant of repose, which here
+    below we rarely catch.
+
+
+91.
+
+    A slave in dire revolt am I: where is Thy will? Black
+    with all sin my heart: where is Thy light and Thy control?
+    If Thou giv'st Paradise to our obedience alone
+    [to Thy laws], it is a debt of which Thou quit'st
+    Thyself and in such case we need Thy pity and benevolence.
+
+
+92.
+
+    I know not at all whether He who created me belongs
+    to a delicious Paradise or a detestable Hell. [But I do
+    know] that a cup of wine, a charming girl and a zither
+    at the edge of a green field are three things which I enjoy
+    at present, and that you will find them in the promise
+    that is made you of a future Paradise.
+
+
+93.
+
+    I drink wine, and those who are opposed to it come
+    from the left and from the right to ask me to abstain
+    from it, because, say they, wine is an enemy of religion.
+    But, for that very reason I would drink it, now that I
+    hold myself an adversary of faith, because we are permitted
+    by God to drink the blood of an enemy.
+
+
+94.
+
+    The light of the moon has cut the black robe of night:
+    drink then of wine, for one finds not often moments so
+    precious. Yes, abandon thyself to joy, for this same
+    moon will shine over the surface of the earth a long time
+    [after our day].
+
+
+95.
+
+    Impute not to the wheel of the heavens all the good
+    and all the bad which are in man, all the joys and sorrows
+    which come to us by destiny; for this wheel, friend, is
+    a thousand times more embarrassed than thou, in the path
+    of love [divine].
+
+
+96.
+
+    There is no shield which is proof against an arrow
+    hurled by Destiny. Grandeur, money, gold all go for
+    nothing. The more I consider the things of this world,
+    the more I see that the only good is good, all else is
+    nothing.
+
+
+97.
+
+    A heart which does not contain in itself complete abstinence
+    [from things here below] is to be pitied, for it is
+    at all times the prey of regret. It is only the heart free
+    from care that can be joyous; all that exists beyond this
+    is but a subject of torment.
+
+
+98.
+
+    He who has had the intelligence to sow joy in his
+    heart has not lost a single day in sorrow; he has employed
+    his faculties in seeking the will of God, or has procured
+    repose for his soul by taking a cup of wine.
+
+
+99.
+
+    When God fashioned the clay of my body, he knew
+    what would be the result of my acts. It is not without
+    His orders that I have committed the sins of which I am
+    guilty; in that case, why should I burn in hell-fire at
+    the last day?
+
+
+100.
+
+    If thou hast drunk wine every consecutive day of the
+    week, take care not to deprive thyself of it on Wednesday,
+    for, according to our religion, there is no difference
+    between this day and Saturday. Be an adorer of the All-Powerful
+    and not an adorer of days.
+
+
+101.
+
+    O my God! Thou art merciful, and mercy is kindness.
+    Why then has the first sinner been thrown out of
+    the terrestrial Paradise? If Thou pardonest me when
+    I obey Thee, it is not mercy. Mercy is present only
+    when Thou pardonest me as the sinner that I am.
+
+
+102.
+
+    Leave knowledge and take the cup in thy hand. Disturb
+    thyself not about Paradise or Hell, but seek rather
+    the _Koocer_ [the celestial river of wine]. Sell thy silken
+    turban to buy wine and have no more fear. Rid thyself
+    of that head-dress and envelop thy head in a simple woolen
+    band [emblem of Sufism].
+
+
+103.
+
+    Tell me, friend, have I acquired riches in this world?
+    No. Have I given myself up to time as it was slipping
+    away? No. I am the torch of joy; but that torch once
+    extinguished, I am nothing. I am the cup of Djem [the
+    royal cup], but that cup once broken, I am no longer
+    anything.
+
+
+104.
+
+    Where are the dancers? Where is the wine? Quick!
+    that I may do honor to the gourd! Happy the heart
+    who remembers his morning cup! Oh! there are three
+    things in this world which are dear to me: a head lost in
+    wine, an amorous girl, and the noise of the dawn.
+
+
+105.
+
+    Since life so soon slips away, what matters it whether
+    it be sweet or bitter? Since the soul must pass through
+    the lips, what matters whether it be at Nishapur or at
+    Balkh? Drink then of wine, for after thee and me, the
+    moon will long pass on from its last quarter to its first,
+    and from the first to last.
+
+
+106.
+
+    This caravan of life passes in curious guise! Be on thy
+    guard, my friend, for it is joy that thus escapes! Disturb
+    not thyself with the sorrow which to-morrow waits
+    our friends, and bring me my cup quickly, for the night
+    fast slips away!
+
+
+107.
+
+    He who has made the foundations of the world, the
+    wheel of the heavens, how He has crucified the heart of
+    man with affliction! How many ruby-colored lips has He
+    buried in this little globe of earth! How many locks of
+    hair perfumed with musk has He hidden in the bosom of
+    the dust!
+
+
+108.
+
+    O careless men! be not duped by this world, since
+    you know its pursuits. Throw not to the wind your
+    precious lives; hasten to seek a friend [God], and quickly
+    drink of wine.
+
+
+109.
+
+    O my companions! pour me some wine and thus
+    change my face, from yellow as amber, to the color of
+    the ruby. When I am dead, lave me in wine, and of
+    the wood of the vine make my coffin and bier.
+
+
+110.
+
+    The day when the celestial war-horse of the golden
+    stars was saddled, when the planet Jupiter and the
+    Pleiades were created, from that day the Divan [Chief
+    Justice] of destiny fixed our lot. In what respect, then,
+    are we guilty, since such is the part that was made
+    for us?
+
+
+111.
+
+    Oh! what damage may the vessels filled to flowing do,
+    and how incomplete are they who possess riches! The
+    eyes of beautiful Turkish women are a feast to the heart,
+    yet they are simple learners from the slaves who own
+    them.
+
+
+112.
+
+    It is necessary that our existence be effaced from the
+    book of life, that we expire in the arms of death. O
+    charming cupbearer, go, gaily bring me wine since my
+    poor earth to earth must come.
+
+
+113.
+
+    At this moment, when my heart is not yet deprived of
+    life, it seems to me that there are few problems that I
+    have not solved. However, when I call intelligence to
+    my aid, when I examine myself with care, I perceive
+    that my existence has slipped away and that I have still
+    defined nothing.
+
+
+114.
+
+    Those who adore the _seddjadeh_ [prayer-rug] are asses,
+    since they throw themselves, with full consent, into the
+    charge of devotees and hypocrites. What is most singular
+    about them is that they, under a mantle of piety,
+    preach Islamism and are, in reality, worse than idolaters.
+
+
+115.
+
+    When the tree of my existence shall be cut down, when
+    my members shall be dispersed, let them make pitchers
+    of my dust and fill these pitchers with wine; then shall
+    my dust be revived [through the wine contained in
+    them].
+
+
+116.
+
+    O Thou, God, before whom sin is without consequence,
+    tell him who possesses intelligence to proclaim this important
+    point: that in the eyes of a philosopher it is an
+    absolute absurdity to make divine fore-knowledge in league
+    with sin.
+
+
+117.
+
+    In the first place, my being was given me without my
+    consent, which makes my own existence a lasting problem
+    to me. Then, we leave this world with regret, and without
+    having accomplished the aim of our coming, of our
+    stay, or our departure.
+
+
+118.
+
+    When my sins come back to mind, the fire which then
+    burned in my heart makes my boldness stream forth;
+    for everywhere is it established that when a slave repents,
+    a generous master pardons him.
+
+
+119.
+
+    These potters who constantly plunge their fingers into
+    the clay, who employ all their mind, all their intelligence,
+    all their faculties to mould it, even to the crushing of
+    it with their feet and striking with their hands, of what
+    think they? It is the same clay as the human body that
+    they are treating thus.
+
+
+120.
+
+    Those who, through knowledge, are the cream of the
+    world; who, with intelligence scan the heights of the
+    heavens, they also, like the firmament, have their heads
+    turned in their search for divine knowledge, and are
+    taken with vertigo and dimness of sight.
+
+
+121.
+
+    God has promised us wine in Paradise. In that case
+    why should He prohibit it in this world? One day an
+    Arab in a state of drunkenness cut the hams of Hamzah's
+    camel with his sword. It is only for him that our
+    Prophet makes wine illicit.
+
+
+122.
+
+    Since at this moment there only remains to you the
+    memory of pleasure passed away; since for a perfect friend
+    you have only a cup of wine; finally, since that is all you
+    own, rejoice at least in this possession and let the cup
+    not slip from your hands.
+
+
+123.
+
+    Oh! for the time when we shall be no more and the
+    world shall still be here! There will remain no fame or
+    trace of us. The world was not unfinished when we
+    came; naught will be changed when we have gone
+    from it.
+
+
+124.
+
+    Those whose feet have trodden the world, who have
+    run over it for the sake of appropriating the riches of
+    the two hemispheres to themselves, they are not the
+    ones, I believe, who have ever been able to explain the
+    true state, the real situation of things here below.
+
+
+125.
+
+    O regret! The capital [of life] has slipped from our
+    hands. Alas! many hearts have been through death
+    drowned in blood, and no one returns from the other
+    world that I may ask him news of the travelers who
+    have gone.
+
+
+126.
+
+    These numerous great lords, so proud of their titles,
+    are so gnawed by cares and sorrows that existence to
+    them is a burden. And most ridiculous it is that they
+    deign not to call by the name of men those who, unlike to
+    them, are not slaves to their passions.
+
+
+127.
+
+    This lofty Wheel, whose trade it is to tyrannize, has
+    never loosed for man the knot of any difficulty. Wherever
+    it has seen an ulcerated heart, there has it come to add
+    wound unto wound.
+
+
+128.
+
+    Alas! the period of adolescence reaches home. The
+    springtime of our pleasures slips away! That bird of
+    gaiety which is called _youth_, alas! I know not when it
+    came nor when it flew away!
+
+
+129.
+
+    In the midst of this whirlpool of the world, hasten to
+    gather some fruit. Seat thyself upon the throne of gaiety
+    and bring the cup to thy lips. God is indifferent both
+    to creed and sin; enjoy then here below, what pleases
+    thee.
+
+
+130.
+
+    Do you see those two or three imbeciles who hold the
+    world in their hands, and who, in their candid ignorance,
+    believe themselves the wisest in the universe? Do not
+    disturb yourself for, in their high content, they deem
+    all heretics who are not asses [like themselves].
+
+
+131.
+
+    Would that the tavern could always be animated by
+    the presence of drinkers, that fire would reach the hem
+    of the holy robe of devotees, that their monk's frock might
+    be torn to tatters and their blue woolen garment be trampled
+    under the feet of the drinkers.
+
+
+132.
+
+    How long wilt thou be a dupe to colors and perfumes?
+    When wilt thou cease to seek out good and bad?
+    Thou mightest be the source of Zemzem, thou mightest
+    even be the water of life since thou wouldst not know how
+    to escape entering the bosom of the earth.
+
+
+133.
+
+    Renounce not the drinking of wine if you have any,
+    for a hundred repentances follow one such resolution.
+    The roses scatter their blossoms, the nightingales fill the
+    air with their song, and would it be reasonable to renounce
+    drinking in a moment like this?
+
+
+134.
+
+    As long as the friend [God] will pour for me the wine
+    which rejoices my soul, as long as the heavens have
+    not deposited a hundred kisses upon my head and feet,
+    whatever they may do, when the moment comes, to induce
+    me to renounce drinking, how can I renounce it,
+    God not having ordered me to?
+
+
+135.
+
+    Whoever has constancy will not renounce drinking wine,
+    for wine has within itself the virtue of the water of life.
+    If any one renounce it during the month of Ramazan, let
+    him at least abstain from engagement in prayer.
+
+
+136.
+
+    When I am dead, smooth to the level of the soil the
+    dust of my tomb, that I may thus be an example to other
+    men. Then, mix with wine the earth of my body and
+    make of it--a cover for a wine-jar.
+
+
+137.
+
+    O Khayyam! although the Wheel of the Heavens has,
+    in setting up his tent, closed the door to discussions, [it
+    is evident, nevertheless,] that the cupbearer of eternity
+    [God] has produced, in the form of globules of wine in
+    the cup of creation, a thousand other Khayyams like
+    thee.
+
+
+138.
+
+    Give thyself to gaiety, for sorrow will be infinite. The
+    stars will continue movement in the firmament, and the
+    bricks which will be made of thy body will serve to construct
+    palaces for others.
+
+
+139.
+
+    Pass joyously thy life, for many other travelers will file
+    through this world; the soul will cry after the body from
+    which it will be separated, and the head, the seat of
+    the passions, will be trampled under the potter's feet.
+
+
+140.
+
+    Happy the heart of him who has passed unknown,
+    who has not been clothed in a robe of ceremony, nor in
+    luxurious garments, nor in stuffs of great price, who,
+    like the _simourg_, is lifted into the skies to the place of
+    his delight as the owl sits among the ruins of this world.
+
+
+141.
+
+    Drinkers alone know how to appreciate the language
+    of the roses and of wine, and not the feeble in heart or
+    the poor in spirit. Those who have no idea of what is
+    occult, to them ignorance is pardonable, for drunkards
+    alone can understand what belongs to such an order of
+    of things.
+
+
+142.
+
+    Once in the tavern, one can make his ablutions only
+    with wine. There, when a name is soiled, it cannot be
+    restored. Bring, then, some wine, since the veil of our
+    shame is torn in such a manner that it cannot be repaired.
+
+
+143.
+
+    Pierced with a vain hope, I have thrown to the wind
+    a part of my existence, and that without having known
+    here below a day of happiness. That which I fear now
+    is that time will prevent me from seizing the opportunity
+    to make amends for the past.
+
+
+144.
+
+    Alas! my heart has not been able to find any remedy
+    [for its grief], my soul has arrived at the edge of my
+    lips [death], without having attained the object of its love.
+    Alas! my life has passed in ignorance, and the enigma
+    of this love has not been explained.
+
+
+145.
+
+    In the regions of the soul, it is necessary to walk with
+    discernment; upon the things of this world, it is well to
+    be silent. While we have our eyes, our tongues, and our
+    ears, we should be without eyes, without tongues, and
+    without ears.
+
+
+146.
+
+    In this world, he who commands a loaf of bread and
+    who can cover his body with any garment whatsoever,
+    he who is neither master nor servant, tell him to live
+    content, for he has a sweet existence.
+
+
+147.
+
+    One should not plant in his heart the tree of sadness.
+    On the contrary, he should ever peruse the book of joy.
+    One should drink wine, and follow the trend of his own
+    heart, for behold, the length of time remaining to you in
+    this world is quickly measured.
+
+
+148.
+
+    Has Thy empire gained in splendor by my obeisance,
+    O God? Or have my sins retrenched in any degree Thy
+    immensity? Pardon, O God, and do not punish, for I
+    know well that Thou punishest late and pardonest early.
+
+
+149.
+
+    It would be troublesome if my hand, accustomed to
+    seize the cup, took the Koran and depended upon Mohammedan
+    diet. With you it is different; you are a dry
+    devotee, while I am a depraved one, moist [through drink],
+    and the only fire I know is kindled by wine.
+
+
+150.
+
+    Upon earth, no one presses to his heart a charmer with
+    cheeks of the tints of a rose without the time comes
+    that he feels the sting of the thorn. See the comb: before
+    it could caress the perfumed hair of the beauty, it
+    had to be cut into many teeth.
+
+
+151.
+
+    Would that I had constantly in my hand the juice of
+    the vine! Would that my love for these beautiful idols,
+    that are like houris, might never leave my heart! They
+    say to me: God has ordered you to renounce these things.
+    Oh! should He give me such a command, I would not
+    obey it. Far be the thought!
+
+
+152.
+
+    Behold, I must go, and life is saddened by my going; for,
+    out of a hundred precious pearls but one have I pierced.
+    Alas! thanks to the ignorance of men, a hundred thousand
+    things of deepest import yet remain unheard.
+
+
+153.
+
+    To-day the season smiles; 'tis neither hot nor cold. The
+    clouds have washed away the dust which dimmed the
+    roses; and nightingales seem whispering to the yellow
+    flowers that wine is balm for all.
+
+
+154.
+
+    The day when I shall know myself no more, and when
+    they will speak of me as of a fable, then I desire [do
+    I dare say it?] that my clay be made into a jar for wine
+    and destined to service at the tavern.
+
+
+155.
+
+    Drink thou of wine before thy name shall vanish from
+    this world, for, when this nectar enters thy heart, sorrow
+    disappears. Unbind strand by strand the hair of thy
+    charming idol, before the jointure of thy frame itself is
+    loosed.
+
+
+156.
+
+    O idol! ere sorrow comes to assail thee, order rose-colored
+    wine. Thou art not gold, O imbecile! to believe
+    that after burial in the earth, you can be drawn from it
+    again.
+
+
+157.
+
+    This world has not derived any advantage from my
+    coming here below. Its glory and its dignity are equally
+    unaffected by my departure. My two ears have never
+    heard any one say why I have come, or why I am forced
+    to go again.
+
+
+158.
+
+    All thy secrets are known to the wisdom of Heaven
+    [God]· He knows them hair by hair and vein by vein.
+    I admit that by power of hypocrisy you may be able
+    to deceive men, but what will you do before Him who
+    knows your misdeeds one by one in every detail?
+
+
+159.
+
+    Wine gives wings to those attacked by melancholy;
+    wine is a mole of beauty upon the cheek of intelligence,
+    we have not drunk of it during the Ramazan which
+    has passed, but now the eve of [the month of] Burak
+    hath arrived and we shall make amends.
+
+
+160.
+
+    Live in joy, for the time is coming when all the creatures
+    that you see will disappear under the earth; drink,
+    drink of wine, and never abandon yourself to the sorrow
+    of this world. Those who come after you only too soon
+    become a prey to it.
+
+
+161.
+
+    There is not a night when my mind is not in a state of
+    stupefaction. There is not one when my breast is not
+    inundated with pearls that flow from my eyes. The disquiet
+    which possesses me keeps the bowl of my head from
+    filling itself with wine, can a bowl overturned ever be
+    filled?
+
+
+162.
+
+    When my nature has seemed disposed to fasting and
+    prayer, I have a moment's hope that I am going to attain
+    the aim of my desires; but alas! a breath of wind has
+    sufficed to destroy the efficacy of my ablutions, and a
+    mouthful of wine has annihilated my fast.
+
+
+163.
+
+    All my being is attracted by the sight of beautiful,
+    rose-colored faces; my hand is aye ready to seize a cup
+    of wine. Oh, I wish to enjoy for its part what belongs
+    to each of my members, ere these same members are
+    lost in the Whole.
+
+
+164.
+
+    A worldly love knows not how to produce reflection.
+    It is like a fire half extinguished which no longer gives
+    heat. A true love should know neither tranquillity, nor
+    repose, nor nourishment, nor sleep for months and years,
+    day nor night.
+
+
+165.
+
+    How long wilt thou pass thy life in adoring thyself, and
+    seeking the cause of annihilation of thy being? Drink
+    wine, for a life that is followed by death is better spent
+    in sleep or drunkenness.
+
+
+166.
+
+    To-morrow I shall have surmounted the mountain
+    which separates us, and with indescribable happiness
+    take the cup in my hand. My mistress longs for me,
+    the day is bright; if I do not hasten to enjoy myself
+    in such a moment, when shall I find enjoyment?
+
+
+167.
+
+    There are people who through outrageous presumption
+    are sunk in pride; and others who abandon themselves
+    to the houris of celestial palaces. When the curtain is
+    raised, we shall see that they have fallen far, far, far,
+    from Thee [O God]!
+
+
+168.
+
+    We are assured that there is a Paradise for us peopled
+    with houris, and that we shall find there limpid wine and
+    honey. It must then be permitted us to love women and
+    wine here below, for is not this our end and aim?
+
+
+169.
+
+    They pretend that there exists a Paradise where there
+    are houris, where the _Koocer_ flows, where there is limpid
+    wine, honey and sugar. Oh! fill quickly a cup of wine
+    and put it in my hand, for one present joy is worth more
+    than a thousand promised for the future.
+
+
+170.
+
+    Even a mountain would dance for joy if you soaked it
+    in wine. Poor is the fool who scorns the cup. You dare
+    order me to renounce the juice of the vine! Know then
+    that wine is a soul which helps to bring man to perfection.
+
+
+171.
+
+    From time to time my heart finds itself much straitened
+    in its cage. Shameful is it to be mixed with water
+    and clay. I have often thought of destroying this prison,
+    but my foot would come in contact with a stone and slip
+    on the stirrup of the Koran's law.
+
+
+172.
+
+    They say that the moon of Ramazan [month of fasting]
+    is about to appear and that wine must no longer be
+    thought of. It is well; but let me during the remainder
+    of Cheeban [the month preceding] drink such
+    a quantity of it that I may remain drunk up to the day
+    of the fast.
+
+
+173.
+
+    Cease, if ye are my friends, all vain discourse, and,
+    to relieve my mental pains pour out the wine. And
+    when to dust my frame returns, the self-same dust
+    collect and make it brick to stop some crevice in the
+    tavern wall.
+
+
+174.
+
+    The beverage of our existence is sometimes limpid,
+    sometimes muddy. Our garments are at one time of
+    coarse wool, at another of finest fabric. All this is insignificant
+    to a clear mind; but is it insignificant to die?
+
+
+175.
+
+    No one has penetrated the secrets of the Principle
+    [First Cause]. No one has taken a step outside himself.
+    I look about and see only insufficiency from pupil to
+    master, insufficiency in all that the mother brings forth.
+
+
+176.
+
+    Restrain thy envy of the things of this world if thou
+    wishest to be happy; break the bonds which enchain
+    thee to the good and the bad here below; live contented,
+    for the periodic movement of the heavens takes its course,
+    and this life will not be of long duration.
+
+
+177.
+
+    No one has had access behind the curtain of destiny;
+    no one has knowledge of the secrets of Providence. For
+    seventy-two years I have reflected day and night, I have
+    learned nothing anywhere, and the enigma remains unexplained.
+
+
+178.
+
+    They say that at the last day there will be judgments,
+    and that our dear Friend [God] will be in anger. But
+    from pure goodness only goodness emanates. Be then
+    without fear, for finally you will see that He is full of
+    gentleness.
+
+
+179.
+
+    Drink wine, since it is that which will put an end to
+    the disquiet of thy heart; it will deliver thee from thy
+    meditations upon the seventy-two sects of the globe. Do
+    not abstain from this alchemy for, if thou drinkest but a
+    _men_ [a measure] of it, it will destroy for thee a thousand
+    infirmities.
+
+
+180.
+
+    Wine has been prohibited, perhaps, but it is only prohibited
+    according to the person who drinks it, according
+    to the quantity drunk, and according to the individual
+    with whom we drink it. These points once observed,
+    who would drink it if not the wise?
+
+
+181.
+
+    For myself, I should pour some wine into a cup that
+    would contain a pint. I should be content with two
+    cups; but first I should divorce myself thrice from religion
+    and reason, and then espouse the daughter of the
+    vine.
+
+
+182.
+
+    Yes, I drink wine, and whoever like me is far-seeing
+    will find that this act is insignificant in the eyes of the
+    Divinity. From all eternity God has known that I would
+    drink wine. If I did not drink it, His prescience would
+    be pure ignorance.
+
+
+183.
+
+    The drinker, if he is rich, ruins himself. The disorder
+    of his drunkenness provokes scandal in the world. For
+    this I should put an emerald in the bowl of my ruby pipe,
+    effectually to blind the serpent of my grief.
+
+
+184.
+
+    There are some ignorant beings who have never passed
+    a night in quest of truth, who have never taken a step
+    outside themselves, who show themselves clothed in the
+    garments of great lords and who are pleased to slander
+    those whose conduct is irreproachable.
+
+
+185.
+
+    When the azure of dawn shows itself, have the sparkling
+    cup in thine hand. They say that truth is bitter in the
+    mouth of mortals. That is a plausible reason for wine
+    being truth itself.
+
+
+186.
+
+    This is the moment when the verdure begins to ornament
+    the world, when, like the hand of Moses, the buds begin
+    to show themselves upon the branches; when, revivified,
+    as if by the breath of Jesus, the plants spring forth from
+    the earth; when finally the clouds begin to ope their
+    eyes and weep.
+
+
+187.
+
+    Keep from the trouble and vexation of aiming to acquire
+    white silver or yellow gold. Eat with thy friend,
+    ere thy warm breath be cooled, for after thee come enemies
+    who will eat thee.
+
+
+188.
+
+    Each mouthful of wine which the cupbearer pours into
+    the cup helps to extinguish the fire of anger in thy burning
+    eyes. Has it not been said, O great God, that wine
+    is an elixir which drives from the heart a hundred sorrows
+    that oppress it?
+
+
+189.
+
+    When the violet has tinted her cheeks, when the
+    zephyr has made the roses bloom, then he who is wise in
+    company with the fact will drink wine until he can dash
+    the cup against a stone [showing emptiness].
+
+
+190.
+
+    The devotee knows not how to appreciate as well as
+    we Thy divine pity. A stranger can never know Thee
+    as perfectly as a friend. [They pretend] that Thou hast
+    said: If you commit sin, I will send you into Hell. Go
+    now--tell that to one who knows Thee not.
+
+
+191.
+
+    A cup of wine is worth the empire of the universe;
+    the brick which covers the jar is worth a thousand lives.
+    The napkin with which one wipes lips moistened with
+    wine is indeed worth a thousand turbans.
+
+
+192.
+
+    O Friends! meet together [after my death]. Once reunited,
+    rejoice in being together and, when the cupbearer
+    takes in his hand a cup of old wine, remember poor
+    Khayyam and drink to his memory.
+
+
+193.
+
+    Not a single time has the Wheel of Heaven been propitious
+    to me, never for one instant has it allowed me
+    to hear a sweet voice, not a day has it given me a
+    second of happiness but that very day it has plunged
+    me into an abyss of grief.
+
+
+194.
+
+    A cup of wine is worth a hundred hearts, a hundred
+    creeds, a mouthful of this juice divine is worth the Empire
+    of China. What is there, truly, on the earth preferable
+    to wine? It is a bitter that is a hundred times
+    sweeter than life.
+
+
+195.
+
+    The Wheel of Heaven only multiplies our griefs! It
+    places nothing here below that it does not soon bear
+    away. Oh! if those who have not yet come knew
+    the suffering this world inflicts, they would guard themselves
+    well from coming here.
+
+
+196.
+
+    Drink, drink this wine which gives eternal life; drink,
+    for it is the source of youthful joy; it burns like fire,
+    but, like life's essence, drives away your care. Then
+    drink!
+
+
+197.
+
+    O Friend, to what good art thou preoccupied with
+    _being_? Why trouble thus thy heart, thy soul with idle
+    thoughts? Live happily, pass thy time joyously, for you
+    were not asked your opinion about the making of things
+    as they are.
+
+
+198.
+
+    The inhabitants of the tomb are returned to earth in
+    dust; the atoms [of which they are composed] are scattered
+    here and there, separated one from the other.
+    Alas! what is this drink in which the human race is
+    soaked and which holds it thus in dizzy ignorance of all
+    things, even to the day of doom?
+
+
+199.
+
+    O heart! act as if all the good things of this world
+    belonged to you; imagine that this house is provided
+    with everything, that it is richly furnished, and live joyously
+    in this domain of disorder. Realize that thou restest
+    here for two or three days, and that thereafter thou
+    shalt rise and go away.
+
+
+200.
+
+    The dogmas of religion admit only that which places
+    you under obligation to the Divinity. That morsel of
+    bread that you have, refuse not to others; keep from
+    speaking evil; render evil to no one, and it is I who
+    promise you a future life: bring wine.
+
+
+201.
+
+    Dragged through the rapid course of time, which accords
+    its favors only to the least worthy, my life is passed
+    in a gulf of grief and sorrow. In this garden of being,
+    my heart is hard as is the green bud of a rose; and like
+    a tulip, it is dipped in blood.
+
+
+202.
+
+    What belongs to youth is wine, the limpid juice of the
+    vine and the society of beauty; and since water once
+    brought ruin to this world by annihilating it, it is our
+    part to drown ourselves in wine, to pass our life in
+    drunkenness complete.
+
+
+203.
+
+    Bring wine from this ruby vessel and pour it into a
+    simple crystal cup; bring that thing habitual and dear
+    to every noble man. Since you know that all beings are
+    but dust, and that a two-day tempest makes them disappear,
+    bring wine.
+
+
+204.
+
+    O Thou, the quest of whom holds all in dizziness and
+    distress, the dervish and the rich are equally void of
+    means of reaching Thee. Thy name is in the speech
+    of all, but all are deaf; Thou art present to the eyes of
+    all, but all are blind.
+
+
+205.
+
+    In company with one dear friend, how pleasing to me
+    is a cup of wine. When I become the prey of care, it
+    is fitting that my eyes should be filled with tears. Oh!
+    this abject world has nothing lasting for us, and best it
+    is to dwell inebriate.
+
+
+206.
+
+    Keep thyself from drinking wine in the company of a
+    boorish, violent character, having no mind or self-control,
+    for such a man knows only how to cause unpleasantness.
+    For the time, thou wouldst have to undergo the disorder
+    of his drunkenness, his vociferations, his folly. And the
+    next day, his prayers for excuse and pardon would come
+    to weary thy head.
+
+
+207.
+
+    Since you only possess what God has given you, torment
+    not yourself to obtain the object of your covetousness.
+    Keep from burdening the heart too much, for the
+    final drama consists in leaving all and passing beyond.
+
+
+208.
+
+    O my soul! drink this limpid nectar which has not
+    been stirred; drink it in memory of the charming idols
+    which ravish the heart. Wine is the blood of the vine,
+    my friend, and the vine says to thee: Drink of me,
+    since I render it lawful to you.
+
+
+209.
+
+    In the season of flowers, drink rose-colored wine; drink
+    to the plaintive sounds of the lute, to the melodious noise
+    of the harp. As for me, I drink and rejoice in it; may
+    it be salutary to me! If you do not drink, why not be
+    willing that I should? Go, then, and eat pebbles!
+
+
+210.
+
+    Art thou sad? Take a piece of hasheesh as large as a
+    grain of barley, or drink a small measure of rose-colored
+    wine. Then you will become a Sufi. But, if you will
+    not drink of this or partake of that, nothing remains for
+    you but to eat pebbles; go, eat some pebbles!
+
+
+211.
+
+    But yesterday, I saw a potter in a bazaar treading
+    most vigorously the clay he was molding. The clay
+    seemed to say to him: I also have been like thee; treat
+    me, then, with less harshness.
+
+
+212.
+
+    If thou drinkest wine, drink it with intelligent people,
+    drink it in company with thy ravishing idols, with smiles
+    upon their lips and their cheeks tinted with the colors of
+    the tulip. Drink not too much or speak boastingly of
+    it; make it not a refrain, but drink a little from time
+    to time in quietude.
+
+
+213.
+
+    Wine should be drunk in the company of slender creatures
+    who ravish the heart with the color of their cheeks.
+    Art thou bitten by the serpent of grief, friend--drink, then,
+    of this antidote. I myself drink of it and plume myself
+    on the strength of it; would that it might be propitious!
+    If you drink it not, why not be willing that I should?
+    Go, eat some earth.
+
+
+214.
+
+    Here is the Dawn; arise, O beardless youth, and quickly
+    fill this crystal cup with ruby wine, for [later], you could
+    seek long time ere finding such a moment of existence as
+    is lent us in this world of nothingness.
+
+
+215.
+
+    'Twixt wine and Jemshid's throne, give me the wine;
+    the bouquet of the cup is sweeter than the Virgin's
+    heaven-sent fruits. The morning sigh of one inebriate
+    the bygone night is more melodious than the longdrawn
+    lamentations of Adhem or Bou-Saïd.
+
+
+216.
+
+    O my heart! since the foundation, even, of the things
+    of this world is only a fiction, why do you venture thus
+    in an infinite gulf of sorrow? Trust yourself to destiny,
+    endure the evil, for the lot which the heavenly brush
+    has traced for you will not be effaced.
+
+217.
+
+    Of all those who have taken the long road, who is there
+    now returned of whom I may ask news? O friend! beware
+    of putting any hope whatever in this sordid world,
+    for, know well that thou here shalt ne'er return.
+
+
+218.
+
+    Since each of these nights and each of these days cuts
+    off a part of thy existence, allow not the nights or the
+    days to cover thee with dust. Pass them gaily, for how
+    long, alas! shalt thou be absent, while the nights and
+    days will still be here!
+
+
+219.
+
+    This wheel of heaven which tells its secrets to no man,
+    has killed a thousand Mahmouds [Sultans] and a thousand
+    Ayaz [favorites]; drink wine, for the life of none
+    shall ever be restored. Alas! not one of all those who
+    left the world can again return!
+
+
+220.
+
+    O Thou who rulest the whole universe! knowest Thou
+    what are the days when wine rejoices the soul? They
+    are: Sunday, Monday, Tuesday, Wednesday, Thursday,
+    Friday and Saturday, all day long.
+
+
+221.
+
+    O Being, exquisite in thy enticing and coquettish charm!
+    be seated: rise no more and thus appease the fire of a
+    thousand torments. Thou enjoinest me not to look upon
+    Thee; but it is as if Thou shouldst order me to incline
+    the cup and forbid me spilling its contents.
+
+
+222.
+
+    Better to be with Thee in the tavern, and there tell
+    Thee my secret thoughts, than to go without Thee and
+    make a prayer in the mosque. Yea, O Creator of all
+    that was and all that is! such is my faith, whether Thou
+    burnest me, or accordest me Thy favor.
+
+
+223.
+
+    Consort with honest and intelligent men. Flee a thousand
+    miles away from the ignorant. If a man of mind
+    give thee poison, drink it; if an ignorant one present
+    thee an antidote, pour it upon the ground.
+
+
+224.
+
+    The clouds are still spread out above the roses and
+    seem to cover them as with a veil. The desire for wine
+    is not yet satiated in my heart. Then go not to rest, it is
+    not yet the hour. O my soul, drink of the wine; drink,
+    for the sun is still upon the horizon.
+
+
+225.
+
+    Like unto a sparrow-hawk, I am flying away from this
+    world of mysteries, hoping to lift myself to a higher
+    world; but, fallen, here below, and finding no one worthy
+    to share my secret thoughts, I go out through the door
+    by which I entered.
+
+
+226.
+
+    Thou hast put in us an irresistible passion [which is
+    equivalent to an order from Thee], and, on the other
+    hand, forbiddest us to give way to it. Poor human
+    beings are in extreme embarrassment between this order
+    and this prohibition, for it is as if Thou commandest me
+    to upset the cup but refrain from spilling the contents.
+
+
+227.
+
+    They are gone, these transients, and no one of them
+    has returned to tell the secrets concealed behind the curtain.
+    O devotee! it is by humility that spiritual affairs
+    take favorable turn and not by prayer, for, what is
+    prayer without sincerity and humility?
+
+
+228.
+
+    Throw dust upon the vault of heaven and drink some
+    wine; seek out the fair, for where see you a subject for
+    pardon, a subject for prayer, since, of all those who
+    have gone away, no one has returned?
+
+
+229.
+
+    Although on my necklace of duty I have never strung
+    the pearl of submission, as is Thy due, although never
+    in my heart have I swept the dust from Thy steps, I
+    have never despaired reaching the sill of Thy throne of
+    pity, for never have I importuned Thee with my troubles.
+
+
+230.
+
+    Let us recommence the course of our pleasures and
+    say the _tekbir_ [farewell] to the five prayers. Everywhere,
+    where the flask is present, you will see, like the neck of
+    the flask itself, our necks stretching out towards the cup.
+
+
+231.
+
+    Here below, we are only the puppets with which the
+    Wheel of Heaven is amused. This is a truth and not a
+    metaphor. We are in fact the playthings upon this human
+    checkerboard, which finally we leave to enter one
+    by one the coffin of annihilation.
+
+
+232.
+
+    You ask me what is this phantasmagoria of things here
+    below. To tell you the whole truth regarding it would
+    be too long: it is a fantastic image which comes out of
+    a vast sea, and which re-enters, later, the same vast sea.
+
+
+233.
+
+    To-day we are lost in love, we are in deep distress,
+    and finally inebriate, within the temple of our idols
+    render to the cult of wine its due. To-day, entirely separate
+    from our being, we shall have attained the step of
+    the eternal throne.
+
+
+234.
+
+    My well-beloved [would that her life might last as long
+    as my sorrows!] has commenced to be amiable to me
+    again. She cast in my eyes a sweet and furtive look
+    and disappeared, saying without doubt to herself: Do
+    good and cast it on the waters.
+
+
+235.
+
+    Here is the Dawn! Rise Thou, O Source of all Delight!
+    Drink sweetly of the wine and let us listen to the harmonies
+    of the harp, for the life of those who sleep will
+    not be long, and of those who are no more, not one will
+    e'er return.
+
+
+236.
+
+    O Thou, who knowest the secrets hidden most deeply
+    at the bottom of the heart of each, Thou who raisest with
+    Thy hand all those who fall in distress, give me the power
+    of renunciation and accept my excuses, O God!--Thou
+    who givest this power to all, who acceptest the excuses
+    of all!
+
+
+237.
+
+    I saw on the walls of the city of Thous a bird hovering
+    before the skull of Kai-Kawous. The bird said to
+    the skull: Alas! what has become of the noise of thy
+    glory and the sound of the clarion?
+
+
+238.
+
+    Raise no question of the vicissitudes of this world, nor
+    of affairs of the future. Consider what a prize we have
+    in the present moment, and disturb not thyself with the
+    past or question me about the future.
+
+
+239.
+
+    Let not the fear of future things yellow thy cheeks; let
+    not present affairs make thee tremble with fright; rejoice,
+    in this world of annihilation, at the portion of pleasure
+    which comes to you, and wait not for that which the
+    kindness of heaven may withhold.
+
+
+240.
+
+    If you will listen to me, I will give you some advice:
+    [Here it is] For the love of God put not on the mantle
+    of hypocrisy. Eternity is for all time, and this world
+    is but an instant. Then sell not for an instant the empire
+    of eternity.
+
+
+241.
+
+    How long can I hold you by my ignorance? My own
+    annihilation oppresses my heart. Straightway I gird my
+    loins with the ephod of the priests. Do you know why?
+    Because it is the fashion of the Musulman, and I am one.
+
+
+242.
+
+    O Khayyam! when intoxicate, be happy; when seated
+    near a beauty, joyous be. Since the end of things in this
+    world is annihilation, pretend that you are not, but
+    since you are, give yourself up to pleasure.
+
+
+243.
+
+    Yesterday, I visited the workshop of a potter; there I
+    saw two thousand pitchers, some speaking, others silent.
+    Each one of these seemed to say to me: Where is the
+    potter? Where is the buyer of pitchers? Where the
+    seller?
+
+
+244.
+
+    Yesterday, while passing drunk before an inn, I met an
+    old man overcome with wine and carrying a gourd of
+    wine upon his back. I said to him: O aged man! have
+    you no fear of God? He answered me: Pity comes from
+    Him; go, drink some wine.
+
+
+245.
+
+    How long will lack of success in thy enterprises grieve
+    thee? Torment is the portion of those who think of the
+    future. Live then, in joy, grieve not thy heart with the
+    cares of this world, and know that wine increases not at
+    all the bitterness of pain.
+
+
+246.
+
+    Wine, which the wise man knows how to appreciate,
+    is for me the water of life and I its prophet am. It is
+    balm for the heart, an elixir which fortifies the soul.
+    Has God Himself not said: The benefits of the human
+    race are found in wine.
+
+
+247.
+
+    Although wine be prohibited, drink it without ceasing,
+    drink it in the evening and in the morning, drink it to
+    the noise of songs and to the sound of the harp. When
+    you can, procure that which sparkles like the ruby, throw
+    a drop on the earth and drink all the rest.
+
+
+248.
+
+    Diversity of creed divides the human race into about
+    seventy-two sects. Amongst all these dogmas, I have
+    chosen that of Thy love. What signify these words:
+    Impiety, Islamism, creed, sin? My true aim is to seek
+    Thee. Far be from me all these vain, indifferent pretexts.
+
+
+249.
+
+    Enumerate my good qualities one by one; my faults,
+    pass by in tens. Pardon each sin committed for the love
+    of God. Fan not the fire of hatred by the breath of
+    passion, pardon, rather, in memory of the tomb of the
+    Prophet of God [Mohammed].
+
+
+250.
+
+    In truth, wine is a limpid spirit in the cup; in the body
+    of the flask, it is a transparent soul. No annoying person
+    is worthy of my society. It is only the cup of wine
+    which can figure there, for that is at once a solid and a
+    diaphanous body.
+
+
+251.
+
+    O Wheel of Heaven! Thou art complete in Thy ingratitude.
+    Thou keepest me constantly bare [naked]
+    like a fish. The weaver's loom weaves clothes for human
+    beings; more charitable is it than Thou, O Wheel of
+    Heaven!
+
+
+252.
+
+    O Khayyam! Time is ashamed of him who allows his
+    heart to be saddened by vicissitudes below; drink, then,
+    to the sound of the harp, drink some wine from the
+    crystal, before the crystal broken be upon a stone.
+
+
+253.
+
+    If the rose is not our portion, do not the thorns remain?
+    If light divine does not reach us, is there not the fire [of
+    hell]? If we have not the clerical mantle, or that of
+    the temple, or the pontifical, do not the bells, the church,
+    and the ephod remain to us?
+
+
+254.
+
+    If the Wheel of Heaven refuses me peace, am I not
+    ready for war? If I have not an honorable reputation,
+    have I not shame for myself? Here is the cup full of
+    wine the color of rubies; he who will not drink of it, has
+    he not his head and a stone?
+
+
+255.
+
+    See Dawn appears. Already has it rent the veil of
+    night. Arise, then, and empty the morning cup. Why
+    this sadness? Drink, O my heart! drink, for these dawns
+    will succeed each other with face turned towards us,
+    when we shall have ours turned towards the earth.
+
+
+256.
+
+    All that this world contains are but images and flourishes
+    of fiction. Ill-advised is he who does not comprehend
+    his place in the number of these images. Repose,
+    thou, friend, drink a cup of wine, give thyself up to joy
+    and thus be delivered from all these vain figures, from
+    these impossible reflections [which come to assail thy
+    mind].
+
+
+257.
+
+    When you are in the company of a beauty with cypress-like
+    figure and a color fresher than the newly-culled
+    rose, put not far from thee the flowers of the field, nor
+    let the cup escape from thy hand; [do this] before the
+    north-wind of death, like a gale which disperses the
+    leaves of the roses, tears in tatters the envelope of thy
+    being.
+
+
+258.
+
+    How long these cries, these groans against the things
+    of this world? Rise, rather, and pass gaily every instant.
+    When the universe shall be re-dressed in green from end
+    to end, drink wine in a ruby cup, full to the brim.
+
+
+259.
+
+    Give not vain thoughts free access to thy mind. Drink
+    wine throughout the year, and always cups filled to the
+    brim. Pursue the daughter of the vine and aye rejoice,
+    for it is better to enjoy the daughter without leave of
+    law than know the mother with her full consent.
+
+
+260.
+
+    My love is at the apogee of its flame. The beauty
+    of the one who captivates my soul [the Divinity] is complete.
+    My heart speaks, but my tongue remains mute,
+    refusing to express my sentiments. Great God! Has one
+    ever seen aught more strange? I am devoured by thirst,
+    and before me flows a fresh and limpid draught!
+
+
+261.
+
+    Take a cup of wine in thy hand, then mingle thy voice
+    with that of the nightingale, for, if it were meet to drink
+    this juice of the vine without accompaniment of harmonious
+    sound, the wine itself would make no noise in
+    slipping out of the flask.
+
+
+262.
+
+    Guard thyself from ever despairing for a crime committed,
+    and be mindful of the clemency of thy Creator,
+    the pity of the Master; for, should'st thou die to-day, in
+    a state of complete drunkenness, to-morrow he would
+    pardon thy decaying dust for all.
+
+
+263.
+
+    O Wheel of Heaven, thy circular course does not satisfy
+    me. Deliver me from it, for I am unworthy of thy
+    chain. If thy good pleasure consists in according thy
+    favors only to the poor in mind, to idiots, I am neither
+    intelligent enough or wise enough [to be confounded
+    by it].
+
+
+264.
+
+    O _mufti_ [grand judge] of the city! I am more a worker
+    than art thou. Drunk as I am, I own more intelligence
+    than thou; for thou, thou drinkest the blood of human
+    beings and I that of the vine. Be just and tell me
+    which is the more sanguinary of the two?
+
+
+265.
+
+    That which is wisest is to seek joy in our hearts in
+    a cup of wine; and not preoccupy ourselves too much
+    with the present or the past; and, finally, were it only
+    for an instant, to free from the shackles of reason that
+    soul which has been loaned us and which groans in its
+    prison.
+
+
+266.
+
+    The moment I shall fly from death, when, like the
+    dry leaves, the particles of my body shall detach themselves
+    from the centers of life, oh, then! with what joy
+    shall I pass across the universe, as through a sieve,
+    before the mason comes to sift my own dust.
+
+
+267.
+
+    That vault of heaven, under which we reel, we might,
+    in thought, liken to a lantern. The universe is the lantern.
+    The sun represents the light, and we, like the
+    images with which the lantern is ornamented, dwell there
+    in stupefaction.
+
+
+268.
+
+    Thou hast formed me of earth and of water, what can
+    I do? Whether I be wool or silk, it is Thou that hast
+    woven, and what can I do? The good that I do, the
+    evil that I am guilty of, were alike predestined by Thee;
+    what can I do?
+
+
+269.
+
+    O friend, come to me, and let us take no thought
+    of to-day nor to-morrow, but consider our short instant
+    of existence as spoils. To-morrow, when we shall have
+    abandoned this old tent [the world], we shall be the
+    companions of those who left it seven thousand years
+    ago!
+
+
+270.
+
+    Never for a moment be deprived of wine, for it is wine
+    that gives reflection to intelligence, to the heart of man
+    and to religion. If the devil had tasted it for one instant,
+    he would have adored Adam and have made before
+    him thousands of genuflections.
+
+
+271.
+
+    Arise, dance, and we shall clap our hands. Drink to
+    the presence of beauties with the languorous eyes of the
+    narcissus. Happiness is not very great when one has
+    emptied but a score of cups; it is strangely complete
+    when one arrives at the sixtieth.
+
+
+272.
+
+    I have shut upon myself the door of avarice, and am
+    thus free from obligation to those who are men and those
+    who do not merit the name. Since there exists but one
+    friend [God] toward whom I can extend my hand, I am
+    what I am, and that concerns only Him and me.
+
+
+273.
+
+    I am constantly saddened by the motion of this Wheel
+    of the Heavens. I am in revolt against my vile nature.
+    I have neither enough knowledge to hide myself and not
+    return to the world, nor intelligence enough to live there
+    without preoccupying myself with it.
+
+
+274.
+
+    How many people that I see upon the surface of the
+    earth are plunged in sleep [superstition]! How many I
+    perceive that are already buried in its depths! When I
+    throw my eyes over this desert of Not-being, how many
+    people I see who have not yet come--how many who
+    have already departed!
+
+
+275.
+
+    Thy pity being promised me, I have no fear of sin.
+    With the provision that Thou possessest, I have no disquiet
+    about the journey. Thy benevolence renders my
+    visage white and of the black book I have no fear.
+
+
+276.
+
+    Be not led to believe that I fear the world, or that I
+    have fear of dying, or of seeing my soul go its way.
+    Death being a truth, I have no fear of it. What I fear
+    is that I have not lived well.
+
+
+277.
+
+    How long shall we be slaves to reason and to every
+    day? What matters it whether we remain a hundred
+    years in this world, or whether we dwell here but a day?
+    Go, bring some wine in a bowl before we are transformed
+    into pitchers in the workshop of some potter.
+
+
+278.
+
+    How long will you blame us, O ignorant man of God!
+    We are the patrons of the tavern, we are constantly overcome
+    with wine. You are given up entirely to your
+    chaplet, to your hypocrisy, and your infernal machinations.
+    We, cup in hand and always near the object of our love,
+    live in accordance with our desires.
+
+
+279.
+
+    Let us sell the diadem of Khan, the crown of Kai, let
+    us sell it and buy the sound of a flute let us sell the
+    turban and the silken cassock, yea, for a cup of wine let
+    us sell the chaplet which in itself contains naught but
+    hypocrisy.
+
+
+280.
+
+    That day when the juice of the vine does not ferment
+    in my head, the universe could offer me an antidote which
+    would be a poison to me. Yea, sorrow over the things
+    of this world is a poison, and its antidote is wine. I will
+    take the antidote then that I may have no fear of the
+    poison.
+
+
+281.
+
+    How long shall we blush at the injustice of others?
+    How long shall we burn in the fire of this insipid world?
+    Arise, banish from thee the sorrow of the world, if thou
+    art a man; to-day is a feast; come, drink rose-colored
+    wine.
+
+
+282.
+
+    I am in continual war with my passions, but what can
+    I do? The memory of my deeds causes me a thousand
+    regrets, but what can I do? I admit that in Thy clemency
+    Thou mayest pardon my faults, but the shame of
+    knowing that Thou knowest what I have done, that shame
+    will remain, and what can I do?
+
+
+283.
+
+    O my soul! we two form together the parallel of a compass.
+    Although we have two points, we make but one
+    body. Actually, we turn upon the same point and describe
+    a circle, but the day will come finally, when these two
+    points shall be united.
+
+
+284.
+
+    Since this world is not a place of permanent sojourn for
+    us, it would be an enormous error to deprive ourselves
+    of wine and abstain from the favors of our well-beloved.
+    Oh, peaceable man! how long these discussions upon the
+    creation or upon the eternity of the world? When I no
+    longer am, what will it matter to me whether it be ancient
+    or modern.
+
+
+285.
+
+    Although it may be through duty that I present myself
+    at the mosque, it certainly is not for the purpose of
+    making a prayer. One day I stole a _sedjaddeh_ [prayer-rug].
+    The _sedjaddeh_ is worn out; I have returned
+    again, and still again.
+
+
+286.
+
+    Be not cast down by the troubles which we call vicissitudes
+    here below. Let us occupy ourselves only in
+    drinking pure wine, limpid wine, the color of a rose.
+    Wine, friend, is the blood of the world. The world is
+    our murderer; how shall we resist drinking the blood of
+    the heart of him who spills ours?
+
+
+287.
+
+    For the love which I bring thee, I am ready to undergo
+    all sorts of blame, and if I violate my vow, I submit
+    to the penalty. Oh! had I to endure until the last day
+    the torment that thou causest me, that space of time
+    would still seem too short.
+
+
+288.
+
+    We have arrived too late in this circle of being, and
+    have descended below human dignity. Oh! since life is
+    not passed in accordance with our vows, it is better
+    that it should be finished, for we are glutted with it!
+
+
+289.
+
+    Since the world is perishable, I would devise some
+    scheme for it; I would think only of joy, or only of the
+    limpid wine. They say to me: Would God might make
+    thee renounce it! Nay, would that He might not give
+    such command, for if He gave it, I would not obey!
+
+
+290.
+
+    When, with bowed head, I have fallen at the feet of
+    death; when this destroying angel shall have made me
+    like a bird robbed of its plumage, then of my dust make
+    nothing other than a flask, for the perfume of the wine
+    that it contains might revive me for an instant.
+
+
+291.
+
+    When I examine closely the things of this world, what
+    I see is that human beings in general appropriate to themselves,
+    without merit on their part, the good it contains.
+    As for me, O God All-Powerful! I meet only
+    the reverse of my desires in all that falls under my eyes!
+
+
+292.
+
+    It is I who am the chief of habitual patrons of the
+    tavern; it is I who am plunged in rebellion against the
+    law, it is I who, during the long nights, soaked in pure
+    wine, cry out to God the griefs of my heart imbrued with
+    blood.
+
+
+293.
+
+    How grow the nights without which we could not
+    close our eyes, and before which a cruel fate comes first
+    to sadden us! Arise, and let us breathe an instant ere
+    the breath of the morning stirs, for, very long, alas!
+    will this Dawn breathe when we no longer breathe!
+
+
+294.
+
+    Come, see the Dawn, and, with a full cup of rose-colored
+    wine in hand, let us breathe for an instant. As
+    for honor, reputation, that fragile crystal, let us break it
+    against a stone. Renounce insatiable desires, and stroke
+    the silken tresses of the fair and list the harmonies of the
+    harp.
+
+
+295.
+
+    In this world, where each breath we breathe leads to
+    a new sorrow, it is better never to breathe an instant
+    without a cup of wine in hand. When the breath of
+    Aurora makes itself felt, arise and, time after time, empty
+    the cup, for [as I have told you] this Dawn will breathe
+    for long, long years when we no longer breathe.
+
+
+296.
+
+    Should I commit all the sins of the universe, still Thy
+    pity, I dare believe, would extend its hand to me. Hast
+    Thou not promised to put off the day when I should be
+    a prey to my infirmities? [Accomplish Thy promise and
+    for that] exact not a state more frightful than that in
+    which Thou seest me at this moment.
+
+
+297.
+
+    If I am drunk with old wine, ah, well! I am. If I am
+    an infidel, fire worshipper or idolater, ah, well! that I am.
+    Each group of individuals forms some idea on my account.
+    But what matters it? I belong to myself and I
+    am what I am.
+
+
+298.
+
+    From the time since I am, I have not been for an instant
+    without drunkenness. This night is that of _Kidr_
+    and I this night am drunk; my lips are glued to that of
+    the cup and, leaning my breast against the jar, I have
+    held the neck of the flask in my hand until day.
+
+
+299.
+
+    I am constantly attracted by the sight of limpid wine,
+    my ears are ever attentive to the melodious sounds of
+    the flute and of the _rubab_ [viol]. Oh, if the potter make
+    a pitcher of my dust, would that that pitcher might constantly
+    be full of wine!
+
+
+300.
+
+    I understand all that annihilation and being apparently
+    mean; I know the foundation of lofty thought. Ah, well!
+    may all this knowledge be annihilated in me if I recognize
+    in man a higher state than that of drunkenness!
+
+
+301.
+
+    I indeed drink wine, but I commit no disorder. I
+    stretch out my hand, but it is only to seize the cup.
+    Would you know why I am an adorer of wine? It is
+    because I do not wish to imitate you and be an adorer
+    of myself.
+
+
+302.
+
+    Are you discreet enough for me to tell you in a few
+    words what man has been from the beginning? A miserable
+    creature, moulded in the clay of chagrin. He has,
+    for a few years, eaten his morsel here below, and then
+    has raised his foot and gone away.
+
+
+303.
+
+    It is the rim of the wine-jar which we have chosen for
+    our place of prayer; it is in making use of wine that we
+    are rendered worthy of the name of man; it is in the
+    tavern that we get back the time lost in the mosque.
+
+
+304.
+
+    It is we who are the true aim of universal creation; it
+    is we who, in the eyes of wisdom, are the essence of divine
+    regard. The circle of this world is like a ring and,
+    without doubt, we are the jeweled signet of it.
+
+
+305.
+
+    Drunkenness has transported us from our own misery
+    here below to untold joys; from our humble condition, it
+    has raised our heads to the skies. Nevertheless, behold
+    us finally freed from our thraldom to the body! Behold
+    us returned again to the earth, whence we came!
+
+
+306.
+
+    If I have eaten during the days of Ramazan, do not
+    believe I did it through inadvertence. The fatiguing
+    hardships of the fast have so turned about my days and
+    nights [the one for the other] that I have always believed
+    in eating the morning repast.
+
+
+307.
+
+    We have constantly heads overcome with wine; the
+    presence of wine alone animates our society. Then
+    leave off thy counsel, O ignorant penitent! [you see
+    that] we are the adorers of wine, and that the lips of
+    the object of our love are turned to our desires.
+
+
+308.
+
+    This is the season of roses. Oh! I would now give
+    rein to one of my desires. I would commit an act which
+    infringes on the law of the Koran. Yea, for some days,
+    in company of the fair with velvet and bright tinted cheeks
+    spreading rose-colored wine over the green turf, I would
+    transform the plain into a field of tulips.
+
+
+309.
+
+    When in this world joy seizes us, when it gives to our
+    complexion the brilliant lustre of the courser of the firmament
+    [the sun], then I love to be in a green prairie
+    in the midst of beauties with velvet cheeks, and partake
+    with them of this sweet green hasheesh ere going again
+    myself under this earth covered with green sod.
+
+
+310.
+
+    Never have we tasted in happiness a drop of water
+    without the hand of grief appearing to present to us its
+    bitter beverage. Never have we dipped a piece of bread
+    in salt without the salt returning to re-open half-healed
+    wounds of the heart.
+
+
+311.
+
+    Take care, take good care of making noise in a tavern!
+    Pass the time there, but avoid all agitation. Sell the
+    turban, sell the book [the Koran] to buy wine. Finally,
+    let us pass through the _medresseh_ [school of the mosques],
+    but let us not stop there.
+
+
+312.
+
+    Every day, at dawn, I go to the tavern. There I give
+    myself to the company of _kalendar_ hypocrites. O Thou,
+    who art the master of secrets most concealed, give me
+    faith, if Thou wishest me to apply myself to prayer.
+
+
+313.
+
+    To the cares of this world, let us not accord as much
+    value, even, as to a grain of barley; oh! let us be happy!
+    If we have something for breakfast, we may have nothing
+    for dinner; oh! let us be happy! Although nothing
+    well cooked comes to us from the kitchen, let us not address
+    our troublesome prayers to any one; oh! let us be
+    happy!
+
+
+314.
+
+    Not a single day do I feel myself free from the troublesome
+    bonds of this world; not for a single instant do I
+    breathe contented with my being. I have long served
+    an apprenticeship to human vicissitudes, and I have not
+    yet become master, either in that which concerns this
+    world, or in what has to do with the other.
+
+
+315.
+
+    We, in one hand, take the Koran; with the other we
+    seize the cup: sometimes you see us carried away with
+    that which is lawful, sometimes with what is prohibited.
+    We, then, beneath this azure vault, are not completely
+    infidel, or absolutely Musulman.
+
+
+316.
+
+    Present a salutation on my account to Mostapha, and
+    afterward say to him with all the deference due: O
+    Lord Hachemite! why, in accordance with the law of the
+    Koran, is the sharp _doug_ [whey] lawful, yet pure wine
+    prohibited?
+
+
+317.
+
+    Present a salutation on my part to Khayyam, and then
+    say to him: O Khayyam! you are an ignorant man. When
+    have I said that wine was prohibited? It is lawful for
+    intelligent men; it is prohibited only to the ignorant.
+
+
+318.
+
+    O thou that lusteth night and day for the goods of
+    this world, dost thou not reflect upon the terrible day?
+    Take into consideration thy last breath, come back to
+    self, and see how time deals with others.
+
+
+319.
+
+    O thou who art the summing up of the universal creation,
+    cease for an instant to occupy thyself with gain or
+    loss; take a cup of wine from the hand of the etern
+    cupbearer, and free thyself thus altogether from the cares
+    of this world and from those of the other!
+
+
+320.
+
+    If you know to what to cling upon this walk around
+    a circle without end, you must recognize two classes
+    of men: those who understand perfectly its good and its
+    bad side, and those who have no notion either of themselves
+    or of things here below.
+
+
+321.
+
+    Render light to my heart the weight of the vicissitudes
+    of this world. Conceal from mortals my reprehensible actions.
+    Render me happy to-day, and to-morrow make me
+    what thou deemest worthy of Thy pity.
+
+
+322.
+
+    For him who makes account of human ills, joy, sorrow,
+    pain are all identical. The good and the bad of
+    this world must one day end. What matters it whether
+    all be torment or pleasure for us?
+
+
+323.
+
+    Now that the nightingale has made its voice heard,
+    think no longer of anything, but seize the ruby cup of
+    wine from the hand of the drinkers; arise, come, for the
+    rose blossoms are breathing out joy; avenge thyself,
+    avenge thyself for two or three days for the torments
+    thou hast endured.
+
+
+324.
+
+    Notice this cup made of clay; it is possessed of a
+    soul! They say a jasmine produces the flowers of the
+    Judas-tree. But what do I say? The shining purity of
+    wine is a cause of my error? Oh, no [it is not wine], it is
+    diaphanous water shot with a liquid fire.
+
+
+325.
+
+    Arise, leave the cares of this world which are fleeting;
+    be joyous, pass gaily this life of a moment, for if the
+    favors of heaven had been constant to others, this turn
+    of joy would not have come to you.
+
+
+326.
+
+    Listen to me, O thou who hast not seen old friends
+    [of experience]! Vex not thyself with this Wheel of
+    Heaven which has neither surface nor foundation: content
+    thyself with what thou hast and, as a peaceable spectator,
+    observe here below the various games to which men are
+    destined.
+
+
+327.
+
+    Employ all thy efforts to be agreeable to drinkers,
+    and follow the good counsel of Khayyam. O friend!
+    demolish the bases of prayer and of fasting, drink wine,
+    steal if you will, but do good.
+
+
+328.
+
+    Justice is the soul of the universe, the universe is the
+    body. The angels are the wit of the body, the heavens
+    the elements, the creatures in it are the members; behold
+    here the eternal unity. The rest is only trumpery.
+
+
+329.
+
+    Yesterday evening, in the tavern, the object of my
+    heart that ravishes my soul [God] presented me a cup
+    with a ravishing air of sincerity and a desire to please
+    me, inviting me to drink. No, said I to him, I will
+    not drink. Drink, he answered me, for the love of my
+    heart.
+
+
+330.
+
+    Do you wish the universe to submit itself to your will?
+    Occupy yourself without ceasing in fortifying your soul.
+    Share my mood, which consists in drinking wine and
+    never taking to myself the cares of things here below.
+
+
+331.
+
+    The sages who have well considered this world of
+    dust, this sojourn of inconstancy from one end to the
+    other, see nothing in it agreeable but wine in ruby
+    cups and beautiful countenances.
+
+
+332.
+
+    Thanks to the iniquity of this Wheel of Heaven which
+    resembles a mirror, thanks to the periodic motion of
+    time which accords its favors only to the most abject,
+    my cheeks, hollowed like a cup, are bathed in tears; but,
+    like a flask, my heart is full of blood.
+
+
+333.
+
+    Yesterday [before day], in company with a charming
+    friend and a cup of rose-colored wine, I was seated on
+    the border of a brook. Before me stood the cup, that
+    shell, of which the pearl [contained in the cup] shed
+    such a brilliant light that the herald of the sun, awaking
+    with a start, announced the Dawn.
+
+
+334.
+
+    Forget the day which has been cut off from thy existence;
+    disturb not thyself about to-morrow, which has not
+    yet come; rest not upon that which is or that which
+    is no more; live happily one instant and throw not thy
+    life to the winds.
+
+
+335.
+
+    Art not ashamed to give thyself to corruption?--to
+    neglect thus both what is commanded and what is forbidden?
+    Even if you succeed in appropriating all the
+    goods of the earth to yourself, what can you do with
+    them except to abandon them in your turn?
+
+
+336.
+
+    I have seen a man betake himself to sterile soil. He
+    was neither a heretic nor a Musulman; he had neither
+    riches nor religion, nor God, nor truth, nor law, nor certitude.
+    Who in this world or in the other would have
+    so much courage?
+
+
+337.
+
+    One host of men is pondering upon belief, or on the
+    faith; others are hovering between doubt and certainty.
+    But suddenly behind the veil there's one will cry: O
+    ignorant ones! the way that you seek is neither here
+    nor there!
+
+
+338.
+
+    There hangs in the heavens a bull called Parwin
+    [Pleiades], and another bull is underneath the earth. To
+    the eyes of intelligence or those who live in certainty,
+    I show a herd of asses placed between two beeves.
+
+
+339.
+
+    Some said to me: Drink less of wine. What reason
+    have you for not giving it up? The reason that I give
+    is first the face of my friend [God] and secondly the
+    morning cup. Be just and tell me, Is it possible to give
+    a more luminous reason?
+
+
+340.
+
+    If I possessed in the heavens the power which God
+    exercises there, I would destroy the people of this world,
+    and others I would make in my own way, so that man,
+    freed [from the bonds of superstition], could attain here
+    below the desires of his heart.
+
+
+341.
+
+    My poor heart, full of grief and folly, has not been
+    able to free itself from drunkenness where passion for
+    my well-beloved has plunged it. Oh! the day when the
+    wine of this love was distributed, my portion was, without
+    doubt, drawn from the blood of my heart!
+
+
+342.
+
+    To drink wine and seek beautiful faces is wiser than
+    to practise hypocrisy and apparent devotion. It is evident
+    that if there exist a Hell for lovers and drinkers,
+    no one would wish for Paradise.
+
+
+343.
+
+    Scorn the words of coquettish women, but accept limpid
+    wine from the hand of those whose mien is irreproachable.
+    You know that all those who have made their appearance
+    in this world are partly of one kind and partly
+    of the other, and it is not given to any to see a single
+    one that may come back.
+
+
+344.
+
+    It is not necessary to soften and disgrace a joyous heart
+    by sorrow, to break under the stones of torment our
+    moments of delight. As no one is able to tell what is
+    to be, what is necessary is some wine, a beloved mistress
+    [the Divinity], and repose according to our desires.
+
+
+345.
+
+    Yes, it is beautiful to enjoy good fame; it is shameful
+    to complain of the injustice of heaven; it is better to
+    become drunk with the juice of the grape, than to be
+    puffed up with false devotion.
+
+
+346.
+
+    O God! be pitiful to my poor imprisoned heart; show
+    pity to my bosom, susceptible to so much sorrow; pardon
+    my feet which lead me to the tavern; pardon my hand
+    which seizes the cup!
+
+
+347.
+
+    O God! deliver me from calculating, more or less, upon
+    the things of this world; make me preoccupied with Thee,
+    and free me from myself. While I have my sound reason
+    good and bad are known to me; render me drunk and
+    free me from this knowledge of good and bad.
+
+
+348.
+
+    This Wheel of Heaven runs after my death and thine,
+    my friend· it conspires against my soul and thine.
+    Come, seat thyself upon the turf, for, indeed, small time
+    remains to us before new turf shall germinate from my
+    dust and from thine.
+
+
+349.
+
+    When we shall have lost my soul and thine, they will
+    place bricks upon thy tomb and mine. Then, in order
+    to cover other tombs with bricks, they will throw my dust
+    and thine into the kiln of the brick-maker.
+
+
+350.
+
+    In this castle which by its splendor rivals the heavens,
+    this castle to which sovereigns succeeded with delight, we
+    have seen a turtledove seated on the ruined battlements
+    crying: Kou, kou, kou, kou [Where? Where?].
+
+
+351.
+
+    What advantage has our coming into this world produced?
+    What advantage will result from our departure?
+    What remains to us of the heap of hopes that we have
+    conceived. Where is the smoke of all the pure men who
+    under the celestial fire have been consumed and become
+    dust?
+
+
+352.
+
+    O Thou whose lips secrete the water of life, permit
+    not those of the cup to come and kiss them! [Oh, if
+    Thou shouldst permit it], may I lose the name of man
+    if I am not soaked in the blood of the flask, for what is
+    it, this cup, to dare to touch its lips to Thine?
+
+
+353.
+
+    I am such as Thy power has made me. I have lived a
+    hundred years filled with Thy benevolence and benefits.
+    I would like still a hundred years to commit sin and to
+    see if the sum of my faults outweighed Thy pity.
+
+
+354.
+
+    Now take thy cup, carry away the gourd, O Charm of
+    my Heart! and go, explore the plains, the borders of
+    the brooks, for indeed idols, like to the moon in the light
+    of their beautiful countenances, have a hundred times
+    been transformed into cups, a hundred times have they
+    become gourds.
+
+
+355.
+
+    It is we who buy old wine and new wine, and it is we
+    who sell the world for two grains of barley. Know where
+    you will go after death? Bring me some wine and go
+    where you will.
+
+
+356.
+
+    Who is the man who here below has not committed
+    sin; can you say? Had he not committed it, could he
+    have lived, can you tell? If, because I do evil, you
+    punish me for evil, what then is the difference between
+    you and me, can you say?
+
+
+357.
+
+    Oh! where is that one whose lips are of rubies, where
+    that precious stone of Bedekhchan? Where is that wine
+    full of perfume which gives repose to the soul? They
+    say that the religion of Islam prohibits it; drink, friend,
+    and have no fear, for where do you see Islam?
+
+
+358.
+
+    Best is it to abstain from all that is not joyful; and
+    best it is to receive the cup from the hands of odalisques
+    shut up in the palaces of the princes; but best of all is
+    drunkenness, indifference to the Kalendars, forgetfulness
+    of self. A mouthful of wine, finally, is worth more
+    than all that exists in the space between Mah and
+    Mahi.
+
+
+359.
+
+    For thee, that which is best is to flee from the seeking
+    of knowledge and devotion; to finger the tresses of
+    thy ravishing friend; to pour into the cup the blood
+    of the vine ere time has spilled thine own.
+
+
+360.
+
+    O friend! be in repose amidst human vicissitudes; disturb
+    not thyself in vain because of the march of time.
+    When the envelope of thy being shall be torn in tatters,
+    what matters what thou hast done, what thou hast said,
+    or how defiled thou mayest be?
+
+
+361.
+
+    O thou who hast not done good, but who hast done
+    evil, and who hast afterward sought refuge in the Divinity,
+    guard thyself from relying upon pardon; for he who
+    has done nothing resembles no more him who has sinned
+    than he who has sinned resembles him who has done
+    nothing!
+
+
+362.
+
+    Count upon life not longer than the sixtieth year.
+    Place thy foot in no direction without being overcome
+    with wine. As long as thy skull hath not been made a
+    pitcher, go always on thy way, nor take the wine-gourd
+    from thy shoulder or the wine-cup from thy hand.
+
+
+363.
+
+    This firmament is a porringer overturned upon our
+    heads. Wise men, thereat, humble and unpresumptuous
+    are. But see the friendship which obtains between the
+    cup and the flask. Lip against lip are they, and twixt
+    them ever flows the blood.
+
+
+364.
+
+    I have swept the sill of the tavern with my hair. Yes,
+    I have given up reflecting upon the good and the bad
+    in this world and the next. I saw them, like two bowls,
+    rolling in a ditch, when I was sleeping overcome with
+    wine, and I no more occupied myself with them than if
+    I had seen a grain of barley rolling along.
+
+
+365.
+
+    The drop of water began to weep on being separated
+    from the ocean. The ocean began to laugh, saying to
+    it: It is we who are all; in truth, there is no other God
+    beside us, and if we are separated, it is only by a simple
+    point almost invisible.
+
+
+366.
+
+    How long shall I trouble myself with the care of knowing
+    whether I possess or do not possess--if I ought or
+    ought not to pass life gaily? Fill ever the cup of wine,
+    O cupbearer! for I do not know whether I shall breathe
+    out this breath that I am actually breathing or not.
+
+
+367.
+
+    Become not a prey to sorrow in this world of iniquity;
+    recall not to thy soul the memory of those who are no
+    longer here; give up thy heart only to a friend with sweet
+    lips and fairy-like in form and never be deprived of
+    wine, or throw life to the winds.
+
+
+368.
+
+    How long will you speak to me of the mosque, of
+    prayer and fasting? Go rather to the tavern and intoxicate
+    yourself, and even for that ask alms. O Khayyam!
+    drink wine, drink; for this earth of which thou
+    art composed will be made into cups, bowls, and pitchers.
+
+
+369.
+
+    So in this palace of brief being, you ought, O wise man,
+    to give yourself up to rose-colored wine. Then each
+    atom of your dust that the wind carries away will fall
+    on the sill of the tavern, all saturate with wine.
+
+
+370.
+
+    Note how the zephyrs have made the roses bloom!
+    Note how their fragrant beauty glads the nightingale!
+    Go, then, repose in the shadow of these flowers, for
+    very speedily they depart from the earth and very often
+    ne'er return again.
+
+
+371.
+
+    Behold us re-united in the midst of lovers; behold us
+    freed from the pain which time inflicts; having emptied
+    the cup of His love, behold us all free, all tranquil, all
+    o'ercome with wine.
+
+
+372.
+
+    Suppose that you have lived in this world in accordance
+    with your desires; ah, well! after that? Think to
+    yourself that the end of your days has arrived; ah, well!
+    after that? Admitting that you have lived for a hundred
+    years surrounded by all that your heart could desire,
+    imagine in your turn, that you have another hundred
+    years to live; ah, well! after that?
+
+
+373.
+
+    Do you know how the cypress and the lily have acquired
+    the name for freedom which they enjoy among men?
+    It is because one has ten tongues but remains mute, and
+    the other possesses a hundred hands and keeps them all
+    empty.
+
+
+374.
+
+    O cupbearer! put into my hand some of that delicious
+    wine, some of that juice attractive as a charming idol,
+    some of that nectar, in short, which like a chain whose
+    links, turning and returning upon each other, hold fools
+    and sages alike in sweet captivity.
+
+
+375.
+
+    O regret! that life should be passed in pure loss! How
+    lawless all our eating and how defiled our bodies! I
+    have the blame, O God! of not having done what Thou
+    hast commanded. What will come to me for having done
+    what Thou hast not commanded?
+
+
+376.
+
+    Fret not thyself on account of the inconstancy of
+    this world; seek wine and draw near to thy caressing
+    mistress, for, thou seest that he whom his mother brought
+    forth to-day to-morrow disappears from the earth--to-morrow
+    returns to annihilation.
+
+
+377.
+
+    I can renounce all else, but wine never; for I have the
+    means of making amends for all else, but of wine, never.
+    O God! could one like me become a Musulman and renounce
+    old wine? Never.
+
+
+378.
+
+    We are all lovers, all drunkards, all adorers of wine.
+    We are all united in the tavern, having banished far
+    from us all that is good, all that is evil, all reflection
+    and revery. Oh! expect not intelligence or reason of us,
+    for we are all overcome with wine.
+
+
+379.
+
+    It is we who have confidence in the divine goodness,
+    who have shaken off the ideas of obedience and sin; for
+    where Thy benevolence exists, O God, he who has done
+    nothing is equal to him who has done something.
+
+
+380.
+
+    Thou hast imprinted on our being, O God, such singular
+    phantasma of inconsequence, and hast made to rise such
+    strange phenomena. Myself cannot be better than I am,
+    for Thou hast taken me as I am from out creation's
+    crucible.
+
+
+381.
+
+    We have violated all the vows that we have made; we
+    have closed upon us the door of what is called good and
+    what is called bad. Then blame me not if you see me
+    committing senseless deeds, for we are drunk with the
+    wine of love, and all are drunk as we.
+
+
+382.
+
+    A mouthful of old wine is of more worth than a new
+    empire. The wise man will reject all that is not wine.
+    A cup of this nectar is a hundred times preferable to
+    the kingdom of Feridoun. The lid which covers the wine-jar
+    is more precious than the diadem of Kai-Khosrou.
+
+
+383.
+
+    O my heart! thou canst not penetrate the enigmatical
+    secrets of the heavens; thou canst never reach the culminating
+    point to which intrepid sages have attained.
+    Be content, then, to organize a Paradise here below, in
+    making daily use of cup and wine, for wilt thou ever reach
+    that future Paradise? Thou never wilt.
+
+
+384.
+
+    Those who are gone before us, O cupbearer! are imbedded
+    in the dust of pride. Go, drink wine; go, listen
+    to the truth that I tell you: All those who have gone
+    ahead are but as the wind; know it well, O cupbearer!
+
+
+385.
+
+    From afar has appeared a filthy shape. It is said that
+    its body was covered with a shirt made of the smoke
+    of Hell. It was neither a man nor a woman. It has
+    broken our flask and spilled upon the earth the ruby wine
+    it contained, glorifying itself at having done a deed worthy
+    of a man.
+
+
+386.
+
+    O my heart! when thou art admitted to sit at the banquet
+    of this idol [the Divinity], it is after thou hast gone
+    out of thyself in order to re-enter thyself again. When
+    thou hast tasted a mouthful of the wine of annihilation,
+    thou art entirely separate from those that are and from
+    those that are no more.
+
+
+387.
+
+    Yes, I have found myself in close acquaintance with
+    wine, with drunkenness. But why does the world blame
+    me for it? Oh! would to God that all which is illegal
+    might produce drunkenness! For then never here below
+    should I have seen a shadow of sound reason.
+
+
+388.
+
+    Thou hast broken my pitcher of wine, my God! Thou
+    hast shut upon me the portals of joy, my God! Thou
+    hast poured upon earth my limpid wine, my God! Oh!
+    [would that my mouth were filled with earth!] couldst
+    Thou have been drunk, my God?
+
+
+389.
+
+    O thou who art the result of the four [elements] and
+    the seven [heavens], I see you in perplexity amongst
+    these four and seven. Drink wine, for, as I have said
+    to you more than four times, you will return no more;
+    once departed, you are gone indeed.
+
+
+390.
+
+    On one hand, Thou hast raised a hundred ambushes
+    about us; on the other, Thou sayest to us: If ye put
+    foot there, ye shall be caught by death. It is Thou who
+    spreadest snares, and whoever falls there, Thou bringest
+    to a stand! Thou givest him to death and callest him
+    rebel!
+
+
+391.
+
+    O Thou whose mysterious essence is impenetrable to
+    intelligence, Thou who carest no more for our obedience
+    than our faults, I am drunk with sin, but the confidence
+    that I have in Thee renders it right for me. Know
+    Thou, that I count upon Thy pity.
+
+
+392.
+
+    If this world's things were only based on show, oh!
+    then each day would be a feast. Oh! were it not for
+    these vain threats, each could attain below the aim of his
+    desires, without a fear.
+
+
+393.
+
+    O Wheel of Heaven! thou fillest constantly my heart
+    with woe. Thou killest in me the germ of joy, with
+    water ladening the air which, would breathe, and changest
+    into mud the water that I drink.
+
+
+394.
+
+    O my heart! if thou free thyself from the grief inherent
+    in matter, thou shalt become a soul in all its purity; thou
+    shalt mount to the heavens, thy residence shall be the
+    firmament. Oh! how thou shouldst suffer from shame
+    at inhabiting the earth!
+
+
+395.
+
+    O potter! be attentive, if thou possessest sound reason!
+    How long wilt thou abase man in moulding his clay? It
+    is the finger of Feridoun, the hand of Kai-Khosrou which
+    you thus put upon your wheel.
+
+
+396.
+
+    O rose! thou art the face of some young ravishing
+    fair! O wine! thou art the ruby whose brightness joys
+    my soul! O fateful fortune! each instant thou appearest
+    more strange to me, and nevertheless I seem to know
+    thee.
+
+
+397.
+
+    From the cookery of this world, thou only absorbest
+    the smoke. How long, plunged in the search for being
+    and annihilation, wilt thou be the prey of sorrow? This
+    world contains only loss for those who attach themselves
+    to it. Now disregard this loss, and all for thee will
+    benefit become.
+
+
+398.
+
+    As for us, let us not try to torment men in their
+    sleep; let us refrain from making them utter at midnight
+    the lamentable cry _O my God! O my God!_ [as others
+    do]. Rest not upon riches or beauty, for the one will
+    take wings in the night, and the other, in the night also,
+    will be ravished.
+
+
+399.
+
+    If from the commencement Thou hadst wished to make
+    me known to _myself_, why later, hast Thou separated me
+    from this _myself_? If from the first day Thy intention
+    was to abandon me, why hast Thou thrown me, all
+    amazed, into the midst of the world?
+
+
+400.
+
+    Oh! would to God that there existed some place of repose--that
+    the road we follow had some settled end!
+    Would God that, after a hundred thousand years, we
+    could conceive the hope of one new birth of heart upon
+    the earth as the green turf is born again!
+
+
+401.
+
+    While I was drawing a horoscope in the book of love,
+    suddenly, from the burning heart of a wise man came
+    these words. Happy is he who entertains in his dwelling
+    a friend as beautiful as the moon, and who has in prospect
+    a night as long as a year!
+
+
+402.
+
+    The constant sequence of springtime and autumn makes
+    the leaves of our existence disappear. Drink wine, my
+    friend, for sages have well said that grief in this world
+    is a poison and its antidote is wine.
+
+
+403.
+
+    O my heart! drink of wine, drink of it in a garden
+    and enjoy the presence of thy friend [the Divinity]; renounce
+    hypocrisy and show. Is it the doctrine of Ahmed
+    you follow? In that case, draw from the fountain-head
+    a cup of wine into the bowl which Ali, in his round of
+    cupbearing, shall serve.
+
+
+404.
+
+    But yesterday, at eve, I broke a china cup against a
+    stone. I was drunk when committing this senseless act.
+    This cup seemed to say to me: «I have been like thee;
+    thou wilt, in thy turn, be like me.»
+
+
+405.
+
+    The flowers are in blossom, O cupbearer! bring wine.
+    Leave thy acts of worship, O cupbearer! Ere the angel
+    of death put a watch upon us, come, and with a cup of
+    ruby wine in hand, let us rejoice while yet there are
+    some days with the sweet presence of the friend [the
+    Divinity].
+
+
+406.
+
+    Arise, get off thy bed, O cupbearer! and pour the
+    limpid wine. Before they yet make pitchers of our
+    skulls, pour out some wine from pitcher into bowl, O
+    cupbearer!
+
+
+407.
+
+    This hypocrisy [which I everywhere see], O cupbearer!
+    crushes my heart with weariness. Arise, and gaily bring
+    me wine, O cupbearer! and to procure it, put in pawn
+    the prayer-rug and the turban. Perhaps my arguments
+    will then rest upon a solid basis.
+
+
+408.
+
+    Examine thyself, if thou art intelligent, and observe
+    what thou hast brought in the beginning and what thou
+    wilt carry away at the end. Thou sayest that thou dost
+    not drink because one must die. Whether thou drinkest
+    friend, or dost not drink, thou needs must die.
+
+
+409.
+
+    Open the door, for it is only Thou who canst open it;
+    show me the way, for it is only Thou who canst show a
+    way of safety. I will give my hand to none of those who
+    wish to lead me, for all are perishable, and only Thou
+    eternal.
+
+
+410.
+
+    All that you tell me emanates from hatred [O mullah]!
+    You never cease to treat me as an atheist, a man
+    without religion. I am convinced of that which I am,
+    and I avow it; and should I be right, is it for you to
+    lecture me thus?
+
+
+411.
+
+    Resign yourself to grief if you would find a remedy,
+    and do not complain of your suffering if you would cure
+    it. In poverty, be thankful to Providence, if you wish
+    some day to have riches for your portion.
+
+
+412.
+
+    I have seen a wise man in the house of a drunken man
+    at evening. I asked him if he could give me some news
+    of the absent. He answered me: Drink wine, friend, for
+    many like you have gone out but have never returned.
+
+
+413.
+
+    I seek a flask of ruby wine, a book of verse, a momentary
+    peace in life and bread enough. And if with
+    these, my friend, in some lone spot with thee I could
+    repose, 'twould be a happiness above a Sultan's regal joy.
+
+
+414.
+
+    How long these arguments upon the five and the four,
+    O cupbearer? In comprehending one, O cupbearer! it is
+    difficult to grasp a hundred thousand. We are all of earth,
+    O cupbearer! strike the harp: we are all as the wind,
+    bring the wine, O cupbearer!
+
+
+415.
+
+    How long will you speak of Yassin and Berat, O cupbearer?
+    Give me a treatise upon the tavern, O cupbearer!
+    The day that it is closed will be for me the night of
+    Berat, O cupbearer!
+
+
+416.
+
+    While you have in your body bones, veins, and nerves,
+    place not your foot outside the limits of your destiny.
+    Yield never to your enemy, be that enemy Rustum,
+    son of Zal; accept nothing which puts you under obligation
+    to a friend, be that friend Hatim-tai.
+
+
+417.
+
+    You may indeed be taken with lips tinted with the
+    color of the ruby, you may indeed appreciate the cup of
+    wine, you may indeed call for the noise of the drum, the
+    sound of the harp and of the flute, but these are only
+    trifles. God is my witness, while you do not break the
+    bonds of this dark world, you nothing are.
+
+
+418.
+
+    Bestir yourself, since you are under this tyrannic vault;
+    drink wine, since you are in this world, a seat of woe.
+    And, from beginning to the end, being only earth, act
+    like a man who is upon the earth, and not as if thou
+    wert beneath the earth.
+
+
+419.
+
+    Since you all secrets know, my friend, why be a prey
+    to so many vain torments? Suppose things do not fall
+    in touch with your desires, you can at least be gay while
+    you still breathe.
+
+
+420.
+
+    Everywhere I cast my eyes I believe I see the sod of
+    Paradise and the brook of Koocer. They say the field
+    outside of Hell is transformed into a celestial sojourn.
+    Rest then in that celestial place near some celestial fair.
+
+
+421.
+
+    Follow no other way than that which the Kalendar
+    follows; seek no other place than the tavern; occupy
+    yourself only with wine, song and the friend [the Divinity];
+    place in your hand a cup of wine, upon your back
+    a gourd; drink, O dear object of my heart! drink and
+    speak not of foolish things.
+
+
+422.
+
+    Do you wish life to rest upon a rock? Do you wish
+    life for some time free to be from grief? Dwell for one
+    instant without drinking wine, then at each breath you'll
+    find a new attraction in existence.
+
+
+423.
+
+    In this world, this house of pilferers, it is useless to
+    count upon a friend. Listen to the counsel I give you,
+    and confide it to no one. Bear your suffering and seek
+    no remedy here, be happy in your sorrows and try not to
+    divide them with another.
+
+
+424.
+
+    There are two things which are the foundation of wisdom
+    and which ought to be put among the number of the
+    most important unproclaimed revelations. Not to eat of
+    anything which eats of other things, and to keep oneself
+    unsullied by all that lives.
+
+
+425.
+
+    How is it that at the commencement of springtime the
+    verjuice of the vine is sharp? And afterwards, how
+    does it become so sweet? And then how do we find
+    the wine so bitter? If one makes viols of a piece of
+    wood by means of a curvèd knife, who would say on
+    seeing it that a flute could be fashioned by the same
+    means?
+
+
+426.
+
+    Know you why, at the break of day, the early-rising
+    cock makes its voice heard each moment? It is to tell
+    you, through the mirror of the morning, that one more
+    night has slipped away from your existence, and that
+    you are still in ignorance.
+
+
+427.
+
+    Give me some of this ruby wine, tinted like the tulip.
+    Pour from the neck of the flask the pure blood it contains,
+    for, to-day I can see, outside this cup of wine, no
+    friend whose inner man is pure.
+
+
+428.
+
+    Pour me, O cupbearer! some wine colored like the
+    flowers of the Judas-tree, pour, O cupbearer! for grief
+    comes to oppress my soul; pour for me the nectar, for
+    it is possible that in making me a stranger to myself, it
+    will free me one instant from the vicissitudes of this
+    world.
+
+
+429.
+
+    Thy cup, O my cupbearer! contains liquid rubies; give
+    some to my soul, O cupbearer! Let it reflect that precious
+    stone; put in my hand, O cupbearer, this incomparable
+    cup, for through this I will give new life unto my soul.
+
+
+430.
+
+    In philosophy, if you are an Aristotle or a Bouzourdj-mehr;
+    in power, if you are some Roman emperor or some
+    potentate of China, drink ever, drink wine from the cup
+    of Djem, for the end of all is the tomb. Oh! though you
+    are Bahram himself, the coffin is your last sojourn.
+
+
+431.
+
+    I entered the studio of a potter. I watched him work
+    at his wheel, actively occupied in moulding the necks
+    and handles of pitchers, forming some of them like the
+    heads of kings, others like the feet of beggars.
+
+
+432.
+
+    Go, choose bliss, if you are wise, and finally you may
+    be able to drink wine from the hand of the drinkers of
+    eternity, but you are one of the ignorant and joy is not
+    in you, it is not given to every ignorant one to taste
+    the sweets that ignorance gives.
+
+
+433.
+
+    O idol, while you are on your journey through this
+    world, draw from the fountain-head into the pitcher, draw
+    this salutary wine and, ere the potter makes another
+    pitcher of my dust and thine, fill out a cup, drink it
+    and pass me one.
+
+
+434.
+
+    Be attentive, friend, and while thou still art able, lighten
+    the grief of a loving heart, for this kingdom of grace
+    that now thou hast will not last always, but, like so many
+    others thou shalt unexpectedly be called.
+
+
+435.
+
+    Before you are made drunk by the cup of death, before
+    the revolutions of time are full behind you, endeavor
+    to make a foundation here below, for you will profit
+    nothing by going away empty-handed.
+
+
+436.
+
+    It is Thou who disposest of the lot of the living and
+    of the dead. It is Thou who governest this unruly Wheel
+    of the Heavens. Although I am bad, I am only Thy
+    slave, Thou art my master. Who then is guilty here
+    below? Art Thou not the Creator of all?
+
+
+437.
+
+    O my King! how can such a man as I, finding himself
+    in the season of roses, in the midst of joyous society,
+    surrounded by wine, by dancers, remain a passive spectator?
+    Oh! to find oneself in a garden with a flask of
+    wine and a lute are things preferable to Paradise with
+    its houris and its Koocer.
+
+
+438.
+
+    See the clearness of the light, the sparkle of the wine
+    and of the moon, O cupbearer! See the ravishing
+    beauty of the rose's face, like a shining ruby, O cupbearer!
+    Recall nothing of what belongs to the earth
+    to this heart that burns like fire, throw it not to the
+    wind, but bring wine, O cupbearer!
+
+
+439.
+
+    O limpid wine, wine full of sheen! Fool that I am, I'd
+    drink thee in such quantity, that all perceiving me from
+    far would my identity confound with thine, and say to
+    me: O master wine! tell me, whence do you come?
+
+
+440.
+
+    Be welcome, Thou, who art the repose of my soul!
+    Thou art here, and nevertheless I cannot believe my
+    eyes. Oh! for the love of God, and not for the love
+    of my heart, drink, drink of wine, drink to the point
+    when I can doubt that it is Thou.
+
+
+441.
+
+    A Sheikh said to a prostitute: You are in wine.
+    Each instant you are taken in the toils of law. She
+    answered him: O Sheikh, I am all that you say; but
+    are you what you seem to be?
+
+
+442.
+
+    [I have already said] the entire world, like a bowl,
+    was rolling in a hollow which, when I slept dead drunk,
+    I noticed no more than if I saw a grain of barley rolling
+    along. Yesterday, at evening, I put myself in pawn at
+    the tavern for a cup of wine. The wine merchant never
+    ceased to say: O excellent security that here I hold.
+
+
+443.
+
+    Sometimes Thou art concealed, showing Thyself to
+    none; sometimes Thou revealest Thyself in all things
+    created. It is for Thyself, without doubt, and for Thy
+    pleasure that Thou hast produced these marvellous effects,
+    for Thou art at once the maker of the spectacle we see
+    and Thine own beholder.
+
+
+444.
+
+    Should you come to people the whole earth, that action
+    would not make a saddened soul rejoice. It would be
+    more to thy advantage to enslave a free man, through
+    thy gentleness, than to give freedom to a thousand slaves.
+
+
+445.
+
+    They tell you not to drink, that otherwise you shall
+    become a prey to torment, and that in the day of
+    reckoning you will burn as fire. That may be, but the
+    day in which wine makes you joyous is more precious
+    than the goods of this world and those of the next.
+
+
+446.
+
+    If your own satisfaction consists in casting grief into a
+    heart free from all care, you could, friend, make mourning
+    with your wisdom during your whole life. Go, be
+    unhappy, then, for you are a person strangely ignorant.
+
+
+447.
+
+    Each time you can procure two _mens_ of wine, drink
+    them, in every circumstance, in all society wherever you
+    may be; for he who does is freed from scornful looks
+    or gestures of disdain.
+
+
+448.
+
+    With a loaf of wheaten bread, two _mens_ of wine and
+    meat in plenty, and seated in some desert spot with
+    some young beauty decked with cheeks tinted with the
+    tulip's blush, man hath a joy not given to any Sultan to
+    procure.
+
+
+449.
+
+    If in a city you acquire renown, you are thought to
+    be the most wicked of men; if you retire into a corner,
+    they regard you as a conspirator. What then is best,
+    were you Elias or Saint Jude, is to live in the way of
+    knowing none, and being known by none.
+
+
+450.
+
+    If I were free and were allowed to use my will, if I
+    were free from the torments of destiny and unembarrassed
+    by any sentiment of the good and bad in this
+    world where disorder resides, oh! I would prefer not
+    to have lived here, not to have existed, than to be
+    forced to go away!
+
+
+451.
+
+    Drink wine, my friend, for see it makes the perspiration
+    flow upon the cheeks of the beauties of Rhei, the
+    most beautiful creatures in the world! Oh! how long
+    shall I repeat it to you? Yes, I have broken the
+    bonds of all my vows. Is it not better to break the
+    bonds of a thousand vows than to break a pitcher of
+    wine?
+
+
+452.
+
+    We have some wine, O cupbearer! Let us rejoice in
+    the presence of the well-beloved [the Divinity] and in
+    the noise of the morning. Expect not on our part the
+    renunciation of Nessouh, O cupbearer! How long shall
+    I speak to you of the story of Noe, O cupbearer?
+    Bring, bring me happily the repose of my soul [the
+    wine], O cupbearer!
+
+
+453.
+
+    I see neither the means of joining myself to Thee,
+    nor the possibility of living for the space of a breath
+    separated from Thee. I have not the courage to drive
+    out the torments I endure. Oh! how difficult my plight,
+    how strange my grief, how exquisite my pain!
+
+
+454.
+
+    Now is the time to drink the morning wine; the noise
+    makes itself heard, O cupbearer! Now we are ready, O
+    cupbearer! here is the wine, behold the tavern. Could a
+    moment like this be for prayer? Silence, O cupbearer!
+    Leave thy discourse upon tradition and upon devotion;
+    drink, O cupbearer!
+
+
+455.
+
+    Here is the noise of the morning, O idol, whose coming
+    brings happiness! Chant the refrain and bring the wine;
+    for [you know it], the constant sequence of these months
+    of Tir and Di have overturned upon the earth a thousand
+    potentates like Djem, a hundred thousand like to Kai.
+
+
+456.
+
+    Guard thyself from being coarse in the eyes of all
+    drinkers, guard thyself from acquiring a bad reputation
+    before the sages, and drink wine; for, whether you drink
+    or not, if you belong to the fire of Hell, you would not
+    know how to enter Paradise.
+
+
+457.
+
+    I wish that God would reconstruct the world, I wish
+    that He would actually reconstruct it and that I might see
+    Him at the work. I wish that He would blot my name
+    from the register of life, or that out of His mysterious
+    treasure, He would swell the joys of my existence.
+
+
+458.
+
+    O God! open to me the door of Thy benefits. Make
+    me come to my fortune finally, that I may not be beholden
+    to Thy creatures. Oh! render me drunk with
+    wine, to the point where, freed from all knowledge,
+    the torments of my head may disappear.
+
+
+459.
+
+    O thou who hast been burned and burned again, and
+    now deservest life anew! thou who art worthy only of adding
+    fuel to the fire of Hell! how long wilt thou pray the
+    Divinity to pardon Omar? What relation exists between
+    thee and God? What audacity drives thee to ask Him to
+    exercise His pity?
+
+
+460.
+
+    As for me, without limpid wine I cannot live; my body
+    is a burden which I cannot carry without drinking of the
+    juice of the vine. Oh! might I be the slave of that
+    delicious moment when the cupbearer said to me: Another
+    cup! and that I had no longer strength to take it!
+
+
+461.
+
+    There remains to me still a breath of life, thanks to
+    the care of the cupbearer. But discord reigns still among
+    men. I know that there only remains to me about a _men_
+    of wine from last evening, but I am ignorant of the
+    space of time that is still left me to live.
+
+
+462.
+
+    Take a man who possesses bread sufficient to live upon
+    for two days, who can draw a drop of fresh water into
+    a cracked pitcher, why should such a man be commanded
+    by another who is of no more worth, or why should he
+    serve one who should be his equal?
+
+
+463.
+
+    Since the day when Venus and the moon appeared in
+    the sky, no one has seen anything here below preferable
+    to ruby wine. I am truly astonished at the wine-merchants,
+    for how can they buy anything superior to
+    that which they sell?
+
+
+464.
+
+    For those endowed with knowledge and virtue, who
+    through their wisdom have become as torches to their
+    disciples, even those have not progressed beyond this
+    night profound. They have left some fables and returned
+    to death's long sleep.
+
+
+FOOTNOTES:
+
+[1] About 1272 A.D.
+
+[2] This title is hard to determine without any acquaintance with the
+contents of the pamphlet.
+
+[3] C.H.A. Bjerregaard in «The Sufi Omar». J.F. Taylor & Co., N.Y.,
+1902.
+
+[4] Some of Omar's Rubaiyat warn us of the danger of greatness, the
+instability of fortune, and while advocating charity to all men,
+recommending us to be too intimate with none. Attar makes Nizam ul Mulk
+use the very words of his friend Omar [Rub. xxviii.], «When Nizam ul
+Mulk was in the Agony (of Death) he said, 'Oh God! I am passing away in
+the hand of the Wind.'»
+
+[5] Though all these, like our Smiths, Archers, Millers, Fletchers,
+etc., may simply regain the surname of an hereditary calling.
+
+[6] «_Philosophe Musulman qui a vêcu en Odeur de Sainteté dans sa
+Religion, vers la Fin du premier et le Commencement du second Siècle_,»
+no part of which, except the «_Philosophe_» can apply to our Khayyam.
+
+[7] The Rashness of the Words, according to D'Herbelot, consisted in
+being so opposed to those in the Koran: «No Man knows where he shall
+die.»--This story of Omar reminds me of another so naturally--and when
+one remembers how wide of his humble mark the noble sailor aimed--so
+pathetically told by Captain Cook--not by Doctor Hawkesworth--in his
+Second Voyage (i. 374). When leaving Ulietea, «Oreo's last request was
+for me to return. When he saw he could not obtain that promise, he asked
+the name of my _Marai_ (burying-place). As strange a question as this
+was, I hesitated not a moment to tell him 'Stepney'; the parish in which
+I live when in London. I was made to repeat it several times over till
+they could pronounce it; and then '_Stepney Marai no Toote_' was echoed
+through an hundred mouths at once. I afterwards found the same question
+had been put to Mr. Forster by a man on shore; but he gave a different,
+and indeed more proper answer, by saying, 'No man who used the sea could
+say where he should be buried.'»
+
+[8] «Since this paper was written» (adds the Reviewer in a note), «we
+have met with a Copy of a very rare Edition, printed at Calcutta in
+1836. This contains 438 Tetrastichs, with an Appendix containing 54
+others not found in some MSS.»
+
+[9] Professor Cowell.
+
+[10] This was written in 1868.
+
+[11] Perhaps he would have edited the Poems himself some years ago. He
+may now as little approve of my version on one side, as of M. Nicolas'
+theory on the other.
+
+[12] A note to Quatrain 234 admits that, however clear the mystical
+meaning of such Images must be to Europeans, they are not quoted without
+«_rougissant_» even by laymen in Persia--«_Quant aux termes de tendresse
+qui commencent ce quatrain, comme tant d'autres dans ce recueil, nos
+lecteurs, habitués maintenant à l'étrangeté des expressions si souvent
+employées par Khèyam pour rendre ses pensées sur l'amour divin, et à la
+singularité de ses images trop orientales, d'une sensualité quelquefois
+révoltante, n'auront pas de peine à se persuader qu'il s'agit de la
+Divinité, bien que cette conviction soit vivement discutée par les
+moullahs musulmans et même par beaucoup de laïques, qui rougissent
+véritablement d'une pareille licence de leur compatriote à l'égard des
+choses spirituelles._»
+
+[13] _Two Years' Travel in Persia_, etc., i. 165.
+
+[14] The precise degree to which FitzGerald himself deemed it expedient
+to adhere to his original may be gathered by referring to quatrains of
+his which he has himself declared to be renderings of particular and
+isolated ruba'iyat.
+
+[15] These references are to other MSS. and printed texts and
+translations in which the cited quatrain is represented. I say advisedly
+«represented,» as the different texts differ a good deal. Often when a
+quatrain is repeated in the same text, variations may be found in it.
+The general scope of these variations may be appreciated by a glance at
+the notes to my translation of the Ouseley MS. (O.). I do not propose to
+deal with them here, excepting where there are important differences
+between the Calcutta MS. (C.) and the Ouseley, both of which were before
+Edward FitzGerald and between which he had to choose.
+
+[16] _i.e._, the Saki, or Cupbearer, or Drawer (generally a comely
+youth), to whom a large proportion of Omar's ruba'iyat are addressed.
+
+[17] Many parallels between these translations of Hafiz and FitzGerald's
+ruba'iyat may be found in the Terminal Essay to my former work.
+
+[18] The _sunnat_, or Traditions of Muhammad, supplementing the Qur'an,
+and held in almost equal reverence.
+
+[19] _Zendha deli-ra_ means the heart alive, or initiated in the
+spiritual sense, as opposed to the mere pleasure-seekers of the world.
+
+[20] See FitzGerald's notes to this quatrain.
+
+[21] C. reads «verdure.»
+
+[22] C. reads «In the eyes of the clouds the veils are parted.»
+
+[23] See the Terminal Essay above referred to.
+
+[24] The sweet voice of David recurs continually in Persian poetry. We
+find it in C. 89 _et passim_.
+
+[25] Pehlevi was the language of the ancient Persians of pre-Muhammadan
+times. FitzGerald's description of it as «old heroic Sanskrit» is
+erroneous.
+
+[26] Yellow is the colour indicative in Persian literature of sickness
+or misery, corresponding to our word «sallow.»
+
+[27] _i.e._, «Permit us to regret our repentance.»
+
+[28] Numbers of quatrains distinguished by the asterisk indicate that
+the quatrains were not in FitzGerald's first edition, but made their
+appearance in the second or subsequent editions. FitzGerald may
+therefore have been «reminded of» them by (and in some instances took
+them direct from) the text and translation of Nicolas, referred to as N
+
+[29] C. reads «Since life passes, what is sweet and what is bitter?»
+
+[30] _Dai_ is the month that ushers in the winter quarter of the
+Muhammadan year.
+
+[31] _i.e._, Jamshyd the «_Roi soleil_» of early Persian history, and
+the Kaianian dynasty--Kai Kobad, Kai Kawus, Kai Khosru, etc.
+
+[32] It will be observed that the introduction of Zal in this line was
+made by FitzGerald in the third edition for metrical effect. The
+versions in the first edition «Let Rustum lay about him as he will,» and
+in the second «Let Rustum cry 'to battle' as he likes» are closer to the
+phrase in the original «Rustum _son_ of Zal.»
+
+[33] Feridun was the sixth king of the Paish-dadian dynasty. _Jamish_ is
+evidently an error for _Jam-ist_. _Vide_ the MS.
+
+[34] See FitzGerald's note to this quatrain.
+
+[35] Literally «a stopper of the last breath.»
+
+[36] Kausar, in Persian mythology, is the head-stream of the Muhammadan
+Paradise, whence all other rivers are supposed to flow. A whole chapter
+of the Qur'an is devoted to this miraculous stream, whose Saki is Ali,
+the son-in-law of Muhammad.
+
+[37] This Persian here is a quotation from a famous verse in the Qur'an,
+XXV. 11, «Blessed is He who, if He pleaseth, will make for thee a better
+provision than this, namely, gardens under which rivers flow, and he
+will provide thee palaces.»--E.B.C.
+
+[38] C. reads for «food» and «wine,» «goblet» and «lute,» whence we get
+«thou beside me _singing_ in the wilderness.»
+
+[39] These two lines refer to the practice in the East of burying
+treasure to hide it when a night attack (line 1) of dacoits or robbers
+is anticipated.
+
+[40] See FitzGerald's note upon this hero, and the following quatrain.
+
+[41] Moles or «beauty spots» are very highly esteemed in the East.
+
+[42] _i.e._, If life were eternal, you could not take the place of
+others who have died before you. L. 2, _lit._: «let the world pass,
+etc.»
+
+[43] _i.e._, the Mystic Road or Way of Salvation.
+
+[44] Burak was the winged mule of Muhammad on which he is said to have
+journeyed from Jerusalem to heaven.
+
+[45] This is a very difficult quatrain to translate. The mystic soaring
+of the soul in search of enlightenment is compared to the flight of a
+falcon. In l. 3, _lit._: «any partner of the secret.»
+
+[46] C. reads these two lines:--
+
+    These two or three days of the period of my existence pass by
+    They pass as passes the wind in the desert.
+
+[47] Compare FitzGerald's «First Morning of Creation» in q. 73.
+
+[48] _i.e._, the Curtain that Veils the Mysteries of God, a constantly
+recurring image in Persian literature.
+
+[49] C. reads «of this juggling about of the soul.» E.B.C. suggests «of
+this chess-opening.»
+
+[50] C. reads «And was enslaved by the curly head of a sweetheart.»
+
+[51] _i.e._, «Let us cease striving to earn salvation.»
+
+[52] C. reads «with love.»
+
+[53] FitzGerald records in his note to this quatrain that had it not
+been for the advice of Prof. Cowell, this and the two following
+quatrains would have been withdrawn after the Second Edition. It is
+impossible to conceive why, for they are singularly fine and
+exceptionally «authorized.»
+
+[54] FitzGerald's rendering in the 1st edition (Introduction), «in this
+clay suburb» is a more literal rendering.
+
+[55] _i.e._, The ferrash of fate, preparing for the next halting-place,
+destroys this tent (body) when the Sultan (soul) arises.
+
+[56] I do not know the origin of N.'s text, but I have never seen this
+quatrain in any other MS. The same remark applies to N. 123, cited under
+No. 47.
+
+[57] C. reads «From my creation the Age derived no advantage.»
+
+[58] _Harifan_; literally, «companions,» « fellow-workers.»
+
+[59] _i.e._, The One God. Compare Hafiz (Ode 416), «He who knows the
+One, knows all.»
+
+[60] Prof. Cowell's translation. V. appends a note, «Apparently the
+Essence of Life, the _Ding an Sich_ of Kant, and the _Wille_ of
+Schopenhauer, the Platonic Idea, the abiding type of the perishable
+individuality; possibly, however, the Vedantic 'self' is meant.» For the
+word _mah_ = moon at the commencement of the quatrain, some of the texts
+read _badeh_ = wine.
+
+[61] Literally, «discernment.»
+
+[62] The obscurity of the meaning here baffles satisfactory translation.
+Prof. Cowell says: I would rather take it as a sarcasm, «Those fools
+with their unripe grapes become (in their own eyes) pure wine.»
+
+[63] _Azal_ in Persian dogma is eternity without beginning, _i.e._,
+«_from_ all time,» as opposed to _abad_, eternity without end, _i.e._,
+«_to_ all eternity.»
+
+[64] In the East a man may divorce his wife twice and take her back
+again, but the third time it is irrevocable--unless (curiously enough)
+she has been married to someone else in the meantime.
+
+[65] _i.e._, Wine, a recurrent Persian metaphor. Comp.: Arabic
+«_bint-ul-kerm_.»
+
+[66] _Zahir_ = exoteric, as opposed to _batin_ = esoteric, in line 2.
+
+[67] C. reads «I am weary.»
+
+[68] The opening lines of FitzGerald's quatrain refer to Omar's
+reformation of the calendar, and institution of the Jalali era, which
+Gibbon describes as «a computation of time which surpassed the Julian,
+and approached the accuracy of the Gregorian style.» («Decline and Fall
+of the Roman Empire,» Gibbing's edition, 1890, vol. iv., p. 180.)
+
+[69] C. reads «So long as I live, I will not grieve for two days.»
+
+[70] _i.e._, Wine.
+
+[71] The _Lauh u Kalam_ are the Tablet and Pen whereon and wherewith the
+Divine decrees of what should be from all time were written. Compare
+Koran, ch. lxviii, 1. «By the Pen and what they write, O Muhammad! thou
+art not distracted.»
+
+[72] The river Oxus.
+
+[73] The editor of the «Calcutta Review» appends the following note at
+the foot of Prof. Cowell's article (E.C.), «These lanthorns are very
+common in Calcutta. They are made of a tall cylinder with figures of men
+and animals cut out of paper and pasted on it. The cylinder, which is
+very light, is suspended on an axis, round which it easily turns. A hole
+is cut near the bottom, and the part cut out is fixed at an angle to the
+cylinder so as to form a vane. When a small lamp or candle is placed
+inside, a current of air is produced which keeps the cylinder slowly
+revolving.»
+
+[74] This refers to the game of Polo. In the First and Second Editions
+for «Here or There» we read «Right or Left» as in the original.
+
+[75] C. reads «Upon the Tablet.»
+
+[76] Literally, «For the Pen once gone comes not back.»
+
+[77] See FitzGerald's note on this quatrain.
+
+[78] _i.e._, Of reality as opposed to the dream existence of the
+present. (E.B.C.)
+
+[79] The _Mihrab_ is the spot in a Mosque indicating the precise
+direction of Mecca towards which all Muhammadans turn in prayer.
+
+[80] This metaphor recurs frequently in the ruba'iyat. Compare W. 261
+(N. 221) and W. 275 (L. 428).
+
+[81] _i.e._, «it was quite problematical how I might turn out.»
+
+[82] Here begins the section devoted especially to the talking pots in
+the workshop of the potter--it ends at quatrain No. 90. In the first
+edition this section was entitled KUZA-NAMA = the «Pot-book» or «Book of
+Pots.» It may be observed that the quatrains in this section are not so
+closely rendered from recognisable originals as the other quatrains
+composing FitzGerald's poem. This may be accounted for by the fact that
+the comparison between the human form--the Personal Ego--and a pot made
+of earth by the Supreme Potter (if one may be allowed the phrase) is
+constantly recurrent in all ruba'iyat attributed to Omar Khayyam. The
+section is therefore to a great extent a poetical reflection upon this
+phase of the philosophy of the ruba'iyat. The use FitzGerald has made of
+O. 103 cannot fail to amaze the student. _Vide_ his own Note to quatrain
+89.
+
+[83] Ramazan (or Ramadan) is the ninth month of the Muhammadan year,
+which is observed as a month of fasting and penance, during which rigid
+Moslems may neither eat, drink, wash, nor caress their wives, excepting
+so far as is necessary to support life. Sha'ban is the month immediately
+preceding it. Shawwal is the month that follows it, which begins with
+the great feast of Bairam, the festival referred to in line 4.
+
+[84] A very obscure distich to translate. The sense is here, however.
+
+[85] Compare Romans ch. ix. v. 21. «Hath not the potter power over the
+clay, of the same lump to make one vessel unto honour, and another unto
+dishonour.»
+
+[86] _i.e._, Helping one another to raise their loads. Prof. Denison
+Ross suggests that this refers to the cry of the porters and muleteers
+in the narrow streets of Persian cities. «_Pusht! Pusht!_» _i.e._, «Mind
+your backs!»
+
+[87] _Kah-ruba_ means literally «attracting straws»; hence «amber,» the
+elektron of the Greeks. Here it is used in the descriptive sense to mean
+«yellow.»
+
+[88] _Wuzu_, the ceremonial Ablution enjoined upon Muhammadans to put
+them into a state of grace before prayer.
+
+[89] _Wakt-i-gul_ = the season of roses, a common synonym for Spring.
+
+[90] Literally «has become Dai,» the first winter-month; translated
+«December,» _sub_ quatrain No. 9.
+
+[91] _Lit._: «Or from the invisible world increase my daily provision.»
+
+[92] C. reads «this heart full of melancholy (or passion).»
+
+[93] It will be observed that this quatrain in the first edition came a
+good deal closer to the original than this.
+
+[94] _Maghanah_ means anything connected with the Maghs or Magians
+(_i.e._, the Guebres or Fire-worshippers), and came to be a synonym for
+age, superiority, excellence, in which sense it is used here. S.
+Rousseau has a very interesting note upon the history of this word at p.
+176 of his «Flowers of Persian Literature» (London, 1801).
+
+[95] Meaning FitzGerald's Introduction. See Page 1.
+
+[96] Prof. Cowell says: «I am not sure, but I fancy this hard verse
+really is: 'O thou who art burned (in sorrow) for one burnt (in
+hell)--thyself being doomed to be burnt.' If this is correct (which is
+most probable) the accuracy of FitzGerald's translation is remarkable.»
+
+[97] The phrase _gauhar suftan_ = «to thread pearls» is used in Persian
+to mean «to write verses» or «to tell a story.» Omar uses it here
+referring to the generally antinomian tendency of his ruba'iyat.
+
+[98] In this line Omar claims consideration on the ground that he has
+never questioned the Unity of God. _Tawhid kerdan_ = to acknowledge One
+God. Muhammadanism is essentially Unitarian. FitzGerald appears to have
+missed the meaning here, reversing the doctrine, unless he means «I
+never misread One _as_ Two.»
+
+[99] L. 1. _lit._ «rubbed its side with heaven.» This is the quatrain
+that R.B.M. Binning found written upon a stone in the ruins of
+Persepolis (A Journal of Two Years' Travel in Persia, Ceylon, etc.,
+London, 1857, Vol. ii. p. 20). FitzGerald quotes it in a letter to Prof.
+Cowell, under date 13th January, 1859. (Letters and Literary Remains of
+Edward FitzGerald, London, 1889. Macmillan, 3 vols., and 1894, 2 vols.)
+The word _ku_ in Persian signifies «Where?»
+
+[100] The fifth edition is identical with the fourth.
+
+[101] See Defrémery, «_Recherches sur le règne de Barkiárok_,» p. 51.
+
+[102] Avicenna died in 428 A.H.
+

@@ -17,7 +17,10 @@ options = {
   force: false,
   promote: true,
   check_command: ["ruby", "scripts/check_clean_markdown.rb"],
-  stop_when_empty: true
+  stop_when_empty: true,
+  daemonize: false,
+  log_file: nil,
+  pid_file: nil
 }
 
 OptionParser.new do |parser|
@@ -35,6 +38,9 @@ OptionParser.new do |parser|
   parser.on("--no-check", "Skip post-cycle Markdown validation") { options[:check_command] = nil }
   parser.on("--check-all", "Run the full repo check after each cycle") { options[:check_command] = ["ruby", "scripts/check_all.rb"] }
   parser.on("--keep-waiting-when-empty", "Sleep and re-check until the run window ends") { options[:stop_when_empty] = false }
+  parser.on("--daemonize", "Detach into the background after startup") { options[:daemonize] = true }
+  parser.on("--log-file PATH", "Append stdout/stderr to PATH after daemonizing") { |value| options[:log_file] = CorpusQueue.project_path(value) }
+  parser.on("--pid-file PATH", "Write daemon PID to PATH") { |value| options[:pid_file] = CorpusQueue.project_path(value) }
 end.parse!
 
 options[:interval_seconds] = 0 if options[:dry_run]
@@ -88,8 +94,23 @@ def sleep_until_next_cycle(seconds, deadline)
   sleep remaining
 end
 
+if options[:daemonize]
+  Process.daemon(true, true)
+end
+
+if options[:log_file]
+  FileUtils.mkdir_p(File.dirname(options[:log_file]))
+  $stdout.reopen(options[:log_file], "a")
+  $stderr.reopen(options[:log_file], "a")
+end
+
 $stdout.sync = true
 $stderr.sync = true
+
+if options[:pid_file]
+  FileUtils.mkdir_p(File.dirname(options[:pid_file]))
+  File.write(options[:pid_file], "#{Process.pid}\n", mode: "w")
+end
 
 started_at = Time.now
 deadline = started_at + (options[:duration_hours] * 3600)
@@ -119,6 +140,7 @@ loop do
   end
 
   break if options[:dry_run]
+  break if options[:max_cycles] && cycle >= options[:max_cycles]
 
   sleep_until_next_cycle(options[:interval_seconds], deadline)
 end
