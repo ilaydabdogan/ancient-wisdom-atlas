@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.gutenberg_45159
+  work_id: sufi.persian_mystics_rumi.davis_gutenberg
+  title: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  source_url: https://www.gutenberg.org/ebooks/45159
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/project-gutenberg/45159-persian-mystics-rumi-davis.txt
+    checksum:
+      algorithm: sha256
+      value: 1d6910cde00e8834e12f6f3335a6c162752443895f1aa3de8617aae17ee4d798
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/45159-persian-mystics-rumi-davis.md
+    checksum:
+      algorithm: sha256
+      value: dfb18c1cfc9e32f259bbb0cd06cb7eaabdf6dda0f802ac96b7369c00e460a149
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+    checksum:
+      algorithm: sha256
+      value: 01db812edf01ac6483ab1374b206867ba3d70dba3817531caa7bc2f330d2d00b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids sufi.persian_mystics_rumi.davis_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

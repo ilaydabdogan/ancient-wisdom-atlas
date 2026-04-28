@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.gutenberg_45158
+  work_id: sufi.jami.persian_mystics.davis_gutenberg
+  title: 'The Persian Mystics: Jámí'
+  source_url: https://www.gutenberg.org/ebooks/45158
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/project-gutenberg/45158-persian-mystics-jami-davis.txt
+    checksum:
+      algorithm: sha256
+      value: f9653bbc0460b955bfd3bb4edb2fca4faf357b2dae77351f965e354d87f74b77
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/45158-persian-mystics-jami-davis.md
+    checksum:
+      algorithm: sha256
+      value: 266f84e420ad1292926d8c7511afe5f3df63392b5dfe4d2d337539dd4fc0bc6b
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+    checksum:
+      algorithm: sha256
+      value: 30a2f70d2a65bdcf142a134ec9d27a6e833aab6ac14ed3f81cd8fa6b32b37248
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids sufi.jami.persian_mystics.davis_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

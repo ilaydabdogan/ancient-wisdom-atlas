@@ -111,6 +111,7 @@ Use [docs/batch-api-workflow.md](docs/batch-api-workflow.md) for the OpenAI Batc
 - [docs/source-prioritization.md](docs/source-prioritization.md): where to acquire first texts and in what order
 - [docs/ingestion-manifest.md](docs/ingestion-manifest.md): how to track raw imports, converted drafts, checksums, rights, and canonical outputs
 - [docs/conversion-tooling.md](docs/conversion-tooling.md): how to create reviewed Markdown drafts from raw plain text
+- [docs/auto-ingestion.md](docs/auto-ingestion.md): how to grow the corpus from the queue-based fetch/convert/promote pipeline
 - [docs/extraction-protocol.md](docs/extraction-protocol.md): how AI/humans should extract symbols, motifs, scenes, and comparison claims
 - [docs/ci.md](docs/ci.md): what GitHub Actions checks on every push
 

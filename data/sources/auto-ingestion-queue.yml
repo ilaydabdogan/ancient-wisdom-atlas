@@ -1,0 +1,349 @@
+---
+queue_id: auto_ingestion_queue
+title: Auto Ingestion Queue
+created_on: '2026-04-27'
+updated_on: '2026-04-27'
+notes: 'Queue for low-risk, rights-cleared corpus ingestion. The automation is intentionally
+  conservative: only items whose rights fields explicitly allow public-domain full-text
+  and training use should be auto-promoted into texts/. Use small limits for direct
+  Project Gutenberg downloads; for high-volume acquisition, use Gutenberg mirrors
+  or offline catalogs instead of the main website.
+
+'
+items:
+- id: sufi.persian_mystics_rumi.davis_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '45159'
+  slug: persian-mystics-rumi-davis
+  title: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  alternate_titles:
+  - Jalalu'd-Din Rumi
+  - Persian Mystics Rumi
+  text_status: selected
+  tradition: sufi
+  tradition_cluster: islamic_persian_sufi
+  culture: persian_sufi_later_english_selection
+  region: iran_anatolia
+  source_language: Persian
+  text_language: English
+  date_range: 13th-century Persian Sufi source material; early 20th-century public-domain
+    English selection and study
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #45159'
+  translator: F. Hadland Davis
+  editor: F. Hadland Davis
+  publication_year: 1920
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/45159
+  download_url: https://www.gutenberg.org/ebooks/45159.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  tags:
+  - rumi
+  - persian_mystics
+  - sufism
+  - divine_love
+  - masnavi
+  - divani_shams
+  motifs:
+  - mystical_quest
+  - divine_beloved
+  - annihilation_union
+  - wisdom
+  figures:
+  - Jalal al-Din Rumi
+  - Beloved
+  - seeker
+  why_it_matters: Adds a compact public-domain Rumi selection focused on divine love,
+    union, Sufi symbolism, and comparison with the longer Mesnevi Book I lane.
+  raw_path: imports/raw/project-gutenberg/45159-persian-mystics-rumi-davis.txt
+  pipeline:
+    raw_fetched_on: '2026-04-27'
+    converted_on: '2026-04-27'
+    promoted_on: '2026-04-27'
+  converted_path: imports/converted/project-gutenberg/45159-persian-mystics-rumi-davis.md
+  canonical_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  manifest_path: manifests/project-gutenberg/45159-persian-mystics-rumi-davis.yml
+  extraction_dir: extractions/sufi/project-gutenberg/persian-mystics-rumi-davis
+- id: sufi.jami.persian_mystics.davis_gutenberg
+  status: ingested
+  priority: high
+  source: project_gutenberg
+  source_id: '45158'
+  slug: persian-mystics-jami-davis
+  title: 'The Persian Mystics: Jámí'
+  alternate_titles:
+  - Persian Mystics Jami
+  - Jami
+  text_status: selected
+  tradition: sufi
+  tradition_cluster: islamic_persian_sufi
+  culture: persian_sufi_later_english_selection
+  region: iran_central_asia
+  source_language: Persian
+  text_language: English
+  date_range: 15th-century Persian Sufi source material; early 20th-century public-domain
+    English selection and study
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #45158'
+  translator: F. Hadland Davis
+  editor: F. Hadland Davis
+  publication_year: 1918
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/45158
+  download_url: https://www.gutenberg.org/ebooks/45158.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  tags:
+  - jami
+  - persian_mystics
+  - sufism
+  - yusuf_zulaikha
+  - divine_love
+  - allegory
+  motifs:
+  - mystical_quest
+  - divine_beloved
+  - sacred_marriage
+  - wisdom
+  figures:
+  - Jami
+  - Yusuf
+  - Zulaikha
+  - Beloved
+  why_it_matters: Adds Persian Sufi allegorical material for lover-beloved symbolism,
+    Yusuf and Zulaikha, and divine beauty.
+  raw_path: imports/raw/project-gutenberg/45158-persian-mystics-jami-davis.txt
+  pipeline:
+    raw_fetched_on: '2026-04-27'
+    converted_on: '2026-04-27'
+    promoted_on: '2026-04-27'
+  converted_path: imports/converted/project-gutenberg/45158-persian-mystics-jami-davis.md
+  canonical_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  manifest_path: manifests/project-gutenberg/45158-persian-mystics-jami-davis.yml
+  extraction_dir: extractions/sufi/project-gutenberg/persian-mystics-jami-davis
+- id: sufi.hafiz.divan.bell_gutenberg
+  status: queued
+  priority: medium
+  source: project_gutenberg
+  source_id: '74883'
+  slug: poems-from-divan-of-hafiz-bell
+  title: Poems from the Divan of Hafiz
+  alternate_titles:
+  - Divan of Hafiz
+  - Hafez
+  text_status: selected
+  tradition: sufi
+  tradition_cluster: islamic_persian_sufi
+  culture: persian_sufi_lyric_later_translation
+  region: iran
+  source_language: Persian
+  text_language: English
+  date_range: 14th-century Persian lyric source material; 1897 public-domain English
+    translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #74883'
+  translator: Gertrude Lowthian Bell
+  editor: ''
+  publication_year: 1897
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/74883
+  download_url: https://www.gutenberg.org/ebooks/74883.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  tags:
+  - hafiz
+  - hafez
+  - divan
+  - ghazal
+  - persian_sufi
+  - wine_symbolism
+  - beloved
+  motifs:
+  - divine_beloved
+  - mystical_quest
+  - wisdom
+  - sacred_exchange
+  figures:
+  - Hafiz
+  - Beloved
+  - lover
+  why_it_matters: Adds Persian lyric love and wine symbolism for careful comparison
+    with divine beloved and ecstatic wisdom motifs.
+- id: sufi.omar_khayyam.sufism_of_rubaiyat.hazeldine_gutenberg
+  status: queued
+  priority: medium
+  source: project_gutenberg
+  source_id: '50619'
+  slug: sufism-of-rubaiyat-hazeldine
+  title: The Sufism of the Rubáiyát, or, the Secret of the Great Paradox
+  alternate_titles:
+  - The Sufism of the Rubaiyat
+  text_status: complete
+  tradition: sufi
+  tradition_cluster: islamic_persian_sufi
+  culture: persian_sufi_interpretive_later_english
+  region: iran_later_english_reception
+  source_language: English
+  text_language: English
+  date_range: 1908 public-domain English Sufi interpretation of Omar Khayyam's Rubaiyat
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #50619'
+  translator: Norton F. W. Hazeldine
+  editor: ''
+  publication_year: 1908
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/50619
+  download_url: https://www.gutenberg.org/ebooks/50619.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; interpretive
+      framing should be marked as later reception, not primary Omar Khayyam doctrine.
+  tags:
+  - omar_khayyam
+  - rubaiyat
+  - sufism
+  - interpretation
+  - paradox
+  - wine_symbolism
+  motifs:
+  - wisdom
+  - divine_beloved
+  - mystical_quest
+  - forbidden_knowledge
+  figures:
+  - Omar Khayyam
+  - seeker
+  - Beloved
+  why_it_matters: Useful reception text for the contested mystical reading of Khayyam,
+    wine, fate, death, paradox, and divine longing.
+- id: sufi.omar_khayyam.sufistic_quatrains.gutenberg
+  status: queued
+  priority: medium
+  source: project_gutenberg
+  source_id: '38511'
+  slug: sufistic-quatrains-omar-khayyam
+  title: The Sufistic Quatrains of Omar Khayyam
+  alternate_titles:
+  - Sufistic Quatrains
+  - Rubaiyat
+  text_status: selected
+  tradition: sufi
+  tradition_cluster: islamic_persian_sufi
+  culture: persian_sufi_reception_anthology
+  region: iran_later_english_reception
+  source_language: Persian
+  text_language: English
+  date_range: Medieval Persian quatrain material in early 20th-century public-domain
+    English anthology
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #38511'
+  translator: E. H. Whinfield and others
+  editor: ''
+  publication_year: 1903
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/38511
+  download_url: https://www.gutenberg.org/ebooks/38511.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; treat
+      Sufi framing as reception and review translator/editor metadata.
+  tags:
+  - omar_khayyam
+  - rubaiyat
+  - sufism
+  - quatrains
+  - wine_symbolism
+  - fate
+  motifs:
+  - wisdom
+  - divine_beloved
+  - mystical_quest
+  - death_rebirth
+  figures:
+  - Omar Khayyam
+  - seeker
+  why_it_matters: Adds a quatrain-focused Khayyam lane for wisdom, mortality, wine
+    symbolism, and Sufi reception debates.
+- id: persian.sadi.gulistan.ross_gutenberg
+  status: queued
+  priority: high
+  source: project_gutenberg
+  source_id: '13060'
+  slug: gulistan-sadi-ross
+  title: The Persian Literature, Volume 2, The Gulistan
+  alternate_titles:
+  - The Gulistan
+  - Rose Garden
+  - Sa'di Gulistan
+  text_status: complete
+  tradition: persian
+  tradition_cluster: persian
+  culture: medieval_persian_later_translation
+  region: iran
+  source_language: Persian
+  text_language: English
+  date_range: 13th-century Persian source text; public-domain English translation
+  source_type: text
+  edition: 'Project Gutenberg plain-text eBook #13060'
+  translator: James Ross
+  editor: ''
+  publication_year: 1823
+  publisher: Project Gutenberg
+  source_url: https://www.gutenberg.org/ebooks/13060
+  download_url: https://www.gutenberg.org/ebooks/13060.txt.utf-8
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; mark
+      as Persian ethical/literary wisdom rather than purely Sufi.
+  tags:
+  - sadi
+  - gulistan
+  - persian
+  - wisdom
+  - dervishes
+  - kingship
+  - ethics
+  motifs:
+  - wisdom
+  - sacred_exchange
+  - royal_legitimacy
+  - renunciation
+  figures:
+  - Sadi
+  - kings
+  - dervishes
+  why_it_matters: Adds Sa'di's ethical and dervish material for wisdom, kingship,
+    renunciation, speech, and moral anecdote patterns.
