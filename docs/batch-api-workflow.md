@@ -343,8 +343,9 @@ ruby scripts/batch_prepare_normalization_suggestion_requests.rb \
   --gap-audit data/indexes/normalization-gap-audit.yml \
   --normalization taxonomy/motif-normalization.yml \
   --model "$OPENAI_BATCH_MODEL" \
-  --motifs-per-request 20 \
-  --max-output-tokens 8000 \
+  --motifs-per-request 10 \
+  --max-output-tokens 12000 \
+  --reasoning-effort low \
   --max-requests-per-shard 500 \
   --force
 ```

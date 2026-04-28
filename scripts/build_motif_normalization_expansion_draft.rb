@@ -42,11 +42,11 @@ def load_yaml(path)
 end
 
 def read_jsonl(path)
-  File.readlines(path, chomp: true).filter_map do |line|
+  File.readlines(path, chomp: true).map do |line|
     next if line.strip.empty?
 
     JSON.parse(line)
-  end
+  end.compact
 end
 
 def safe_id(value, fallback: "motif_group")
@@ -55,7 +55,7 @@ def safe_id(value, fallback: "motif_group")
 end
 
 def existing_group_ids(normalization)
-  Array(normalization["canonical_motif_groups"]).filter_map { |group| group["id"] if group.is_a?(Hash) }.to_h { |id| [id, true] }
+  Array(normalization["canonical_motif_groups"]).map { |group| group["id"] if group.is_a?(Hash) }.compact.to_h { |id| [id, true] }
 end
 
 def current_mapped_ids(normalization)
