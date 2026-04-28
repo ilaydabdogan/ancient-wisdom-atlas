@@ -147,4 +147,4 @@ Or run the whole local check suite:
 ruby scripts/check_all.rb
 ```
 
-The exporter writes JSONL files into `exports/`, which can be committed as machine-readable dataset artifacts.
+The exporter writes JSONL files into `exports/`. These files are generated on demand and are not committed, because full-corpus exports grow quickly as extraction density increases. Run `ruby scripts/export_jsonl.rb` after cloning when you need local machine-readable dataset artifacts.
