@@ -694,7 +694,7 @@ items:
   manifest_path: manifests/project-gutenberg/51880-buddhist-birth-stories-volume-1-rhys-davids.yml
   extraction_dir: extractions/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids
 - id: ainu.folk_tales.chamberlain_gutenberg
-  status: queued
+  status: ingested
   priority: medium
   source: project_gutenberg
   source_id: '29287'
@@ -744,6 +744,15 @@ items:
   - spirits
   why_it_matters: Adds Ainu folklore with explicit mediation notes for animal, spirit,
     origin, and ethics-sensitive comparative work.
+  raw_path: imports/raw/project-gutenberg/29287-aino-folk-tales-chamberlain.txt
+  pipeline:
+    raw_fetched_on: '2026-04-28'
+    converted_on: '2026-04-28'
+    promoted_on: '2026-04-28'
+  converted_path: imports/converted/project-gutenberg/29287-aino-folk-tales-chamberlain.md
+  canonical_path: texts/public-domain/ainu/project-gutenberg/aino-folk-tales-chamberlain.md
+  manifest_path: manifests/project-gutenberg/29287-aino-folk-tales-chamberlain.yml
+  extraction_dir: extractions/ainu/project-gutenberg/aino-folk-tales-chamberlain
 - id: buddhist.jataka_tales.babbitt_gutenberg
   status: queued
   priority: medium

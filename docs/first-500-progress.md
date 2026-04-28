@@ -43,7 +43,7 @@ This is source-level coverage. Long works still need unit-level Markdown splitti
 | ingested | sufi.omar_khayyam.sufism_of_rubaiyat.hazeldine_gutenberg | The Sufism of the Rubáiyát, or, the Secret of the Great Paradox |
 | ingested | sufi.omar_khayyam.sufistic_quatrains.gutenberg | The Sufistic Quatrains of Omar Khayyam |
 | ingested | sufi.persian_mystics_rumi.davis_gutenberg | The Persian Mystics: Jalálu'd-dín Rúmí |
-| queued | ainu.folk_tales.chamberlain_gutenberg | Aino Folk-Tales |
+| ingested | ainu.folk_tales.chamberlain_gutenberg | Aino Folk-Tales |
 | queued | buddhist.jataka_tales.babbitt_gutenberg | Jataka tales |
 | queued | buddhist.more_jataka_tales.babbitt_gutenberg | More Jataka Tales |
 | queued | buddhist.old_india_tales.rouse_gutenberg | The Giant Crab, and Other Tales from Old India |

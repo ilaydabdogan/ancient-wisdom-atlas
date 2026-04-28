@@ -609,7 +609,7 @@ queue_outside_first500:
   source_id: '45159'
 - id: ainu.folk_tales.chamberlain_gutenberg
   title: Aino Folk-Tales
-  status: queued
+  status: ingested
   priority: medium
   source_id: '29287'
 - id: buddhist.jataka_tales.babbitt_gutenberg
@@ -673,6 +673,10 @@ queue_outside_first500:
   priority: high
   source_id: '28497'
 ingested_outside_first500:
+- id: ainu.folk_tales.chamberlain_gutenberg
+  title: Aino Folk-Tales
+  tradition_cluster: ainu_folklore
+  source_id: source.project_gutenberg.29287
 - id: celtic_irish.gods_and_fighting_men.gregory_gutenberg
   title: Gods and Fighting Men
   tradition_cluster: celtic_irish
