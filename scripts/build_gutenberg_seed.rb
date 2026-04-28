@@ -531,6 +531,93 @@ WORKS = {
     motifs: %w[royal_legitimacy heroic_wrath wisdom duality sacrifice],
     figures: ["Rustam", "kings", "heroes"],
     tradition_cluster: "persian"
+  },
+  "16464" => {
+    id: "celtic_irish.tain_bo_cualnge.dunn_gutenberg",
+    title: "The Ancient Irish Epic Tale Tain Bo Cualnge",
+    alternate_titles: ["Tain Bo Cualnge", "The Cualnge Cattle-Raid"],
+    text_status: "complete",
+    tradition: "celtic_irish",
+    culture: "ulster_cycle_irish_epic_later_translation",
+    region: "ireland",
+    source_language: "Irish",
+    text_language: "English",
+    date_range: "medieval Irish epic source tradition; 1914 public-domain English translation",
+    source_type: "text",
+    source_id: "source.project_gutenberg.16464",
+    edition: "Project Gutenberg plain-text eBook #16464",
+    translator: "Joseph Dunn",
+    editor: nil,
+    publication_year: 1914,
+    publisher: "Project Gutenberg",
+    source_url: "https://www.gutenberg.org/ebooks/16464",
+    raw_path: "imports/raw/project-gutenberg/16464-tain-bo-cualnge-dunn.txt",
+    converted_path: "imports/converted/project-gutenberg/16464-tain-bo-cualnge-dunn.md",
+    canonical_path: "texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md",
+    manifest_path: "manifests/project-gutenberg/16464-tain-bo-cualnge-dunn.yml",
+    extraction_dir: "extractions/celtic-irish/project-gutenberg/tain-bo-cualnge",
+    tags: %w[irish ulster_cycle tain cattle_raid cuchulain medb war],
+    motifs: %w[cattle_raid warrior_frenzy boundary_combat tragic_hero geas],
+    figures: ["Cuchulain", "Medb", "Ailill", "Fergus"],
+    tradition_cluster: "celtic_irish"
+  },
+  "46389" => {
+    id: "confucian.sayings_of_confucius.giles_gutenberg",
+    title: "The Sayings of Confucius",
+    alternate_titles: ["A New Translation of the Greater Part of the Confucian Analects"],
+    text_status: "selected",
+    tradition: "confucian",
+    culture: "classical_chinese",
+    region: "china",
+    source_language: "Classical Chinese",
+    text_language: "English",
+    date_range: "ancient source text; 1910 public-domain English selected translation",
+    source_type: "text",
+    source_id: "source.project_gutenberg.46389",
+    edition: "Project Gutenberg plain-text eBook #46389",
+    translator: "Lionel Giles",
+    editor: nil,
+    publication_year: 1910,
+    publisher: "Project Gutenberg",
+    source_url: "https://www.gutenberg.org/ebooks/46389",
+    raw_path: "imports/raw/project-gutenberg/46389-sayings-of-confucius.txt",
+    converted_path: "imports/converted/project-gutenberg/46389-sayings-of-confucius.md",
+    canonical_path: "texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md",
+    manifest_path: "manifests/project-gutenberg/46389-sayings-of-confucius.yml",
+    extraction_dir: "extractions/confucian/project-gutenberg/sayings-of-confucius",
+    tags: %w[confucian aphorisms ethics ritual governance disciples],
+    motifs: %w[wisdom ethical_command ritual_order social_harmony teacher_disciple],
+    figures: ["Confucius", "The Master", "disciples"],
+    tradition_cluster: "confucian"
+  },
+  "7440" => {
+    id: "islamic.koran.sale_gutenberg",
+    title: "The Koran (Al-Qur'an)",
+    alternate_titles: ["Qur'an", "Koran", "Alkoran of Mohammed"],
+    text_status: "complete",
+    tradition: "islamic",
+    culture: "arabic_islamic_later_translation",
+    region: "arabia_west_asia",
+    source_language: "Arabic",
+    text_language: "English",
+    date_range: "7th century source text; 1734 public-domain English translation",
+    source_type: "text",
+    source_id: "source.project_gutenberg.7440",
+    edition: "Project Gutenberg plain-text eBook #7440",
+    translator: "George Sale",
+    editor: nil,
+    publication_year: 1734,
+    publisher: "Project Gutenberg",
+    source_url: "https://www.gutenberg.org/ebooks/7440",
+    raw_path: "imports/raw/project-gutenberg/7440-koran-sale.txt",
+    converted_path: "imports/converted/project-gutenberg/7440-koran-sale.md",
+    canonical_path: "texts/public-domain/islamic/project-gutenberg/koran-sale.md",
+    manifest_path: "manifests/project-gutenberg/7440-koran-sale.yml",
+    extraction_dir: "extractions/islamic/project-gutenberg/koran-sale",
+    tags: %w[islam revelation prophecy law judgment commentary],
+    motifs: %w[revelation divine_judgment covenant mercy prophet_call eschatology],
+    figures: ["Allah", "Muhammad", "prophets"],
+    tradition_cluster: "islamic"
   }
 }.freeze
 
@@ -567,6 +654,7 @@ def clean_raw_text(raw)
 
   lines = remove_gutenberg_editor_note(lines)
   lines = remove_digitizer_note(lines)
+  lines = remove_formatting_warning(lines)
   lines = lines.reject do |line|
     line.match?(/\A\s*(Produced by|This eBook was produced by)\b/i) ||
       line.match?(/\A\s*\[Illustration\]\s*\z/i)
@@ -619,6 +707,29 @@ def remove_digitizer_note(lines)
         skipping = false if blank_count >= 2
       else
         blank_count = 0
+      end
+      next
+    end
+
+    output << line
+  end
+
+  output
+end
+
+def remove_formatting_warning(lines)
+  output = []
+  skipping = false
+
+  lines.each do |line|
+    if line.match?(/\A\s*Note:\s+This eBook still needs better formatting/i)
+      skipping = true
+      next
+    end
+
+    if skipping
+      if line.strip.empty?
+        skipping = false
       end
       next
     end
@@ -684,7 +795,7 @@ def canonical_markdown(work, body)
     },
     "transcription" => {
       "mode" => "normalized",
-      "complete" => true,
+      "complete" => work.fetch(:text_status) == "complete",
       "corrections" => [],
       "omissions" => [
         "Distributor header, license footer, start/end markers, and production boilerplate were removed.",

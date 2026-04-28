@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: project-gutenberg-wave-2
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.gutenberg_7440
+  work_id: islamic.koran.sale_gutenberg
+  title: The Koran (Al-Qur'an)
+  source_url: https://www.gutenberg.org/ebooks/7440
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/project-gutenberg/7440-koran-sale.txt
+    checksum:
+      algorithm: sha256
+      value: e91167f80f73ab9efc2a9613af16689628413bfc03b0d11dc4c153c979fd9d8b
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/7440-koran-sale.md
+    checksum:
+      algorithm: sha256
+      value: e6ab86af0bbef0805f2aefd259216a3e71b142bba442ff813302e698fcc3d71f
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+    checksum:
+      algorithm: sha256
+      value: f9763d1ba2c7297b5807b25fa43d4b34810171a2b6910128e924f54f21224d4a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/build_gutenberg_seed.rb
+    version: '1'
+    command: ruby scripts/build_gutenberg_seed.rb 7440
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Generic plain-text converter for public-domain Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: The source catalog page records public-domain status in the USA; reuse
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure, rights metadata, and removal
+      of distributor boilerplate.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.

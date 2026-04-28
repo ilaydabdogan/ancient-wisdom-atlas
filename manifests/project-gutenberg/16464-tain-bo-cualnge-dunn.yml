@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: project-gutenberg-wave-2
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.gutenberg_16464
+  work_id: celtic_irish.tain_bo_cualnge.dunn_gutenberg
+  title: The Ancient Irish Epic Tale Tain Bo Cualnge
+  source_url: https://www.gutenberg.org/ebooks/16464
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/project-gutenberg/16464-tain-bo-cualnge-dunn.txt
+    checksum:
+      algorithm: sha256
+      value: dda9e67e1600940a68e24a75f423350daf1148e1bbeba65f4a6d94bb2af999b5
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/16464-tain-bo-cualnge-dunn.md
+    checksum:
+      algorithm: sha256
+      value: bd3e320326ef5c743ac024bb322d96d7ce6e512c1490a7c5e78e54c5f0e902e4
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+    checksum:
+      algorithm: sha256
+      value: 9fc0b6463126e67e8674d142dafc70fd1b1b24a047fecdf456e23195595d3055
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/build_gutenberg_seed.rb
+    version: '1'
+    command: ruby scripts/build_gutenberg_seed.rb 16464
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Generic plain-text converter for public-domain Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: The source catalog page records public-domain status in the USA; reuse
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure, rights metadata, and removal
+      of distributor boilerplate.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.

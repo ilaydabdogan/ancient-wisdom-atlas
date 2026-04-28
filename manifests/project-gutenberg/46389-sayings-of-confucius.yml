@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: project-gutenberg-wave-2
+created_date: '2026-04-27'
+updated_date: '2026-04-27'
+artifacts:
+- id: artifact.gutenberg_46389
+  work_id: confucian.sayings_of_confucius.giles_gutenberg
+  title: The Sayings of Confucius
+  source_url: https://www.gutenberg.org/ebooks/46389
+  fetch_date: '2026-04-27'
+  raw:
+    path: imports/raw/project-gutenberg/46389-sayings-of-confucius.txt
+    checksum:
+      algorithm: sha256
+      value: 3d1dc8fcdeee378f35234a84564449c92357ec5aabe6187bb64beca7205c6cd2
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/46389-sayings-of-confucius.md
+    checksum:
+      algorithm: sha256
+      value: 794fe0704eb2217425ae7de32e587efff30de0e0d2e1d345bb0ffb79a4f6e6d9
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+    checksum:
+      algorithm: sha256
+      value: 3084c0748fabe71422b5e22c6fc64fd0223774f5dc013e6662346399c736f667
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/build_gutenberg_seed.rb
+    version: '1'
+    command: ruby scripts/build_gutenberg_seed.rb 46389
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Generic plain-text converter for public-domain Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: The source catalog page records public-domain status in the USA; reuse
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: approved
+    reviewer: Codex
+    review_date: '2026-04-27'
+    notes: Seed reviewed for clean Markdown structure, rights metadata, and removal
+      of distributor boilerplate.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for initial motif extraction.
